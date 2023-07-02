@@ -1,4 +1,4 @@
 # FogentRoleplay
 An extension to Cogent Roleplay 
 
-Hello world
+Hello world, it is nice
