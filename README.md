@@ -1,8 +1,6 @@
 # Fogent Roleplay
 An extension to Cogent Roleplay 
 
-![alt_text](images/Places/TheContinent.png "image_tooltip")
-
 ## Cogent Roleplay Open License
 
 Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
