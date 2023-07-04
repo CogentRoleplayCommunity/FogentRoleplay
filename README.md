@@ -32,11 +32,11 @@ Map Download: <!-- Map link here-->
     - [Shards](#shards)
   - [Base Mechanics](#base-mechanics)
     - [Victory Levels](#victory-levels)
-    - [Level 1 victory](#level-1-victory)
-    - [Level 2 victory](#level-2-victory)
-    - [Level 3 victory](#level-3-victory)
-    - [Level 4 Victory](#level-4-victory)
-    - [Level 5 victory and higher](#level-5-victory-and-higher)
+      - [Level 1 victory](#level-1-victory)
+      - [Level 2 victory](#level-2-victory)
+      - [Level 3 victory](#level-3-victory)
+      - [Level 4 Victory](#level-4-victory)
+      - [Level 5 victory and higher](#level-5-victory-and-higher)
     - [Challenge Levels](#challenge-levels)
     - [Battlemap Rules](#battlemap-rules)
       - [Movement](#movement)
@@ -196,31 +196,31 @@ During their dormant state, these infected individuals are referred to as carrie
 - A character is rendered Incapacitated once they’ve taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
-### Level 1 victory
+#### Level 1 victory
 
 - Minor Injury: –1d6 to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
 - Stagger: opponent is staggered. This could be sand thrown in a character face, being shoulder checked, or losing their footing. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered.
 - Close Combat: Enter/exit close combat. The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls.
 - Move: Must be in close combat with the opponent. Move an enemy in a desired direction. Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
 
-### Level 2 victory
+#### Level 2 victory
 
 - Medium injury: -2d6 to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
 - Disarm: opponent loses their weapon.
 - Shove: Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 2.5 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
 
-### Level 3 victory
+#### Level 3 victory
 
 - Serious injury: – 3d6 to all physical based dice checks and the character will die in time if the wound is untreated.
 - Trip: Opponent is rendered prone.  -4d6 for one round or until footing is regained. Opponents can not benefit from the Defensive modifier.
 
-### Level 4 Victory
+#### Level 4 Victory
 
 - Fatal injury: – 4d6 to all physical based dice checks, incapacitated, and will die very soon if untreated.
 - Dismember: remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless magic or explosive projectiles are involved.
 - Render Unconscious: Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent receives a Medium Injury.
 
-### Level 5 victory and higher
+#### Level 5 victory and higher
 
 - Death blow: An instant kill.
 
