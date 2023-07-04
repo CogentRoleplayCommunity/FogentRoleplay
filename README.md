@@ -854,17 +854,18 @@ Magic in Fogent Roleplay is built as pure mechanics for easy use for any setting
 
 In order to create your own magic system in your world/setting you will need you'll need to define some basics names for your systems. Below is a simple example of how my system Fellcraft from Fallen is declared.
 
-- Magic name = Fellcraft
-- Resource name = Ichor
-- Cantrip name = Trick
+- Magic = Fellcraft
+- Resource = Ichor
 - Magic Vocation = Fellkin
+- Magic Skills = Blazecraft, Mindcraft, Electrocraft, ect...
+- Cantrip = Trick
 - Vocation Attributes = STR, RFX, INT
 
 ### Magic Roll
 
 This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user’s Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Resource consumed.
 
-- Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (STR/RFX/INT) + Xd6 (Resource consumed capped by Magic Vocation)
+- Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level)
 
 ### Resource
 
