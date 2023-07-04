@@ -123,7 +123,7 @@ Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
 ## Special Thanks
 
-I'd like to thank Shad, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay. 
+I'd like to thank Shad, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay.
 
 ## Base Mechanics
 
