@@ -11,10 +11,11 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
       - [Minor Injury](#minor-injury)
       - [Stagger](#stagger)
       - [Close Combat](#close-combat)
+      - [Move](#move)
+      - [Shove](#shove)
     - [Level 2 victory](#level-2-victory)
       - [Medium injury](#medium-injury)
       - [Disarm](#disarm)
-      - [Shove](#shove)
     - [Level 3 victory](#level-3-victory)
       - [Serious injury](#serious-injury)
       - [Trip](#trip)
@@ -184,8 +185,15 @@ Opponent is staggered. This could be sand thrown in a character face, being shou
 
 ##### Close Combat
 
-Enter/exit close combat. The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls.
-Move: Must be in close combat with the opponent. Move an enemy in a desired direction. Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
+Enter/exit close combat. The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls. Once an opponent is grappled, on the same round you can attempt a Lift check determined by your narrator given the size and the weight of your opponent. If successful, you can Move or Shove your opponent.
+
+##### Move
+
+Must be initiated while in close combat. Move an enemy in a desired direction. Your movement speed is halved if your opponent is the same size category as you. If the opponent is one size smaller, your movement speed is unchanged. If the opponent is one size larger, you have ¼ of your movement speed. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+
+##### Shove
+
+Must be initiated while in close combat. Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 #### Level 2 victory
 
@@ -196,10 +204,6 @@ Move: Must be in close combat with the opponent. Move an enemy in a desired dire
 ##### Disarm
 
 Opponent loses their weapon.
-
-##### Shove
-
-Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 2.5 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
 
 #### Level 3 victory
 
