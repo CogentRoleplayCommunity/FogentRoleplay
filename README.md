@@ -104,30 +104,37 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Spiritual Defense](#spiritual-defense)
     - [Armor Durability and Damage](#armor-durability-and-damage)
     - [Armor Tiers](#armor-tiers)
-  - [Bolts, Arrow, and Ammunition](#bolts-arrow-and-ammunition)
-  - [Unarmed](#unarmed)
-    - [Disarming](#disarming)
-  - [Small Weapons](#small-weapons)
-    - [Small hafted axe/blade/point](#small-hafted-axebladepoint)
-  - [Small blunt](#small-blunt)
-  - [Small bladed](#small-bladed)
-  - [Medium weapons](#medium-weapons)
-    - [Medium hafted axe/blade/point](#medium-hafted-axebladepoint)
-    - [Medium hafted blunt](#medium-hafted-blunt)
-    - [Medium sword](#medium-sword)
-  - [Large weapons](#large-weapons)
-    - [Large hafted axe/blade/point](#large-hafted-axebladepoint)
-    - [Large hafted blunt](#large-hafted-blunt)
-    - [Large sword](#large-sword)
-    - [Short spear](#short-spear)
-  - [Reach Weapons](#reach-weapons)
-    - [Reach hafted axe/blade/point](#reach-hafted-axebladepoint)
-    - [Reach hafted blunt](#reach-hafted-blunt)
-    - [Greatsword](#greatsword)
-    - [Long spear](#long-spear)
-  - [Ballistics](#ballistics)
-    - [Hand ballistic](#hand-ballistic)
-    - [Shoulder stocked ballistic](#shoulder-stocked-ballistic)
+  - [Hardcore Weapon Modifiers](#hardcore-weapon-modifiers)
+    - [Hand Crossbow](#hand-crossbow)
+    - [Light Crossbow](#light-crossbow)
+    - [Heavy Crossbow](#heavy-crossbow)
+    - [Light Bow](#light-bow)
+    - [Heavy Bow](#heavy-bow)
+    - [Sling](#sling)
+    - [Bolts, Arrow, and Ammunition](#bolts-arrow-and-ammunition)
+    - [Unarmed](#unarmed)
+      - [Disarming](#disarming)
+    - [Small Weapons](#small-weapons)
+      - [Small hafted axe/blade/point](#small-hafted-axebladepoint)
+      - [Small blunt](#small-blunt)
+      - [Small bladed](#small-bladed)
+    - [Medium weapons](#medium-weapons)
+      - [Medium hafted axe/blade/point](#medium-hafted-axebladepoint)
+      - [Medium hafted blunt](#medium-hafted-blunt)
+      - [Medium sword](#medium-sword)
+    - [Large weapons](#large-weapons)
+      - [Large hafted axe/blade/point](#large-hafted-axebladepoint)
+      - [Large hafted blunt](#large-hafted-blunt)
+      - [Large sword](#large-sword)
+      - [Short spear](#short-spear)
+    - [Reach Weapons](#reach-weapons)
+      - [Reach hafted axe/blade/point](#reach-hafted-axebladepoint)
+      - [Reach hafted blunt](#reach-hafted-blunt)
+      - [Greatsword](#greatsword)
+      - [Long spear](#long-spear)
+    - [Ballistics](#ballistics)
+      - [Hand ballistic](#hand-ballistic)
+      - [Shoulder stocked ballistic](#shoulder-stocked-ballistic)
     - [Heavy Ballistic](#heavy-ballistic)
 - [Magic](#magic)
   - [Magic Roll](#magic-roll)
@@ -635,28 +642,57 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 |  +11  |    11     |   45/45 (Mythic)    |
 |  +12  |    12     |  48/48 (Artifact)   |
 
-Hardcore Weapon Modifiers
-Ranged Flexed
+### Hardcore Weapon Modifiers
+
+#### Hand Crossbow
 
 |  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
 | Hand Crossbow  |   +1d6    |      0      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
-| Light Crossbow |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |    Ranged Loading    |      None      |
-|   Light Bow    |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |     Ranged Quick     |      None      |
-|     Sling      |   +1d6    |      1      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
 
-- -1d6 in melee combat
+- -1d6 in melee combat while attempting ranged attack
 - Dual Wield Hand Crossbow: The off-handed crossbow can target a separate opponent in a round. Dice are added or subtracted based if main and off hand combat rolls are different, though If both the main hand and offhand attacks are at the same target, gain +1d6 to the combat roll.
+
+#### Light Crossbow
+
+|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+| Light Crossbow |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |    Ranged Loading    |      None      |
+
+- -1d6 in melee combat while attempting ranged attack
+
+#### Heavy Crossbow
 
 |  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
 | :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
 | Heavy Crossbow |   +2d6    |      0      |     (Long) /400 ft     | Ammo Dependant | Ranged Complex Loading |      None      |
+
+- -2d6 in melee combat while attempting ranged attack
+
+#### Light Bow
+
+|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|   Light Bow    |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |     Ranged Quick     |      None      |
+
+- -1d6 in melee combat while attempting ranged attack
+
+#### Heavy Bow
+
+|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
+| :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
 |   Heavy Bow    |   +2d6    |      0      | (Sharpshooter) /600 ft | Ammo Dependant |    Ranged Standard     |      None      |
 
-- -2d6 in melee combat
+- -2d6 in melee combat while attempting ranged attack
 - Heavy Bow Required Attribute: 1 STR
 
-### Bolts, Arrow, and Ammunition
+#### Sling
+
+|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|     Sling      |   +1d6    |      1      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
+
+#### Bolts, Arrow, and Ammunition
 
 |      Description       | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Area of Effect |
 | :--------------------: | :-------: | :---------: | :-----------------: | :-----------: | :------------: |
@@ -671,7 +707,7 @@ Ranged Flexed
 | Standard Sling Bullets |   +1d6    |      0      |        None         |   Bludgeon    |      None      |
 |     Poison Needles     |   +1d6    |      1      |        None         |    Poison     |      None      |
 
-### Unarmed
+#### Unarmed
 
 |             Description             | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :---------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
@@ -680,15 +716,15 @@ Ranged Flexed
 |         Unarmed (Disarming)         |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 | Unarmed with protection (Disarming) |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
-#### Disarming
+##### Disarming
 
 Once in close combat, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their attack roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
-### Small Weapons
+#### Small Weapons
 
 - Can be used in close combat
 
-#### Small hafted axe/blade/point
+##### Small hafted axe/blade/point
 
 (Small axe, small pick, kama)
 
@@ -698,7 +734,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | Small Hafted Blade |   +1d6    |      0      |       5/5 ft        |    Slash    |         Rapid         |      None      |
 | Small Hafted Point |   +1d6    |      0      |       5/5 ft        |   Pierce    |         Rapid         |      None      |
 
-### Small blunt
+##### Small blunt
 
 (small mace, war hammer, crowbar, club)
 
@@ -706,7 +742,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | :---------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Small Blunt |   +0d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
-### Small bladed
+##### Small bladed
 
 (Dagger, shortsword)
 
@@ -715,11 +751,11 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 |    Small Blade     |   +0d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
 | Thrown Small Blade |   +0d6    |      1      |    (Short) /60ft    | Slash, Pierce |         Rapid         |      None      |
 
-### Medium weapons
+#### Medium weapons
 
 - +1d6 if two-handed
 
-#### Medium hafted axe/blade/point
+##### Medium hafted axe/blade/point
 
 (one handed axe, war pick, war hammer's spike )
 
@@ -729,7 +765,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | Medium hafted blade (one-handed) |   +2d6    |      1      |       5/5 ft        |    Slash    |         Rapid         |      None      |
 | Medium hafted point (one-handed) |   +2d6    |      1      |       5/5 ft        |   Pierce    |         Rapid         |      None      |
 
-#### Medium hafted blunt
+##### Medium hafted blunt
 
 (One-handed mace, morning star, war hammer)
 
@@ -737,7 +773,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Medium hafted blunt (one-handed) |   +0d6    |      4      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
-#### Medium sword
+##### Medium sword
 
 (Arming-sword, sidesword, broadsword, one-handed falchion, messer, one-handed katana, scimitar, and wakizashi)
 
@@ -745,11 +781,11 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | :-----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Medium sword (one-handed) |   +1d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
 
-### Large weapons
+#### Large weapons
 
 - -2d6 if one-handed
 
-#### Large hafted axe/blade/point
+##### Large hafted axe/blade/point
 
 (two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd)
 
@@ -759,7 +795,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | Large hafted blade (two-handed) |   +3d6    |      2      |       5/5 ft        |    Slash    |         Rapid         |      None      |
 | Large hafted point (two-handed) |   +2d6    |      2      |       5/5 ft        |   Pierce    |         Rapid         |      None      |
 
-#### Large hafted blunt
+##### Large hafted blunt
 
 (two handed mace, war hammer, maul, short poleaxe hammerhead)
 
@@ -767,7 +803,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Large hafted blunt (two-handed) |   +1d6    |      5      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
-#### Large sword
+##### Large sword
 
 (Two-handed katana, two-handed falchion, two handed scimitar and kriegsmesser)
 
@@ -775,20 +811,20 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 | :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Large sword (two-handed) |   +1d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
 
-#### Short spear
+##### Short spear
 
 |         Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :-------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Short Spear (either-handed) |   +3d6    |      3      |       5/5 ft        |   Pierce    |      Rapid Spear      |      None      |
 |     Thrown Short Spear      |   +2d6    |      3      |   (Short) /60 ft    |   Pierce    |    Ranged Standard    |      None      |
 
-### Reach Weapons
+#### Reach Weapons
 
 Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn’t work as effectively due to narrow confines such as an alleyway or hallway.
 
 - -4d6 if one-handed
 
-#### Reach hafted axe/blade/point
+##### Reach hafted axe/blade/point
 
 (Poleaxe’s axe head, halberd’s axe head, naginata, glaive, bardiche)
 
@@ -798,7 +834,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | Reach hafted blade (two-handed) |   +4d6    |      3      |      10/10 ft       |    Slash    |         Rapid         |      None      |
 | Reach hafted point (two-handed) |   +3d6    |      4      |      10/10 ft       |   Pierce    |         Rapid         |      None      |
 
-#### Reach hafted blunt
+##### Reach hafted blunt
 
 (two handed mace, war hammer, maul, short poleaxe hammerhead)
 
@@ -806,7 +842,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Reach hafted blunt (two-handed) |   +2d6    |      5      |      10/10 ft       |  Bludgeon   |         Rapid         |      None      |
 
-#### Greatsword
+##### Greatsword
 
 (zweihänder)
 
@@ -814,7 +850,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Reach sword (two-handed) |   +3d6    |      4      |      10/10 ft       | Slash, Pierce |         Rapid         |      None      |
 
-#### Long spear
+##### Long spear
 
 (two handed spear, pike, lance)
 
@@ -822,9 +858,9 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Long Spear (either-handed) |   +4d6    |      4      |      10/10 ft       |   Pierce    |      Rapid Spear      |      None      |
 
-### Ballistics
+#### Ballistics
 
-#### Hand ballistic
+##### Hand ballistic
 
 (Handguns, hand SMG)
 
@@ -833,7 +869,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 |   Handgun   |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
 |     SMG     |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
 
-#### Shoulder stocked ballistic
+##### Shoulder stocked ballistic
 
 (Rifles, shoulder stocked SMGs, fully automatic rifles)
 
@@ -843,7 +879,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | Semi-automatic rifle |   +4d6    |      7      |        Long         | Ammo Dependant |         Quick         |      None      |
 |   Automatic rifle    |   +4d6    |      7      |        Long         | Ammo Dependant |         Rapid         |      None      |
 
-#### Heavy Ballistic
+##### Heavy Ballistic
 
 - Can not be used in melee combat
 
