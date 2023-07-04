@@ -344,12 +344,12 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 - Depending on the character's Ride/Pilot, they get to use a portion of the mount's movement speed instead of their own while mounted, dictated by the table below.
 
 | Ride/Pilot Level | Combat Movement Speed |
-| :----------------: | :---------------------: |
-| 0 skill          | Mount Speed -25 ft    |
-| 1 skill          | Mount Speed -15 ft    |
-| 2 skill          | Mount Speed -10 ft    |
-| 3 skill          | Mount Speed -5 ft     |
-| 4 skill          | Mount Speed -0 ft     |
+| :--------------: | :-------------------: |
+|     0 skill      |  Mount Speed -25 ft   |
+|     1 skill      |  Mount Speed -15 ft   |
+|     2 skill      |  Mount Speed -10 ft   |
+|     3 skill      |   Mount Speed -5 ft   |
+|     4 skill      |   Mount Speed -0 ft   |
 
 ### Destiny Point Rules
 
