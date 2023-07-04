@@ -245,6 +245,7 @@ When an attack is made against a character who is not returning fire or attackin
 ### Hardcore Carry Weight
 
 Carry weight represents a character's ability to haul weight while still being able to move semi-normal depending on weight class.
+
 |          Description          |                       Effect                        |
 | :---------------------------: | :-------------------------------------------------: |
 | Humaniod Max Inventory Weight | 100 lb (Base), +100 lb (per STR), +20 lb (per Lift) |
