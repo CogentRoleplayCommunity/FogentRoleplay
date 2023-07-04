@@ -265,6 +265,7 @@ An instant kill.
 
 - If a creature has a negative in the governing attribute, remove the indicated distance instead.
 - If a creature has a negative in the governing skill, remove the indicated distance instead.
+- If movement will always be multiplication of 5 ft. Round down to the nearest multiple of 5 ft. For instance, if I have 16 ft of movement due to being at 80% of my speed due to medium weight, I would only move 15 ft total.
 
 #### Size
 
