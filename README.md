@@ -357,7 +357,6 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 If two players are competing against one another in a dice roll, then destiny points can only be used preemptively. This is to ensure players don't waste all their destiny points fighting each other.
 
-
 ### Evasion Roll
 
 When an attack is made against a character who is not returning fire or attacking back, the defender can make an Evasion Roll vs the attacker's Combat Roll. Any levels over the defender's Evasion wins count as victories for the attacker. The Evasion Roll counts for the entire round. A Combat Roll and Evasion Roll can both be made in a round. If the character takes the Defensive combat modifier, then it is also applied.
@@ -400,7 +399,7 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 #### Flank (+2d6)
 
-Bonus received when attacking an opponent actively engaged in something else, IE exhausting an opponent 's Engagable Opponents within a single round, picking a lock, dashing away, etc.
+Bonus received when attacking an opponent actively engaged in something else, IE exhausting an opponent 's Engageable Opponents within a single round, picking a lock, dashing away, etc.
 
 #### Staggered (-2d6)
 
@@ -584,7 +583,7 @@ Depending on the damage type, different types of defense can be used to resist i
 
 #### Physical Defense
 
-A measure of a character's resistance to all physical injuries. A character can wear two pieces of armor in the same category, such as wearing a gambeson under chainmail or a breastplate, which was most certainly done in history.
+A measure of a character's resistance to all physical injuries. A character can wear two pieces of armor in the same category, such as wearing a gambeson under chain mail or a breastplate, which was most certainly done in history.
 In these circumstances the most efficient ways of defeating a person in armor is grappling them or tripping them and holding them down, just like in real life.
 
 - Physical Defense level = sum of all armor’s defense levels rounded down
@@ -611,7 +610,7 @@ Spiritual defense is a measure of a character's bulwark against all spiritual in
 
 If an injury is fully negated by armor, then the defender can decide which pieces of armor take armor damage. The armor/armors must sum up to the defense level required to prevent the incoming injury and all take the same amount of armor damage.
 
-- Armor damage = (level of injury delt) + (attack's armor penetration)
+- Armor damage = (level of injury) + (attack's armor penetration)
 If an injury is not fully negated by the defender's armor, then all pieces of armor take armor damage.
 
 #### Armor Tiers
@@ -639,17 +638,17 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 Hardcore Weapon Modifiers
 Ranged Flexed
 
-|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
-| :------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
-| Hand Crossbow  |   +1d6    |      0      |  (Medium) /120 ft   | Ammo Dependant |    Ranged Standard    |      None      |
-| Light Crossbow |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |    Ranged Loading     |      None      |
-|   Light Bow    |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |     Ranged Quick      |      None      |
-|     Sling      |   +1d6    |      1      |  (Medium) /120 ft   | Ammo Dependant |    Ranged Standard    |      None      |
+|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+| Hand Crossbow  |   +1d6    |      0      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
+| Light Crossbow |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |    Ranged Loading    |      None      |
+|   Light Bow    |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |     Ranged Quick     |      None      |
+|     Sling      |   +1d6    |      1      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
 
 - -1d6 in melee combat
 - Dual Wield Hand Crossbow: The off-handed crossbow can target a separate opponent in a round. Dice are added or subtracted based if main and off hand combat rolls are different, though If both the main hand and offhand attacks are at the same target, gain +1d6 to the combat roll.
 
-|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   | Engageable Oppponents  | Area of Effect |
+|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
 | :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
 | Heavy Crossbow |   +2d6    |      0      |     (Long) /400 ft     | Ammo Dependant | Ranged Complex Loading |      None      |
 |   Heavy Bow    |   +2d6    |      0      | (Sharpshooter) /600 ft | Ammo Dependant |    Ranged Standard     |      None      |
@@ -674,12 +673,12 @@ Ranged Flexed
 
 ### Unarmed
 
-|            Description             | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
-| :--------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-|              Unarmed               |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
-|    Unarmed with hand protection    |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
-|        Unarmed (Disarming)         |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
-| Unarmedwith protection (Disarming) |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+|             Description             | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
+| :---------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
+|               Unarmed               |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+|    Unarmed with hand protection     |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+|         Unarmed (Disarming)         |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+| Unarmed with protection (Disarming) |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
 #### Disarming
 
@@ -693,7 +692,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (Small axe, small pick, kama)
 
-|    Description     | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|    Description     | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :----------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 |  Small Hafted Axe  |   +1d6    |      0      |       5/5 ft        |     Hew     |         Rapid         |      None      |
 | Small Hafted Blade |   +1d6    |      0      |       5/5 ft        |    Slash    |         Rapid         |      None      |
@@ -701,9 +700,9 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 ### Small blunt
 
-(small mace, warhammer, crowbar, club)
+(small mace, war hammer, crowbar, club)
 
-| Description | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+| Description | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :---------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Small Blunt |   +0d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
@@ -711,7 +710,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (Dagger, shortsword)
 
-|    Description     | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Oppponents | Area of Effect |
+|    Description     | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
 | :----------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 |    Small Blade     |   +0d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
 | Thrown Small Blade |   +0d6    |      1      |    (Short) /60ft    | Slash, Pierce |         Rapid         |      None      |
@@ -722,9 +721,9 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 #### Medium hafted axe/blade/point
 
-(one handed axe, war pick, warhammer's spike )
+(one handed axe, war pick, war hammer's spike )
 
-|           Description            | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|           Description            | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 |  Medium hafted axe (one-handed)  |   +2d6    |      1      |       5/5 ft        |     Hew     |         Rapid         |      None      |
 | Medium hafted blade (one-handed) |   +2d6    |      1      |       5/5 ft        |    Slash    |         Rapid         |      None      |
@@ -732,9 +731,9 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 #### Medium hafted blunt
 
-(One-handed mace, morning star, warhammer)
+(One-handed mace, morning star, war hammer)
 
-|           Description            | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|           Description            | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Medium hafted blunt (one-handed) |   +0d6    |      4      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
@@ -742,7 +741,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (Arming-sword, sidesword, broadsword, one-handed falchion, messer, one-handed katana, scimitar, and wakizashi)
 
-|        Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Oppponents | Area of Effect |
+|        Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
 | :-----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Medium sword (one-handed) |   +1d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
 
@@ -754,7 +753,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd)
 
-|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 |  Large hafted axe (two-handed)  |   +3d6    |      2      |       5/5 ft        |     Hew     |         Rapid         |      None      |
 | Large hafted blade (two-handed) |   +3d6    |      2      |       5/5 ft        |    Slash    |         Rapid         |      None      |
@@ -762,9 +761,9 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 #### Large hafted blunt
 
-(two handed mace, warhammer, maul, short poleaxe hammerhead)
+(two handed mace, war hammer, maul, short poleaxe hammerhead)
 
-|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Large hafted blunt (two-handed) |   +1d6    |      5      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
 
@@ -772,13 +771,13 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (Two-handed katana, two-handed falchion, two handed scimitar and kriegsmesser)
 
-|       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Oppponents | Area of Effect |
+|       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
 | :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Large sword (two-handed) |   +1d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
 
 #### Short spear
 
-|         Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|         Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :-------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Short Spear (either-handed) |   +3d6    |      3      |       5/5 ft        |   Pierce    |      Rapid Spear      |      None      |
 |     Thrown Short Spear      |   +2d6    |      3      |   (Short) /60 ft    |   Pierce    |    Ranged Standard    |      None      |
@@ -793,7 +792,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 (Poleaxe’s axe head, halberd’s axe head, naginata, glaive, bardiche)
 
-|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 |  Reach hafted axe (two-handed)  |   +4d6    |      3      |      10/10 ft       |     Hew     |         Rapid         |      None      |
 | Reach hafted blade (two-handed) |   +4d6    |      3      |      10/10 ft       |    Slash    |         Rapid         |      None      |
@@ -801,17 +800,17 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 #### Reach hafted blunt
 
-(two handed mace, warhammer, maul, short poleaxe hammerhead)
+(two handed mace, war hammer, maul, short poleaxe hammerhead)
 
-|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Reach hafted blunt (two-handed) |   +2d6    |      5      |      10/10 ft       |  Bludgeon   |         Rapid         |      None      |
 
 #### Greatsword
 
-(zweihander)
+(zweihänder)
 
-|       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Oppponents | Area of Effect |
+|       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
 | :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Reach sword (two-handed) |   +3d6    |      4      |      10/10 ft       | Slash, Pierce |         Rapid         |      None      |
 
@@ -819,7 +818,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 (two handed spear, pike, lance)
 
-|        Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
+|        Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
 | :------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Long Spear (either-handed) |   +4d6    |      4      |      10/10 ft       |   Pierce    |      Rapid Spear      |      None      |
 
@@ -829,7 +828,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 (Handguns, hand SMG)
 
-| Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
+| Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :---------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
 |   Handgun   |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
 |     SMG     |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
@@ -838,7 +837,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 (Rifles, shoulder stocked SMGs, fully automatic rifles)
 
-|     Description      | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
+|     Description      | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
 |  Bolt action rifle   |   +4d6    |      8      |        Long         | Ammo Dependant |       Standard        |      None      |
 | Semi-automatic rifle |   +4d6    |      7      |        Long         | Ammo Dependant |         Quick         |      None      |
@@ -846,11 +845,11 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 #### Heavy Ballistic
 
-- Can notbe used in melee combat
+- Can not be used in melee combat
 
-(Bazookas, heavy machine guns, miniguns)
+(Bazookas, heavy machine gun, minigun)
 
-|   Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
+|   Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :-------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
 |   Machine Gun   |   +6d6    |      6      |        Long         | Ammo Dependant |         Rapid         |      None      |
 | Rocket Launcher |   +6d6    |      6      |        Long         | Ammo Dependant |         Rapid         |     10 ft      |
@@ -896,7 +895,7 @@ Depending on your magic system, Magic users can absorb and feed on an ample sour
 
 #### Finding Resource
 
-Depending on your magic system, character might be able to regain magic resource via collecting 
+Depending on your magic system, character might be able to regain magic resource via collecting
 
 #### Magic Cantrips
 
