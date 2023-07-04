@@ -630,11 +630,11 @@ On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a
 
 A weapon's Durability decreases by 1 whenever a weapon is used to attempt to inflict an injury level.
 
-#### Conduit Durability
+##### Conduit Durability
 
 A conduit's durability decreases by 1 whenever it is used to cast magic with a reasource ( non-cantrip casting )
 
-#### Armor Durability
+##### Armor Durability
 
 If an injury is fully negated by armor, then the defender can decide which pieces of armor take armor damage. The armor/armors must sum up to the defense level required to prevent the incoming injury and all take the same amount of armor damage.
 
