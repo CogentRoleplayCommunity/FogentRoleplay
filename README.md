@@ -672,9 +672,9 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 #### Heavy Ranged Flexed
 
-##### Heavy Crossbow
-
 - -2d6 in melee combat while attempting ranged attack
+
+##### Heavy Crossbow
 
 |  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
 | :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
