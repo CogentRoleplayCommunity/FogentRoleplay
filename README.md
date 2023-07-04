@@ -359,7 +359,7 @@ Carry weight represents a character's ability to haul weight while still being a
 |  Light Weight (0% - 24.99%)   |                     100% speed                      |
 | Medium Weight (25% - 49.99%)  |     -1d6 to STR/RFX governed skills, 80% speed      |
 |  Heavy Weight (50% - 99.99)   |     -2d6 to STR/RFX governed skills, 50% speed      |
-|  Overencumberd (above 100%)   |      -4d6 to STR/RFX governed skills, 0% speed      |
+| Over-encumbered (above 100%)  |      -4d6 to STR/RFX governed skills, 0% speed      |
 
 ### Combat Modifiers
 
