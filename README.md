@@ -1,5 +1,6 @@
 # Fogent Roleplay
-An extension to Cogent Roleplay 
+
+Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Roleplay is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS for Cogent Roleplay. The rules contained within Fogent Roleplay were originally created as part of Fallen, my world setting for Cogent Roleplay. Hence, Fallen + Cogent = Fogent!
 
 ## Cogent Roleplay Open License
 
@@ -24,7 +25,6 @@ Map Download: <!-- Map link here-->
 - [Fogent Roleplay](#fogent-roleplay)
   - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
   - [Table of Contents](#table-of-contents)
-  - [Preface](#preface)
   - [Special Thanks](#special-thanks)
     - [The Spore](#the-spore)
     - [Shards](#shards)
@@ -128,10 +128,6 @@ Map Download: <!-- Map link here-->
       - [Cone](#cone)
     - [Focused](#focused)
     - [AOE](#aoe)
-
-## Preface
-
-Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Roleplay is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS for Cogent Roleplay. The rules contained within Fogent Roleplay were originally created as part of Fallen, my world setting for Cogent Roleplay. Hence, Fallen + Cogent = Fogent!
 
 ## Special Thanks
 
