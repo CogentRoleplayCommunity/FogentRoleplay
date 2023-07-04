@@ -652,9 +652,9 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 ##### Hand Crossbow
 
-|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
-| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
-| Hand Crossbow  |   +1d6    |      0      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
+|  Description  | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :-----------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+| Hand Crossbow |   +1d6    |      0      |       Medium        | Ammo Dependant |   Ranged Standard    |      None      |
 
 - Dual Wield Hand Crossbow: The off-handed crossbow can target a separate opponent in a round. Dice are added or subtracted based if main and off hand combat rolls are different, though If both the main hand and offhand attacks are at the same target, gain +1d6 to the combat roll.
 
@@ -662,13 +662,13 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 |  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
-| Light Crossbow |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |    Ranged Loading    |      None      |
+| Light Crossbow |   +1d6    |      0      |      Extended       | Ammo Dependant |    Ranged Loading    |      None      |
 
 ##### Light Bow
 
-|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
-| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
-|   Light Bow    |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |     Ranged Quick     |      None      |
+| Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :---------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|  Light Bow  |   +1d6    |      0      |      Extended       | Ammo Dependant |     Ranged Quick     |      None      |
 
 #### Heavy Ranged Flexed
 
@@ -676,23 +676,23 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 ##### Heavy Crossbow
 
-|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
-| :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
-| Heavy Crossbow |   +2d6    |      0      |     (Long) /400 ft     | Ammo Dependant | Ranged Complex Loading |      None      |
+|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   |  Engageable Opponents  | Area of Effect |
+| :------------: | :-------: | :---------: | :-----------------: | :------------: | :--------------------: | :------------: |
+| Heavy Crossbow |   +2d6    |      0      |        Long         | Ammo Dependant | Ranged Complex Loading |      None      |
 
 ##### Heavy Bow
 
-|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
-| :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
-|   Heavy Bow    |   +2d6    |      0      | (Sharpshooter) /600 ft | Ammo Dependant |    Ranged Standard     |      None      |
+| Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :---------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|  Heavy Bow  |   +2d6    |      0      |    Sharpshooter     | Ammo Dependant |   Ranged Standard    |      None      |
 
 - Heavy Bow Required Attribute: 1 STR
 
 ##### Sling
 
-|  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
-| :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
-|     Sling      |   +1d6    |      1      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
+| Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
+| :---------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|    Sling    |   +1d6    |      1      |       Medium        | Ammo Dependant |   Ranged Standard    |      None      |
 
 #### Bolts, Arrow, and Ammunition
 
@@ -712,11 +712,11 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 #### Unarmed
 
 |             Description             | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :---------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-|               Unarmed               |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
-|    Unarmed with hand protection     |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
-|         Unarmed (Disarming)         |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
-| Unarmed with protection (Disarming) |   -1d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+| :---------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+|               Unarmed               |   -1d6    |      0      |        Melee        |  Bludgeon   |        Rapid         |      None      |
+|    Unarmed with hand protection     |   -1d6    |      0      |        Melee        |  Bludgeon   |        Rapid         |      None      |
+|         Unarmed (Disarming)         |   -1d6    |      0      |        Melee        |  Bludgeon   |        Rapid         |      None      |
+| Unarmed with protection (Disarming) |   -1d6    |      0      |        Melee        |  Bludgeon   |        Rapid         |      None      |
 
 ##### Disarming
 
@@ -731,27 +731,27 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 (Small axe, small pick, kama)
 
 |    Description     | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :----------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-|  Small Hafted Axe  |   +1d6    |      0      |       5/5 ft        |     Hew     |         Rapid         |      None      |
-| Small Hafted Blade |   +1d6    |      0      |       5/5 ft        |    Slash    |         Rapid         |      None      |
-| Small Hafted Point |   +1d6    |      0      |       5/5 ft        |   Pierce    |         Rapid         |      None      |
+| :----------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+|  Small Hafted Axe  |   +1d6    |      0      |        Melee        |     Hew     |        Rapid         |      None      |
+| Small Hafted Blade |   +1d6    |      0      |        Melee        |    Slash    |        Rapid         |      None      |
+| Small Hafted Point |   +1d6    |      0      |        Melee        |   Pierce    |        Rapid         |      None      |
 
 ##### Small blunt
 
 (small mace, war hammer, crowbar, club)
 
 | Description | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :---------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-| Small Blunt |   +0d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+| :---------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+| Small Blunt |   +0d6    |      0      |        Melee        |  Bludgeon   |        Rapid         |      None      |
 
 ##### Small bladed
 
 (Dagger, shortsword)
 
 |    Description     | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
-| :----------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
-|    Small Blade     |   +0d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
-| Thrown Small Blade |   +0d6    |      1      |    (Short) /60ft    | Slash, Pierce |         Rapid         |      None      |
+| :----------------: | :-------: | :---------: | :-----------------: | :-----------: | :------------------: | :------------: |
+|    Small Blade     |   +0d6    |      2      |        Melee        | Slash, Pierce |        Rapid         |      None      |
+| Thrown Small Blade |   +0d6    |      1      |    (Short) /60ft    | Slash, Pierce |        Rapid         |      None      |
 
 #### Medium weapons
 
@@ -762,26 +762,26 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 (one handed axe, war pick, war hammer's spike )
 
 |           Description            | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-|  Medium hafted axe (one-handed)  |   +2d6    |      1      |       5/5 ft        |     Hew     |         Rapid         |      None      |
-| Medium hafted blade (one-handed) |   +2d6    |      1      |       5/5 ft        |    Slash    |         Rapid         |      None      |
-| Medium hafted point (one-handed) |   +2d6    |      1      |       5/5 ft        |   Pierce    |         Rapid         |      None      |
+| :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+|  Medium hafted axe (one-handed)  |   +2d6    |      1      |        Melee        |     Hew     |        Rapid         |      None      |
+| Medium hafted blade (one-handed) |   +2d6    |      1      |        Melee        |    Slash    |        Rapid         |      None      |
+| Medium hafted point (one-handed) |   +2d6    |      1      |        Melee        |   Pierce    |        Rapid         |      None      |
 
 ##### Medium hafted blunt
 
 (One-handed mace, morning star, war hammer)
 
 |           Description            | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-| Medium hafted blunt (one-handed) |   +0d6    |      4      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+| :------------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+| Medium hafted blunt (one-handed) |   +0d6    |      4      |        Melee        |  Bludgeon   |        Rapid         |      None      |
 
 ##### Medium sword
 
 (Arming-sword, sidesword, broadsword, one-handed falchion, messer, one-handed katana, scimitar, and wakizashi)
 
 |        Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
-| :-----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
-| Medium sword (one-handed) |   +1d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
+| :-----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :------------------: | :------------: |
+| Medium sword (one-handed) |   +1d6    |      2      |        Melee        | Slash, Pierce |        Rapid         |      None      |
 
 #### Large weapons
 
@@ -792,33 +792,33 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 (two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd)
 
 |           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-|  Large hafted axe (two-handed)  |   +3d6    |      2      |       5/5 ft        |     Hew     |         Rapid         |      None      |
-| Large hafted blade (two-handed) |   +3d6    |      2      |       5/5 ft        |    Slash    |         Rapid         |      None      |
-| Large hafted point (two-handed) |   +2d6    |      2      |       5/5 ft        |   Pierce    |         Rapid         |      None      |
+| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+|  Large hafted axe (two-handed)  |   +3d6    |      2      |        Melee        |     Hew     |        Rapid         |      None      |
+| Large hafted blade (two-handed) |   +3d6    |      2      |        Melee        |    Slash    |        Rapid         |      None      |
+| Large hafted point (two-handed) |   +2d6    |      2      |        Melee        |   Pierce    |        Rapid         |      None      |
 
 ##### Large hafted blunt
 
 (two handed mace, war hammer, maul, short poleaxe hammerhead)
 
 |           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-| Large hafted blunt (two-handed) |   +1d6    |      5      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
+| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+| Large hafted blunt (two-handed) |   +1d6    |      5      |        Melee        |  Bludgeon   |        Rapid         |      None      |
 
 ##### Large sword
 
 (Two-handed katana, two-handed falchion, two handed scimitar and kriegsmesser)
 
 |       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
-| :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
-| Large sword (two-handed) |   +1d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
+| :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :------------------: | :------------: |
+| Large sword (two-handed) |   +1d6    |      2      |        Melee        | Slash, Pierce |        Rapid         |      None      |
 
 ##### Short spear
 
 |         Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :-------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-| Short Spear (either-handed) |   +3d6    |      3      |       5/5 ft        |   Pierce    |      Rapid Spear      |      None      |
-|     Thrown Short Spear      |   +2d6    |      3      |   (Short) /60 ft    |   Pierce    |    Ranged Standard    |      None      |
+| :-------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+| Short Spear (either-handed) |   +3d6    |      3      |        Melee        |   Pierce    |     Rapid Spear      |      None      |
+|     Thrown Short Spear      |   +2d6    |      3      |        Short        |   Pierce    |   Ranged Standard    |      None      |
 
 #### Reach Weapons
 
@@ -831,34 +831,34 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 (Poleaxe’s axe head, halberd’s axe head, naginata, glaive, bardiche)
 
 |           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-|  Reach hafted axe (two-handed)  |   +4d6    |      3      |      10/10 ft       |     Hew     |         Rapid         |      None      |
-| Reach hafted blade (two-handed) |   +4d6    |      3      |      10/10 ft       |    Slash    |         Rapid         |      None      |
-| Reach hafted point (two-handed) |   +3d6    |      4      |      10/10 ft       |   Pierce    |         Rapid         |      None      |
+| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+|  Reach hafted axe (two-handed)  |   +4d6    |      3      |        Reach        |     Hew     |        Rapid         |      None      |
+| Reach hafted blade (two-handed) |   +4d6    |      3      |        Reach        |    Slash    |        Rapid         |      None      |
+| Reach hafted point (two-handed) |   +3d6    |      4      |        Reach        |   Pierce    |        Rapid         |      None      |
 
 ##### Reach hafted blunt
 
 (two handed mace, war hammer, maul, short poleaxe hammerhead)
 
 |           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-| Reach hafted blunt (two-handed) |   +2d6    |      5      |      10/10 ft       |  Bludgeon   |         Rapid         |      None      |
+| :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+| Reach hafted blunt (two-handed) |   +2d6    |      5      |        Reach        |  Bludgeon   |        Rapid         |      None      |
 
 ##### Greatsword
 
 (zweihänder)
 
 |       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Opponents | Area of Effect |
-| :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
-| Reach sword (two-handed) |   +3d6    |      4      |      10/10 ft       | Slash, Pierce |         Rapid         |      None      |
+| :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :------------------: | :------------: |
+| Reach sword (two-handed) |   +3d6    |      4      |        Reach        | Slash, Pierce |        Rapid         |      None      |
 
 ##### Long spear
 
 (two handed spear, pike, lance)
 
 |        Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Opponents | Area of Effect |
-| :------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
-| Long Spear (either-handed) |   +4d6    |      4      |      10/10 ft       |   Pierce    |      Rapid Spear      |      None      |
+| :------------------------: | :-------: | :---------: | :-----------------: | :---------: | :------------------: | :------------: |
+| Long Spear (two-handed) |   +4d6    |      4      |        Reach        |   Pierce    |     Rapid Spear      |      None      |
 
 #### Ballistics
 
@@ -867,19 +867,19 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 (Handguns, hand SMG)
 
 | Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
-| :---------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
-|   Handgun   |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
-|     SMG     |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
+| :---------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|   Handgun   |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard       |      None      |
+|     SMG     |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard       |      None      |
 
 ##### Shoulder stocked ballistic
 
 (Rifles, shoulder stocked SMGs, fully automatic rifles)
 
 |     Description      | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
-| :------------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
-|  Bolt action rifle   |   +4d6    |      8      |        Long         | Ammo Dependant |       Standard        |      None      |
-| Semi-automatic rifle |   +4d6    |      7      |        Long         | Ammo Dependant |         Quick         |      None      |
-|   Automatic rifle    |   +4d6    |      7      |        Long         | Ammo Dependant |         Rapid         |      None      |
+| :------------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|  Bolt action rifle   |   +4d6    |      8      |        Long         | Ammo Dependant |       Standard       |      None      |
+| Semi-automatic rifle |   +4d6    |      7      |        Long         | Ammo Dependant |        Quick         |      None      |
+|   Automatic rifle    |   +4d6    |      7      |        Long         | Ammo Dependant |        Rapid         |      None      |
 
 ##### Heavy Ballistic
 
@@ -888,9 +888,9 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 (Bazookas, heavy machine gun, minigun)
 
 |   Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
-| :-------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
-|   Machine Gun   |   +6d6    |      6      |        Long         | Ammo Dependant |         Rapid         |      None      |
-| Rocket Launcher |   +6d6    |      6      |        Long         | Ammo Dependant |         Rapid         |     10 ft      |
+| :-------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
+|   Machine Gun   |   +6d6    |      6      |        Long         | Ammo Dependant |        Rapid         |      None      |
+| Rocket Launcher |   +6d6    |      6      |        Long         | Ammo Dependant |        Rapid         |     10 ft      |
 
 Sniper range can only be attempted if the weapon has a scope. These CL’s are doubled if one of the following conditions are not met
 You don’t have at least one proficiency in sniper.
