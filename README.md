@@ -103,6 +103,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
       - [Weapon Durability](#weapon-durability)
     - [Conduit Durability](#conduit-durability)
     - [Armor Durability](#armor-durability)
+  - [Effective and Max Range](#effective-and-max-range)
   - [Defense](#defense)
     - [Physical Defense](#physical-defense)
     - [Bodily Defense](#bodily-defense)
@@ -641,6 +642,22 @@ An armors durability decreases by level of injury inflicted plus the attacks def
 - Armor damage = (level of injury inflicted) + (attack's armor penetration)
 
 If an injury is not fully negated by the defender's armor, then all pieces of armor take armor damage.
+
+### Effective and Max Range
+
+Effective Range is the range up to which you are accurate. Max Range is the maximum range an attack reach, though not without consequences. If max range is exceeded with a ranged attack, apply the **Effective Range Exceeded** combat modifier.
+
+|  Range Type  |        Effective Range        | Max Range |
+| :----------: | :---------------------------: | :-------: |
+|    Melee     |             5 ft              |   5 ft    |
+|    Reach     |             10 ft             |   10 ft   |
+|    Close     | +5 ft per 2 dice rounded down |   30 ft   |
+|    Short     | +5 feet per 2 dice rounded up |   60 ft   |
+|    Medium    |       +5 feet per dice        |  120 ft   |
+|   Extended   |       +10 feet per dice       |   320ft   |
+|     Long     |       +15 feet per dice       |  400 ft   |
+| Sharpshooter |       +20 feet per dice       |  600 ft   |
+|   Extreme    |       +25 feet per dice       |  700 ft   |
 
 ### Defense
 
