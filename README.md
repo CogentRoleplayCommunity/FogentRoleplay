@@ -53,7 +53,12 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
   - [Mounts in combat](#mounts-in-combat)
   - [Damage Types](#damage-types)
     - [Physical Damage Types](#physical-damage-types)
+      - [Kinetic](#kinetic)
+      - [Elemental](#elemental)
+      - [Other](#other)
     - [Non-Physical Damage Types](#non-physical-damage-types)
+      - [Mental](#mental)
+      - [Spiritual](#spiritual)
   - [Weaknesses and Resistances](#weaknesses-and-resistances)
     - [Weaknesses](#weaknesses)
     - [Resistances](#resistances)
@@ -116,7 +121,7 @@ Long live open source fun. :)
 
 Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
-![](images/CogentRoleplayAttribution.png)
+![CogentRoleplayAttribution](images/CogentRoleplayAttribution.png)
 
 ## Special Thanks
 
@@ -375,7 +380,7 @@ For living characters, it completely heals all injuries, returning the body to p
 
 #### Physical Damage Types
 
-**Kinetic**
+##### Kinetic
 
 **Hew:** Damage caused by the pressing of a bladed edge to produce the force necessary to shear.
 
@@ -387,7 +392,7 @@ Bludgeon: Damage caused by blunt force.
 
 Shockwave: Damage caused by shock waves and sound.
 
-**Elemental**
+##### Elemental
 
 Fire: Damage caused by intense heat or combustion.
 
@@ -399,7 +404,7 @@ Cold: Damage caused by extreme low temperatures.
 
 Radiant:Damage caused specifically by Miracles or sunlight.
 
-**Other**
+##### Other
 
 Silver: Damage caused by a Silvered weapon. Cause Silverburn to monsters and Fellkin. Silver wounds can't be healed via Hemacraft or Polycraft.
 
@@ -411,11 +416,11 @@ Bleed: Damage caused by the loss of blood. A character loses equivalent ichor to
 
 #### Non-Physical Damage Types
 
-**Mental**
+##### Mental
 
 Psychic: Damage caused by mental trauma.
 
-**Spiritual**
+##### Spiritual
 
 Spiritual: Damage caused by an astral plane source.
 
@@ -559,6 +564,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 #### Small hafted axe/blade/point
 
 (Small axe, small pick, kama)
+
 |    Description     | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
 | :----------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 |  Small Hafted Axe  |   +1d6    |      0      |       5/5 ft        |     Hew     |         Rapid         |      None      |
@@ -568,6 +574,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 ### Small blunt
 
 (small mace, warhammer, crowbar, club)
+
 | Description | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
 | :---------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Small Blunt |   +0d6    |      0      |       5/5 ft        |  Bludgeon   |         Rapid         |      None      |
@@ -575,6 +582,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 ### Small bladed
 
 (Dagger, shortsword)
+
 |    Description     | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Oppponents | Area of Effect |
 | :----------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 |    Small Blade     |   +0d6    |      2      |       5/5 ft        | Slash, Pierce |         Rapid         |      None      |
@@ -666,6 +674,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 #### Reach hafted blunt
 
 (two handed mace, warhammer, maul, short poleaxe hammerhead)
+
 |           Description           | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
 | :-----------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Reach hafted blunt (two-handed) |   +2d6    |      5      |      10/10 ft       |  Bludgeon   |         Rapid         |      None      |
@@ -673,6 +682,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 #### Greatsword
 
 (zweihander)
+
 |       Description        | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Engageable Oppponents | Area of Effect |
 | :----------------------: | :-------: | :---------: | :-----------------: | :-----------: | :-------------------: | :------------: |
 | Reach sword (two-handed) |   +3d6    |      4      |      10/10 ft       | Slash, Pierce |         Rapid         |      None      |
@@ -680,6 +690,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 #### Long spear
 
 (two handed spear, pike, lance)
+
 |        Description         | Item Dice | Penetration | Effective/Max Range | Damage Type | Engageable Oppponents | Area of Effect |
 | :------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Long Spear (either-handed) |   +4d6    |      4      |      10/10 ft       |   Pierce    |      Rapid Spear      |      None      |
@@ -689,6 +700,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 #### Hand ballistic
 
 (Handguns, hand SMG)
+
 | Description | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
 | :---------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
 |   Handgun   |   +2d6    |      6      |       Medium        | Ammo Dependant |       Standard        |      None      |
@@ -697,6 +709,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 #### Shoulder stocked ballistic
 
 (Rifles, shoulder stocked SMGs, fully automatic rifles)
+
 |     Description      | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
 | :------------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
 |  Bolt action rifle   |   +4d6    |      8      |        Long         | Ammo Dependant |       Standard        |      None      |
@@ -708,6 +721,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 - Can notbe used in melee combat
 
 (Bazookas, heavy machine guns, miniguns)
+
 |   Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Oppponents | Area of Effect |
 | :-------------: | :-------: | :---------: | :-----------------: | :------------: | :-------------------: | :------------: |
 |   Machine Gun   |   +6d6    |      6      |        Long         | Ammo Dependant |         Rapid         |      None      |
