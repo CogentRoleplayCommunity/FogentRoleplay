@@ -12,6 +12,8 @@ Any use of game mechanics and game systems from this document requires attributi
 
 All intellectual property (characters, brands, stories, desings, etc) contained within this document is entirely owned by the creator of this document and is not subject to the Cogent Open Source license. However, the creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite.
 
+![](images/CogentRoleplayAttribution.png)
+
 Long live open source fun. :)
 
 Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
