@@ -850,12 +850,15 @@ You are not kneeling or lying down.
 
 ## Magic
 
-All of Fallen’s 3 magic systems (Fellcraft, Miracles, and Runecraft) are built of the same rule in combat. Instead of listing this out 3 times, it has been consolidated here in one place. Keep in mind the following while reading the pre-made Fallen magic systems listed further below.
+Magic in Fogent Roleplay is built as pure mechanics for easy use for any setting. For quick reference of what a already made Fogent Roleplay Magic system looks like, check on of Fallen's Fellcraft or Miracles.
 
-- Magic = Fellcraft/Miracles/Runecraft
-- Resource = Ichor/Light/Energy
-- Cantrip = Trick/Wonder/Sign
-- Magic Vocation = Fellkin/Brightkin/Runesmith
+In order to create your own magic system in your world/setting you will need you'll need to define some basics names for your systems. Below is a simple example of how my system Fellcraft from Fallen is declared.
+
+- Magic name = Fellcraft
+- Resource name = Ichor
+- Cantrip name = Trick
+- Magic Vocation = Fellkin
+- Vocation Attributes = STR, RFX, INT
 
 ### Magic Roll
 
