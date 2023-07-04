@@ -105,12 +105,14 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Armor Durability and Damage](#armor-durability-and-damage)
     - [Armor Tiers](#armor-tiers)
   - [Hardcore Weapon Modifiers](#hardcore-weapon-modifiers)
-    - [Hand Crossbow](#hand-crossbow)
-    - [Light Crossbow](#light-crossbow)
-    - [Heavy Crossbow](#heavy-crossbow)
-    - [Light Bow](#light-bow)
-    - [Heavy Bow](#heavy-bow)
-    - [Sling](#sling)
+    - [Light Ranged Flexed](#light-ranged-flexed)
+      - [Hand Crossbow](#hand-crossbow)
+      - [Light Crossbow](#light-crossbow)
+      - [Light Bow](#light-bow)
+    - [Heavy Ranged Flexed](#heavy-ranged-flexed)
+      - [Heavy Crossbow](#heavy-crossbow)
+      - [Heavy Bow](#heavy-bow)
+      - [Sling](#sling)
     - [Bolts, Arrow, and Ammunition](#bolts-arrow-and-ammunition)
     - [Unarmed](#unarmed)
       - [Disarming](#disarming)
@@ -135,7 +137,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Ballistics](#ballistics)
       - [Hand ballistic](#hand-ballistic)
       - [Shoulder stocked ballistic](#shoulder-stocked-ballistic)
-    - [Heavy Ballistic](#heavy-ballistic)
+      - [Heavy Ballistic](#heavy-ballistic)
 - [Magic](#magic)
   - [Magic Roll](#magic-roll)
   - [Resource](#resource)
@@ -644,49 +646,49 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 ### Hardcore Weapon Modifiers
 
-#### Hand Crossbow
+#### Light Ranged Flexed
+
+- -1d6 in melee combat while attempting ranged attack
+
+##### Hand Crossbow
 
 |  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
 | Hand Crossbow  |   +1d6    |      0      |  (Medium) /120 ft   | Ammo Dependant |   Ranged Standard    |      None      |
 
-- -1d6 in melee combat while attempting ranged attack
 - Dual Wield Hand Crossbow: The off-handed crossbow can target a separate opponent in a round. Dice are added or subtracted based if main and off hand combat rolls are different, though If both the main hand and offhand attacks are at the same target, gain +1d6 to the combat roll.
 
-#### Light Crossbow
+##### Light Crossbow
 
 |  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
 | Light Crossbow |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |    Ranged Loading    |      None      |
 
-- -1d6 in melee combat while attempting ranged attack
-
-#### Heavy Crossbow
-
-|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
-| :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
-| Heavy Crossbow |   +2d6    |      0      |     (Long) /400 ft     | Ammo Dependant | Ranged Complex Loading |      None      |
-
-- -2d6 in melee combat while attempting ranged attack
-
-#### Light Bow
+##### Light Bow
 
 |  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
 |   Light Bow    |   +1d6    |      0      | (Extended) /320 ft  | Ammo Dependant |     Ranged Quick     |      None      |
 
-- -1d6 in melee combat while attempting ranged attack
+#### Heavy Ranged Flexed
 
-#### Heavy Bow
+##### Heavy Crossbow
+
+- -2d6 in melee combat while attempting ranged attack
+
+|  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
+| :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
+| Heavy Crossbow |   +2d6    |      0      |     (Long) /400 ft     | Ammo Dependant | Ranged Complex Loading |      None      |
+
+##### Heavy Bow
 
 |  Description   | Item Dice | Penetration |  Effective/Max Range   |  Damage Type   |  Engageable Opponents  | Area of Effect |
 | :------------: | :-------: | :---------: | :--------------------: | :------------: | :--------------------: | :------------: |
 |   Heavy Bow    |   +2d6    |      0      | (Sharpshooter) /600 ft | Ammo Dependant |    Ranged Standard     |      None      |
 
-- -2d6 in melee combat while attempting ranged attack
 - Heavy Bow Required Attribute: 1 STR
 
-#### Sling
+##### Sling
 
 |  Description   | Item Dice | Penetration | Effective/Max Range |  Damage Type   | Engageable Opponents | Area of Effect |
 | :------------: | :-------: | :---------: | :-----------------: | :------------: | :------------------: | :------------: |
