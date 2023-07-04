@@ -53,9 +53,20 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
   - [Mounts in combat](#mounts-in-combat)
   - [Damage Types](#damage-types)
     - [Physical Damage Types](#physical-damage-types)
-      - [Kinetic](#kinetic)
-      - [Elemental](#elemental)
-      - [Other](#other)
+      - [Hew](#hew)
+      - [Slash](#slash)
+      - [Pierce](#pierce)
+      - [Bludgeon](#bludgeon)
+      - [Shockwave](#shockwave)
+      - [Fire](#fire)
+      - [Water](#water)
+      - [Electric](#electric)
+      - [Cold](#cold)
+      - [Radiant](#radiant)
+      - [Silver](#silver)
+      - [Poison](#poison)
+      - [Necrotic](#necrotic)
+      - [Bleed](#bleed)
     - [Non-Physical Damage Types](#non-physical-damage-types)
       - [Mental](#mental)
       - [Spiritual](#spiritual)
@@ -380,39 +391,61 @@ For living characters, it completely heals all injuries, returning the body to p
 
 #### Physical Damage Types
 
-##### Kinetic
+##### Hew
 
-**Hew:** Damage caused by the pressing of a bladed edge to produce the force necessary to shear.
+Damage caused by the pressing of a bladed edge to produce the force necessary to shear.
 
-Slash: Damage caused by pushing or drawing a bladed edge to produce the force necessary to slice.
+##### Slash
 
-Pierce: Damage caused by pointed objects.
+Damage caused by pushing or drawing a bladed edge to produce the force necessary to slice.
 
-Bludgeon: Damage caused by blunt force.
+##### Pierce
 
-Shockwave: Damage caused by shock waves and sound.
+Damage caused by pointed objects.
 
-##### Elemental
+##### Bludgeon
 
-Fire: Damage caused by intense heat or combustion.
+Damage caused by blunt force.
 
-Water: Damage caused by coming into physical contact with water or being covered in water such as drowning.
+##### Shockwave
 
-Electric: Damage caused by lighting or other sources of electricity.
+Damage caused by shock waves and sound.
 
-Cold: Damage caused by extreme low temperatures.
+##### Fire
 
-Radiant:Damage caused specifically by Miracles or sunlight.
+Damage caused by intense heat or combustion.
 
-##### Other
+##### Water
 
-Silver: Damage caused by a Silvered weapon. Cause Silverburn to monsters and Fellkin. Silver wounds can't be healed via Hemacraft or Polycraft.
+Damage caused by coming into physical contact with water or being covered in water such as drowning.
 
-Poison: Damage caused by poisons or toxins.
+##### Electric
 
-Necrotic: Damage caused by rot, decay, and undeath.
+Damage caused by lighting or other sources of electricity.
 
-Bleed: Damage caused by the loss of blood. A character loses equivalent ichor to the level of injury dealt.
+##### Cold
+
+Damage caused by extreme low temperatures.
+
+##### Radiant
+
+Damage caused specifically by Miracles or sunlight.
+
+##### Silver
+
+Damage caused by a Silvered weapon. Cause Silverburn to monsters and Fellkin. Silver wounds can't be healed via Hemacraft or Polycraft.
+
+##### Poison
+
+Damage caused by poisons or toxins.
+
+##### Necrotic
+
+Damage caused by rot, decay, and undeath.
+
+##### Bleed
+
+Damage caused by the loss of blood. A character loses equivalent ichor to the level of injury dealt.
 
 #### Non-Physical Damage Types
 
