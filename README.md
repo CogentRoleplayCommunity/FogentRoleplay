@@ -67,8 +67,9 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
       - [Poison](#poison)
       - [Necrotic](#necrotic)
       - [Bleed](#bleed)
-    - [Non-Physical Damage Types](#non-physical-damage-types)
-      - [Mental](#mental)
+    - [Mental](#mental)
+      - [Psychic](#psychic)
+    - [Soul](#soul)
       - [Spiritual](#spiritual)
   - [Weaknesses and Resistances](#weaknesses-and-resistances)
     - [Weaknesses](#weaknesses)
@@ -447,15 +448,17 @@ Damage caused by rot, decay, and undeath.
 
 Damage caused by the loss of blood. A character loses equivalent ichor to the level of injury dealt.
 
-#### Non-Physical Damage Types
+#### Mental
 
-##### Mental
+##### Psychic
 
-Psychic: Damage caused by mental trauma.
+Damage caused by mental trauma.
+
+#### Soul
 
 ##### Spiritual
 
-Spiritual: Damage caused by an astral plane source.
+Damage caused by an astral plane source.
 
 ### Weaknesses and Resistances
 
