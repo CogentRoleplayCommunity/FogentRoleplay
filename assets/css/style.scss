@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-div.shell, div#no-downloads {
+div.shell {
   width: 900px;
 }
 
@@ -13,8 +13,4 @@ header {
 
 section#main_content {
   margin-top: 20px;
-}
-
-span.inner {
-  width: 900px;
 }
