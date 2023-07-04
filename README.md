@@ -8,8 +8,6 @@ Fallen is developed based on Cognet Roleplay and with appreciation to its creato
 
 All game mechanics and game systems contained within this document are open and freely available for anyone to re-use, include, adapt or develop, in their own projects that are also based on Cogent Roleplay.
 
-Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to this document. The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite.
-
 Long live open source fun. :)
 
 Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
