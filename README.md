@@ -12,9 +12,18 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
       - [Stagger](#stagger)
       - [Close Combat](#close-combat)
     - [Level 2 victory](#level-2-victory)
+      - [Medium injury](#medium-injury)
+      - [Disarm](#disarm)
+      - [Shove](#shove)
     - [Level 3 victory](#level-3-victory)
+      - [Serious injury](#serious-injury)
+      - [Trip](#trip)
     - [Level 4 Victory](#level-4-victory)
+      - [Fatal injury](#fatal-injury)
+      - [Dismember](#dismember)
+      - [Render Unconscious](#render-unconscious)
     - [Level 5 victory and higher](#level-5-victory-and-higher)
+      - [Death blow](#death-blow)
   - [Challenge Levels](#challenge-levels)
   - [Battlemap Rules](#battlemap-rules)
     - [Movement](#movement)
@@ -169,24 +178,47 @@ Move: Must be in close combat with the opponent. Move an enemy in a desired dire
 
 #### Level 2 victory
 
-- Medium injury: -2d6 to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
-- Disarm: opponent loses their weapon.
-- Shove: Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 2.5 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
+##### Medium injury
+
+-2d6 to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
+
+##### Disarm
+
+Opponent loses their weapon.
+
+##### Shove
+
+Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 2.5 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
 
 #### Level 3 victory
 
-- Serious injury: – 3d6 to all physical based dice checks and the character will die in time if the wound is untreated.
-- Trip: Opponent is rendered prone.  -4d6 for one round or until footing is regained. Opponents can not benefit from the Defensive modifier.
+##### Serious injury
+
+– 3d6 to all physical based dice checks and the character will die in time if the wound is untreated.
+
+##### Trip
+
+Opponent is rendered prone.  -4d6 for one round or until footing is regained. Opponents can not benefit from the Defensive modifier.
 
 #### Level 4 Victory
 
-- Fatal injury: – 4d6 to all physical based dice checks, incapacitated, and will die very soon if untreated.
-- Dismember: remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless magic or explosive projectiles are involved.
-- Render Unconscious: Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent receives a Medium Injury.
+##### Fatal injury
+
+– 4d6 to all physical based dice checks, incapacitated, and will die very soon if untreated.
+
+##### Dismember
+
+Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless magic or explosive projectiles are involved.
+
+##### Render Unconscious
+
+Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent receives a Medium Injury.
 
 #### Level 5 victory and higher
 
-- Death blow: An instant kill.
+##### Death blow
+
+An instant kill.
 
 ### Challenge Levels
 
