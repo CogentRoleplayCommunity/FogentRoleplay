@@ -8,6 +8,9 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
 - [Base Mechanics](#base-mechanics)
   - [Victory Levels](#victory-levels)
     - [Level 1 victory](#level-1-victory)
+      - [Minor Injury](#minor-injury)
+      - [Stagger](#stagger)
+      - [Close Combat](#close-combat)
     - [Level 2 victory](#level-2-victory)
     - [Level 3 victory](#level-3-victory)
     - [Level 4 Victory](#level-4-victory)
@@ -33,7 +36,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [High ground (+2d6)](#high-ground-2d6)
     - [Flank (+2d6)](#flank-2d6)
     - [Staggered (-2d6)](#staggered--2d6)
-    - [Close Combat](#close-combat)
+    - [Close Combat](#close-combat-1)
     - [Defensive (+2d6) (no victory levels)](#defensive-2d6-no-victory-levels)
     - [Prone (-4d6)](#prone--4d6)
     - [Effective Range Exceeded (-3d6)](#effective-range-exceeded--3d6)
@@ -151,10 +154,18 @@ I'd like to thank Shad, Jazza, and anyone else behind the scenes for their work 
 
 #### Level 1 victory
 
-- Minor Injury: –1d6 to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
-- Stagger: opponent is staggered. This could be sand thrown in a character face, being shoulder checked, or losing their footing. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered.
-- Close Combat: Enter/exit close combat. The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls.
-- Move: Must be in close combat with the opponent. Move an enemy in a desired direction. Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
+##### Minor Injury
+
+–1d6 to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
+
+##### Stagger
+
+Opponent is staggered. This could be sand thrown in a character face, being shoulder checked, or losing their footing. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered.
+
+##### Close Combat
+
+Enter/exit close combat. The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls.
+Move: Must be in close combat with the opponent. Move an enemy in a desired direction. Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 1.25 feet. If the opponent is small in size the distance is doubled. If the opponent is large in size, half the distance.
 
 #### Level 2 victory
 
