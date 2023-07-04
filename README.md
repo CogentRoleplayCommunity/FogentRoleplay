@@ -42,9 +42,9 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
   - [Challenge Levels](#challenge-levels)
   - [Battlemap Rules](#battlemap-rules)
     - [Movement](#movement)
-  - [Mounts in combat](#mounts-in-combat)
     - [Size](#size)
     - [Difficult Terrain](#difficult-terrain)
+  - [Mounts in combat](#mounts-in-combat)
   - [Destiny Point Rules](#destiny-point-rules)
     - [Player vs Player (Optional)](#player-vs-player-optional)
   - [Evasion Roll](#evasion-roll)
@@ -321,19 +321,6 @@ An instant kill.
 - If a creature has a negative in the governing skill, remove the indicated distance instead.
 - If movement will always be multiplication of 5 ft. Round down to the nearest multiple of 5 ft. For instance, if I have 16 ft of movement due to being at 80% of my speed due to medium weight, I would only move 15 ft total.
 
-### Mounts in combat
-
-- When a mounted character or their mount takes an injury in combat, a Ride/Pilot check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
-- Depending on the character's Ride/Pilot, they get to use a portion of the mount's movement speed instead of their own while mounted, dictated by the table below.
-
-| Ride/Pilot Level | Combat Movement Speed |
-| :----------------: | :---------------------: |
-| 0 skill          | Mount Speed -25 ft    |
-| 1 skill          | Mount Speed -15 ft    |
-| 2 skill          | Mount Speed -10 ft    |
-| 3 skill          | Mount Speed -5 ft     |
-| 4 skill          | Mount Speed -0 ft     |
-
 #### Size
 
 If there is a difference in size between two creatures who have contested checks where size would be an advantage or disadvantage, the narrator should adapt accordingly.
@@ -350,6 +337,19 @@ If there is a difference in size between two creatures who have contested checks
 #### Difficult Terrain
 
 Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains (10 feet instead of 5 feet).
+
+### Mounts in combat
+
+- When a mounted character or their mount takes an injury in combat, a Ride/Pilot check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
+- Depending on the character's Ride/Pilot, they get to use a portion of the mount's movement speed instead of their own while mounted, dictated by the table below.
+
+| Ride/Pilot Level | Combat Movement Speed |
+| :----------------: | :---------------------: |
+| 0 skill          | Mount Speed -25 ft    |
+| 1 skill          | Mount Speed -15 ft    |
+| 2 skill          | Mount Speed -10 ft    |
+| 3 skill          | Mount Speed -5 ft     |
+| 4 skill          | Mount Speed -0 ft     |
 
 ### Destiny Point Rules
 
