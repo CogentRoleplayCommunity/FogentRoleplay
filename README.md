@@ -14,8 +14,6 @@ Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
 ![](images/Logos/CogentRoleplayAttribution.png)
 
-Map Download: <!-- Map link here-->
-
 ## Table of Contents
 
 - [Fogent Roleplay](#fogent-roleplay)
