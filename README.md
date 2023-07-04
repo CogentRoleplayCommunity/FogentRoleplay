@@ -131,8 +131,9 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
 - [Magic](#magic)
   - [Magic Roll](#magic-roll)
   - [Resource](#resource)
-    - [Regaining Resource](#regaining-resource)
+    - [Resting for Resource](#resting-for-resource)
     - [Absorbing Resource](#absorbing-resource)
+    - [Finding Resource](#finding-resource)
     - [Magic Cantrips](#magic-cantrips)
   - [Magic Range](#magic-range)
     - [Magic Range adjustment](#magic-range-adjustment)
@@ -873,13 +874,19 @@ Resource is what is consumed to use magic.
 
 - +3 Resource per Magic Vocation
 
-#### Regaining Resource
+#### Resting for Resource
 
-Depending on your magic system, maintaining one's physical health can restore Resource over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Resource. The narrator should give more Resource to characters with a higher Magic Vocation level.
+Depending on your magic system, maintaining one's physical health can restore Resource over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Resource.
+
+The narrator should give more Resource to characters with a higher Magic Vocation level.
 
 #### Absorbing Resource
 
 Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
+
+#### Finding Resource
+
+Depending on your magic system, character might be able to regain magic resource via collecting 
 
 #### Magic Cantrips
 
