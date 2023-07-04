@@ -174,7 +174,7 @@ Long live open source fun. :)
 
 Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
-![CogentRoleplayAttribution](images/CogentRoleplayAttribution.png)
+![CogentRoleplayAttribution](images/CogentRoleplayAttribution_Wide.png)
 
 ## Special Thanks
 
