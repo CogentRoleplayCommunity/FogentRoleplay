@@ -1,4 +1,4 @@
-# FogentRoleplay
+# Fogent Roleplay
 An extension to Cogent Roleplay 
 
 ![alt_text](images/Places/TheContinent.png "image_tooltip")
@@ -23,7 +23,7 @@ Map Download: <!-- Map link here-->
 
 ## Table of Contents
 
-- [FogentRoleplay](#fogentroleplay)
+- [Fogent Roleplay](#fogent-roleplay)
   - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
   - [Table of Contents](#table-of-contents)
   - [Preface](#preface)
