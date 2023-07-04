@@ -28,6 +28,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
   - [Challenge Levels](#challenge-levels)
   - [Battlemap Rules](#battlemap-rules)
     - [Movement](#movement)
+  - [Mounts in combat](#mounts-in-combat)
     - [Size](#size)
     - [Difficult Terrain](#difficult-terrain)
   - [Destiny Point Rules](#destiny-point-rules)
@@ -73,7 +74,6 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Serious Heal](#serious-heal)
     - [Superior Heal](#superior-heal)
     - [Revival Heal](#revival-heal)
-  - [Mounts in combat](#mounts-in-combat)
   - [Damage Types](#damage-types)
     - [Physical Damage Types](#physical-damage-types)
       - [Hew](#hew)
@@ -266,6 +266,19 @@ An instant kill.
 - If a creature has a negative in the governing attribute, remove the indicated distance instead.
 - If a creature has a negative in the governing skill, remove the indicated distance instead.
 - If movement will always be multiplication of 5 ft. Round down to the nearest multiple of 5 ft. For instance, if I have 16 ft of movement due to being at 80% of my speed due to medium weight, I would only move 15 ft total.
+
+### Mounts in combat
+
+- When a mounted character or their mount takes an injury in combat, a Ride/Pilot check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
+- Depending on the character's Ride/Pilot, they get to use a portion of the mount's movement speed instead of their own while mounted, dictated by the table below.
+
+| Ride/Pilot Level | Combat Movement Speed |
+| :----------------: | :---------------------: |
+| 0 skill          | Mount Speed -25 ft    |
+| 1 skill          | Mount Speed -15 ft    |
+| 2 skill          | Mount Speed -10 ft    |
+| 3 skill          | Mount Speed -5 ft     |
+| 4 skill          | Mount Speed -0 ft     |
 
 #### Size
 
@@ -465,19 +478,6 @@ Can be used to regrow limbs and body parts.
 
 Return a dead character to life with a serious injury. Can only be performed within minutes of death.
 For living characters, it completely heals all injuries, returning the body to peak performance.
-
-### Mounts in combat
-
-- When a mounted character or their mount takes an injury in combat, a Ride/Pilot check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
-- Depending on the character's Ride/Pilot, they get to use a portion of the mount's movement speed instead of their own while mounted, dictated by the table below.
-
-| Ride/Pilot Level | Combat Movement Speed |
-| ---------------- | --------------------- |
-| 0 skill          | Mount Speed -25 ft    |
-| 1 skill          | Mount Speed -15 ft    |
-| 2 skill          | Mount Speed -10 ft    |
-| 3 skill          | Mount Speed -5 ft     |
-| 4 skill          | Mount Speed -0 ft     |
 
 ### Damage Types
 
