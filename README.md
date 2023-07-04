@@ -104,6 +104,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Conduit Durability](#conduit-durability)
     - [Armor Durability](#armor-durability)
   - [Effective and Max Range](#effective-and-max-range)
+  - [Engageable Opponents](#engageable-opponents)
   - [Defense](#defense)
     - [Physical Defense](#physical-defense)
     - [Bodily Defense](#bodily-defense)
@@ -658,6 +659,23 @@ Effective Range is the range up to which you are accurate. Max Range is the maxi
 |     Long     |       +15 feet per dice       |  400 ft   |
 | Sharpshooter |       +20 feet per dice       |  600 ft   |
 |   Extreme    |       +25 feet per dice       |  700 ft   |
+
+### Engageable Opponents
+
+The amount of opponents a character can engage in a round is calculated below.
+
+- Combat modifiers can be factored into these equations.
+- If a ranged calculation results in a 0, then the character can only fire once per round if the weapon/spell is loaded/prepared and must spend their next round reloading/preparing with no movement.
+
+| Engageable Opponents Type |          Calculation          |
+| :-----------------------: | :---------------------------: |
+|           Rapid           | (Combat Roll)/2 rounded down  |
+|           Quick           | (Combat Roll)/3 rounded down  |
+|         Standard          | (Combat Roll)/4 rounded down  |
+|           Slow            | (Combat Roll)/5 rounded down  |
+|          Loading          | (Combat Roll)/6 rounded down  |
+|      Complex Loading      | (Combat Roll)/10 rounded down |
+|          Focused          |               1               |
 
 ### Defense
 
