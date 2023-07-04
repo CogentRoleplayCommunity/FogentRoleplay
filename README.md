@@ -124,7 +124,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Reach hafted blunt](#reach-hafted-blunt)
     - [Greatsword](#greatsword)
     - [Long spear](#long-spear)
-  - [Ballistics - NOT IN BASE FALLEN... yet](#ballistics---not-in-base-fallen-yet)
+  - [Ballistics](#ballistics)
     - [Hand ballistic](#hand-ballistic)
     - [Shoulder stocked ballistic](#shoulder-stocked-ballistic)
     - [Heavy Ballistic](#heavy-ballistic)
@@ -147,7 +147,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
 
 ## Cogent Roleplay Open License
 
-Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
+Fogent Roleplay is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
 
 All game mechanics and game systems contained within this document are open and freely available for anyone to re-use, include, adapt or develop, in their own projects that are also based on Cogent Roleplay.
 
@@ -812,7 +812,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :------------------------: | :-------: | :---------: | :-----------------: | :---------: | :-------------------: | :------------: |
 | Long Spear (either-handed) |   +4d6    |      4      |      10/10 ft       |   Pierce    |      Rapid Spear      |      None      |
 
-### Ballistics - NOT IN BASE FALLEN... yet
+### Ballistics
 
 #### Hand ballistic
 
