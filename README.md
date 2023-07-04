@@ -33,7 +33,17 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Player vs Player (Optional)](#player-vs-player-optional)
   - [Core Skills Rules](#core-skills-rules)
     - [Strength Skills Redux](#strength-skills-redux)
+      - [Lift](#lift)
+      - [Athletics](#athletics)
+      - [Climb](#climb)
+      - [Swim](#swim)
+      - [Endurance](#endurance)
     - [Intelligence Skills Redux](#intelligence-skills-redux)
+      - [Willpower](#willpower)
+      - [Communication](#communication)
+      - [Spiritual](#spiritual)
+      - [General Knowledge](#general-knowledge)
+      - [Survival](#survival)
   - [Skill Specialty](#skill-specialty)
   - [Evasion Roll](#evasion-roll)
   - [Hardcore Carry Weight](#hardcore-carry-weight)
@@ -82,7 +92,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
     - [Mental](#mental)
       - [Psychic](#psychic)
     - [Soul](#soul)
-      - [Spiritual](#spiritual)
+      - [Spiritual](#spiritual-1)
   - [Weaknesses and Resistances](#weaknesses-and-resistances)
     - [Weaknesses](#weaknesses)
     - [Resistances](#resistances)
@@ -274,19 +284,47 @@ If two players are competing against one another in a dice roll, then destiny po
 
 #### Strength Skills Redux
 
-- Lift would be represented by strong men or powerlifters. Covers physical activity related to raw strength, most used in moving or holding heavy objects. Examples include shouldering a door open, carrying or throwing heavy weights, or crushing something in your hands.
-- Athletics would be represented by sprinters, high-jumpers, and basketball players. Covers physical activity related to raw speed and jump height. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit, throwing a baseball, or dunking a basketball.
-- Climb would archetypically be represented by rock climbers. Covers all climbing related activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches.
-- Swim would be represented by olympic swimmers. Swim covers all situations where characters are attempting to move in liquids. It is also applicable to science fiction settings in Zero gravity environments. Swimming may be more difficult if a character is wearing heavy clothing or resisting conflicts at the same time, at the narrators discretion. If skill points are assigned, narrative failure applies as normal, with your character making no headway, treading water or otherwise. However, if you have not assigned any points into swim, your character slips underwater and begins drowning.
-- Endurance would be represented by ultra marathon runners. Endurance is the physical trait that represents your body’s ability to process toxins and resist disease. Resisting food poisoning, hot and cold weather and pushing on past exhaustion are all the domain of endurance.
+##### Lift
+
+Represented by strong men or powerlifters. Covers physical activity related to raw strength, most used in moving or holding heavy objects. Examples include shouldering a door open, carrying or throwing heavy weights, or crushing something in your hands.
+
+##### Athletics
+
+Represented by sprinters, high-jumpers, and basketball players. Covers physical activity related to raw speed and jump height. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit, throwing a baseball, or dunking a basketball.
+
+##### Climb
+
+Represented by rock climbers. Covers all climbing related activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches.
+
+##### Swim
+
+Represented by olympic swimmers. Swim covers all situations where characters are attempting to move in liquids. It is also applicable to science fiction settings in Zero gravity environments. Swimming may be more difficult if a character is wearing heavy clothing or resisting conflicts at the same time, at the narrators discretion. If skill points are assigned, narrative failure applies as normal, with your character making no headway, treading water or otherwise. However, if you have not assigned any points into swim, your character slips underwater and begins drowning.
+
+##### Endurance
+
+Represented by ultra marathon runners. Represents your body’s ability to process toxins and resist disease. Resisting food poisoning, hot and cold weather and pushing on past exhaustion are all the domain of endurance.
 
 #### Intelligence Skills Redux
 
-- Willpower would be represented by the mental aspects of Navy Seals. Measures a character's mental control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally or mentally manipulated/attacked, resist being seduced, hold your cool in a scary situation, etc...
-- Communication would be represented by politicians or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is the manner in which you communicate that will ultimately entail success or failure. It's not what you say, but how you say it.
-- Spiritual skill would be represented by a shaman, psychics, or priests. It is your character's profound intuition about supernatural matters such as souls, life, death, good and evil. It is the gut feeling you get when you enter a decrepit building and feel something terrible has happened there. It also represents the strength of your soul's connection to your physical body and determines your soul's ability to resist spiritual harm.
-- General Knowledge  would be represented by a historian or bookworm. General Knowledge is the art of listening to rumors, recalling information and applying it where it is needed most. It aids in many tasks while being very specifically only usable on non-specialized tasks. A general knowledge check could never allow you to know how to disarm a bomb, but it might be able to tell you that to disarm a bomb you need to cut a specific wire. Which wire? You have no idea, perhaps if you had a Vocational Skill related to explosives you might know more.
-- Survival would be represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments. It covers scavenging for food, basic first aid as well as finding safe places to rest and lighting fires. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
+##### Willpower
+
+Represented by the mental aspects of Navy Seals. Measures a character's mental control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally or mentally manipulated/attacked, resist being seduced, hold your cool in a scary situation, etc...
+
+##### Communication
+
+Represented by politicians or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is the manner in which you communicate that will ultimately entail success or failure. It's not what you say, but how you say it.
+
+##### Spiritual
+
+Represented by a shaman, psychics, or priests. It is your character's profound intuition about supernatural matters such as souls, life, death, good and evil. It is the gut feeling you get when you enter a decrepit building and feel something terrible has happened there. It also represents the strength of your soul's connection to your physical body and determines your soul's ability to resist spiritual harm.
+
+##### General Knowledge
+
+Represented by a historian or bookworm. General Knowledge is the art of listening to rumors, recalling information and applying it where it is needed most. It aids in many tasks while being very specifically only usable on non-specialized tasks. A general knowledge check could never allow you to know how to disarm a bomb, but it might be able to tell you that to disarm a bomb you need to cut a specific wire. Which wire? You have no idea, perhaps if you had a Vocational Skill related to explosives you might know more.
+
+##### Survival
+
+Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments. It covers scavenging for food, basic first aid as well as finding safe places to rest and lighting fires. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
 
 ### Skill Specialty
 
