@@ -240,7 +240,7 @@ An instant kill.
 - Each grid of the battle map represents a 5x5 ft square.
 
 | Description                    | Calculation                                           |
-| ------------------------------ | ----------------------------------------------------- |
+| :------------------------------: | :-----------------------------------------------------: |
 | Humanoid Combat Movement Speed | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 | Flight Combat Speed            | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
 
@@ -851,7 +851,7 @@ Cantrips are uses of Magic that use an insignificant amount of Resource. In gene
 The Range type for non cantrip ranged attacks changes depending on the user's skill level.
 
 | Skill level | Range Type   |
-| ----------- | ------------ |
+| :-----------: | :------------: |
 | -1          | Close        |
 | 0           | Short        |
 | 1           | Medium       |
@@ -914,7 +914,7 @@ Represents a character unleashing an attack over an area represented by a cone. 
 - Cone Base/Height: Magic Roll * 5 feet
 
 | Magic Roll | Cone Height/Base | Cone Angle  | Cone Area   |
-| ---------- | ---------------- | ----------- | ----------- |
+| :----------: | :----------------: | :-----------: | :-----------: |
 | 2 dice     | 10 ft            | ~53 degrees | 50 ft^2     |
 | 3 dice     | 15 ft            | ~53 degrees | 112.5 ft^2  |
 | 4 dice     | 20 ft            | ~53 degrees | 200 ft^2    |
@@ -954,7 +954,7 @@ Represents a character unleashing an attack over an area centered on a point. If
 - AOE Radius: Magic Roll * 2.5 feet
 
 | Magic Roll | Circle Radius |
-| ---------- | ------------- |
+| :----------: | :-------------: |
 | 1 dice     | 2.5 ft        |
 | 2 dice     | 5 ft          |
 | 3 dice     | 7.5 ft        |
