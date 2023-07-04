@@ -5,7 +5,7 @@ Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Rolepl
 - [Table of Contents](#table-of-contents)
 - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
 - [Special Thanks](#special-thanks)
-- [Base Mechanics](#base-mechanics)
+- [Fogent Roleplay Mechanics](#fogent-roleplay-mechanics)
   - [Core Skills Rules](#core-skills-rules)
     - [Strength Skills Redux](#strength-skills-redux)
       - [Lift](#lift)
@@ -180,7 +180,7 @@ Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
 I'd like to thank Shad, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay.
 
-## Base Mechanics
+## Fogent Roleplay Mechanics
 
 ### Core Skills Rules
 
