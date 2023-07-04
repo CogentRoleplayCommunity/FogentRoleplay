@@ -2,23 +2,11 @@
 
 Howdy everyone, this is your friendly neighborhood Javk Wick here. Fogent Roleplay is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS for Cogent Roleplay. The rules contained within Fogent Roleplay were originally created as part of Fallen, my world setting for Cogent Roleplay. Hence, Fallen + Cogent = Fogent!
 
-## Cogent Roleplay Open License
-
-Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
-
-All game mechanics and game systems contained within this document are open and freely available for anyone to re-use, include, adapt or develop, in their own projects that are also based on Cogent Roleplay.
-
-Long live open source fun. :)
-
-Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
-
-![](images/Logos/CogentRoleplayAttribution.png)
-
 ## Table of Contents
 
 - [Fogent Roleplay](#fogent-roleplay)
-  - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
   - [Table of Contents](#table-of-contents)
+  - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
   - [Special Thanks](#special-thanks)
     - [The Spore](#the-spore)
     - [Shards](#shards)
@@ -122,6 +110,18 @@ Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
       - [Cone](#cone)
     - [Focused](#focused)
     - [AOE](#aoe)
+
+## Cogent Roleplay Open License
+
+Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
+
+All game mechanics and game systems contained within this document are open and freely available for anyone to re-use, include, adapt or develop, in their own projects that are also based on Cogent Roleplay.
+
+Long live open source fun. :)
+
+Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
+
+![](images/Logos/CogentRoleplayAttribution.png)
 
 ## Special Thanks
 
