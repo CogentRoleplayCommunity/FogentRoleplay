@@ -310,41 +310,6 @@ Map Download: <!-- Map link here-->
 
 Howdy everyone, this is your friendly neighborhood Javk Wick here. Fallen is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS.
 
-This Fallen Rulebook provides the following mechanics for you to pick and choose for your game:
-
-- Automated character sheet:
-- A massive compendium of traditional fantasy items to use in your game
-- Magic/Unique Item template:
-- 3 Prebuilt Magic systems (Fellcraft, Runecraft, and Miracles) covering traditional Sorcery, Wizardry, and Cleric Stuff. Traditional DnD spells that can scale the user's skill.
-- Magic system template that could be ported to any game. Including Cantrips, AOE, Cones, Mutliattack, Single Shot, resource consumption, various ranges, armor penetration scaling.
-- A redux of Strength skills that are more realistic and fun imo.
-- A redux of Intelligence skills that are more realistic and fun imo.
-- Battle map rules for combat
-- Evasion Roll rules, ranged physical attacks vs evading
-- Fortitude Roll, mental attacks vs mental fortitude
-- Ranged Multi attack scaling
-- New/modified combat maneuvers for use on a battle map.
-- Cover mechanics.
-- Healing tier mechanics.
-- Damage types, Weakness, and Resistances mechanics.
-- (Unfinished) Status effect mechanics.
-- Weapon tiers and durability mechanics.
-- Effective Range mechanics for different weapon/spells classes that scales with the dice roll.
-- Item rarity mechanics
-- Hardcore Weapon Modifiers Redux
-- Armor Durability mechanics
-- Armor Tier Mechanics
-- Carry Weight Mechanics
-- Miracles/Fellcraft (Magic Systems that should be ported to whatever setting you’d like)
-- Runecraft (Traditional Wizard mechanics, will include rules for magic item creation)
-- Out of Game Downtime Bartering Rules (No more wasting playing time buying no story significant stuff)
-In addition, if you do intend to use "Fallen" as a whole, here is what I hope to provide.
-- An interesting world to ground your story in.
-- A badass but balanced magic system that encourages creative roleplay (Fellcraft, Miracles, Runecraft).
-- Interesting races with the option for players to invent their own races!
-- Weapon stats and durability that are intuitive and not just numbers.
-- I have done my best to maintain the philosophy of K.I.S.S (Keep It Simple Stupid) throughout this document. No complexity for complexities sake.
-
 # Special Thanks
 
 I'd like to thank Shad, Dave, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay. Your hard work allowed me to finally bring my own world "Fallen" to life and share it with my friends. I'm very grateful.
