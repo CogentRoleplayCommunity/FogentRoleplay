@@ -18,7 +18,7 @@ Long live open source fun. :)
 
 Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
-![](images/Logos/CogentRoleplayAttribution.png)
+![Alt text](images/CogentRoleplayAttribution_Wide.png)
 
 Map Download: <!-- Map link here-->
 
