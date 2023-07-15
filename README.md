@@ -185,24 +185,24 @@ Map Download: <!-- Map link here-->
     - [Specialization: The Healing Blood](#specialization-the-healing-blood)
     - [Absorb Ichor: Blood](#absorb-ichor-blood)
   - [Spidercraft](#spidercraft)
-    - [Fellcraft Combination:](#fellcraft-combination)
+    - [Fellcraft Combination](#fellcraft-combination)
     - [Specialization: The Giant Spider](#specialization-the-giant-spider)
     - [Absorb Ichor: Liquify Prey](#absorb-ichor-liquify-prey)
     - [Spider Climb](#spider-climb)
   - [Plasmacraft](#plasmacraft)
-    - [Fellcraft Combination:](#fellcraft-combination-1)
+    - [Fellcraft Combination](#fellcraft-combination-1)
     - [Specialization: The Ancient Dragon](#specialization-the-ancient-dragon)
     - [Absorbing Ichor: Solar and Plasma](#absorbing-ichor-solar-and-plasma)
   - [Stormcraft](#stormcraft)
-    - [Fellcraft Combination:](#fellcraft-combination-2)
+    - [Fellcraft Combination](#fellcraft-combination-2)
     - [Specialization: The Storm Dragon](#specialization-the-storm-dragon-1)
       - [Control Weather](#control-weather)
   - [Magmacraft](#magmacraft)
-    - [Fellcraft Combination:](#fellcraft-combination-3)
+    - [Fellcraft Combination](#fellcraft-combination-3)
     - [Specialization: The Magma Dragon](#specialization-the-magma-dragon)
       - [Influence Tectonic Plates](#influence-tectonic-plates)
   - [Blizzardcraft](#blizzardcraft)
-    - [Fellcraft Combination:](#fellcraft-combination-4)
+    - [Fellcraft Combination](#fellcraft-combination-4)
     - [Specialization: The Blizzard Dragon](#specialization-the-blizzard-dragon)
       - [Create Blizzards](#create-blizzards)
   - [Fellcraft Tree](#fellcraft-tree)
@@ -724,7 +724,6 @@ During their dormant state, these infected individuals are referred to as carrie
 
 ## Shards
 
-
 # Magic Systems
 
 All of Fallen’s 3 magic systems (Fellcraft, Miracles, and Runecraft) are built of the same rule in combat, which you can refer to over on Fogent Roleplay. Instead of listing this out 3 times. Keep in mind the following while reading the pre-made Fallen magic systems listed further below.
@@ -1012,7 +1011,7 @@ Allows the user to breath dragontide from from their mouth. Dragontide the user 
 ### Absorbing Ichor: Water
 
 Water can be used to absorb Ichor. This can be done by submerging oneself in water or meditating near a large body of water.
- 
+
 ### Water Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
@@ -1096,7 +1095,6 @@ Gale can be used to absorb Ichor. This can be done near storms, tornadoes, place
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-
 ## Cryocraft
 
 Terracraft users can narratively attempt the following:
@@ -1119,7 +1117,6 @@ Cold can be used to absorb Ichor. This can be done with blizzards, frigid enviro
 ### Cold Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
-
 
 ## Naturecraft
 
@@ -1144,7 +1141,6 @@ Large amounts of plant life can be used to absorb Ichor. This can be done with f
 ### Bludgeon, Pierce, Slash Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. For each resistance point gained, gain a weakness level to Fire damage. This effect has a duration of 1 hour.
-
 
 ## Toxicraft
 
@@ -1216,6 +1212,7 @@ Shadowcraft users can narratively attempt the following:
 - Improve your stealth
 
 ### Shadow Leaping
+
 Shadow Leaping is a form of short range teleportation. The user must have access to a large shadow near them that is not their own shadow. They can use it as a door to a neighboring shadow, rematerializing there.
 
 ### Specialization: The Shadow Dragon
@@ -1233,7 +1230,6 @@ Shadow can be used to absorb Ichor. This can be done in pitch black environments
 ### Dark Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
-
 
 ## Mindcraft
 
@@ -1281,7 +1277,6 @@ Large amounts of magnetic waves can be used to absorb Ichor. This can be done wi
 ### Physical Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. And for each resistance point gained, gain a weakness level to Electrice damage. This effect has a duration of 1 hour.
-
 
 ## Sonocraft
 
@@ -1337,8 +1332,6 @@ When a character attempts a Hemacraft heal, they make a Polycraft Roll (this can
 | Fatal Heal           | 5               | Instant  |
 | Revival Heal         | 6               | Instant  |
 
-
-
 ### Pierce, Slash Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour. Bleed resistance keeps blood in the body.
@@ -1358,8 +1351,6 @@ By performing the following check below, a character may produce enough healing 
 | [Vial of Supreme Healing Blood](https://docs.google.com/document/d/1AfygcOVMcKjrdrc7rdwvSomWy2GugHqHnHWW1z7xWpE/edit?usp=sharing)  | 5               | 4 hr      |
 | [Vial of Revival Healing Blood](https://docs.google.com/document/d/1tgVnTAvAk-b89AMo1rZc5qA9N3-BmkJiTTzFqW8AU_Y/edit?usp=sharing)  | 6               | 8 hr      |
 
-
-
 ### Absorb Ichor: Blood
 
 Blood can be consumed to absorb Ichor. Every time a Hemacraft attack is successfully made, you may regain 1 Ichor.  An extra point of Ichor should be awarded if a Fellkind of Monster blood is consumed. The opponent loses 1 Ichor.
@@ -1372,7 +1363,6 @@ Webcraft users can narratively attempt the following:
 - Manipulate webbing
 - Stick to surfaces like a spider (Assist with Spider Craft for Climb Checks)
 
-
 Webs cannot inflict damage. Instead follow the table below.
 
 | Name                           | Effect                                                                               |
@@ -1383,7 +1373,7 @@ Webs cannot inflict damage. Instead follow the table below.
 | Supreme Binding (Lvl 4 Victory) | Target is incapacitated within the binding                                           |
 | Fatal Binding (Lvl 5 Victory)   | Target is incapacitated withing binding and begins to suffocate.                     |
 
-### Fellcraft Combination:
+### Fellcraft Combination
 
 This Fellcraft can only be accessed by users with a specialization in Polycraft and Toxincraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
@@ -1408,15 +1398,17 @@ Plasmacraft users can narratively attempt the following:
 
 Plasmacraft is the domain of true masters of Fellcraft. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Miracles.
 
-### Fellcraft Combination:
+### Fellcraft Combination
 
 This Fellcraft can only be accessed by users with a specialization in Blazecraft and Galecraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
 ### Specialization: The Ancient Dragon
+
 Ancient myths tell how when the first dragons were born, they were granted wings. They flew to the Sun and drank it. They breathed light so hot it would cut stone and turn night to day.
 
 ### Absorbing Ichor: Solar and Plasma
-Plasma and Sunlight can be used to absorb Ichor. 
+
+Plasma and Sunlight can be used to absorb Ichor.
 
 ## Stormcraft
 
@@ -1426,7 +1418,7 @@ Stormcraft users can narratively attempt the following:
 - Manipulate storms.
 - Control the weather
 
-### Fellcraft Combination:
+### Fellcraft Combination
 
 This Fellcraft can only be accessed by users with a specialization in Galecraft, Hydrocraft, and Electrocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
@@ -1435,6 +1427,7 @@ This Fellcraft can only be accessed by users with a specialization in Galecraft,
 Every storm on Terra is said to be started by a Storm Dragon, who dwells deep in the eye of the Great Storm at the edge of the world, far away from the continent of Terra.
 
 #### Control Weather
+
 Like the Dragons of the Great Storm, Stormcraft users may manipulate the weather to their liking. How large and furious the weather event determines the check required. A check to increase the ferocity of a storm already in progress should be far easier than if the user tried to do the same with a calm day.
 
 Though if the legend is true and the storms do come from the Great Storm, then it would be wise for one to influence the storms wisely. As surely dragons do not tolerate the interferences of mere mortals.
@@ -1448,7 +1441,7 @@ Stormcraft users can narratively attempt the following:
 - Melt rock.
 - Influence tectonic plates
 
-### Fellcraft Combination:
+### Fellcraft Combination
 
 This Fellcraft can only be accessed by users with a specialization in Blazecraft and Terracraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
@@ -1460,7 +1453,6 @@ When the horrors of Terra bowed down before the Bright Lord, the Bright Lord con
 
 The influence of tectonic plates can result in magma geysers and other geological phenomena. If enough masters of Magmacraft were brought together, Terra itself might shift once again…
 
-
 ## Blizzardcraft
 
 Stormcraft users can narratively attempt the following:
@@ -1468,7 +1460,7 @@ Stormcraft users can narratively attempt the following:
 - Create blizzards.
 - Manipulate blizzards.
 
-### Fellcraft Combination:
+### Fellcraft Combination
 
 This Fellcraft can only be accessed by users with a specialization in Galecraft and Cryocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
@@ -1484,12 +1476,9 @@ Like the Blizzard Dragon, Blizzardcraft users may manipulate the Blizzards to th
 
 The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
 
-
 This tree represents the different path to acquire different Fellcrafts. Each solid line represents a monster whose genes bridge between Fellcrafts. For instance, Vampires represent the links between Hemacraft and Mindcraft as well as Mindcraft and Shadowcraft. While Vampires represent this on the Fellcraft Tree, these genes may exist in other monsters. This tree just shows the natural progression a Fellkin could take to acquire new fellcraft.
 
-
 Squares represent normal Fellcrafts. These can be accessed if you choose this if your race has access or if you have a neighboring Fellcraft square already at level 1 in that Fellcraft skill. Any newly gained Fellcraft starts at level -1.
-
 
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 
