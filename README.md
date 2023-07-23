@@ -55,6 +55,7 @@ Map Download: <!-- Map link here-->
     - [A History of Conquest and Resilience](#a-history-of-conquest-and-resilience)
     - [The Laughing Storm](#the-laughing-storm)
     - [The Redd Blasphemy](#the-redd-blasphemy)
+  - [Reddwall](#reddwall)
     - [The Tragedy of Killroy the Fool](#the-tragedy-of-killroy-the-fool)
     - [Tentcity](#tentcity)
   - [The Isles of Crest](#the-isles-of-crest)
@@ -542,8 +543,6 @@ Nestled within the heart of the Dawn Empire, the City of Crossroads stands as th
 
 ### Reddland
 
-![Alt text](images/Places/Reddland/Reddwall.png)
-
 #### A History of Conquest and Resilience
 
 During the Dark Ages, the vast realm now known as Reddland was under the iron grip of a formidable Siren dynasty, led by the infamous Witch Queen Alana. Revered for her mastery of Runecraft and Fellcraft, Alana's unnaturally extended lifespan testified to her involvement in dark rituals and her insatiable thirst for power. The Witch Queen's dominion began with the assassination of the Chitkin Queen of Caraus, where she seized control over the Chitinkin population, bending them to her will. Her unstoppable army of mentally enslaved Chitinkin and Siren loyalist advanced eastward, subjugating vast territories that now form the heart of Reddland. However, the rugged and defiant Crimson Foothills, inhabited by nomadic tribes and city states of Dhampires, proved to be an unconquerable land.
@@ -571,6 +570,16 @@ The Laughing Storm, renowned as one of history's most formidable pirate lords an
 Veronica and Flint attempted to conceive children, but tragedy repeatedly struck. After years of trying, Veronica finally gave birth to an sickly heir, a daughter whose hair bore the ethereal shade of pure white, reminiscent of the full moons that adorned the sky.
 
 In accordance with the pact resulting from the "The Redd Blasphemy", Vex'halia Reddington would eventually be expected to marry Luc Lightbringer, heir to the Dawn Empire, unifying the two kingdoms in blood upon their wedding.
+
+### Reddwall
+
+![Alt text](images/Places/Reddland/Reddwall.png)
+
+![Alt text](images/Places/Reddland/ReddwallMap.png)
+
+Reddwall stands as the capital of Reddland, given its name for the massive red granite wall that surrounds it. Sitting atop the ruins of the previous capital of the Witch Queen Alana, Reddwall is littered with gothic superstructures made of varying colors of granite. Further from Castle Tearstone, structures are smaller, constructed of less desirable granite colors such as pale yellow or gray. As the construction nears Tearstone, shades of yellow transition to orange, then almost exclusively red as Tearstone is approached.
+
+Among the many marvels, Byrgenweth school of magic and medicines stands as one of the proments staples of the city, responsible for the creation of the Healing Bloods of Redwall under Lady Veronica Reddington. This discovery was key in halting the rampant Spore disease that affected Terra.
 
 #### The Tragedy of Killroy the Fool
 
