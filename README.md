@@ -203,6 +203,52 @@ Map Download: <!-- Map link here-->
     - [Specialization: The Blizzard Dragon](#specialization-the-blizzard-dragon)
       - [Create Blizzards](#create-blizzards)
   - [Fellcraft Tree](#fellcraft-tree)
+- [Runecraft](#runecraft)
+  - [Runecraft Roll](#runecraft-roll)
+  - [Crafting a Rune](#crafting-a-rune)
+  - [Knowledge of Runes](#knowledge-of-runes)
+  - [Energy Example](#energy-example)
+    - [Ichor of Monster or Fellkin blood](#ichor-of-monster-or-fellkin-blood)
+    - [Charged Electrite](#charged-electrite)
+  - [An object to hold the rune](#an-object-to-hold-the-rune)
+  - [Overcharging Runes](#overcharging-runes)
+  - [Runecraft in Combat](#runecraft-in-combat)
+  - [Compound Runes](#compound-runes)
+    - [Slow Fall](#slow-fall)
+      - [Challenge Level](#challenge-level)
+      - [Requirement](#requirement)
+    - [Oil Spill](#oil-spill)
+      - [Challenge Level](#challenge-level-1)
+      - [Requirement](#requirement-1)
+    - [Minor Mirage](#minor-mirage)
+      - [Challenge Level](#challenge-level-2)
+      - [Requirement](#requirement-2)
+    - [Flame Tongued](#flame-tongued)
+      - [Challenge Level](#challenge-level-3)
+      - [Requirement](#requirement-3)
+    - [](#)
+      - [Challenge Level](#challenge-level-4)
+      - [Requirement](#requirement-4)
+  - [Pure Runes](#pure-runes)
+    - [Rune of Fire](#rune-of-fire)
+    - [Rune of Earth](#rune-of-earth)
+    - [Rune of Water](#rune-of-water)
+    - [Rune of Air](#rune-of-air)
+    - [Rune of Electricity](#rune-of-electricity)
+    - [Rune of Cold](#rune-of-cold)
+    - [Rune of Toxins](#rune-of-toxins)
+    - [Rune of Blood](#rune-of-blood)
+    - [Rune of Light](#rune-of-light)
+    - [Rune of Dark](#rune-of-dark)
+    - [Rune of Sound](#rune-of-sound)
+    - [Rune of Body](#rune-of-body)
+    - [Rune of Mind](#rune-of-mind)
+    - [Rune of Soul](#rune-of-soul)
+    - [Rune of Focus](#rune-of-focus)
+    - [Rune of Unfocus](#rune-of-unfocus)
+    - [Rune of Time](#rune-of-time)
+    - [Rune of Strength](#rune-of-strength)
+    - [Rune of Gravity or Mass](#rune-of-gravity-or-mass)
 
 # Preface
 
@@ -272,7 +318,7 @@ Ultimately, Amon met his defeat and was imprisoned. In the wake of this treacher
 
 ## The Ascension of the Bright Lord
 
-Devoid of light, the people of Terra suffered immensely to the horrors that lurk in the endless darkness. And so, after the Great Betrayal, the Bright Lord ascended to the heavens. High above, the Bright Lord took upon himself the eternal task of tending to the heart of the dying star, infusing it with his own vitality and radiance. From this celestial vantage point, the Bright Lord keeps a vigilant eye over his beloved creations, ever watchful and protective. This act began the Radiant Cycle, the gradual fading over many months towards a red star before being revitalized to a pristine condition in an act of brilliant heavenly radiance. 
+Devoid of light, the people of Terra suffered immensely to the horrors that lurk in the endless darkness. And so, after the Great Betrayal, the Bright Lord ascended to the heavens. High above, the Bright Lord took upon himself the eternal task of tending to the heart of the dying star, infusing it with his own vitality and radiance. From this celestial vantage point, the Bright Lord keeps a vigilant eye over his beloved creations, ever watchful and protective. This act began the Radiant Cycle, the gradual fading over many months towards a red star before being revitalized to a pristine condition in an act of brilliant heavenly radiance.
 
 As the Bright Lord ascended, the remaining Brights on Terra established their own sects within the realm of Brightinism. This diversification led many individuals to embrace the role of priest or priestess,  pursuing a sacred path of devotion and guidance under a particular Bright.
 
@@ -942,7 +988,7 @@ When a character attempts a Polycraft transformation, they make a Polycraft Roll
 When a character attempts a Polycraft heal, they make a Polycraft Roll (this can be done while in a transformation). Depending on the wins achieved, the user gains one of the following effects.
 
 | Effect               | Challenge Level | Duration |
-| -------------------- | --------------- |
+| -------------------- | --------------- |----------|
 | Minor Healing Factor | 2               | 24 hr    |
 | Minor Heal           | 2               | Instant  |
 | Medium Heal          | 3               | Instant  |
@@ -1507,3 +1553,238 @@ Squares represent normal Fellcrafts. These can be accessed if you choose this if
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 
 ![alt text](images/Fellcraft/FellcraftTree.png)
+
+# Runecraft
+
+Runes are symbols that have been discovered, usually via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths  use conscious thought to manipulate reality in a favorable direction.
+Pure Runes are the most basic states of reality and  take raw energy as their inputs. Compound Runes are more complex runes constructed using pure runes. It should be noted, that at some point the energy within must be converted back to a physical phenomena, else there is no telling what will happen.
+Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
+To draw a rune is not enough to have it take effect. First, a conscious being must create the Rune. Secondly, the user must deeply understand the concept they are trying to invoke and be able to take it into conscious thought. Intelligence seems to be the gateway to Runecraft, as minds that are too weak buckle under the weight of the knowledge of the fabric of reality, leading to horrific accidents, madness, and death.
+
+## Runecraft Roll
+
+This roll represents your abilities with specific Runecrafts. A minimum of 1 Energy  is required to make a  Runecraft Roll. Energy  up to the level in the user’s Runesmith vocation can be consumed, adding an additional d6 to the Runecraft Roll for each Energy consumed.
+
+- Runecraft Roll = 3d6 (base) + Xd6 (Runecraft Skill) + Xd6 (INT) + Xd6 (Energy Consumed capped by Runesmith Vocation)
+
+## Crafting a Rune
+
+Three things are required to craft a Rune.
+
+- The knowledge of the rune.
+- The energy required to create the rune.
+- An object to hold the rune.
+
+## Knowledge of Runes
+
+In order for Runes to work, the user must consciously  look beyond the symbols into the exposed laws of reality, understand the property they are trying to manifest and bind the phenomena that they are trying to control to a symbol. Common symbols have been agreed upon through the ages as a way for scholars and runesmiths to share they’re work. In many ways, Runes act as safeguards for the user's consciousness, reducing the infinite laws of reality  to a single phenomena. If the user is sufficiently intelligent to understand the complexity of a Rune, they may bind the  desired phenomena within the Rune.
+
+If an insufficiently intelligent  person tried to simply draw the shape of the Rune of Fire, nothing would happen. Though if they truly tried to understand the Rune, the concept of fire itself, their mind could be permanently damaged forever.
+
+## Energy Example
+
+While anything could hypothetically be used for energy, generally runesmiths lean towards more energy dense sources as they are simply easier to carry.
+
+### Ichor of Monster or Fellkin blood
+
+Ichor is a plentiful source of energy, common, and very energy dense. It is by far the most commonly used energy for Runecraft.  Requires an Inverse Rune of Blood to output the energy.
+
+### Charged Electrite
+
+A charged electrite crystal is commonly used to store the required energy, as it is extremely stable. Requires an Inverse Rune of Electricity to output the energy.
+
+## An object to hold the rune
+
+Most Runesmith use scrolls for simple one time use runes, as they are affordable and easy to write runes on. Usually, the object the rune is located on physically receives damage up to the activation of the rune, as the energy stored within the object is consumed.
+Some Runesmith will create staves of other conduits inscribed with runes. These are made in a particular way to resist the toll of the rune, though they will eventually need to be repaired.
+
+It is known that the body can be a vessel for runes, though the effect often leads to a reduced life span, bad health, or madness. Though due to the immense power that can be gained, many take on the risk.
+
+## Overcharging Runes
+
+When creating a rune, a runesmith can overload a rune with energy, resulting in an additional +1d6 to the effect. However, since the rune was not made properly (as you are going above your Runesmith Vocation energy cap) the rune will have erratic behavior. Roll a d20 to determine the nature of the malfunction.
+
+d20|Runecraft Malfunction table
+|-|-|
+1|You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense.
+2|You become petrified for 1d10 rounds.
+3|A clone of the caster appears, desperately claiming to be the original.
+4|The one who activated the rune fall asleep
+5|All doors and windows within 60' of the caster fly open.
+6|You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.
+7|The spell's target becomes overwhelmed by a desire to eat the caster.
+8|The caster and target are flung 10' in opposite directions.
+9|The caster and target are both whisked to the Astral Plane for the next minute.
+10|A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.
+11|Rune converts to Shockwave effect
+12|Rune converts to Water effect
+13|Rune converts to Bleed effect
+14|Rune converts to Electric effect
+15|Rune converts to Cold effect
+16|Rune converts to Dark effect
+17|Rune converts to Mental effect
+18|Rune converts to Spiritual effect
+19|Rune converts to Fire effect
+20|The world slows down around the caster. The caster gets to take an additional action.
+
+## Runecraft in Combat
+
+Runecraft takes time to do properly, Runesmiths prepare their Runecrafts well ahead of when they would actually need them. Trying to create runes in battle is at best foolish and usually a death sentence.
+
+Simple Pure Runes bound to scrolls are an extremely common way of preparing for combat. When the user creates the scroll, they are able to craft a specific rune, and at the time they choose to use it, they will use their specific Runecraft roll from when it was created as its combat roll.
+
+## Compound Runes
+
+Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Compound Runes and rare Pure runes are controlled by powerful universities and the Royal families that sponsor them. The length to which they will go to protect their intellectual property is staggering.
+
+### Slow Fall
+
+Choose creatures within range. A falling creature’s rate of descent slows to 10 feet per second. If the creature lands before the effect ends, it takes no falling damage and can land on its feet, and the effect for that creature.
+
+#### Challenge Level
+
+**CL 1:** 1 people, 20 sec duration, 30 ft range
+
+**CL 2:** 3 people, 45 sec duration, 45 ft range
+
+**CL 3:** 5 people, 1 min duration, 60 ft range
+
+**+2 people for every level above, + 15 sec duration, +15 ft of range**
+
+#### Requirement
+
+INT Level: 1
+
+Energy Required: 1 energy minimum
+
+Constructed using the Rune of Air, Rune of Gravity, and Rune of Mind.
+
+### Oil Spill
+
+Slick greasy oil covers the ground in a circle centered on a point within range and turns it into difficult terrain for the duration.
+
+When the oil appears, each creature standing in its area must succeed on an Acrobatics Check or fall prone. A creature that enters the area or ends its turn there must also succeed on a Acrobatics Check or fall prone
+
+#### Challenge Level
+
+**CL 1:** 2 ft radius, 30 sec duration, 30 ft range, Challenge Level 3
+
+**CL 2:** 4 ft radius, 45 sec duration, 45 ft range, Challenge Level 3
+
+**CL 3:** 6 ft radius, 1 min duration, 60 ft range, Challenge Level 3
+
+**+2 ft of radius for every level above, + 15 sec duration, +15 ft of range**
+
+#### Requirement
+
+INT Requirment: 1
+
+Energy Required: 1 energy minimum
+
+Constructed using the Rune of Sound , Rune of Mind, and Rune of Body.
+
+### Minor Mirage
+
+This spell allows you to conjure a sound or an image of an object within a certain range, and it remains in existence for the duration of the spell. The illusion will also cease to exist if you dismiss it using an action, or if you cast the spell again.
+
+When creating a sound, you have control over its volume, which can range from a soft whisper to a piercing scream. The sound can take the form of your voice, someone else's voice, the roar of a lion, the beating of drums, or any other sound of your choosing. Throughout the spell's duration, the sound will persist continuously, or you can opt to produce discrete sounds at different moments before the spell's conclusion.
+
+If you decide to create an image of an object, such as a chair, muddy footprints, or a small chest, its size cannot exceed that of a 5-foot cube. However, this image lacks the ability to produce sound, light, smell, or any other sensory effect. If someone attempts to interact with the image physically, they will discover it to be an illusion, as objects can pass through it.
+
+Should a creature use its action to closely examine the sound or image, they can potentially discern that it is an illusion by succeeding in an General Knowledge check against your spell save DC. If the creature successfully identifies the illusion, it will appear faint to them.
+
+#### Challenge Level
+
+CL 1: 1 people, 30 sec duration, 30 ft range
+
+CL 2: 3 people, 45 sec duration, 45 ft range
+
+CL 3: 5 people, 1 min duration, 60 ft range
+
++2 people for every level above, + 15 sec duration, +15 ft of range
+
+#### Requirement
+
+INT Requirment: 1
+
+Energy Required: 1 energy minimum
+
+Constructed using the Rune of Mind.
+
+### Flame Tongued
+
+You can  speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. This sword gains the Fire damage type, and loses the Bleed damage type. The flames last until you  speak the command word again or until you drop or sheathe the sword.
+
+The blade can only be ignited as long as it is above 3 durability. The sword can be submerged in fire to repair the blade.
+
+#### Challenge Level
+
+CL 4 and above: Rune is completed.
+
+#### Requirement
+
+- INT Requirment: Level 1
+
+- Energy Required: 2 energy minimum
+
+- Rune slots required: 3
+
+- Rune of Fire: Level 2
+
+- Rune of Sound: Level 0
+
+- Weapon Smithing Skill: Level 1
+
+###
+
+#### Challenge Level
+
+#### Requirement
+
+INT Requirment:
+
+Energy Required:
+
+## Pure Runes
+
+Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Compound Runes and rare Pure runes are controlled by powerful universities and the Royal families that sponsor them. The length to which they will go to protect their intellectual property is staggering, as an arms race between runes and biological magic develops.
+
+### Rune of Fire
+
+### Rune of Earth
+
+### Rune of Water
+
+### Rune of Air
+
+### Rune of Electricity
+
+### Rune of Cold
+
+### Rune of Toxins
+
+### Rune of Blood
+
+### Rune of Light
+
+### Rune of Dark
+
+### Rune of Sound
+
+### Rune of Body
+
+### Rune of Mind
+
+Some Runes pertaining to consciousness have been discovered such as the Mind Rune. This discovery was groundbreaking, as it not only allowed Runesmith to allow conscious thought to influence Compound Runes, but also validated models that predict hypothetical runes pertaining to higher abstractions of consciousness such as fear, hate, and wrath. The models predict these Forbidden Runes to be so powerful that the Great Runesmiths of Academia search for them relentlessly.
+
+### Rune of Soul
+
+### Rune of Focus
+
+### Rune of Unfocus
+
+### Rune of Time
+
+### Rune of Strength
+
+### Rune of Gravity or Mass
