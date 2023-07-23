@@ -253,6 +253,7 @@ Map Download: <!-- Map link here-->
 - [Unique Items](#unique-items)
   - [Unique Weapons](#unique-weapons)
     - [Epilogue](#epilogue)
+    - [Adversary - Damaged](#adversary---damaged)
   - [Unique Armor](#unique-armor)
 
 ## Preface
@@ -1824,11 +1825,11 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### Epilogue
 
-**Effect: Ending**
+Effect: Ending
 
 Creatures killed with this weapon are instantly decapitated.
 
-**Desc**
+Desc:
 
 "There is no real ending. It's just a place where you stop the story."
 
@@ -1839,6 +1840,25 @@ A relatively unknown Runecraft to the wider populace, this sword is highly debat
 Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of Angland had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…
+
+#### Adversary - Damaged
+
+Radiance Conduit: Acts as a Radiance focus, meaning it can be used to modify the base dice of all Radiance rolls.
+
+Light Bound: This weapon is physical light, and can be absorbed and summoned by a Brightkin at will.
+
+Hilt Gem: None
+
+Desc:
+
+This fine golden hilt appears to be damaged from a tremendous impact, leaving the hilt crack and leaking light.
+
+"Awake, arise, or be forever Fallen…" - Words of the Bright Lord
+
+Sword of Luc Lightbringer. The hilt acts as a Miracle focus, allowing for devastating radiant attack. Luc has had this sword his entire life, a mysterious gift from when he was too young to remember. In many ways, this sword and Luc are one in the same. Elegant, bright, and extremely dangerous. Luc has spent his entire entire life learning the abilities of this artifact, though even he does not fully understand the weapon…
+
+This sword was used in the execution of Helena by Uhtred Storm at Luc’s order, though it was only used to subdue her and did not deal the final blow.
+
 
 
 ### Unique Armor
