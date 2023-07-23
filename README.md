@@ -255,6 +255,7 @@ Map Download: <!-- Map link here-->
     - [Epilogue](#epilogue)
     - [Adversary - Damaged](#adversary---damaged)
   - [Unique Armor](#unique-armor)
+- [Player Characters](#player-characters)
 
 ## Preface
 
@@ -1859,6 +1860,8 @@ Sword of Luc Lightbringer. The hilt acts as a Miracle focus, allowing for devast
 
 This sword was used in the execution of Helena by Uhtred Storm at Luc’s order, though it was only used to subdue her and did not deal the final blow.
 
-
-
 ### Unique Armor
+
+## Player Characters
+
+
