@@ -254,6 +254,7 @@ Map Download: <!-- Map link here-->
   - [Unique Weapons](#unique-weapons)
     - [Epilogue](#epilogue)
     - [Adversary - Damaged](#adversary---damaged)
+    - [Asclepius](#asclepius)
   - [Unique Armor](#unique-armor)
 - [Player Characters](#player-characters)
 
@@ -1859,6 +1860,20 @@ This fine golden hilt appears to be damaged from a tremendous impact, leaving th
 Sword of Luc Lightbringer. The hilt acts as a Miracle focus, allowing for devastating radiant attack. Luc has had this sword his entire life, a mysterious gift from when he was too young to remember. In many ways, this sword and Luc are one in the same. Elegant, bright, and extremely dangerous. Luc has spent his entire entire life learning the abilities of this artifact, though even he does not fully understand the weapon…
 
 This sword was used in the execution of Helena by Uhtred Storm at Luc’s order, though it was only used to subdue her and did not deal the final blow.
+
+#### Asclepius
+
+Command Asclepius:
+
+By holding and speaking the command word “Asclepius” the user may instruct this Runecraft to perform various simple actions. “Asclepius, turn into a whip, or short spear.” or Asclepius, attack those soldiers.”
+
+Metal Feeding:
+
+To repair, “Asclepius”  must feed on metal. Different amounts result in different levels of repair and time needed to complete these repairs.
+
+Desc:
+
+This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 
 ### Unique Armor
 
