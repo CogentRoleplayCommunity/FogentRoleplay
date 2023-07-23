@@ -259,6 +259,7 @@ Map Download: <!-- Map link here-->
     - [Char](#char)
     - [Dancing Moonlight](#dancing-moonlight)
     - [The Spear of Destiny](#the-spear-of-destiny)
+    - [Hew](#hew)
   - [Unique Armor](#unique-armor)
 - [Player Characters](#player-characters)
 
@@ -1972,6 +1973,21 @@ Eventually the Spear would end up in the possession of the Royal Family of Angla
 Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of Angland. Those that oppose Angland had a much different perspective…
+
+#### Hew
+
+Splinter:
+
+Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.
+
+Desc:
+
+"When you chop wood, splinters fly."  - Anonymous
+
+An unassuming rusty, yet excellent battleaxe both as versatile at chopping wood as chopping skulls.
+
+Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Redguard. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Lechens that roamed the forest, this weapon was forged.
+
 
 ### Unique Armor
 
