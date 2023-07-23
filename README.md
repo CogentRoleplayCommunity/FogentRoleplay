@@ -1891,7 +1891,7 @@ Swordbreakers, often wielded offhand to a main hand sword. They are designed to 
 
 #### Char
 
-Fire Repair and Enhancement: 
+Fire Repair and Enhancement:
 
 Weapons repairs in intense fires. If the fire is fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.
 
