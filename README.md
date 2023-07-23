@@ -1,10 +1,8 @@
-# Fallen
-
 On a dead world, at the end of time, life begins once again...
 
 ![alt_text](images/Places/TheContinent.png "image_tooltip")
 
-## Cogent Roleplay Open License
+# Cogent Roleplay Open License
 
 Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
 
@@ -22,202 +20,201 @@ Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
 
 Map Download: <!-- Map link here-->
 
-## Table of Contents
+# Table of Contents
 
-- [Fallen](#fallen)
-  - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
-  - [Table of Contents](#table-of-contents)
-  - [Preface](#preface)
-  - [Special Thanks](#special-thanks)
-  - [World Lore](#world-lore)
-    - [The Awakening of Fellkind](#the-awakening-of-fellkind)
-    - [The First of Brightkind](#the-first-of-brightkind)
-    - [Brightinism](#brightinism)
-    - [The Faithful One](#the-faithful-one)
-    - [The Great Betrayal](#the-great-betrayal)
-    - [The Ascension of the Bright Lord](#the-ascension-of-the-bright-lord)
-    - [The Dark Age](#the-dark-age)
-    - [The Dawn Age](#the-dawn-age)
-  - [The Bright Pantheon](#the-bright-pantheon)
-    - [The Bright Lord](#the-bright-lord)
-    - [The Great Betrayer](#the-great-betrayer)
-    - [The Twisting One](#the-twisting-one)
-    - [The Bound One](#the-bound-one)
-    - [The Beautiful One](#the-beautiful-one)
-    - [The Bargainer](#the-bargainer)
-    - [The Ravenous One](#the-ravenous-one)
-  - [Other Deities](#other-deities)
-    - [The Moon Presence](#the-moon-presence)
-  - [Terra](#terra)
-    - [The Sun of Terra](#the-sun-of-terra)
-    - [The Continent](#the-continent)
-  - [Countries of Terra](#countries-of-terra)
-    - [The Dawn Empire](#the-dawn-empire)
-      - [The City of Crossroads](#the-city-of-crossroads)
-    - [Reddland](#reddland)
-      - [A History of Conquest and Resilience](#a-history-of-conquest-and-resilience)
-      - [The Laughing Storm](#the-laughing-storm)
-      - [The Redd Blasphemy](#the-redd-blasphemy)
-      - [The Tragedy of Killroy the Fool](#the-tragedy-of-killroy-the-fool)
-      - [Tentcity](#tentcity)
-    - [The Isles of Crest](#the-isles-of-crest)
-      - [Cambria](#cambria)
-    - [Uskal](#uskal)
-  - [Races of Terra](#races-of-terra)
-    - [Brightkin](#brightkin)
-    - [Dhampires](#dhampires)
-    - [Seakin](#seakin)
-    - [Beastkin](#beastkin)
-    - [Chitinkin](#chitinkin)
-    - [Dragonkin](#dragonkin)
-    - [Crossbreeds](#crossbreeds)
-    - [More Race Ideas](#more-race-ideas)
-  - [Languages of Terra](#languages-of-terra)
-    - [Babelish](#babelish)
-    - [Bright-speak](#bright-speak)
-    - [Pirish](#pirish)
-    - [Deep-speak](#deep-speak)
-    - [Primal](#primal)
-    - [Kikishi](#kikishi)
-    - [Draconic](#draconic)
-    - [Demonic](#demonic)
-  - [Diseases of Terra](#diseases-of-terra)
-    - [The Spore](#the-spore)
-    - [Shards](#shards)
-  - [Magic Systems](#magic-systems)
-  - [Miracles](#miracles)
-    - [Miracle Roll](#miracle-roll)
-    - [Light](#light)
-      - [Generate Light](#generate-light)
-      - [Absorb Light](#absorb-light)
-    - [Miracle Wonders](#miracle-wonders)
-    - [Radiance](#radiance)
-      - [Specialization: Hard Light](#specialization-hard-light)
-      - [Specialization: Illusions](#specialization-illusions)
-      - [Absorb Light: Sun Light](#absorb-light-sun-light)
-      - [Radiant Resistance](#radiant-resistance)
-    - [Blessing](#blessing)
-      - [Buffs](#buffs)
-      - [Healing](#healing)
-      - [Specialization: Bright's Heritage](#specialization-brights-heritage)
-      - [Absorb Light: Emotion](#absorb-light-emotion)
-  - [Fellcraft](#fellcraft)
-    - [Fellcraft Roll](#fellcraft-roll)
-    - [Ichor](#ichor)
-      - [Regaining Ichor](#regaining-ichor)
-      - [Absorbing Ichor](#absorbing-ichor)
-    - [Fellcraft Tricks](#fellcraft-tricks)
-      - [Transformation](#transformation)
-      - [Polycraft Healing](#polycraft-healing)
-      - [Specialization: The Beast](#specialization-the-beast)
-      - [Absorbing Ichor: Flesh and Blood](#absorbing-ichor-flesh-and-blood)
-      - [Specialization: The Doppelganger](#specialization-the-doppelganger)
-      - [Slash Resistance](#slash-resistance)
-    - [Blazecraft](#blazecraft)
-      - [Specialization: The Fire Dragon](#specialization-the-fire-dragon)
-      - [Absorbing Ichor: Fire](#absorbing-ichor-fire)
-      - [\[Unfinished\] Specialization: The Phoenix](#unfinished-specialization-the-phoenix)
-      - [Fire Resistance](#fire-resistance)
-    - [Hydrocraft](#hydrocraft)
-      - [Specialization: The Kraken](#specialization-the-kraken)
-      - [Specialization: The Sea Serpent](#specialization-the-sea-serpent)
-        - [Dragontide](#dragontide)
-      - [Absorbing Ichor: Water](#absorbing-ichor-water)
-      - [Water Resistance](#water-resistance)
-    - [Electrocraft](#electrocraft)
-      - [Specialization: The Lightning Dragon](#specialization-the-lightning-dragon)
-        - [Dragonlightning](#dragonlightning)
-      - [Absorb Ichor: Electricity](#absorb-ichor-electricity)
-      - [Electric Resistance](#electric-resistance)
-    - [Terracraft](#terracraft)
-      - [Specialization: The Terra Dragon](#specialization-the-terra-dragon)
-        - [Dragonterra](#dragonterra)
-      - [Absorb Ichor: Terra](#absorb-ichor-terra)
-      - [Slash, Hew, and Pierce Resistance](#slash-hew-and-pierce-resistance)
-    - [Galecraft](#galecraft)
-      - [Specialization: The Gale Dragon](#specialization-the-gale-dragon)
-        - [Dragongale](#dragongale)
-      - [Absorb Ichor: Gale](#absorb-ichor-gale)
-      - [Shockwave Resistance](#shockwave-resistance)
-    - [Cryocraft](#cryocraft)
-      - [Specialization: The Ice Dragon](#specialization-the-ice-dragon)
-        - [Dragonfrost](#dragonfrost)
-      - [Absorb Ichor: Cold](#absorb-ichor-cold)
-      - [Cold Resistance](#cold-resistance)
-    - [Naturecraft](#naturecraft)
-      - [Specialization: The Nature Dragon](#specialization-the-nature-dragon)
-        - [Dragongrowth](#dragongrowth)
-      - [Absorb Ichor: Nature](#absorb-ichor-nature)
-      - [Bludgeon, Pierce, Slash Resistance](#bludgeon-pierce-slash-resistance)
-    - [Toxicraft](#toxicraft)
-      - [Specialization: Dragonvenom](#specialization-dragonvenom)
-      - [Absorb Ichor: Toxins](#absorb-ichor-toxins)
-      - [Toxin/Poison Resistance](#toxinpoison-resistance)
-    - [Soulcraft](#soulcraft)
-      - [The Way of the Wraith](#the-way-of-the-wraith)
-      - [Specialization: The Undead Dragon](#specialization-the-undead-dragon)
-        - [Soulfire](#soulfire)
-      - [Absorb Ichor: Souls](#absorb-ichor-souls)
-      - [Spiritual Resistance](#spiritual-resistance)
-    - [Shadowcraft](#shadowcraft)
-      - [Shadow Leaping](#shadow-leaping)
-      - [Specialization: The Shadow Dragon](#specialization-the-shadow-dragon)
-        - [Dragonumbra](#dragonumbra)
-      - [Absorb Ichor: Shadow](#absorb-ichor-shadow)
-      - [Dark Resistance](#dark-resistance)
-    - [Mindcraft](#mindcraft)
-      - [Specialization: Dreamcraft](#specialization-dreamcraft)
-      - [Absorb Ichor: Thought](#absorb-ichor-thought)
-      - [Mental Resistance](#mental-resistance)
-    - [Ferracraft](#ferracraft)
-      - [Specialization: The Metal Dragon](#specialization-the-metal-dragon)
-        - [Dragonsteel](#dragonsteel)
-      - [Absorb Ichor: Magnetism](#absorb-ichor-magnetism)
-      - [Physical Resistance](#physical-resistance)
-    - [Sonocraft](#sonocraft)
-      - [Specialization: The Dragon](#specialization-the-dragon)
-      - [Absorb Ichor: Sonic Sounds](#absorb-ichor-sonic-sounds)
-      - [Shockwave Resistance](#shockwave-resistance-1)
-    - [Hemacraft](#hemacraft)
-      - [Blood Buffing](#blood-buffing)
-      - [Healing Hemacraft](#healing-hemacraft)
-      - [Pierce, Slash Resistance](#pierce-slash-resistance)
-      - [Specialization: The Healing Blood](#specialization-the-healing-blood)
-      - [Absorb Ichor: Blood](#absorb-ichor-blood)
-    - [Spidercraft](#spidercraft)
-      - [Fellcraft Combination](#fellcraft-combination)
-      - [Specialization: The Giant Spider](#specialization-the-giant-spider)
-      - [Absorb Ichor: Liquify Prey](#absorb-ichor-liquify-prey)
-      - [Spider Climb](#spider-climb)
-    - [Plasmacraft](#plasmacraft)
-      - [Fellcraft Combination: Plasmacraft](#fellcraft-combination-plasmacraft)
-      - [Specialization: The Ancient Dragon](#specialization-the-ancient-dragon)
-      - [Absorbing Ichor: Solar and Plasma](#absorbing-ichor-solar-and-plasma)
-    - [Stormcraft](#stormcraft)
-      - [Fellcraft Combination: Stormcraft](#fellcraft-combination-stormcraft)
-      - [Specialization: The Storm Dragon](#specialization-the-storm-dragon)
-        - [Control Weather](#control-weather)
-    - [Magmacraft](#magmacraft)
-      - [Fellcraft Combination: Magmacraft](#fellcraft-combination-magmacraft)
-      - [Specialization: The Magma Dragon](#specialization-the-magma-dragon)
-        - [Influence Tectonic Plates](#influence-tectonic-plates)
-    - [Blizzardcraft](#blizzardcraft)
-      - [Fellcraft Combination: Blizzardcraft](#fellcraft-combination-blizzardcraft)
-      - [Specialization: The Blizzard Dragon](#specialization-the-blizzard-dragon)
-        - [Create Blizzards](#create-blizzards)
-    - [Fellcraft Tree](#fellcraft-tree)
+- [Cogent Roleplay Open License](#cogent-roleplay-open-license)
+- [Table of Contents](#table-of-contents)
+- [Preface](#preface)
+- [Special Thanks](#special-thanks)
+- [World Lore](#world-lore)
+  - [The Awakening of Fellkind](#the-awakening-of-fellkind)
+  - [The First of Brightkind](#the-first-of-brightkind)
+  - [Brightinism](#brightinism)
+  - [The Faithful One](#the-faithful-one)
+  - [The Great Betrayal](#the-great-betrayal)
+  - [The Ascension of the Bright Lord](#the-ascension-of-the-bright-lord)
+  - [The Dawn Age](#the-dawn-age)
+  - [The High Age](#the-high-age)
+- [The Bright Pantheon](#the-bright-pantheon)
+  - [The Bright Lord](#the-bright-lord)
+  - [The Great Betrayer](#the-great-betrayer)
+  - [The Twisting One](#the-twisting-one)
+  - [The Bound One](#the-bound-one)
+  - [The Beautiful One](#the-beautiful-one)
+  - [The Bargainer](#the-bargainer)
+  - [The Ravenous One](#the-ravenous-one)
+- [Other Deities](#other-deities)
+  - [The Moon Presence](#the-moon-presence)
+- [Terra](#terra)
+  - [The Sun of Terra](#the-sun-of-terra)
+  - [The Continent](#the-continent)
+- [Countries of Terra](#countries-of-terra)
+  - [The Dawn Empire](#the-dawn-empire)
+    - [The City of Crossroads](#the-city-of-crossroads)
+  - [Reddland](#reddland)
+    - [A History of Conquest and Resilience](#a-history-of-conquest-and-resilience)
+    - [The Laughing Storm](#the-laughing-storm)
+    - [The Redd Blasphemy](#the-redd-blasphemy)
+    - [The Tragedy of Killroy the Fool](#the-tragedy-of-killroy-the-fool)
+    - [Tentcity](#tentcity)
+  - [The Isles of Crest](#the-isles-of-crest)
+    - [Cambria](#cambria)
+  - [Uskal](#uskal)
+- [Races of Terra](#races-of-terra)
+  - [Brightkin](#brightkin)
+  - [Dhampires](#dhampires)
+  - [Seakin](#seakin)
+  - [Beastkin](#beastkin)
+  - [Chitinkin](#chitinkin)
+  - [Dragonkin](#dragonkin)
+  - [Crossbreeds](#crossbreeds)
+  - [More Race Ideas](#more-race-ideas)
+- [Languages of Terra](#languages-of-terra)
+  - [Babelish](#babelish)
+  - [Bright-speak](#bright-speak)
+  - [Pirish](#pirish)
+  - [Deep-speak](#deep-speak)
+  - [Primal](#primal)
+  - [Kikishi](#kikishi)
+  - [Draconic](#draconic)
+  - [Demonic](#demonic)
+- [Diseases of Terra](#diseases-of-terra)
+  - [The Spore](#the-spore)
+  - [Shards](#shards)
+- [Magic Systems](#magic-systems)
+- [Miracles](#miracles)
+  - [Miracle Roll](#miracle-roll)
+  - [Light](#light)
+    - [Generate Light](#generate-light)
+    - [Absorb Light](#absorb-light)
+  - [Miracle Wonders](#miracle-wonders)
+  - [Radiance](#radiance)
+    - [Specialization: Hard Light](#specialization-hard-light)
+    - [Specialization: Illusions](#specialization-illusions)
+    - [Absorb Light: Sun Light](#absorb-light-sun-light)
+    - [Radiant Resistance](#radiant-resistance)
+  - [Blessing](#blessing)
+    - [Buffs](#buffs)
+    - [Healing](#healing)
+    - [Specialization: Bright's Heritage](#specialization-brights-heritage)
+    - [Absorb Light: Emotion](#absorb-light-emotion)
+- [Fellcraft](#fellcraft)
+  - [Fellcraft Roll](#fellcraft-roll)
+  - [Ichor](#ichor)
+    - [Regaining Ichor](#regaining-ichor)
+    - [Absorbing Ichor](#absorbing-ichor)
+  - [Fellcraft Tricks](#fellcraft-tricks)
+    - [Transformation](#transformation)
+    - [Polycraft Healing](#polycraft-healing)
+    - [Specialization: The Beast](#specialization-the-beast)
+    - [Absorbing Ichor: Flesh and Blood](#absorbing-ichor-flesh-and-blood)
+    - [Specialization: The Doppelganger](#specialization-the-doppelganger)
+    - [Slash Resistance](#slash-resistance)
+  - [Blazecraft](#blazecraft)
+    - [Specialization: The Fire Dragon](#specialization-the-fire-dragon)
+    - [Absorbing Ichor: Fire](#absorbing-ichor-fire)
+    - [\[Unfinished\] Specialization: The Phoenix](#unfinished-specialization-the-phoenix)
+    - [Fire Resistance](#fire-resistance)
+  - [Hydrocraft](#hydrocraft)
+    - [Specialization: The Kraken](#specialization-the-kraken)
+    - [Specialization: The Sea Serpent](#specialization-the-sea-serpent)
+      - [Dragontide](#dragontide)
+    - [Absorbing Ichor: Water](#absorbing-ichor-water)
+    - [Water Resistance](#water-resistance)
+  - [Electrocraft](#electrocraft)
+    - [Specialization: The Lightning Dragon](#specialization-the-lightning-dragon)
+      - [Dragonlightning](#dragonlightning)
+    - [Absorb Ichor: Electricity](#absorb-ichor-electricity)
+    - [Electric Resistance](#electric-resistance)
+  - [Terracraft](#terracraft)
+    - [Specialization: The Terra Dragon](#specialization-the-terra-dragon)
+      - [Dragonterra](#dragonterra)
+    - [Absorb Ichor: Terra](#absorb-ichor-terra)
+    - [Slash, Hew, and Pierce Resistance](#slash-hew-and-pierce-resistance)
+  - [Galecraft](#galecraft)
+    - [Specialization: The Gale Dragon](#specialization-the-gale-dragon)
+      - [Dragongale](#dragongale)
+    - [Absorb Ichor: Gale](#absorb-ichor-gale)
+    - [Shockwave Resistance](#shockwave-resistance)
+  - [Cryocraft](#cryocraft)
+    - [Specialization: The Ice Dragon](#specialization-the-ice-dragon)
+      - [Dragonfrost](#dragonfrost)
+    - [Absorb Ichor: Cold](#absorb-ichor-cold)
+    - [Cold Resistance](#cold-resistance)
+  - [Naturecraft](#naturecraft)
+    - [Specialization: The Nature Dragon](#specialization-the-nature-dragon)
+      - [Dragongrowth](#dragongrowth)
+    - [Absorb Ichor: Nature](#absorb-ichor-nature)
+    - [Bludgeon, Pierce, Slash Resistance](#bludgeon-pierce-slash-resistance)
+  - [Toxicraft](#toxicraft)
+    - [Specialization: Dragonvenom](#specialization-dragonvenom)
+    - [Absorb Ichor: Toxins](#absorb-ichor-toxins)
+    - [Toxin/Poison Resistance](#toxinpoison-resistance)
+  - [Soulcraft](#soulcraft)
+    - [The Way of the Wraith](#the-way-of-the-wraith)
+    - [Specialization: The Undead Dragon](#specialization-the-undead-dragon)
+      - [Soulfire](#soulfire)
+    - [Absorb Ichor: Souls](#absorb-ichor-souls)
+    - [Spiritual Resistance](#spiritual-resistance)
+  - [Shadowcraft](#shadowcraft)
+    - [Shadow Leaping](#shadow-leaping)
+    - [Specialization: The Shadow Dragon](#specialization-the-shadow-dragon)
+      - [Dragonumbra](#dragonumbra)
+    - [Absorb Ichor: Shadow](#absorb-ichor-shadow)
+    - [Dark Resistance](#dark-resistance)
+  - [Mindcraft](#mindcraft)
+    - [Specialization: Dreamcraft](#specialization-dreamcraft)
+    - [Absorb Ichor: Thought](#absorb-ichor-thought)
+    - [Mental Resistance](#mental-resistance)
+  - [Ferracraft](#ferracraft)
+    - [Specialization: The Metal Dragon](#specialization-the-metal-dragon)
+      - [Dragonsteel](#dragonsteel)
+    - [Absorb Ichor: Magnetism](#absorb-ichor-magnetism)
+    - [Physical Resistance](#physical-resistance)
+  - [Sonocraft](#sonocraft)
+    - [Specialization: The Dragon](#specialization-the-dragon)
+    - [Absorb Ichor: Sonic Sounds](#absorb-ichor-sonic-sounds)
+    - [Shockwave Resistance](#shockwave-resistance-1)
+  - [Hemacraft](#hemacraft)
+    - [Blood Buffing](#blood-buffing)
+    - [Healing Hemacraft](#healing-hemacraft)
+    - [Pierce, Slash Resistance](#pierce-slash-resistance)
+    - [Specialization: The Healing Blood](#specialization-the-healing-blood)
+    - [Absorb Ichor: Blood](#absorb-ichor-blood)
+  - [Spidercraft](#spidercraft)
+    - [Fellcraft Combination](#fellcraft-combination)
+    - [Specialization: The Giant Spider](#specialization-the-giant-spider)
+    - [Absorb Ichor: Liquify Prey](#absorb-ichor-liquify-prey)
+    - [Spider Climb](#spider-climb)
+  - [Plasmacraft](#plasmacraft)
+    - [Fellcraft Combination: Plasmacraft](#fellcraft-combination-plasmacraft)
+    - [Specialization: The Ancient Dragon](#specialization-the-ancient-dragon)
+    - [Absorbing Ichor: Solar and Plasma](#absorbing-ichor-solar-and-plasma)
+  - [Stormcraft](#stormcraft)
+    - [Fellcraft Combination: Stormcraft](#fellcraft-combination-stormcraft)
+    - [Specialization: The Storm Dragon](#specialization-the-storm-dragon)
+      - [Control Weather](#control-weather)
+  - [Magmacraft](#magmacraft)
+    - [Fellcraft Combination: Magmacraft](#fellcraft-combination-magmacraft)
+    - [Specialization: The Magma Dragon](#specialization-the-magma-dragon)
+      - [Influence Tectonic Plates](#influence-tectonic-plates)
+  - [Blizzardcraft](#blizzardcraft)
+    - [Fellcraft Combination: Blizzardcraft](#fellcraft-combination-blizzardcraft)
+    - [Specialization: The Blizzard Dragon](#specialization-the-blizzard-dragon)
+      - [Create Blizzards](#create-blizzards)
+  - [Fellcraft Tree](#fellcraft-tree)
 
-## Preface
+# Preface
 
 Howdy everyone, this is your friendly neighborhood Javk Wick here. Fallen is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS.
 
-## Special Thanks
+# Special Thanks
 
 I'd like to thank Shad, Dave, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay. Your hard work allowed me to finally bring my own world "Fallen" to life and share it with my friends. I'm very grateful.
 
-## World Lore
+# World Lore
 
-### The Awakening of Fellkind
+## The Awakening of Fellkind
 
 On dead world, at the end of time, life begins once again…
 
@@ -243,23 +240,27 @@ And finally, the Bright Lord himself spoke, "Thou are created in the image of gr
 
 Through this transformative event, a multitude of beings came into existence. The Bright Lord named these being "Fellkin", as they were of a fallen world. Despite assuming humanoid forms, Fellkind retained the ability to tap into the genetic traits inherited from their monstrous origins. Fellkind learned to harness ichor, the potential energy held in the blood of monsters and Fellkind alike. As the gifted and disciplined among them delved deeper into their newfound powers, they shaped and refined these abilities, giving birth to what is now recognized as Fellcraft.
 
-### The First of Brightkind
+## The First of Brightkind
 
 With a divine touch, the Bright Lord bestowed the blessing upon the most devoted daughters of Fellkind his offspring.These were the first demi-brights or Brightkind. The Bright Lord proclaimed their rightful dominion over Terra and Fellkind to his offspring, though they would have to seize their claim through their own endeavors. Unlike their Fellkind brethren, Brightkind bore no trace of monstrous traits. They possessed the extraordinary ability to perform Miracles, akin to the Bright Lord himself. While Fellcraft adhered to the natural laws of the world, Miracles appeared to regard them as mere suggestions, perplexing scholars to this very day. Immortality coursed through the veins of Brightkin, much like their celestial progenitor, rendering them virtually impervious to permanent demise.
 
-### Brightinism
+## Brightinism
 
 The Bright Lord imparted his teachings upon both Fellkind and Brightkind, establishing a spiritual path known as Brightinism. Central to this belief system was the solemn warning of the Dead God, an ancient entity responsible for the forsaken state and cataclysmic demise of the previous world. The Bright Lord strictly forbade the worship of the Dead God, for it was prophesied that such reverence would summon the entity back into existence, triggering another devastating rapture. In order to guide his devoted followers, the Bright Lord bestowed upon them profound visions, serving as beacons of enlightenment and direction for his Brightinist followers.
 
-### The Faithful One
+## The Faithful One
 
-The Bright Lord entrusted the protection of the people of Terra to his most loyal companion, the bright Amon, known as the Faithful One and the bearer of the Mark of the Undying. Amon developed a deep affection for Fellkind, teaching them to defend themselves and dwelled among them. When the remaining demons on the planet began preying upon Fellkind, Amon embarked on a relentless war against them. Wielding the formidable Spear of Destiny, he waged a campaign of rampage and pursuit, extinguishing the existence of demons from Terra.
+Bathed in near endless night resulting from the fading star, the newly created inhabitants of Terra were hunted by the monsters of Terra. The Bright Lord entrusted the protection of his new creations to his most loyal companion, the bright Amon, known as the Faithful One, the bearer of the Mark of the Undying. Amon taught Fellkin and Brightkin how to defend themselves, construct weapons, and dwelled among them. Through his time among them, Amon developed a deep affection for Fellkind.
+
+When the remaining Demon Lords of Terra began preying upon Fellkind, Amon embarked on a relentless war against them. Wielding the formidable Spear of Destiny, he waged a campaign of rampage and pursuit, extinguishing the existence of demons from Terra.
+
+![Alt text](<images/Brights/The Great Betrayer.png>)
 
 However, unsatisfied with the mere possibility of their return, Amon ventured to the very realm of the demons. There, he unleashed unyielding fury, tearing through their world with unrestrained might. Legends speak of Amon's boundless rage echoing across the demon realm for an eternity, all driven by his unwavering commitment to protecting those he cherished. The demons, recognizing his indomitable power, bestowed upon him the title of "The Demon of the West," for in time they considered him one of their own. Yet, upon his return, Amon had been forever changed.
 
-From that moment forward, the demons never dared to set foot on Terra again, for the sole object of their terror was none other than Amon himself.
+From that moment forward, the demons never dared to set foot on Terra again, for the only thing they feared was him.
 
-### The Great Betrayal
+## The Great Betrayal
 
 The motives behind Amon, the Faithful One, attempting to overthrow the Bright Lord remain shrouded in uncertainty. Some believe that he was tainted by the influence of the Dead God, while Brightinist priests often assert that it was a manifestation of the Tenets themselves and a deliberate test of the Bright Lord's will. According to tales passed down through generations, their epic clash was so cataclysmic that it fractured the moon into two distinct celestial bodies.
 
@@ -269,27 +270,31 @@ Ultimately, Amon met his defeat and was imprisoned. In the wake of this treacher
 - _"Fear the indelible mark of the Undying"_
 - _"Fear all tyrants, for true freedom should know no bounds"_
 
-### The Ascension of the Bright Lord
+## The Ascension of the Bright Lord
 
-Devoid of light, the people of Terra suffered immensely to the horrors that lurk in the endless darkness . And so, after the Great Betrayal, the Bright Lord ascended to the heavens. High above, the Bright Lord took upon himself the eternal task of tending to the heart of the dying star, infusing it with his own vitality and radiance. From this celestial vantage point, the Bright Lord keeps a vigilant eye over his beloved creations, ever watchful and protective.
+Devoid of light, the people of Terra suffered immensely to the horrors that lurk in the endless darkness. And so, after the Great Betrayal, the Bright Lord ascended to the heavens. High above, the Bright Lord took upon himself the eternal task of tending to the heart of the dying star, infusing it with his own vitality and radiance. From this celestial vantage point, the Bright Lord keeps a vigilant eye over his beloved creations, ever watchful and protective. This act began the Radiant Cycle, the gradual fading over many months towards a red star before being revitalized to a pristine condition in an act of brilliant heavenly radiance. 
 
-As the Bright Lord ascended, the remaining Brights on Terra established their own sects within the realm of Brightinism. This diversification led many individuals to embrace the role of priest among priests, pursuing a sacred path of devotion and guidance.
+As the Bright Lord ascended, the remaining Brights on Terra established their own sects within the realm of Brightinism. This diversification led many individuals to embrace the role of priest or priestess,  pursuing a sacred path of devotion and guidance under a particular Bright.
 
-The remaining Brights established their own sects under Brightinism, leading many to walk the path of priest of priests.
+The Bright Lord’s Ascension marked the age, later referred to as the Dark Age, and was the founding of a new age, the Dawn Age.
 
-### The Dark Age
+## The Dawn Age
 
-Thus commenced the Dark Age, an era spanning 10,000 years during which Fellkin and Brightkin fought a relentless battle against the monstrous inhabitants of the planet. With sheer determination and the strength of their own blood and steel, they painstakingly carved out civilizations. These were times cloaked in darkness, where kingdoms succumbed to the perils of monsters, diseases, internal strife and each other. Eventually, the Dawn Empire emerged as the dominant power, with its resplendent capital, Crossroad, standing at the heart of the continent. From this mighty seat of power, they asserted their control, compelling the kingdoms of Terra to bow before them or face their furious wrath.
+Thus commenced the Dawn Age, an era spanning 10,000 years during which Fellkin and Brightkin fought a relentless battle against the monstrous inhabitants of the planet. With sheer determination and the strength of their own blood and steel, the Bright Lord’s creations painstakingly carved out the first civilizations of Terra. These were times of conflict, where kingdoms succumbed to the perils of monsters, diseases, internal strife and each other.
 
-### The Dawn Age
+## The High Age
 
-And so dawned the Age of Dawn, an epoch characterized by a semblance of peace and prosperity. Under the rule of Brightkin Emperor Commudus Lightbringer, the realm experienced a period of relative tranquility.
+Eventually, the Dawn Empire emerged as the dominant power, with its resplendent capital, Crossroad, standing at the heart of the continent. From this mighty seat of power, they asserted their control, compelling the kingdoms of Terra to bow before them or face their furious wrath.
 
-## The Bright Pantheon
+And so, with the founding of the Dawn Empire, came about the High Age, an epoch characterized by a semblance of peace and prosperity. Under the rule of Brightkin Emperor Commudus Lightbringer, the realm experienced a period of relative tranquility.
+
+# The Bright Pantheon
 
 Brights are a group of beings that are most commonly associated with the Bright Lord himself. The term Bright, should not be seen as an indication of the luminosity of the beings, but rather their association with the Bright Lord. In some cultures around Terra, Brights are also referred to as gods.
 
-### The Bright Lord
+## The Bright Lord
+
+![Alt text](<images/Brights/The Bright Lord.png>)
 
 Aspect: Light, Intelligence, Dominion
 
@@ -304,9 +309,17 @@ Relics:
 
 Lore:
 
-The Bright Lord is the chief deity of Brightinism. As the creator of Fellkind and Brightkind, he is worshiped widely across Terra.
+The Bright Lord is the chief deity of Brightinism. As the creator of Fellkind and Brightkind, he is worshiped widely across Terra across all walks of life.
 
-### The Great Betrayer
+It is said that the Bright Lord ascended into the heavens to tend to the heart of the star around which Terra orbits. From his vantage point, he keeps a watchful eye on his creations.
+
+Priests of the Bright Lord are devoutly loyal to the Dawn Empire and Imperial family, which they see as the physical manifestation of the Bright Lords' will on Terra. They occupy high positions within the Imperial senate and are consulted whenever important decisions are made, as their visions said to be given by the Bright Lord himself are rumored to illuminate the very future.
+
+The Inquisition also are fervent worshipers of the Bright Lord, carrying out what they see are the more brutal yet necessary aspects of faith. This includes the hunting of the heretical group known as the Cult of Amon.
+
+## The Great Betrayer
+
+![Alt text](<images/Brights/The Great Betrayer.png>)
 
 Domain: Vengeance, Fury, Betrayal
 
@@ -316,21 +329,21 @@ Aliases: Amon (This name is frowned upon, it is considered heresy and a curse), 
 
 Lore:
 
-The Great Betrayer, known as Amon the Faithful One prior to the cataclysmic event that forever tainted his name, stood as the Bright Lord's most loyal servant. Bestowed with the Spear of Destiny by his master, Amon faithfully served the Bright Lord until his dramatic and sudden betrayal.
+The Great Betrayer, known as Amon the Faithful One prior to the cataclysmic event that forever tainted his name, stood as the Bright Lord’s most loyal servant. Bestowed with the Spear of Destiny by his master, Amon faithfully served the Bright Lord until his dramatic and sudden betrayal.
 
-The name "Amon" has since become a curse, a foreboding omen not to be uttered lightly. Today, he is widely referred to as "The Great Betrayer" on Terra, with worship strictly forbidden. However, many temples still preserve teachings and house statues of Amon, acknowledging his enduring status within the Bright Pantheon.
+The name “Amon” has since become a curse, a foreboding omen not to be uttered lightly. Today, he is widely referred to as “The Great Betrayer” on Terra, with worship strictly forbidden. However, many temples still preserve teachings and house statues of Amon, acknowledging his enduring status within the Bright Pantheon.
 
 By all accounts, Amon was considered the most dangerous of all the Brights, owing to his mysterious ability to adapt his power to match any adversary before him. Scholars are perplexed by the abundance of ancient records chronicling his time living among and protecting the early Fellkind. Some texts even describe him as sharing similarities in stature and strength with Fellkind. Myths recount his legendary battles against the Demon Lords of Terra, depicting him as an unstoppable force of relentless might.
 
-Amon's Mark, known as "the Mark/Brand of the Undying," is referenced in numerous ancient texts. While the exact nature of this mark remains elusive, it is believed to render Amon virtually invincible, endowing him with great power.
+Amon’s Mark, known as “the Mark/Brand of the Undying,” is referenced in numerous ancient texts. While the exact nature of this mark remains elusive, it is believed to render Amon virtually invincible, endowing him with great power.
 
-Amon's profound affinity for weaponry and equipment is evident, as he is credited with teaching our ancestors the use of many weapons still employed today. Artifacts associated with Amon are closely guarded within the capital of the Dawn Empire, Crossroads. However, whispers persist of lost artifacts, swallowed by the tides of time...
+Amon’s profound affinity for weaponry and equipment is evident, as he is credited with teaching our ancestors the use of many weapons still employed today. Artifacts associated with Amon are closely guarded within the capital of the Dawn Empire, Crossroads. However, whispers persist of lost artifacts, swallowed by the tides of time…
 
 Relics:
 
 - [The Spear of Destiny](https://docs.google.com/document/d/1Ty2EO2MxMxJNGoYT8BQaVelj2p4tK711r90zfWXJfo0/edit?usp=sharing)
 
-### The Twisting One
+## The Twisting One
 
 Aspect: Want, Growth, Change
 
@@ -340,24 +353,27 @@ Aliases: Leviathan, The Great Circle, Lord of the Deep, Rahab, Progenitor of Dra
 
 Lore:
 
-The Twisting One, known by different names across various cultures, such as the "World Serpent" in the Isles of Crest, the "Ouroboros" in Leodelphia, and the "Leviathan" of Redwall, represents a singular entity of immense proportions. It is said to encircle the foundations of the world, predating even the arrival of the Bright Lord. Revered for symbolizing want, growth, and change, the Twisting One is worshiped by the Seakin, Saliours, and those seeking radical transformations in their lives.
+The Twisting One, known by different names across various cultures, such as the “World Serpent” of the Isles of Crest, the “Ouroboros” of Leodelphia, and the “Leviathan” of Redwall, represents a singular entity of immense proportions, said to encircle the foundations of the world. Revered for symbolizing want, growth, and change, the Twisting One is worshiped by the Seakin, Saliours, and those seeking radical transformations in their lives.
 
 Legend speaks of the Bright Lord bestowing wings upon certain offspring of the Twisting One, which gave rise to the first dragons.
 
-The massive movements of the Twisting One deep beneath the ocean's surface are believed to give rise to phenomena such as dry storms and oceanic currents. It is even theorized that earthquakes and fissures on Terra are the result of its movements along the seafloor, leaving gargantuan gashes in the bedrock itself.
+The massive movements of the Twisting One deep beneath the ocean’s surface are believed to give rise to phenomena such as dry storms and oceanic currents. It is even theorized that earthquakes and fissures on Terra are the result of its movements along the seafloor, leaving gargantuan gashes in the bedrock itself.
 
-Its impenetrable scales are said to render it impervious to physical weapons. Remarkably, a scale from the Twisting One has been discovered deep within the Earth, painstakingly harvested to forge exceptional armor and weapons. These scaled artifacts are said to grant longevity and vitality to their wielders.
+Its impenetrable scales are said to render it impervious to physical weapons. Remarkably, a scale from the Twisting One has been discovered deep within the Earth near the Iris Sea in the Dawn Empire, painstakingly harvested to forge exceptional armor and weapons. These scaled artifacts are said to grant longevity and vitality to their wielders.
 
 Description:
-Eyewitness accounts of the Twisting One's immense body, as known in the Dawn Empire, are plentiful. Many mistakenly perceive parts of its body as islands or landmasses.
 
-Dark and colossal scales cover every inch of the creature, rendering it practically indestructible. While sightings of its body parts are relatively common, encounters with its head are rare due to its gargantuan size. Survivors who have witnessed its head describe it as eclipsing the sun itself. Its eyes emit a red glow reminiscent of dawn's rays, while smoke billows from its nostrils, occasionally igniting with bursts of light. Direct eye contact with the creature is said to petrify onlookers, and it exhales storms of fire.
+Eyewitness accounts of the Twisting One’s immense body, as known in the Dawn Empire, are plentiful. Many mistakenly perceive parts of its body as islands or landmasses.
+
+Dark and colossal scales cover every inch of the creature, rendering it practically indestructible. While sightings of its body parts are relatively common, encounters with its head are rare due to its gargantuan size. Survivors who have witnessed its head describe it as eclipsing the sun itself. Its eyes emit a red glow reminiscent of the dawn’s rays, while smoke billows from its nostrils, occasionally igniting with bursts of light. Direct eye contact with the creature is said to petrify onlookers, and it exhales storms of fire.
 
 Relics:
 
 - The Serpent Staff
 
-### The Bound One
+## The Bound One
+
+![Alt text](<images/Brights/The Bound One.png>)
 
 Domain: Rest, Binding, Stagnation, Patience
 
@@ -368,14 +384,16 @@ Aliases: The Shiftless One, The Deep Dreamer, The Still One
 Lore:
 "With no respite from the outside world, the Bound One could only look within. And there it found the gentle embrace of an infinite dream..."
 
-During the creation of our world, the Bound One introduced the concepts of rest, sleep, and relaxation. Followers of the Bound One seek enlightenment not through worldly concerns but through deep relaxation and dreams. These devotees, known as Bound Apostles, don heavy robes and chains, surrendering themselves to endless slumber. They awaken only to share the secrets and innovations discovered within their dreams. Many of the mystical runes used throughout Terra today were uncovered through this ethereal connection.
+During the Awakening of Terra, the Bound One introduced the concepts of rest, sleep, and relaxation. Followers of the Bound One seek enlightenment not through worldly concerns but through deep relaxation and dreams. These devotees, known as Bound Apostles, don heavy robes and chains, surrendering themselves to endless slumber. They awaken only to share the secrets and innovations discovered within their dreams. Many of the mystical runes used throughout Terra today were uncovered through this ethereal connection.
 
 Description:
-There exist no personal accounts of the Bound One. Depictions of the Bound One in cathedral statues portray a formless figure bound in chains, devoid of distinguishable features. Often depicted slumped forward or lying on the ground, the Bound One's representation evokes a sense of stillness and tranquility.
+There exist no personal accounts of the Bound One. Depictions of the Bound One in cathedral statues portray a formless figure bound in chains, devoid of distinguishable features. Often depicted slumped forward or lying on the ground, the Bound One’s representation evokes a sense of stillness and tranquility.
 
 Relics:
 
-### The Beautiful One
+## The Beautiful One
+
+![Alt text](<images/Brights/The Beatiful One.png>)
 
 Aspect: Passion, Fertility, Beauty
 
@@ -389,11 +407,11 @@ During the Awakening, The Beautiful One bestowed upon Fellkind the gift of passi
 
 Whether it be lovers entwined in amorous embrace, aspiring mothers yearning for the miracle of birth, vain queens adorning themselves with splendor, or even those working within the realms of pleasure, many offer prayers and seek the blessings of The Beautiful One.
 
-Priests and priestesses dedicated to The Beautiful One can be identified by their elegant attire and captivating presence. They are known for embracing their own sensuality and engaging in acts of intimate connection. Through their passions, they seek the favor and patronage of powerful nobles and prosperous individuals.
+Priests and priestesses dedicated to The Beautiful One can be identified by their elegant attire and captivating presence. They are known for embracing their own sensuality and engaging in acts of intimate connection. Through their passions, they seek the favor and patronage of powerful nobles and individuals of great wealth.
 
 Relics:
 
-### The Bargainer
+## The Bargainer
 
 Aspect: Prosperity, Secrets, Knowledge
 
@@ -404,7 +422,7 @@ Aliases: The Clever One, The Keeper of Secrets, Bright of Trickery, Cleverous
 Lore:
 "Everything has a price..." - The Bargainer
 
-During the creation of Terra, The Bargainer bestowed upon Fellkind the insatiable desire for prosperity and the thirst for hidden knowledge. The Bargainer encourages the people to accumulate wealth and unravel the secrets of the world.
+During the Awakening, The Bargainer bestowed upon Fellkind the insatiable desire for prosperity and the thirst for hidden knowledge. The Bargainer encourages the people of Terra to accumulate wealth and unravel the secrets of the world.
 
 Depicted often as a figure seated at a desk or throne, surrounded by symbols of clandestine knowledge and abundant riches, The Bargainer is revered by merchants, scholars, rogues, mercenaries, and spies.
 
@@ -412,7 +430,9 @@ Priests and priestesses devoted to The Bargainer hold positions of influence wit
 
 Relics:
 
-### The Ravenous One
+## The Ravenous One
+
+![Alt text](<images/Brights/The Ravenous One.png>)
 
 Domain: Survival, Hunger, Decay
 
@@ -430,9 +450,9 @@ Priests and priestesses of The Ravenous One are known for their plumpness and tr
 
 Relics:
 
-## Other Deities
+# Other Deities
 
-### The Moon Presence
+## The Moon Presence
 
 Many inhabitants of Terra hold reverence for the Moon Presence, considering it a primal force that predates even the arrival of the Bright Lord. Legends speak of a time when the Moon Presence was whole, but during the Great Betrayal, the epic clash between Amon and the Bright Lord caused the moon to fracture, splitting it into two separate entities.
 
@@ -444,29 +464,29 @@ The Younger
 
 The smaller of the two moons that adorn the celestial expanse of Terra. Revered as the gentler aspect of the Moon Presence, the Younger moon is associated with benevolent influences, such as guiding sailors safely home, ensuring the well-being of pregnant mothers, and bringing forth gentle tides.
 
-## Terra
+# Terra
 
-### The Sun of Terra
+## The Sun of Terra
 
 The radiant Sun of Terra exhibits a mesmerizing cycle of colors. It initiates its celestial journey with a gentle warmth, casting a luminous yellowish glow upon the land. As the cycle progresses, the Sun transitions into captivating shades of orange and red, illuminating the sky with an enchanting radiance. Gradually, it grows in size, commanding a more prominent presence above Terra. At the culmination of its cycle, a magnificent burst of light emanates, drawing the star back together and restoring its initial warm yellow hue. Although the exact duration of this cycle varies, it typically occurs every 3-5 months.
 
-### The Continent
+## The Continent
 
 The sprawling Continent stretches across the vast expanse of Terra, its colossal size dominating a large portion of the planet. Legend speaks of the Brights, in their valiant conquest of Terra, harnessing the power of mighty magma dragons and formidable wyrms dwelling deep within the planet's tectonic plates. These creatures, brought under the control of the Brights, played a pivotal role in unifying the fragmented landmasses of Terra, forging a cohesive and interconnected continent. Their subjugation became a testament to the indomitable spirit and dominion of the Brights over the sprawling lands they sought to conquer.
 
-## Countries of Terra
+# Countries of Terra
 
-### The Dawn Empire
+## The Dawn Empire
 
 Atop the hierarchy of nations on the continent stands the Dawn Empire, a formidable superpower governed by the illustrious Lightbringer Imperial family. With its immense influence and military might, the Dawn Empire holds the mantle of unrivaled power in the region, commanding respect and shaping the course of history.
 
-#### The City of Crossroads
+### The City of Crossroads
 
 Nestled within the heart of the Dawn Empire, the City of Crossroads stands as the majestic capital, radiating splendor and significance. The city's centerpiece is the Tower of Dawn, an architectural marvel that embodies the Empire's unyielding pursuit of greatness. A testament to ceaseless ambition, the tower is in a perpetual state of construction, forever aspiring to ascend to the heavens. As the core around which the city thrives, the Tower of the Bright Lord symbolizes the empire's unwavering devotion to the ideals and dominion of the Bright Lord.
 
-### Reddland
+## Reddland
 
-#### A History of Conquest and Resilience
+### A History of Conquest and Resilience
 
 During the Dark Ages, the vast realm now known as Reddland was under the iron grip of a formidable Siren dynasty, led by the infamous Witch Queen Alana. Revered for her mastery of Runecraft and Fellcraft, Alana's unnaturally extended lifespan testified to her involvement in dark rituals and her insatiable thirst for power. The Witch Queen's dominion began with the assassination of the Chitkin Queen of Caraus, where she seized control over the Chitinkin population, bending them to her will. Her unstoppable army of mentally enslaved Chitinkin and Siren loyalist advanced eastward, subjugating vast territories that now form the heart of Reddland. However, the rugged and defiant Crimson Foothills, inhabited by nomadic tribes and city states of Dhampires, proved to be an unconquerable land.
 
@@ -476,11 +496,11 @@ In the wake of this hard-fought victory, the people of Reddland acclaimed Serana
 
 In recent years, Reddland has been marked by remarkable advancements in medicine, thanks to the brilliant Veronica Reddland, the current ruler and a visionary leader. Encompassing a significant portion of the eastern edge of the continent, Reddland's population is predominantly composed of Dhampires, reflecting their enduring heritage and cultural dominance within the realm.
 
-#### The Laughing Storm
+### The Laughing Storm
 
 Captain Flint Storm, the Laughing Storm, was an illegitimate child of a noble vampire house called the Daywalkers, hailing from the renowned city of Crossroads. As a pirate, he encountered Victoria Reddington's vessel and, unexpectedly, fell deeply in love with her. Moved by this affection, Flint released her ship along with all its cargo.
 
-#### The Redd Blasphemy  
+### The Redd Blasphemy  
 
 Lord Maxwell Reddington, the designated successor of House Reddington and the Kingdom of Redland, shared his sister Veronica's scholarly pursuits as an academic of Byrgenwerth. Fascinated by the ancient Siren culture that once thrived in Redwall, Maxwell dedicated his time and resources, including his dowry, to funding expeditions into the catacombs that now lay beneath Redwall's foundations. Accompanied by his younger sister, Lady Veronica Reddington, Maxwell embarked on one such expedition, which led them to a remarkable discovery deep within the catacombs. Maxwell returned with a sword of great significance, while Veronica went on to pioneer the development of the first healing bloods of Redwall.
 
@@ -494,7 +514,7 @@ Veronica and Flint attempted to conceive children, but tragedy repeatedly struck
 
 In accordance with the pact resulting from the "The Redd Blasphemy", Vex'halia Reddington would eventually be expected to marry Luc Lightbringer, heir to the Dawn Empire, unifying the two kingdoms in blood upon their wedding.
 
-#### The Tragedy of Killroy the Fool
+### The Tragedy of Killroy the Fool
 
 The legend of Killroy the Fool echoes throughout Reddland, encapsulating the events of the Redd Revolution and the humble fool who played a significant role in it. Over time, the name Killroy has become synonymous with ill fortune, leading many to shun its usage.
 
@@ -528,7 +548,7 @@ And so, the tale concludes."
 
 The story served as a testament to the power of loyalty, sacrifice, and the enduring spirit of those who strive to shape their destiny amidst the tides of war and destiny.
 
-#### Tentcity
+### Tentcity
 
 Located in the southern region of Reddland, Tentcity sprawls across the Everflow River Delta, a realm governed by House Roseblood. As the last descendants of the fabled Siren Witch Queen Alana, their noble lineage resides in the shadow of the illustrious Siren dynasty of yore.
 
@@ -544,19 +564,19 @@ Submerged beneath the watery depths lies the enigmatic Wet District, an ethereal
 
 Tentcity thrives on its principal exports. From the expansive sea, a wealth of marine products grace its markets, captivating the senses of distant shores. Additionally, stone and rock extracted from the upstream reaches near Rock Shatter Fort contribute to the city's economic prosperity, offering valuable resources hewn from the banks of the Everflow River.
 
-### The Isles of Crest
+## The Isles of Crest
 
 The Isles of Crest are governed by a loose coalition of Beastkin tribes, each holding territorial control over different parts of the various isles. Annually, the leaders of these tribes gather at Starfall, the largest city in the Crest Isles, which was built around a fallen star revered as sacred by the Beastkin. This assembly serves as a forum to discuss matters of trade, defense, and elect a representative who will serve as a senator, representing their collective interests in the Imperial senate.
 
 The islanders tend to keep to themselves, although encounters with young groups of mercenaries from the isles are not uncommon. These aspiring warriors seek to prove their mettle in battle, driven by the pursuit of glory and wealth.
 
-#### Cambria
+### Cambria
 
 A year and a half ago, Cambria suffered one of the most severe shard epidemics in recorded history. A coordinated group of sentient monsters descended upon the town during twilight. Out of the 585 residents, only two lost their lives, while the remaining inhabitants were subjected to a fate far worse than death. The entire population of the town was infected with shards, prompting the intervention of the Inquisition of the Dawn Empire. From that point on, Cambria was placed under constant surveillance, and each resident was provided with a hearthstone, a simple enchantment that would alert the authorities upon their demise.
 
 It was expected that all the residents, except for a brother and sister, would succumb to the shards within the first year.
 
-### Uskal
+## Uskal
 
 In the far southern reaches, one can find the harsh and unforgiving Uskal Colonies. These colonies were established during the Dark Age when the demand for silver was high in the ongoing battle against the wild monsters that littered Terra. Beneath the icy surface of Uskal, valuable silver and other precious resources were discovered.
 
@@ -566,9 +586,9 @@ The first lord of Uskal was Leopold Harkon, cousin to Serana Redguard, the found
 
 In modern times, not much has changed. The frigid climate of Uskal persists, with an unending influx of monsters from the Frozen Tundra. As of now, the young Lord Albert Harkon assumes the role of Warden, following a tragic mining accident that claimed the lives of his father and older siblings. While his father ruled with an iron fist, Lord Albert is a more compassionate and distant ruler, modeling his laws and governance after his kinsmen in Reddland, who adopt a more progressive stance toward mudbloods. Under his leadership, the burdens and taxes on the people of Uskal have lessened. However, the weight of generations of oppression is not easily forgotten by some...
 
-## Races of Terra
+# Races of Terra
 
-### Brightkin
+## Brightkin
 
 When the Bright Lord bestowed his divine gift upon the first loyal women of Fellkind, their offspring became Brightkin, also known as Demi-Brights, in the realm of Terra. Regardless of their chosen partners, Brightkin always produce offspring who bear the radiant essence of their lineage. However, the birth of Brightkin children is a rare occurrence, as infertility plagues their people, often requiring couples to wait hundreds of years before conceiving a child.
 
@@ -584,7 +604,7 @@ Prominent Miracles: Radiance, Blessings
 Lifespan: Indefinite
 Languages: Bright-speak, Babelish
 
-### Dhampires
+## Dhampires
 
 Dhampires trace their monstrous ancestry from the Vampires that bowed to the Bright Lord. Sunlight is deadly to Vampires, meaning those that stood in front of the Bright Lord surely should have perished…
 
@@ -598,7 +618,7 @@ Fellcrafts: Polycraft, Shadowcraft, Mindcraft, Hemacraft, Sonocraft
 Life Span: 3000 - 5000 years
 Language: Pirish, Babelish
 
-### Seakin
+## Seakin
 
 Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed to the Bright lord. These monsters were grafted consciousness and the humaniod form of the Bright Lord.
 
@@ -612,7 +632,7 @@ Fellcrafts: Polycraft, Hydrocraft, Mindcraft, Sonocraft, Electrocraft
 Life Span: 150 - 200 years
 Language: Deep-speak, Babelish
 
-### Beastkin
+## Beastkin
 
 Beastkin
 
@@ -630,7 +650,7 @@ Fellcrafts: Polycraft
 Life Span: 150 - 200 years
 Language: Primal, Babelish
 
-### Chitinkin
+## Chitinkin
 
 Chitinkin (or Kiki as they call themselves) trace their ancestry from the ancient insectoid monsters that bowed to the Bright lord. These monsters were granted consciousness and the form of the Bright Lord.
 
@@ -646,7 +666,7 @@ Fellcrafts: Polycraft, Webcraft, Mindcraft, Sonocraft, Toxincraft, Terracraft
 Life Span: 30 - 50  years (Workers), 300 - 500 (Royals)
 Language: Kikish, Babelish
 
-### Dragonkin
+## Dragonkin
 
 Dragonkin trace their monstrous ancestry from the ancient dragons that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord.
 
@@ -663,7 +683,7 @@ Fellcrafts: Sonocraft, Polycraft
 Life Span: Indefinite (Unless scales are removed)
 Language: Dragonic, Babelish
 
-### Crossbreeds
+## Crossbreeds
 
 Crossbreeds trace their monstrous ancestry from the ancient monsters that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord. However, due to the dilution and mixing of their ancestral bloodlines, the genetic gifts are lost to them. They are often referred to as mudbloods due to their impure bloodlines.
 
@@ -675,50 +695,50 @@ Fellcrafts: None
 Life Span: 50 - 100 years
 Language: Babelish
 
-### More Race Ideas
+## More Race Ideas
 
 - Griffinkin
 - Serpentskin
 - Griffinkin
 - Wraithkin
 
-## Languages of Terra
+# Languages of Terra
 
-### Babelish
+## Babelish
 
 A gift from the Bright Lord to Fellkind after their creation. Seen as the common tongue across most of Terra. Simple and practical, it is used extensively by the common folk.
 
-### Bright-speak
+## Bright-speak
 
 Said to be the language of the Bright Lord and his Brights. A beautiful language that almost sounds like singing. This language is spoken exclusively in the higher echelons of Brightkin society and at the Imperial senate.
 
-### Pirish
+## Pirish
 
 A sophisticated language spoken by Dhampires and in upper class society across Redland. It originates from the Vampires that roamed Terra from before the Bright Lord arrived.
 
-### Deep-speak
+## Deep-speak
 
 Spoken by Sea-folk, sailors, and anyone that does business on or near water. A flowing language, which underwater is much more pleasant to the ear
 
-### Primal
+## Primal
 
 Spoken by Lycans across the Isles of Crest and Leodelphia. A sequence of grunt, snarls, and growls. Words don't really exist in it, as it conveys intention more than specific words. Can be used to roughly communicate with wildlife, though poorly.  No written script.
 
-### Kikishi
+## Kikishi
 
 Spoken by the Chitinkin (Kiki) and across the Underworld (the giant caverns that stretch beneath the surface of Terra). A series of clicks form the basis of the language.
 
-### Draconic
+## Draconic
 
 A very rare and ancient language that has existed since before creation. Since Dragonkin are rare, this language is only used amongst themselves. An almost serpentine like language in sound.
 
-### Demonic
+## Demonic
 
 Said to be spoken by demons, no record exists of it, only myths.
 
-## Diseases of Terra
+# Diseases of Terra
 
-### The Spore
+## The Spore
 
 The spore is an insidious parasitic fungus that exerts control over the brainstem of its unfortunate victims. Manifesting as a vibrant, luminous whitish-blue fungus, it releases airborne spores into the environment. Inhalation of even a small quantity of these spores leads to death within 1-3 months, while exposure to a significant amount results in rapid demise within a day to just a few minutes.
 
@@ -726,9 +746,9 @@ Once deceased, there follows a peculiar 36-hour hibernation period, after which 
 
 During their dormant state, these infected individuals are referred to as carriers, serving as unwitting vessels for the propagation of the spore.
 
-### Shards
+## Shards
 
-## Magic Systems
+# Magic Systems
 
 All of Fallen’s 3 magic systems (Fellcraft, Miracles, and Runecraft) are built of the same rule in combat, which you can refer to over on Fogent Roleplay. Instead of listing this out 3 times. Keep in mind the following while reading the pre-made Fallen magic systems listed further below.
 
@@ -737,39 +757,39 @@ All of Fallen’s 3 magic systems (Fellcraft, Miracles, and Runecraft) are built
 - Cantrip = Trick/Wonder/Sign
 - Magic Vocation = Fellkin/Brightkin/Runesmith
 
-## Miracles
+# Miracles
 
 When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin of Terra. Brightkin have the ability to use the power of the Brighlord, known as Miracles. Miracles consider the laws of nature a mere suggestion. To perform a Miracle, Light is channeled through specific strong emotion or memories to receive a desired effect.
 Miracles require training and practice to use, harnessing one's emotions. Most Brightkin don't devote themselves to mastering Miracles, though they enjoy the benefits of near immortality.
 
-### Miracle Roll
+## Miracle Roll
 
 This roll represents your abilities with Miracles. A minimum of one Light is required to make a non-Wonder Miracle Roll. Light up to the level in the user’s Brightkin vocation can be consumed, adding an additional d6 to the Miracle Roll for each Light consumed.
 
 - Miracles Roll = 3d6 (base) + Xd6 (Miracle Skill) + Xd6 (STR/RFX/INT) + Xd6 (Light consumed capped by Brightkin Vocation)
 
-### Light
+## Light
 
 Light is the catalyst for all Miracles. It is channeled through an emotion or memory to produce a desired effect.
 
 - +3 Light per Brightkin Vocation
 
-#### Generate Light
+### Generate Light
 
 All Brightkin have an inner light. Maintaining one's physical health restores Light gradually over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Light. The narrator should take into account the Miracles vocation when granting light from rest.
 
-#### Absorb Light
+### Absorb Light
 
 Brightkin can absorb Light via ample sources of light (such as the Sun) or by drawing on powerful emotion/memories. The ability can be used once for each Brightkin point, resetting on long rests. The points in the specific Miracle skill used dictates how much Light is regained. Flavor and creativity are encouraged.
 
-### Miracle Wonders
+## Miracle Wonders
 
 Wonders are uses of Miracles that use an insignificant  amount of Light. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Light is completely depleted.
 
 - Unaffected by Brightkin assists (as no Light is consumed)
 - Light Requirement: 0 Light (No Light can be used to increase dice)
 
-### Radiance
+## Radiance
 
 Radiance users can narratively attempt the following:
 
@@ -780,7 +800,7 @@ Users of Radiance focus on the manipulation of light externally. Radiance is ext
 
 In warfare, whether it is smiting the enemy from afar, armoring themselves and companions with hard light gear, or creating illusions of calvary charging at the enemies flanks, they are a force to be reckoned with.
 
-#### Specialization: Hard Light
+### Specialization: Hard Light
 
 Hard light is light that has been formed into a tangible physical material.
 
@@ -790,7 +810,7 @@ Hard light is light that has been formed into a tangible physical material.
 - Hard light objects can be made to have a fixed position, though they will expire dramatically faster depending on the density/weight of the object.
 - Once created, a user does not need to stay close to the objects for it to maintain its form.
 
-#### Specialization: Illusions
+### Specialization: Illusions
 
 Illusions are created by bending light to create a false image.
 
@@ -798,15 +818,15 @@ Illusions are created by bending light to create a false image.
 - Illusions can move, either under control of the user or set to a loop by the user.
 - Illusions can not produce sound.
 
-#### Absorb Light: Sun Light
+### Absorb Light: Sun Light
 
 Ample sunlight can be used to absorb Light.
 
-#### Radiant Resistance
+### Radiant Resistance
 
 By achieving a CL 3 check, for the cost of 1 Light a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Blessing
+## Blessing
 
 Users of Blessing can narratively attempt the following:
 
@@ -817,7 +837,7 @@ While Radiance focuses on the manipulation of external light, Blessing focuses o
 
 When the user is under the effect of a Blessing they will begin to glow with wisps of light.
 
-#### Buffs
+### Buffs
 
 When a character attempts a Blessing Buff on themselves or another, they make a Blessing Roll. Depending on the wins achieved, the user gains that benefit and all the benefits below. If the user attempts to perform another Blessing Buff on themselves, they must drop their Blessing Buff.
 
@@ -830,7 +850,7 @@ When a character attempts a Blessing Buff on themselves or another, they make a 
 | Flight (Angelic wings)                                                  | 5               | 1 hr     | 2     |
 | +1 STR or RFX or INT(cannot take the same attribute from CL 4 effect)   | 6               | 1 hr     | 2     |
 
-#### Healing
+### Healing
 
 When a character attempts a Blessing heal, they make a Blessing roll  (this can be done while a Blessing buff is active). Depending on the wins achieved, the user or target gains one of the following effects.
 
@@ -843,7 +863,7 @@ When a character attempts a Blessing heal, they make a Blessing roll  (this can 
 | Fatal Heal           | 5               | Instant  |
 | Revival Heal         | 6               | Instant  |
 
-#### Specialization: Bright's Heritage
+### Specialization: Bright's Heritage
 
 With sufficient Light, Brightkin can resurrect upon death. The Brightkins body will begin to glow brightly, damaged tissue pulled back together or is  regrown.
 
@@ -855,11 +875,11 @@ With sufficient Light, Brightkin can resurrect upon death. The Brightkins body w
 
 Known counters to this ability are driving instruments into the brain of a fallen Brightkin and burying them deep underground where no light can reach them.
 
-#### Absorb Light: Emotion
+### Absorb Light: Emotion
 
 Powerful emotions or memories can be meditated on to regain Light. A user must describe the powerful emotion in detail. If the Narrator agrees the emotion or memory is sufficient, then the user's inner light will surge, regaining Light.
 
-## Fellcraft
+# Fellcraft
 
 The monsters of the Terra are known for their terrifying speed, strength, and strange abilities. They have evolved to achieve this by using the potential energy found in their blood, referred to as Ichor.
 
@@ -869,27 +889,27 @@ Many of these abilities express themselves in response to extreme stress, which 
 
 Fellcraft takes training, practice, and study to master. Most Fellkin never follow the path of mastering Fellcraft.
 
-### Fellcraft Roll
+## Fellcraft Roll
 
 This roll represents your abilities with a specific type of Fellcraft. A minimum of one Ichor is required to make a non-Trick Fellcraft Roll. Ichor up to the level in the user’s Fellkin vocation can be consumed, adding an additional d6 to the Fellcraft Roll for each Ichor consumed.
 
 - Fellcraft Roll = 3d6 (base) + Xd6 (Fellcraft Skill) + Xd6 (STR/RFX/INT) + Xd6 (Ichor Consumed capped by Fellkin Vocation)
 
-### Ichor
+## Ichor
 
 Ichor is the potential energy found in both monster and Fellkind blood. This energy is responsible for all of Fellcraft.
 
 - +3 Ichor per Fellkin Vocation
 
-#### Regaining Ichor
+### Regaining Ichor
 
 Maintaining one's physical health restores Ichor over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Ichor. The narrator should take into account the Fellcraft vocation when granting Ichor from rest.
 
-#### Absorbing Ichor
+### Absorbing Ichor
 
 Fellkind can absorb and feed on an ample source of primal elements to regain Ichor. The ability can be used once for each Fellcraft Vocation point, resetting on long rests. The points in the specific Fellcraft skill used dictate how much Ichor is regained. Absorbing or meditating near a large source of the element are acceptable. Flavor and creativity are encouraged.
 
-### Fellcraft Tricks
+## Fellcraft Tricks
 
 Tricks are uses of Fellcraft that use an insignificant amount of Ichor. In general, Tricks should be small and happen close to the user. Igniting your fingertips to light a cigar with Blazecraft, stirring a cup of tea with Hydrocraft, or creating a gentle breeze with Galecraft are all examples of Tricks. Trick attacks are considered the weakest form of offense, only used in dire situations or for utility.
 
@@ -904,7 +924,7 @@ Polycraft users can narratively attempt the following:
 
 Polycraft fundamentally is the ability to enhance, heal, and change one's body. The various races have their own variant of this, leading to unique abilities between them.
 
-#### Transformation
+### Transformation
 
 When a character attempts a Polycraft transformation, they make a Polycraft Roll. Depending on the wins achieved, the user can gain benefits associated with that CL and all the benefits below. For every effect they must pay the associated ichor cost. If the user attempts to perform another transformation, they must drop their transformed state.
 
@@ -917,7 +937,7 @@ When a character attempts a Polycraft transformation, they make a Polycraft Roll
 | +1 to 2 physical core skill                                     | 5               | 1 hr     | 1     |
 | +1 STR or RFX (cannot take the same attribute from CL 4 effect) | 6               | 1 hr     | 2     |
 
-#### Polycraft Healing
+### Polycraft Healing
 
 When a character attempts a Polycraft heal, they make a Polycraft Roll (this can be done while in a transformation). Depending on the wins achieved, the user gains one of the following effects.
 
@@ -930,15 +950,15 @@ When a character attempts a Polycraft heal, they make a Polycraft Roll (this can
 | Fatal Heal           | 5               | Instant  |
 | Revival Heal         | 6               | Instant  |
 
-#### Specialization: The Beast
+### Specialization: The Beast
 
 The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
 
-#### Absorbing Ichor: Flesh and Blood
+### Absorbing Ichor: Flesh and Blood
 
 Flesh and blood can be consumed to regain Ichor. This generally is done ravenously. An extra point of Ichor should be awarded if a Fellkind of Monster is consumed.
 
-#### Specialization: The Doppelganger
+### Specialization: The Doppelganger
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Common practitioners of this are spies, assassins, thiefs, etc… The narrator may give dice bonuses based on the context of the mimicked persona in relation to the creature the user is trying to influence.
 
@@ -953,11 +973,11 @@ Doppelgangers are devious shapeshifters that take on the appearance of other hum
 | Mimic monster                 | 6               | 1 hr       |
 | Mimic greater monster         | 7               | 1 hr       |
 
-#### Slash Resistance
+### Slash Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to these damage types equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Blazecraft
+## Blazecraft
 
 Blazecraft users can narratively attempt the following:
 
@@ -967,7 +987,7 @@ Blazecraft users can narratively attempt the following:
 
 Blazecraft is one of the most common Fellcraft learned, owing to its utility and combat effectiveness. It allows the user to create and manipulate fire. While all expressions of Blazecraft come from the same root gene, the most widely taught and used is derived from the Phoenix immolation or Dragonfire.
 
-#### Specialization: The Fire Dragon
+### Specialization: The Fire Dragon
 
 Dragonfire is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
@@ -975,19 +995,19 @@ Dragonfire
 
 Allows the user to breathe fire from their mouth. In addition, the fire the user produces has an odd dark coloring to it. This fire has a mind of its own, leaping from fuel to fuel. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorbing Ichor: Fire
+### Absorbing Ichor: Fire
 
 Fire and heat can be used to absorb Ichor. This can be done with large fires, volcanoes, smoldering ash, blazing comets, etc...
 
-#### [Unfinished] Specialization: The Phoenix
+### [Unfinished] Specialization: The Phoenix
 
 Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire, a process similar to the Silverburn reaction. Phoenix solved this issue by evolving ways to channel magic into regenerating flesh as fast as they burn it. This produces an immense amount of heat and flame, though it is quite taxing on the user. That being said this isn't a safe process, and can end up backfiring on new users of this Fellcraft.
 
-#### Fire Resistance
+### Fire Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Hydrocraft
+## Hydrocraft
 
 Hydrocraft users can narratively attempt the following:
 
@@ -998,29 +1018,29 @@ Hydrocraft users can narratively attempt the following:
 - Water breathing
 - Deep Sense (Assist for Perception checks)
 
-#### Specialization: The Kraken
+### Specialization: The Kraken
 
 The way of the Kraken involves using a form of jet propulsion, sucking water into squid-like growths on the body and propelling outward. One of the most popular forms of Hydromancy is to create a water tentacle from yourself. These can assist in movement, defense, or offense.
 
 The most common form of Hydrocraft is derived from the Kraken. The way of the Kraken involves using a form of jet propulsion, sucking water into squid-like growths on the body and propelling outward.
 
-#### Specialization: The Sea Serpent
+### Specialization: The Sea Serpent
 
 Dragons channel their from the elemental scales that cover their bodies.
 
-##### Dragontide
+#### Dragontide
 
 Allows the user to breath dragontide from from their mouth. Dragontide the user produces has an odd dark coloring to it. Dragontide has a mind of its own, leaping from thrashing and drowning anything around it. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorbing Ichor: Water
+### Absorbing Ichor: Water
 
 Water can be used to absorb Ichor. This can be done by submerging oneself in water or meditating near a large body of water.
 
-#### Water Resistance
+### Water Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Electrocraft
+## Electrocraft
 
 Electrocraft craft users can narratively attempt the following:
 
@@ -1031,46 +1051,46 @@ Electrocraft craft users can narratively attempt the following:
 Practitioners of Electrocraft are actually generating electrite, a naturally occuring crystal that has many electrical properties used across Terra in various spellcraft inventions. Naturally occurring electrite can be found underground, glowing if it holds a charge. A user's body can use these crystals to convert the Ichor in one's blood into an electric charge held within the electrite on the user's body. This charge can then be released by the user at will.
 A favorite among users of Spellcraft, Electrocraft can aid in constructing Runelcrafts owing to its ability to charge and influence electrite. The most common forms of Electrocraft are derived from Storm Dragons and Thunderbirds. Those of Darkbeast heritage grow specialized hair imbued with electrite, though this form has mainly been lost throughout the bloodlines.
 
-#### Specialization: The Lightning Dragon
+### Specialization: The Lightning Dragon
 
 Dragonlightning is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
-##### Dragonlightning
+#### Dragonlightning
 
 Allows the user to breath dragonlightning from from their mouth. In addition, the lightning the user produces has an odd dark coloring to it. This lightning has a mind of its own, leaping on its own volition. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Electricity
+### Absorb Ichor: Electricity
 
 Electricity can be used to absorb Ichor. This can be done with lighting storms, electrite containing electricity, etc...
 
-#### Electric Resistance
+### Electric Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Terracraft
+## Terracraft
 
 Terracraft users can narratively attempt the following:
 
 - Create and manipulate earth (earth, sand, etc...)
 - Earth Sense (Vibriations) to assist Perception Checks
 
-#### Specialization: The Terra Dragon
+### Specialization: The Terra Dragon
 
 Dragonterra is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
-##### Dragonterra
+#### Dragonterra
 
 Allows the user to spew dragonterra from their mouth. Dragonterra is a gray substance with the consistency of wet concrete. This substance dries to form a super hard material. The user can use Terracraft to form it and quickly dry it into whatever form they desire. This ability allows Terra Dragons to build elaborate and nearly impenetrable nests.
 
-#### Absorb Ichor: Terra
+### Absorb Ichor: Terra
 
 Terra can be used to absorb Ichor. This can be done near exposed earth, rock, geological marvels, etc...
 
-#### Slash, Hew, and Pierce Resistance
+### Slash, Hew, and Pierce Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Galecraft
+## Galecraft
 
 Galecraft craft users can narratively attempt the following:
 
@@ -1083,46 +1103,46 @@ Galecraft craft users can narratively attempt the following:
 
 Galecraft generally takes on two forms, derived from the great monstrous birds and Gale Dragons. Those that draw their Galecraft from the great birds suchs as Phoenix or Thunderbird will grow feathers that can be used to influence the gales, some of these feathers will detach, still under the user's influence. These feathers can act as extensions of the user’s will far from their bodies.
 
-#### Specialization: The Gale Dragon
+### Specialization: The Gale Dragon
 
 Dragongale is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
-##### Dragongale
+#### Dragongale
 
 Allows the user to breath dragongale from from their mouth. In addition, the dragongale the user produces has an odd smokey coloring to it. Dragongale has a mind of its own, creating small tornadoes. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Gale
+### Absorb Ichor: Gale
 
 Gale can be used to absorb Ichor. This can be done near storms, tornadoes, places of great height, ect...
 
-#### Shockwave Resistance
+### Shockwave Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Cryocraft
+## Cryocraft
 
 Terracraft users can narratively attempt the following:
 
 - Create cold (ice)
 - Manipulate cold
 
-#### Specialization: The Ice Dragon
+### Specialization: The Ice Dragon
 
 Dragonfire is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
-##### Dragonfrost
+#### Dragonfrost
 
 Allows the user to dragonfrost from their mouth. In addition, the frost the user produces has an odd dark coloring to it. This frost has a mind of its own, leaching of everything around it through a form of entropy. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Cold
+### Absorb Ichor: Cold
 
 Cold can be used to absorb Ichor. This can be done with blizzards, frigid environments, and large bodies of ice.
 
-#### Cold Resistance
+### Cold Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Naturecraft
+## Naturecraft
 
 Naturecraft users can narratively attempt the following:
 
@@ -1130,23 +1150,23 @@ Naturecraft users can narratively attempt the following:
 - Manipulate plants
 - Plant Sense (Vibriations) to assist Perception Checks
 
-#### Specialization: The Nature Dragon
+### Specialization: The Nature Dragon
 
 Dragongrowth is legendary in its destructive capabilities. Dragons channel their power from the elemental scales that cover their bodies.
 
-##### Dragongrowth
+#### Dragongrowth
 
 Allows the user to dragongrowth from their mouth. In addition, the plant growth the user produces has an odd dark coloring to it. This plant growth has a mind of its own, spreading to everything around it. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Nature
+### Absorb Ichor: Nature
 
 Large amounts of plant life can be used to absorb Ichor. This can be done with forests, crop fields, or large gardens.
 
-#### Bludgeon, Pierce, Slash Resistance
+### Bludgeon, Pierce, Slash Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. For each resistance point gained, gain a weakness level to Fire damage. This effect has a duration of 1 hour.
 
-### Toxicraft
+## Toxicraft
 
 Toxicraft users can narratively attempt the following:
 
@@ -1154,21 +1174,21 @@ Toxicraft users can narratively attempt the following:
 - Manipulate toxins, venoms, poisons, acid, antivenoms, etc...
 - (Heartbeats) to assist Perception Checks
 
-#### Specialization: Dragonvenom
+### Specialization: Dragonvenom
 
 Dragon Venom is legendary in its destructive capabilities. Dragons channel from the elemental scales that cover their bodies. Any affected by the powerful neurotoxin are instantly paralyzed.
 
 Dragon venom never degrades or dries out. It is tasteless and odorless, making it a preferred tool of assassins. Common antivenoms have zero effect on it. A person affected with the venom has visible black veins visible through their skin as the necrotic effects kill from within.
 
-#### Absorb Ichor: Toxins
+### Absorb Ichor: Toxins
 
 Toxins can be used to absorb Ichor. If the toxin is already within the user, they may absorb it.
 
-#### Toxin/Poison Resistance
+### Toxin/Poison Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Soulcraft
+## Soulcraft
 
 Hydrocraft users can narratively attempt the following:
 
@@ -1187,27 +1207,27 @@ Users of Soulcraft learn to consciously control and strengthen their own soul. T
 
 Depending on the morality and spiritual strength of an individual, their personal spiritual projections appearance will change. Soulcraft users can also see the souls of the living. Generally a bright soul means a person is moral/ethical. Whereas, generally someone with a dark soul that pulls in all the light around them means a person is immoral/unethical. It should be noted that this is only based on how the individual perceives their own actions. A tyrant that fully believes in his cause could have a soul as bright as a saint.
 
-#### The Way of the Wraith
+### The Way of the Wraith
 
 When an individual dies without descendants, their soul wanders aimlessly on the material plane. These ghosts of Fellkind are preyed upon Wraith, monsters that have learned to interact and feed on the lost souls of the continent. Wraiths tend to lurk in places of death. They will not leave their dwellings to hunt for the living. Though, if an unfortunate soul wanders within, the wraith will of course consume the soul of their victim.
 
-#### Specialization: The Undead Dragon
+### Specialization: The Undead Dragon
 
 Soulfire is legendary in its destructive capabilities. Soul fire produces cold and is fueled by soul/life energy. It has a greenish/purple appearance and flickers much more slowly than regular fire. Undead Dragons channel this from the elemental scales that cover their bodies.
 
-##### Soulfire
+#### Soulfire
 
 Allows the user to breathe soulfire from their mouth. This energy has a mind of its own, leaping from soul to soul. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Souls
+### Absorb Ichor: Souls
 
 Souls can be absorbed and feed on to regain Ichor. Victim can not resist. An extra point of Ichor should be awarded if a Fellkin or Brightkin is consumed.
 
-#### Spiritual Resistance
+### Spiritual Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Shadowcraft
+## Shadowcraft
 
 Shadowcraft users can narratively attempt the following:
 
@@ -1215,27 +1235,27 @@ Shadowcraft users can narratively attempt the following:
 - Shadowleap
 - Improve your stealth
 
-#### Shadow Leaping
+### Shadow Leaping
 
 Shadow Leaping is a form of short range teleportation. The user must have access to a large shadow near them that is not their own shadow. They can use it as a door to a neighboring shadow, rematerializing there.
 
-#### Specialization: The Shadow Dragon
+### Specialization: The Shadow Dragon
 
 Dragonumbra is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
-##### Dragonumbra
+#### Dragonumbra
 
 Allows the user to breath dragonumbra from their mouth. Dragonumbra encroaches on all light sources around it, fading them out. Darksight does not work in dragonumbra. Entities will attack and abduct anyone in the darkness. This dragonumbra has a mind of its own. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Shadow
+### Absorb Ichor: Shadow
 
 Shadow can be used to absorb Ichor. This can be done in pitch black environments.
 
-#### Dark Resistance
+### Dark Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Mindcraft
+## Mindcraft
 
 Mindcraft users can narratively attempt the following:
 
@@ -1243,7 +1263,7 @@ Mindcraft users can narratively attempt the following:
 
 Common among Dhampires, Mindcraft is the ability to connect to, influence, or dominate others minds. There are multiple expression of this ability. The most eyes flash using use Mindcraft, generally green.
 
-#### Specialization: Dreamcraft
+### Specialization: Dreamcraft
 
 Dreamcraft users can narratively attempt the following:
 
@@ -1251,38 +1271,38 @@ Dreamcraft users can narratively attempt the following:
 
 The existence of Dreamcraft is debated among academics and has been relegated to the superstition of old wives tales. The rare few on Terra that have learned this craft have the ability to invade the dreams of sleeping individuals. There they can search through and manipulate the subconscious of the individual. This can be extremely dangerous though, even with an individual one would perceive as weak externally might be harboring something truly dangerous within. Many are driven mad, as they become unable to distinguish reality and the dream.
 
-#### Absorb Ichor: Thought
+### Absorb Ichor: Thought
 
 Thoughts can be used to absorb Ichor. The victim must not be resisting. This can be done with Fellkin, Brightkin, animals, monsters, etc... Extra points should be awarded for Fellkin and Brightkin. Extra points should be awarded if used on a victim's dreams.
 
-#### Mental Resistance
+### Mental Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Ferracraft
+## Ferracraft
 
 Ferracraft users can narratively attempt the following:
 
 - Create and manipulate metals using magnetic waves
 - Metal Sense (Vibriations) to assist Perception Checks
 
-#### Specialization: The Metal Dragon
+### Specialization: The Metal Dragon
 
 Dragonsteel has legendary properties of strength and durability. Dragons channel their power from the dragonsteel scales that cover their bodies.
 
-##### Dragonsteel
+#### Dragonsteel
 
 Allows the user to produce dragonsteel from their bodies. In addition, the plant growth the user produces has an odd dark coloring to it. This plant growth has a mind of its own, spreading to everything around it. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Magnetism
+### Absorb Ichor: Magnetism
 
 Large amounts of magnetic waves can be used to absorb Ichor. This can be done with near sources of large magnetic energy.
 
-#### Physical Resistance
+### Physical Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. And for each resistance point gained, gain a weakness level to Electrice damage. This effect has a duration of 1 hour.
 
-### Sonocraft
+## Sonocraft
 
 Sonocraft users can narratively attempt the following:
 
@@ -1292,17 +1312,17 @@ Sonocraft users can narratively attempt the following:
 - Mimic voices and observed sounds
 - Echolocation to assist Perception Checks
 
-#### Specialization: The Dragon
+### Specialization: The Dragon
 
-#### Absorb Ichor: Sonic Sounds
+### Absorb Ichor: Sonic Sounds
 
 Large sonic cracks can be absorbed to regain Ichor. This can be done with explosions, objects breaking the sound barrier, etc...
 
-#### Shockwave Resistance
+### Shockwave Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
-### Hemacraft
+## Hemacraft
 
 Hemacraft users can narratively attempt the following:
 
@@ -1310,7 +1330,7 @@ Hemacraft users can narratively attempt the following:
 - Absorb Ichor from living hosts
 - Blood Sense (Heartbeats) to assist Perception Checks
 
-#### Blood Buffing
+### Blood Buffing
 
 When a character attempts a Blood Buff, they make a Hemacraft Roll. Depending on the wins achieved, the user gains that benefit associated with that CL and all the benefits below. If the user attempts to perform another transformation, they must drop their transformed state.
 
@@ -1323,7 +1343,7 @@ When a character attempts a Blood Buff, they make a Hemacraft Roll. Depending on
 | +1 to 2 Physical core skill                                           | 5               | 1 hr     |
 | +1 STR or RFX or INT(cannot take the same attribute from CL 4 effect) | 6               | 1 hr     |
 
-#### Healing Hemacraft
+### Healing Hemacraft
 
 When a character attempts a Hemacraft heal, they make a Polycraft Roll (this can be done while in a transformation). Depending on the wins achieved, the user gains one of the following effects.
 
@@ -1336,11 +1356,11 @@ When a character attempts a Hemacraft heal, they make a Polycraft Roll (this can
 | Fatal Heal           | 5               | Instant  |
 | Revival Heal         | 6               | Instant  |
 
-#### Pierce, Slash Resistance
+### Pierce, Slash Resistance
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour. Bleed resistance keeps blood in the body.
 
-#### Specialization: The Healing Blood
+### Specialization: The Healing Blood
 
 This technique was discovered when Byrgenwerth Scholars found a dark truth deep within the Siren ruins that now lay under Redwall. Protected fervently by House Reddington and the scholars at Byrgenwerth. Healing blood is shelf stable, has antifungal and antibacterial properties.
 
@@ -1355,11 +1375,11 @@ By performing the following check below, a character may produce enough healing 
 | [Vial of Supreme Healing Blood](https://docs.google.com/document/d/1AfygcOVMcKjrdrc7rdwvSomWy2GugHqHnHWW1z7xWpE/edit?usp=sharing)  | 5               | 4 hr      |
 | [Vial of Revival Healing Blood](https://docs.google.com/document/d/1tgVnTAvAk-b89AMo1rZc5qA9N3-BmkJiTTzFqW8AU_Y/edit?usp=sharing)  | 6               | 8 hr      |
 
-#### Absorb Ichor: Blood
+### Absorb Ichor: Blood
 
 Blood can be consumed to absorb Ichor. Every time a Hemacraft attack is successfully made, you may regain 1 Ichor.  An extra point of Ichor should be awarded if a Fellkind of Monster blood is consumed. The opponent loses 1 Ichor.
 
-### Spidercraft
+## Spidercraft
 
 Webcraft users can narratively attempt the following:
 
@@ -1377,21 +1397,21 @@ Webs cannot inflict damage. Instead follow the table below.
 | Supreme Binding (Lvl 4 Victory) | Target is incapacitated within the binding                                           |
 | Fatal Binding (Lvl 5 Victory)   | Target is incapacitated withing binding and begins to suffocate.                     |
 
-#### Fellcraft Combination
+### Fellcraft Combination
 
 This Fellcraft can only be accessed by users with a specialization in Polycraft and Toxincraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
-#### Specialization: The Giant Spider
+### Specialization: The Giant Spider
 
-#### Absorb Ichor: Liquify Prey
+### Absorb Ichor: Liquify Prey
 
 Prey can be absorbed to regain Ichor. This can be done by mummifying the prey and injecting a digestive toxin. After some time, the digested prey can be drunk from, resulting in an extra +1 Ichor. Also gain an additional +1 Ichor if the prey is a monster or Fellkin...
 
-#### Spider Climb
+### Spider Climb
 
 By achieving a CL 3 check, for the cost of 1 Ichor a character may gain the ability to stick to walls like a spider. The user gains automatic wins to climb checks equal to their Spidercraft skill.  This effect has a duration of 1 hour.
 
-### Plasmacraft
+## Plasmacraft
 
 Plasmacraft users can narratively attempt the following:
 
@@ -1402,19 +1422,19 @@ Plasmacraft users can narratively attempt the following:
 
 Plasmacraft is the domain of true masters of Fellcraft. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Miracles.
 
-#### Fellcraft Combination: Plasmacraft
+### Fellcraft Combination: Plasmacraft
 
 This Fellcraft can only be accessed by users with a specialization in Blazecraft and Galecraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
-#### Specialization: The Ancient Dragon
+### Specialization: The Ancient Dragon
 
 Ancient myths tell how when the first dragons were born, they were granted wings. They flew to the Sun and drank it. They breathed light so hot it would cut stone and turn night to day.
 
-#### Absorbing Ichor: Solar and Plasma
+### Absorbing Ichor: Solar and Plasma
 
 Plasma and Sunlight can be used to absorb Ichor.
 
-### Stormcraft
+## Stormcraft
 
 Stormcraft users can narratively attempt the following:
 
@@ -1422,21 +1442,21 @@ Stormcraft users can narratively attempt the following:
 - Manipulate storms.
 - Control the weather
 
-#### Fellcraft Combination: Stormcraft
+### Fellcraft Combination: Stormcraft
 
 This Fellcraft can only be accessed by users with a specialization in Galecraft, Hydrocraft, and Electrocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
-#### Specialization: The Storm Dragon
+### Specialization: The Storm Dragon
 
 Every storm on Terra is said to be started by a Storm Dragon, who dwells deep in the eye of the Great Storm at the edge of the world, far away from the continent of Terra.
 
-##### Control Weather
+#### Control Weather
 
 Like the Dragons of the Great Storm, Stormcraft users may manipulate the weather to their liking. How large and furious the weather event determines the check required. A check to increase the ferocity of a storm already in progress should be far easier than if the user tried to do the same with a calm day.
 
 Though if the legend is true and the storms do come from the Great Storm, then it would be wise for one to influence the storms wisely. As surely dragons do not tolerate the interferences of mere mortals.
 
-### Magmacraft
+## Magmacraft
 
 Stormcraft users can narratively attempt the following:
 
@@ -1445,38 +1465,38 @@ Stormcraft users can narratively attempt the following:
 - Melt rock.
 - Influence tectonic plates
 
-#### Fellcraft Combination: Magmacraft
+### Fellcraft Combination: Magmacraft
 
 This Fellcraft can only be accessed by users with a specialization in Blazecraft and Terracraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
-#### Specialization: The Magma Dragon
+### Specialization: The Magma Dragon
 
 When the horrors of Terra bowed down before the Bright Lord, the Bright Lord conscripted the Great magma dragons of the world who dwell even deeper than the great underground caverns of Terra in infinite seas of lava. The continents that were once separate were brought together, so that Brighkind may rule over all of their new world.
 
-##### Influence Tectonic Plates
+#### Influence Tectonic Plates
 
 The influence of tectonic plates can result in magma geysers and other geological phenomena. If enough masters of Magmacraft were brought together, Terra itself might shift once again…
 
-### Blizzardcraft
+## Blizzardcraft
 
 Stormcraft users can narratively attempt the following:
 
 - Create blizzards.
 - Manipulate blizzards.
 
-#### Fellcraft Combination: Blizzardcraft
+### Fellcraft Combination: Blizzardcraft
 
 This Fellcraft can only be accessed by users with a specialization in Galecraft and Cryocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
-#### Specialization: The Blizzard Dragon
+### Specialization: The Blizzard Dragon
 
 In the frigid places of Terra, Blizzard Dragon will bury entire kingdoms in great blizzards to feast on the frozen corpses of the dead. The great blizzards around them act as camouflage to mask their movements.
 
-##### Create Blizzards
+#### Create Blizzards
 
 Like the Blizzard Dragon, Blizzardcraft users may manipulate the Blizzards to their liking. How large and furious the blizzard determines the check required. A check to increase the ferocity of a blizzard already in progress should be far easier than if the user tried to do the same with a sunny warm day.
 
-### Fellcraft Tree
+## Fellcraft Tree
 
 The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
 
