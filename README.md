@@ -530,13 +530,19 @@ The sprawling Continent stretches across the vast expanse of Terra, its colossal
 
 ### The Dawn Empire
 
+![Alt text](<images/Places/TheDawnEmpire/Dawn Empire Inquisitors.png>)
+
 Atop the hierarchy of nations on the continent stands the Dawn Empire, a formidable superpower governed by the illustrious Lightbringer Imperial family. With its immense influence and military might, the Dawn Empire holds the mantle of unrivaled power in the region, commanding respect and shaping the course of history.
 
 #### The City of Crossroads
 
+![Alt text](<images/Places/TheDawnEmpire/Crossroads.png>)
+
 Nestled within the heart of the Dawn Empire, the City of Crossroads stands as the majestic capital, radiating splendor and significance. The city's centerpiece is the Tower of Dawn, an architectural marvel that embodies the Empire's unyielding pursuit of greatness. A testament to ceaseless ambition, the tower is in a perpetual state of construction, forever aspiring to ascend to the heavens. As the core around which the city thrives, the Tower of the Bright Lord symbolizes the empire's unwavering devotion to the ideals and dominion of the Bright Lord.
 
 ### Reddland
+
+![Alt text](images/Places/Reddland/Reddwall.png)
 
 #### A History of Conquest and Resilience
 
@@ -571,6 +577,8 @@ In accordance with the pact resulting from the "The Redd Blasphemy", Vex'halia R
 The legend of Killroy the Fool echoes throughout Reddland, encapsulating the events of the Redd Revolution and the humble fool who played a significant role in it. Over time, the name Killroy has become synonymous with ill fortune, leading many to shun its usage.
 
 "Once upon a time, in the now-land of Reddland, the tyrannical Siren Witch Queen Alana ruled with an iron grip, using her malevolent magic to control the minds of her subjects.
+
+![Alt text](images/Places/Reddland/TheWitchQueenAlana.png)
 
 During that era, the Siren's worship of the Moon Presence was viewed as heresy by the followers of Brightinist faith across the land of Terra. Serana Reddington, a devout Dhampir centurion serving in the Dawn Empire Legion, fervently sought the Emperor's blessing to liberate the lands from the clutches of the Witch Queen Alana. Although the Emperor granted her his approval, he provided no additional forces for the conquest, believing that if the oppressed people themselves did not rise up for their freedom, they did not deserve it.
 
