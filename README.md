@@ -391,6 +391,8 @@ Relics:
 
 ### The Twisting One
 
+![Alt text](<images/Brights/The Twisting One.png>)
+
 Aspect: Want, Growth, Change
 
 Tenet: "Thou shall recognize the success of one's neighbor, and labor to obtain success thineself."
@@ -458,6 +460,8 @@ Priests and priestesses dedicated to The Beautiful One can be identified by thei
 Relics:
 
 ### The Bargainer
+
+![Alt text](<images/Brights/The Bargainer.png>)
 
 Aspect: Prosperity, Secrets, Knowledge
 
