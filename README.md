@@ -255,6 +255,7 @@ Map Download: <!-- Map link here-->
     - [Epilogue](#epilogue)
     - [Adversary - Damaged](#adversary---damaged)
     - [Asclepius](#asclepius)
+    - [Asher’s Arms Swordbreaker](#ashers-arms-swordbreaker)
   - [Unique Armor](#unique-armor)
 - [Player Characters](#player-characters)
 
@@ -1874,6 +1875,19 @@ To repair, “Asclepius”  must feed on metal. Different amounts result in diff
 Desc:
 
 This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
+
+#### Asher’s Arms Swordbreaker
+
+Blade Catch:
+
+Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario.
+
+Desc:
+
+A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Redwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+
+Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon.
+
 
 ### Unique Armor
 
