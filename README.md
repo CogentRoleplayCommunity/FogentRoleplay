@@ -27,7 +27,7 @@ Map Download: <!-- Map link here-->
 - [Preface](#preface)
 - [Special Thanks](#special-thanks)
 - [World Lore](#world-lore)
-  - [The Awakening of Fellkind](#the-awakening-of-fellkind)
+  - [The Awakening](#the-awakening)
   - [The First of Brightkind](#the-first-of-brightkind)
   - [Brightinism](#brightinism)
   - [The Faithful One](#the-faithful-one)
@@ -260,11 +260,13 @@ I'd like to thank Shad, Dave, Jazza, and anyone else behind the scenes for their
 
 ## World Lore
 
-### The Awakening of Fellkind
+### The Awakening
 
 On dead world, at the end of time, life begins once again…
 
 This world, known as Terra, revolves around a faded and dying star. Once, it was a flourishing world teeming with consciousness and vibrant life. However, it has now become a fallen apocalyptic realm, where only malevolent creatures roam. Their ceaseless hunt driven by the hunger for the conscious life that has long since vanished into oblivion. It drifts ceaselessly through the vast expanse of space, an eternal voyage through boundless void and darkness.
+
+![Alt text](<images/Brights/Arrival of the Bright Lord.png>)
 
 However, a turning point emerged when a celestial entity, known as "the Bright Lord," descended upon Terra, accompanied by other ethereal beings referred to as the Brights or gods in various cultures. Moved by the plight of the mindless monstrosities that roamed the planet, the Bright Lord felt compassion for this lifeless realm. With a benevolent touch, he granted consciousness to those creatures that bowed before him, bestowing upon them the humanoid form akin to his own. This pivotal event came to be known as "The Awakening."
 
