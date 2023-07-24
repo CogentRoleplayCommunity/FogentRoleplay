@@ -268,6 +268,8 @@ Map Download: <!-- Map link here-->
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
     - [Guardian Shield](#guardian-shield)
+  - [Potions](#potions)
+    - [Vial of Gradual Healing Blood](#vial-of-gradual-healing-blood)
 - [Player Characters](#player-characters)
 
 ## Preface
@@ -2036,10 +2038,23 @@ Dragon Element Resistance:
 #### Guardian Shield
 
 A superior medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one’s disposal.
-
+[Title](LICENSE)
 Retractable Shield:
 
 The user can deploy or retract the medium shield at will.
+
+### Potions
+
+#### Vial of Gradual Healing Blood
+
+Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+
+The process of creating Healing blood is a closely guarded secret of House Redington, as it is Redwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Redington.
+
+Minor Healing Factor: [Minor Healing Factor](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-healing-factor)
+
+
 
 ## Player Characters
 
