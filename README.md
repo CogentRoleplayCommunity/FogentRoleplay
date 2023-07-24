@@ -260,6 +260,7 @@ Map Download: <!-- Map link here-->
     - [Dancing Moonlight](#dancing-moonlight)
     - [The Spear of Destiny](#the-spear-of-destiny)
     - [Hew](#hew)
+    - [Monkey Staff](#monkey-staff)
   - [Unique Armor](#unique-armor)
 - [Player Characters](#player-characters)
 
@@ -1987,6 +1988,21 @@ Desc:
 An unassuming rusty, yet excellent battleaxe both as versatile at chopping wood as chopping skulls.
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Redguard. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Lechens that roamed the forest, this weapon was forged.
+
+#### Monkey Staff
+
+Extentable Weapon:
+
+This weapon can shrink to the size of a small weapon, extend up to reach weapon, aswell as any size inbetween.
+
+Desc:
+
+"Monkey see, Monkey do" - Arinoth the Enlightened
+
+A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.
+
+
+
 
 
 ### Unique Armor
