@@ -261,6 +261,7 @@ Map Download: <!-- Map link here-->
     - [The Spear of Destiny](#the-spear-of-destiny)
     - [Hew](#hew)
     - [Monkey Staff](#monkey-staff)
+    - [Talon - Practic](#talon---practic)
   - [Unique Armor](#unique-armor)
 - [Player Characters](#player-characters)
 
@@ -2001,7 +2002,11 @@ Desc:
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.
 
+#### Talon - Practic
 
+Desc:
+
+Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.
 
 
 
