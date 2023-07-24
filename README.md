@@ -270,6 +270,8 @@ Map Download: <!-- Map link here-->
     - [Guardian Shield](#guardian-shield)
   - [Potions](#potions)
     - [Vial of Healing Blood](#vial-of-healing-blood)
+  - [Misc](#misc)
+    - [Petty Brightstone](#petty-brightstone)
 - [Player Characters](#player-characters)
 
 ## Preface
@@ -2062,6 +2064,16 @@ Superior: [Superior Heal](https://cogentroleplaycommunity.github.io/FogentRolepl
 Supreme: [Supreme Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#supreme-heal)
 
 Revival: [Revival Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#revival-heal)
+
+### Misc
+
+#### Petty Brightstone
+
+Brightstone is a rare gem that can hold Light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold.
+
+Light Storage:
+
+Holds 1 Light. Light can be drawn from it for use in Miracles. Can be recharged in Sunlight. Light slowly dissipates from this gem.
 
 
 
