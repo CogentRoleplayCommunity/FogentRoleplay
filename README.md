@@ -263,6 +263,7 @@ Map Download: <!-- Map link here-->
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
+    - [Sirius's Sword](#siriuss-sword)
   - [Unique Armor](#unique-armor)
 - [Player Characters](#player-characters)
 
@@ -2014,6 +2015,12 @@ Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made 
 Desc:
 
 Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.
+
+#### Sirius's Sword
+
+Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the Crossguard.
+
+House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.
 
 
 
