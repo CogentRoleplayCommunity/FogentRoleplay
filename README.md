@@ -1836,12 +1836,6 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### Epilogue
 
-Effect: Ending
-
-Creatures killed with this weapon are instantly decapitated.
-
-Desc:
-
 "There is no real ending. It's just a place where you stop the story."
 
 This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp, this is a fine sword.
@@ -1852,15 +1846,11 @@ Killing with this weapon seems to mysteriously decapitate the victim's head from
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of Angland had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…
 
+Effect: Ending
+
+Creatures killed with this weapon are instantly decapitated.
+
 #### Adversary - Damaged
-
-Radiance Conduit: Acts as a Radiance focus, meaning it can be used to modify the base dice of all Radiance rolls.
-
-Light Bound: This weapon is physical light, and can be absorbed and summoned by a Brightkin at will.
-
-Hilt Gem: None
-
-Desc:
 
 This fine golden hilt appears to be damaged from a tremendous impact, leaving the hilt crack and leaking light.
 
@@ -1870,7 +1860,15 @@ Sword of Luc Lightbringer. The hilt acts as a Miracle focus, allowing for devast
 
 This sword was used in the execution of Helena by Uhtred Storm at Luc’s order, though it was only used to subdue her and did not deal the final blow.
 
+Radiance Conduit: Acts as a Radiance focus, meaning it can be used to modify the base dice of all Radiance rolls.
+
+Light Bound: This weapon is physical light, and can be absorbed and summoned by a Brightkin at will.
+
+Hilt Gem: None
+
 #### Asclepius
+
+This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 
 Command Asclepius:
 
@@ -1880,29 +1878,17 @@ Metal Feeding:
 
 To repair, “Asclepius”  must feed on metal. Different amounts result in different levels of repair and time needed to complete these repairs.
 
-Desc:
-
-This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
-
 #### Asher’s Arms Swordbreaker
-
-Blade Catch:
-
-Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario.
-
-Desc:
 
 A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Redwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon.
 
+Blade Catch:
+
+Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario.
+
 #### Char
-
-Fire Repair and Enhancement:
-
-Weapons repairs in intense fires. If the fire is fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.
-
-Desc:
 
 “It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday.”  -Destin Shaffer Sr.
 
@@ -1916,7 +1902,19 @@ During Destin’s confrontation with the Demon Helena, he sacrificed the damaged
 
 Shattered and broken, Destin continues to carry this blade.
 
+Fire Repair and Enhancement:
+
+Weapons repairs in intense fires. If the fire is fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.
+
 #### Dancing Moonlight
+
+“Ah, you were at my side all along. My true mentor. My guiding moonlight.” - Unknown
+
+A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Redland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
+
+When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
+
+Princess Vex'ahlia Reddinton was gifted this sword upon her return to Redland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex’ahlia’s birth. Lady Redguard wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex’ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex’ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she’d ever heard.
 
 Binding of the Moon:
 
@@ -1938,17 +1936,17 @@ Moonlight Greatsword:
 
 Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. This weapon now behaves as a conduit to the Fellcraft listed below.
 
-Desc:
-
-“Ah, you were at my side all along. My true mentor. My guiding moonlight.” - Unknown
-
-A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Redland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
-
-When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
-
-Princess Vex'ahlia Reddinton was gifted this sword upon her return to Redland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex’ahlia’s birth. Lady Redguard wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex’ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex’ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she’d ever heard.
-
 #### The Spear of Destiny
+
+“Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again.” - Ancient texts
+
+The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
+
+Eventually the Spear would end up in the possession of the Royal Family of Angland, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
+
+Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
+
+The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of Angland. Those that oppose Angland had a much different perspective…
 
 Destiny Strength/Reflex:
 
@@ -1966,25 +1964,7 @@ Indestructible:
 
 This item can’t lose durability.
 
-Desc:
-
-“Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again.” - Ancient texts
-
-The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
-
-Eventually the Spear would end up in the possession of the Royal Family of Angland, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
-
-Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
-
-The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of Angland. Those that oppose Angland had a much different perspective…
-
 #### Hew
-
-Splinter:
-
-Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.
-
-Desc:
 
 "When you chop wood, splinters fly."  - Anonymous
 
@@ -1992,27 +1972,25 @@ An unassuming rusty, yet excellent battleaxe both as versatile at chopping wood 
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Redguard. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Lechens that roamed the forest, this weapon was forged.
 
+Splinter:
+
+Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.
+
 #### Monkey Staff
-
-Extentable Weapon:
-
-This weapon can shrink to the size of a small weapon, extend up to reach weapon, aswell as any size inbetween.
-
-Desc:
 
 "Monkey see, Monkey do" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.
 
-#### Talon - Replica
+Extentable Weapon:
 
-Desc:
+This weapon can shrink to the size of a small weapon, extend up to reach weapon, aswell as any size inbetween.
+
+#### Talon - Replica
 
 Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.
 
 #### Fang - Replica
-
-Desc:
 
 Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.
 
