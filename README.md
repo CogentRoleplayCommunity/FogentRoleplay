@@ -266,6 +266,7 @@ Map Download: <!-- Map link here-->
     - [Sirius's Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
+    - [Dragonguard](#dragonguard)
 - [Player Characters](#player-characters)
 
 ## Preface
@@ -2017,12 +2018,19 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.
 
-
-
-
-
-
 ### Unique Armor
+
+#### Dragonguard
+
+This superior runecrafted breastplate has a dragon motif etched into its design. Created for Lord Maxwell Reddington for his treks into the catacombs beneath Redwall. This armor provides good protection for the wearer's vital organs.
+
+Dragon Sense:
+
+The bearer of this armor gets an uneasy feeling when there are draconic creatures near…
+
+Dragon Element Resistance:
+
++1 Defense vs dragon elemental attacks (Dragonfire, Dragontide, Dragonterra, ect)
 
 ## Player Characters
 
