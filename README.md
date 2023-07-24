@@ -2061,6 +2061,10 @@ Superior: [Superior Heal](https://cogentroleplaycommunity.github.io/FogentRolepl
 
 Supreme: [Supreme Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#supreme-heal)
 
+Revival: [Revival Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#revival-heal)
+
+
+
 
 ## Player Characters
 
