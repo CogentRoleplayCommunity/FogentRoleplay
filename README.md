@@ -267,6 +267,7 @@ Map Download: <!-- Map link here-->
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
+    - [Guardian Shield](#guardian-shield)
 - [Player Characters](#player-characters)
 
 ## Preface
@@ -2031,6 +2032,14 @@ The bearer of this armor gets an uneasy feeling when there are draconic creature
 Dragon Element Resistance:
 
 +1 Defense vs dragon elemental attacks (Dragonfire, Dragontide, Dragonterra, ect)
+
+#### Guardian Shield
+
+A superior medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one’s disposal.
+
+Retractable Shield:
+
+The user can deploy or retract the medium shield at will.
 
 ## Player Characters
 
