@@ -2053,7 +2053,7 @@ The process of creating Healing blood is a closely guarded secret of House Redin
 
 Gradual: [Minor Healing Factor](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-healing-factor)
 
-Standard: [Minor Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-heal)
+Minor: [Minor Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-heal)
 
 Greater: [Medium Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#medium-heal)
 
