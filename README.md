@@ -14,11 +14,11 @@ All intellectual property (characters, brands, stories, desings, etc) contained 
 
 Long live open source fun. :)
 
-Link to Cogent Roleplay Website: <https://cogentroleplay.com/>
+Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
 ![Alt text](images/CogentRoleplayAttribution_Wide.png)
 
-Map Download: <!-- Map link here-->
+Map Download: `<!-- Map link here-->`
 
 ## Table of Contents
 
@@ -97,7 +97,7 @@ Map Download: <!-- Map link here-->
   - [Blessing](#blessing)
     - [Buffs](#buffs)
     - [Healing](#healing)
-    - [Specialization: Bright's Heritage](#specialization-brights-heritage)
+    - [Specialization: Bright&#39;s Heritage](#specialization-brights-heritage)
     - [Absorb Light: Emotion](#absorb-light-emotion)
 - [Fellcraft](#fellcraft)
   - [Fellcraft Roll](#fellcraft-roll)
@@ -228,8 +228,8 @@ Map Download: <!-- Map link here-->
       - [Challenge Level](#challenge-level-3)
       - [Requirement](#requirement-3)
   - [](#)
-      - [Challenge Level](#challenge-level-4)
-      - [Requirement](#requirement-4)
+    - [Challenge Level](#challenge-level-4)
+    - [Requirement](#requirement-4)
   - [Pure Runes](#pure-runes)
     - [Rune of Fire](#rune-of-fire)
     - [Rune of Earth](#rune-of-earth)
@@ -263,7 +263,7 @@ Map Download: <!-- Map link here-->
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -291,7 +291,7 @@ On dead world, at the end of time, life begins once again…
 
 This world, known as Terra, revolves around a faded and dying star. Once, it was a flourishing world teeming with consciousness and vibrant life. However, it has now become a fallen apocalyptic realm, where only malevolent creatures roam. Their ceaseless hunt driven by the hunger for the conscious life that has long since vanished into oblivion. It drifts ceaselessly through the vast expanse of space, an eternal voyage through boundless void and darkness.
 
-![Alt text](<images/Brights/Arrival of the Bright Lord.png>)
+![Alt text](images/Brights/Arrival of the Bright Lord.png)
 
 However, a turning point emerged when a celestial entity, known as "the Bright Lord," descended upon Terra, accompanied by other ethereal beings referred to as the Brights or gods in various cultures. Moved by the plight of the mindless monstrosities that roamed the planet, the Bright Lord felt compassion for this lifeless realm. With a benevolent touch, he granted consciousness to those creatures that bowed before him, bestowing upon them the humanoid form akin to his own. This pivotal event came to be known as "The Awakening."
 
@@ -327,7 +327,7 @@ Bathed in near endless night resulting from the fading star, the newly created i
 
 When the remaining Demon Lords of Terra began preying upon Fellkind, Amon embarked on a relentless war against them. Wielding the formidable Spear of Destiny, he waged a campaign of rampage and pursuit, extinguishing the existence of demons from Terra.
 
-![Alt text](<images/Brights/The Great Betrayer.png>)
+![Alt text](images/Brights/The Great Betrayer.png)
 
 However, unsatisfied with the mere possibility of their return, Amon ventured to the very realm of the demons. There, he unleashed unyielding fury, tearing through their world with unrestrained might. Legends speak of Amon's boundless rage echoing across the demon realm for an eternity, all driven by his unwavering commitment to protecting those he cherished. The demons, recognizing his indomitable power, bestowed upon him the title of "The Demon of the West," for in time they considered him one of their own. Yet, upon his return, Amon had been forever changed.
 
@@ -367,7 +367,7 @@ Brights are a group of beings that are most commonly associated with the Bright 
 
 ### The Bright Lord
 
-![Alt text](<images/Brights/The Bright Lord.png>)
+![Alt text](images/Brights/The Bright Lord.png)
 
 Aspect: Light, Intelligence, Dominion
 
@@ -392,7 +392,7 @@ The Inquisition also are fervent worshipers of the Bright Lord, carrying out wha
 
 ### The Great Betrayer
 
-![Alt text](<images/Brights/The Great Betrayer.png>)
+![Alt text](images/Brights/The Great Betrayer.png)
 
 Domain: Vengeance, Fury, Betrayal
 
@@ -418,7 +418,7 @@ Relics:
 
 ### The Twisting One
 
-![Alt text](<images/Brights/The Twisting One.png>)
+![Alt text](images/Brights/The Twisting One.png)
 
 Aspect: Want, Growth, Change
 
@@ -448,7 +448,7 @@ Relics:
 
 ### The Bound One
 
-![Alt text](<images/Brights/The Bound One.png>)
+![Alt text](images/Brights/The Bound One.png)
 
 Domain: Rest, Binding, Stagnation, Patience
 
@@ -468,7 +468,7 @@ Relics:
 
 ### The Beautiful One
 
-![Alt text](<images/Brights/The Beatiful One.png>)
+![Alt text](images/Brights/The Beatiful One.png)
 
 Aspect: Passion, Fertility, Beauty
 
@@ -488,7 +488,7 @@ Relics:
 
 ### The Bargainer
 
-![Alt text](<images/Brights/The Bargainer.png>)
+![Alt text](images/Brights/The Bargainer.png)
 
 Aspect: Prosperity, Secrets, Knowledge
 
@@ -509,7 +509,7 @@ Relics:
 
 ### The Ravenous One
 
-![Alt text](<images/Brights/The Ravenous One.png>)
+![Alt text](images/Brights/The Ravenous One.png)
 
 Domain: Survival, Hunger, Decay
 
@@ -555,13 +555,13 @@ The sprawling Continent stretches across the vast expanse of Terra, its colossal
 
 ### The Dawn Empire
 
-![Alt text](<images/Places/TheDawnEmpire/Dawn Empire Inquisitors.png>)
+![Alt text](images/Places/TheDawnEmpire/Dawn Empire Inquisitors.png)
 
 Atop the hierarchy of nations on the continent stands the Dawn Empire, a formidable superpower governed by the illustrious Lightbringer Imperial family. With its immense influence and military might, the Dawn Empire holds the mantle of unrivaled power in the region, commanding respect and shaping the course of history.
 
 #### The City of Crossroads
 
-![Alt text](<images/Places/TheDawnEmpire/Crossroads.png>)
+![Alt text](images/Places/TheDawnEmpire/Crossroads.png)
 
 Nestled within the heart of the Dawn Empire, the City of Crossroads stands as the majestic capital, radiating splendor and significance. The city's centerpiece is the Tower of Dawn, an architectural marvel that embodies the Empire's unyielding pursuit of greatness. A testament to ceaseless ambition, the tower is in a perpetual state of construction, forever aspiring to ascend to the heavens. As the core around which the city thrives, the Tower of the Bright Lord symbolizes the empire's unwavering devotion to the ideals and dominion of the Bright Lord.
 
@@ -583,7 +583,7 @@ In recent years, Reddland has been marked by remarkable advancements in medicine
 
 Captain Flint Storm, the Laughing Storm, was an illegitimate child of a noble vampire house called the Daywalkers, hailing from the renowned city of Crossroads. As a pirate, he encountered Victoria Reddington's vessel and, unexpectedly, fell deeply in love with her. Moved by this affection, Flint released her ship along with all its cargo.
 
-#### The Redd Blasphemy  
+#### The Redd Blasphemy
 
 Lord Maxwell Reddington, the designated successor of House Reddington and the Kingdom of Redland, shared his sister Veronica's scholarly pursuits as an academic of Byrgenwerth. Fascinated by the ancient Siren culture that once thrived in Redwall, Maxwell dedicated his time and resources, including his dowry, to funding expeditions into the catacombs that now lay beneath Redwall's foundations. Accompanied by his younger sister, Lady Veronica Reddington, Maxwell embarked on one such expedition, which led them to a remarkable discovery deep within the catacombs. Maxwell returned with a sword of great significance, while Veronica went on to pioneer the development of the first healing bloods of Redwall.
 
@@ -1037,7 +1037,7 @@ When a character attempts a Polycraft transformation, they make a Polycraft Roll
 When a character attempts a Polycraft heal, they make a Polycraft Roll (this can be done while in a transformation). Depending on the wins achieved, the user gains one of the following effects.
 
 | Effect               | Challenge Level | Duration |
-| -------------------- | --------------- |----------|
+| -------------------- | --------------- | -------- |
 | Minor Healing Factor | 2               | 24 hr    |
 | Minor Heal           | 2               | Instant  |
 | Medium Heal          | 3               | Instant  |
@@ -1461,8 +1461,8 @@ This technique was discovered when Byrgenwerth Scholars found a dark truth deep 
 
 By performing the following check below, a character may produce enough healing blood for one use of a healing blood vial.
 
-| Effect                                                                                                                             | Challenge Level | Cast Time |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
+| Effect                                                                                                                          | Challenge Level | Cast Time |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
 | [Vial of Gradual Healing Blood](https://docs.google.com/document/d/1KHjim-gFH6Hyu35oROIbg2Fd8BnUEdeBO1htK586F7w/edit?usp=sharing)  | 1               | 4 hr      |
 | [Vial of Healing Blood](https://docs.google.com/document/d/1LQtDDJWHj1L57SLqpRiDt9zPV0GPIi0otCgaotwmu7g/edit?usp=sharing)          | 2               | 4 hr      |
 | [Vial of Greater Healing Blood](https://docs.google.com/document/d/1T6bF0RUVZ5qL91WJFtvPSzkkIwnpJnLglYhlkaKYxGk/edit?usp=sharing)  | 3               | 4 hr      |
@@ -1484,9 +1484,9 @@ Webcraft users can narratively attempt the following:
 
 Webs cannot inflict damage. Instead follow the table below.
 
-| Name                           | Effect                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------ |
-| Minor Binding (Lvl 1 Victory)   | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -¼ of combat movement   |
+| Name                            | Effect                                                                               |
+| ------------------------------- | ------------------------------------------------------------------------------------ |
+| Minor Binding (Lvl 1 Victory)   | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -¼ of combat movement  |
 | Medium Binding (Lvl 2 Victory)  | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -2/4 of combat movement |
 | Serious Binding (Lvl 3 Victory) | -1d6 to physical skills (RFX/STR), -1d6 to Combat (RFX/STR), -3/4 of combat movement |
 | Supreme Binding (Lvl 4 Victory) | Target is incapacitated within the binding                                           |
@@ -1653,28 +1653,28 @@ It is known that the body can be a vessel for runes, though the effect often lea
 
 When creating a rune, a runesmith can overload a rune with energy, resulting in an additional +1d6 to the effect. However, since the rune was not made properly (as you are going above your Runesmith Vocation energy cap) the rune will have erratic behavior. Roll a d20 to determine the nature of the malfunction.
 
-d20|Runecraft Malfunction table
-|-|-|
-1|You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense.
-2|You become petrified for 1d10 rounds.
-3|A clone of the caster appears, desperately claiming to be the original.
-4|The one who activated the rune fall asleep
-5|All doors and windows within 60' of the caster fly open.
-6|You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.
-7|The spell's target becomes overwhelmed by a desire to eat the caster.
-8|The caster and target are flung 10' in opposite directions.
-9|The caster and target are both whisked to the Astral Plane for the next minute.
-10|A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.
-11|Rune converts to Shockwave effect
-12|Rune converts to Water effect
-13|Rune converts to Bleed effect
-14|Rune converts to Electric effect
-15|Rune converts to Cold effect
-16|Rune converts to Dark effect
-17|Rune converts to Mental effect
-18|Rune converts to Spiritual effect
-19|Rune converts to Fire effect
-20|The world slows down around the caster. The caster gets to take an additional action.
+| d20 | Runecraft Malfunction table                                                                                                                                                                                                                                                             |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense. |
+| 2   | You become petrified for 1d10 rounds.                                                                                                                                                                                                                                                   |
+| 3   | A clone of the caster appears, desperately claiming to be the original.                                                                                                                                                                                                                 |
+| 4   | The one who activated the rune fall asleep                                                                                                                                                                                                                                              |
+| 5   | All doors and windows within 60' of the caster fly open.                                                                                                                                                                                                                                |
+| 6   | You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.                                                                                                                                                            |
+| 7   | The spell's target becomes overwhelmed by a desire to eat the caster.                                                                                                                                                                                                                   |
+| 8   | The caster and target are flung 10' in opposite directions.                                                                                                                                                                                                                             |
+| 9   | The caster and target are both whisked to the Astral Plane for the next minute.                                                                                                                                                                                                         |
+| 10  | A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.                                                                            |
+| 11  | Rune converts to Shockwave effect                                                                                                                                                                                                                                                       |
+| 12  | Rune converts to Water effect                                                                                                                                                                                                                                                           |
+| 13  | Rune converts to Bleed effect                                                                                                                                                                                                                                                           |
+| 14  | Rune converts to Electric effect                                                                                                                                                                                                                                                        |
+| 15  | Rune converts to Cold effect                                                                                                                                                                                                                                                            |
+| 16  | Rune converts to Dark effect                                                                                                                                                                                                                                                            |
+| 17  | Rune converts to Mental effect                                                                                                                                                                                                                                                          |
+| 18  | Rune converts to Spiritual effect                                                                                                                                                                                                                                                       |
+| 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
+| 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
 
 ### Runecraft in Combat
 
@@ -1773,18 +1773,11 @@ CL 4 and above: Rune is completed.
 ##### Requirement
 
 - INT Requirment: Level 1
-
 - Energy Required: 2 energy minimum
-
 - Rune slots required: 3
-
 - Rune of Fire: Level 2
-
 - Rune of Sound: Level 0
-
 - Weapon Smithing Skill: Level 1
-
-###
 
 ##### Challenge Level
 
@@ -2090,7 +2083,4 @@ Forbidden Whispers:
 
 When one squeezes the Heart, it whispers secrets directly into their mind concerning the current area, as it senses information about the world beyond mortal recognition. When the Heart is pointed at a person, it reveals secrets about them. Roll a destiny roll (a d20) to determine the level of information obtained.
 
-
 ## Player Characters
-
-
