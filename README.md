@@ -107,7 +107,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Crafting a Rune](#crafting-a-rune)
   - [Knowledge of Runes](#knowledge-of-runes)
   - [Energy Example](#energy-example)
-    - [Ichor of Monster or Fellkin blood](#ichor-of-monster-or-fellkin-blood)
+    - [Ichor from Monster or Fellkin blood](#ichor-from-monster-or-fellkin-blood)
     - [Charged Electrite](#charged-electrite)
   - [An object to hold the rune](#an-object-to-hold-the-rune)
   - [Overcharging Runes](#overcharging-runes)
@@ -160,7 +160,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius&#39;s Sword](#siriuss-sword)
+    - [Sirius's Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -170,6 +170,9 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Unique Misc](#unique-misc)
     - [Petty Brightstone](#petty-brightstone)
     - [Mechanical Heart](#mechanical-heart)
+- [Characters](#characters)
+  - [Javk Wick](#javk-wick)
+  - [Destin Shaffer](#destin-shaffer)
 
 ## World Lore
 
