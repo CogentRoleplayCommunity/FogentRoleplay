@@ -1835,49 +1835,11 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 ### Unique Weapons
 
-#### Epilogue
+#### [Epilogue](UniqueItems/Epilogue.md)
 
-"There is no real ending. It's just a place where you stop the story."
+#### [Adversary - Damaged](UniqueItems/Adversary-Damaged.md)
 
-This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp, this is a fine sword.
-
-A relatively unknown Runecraft to the wider populace, this sword is highly debated by scholars of war and Runecrafts. “Ending”, “Epilogue”, “The Last Word”, “An Ending to things”, ect… are all names for what scholars believe is the same sword recorded across many myths from various cultures, long into the past. Always described as a slender, long, graceful sword as easy to use in one hand as two. This sword seems to end up in the hands of ill fated rogues and rebels.
-
-Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
-
- Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of Angland had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…
-
-Effect: Ending
-
-Creatures killed with this weapon are instantly decapitated.
-
-#### Adversary - Damaged
-
-This fine golden hilt appears to be damaged from a tremendous impact, leaving the hilt crack and leaking light.
-
-"Awake, arise, or be forever Fallen…" - Words of the Bright Lord
-
-Sword of Luc Lightbringer. The hilt acts as a Miracle focus, allowing for devastating radiant attack. Luc has had this sword his entire life, a mysterious gift from when he was too young to remember. In many ways, this sword and Luc are one in the same. Elegant, bright, and extremely dangerous. Luc has spent his entire entire life learning the abilities of this artifact, though even he does not fully understand the weapon…
-
-This sword was used in the execution of Helena by Uhtred Storm at Luc’s order, though it was only used to subdue her and did not deal the final blow.
-
-Radiance Conduit: Acts as a Radiance focus, meaning it can be used to modify the base dice of all Radiance rolls.
-
-Light Bound: This weapon is physical light, and can be absorbed and summoned by a Brightkin at will.
-
-Hilt Gem: None
-
-#### Asclepius
-
-This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
-
-Command Asclepius:
-
-By holding and speaking the command word “Asclepius” the user may instruct this Runecraft to perform various simple actions. “Asclepius, turn into a whip, or short spear.” or Asclepius, attack those soldiers.”
-
-Metal Feeding:
-
-To repair, “Asclepius”  must feed on metal. Different amounts result in different levels of repair and time needed to complete these repairs.
+#### [Asclepius](UniqueItems/Asclepius)
 
 #### Asher’s Arms Swordbreaker
 
