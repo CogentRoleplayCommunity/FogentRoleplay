@@ -1,7 +1,3 @@
-On a dead world, at the end of time, life begins once again...
-
-![alt_text](images/Places/TheContinent.png "image_tooltip")
-
 ## Cogent Roleplay Open License
 
 Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
@@ -10,15 +6,11 @@ All game mechanics and game systems contained within this document are open and 
 
 Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to this document.
 
-All intellectual property (characters, brands, stories, desings, etc) contained within this document is entirely owned by the creator of this document and is not subject to the Cogent Open Source license. However, the creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite.
-
-Long live open source fun. :)
+All intellectual property (characters, brands, stories, desings, etc) contained within this document is entirely owned by the creator of this document and is not subject to the Cogent Open Source license. However, the creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open source fun. :)
 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
 ![Alt text](images/CogentRoleplayAttribution_Wide.png)
-
-Map Download: `<!-- Map link here-->`
 
 ## Table of Contents
 
@@ -90,7 +82,7 @@ Map Download: `<!-- Map link here-->`
   - [Blessing](#blessing)
     - [Buffs](#buffs)
     - [Healing](#healing)
-    - [Specialization: Bright's Heritage](#specialization-brights-heritage)
+    - [Specialization: Bright&#39;s Heritage](#specialization-brights-heritage)
     - [Absorb Light: Emotion](#absorb-light-emotion)
 - [Fellcraft](#fellcraft)
   - [Fellcraft Roll](#fellcraft-roll)
@@ -177,7 +169,7 @@ Map Download: `<!-- Map link here-->`
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -186,19 +178,13 @@ Map Download: `<!-- Map link here-->`
     - [Vial of Healing Blood](#vial-of-healing-blood)
   - [Unique Misc](#unique-misc)
     - [Petty Brightstone](#petty-brightstone)
-    - [Mechanical Heart](#mechanical-heart)
-
-
-
-## Preface
-
-Howdy everyone, this is your friendly neighborhood Javk Wick here. Fallen is my attempt at implementing some key mechanics and resources that are present in other popular TTRPGS.
-
-## Special Thanks
-
-I'd like to thank Shad, Dave, Jazza, and anyone else behind the scenes for their work on Cogent Roleplay. Your hard work allowed me to finally bring my own world "Fallen" to life and share it with my friends. I'm very grateful.
+    - [Mechanical Hear](#mechanical-heart)t
 
 ## World Lore
+
+On a dead world, at the end of time, life begins once again...
+
+![alt_text](images/Places/TheContinent.png "image_tooltip")
 
 ### The Awakening
 
