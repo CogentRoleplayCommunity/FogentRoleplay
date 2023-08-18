@@ -16,8 +16,6 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 - [Cogent Roleplay Open License](#cogent-roleplay-open-license)
 - [Table of Contents](#table-of-contents)
-- [Preface](#preface)
-- [Special Thanks](#special-thanks)
 - [World Lore](#world-lore)
   - [The Awakening](#the-awakening)
   - [The First of Brightkind](#the-first-of-brightkind)
@@ -75,42 +73,35 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Absorb Light](#absorb-light)
   - [Miracle Wonders](#miracle-wonders)
   - [Radiance](#radiance)
-    - [Specialization: Hard Light](#specialization-hard-light)
-    - [Specialization: Illusions](#specialization-illusions)
-    - [Absorb Light: Sun Light](#absorb-light-sun-light)
-    - [Radiant Resistance](#radiant-resistance)
   - [Blessing](#blessing)
-    - [Buffs](#buffs)
-    - [Healing](#healing)
-    - [Specialization: Bright&#39;s Heritage](#specialization-brights-heritage)
-    - [Absorb Light: Emotion](#absorb-light-emotion)
-- [Fellcraft](#fellcraft)
+- [Fellcrafts](#fellcrafts)
   - [Fellcraft Roll](#fellcraft-roll)
   - [Ichor](#ichor)
     - [Regaining Ichor](#regaining-ichor)
     - [Absorbing Ichor](#absorbing-ichor)
   - [Fellcraft Tricks](#fellcraft-tricks)
-  - [Polycraft](#polycraft)
-  - [Blazecraft](#blazecraft)
-  - [Hydrocraft](#hydrocraft)
-  - [Electrocraft](#electrocraft)
-  - [Terracraft](#terracraft)
-  - [Galecraft](#galecraft)
-  - [Cryocraft](#cryocraft)
-  - [Naturecraft](#naturecraft)
-  - [Toxicraft](#toxicraft)
-  - [Soulcraft](#soulcraft)
-  - [Shadowcraft](#shadowcraft)
-  - [Mindcraft](#mindcraft)
-  - [Ferracraft](#ferracraft)
-  - [Sonocraft](#sonocraft)
-  - [Hemacraft](#hemacraft)
-  - [Spidercraft](#spidercraft)
-  - [Plasmacraft](#plasmacraft)
-  - [Stormcraft](#stormcraft)
-  - [Magmacraft](#magmacraft)
-  - [Blizzardcraft](#blizzardcraft)
   - [Fellcraft Tree](#fellcraft-tree)
+  - [Fellcraft List](#fellcraft-list)
+    - [Polycraft](#polycraft)
+    - [Blazecraft](#blazecraft)
+    - [Hydrocraft](#hydrocraft)
+    - [Electrocraft](#electrocraft)
+    - [Terracraft](#terracraft)
+    - [Galecraft](#galecraft)
+    - [Cryocraft](#cryocraft)
+    - [Naturecraft](#naturecraft)
+    - [Toxicraft](#toxicraft)
+    - [Soulcraft](#soulcraft)
+    - [Shadowcraft](#shadowcraft)
+    - [Mindcraft](#mindcraft)
+    - [Ferracraft](#ferracraft)
+    - [Sonocraft](#sonocraft)
+    - [Hemacraft](#hemacraft)
+    - [Spidercraft](#spidercraft)
+    - [Plasmacraft](#plasmacraft)
+    - [Stormcraft](#stormcraft)
+    - [Magmacraft](#magmacraft)
+    - [Blizzardcraft](#blizzardcraft)
 - [Runecraft](#runecraft)
   - [Runecraft Roll](#runecraft-roll)
   - [Crafting a Rune](#crafting-a-rune)
@@ -178,7 +169,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Vial of Healing Blood](#vial-of-healing-blood)
   - [Unique Misc](#unique-misc)
     - [Petty Brightstone](#petty-brightstone)
-    - [Mechanical Hear](#mechanical-heart)t
+    - [Mechanical Heart](#mechanical-heart)
 
 ## World Lore
 
@@ -413,118 +404,34 @@ Light is the catalyst for all Miracles. It is channeled through an emotion or me
 
 #### Generate Light
 
-All Brightkin have an inner light. Maintaining one's physical health restores Light gradually over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Light. The narrator should take into account the Miracles vocation when granting light from rest.
+All Brightkin have an inner light. Maintaining one's physical health restores Light gradually over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels.
+
+A short rest (1 hour) regains Ichor equal to their Brightkin Vocation level. This can only be performed once per long rest. A long rest (8 hours) with proper nutrition and hydration regains Light completely.
 
 #### Absorb Light
 
-Brightkin can absorb Light via ample sources of light (such as the Sun) or by drawing on powerful emotion/memories. The ability can be used once for each Brightkin point, resetting on long rests. The points in the specific Miracle skill used dictates how much Light is regained. Flavor and creativity are encouraged.
+Brightkin can absorb Light via ample sources of light (such as the Sun) or by drawing on powerful emotion/memories.
+
+The ability can be used once for each Brightkin level, resetting on long rests. The level in the specific Miracle skill used dictates how much Light is regained. Flavor and creativity are encouraged.
 
 ### Miracle Wonders
 
 Wonders are uses of Miracles that use an insignificant  amount of Light. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Light is completely depleted.
 
-- Unaffected by Brightkin assists (as no Light is consumed)
+- Cannot benifit from Brightkin assists (as no Light is consumed)
 - Light Requirement: 0 Light (No Light can be used to increase dice)
 
-### Radiance
+### [Radiance](ZC/Radiance.md)
 
-Radiance users can narratively attempt the following:
+### [Blessing](ZC/Blessing.md)
 
-- Create light (hard light, illusions, etc...)
-- Manipulate light
 
-Users of Radiance focus on the manipulation of light externally. Radiance is extremely versatile and has become a staple of Angland’s way of life.
 
-In warfare, whether it is smiting the enemy from afar, armoring themselves and companions with hard light gear, or creating illusions of calvary charging at the enemies flanks, they are a force to be reckoned with.
+## Fellcrafts
 
-#### Specialization: Hard Light
+The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Ichor.
 
-Hard light is light that has been formed into a tangible physical material.
-
-- Hard light maintains its form for roughly 1 hour. The user can choose to mimic the density of a certain material.
-- The larger and heavier the object, the more difficult to create and maintain. The density and size of the light is a property controlled by the user.
-- Hard light objects can be damaged, leaking light and dramatically reducing their duration.
-- Hard light objects can be made to have a fixed position, though they will expire dramatically faster depending on the density/weight of the object.
-- Once created, a user does not need to stay close to the objects for it to maintain its form.
-
-#### Specialization: Illusions
-
-Illusions are created by bending light to create a false image.
-
-- Illusions maintain their form for roughly 1 hour. Users can extend this, but require a harder check.
-- Illusions can move, either under control of the user or set to a loop by the user.
-- Illusions can not produce sound.
-
-#### Absorb Light: Sun Light
-
-Ample sunlight can be used to absorb Light.
-
-#### Radiant Resistance
-
-By achieving a CL 3 check, for the cost of 1 Light a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
-
-### Blessing
-
-Users of Blessing can narratively attempt the following:
-
-- Bind light to themselves and others
-- Heal themselves and others
-
-While Radiance focuses on the manipulation of external light, Blessing focuses on the manipulation of light within the body. Blessings can be used to enhance or repair physical characteristics.
-
-When the user is under the effect of a Blessing they will begin to glow with wisps of light.
-
-#### Buffs
-
-When a character attempts a Blessing Buff on themselves or another, they make a Blessing Roll. Depending on the wins achieved, the user gains that benefit and all the benefits below. If the user attempts to perform another Blessing Buff on themselves, they must drop their Blessing Buff.
-
-| Effect                                                                  | Challenge Level | Duration | Light |
-| ----------------------------------------------------------------------- | --------------- | -------- | ----- |
-| Glow (provides 20 ft radius bright light and 20 ft radius of dim light) | 1               | 24 hr    | 1     |
-| Minor Healing Factor                                                    | 2               | 24 hr    | 1     |
-| +1 to 1 skill                                                           | 3               | 1 hr     | 1     |
-| +1 STR or RFX or INT                                                    | 4               | 1 hr     | 2     |
-| Flight (Angelic wings)                                                  | 5               | 1 hr     | 2     |
-| +1 STR or RFX or INT(cannot take the same attribute from CL 4 effect)   | 6               | 1 hr     | 2     |
-
-#### Healing
-
-When a character attempts a Blessing heal, they make a Blessing roll  (this can be done while a Blessing buff is active). Depending on the wins achieved, the user or target gains one of the following effects.
-
-| Effect               | Challenge Level | Duration |
-| -------------------- | --------------- | -------- |
-| Minor Healing Factor | 2               | 24 hr    |
-| Minor Heal           | 2               | Instant  |
-| Medium Heal          | 3               | Instant  |
-| Serious Heal         | 4               | Instant  |
-| Fatal Heal           | 5               | Instant  |
-| Revival Heal         | 6               | Instant  |
-
-#### Specialization: Bright's Heritage
-
-With sufficient Light, Brightkin can resurrect upon death. The Brightkins body will begin to glow brightly, damaged tissue pulled back together or is  regrown.
-
-- Requires
-- Must succeed a check starting at CL 6, decreasing each round of combat or every 10 seconds outside of combat.
-- If the user does not have enough light, they can absorb Light given they are exposed to sunlight.
-- Resurrection restores the user to peak health. This includes regrowing limbs.
-- Objects lodged in the body will remain, and may lead to injury or death upon resurrection.
-
-Known counters to this ability are driving instruments into the brain of a fallen Brightkin and burying them deep underground where no light can reach them.
-
-#### Absorb Light: Emotion
-
-Powerful emotions or memories can be meditated on to regain Light. A user must describe the powerful emotion in detail. If the Narrator agrees the emotion or memory is sufficient, then the user's inner light will surge, regaining Light.
-
-## Fellcraft
-
-The monsters of the Terra are known for their terrifying speed, strength, and strange abilities. They have evolved to achieve this by using the potential energy found in their blood, referred to as Ichor.
-
-Due to their monstrous ancestry, Fellkind carries Ichor in their veins as well. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology.
-
-Many of these abilities express themselves in response to extreme stress, which activates dormant genes.
-
-Fellcraft takes training, practice, and study to master. Most Fellkin never follow the path of mastering Fellcraft.
+Due to their monstrous ancestry, Fellkind carries Ichor in their veins as well. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
 
 ### Fellcraft Roll
 
@@ -540,58 +447,22 @@ Ichor is the potential energy found in both monster and Fellkind blood. This ene
 
 #### Regaining Ichor
 
-Maintaining one's physical health restores Ichor over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Ichor. The narrator should take into account the Fellcraft vocation when granting Ichor from rest.
+Maintaining one's physical health restores Ichor over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels.
+
+A short rest (1 hour) regains Ichor equal to their Fellkin Vocation level. This can only be performed once per long rest. A long rest (8 hours) with proper nutrition and hydration regains Ichor completely.
 
 #### Absorbing Ichor
 
-Fellkind can absorb and feed on an ample source of primal elements to regain Ichor. The ability can be used once for each Fellcraft Vocation point, resetting on long rests. The points in the specific Fellcraft skill used dictate how much Ichor is regained. Absorbing or meditating near a large source of the element are acceptable. Flavor and creativity are encouraged.
+Fellkin can absorb and feed on an ample sources of primal elements that correspound to their Fellcrafts to regain Ichor. 
+
+Ichor can be absorbed once for each Fellcraft Vocation level, resetting on long rests. The level in the specific Fellcraft skill used dictate how much Ichor is regained. Absorbing or meditating near a large source of the element are acceptable. Flavor and creativity are encouraged.
 
 ### Fellcraft Tricks
 
 Tricks are uses of Fellcraft that use an insignificant amount of Ichor. In general, Tricks should be small and happen close to the user. Igniting your fingertips to light a cigar with Blazecraft, stirring a cup of tea with Hydrocraft, or creating a gentle breeze with Galecraft are all examples of Tricks. Trick attacks are considered the weakest form of offense, only used in dire situations or for utility.
 
-- Unaffected by Fellkin assists (as no Ichor is consumed)
+- Cannot benifit from Fellkin assists (as no Ichor is consumed)
 - Ichor Requirement: 0 Ichor (No Ichor can be used to increase dice)
-
-### [Polycraft](Magic/Fellcrafts/Polycraft.md)
-
-### [Blazecraft](Magic/Fellcrafts/Blazecraft.md)
-
-### [Hydrocraft](Magic/Fellcrafts/Hydrocraft.md)
-
-### [Electrocraft](Magic/Fellcrafts/Electrocraft.md)
-
-### [Terracraft](Magic/Fellcrafts/Terracraft.md)
-
-### [Galecraft](Magic/Fellcrafts/Galecraft.md)
-
-### [Cryocraft](Magic/Fellcrafts/Cryocraft.md)
-
-### [Naturecraft](Magic/Fellcrafts/Naturecraft.md)
-
-### [Toxicraft](Magic/Fellcrafts/Toxincraft.md)
-
-### [Soulcraft](Magic/Fellcrafts/Soulcraft.md)
-
-### [Shadowcraft](Magic/Fellcrafts/Shadowcraft.md)
-
-### [Mindcraft](Magic/Fellcrafts/Mindcraft.md)
-
-### [Ferracraft](Magic/Fellcrafts/Ferracraft.md)
-
-### [Sonocraft](Magic/Fellcrafts/Sonocraft.md)
-
-### [Hemacraft](Magic/Fellcrafts/Hemacraft.md)
-
-### [Spidercraft](Magic/Fellcrafts/Spidercraft.md)
-
-### [Plasmacraft](Magic/Fellcrafts/Plasmacraft.md)
-
-### [Stormcraft](Magic/Fellcrafts/Stromcraft.md)
-
-### [Magmacraft](Magic/Fellcrafts/Magmacraft.md)
-
-### [Blizzardcraft](Magic/Fellcrafts/Blizzardcraft.md)
 
 ### Fellcraft Tree
 
@@ -604,6 +475,48 @@ Squares represent normal Fellcrafts. These can be accessed if you choose this if
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 
 ![alt text](images/Fellcraft/FellcraftTree.png)
+
+### Fellcraft List
+
+#### [Polycraft](Magic/Fellcrafts/Polycraft.md)
+
+#### [Blazecraft](Magic/Fellcrafts/Blazecraft.md)
+
+#### [Hydrocraft](Magic/Fellcrafts/Hydrocraft.md)
+
+#### [Electrocraft](Magic/Fellcrafts/Electrocraft.md)
+
+#### [Terracraft](Magic/Fellcrafts/Terracraft.md)
+
+#### [Galecraft](Magic/Fellcrafts/Galecraft.md)
+
+#### [Cryocraft](Magic/Fellcrafts/Cryocraft.md)
+
+#### [Naturecraft](Magic/Fellcrafts/Naturecraft.md)
+
+#### [Toxicraft](Magic/Fellcrafts/Toxincraft.md)
+
+#### [Soulcraft](Magic/Fellcrafts/Soulcraft.md)
+
+#### [Shadowcraft](Magic/Fellcrafts/Shadowcraft.md)
+
+#### [Mindcraft](Magic/Fellcrafts/Mindcraft.md)
+
+#### [Ferracraft](Magic/Fellcrafts/Ferracraft.md)
+
+#### [Sonocraft](Magic/Fellcrafts/Sonocraft.md)
+
+#### [Hemacraft](Magic/Fellcrafts/Hemacraft.md)
+
+#### [Spidercraft](Magic/Fellcrafts/Spidercraft.md)
+
+#### [Plasmacraft](Magic/Fellcrafts/Plasmacraft.md)
+
+#### [Stormcraft](Magic/Fellcrafts/Stromcraft.md)
+
+#### [Magmacraft](Magic/Fellcrafts/Magmacraft.md)
+
+#### [Blizzardcraft](Magic/Fellcrafts/Blizzardcraft.md)
 
 ## Runecraft
 
