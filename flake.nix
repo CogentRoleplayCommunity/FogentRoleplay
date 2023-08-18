@@ -1,0 +1,39 @@
+{
+  description = "A very basic flake";
+
+  outputs = { self, nixpkgs }:
+
+    let
+    system = "x86_64-linux";
+    pkgs = import nixpkgs {
+      inherit system;
+      config.allowUnfree = true;
+    };
+    in {
+      # This is for locking our npm packages via nix
+      packages.${system}.default = import ./SAFE {
+        inherit pkgs;
+      }; 
+      devShells.${system}.default = pkgs.mkShell {
+        buildInputs = with pkgs; [ 
+          (vscode-with-extensions.override {
+            vscode = pkgs.vscodium;
+            vscodeExtensions = with pkgs.vscode-extensions; [
+              jnoortheen.nix-ide
+              yzhang.markdown-all-in-one
+            ] ++ pkgs.vscode-utils.extensionsFromVscodeMarketplace [
+              {
+                name = "vscode-office";
+                publisher = "cweijan";
+                version = "3.1.5";
+                sha256 = "sha256-9K0WbvLLJzNGfs3GRMG6YC4wLcy8B5PQknE7Uo+3cC0=";
+              }
+            ];
+          })
+        ];
+
+      };
+    };
+
+  
+}
