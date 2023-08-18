@@ -2083,4 +2083,4 @@ Forbidden Whispers:
 
 When one squeezes the Heart, it whispers secrets directly into their mind concerning the current area, as it senses information about the world beyond mortal recognition. When the Heart is pointed at a person, it reveals secrets about them. Roll a destiny roll (a d20) to determine the level of information obtained.
 
-## Player Characters
+[Link Text](Characters.md)
