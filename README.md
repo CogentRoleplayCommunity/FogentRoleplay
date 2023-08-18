@@ -759,7 +759,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Asher’s Arms Swordbreaker](UniqueItems/UniqueWeapons/Asher'sArmsSwordbreaker.md)
 
-#### [Char](UniqueItems/UniqueWeapons/Char.md)
+#### [Char](UniqueItems/UniqueWeapons/Char/Char.md)
 
 #### [Dancing Moonlight](UniqueItems/UniqueWeapons/DancingMoonlight.md)
 
