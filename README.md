@@ -516,18 +516,13 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 
 #### [Blizzardcraft](Magic/Fellcrafts/Blizzardcraft.md)
 
-
-
 ## Runecraft
 
 Runes are symbols that have been discovered, usually via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths  use conscious thought to manipulate reality in a favorable direction.
 
-
 Pure Runes are the most basic states of reality and  take raw energy as their inputs. Compound Runes are more complex runes constructed using pure runes. It should be noted, that at some point the energy within must be converted back to a physical phenomena, else there is no telling what will happen.
 
-
 Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
-
 
 To draw a rune is not enough to have it take effect. First, a conscious being must create the Rune. Secondly, the user must deeply understand the concept they are trying to invoke and be able to take it into conscious thought. Intelligence seems to be the gateway to Runecraft, as minds that are too weak buckle under the weight of the knowledge of the fabric of reality, leading to horrific accidents, madness, and death.
 
@@ -798,10 +793,8 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Mechanical Heart](UniqueItems/UniqueMisc/MechanicalHeart.md)
 
-
-
 ## Characters
 
 ### [Javk Wick]()
 
-### [Destin Shaffer]()
+### [Destin Shaffer](Characters/PC/DestinShaffer/DestinShaffer.md)
