@@ -97,7 +97,7 @@ Map Download: `<!-- Map link here-->`
   - [Blessing](#blessing)
     - [Buffs](#buffs)
     - [Healing](#healing)
-    - [Specialization: Bright&#39;s Heritage](#specialization-brights-heritage)
+    - [Specialization: Bright's Heritage](#specialization-brights-heritage)
     - [Absorb Light: Emotion](#absorb-light-emotion)
 - [Fellcraft](#fellcraft)
   - [Fellcraft Roll](#fellcraft-roll)
@@ -227,9 +227,8 @@ Map Download: `<!-- Map link here-->`
     - [Flame Tongued](#flame-tongued)
       - [Challenge Level](#challenge-level-3)
       - [Requirement](#requirement-3)
-  - [](#)
-    - [Challenge Level](#challenge-level-4)
-    - [Requirement](#requirement-4)
+      - [Challenge Level](#challenge-level-4)
+      - [Requirement](#requirement-4)
   - [Pure Runes](#pure-runes)
     - [Rune of Fire](#rune-of-fire)
     - [Rune of Earth](#rune-of-earth)
@@ -263,7 +262,7 @@ Map Download: `<!-- Map link here-->`
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius&#39;s Sword](#siriuss-sword)
+    - [Sirius's Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -273,7 +272,6 @@ Map Download: `<!-- Map link here-->`
   - [Misc](#misc)
     - [Petty Brightstone](#petty-brightstone)
     - [Mechanical Heart](#mechanical-heart)
-- [Player Characters](#player-characters)
 
 ## Preface
 
@@ -1835,93 +1833,37 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 ### Unique Weapons
 
-#### [Epilogue](UniqueItems/Epilogue.md)
+#### [Epilogue](UniqueItems/UniqueWeapons/Epilogue.md)
 
-#### [Adversary - Damaged](UniqueItems/Adversary-Damaged.md)
+#### [Adversary - Damaged](UniqueItems/UniqueWeapons/Adversary-Damaged.md)
 
-#### [Asclepius](UniqueItems/Asclepius)
+#### [Asclepius](UniqueItems/UniqueWeapons/Asclepius)
 
-#### [Asher’s Arms Swordbreaker](UniqueItems/Asher'sArmsSwordbreaker.md)
+#### [Asher’s Arms Swordbreaker](UniqueItems/UniqueWeapons/Asher'sArmsSwordbreaker.md)
 
-#### [Char](UniqueItems/Char.md)
+#### [Char](UniqueItems/UniqueWeapons/Char.md)
 
-#### [Dancing Moonlight](UniqueItems/DancingMoonlight.md)
+#### [Dancing Moonlight](UniqueItems/UniqueWeapons/DancingMoonlight.md)
 
-#### [The Spear of Destiny](UniqueItems/TheSpearOfDestiny.md)
+#### [The Spear of Destiny](UniqueItems/UniqueWeapons/TheSpearOfDestiny.md)
 
-#### Hew
+#### [Hew](UniqueItems/UniqueWeapons/Hew.md)
 
-"When you chop wood, splinters fly."  - Anonymous
+#### [Monkey Staff](UniqueItems/UniqueWeapons/MonkeyStaff.md)
 
-An unassuming rusty, yet excellent battleaxe both as versatile at chopping wood as chopping skulls.
+#### [Talon - Replica](UniqueItems/UniqueWeapons/Talon-Replica.md)
 
-Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Redguard. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Lechens that roamed the forest, this weapon was forged.
+#### [Fang - Replica](UniqueItems/UniqueWeapons/Fang-Replica.md)
 
-Splinter:
+#### [Sirius&#39;s Sword](UniqueItems/UniqueWeapons/Sirius'sSword.md)
 
-Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.
-
-#### Monkey Staff
-
-"Monkey see, Monkey do" - Arinoth the Enlightened
-
-A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.
-
-Extentable Weapon:
-
-This weapon can shrink to the size of a small weapon, extend up to reach weapon, aswell as any size inbetween.
-
-#### Talon - Replica
-
-Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.
-
-#### Fang - Replica
-
-Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.
-
-#### Sirius's Sword
-
-Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the Crossguard.
-
-House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.
-
-#### Echo
-
-"What is a myth? An echo of the past in the future. I can hear it dear sister, can’t you…" - Lord Maxwell Reddington
-
-The superior arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone in a long forgotten cache by Dipper Despereaux.
-
-Lord Maxwell Reddington was heir to House Reddington and to the Kingdom of Redland. Maxwell was an academic of Byrgenwerth, like his sister Veronica, and was fascinated by the ancient culture of the Siren’s who used to call Redwall their own. He spent much of his time and dowry funding expeditions into the ancient Siren catacombs that Redwall stand up today. On one of these expeditions with his younger sister Lady Veronica Reddinton, they discovered something deep within the catacombs. Maxwell returned with this sword and Veronica shortly after invented the first healing bloods of Redwall.
-
-After that fateful day, Maxwell began to worship the Moon Presence. On a diplomatic mission to Crossroads with his sister, Maxwell had an apparent mental breakdown. He raved and blasphemed the Bright Lord in front of the Emperor, and was sentenced to death for his heresy. Veronica was held hostage and war between Redland and the Empire almost erupted. However, an outlaw pirate Lord known as the Laughing Storm blockaded the Iris Sea and promised to burn and pillage all vessels until Veronica was safely released.
-
-In the end, peace was agreed upon between the two powers. Veronica was barren, so it was agreed the next heir of Redwall would be bound to the next heir of Angland, unifying countries in blood. The entire event was later known as “The Red Blasphemy”.
-
-The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Redland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Redland Navy, until their eventual unexpected marriage.
-
-Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.
+#### [Echo](UniqueItems/UniqueWeapons/Echo.md)
 
 ### Unique Armor
 
-#### Dragonguard
+#### [Dragonguard](UniqueItems/UniqueArmor/Dragonguard.md)
 
-This superior runecrafted breastplate has a dragon motif etched into its design. Created for Lord Maxwell Reddington for his treks into the catacombs beneath Redwall. This armor provides good protection for the wearer's vital organs.
-
-Dragon Sense:
-
-The bearer of this armor gets an uneasy feeling when there are draconic creatures near…
-
-Dragon Element Resistance:
-
-+1 Defense vs dragon elemental attacks (Dragonfire, Dragontide, Dragonterra, ect)
-
-#### Guardian Shield
-
-A superior medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one’s disposal.
-[Title](LICENSE)
-Retractable Shield:
-
-The user can deploy or retract the medium shield at will.
+#### [Guardian Shield](UniqueItems/UniqueArmor/GuardianShield.md)
 
 ### Potions
 
