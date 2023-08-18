@@ -1841,91 +1841,13 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Asclepius](UniqueItems/Asclepius)
 
-#### Asher’s Arms Swordbreaker
+#### [Asher’s Arms Swordbreaker](UniqueItems/Asher'sArmsSwordbreaker.md)
 
-A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Redwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+#### [Char](UniqueItems/Char.md)
 
-Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon.
+#### [Dancing Moonlight](UniqueItems/DancingMoonlight.md)
 
-Blade Catch:
-
-Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario.
-
-#### Char
-
-“It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday.”  -Destin Shaffer Sr.
-
-“Sometimes, sweet memories sometimes outweigh practicality.” -Mrs. Shaffer
-
-An apperently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
-
-Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
-
-During Destin’s confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
-
-Shattered and broken, Destin continues to carry this blade.
-
-Fire Repair and Enhancement:
-
-Weapons repairs in intense fires. If the fire is fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.
-
-#### Dancing Moonlight
-
-“Ah, you were at my side all along. My true mentor. My guiding moonlight.” - Unknown
-
-A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Redland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
-
-When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
-
-Princess Vex'ahlia Reddinton was gifted this sword upon her return to Redland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex’ahlia’s birth. Lady Redguard wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex’ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex’ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she’d ever heard.
-
-Binding of the Moon:
-
-This weapon can only be picked up by those who sing (out loud or in their head) the Lullaby of the Moon. If the weapon is held for a fortnight, the weapon is bound to the users, severing the bond with the previous bearer. The bearer can now dismiss and summon the blade at will.
-
-Blessing of the Moon:
-
-+2 INT while the weapon is bound. User gains level 4 in General Knowledge, Spiritual, and Willpower skills while bound to this weapon. User gains Fellkin level 4 vocation and Mooncraft, Hydrocraft, Hemacraft, and Shadowcraft level 4 while bound to this weapon.
-
-Whispers of the Moon:
-
-While bound to this weapon, gain the following disabling: “I hear the sword whispering its secrets to me, and I must know them”
-
-Indestructible:
-
-This item can’t lose durability.
-
-Moonlight Greatsword:
-
-Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. This weapon now behaves as a conduit to the Fellcraft listed below.
-
-#### The Spear of Destiny
-
-“Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again.” - Ancient texts
-
-The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
-
-Eventually the Spear would end up in the possession of the Royal Family of Angland, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
-
-Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
-
-The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of Angland. Those that oppose Angland had a much different perspective…
-
-Destiny Strength/Reflex:
-
-Strength and reflex are set to level 3.
-
-Weather Manipulation:
-
-Character gains level 4 in Galecraft, Electrocraft, and Cryocraft.
-
-Destiny Chosen:
-
-Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.
-
-Indestructible:
-
-This item can’t lose durability.
+#### [The Spear of Destiny](UniqueItems/TheSpearOfDestiny.md)
 
 #### Hew
 
