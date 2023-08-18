@@ -1855,7 +1855,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Fang - Replica](UniqueItems/UniqueWeapons/Fang-Replica.md)
 
-#### [Sirius&#39;s Sword](UniqueItems/UniqueWeapons/Sirius'sSword.md)
+#### [Sirius's Sword](UniqueItems/UniqueWeapons/Sirius'sSword.md)
 
 #### [Echo](UniqueItems/UniqueWeapons/Echo.md)
 
