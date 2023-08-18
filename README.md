@@ -425,8 +425,6 @@ Wonders are uses of Miracles that use an insignificant  amount of Light. In gene
 
 ### [Blessing](ZC/Blessing.md)
 
-
-
 ## Fellcrafts
 
 The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Ichor.
@@ -453,7 +451,7 @@ A short rest (1 hour) regains Ichor equal to their Fellkin Vocation level. This 
 
 #### Absorbing Ichor
 
-Fellkin can absorb and feed on an ample sources of primal elements that correspound to their Fellcrafts to regain Ichor. 
+Fellkin can absorb and feed on an ample sources of primal elements that correspound to their Fellcrafts to regain Ichor.
 
 Ichor can be absorbed once for each Fellcraft Vocation level, resetting on long rests. The level in the specific Fellcraft skill used dictate how much Ichor is regained. Absorbing or meditating near a large source of the element are acceptable. Flavor and creativity are encouraged.
 
@@ -518,11 +516,19 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 
 #### [Blizzardcraft](Magic/Fellcrafts/Blizzardcraft.md)
 
+
+
 ## Runecraft
 
 Runes are symbols that have been discovered, usually via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths  use conscious thought to manipulate reality in a favorable direction.
+
+
 Pure Runes are the most basic states of reality and  take raw energy as their inputs. Compound Runes are more complex runes constructed using pure runes. It should be noted, that at some point the energy within must be converted back to a physical phenomena, else there is no telling what will happen.
+
+
 Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
+
+
 To draw a rune is not enough to have it take effect. First, a conscious being must create the Rune. Secondly, the user must deeply understand the concept they are trying to invoke and be able to take it into conscious thought. Intelligence seems to be the gateway to Runecraft, as minds that are too weak buckle under the weight of the knowledge of the fabric of reality, leading to horrific accidents, madness, and death.
 
 ### Runecraft Roll
@@ -541,7 +547,7 @@ Three things are required to craft a Rune.
 
 ### Knowledge of Runes
 
-In order for Runes to work, the user must consciously  look beyond the symbols into the exposed laws of reality, understand the property they are trying to manifest and bind the phenomena that they are trying to control to a symbol. Common symbols have been agreed upon through the ages as a way for scholars and runesmiths to share they’re work. In many ways, Runes act as safeguards for the user's consciousness, reducing the infinite laws of reality  to a single phenomena. If the user is sufficiently intelligent to understand the complexity of a Rune, they may bind the  desired phenomena within the Rune.
+In order for Runes to work, the user must consciously look beyond the mere symbols into the exposed laws of reality, understand the property they are trying to manifest and bind the phenomena that they are trying to control to a symbol. Common symbols have been agreed upon through the ages as a way for scholars and runesmiths to share they’re work. In many ways, Runes act as safeguards for the user's consciousness, reducing the infinite laws of reality to a single phenomena. If the user is sufficiently intelligent to understand the complexity of a Rune, they may bind the desired phenomena within the Rune.
 
 If an insufficiently intelligent  person tried to simply draw the shape of the Rune of Fire, nothing would happen. Though if they truly tried to understand the Rune, the concept of fire itself, their mind could be permanently damaged forever.
 
@@ -549,7 +555,7 @@ If an insufficiently intelligent  person tried to simply draw the shape of the R
 
 While anything could hypothetically be used for energy, generally runesmiths lean towards more energy dense sources as they are simply easier to carry.
 
-#### Ichor of Monster or Fellkin blood
+#### Ichor from Monster or Fellkin blood
 
 Ichor is a plentiful source of energy, common, and very energy dense. It is by far the most commonly used energy for Runecraft.  Requires an Inverse Rune of Blood to output the energy.
 
