@@ -33,4 +33,4 @@ After losing what he considered his second family, Destin fell into a depression
 
 ## Notable Items
 
-* [Char](../../../UniqueItems\UniqueWeapons\Char\Char.md)
+* [Char](../../../UniqueItems/UniqueWeapons/Char/Char.md)
