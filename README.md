@@ -551,242 +551,31 @@ The sprawling Continent stretches across the vast expanse of Terra, its colossal
 
 ## Countries of Terra
 
-### The Dawn Empire
+### [The Dawn Empire](Lore/Terra/TheDawnEmpire.md)
 
-![Alt text](images/Places/TheDawnEmpire/Dawn Empire Inquisitors.png)
+### [Reddland](Lore/Terra/Reddland.md)
 
-Atop the hierarchy of nations on the continent stands the Dawn Empire, a formidable superpower governed by the illustrious Lightbringer Imperial family. With its immense influence and military might, the Dawn Empire holds the mantle of unrivaled power in the region, commanding respect and shaping the course of history.
+### [Isles of Crest](Lore/Terra/IslesOfCrest.md)
 
-#### The City of Crossroads
+### [Cambria](Lore/Terra/Cambria.md)
 
-![Alt text](images/Places/TheDawnEmpire/Crossroads.png)
-
-Nestled within the heart of the Dawn Empire, the City of Crossroads stands as the majestic capital, radiating splendor and significance. The city's centerpiece is the Tower of Dawn, an architectural marvel that embodies the Empire's unyielding pursuit of greatness. A testament to ceaseless ambition, the tower is in a perpetual state of construction, forever aspiring to ascend to the heavens. As the core around which the city thrives, the Tower of the Bright Lord symbolizes the empire's unwavering devotion to the ideals and dominion of the Bright Lord.
-
-### Reddland
-
-![Alt text](images/Places/Reddland/ReddlandMap.png)
-
-#### A History of Conquest and Resilience
-
-During the Dark Ages, the vast realm now known as Reddland was under the iron grip of a formidable Siren dynasty, led by the infamous Witch Queen Alana. Revered for her mastery of Runecraft and Fellcraft, Alana's unnaturally extended lifespan testified to her involvement in dark rituals and her insatiable thirst for power. The Witch Queen's dominion began with the assassination of the Chitkin Queen of Caraus, where she seized control over the Chitinkin population, bending them to her will. Her unstoppable army of mentally enslaved Chitinkin and Siren loyalist advanced eastward, subjugating vast territories that now form the heart of Reddland. However, the rugged and defiant Crimson Foothills, inhabited by nomadic tribes and city states of Dhampires, proved to be an unconquerable land.
-
-In this enduring stalemate, a pivotal figure emerged. A young Centurion of the Dawn Empire named Serana Reddinton, a former slave and personal attendant of the Witch Queen, defected from the Dawn Empire Legion and embarked on a perilous mission to liberate her people. Denied military aid by the empire, Serana journeyed to the Crimson Foothills, where she rallied the scattered tribes and city states of her Dhampire kin against their common oppressor. Against all odds, she led her army, known as the Redd Legion, to numerous victories, shattering the Witch Queen's forces time and again. The ultimate triumph came as Serana orchestrated a daring covert operation, infiltrating Tearstone Castle, the Witch Queen's capital, while her forces besieged the city. In a fierce and treacherous battle, Serana emerged as the sole survivor, dealing the final blow to the Witch Queen's reign.
-
-In the wake of this hard-fought victory, the people of Reddland acclaimed Serana as their rightful ruler, establishing a new era for the land. To secure peace and stability, Serana humbly pledged allegiance to the Dawn Empire, earning a seat within the imperial senate and favorable terms for Reddland. The nation prospered, thanks to flourishing trade, renowned magical and medical institutions, a formidable naval fleet, and the Redd Legion, renowned as one of the finest military forces in the world. Reddland's prominence and power became undeniable, solidifying its position as one of the most influential countries on the continent.
-
-In recent years, Reddland has been marked by remarkable advancements in medicine, thanks to the brilliant Veronica Reddland, the current ruler and a visionary leader. Encompassing a significant portion of the eastern edge of the continent, Reddland's population is predominantly composed of Dhampires, reflecting their enduring heritage and cultural dominance within the realm.
-
-#### The Laughing Storm
-
-Captain Flint Storm, the Laughing Storm, was an illegitimate child of a noble vampire house called the Daywalkers, hailing from the renowned city of Crossroads. As a pirate, he encountered Victoria Reddington's vessel and, unexpectedly, fell deeply in love with her. Moved by this affection, Flint released her ship along with all its cargo.
-
-#### The Redd Blasphemy
-
-Lord Maxwell Reddington, the designated successor of House Reddington and the Kingdom of Redland, shared his sister Veronica's scholarly pursuits as an academic of Byrgenwerth. Fascinated by the ancient Siren culture that once thrived in Redwall, Maxwell dedicated his time and resources, including his dowry, to funding expeditions into the catacombs that now lay beneath Redwall's foundations. Accompanied by his younger sister, Lady Veronica Reddington, Maxwell embarked on one such expedition, which led them to a remarkable discovery deep within the catacombs. Maxwell returned with a sword of great significance, while Veronica went on to pioneer the development of the first healing bloods of Redwall.
-
-However, following that pivotal day, Maxwell's path took a divergent turn as he became a devout worshipper of the Moon Presence. During a diplomatic mission to Crossroads alongside Veronica, Maxwell experienced a visible mental breakdown. In the presence of the Emperor, he unleashed a torrent of ravings and blasphemies against the Bright Lord, resulting in his condemnation for heresy and a sentence of death. Veronica, held captive as a hostage, nearly ignited a full-scale war between Redland and the Empire. Fortunately, a notorious outlaw pirate lord known as the Laughing Storm intervened by blockading the Iris Sea, issuing a solemn promise to bring chaos and devastation to all vessels until Veronica was safely released.
-
-Ultimately, peace prevailed between the two powers, but it came at a cost. As Veronica was unable to bear children, a binding agreement was reached that the next heir of Redwall would be wedded to the future heir of the Dawn Empire, thereby uniting the countries through blood. This momentous event would later be referred to as "The Redd Blasphemy."
-
-The Laughing Storm, renowned as one of history's most formidable pirate lords and outlaws, willingly surrendered himself to the Reddland navy. Initially condemned to death, he was pardoned by Lady Veronica Reddington in gratitude for his instrumental role in her rescue. However, he remained indebted and obliged to serve Lady Veronica for the remainder of his life. The enigmatic figure known as Flint Storm, also referred to as the Laughing Storm, faithfully served as Veronica's trusted advisor and the Warden of the Sea until their unexpected marriage.
-
-Veronica and Flint attempted to conceive children, but tragedy repeatedly struck. After years of trying, Veronica finally gave birth to an sickly heir, a daughter whose hair bore the ethereal shade of pure white, reminiscent of the full moons that adorned the sky.
-
-In accordance with the pact resulting from the "The Redd Blasphemy", Vex'halia Reddington would eventually be expected to marry Luc Lightbringer, heir to the Dawn Empire, unifying the two kingdoms in blood upon their wedding.
-
-### Reddwall
-
-![Alt text](images/Places/Reddland/Reddwall.png)
-
-![Alt text](images/Places/Reddland/ReddwallMap.png)
-
-Reddwall stands as the capital of Reddland, given its name for the massive red granite wall that surrounds it. Sitting atop the ruins of the previous capital of the Witch Queen Alana, Reddwall is littered with gothic superstructures made of varying colors of granite. Further from Castle Tearstone, structures are smaller, constructed of less desirable granite colors such as pale yellow or gray. As the construction nears Tearstone, shades of yellow transition to orange, then almost exclusively red as Tearstone is approached.
-
-Among the many marvels, Byrgenweth school of magic and medicines stands as one of the proments staples of the city, responsible for the creation of the Healing Bloods of Redwall under Lady Veronica Reddington. This discovery was key in halting the rampant Spore disease that affected Terra.
-
-#### The Tragedy of Killroy the Fool
-
-The legend of Killroy the Fool echoes throughout Reddland, encapsulating the events of the Redd Revolution and the humble fool who played a significant role in it. Over time, the name Killroy has become synonymous with ill fortune, leading many to shun its usage.
-
-"Once upon a time, in the now-land of Reddland, the tyrannical Siren Witch Queen Alana ruled with an iron grip, using her malevolent magic to control the minds of her subjects.
-
-![Alt text](images/Places/Reddland/TheWitchQueenAlana.png)
-
-During that era, the Siren's worship of the Moon Presence was viewed as heresy by the followers of Brightinist faith across the land of Terra. Serana Reddington, a devout Dhampir centurion serving in the Dawn Empire Legion, fervently sought the Emperor's blessing to liberate the lands from the clutches of the Witch Queen Alana. Although the Emperor granted her his approval, he provided no additional forces for the conquest, believing that if the oppressed people themselves did not rise up for their freedom, they did not deserve it.
-
-Returning to the Crimson Foothills, a region constantly besieged by the Witch Queen and her Siren forces, Serana galvanized her fellow Dhampir kin. Blessed with natural leadership skills, she became their beacon of hope, inspiring them to form the Redd Legion in her honor.
-
-Amidst the enduring conflict between Dhampires and their Siren oppressors, war loomed inevitable. Among the recruits who joined the ranks of the Redd Legion was a young Dhampir peasant named Killroy. Despite his humble upbringing, Killroy was renowned for his quick wit, striking looks, exceptional combat skills, and remarkable proficiency in Fellcraft. He yearned to etch his name into the annals of history, aspiring to become a legend, and the impending war presented him with an opportunity to achieve glory.
-
-During a grand feast held in honor of General Serana Reddington, Killroy audaciously challenged her to a duel. If he emerged victorious, he would lead the Redd Legion into battle. However, if he failed, Serana had the right to execute him on the spot. In Killroy's mind, Serana was just another pampered noble of whom he had bested on numerous occasions before, and this time would be no different. Serana, amused by the proposal, accepted the challenge. Thus, blades clashed, Fellcraft were cast, and blood was spilled. In the end, Serana emerged as the victor, and a defeated Killroy closed his eyes, accepting his fate. But instead of the swoosh of a blade, all he heard was laughter. Rising from the ground, he surveyed the chuckling crowd. Amidst her laughter, Serana revealed what she had just declared to the onlookers.
-
-"That was a bold yet foolish plan. However, it seems I have misplaced my court fool. So, instead of death, you shall be my fool."
-
-And thus, Killroy's torment began as Serana's court fool. Donning ridiculous attire, he remained ever close to Serana, be it in camp or on the battlefield. On the eve of the legendary "Battle of the Wet Dress," Killroy made a sarcastic remark about Serana's feast attire. Consequently, clad in Serana's vibrant red dress, Killroy led the charge across the shallow Lunar River the following morning. It is said that the enemy general, upon witnessing Killroy's daring charge, dropped his telescope in the mud, convinced that he had lost his sanity, resulting in him reliquenshing his command. Throughout the war, Killroy distinguished himself, often serving as Serana's second in command and personal bodyguard on the battlefield, for Serana always fought where the danger was greatest. The bond between the two grew inseparable, both in times of war and in moments of respite.
-
-The war was relentless and brutal, but Serana's unwavering leadership became the deciding factor. The Redd Legion pushed deep into enemy territory, laying siege to the capital of the Witch Queen. During the siege, Serana, Killroy, and a select group of elite soldiers embarked on a covert mission to eliminate the Witch Queen once and for all, severing the head of the oppressive serpent.
-
-Little did they know, the Witch Queen Alana, a master of forbidden runecraft, had crafted a ring with the intent to bring an end to the war and all future conflicts. Into this small blue ring, known as "The Singing Ring," she channeled her cruelty, malice, and unyielding desire for dominion. The ring faintly echoed a Siren lullaby, empowering the Witch Queen's mindcraft to unparalleled heights. As they ventured deeper into the capital, their comrades succumbed to fear, abandoning the mission and leaving only Killroy and Serana to face the treacherous final encounter.
-
-The details of the ensuing battle remain shrouded in mystery, but when the Redd Legion eventually triumphed over the castle, they discovered the decapitated body of the Witch Queen Alana. Serana was found cradling the lifeless form of Killroy the Fool, her loyal companion who had stood by her side until the very end, his chest pierced by Serana's own sword. When questioned about the events that transpired, Serana offered no words, choosing to spend the night alone with Killroy's body in the solemn throne room. Come morning, clutching the head of the blasphemous Witch Queen, Serana declared victory in what is now known as Serana Square within the walls of Reddwall.
-
-News swiftly reached Crossroads, carrying the Emperor's decree that legitimized Serana's right to rule the newly founded land of Reddland, albeit as a member of the Empire. Thus, Reddland came into existence, born from the sacrifices and triumphs of its valiant heroes.
-
-Serana, forever changed by her harrowing battle with the Witch Queen, bore the weight of the years, her youthful energy replaced by the demeanor of someone twice her age. Her first act as ruler was to implement laws banning mind control through mindcraft, and the coerced consumption of unwilling Fellin blood. She extended peace to the remaining Siren population, promising an end to the bloodshed and a chance for peace.
-
-The position of Fool transformed into a revered title within Reddland, an honor bestowed posthumously upon those who had laid down their lives in acts of great valor to protect their comrades. Under Serana's reign, Reddland flourished, and an era of peace descended upon the land. Killroy, the once-forgotten fool, achieved the legendary status he had sought, forever etched into the annals of history.
-
-And so, the tale concludes."
-
-The story served as a testament to the power of loyalty, sacrifice, and the enduring spirit of those who strive to shape their destiny amidst the tides of war and destiny.
-
-#### Tentcity
-
-Located in the southern region of Reddland, Tentcity sprawls across the Everflow River Delta, a realm governed by House Roseblood. As the last descendants of the fabled Siren Witch Queen Alana, their noble lineage resides in the shadow of the illustrious Siren dynasty of yore.
-
-The Sirens, masters of hydrocraft and the water manipulation runecraft, have harnessed their abilities to shape the river delta into a network of waterways that replace conventional streets. Consequently, much of the city's transportation revolves around the use of small boats, deftly navigating these intricate aquatic pathways.
-
-Within the cityscape, thousands of colossal structures resembling tents stand tall, rivaling the size of buildings. While the Sirens possess extraordinary control over water, the unpredictable nature of the sea occasionally disrupts their plans. Consequently, the denizens of Tentcity must remain vigilant, heeding the predictions of the tide masters and relocating their tented abodes in accordance with the ever-shifting tides.
-
-Amidst this tapestry of tents, one can find ancient blue stone structures interspersed throughout. These magnificent edifices trace their origins back to the time of the Witch Queen Alana. It was she who commissioned the construction of this city as a testament to her power upon emerging from the ocean depths with her formidable army. Crafted from exquisite blue, green, and purple marbles reminiscent of the structures that once graced the land where Redwall now stands, these resilient buildings withstand the sea's wrath while harboring sanctuaries of air-tight chambers within. Regrettably, the art of ancient Siren construction was lost during the upheaval of the "Redd Revolution" and the subsequent defeat of the Witch Queen.
-
-At the southern edge of the Delta stands the grandest of these structures, known as "Castle Pitchtent." Its core structure boasts ancient craftsmanship, enabling it to endure the relentless tides. Over the years, various additions in the form of complex collapsible tent-like structures have been integrated, blending tradition with innovation.
-
-Submerged beneath the watery depths lies the enigmatic Wet District, an ethereal realm solely inhabited by Sirens or those gifted with the ability to breathe underwater. This district, though considered of lower social standing, harbors a breeding ground for crime and smuggling, its depths shrouded in secrets.
-
-Tentcity thrives on its principal exports. From the expansive sea, a wealth of marine products grace its markets, captivating the senses of distant shores. Additionally, stone and rock extracted from the upstream reaches near Rock Shatter Fort contribute to the city's economic prosperity, offering valuable resources hewn from the banks of the Everflow River.
-
-### The Isles of Crest
-
-The Isles of Crest are governed by a loose coalition of Beastkin tribes, each holding territorial control over different parts of the various isles. Annually, the leaders of these tribes gather at Starfall, the largest city in the Crest Isles, which was built around a fallen star revered as sacred by the Beastkin. This assembly serves as a forum to discuss matters of trade, defense, and elect a representative who will serve as a senator, representing their collective interests in the Imperial senate.
-
-The islanders tend to keep to themselves, although encounters with young groups of mercenaries from the isles are not uncommon. These aspiring warriors seek to prove their mettle in battle, driven by the pursuit of glory and wealth.
-
-#### Cambria
-
-A year and a half ago, Cambria suffered one of the most severe shard epidemics in recorded history. A coordinated group of sentient monsters descended upon the town during twilight. Out of the 585 residents, only two lost their lives, while the remaining inhabitants were subjected to a fate far worse than death. The entire population of the town was infected with shards, prompting the intervention of the Inquisition of the Dawn Empire. From that point on, Cambria was placed under constant surveillance, and each resident was provided with a hearthstone, a simple enchantment that would alert the authorities upon their demise.
-
-It was expected that all the residents, except for a brother and sister, would succumb to the shards within the first year.
-
-### Uskal
-
-In the far southern reaches, one can find the harsh and unforgiving Uskal Colonies. These colonies were established during the Dark Age when the demand for silver was high in the ongoing battle against the wild monsters that littered Terra. Beneath the icy surface of Uskal, valuable silver and other precious resources were discovered.
-
-The Dawn Empire, in need of silver for their war efforts against the monsters of Terra and seeking a place to dispose of undesirables, offered mudbloods, criminals, and prisoners an alternative to execution. Many individuals seized this opportunity and were transported to the Uskal Colonies to engage in the arduous work of mining and extracting precious resources.
-
-The first lord of Uskal was Leopold Harkon, cousin to Serana Redguard, the founder of Redwall. As the sixth-born son in his family, Leopold had little prospect of acquiring land or status. Viewing Uskal, despite its harsh and inhospitable nature, as his only chance to gain wealth and prestige, Leopold took charge of the colony and successfully managed it for hundreds of years. Eventually, he made a bold move, declaring Uskal to be his family's rightful inheritance. With the support of Reddland and the Dawn Empire's indifference as long as the resource flow remained steady, House Harkon became the new overseers of the Uskalian colonies.
-
-In modern times, not much has changed. The frigid climate of Uskal persists, with an unending influx of monsters from the Frozen Tundra. As of now, the young Lord Albert Harkon assumes the role of Warden, following a tragic mining accident that claimed the lives of his father and older siblings. While his father ruled with an iron fist, Lord Albert is a more compassionate and distant ruler, modeling his laws and governance after his kinsmen in Reddland, who adopt a more progressive stance toward mudbloods. Under his leadership, the burdens and taxes on the people of Uskal have lessened. However, the weight of generations of oppression is not easily forgotten by some...
+### [Uskal](Lore/Terra/Uskal.md)
 
 ## Races of Terra
 
-### Brightkin
+### [Brightkin](Lore/Races/Brightkin.md)
 
-When the Bright Lord bestowed his divine gift upon the first loyal women of Fellkind, their offspring became Brightkin, also known as Demi-Brights, in the realm of Terra. Regardless of their chosen partners, Brightkin always produce offspring who bear the radiant essence of their lineage. However, the birth of Brightkin children is a rare occurrence, as infertility plagues their people, often requiring couples to wait hundreds of years before conceiving a child.
+### [Dhampire](Lore/Races/Dhampire.md)
 
-Brightkin are a resplendent and alluring, with the concept of an unattractive Brightkin being entirely unheard of.
+### [Seakin](Lore/Races/Seakin.md)
 
-One of the remarkable abilities bestowed upon the Brightkin is their capacity to wield the power of the Bright Lord, known as Miracles. Miracles transcend the boundaries of natural laws, considering them merely suggestions. To perform a Miracle, a Brightkin channels the power of Light through intense emotions or vivid memories, harnessing them to achieve their desired effects. Mastery of Miracles necessitates training and practice in the art of emotional control. While not all Brightkin dedicate themselves to mastering Miracles, they all enjoy the benefits of near-immortality. Following their unnatural demise, as long as a Brightkin possesses an internal reserve of light or their lifeless body is exposed to the rejuvenating rays of sunlight, they will gradually resurrect, basked in a resplendent glow. This process restores their body to its peak condition, healing all wounds.
+### [Beastkin](Lore/Races/Beastkin.md)
 
-The Dawn Empire is under the rule of the Imperial family, composed entirely of Brightkin. Their capital city, Crossroads, standing at the heart of the continent. From there, they exercise dominion over the entire continent. While the Legions of Empire wield formidable might, a specialized branch known as "The Inquisition" acts as the Empire's fist, crushing rebellion, the outbreaks of disease, and heritics. Renowned for their intellectual prowess, Brightkin produce some of the finest scholars and keepers of lore on Terra.
+### [Chitinkin](Lore/Races/Chitinkin.md)
 
-Devout followers of the Bright Lord and his pantheon, the Brightkin exhibit fervent worship. Many young Brightkin embark on pilgrimages across Terra, spreading the teachings and message of the radiant deity.
+### [Dragonkin](Lore/Races/Dragonkin.md)
 
-Prominent Miracles: Radiance, Blessings
-Lifespan: Indefinite
-Languages: Bright-speak, Babelish
-
-### Dhampires
-
-Dhampires trace their monstrous ancestry from the Vampires that bowed to the Bright Lord. Sunlight is deadly to Vampires, meaning those that stood in front of the Bright Lord surely should have perished…
-
- While Vampires have a powerful aversion to sunlight, Dhampires are unaffected. Also referred to as “Day Walkers”, their distinctive physical attributes include pointy ears, elongated canines, and their distinctive faintly glowing eyes.
-
-Redland is the largest Dhampire kingdom on the eastern edge of Terra. Reddlanians are a fiercely proud people, ruled by house Reddington. Their standing military, “The Red Legion'' is one of the finest armies on Terra and the recent discovery of Blood Healing has made Redland a key player in global politics.
-
-Redland has become a powerful political player as during the Spore pandemic that ravaged the continent, it was their healing bloods that cured the fungal plague that ravaged the continent.
-
-Fellcrafts: Polycraft, Shadowcraft, Mindcraft, Hemacraft, Sonocraft
-Life Span: 3000 - 5000 years
-Language: Pirish, Babelish
-
-### Seakin
-
-Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed to the Bright lord. These monsters were grafted consciousness and the humaniod form of the Bright Lord.
-
-Distinctive features of Sirens include their fin-like ears, blue or green skin (though other colors exist), and often distinctive natural markings.
-
-Much of Siren culture exists beneath the water, owing to their inherent abilities to breath the water. Siren culture used to dominate much of the eastern part of Terra under the Witch Queen Alana. After her defeat, Siren culture retreated for the most part back to the seas. The largest land-based settlement, Tentcity, lies in the south of what is now modern day Redland, ruled by House Roseblood.
-
-Sirens worship different gods than the pantheon of the Brights, though they share a god in the Twisting One which they refer to as “The Leviathan”. A prominent deity worshiped is the Moon Presences, the Parent and the Child.
-
-Fellcrafts: Polycraft, Hydrocraft, Mindcraft, Sonocraft, Electrocraft
-Life Span: 150 - 200 years
-Language: Deep-speak, Babelish
-
-### Beastkin
-
-Beastkin
-
-Beastkin or Lycans trace their monstrous ancestry from Werewolves and other Beastial monsters that bowed to the Bright Lord.
-
-Since Beastkin are highly varied and shapeshifters, their appearances can vary wildly. Beastkin that live on the Isles of Crest live day to day with their beastail traits showing such as fur, claws, and beastial facial features. While in Redland, where showing these features openly is considered a social taboo, Beastkin simply have animalistic eyes and slightly larger canines. The extent to which their Beastial feature shows is completely subconscious and has usually formed by early adolescence.
-
-Beastkin exists in many countries across Terra. Leodelphia and The Isles of Crest have a majority Beastkin population.
-
-Leodelphia is mostly inhabited by feline beastkin centered around the capital of Oasis which is weaved into an  ancient jungle.
-
-The Isles of Crest are mainly inhabited by canine beastkin. They are a tribal people and weary of outsiders. The largest city named Starfall is centered around where a falling star crashed in the far past.
-
-Fellcrafts: Polycraft
-Life Span: 150 - 200 years
-Language: Primal, Babelish
-
-### Chitinkin
-
-Chitinkin (or Kiki as they call themselves) trace their ancestry from the ancient insectoid monsters that bowed to the Bright lord. These monsters were granted consciousness and the form of the Bright Lord.
-
-Distinctive features of Chitinkin are their exoskin exteriors and insectoid-like traits.
-
-Most Chitinkin dwell deep within the earth in massive colonies that span the massive underground caverns under the surface of Terra. Their societies are heavily influenced by their biology, with their purpose and job dictated by the needs of the collective.
-
-In each Chitinkin city dwells a queen who has powerful Mindcraft that allows her to influence the wills of the non-royal population.  The majority of the Chitinkin are workers that harvest the vast underground mushroom farms and expand the colony. Those that are born into the royal cast are resistant to the queen's influence. They serve as generals, advisors, dukes, and other jobs that require creativity and  self-will.
-
-The largest of these Colonies in the Hive is located in Caurus. The Chitinkin that live on the outskirts of the colonies devoid of the queen’s influence live hard nomadic lives. They stay far away from the colonies as venturing to close might tempt their minds.
-
-Fellcrafts: Polycraft, Webcraft, Mindcraft, Sonocraft, Toxincraft, Terracraft
-Life Span: 30 - 50  years (Workers), 300 - 500 (Royals)
-Language: Kikish, Babelish
-
-### Dragonkin
-
-Dragonkin trace their monstrous ancestry from the ancient dragons that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord.
-
-Distinctive features of Dragonkin include horns, certain scaly sections of their skins, and pointed ears.
-
-Dragonkin are one of the rarest races on Terra, as very few of the ancient dragons bowed to the Bright Lord during the Awakening. Dragons are a proud species and dragonkin seemed to have inherited this trait from their monstrous ancestors. Due to their low population, there is no dragonkin majority country. Instead, they occupy positions of authority in many countries across Terra. They make fine advisors and scholars as their long lives permit the ability to learn thousands of years worth of information.
-
-Dragonkin, much like Brightkin,  appear to have an indefinite lifespan. This appears to be related to the scales across their bodies as upon their removal they begin to age and eventually perish.
-
-Mainy Dragonkin worship the Great Leviathan, as it is said that all dragons came from it. For in a time before the creation of Terra, the Great Leviathan aided the Bright Lord. And thus the Bright Lord bestows wings upon all his descendants.
-
-Fellcrafts (Dependent on dragon ancestor type): Blazecraft, Toxincraft, Hydrocraft, Soulcraft, Galecraft, Terracraft, Mindcraft, Sonocraft, Electrocraft, Shadowcraft, Ferracraft, Naturecraft
-Fellcrafts: Sonocraft, Polycraft
-Life Span: Indefinite (Unless scales are removed)
-Language: Dragonic, Babelish
-
-### Crossbreeds
-
-Crossbreeds trace their monstrous ancestry from the ancient monsters that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord. However, due to the dilution and mixing of their ancestral bloodlines, the genetic gifts are lost to them. They are often referred to as mudbloods due to their impure bloodlines.
-
-Some bloodlines become impure in a single generation while others take many generations.
-
-Mudbloods make up a large percentage of the population of Terra. Due to their impure bloodline, they are often of a lower class as many of the aristocratic societies across Terra hold deep seeded prejudice against them. While some rise above the prejudice and obtain wealth, status and fame, most live as mundane farmers and peasants. The only Crossbreeds of aristocratic status were great houses where their bloodlines slowly became impure.
-
-Fellcrafts: None
-Life Span: 50 - 100 years
-Language: Babelish
+### [Crossbreed](Lore/Races/Crossbreed.md)
 
 ### More Race Ideas
 
