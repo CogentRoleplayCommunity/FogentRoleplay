@@ -97,7 +97,7 @@ Map Download: `<!-- Map link here-->`
   - [Blessing](#blessing)
     - [Buffs](#buffs)
     - [Healing](#healing)
-    - [Specialization: Bright's Heritage](#specialization-brights-heritage)
+    - [Specialization: Bright&#39;s Heritage](#specialization-brights-heritage)
     - [Absorb Light: Emotion](#absorb-light-emotion)
 - [Fellcraft](#fellcraft)
   - [Fellcraft Roll](#fellcraft-roll)
@@ -262,7 +262,7 @@ Map Download: `<!-- Map link here-->`
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -1855,7 +1855,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Fang - Replica](UniqueItems/UniqueWeapons/Fang-Replica.md)
 
-#### [Sirius's Sword](UniqueItems/UniqueWeapons/Sirius'sSword.md)
+#### [Sirius&#39;s Sword](UniqueItems/UniqueWeapons/Sirius'sSword.md)
 
 #### [Echo](UniqueItems/UniqueWeapons/Echo.md)
 
@@ -1869,7 +1869,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Vial of Healing Blood](UniqueItems/Potions/VialOfHealingBlood.md)
 
-### Misc
+### Unique Misc
 
 #### [Petty Brightstone](UniqueItems/UniqueMisc/PettyBrightstone.md)
 
