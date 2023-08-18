@@ -797,3 +797,11 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 #### [Petty Brightstone](UniqueItems/UniqueMisc/PettyBrightstone.md)
 
 #### [Mechanical Heart](UniqueItems/UniqueMisc/MechanicalHeart.md)
+
+
+
+## Characters
+
+### [Javk Wick]()
+
+### [Destin Shaffer]()
