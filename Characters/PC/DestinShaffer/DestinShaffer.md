@@ -30,3 +30,7 @@ Eventually as he grew to know that he wasn’t a mudblood like his parents, and 
 After losing what he considered his second family, Destin fell into a depression that he used the potent drug Trail Laud to suppress. After joining up with another mercenary company, he eventually got close to Redwall on the day of the Festival of Sacrifice, commemorating the Emperor's fallen brother. There he witnessed a terrorist attack perpetrated by the Cult of Amon. Serendipitously, Destin was able to rescue his parents anonymously during the attack. Too ashamed of the man he had become,  he ventured south once more, looking for more work with his blade.
 
 ## Goals/Aspirations
+
+## Notable Items
+
+* [Char](../../../UniqueItems\UniqueWeapons\Char\Char.md)
