@@ -363,167 +363,19 @@ And so, with the founding of the Dawn Empire, came about the High Age, an epoch 
 
 Brights are a group of beings that are most commonly associated with the Bright Lord himself. The term Bright, should not be seen as an indication of the luminosity of the beings, but rather their association with the Bright Lord. In some cultures around Terra, Brights are also referred to as gods.
 
-### The Bright Lord
+### [The Bright Lord](Lore/Gods/TheBrightLord.md)
 
-![Alt text](images/Brights/The Bright Lord.png)
+### [The Great Betrayer](Lore/Gods/TheGreatBetrayer.md)
 
-Aspect: Light, Intelligence, Dominion
+### [The Twisting One](Lore/Gods/TheTwistingOne.md)
 
-Tenet: “Thou are created in the image of greatness, and shall seek strength, knowledge, and greatness to be closer to I, but shall recognize thine greatness is from within thine own labors.”
+### [The Bound One](Lore/Gods/TheBoundOne.md)
 
-Aliases:  King of the Brights, The Star of Dawn
+### [The Beautiful One](Lore/Gods/TheBeatifulOne.md)
 
-Relics:
+### [The Bargainer](Lore/Gods/TheBargainer.md)
 
-- Adversary
-- The Crown of Thorns
-
-Lore:
-
-The Bright Lord is the chief deity of Brightinism. As the creator of Fellkind and Brightkind, he is worshiped widely across Terra across all walks of life.
-
-It is said that the Bright Lord ascended into the heavens to tend to the heart of the star around which Terra orbits. From his vantage point, he keeps a watchful eye on his creations.
-
-Priests of the Bright Lord are devoutly loyal to the Dawn Empire and Imperial family, which they see as the physical manifestation of the Bright Lords' will on Terra. They occupy high positions within the Imperial senate and are consulted whenever important decisions are made, as their visions said to be given by the Bright Lord himself are rumored to illuminate the very future.
-
-The Inquisition also are fervent worshipers of the Bright Lord, carrying out what they see are the more brutal yet necessary aspects of faith. This includes the hunting of the heretical group known as the Cult of Amon.
-
-### The Great Betrayer
-
-![Alt text](images/Brights/The Great Betrayer.png)
-
-Domain: Vengeance, Fury, Betrayal
-
-Tenet: “Thou shall take up arms and seek righteous vengeance upon those that have wronged you.”
-
-Aliases: Amon (This name is frowned upon, it is considered heresy and a curse), The Faithful One, Demon of the West, Spear of the Brights
-
-Lore:
-
-The Great Betrayer, known as Amon the Faithful One prior to the cataclysmic event that forever tainted his name, stood as the Bright Lord’s most loyal servant. Bestowed with the Spear of Destiny by his master, Amon faithfully served the Bright Lord until his dramatic and sudden betrayal.
-
-The name “Amon” has since become a curse, a foreboding omen not to be uttered lightly. Today, he is widely referred to as “The Great Betrayer” on Terra, with worship strictly forbidden. However, many temples still preserve teachings and house statues of Amon, acknowledging his enduring status within the Bright Pantheon.
-
-By all accounts, Amon was considered the most dangerous of all the Brights, owing to his mysterious ability to adapt his power to match any adversary before him. Scholars are perplexed by the abundance of ancient records chronicling his time living among and protecting the early Fellkind. Some texts even describe him as sharing similarities in stature and strength with Fellkind. Myths recount his legendary battles against the Demon Lords of Terra, depicting him as an unstoppable force of relentless might.
-
-Amon’s Mark, known as “the Mark/Brand of the Undying,” is referenced in numerous ancient texts. While the exact nature of this mark remains elusive, it is believed to render Amon virtually invincible, endowing him with great power.
-
-Amon’s profound affinity for weaponry and equipment is evident, as he is credited with teaching our ancestors the use of many weapons still employed today. Artifacts associated with Amon are closely guarded within the capital of the Dawn Empire, Crossroads. However, whispers persist of lost artifacts, swallowed by the tides of time…
-
-Relics:
-
-- [The Spear of Destiny](https://docs.google.com/document/d/1Ty2EO2MxMxJNGoYT8BQaVelj2p4tK711r90zfWXJfo0/edit?usp=sharing)
-
-### The Twisting One
-
-![Alt text](images/Brights/The Twisting One.png)
-
-Aspect: Want, Growth, Change
-
-Tenet: "Thou shall recognize the success of one's neighbor, and labor to obtain success thineself."
-
-Aliases: Leviathan, The Great Circle, Lord of the Deep, Rahab, Progenitor of Dragons, Ouroboros, The Primeval Sea Serpent, The World Serpent, Bright of Chaos, The Shielded One, The Sea Dragon, Serpent of the Abyss
-
-Lore:
-
-The Twisting One, known by different names across various cultures, such as the “World Serpent” of the Isles of Crest, the “Ouroboros” of Leodelphia, and the “Leviathan” of Redwall, represents a singular entity of immense proportions, said to encircle the foundations of the world. Revered for symbolizing want, growth, and change, the Twisting One is worshiped by the Seakin, Saliours, and those seeking radical transformations in their lives.
-
-Legend speaks of the Bright Lord bestowing wings upon certain offspring of the Twisting One, which gave rise to the first dragons.
-
-The massive movements of the Twisting One deep beneath the ocean’s surface are believed to give rise to phenomena such as dry storms and oceanic currents. It is even theorized that earthquakes and fissures on Terra are the result of its movements along the seafloor, leaving gargantuan gashes in the bedrock itself.
-
-Its impenetrable scales are said to render it impervious to physical weapons. Remarkably, a scale from the Twisting One has been discovered deep within the Earth near the Iris Sea in the Dawn Empire, painstakingly harvested to forge exceptional armor and weapons. These scaled artifacts are said to grant longevity and vitality to their wielders.
-
-Description:
-
-Eyewitness accounts of the Twisting One’s immense body, as known in the Dawn Empire, are plentiful. Many mistakenly perceive parts of its body as islands or landmasses.
-
-Dark and colossal scales cover every inch of the creature, rendering it practically indestructible. While sightings of its body parts are relatively common, encounters with its head are rare due to its gargantuan size. Survivors who have witnessed its head describe it as eclipsing the sun itself. Its eyes emit a red glow reminiscent of the dawn’s rays, while smoke billows from its nostrils, occasionally igniting with bursts of light. Direct eye contact with the creature is said to petrify onlookers, and it exhales storms of fire.
-
-Relics:
-
-- The Serpent Staff
-
-### The Bound One
-
-![Alt text](images/Brights/The Bound One.png)
-
-Domain: Rest, Binding, Stagnation, Patience
-
-Tenet: "Thou shall go without care for the opinions of the world."
-
-Aliases: The Shiftless One, The Deep Dreamer, The Still One
-
-Lore:
-"With no respite from the outside world, the Bound One could only look within. And there it found the gentle embrace of an infinite dream..."
-
-During the Awakening of Terra, the Bound One introduced the concepts of rest, sleep, and relaxation. Followers of the Bound One seek enlightenment not through worldly concerns but through deep relaxation and dreams. These devotees, known as Bound Apostles, don heavy robes and chains, surrendering themselves to endless slumber. They awaken only to share the secrets and innovations discovered within their dreams. Many of the mystical runes used throughout Terra today were uncovered through this ethereal connection.
-
-Description:
-There exist no personal accounts of the Bound One. Depictions of the Bound One in cathedral statues portray a formless figure bound in chains, devoid of distinguishable features. Often depicted slumped forward or lying on the ground, the Bound One’s representation evokes a sense of stillness and tranquility.
-
-Relics:
-
-### The Beautiful One
-
-![Alt text](images/Brights/The Beatiful One.png)
-
-Aspect: Passion, Fertility, Beauty
-
-Tenet: "Thou has been given the passion of flesh to spread across the land."
-
-Aliases: The Lady of Night, Bright of Fertility, The Rebellious
-
-Lore:
-
-During the Awakening, The Beautiful One bestowed upon Fellkind the gift of passion, fertility, and beauty. The Beautiful One seeks to encourage the expression of physical desire and the cultivation of new life.
-
-Whether it be lovers entwined in amorous embrace, aspiring mothers yearning for the miracle of birth, vain queens adorning themselves with splendor, or even those working within the realms of pleasure, many offer prayers and seek the blessings of The Beautiful One.
-
-Priests and priestesses dedicated to The Beautiful One can be identified by their elegant attire and captivating presence. They are known for embracing their own sensuality and engaging in acts of intimate connection. Through their passions, they seek the favor and patronage of powerful nobles and individuals of great wealth.
-
-Relics:
-
-### The Bargainer
-
-![Alt text](images/Brights/The Bargainer.png)
-
-Aspect: Prosperity, Secrets, Knowledge
-
-Tenet: "Thou shall seek prosperity through the acquisition of wealth and the pursuit of knowledge."
-
-Aliases: The Clever One, The Keeper of Secrets, Bright of Trickery, Cleverous
-
-Lore:
-"Everything has a price..." - The Bargainer
-
-During the Awakening, The Bargainer bestowed upon Fellkind the insatiable desire for prosperity and the thirst for hidden knowledge. The Bargainer encourages the people of Terra to accumulate wealth and unravel the secrets of the world.
-
-Depicted often as a figure seated at a desk or throne, surrounded by symbols of clandestine knowledge and abundant riches, The Bargainer is revered by merchants, scholars, rogues, mercenaries, and spies.
-
-Priests and priestesses devoted to The Bargainer hold positions of influence within the realms of merchants, scholars, and covert operatives. Membership in their ranks resembles a secret society, accessible only to those who actively seek wealth, possess hidden knowledge, or wield significant power.
-
-Relics:
-
-### The Ravenous One
-
-![Alt text](images/Brights/The Ravenous One.png)
-
-Domain: Survival, Hunger, Decay
-
-Tenet: "Thou shall embrace the insatiable hunger within and consume the world that surrounds thee."
-
-Aliases: The Voracious One, The Hungry One
-
-Lore:
-
-During the creation of Terra, The Ravenous One bestowed upon Fellkind an unquenchable hunger for life, a primal drive to indulge and devour, lest they wither away. The Ravenous One desires the people of Terra to fully embrace their voracious nature and consume the world around them, for in their consumption lies their survival...
-
-Depicted in various cultures across Terra, The Ravenous One is often represented as an immense maw filled with teeth or mandibles, symbolizing insatiable hunger. Devotees of The Ravenous One include the Chitinkin, hunters, farmers, chefs, starving peasants, and indulgent lords and ladies.
-
-Priests and priestesses of The Ravenous One are known for their plumpness and travel the world, imparting their knowledge of hunting, farming, land clearing, and culinary arts. Wherever they go, abundance and bountiful harvests tend to follow in their wake.
-
-Relics:
+### [The Ravenous One](Lore/Gods/TheRavenousOne.md)
 
 ## Other Deities
 
