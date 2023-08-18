@@ -97,7 +97,7 @@ Map Download: `<!-- Map link here-->`
   - [Blessing](#blessing)
     - [Buffs](#buffs)
     - [Healing](#healing)
-    - [Specialization: Bright&#39;s Heritage](#specialization-brights-heritage)
+    - [Specialization: Bright's Heritage](#specialization-brights-heritage)
     - [Absorb Light: Emotion](#absorb-light-emotion)
 - [Fellcraft](#fellcraft)
   - [Fellcraft Roll](#fellcraft-roll)
@@ -262,7 +262,7 @@ Map Download: `<!-- Map link here-->`
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius&#39;s Sword](#siriuss-sword)
+    - [Sirius's Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -1867,46 +1867,12 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 ### Potions
 
-#### Vial of Healing Blood
-
-Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
-
-The process of creating Healing blood is a closely guarded secret of House Redington, as it is Redwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Redington.
-
-Gradual: [Minor Healing Factor](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-healing-factor)
-
-Minor: [Minor Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-heal)
-
-Greater: [Medium Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#medium-heal)
-
-Superior: [Superior Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#superior-heal)
-
-Supreme: [Supreme Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#supreme-heal)
-
-Revival: [Revival Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#revival-heal)
+#### [Vial of Healing Blood](UniqueItems/Potions/VialOfHealingBlood.md)
 
 ### Misc
 
-#### Petty Brightstone
+#### [Petty Brightstone](UniqueItems/UniqueMisc/PettyBrightstone.md)
 
-Brightstone is a rare gem that can hold Light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold.
-
-Light Storage:
-
-Holds 1 Light. Light can be drawn from it for use in Miracles. Can be recharged in Sunlight. Light slowly dissipates from this gem.
-
-#### Mechanical Heart
-
-“With this Heart, I will hear many secrets…” - Unknown
-
-Said to have been designed by the lord of Tuntin, who subsequently died in the fire that burned his estate to the ground. A vessel designed to contain a soul, it is used to help uncover runecrafts and other supernatural events throughout Terra.
-
-Phenomena Detection:
-
-Beats and lights up when turned towards supernatural phenomena in an area. Beats faster the closer it is.
-
-Forbidden Whispers:
-
-When one squeezes the Heart, it whispers secrets directly into their mind concerning the current area, as it senses information about the world beyond mortal recognition. When the Heart is pointed at a person, it reveals secrets about them. Roll a destiny roll (a d20) to determine the level of information obtained.
+#### [Mechanical Heart](UniqueItems/UniqueMisc/MechanicalHeart.md)
 
 [Link Text](Characters.md)
