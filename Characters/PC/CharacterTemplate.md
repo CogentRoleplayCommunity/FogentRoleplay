@@ -2,10 +2,9 @@
 
 ![alt_text]()
 
+[Link to character sheet]()
 
 ## Backstory
-
-
 
 ## Appearance
 
@@ -17,9 +16,6 @@ Height:
 
 Body Type:
 
-
 ## Disposition
-
-
 
 ## Goals/Aspirations

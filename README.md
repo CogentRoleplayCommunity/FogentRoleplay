@@ -176,6 +176,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Uhtred Storm](#uhtred-storm)
   - [Skuath Crimson](#skuath-crimson)
   - [ValkyrieDreki](#valkyriedreki)
+- [Elowyn Lovelace](#elowyn-lovelace)
 
 ## World Lore
 
@@ -810,3 +811,5 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 ### [Skuath Crimson](Characters/PC/SkuathCrimson/SkuathCrimson.md)
 
 ### [ValkyrieDreki](Characters/PC/ValkyrieDreki/ValkyrieDreki.md)
+
+## [Elowyn Lovelace](Characters/PC/ElowynLovelace/ElowynLovelace.md)
