@@ -160,7 +160,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -812,4 +812,6 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 ### [ValkyrieDreki](Characters/PC/ValkyrieDreki/ValkyrieDreki.md)
 
-## [Elowyn Lovelace](Characters/PC/ElowynLovelace/ElowynLovelace.md)
+### [Elowyn Lovelace](Characters/PC/ElowynLovelace/ElowynLovelace.md)
+
+### [Grimwald Thornhelm](Characters/PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
