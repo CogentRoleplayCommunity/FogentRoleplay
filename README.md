@@ -160,7 +160,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -173,6 +173,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 - [Characters](#characters)
   - [Javk Wick](#javk-wick)
   - [Destin Shaffer](#destin-shaffer)
+  - [Uhtred Storm](#uhtred-storm)
 
 ## World Lore
 
@@ -801,3 +802,9 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 ### [Javk Wick]()
 
 ### [Destin Shaffer](Characters/PC/DestinShaffer/DestinShaffer.md)
+
+### [Uhtred Storm](Characters/PC/UhtredStorm/UhtredStorm.md)
+
+### [Skuath Crimson](Characters/PC/Skuath Crimson/SkuathCrimson.md)
+
+### [ValkyrieDreki](Characters/PC/ValkyrieDreki/ValkyrieDreki.md)
