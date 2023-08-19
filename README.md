@@ -160,7 +160,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius&#39;s Sword](#siriuss-sword)
+    - [Sirius's Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -175,8 +175,10 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
   - [Destin Shaffer](#destin-shaffer)
   - [Uhtred Storm](#uhtred-storm)
   - [Skuath Crimson](#skuath-crimson)
-  - [ValkyrieDreki](#valkyriedreki)
-- [Elowyn Lovelace](#elowyn-lovelace)
+  - [Valkyrie Dreki](#valkyrie-dreki)
+  - [Elowyn Lovelace](#elowyn-lovelace)
+  - [Grimwald Thornhelm](#grimwald-thornhelm)
+  - [Seraphina Roseblood](#seraphina-roseblood)
 
 ## World Lore
 
@@ -804,16 +806,16 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 ### [Javk Wick]()
 
-### [Destin Shaffer](Characters/PC/DestinShaffer/DestinShaffer.md)
+### [Destin Shaffer](Characters/PC/DestinShaffer.md)
 
-### [Uhtred Storm](Characters/PC/UhtredStorm/UhtredStorm.md)
+### [Uhtred Storm](Characters/PC/UhtredStorm.md)
 
-### [Skuath Crimson](Characters/PC/SkuathCrimson/SkuathCrimson.md)
+### [Skuath Crimson](Characters/PC/SkuathCrimson.md)
 
-### [Valkyrie Dreki](Characters/PC/ValkyrieDreki/ValkyrieDreki.md)
+### [Valkyrie Dreki](Characters/PC/ValkyrieDreki.md)
 
-### [Elowyn Lovelace](Characters/PC/ElowynLovelace/ElowynLovelace.md)
+### [Elowyn Lovelace](Characters/PC/ElowynLovelace.md)
 
-### [Grimwald Thornhelm](Characters/PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
+### [Grimwald Thornhelm](Characters/PC/GrimwaldThornhelm.md)
 
-### [Seraphina Roseblood](Characters/PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
+### [Seraphina Roseblood](Characters/PC/SeraphinaRoseblood.md)
