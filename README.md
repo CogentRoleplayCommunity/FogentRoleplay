@@ -815,3 +815,5 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 ### [Elowyn Lovelace](Characters/PC/ElowynLovelace/ElowynLovelace.md)
 
 ### [Grimwald Thornhelm](Characters/PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
+
+### [Seraphina Roseblood](Characters/PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
