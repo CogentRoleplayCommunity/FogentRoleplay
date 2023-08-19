@@ -2,7 +2,7 @@
 
 ![alt_text](SkuathCrimson.png)
 
-[Link to sheet](https://docs.google.com/spreadsheets/d/1Ct7Nm7x8HDvlvn5Y-ZndHPen-ewN8tUUbLRIV3sby64/edit?usp=sharing)
+[Link to character sheet](https://docs.google.com/spreadsheets/d/1Ct7Nm7x8HDvlvn5Y-ZndHPen-ewN8tUUbLRIV3sby64/edit?usp=sharing)
 
 
 ## Backstory
