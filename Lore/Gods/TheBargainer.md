@@ -1,6 +1,6 @@
 # The Bargainer
 
-![Alt text](images/Brights/The Bargainer.png)
+![Alt text](TheBargainer.png)
 
 Aspect: Prosperity, Secrets, Knowledge
 

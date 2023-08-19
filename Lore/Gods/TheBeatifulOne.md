@@ -1,6 +1,6 @@
 # The Beatiful One
 
-![Alt text](images/Brights/The Beatiful One.png)
+![Alt text](TheBeatifulOne.png)
 
 Aspect: Passion, Fertility, Beauty
 

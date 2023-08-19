@@ -1,6 +1,6 @@
 # The Bound One
 
-![Alt text](images/Brights/The Bound One.png)
+![Alt text](TheBoundOne.png)
 
 Domain: Rest, Binding, Stagnation, Patience
 

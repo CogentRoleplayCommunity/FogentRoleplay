@@ -1,6 +1,6 @@
 # The Great Betrayer
 
-![Alt text](images/Brights/The Great Betrayer.png)
+![Alt text](TheGreatBetrayer.png)
 
 Domain: Vengeance, Fury, Betrayal
 

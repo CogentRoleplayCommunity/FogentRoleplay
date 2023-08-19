@@ -1,6 +1,6 @@
 # The Bright Lord
 
-![Alt text](images/Brights/The Bright Lord.png)
+![Alt text](TheBrightLord.png)
 
 Aspect: Light, Intelligence, Dominion
 

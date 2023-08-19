@@ -1,6 +1,6 @@
 # The Ravenous One
 
-![Alt text](images/Brights/The Ravenous One.png)
+![Alt text](TheRavenousOne.png)
 
 Domain: Survival, Hunger, Decay
 
