@@ -1,5 +1,7 @@
 # Blazecraft
 
+![Blazecraft]()
+
 Blazecraft users can narratively attempt the following:
 
 - Create, manipulate, and extinguish fire, smoke, and ash.

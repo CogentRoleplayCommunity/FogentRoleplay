@@ -1,5 +1,7 @@
 # Electrocraft
 
+![alt_text]()
+
 Electrocraft craft users can narratively attempt the following:
 
 - Create and manipulate electricity.

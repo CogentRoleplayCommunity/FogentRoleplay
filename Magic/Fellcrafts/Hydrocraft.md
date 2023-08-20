@@ -1,5 +1,7 @@
 # Hydrocraft
 
+![Hydrocraft]()
+
 Hydrocraft users can narratively attempt the following:
 
 - Create water.

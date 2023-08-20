@@ -1,5 +1,7 @@
 # Polycraft
 
+![Polycraft](Polycraft.png)
+
 Polycraft users can narratively attempt the following:
 
 - Take on physical monstrous traits
