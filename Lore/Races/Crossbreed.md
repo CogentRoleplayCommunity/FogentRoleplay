@@ -1,5 +1,7 @@
 # Crossbreed
 
+![alt_text](Crossbreed.png)
+
 Crossbreeds trace their monstrous ancestry from the ancient monsters that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord. However, due to the dilution and mixing of their ancestral bloodlines, the genetic gifts are lost to them. They are often referred to as mudbloods due to their impure bloodlines.
 
 Some bloodlines become impure in a single generation while others take many generations.

@@ -1,4 +1,6 @@
-# Beastkin
+# Seakin
+
+![Seakin](Seakin.png)
 
 Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed to the Bright lord. These monsters were grafted consciousness and the humaniod form of the Bright Lord.
 
