@@ -1,5 +1,7 @@
 # Mindcraft
 
+![img]()
+
 Mindcraft users can narratively attempt the following:
 
 - Telepathy

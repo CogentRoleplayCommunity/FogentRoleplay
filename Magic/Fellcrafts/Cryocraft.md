@@ -1,6 +1,8 @@
 # Cryocraft
 
-Terracraft users can narratively attempt the following:
+![img]()
+
+Cryocraft users can narratively attempt the following:
 
 - Create cold (ice)
 - Manipulate cold

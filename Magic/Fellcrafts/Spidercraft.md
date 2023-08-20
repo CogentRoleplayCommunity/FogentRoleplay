@@ -1,5 +1,7 @@
 # Spidercraft
 
+![img]()
+
 Spidercraft users can narratively attempt the following:
 
 - Produce webbing of various strength and adhesiveness
