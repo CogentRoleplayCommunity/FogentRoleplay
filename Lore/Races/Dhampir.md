@@ -1,5 +1,7 @@
 # Dhampire
 
+![img]()
+
 ![alt_text](Dhampir.png)
 
 Dhampirs trace their monstrous ancestry from the Vampires that bowed to the Bright Lord. Sunlight is deadly to Vampires, meaning those that stood in front of the Bright Lord surely should have perished…
