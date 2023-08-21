@@ -1,5 +1,7 @@
 # Naturecraft
 
+![img]()
+
 Naturecraft users can narratively attempt the following:
 
 - Create plants

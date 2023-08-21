@@ -1,5 +1,7 @@
 # Sonocraft
 
+![img]()
+
 Sonocraft users can narratively attempt the following:
 
 - Emit sound and concussion waves

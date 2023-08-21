@@ -1,5 +1,7 @@
 # Magmacraft
 
+![img]()
+
 Magmacraft users can narratively attempt the following:
 
 - Create magma.

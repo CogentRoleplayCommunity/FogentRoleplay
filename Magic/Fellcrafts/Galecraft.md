@@ -1,5 +1,7 @@
 # Galecraft
 
+![img]()
+
 Galecraft craft users can narratively attempt the following:
 
 - Create gales and fog.
