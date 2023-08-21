@@ -1,5 +1,7 @@
 # Stromcraft
 
+![img]()
+
 Stormcraft users can narratively attempt the following:
 
 - Create storms.
