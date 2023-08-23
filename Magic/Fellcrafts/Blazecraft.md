@@ -1,6 +1,6 @@
 # Blazecraft
 
-![Blazecraft]()
+![Blazecraft](Blazecraft.png)
 
 Blazecraft users can narratively attempt the following:
 
