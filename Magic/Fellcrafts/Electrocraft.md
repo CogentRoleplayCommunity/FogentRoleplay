@@ -1,6 +1,6 @@
 # Electrocraft
 
-![alt_text]()
+![](Electrocraft.png)
 
 Electrocraft craft users can narratively attempt the following:
 
