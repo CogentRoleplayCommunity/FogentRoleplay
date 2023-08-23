@@ -160,7 +160,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -282,17 +282,7 @@ Brights are a group of beings that are most commonly associated with the Bright 
 
 ## Other Deities
 
-### The Moon Presence
-
-Many inhabitants of Terra hold reverence for the Moon Presence, considering it a primal force that predates even the arrival of the Bright Lord. Legends speak of a time when the Moon Presence was whole, but during the Great Betrayal, the epic clash between Amon and the Bright Lord caused the moon to fracture, splitting it into two separate entities.
-
-The Old One
-
-The larger of the two moons that grace the skies of Terra. Filled with anger and resentment due to its separation from its other half, the Old One is believed to harbor animosity toward the Bright Lord and his followers.
-
-The Younger
-
-The smaller of the two moons that adorn the celestial expanse of Terra. Revered as the gentler aspect of the Moon Presence, the Younger moon is associated with benevolent influences, such as guiding sailors safely home, ensuring the well-being of pregnant mothers, and bringing forth gentle tides.
+### [The Moon Presence](Gods/TheMoonPresence.md)
 
 ## Terra
 
@@ -306,15 +296,15 @@ The sprawling Continent stretches across the vast expanse of Terra, its colossal
 
 ## Countries of Terra
 
-### [The Dawn Empire](Terra/TheDawnEmpire.md)
+### [The Dawn Empire](Terra/TheDawnEmpire/TheDawnEmpire.md)
 
-### [Reddland](Terra/Reddland.md)
+### [Reddland](Terra/Reddland/Reddland.md)
 
-### [Isles of Crest](Terra/IslesOfCrest.md)
+### [Isles of Crest](Terra/IslesOfCrest/IslesOfCrest.md)
 
-### [Cambria](Terra/Cambria.md)
+### [Cambria](Terra/Cambria/Cambria.md)
 
-### [Uskal](Terra/Uskal.md)
+### [Uskal](Terra/Uskal/Uskal.md)
 
 ## Races of Terra
 
@@ -434,96 +424,7 @@ Wonders are uses of Miracles that use an insignificant  amount of Light. In gene
 
 ### [Blessing](ZC/Blessing.md)
 
-## Fellcrafts
-
-The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Ichor.
-
-Due to their monstrous ancestry, Fellkind carries Ichor in their veins as well. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
-
-### Fellcraft Roll
-
-This roll represents your abilities with a specific type of Fellcraft. A minimum of one Ichor is required to make a non-Trick Fellcraft Roll. Ichor up to the level in the user’s Fellkin vocation can be consumed, adding an additional d6 to the Fellcraft Roll for each Ichor consumed.
-
-- Fellcraft Roll = 3d6 (base) + Xd6 (Fellcraft Skill) + Xd6 (STR/RFX/INT) + Xd6 (Ichor Consumed capped by Fellkin Vocation)
-
-### Ichor
-
-Ichor is the potential energy found in both monster and Fellkind blood. This energy is responsible for all of Fellcraft.
-
-- +3 Ichor per Fellkin Vocation
-
-#### Regaining Ichor
-
-Maintaining one's physical health restores Ichor over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels.
-
-A short rest (1 hour) regains Ichor equal to their Fellkin Vocation level. This can only be performed once per long rest. A long rest (8 hours) with proper nutrition and hydration regains Ichor completely.
-
-#### Absorbing Ichor
-
-Fellkin can absorb and feed on an ample sources of primal elements that correspound to their Fellcrafts to regain Ichor.
-
-Ichor can be absorbed once for each Fellcraft Vocation level, resetting on long rests. The level in the specific Fellcraft skill used dictate how much Ichor is regained. Absorbing or meditating near a large source of the element are acceptable. Flavor and creativity are encouraged.
-
-### Fellcraft Tricks
-
-Tricks are uses of Fellcraft that use an insignificant amount of Ichor. In general, Tricks should be small and happen close to the user. Igniting your fingertips to light a cigar with Blazecraft, stirring a cup of tea with Hydrocraft, or creating a gentle breeze with Galecraft are all examples of Tricks. Trick attacks are considered the weakest form of offense, only used in dire situations or for utility.
-
-- Cannot benifit from Fellkin assists (as no Ichor is consumed)
-- Ichor Requirement: 0 Ichor (No Ichor can be used to increase dice)
-
-### Fellcraft Tree
-
-The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
-
-This tree represents the different path to acquire different Fellcrafts. Each solid line represents a monster whose genes bridge between Fellcrafts. For instance, Vampires represent the links between Hemacraft and Mindcraft as well as Mindcraft and Shadowcraft. While Vampires represent this on the Fellcraft Tree, these genes may exist in other monsters. This tree just shows the natural progression a Fellkin could take to acquire new fellcraft.
-
-Squares represent normal Fellcrafts. These can be accessed if you choose this if your race has access or if you have a neighboring Fellcraft square already at level 1 in that Fellcraft skill. Any newly gained Fellcraft starts at level -1.
-
-Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
-
-![alt text](images/Fellcraft/FellcraftTree.png)
-
-### Fellcraft List
-
-#### [Polycraft](Magic/Fellcrafts/Polycraft.md)
-
-#### [Blazecraft](Magic/Fellcrafts/Blazecraft.md)
-
-#### [Hydrocraft](Magic/Fellcrafts/Hydrocraft.md)
-
-#### [Electrocraft](Magic/Fellcrafts/Electrocraft.md)
-
-#### [Terracraft](Magic/Fellcrafts/Terracraft.md)
-
-#### [Galecraft](Magic/Fellcrafts/Galecraft.md)
-
-#### [Cryocraft](Magic/Fellcrafts/Cryocraft.md)
-
-#### [Naturecraft](Magic/Fellcrafts/Naturecraft.md)
-
-#### [Toxicraft](Magic/Fellcrafts/Toxincraft.md)
-
-#### [Soulcraft](Magic/Fellcrafts/Soulcraft.md)
-
-#### [Shadowcraft](Magic/Fellcrafts/Shadowcraft.md)
-
-#### [Mindcraft](Magic/Fellcrafts/Mindcraft.md)
-
-#### [Ferracraft](Magic/Fellcrafts/Ferracraft.md)
-
-#### [Sonocraft](Magic/Fellcrafts/Sonocraft.md)
-
-#### [Hemacraft](Magic/Fellcrafts/Hemacraft.md)
-
-#### [Spidercraft](Magic/Fellcrafts/Spidercraft.md)
-
-#### [Plasmacraft](Magic/Fellcrafts/Plasmacraft.md)
-
-#### [Stormcraft](Magic/Fellcrafts/Stromcraft.md)
-
-#### [Magmacraft](Magic/Fellcrafts/Magmacraft.md)
-
-#### [Blizzardcraft](Magic/Fellcrafts/Blizzardcraft.md)
+## [Fellcraft](Magic/Fellcraft.md)
 
 ## Runecraft
 
@@ -766,7 +667,7 @@ Some Runes pertaining to consciousness have been discovered such as the Mind Run
 
 #### [Asclepius](UniqueItems/UniqueWeapons/Asclepius)
 
-#### [Asher’s Arms Swordbreaker](UniqueItems/UniqueWeapons/Asher'sArmsSwordbreaker.md)
+#### [Asher&#39;s Arms Swordbreaker](UniqueItems/UniqueWeapons/Asher'sArmsSwordbreaker.md)
 
 #### [Char](UniqueItems/UniqueWeapons/Char/Char.md)
 
