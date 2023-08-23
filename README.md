@@ -160,7 +160,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
     - [Monkey Staff](#monkey-staff)
     - [Talon - Replica](#talon---replica)
     - [Fang - Replica](#fang---replica)
-    - [Sirius's Sword](#siriuss-sword)
+    - [Sirius&#39;s Sword](#siriuss-sword)
     - [Echo](#echo)
   - [Unique Armor](#unique-armor)
     - [Dragonguard](#dragonguard)
@@ -306,15 +306,15 @@ The sprawling Continent stretches across the vast expanse of Terra, its colossal
 
 ## Countries of Terra
 
-### [The Dawn Empire](Terra/TheDawnEmpire.md)
+### [The Dawn Empire](Terra/TheDawnEmpire/TheDawnEmpire.md)
 
-### [Reddland](Terra/Reddland.md)
+### [Reddland](Terra/Reddland/Reddland.md)
 
-### [Isles of Crest](Terra/IslesOfCrest.md)
+### [Isles of Crest](Terra/IslesOfCrest/IslesOfCrest.md)
 
-### [Cambria](Terra/Cambria.md)
+### [Cambria](Terra/Cambria/Cambria.md)
 
-### [Uskal](Terra/Uskal.md)
+### [Uskal](Terra/Uskal/Uskal.md)
 
 ## Races of Terra
 
