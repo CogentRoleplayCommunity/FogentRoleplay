@@ -1,6 +1,6 @@
 # Hydrocraft
 
-![Hydrocraft]()
+![](Hydrocraft.png)
 
 Hydrocraft users can narratively attempt the following:
 
