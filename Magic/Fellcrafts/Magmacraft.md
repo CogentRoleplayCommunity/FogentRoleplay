@@ -1,6 +1,6 @@
 # Magmacraft
 
-![img]()
+![img](Magmacraft.png)
 
 Magmacraft users can narratively attempt the following:
 

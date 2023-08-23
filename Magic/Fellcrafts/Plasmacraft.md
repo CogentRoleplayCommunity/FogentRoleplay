@@ -1,6 +1,6 @@
 # Plasmacraft
 
-![img]()
+![img](Plasmacraft.png)
 
 Plasmacraft users can narratively attempt the following:
 

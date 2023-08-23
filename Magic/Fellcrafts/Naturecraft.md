@@ -1,6 +1,6 @@
 # Naturecraft
 
-![img]()
+![img](Naturecraft.png)
 
 Naturecraft users can narratively attempt the following:
 

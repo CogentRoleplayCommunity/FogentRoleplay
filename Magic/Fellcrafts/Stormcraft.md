@@ -1,6 +1,6 @@
 # Stormcraft
 
-![img](Stormcraft)
+![img](Stormcraft.png)
 
 Stormcraft users can narratively attempt the following:
 
