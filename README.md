@@ -184,7 +184,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 On a dead world, at the end of time, life begins once again...
 
-![alt_text](images/Places/TheContinent.png "image_tooltip")
+![alt_text](Terra/TheContinent.png "image_tooltip")
 
 ### The Awakening
 
@@ -377,18 +377,18 @@ During their dormant state, these infected individuals are referred to as carrie
 
 ## Magic Systems
 
-All of Fallen’s 3 magic systems (Fellcraft, Miracles, and Runecraft) are built of the same rule in combat, which you can refer to over on Fogent Roleplay. Instead of listing this out 3 times. Keep in mind the following while reading the pre-made Fallen magic systems listed further below.
+All of Fallen's 3 magic systems (Fellcraft, Miracles, and Runecraft) are built of the same rule in combat, which you can refer to over on Fogent Roleplay. Instead of listing this out 3 times. Keep in mind the following while reading the pre-made Fallen magic systems listed further below.
 
 - Magic = Fellcraft/Miracles/Runecraft
 - Resource = Ichor/Light/Energy
 - Cantrip = Trick/Wonder/Sign
 - Magic Vocation = Fellkin/Brightkin/Runesmith
 
-## [Miracles](Magic/Miracles.md)
+### [Miracles](Magic/Miracles.md)
 
-## [Fellcraft](Magic/Fellcraft.md)
+### [Fellcraft](Magic/Fellcraft.md)
 
-## [Runecraft](Magic/Runecraft.md)
+### [Runecraft](Magic/Runecraft.md)
 
 ## Unique Items
 
