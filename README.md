@@ -192,7 +192,7 @@ On dead world, at the end of time, life begins once again…
 
 This world, known as Terra, revolves around a faded and dying star. Once, it was a flourishing world teeming with consciousness and vibrant life. However, it has now become a fallen apocalyptic realm, where only malevolent creatures roam. Their ceaseless hunt driven by the hunger for the conscious life that has long since vanished into oblivion. It drifts ceaselessly through the vast expanse of space, an eternal voyage through boundless void and darkness.
 
-![Alt text](images/Brights/Arrival of the Bright Lord.png)
+![img](Gods/TheBrightLord-Arrival.png)
 
 However, a turning point emerged when a celestial entity, known as "the Bright Lord," descended upon Terra, accompanied by other ethereal beings referred to as the Brights or gods in various cultures. Moved by the plight of the mindless monstrosities that roamed the planet, the Bright Lord felt compassion for this lifeless realm. With a benevolent touch, he granted consciousness to those creatures that bowed before him, bestowing upon them the humanoid form akin to his own. This pivotal event came to be known as "The Awakening."
 
@@ -228,7 +228,7 @@ Bathed in near endless night resulting from the fading star, the newly created i
 
 When the remaining Demon Lords of Terra began preying upon Fellkind, Amon embarked on a relentless war against them. Wielding the formidable Spear of Destiny, he waged a campaign of rampage and pursuit, extinguishing the existence of demons from Terra.
 
-![Alt text](images/Brights/The Great Betrayer.png)
+![img](Gods/TheGreatBetrayer.png)
 
 However, unsatisfied with the mere possibility of their return, Amon ventured to the very realm of the demons. There, he unleashed unyielding fury, tearing through their world with unrestrained might. Legends speak of Amon's boundless rage echoing across the demon realm for an eternity, all driven by his unwavering commitment to protecting those he cherished. The demons, recognizing his indomitable power, bestowed upon him the title of "The Demon of the West," for in time they considered him one of their own. Yet, upon his return, Amon had been forever changed.
 
@@ -266,19 +266,19 @@ And so, with the founding of the Dawn Empire, came about the High Age, an epoch 
 
 Brights are a group of beings that are most commonly associated with the Bright Lord himself. The term Bright, should not be seen as an indication of the luminosity of the beings, but rather their association with the Bright Lord. In some cultures around Terra, Brights are also referred to as gods.
 
-### [The Bright Lord](Lore/Gods/TheBrightLord.md)
+### [The Bright Lord](Gods/TheBrightLord.md)
 
-### [The Great Betrayer](Lore/Gods/TheGreatBetrayer.md)
+### [The Great Betrayer](Gods/TheGreatBetrayer.md)
 
-### [The Twisting One](Lore/Gods/TheTwistingOne.md)
+### [The Twisting One](Gods/TheTwistingOne.md)
 
-### [The Bound One](Lore/Gods/TheBoundOne.md)
+### [The Bound One](Gods/TheBoundOne.md)
 
-### [The Beautiful One](Lore/Gods/TheBeatifulOne.md)
+### [The Beautiful One](Gods/TheBeatifulOne.md)
 
-### [The Bargainer](Lore/Gods/TheBargainer.md)
+### [The Bargainer](Gods/TheBargainer.md)
 
-### [The Ravenous One](Lore/Gods/TheRavenousOne.md)
+### [The Ravenous One](Gods/TheRavenousOne.md)
 
 ## Other Deities
 
@@ -306,31 +306,31 @@ The sprawling Continent stretches across the vast expanse of Terra, its colossal
 
 ## Countries of Terra
 
-### [The Dawn Empire](Lore/Terra/TheDawnEmpire.md)
+### [The Dawn Empire](Terra/TheDawnEmpire.md)
 
-### [Reddland](Lore/Terra/Reddland.md)
+### [Reddland](Terra/Reddland.md)
 
-### [Isles of Crest](Lore/Terra/IslesOfCrest.md)
+### [Isles of Crest](Terra/IslesOfCrest.md)
 
-### [Cambria](Lore/Terra/Cambria.md)
+### [Cambria](Terra/Cambria.md)
 
-### [Uskal](Lore/Terra/Uskal.md)
+### [Uskal](Terra/Uskal.md)
 
 ## Races of Terra
 
-### [Brightkin](Lore/Races/Brightkin.md)
+### [Brightkin](Races/Brightkin.md)
 
-### [Dhampire](Lore/Races/Dhampire.md)
+### [Dhampire](Races/Dhampire.md)
 
-### [Seakin](Lore/Races/Seakin.md)
+### [Seakin](Races/Seakin.md)
 
-### [Beastkin](Lore/Races/Beastkin.md)
+### [Beastkin](Races/Beastkin.md)
 
-### [Chitinkin](Lore/Races/Chitinkin.md)
+### [Chitinkin](Races/Chitinkin.md)
 
-### [Dragonkin](Lore/Races/Dragonkin.md)
+### [Dragonkin](Races/Dragonkin.md)
 
-### [Crossbreed](Lore/Races/Crossbreed.md)
+### [Crossbreed](Races/Crossbreed.md)
 
 ### More Race Ideas
 
