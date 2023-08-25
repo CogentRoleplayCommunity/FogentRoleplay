@@ -96,36 +96,36 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Compound Runes and rare Pure runes are controlled by powerful universities and the Royal families that sponsor them. The length to which they will go to protect their intellectual property is staggering, as an arms race between runes and biological magic develops.
 
-#### [Rune of Fire](Runecrafts/PureRunes/RuneOfFire.md)
+#### [Fire Rune](Runecrafts/PureRunes/FireRune.md)
 
-#### [Rune of Earth](Runecrafts/PureRunes/RuneOfEarth.md)
+#### [Earth Rune](Runecrafts/PureRunes/EarthRune.md)
 
-#### [Rune of Water](Runecrafts/PureRunes/RuneOfWater.md)
+#### [Water Rune](Runecrafts/PureRunes/WaterRune.md)
 
-#### [Rune of Air](Runecrafts/PureRunes/RuneOfAir.md)
+#### [Air Rune](Runecrafts/PureRunes/AirRune.md)
 
-#### [Rune of Electricity](Runecrafts/PureRunes/RuneOfElectricity.md)
+#### [Electricity Rune](Runecrafts/PureRunes/ElectricityRune.md)
 
-#### [Rune of Cold](Runecrafts/PureRunes/RuneOfCold.md)
+#### [Cold Rune](Runecrafts/PureRunes/ColdRune.md)
 
-#### [Rune of Toxins](Runecrafts/PureRunes/RuneOfToxins.md)
+#### [Toxins Rune](Runecrafts/PureRunes/ToxinsRune.md)
 
-#### [Rune of Blood](Runecrafts/PureRunes/RuneOfBlood.md)
+#### [Blood Rune](Runecrafts/PureRunes/BloodRune.md)
 
-#### [Rune of Light](Runecrafts/PureRunes/RuneOfLight.md)
+#### [Light Rune](Runecrafts/PureRunes/LightRune.md)
 
-#### [Rune of Dark](Runecrafts/PureRunes/RuneOfDark.md)
+#### [Dark Rune](Runecrafts/PureRunes/DarkRune.md)
 
-#### [Rune of Sound](Runecrafts/PureRunes/RuneOfSound.md)
+#### [Sound Rune](Runecrafts/PureRunes/SoundRune.md)
 
-#### [Rune of Body](Runecrafts/PureRunes/RuneOfBody.md)
+#### [Body Rune](Runecrafts/PureRunes/BodyRune.md)
 
-#### [Rune of Mind](Runecrafts/PureRunes/RuneOfMind.md)
+#### [Mind Rune](Runecrafts/PureRunes/MindRune.md)
 
-#### [Rune of Soul](Runecrafts/PureRunes/RuneOfSoul.md)
+#### [Soul Rune](Runecrafts/PureRunes/SoulRune.md)
 
-#### [Rune of Time](Runecrafts/PureRunes/RuneOfTime.md)
+#### [Time Rune](Runecrafts/PureRunes/TimeRune.md)
 
-#### [Rune of Strength](Runecrafts/PureRunes/RuneOfStrength.md)
+#### [Strength Rune](Runecrafts/PureRunes/StrengthRune.md)
 
-#### [Rune of Gravity](Runecrafts/PureRunes/RuneOfGravity.md)
+#### [Gravity Rune](Runecrafts/PureRunes/GravityRune.md)

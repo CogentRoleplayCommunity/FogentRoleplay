@@ -436,20 +436,4 @@ All of Fallen's 3 magic systems (Fellcraft, Miracles, and Runecraft) are built o
 
 #### [Mechanical Heart](UniqueItems/UniqueMisc/MechanicalHeart.md)
 
-## Characters
-
-### [Javk Wick]()
-
-### [Destin Shaffer](Characters/PC/DestinShaffer.md)
-
-### [Uhtred Storm](Characters/PC/UhtredStorm.md)
-
-### [Skuath Crimson](Characters/PC/SkuathCrimson.md)
-
-### [Valkyrie Dreki](Characters/PC/ValkyrieDreki.md)
-
-### [Elowyn Lovelace](Characters/PC/ElowynLovelace.md)
-
-### [Grimwald Thornhelm](Characters/PC/GrimwaldThornhelm.md)
-
-### [Seraphina Roseblood](Characters/PC/SeraphinaRoseblood.md)
+## [Characters](Characters/Characters.md)
