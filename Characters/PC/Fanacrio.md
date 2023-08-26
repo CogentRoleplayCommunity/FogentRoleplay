@@ -20,7 +20,7 @@ Age: 17
 
 Race: Chititinkin
 
-Height: 5'11
+Height: 5'11''
 
 Body Type: Slender
 
