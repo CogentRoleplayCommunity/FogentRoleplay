@@ -1,6 +1,8 @@
-#### Slow Fall
+# Slow Fall
 
-Choose creatures within range. A falling creature’s rate of descent slows to 10 feet per second. If the creature lands before the effect ends, it takes no falling damage and can land on its feet, and the effect for that creature.
+![img](SlowFall.png)
+
+Choose creatures within range. A falling creature's rate of descent slows to 10 feet per second. If the creature lands before the effect ends, it takes no falling damage and can land on its feet, and the effect for that creature.
 
 ##### Challenge Level
 

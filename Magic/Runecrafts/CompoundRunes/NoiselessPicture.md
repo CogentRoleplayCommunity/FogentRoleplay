@@ -1,4 +1,6 @@
-#### Minor Mirage
+## Noiseless Picture
+
+![img](MinorMirage.png)
 
 This spell allows you to conjure a sound or an image of an object within a certain range, and it remains in existence for the duration of the spell. The illusion will also cease to exist if you dismiss it using an action, or if you cast the spell again.
 
