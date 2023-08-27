@@ -37,11 +37,11 @@ Energy Required: 1 energy minimum
 
 Must know 4 of the following runes:
 
-- Earth Rune
-- Mind Rune
-- Posion Rune
-- Electric Rune
-- Air Rune
-- Fire Rune
-- Cold Rune
-- Acid Rune
+- Earth Rune (lvl 0)
+- Mind Rune (lvl 0)
+- Posion Rune (lvl 0)
+- Electric Rune (lvl 0)
+- Air Rune (lvl 0)
+- Fire Rune (lvl 0)
+- Cold Rune (lvl 0)
+- Acid Rune (lvl 0)
