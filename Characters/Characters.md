@@ -2,6 +2,8 @@
 
 ### [Javk Wick](PC/JavkWick.md)
 
+### [Fanacrio](PC/Fanacrio.md)
+
 ### [Destin Shaffer](PC/DestinShaffer.md)
 
 ### [Uhtred Storm](PC/UhtredStorm.md)

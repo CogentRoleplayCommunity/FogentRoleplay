@@ -1,6 +1,6 @@
 # Chitinkin
 
-![img]()
+![img](Chitinkin.png)
 
 Chitinkin (or Kiki as they call themselves) trace their ancestry from the ancient insectoid monsters that bowed to the Bright lord. These monsters were granted consciousness and the form of the Bright Lord.
 
