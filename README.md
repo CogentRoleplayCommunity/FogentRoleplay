@@ -10,7 +10,7 @@ All intellectual property (characters, brands, stories, desings, etc) contained 
 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
-![Alt text](images/CogentRoleplayAttribution_Wide.png)
+![Alt text](CogentRoleplayAttribution_Wide.png)
 
 ## [Creation Myth](CreationMyth/CreationMyth.md)
 
