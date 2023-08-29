@@ -1,4 +1,6 @@
-![Alt text](images/Places/Reddland/ReddlandMap.png)
+## Reddland
+
+![Alt text](ReddlandMap.png)
 
 #### A History of Conquest and Resilience
 
@@ -30,9 +32,9 @@ In accordance with the pact resulting from the "The Redd Blasphemy", Vex'halia R
 
 ### Reddwall
 
-![Alt text](images/Places/Reddland/Reddwall.png)
+![Alt text](Reddwall.png)
 
-![Alt text](images/Places/Reddland/ReddwallMap.png)
+![Alt text](ReddwallMap.png)
 
 Reddwall stands as the capital of Reddland, given its name for the massive red granite wall that surrounds it. Sitting atop the ruins of the previous capital of the Witch Queen Alana, Reddwall is littered with gothic superstructures made of varying colors of granite. Further from Castle Tearstone, structures are smaller, constructed of less desirable granite colors such as pale yellow or gray. As the construction nears Tearstone, shades of yellow transition to orange, then almost exclusively red as Tearstone is approached.
 
@@ -44,7 +46,7 @@ The legend of Killroy the Fool echoes throughout Reddland, encapsulating the eve
 
 "Once upon a time, in the now-land of Reddland, the tyrannical Siren Witch Queen Alana ruled with an iron grip, using her malevolent magic to control the minds of her subjects.
 
-![Alt text](images/Places/Reddland/TheWitchQueenAlana.png)
+![Alt text](TheWitchQueenAlana.png)
 
 During that era, the Siren's worship of the Moon Presence was viewed as heresy by the followers of Brightinist faith across the land of Terra. Serana Reddington, a devout Dhampir centurion serving in the Dawn Empire Legion, fervently sought the Emperor's blessing to liberate the lands from the clutches of the Witch Queen Alana. Although the Emperor granted her his approval, he provided no additional forces for the conquest, believing that if the oppressed people themselves did not rise up for their freedom, they did not deserve it.
 
