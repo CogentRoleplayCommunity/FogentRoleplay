@@ -1,4 +1,4 @@
-## Fellcrafts
+## Fellcraft
 
 The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Ichor.
 
@@ -45,46 +45,46 @@ Squares represent normal Fellcrafts. These can be accessed if you choose this if
 
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 
-![alt text](images/Fellcraft/FellcraftTree.png)
+![alt text](FellcraftTree.png)
 
 ### Fellcraft List
 
-#### [Polycraft](Fellcrafts/Polycraft.md)
+#### [Polycraft](Polycraft.md)
 
-#### [Blazecraft](Fellcrafts/Blazecraft.md)
+#### [Blazecraft](Blazecraft.md)
 
-#### [Hydrocraft](Fellcrafts/Hydrocraft.md)
+#### [Hydrocraft](Hydrocraft.md)
 
-#### [Electrocraft](Fellcrafts/Electrocraft.md)
+#### [Electrocraft](Electrocraft.md)
 
-#### [Terracraft](Fellcrafts/Terracraft.md)
+#### [Terracraft](Terracraft.md)
 
-#### [Galecraft](Fellcrafts/Galecraft.md)
+#### [Galecraft](Galecraft.md)
 
-#### [Cryocraft](Fellcrafts/Cryocraft.md)
+#### [Cryocraft](Cryocraft.md)
 
-#### [Naturecraft](Fellcrafts/Naturecraft.md)
+#### [Naturecraft](Naturecraft.md)
 
-#### [Toxicraft](Fellcrafts/Toxincraft.md)
+#### [Toxicraft](Toxincraft.md)
 
-#### [Soulcraft](Fellcrafts/Soulcraft.md)
+#### [Soulcraft](Soulcraft.md)
 
-#### [Shadowcraft](Fellcrafts/Shadowcraft.md)
+#### [Shadowcraft](Shadowcraft.md)
 
-#### [Mindcraft](Fellcrafts/Mindcraft.md)
+#### [Mindcraft](Mindcraft.md)
 
-#### [Ferracraft](Fellcrafts/Ferracraft.md)
+#### [Ferracraft](Ferracraft.md)
 
-#### [Sonocraft](Fellcrafts/Sonocraft.md)
+#### [Sonocraft](Sonocraft.md)
 
-#### [Hemacraft](Fellcrafts/Hemacraft.md)
+#### [Hemacraft](Hemacraft.md)
 
-#### [Spidercraft](Fellcrafts/Spidercraft.md)
+#### [Spidercraft](Spidercraft.md)
 
-#### [Plasmacraft](Fellcrafts/Plasmacraft.md)
+#### [Plasmacraft](Plasmacraft.md)
 
-#### [Stormcraft](Fellcrafts/Stromcraft.md)
+#### [Stormcraft](Stromcraft.md)
 
-#### [Magmacraft](Fellcrafts/Magmacraft.md)
+#### [Magmacraft](Magmacraft.md)
 
-#### [Blizzardcraft](Fellcrafts/Blizzardcraft.md)
+#### [Blizzardcraft](Blizzardcraft.md)
