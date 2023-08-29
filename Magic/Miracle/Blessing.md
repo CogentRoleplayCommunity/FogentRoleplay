@@ -1,4 +1,4 @@
-# Radiance
+# Blessing
 
 Users of Blessing can narratively attempt the following:
 
