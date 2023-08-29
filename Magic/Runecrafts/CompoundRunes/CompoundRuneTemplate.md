@@ -11,11 +11,13 @@
 
 13 - 16+ dice: 
 
+
 ### Attack Info
 
 Range Type: 
 
 Magic Combat Type: 
+
 
 ### Requirement
 
