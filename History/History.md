@@ -2,7 +2,7 @@
 
 ## The Twilight Age
 
-Thus commenced the Twilight Age, an era spanning 10,000 years during which Fellkin and Brightkin fought a relentless battle against the monstrous inhabitants of the planet. With sheer determination and the strength of their own blood and steel, the Bright Lord’s creations painstakingly carved out the first civilizations of Terra. These were times of conflict, where kingdoms succumbed to the perils of monsters, diseases, internal strife and each other.
+Following the Bright Lord's ascension, commenced the Twilight Age, an era spanning 10,000 years during which Fellkin and Brightkin fought a relentless battle against the monstrous inhabitants of the planet. With sheer determination and the strength of their own blood and steel, the Bright Lord’s creations painstakingly carved out the first civilizations of Terra. These were times of conflict, where kingdoms succumbed to the perils of monsters, diseases, internal strife and each other.
 
 ## The Dawn Age
 
