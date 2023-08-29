@@ -1,8 +1,8 @@
 # Dragonkin
 
-![Dragonkin](Dragonkin-Female.png)
+![alt_text](Dragonkin-Female.png)
 
-![alt_text]()
+![alt_text](Dragonkin-Male.png)
 
 Dragonkin trace their monstrous ancestry from the ancient dragons that bowed to the Bright lord. These monsters were grafted consciousness and the form of the Bright Lord.
 

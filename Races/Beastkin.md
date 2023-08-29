@@ -1,6 +1,6 @@
 # Beastkin
 
-![alt_text]()
+![alt_text](Beastkin.png)
 
 Beastkin or Lycans trace their monstrous ancestry from Werewolves and other Beastial monsters that bowed to the Bright Lord.
 
