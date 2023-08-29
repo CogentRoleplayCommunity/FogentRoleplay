@@ -6,4 +6,6 @@ The radiant Sun of Terra exhibits a mesmerizing cycle of colors. It initiates it
 
 ### The Continent
 
+![img]()
+
 The sprawling Continent stretches across the vast expanse of Terra, its colossal size dominating a large portion of the planet. Legend speaks of the Brights, in their valiant conquest of Terra, harnessing the power of mighty magma dragons and formidable wyrms dwelling deep within the planet's tectonic plates. These creatures, brought under the control of the Brights, played a pivotal role in unifying the fragmented landmasses of Terra, forging a cohesive and interconnected continent. Their subjugation became a testament to the indomitable spirit and dominion of the Brights over the sprawling lands they sought to conquer.
