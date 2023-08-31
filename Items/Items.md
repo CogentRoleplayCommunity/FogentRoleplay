@@ -36,10 +36,20 @@
 
 ### Potions
 
-#### [Vial of Healing Blood](Potions/VialOfHealingBlood.md)
+#### [Vial of Gradual Healing Blood](Potions/VialOfGradualHealingBlood/VialOfGradualHealingBlood.md)
+
+#### [Vial of Minor Healing Blood](Potions/VialOfMinorHealingBlood/VialOfMinorHealingBlood.md)
+
+#### [Vial of Medium Healing Blood](Potions/VialOfMediumHealingBlood/VialOfMediumHealingBlood.md)
+
+#### [Vial of Serious Healing Blood](Potions/VialOfSeriousHealingBlood/VialOfSeriousHealingBlood.md)
+
+#### [Vial of Fatal Healing Blood](Potions/VialOfFatalHealingBlood/VialOfFatalHealingBlood.md)
+
+#### [Vial of Revival Healing Blood](Potions/VialOfRevivalHealingBlood/VialOfRevivalHealingBlood.md)
 
 ### Unique Misc
 
-#### [Petty Brightstone](UniqueMisc/PettyBrightstone.md)
+#### [Petty Brightstone](UniqueMisc/PettyBrightstone/PettyBrightstone.md)
 
-#### [Mechanical Heart](UniqueMisc/MechanicalHeart.md)
+#### [Mechanical Heart](UniqueMisc/MechanicalHeart/MechanicalHeart.md)
