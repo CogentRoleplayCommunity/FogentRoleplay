@@ -7,8 +7,8 @@ All of Fallen's 3 magic systems (Fellcraft, Miracles, and Runecraft) are built o
 - Cantrip = Trick/Wonder/Sign
 - Magic Vocation = Fellkin/Brightkin/Runesmith
 
-### [Miracles](Magic/Miracles.md)
+### [Miracles](Miracles/Miracles.md)
 
-### [Fellcraft](Magic/Fellcraft.md)
+### [Fellcraft](Fellcraft/Fellcraft.md)
 
-### [Runecraft](Magic/Runecraft.md)
+### [Runecraft](Runecraft/Runecraft.md)
