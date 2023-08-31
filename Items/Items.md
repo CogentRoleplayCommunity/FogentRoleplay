@@ -8,7 +8,7 @@
 
 #### [Asclepius](UniqueWeapons/Asclepius/Asclepius.md)
 
-#### [Asher&#39;s Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
+#### [Asher's Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
 
 #### [Char](UniqueWeapons/Char/Char.md)
 
