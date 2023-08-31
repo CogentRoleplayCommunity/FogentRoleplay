@@ -1,6 +1,8 @@
 # Echo
 
-"What is a myth? An echo of the past in the future. I can hear it dear sister, can’t you…" - Lord Maxwell Reddington
+## Desc
+
+"What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…" - Lord Maxwell Reddington
 
 The superior arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone in a long forgotten cache by Dipper Despereaux.
 
@@ -13,3 +15,13 @@ In the end, peace was agreed upon between the two powers. Veronica was barren, s
 The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Redland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Redland Navy, until their eventual unexpected marriage.
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.
+
+## Info
+
+Item Type: Medium Sword
+
+Tier: Superior (+4)
+
+## Effects
+
+None

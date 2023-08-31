@@ -2,44 +2,44 @@
 
 ### Unique Weapons
 
-#### [Epilogue](UniqueItems/UniqueWeapons/Epilogue.md)
+#### [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
 
-#### [Adversary - Damaged](UniqueItems/UniqueWeapons/Adversary-Damaged.md)
+#### [Adversary - Damaged](UniqueWeapons/Adversary-Damaged/Adversary-Damaged.md)
 
-#### [Asclepius](UniqueItems/UniqueWeapons/Asclepius)
+#### [Asclepius](UniqueWeapons/Asclepius/Asclepius.md)
 
-#### [Asher&#39;s Arms Swordbreaker](UniqueItems/UniqueWeapons/Asher'sArmsSwordbreaker.md)
+#### [Asher&#39;s Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
 
-#### [Char](UniqueItems/UniqueWeapons/Char/Char.md)
+#### [Char](UniqueWeapons/Char/Char.md)
 
-#### [Dancing Moonlight](UniqueItems/UniqueWeapons/DancingMoonlight.md)
+#### [Dancing Moonlight](UniqueWeapons/DancingMoonlight/DancingMoonlight.md)
 
-#### [The Spear of Destiny](UniqueItems/UniqueWeapons/TheSpearOfDestiny.md)
+#### [The Spear of Destiny](UniqueWeapons/TheSpearOfDestiny/TheSpearOfDestiny.md)
 
-#### [Hew](UniqueItems/UniqueWeapons/Hew.md)
+#### [Hew](UniqueWeapons/Hew/Hew.md)
 
-#### [Monkey Staff](UniqueItems/UniqueWeapons/MonkeyStaff.md)
+#### [Monkey Staff](UniqueWeapons/MonkeyStaff/MonkeyStaff.md)
 
-#### [Talon - Replica](UniqueItems/UniqueWeapons/Talon-Replica.md)
+#### [Talon - Replica](UniqueWeapons/Talon-Replica/Talon-Replica.md)
 
-#### [Fang - Replica](UniqueItems/UniqueWeapons/Fang-Replica.md)
+#### [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)
 
-#### [Sirius&#39;s Sword](UniqueItems/UniqueWeapons/Sirius'sSword.md)
+#### [Sirius&#39;s Sword](UniqueWeapons/Siruis'sSword/Sirius'sSword.md)
 
-#### [Echo](UniqueItems/UniqueWeapons/Echo.md)
+#### [Echo](UniqueWeapons/Echo/Echo.md)
 
 ### Unique Armor
 
-#### [Dragonguard](UniqueItems/UniqueArmor/Dragonguard.md)
+#### [Dragonguard](UniqueArmor/Dragonguard/Dragonguard.md)
 
-#### [Guardian Shield](UniqueItems/UniqueArmor/GuardianShield.md)
+#### [Guardian Shield](UniqueArmor/GuardianShield/GuardianShield.md)
 
 ### Potions
 
-#### [Vial of Healing Blood](UniqueItems/Potions/VialOfHealingBlood.md)
+#### [Vial of Healing Blood](Potions/VialOfHealingBlood.md)
 
 ### Unique Misc
 
-#### [Petty Brightstone](UniqueItems/UniqueMisc/PettyBrightstone.md)
+#### [Petty Brightstone](UniqueMisc/PettyBrightstone.md)
 
-#### [Mechanical Heart](UniqueItems/UniqueMisc/MechanicalHeart.md)
+#### [Mechanical Heart](UniqueMisc/MechanicalHeart.md)
