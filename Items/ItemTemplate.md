@@ -5,4 +5,12 @@
 ## Desc
 
 
+
+## Info
+
+Item Type: 
+
+Tier: 
+
+
 ## Effects
