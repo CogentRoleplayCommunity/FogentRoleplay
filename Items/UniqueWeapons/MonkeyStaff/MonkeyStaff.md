@@ -10,7 +10,7 @@ A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the 
 
 Item Type: Small Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Reach Hafted Blunt
 
-Tier:
+Tier: Excellent (+3)
 
 ## Effects
 
