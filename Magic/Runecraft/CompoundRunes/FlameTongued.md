@@ -10,7 +10,7 @@ CL 4 and above: Rune is completed.
 
 ##### Requirement
 
-- INT Requirment: Level 1
+- INT Requirement: Level 1
 - Energy Required: 2 energy minimum
 - Rune slots required: 3
 - Rune of Fire: Level 2

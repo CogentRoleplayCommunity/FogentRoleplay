@@ -22,7 +22,7 @@ CL 3: 5 people, 1 min duration, 60 ft range
 
 ##### Requirement
 
-INT Requirment: 1
+INT Requirement: 1
 
 Energy Required: 1 energy minimum
 

@@ -20,11 +20,11 @@ Range Type: Touch
 
 ## Requirement
 
-INT Requirment: 0
+INT Requirement: 0
 
 Energy Required:  1
 
 Must know 1 of the following runes :
 
-- Body Rune
-- Air Rune
+- Body Rune (lvl 0)
+- Air Rune (lvl 0)

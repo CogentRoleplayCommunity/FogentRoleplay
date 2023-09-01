@@ -18,7 +18,7 @@ Range Type: Melee
 
 ## Requirement
 
-INT Requirment: 0
+INT Requirement: 0
 
 Energy Required: 1 energy minimum
 

@@ -16,7 +16,7 @@ When the oil appears, each creature standing in its area must succeed on an Acro
 
 ##### Requirement
 
-INT Requirment: 1
+INT Requirement: 1
 
 Energy Required: 1 energy minimum
 
