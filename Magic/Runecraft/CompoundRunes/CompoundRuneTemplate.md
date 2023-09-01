@@ -1,7 +1,7 @@
-## Name
+# Name
 
 
-### Dice Pool Size Effect
+## Dice Pool Size Effect
 
 0 -  4 dice: 
 
@@ -12,14 +12,14 @@
 13 - 16+ dice: 
 
 
-### Attack Info
+## Attack Info
 
 Range Type: 
 
 Magic Combat Type: 
 
 
-### Requirement
+## Requirement
 
 INT Requirment: 
 
