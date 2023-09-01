@@ -28,5 +28,3 @@ Runes Required:
 
 - Earth Rune (lvl 0)
 - Friction Rune (lvl 0)
-- Earth Rune (lvl 0)
-- Friction Rune (lvl 0)
