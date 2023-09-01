@@ -12,7 +12,7 @@
 13 - 16+ dice: 
 
 
-## Attack Info
+## Info
 
 Range Type: 
 
