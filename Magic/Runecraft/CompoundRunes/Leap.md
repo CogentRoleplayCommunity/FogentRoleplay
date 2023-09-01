@@ -18,11 +18,9 @@ The distance you can jump vertically also becomes the distance you fall without 
 
 Range Type: Touch
 
-## Requirement
+Energy Required:  1
 
 INT Requirement: 0
-
-Energy Required:  1
 
 Must know 1 of the following runes :
 

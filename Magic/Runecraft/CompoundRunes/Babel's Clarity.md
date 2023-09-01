@@ -16,14 +16,12 @@ This effect does not decode secret messages or arcane writting that is not part 
 
 ## Info
 
-Range Type: Touch
-
-## Requirement
-
-INT Requirement: 0
+Range Type: Melee
 
 Energy Required:  1
 
+INT Requirement: 0
+
 Runes Required:
 
-- Mind (lvl 0)
+- Mind Rune (lvl 0)

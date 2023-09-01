@@ -16,11 +16,9 @@ A willing and unarmored creature that you touch becomes enveloped in a protectiv
 
 Range Type: Melee
 
-## Requirement
+Energy Required: 1
 
 INT Requirement: 0
-
-Energy Required: 1 energy minimum
 
 Runes Required:
 

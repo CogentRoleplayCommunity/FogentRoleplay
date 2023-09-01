@@ -24,7 +24,7 @@ Armor Penetration: Strong
 
 INT Requirement: 0
 
-Energy Required: 1 energy minimum
+Energy Required: 1
 
 Runes Required:
 

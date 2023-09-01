@@ -14,13 +14,11 @@ You establish a telepathic connection with a friendly or charmed beast you touch
 
 ## Info
 
-Range Type: Touch
-
-## Requirement
-
-INT Requirement: 0
+Range Type: Melee
 
 Energy Required: 1
+
+INT Requirement: 0
 
 Runes Required:
 

@@ -29,17 +29,15 @@ This rune has the Long range type.
 
 13 - 16+ dice: 4d8 elemental determination dice
 
-### Attack Info
+### Info
 
 Range Type: Long
 
 Magic Combat Type: Focused
 
-### Requirement
+Energy Required: 1 energy minimum
 
 INT Requirement: 0
-
-Energy Required: 1 energy minimum
 
 Must know 4 of the following runes:
 

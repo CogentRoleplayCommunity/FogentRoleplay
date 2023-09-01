@@ -16,11 +16,9 @@ Range Type:
 
 Magic Combat Type:
 
-## Requirement
+Energy Required:  energy minimum
 
 INT Requirement:
-
-Energy Required:  energy minimum
 
 Runes Required:
 
