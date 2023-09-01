@@ -18,7 +18,7 @@ Range Type: Touch
 
 ## Requirement
 
-INT Requirment: 0
+INT Requirement: 0
 
 Energy Required: 1
 

@@ -18,7 +18,7 @@ Magic Combat Type:
 
 ## Requirement
 
-INT Requirment:
+INT Requirement:
 
 Energy Required:  energy minimum
 
