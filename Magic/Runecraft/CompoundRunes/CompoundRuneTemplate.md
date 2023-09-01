@@ -12,11 +12,13 @@
 
 ## Info
 
-Range Type:
+Range: 
 
-Magic Combat Type:
+Engaeable Opponents: 
 
-Energy Required:  energy minimum
+Armor Penetration: 
+
+Energy Required: 
 
 INT Requirement:
 
