@@ -16,19 +16,17 @@ When the oil appears, each creature standing in its area must succeed on an Acro
 
 ## Info
 
-<<<<<<< HEAD
 Range: Melee
 
 Engaeable Opponents: Focused
 
-INT Requirment: 0
-=======
 INT Requirement: 1
->>>>>>> 3a7ee76c96c88efcca477e7b245a4d83c05edc24
 
-Energy Required: 1 energy minimum
+Energy Required: 1 minimum
 
 Runes Required:
 
+- Earth Rune (lvl 0)
+- Friction Rune (lvl 0)
 - Earth Rune (lvl 0)
 - Friction Rune (lvl 0)
