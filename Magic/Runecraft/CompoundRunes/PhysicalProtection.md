@@ -24,5 +24,5 @@ Energy Required: 1 energy minimum
 
 Runes Required:
 
-- Gravity Rune
-- Body Rune
+- Gravity Rune (lvl 0)
+- Body Rune (lvl 0)
