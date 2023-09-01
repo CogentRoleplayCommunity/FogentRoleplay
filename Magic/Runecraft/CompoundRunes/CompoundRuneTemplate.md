@@ -1,30 +1,27 @@
 # Name
 
-
 ## Dice Pool Size Effect
 
-0 -  4 dice: 
+0 -  4 dice:
 
-5 -  8 dice: 
+5 -  8 dice:
 
-9 - 12 dice: 
+9 - 12 dice:
 
-13 - 16+ dice: 
-
+13 - 16+ dice:
 
 ## Info
 
-Range Type: 
+Range Type:
 
-Magic Combat Type: 
-
+Magic Combat Type:
 
 ## Requirement
 
-INT Requirment: 
+INT Requirment:
 
 Energy Required:  energy minimum
 
 Runes Required:
 
-- Rune
+- Rune (lvl )
