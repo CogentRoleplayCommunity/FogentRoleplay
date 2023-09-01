@@ -1,6 +1,5 @@
 # Fling
 
-
 ## Dice Pool Size Effect
 
 0 -  4 dice:
@@ -13,15 +12,15 @@
 
 ## Info
 
-Range Type: Ranged
+Range: Long
 
-Magic Combat Type: Standard
+Engaeable Opponents: Focused
 
-## Requirement
+Armor Penetration: Strong
 
-INT Requirment:
+INT Requirement: 0
 
-Energy Required:  energy minimum
+Energy Required: 1 energy minimum
 
 Runes Required:
 
