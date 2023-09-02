@@ -1,6 +1,6 @@
 # Oil Spill
 
-![img]()
+![img](OilSpill.png)
 
 Slick flamable greasy oil covers the ground in a circle centered on a point within range and turns it into difficult terrain for the duration.
 
@@ -22,9 +22,9 @@ Range: Melee
 
 Engaeable Opponents: Focused
 
-INT Requirement: 1
+INT Requirement: 0
 
-Energy Required: 1 minimum
+Energy Required: 1
 
 Runes Required:
 
