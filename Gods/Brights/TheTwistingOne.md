@@ -1,6 +1,6 @@
 # The Twisting One
 
-![Alt text](images/Brights/TheTwistingOne.png)
+![Alt text](TheTwistingOne.png)
 
 Aspect: Want, Growth, Change
 
