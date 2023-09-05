@@ -20,8 +20,8 @@ Armor Penetration:
 
 Energy Required: 
 
-INT Requirement:
+INT Requirement: 
 
-Runes Required:
+Runes Required: 
 
 - Rune (lvl )
