@@ -10,39 +10,39 @@ To draw a rune is not enough to have it take effect. First, a conscious being mu
 
 Pure Runes are the most basic states of reality and take raw energy as their inputs. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
 
-#### [Fire Rune](Runecrafts/PureRunes/FireRune.md)
+#### [Fire Rune](PureRunes/FireRune.md)
 
-#### [Earth Rune](Runecrafts/PureRunes/EarthRune.md)
+#### [Earth Rune](PureRunes/EarthRune.md)
 
-#### [Water Rune](Runecrafts/PureRunes/WaterRune.md)
+#### [Water Rune](PureRunes/WaterRune.md)
 
-#### [Air Rune](Runecrafts/PureRunes/AirRune.md)
+#### [Air Rune](PureRunes/AirRune.md)
 
-#### [Electricity Rune](Runecrafts/PureRunes/ElectricityRune.md)
+#### [Electricity Rune](PureRunes/ElectricityRune.md)
 
-#### [Cold Rune](Runecrafts/PureRunes/ColdRune.md)
+#### [Cold Rune](PureRunes/ColdRune.md)
 
-#### [Toxins Rune](Runecrafts/PureRunes/ToxinsRune.md)
+#### [Poison Rune](PureRunes/PoisonRune.md)
 
-#### [Blood Rune](Runecrafts/PureRunes/BloodRune.md)
+#### [Blood Rune](PureRunes/BloodRune.md)
 
-#### [Light Rune](Runecrafts/PureRunes/LightRune.md)
+#### [Light Rune](PureRunes/LightRune.md)
 
-#### [Dark Rune](Runecrafts/PureRunes/DarkRune.md)
+#### [Dark Rune](PureRunes/DarkRune.md)
 
-#### [Sound Rune](Runecrafts/PureRunes/SoundRune.md)
+#### [Sound Rune](PureRunes/SoundRune.md)
 
-#### [Body Rune](Runecrafts/PureRunes/BodyRune.md)
+#### [Body Rune](PureRunes/BodyRune.md)
 
-#### [Mind Rune](Runecrafts/PureRunes/MindRune.md)
+#### [Mind Rune](PureRunes/MindRune.md)
 
-#### [Soul Rune](Runecrafts/PureRunes/SoulRune.md)
+#### [Soul Rune](PureRunes/SoulRune.md)
 
-#### [Time Rune](Runecrafts/PureRunes/TimeRune.md)
+#### [Time Rune](PureRunes/TimeRune.md)
 
-#### [Strength Rune](Runecrafts/PureRunes/StrengthRune.md)
+#### [Strength Rune](PureRunes/StrengthRune.md)
 
-#### [Gravity Rune](Runecrafts/PureRunes/GravityRune.md)
+#### [Gravity Rune](PureRunes/GravityRune.md)
 
 ### Compound Runes
 
@@ -86,13 +86,11 @@ It is known that the body can be a vessel for runes, though the effect often lea
 
 #### Personal Runes
 
-Personal runes are easier to produces as they are constructed in a way that is most convienent to the users mind, though unreadable by any other's. A Runesmith can only have a certain amount of personal runes perpared as 
-
+Personal runes are easier to produces as they are constructed in a way that is most convienent to the users mind, though unreadable by any other's. A Runesmith can only have a certain amount of personal runes perpared as
 
 #### Standarized Runes
 
 Standarized Runes take longer to create as they can be cast by other characters besides the one that created it.
-
 
 ### Runecraft Roll
 
