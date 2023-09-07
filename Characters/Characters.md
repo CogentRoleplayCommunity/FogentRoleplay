@@ -14,7 +14,7 @@
 
 ### [Nivix](PC/Nivix/Nivix.md)
 
-### [SeraphinaRoseblood](PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
+### [Seraphina Roseblood](PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
 
 ### [Skuath Crimson](PC/SkuathCrimson/SkuathCrimson.md)
 
