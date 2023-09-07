@@ -6,7 +6,15 @@ Leodelphia is a Beastkin majority nation of tropical forests,expansive grassland
 
 ## Oasis
 
-Oasis is the capital of Leodelphia flanked by two great lakes on either side. A city of exotic colors, architecture, people and cuisine, it serves as one of the largest trade cities in all of Leodelphia. Traders, mercenaries, artists, and slavers flow in and out of the city every day.
+Oasis is a mainly Felinekin population. A city of exotic colors, architecture, people and cuisine, it serves as one of the largest trade city and capital of Leodelphia. Built in the heart of a jungle flanked by two great lakes on either side. Stone pyramids and dwellings built straight into the petrified gargantuan trees make up the majority of dwellings within Oasis, as the ground level routinly flood due to the proximity to the two lakes. Oasis has complex plumbing systems and captures rain water in water towers that sit atop a percentage of the grand trees. Travel between the various tree dwellings and stone pyramids is done via massive rope bridges that span as wide as roads in other cities.
+
+The Brightinist religion of Oasis permeates all aspects of life. The Beautiful One, the Bargainer, and the Ravenous Ones all have their followers within the city.
+
+The cast system of Oasis is extremely apperent to new commers, with locals content as part of day to day life. The massive tree dwellings that are not owned by the Leodelphia government for public use are owned by the Great Prides. They nobility and rich classes live near the canopy, with private rope bridges connecting to other of the great pride's trees dwellings. They live in absolute luxury, a stark contrast to to bussling city that occupies the lower portions of the trees. Each great house is headed by a male patriarch with many wives.
+
+The lower portions of the tree dwellings, seen as the less desirable but good enough commercail and average citizen use, are home to the rich cultural specticals and merchant bazars around every corner. The drug mirage is a major export of Oasis, coming from the neighboring desert known as the Great Emptiness. Being a large trade hub traders, mercenaries, artists, and slavers flow in and out of the city every day.
+
+The portions of Oasis closest to the jugle floor are regarded as the most dangerous areas in the city. Light barley makes it below and hostile creatures roam. Only the poor, desperate, or criminally inclined reside close to the ground level.
 
 
 ## The Raging Wildlands
@@ -48,5 +56,3 @@ All members of the Slumbering tribe indulge in Mirage. Believing Mirage to by th
 One of the nomadic tribes who call the Great Emptiness home, this Scorpionkin tribe is generally extremely hostile and wise to avoid. Generally only intentionally encountered when bartering for Mirage for the supplies they need to endure the harsh conditions of the Great Emptiness.
 
 Worshipping the Ravenous One, the members of the tribes ritualistically sacrifice would be captives and slaves to the great sand worms who roam the desert. The Ravenous Tribe sees these worms as descendants of their god.
-
-
