@@ -2,7 +2,7 @@
 
 ![alt_text](Krexis.png)
 
-[Link to character sheet]()
+[Link to character sheet](https://docs.google.com/spreadsheets/d/1RoliFNaZCZ6p8nevLTn-1Khcz0cAYuO0s-Dvev9g7TU/edit?usp=sharing)
 
 ## Backstory
 
