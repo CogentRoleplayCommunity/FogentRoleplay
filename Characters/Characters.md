@@ -1,21 +1,25 @@
 ## Player Characters
 
-### [Javk Wick](PC/JavkWick.md)
+### [Destin Shaffer](PC/DestinShaffer/DestinShaffer.md)
 
-### [Fanacrio](PC/Fanacrio.md)
+### [Elowyn Lovelace](PC/ElowynLovelace/ElowynLovelace.md)
 
-### [Destin Shaffer](PC/DestinShaffer.md)
+### [Fanacrio](PC/Fanacrio/Fanacrio.md)
 
-### [Uhtred Storm](PC/UhtredStorm.md)
+### [Grimwald Thornhelm](PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
 
-### [Skuath Crimson](PC/SkuathCrimson.md)
+### [Javk Wick](PC/JavkWick/JavkWick.md)
 
-### [Valkyrie Dreki](PC/ValkyrieDreki.md)
+### [Krexis](PC/Krexis/Krexis.md)
 
-### [Elowyn Lovelace](PC/ElowynLovelace.md)
+### [Nivix](PC/Nivix/Nivix.md)
 
-### [Grimwald Thornhelm](PC/GrimwaldThornhelm.md)
+### [SeraphinaRoseblood](PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
 
-### [Seraphina Roseblood](PC/SeraphinaRoseblood.md)
+### [Skuath Crimson](PC/SkuathCrimson/SkuathCrimson.md)
+
+### [Uhtred Storm](PC/UhtredStorm/UhtredStorm.md)
+
+### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
 
 ## Non Player Characters
