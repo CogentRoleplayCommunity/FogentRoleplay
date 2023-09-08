@@ -49,42 +49,42 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 
 ### Fellcraft List
 
-#### [Polycraft](Polycraft.md)
+#### [Polycraft](Polycraft/Polycraft.md)
 
-#### [Blazecraft](Blazecraft.md)
+#### [Blazecraft](Blazecraft/Blazecraft.md)
 
-#### [Hydrocraft](Hydrocraft.md)
+#### [Hydrocraft](Hydrocraft/Hydrocraft.md)
 
-#### [Electrocraft](Electrocraft.md)
+#### [Electrocraft](Electrocraft/Electrocraft.md)
 
-#### [Terracraft](Terracraft.md)
+#### [Terracraft](Terracraft/Terracraft.md)
 
-#### [Galecraft](Galecraft.md)
+#### [Galecraft](Galecraft/Galecraft.md)
 
-#### [Cryocraft](Cryocraft.md)
+#### [Cryocraft](Cryocraft/Cryocraft.md)
 
-#### [Naturecraft](Naturecraft.md)
+#### [Naturecraft](Naturecraft/Naturecraft.md)
 
-#### [Toxicraft](Toxincraft.md)
+#### [Toxicraft](Toxincraft/Toxincraft.md)
 
-#### [Soulcraft](Soulcraft.md)
+#### [Soulcraft](Soulcraft/Soulcraft.md)
 
-#### [Shadowcraft](Shadowcraft.md)
+#### [Shadowcraft](Shadowcraft/Shadowcraft.md)
 
-#### [Mindcraft](Mindcraft.md)
+#### [Mindcraft](Mindcraft/Mindcraft.md)
 
-#### [Ferracraft](Ferracraft.md)
+#### [Ferracraft](Ferracraft/Ferracraft.md)
 
-#### [Sonocraft](Sonocraft.md)
+#### [Sonocraft](Sonocraft/Sonocraft.md)
 
-#### [Hemacraft](Hemacraft.md)
+#### [Hemacraft](Hemacraft/Hemacraft.md)
 
-#### [Spidercraft](Spidercraft.md)
+#### [Spidercraft](Spidercraft/Spidercraft.md)
 
-#### [Plasmacraft](Plasmacraft.md)
+#### [Plasmacraft](Plasmacraft/Plasmacraft.md)
 
-#### [Stormcraft](Stromcraft.md)
+#### [Stormcraft](Stormcraft/Stormcraft.md)
 
-#### [Magmacraft](Magmacraft.md)
+#### [Magmacraft](Magmacraft/Magmacraft.md)
 
-#### [Blizzardcraft](Blizzardcraft.md)
+#### [Blizzardcraft](Blizzardcraft/Blizzardcraft.md)
