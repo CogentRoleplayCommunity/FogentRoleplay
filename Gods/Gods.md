@@ -18,6 +18,7 @@ Brights are a group of beings that are most commonly associated with the Bright 
 
 #### [The Ravenous One](Brights/TheRavenousOne/TheRavenousOne.md)
 
-### Non Bright Gods
+### The Moon Presence
 
-#### [The Moon Presence](NonBrights/TheMoonPresence/TheMoonPresence.md)
+#### [The Old One](TheMoonPresence/TheOldOne/TheOldOne.md)
+#### [The Young One](TheMoonPresence/TheYoungOne/TheYoungOne.md)
