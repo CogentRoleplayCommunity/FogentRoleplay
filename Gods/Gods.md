@@ -4,20 +4,20 @@
 
 Brights are a group of beings that are most commonly associated with the Bright Lord himself. The term Bright, should not be seen as an indication of the luminosity of the beings, but rather their association with the Bright Lord. In some cultures around Terra, Brights are also referred to as gods.
 
-#### [The Bright Lord](Brights/TheBrightLord.md)
+#### [The Bright Lord](Brights/TheBrightLord/TheBrightLord.md)
 
-#### [The Great Betrayer](Brights/TheGreatBetrayer.md)
+#### [The Great Betrayer](Brights/TheGreatBetrayer/TheGreatBetrayer.md)
 
-#### [The Twisting One](Brights/TheTwistingOne.md)
+#### [The Twisting One](Brights/TheTwistingOne/TheTwistingOne.md)
 
-#### [The Bound One](Brights/TheBoundOne.md)
+#### [The Bound One](Brights/TheBoundOne/TheBoundOne.md)
 
-#### [The Beautiful One](Brights/TheBeatifulOne.md)
+#### [The Beautiful One](Brights/TheBeatifulOne/TheBeatifulOne.md)
 
-#### [The Bargainer](Brights/TheBargainer.md)
+#### [The Bargainer](Brights/TheBargainer/TheBargainer.md)
 
-#### [The Ravenous One](Brights/TheRavenousOne.md)
+#### [The Ravenous One](Brights/TheRavenousOne/TheRavenousOne.md)
 
 ### Non Bright Gods
 
-#### [The Moon Presence](NonBrights/TheMoonPresence.md)
+#### [The Moon Presence](NonBrights/TheMoonPresence/TheMoonPresence.md)
