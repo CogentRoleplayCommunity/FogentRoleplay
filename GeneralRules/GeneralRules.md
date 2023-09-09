@@ -27,3 +27,5 @@
 ### [Range](CombatRules/Range.md)
 
 ### [Engageable Opponents](CombatRules/EngageableOpponents.md)
+
+### [Item Tier](CombatRules/ItemTier.md)
