@@ -6,7 +6,7 @@ On dead world, at the end of time, life begins once again…
 
 This world, known as Terra, revolves around a faded and dying star. Once, it was a flourishing world teeming with consciousness and vibrant life. However, it has now become a fallen apocalyptic realm, where only malevolent creatures roam. Their ceaseless hunt driven by the hunger for the conscious life that has long since vanished into oblivion. It drifts ceaselessly through the vast expanse of space, an eternal voyage through boundless void and darkness.
 
-![img](../Gods/Brights/TheBrightLord-Arrival.png)
+![img](../Gods/Brights/TheBrightLord/TheBrightLord-Arrival.png)
 
 However, a turning point emerged when a celestial entity, known as "the Bright Lord," descended upon Terra, accompanied by other ethereal beings referred to as the Brights or gods in various cultures. Moved by the plight of the mindless monstrosities that roamed the planet, the Bright Lord felt compassion for this lifeless realm. With a benevolent touch, he granted consciousness to those creatures that bowed before him, bestowing upon them the humanoid form akin to his own. This pivotal event came to be known as "The Awakening."
 
@@ -14,31 +14,31 @@ To aid the newly awakened beings in their struggle to survive and thrive in this
 
 The Beautiful One declared, "Thou has been given the passion of flesh to spread across the land."
 
-![img](../Gods/Brights/TheBeatifulOne.png)
+![img](../Gods/Brights/TheBeatifulOne/TheBeatifulOne.png)
 
 The Ravenous One commanded, "Thou shall indulge and consume of the world that I have granted."
 
-![img](../Gods/Brights/TheRavenousOne.png)
+![img](../Gods/Brights/TheRavenousOne/TheRavenousOne.png)
 
 The Bargainer proclaimed, "Thou shall seek prosperity in the wealth and secrets of the land."
 
-![img](../Gods/Brights/TheBargainer.png)
+![img](../Gods/Brights/TheBargainer/TheBargainer.png)
 
 The Bound One decreed, "Thou shall go without care for the opinions of the world."
 
-![img](../Gods/Brights/TheBoundOne.png)
+![img](../Gods/Brights/TheBoundOne/TheBoundOne.png)
 
 The Faithful One vowed, "Thou shall take up arms and seek righteous vengeance upon those who have betrayed and wronged you."
 
-![img](../Gods/Brights/TheGreatBetrayer.png)
+![img](../Gods/Brights/TheGreatBetrayer/TheGreatBetrayer.png)
 
 The Twisting One affirmed, "Thou shall recognize the success of one's neighbor and strive to attain greatness for oneself."
 
-![img](../Gods/Brights/TheTwistingOne.png)
+![img](../Gods/Brights/TheTwistingOne/TheTwistingOne.png)
 
 And finally, the Bright Lord himself spoke, "Thou are created in the image of greatness, and shall seek strength, knowledge, and greatness to be closer to I, but shall recognize thine greatness is from within thine own labors."
 
-![img](../Gods/Brights/TheBrightLord.png)
+![img](../Gods/Brights/TheBrightLord/TheBrightLord.png)
 
 Through this transformative event, a multitude of beings came into existence. The Bright Lord named these being "Fellkin", as they were of a fallen world.
 
@@ -70,7 +70,7 @@ Bathed in near endless night resulting from the fading star, the newly created i
 
 When the remaining Demon Lords of Terra began preying upon Fellkind, Amon embarked on a relentless war against them. Wielding the formidable Spear of Destiny, he waged a campaign of rampage and pursuit, extinguishing the existence of demons from Terra.
 
-![img](../Gods/Brights/TheGreatBetrayer.png)
+![img](../Gods/Brights/TheGreatBetrayer/TheGreatBetrayer.png)
 
 However, unsatisfied with the mere possibility of their return, Amon ventured to the very realm of the demons. There, he unleashed unyielding fury, tearing through their world with unrestrained might. Legends speak of Amon's boundless rage echoing across the demon realm for an eternity, all driven by his unwavering commitment to protecting those he cherished. The demons, recognizing his indomitable power, bestowed upon him the title of "The Demon of the West," for in time they considered him one of their own. Yet, upon his return, Amon had been forever changed.
 
