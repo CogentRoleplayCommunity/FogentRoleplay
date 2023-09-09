@@ -1,18 +1,18 @@
 ## Races
 
-### [Brightkin](Brightkin.md)
+### [Brightkin](Brightkin/Brightkin.md)
 
-### [Dhampire](Dhampire.md)
+### [Dhampire](Dhampir/Dhampire.md)
 
-### [Seakin](Seakin.md)
+### [Seakin](Seakin/Seakin.md)
 
-### [Beastkin](Beastkin.md)
+### [Beastkin](Beastkin/Beastkin.md)
 
-### [Chitinkin](Chitinkin.md)
+### [Chitinkin](Chitinkin/Chitinkin.md)
 
-### [Dragonkin](Dragonkin.md)
+### [Dragonkin](Dragonkin/Dragonkin.md)
 
-### [Crossbreed](Crossbreed.md)
+### [Crossbreed](Crossbreed/Crossbreed.md)
 
 ### More Race Ideas
 
