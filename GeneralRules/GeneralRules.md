@@ -4,6 +4,10 @@
 
 ### [Skill Rules](SkillRules.md)
 
+### [Healing Rules](HealingRules.md)
+
+### [Damage Types Rules](DamageTypesRules.md)
+
 ## Combat Rules
 
 ### [Victory Level Rules](VictoryLevelRules.md)
