@@ -10,18 +10,18 @@ A measure of a character's resistance to all physical injuries. A character can 
 
 ## Bodily Defense
 
-A measure of a character's resistance to affliction and status effect injuries. Determines your body's ability to handle resisting poisoning, blood clotting, freezing, etc. Wins determined by the roll below act as your defense against injury. The wins achieved by this are not reduced by an attacker's attack penetration.
+A measure of a character's resistance to affliction and status effect injuries. Determines your body's ability to handle resisting poisoning, blood clotting, freezing, etc. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's attack penetration.
 
 - Bodily Defense = Endurance Roll
 
 ## Mental Defense
 
-Mental defense is a measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll below act as your defense against injury. The wins achieved by this are not reduced by an attacker's attack penetration.
+Mental defense is a measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's attack penetration.
 
 - Mental Defense = Willpower Roll
 
 ## Spiritual Defense
 
-Spiritual defense is a measure of a character's bulwark against all spiritual injuries and influence.Wins determined by the roll below act as your defense against injury. The wins achieved by this are not reduced by an attacker's attack penetration.
+Spiritual defense is a measure of a character's bulwark against all spiritual injuries and influence.Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's attack penetration.
 
 - Spiritual Defense = Willpower Roll
