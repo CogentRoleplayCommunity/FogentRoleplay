@@ -34,7 +34,7 @@ If there is a difference in size between two creatures who have contested checks
 
 Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains (10 feet instead of 5 feet).
 
-# Mounts in combat
+## Mounts in combat
 
 - When a mounted character or their mount takes an injury in combat, a Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
 - If the character has the Ride vocational skill, when using a mount's movement speed instead of their own they can reduce the penalty associated with riding without any skill.
