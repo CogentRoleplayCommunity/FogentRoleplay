@@ -14,4 +14,4 @@ Tier:
 
 ## Effects
 
-[Fatal Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#supreme-heal)
+[Fatal Healing](../../../GeneralRules/NonCombatRules/Healing.md#fatal-heal)

@@ -1,6 +1,6 @@
 # Healing
 
-## Minor Healing Factor
+## Gradual Heal
 
 Minor injuries heal in one day.
 
@@ -26,9 +26,9 @@ For a higher tier injury, reduce the dice penalty of the  injury by 3. Injury re
 
 Can be used to reattach limbs as long as the limb is not completely destroyed.
 
-## Superior Heal
+## Fatal Heal
 
-Removes a Fatal  or lesser injury.
+Removes a Fatal or lesser injury.
 
 Can be used to regrow limbs and body parts.
 

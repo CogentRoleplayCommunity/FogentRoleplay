@@ -14,6 +14,4 @@ Tier:
 
 ## Effects
 
-### [Gradual Healing Factor](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-healing-factor)
-
-Minor injuries heal in one day. All other injuries heal over the next few days if maintained. Once healed they are downgraded to the injury level below.
+[Gradual Heal](../../../GeneralRules/NonCombatRules/Healing.md#gradual-heal)

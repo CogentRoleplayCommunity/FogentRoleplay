@@ -1,4 +1,4 @@
-# Vial of Minor Healing Blood
+Vial of Minor Healing Blood
 
 ## Desc
 
@@ -14,6 +14,4 @@ Tier: Quality (+1)
 
 ## Effects
 
-### [Minor Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#minor-heal)
-
-Removes a minor or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
+[Minor Heal](../../../GeneralRules/NonCombatRules/Healing.md#minor-heal)

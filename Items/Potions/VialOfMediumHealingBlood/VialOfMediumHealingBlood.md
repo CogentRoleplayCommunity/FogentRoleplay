@@ -14,6 +14,4 @@ Tier: Excellent (+3)
 
 ## Effects
 
-### [Medium Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#medium-heal)
-
-Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
+[Medium Heal](../../../GeneralRules/NonCombatRules/Healing.md#medium-heal)

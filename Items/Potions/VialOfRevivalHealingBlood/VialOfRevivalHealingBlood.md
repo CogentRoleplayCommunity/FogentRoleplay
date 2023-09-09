@@ -14,6 +14,4 @@ Tier:
 
 ## Effects
 
-### [Revival Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#revival-heal)
-
-Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance.
+[Revival Heal](../../../GeneralRules/NonCombatRules/Healing.md#revival-heal)
