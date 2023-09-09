@@ -34,7 +34,7 @@ Represented by circus performers or cat buglars. Covers movements requiring agil
 
 ### Perception
 
-Perception is the art of detecting things through the senses, such as sight sound or scent, it can even cover 'gut feelings' or intuition. It is used as the defence against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. While intellect can be vital in perception, it is the speed at which one notices things that can turn the tide in one's favour. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
+Perception is the art of detecting things through the senses, such as sight sound or scent. It is used as the defence against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. While intellect can be vital in perception, it is the speed at which one notices things that can turn the tide in one's favour. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
 
 ### Sleight of Hand
 
@@ -52,12 +52,12 @@ Represented by politicians or con men. It is a measure of your verbal and non-ve
 
 ### General Knowledge
 
-Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, applying deductive analysis, and applying it where it is needed most. It also It aids in many tasks while being very specifically only usable on non-specialized tasks.
+Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. It also It aids in many tasks while being very specifically only usable on non-specialized tasks.
 
 ### Survival
 
-Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments. It covers scavenging for food, basic first aid as well as finding safe places to rest and lighting fires. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
+Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments, it can even cover "gut feelings" or intuition. It covers scavenging for food, basic first aid as well as finding safe places to rest and lighting fires. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. It might also give you a gut feeling when a criminal deal turns out to be a ambush. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
 
 ### Willpower
 
-Represented by the . Measures a character's mental and spiritual control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, willpower also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
+Measures a character's mental and spiritual control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, willpower also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
