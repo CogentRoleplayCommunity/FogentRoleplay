@@ -1,3 +1,13 @@
-# General Rules
+# Rules
 
-## [Skill Rules](SkillRules.md)
+## General Rules
+
+### [Skill Rules](SkillRules.md)
+
+## Combat Rules
+
+### [Victory Level Rules](VictoryLevelRules.md)
+
+### [Combat Modifiers](CombatModifiers.md)
+
+### [Battlemap Rules](BattlemapRules.md)
