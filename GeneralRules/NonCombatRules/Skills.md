@@ -1,4 +1,4 @@
-# Skill Rules
+# Skills
 
 ## Skill Specialty
 

@@ -1,4 +1,4 @@
-# Battlemap Rules
+# Battlemap Combat
 
 ## Movement
 

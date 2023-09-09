@@ -1,4 +1,4 @@
-# Healing Rules
+# Healing
 
 ## Minor Healing Factor
 

@@ -1,4 +1,4 @@
-# Destiny Point Rules
+# Destiny Points
 
 ## Player vs Player (Optional)
 

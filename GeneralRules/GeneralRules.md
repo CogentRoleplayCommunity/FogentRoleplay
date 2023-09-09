@@ -2,27 +2,27 @@
 
 ## Non-Combat Rules
 
-### [Challenge Level](NonCombatRules/ChallengeLevelRules.md)
+### [Challenge Levels](NonCombatRules/ChallengeLevels.md)
 
-### [Skill Rules](NonCombatRules/SkillRules.md)
+### [Skills](NonCombatRules/Skills.md)
 
-### [Healing Rules](NonCombatRules/HealingRules.md)
-
-### [Damage Types Rules](NonCombatRules/DamageTypesRules.md)
+### [Healing](NonCombatRules/Healing.md)
 
 ### [Carry Weight](NonCombatRules/CarryWeight.md)
 
 ## Combat Rules
 
-### [Victory Level Rules](CombatRules/VictoryLevelRules.md)
+### [Victory Levels](CombatRules/VictoryLevels.md)
 
 ### [Combat Modifiers](CombatRules/CombatModifiers.md)
 
-### [Battlemap Rules](CombatRules/BattlemapRules.md)
+### [Battlemap Combat](CombatRules/BattlemapCombat.md)
+
+### [Damage Types](CombatRules/DamageTypes.md)
 
 ### [Weapon Modifiers](CombatRules/WeaponModifiers.md)
 
-### [Evasion Roll Rules](CombatRules/EvasionRollRules.md)
+### [Evasion Roll](CombatRules/EvasionRoll.md)
 
 ### [Range](CombatRules/Range.md)
 
