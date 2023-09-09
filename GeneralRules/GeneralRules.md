@@ -1,17 +1,21 @@
-# Rules
+# General Rules
 
-## General Rules
+## Non-Combat Rules
 
-### [Skill Rules](SkillRules.md)
+### [Challenge Level](NonCombatRules/ChallengeLevelRules.md)
 
-### [Healing Rules](HealingRules.md)
+### [Skill Rules](NonCombatRules/SkillRules.md)
 
-### [Damage Types Rules](DamageTypesRules.md)
+### [Healing Rules](NonCombatRules/HealingRules.md)
+
+### [Damage Types Rules](NonCombatRules/DamageTypesRules.md)
 
 ## Combat Rules
 
-### [Victory Level Rules](VictoryLevelRules.md)
+### [Victory Level Rules](CombatRules/VictoryLevelRules.md)
 
-### [Combat Modifiers](CombatModifiers.md)
+### [Combat Modifiers](CombatRules/CombatModifiers.md)
 
-### [Battlemap Rules](BattlemapRules.md)
+### [Battlemap Rules](CombatRules/BattlemapRules.md)
+
+### [Weapon Modifiers](CombatRules/WeaponModifiers.md)
