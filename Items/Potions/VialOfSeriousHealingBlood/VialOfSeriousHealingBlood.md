@@ -14,6 +14,4 @@ Tier:
 
 ## Effects
 
-### [Serious Heal](https://cogentroleplaycommunity.github.io/FogentRoleplay/#superior-heal)
-
-Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it. Can be used to reattach limbs as long as the limb is not completely destroyed.
+[Serious Heal](../../../GeneralRules/NonCombatRules/Healing.md#serious-heal)
