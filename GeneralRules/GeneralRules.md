@@ -10,6 +10,8 @@
 
 ### [Damage Types Rules](NonCombatRules/DamageTypesRules.md)
 
+### [Carry Weight](NonCombatRules/CarryWeight.md)
+
 ## Combat Rules
 
 ### [Victory Level Rules](CombatRules/VictoryLevelRules.md)
@@ -19,3 +21,9 @@
 ### [Battlemap Rules](CombatRules/BattlemapRules.md)
 
 ### [Weapon Modifiers](CombatRules/WeaponModifiers.md)
+
+### [Evasion Roll Rules](CombatRules/EvasionRollRules.md)
+
+### [Range](CombatRules/Range.md)
+
+### [Engageable Opponents](CombatRules/EngageableOpponents.md)
