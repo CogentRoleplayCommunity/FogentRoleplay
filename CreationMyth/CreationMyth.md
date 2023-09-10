@@ -42,13 +42,13 @@ And finally, the Bright Lord himself spoke, "Thou are created in the image of gr
 
 Through this transformative event, a multitude of beings came into existence. The Bright Lord named these being "Fellkin", as they were of a fallen world.
 
-![img](../Races/Beastkin.png)
+![img](../Races/Beastkin/Beastkin.png)
 
-![img](../Races/Chitinkin.png)
+![img](../Races/Chitinkin/Chitinkin.png)
 
-![img](../Races/Seakin.png)
+![img](../Races/Seakin/Seakin.png)
 
-![img](../Races/Dhampir-Male.png)
+![img](../Races/Dhampir/Dhampir-Male.png)
 
  Despite assuming humanoid forms, Fellkind retained the ability to tap into the genetic traits inherited from their monstrous origins. Fellkind learned to harness ichor, the potential energy held in the blood of monsters and Fellkind alike. As the gifted and disciplined among them delved deeper into their newfound powers, they shaped and refined these abilities, giving birth to what is now recognized as Fellcraft.
 
@@ -56,7 +56,7 @@ Through this transformative event, a multitude of beings came into existence. Th
 
 With a divine touch, the Bright Lord bestowed the blessing upon the most devoted daughters of Fellkind his offspring.These were the first demi-brights or Brightkin.
 
-![img](../Races/Brightkin.png)
+![img](../Races/Brightkin/Brightkin.png)
 
 The Bright Lord proclaimed their rightful dominion over Terra and Fellkind to his offspring, though they would have to seize their claim through their own endeavors. Unlike their Fellkind brethren, Brightkind bore no trace of monstrous traits. They possessed the extraordinary ability to perform Miracles, akin to the Bright Lord himself. While Fellcraft adhered to the natural laws of the world, Miracles appeared to regard them as mere suggestions, perplexing scholars to this very day. Immortality coursed through the veins of Brightkin, much like their celestial progenitor, rendering them virtually impervious to permanent demise.
 

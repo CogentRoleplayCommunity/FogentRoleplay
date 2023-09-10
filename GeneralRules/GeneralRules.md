@@ -6,7 +6,7 @@
 
 ### [Challenge Levels](NonCombatRules/ChallengeLevels.md)
 
-### [DestinyPoints](NonCombatRules/DestinyPoints.md)
+### [Destiny Points](NonCombatRules/DestinyPoints.md)
 
 ### [Healing](NonCombatRules/Healing.md)
 
