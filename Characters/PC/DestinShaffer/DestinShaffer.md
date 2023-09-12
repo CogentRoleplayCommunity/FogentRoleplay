@@ -37,7 +37,7 @@ Body Type: Yoked
 
 ## Goals/Aspirations
 
-- Find out where he came from and his biological parents.
+- Find out where he came from and who his biological parents are.
 
 ## Notable Items
 
