@@ -2,7 +2,7 @@
 
 ![alt_text](DestinShaffer.png)
 
-[Link to character sheet]()
+[Link to character sheet](https://docs.google.com/spreadsheets/d/1h_Mjt7xnpJBAMAfpJsWM3dx9fc0ozh0ABMwCuwyqdV0/edit?usp=sharing)
 
 Destin grew up in a small town outside of Redwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
 
