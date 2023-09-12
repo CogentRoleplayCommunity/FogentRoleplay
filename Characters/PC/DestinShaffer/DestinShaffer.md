@@ -38,7 +38,3 @@ Body Type: Yoked
 ## Goals/Aspirations
 
 - Find out where he came from and who his biological parents are.
-
-## Notable Items
-
-* [Char](../../../UniqueItems/UniqueWeapons/Char/Char.md)
