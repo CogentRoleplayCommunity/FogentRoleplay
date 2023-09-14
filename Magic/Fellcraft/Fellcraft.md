@@ -4,6 +4,12 @@ The monsters of Terra are known for their terrifying speed, strength, and elemen
 
 Due to their monstrous ancestry, Fellkind carries Ichor in their veins as well. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
 
+- Resource = Ichor
+- Magic Vocation = Fellkin
+- Magic Skills = Blazecraft, Mindcraft, Electrocraft, ect...
+- Cantrip = Trick
+- Vocation Attributes = STR, RFX, INT
+
 ### Fellcraft Roll
 
 This roll represents your abilities with a specific type of Fellcraft. A minimum of one Ichor is required to make a non-Trick Fellcraft Roll. Ichor up to the level in the user’s Fellkin vocation can be consumed, adding an additional d6 to the Fellcraft Roll for each Ichor consumed.
