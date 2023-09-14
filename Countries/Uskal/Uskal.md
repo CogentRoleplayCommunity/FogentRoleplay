@@ -1,5 +1,7 @@
 # Uskal
 
+![U](Uskal.png)
+
 In the far southern reaches, one can find the harsh and unforgiving Uskal Colonies. These colonies were established during the Dark Age when the demand for silver was high in the ongoing battle against the wild monsters that littered Terra. Beneath the icy surface of Uskal, valuable silver and other precious resources were discovered.
 
 The Dawn Empire, in need of silver for their war efforts against the monsters of Terra and seeking a place to dispose of undesirables, offered mudbloods, criminals, and prisoners an alternative to execution. Many individuals seized this opportunity and were transported to the Uskal Colonies to engage in the arduous work of mining and extracting precious resources.
