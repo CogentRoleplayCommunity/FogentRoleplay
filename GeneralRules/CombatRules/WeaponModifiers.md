@@ -32,20 +32,21 @@
 | Sling                             | +1d6                | +1d6                | 1           | Medium       |                    | Slow                | None               | None         | Sling Bullet  | STR,RFX,INT         |
 | Blowgun                           | +0d6                | +1d6                | 0           | Medium       |                    | Slow                | None               | None         | Blowgun Dart  | STR,RFX,INT         |
 
-## Bolts, Arrow, and Ammunition
+## Weapon Resources
 
-|      Description      | Item Dice | Penetration | Effective/Max Range |  Damage Type  | Area of Effect |
-| :--------------------: | :-------: | :---------: | :-----------------: | :-----------: | :------------: |
-|     Standard Arrow     |   +1d6   |      1      |        None        |    Pierce    |      None      |
-|     Wounding Arrow     |   +1d6   |      1      |        None        | Pierce, Bleed |      None      |
-|    Anti-armor Arrow    |   +1d6   |      3      |        None        |    Pierce    |      None      |
-|      Shoddy Arrow      |   +1d4   |      0      |        None        |    Pierce    |      None      |
-|     Standard Bolt     |   +1d6   |      1      |        None        |    Pierce    |      None      |
-|     Wounding Bolt     |   +1d6   |      1      |        None        | Pierce, Bleed |      None      |
-|    Anti-armor Bolt    |   +1d6   |      3      |        None        |    Pierce    |      None      |
-|      Shoddy Bolt      |   +1d4   |      0      |        None        |    Pierce    |      None      |
-| Standard Sling Bullets |   +1d6   |      0      |        None        |   Bludgeon   |      None      |
-|     Poison Needles     |   +1d6   |      1      |        None        |    Poison    |      None      |
+| Description            | Resource Class| Resource Dice| Penetration | Range Adjustment | Damage          | AOE          |
+|:----------------------:|:-------------:|:------------:|:-----------:|:----------------:|:---------------:|:------------:|
+| Standard Arrow         | Arrow         | +1d6         | 1           | None             | Pierce          | None         |
+| Wounding Arrow         | Arrow         | +1d6         | 1           | None             |  Pierce, Bleed  | None         |
+| Anti-armor Arrow       | Arrow         | +1d6         | 3           | None             | Pierce          | None         |
+| Shoddy Arrow           | Arrow         | +1d4         | 0           | None             | Pierce          | None         |
+| Standard Bolt          | Bolt          | +1d6         | 1           | None             | Pierce          | None         |
+| Wounding Bolt          | Bolt          | +1d6         | 1           | None             |  Pierce, Bleed  | None         |
+| Anti-armor Bolt        | Bolt          | +1d6         | 3           | None             | Pierce          | None         |
+| Shoddy Bolt            | Bolt          | +1d4         | 0           | None             | Pierce          | None         |
+| Standard Sling Bullets | Sling Bullet  | +1d6         | 0           | None             | Bludgeon        | None         |
+| Poison Needles         | Blowgun Dart  | +1d6         | 0           | None             | Poison          | None         |
+
 
 ## Unarmed
 
