@@ -17,3 +17,5 @@ Tier: Epic (+9)
 ## Effects
 
 ### Major Psychic Resistance
+
+-3 to victory levels received from Psychic damage.

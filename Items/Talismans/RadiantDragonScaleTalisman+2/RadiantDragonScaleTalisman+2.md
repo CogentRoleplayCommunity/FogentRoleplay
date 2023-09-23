@@ -13,3 +13,5 @@ Tier: Epic (+9)
 ## Effects
 
 ### Major Radiant Resistance
+
+-3 to victory levels received from Radiant damage.

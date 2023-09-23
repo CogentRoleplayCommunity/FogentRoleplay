@@ -15,3 +15,5 @@ Tier: Epic (+9)
 ## Effects
 
 ### Major Lightning Resistance
+
+-3 to victory levels received from Electric damage.

@@ -13,3 +13,5 @@ Tier: Epic (+9)
 ## Effects
 
 ### Major Cold Resistance
+
+-3 to victory levels received from Frost damage.

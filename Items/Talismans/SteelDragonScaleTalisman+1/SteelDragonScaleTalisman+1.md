@@ -15,3 +15,5 @@ Tier: Flawless (+6)
 ## Effects
 
 ### Med. Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
+
+-2 to victory levels received from Hew, Slash, Pierce, Bludgeon and Shockwave damage.

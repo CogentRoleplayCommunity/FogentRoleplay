@@ -13,3 +13,5 @@ Tier: Excellent (+3)
 ## Effects
 
 ### Minor Cold Resistance
+
+-1 to victory levels received from Frost damage.

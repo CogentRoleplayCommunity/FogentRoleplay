@@ -15,3 +15,5 @@ Tier: Excellent (+3)
 ## Effects
 
 ### Minor Fire Resistance
+
+-1 to victory levels received from Fire damage.

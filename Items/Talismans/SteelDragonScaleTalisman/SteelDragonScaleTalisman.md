@@ -15,3 +15,5 @@ Tier: Excellent (+3)
 ## Effects
 
 ### Minor Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
+
+-1 to victory levels received from Hew, Slash, Pierce, Bludgeon and Shockwave damage.

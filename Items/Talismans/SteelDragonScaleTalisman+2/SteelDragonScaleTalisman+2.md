@@ -15,3 +15,5 @@ Tier: Epic (+9)
 ## Effects
 
 ### Major Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
+
+-3 to victory levels received from Hew, Slash, Pierce, Bludgeon and Shockwave damage.

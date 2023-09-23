@@ -15,3 +15,5 @@ Tier: Excellent (+3)
 ## Effects
 
 ### Minor Electric Resistance
+
+-1 to victory levels received from Electric damage.

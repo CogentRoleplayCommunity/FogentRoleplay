@@ -15,3 +15,5 @@ Tier: Flawless (+6)
 ## Effects
 
 ### Med. Psychic Resistance
+
+-2 to victory levels received from Psychic damage.

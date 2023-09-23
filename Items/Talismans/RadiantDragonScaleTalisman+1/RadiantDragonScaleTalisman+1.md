@@ -13,3 +13,5 @@ Tier: Flawless (+6)
 ## Effects
 
 ### Med. Radiant Resistance
+
+-2 to victory levels received from Radiant damage.
