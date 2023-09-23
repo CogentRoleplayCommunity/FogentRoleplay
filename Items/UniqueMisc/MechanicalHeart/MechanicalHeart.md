@@ -1,5 +1,7 @@
 # Mechanical Heart
 
+![Copyright](MechanicalHeart.gif)
+
 ## Desc
 
 "With this Heart, I will hear many secrets…" - Unknown
