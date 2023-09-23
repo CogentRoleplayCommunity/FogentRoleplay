@@ -10,7 +10,7 @@ The process of creating Healing blood is a closely guarded secret of House Redin
 
 Item Type: Potion
 
-Tier:
+Tier: Legendary (+10)
 
 ## Effects
 
