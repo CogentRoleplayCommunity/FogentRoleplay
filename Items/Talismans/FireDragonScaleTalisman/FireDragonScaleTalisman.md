@@ -14,4 +14,4 @@ Tier: Excellent (+3)
 
 ## Effects
 
-### Minor Fire Resistance2
+### Minor Fire Resistance
