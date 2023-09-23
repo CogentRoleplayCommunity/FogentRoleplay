@@ -14,4 +14,4 @@ Tier: Uncommon
 
 ## Effects
 
-### Minor Physical Resistance
+### Minor Hew, Slash, Pierce, Bludgeon and Shockwave Resistance

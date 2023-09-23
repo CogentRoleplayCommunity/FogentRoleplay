@@ -14,4 +14,4 @@ Tier: Rare
 
 ## Effects
 
-### Med. Physical Resistance
+### Med. Hew, Slash, Pierce, Bludgeon and Shockwave Resistance

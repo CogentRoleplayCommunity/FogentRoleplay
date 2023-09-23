@@ -14,4 +14,4 @@ Tier: Very Rare
 
 ## Effects
 
-### Major Physical Defense
+### Major Hew, Slash, Pierce, Bludgeon and Shockwave Resistance

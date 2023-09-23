@@ -14,4 +14,4 @@ Tier: Legendary
 
 ## Effects
 
-### Extreme Physical Resistance
+### Extreme Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
