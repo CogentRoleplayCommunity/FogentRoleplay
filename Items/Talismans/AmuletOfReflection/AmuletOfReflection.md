@@ -10,7 +10,7 @@ First commissioned by Serana Reddington, never wanting to go with her plate.
 
 ## Info
 
-Item Type: Misc
+Item Type: Talisman
 
 Tier: Flawless (+6)
 
