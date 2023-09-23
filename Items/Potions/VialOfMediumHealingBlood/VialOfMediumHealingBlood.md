@@ -1,5 +1,7 @@
 # Vial of Medium Healing Blood
 
+![Copyright](VialOfHealingBlood.png)
+
 ## Desc
 
 Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
