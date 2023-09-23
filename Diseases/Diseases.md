@@ -6,13 +6,15 @@ Once infected, a victim cannot pass on Shard's disease to a
 
 The spore is an insidious parasitic fungus that exerts control over the brainstem of its unfortunate victims. Manifesting as a vibrant, luminous whitish-blue fungus, it releases airborne spores into the environment. Inhalation of even a small quantity of these spores leads to death within 1-3 months, while exposure to a significant amount results in rapid demise within a day to just a few minutes.
 
+![Copyright](TheSpore.png)
+
 Once deceased, there follows a peculiar 36-hour hibernation period, after which the deceased individuals awaken and embark on a relentless quest to infect new victims. Over time, the fungus gradually emerges from the decaying host, seeking a high vantage point from which to disperse its spores far and wide.
 
 During their dormant state, these infected individuals are referred to as carriers, serving as unwitting vessels for the propagation of the spore.
 
 ### Shards
 
-Shards is a disease were by venom or blood transfer, pass on trace amount of Shards to the victim. Ancient legends claim that only those consumed by malice can infect others. Since only exceptional rare and dangerous monsters carry the shards disease, these myths might hold some weight. 
+Shards is a disease were by venom or blood transfer, pass on trace amount of Shards to the victim. Ancient legends claim that only those consumed by malice can infect others. Since only exceptional rare and dangerous monsters carry the shards disease, these myths might hold some weight.
 
 Once infected, a victims cannot pass on Shard's disease to another victim. Small black crystalline structures begin to develop in the body, starting with the joints, moving to the brains. Movement is slowly reduced and the pain is immeasurable. The worst of it comes when it begins to develop in the brain, causing brain disfunction, waking nightmares, depression, raving madness, ect. The weaker or more hurt the victim is the faster it flares.
 
