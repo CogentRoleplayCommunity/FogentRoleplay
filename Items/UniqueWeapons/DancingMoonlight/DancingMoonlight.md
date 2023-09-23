@@ -1,5 +1,7 @@
 # Dancing Moonlight
 
+![Copyright](DancingMoonlight.jpg)
+
 ## Desc
 
 "Ah, you were at my side all along. My true mentor. My guiding moonlight." - Unknown

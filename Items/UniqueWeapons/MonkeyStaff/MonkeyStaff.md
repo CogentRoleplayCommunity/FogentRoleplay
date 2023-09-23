@@ -1,5 +1,7 @@
 # Monkey Staff
 
+![Copyright](MonkeyStaff.png)
+
 ## Desc
 
 "Monkey see, Monkey do" - Arinoth the Enlightened

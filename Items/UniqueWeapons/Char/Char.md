@@ -1,5 +1,9 @@
 # Char
 
+![Copyright](Char2.png)
+
+![Copyright](Char.png)
+
 ## Desc
 
 "It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday." -Destin Shaffer Sr.
