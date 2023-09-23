@@ -12,13 +12,11 @@ During Destin's confrontation with the Demon Helena, he sacrificed the damaged b
 
 Shattered and broken, Destin continues to carry this blade.
 
-
 ## Info
 
 Item Type: Greatsword
 
-Tier: Mundane (+0))
-
+Tier: Mundane (+0)
 
 ## Effects
 
