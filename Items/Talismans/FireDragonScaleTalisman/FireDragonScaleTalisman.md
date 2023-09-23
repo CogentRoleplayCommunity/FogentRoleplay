@@ -15,5 +15,3 @@ Tier: Uncommon
 ## Effects
 
 ### Minor Fire Resistance
-
--1 to victory levels received from Fire damage.
