@@ -1,5 +1,7 @@
 # Echo
 
+![Copyright](Echo.png)
+
 ## Desc
 
 "What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…" - Lord Maxwell Reddington
