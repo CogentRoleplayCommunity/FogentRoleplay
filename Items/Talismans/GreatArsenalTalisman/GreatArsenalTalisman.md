@@ -20,4 +20,4 @@ Tier: Epic (+9)
 
 ### Enhanced Lift
 
-+3 to Lift Skill
++3 to Lift Skill.

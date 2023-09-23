@@ -20,4 +20,4 @@ Tier: Flawless (+6)
 
 ### Enhanced Lift
 
-+2 to Lift Skill
++2 to Lift Skill.

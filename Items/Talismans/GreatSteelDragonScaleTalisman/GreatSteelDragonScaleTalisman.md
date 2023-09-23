@@ -15,3 +15,5 @@ Tier: Legendary (+10)
 ## Effects
 
 ### Extreme Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
+
+-4 to victory levels received from Hew, Slash, Pierce, Bludgeon and Shockwave damage.

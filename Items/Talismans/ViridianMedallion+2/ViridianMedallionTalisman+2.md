@@ -18,4 +18,4 @@ Tier: Epic (+9)
 
 ### Enhanced Endurance
 
-+3 to Endurance skill
++3 to Endurance skill.

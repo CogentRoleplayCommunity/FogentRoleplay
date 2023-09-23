@@ -20,4 +20,4 @@ Tier: Flawless (+6)
 
 ### Enhanced Stealth
 
-+1 to Stealth Skill
++1 to Stealth Skill.

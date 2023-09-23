@@ -20,4 +20,4 @@ Tier: Excellent (+3)
 
 ### Enhanced Lift
 
-+1 to Lift Skill
++1 to Lift Skill.

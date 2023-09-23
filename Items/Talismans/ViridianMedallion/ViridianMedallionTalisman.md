@@ -18,4 +18,4 @@ Tier: Excellent (+3)
 
 ### Enhanced Endurance
 
-+1 to Endurance skill
++1 to Endurance skill.

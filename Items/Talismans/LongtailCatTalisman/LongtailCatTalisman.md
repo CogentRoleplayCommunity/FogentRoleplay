@@ -18,4 +18,4 @@ Tier: Flawless (+6)
 
 ### Enhanced Acrobatics
 
-+1 to Acrobatic Skill
++1 to Acrobatic Skill.
