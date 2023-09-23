@@ -10,7 +10,7 @@ A larger wrought iron talisman in the shape of a greatshield with an imposing St
 
 Item Type: Talisman
 
-Tier: Legendary
+Tier: Legendary (+10)
 
 ## Effects
 

@@ -12,7 +12,7 @@ Greatly boosts maximum stamina.
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

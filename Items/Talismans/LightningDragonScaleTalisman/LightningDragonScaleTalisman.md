@@ -10,7 +10,7 @@ A metal talisman with a symbol evoking the image of lightning on it. This cheap 
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

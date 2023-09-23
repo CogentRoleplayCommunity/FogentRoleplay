@@ -10,7 +10,7 @@ A wrought iron talisman made with the visage of twin Steel Dragons. More rare an
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

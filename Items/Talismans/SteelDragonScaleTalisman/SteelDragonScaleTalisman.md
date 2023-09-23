@@ -10,7 +10,7 @@ A wrought iron talisman made with the visage of a mighty Steel Dragon. While qui
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

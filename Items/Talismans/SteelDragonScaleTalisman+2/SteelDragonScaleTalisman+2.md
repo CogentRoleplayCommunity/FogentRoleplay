@@ -10,7 +10,7 @@ A wrought iron talisman made with the visage of three Steel Dragons. This item i
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

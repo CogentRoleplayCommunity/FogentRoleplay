@@ -10,7 +10,7 @@ A metal talisman with twin symbols evoking the image of fire on it. This more po
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

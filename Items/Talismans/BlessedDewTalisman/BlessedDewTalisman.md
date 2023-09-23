@@ -10,7 +10,7 @@ It is the common knowledge that the dew of the morning has special healing prope
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

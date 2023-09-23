@@ -10,7 +10,7 @@ A talisman depicting a claw and an assassin.
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

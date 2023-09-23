@@ -14,7 +14,7 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

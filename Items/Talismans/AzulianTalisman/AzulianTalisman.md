@@ -6,15 +6,13 @@
 
 A medallion with azul inlaid.
 
-
-
 Boosts maximum magic resource.
 
 ## Info
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

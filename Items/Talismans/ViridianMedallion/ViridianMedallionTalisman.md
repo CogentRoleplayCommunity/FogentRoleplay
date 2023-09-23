@@ -6,15 +6,13 @@
 
 A medallion with viridian inlaid.
 
-
-
 Boosts maximum stamina.
 
 ## Info
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

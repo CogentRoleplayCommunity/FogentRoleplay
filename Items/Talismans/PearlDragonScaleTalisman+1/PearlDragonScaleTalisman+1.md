@@ -10,7 +10,7 @@ Talisman depicting a pearlescent ancient dragon.
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

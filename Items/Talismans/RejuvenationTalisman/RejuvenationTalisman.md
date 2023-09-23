@@ -10,7 +10,7 @@ A talisman made to enhance the healing process. A precious possession of doctors
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

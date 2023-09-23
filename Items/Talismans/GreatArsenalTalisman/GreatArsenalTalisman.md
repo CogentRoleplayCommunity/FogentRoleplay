@@ -6,11 +6,7 @@
 
 A charm that resembles a great jar overflowing with weaponry.
 
-
-
 Vastly boosts maximum equipment load.
-
-
 
 The great jar grants this talisman to their warriors. Carry as much as you can - grow big and strong.
 
@@ -18,7 +14,7 @@ The great jar grants this talisman to their warriors. Carry as much as you can -
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

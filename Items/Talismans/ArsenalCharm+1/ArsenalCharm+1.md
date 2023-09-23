@@ -6,11 +6,7 @@
 
 An iron charm that resembles a mass of weaponry.
 
-
-
 Greatly boosts maximum equipment load.
-
-
 
 This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance.
 
@@ -18,7 +14,7 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

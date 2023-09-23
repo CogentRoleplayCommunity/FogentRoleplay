@@ -8,7 +8,7 @@
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

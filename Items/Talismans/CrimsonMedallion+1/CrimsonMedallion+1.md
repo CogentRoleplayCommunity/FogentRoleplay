@@ -6,15 +6,13 @@
 
 A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
 
-
-
 Boosts maximum vitality.
 
 ## Info
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

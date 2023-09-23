@@ -14,7 +14,7 @@ The white-garbed field surgeons come to the aid of friend and foe alike by deali
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

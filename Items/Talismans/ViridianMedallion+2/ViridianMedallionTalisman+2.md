@@ -12,7 +12,7 @@ Vastly  boosts maximum stamina.
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

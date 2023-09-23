@@ -10,7 +10,7 @@ An assassin's dagger, misshapen and stained in azul.
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

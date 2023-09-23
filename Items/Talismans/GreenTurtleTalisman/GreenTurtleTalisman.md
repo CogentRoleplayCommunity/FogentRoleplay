@@ -6,11 +6,7 @@
 
 A talisman in the shape of a green turtle.
 
-
-
 Raises stamina recovery speed.
-
-
 
 Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
 
@@ -20,7 +16,7 @@ However, those who hold turtles to be wise creatures consider the practice of ea
 
 Item Type: Talisman
 
-Tier: Uncommon
+Tier: Excellent (+3)
 
 ## Effects
 

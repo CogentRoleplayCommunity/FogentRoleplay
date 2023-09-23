@@ -6,11 +6,7 @@
 
 Talisman put together from dark cloth, with a lustrous sheen.
 
-
-
 Conceals the wearer's presence, becoming slightly transparent at will.
-
-
 
 A common talisman of assassins.
 
@@ -18,7 +14,7 @@ A common talisman of assassins.
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

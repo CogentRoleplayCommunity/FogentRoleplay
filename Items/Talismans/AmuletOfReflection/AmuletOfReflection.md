@@ -12,7 +12,7 @@ First commissioned by Serana Reddington, never wanting to go with her plate.
 
 Item Type: Misc
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

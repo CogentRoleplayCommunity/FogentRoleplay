@@ -10,7 +10,7 @@ A metal talisman with two symbols evoking the image of lightning on it. This mor
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 

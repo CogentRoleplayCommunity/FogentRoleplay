@@ -6,15 +6,13 @@
 
 Talisman depicting a pearlescent ancient dragon.
 
-
-
 Vastly boosts psychic damage resistance.
 
 ## Info
 
 Item Type: Talisman
 
-Tier: Very Rare
+Tier: Epic (+9)
 
 ## Effects
 

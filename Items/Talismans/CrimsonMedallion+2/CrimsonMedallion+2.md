@@ -4,9 +4,7 @@
 
 ## Desc
 
-A medallion with Crimson amber inlaid. A precious talisman for protecting one's life. An essential tool of kings and queens looking for an edge in surviving assassination attempts. 
-
-
+A medallion with Crimson amber inlaid. A precious talisman for protecting one's life. An essential tool of kings and queens looking for an edge in surviving assassination attempts.
 
 Boosts maximum vitality.
 
@@ -14,7 +12,7 @@ Boosts maximum vitality.
 
 Item Type: Talisman
 
-Tier: Legendary
+Tier: Legendary  (+10)
 
 ## Effects
 

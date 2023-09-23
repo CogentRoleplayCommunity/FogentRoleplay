@@ -12,7 +12,7 @@ Enhances acrobatic skill.
 
 Item Type: Talisman
 
-Tier: Rare
+Tier: Flawless (+6)
 
 ## Effects
 
