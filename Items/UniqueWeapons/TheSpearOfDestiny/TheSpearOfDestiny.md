@@ -1,5 +1,7 @@
 # The Spear of Destiny
 
+![Copyright](TheSpearOfDestiny.jpg)
+
 ## Desc
 
 "Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again." - Ancient texts
