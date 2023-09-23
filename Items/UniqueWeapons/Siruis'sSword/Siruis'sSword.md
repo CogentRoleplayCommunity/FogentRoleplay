@@ -1,5 +1,7 @@
 # Siruis's Sword
 
+![Copyright](Siruis'sSword.png)
+
 ## Desc
 
 Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the Crossguard.
