@@ -66,6 +66,12 @@
 
 #### [Assassin's Crimson Talisman](Talismans/Assassin'sCrimsonTalisman/Assassin'sCrimsonTalisman.md)
 
+#### [](Talismans)
+
+#### [](Talismans)
+
+#### [](Talismans)
+
 #### [Blessed Dew Talisman](Talismans/BlessedDewTalisman/BlessedDewTalisman.md)
 
 #### [Claw Talisman](Talismans/ClawTalisman/ClawTalisman.md)
