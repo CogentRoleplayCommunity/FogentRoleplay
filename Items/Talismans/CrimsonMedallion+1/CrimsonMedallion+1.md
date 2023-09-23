@@ -1,6 +1,6 @@
 # Name
 
-![](CrimsonMedallion+1.png)
+![Copyrighted Image](CrimsonMedallion+1.png)
 
 ## Desc
 

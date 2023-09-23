@@ -1,6 +1,6 @@
 # Frost Dragon Scale Talisman
 
-![](FrostDragonScaleTalisman.png)
+![Copyrighted Image](FrostDragonScaleTalisman.png)
 
 ## Desc
 

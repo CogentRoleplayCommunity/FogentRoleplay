@@ -1,6 +1,6 @@
 # Green Turtle Talisman
 
-![](GreenTurtleTalisman.png)
+![Copyrighted Image](GreenTurtleTalisman.png)
 
 ## Desc
 

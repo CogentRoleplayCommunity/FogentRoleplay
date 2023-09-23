@@ -1,6 +1,6 @@
 # Pearl Dragon Scale Talisman +2
 
-![](PearlDragonScaleTalisman+2.png)
+![Copyrighted Image](PearlDragonScaleTalisman+2.png)
 
 ## Desc
 

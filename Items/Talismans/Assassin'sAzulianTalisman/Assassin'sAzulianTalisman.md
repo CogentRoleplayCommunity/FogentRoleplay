@@ -1,6 +1,6 @@
 # Assassin's Azulian Talisman
 
-![](Assassin'sAzulianTalisman.png)
+![Copyrighted Image](Assassin'sAzulianTalisman.png)
 
 ## Desc
 

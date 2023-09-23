@@ -1,6 +1,6 @@
 # Crimson Medallion +2
 
-![](CrimsonMedallion+2.png)
+![Copyrighted Image](CrimsonMedallion+2.png)
 
 ## Desc
 

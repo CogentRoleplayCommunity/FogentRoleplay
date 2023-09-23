@@ -1,6 +1,6 @@
 # Great-Jar Arsenal
 
-![](GreatArsenalTalisman.png)
+![Copyrighted Image](GreatArsenalTalisman.png)
 
 ## Desc
 

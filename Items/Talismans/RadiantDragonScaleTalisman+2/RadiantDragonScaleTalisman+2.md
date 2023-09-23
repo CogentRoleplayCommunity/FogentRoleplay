@@ -1,6 +1,6 @@
 # Radiant Dragon Scale Talisman +2
 
-![](RadiantDragonScaleTalisman+2.png)
+![Copyrighted Image](RadiantDragonScaleTalisman+2.png)
 
 ## Desc
 

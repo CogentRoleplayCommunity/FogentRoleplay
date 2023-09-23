@@ -1,6 +1,6 @@
 # Rejuvenation Talisman
 
-![](RejuvenationTalisman.png)
+![Copyrighted Image](RejuvenationTalisman.png)
 
 ## Desc
 

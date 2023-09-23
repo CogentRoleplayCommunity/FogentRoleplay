@@ -1,6 +1,6 @@
 # Amulet of Reflection
 
-![img](AmuletOfReflection.png)
+![Copyrighted Image](AmuletOfReflection.png)
 
 ## Desc
 

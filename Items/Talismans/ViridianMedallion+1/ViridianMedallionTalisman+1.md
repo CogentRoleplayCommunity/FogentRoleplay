@@ -1,6 +1,6 @@
 # Viridian Medallion +1
 
-![](ViridianMedallionTalisman+1.png)
+![Copyrighted Image](ViridianMedallionTalisman+1.png)
 
 ## Desc
 

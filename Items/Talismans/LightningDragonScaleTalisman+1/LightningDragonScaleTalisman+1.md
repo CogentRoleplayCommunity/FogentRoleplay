@@ -1,6 +1,6 @@
 # Lightning Dragon Scale Talisman +1
 
-![](LightningDragonScaleTalisman+1.png)
+![Copyrighted Image](LightningDragonScaleTalisman+1.png)
 
 ## Desc
 

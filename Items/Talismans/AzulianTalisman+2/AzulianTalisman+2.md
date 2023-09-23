@@ -1,6 +1,6 @@
 # Azulian Talisman +2
 
-![](AzulianTalisman+2.png)
+![Copyrighted Image](AzulianTalisman+2.png)
 
 ## Desc
 

@@ -1,6 +1,6 @@
 # Longtail Cat Talisman
 
-![](LongtailCatTalisman.png)
+![Copyrighted Image](LongtailCatTalisman.png)
 
 ## Desc
 

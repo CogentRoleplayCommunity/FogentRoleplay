@@ -1,6 +1,6 @@
 # Blessed Dew Talisman
 
-![](BlessedDewTalisman.png)
+![Copyrighted Image](BlessedDewTalisman.png)
 
 ## Desc
 

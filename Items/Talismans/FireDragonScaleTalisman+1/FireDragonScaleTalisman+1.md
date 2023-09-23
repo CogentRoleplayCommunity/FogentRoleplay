@@ -1,6 +1,6 @@
 # Fire Dragon Scale Talisman +1
 
-![](FireDragonScaleTalisman+1.png)
+![Copyrighted Image](FireDragonScaleTalisman+1.png)
 
 ## Desc
 

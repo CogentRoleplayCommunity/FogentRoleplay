@@ -1,6 +1,6 @@
 # Arsenal Charm +1
 
-![](ArsenalCharm+1.png)
+![Copyrighted Image](ArsenalCharm+1.png)
 
 ## Desc
 

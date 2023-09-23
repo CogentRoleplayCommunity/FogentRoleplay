@@ -1,6 +1,6 @@
 # Claw Talisman
 
-![](ClawTalisman.png)
+![Copyrighted Image](ClawTalisman.png)
 
 ## Desc
 

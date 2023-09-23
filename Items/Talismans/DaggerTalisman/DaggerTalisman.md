@@ -1,6 +1,6 @@
 # Dagger Talisman
 
-![](DaggerTalisman.png)
+![Copyrighted Image](DaggerTalisman.png)
 
 ## Desc
 

@@ -1,6 +1,6 @@
 # Steel Dragon Scale Talisman
 
-![](SteelDragonScaleTalisman.png)
+![Copyrighted Image](SteelDragonScaleTalisman.png)
 
 ## Desc
 

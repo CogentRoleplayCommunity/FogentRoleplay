@@ -1,6 +1,6 @@
 # Concealing Veil
 
-![](ConcealingVeil.png)
+![Copyrighted Image](ConcealingVeil.png)
 
 ## Desc
 

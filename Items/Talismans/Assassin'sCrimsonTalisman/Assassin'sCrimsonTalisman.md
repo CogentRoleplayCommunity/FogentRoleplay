@@ -1,6 +1,6 @@
 # Assassin's Crimson Talisman
 
-![](Assassin'sCrimsonTalisman.png)
+![Copyrighted Image](Assassin'sCrimsonTalisman.png)
 
 ## Desc
 
