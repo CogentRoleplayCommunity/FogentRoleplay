@@ -1,4 +1,4 @@
-# Great-Jar Arsenal
+# Great Arsenal Talisman
 
 ![Copyrighted Image](GreatArsenalTalisman.png)
 
