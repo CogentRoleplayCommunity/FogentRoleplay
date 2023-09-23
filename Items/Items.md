@@ -72,6 +72,12 @@
 
 #### [Concealing Veil Talisman](Talismans/ConcealingVeilTalisman/ConcealingVeil.md)
 
+#### [Crimson Medallion](Talismans/CrimsonMedallion/CrimsonMedallion.md)
+
+#### [Crimson Medallion +1](Talismans/CrimsonMedallion+1/CrimsonMedallion+1.md)
+
+#### [Crimson Medallion](Talismans/CrimsonMedallion+2/CrimsonMedallion+2.md)
+
 #### [Dagger Talisman](Talismans/DaggerTalisman/DaggerTalisman.md)
 
 #### [Fire Dragon Scale Talisman](Talismans/FireDragonScaleTalisman/FireDragonScaleTalisman.md)
