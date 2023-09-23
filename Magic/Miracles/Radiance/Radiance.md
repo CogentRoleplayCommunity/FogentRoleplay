@@ -1,5 +1,7 @@
 # Radiance
 
+![Copyright](Radiance.png)
+
 Radiance users can narratively attempt the following:
 
 - Create light (hard light, illusions, etc...)
