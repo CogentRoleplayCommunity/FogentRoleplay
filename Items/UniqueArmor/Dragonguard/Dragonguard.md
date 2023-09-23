@@ -1,5 +1,7 @@
 # Dragonguard
 
+![Copyright](Dragonguard.webp)
+
 ## Desc
 
 This superior runecrafted breastplate has a dragon motif etched into its design. Created for Lord Maxwell Reddington for his treks into the catacombs beneath Redwall. This armor provides good protection for the wearer's vital organs.
