@@ -1,5 +1,6 @@
 # Adversary - Damaged
 
+![Copyrighted Image](Adversary.png)
 
 ## Desc
 
@@ -28,3 +29,6 @@ This weapon is physical light, and can be absorbed and summoned by a those with 
 ### Hilt Gem
 
 The hilt gem of this radaince conduit is missing. Any gem capable of storing light installed for additional light reserves.
+
+### Radiance Conduit
+Acts as a Radiance focus, meaning it can be used to modify the base dice of all Radiance rolls.
