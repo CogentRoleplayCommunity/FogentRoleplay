@@ -62,15 +62,15 @@
 
 #### [Arsenal Charm +1](Talismans/ArsenalCharm+1/ArsenalCharm+1.md)
 
-#### [Assassin's Azulian Talisman](Talismans/Assassin'sAzulianTalisman/Assassin'sAzulianTalisman.md)
+#### [Assassin&#39;s Azulian Talisman](Talismans/Assassin'sAzulianTalisman/Assassin'sAzulianTalisman.md)
 
-#### [Assassin's Crimson Talisman](Talismans/Assassin'sCrimsonTalisman/Assassin'sCrimsonTalisman.md)
+#### [Assassin&#39;s Crimson Talisman](Talismans/Assassin'sCrimsonTalisman/Assassin'sCrimsonTalisman.md)
 
-#### [](Talismans)
+#### [Azulian Talisman](Talismans/AzulianTalisman/AzulianTalisman.md)
 
-#### [](Talismans)
+#### [Azulian Talisman +1](Talismans/AzulianTalisman+1/AzulianTalisman+1.md)
 
-#### [](Talismans)
+#### [Azulian Talisman +2](Talismans/AzulianTalisman+2/AzulianTalisman+2.md)
 
 #### [Blessed Dew Talisman](Talismans/BlessedDewTalisman/BlessedDewTalisman.md)
 
