@@ -24,9 +24,9 @@ Tier: Artifact (+12)
 
 Strength and reflex are set to level 3.
 
-### Weather Manipulation
+### Weather Manipulation Conduit
 
-Character gains level 4 in Galecraft, Electrocraft, and Cryocraft.
+Character gains level 4 in Galecraft, Electrocraft, and Cryocraft. This weapon acts as a conduit for Galecraft, Electrocraft, and Cryocraft.
 
 ### Destiny Chosen
 
