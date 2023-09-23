@@ -1,5 +1,7 @@
 # Hew
 
+![Copyright](Hew.png)
+
 ## Desc
 
 "When you chop wood, splinters fly."  - Anonymous
