@@ -10,7 +10,7 @@
 
 This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp, this is a fine sword.
 
-A relatively unknown Runecraft to the wider populace, this sword is highly debated by scholars of war and Runecrafts. “Ending”, “Epilogue”, “The Last Word”, “An Ending to things”, ect… are all names for what scholars believe is the same sword recorded across many myths from various cultures, long into the past. Always described as a slender, long, graceful sword as easy to use in one hand as two. This sword seems to end up in the hands of ill fated rogues and rebels.
+A relatively unknown Runecraft to the wider populace, this sword is highly debated by scholars of war and Runecrafts. "Ending", "Epilogue", "The Last Word", "An Ending to things", ect… are all names for what scholars believe is the same sword recorded across many myths from various cultures, long into the past. Always described as a slender, long, graceful sword as easy to use in one hand as two. This sword seems to end up in the hands of ill fated rogues and rebels.
 
 Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
 
