@@ -4,6 +4,8 @@
 
 ![Copyright](Epilogue2.jpg)
 
+![Copyright](Epilogue3.jpg)
+
 ## Desc
 
 "There is no real ending. It's just a place where you stop the story."
