@@ -56,7 +56,7 @@
 
 ### Talismans
 
-#### [Amulet Of Reflection](Talismans/AmuletOfRefelection/AmuletOfReflection.md)
+#### [Amulet Of Reflection](Talismans/AmuletOfReflection/AmuletOfReflection.md)
 
 #### [Arsenal Charm](Talismans/ArsenalCharm/ArsenalCharm.md)
 
