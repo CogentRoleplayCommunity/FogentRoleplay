@@ -24,7 +24,7 @@
 
 #### [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)
 
-#### [Sirius&#39;s Sword](UniqueWeapons/Siruis'sSword/Sirius'sSword.md)
+#### [Sirius's Sword](UniqueWeapons/Siruis'sSword/Siruis'sSword.md)
 
 #### [Echo](UniqueWeapons/Echo/Echo.md)
 
