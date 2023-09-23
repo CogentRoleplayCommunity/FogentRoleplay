@@ -16,4 +16,4 @@ Tier: Excellent (+3)
 
 ### Life Leech
 
-Sneak attacks trigger an Minor Heal to self
+Sneak attacks trigger an Minor Heal to self.
