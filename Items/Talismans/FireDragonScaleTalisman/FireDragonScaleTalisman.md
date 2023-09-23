@@ -14,4 +14,4 @@ Tier: Uncommon
 
 ## Effects
 
-### Minor Fire Resistance
+### Minor Fire Resistance2
