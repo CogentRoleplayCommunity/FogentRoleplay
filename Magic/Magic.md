@@ -17,7 +17,7 @@ This document provides generalized rules for magic system mechanics built to int
 
 ## Magic Resource
 
-Magic Resources are consumed to use magic. Wether it be mana
+Magic Resources are consumed to use magic.
 
 - +3 to Magic Resource pool per Magic Vocation level
 
@@ -54,8 +54,8 @@ The Range type for non cantrip ranged attacks changes depending on the user's sk
 
 | Skill level |  Range Type  |
 | :---------: | :----------: |
-|     -1      |    Close     |
-|      0      |    Short     |
+|     -1     |    Close    |
+|      0      |    Short    |
 |      1      |    Medium    |
 |      2      |   Extended   |
 |      3      |     Long     |
@@ -157,15 +157,15 @@ Represents a character unleashing an attack over an area centered on a point. If
 
 | Magic Roll | Circle Radius |
 | :--------: | :-----------: |
-|   1 dice   |    2.5 ft     |
-|   2 dice   |     5 ft      |
-|   3 dice   |    7.5 ft     |
+|   1 dice   |    2.5 ft    |
+|   2 dice   |     5 ft     |
+|   3 dice   |    7.5 ft    |
 |   4 dice   |     10 ft     |
 |   5 dice   |    12.5 ft    |
 |   6 dice   |     15 ft     |
 |   7 dice   |    17.5 ft    |
 |   8 dice   |     20 ft     |
 |   9 dice   |    22.5 ft    |
-|  10 dice   |     25 ft     |
-|  11 dice   |    27.5 ft    |
-|  12 dice   |     30 ft     |
+|  10 dice  |     25 ft     |
+|  11 dice  |    27.5 ft    |
+|  12 dice  |     30 ft     |
