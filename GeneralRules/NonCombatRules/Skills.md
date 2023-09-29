@@ -8,6 +8,25 @@ Once a dice pool for a given skill check is equal to or greater than 8 you are c
 - The check is not a contested check.
 - The check is not a reflexive action.
 
+## Weapon Skill Transfer
+
+For melee weapons, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap between weapon skills. Starting on with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may access the other side of the table as if it were right beside it. You cannot go below 0 on a skill.
+
+| Class<br />/Size | Hafted                               | Blade                               | Spear       |
+| ---------------- | ------------------------------------ | ----------------------------------- | ----------- |
+| **Small**  | Small Hafted Blunt/Blade/Axe/Point   | Small Thrusting/Slashing Blade      |             |
+| **Medium** | Medium Hafted Blunt/Blade/Axe/Point | Medium Thrusting/Slashing Sword    |             |
+| **Large**  | Large Hafted Blunt/Blade/Axe/Point  | Large Thrusting/Slashing Sword     | Short Spear |
+| **Reach**  | Reach Hafted Blunt/Blade/Axe/Point  | Thrusting/Slashing Blade Greatsword | Long Spear  |
+
+For bows and crossbows, having a proper base, judging the distance, leading your targets,  aiming and releasing the projectile smoothly are examples of the overlap. However, bows are significantly harder to use than crossbows. Each right jump (bows to crossbows) or vertical jump (up and down on the table) is -1 reduction to the skill you've moved to. Each left jump (crossbows to bows) is a -2 reduction to the skill you've moved to. You cannot go below 0 on a skill.
+
+| Class<br />/Size | Bows      | Crossbows      |
+| ---------------- | --------- | -------------- |
+| **Hand**   |           | Hand Crossbow  |
+| **Light**  | Light Bow | Light Crossbow |
+| **Heavy**  | Heavy Bow | Heavy Crossbow |
+
 ## Strength Core Skills
 
 ### Athletics
