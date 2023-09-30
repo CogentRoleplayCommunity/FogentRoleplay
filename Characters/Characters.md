@@ -25,3 +25,5 @@
 ### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
 
 ## Non Player Characters
+
+### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
