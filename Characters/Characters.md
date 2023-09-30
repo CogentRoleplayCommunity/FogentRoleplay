@@ -27,3 +27,5 @@
 ## Non Player Characters
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
+
+### [Killroy Crimson](NPC/KillroyCrimson/KillroyCrimson.md)
