@@ -4,7 +4,7 @@
 
 ## Backstory
 
-Killroy arrived in Reddwall along with Vex'hilla Reddington after both of them had been stranded on an island at sea that existed on no maps for 5 years. Only having eachother to rely upon while stranded, the two formed an unshakable bond. He his utterly in love with Vex'hilla. Killroy mysteriously can't remember anything before Vex'hilla arriving arriving on the island...
+Killroy arrived in Reddwall along with Vex'hilla Reddington after both of them had been stranded on an island at sea that existed on no maps for 4 years. Only having eachother to rely upon while stranded, the two formed an unshakable bond. He his utterly in love with Vex'hilla. Killroy mysteriously can't remember anything before Vex'hilla arriving arriving on the island...
 
 Killroy has had a rough time adapting to city life in Reddwall. Lady and Lord Reddington, grateful to Killroy for saving their daughters life, adopted him as their personal ward, tutoring him in reading, writing, swordmanship, ect... Killroy became friends with Luc Lightbringer, as both shared a passion for swordmanship, philosophy, books, and engineering. While Luc looks down on Crossbreed in general, he repects Killroy's shear determination.
 
@@ -22,7 +22,7 @@ Age: 16
 
 Race: Crossbreed
 
-Height: 5'9"
+Height: 5'8"
 
 Body Type: Frail
 
