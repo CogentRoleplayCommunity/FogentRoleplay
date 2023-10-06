@@ -3,11 +3,12 @@
 This document provides generalized rules for magic system mechanics built to integrate with Cogent Roleplay. Once you understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor. If you are playing Fallen, you will probably just use the premade magic systems. But if you were wanting to make your own magic system for your own world, the generalized magic system mechanics are a great scaffolding.
 
 - Magic Name = Fellcraft/Miracles/Runecraft
+- Magic Vocation = Fellkin/Brightkin/Runesmith
 - Magic Resource = Ichor/Light/Energy
 - Cantrip = Trick/Wonder/Sign
-- Magic Vocation = Fellkin/Brightkin/Runesmith
+- Governing Core Skill = Endurnace/Willpower/Willpower
 
-## Premade Magic systems
+## Fallen Magic systems
 
 ### [Miracles](Miracles/Miracles.md)
 
@@ -20,20 +21,25 @@ This document provides generalized rules for magic system mechanics built to int
 Magic Resources are consumed to use magic.
 
 - +3 to Magic Resource pool per Magic Vocation level
+- +1 to Magic Resource pool per Governing Skill
 
-### Resting for Resource
+### Resting for Magic Resource
 
-Depending on your magic system, maintaining one's physical health can restore Resource over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. For instance a short nap might only regain a single point, whereas a long night's rest with a warm meal could restore full Resource.
+Depending on your magic system, maintaining one's physical health can restore Magic Resource over time.
 
-The narrator should give more Resource to characters with a higher Magic Vocation level.
+#### Short Resting
 
-### Absorbing Resource
+A short rest takes roughly 1 hour does nothing demanding. Durning this time they can tend to wounds, eat, drink, or relax.
 
-Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
+Once per day, characters can regain Magic Resource equal to the wins from their Governing Core Skill roll (remember you can assist with your Magic Vocation).
 
-### Finding Resource
+#### Long Resting
 
-Depending on your magic system, character might be able to regain magic resource via collecting
+This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels. A long rest of roughly 8 hours of downtime. Durning this downtime, at least 6 hours must be devoted to sleep. While being awake for no more than 2 hours of a long rest, characters can treat wounds, eat, drink, relax, and stand watch.
+
+### Absorbing Magic Resource
+
+Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Magic Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
 
 ## Magic Roll
 
@@ -45,8 +51,15 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 
 Cantrips are uses of Magic that use an insignificant amount of Resource. In general, Cantrips should be small and happen close to the user. Igniting your fingertips to light a cigar, or creating a gentle breeze are all examples of Cantrips. Cantrips attacks are considered the weakest form of offense, only used in dire situations or for utility.
 
-- Unaffected by Magic assists (as no Resource is consumed)
-- Resource Requirement: 0 (No Resource can be used to increase dice)
+- Unaffected by Magic assists (as no Magic Resource is consumed)
+- Resource Requirement: 0
+
+## Governing Core Skill
+
+A governing core skill is used for instances when a character over exerts themselves with their magic too far or is trying to rapidly regain Magic Resource. 
+
+* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
+* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
 
 ## Magic Range
 
@@ -65,7 +78,7 @@ The Range type for non cantrip ranged attacks changes depending on the user's sk
 
 If a Magic Skill has a range adjustment it is either moved up or down the table above.
 
-For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment,  my magic skill has an Extended Range Type.
+For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
 ## Magic in Combat
 
@@ -73,46 +86,52 @@ For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment,  
 
 ### Melee Cantrip
 
-- Requires Level -1 in specific Magic skill
-- Armor Penetration = Magic Roll/8 rounded down
-- Effective Range = Melee
+Requires Level -1 in specific Magic skill
+
+- Penetration: Magic Roll/8 rounded down
+- Effective Range: Melee
 - Engageable Opponents: Rapid
-- Unaffected by Magic Vocation assists (as no Resource is consumed)
 - Resource Requirement: 0
+- Unaffected by Magic Vocation assists (as no Resource is consumed)
 
 ### Ranged Cantrip
 
-- Requires Level -1 in specific Magic skill
-- Armor Penetration = Magic Roll/8 rounded down
+Requires Level -1 in specific Magic skill
+
+- Penetration = Magic Roll/8 rounded down
 - Effective Range = Close
 - Engageable Opponents: Focused
+- Resource Requirement: 0
 - Unaffected by Magic Vocation assists (as no Resource is consumed)
-- Ichor Requirement: 0
 
 ### Melee
 
-- Requires Level 0 in specific Magic skill
-- Resource Requirement: 1 minimum
-- Armor Penetration: Magic Roll/4 rounded down
-- Effective/Max Range: Melee or Reach
+Requires Level 0 in specific Magic skill
+
+- Penetration: Magic Roll/4 rounded down
+- Effective/Max Range: Reach
 - Engageable Opponents: Rapid
+- Resource Requirement: 1 minimum
 
 ### Ranged
 
-- Requires Level 0 in specific Magic skill
+Requires Level 0 in specific Magic skill
+
+- Penetration = Magic Roll/4 rounded down
 - Resource Requirement: 1 minimum
 - Engageable Opponents: Standard
-- Armor Penetration = Magic Roll/4 rounded down
+- Effective/Max Range: See Magic Range above
 
 ### Cone
 
-Represents a character unleashing an attack over an area represented by a cone. The table below shows default cones, with the width of the cone at any point equal to the distance from the user. However, any cone that doesn’t exceed effective range or the Cone Area for a specified dice roll is acceptable.
+Represents a character unleashing an attack over an area represented by a cone. The table below shows default cones, with the width of the cone at any point equal to the distance from the user. However, any cone that doesn't exceed effective range or the Cone Area for a specified dice roll is acceptable.
 
-- Requires Level 0 in specific Magic skill
+Requires Level 0 in specific Magic skill
+
+- Penetration: Magic Roll/4 rounded down
 - Resource Requirement: 1 minimum
-- Armor Penetration: Magic Roll/4 rounded down
-- Effective/Max Range: Can not exceed effective range
 - Engageable Opponents: Cone
+- Effective/Max Range: Can not exceed effective range
 - Cone Base/Height: Magic Roll * 5 feet
 
 | Magic Roll | Cone Height/Base | Cone Angle |  Cone Area  |
@@ -135,24 +154,26 @@ Here is a handy equation I made for calculating custom Cones. “A” is area, �
 
 ### Focused
 
-Represent a character carefully aiming and focusing on a single powerful shot.
+Represent a character carefully aiming while still and focusing on a single powerful shot.
 
-- Requires Level 1 in specific Magic skill
+Requires Level 1 in specific Magic skill
+
+- Penetration: Magic Roll/3 rounded down
 - Resource Requirement: 1 minimum
-- +1d6 to Combat Roll
-- Armor Penetration: Magic Roll/3 rounded down
-- No movement for the round
 - Engageable Opponents: Focused
+- +1d6 to Combat Roll
+- No movement for the round
 
 ### AOE
 
 Represents a character unleashing an attack over an area centered on a point. If the AOE is centered on the user, they are not caught in their AOE emanating from them.
 
-- Requires Level 2 in specific Magic skill
+Requires Level 2 in specific Magic skill
+
+- Penetration: Magic Roll/4 rounded down
 - Resource Requirement: 2 minimum
-- Armor Penetration: Magic Roll/4 rounded down
-- Effective/Max Range: Magic Roll Range - Circle Radius
 - Engageable Opponents: Sphere
+- Effective/Max Range: Magic Roll Range - Circle Radius
 - AOE Radius: Magic Roll * 2.5 feet
 
 | Magic Roll | Circle Radius |
