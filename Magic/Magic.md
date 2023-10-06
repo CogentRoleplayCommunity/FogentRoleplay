@@ -10,9 +10,9 @@ This document provides generalized rules for magic system mechanics built to int
 
 ## Fallen Magic systems
 
-### [Miracles](Miracles/Miracles.md)
-
 ### [Fellcraft](Fellcraft/Fellcraft.md)
+
+### [Miracles](Miracles/Miracles.md)
 
 ### [Runecraft](Runecraft/Runecraft.md)
 
@@ -56,7 +56,7 @@ Cantrips are uses of Magic that use an insignificant amount of Resource. In gene
 
 ## Governing Core Skill
 
-A governing core skill is used for instances when a character over exerts themselves with their magic too far or is trying to rapidly regain Magic Resource. 
+A governing core skill is used for instances when a character over exerts themselves with their magic too far or is trying to rapidly regain Magic Resource.
 
 * Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
 * Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
