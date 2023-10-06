@@ -1,5 +1,9 @@
 ## Fellcraft
 
+![](Blazecraft/Blazecraft.png)
+
+![](Polycraft/Polycraft.png)
+
 The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Ichor.
 
 Due to their monstrous ancestry, Fellkind carries Ichor, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Ichor. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
