@@ -1,19 +1,15 @@
 ## Miracle
 
-When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin of Terra. Brightkin have the ability to use the power of the Brighlord, known as Miracles. Miracles consider the laws of nature a mere suggestion. To perform a Miracle, Light is channeled through specific strong emotion or memories to receive a desired effect.
+Miracles are the manifestations of a divine entities power on Terra. Those that are devoted to divine entity can barrow a fraction of their gods power for their own use. Miracles consider the laws of nature a mere suggestion.
+
+
+
+When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin of Terra. Brightkin have the ability to use the power of the Brighlord, known as Miracles. To perform a Miracle, Light is channeled through specific strong emotion or memories to receive a desired effect.
 Miracles require training and practice to use, harnessing one's emotions. Most Brightkin don't devote themselves to mastering Miracles, though they enjoy the benefits of near immortality.
 
 ![Copyright](Miracles.png)
 
 ![Copyright](Miracles2.png)
-
-![Copyright](Miracles3.png)
-
-### Miracle Roll
-
-This roll represents your abilities with Miracles. A minimum of one Light is required to make a non-Wonder Miracle Roll. Light up to the level in the user’s Brightkin vocation can be consumed, adding an additional d6 to the Miracle Roll for each Light consumed.
-
-- Miracles Roll = 3d6 (base) + Xd6 (Miracle Skill) + Xd6 (STR/RFX/INT) + Xd6 (Light consumed capped by Brightkin Vocation)
 
 ### Light
 
