@@ -14,5 +14,5 @@ INT Requirement: 0
 
 Runes Required:
 
-- Gravity Rune (lvl 0)
-- Body Rune (lvl 0)
+- Gravity Rune (lvl -1)
+- Body Rune (lvl -1)

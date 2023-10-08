@@ -26,4 +26,4 @@ INT Requirement: 0
 
 Runes Required:
 
-- Rune Sound (lvl 0)
+- Rune Sound (lvl -1)

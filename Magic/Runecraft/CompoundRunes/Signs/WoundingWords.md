@@ -16,5 +16,5 @@ INT Requirement: 0
 
 Runes Required:
 
-- Mind Rune (lvl 0)
-- Sound Rune (lvl 0)
+- Mind Rune (lvl -1)
+- Sound Rune (lvl -1)
