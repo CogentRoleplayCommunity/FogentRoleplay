@@ -71,6 +71,26 @@ This can be done by maintaining adequate nutrition, hydration, sleep, and stress
 
 Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Magic Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
 
+## Governing Core Skill
+
+A governing core skill is used for instances when a character over exerts themselves with their magic too far, is trying to rapidly regain Magic Resource, or maintain a concentration on already cast magic.
+
+* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
+* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
+
+## Magic Concentration
+
+Certain magic demand your focus to keep their effects active. If you lose this focus, the spell's magic ends.
+
+If a spell necessitates focus, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
+
+Regular activities, like moving or attacking, don't disturb your concentration. However, the following factors can disrupt your concentration:
+
+* Casting another spell that requires focus. If you cast a spell that needs focus while you're focusing on a different spell, you lose focus on the first spell. You can't focus on two spells simultaneously.
+* Suffering damage. If you take damage while focusing on a spell, you must make a governing core skill roll to maintain your focus. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
+* Becoming incapacitated or dying. If you're incapacitated or die, you lose focus on a spell.
+* The Narrator might also decide that certain environmental phenomena, such as a wave washing over you while you're on a storm-tossed ship, require you to succeed on a Challenge level 2 governing core skill check.
+
 ## Magic Roll
 
 This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user's Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Resource consumed.
@@ -84,16 +104,9 @@ Cantrips are uses of Magic that use an insignificant amount of Resource. In gene
 - Unaffected by Magic assists (as no Magic Resource is consumed)
 - Resource Requirement: 0
 
-## Governing Core Skill
-
-A governing core skill is used for instances when a character over exerts themselves with their magic too far or is trying to rapidly regain Magic Resource.
-
-* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
-* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
-
 ## Magic Range
 
-The Range type for non cantrip ranged attacks changes depending on the user's skill level.
+The Range type for non cantrip ranged attacks changes depending on the user's skill level unless specified otherwise.
 
 | Skill level |  Range Type  |
 | :---------: | :----------: |
