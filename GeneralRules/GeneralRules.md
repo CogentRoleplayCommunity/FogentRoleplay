@@ -12,6 +12,8 @@
 
 ### [Skills](NonCombatRules/Skills.md)
 
+### [Vision and Light](NonCombatRules/LightAndVision.md)
+
 ## Combat Rules
 
 ### [Battlemap Combat](CombatRules/BattlemapCombat.md)
