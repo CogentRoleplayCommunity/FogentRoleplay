@@ -19,96 +19,6 @@ Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged ite
 - Vocation Attributes: INT
 - Governing Core Skill: Willpower
 
-## Pure Runes
-
-Pure Runes are the most basic states of reality. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
-
-### [Fire Rune](PureRunes/FireRune.md)
-
-### [Earth Rune](PureRunes/EarthRune.md)
-
-### [Water Rune](PureRunes/WaterRune.md)
-
-### [Air Rune](PureRunes/AirRune.md)
-
-### [Electricity Rune](PureRunes/ElectricityRune.md)
-
-### [Cold Rune](PureRunes/ColdRune.md)
-
-### [Poison Rune](PureRunes/PoisonRune.md)
-
-### [Blood Rune](PureRunes/BloodRune.md)
-
-### [Light Rune](PureRunes/LightRune.md)
-
-### [Dark Rune](PureRunes/DarkRune.md)
-
-### [Sound Rune](PureRunes/SoundRune.md)
-
-### [Body Rune](PureRunes/BodyRune.md)
-
-### [Mind Rune](PureRunes/MindRune.md)
-
-### [Soul Rune](PureRunes/SoulRune.md)
-
-### [Time Rune](PureRunes/TimeRune.md)
-
-### [Strength Rune](PureRunes/StrengthRune.md)
-
-### [Gravity Rune](PureRunes/GravityRune.md)
-
-### Nature Rune
-
-### Acid Rune
-
-## Compound Runes
-
-Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
-
-### Signs
-
-[Blade Barrier](CompoundRunes/Signs/BladeBarrier.md)
-
-[Minor Mirage](CompoundRunes/Signs/MinorMirage.md)
-
-[Thunder Blade](CompoundRunes/Signs/ThunderBlade.md)
-
-[Wounding Words](CompoundRunes/Signs/WoundingWords.md)
-
-### Novice Runes
-
-[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
-
-[Bewitch](CompoundRunes/Novice/Bewitch.md)
-
-[Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
-
-[Fling](CompoundRunes/Novice/Fling.md)
-
-[Hellfire&#39;s Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
-
-[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
-
-[Leap](CompoundRunes/Novice/Leap.md)
-
-[Slow Fall](CompoundRunes\SlowFall.md)
-
-[Oil Spill](CompoundRunes/Novice/OilSpill.md)
-
-[Flame Tongued](CompoundRunes/Novice/)
-
-[Physical Protection](CompoundRunes/Novice/PhysicalProtection.md)
-
-[Slow Fall](CompoundRunes/Novice/SlowFall.md)
-
-[](CompoundRunes/Novice/)
-
-### Apprentice Runes
-
-### Expert Runes
-
-### Master Rune
-
 ## Crafting a Rune
 
 Two things are required to craft a Rune.
@@ -157,3 +67,131 @@ When creating a rune, a runesmith can overload a rune with energy, resulting in 
 | 18  | Rune converts to Spiritual effect                                                                                                                                                                                                                                                       |
 | 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
 | 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
+
+## Pure Runes
+
+Pure Runes are the most basic states of reality. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
+
+### [Fire Rune](PureRunes/FireRune.md)
+
+![](PureRunes/FireRune.png)
+
+### [Earth Rune](PureRunes/EarthRune.md)
+
+![]( PureRunes/EarthRune.png)
+
+### [Water Rune](PureRunes/WaterRune.md)
+
+![]( PureRunes/WaterRune.png)
+
+### [Air Rune](PureRunes/AirRune.md)
+
+![]( PureRunes/AirRune.png)
+
+### [Electricity Rune](PureRunes/ElectricityRune.md)
+
+![]( PureRunes/ElectricityRune.png)
+
+### [Cold Rune](PureRunes/ColdRune.md)
+
+![]( PureRunes/ColdRune.png)
+
+### [Poison Rune](PureRunes/PoisonRune.md)
+
+![]( PureRunes/PoisonRune.png)
+
+### [Blood Rune](PureRunes/BloodRune.md)
+
+![]( PureRunes/BloodRune.png)
+
+### [Light Rune](PureRunes/LightRune.md)
+
+![]( PureRunes/LightRune.png)
+
+### [Dark Rune](PureRunes/DarkRune.md)
+
+![]( PureRunes/DarkRune.png)
+
+### [Sound Rune](PureRunes/SoundRune.md)
+
+![]( PureRunes/SoundRune.png)
+
+### [Body Rune](PureRunes/BodyRune.md)
+
+![]( PureRunes/BodyRune.png)
+
+### [Mind Rune](PureRunes/MindRune.md)
+
+![]( PureRunes/MindRune.png)
+
+### [Soul Rune](PureRunes/SoulRune.md)
+
+![]( PureRunes/SoulRune.png)
+
+### [Time Rune](PureRunes/TimeRune.md)
+
+![]( PureRunes/TimeRune.png)
+
+### [Strength Rune](PureRunes/StrengthRune.md)
+
+![]( PureRunes/StrengthRune.png)
+
+### [Gravity Rune](PureRunes/GravityRune.md)
+
+![]( PureRunes/GravityRune.png)
+
+### Nature Rune
+
+![]( PureRunes/NatureRune.png)
+
+### Acid Rune
+
+![]( PureRunes/AcidRune.png)
+
+## Compound Runes
+
+Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
+
+### Signs
+
+[Blade Barrier](CompoundRunes/Signs/BladeBarrier.md)
+
+[Minor Mirage](CompoundRunes/Signs/MinorMirage.md)
+
+[Thunder Blade](CompoundRunes/Signs/ThunderBlade.md)
+
+[Wounding Words](CompoundRunes/Signs/WoundingWords.md)
+
+### Novice Runes
+
+[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+
+[Bewitch](CompoundRunes/Novice/Bewitch.md)
+
+[Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
+
+[Fling](CompoundRunes/Novice/Fling.md)
+
+[Hellfire&#39;s Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
+
+[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
+
+[Leap](CompoundRunes/Novice/Leap.md)
+
+[Slow Fall](CompoundRunes\SlowFall.md)
+
+[Oil Spill](CompoundRunes/Novice/OilSpill.md)
+
+[Flame Tongued](CompoundRunes/Novice/)
+
+[Physical Protection](CompoundRunes/Novice/PhysicalProtection.md)
+
+[Slow Fall](CompoundRunes/Novice/SlowFall.md)
+
+[](CompoundRunes/Novice/)
+
+### Apprentice Runes
+
+### Expert Runes
+
+### Master Rune
