@@ -57,6 +57,8 @@ Pure Runes are the most basic states of reality. Pure Runes represent a single c
 
 #### [Gravity Rune](PureRunes/GravityRune.md)
 
+#### Nature Rune
+
 ### Compound Runes
 
 Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
@@ -72,6 +74,8 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 #### Novice Runes
 
 [Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+
+[Bewitch](CompoundRunes/Novice/Bewitch.md)
 
 [Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
 
