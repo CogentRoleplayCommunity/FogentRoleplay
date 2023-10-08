@@ -59,6 +59,8 @@ Pure Runes are the most basic states of reality. Pure Runes represent a single c
 
 #### Nature Rune
 
+#### Acid Rune
+
 ### Compound Runes
 
 Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
@@ -83,7 +85,9 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 [Fling](CompoundRunes/Novice/Fling.md)
 
-[Hellfire&#39;s Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
+[Hellfire's Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
+
+[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
 
 [Leap](CompoundRunes/Novice/Leap.md)
 
