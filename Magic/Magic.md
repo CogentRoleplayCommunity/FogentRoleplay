@@ -16,6 +16,36 @@ This document provides generalized rules for magic system mechanics built to int
 
 ### [Runecraft](Runecraft/Runecraft.md)
 
+## Magic Skill Levels
+
+### Level -1: Party Trick
+
+Generally the starting place of all magic skills.
+
+Representing some minuet latent potential, such as a genetic ability that has yet to be honed. Those with this level are objectively bad at using this skill. This level of proficeny might be a fun party trick or for convience but has no awe inspiring use.
+
+Have a Party Trick level in a fire magic skill would allow you to ignite your finger tips to  light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+
+### Level 0: Novice
+
+Representing an inexperienced level of skill.
+
+### Level 1: Apprentice
+
+Represting a level of skill where the basics have been learned.
+
+### Level 2: Adept
+
+Skill level where the basics have been fully understood and the more advanced concepts are being learned.
+
+### Level 3: Expert
+
+Skill level where advanced concepts have been fuly understood and master level concepts are beginning to be introduced.
+
+### Level 4: Master
+
+Skill level where a master level of proficency has been achived.
+
 ## Magic Resource
 
 Magic Resources are consumed to use magic.
