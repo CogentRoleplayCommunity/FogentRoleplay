@@ -126,6 +126,7 @@ For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, m
 ## Magic in Combat
 
 - -2d6 to ranged combat rolls engaging in melee combat
+- Character's can't cast magic twice in one round of combat unless specified otherwise
 
 ### Melee Cantrip
 
