@@ -72,71 +72,71 @@ When creating a rune, a runesmith can overload a rune with energy, resulting in 
 
 Pure Runes are the most basic states of reality. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
 
-### [Fire Rune](PureRunes/FireRune.md)
+### Fire Rune
 
 ![](PureRunes/FireRune.png)
 
-### [Earth Rune](PureRunes/EarthRune.md)
+### Earth Rune
 
 ![](PureRunes/EarthRune.png)
 
-### [Water Rune](PureRunes/WaterRune.md)
+### Water Rune
 
 ![](PureRunes/WaterRune.png)
 
-### [Air Rune](PureRunes/AirRune.md)
+### Air Rune
 
 ![](PureRunes/AirRune.png)
 
-### [Electricity Rune](PureRunes/ElectricityRune.md)
+### Electricity Rune
 
 ![](PureRunes/ElectricityRune.png)
 
-### [Cold Rune](PureRunes/ColdRune.md)
+### Cold Rune
 
 ![](PureRunes/ColdRune.png)
 
-### [Poison Rune](PureRunes/PoisonRune.md)
+### Poison Rune
 
 ![](PureRunes/PoisonRune.png)
 
-### [Blood Rune](PureRunes/BloodRune.md)
+### Blood Rune
 
 ![](PureRunes/BloodRune.png)
 
-### [Light Rune](PureRunes/LightRune.md)
+### Light Rune
 
 ![](PureRunes/LightRune.png)
 
-### [Dark Rune](PureRunes/DarkRune.md)
+### Dark Rune
 
 ![](PureRunes/DarkRune.png)
 
-### [Sound Rune](PureRunes/SoundRune.md)
+### Sound Rune
 
 ![](PureRunes/SoundRune.png)
 
-### [Body Rune](PureRunes/BodyRune.md)
+### Body Rune
 
 ![](PureRunes/BodyRune.png)
 
-### [Mind Rune](PureRunes/MindRune.md)
+### Mind Rune
 
 ![](PureRunes/MindRune.png)
 
-### [Soul Rune](PureRunes/SoulRune.md)
+### Soul Rune
 
 ![](PureRunes/SoulRune.png)
 
-### [Time Rune](PureRunes/TimeRune.md)
+### Time Rune
 
 ![](PureRunes/TimeRune.png)
 
-### [Strength Rune](PureRunes/StrengthRune.md)
+### Strength Rune
 
 ![](PureRunes/StrengthRune.png)
 
-### [Gravity Rune](PureRunes/GravityRune.md)
+### Gravity Rune
 
 ![](PureRunes/GravityRune.png)
 
