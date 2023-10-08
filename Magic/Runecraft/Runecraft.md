@@ -67,7 +67,7 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 [Minor Mirage](CompoundRunes/Signs/MinorMirage.md)
 
-[Thunder Smite](CompoundRunes/Signs/ThunderSmite.md)
+[Thunder Blade](CompoundRunes/Signs/ThunderBlade.md)
 
 [Wounding Words](CompoundRunes/Signs/WoundingWords.md)
 
