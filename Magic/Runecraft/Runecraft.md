@@ -57,6 +57,8 @@ Pure Runes are the most basic states of reality. Pure Runes represent a single c
 
 #### [Gravity Rune](PureRunes/GravityRune.md)
 
+#### 
+
 ### Compound Runes
 
 Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
@@ -65,9 +67,11 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 [Minor Mirage](CompoundRunes/Signs/MinorMirage.md)
 
+[Thunder Smite](CompoundRunes/Signs/ThunderSmite.md)
+
 #### Novice Runes
 
-[Babel's Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
 
 [Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
 
