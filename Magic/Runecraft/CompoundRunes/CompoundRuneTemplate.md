@@ -12,16 +12,16 @@
 
 ## Info
 
-Range: 
+Range:
 
-Engaeable Opponents: 
+Engaeable Opponents:
 
-Armor Penetration: 
+Penetration:
 
-Energy Required: 
+Magic Resource Required:
 
-INT Requirement: 
+INT Requirement:
 
-Runes Required: 
+Runes Required:
 
 - Rune (lvl )
