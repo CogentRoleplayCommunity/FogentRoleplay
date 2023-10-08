@@ -4,7 +4,7 @@
 
 In the context of role-playing games, the ability of a character to see is crucial for various tasks. These tasks include identifying threats, locating hidden items, attacking enemies, and directing spells, among others. The character's visibility can be significantly impaired by darkness or any other factors that obscure vision.
 
-There are different levels of obscurity that a given area can have, ranging from light to heavy. An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a disadvantage on Wisdom (Perception) checks that rely on sight.
+There are different levels of obscurity that a given area can have, ranging from light to heavy. An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a disadvantage on (Perception) checks that rely on sight.
 
 On the other hand, an area is heavily obscured when it has darkness, opaque fog, or dense foliage. In these areas, vision is entirely blocked. Any creature trying to see something in a heavily obscured area effectively suffers from the blinded condition.
 
