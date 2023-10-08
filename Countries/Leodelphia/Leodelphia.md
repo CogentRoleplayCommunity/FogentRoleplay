@@ -16,14 +16,13 @@ The lower portions of the tree dwellings, seen as the less desirable but good en
 
 The portions of Oasis closest to the jugle floor are regarded as the most dangerous areas in the city. Light barley makes it below and hostile creatures roam. Only the poor, desperate, or criminally inclined reside close to the ground level.
 
-
 ## The Raging Wildlands
 
 The Raging Wildlands represent a vast area made up of seas of grass. Vast caravan networks travel between Oasis, The Great Emptiness, and Caurus to the East. Valuable good flow through these land, prime among them Mirage, a drug harvested from the Great Emptiness.
 
 ### The Hordes
 
-These vast caravan networks are constantly preyed upon by nomadic tribes of feral, Mirage addicted, Beastkin raiders know as the Hordes. Many of them of Hyenakin and Leshinkin decent. Seeking the vast riches each caravan contains as well as the potential slaves the caravan workers represent, they represent a constant threat to all caravan in the region. Naturecraft is commonly used to not only lay traps that bind the target caravans, but also for day to day tasks within the Horde.
+These vast caravan networks are constantly preyed upon by nomadic tribes of feral, Mirage addicted, Beastkin raiders know as the Hordes. Predominantly the Hordes are made up of Hyenakin and Leshinkin decent. Seeking the vast riches each caravan contains as well as the potential slaves the caravan workers represent, they are a constant threat to all caravan in the region. Naturecraft is commonly used to not only lay traps that bind the target caravans, but also for day to day tasks within the Horde.
 
 At the top of each Horde sits a "Grass Lord", who maintains control through might and the spoil each caravan raid entails. Each with there own distinct tribe, they constantly war with each other over the territory and roads the caravan flow through.
 
