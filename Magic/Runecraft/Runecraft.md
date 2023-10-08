@@ -78,79 +78,81 @@ Pure Runes are the most basic states of reality. Pure Runes represent a single c
 
 ### [Earth Rune](PureRunes/EarthRune.md)
 
-![]( PureRunes/EarthRune.png)
+![](PureRunes/EarthRune.png)
 
 ### [Water Rune](PureRunes/WaterRune.md)
 
-![]( PureRunes/WaterRune.png)
+![](PureRunes/WaterRune.png)
 
 ### [Air Rune](PureRunes/AirRune.md)
 
-![]( PureRunes/AirRune.png)
+![](PureRunes/AirRune.png)
 
 ### [Electricity Rune](PureRunes/ElectricityRune.md)
 
-![]( PureRunes/ElectricityRune.png)
+![](PureRunes/ElectricityRune.png)
 
 ### [Cold Rune](PureRunes/ColdRune.md)
 
-![]( PureRunes/ColdRune.png)
+![](PureRunes/ColdRune.png)
 
 ### [Poison Rune](PureRunes/PoisonRune.md)
 
-![]( PureRunes/PoisonRune.png)
+![](PureRunes/PoisonRune.png)
 
 ### [Blood Rune](PureRunes/BloodRune.md)
 
-![]( PureRunes/BloodRune.png)
+![](PureRunes/BloodRune.png)
 
 ### [Light Rune](PureRunes/LightRune.md)
 
-![]( PureRunes/LightRune.png)
+![](PureRunes/LightRune.png)
 
 ### [Dark Rune](PureRunes/DarkRune.md)
 
-![]( PureRunes/DarkRune.png)
+![](PureRunes/DarkRune.png)
 
 ### [Sound Rune](PureRunes/SoundRune.md)
 
-![]( PureRunes/SoundRune.png)
+![](PureRunes/SoundRune.png)
 
 ### [Body Rune](PureRunes/BodyRune.md)
 
-![]( PureRunes/BodyRune.png)
+![](PureRunes/BodyRune.png)
 
 ### [Mind Rune](PureRunes/MindRune.md)
 
-![]( PureRunes/MindRune.png)
+![](PureRunes/MindRune.png)
 
 ### [Soul Rune](PureRunes/SoulRune.md)
 
-![]( PureRunes/SoulRune.png)
+![](PureRunes/SoulRune.png)
 
 ### [Time Rune](PureRunes/TimeRune.md)
 
-![]( PureRunes/TimeRune.png)
+![](PureRunes/TimeRune.png)
 
 ### [Strength Rune](PureRunes/StrengthRune.md)
 
-![]( PureRunes/StrengthRune.png)
+![](PureRunes/StrengthRune.png)
 
 ### [Gravity Rune](PureRunes/GravityRune.md)
 
-![]( PureRunes/GravityRune.png)
+![](PureRunes/GravityRune.png)
 
 ### Nature Rune
 
-![]( PureRunes/NatureRune.png)
+![](PureRunes/NatureRune.png)
 
 ### Acid Rune
 
-![]( PureRunes/AcidRune.png)
+![](PureRunes/AcidRune.png)
 
 ## Compound Runes
 
 Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
+
+Some Runes pertaining to consciousness have been discovered. This discovery was groundbreaking, as it validated models that predict hypothetical runes pertaining to higher abstractions of consciousness such as fear, hate, and wrath. The models predict these Forbidden Runes to be so powerful that the Great Runesmiths of Academia search for them relentlessly.
 
 ### Signs
 
