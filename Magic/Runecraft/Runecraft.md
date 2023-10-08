@@ -77,6 +77,8 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 [Bewitch](CompoundRunes/Novice/Bewitch.md)
 
+[Blade Barrier](CompoundRunes/Novice/BladeBarrier.md)
+
 [Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
 
 [Fling](CompoundRunes/Novice/Fling.md)
