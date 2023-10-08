@@ -24,7 +24,7 @@ Generally the starting place of all magic skills.
 
 Representing some minuet latent potential, such as a genetic ability that has yet to be honed. Those with this level are objectively bad at using this skill. This level of proficeny might be a fun party trick or for convience but has no awe inspiring use.
 
-Have a Party Trick level in a fire magic skill would allow you to ignite your finger tips to  light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+Those have a Party Trick level in a fire magic skill would allow you to ignite your finger tips to  light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
 
 ### Level 0: Novice
 
@@ -118,7 +118,7 @@ For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, m
 
 Requires Level -1 in specific Magic skill
 
-- Penetration: Magic Roll/8 rounded down
+- Penetration: 0
 - Effective Range: Melee
 - Engageable Opponents: Rapid
 - Resource Requirement: 0
@@ -128,7 +128,7 @@ Requires Level -1 in specific Magic skill
 
 Requires Level -1 in specific Magic skill
 
-- Penetration = Magic Roll/8 rounded down
+- Penetration = 0
 - Effective Range = Close
 - Engageable Opponents: Focused
 - Resource Requirement: 0
@@ -138,7 +138,7 @@ Requires Level -1 in specific Magic skill
 
 Requires Level 0 in specific Magic skill
 
-- Penetration: Magic Roll/4 rounded down
+- Penetration: 2
 - Effective/Max Range: Reach
 - Engageable Opponents: Rapid
 - Resource Requirement: 1 minimum
@@ -147,7 +147,7 @@ Requires Level 0 in specific Magic skill
 
 Requires Level 0 in specific Magic skill
 
-- Penetration = Magic Roll/4 rounded down
+- Penetration = 1
 - Resource Requirement: 1 minimum
 - Engageable Opponents: Standard
 - Effective/Max Range: See Magic Range above
