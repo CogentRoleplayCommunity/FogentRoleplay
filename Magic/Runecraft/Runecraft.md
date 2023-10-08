@@ -2,13 +2,26 @@
 
 ![img](Runecraft2.png)
 
-Runes are symbols that have been discovered, usually via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths (reffered to as Wizards or Mages in some cultures) use conscious thought to manipulate reality in a favorable direction. Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
+Runes are symbols that have been discovered, via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths (reffered to as Wizards or Mages in some cultures) use conscious thought to manipulate reality in a favorable direction.
 
-To draw a rune is not enough to have it take effect. First, a conscious being must create the Rune. Secondly, the user must deeply understand the concept they are trying to invoke and be able to take it into conscious thought. Intelligence seems to be the gateway to Runecraft, as minds that are too weak buckle under the weight of the knowledge of the fabric of reality, leading to horrific accidents, madness, and death.
+To draw a rune is not enough to have it take effect.
+
+First, a conscious being must create the Rune. For many this takes the form of staffs, wands, scrolls, or other arcane objects that rune can be embedded within. Since activating a rune generally puts strain on the object that holds it, these items themselves are genrally runecrafted to ensure relible use.
+
+Secondly, the user must deeply understand the rune's concept they are trying to invoke and be able to take it into conscious thought. Intelligence and mental energy seems to be the gateway to Runecraft, as minds that are too weak buckle under the weight of the knowledge of the fabric of reality, leading to horrific accidents, madness, and death.
+
+Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
+
+- Magic Resource: Mental Energy
+- Magic Vocation: Runesmith
+- Magic Skills: Fire Rune, Shadow Rune, Oil Spill Rune
+- Cantrip: Sign
+- Vocation Attributes: INT
+- Governing Core Skill: Willpower
 
 ### Pure Runes
 
-Pure Runes are the most basic states of reality and take raw energy as their inputs. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
+Pure Runes are the most basic states of reality. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
 
 #### [Fire Rune](PureRunes/FireRune.md)
 
@@ -46,19 +59,43 @@ Pure Runes are the most basic states of reality and take raw energy as their inp
 
 ### Compound Runes
 
-Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Compound Runes and rare Pure runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering, as an arms race between runes and biological magic develops.
+Compound Runes are constructed with Pure Runes, some of which are famous and named after their creators. Legendary compound runes are controlled by powerful universities and the Royal families that sponsor them. The length to which these organizations will go to protect their intellectual property is staggering.
 
-#### [Slow Fall](Runecrafts\CompoundRunes\SlowFall.md)
+#### Signs
 
-#### [Oil Spill](OilSpill.md)
+[Minor Mirage](CompoundRunes/Signs/MinorMirage.md)
 
-#### [Minor Mirage](MinorMirage.md)
+#### Novice Runes
 
-#### [Flame Tongued]()
+[Babel's Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+
+[Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
+
+[Fling](CompoundRunes/Novice/Fling.md)
+
+[Leap](CompoundRunes/Novice/Leap.md)
+
+[Slow Fall](CompoundRunes\SlowFall.md)
+
+[Oil Spill](CompoundRunes/Novice/OilSpill.md)
+
+[Flame Tongued](CompoundRunes/Novice/)
+
+[Physical Protection](CompoundRunes/Novice/PhysicalProtection.md)
+
+[Slow Fall](CompoundRunes/Novice/SlowFall.md)
+
+[](CompoundRunes/Novice/)
+
+#### Apprentice Runes
+
+#### Expert Runes
+
+#### Master Rune
 
 ### Crafting a Rune
 
-Three things are required to craft a Rune.
+Two things are required to craft a Rune.
 
 #### Knowledge of Runes
 
@@ -66,21 +103,9 @@ In order for Runes to work, the user must consciously look beyond the mere symbo
 
 If an insufficiently intelligent  person tried to simply draw the shape of the Rune of Fire, nothing would happen. Though if they truly tried to understand the Rune, the concept of fire itself, their mind could be permanently damaged forever.
 
-#### Energy
-
-While anything could hypothetically be used for energy, generally runesmiths lean towards more energy dense sources as they are simply easier to carry.
-
-##### Ichor from Monster or Fellkin blood
-
-Ichor is a plentiful source of energy, common, and very energy dense. It is by far the most commonly used energy for Runecraft.  Requires an Inverse Rune of Blood to output the energy.
-
-##### Charged Electrite
-
-A charged electrite crystal is commonly used to store the required energy, as it is extremely stable. Requires an Inverse Rune of Electricity to output the energy.
-
 #### An object to hold the rune
 
-Most Runesmith use scrolls for simple one time use runes, as they are affordable and easy to write runes on. Usually, the object the rune is located on physically receives damage up to the activation of the rune, as the energy stored within the object is consumed. Some Runesmith will create staves of other conduits inscribed with runes. These are made in a particular way to resist the toll of the rune, though they will eventually need to be repaired.
+Most Runesmith use scrolls for simple one time use runes, as they are affordable and easy to write runes on. Usually, the object the rune is located on physically receives damage up to the activation of the rune. Some Runesmith will create staves of other conduits inscribed with runes. These are made in a particular way to resist the toll of the rune, though they will eventually need to be repaired.
 
 It is known that the body can be a vessel for runes, though the effect often leads to a reduced life span, bad health, or madness. Though due to the immense power that can be gained, many take on the risk.
 

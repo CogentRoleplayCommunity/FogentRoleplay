@@ -18,7 +18,7 @@ This effect does not decode secret messages or arcane writting that is not part 
 
 Range Type: Melee
 
-Energy Required:  1
+Magic Resource Required:  1
 
 INT Requirement: 0
 

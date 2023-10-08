@@ -20,7 +20,7 @@ Range: Long
 
 Engaeable Opponents: Focused
 
-Armor Penetration: Strong
+Penetration: 3
 
 INT Requirement: 0
 
