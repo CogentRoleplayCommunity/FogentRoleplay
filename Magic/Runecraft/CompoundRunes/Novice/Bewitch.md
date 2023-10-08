@@ -1,6 +1,6 @@
 # Bewitch
 
-You bewitch a target within your range. This spell inflicts an extra Minor Necrotic Injury whenever you inflict an injury. Additionally, you can select one of the target's core skills to impose a slight disadvantage (-1d6) on.
+You bewitch a target within your range as a part of your turn. This spell inflicts an extra Minor Necrotic Injury whenever you inflict an injury. Additionally, you can select one of the target's core skills to impose a slight disadvantage (-1d6) on.
 
 If the target's is rendered unconscious or killed before the spell ends, you have the opportunity to bewitch another creature on a subsequent turn of yours.
 
