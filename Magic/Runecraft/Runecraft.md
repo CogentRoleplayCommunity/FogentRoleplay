@@ -157,9 +157,3 @@ When creating a rune, a runesmith can overload a rune with energy, resulting in 
 | 18  | Rune converts to Spiritual effect                                                                                                                                                                                                                                                       |
 | 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
 | 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
-
-## Runecraft in Combat
-
-Runecraft takes time to do properly, Runesmiths prepare their Runecrafts well ahead of when they would actually need them. Trying to create runes in battle is at best foolish and usually a death sentence.
-
-Simple Pure Runes bound to scrolls are an extremely common way of preparing for combat. When the user creates the scroll, they are able to craft a specific rune, and at the time they choose to use it, they will use their specific Runecraft roll from when it was created as its combat roll.
