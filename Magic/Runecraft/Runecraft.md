@@ -75,7 +75,7 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 #### Novice Runes
 
-[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+[Babel's Clarity](CompoundRunes/Novice/Babel'sClarity.md)
 
 [Bewitch](CompoundRunes/Novice/Bewitch.md)
 
@@ -87,7 +87,7 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 [Hellfire's Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
 
-[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
+[Iggilywiggly's Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
 
 [Leap](CompoundRunes/Novice/Leap.md)
 
