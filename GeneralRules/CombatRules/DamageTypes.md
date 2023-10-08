@@ -84,6 +84,10 @@ Damage caused by rot, decay, and undeath.
 
 Damage caused by the loss of blood. A character loses equivalent ichor to the level of injury dealt.
 
+### Acid
+
+Damage caused by corrosive substances.
+
 ## Mental Damage Types
 
 ### Psychic
