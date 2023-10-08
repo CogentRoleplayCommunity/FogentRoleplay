@@ -125,14 +125,6 @@ Most Runesmith use scrolls for simple one time use runes, as they are affordable
 
 It is known that the body can be a vessel for runes, though the effect often leads to a reduced life span, bad health, or madness. Though due to the immense power that can be gained, many take on the risk.
 
-#### Personal Runes
-
-Personal runes are easier to produces as they are constructed in a way that is most convienent to the users mind, though unreadable by any other's. A Runesmith can only have a certain amount of personal runes perpared as
-
-#### Standarized Runes
-
-Standarized Runes take longer to create as they can be cast by other characters besides the one that created it.
-
 ### Runecraft Roll
 
 This roll represents your abilities with specific Runecrafts. A minimum of 1 Energy  is required to make a  Runecraft Roll. Energy  up to the level in the user's Runesmith vocation can be consumed, adding an additional d6 to the Runecraft Roll for each Energy consumed.
