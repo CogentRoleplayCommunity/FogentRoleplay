@@ -166,7 +166,7 @@ Some Runes pertaining to consciousness have been discovered. This discovery was 
 
 ### Novice Runes
 
-[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+[Babel's Clarity](CompoundRunes/Novice/Babel'sClarity.md)
 
 [Bewitch](CompoundRunes/Novice/Bewitch.md)
 
@@ -174,9 +174,9 @@ Some Runes pertaining to consciousness have been discovered. This discovery was 
 
 [Fling](CompoundRunes/Novice/Fling.md)
 
-[Hellfire&#39;s Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
+[Hellfire's Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
 
-[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
+[Iggilywiggly's Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
 
 [Leap](CompoundRunes/Novice/Leap.md)
 
@@ -189,8 +189,6 @@ Some Runes pertaining to consciousness have been discovered. This discovery was 
 [Physical Protection](CompoundRunes/Novice/PhysicalProtection.md)
 
 [Slow Fall](CompoundRunes/Novice/SlowFall.md)
-
-[](CompoundRunes/Novice/)
 
 ### Apprentice Runes
 
