@@ -192,6 +192,8 @@ Some Runes pertaining to consciousness have been discovered. This discovery was 
 
 ### Apprentice Runes
 
+[Flame Tongued Weapon](CompoundRunes/Apprentice/FlameTonguedWeapon.md)
+
 ### Expert Runes
 
 ### Master Rune
