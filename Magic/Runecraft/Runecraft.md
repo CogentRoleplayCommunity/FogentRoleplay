@@ -142,7 +142,7 @@ Pure Runes are the most basic states of reality. Pure Runes represent a single c
 
 ### Nature Rune
 
-![](PureRunes/NatureRune.png)
+![img](PureRunes/NatureRune.png)
 
 ### Acid Rune
 
@@ -166,7 +166,7 @@ Some Runes pertaining to consciousness have been discovered. This discovery was 
 
 ### Novice Runes
 
-[Babel's Clarity](CompoundRunes/Novice/Babel'sClarity.md)
+[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
 
 [Bewitch](CompoundRunes/Novice/Bewitch.md)
 
@@ -174,9 +174,9 @@ Some Runes pertaining to consciousness have been discovered. This discovery was 
 
 [Fling](CompoundRunes/Novice/Fling.md)
 
-[Hellfire's Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
+[Hellfire&#39;s Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
 
-[Iggilywiggly's Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
+[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
 
 [Leap](CompoundRunes/Novice/Leap.md)
 
