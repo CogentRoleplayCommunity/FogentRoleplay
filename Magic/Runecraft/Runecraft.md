@@ -1,6 +1,6 @@
 # Runecraft
 
-![img](Runecraft2.png)
+![img](Runecraft.png)
 
 Runes are symbols that have been discovered, via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths (reffered to as Wizards or Mages in some cultures) use conscious thought to manipulate reality in a favorable direction.
 
