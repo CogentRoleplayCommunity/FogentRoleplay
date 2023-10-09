@@ -14,7 +14,7 @@ Range: Short
 
 Engaeable Opponents: Focused
 
-Energy Required: 0
+Magic Resource Required: 0
 
 INT Requirement: 0
 
