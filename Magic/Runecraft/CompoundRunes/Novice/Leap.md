@@ -18,7 +18,7 @@ The distance you can jump vertically also becomes the distance you fall without 
 
 Range Type: Touch
 
-Energy Required:  1
+Magic Resource Required:  1
 
 INT Requirement: 0
 

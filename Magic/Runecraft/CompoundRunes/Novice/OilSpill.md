@@ -24,7 +24,7 @@ Engaeable Opponents: Focused
 
 INT Requirement: 0
 
-Energy Required: 1
+Magic Resource Required: 1
 
 Runes Required:
 

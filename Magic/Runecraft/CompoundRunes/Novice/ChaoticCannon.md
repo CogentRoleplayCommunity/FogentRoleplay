@@ -35,7 +35,7 @@ Range Type: Long
 
 Magic Combat Type: Focused
 
-Energy Required: 1 energy minimum
+Magic Resource Required: 1 energy minimum
 
 INT Requirement: 0
 

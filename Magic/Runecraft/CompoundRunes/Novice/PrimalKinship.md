@@ -16,7 +16,7 @@ You establish a telepathic connection with a friendly or charmed beast you touch
 
 Range Type: Melee
 
-Energy Required: 1
+Magic Resource Required: 1
 
 INT Requirement: 0
 

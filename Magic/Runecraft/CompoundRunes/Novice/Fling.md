@@ -24,7 +24,7 @@ Penetration: 3
 
 INT Requirement: 0
 
-Energy Required: 1
+Magic ResourceRequired: 1
 
 Runes Required:
 

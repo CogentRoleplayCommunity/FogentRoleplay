@@ -16,7 +16,7 @@ A willing and unarmored creature that you touch becomes enveloped in a protectiv
 
 Range Type: Melee
 
-Energy Required: 1
+Magic Resource Required: 1
 
 INT Requirement: 0
 
