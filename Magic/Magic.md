@@ -181,7 +181,7 @@ Represents a character unleashing an attack over an area represented by a cone. 
 
 Requires Level 0 in specific Magic skill
 
-- Penetration: Magic Roll/4 rounded down
+- Penetration: 2
 - Resource Requirement: 1 minimum
 - Engageable Opponents: Cone
 - Effective/Max Range: Can not exceed effective range
@@ -211,7 +211,7 @@ Represent a character carefully aiming while still and focusing on a single powe
 
 Requires Level 1 in specific Magic skill
 
-- Penetration: Magic Roll/3 rounded down
+- Penetration: 2
 - Resource Requirement: 1 minimum
 - Engageable Opponents: Focused
 - +1d6 to Combat Roll
@@ -223,7 +223,7 @@ Represents a character unleashing an attack over an area centered on a point. If
 
 Requires Level 2 in specific Magic skill
 
-- Penetration: Magic Roll/4 rounded down
+- Penetration: 3
 - Resource Requirement: 2 minimum
 - Engageable Opponents: Sphere
 - Effective/Max Range: Magic Roll Range - Circle Radius
