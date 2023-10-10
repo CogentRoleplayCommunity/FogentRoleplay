@@ -153,7 +153,7 @@ Requires Level -1 in specific Magic skill
 Requires Level 0 in specific Magic skill
 
 - Penetration: 2
-- Effective/Max Range: Reach
+- Effective/Max Range: Melee
 - Engageable Opponents: Rapid
 - Resource Requirement: 1 minimum
 
@@ -165,6 +165,15 @@ Requires Level 0 in specific Magic skill
 - Resource Requirement: 1 minimum
 - Engageable Opponents: Standard
 - Effective/Max Range: See Magic Range above
+
+### Reach Melee
+
+Requires Level 1 in specific Magic skill
+
+- Penetration: 2
+- Effective/Max Range: Reach
+- Engageable Opponents: Rapid
+- Resource Requirement: 1 minimum
 
 ### Cone
 
