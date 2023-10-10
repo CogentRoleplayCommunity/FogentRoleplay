@@ -52,10 +52,6 @@ Damage caused by shock waves and sound.
 
 Damage caused by intense heat or combustion.
 
-### Water
-
-Damage caused by coming into physical contact with water or being covered in water such as drowning.
-
 ### Electric
 
 Damage caused by lighting or other sources of electricity.
@@ -87,6 +83,10 @@ Damage caused by the loss of blood. A character loses equivalent ichor to the le
 ### Acid
 
 Damage caused by corrosive substances.
+
+### Suffication
+
+Damage caused by coming from the lack of breathable air such drowning.
 
 ## Mental Damage Types
 
