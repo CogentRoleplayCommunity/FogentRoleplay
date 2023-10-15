@@ -12,7 +12,7 @@ Secondly, the user must deeply understand the rune's concept they are trying to 
 
 Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
 
-- Magic Resource: Mental Energy
+- Magic Resource: Focus
 - Magic Vocation: Runesmith
 - Magic Skills: Fire Rune, Shadow Rune, Oil Spill Rune
 - Cantrip: Sign
