@@ -24,7 +24,7 @@ Generally the starting place of all magic skills.
 
 Representing some minuet latent potential, such as a genetic ability that has yet to be honed. Those with this level are objectively bad at using this skill. This level of proficeny might be a fun party trick or for convience but has no awe inspiring use.
 
-Those have a Party Trick level in a fire magic skill would allow you to ignite your finger tips to  light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+Those that have a Party Trick level in a fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
 
 ### Level 0: Novice
 
@@ -80,15 +80,15 @@ A governing core skill is used for instances when a character over exerts themse
 
 ## Magic Concentration
 
-Certain magic demand your focus to keep their effects active. If you lose this focus, the spell's magic ends.
+Certain magic demand your concentration to keep their effects active. If you lose this concenration, the spell's magic ends.
 
-If a spell necessitates focus, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
+If a spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
 
 Regular activities, like moving or attacking, don't disturb your concentration. However, the following factors can disrupt your concentration:
 
-* Casting another spell that requires focus. If you cast a spell that needs focus while you're focusing on a different spell, you lose focus on the first spell. You can't focus on two spells simultaneously.
-* Suffering damage. If you take damage while focusing on a spell, you must make a governing core skill roll to maintain your focus. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
-* Becoming incapacitated or dying. If you're incapacitated or die, you lose focus on a spell.
+* Casting another spell that requires concentration. If you cast a spell that needs concentration while you're focusing on a different spell, you lose concentration on the first spell. You can't concentrate on two spells simultaneously.
+* Suffering damage. If you take damage while focusing on a spell, you must make a governing core skill roll to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
+* Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
 * The Narrator might also decide that certain environmental phenomena, such as a wave washing over you while you're on a storm-tossed ship, require you to succeed on a Challenge level 2 governing core skill check.
 
 ## Magic Roll
