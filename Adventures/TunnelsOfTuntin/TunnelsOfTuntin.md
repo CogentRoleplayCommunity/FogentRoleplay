@@ -75,10 +75,10 @@ If the characters defeat the goblins and inspect the area, they will discover si
 Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The goblins have set two traps to hinder pursuers:
 
 * **Snare:** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
-  
 * **Pit:** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
 
 ### Awarding Skill Points
+
 Overcoming the goblin ambush net each the player's 1 skill point to spend. Each player also gains a destiny point.
 
 ## Cragmaw Hideout
@@ -146,11 +146,9 @@ Any character who can see the bridge in area 5 might also notice the goblin guar
 
 **Western Passage.** This passage is choked with rubble and has steep escarpments. Treat the area as difficult terrain (see “Difficult Terrain” in the rulebook). The ledge between the two escarpments is fragile. Any weight in excess of 100 pounds loosens the whole mass and sends it tumbling down to the east. Any creature on the ledge when it falls must make a DC 10 Dexterity saving throw, taking 2d6 bludgeoning damage on a failure, or half as much damage on a success. The creature also falls prone on a failed save (see “Being Prone” in the rulebook).
 
-## 5. Overpass
+### 5. Overpass
 
-In a section where an elevated tunnel intersects with the larger cavern beneath, goblins have established a guard post on a makeshift bridge. 
-
-
+In a section where an elevated tunnel intersects with the larger cavern beneath, goblins have established a guard post on a makeshift bridge.
 
 ```
 The stream passage continues upward, navigating another set of uneven steps and veering eastward. The distant echoes of a waterfall resonate from a larger cavern up ahead.
@@ -209,3 +207,9 @@ Guidelines for NPC Party Members:
 
 - NPCs possess their own lives and objectives. Therefore, an NPC should accompany the party only as long as it aligns with their goals and makes sense within the context of their story.
 ```
+
+### 7. Twin Pools Cave
+
+This cavern, altered by the goblins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three goblins stand guard. If the goblin in area 5 has alerted the goblins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one goblin hastens to area 8 to warn Klarg.
+
+**Rock Dams:** The goblins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the goblin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
