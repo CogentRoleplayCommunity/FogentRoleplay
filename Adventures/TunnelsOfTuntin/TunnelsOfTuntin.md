@@ -77,3 +77,6 @@ Ask the players to determine the party's marching order as they move down the tr
 * **Snare:** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
   
 * **Pit:** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
+
+### Awarding Skill Points
+Overcoming the goblin ambush net each the player's 1 skill point to spend. Each player also gains a destiny point.
