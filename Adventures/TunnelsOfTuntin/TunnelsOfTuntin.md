@@ -213,3 +213,24 @@ Guidelines for NPC Party Members:
 This cavern, altered by the goblins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three goblins stand guard. If the goblin in area 5 has alerted the goblins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one goblin hastens to area 8 to warn Klarg.
 
 **Rock Dams:** The goblins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the goblin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
+
+### 8. Klargs Cave
+
+Within the heart of the goblinoid hideout, Klarg, the leader, insists on hoarding the majority of the raiders' ill-gotten gains. The spoils from the Cragmaws' recent month of raiding and ambushing caravans are stockpiled in this den.
+
+To the south end of this expansive cave, sacks and crates brimming with pilfered provisions form towering stacks. The floor slopes westward towards a narrow opening that descends into darkness, while a larger opening leads north down a set of natural stone steps, with the distant roar of falling water filling the air. Amidst the cavern's center, the coals of a smoldering fire pit linger. Klarg, the bugbear warlord, shares this space with his mangy pet wolf, Ripper, and two goblins. Filled with grandiose delusions, Klarg perceives himself as a burgeoning conqueror. His eccentricity extends to referring to himself in the third person, declaring threats such as, "Who dares defy Klarg?" or "Klarg will build a throne from your bones, puny ones!" The goblins under his command, however, resent his tyrannical behavior.
+
+* **Fire Pit:** Stepping into the central fire pit inflicts a fire Minor Injury damage to any creature, or fire Medium Injury if they fall prone. Each type of damage can only occur once per round.
+* **Natural Chimney:** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
+* **Supplies:** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Lionshield Coster, a merchant company in Phandalin. Among the supplies, a hidden, unlocked treasure chest belonging to Klarg can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
+
+**Developments:**
+
+If warned by the goblins in area 7 about the hideout being under attack, Klarg and his wolf take cover behind stalagmites while the goblins hide behind the supply piles, hoping to ambush the intruders.
+
+If Klarg is unaware of potential attackers, the characters have an opportunity to surprise him, particularly by climbing the chimney from area 3, an unexpected direction for an assault.
+
+If the wolf is slain, Klarg attempts to descend the chimney to area 3 and flee the cave complex.
+
+**Treasure:**
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Phandalin (see part 2, "Phandalin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two potions of healing, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.
