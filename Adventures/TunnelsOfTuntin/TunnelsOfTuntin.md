@@ -233,4 +233,4 @@ If Klarg is unaware of potential attackers, the characters have an opportunity t
 If the wolf is slain, Klarg attempts to descend the chimney to area 3 and flee the cave complex.
 
 **Treasure:**
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Phandalin (see part 2, "Phandalin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two potions of healing, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Phandalin (see part 2, "Phandalin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.
