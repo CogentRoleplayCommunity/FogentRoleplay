@@ -61,25 +61,25 @@ Here are the further developments in the adventure after the goblin ambush and s
 In the unlikely event that the goblins manage to defeat the adventurers, they will leave them unconscious and loot both the party and the wagon. The goblins will then return to their Cragmaw hideout. The characters can choose to continue on to Phandalin, purchase new gear at Barthen's Provisions, and later return to the ambush site to find the goblins' trail.
 
 **Capturing Goblins:**
-Characters may decide to capture one or more goblins by knocking them unconscious rather than killing them. To do so, a character can use any melee weapon to knock a goblin unconscious. The attack should deal enough damage to reduce the goblin's hit points to 0. After a few minutes, a captured goblin regains consciousness and can be convinced to share what it knows (see "What the Goblins Know" sidebar). Additionally, the party can persuade the captured goblin to lead them to the Cragmaw hideout while avoiding traps (see "Goblin Trail" section).
+Characters may decide to capture one or more goblins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconcious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured goblin regains consciousness and can be convinced to share what it knows (see "What the Goblins Know" sidebar). Additionally, the party can persuade the captured goblin to lead them to the Cragmaw hideout while avoiding traps (see "Goblin Trail" section).
 
 **Skipping the Goblin Trail:**
 If the characters don't find the goblin trail or choose to continue to Phandalin, you can skip ahead to Part 2, "Phandalin." There, Elmar Barthen, the owner of Barthen's Provisions, will inform the characters that Gundren Rockseeker never arrived in Phandalin and suggest they return to the ambush site to investigate further after resting. Barthen can also point the party to Linene Graywind of the Lionshield Coster for more information on the goblin attacks.
 
-**Resting:** After the goblin ambush, the party may require a rest depending on the outcome of the battle. You can refer to the rulebook for more information on short rests and long rests to determine how and when the party can recover.
+**Resting:** After the goblin ambush, the party may require a rest depending on the outcome of the battle.
 
 **Goblin Trail:**
-If the characters defeat the goblins and inspect the area, they will discover signs that the goblins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a DC 10 Wisdom (Survival) check can determine that about a dozen goblins have traveled along this trail, along with signs of two human-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the goblins down the trail, which leads five miles northwest to the Cragmaw hideout.
+If the characters defeat the goblins and inspect the area, they will discover signs that the goblins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen goblins have traveled along this trail, along with signs of two humaniod-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the goblins down the trail, which leads five miles northwest to the Cragmaw hideout.
 
 **Marching Order and Traps:**
 Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The goblins have set two traps to hinder pursuers:
 
-* **Snare:** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character in the lead can spot the trap automatically if their passive Wisdom (Perception) score is 12 or higher. Otherwise, the character must succeed on a DC 12 Wisdom (Perception) check to notice the trap. If not noticed, the character triggers the snare and must succeed on a DC 10 Dexterity saving throw. Failure results in the character being suspended upside down 10 feet above the ground, restrained until 1 or more slashing damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes 1d6 bludgeoning damage from the fall.
-* **Pit:** Another 10 minutes down the trail is a camouflaged pit. The character in the lead spots the pit automatically if their passive Wisdom (Perception) score is 15 or higher. Otherwise, they must succeed on a DC 15 Wisdom (Perception) check to spot the pit. If the trap isn't detected, the lead character must succeed on a DC 10 Dexterity saving throw to avoid falling in, taking 1d6 bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
+* **Snare:** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
+  
+* **Pit:** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
 
 ### Awarding Skill Points
-
-  Defeating the goblin ambushers and finding the Cragmaw hideout completes a story milestone. When the party arrives at the hideout, award each character 1 Skill Point. Make sure the players record this gain on their character sheets.
+Overcoming the goblin ambush net each the player's 1 skill point to spend. Each player also gains a destiny point.
 
 ## Cragmaw Hideout
 
