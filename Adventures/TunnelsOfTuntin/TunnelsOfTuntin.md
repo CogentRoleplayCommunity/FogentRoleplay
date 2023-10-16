@@ -234,3 +234,19 @@ If the wolf is slain, Klarg attempts to descend the chimney to area 3 and flee t
 
 **Treasure:**
 The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Phandalin (see part 2, "Phandalin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.
+
+
+
+**### What Comes Next?**
+
+The following leg of the journey unfolds in Phandalin, offering the adventurers several compelling reasons to visit the town:
+
+* For those who embarked on the "Meet Me in Phandalin" adventure hook, the characters can receive payment from Barthen's Provisions for delivering the wagonload of supplies.
+* In the event of rescuing Sildar Hallwinter, the wounded warrior expresses gratitude and seeks an escort to Phandalin, offering a reward of 50 bc for the service.
+* Personal backgrounds of the characters may lead them to specific NPCs in the town, adding layers to their individual narratives.
+
+Players might also decide on alternative actions, such as pursuing Cragmaw Castle in part 3 of the adventure. In such cases, proceed directly to that section.
+
+**Awarding Experience Points:**
+
+The exploration of the Cragmaw hideout, along with the defeat of Klarg and his allies, marks a significant story milestone. Each character is granted 2 skill points.
