@@ -180,25 +180,6 @@ Cantrips are uses of Magic that use an insignificant amount of Resource. In gene
 - Unaffected by Magic assists (as no Magic Resource is consumed)
 - Resource Requirement: 0
 
-## Magic Range
-
-The Range type for non cantrip ranged attacks changes depending on the user's skill level unless specified otherwise.
-
-| Skill level |  Range Type  |
-| :---------: | :----------: |
-|     -1     |    Close    |
-|      0      |    Short    |
-|      1      |    Medium    |
-|      2      |   Extended   |
-|      3      |     Long     |
-|      4      | Sharpshooter |
-
-### Magic Range adjustment
-
-If a Magic Skill has a range adjustment it is either moved up or down the table above.
-
-For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
-
 ## Magic Skills in Combat
 
 - -2d6 to ranged combat rolls engaging in melee combat
