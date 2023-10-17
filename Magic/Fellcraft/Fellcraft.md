@@ -14,6 +14,7 @@ Due to their monstrous ancestry, Fellkind carries Ichor, the potential energy fo
 - Cantrip: Trick
 - Vocation Attributes: STR, RFX, INT
 - Governing Core Skill: Endurance
+- Spell: Fellweave
 
 ### Fellcraft Tree
 
