@@ -77,7 +77,6 @@ Phandalin is a small town, which means the characters can explore various locati
 
 The subsequent sections provide specific details about various locations within the town.
 
-
 ### Stonehill Inn
 
 ```
@@ -251,7 +250,6 @@ Each character is awarded a skill point upon their successful defeat of the ruff
 >
 > However, if the players express a preference for pursuing alternative leads in the region, it's acceptable to proceed to part 3 of the adventure and allow the ruffians to remain a pending matter. Upon the characters' return to Phandalin, ensure it's evident that the Redbrands are creating escalating issues, underscoring the urgency of dealing with them.
 
-
 ## Lavendar Lancer Hideout
 
 The Redbrands' headquarters in Phandalin occupies an underground complex beneath the now-dilapidated Tresendar Manor. Originally, the manor's cellars were designed for the safe storage of provisions, including food and water, in case the estate came under attack. Adjacent to the cellars was a crypt intended for interring deceased members of the Tresendar family. The Redbrands, however, have substantially expanded the cellars to serve their own needs, modifying them to accommodate slave pens, workshops, and barracks. Should the characters initiate their search from Tresendar Manor, their entry point into the dungeon is in area 1. Alternatively, if they opt to follow Carp Alderleaf through the secret tunnel he discovered, they gain access to the dungeon via area 8.
@@ -277,11 +275,9 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
 > 4. The Redbrands hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
 
-
-**1. Cellar**
+### **1. Cellar**
 
 Upon exploring the manor grounds, the characters discover the abandoned building. Tracks lead to a stone staircase near a dilapidated kitchen, and at the bottom of these stairs is an unlocked door leading to the cellar. Upon opening the door, provide the following description:
-
 
 "The door opens onto a five-foot-wide landing fifteen feet above a large cellar, with stone steps descending to the floor in two short flights. Another door stands beneath the stairs to the north. A large stone cistern occupies the western part of the room, whose walls are lined with kegs and barrels."
 
