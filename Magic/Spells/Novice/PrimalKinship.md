@@ -22,5 +22,5 @@ INT Requirement: 0
 
 Magic skills required:
 
-- Nature Rune (lvl 0)
-- Mind Rune (lvl 0)
+- Nature magic (lvl 0)
+- Mind magic (lvl 0)

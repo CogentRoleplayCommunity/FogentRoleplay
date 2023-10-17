@@ -83,6 +83,7 @@ If you are making a magic system, these will probably have different names in yo
 - Metal Magic
 - Sound Magic
 - Blood Magic
+- Acid Magic
 
 ### Combo Magic Skill
 

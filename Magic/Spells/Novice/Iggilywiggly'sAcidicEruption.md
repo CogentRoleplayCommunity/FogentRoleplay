@@ -16,4 +16,4 @@ INT Requirement: 0
 
 Magic skills required:
 
-- Acid Rune (lvl 1)
+- Acid Magic (lvl 1)

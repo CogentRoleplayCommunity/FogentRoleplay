@@ -22,5 +22,5 @@ INT Requirement: 0
 
 Magic skills required:
 
-- Gravity Rune (lvl 0)
-- Body Rune (lvl 0)
+- Gravity magic (lvl 0)
+- Body magic (lvl 0)

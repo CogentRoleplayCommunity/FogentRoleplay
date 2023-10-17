@@ -28,5 +28,5 @@ Magic Resource Required: 1
 
 Magic skills required:
 
-- Earth Rune (lvl 0)
-- Friction Rune (lvl 0)
+- Earth magic (lvl 0)
+- Friction magic (lvl 0)

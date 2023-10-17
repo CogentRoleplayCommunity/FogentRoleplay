@@ -30,4 +30,4 @@ INT Requirement: 0
 
 Magic skills required:
 
-- Mind Rune or Light Rune (lvl 0)
+- Mind magic or Light Magic (lvl 0)

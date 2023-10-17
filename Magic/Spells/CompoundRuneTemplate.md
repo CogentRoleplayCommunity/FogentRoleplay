@@ -24,4 +24,4 @@ INT Requirement:
 
 Magic skills required:
 
--  magic skill (level )
+- magic (level )

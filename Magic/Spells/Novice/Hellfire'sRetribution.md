@@ -16,4 +16,4 @@ INT Requirement: 0
 
 Magic skills required:
 
-- Fire Rune (lvl 0)
+- Fire Magic (lvl 0)
