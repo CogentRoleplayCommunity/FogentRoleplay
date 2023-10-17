@@ -65,7 +65,7 @@ Skill level where a master level of proficency has been achived.
 
 These magic skills represent every generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
 
-If you are making a magic system, these will probably have different names in your system. For instance, in Fellcraft, the Heat magic skill is called Blazecraft. Your system might even leave out some of these magic skills to fine tune it for only specific uses. Lastly, this is not an exhaustive list, feel free to add your own.
+If you are making a magic system, these will probably have different names in your system. For instance, in Fellcraft, the Heat magic skill is called Blazecraft. Your system might even leave out some of these magic skills to fine tune it for only specific uses. Lastly, this is not an exhaustive list, feel free to add your own. Happy casting. :)
 
 - Bodily Magic (Flesh, Web, Bone, ect...)
 - Heat Magic
@@ -92,6 +92,13 @@ Another avenue to explore are magic how these magics could be combined.
 - Magma Magic = Earth Magic + Heat Magic
 - Blizzard Magic = Cold Magic + Air Magic
 
+## Governing Core Skill
+
+A governing core skill is used for instances when a character over exerts themselves with their magic too far, is trying to rapidly regain Magic Resource, or maintain a concentration on already cast magic.
+
+* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
+* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
+
 ## Magic Resource
 
 Magic Resources are consumed to use magic.
@@ -116,13 +123,6 @@ This can be done by maintaining adequate nutrition, hydration, sleep, and stress
 ### Absorbing Magic Resource
 
 Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Magic Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
-
-## Governing Core Skill
-
-A governing core skill is used for instances when a character over exerts themselves with their magic too far, is trying to rapidly regain Magic Resource, or maintain a concentration on already cast magic.
-
-* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
-* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
 
 ## Magic Concentration
 
@@ -173,6 +173,26 @@ For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, m
 
 - -2d6 to ranged combat rolls engaging in melee combat
 - Character's can't cast magic twice in one round of combat unless specified otherwise
+
+### Ranges
+
+The Range type for non cantrip ranged attacks changes depending on the user's skill level unless specified otherwise.
+
+| Skill level |  Range Type  |
+| :---------: | :----------: |
+|     -1     |    Close    |
+|      0      |    Short    |
+|      1      |    Medium    |
+|      2      |   Extended   |
+|      3      |     Long     |
+|      4      | Sharpshooter |
+
+#### Magic Range adjustment
+
+If a Magic Skill has a range adjustment it is either moved up or down the table above. Ranged attacks can not fall below Close Range.
+
+For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
+
 
 ### Melee Cantrip
 
