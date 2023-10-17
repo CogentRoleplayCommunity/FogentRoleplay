@@ -16,9 +16,7 @@ Your expedition has seen you trekking through the past few days, tracing the wel
 Before delving further into the adventure, take a few moments to engage the players in the following activities:
 
 - **Character Introductions:** Encourage the players to introduce their characters to one another if they haven't done so already. This is an excellent opportunity for the players to share their characters' backgrounds, personalities, appearences, and motivations. It can help build a stronger sense of camaraderie within the party.
-
 - **Character Connections to Gundren Rockseeker:** Have the players consider how their characters came to know their dwarf patron, Gundren Rockseeker. Encourage them to create their own stories, but offer suggestions if someone is struggling with ideas. For instance, Gundren could be a childhood friend, a mentor, or someone who aided the character in a difficult situation. This exercise allows players to contribute to the adventure's backstory and provides a more personalized connection to the quest.
-
 - **Party's Marching Order:** Ask the players to determine the party's marching order and how their characters are traveling. Identify who's at the front and who's at the rear, and if the characters are escorting Gundren's wagon, clarify who's driving it. The remaining characters can decide whether they're riding on the wagon, walking alongside, or scouting ahead. This helps establish the group dynamics and tactics for the journey.
 
 #### Driving the Wagon:
@@ -37,7 +35,7 @@ To initiate the encounter, please read the following text aloud:
 Having journeyed along the Triboar Trail for approximately half a day, you round a bend and are confronted by a grim sight. There, about fifty feet ahead, lie two lifeless horses sprawled across the path. Each animal bears the unmistakable mark of several black-feathered arrows embedded in their flesh. The forest presses closely to the trail at this point, flanked by a steep embankment and thickets that seem impenetrable on either side.
 ```
 
-For those adventurers using the 'Meet Me in Phandalin' adventure hook, a more detailed examination of the scene yields troubling discoveries. The deceased horses can be identified as the property of Gundren Rockseeker and Sildar Hallwinter. Regrettably, they have been deceased for a day, their demise brought about by the very arrows that now pierce them. 
+For those adventurers using the 'Meet Me in Phandalin' adventure hook, a more detailed examination of the scene yields troubling discoveries. The deceased horses can be identified as the property of Gundren Rockseeker and Sildar Hallwinter. Regrettably, they have been deceased for a day, their demise brought about by the very arrows that now pierce them.
 
 ```
 As you inspect the area more closely, you find the saddlebags have been pillaged, and nearby rests an abandoned leather map case.
@@ -89,7 +87,7 @@ The goblin clan known as the Cragmaw has established a hidden base strategically
 
 ### General Features
 
-The Cragmaw cave ascends steeply, situated at the base of a substantial hill, with its caverns and passages embedded within the hill itself. 
+The Cragmaw cave ascends steeply, situated at the base of a substantial hill, with its caverns and passages embedded within the hill itself.
 
 **Ceilings.** Ceilings throughout the complex are characterized by steep slopes, forming stalactite-laden vaults that reach heights of 20 to 30 feet above the ground.
 
@@ -99,7 +97,7 @@ The Cragmaw cave ascends steeply, situated at the base of a substantial hill, wi
 
 **Sound.** The ambient sound of water within the cave serves to muffle noises, requiring attentive listening for creatures to detect activity. A Wisdom (Perception) check with a difficulty class of 15 enables creatures to attempt hearing nearby chamber sounds.
 
-**Stalagmites.** Upthrust spires of rock, can offer cover as outlined in the general rules "Cover" section. 
+**Stalagmites.** Upthrust spires of rock, can offer cover as outlined in the general rules "Cover" section.
 
 **Stream.** A shallow stream courses  through the complex, measuring only 2 feet in depth. The cold, slow-moving water facilitates easy wading for creatures moving through it.
 
@@ -133,9 +131,7 @@ The goblins stationed in area 2 are tasked with keeping a vigilant watch on this
 
 ### Goblin Blind
 
-Upon crossing to the east side of the stream, characters gain a view beyond the screening thickets into area 2. This serves as a goblin guard post, though the occupants display signs of boredom and inattention. 
-
-
+Upon crossing to the east side of the stream, characters gain a view beyond the screening thickets into area 2. This serves as a goblin guard post, though the occupants display signs of boredom and inattention.
 
 ```
 On the eastern bank of the stream flowing from the cave mouth, a small section within the briar thickets has been carved out to create a lookout post or blind. Wooden planks flatten the briars, offering space for guards to conceal themselves while surveilling the area—a pair of goblins currently lurk in this makeshift hideout.
@@ -279,7 +275,7 @@ To the south end of this expansive cave, sacks and crates brimming with pilfered
 * **Natural Chimney:** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
 * **Supplies:** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Lionshield Coster, a merchant company in Phandalin. Among the supplies, a hidden, unlocked treasure chest belonging to Klarg can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
 
-**Developments:**
+#### **Developments:**
 
 If warned by the goblins in area 7 about the hideout being under attack, Klarg and his wolf take cover behind stalagmites while the goblins hide behind the supply piles, hoping to ambush the intruders.
 
@@ -287,10 +283,11 @@ If Klarg is unaware of potential attackers, the characters have an opportunity t
 
 If the wolf is slain, Klarg attempts to descend the chimney to area 3 and flee the cave complex.
 
-**Treasure:**
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Phandalin (see part 2, "Phandalin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.
+#### Treasure
 
-**### What Comes Next?**
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Phandalin (see part 2, "Phandalin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
+
+### What Comes Next?
 
 The following leg of the journey unfolds in Phandalin, offering the adventurers several compelling reasons to visit the town:
 
