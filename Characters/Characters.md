@@ -34,6 +34,10 @@
 
 ## Enemies
 
-### Feral Verminkin
+### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
 
-![](Enemies/FeralVerminkin.png)
+### [Feral Verminkin](Enemies/FeralVerminkin/FeralVerminkin.md)
+
+### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
+
+### [Wolf](Enemies/Wolf/Wolf.md)

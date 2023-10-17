@@ -6,15 +6,11 @@
 
 ## Backstory
 
-One of the feral members of Fellkin, living in small packs preying on travelers.
+One of the short feral members of Fellkin, living in small packs preying on travelers.
 
 ## Appearance
 
-Race: Beastkin
-
 Height: 3'6"
-
-Body Type: Wiry
 
 ## Disposition
 
