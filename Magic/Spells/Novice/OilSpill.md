@@ -4,7 +4,7 @@
 
 Slick flamable greasy oil covers the ground in a circle centered on a point within range and turns it into difficult terrain for the duration.
 
-When the oil appears, each creature standing in its area must succeed on an Acrobatics Check or fall prone. A creature that enters the area or ends its turn there must also succeed on a Acrobatics Check or fall prone
+When the oil appears, each creature standing in its area must succeed on an Acrobatics Check or fall prone. A creature that enters the area or ends its turn there must also succeed on a Acrobatics Check or fall prone.
 
 ## Dice Pool Size Effect
 
