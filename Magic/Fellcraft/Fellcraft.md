@@ -45,7 +45,7 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 
 #### [Naturecraft](Naturecraft/Naturecraft.md)
 
-#### [Toxicraft](Toxincraft/Toxincraft.md)
+#### [Toxincraft](Toxincraft/Toxincraft.md)
 
 #### [Soulcraft](Soulcraft/Soulcraft.md)
 
