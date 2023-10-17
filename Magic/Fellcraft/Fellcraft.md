@@ -22,7 +22,7 @@ The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links
 
 This tree represents the different path to acquire different Fellcrafts. Each solid line represents a monster whose genes bridge between Fellcrafts. For instance, Vampires represent the links between Hemacraft and Mindcraft as well as Mindcraft and Shadowcraft. While Vampires represent this on the Fellcraft Tree, these genes may exist in other monsters. This tree just shows the natural progression a Fellkin could take to acquire new fellcraft.
 
-Squares represent normal Fellcrafts. These can be accessed if you choose this if your race has access or if you have a neighboring Fellcraft square already at level 1 in that Fellcraft skill. Any newly gained Fellcraft starts at level -1.
+Squares representing non-combination Fellcrafts. These can be accessed if you choose this if your race has access or if you have a neighboring Fellcraft square already at level 0 in that Fellcraft skill. Any newly gained Fellcraft starts at level -1.
 
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 

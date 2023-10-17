@@ -14,8 +14,6 @@ Blazecraft is one of the most common Fellcraft learned, owing to its utility and
 
 Dragonfire is legendary in its destructive capabilities. Dragons channel their from the elemental scales that cover their bodies.
 
-Dragonfire
-
 Allows the user to breathe fire from their mouth. In addition, the fire the user produces has an odd dark coloring to it. This fire has a mind of its own, leaping from fuel to fuel. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
 #### Absorbing Ichor: Fire
