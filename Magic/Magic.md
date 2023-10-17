@@ -7,6 +7,7 @@ This document provides generalized rules for magic system mechanics built to int
 - Magic Resource = Ichor/Light/Energy
 - Cantrip = Trick/Wonder/Sign
 - Governing Core Skill = Endurnace/Willpower/Willpower
+- Spell = Fellweave/DivineTale/CompoundRune
 
 ## Fallen Magic systems
 
@@ -60,6 +61,37 @@ Requires an investment of 5 skill point to unlock.
 
 Skill level where a master level of proficency has been achived.
 
+## Magic Skills
+
+These magic skills represent every generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
+
+If you are making a magic system, these will probably have different names in your system. For instance, in Fellcraft, the Heat magic skill is called Blazecraft. Your system might even leave out some of these magic skills to fine tune it for only specific uses. Lastly, this is not an exhaustive list, feel free to add your own.
+
+- Bodily Magic (Flesh, Web, Bone, ect...)
+- Heat Magic
+- Water Magic
+- Electricty Magic
+- Earth Magic
+- Air Magic
+- Cold Magic
+- Plant Magic
+- Posion Magic
+- Soul Magic
+- Shadow Magic
+- Mind Magic
+- Metal Magic
+- Sound Magic
+- Blood Magic
+
+### Combo Magic Skill
+
+Another avenue to explore are magic how these magics could be combined.
+
+- Plasma Magic = Heat Magic + Air Magic
+- Storm Magic = Air Magic + Electricy Magic + Water Magic
+- Magma Magic = Earth Magic + Heat Magic
+- Blizzard Magic = Cold Magic + Air Magic
+
 ## Magic Resource
 
 Magic Resources are consumed to use magic.
@@ -111,7 +143,7 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 
 - Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level)
 
-### Magic Cantrips
+## Magic Cantrips
 
 Cantrips are uses of Magic that use an insignificant amount of Resource. In general, Cantrips should be small and happen close to the user. Igniting your fingertips to light a cigar, or creating a gentle breeze are all examples of Cantrips. Cantrips attacks are considered the weakest form of offense, only used in dire situations or for utility.
 
@@ -137,7 +169,7 @@ If a Magic Skill has a range adjustment it is either moved up or down the table 
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
-## Magic in Combat
+## Magic Skills in Combat
 
 - -2d6 to ranged combat rolls engaging in melee combat
 - Character's can't cast magic twice in one round of combat unless specified otherwise
@@ -257,3 +289,51 @@ Requires Level 2 in specific Magic skill
 |  10 dice  |     25 ft     |
 |  11 dice  |    27.5 ft    |
 |  12 dice  |     30 ft     |
+
+## Magic Spells
+
+Magic Spells are more complex types of magic that behave in very specific ways. Depending on the magic disipline, your may not contains any spells at all. However it is generally encouraged since they are loved by players and narrators alike.
+
+### Cantrips
+
+[Blade Barrier](Spells/Cantrip/BladeBarrier.md)
+
+[Minor Mirage](Spells/Cantrip/MinorMirage.md)
+
+[Thunder Blade](Spells/Cantrip/ThunderBlade.md)
+
+[Wounding Words](Spells/Cantrip/WoundingWords.md)
+
+### Novice Runes
+
+[Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
+
+[Bewitch](Spells/Novice/Bewitch.md)
+
+[Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
+
+[Fling](Spells/Novice/Fling.md)
+
+[Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
+
+[Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+
+[Leap](Spells/Novice/Leap.md)
+
+[Slow Fall](CompoundRunes\SlowFall.md)
+
+[Oil Spill](Spells/Novice/OilSpill.md)
+
+[Flame Tongued](Spells/Novice/)
+
+[Physical Protection](Spells/Novice/PhysicalProtection.md)
+
+[Slow Fall](Spells/Novice/SlowFall.md)
+
+### Apprentice Runes
+
+[Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
+
+### Expert Runes
+
+### Master Rune
