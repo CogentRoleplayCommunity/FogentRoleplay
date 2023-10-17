@@ -31,3 +31,9 @@
 ### [Killroy Crimson](NPC/KillroyCrimson/KillroyCrimson.md)
 
 ### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
+
+## Enemies
+
+### Feral Verminkin
+
+![](Enemies/FeralVerminkin.png)
