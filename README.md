@@ -12,6 +12,8 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ![Alt text](CogentRoleplayAttribution_Wide.png)
 
+## [Adventures](Adventures/Adventures.md)
+
 ## [Creation Myth](CreationMyth/CreationMyth.md)
 
 ## [History](History/History.md)
