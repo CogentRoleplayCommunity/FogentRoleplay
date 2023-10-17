@@ -77,6 +77,7 @@ If you are making a magic system, these will probably have different names in yo
 - Plant Magic
 - Posion Magic
 - Soul Magic
+- Light Magic
 - Shadow Magic
 - Mind Magic
 - Metal Magic
@@ -221,7 +222,6 @@ The Range type for non cantrip ranged attacks changes depending on the user's sk
 If a Magic Skill has a range adjustment it is either moved up or down the table above. Ranged attacks can not fall below Close Range.
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
-
 
 ### Melee Cantrip
 
