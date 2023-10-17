@@ -154,48 +154,6 @@ Compound Runes are constructed with Pure Runes, some of which are famous and nam
 
 Some Runes pertaining to consciousness have been discovered. This discovery was groundbreaking, as it validated models that predict hypothetical runes pertaining to higher abstractions of consciousness such as fear, hate, and wrath. The models predict these Forbidden Runes to be so powerful that the Great Runesmiths of Academia search for them relentlessly.
 
-### Signs
-
-[Blade Barrier](CompoundRunes/Signs/BladeBarrier.md)
-
-[Minor Mirage](CompoundRunes/Signs/MinorMirage.md)
-
-[Thunder Blade](CompoundRunes/Signs/ThunderBlade.md)
-
-[Wounding Words](CompoundRunes/Signs/WoundingWords.md)
-
-### Novice Runes
-
-[Babel&#39;s Clarity](CompoundRunes/Novice/Babel'sClarity.md)
-
-[Bewitch](CompoundRunes/Novice/Bewitch.md)
-
-[Chaotic Cannon](CompoundRunes/Novice/ChaoticCannon.md)
-
-[Fling](CompoundRunes/Novice/Fling.md)
-
-[Hellfire&#39;s Retribution](CompoundRunes/Novice/Hellfire'sRetribution.md)
-
-[Iggilywiggly&#39;s Acidic Eruption](CompoundRunes/Novice/Iggilywiggly'sAcidicEruption.md)
-
-[Leap](CompoundRunes/Novice/Leap.md)
-
-[Slow Fall](CompoundRunes\SlowFall.md)
-
-[Oil Spill](CompoundRunes/Novice/OilSpill.md)
-
-[Flame Tongued](CompoundRunes/Novice/)
-
-[Physical Protection](CompoundRunes/Novice/PhysicalProtection.md)
-
-[Slow Fall](CompoundRunes/Novice/SlowFall.md)
-
-### Apprentice Runes
-
-[Flame Tongued Weapon](CompoundRunes/Apprentice/FlameTonguedWeapon.md)
-
-### Expert Runes
-
-### Master Rune
+See Spell list.
 
 ## Creating Runecraft scrolls
