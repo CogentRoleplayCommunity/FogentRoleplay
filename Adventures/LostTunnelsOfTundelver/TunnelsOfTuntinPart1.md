@@ -5,7 +5,6 @@ To commence this adventure, the player characters find themselves on a mission t
 Now, when you're ready to initiate the adventure, read the enclosed text. Should you choose to devise an alternative story hook, proceed to the subsequent paragraph, and adapt the particulars to suit your narrative, disregarding any references to guiding the wagon.
 
 ```
-
 Within the bustling urban sprawl of Neverwinter, a stout and bearded dwarf by the name of Gundren Rockseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Phandalin, located several days' journey to the southeast of the city. Gundren's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten gold pieces to each of you for ensuring the safe delivery of his provisions to Barthen's Provisions, a trading post nestled in the heart of Phandalin.
 
 Intriguingly, Gundren and his warrior companion, Sildar Haliwinter, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
