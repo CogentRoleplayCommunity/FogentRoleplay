@@ -28,6 +28,6 @@ Magic Resource Required: 1
 
 INT Requirement: 0
 
-Runes Required:
+Magic skills required:
 
 - Mind Rune or Light Rune (lvl 0)

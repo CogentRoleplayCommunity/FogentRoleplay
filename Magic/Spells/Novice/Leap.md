@@ -22,7 +22,8 @@ Magic Resource Required:  1
 
 INT Requirement: 0
 
-Must know 1 of the following runes :
 
-- Body Rune (lvl 0)
-- Air Rune (lvl 0)
+
+Magic skills required:
+
+- Body Rune (lvl 0) or Air Rune (lvl 0)

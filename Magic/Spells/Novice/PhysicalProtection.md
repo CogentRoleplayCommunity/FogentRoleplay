@@ -20,7 +20,7 @@ Magic Resource Required: 1
 
 INT Requirement: 0
 
-Runes Required:
+Magic skills required:
 
 - Gravity Rune (lvl 0)
 - Body Rune (lvl 0)

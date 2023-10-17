@@ -12,7 +12,7 @@ Magic Resource Required: 2
 
 INT Requirement: 1
 
-Runes Required:
+Magic skills required:
 
 - Fire Rune (lvl 2)
 - Sound Rune (lvl 1)

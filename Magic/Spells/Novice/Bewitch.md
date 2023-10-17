@@ -28,7 +28,7 @@ Magic Resource Required: 1
 
 INT Requirement: 0
 
-Runes Required:
+Magic skills required:
 
-- Rune Soul (lvl 0)
-- Rune Body (lvl 0)
+- Soul Magic (lvl 0)
+- Body Magic (lvl 0)

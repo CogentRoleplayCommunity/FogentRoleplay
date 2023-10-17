@@ -18,7 +18,7 @@ Magic Resource Required: 0
 
 INT Requirement: 0
 
-Runes Required:
+Magic skills required:
 
-- Sound Rune (lvl -1)
-- Light Rune (lvl -1) or Mind Rune (lvl -1)
+- Sound Magic (lvl -1)
+- Light Magic (lvl -1) or Mind Magic (lvl -1)

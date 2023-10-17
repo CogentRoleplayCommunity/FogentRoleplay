@@ -22,6 +22,6 @@ Magic Resource Required:  1
 
 INT Requirement: 0
 
-Runes Required:
+Magic skills required:
 
-- Mind Rune (lvl 0)
+- Mind Magic (lvl 0)

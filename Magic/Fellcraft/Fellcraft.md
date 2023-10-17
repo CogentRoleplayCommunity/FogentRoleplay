@@ -68,3 +68,7 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 #### [Magmacraft](Magmacraft/Magmacraft.md)
 
 #### [Blizzardcraft](Blizzardcraft/Blizzardcraft.md)
+
+### Fellweaving
+
+Fellcraft is known for its flexible uses, though it can be used for more specific effects. Fellweaving requires

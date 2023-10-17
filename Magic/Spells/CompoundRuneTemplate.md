@@ -22,6 +22,6 @@ Magic Resource Required:
 
 INT Requirement:
 
-Runes Required:
+Magic skills required:
 
-- Rune (lvl )
+-  magic skill (level )

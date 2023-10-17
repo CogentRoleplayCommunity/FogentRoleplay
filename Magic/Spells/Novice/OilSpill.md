@@ -26,7 +26,7 @@ INT Requirement: 0
 
 Magic Resource Required: 1
 
-Runes Required:
+Magic skills required:
 
 - Earth Rune (lvl 0)
 - Friction Rune (lvl 0)

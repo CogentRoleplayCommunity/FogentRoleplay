@@ -24,6 +24,6 @@ Magic Resource Required: 0
 
 INT Requirement: 0
 
-Runes Required:
+Magic skills required:
 
-- Rune Sound (lvl -1)
+- Rune Magic (lvl -1)

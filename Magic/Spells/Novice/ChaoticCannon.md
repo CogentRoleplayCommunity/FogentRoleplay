@@ -1,6 +1,6 @@
 ## Chaotic Cannon
 
-Launch a fluctuating, oscillating surge of disorderly energy at a single creature within your range. Roll d8s determined by the level of the rune (see below) and chose one. The value of the chosen dice dictates the type of damage inflicted by the attack, as indicated in the table below.
+Launch a fluctuating, oscillating surge of disorderly energy at a single creature within your range. Roll d8s determined by the level of the Magic (see below) and chose one. The value of the chosen dice dictates the type of damage inflicted by the attack, as indicated in the table below.
 
 | d8 | Damage Type |
 | :-: | :---------: |
@@ -16,8 +16,6 @@ Launch a fluctuating, oscillating surge of disorderly energy at a single creatur
 In the event that you roll matching numbers on the at least two d8s, the unpredictable energy bounces off the initial target, moving to another creature of your choosing within a 30-foot radius, were the same combat roll is used versus the new opponent. This may, in turn, cause the energy to bounce yet again.
 
 Each casting of this spell can only target a creature once.
-
-This rune has the Long range type.
 
 ### Dice Pool Size Effect
 
@@ -39,13 +37,15 @@ Magic Resource Required: 1 energy minimum
 
 INT Requirement: 0
 
-Must know 4 of the following runes:
+Magic skills required:
 
-- Earth Rune (lvl 0)
-- Mind Rune (lvl 0)
-- Posion Rune (lvl 0)
-- Electric Rune (lvl 0)
-- Air Rune (lvl 0)
-- Fire Rune (lvl 0)
-- Cold Rune (lvl 0)
-- Acid Rune (lvl 0)
+Must know 4 of the following Magics.
+
+- Earth Magic (lvl 0)
+- Mind Magic (lvl 0)
+- Posion Magic (lvl 0)
+- Electric Magic (lvl 0)
+- Air Magic (lvl 0)
+- Fire Magic (lvl 0)
+- Cold Magic (lvl 0)
+- Acid Magic (lvl 0)

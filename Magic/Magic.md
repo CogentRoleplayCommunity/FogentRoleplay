@@ -20,29 +20,43 @@ This document provides generalized rules for magic system mechanics built to int
 
 ### Level -1: Party Trick
 
-Generally the starting place of all magic skills.
+Requires an investment of 0 skill point to unlock. Generally aquired through narative means. Examples include:
 
-Representing some minuet latent potential, such as a genetic ability that has yet to be honed. Those with this level are objectively bad at using this skill. This level of proficeny might be a fun party trick or for convience but has no awe inspiring use.
+* A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
+* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
+* A minuet blessing bestowed by a diety. (Cleric)
+* A taste of power from an entity looking to make a deal... (Warlock)
+* A part of nature foreign to your place of origin. (Druid)
 
-Those that have a Party Trick level in a fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+This level of proficeny with magic might be a fun party trick or for convience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
 
 ### Level 0: Novice
+
+Requires an investment of 1 skill point to unlock.
 
 Representing an inexperienced level of skill.
 
 ### Level 1: Apprentice
 
+Requires an investment of 2 skill point to unlock.
+
 Represting a level of skill where the basics have been learned.
 
 ### Level 2: Adept
+
+Requires an investment of 3 skill point to unlock.
 
 Skill level where the basics have been fully understood and the more advanced concepts are being learned.
 
 ### Level 3: Expert
 
+Requires an investment of 4 skill point to unlock.
+
 Skill level where advanced concepts have been fuly understood and master level concepts are beginning to be introduced.
 
 ### Level 4: Master
+
+Requires an investment of 5 skill point to unlock.
 
 Skill level where a master level of proficency has been achived.
 
