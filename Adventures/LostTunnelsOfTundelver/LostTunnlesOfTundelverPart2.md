@@ -216,11 +216,9 @@ It's almost inevitable that a confrontation with the Redbrands occurs within a d
 
 If the characters decide to confront the Redbrands at the Sleeping Giant, you can describe the scene as follows:
 
-```
-The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly human ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
+"The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly human ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
 
 One of the thugs spits on the ground. "Well, well," he sneers. "Here's a whole bunch of little pups. What's your business here, pups? Did you come to yap at us?"
-```
 
 If the Redbrands confront the characters in the street, describe it as follows:
 
