@@ -20,8 +20,6 @@ Range Type: Touch
 
 Magic Resource Required:  1
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Body magic (lvl 0) or Air magic (lvl 0)

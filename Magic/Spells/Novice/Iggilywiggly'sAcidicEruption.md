@@ -12,8 +12,6 @@ Engaeable Opponents: Focused
 
 Magic Resource Required: 1
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Acid Magic (lvl 1)

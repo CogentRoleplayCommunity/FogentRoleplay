@@ -22,8 +22,6 @@ Range: Melee
 
 Engaeable Opponents: Focused
 
-INT Requirement: 0
-
 Magic Resource Required: 1
 
 Magic skills required:

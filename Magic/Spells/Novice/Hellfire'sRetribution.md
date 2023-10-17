@@ -12,8 +12,6 @@ Penetration: 2
 
 Magic Resource Required: 1
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Fire Magic (lvl 0)

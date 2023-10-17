@@ -35,8 +35,6 @@ Magic Combat Type: Focused
 
 Magic Resource Required: 1 energy minimum
 
-INT Requirement: 0
-
 Magic skills required:
 
 Must know 4 of the following Magics.

@@ -20,8 +20,6 @@ Range Type: Melee
 
 Magic Resource Required:  1
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Mind Magic (lvl 0)

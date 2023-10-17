@@ -12,8 +12,6 @@ Penetration: 0
 
 Magic Resource Required: 0
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Mind Magic (lvl -1)

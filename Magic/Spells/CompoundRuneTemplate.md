@@ -20,8 +20,6 @@ Penetration:
 
 Magic Resource Required:
 
-INT Requirement:
-
 Magic skills required:
 
 - magic (level )

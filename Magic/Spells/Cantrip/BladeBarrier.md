@@ -10,8 +10,6 @@ Engaeable Opponents: Focused
 
 Magic Resource Required: 0
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Gravity Magic (lvl -1)

@@ -22,8 +22,6 @@ Engaeable Opponents: Focused
 
 Penetration: 3
 
-INT Requirement: 0
-
 Magic ResourceRequired: 1
 
 Magic skills required:

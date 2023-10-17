@@ -26,8 +26,6 @@ Range: Extended
 
 Magic Resource Required: 1
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Mind magic or Light Magic (lvl 0)

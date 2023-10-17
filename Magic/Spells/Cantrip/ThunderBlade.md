@@ -22,8 +22,6 @@ Engaeable Opponents: Rapid
 
 Magic Resource Required: 0
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Rune Magic (lvl -1)

@@ -26,8 +26,6 @@ Engaeable Opponents: Focused
 
 Magic Resource Required: 1
 
-INT Requirement: 0
-
 Magic skills required:
 
 - Soul Magic (lvl 0)

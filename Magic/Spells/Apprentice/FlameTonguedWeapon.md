@@ -10,8 +10,6 @@ The blade can only be ignited as long as it is above 3 durability. The sword can
 
 Magic Resource Required: 2
 
-INT Requirement: 1
-
 Magic skills required:
 
 - Fire magic Skill (lvl 2)
