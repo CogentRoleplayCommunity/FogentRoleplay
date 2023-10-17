@@ -4,9 +4,9 @@ This document provides generalized rules for magic system mechanics built to int
 
 - Magic Name = Fellcraft/Miracles/Runecraft
 - Magic Vocation = Fellkin/Brightkin/Runesmith
-- Magic Resource = Ichor/Light/Energy
+- Magic Resource = Ichor/Light/Focus
 - Cantrip = Trick/Wonder/Sign
-- Governing Core Skill = Endurnace/Willpower/Willpower
+- Governing Core Skill = Endurnace/Willpower/Communication
 - Spell = Fellweave/DivineTale/CompoundRune
 
 ## Fallen Magic systems
@@ -98,6 +98,8 @@ A governing core skill is used for instances when a character over exerts themse
 
 * Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
 * Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
+* Magic that relies upon a relationship with a divine being or a pact with a naferious entity could use Communication, as it is only through the connection to the entity that the magic is held together.
+* Magic that relies upon ones connection with nature could use Survival.
 
 ## Magic Resource
 
@@ -142,6 +144,33 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user's Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Resource consumed.
 
 - Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level)
+
+### Overcharging Magic
+
+When casting magic with additional resource above the level allowed by your Magic Vocation level, the magic can have erratic behavior. Roll a d20 to determine the nature of the behavior.
+
+| d20 | Runecraft Malfunction table                                                                                                                                                                                                                                                             |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense. |
+| 2   | You become petrified for 1d10 rounds.                                                                                                                                                                                                                                                   |
+| 3   | A clone of the caster appears, desperately claiming to be the original.                                                                                                                                                                                                                 |
+| 4   | The one who activated the rune fall asleep                                                                                                                                                                                                                                              |
+| 5   | All doors and windows within 60' of the caster fly open.                                                                                                                                                                                                                                |
+| 6   | You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.                                                                                                                                                            |
+| 7   | The spell's target becomes overwhelmed by a desire to eat the caster.                                                                                                                                                                                                                   |
+| 8   | The caster and target are flung 10' in opposite directions.                                                                                                                                                                                                                             |
+| 9   | The caster and target are both whisked to the Astral Plane for the next minute.                                                                                                                                                                                                         |
+| 10  | A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.                                                                            |
+| 11  | Rune converts to Shockwave effect                                                                                                                                                                                                                                                       |
+| 12  | Rune converts to Water effect                                                                                                                                                                                                                                                           |
+| 13  | Rune converts to Bleed effect                                                                                                                                                                                                                                                           |
+| 14  | Rune converts to Electric effect                                                                                                                                                                                                                                                        |
+| 15  | Rune converts to Cold effect                                                                                                                                                                                                                                                            |
+| 16  | Rune converts to Dark effect                                                                                                                                                                                                                                                            |
+| 17  | Rune converts to Mental effect                                                                                                                                                                                                                                                          |
+| 18  | Rune converts to Spiritual effect                                                                                                                                                                                                                                                       |
+| 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
+| 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
 
 ## Magic Cantrips
 
