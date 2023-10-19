@@ -296,3 +296,287 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 **Treasure**
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Iarno keeps in the cellar for emergencies.
+
+### 2. Barracks
+
+The Redbrands in Phandalin have their lodgings scattered throughout the town. These quarters serve as a hideaway, ideal for taking refuge after intimidating the local miners and fur traders.
+
+```
+This chamber appears to have been converted from a storage room into makeshift living quarters. Two double bunks are neatly arranged against the wall near the entrance, while barrels and crates occupy the room's southern half.
+```
+
+Within the room, three Redbrand ruffians are taking a break. If they detect significant commotion from area 1, such as loud voices or the sound of barrels being moved, they prepare themselves for a potential confrontation and attempt to catch intruders off guard.
+
+The barrels in this area contain similar supplies to those found in area 1.
+
+#### Treasure
+
+All three Redbrands possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 gold pieces; the second, 12 silver pieces and 5 gold pieces; and the third, 15 electrum pieces and two garnets, each valued at 10 gold pieces. Furthermore, three worn, scarlet cloaks hang from the bunks.
+
+#### Awarding Experience Points
+
+Distribute 300 XP equally among the characters if the party overcomes the ruffians.
+
+### 3. Trapped Hall
+
+This corridor was originally a segment of Tresendar Manor's ancient cellars. The Redbrands, however, excavated beneath the stone floor, fashioning a concealed pit trap.
+
+```
+A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every ten feet, faux columns decorate the walls, while the double doors at the western end display copper plating that has now turned green with age. These doors feature an intricately carved depiction of a sorrowful angel.
+```
+
+Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful DC 15 Wisdom (Perception) check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a DC 10 Dexterity (Acrobatics) check.
+
+A character who triggers the trap or fails the Dexterity check while attempting to bypass the pit must make a DC 15 Dexterity saving throw to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
+
+AWARDING EXPERIENCE POINTS
+
+Distribute 100 XP equally among the characters if the party successfully avoids or survives the pit trap.
+
+### 4. Tresendar Crypts
+
+The mausoleum was the final resting place of the long-forgotten Tresendar family elders.
+
+```
+Within the dimly lit crypt, three substantial stone sarcophagi occupy the space, their surfaces veiled in layers of dust. Resting against each sarcophagus are human skeletons garbed in fragments of corroded mail. The chamber's walls feature faux columns carved to resemble expansive oak trees, and the double doors in the southeastern corner are covered with aged copper plates.
+```
+
+When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct scarlet cloak of the Redbrands or utters the password "Illefam," which references an ancient elven realm that once spanned a significant part of the Sword Coast.
+
+The stone lids of each sarcophagus bear carvings of the individuals interred within—two noble male humans and one noble female human. Should the tombs be opened, they reveal mostly decayed bones and remnants of clothing, detailed in the "Treasure" section.
+
+#### Developments
+
+Combat in this chamber will serve as a warning to the Redbrands in area 5, alerting them to the impending threat.
+
+#### Treasure
+
+Within the remnants of each sarcophagus, a platinum signet ring (50 gp) can be found among the bones.
+
+#### Awarding Experience Points
+
+Distribute 150 XP equally among the characters if the party successfully vanquishes the skeletons.
+
+### 5. Slave Pens
+
+For the last two months, the Redbrands have been seizing travelers in the vicinity, imprisoning them within these cells for eventual sale into slavery.
+
+```
+This elongated chamber is sectioned into three parts, featuring iron bars that partition the north and south areas. Filthy straw litters the floors of these cells, while their hinged doors are secured by chains and padlocks. In the southern cell, two disheveled human women are confined, while a young human boy is isolated in the northern one. All three individuals are clad in simple gray tunics, and iron collars are affixed around their necks.
+```
+
+A pile of discarded clothing is carelessly strewn against the far wall.
+
+Two Redbrand ruffians donned in scarlet cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
+
+The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
+
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful DC 10 Dexterity check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Strength check.
+
+#### Captives
+
+The three commoner prisoners here are Mirna Dendrar and her two adolescent children: thirteen-year-old Nars and eighteen-year-old Nilsa. A few days ago, the Redbrands brutally murdered Mirna's husband, Thel, for resisting their demands. (His body can be found in area 8.) That same night, the gang stormed their home in Phandalin, abducting the family. The gang intends to sell the family into the bonds of slavery.
+
+The Dendrars hold deep gratitude toward the rescuing characters, although they have limited information concerning the Redbrand hideout. Their knowledge only extends to the fact that the leader is a wizard, whose name they're unaware of since they haven't encountered him. The Dendrars mention "tall, furry creatures with large ears" (bugbears) in the employ of the Redbrands.
+
+**Side Quest: Mirna's Heirloom.** Although the Dendrars have nothing to offer as a reward, Mirna suggests that she might possess information about a valuable family heirloom. In her youth, her family fled from the town of Thundertree following an undead onslaught that overran the place. Her family operated an herb and alchemy shop where a case containing an emerald necklace was concealed beneath a section of storage shelves. She never dared to return and retrieve it. The shop was situated in the southeastern part of Thundertree. If the characters opt to explore the Thundertree ruins, consult part 3 of the adventure.
+
+#### Awarding Experience Points
+
+Divide 200 XP equally among the characters if the party overcomes the ruffians. Divide 100 XP equally among the characters if the Dendrars return safely to town.
+
+
+### 6. Armory
+
+The entrance to this room is secured with a lock, and it can only be opened from the exterior. Situated opposite the locked door is a concealed entrance leading to area 7. For more details regarding locked doors and secret doors, refer to the "General Features" section on page 20.
+
+```
+The walls of this chamber are adorned with racks filled with an array of weaponry, encompassing spears, swords, crossbows, and bolts. A total of twelve grimy red cloaks are suspended on hooks near the door.
+```
+
+The Redbrands have grand aspirations for bolstering their ranks in the near future, which has prompted them to amass an arsenal of arms and armor.
+
+The weapon racks contain twelve spears, six shortswords, four longswords, six light crossbows, and eight quivers, each stocked with twenty crossbow bolts.
+
+### 7. Storeroom and Work Area
+
+In this space, the Redbrands meticulously catalog their pilfered possessions, making preparations for their transportation through the southern cave passage or arranging them for safekeeping within the stronghold.
+
+```
+This portion forms the northern extremity of a capacious, naturally formed cavern. The walls are artfully constructed using dressed stone blocks, and the floor is fashioned from durable flagstones. You'll notice a collection of barrels neatly positioned against the cavern's walls. Adjacent to these are numerous vacant crates, bundles of straw used for packing, as well as tools like hammers, pry bars, and nails.
+
+As you peer southwards, the cavern stretches ahead for quite some distance, revealing multiple passageways branching off from the larger chamber. You also spot what appears to be a substantial pit or crevasse embedded within the floor.
+```
+
+Within this chamber, concealed from plain sight, lie two secret doors: one grants access to area 6, while the other leads to area 12. For more details regarding secret doors, please consult the "General Features" section on page 20.
+
+#### Treasure
+
+In terms of valuable contents, the majority of the items here are of modest worth. However, among them, you discover thirty beaver pelts, each worth 2 gold pieces. These pelts were recently plundered from a convoy traveling along the Triboar Trail just a few days ago.
+
+### 8. Crevasse
+
+The characters find themselves in this area through one of three different routes: the tunnel connecting to area 1, the storeroom in area 7, or the rough-hewn passage to the south. This southern passage extends beyond the map for about a hundred feet, eventually leading to an exit in the woods south of Tresendar Manor. It provides an ideal clandestine means of smuggling individuals or goods in and out of Phandalin, keeping them concealed from prying eyes, making it a suitable choice for a group of slavers and thieves.
+
+```
+Within this vast and chilling cavern, a peculiar, cold draft drifts through, carrying with it a faint, ominous aroma of decaying flesh. A rift cleaves the cavern in two, flanked by two roughly hewn stone columns that serve as support for the twenty-foot-tall ceiling. Two wooden bridges, each fashioned with arches, traverse the chasm.
+```
+
+This cavern's guardian is a nothic—an unhinged subterranean monstrosity with an insatiable appetite for flesh. The creature was originally drawn here by a faint magical aura emanating from the crevasse. When the Redbrands took over, their leader, Iarno, struck an agreement with the nothic. In exchange for treasure and a regular supply of fresh meat, the nothic was persuaded to assist in guarding the stronghold. However, its loyalty remains unpredictable.
+
+The nothic lurks close to the western ends of the two bridges. Upon noticing intruders entering the cave, it conceals itself behind one of the large stone columns and surveils them. The creature tries to use its unique ability, Weird Insight, to extract secrets from the characters.
+
+The nothic communicates telepathically, favoring negotiation over aggression, and is willing to betray the Redbrands if the right incentive is offered, such as food. When role-playing the nothic, adopt a whispering tone with sporadic fits of mad cackles and incoherent mutterings. It doesn't actually speak but rather implants its unsettling thoughts and demands in the characters' minds. The nothic possesses all the knowledge the Redbrands have; refer to the "What the Redbrands Know" sidebar on page 20.
+
+As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful DC 15 Intelligence (Investigation) check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
+
+The crevasse itself is steep-sided, measuring 5 to 10 feet in width and 20 feet in depth. Its rugged walls can be easily climbed without requiring an ability check. A character unfortunate enough to fall into the crevasse sustains 2d6 bludgeoning damage and lands prone amid a mass of rubble, which becomes difficult terrain.
+
+Notably, the bottom of the crevasse has an eerie chill. When viewed with a detect magic spell, the area emits a faint necromantic aura. This magical presence causes organic matter within the crevasse to age and decompose at half the usual rate. At the bottom, among the broken and gnawed bones, lies the partially devoured corpse of Thel Dendrar, the Phandalin woodcarver who met his end at the hands of the Redbrands, and whose body they left for the nothic to consume.
+
+#### Treasure
+
+As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 160 silver pieces, 120 gold pieces, five malachite gems, each worth 15 gold pieces, two potions of healing, and a scroll of augury.
+
+Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Tresendar, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an orc assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
+
+### Awarding Experinece Points
+
+In terms of experience points, divide 450 XP equally among the characters if the party manages to either defeat the nothic or negotiate a truce with it.
+
+### 9. Guard Barracks
+
+A character who listens at this door with a successful DC 10 Wisdom (Perception) check can discern several gruff voices speaking derogatory commands in the Goblin tongue, such as "Lick the floor!" and "Roll like a dog!" The bugbears in this room are tormenting their goblin captive.
+
+```
+This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful goblin who debases itself for their entertainment. The sudden appearance of your party startles the goblin to the point of fainting.
+```
+
+Present in the room are three bugbears and one goblin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
+
+These bugbears work under the command of the Black Spider and were dispatched here to assist Iarno in maintaining control over both the Redbrands and Phandalin's citizens. The bugbear leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
+
+The bugbears steer clear of the human members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the bugbears will assume they serve Iarno. Resourceful characters may even manage to persuade the bugbears to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the bugbears to comply with the party's wishes.
+
+#### Roleplaying Droop
+
+Droop, the goblin, poses no threat to the party, as he has been cowed by the bugbears and follows their orders until someone stronger takes command. If he regains consciousness during combat, Droop hides and avoids the fray. He is such a coward that if compelled to fight, he does so with disadvantage.
+
+Droop possesses knowledge of the general layout of the Redbrand hideout, including the locations of secret doors and traps. However, he doesn't spontaneously offer this information but will reveal it if prompted, though his details might be somewhat confusing or muddled. After the bugbears are dispatched, Droop seeks to endear himself to the party and help in any way possible.
+
+#### Developments
+
+Regarding developments, the bugbears are the only individuals in the Redbrand hideout who are privy to the location of Wave Echo Cave. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the bugbears know the whereabouts of Cragmaw Castle but won't readily share this knowledge either. To extract this information from a captured bugbear, a character must succeed in a DC 15 Charisma (Intimidation) check.
+
+#### Treasure
+
+In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 gold pieces). He also possesses an iron key capable of locking and unlocking all doors in the Redbrand hideout.
+
+#### Awarding Experience Points
+
+For experience points, divide 600 XP equally among the characters if the party manages to defeat the bugbears.
+
+### 10. Common Room
+
+This area functions as the Redbrands' central command and gathering space. When official business isn't in session, it transforms into a common area where the fortress's guards can unwind during their off hours.
+
+If a character listens at the door with a successful DC 10 Wisdom (Perception) check, they can overhear the villains inside immersed in a knucklebones game. This results in a mysterious clinking noise, followed by exclamations, moans, and a sudden chatter of voices as bets are settled. If the party abruptly enters the room, they automatically take the occupants by surprise.
+
+```
+The room features numerous worn tables and chairs, with wooden benches lining the walls adorned with drapes of brown and red. Several kegs of ale are propped up and tapped.
+
+Four burly human warriors, donned in scarlet cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
+```
+
+They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
+
+Upon the party's entrance, the Redbrands instantly identify any characters wearing scarlet cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a DC 10 Charisma (Deception) check to hoodwink the Redbrands.
+
+#### Treasure
+
+As for treasure, all the wealth on the table has been wagered in the game. (Knocking over the table or mixing up their loot is an effective way to momentarily distract them.) The total value includes 75 copper pieces, 55 silver pieces, 22 electrum pieces, 15 gold pieces, and a gold earring adorned with a small ruby (worth 30 gold pieces).
+
+#### Awarding Experinece Points
+
+For experience points, divide 400 XP equally among the characters if the party manages to vanquish the Redbrands in this room.
+
+### 11. Runesmith's Workshop
+
+Through either door of this room, faint bubbling and dripping sounds can be discerned with a successful DC 15 Wisdom (Perception) check.
+
+```
+This chamber takes the form of a wizard's workshop, with a rat darting across the floor and finding refuge under a large worktable, adorned with alembics, retorts, distillation coils, and other alchemical devices, all actively bubbling and simmering away. The bookshelves in the room are brimming with piles of parchment and peculiar-looking tomes.
+```
+
+Iarno has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Iarno as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminated, it vanishes.
+
+If the characters opt to leave the rat unharmed, it will follow them around as if driven by curiosity or hunger. It might even pretend to be affectionate towards a character who feeds it, but its loyalty remains firmly with Iarno.
+
+**Books and Notes.** Within the room, you'll find books and notes scattered about, as Iarno is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Iarno's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
+
+Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Phandelver and the Forge of Spells (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Phandelver's Pact. This mace went missing when Wave Echo Cave and its mine vanished from history. (Characters might find the mace in part 4, "Wave Echo Cave.")
+
+#### Developments
+
+In terms of developments, since Iarno and his rat familiar maintain a telepathic bond, the mage (in area 12) becomes aware that the characters are approaching and thus has time to make preparations.
+
+#### Treasure
+
+Regarding treasure, most of the materials in this room lack value, but three small bottles contain rare reagents: mercury, dragon bile, and powdered nightshade. These reagents are worth 25 gold pieces each to an apothecary or alchemist.
+
+### 12. Glasstaff's Quarters
+
+If the characters approach this room via the secret passage from area 7, they can catch the leader of the Redbrands, Iarno "Glasstaff" Albrek, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
+
+```
+This room features walls adorned with scarlet cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
+```
+
+If Iarno is taken by surprise, include the following paragraph:
+
+```
+Sitting at the desk is a short, dark-bearded human male dressed in robes, engrossed in the study of a tome. He sports an ermine-trimmed princely mantle and keeps a splendid glass staff leaning against his chair, within easy reach.
+```
+
+However, if the rat in area 11 alerts him to the approaching danger, Iarno, the malevolent mage, swiftly retrieves his staff of defense (see the appendix) and the scrolls from his chest (see the "Treasure" section) before making his escape through the secret door in the northeast corner of the room. In his rush, Iarno inadvertently leaves a letter from the Black Spider behind (see the "Developments" section), and fails to secure the secret door completely. Characters gain an advantage on ability checks when trying to locate the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For additional information on secret doors, refer to the "General Features" section (page 20).
+
+If he successfully escapes, Iarno flees to area 1 (through areas 7 and 8) and retrieves the satchel hidden in the cistern there. If the nothic in area 8 is still alive, Iarno instructs it to waylay any pursuers. If the characters manage to catch up to him, Iarno drinks the potion of invisibility from the satchel and makes a hasty exit from the hideout. Depending on your discretion, he may reappear later in the adventure.
+
+#### Roleplaying Iarno
+
+In terms of roleplaying, a former member of the Lords' Alliance, Iarno seized the opportunity in Phandalin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Iarno was already familiar with the Black Spider through his contacts in the Lords' Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Spells with the wizard in exchange for his assistance and loyalty.
+
+Iarno tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Iarno is just as thuggish and arrogant as any Redbrand outlaws.
+
+If he feels threatened, Iarno uses his staff of defense to cast mage armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Iarno employs the shield power of his staff for extra protection.
+
+Should he be reduced to 8 or fewer hit points with no means of escape, Iarno surrenders, valuing his life above all else, hoping that his model behavior as a prisoner might lead the Black Spider to secure his release.
+
+If questioned while in captivity, Iarno provides the following information, all of which is accurate:
+
+* The Black Spider is a drow (dark elf).
+* The Black Spider sent three bugbears to assist Iarno in controlling the population of Phandalin, but the Redbrands have managed without them. The bugbears know the way to Wave Echo Cave, but Iarno does not.
+* The Black Spider is searching Wave Echo Cave for the Forge of Spells. Dwarves and gnomes of the Phandelver's Pact used the magical forge to create powerful magic items.
+* No other members of the Lords' Alliance are aware of Iarno's betrayal.
+
+### Develoments
+
+In terms of developments, various papers and notes are neatly stacked on the desk, primarily consisting of Iarno's written orders to apothecaries and alchemists in nearby settlements for additional materials for his workshop. Among these documents, the characters also discover a letter marked with the Black Spider's symbol.
+
+```
+Lord Albrek,
+
+Reports from my sources in Neverwinter indicate that unknown individuals are en route to Phandalin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any dwarven maps within their possession are swiftly delivered to me. I am relying on you, Iarno. Do not let me down.
+```
+
+In the event that Iarno is apprehended, Sildar Hallwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Neverwinter can be arranged. The question of whether Iarno faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
+
+#### Treasure
+
+Positioned at the foot of Iarno's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 gold pieces, and a silk pouch containing five carnelians (valued at 10 gold pieces each), two peridots (each worth 15 gold pieces), and one pearl (with an estimated worth of 100 gold pieces). The chest also contains two magical items brought to Phandalin by Iarno from Neverwinter: a scroll of charm person and a scroll of fireball. Additionally, Iarno wields a staff of defense (refer to appendix A).
+
+For experience points, distribute 200 XP evenly among the characters if the party eliminates Iarno Albrek. Double the XP award if they successfully capture Iarno and deliver him to Sildar Hallwinter in Phandalin.
+
+#### Awarding Experinece
+
+In terms of what's next, the adventure proceeds to the next phase, part 3, titled "The Spider's Web." During this segment, the characters engage in several short adventures that propel the storyline forward. It is likely that at some point in part 2, the characters will reach 3rd level, so it's important for players to keep track of their XP.
