@@ -1,10 +1,10 @@
 ## **Overview**
 
-The "Lost Mine of Phandelver" unfolds across four distinct sections. In Part 1, known as "Goblin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a goblin ambush. They soon learn that these goblins, members of the Cragmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Brimward. The characters must confront the ambush and subsequently follow the goblins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Cragmaw Castle."
+The "Lost Mine of Phandelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Brimward. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Iarno "Glasstaff" Albrek, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
-Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost dwarven mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Thundertree town. Several of these leads guide them towards Cragmaw Castle, the stronghold of King Grol, leader of the Cragmaw goblins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Cragmaw goblins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
+Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost dwarven mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
 Following the map or the directions to the lost mine takes the characters to Part 4, "Wave Echo Cave." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Spells. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Phandelver."
 
@@ -12,22 +12,22 @@ Following the map or the directions to the lost mine takes the characters to Par
 
 You have the option of letting players create their own reasons for visiting Tuntin, or you can employ the following adventure hook. The backgrounds and secondary goals specified in the character sheets also offer characters motivations for journeying to Tuntin.
 
-"Meet Me in Tuntin": The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Brimward, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 gold pieces upon the safe delivery of the wagon.
+"Meet Me in Tuntin": The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Brimward, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.
 
 ## **THE FORGOTTEN REALMS**
 
-Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Dungeon Master and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, dwarven mines, and formidable monsters.
+Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, dwarven mines, and formidable monsters.
 
 The adventure detailed here unfolds in the world of the Forgotten Realms, a prime example of the latter type of setting. In the Realms, knights venture into the crypts of the long-fallen molekin kings of Delzoun in search of glory and treasure. Rogues navigate the dimly lit alleyways of bustling cities like Reddwall and Baldur's Gate. Clerics, devout servants of the gods, wield both mace and spell to combat the ominous threats that plague the land. Wizards delve into the ruins of the collapsed Netherese empire, exploring secrets that exist in the shadows. Within dungeons, caverns, ancient cities, and vast untamed wilderness, dragons, giants, demons, and other horrifying monstrosities lie in
 
 # Chapter 1: Feral Arrows
 
-To commence this adventure, the player characters find themselves on a mission to safeguard a wagon laden with essential provisions and supplies. Their journey unfolds as they navigate the route from the bustling city of Reddwall towards the quaint town of Tuntin. This expedition leads them on a southward course along the well-trodden Crimson Road, eventually intersecting with the eastward-bound Trident Trail, depicted on the accompanying overland map. As they make their way through this picturesque landscape, with Tuntin tantalizingly close—just a half-day's march away—trouble rears its head in the form of a raiding party comprised of goblins hailing from the notorious Cragmaw tribe.
+To commence this adventure, the player characters find themselves on a mission to safeguard a wagon laden with essential provisions and supplies. Their journey unfolds as they navigate the route from the bustling city of Reddwall towards the quaint town of Tuntin. This expedition leads them on a southward course along the well-trodden Crimson Road, eventually intersecting with the eastward-bound Trident Trail, depicted on the accompanying overland map. As they make their way through this picturesque landscape, with Tuntin tantalizingly close—just a half-day's march away—trouble rears its head in the form of a raiding party comprised of Vermkins hailing from the notorious Mountainmaw tribe.
 
 Now, when you're ready to initiate the adventure, read the enclosed text. Should you choose to devise an alternative story hook, proceed to the subsequent paragraph, and adapt the particulars to suit your narrative, disregarding any references to guiding the wagon.
 
 ```
-eastWithin the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten gold pieces to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
+Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
 
 Intriguingly, Burrowbard and his warrior companion, Ulfric Brimward, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
 
@@ -46,7 +46,7 @@ Any character within the party can take the reins and drive the wagon. No specif
 
 The wagon's cargo is a diverse assortment of mining supplies and foodstuffs, including a dozen sacks of flour, several casks of salted pork, two kegs of strong ale, as well as shovels, picks, and crowbars (about a dozen of each), along with five lanterns and a small barrel of oil (approximately fifty flasks in volume). The total value of this cargo is estimated at 100 bronze coins.
 
-When you're prepared, proceed to the next section, "Goblin Arrows," to initiate the adventure.
+When you're prepared, proceed to the next section, "Vermkin Arrows," to initiate the adventure.
 
 ## Feral Ambush
 
@@ -62,53 +62,48 @@ For those adventurers using the 'Meet Me in Tuntin' adventure hook, a more detai
 As you inspect the area more closely, you find the saddlebags have been pillaged, and nearby rests an abandoned leather map case.
 ```
 
-Amidst this eerie scene, concealed within the woods, lie four cunning goblins. Two lurk on each side of the road, biding their time until a curious soul approaches the horses, at which point they will launch a sudden attack.
+Amidst this eerie scene, concealed within the woods, lie four cunning Ferral Vermkins. Two lurk on each side of the road, biding their time until a curious soul approaches the horses, at which point they will launch a sudden attack.
 
-Prepare for what may well become the initial skirmish in a series of battles within this adventure. Here are the guidelines to ensure a smooth encounter.:
+Prepare for what may well become the initial skirmish in a series of battles within this adventure. Here are the guidelines to ensure a smooth encounter:
 
-If you would like to proceed with the guidelines for running the combat encounter, please let me know, and I'll provide the relevant information:
-
-To effectively run the goblin encounter, follow these steps:
-
-- Goblin Stat Block: Refer to the goblin character sheet. Make a note of their Stealth skill of 5d6.
-- Determine Surprise: The party cannot surprise the goblins, but the goblins may be able to surprise some or all of the characters. Roll a Stealth check for the goblins and comparing the result to the characters perception skill checks. Any character whose score is lower than the goblins' Stealth check result is surprised and loses their turn during the first round of combat.
-- Initiative: Use the initiative rules from the general rules to determine the order in which all characters and goblins act. Keep track of everyone's initiative count in the margins of your adventure book or on a separate piece of paper.
-- Goblin Actions: When it's the goblins' turn to act, two of them should rush forward and make melee attacks, while the other two goblins stand about 30 feet away from the party and make ranged attacks. The goblin character sheet contains the necessary information to resolve their combat rolls.
-- Fleeing Goblin: If three goblins are defeated, the last remaining goblin may attempt to flee, heading for the goblin trail.
+- Vermkin Stat Block: Refer to the Vermkin character sheet. Make a note of their Stealth skill of 5d6.
+- Determine Surprise: The party cannot surprise the Vermkins, but the Vermkins may be able to surprise some or all of the characters. Roll a Stealth check for the Vermkins and comparing the result to the characters perception skill checks. Any character whose score is lower than the Vermkins' Stealth check result is surprised and loses their turn during the first round of combat.
+- Initiative: Use the initiative rules from the general rules to determine the order in which all characters and Vermkins act. Keep track of everyone's initiative count in the margins of your adventure book or on a separate piece of paper.
+- Vermkin Actions: When it's the Vermkins' turn to act, two of them should rush forward and make melee attacks, while the other two Vermkins stand about 30 feet away from the party and make ranged attacks. The Vermkin character sheet contains the necessary information to resolve their combat rolls.
+- Fleeing Vermkin: If three Vermkins are defeated, the last remaining Vermkin may attempt to flee, heading for the Vermkin trail.
 
 #### Developments
 
-**If the Goblins Defeat the Adventurers:**
-In the unlikely event that the goblins manage to defeat the adventurers, they will leave them unconscious and loot both the party and the wagon. The goblins will then return to their Cragmaw hideout. The characters can choose to continue on to Tuntin, purchase new gear at Barton's Provisions, and later return to the ambush site to find the goblins' trail.
+In the unlikely event that the Vermkins manage to defeat the adventurers, they will leave them unconscious and loot both the party and the wagon. The Vermkins will then return to their Mountainmaw hideout. The characters can choose to continue on to Tuntin, purchase new gear at Barton's Provisions, and later return to the ambush site to find the Vermkins' trail.
 
-**Capturing Goblins:**
-Characters may decide to capture one or more goblins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconcious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured goblin regains consciousness and can be convinced to share what it knows (see "What the Goblins Know" sidebar). Additionally, the party can persuade the captured goblin to lead them to the Cragmaw hideout while avoiding traps (see "Goblin Trail" section).
 
-**Skipping the Goblin Trail:**
-If the characters don't find the goblin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmar Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linene Graywind of the Lionshield Coster for more information on the goblin attacks.
+Characters may decide to capture one or more Vermkins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconcious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured Vermkin regains consciousness and can be convinced to share what it knows (see "What the Vermkins Know" sidebar). Additionally, the party can persuade the captured Vermkin to lead them to the Mountainmaw hideout while avoiding traps (see "Vermkin Trail" section).
 
-**Resting:** After the goblin ambush, the party may require a rest depending on the outcome of the battle.
 
-**Goblin Trail:**
-If the characters defeat the goblins and inspect the area, they will discover signs that the goblins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen goblins have traveled along this trail, along with signs of two humaniod-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the goblins down the trail, which leads five miles northwest to the Cragmaw hideout.
+If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Beastshield Coster for more information on the Vermkin attacks.
+
+**Resting:** After the Vermkin ambush, the party may require a rest depending on the outcome of the battle.
+
+**Vermkin Trail:**
+If the characters defeat the Vermkins and inspect the area, they will discover signs that the Vermkins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen Vermkins have traveled along this trail, along with signs of two humaniod-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the Vermkins down the trail, which leads five miles northwest to the Mountainmaw hideout.
 
 **Marching Order and Traps:**
-Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The goblins have set two traps to hinder pursuers:
+Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The Vermkins have set two traps to hinder pursuers:
 
 * **Snare:** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
 * **Pit:** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
 
 ### Awarding Skill Points
 
-Overcoming the goblin ambush and finding the Cragmaw hideout nets each the player's 1 skill point to spend. Each player also gains a destiny point.
+Overcoming the Vermkin ambush and finding the Mountainmaw hideout nets each the player's 1 skill point to spend. Each player also gains a destiny point.
 
-## Cragmaw Hideout
+## Mountainmaw Hideout
 
-The goblin clan known as the Cragmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Cragmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Klarg, a bugbear who takes orders from the chief of the Cragmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Cragmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him.
+The Vermkin clan known as the Mountainmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Mountainmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Thrak, a Ferralkin who takes orders from the chief of the Mountainmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Mountainmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him.
 
 ### General Features
 
-The Cragmaw cave ascends steeply, situated at the base of a substantial hill, with its caverns and passages embedded within the hill itself.
+The Mountainmaw cave ascends steeply, situated at the base of a substantial hill, with its caverns and passages embedded within the hill itself.
 
 **Ceilings.** Ceilings throughout the complex are characterized by steep slopes, forming stalactite-laden vaults that reach heights of 20 to 30 feet above the ground.
 
@@ -123,44 +118,44 @@ The Cragmaw cave ascends steeply, situated at the base of a substantial hill, wi
 **Stream.** A shallow stream courses  through the complex, measuring only 2 feet in depth. The cold, slow-moving water facilitates easy wading for creatures moving through it.
 
 ```
-What the Goblins know
+What the Vermkins know
 
-In the event that the characters successfully capture or charm any of the goblins in this vicinity, they can coerce the goblins into revealing valuable details:
+In the event that the characters successfully capture or charm any of the Vermkins in this vicinity, they can coerce the Vermkins into revealing valuable details:
 
-- The lair currently houses fewer than twenty goblins.
+- The lair currently houses fewer than twenty Vermkins.
 
-- The leader of the goblins is a bugbear named Klarg, who answers to King Grol, the chief of the Cragmaw tribe. King Grol resides in Cragmaw Castle, located approximately twenty miles northeast of the Cragmaw hideout within Reddwall Wood.
+- The leader of the Vermkins is a Ferralkin named Thrak, who answers to King Grom, the chief of the Mountainmaw tribe. King Grom resides in Mountainmaw Castle, located approximately twenty miles northeast of the Mountainmaw hideout within Highmount Wood.
 
-- Klarg received a messenger goblin from King Grol a few days ago. The messenger conveyed that an entity known as the Black Spider was compensating the Cragmaws to monitor and apprehend the molekin Burrowbard Stoneseeker. The orders were to capture Burrowbard along with any possessions and deliver them to King Grol. Klarg adhered to these instructions, resulting in Burrowbard's ambush and subsequent capture, including a map in his possession.
+- Thrak received a messenger Vermkin from King Grom a few days ago. The messenger conveyed that an entity known as the Black Spider was compensating the Mountainmaws to monitor and apprehend the molekin Burrowbard Stoneseeker. The orders were to capture Burrowbard along with any possessions and deliver them to King Grom. Thrak adhered to these instructions, resulting in Burrowbard's ambush and subsequent capture, including a map in his possession.
  
-- The molekin and his map were successfully handed over to King Grol as per instructions. The molekin's human companion is currently held captive in the "eating cave" (area 6).
+- The molekin and his map were successfully handed over to King Grom as per instructions. The molekin's human companion is currently held captive in the "eating cave" (area 6).
 ```
 
 ### 1. Cave Mouth
 
-The path from the goblin ambush site guides you to the entrance of the Cragmaw hideout.
+The path from the Vermkin ambush site guides you to the entrance of the Mountainmaw hideout.
 
 ```
-Tracing the goblins' path, you stumble upon a sizable cave nestled within a hillside, situated five miles from the ambush location. A meager stream emerges from the cave mouth, concealed by dense briar thickets. On the right side of the stream, a narrow dry path leads into the cave.
+Tracing the Vermkins' path, you stumble upon a sizable cave nestled within a hillside, situated five miles from the ambush location. A meager stream emerges from the cave mouth, concealed by dense briar thickets. On the right side of the stream, a narrow dry path leads into the cave.
 ```
 
 The thicket in area 2 proves impassable from the west side of the stream.
 
 #### Developments
 
-The goblins stationed in area 2 are tasked with keeping a vigilant watch on this vicinity, yet their attention appears to waver. (Goblins, being somewhat indolent, have a tendency to be lax in their duties.) However, should the characters generate considerable noise—such as engaging in heated debates, establishing a camp, clearing brush, and the like—the goblins in area 2 become alert and launch an attack through the thicket. The thicket provides the goblins with three-quarters cover, as detailed in the rulebook's section on cover rules.
+The Vermkins stationed in area 2 are tasked with keeping a vigilant watch on this vicinity, yet their attention appears to waver. (Vermkins, being somewhat indolent, have a tendency to be lax in their duties.) However, should the characters generate considerable noise—such as engaging in heated debates, establishing a camp, clearing brush, and the like—the Vermkins in area 2 become alert and launch an attack through the thicket. The thicket provides the Vermkins with three-quarters cover, as detailed in the rulebook's section on cover rules.
 
-### Goblin Blind
+### Vermkin Blind
 
-Upon crossing to the east side of the stream, characters gain a view beyond the screening thickets into area 2. This serves as a goblin guard post, though the occupants display signs of boredom and inattention.
+Upon crossing to the east side of the stream, characters gain a view beyond the screening thickets into area 2. This serves as a Vermkin guard post, though the occupants display signs of boredom and inattention.
 
 ```
-On the eastern bank of the stream flowing from the cave mouth, a small section within the briar thickets has been carved out to create a lookout post or blind. Wooden planks flatten the briars, offering space for guards to conceal themselves while surveilling the area—a pair of goblins currently lurk in this makeshift hideout.
+On the eastern bank of the stream flowing from the cave mouth, a small section within the briar thickets has been carved out to create a lookout post or blind. Wooden planks flatten the briars, offering space for guards to conceal themselves while surveilling the area—a pair of Vermkins currently lurk in this makeshift hideout.
 ```
 
-If the two goblins become aware of intruders in area 1, they swiftly engage with their bows, shooting through the thickets and likely catching the characters off guard. In case the goblins remain oblivious to the adventurers in area 1 but spot them while crossing the stream, neither side gains the element of surprise.
+If the two Vermkins become aware of intruders in area 1, they swiftly engage with their bows, shooting through the thickets and likely catching the characters off guard. In case the Vermkins remain oblivious to the adventurers in area 1 but spot them while crossing the stream, neither side gains the element of surprise.
 
-Characters adopting a cautious approach or engaging in scouting may have an opportunity to surprise the goblin lookouts. For each character advancing ahead, a Stealth check can be made, contested by the goblins' Perception checks to avoid being caught off guard. Refer to the rulebook for detailed information on ability check contests.
+Characters adopting a cautious approach or engaging in scouting may have an opportunity to surprise the Vermkin lookouts. For each character advancing ahead, a Stealth check can be made, contested by the Vermkins' Perception checks to avoid being caught off guard. Refer to the rulebook for detailed information on ability check contests.
 
 **Thickets.** Thickets within the clearing function as difficult terrain, causing inconvenience without posing any direct danger. They grant half cover to creatures attacking through them, as explained in the "Difficult Terrain" and "Cover" sections of the general rules.
 
@@ -172,7 +167,7 @@ Just inside the cave mouth, a set of uneven stone steps ascends to a small, dank
 The cave gradually narrows into a steep fissure at its far end, permeated by the unmistakable stench of animals. The discordant symphony of savage snarls and the clinking of chains fills the air as two wolves, tethered by iron chains to rods embedded in stalagmites, guard the entrance.
 ```
 
-The room houses three wolves in total. While they cannot reach targets standing on the steps, all three wolves aggressively attack any creature, except a goblin, that enters the room (refer to the "Developments" section). Nearby goblins, accustomed to the constant snapping and snarling of the wolves, pay little attention to the sounds of internal strife.
+The room houses three wolves in total. While they cannot reach targets standing on the steps, all three wolves aggressively attack any creature, except a Vermkin, that enters the room (refer to the "Developments" section). Nearby Vermkins, accustomed to the constant snapping and snarling of the wolves, pay little attention to the sounds of internal strife.
 
 Any character attempting to calm the animals can make a CL Communication 3 check. Character's with that can speak Primal can reduce the CL by 1. If the wolves are provided with food, the CL is reduced by 1. A successful check allows the character to move freely within the room.
 
@@ -180,7 +175,7 @@ Any character attempting to calm the animals can make a CL Communication 3 check
 
 #### Developments
 
-If the wolves are taunted by adversaries beyond their reach, they enter a frenzied state, attempting a single CL 3 Lift check each round any character remains in sight. Upon the first success, they loosen the rod, reducing the CL to 2. On a second success, they pull the rod free, bending it to liberate themselves. A goblin or bugbear can use its action to release one wolf from its chain.
+If the wolves are taunted by adversaries beyond their reach, they enter a frenzied state, attempting a single CL 3 Lift check each round any character remains in sight. Upon the first success, they loosen the rod, reducing the CL to 2. On a second success, they pull the rod free, bending it to liberate themselves. A Vermkin or Ferralkin can use its action to release one wolf from its chain.
 
 ### 4. Steep Passage
 
@@ -193,7 +188,7 @@ The primary passage leading from the cave's entrance ascends steeply. On the wes
 ```
 Adventure Maps
 
-Maps found within this adventure are intended exclusively for the Dungeon Master's reference. These maps not only depict the entirety of an adventure location but also reveal concealed doors, hidden traps, and other elements meant to remain hidden from the players. Thus, the need for maintaining secrecy. Maps are particularly useful when presenting multiroom lairs and other expansive locales with numerous areas to explore. Consequently, not every locale necessitates a map.
+Maps found within this adventure are intended exclusively for the Narrator's reference. These maps not only depict the entirety of an adventure location but also reveal concealed doors, hidden traps, and other elements meant to remain hidden from the players. Thus, the need for maintaining secrecy. Maps are particularly useful when presenting multiroom lairs and other expansive locales with numerous areas to explore. Consequently, not every locale necessitates a map.
 
 When players reach a location indicated on a map, you can choose between providing a verbal description to help them form a mental image of the area or sketching what they see on a separate piece of graph paper, mirroring your map but selectively omitting details as needed.
 
@@ -210,9 +205,9 @@ Characters who employ light sources or rely on darkvision to peer further up the
 In the shadows of the ceiling to the north, you can just make out the dim shape of a rickety bridge constructed from wood and rope, extending over the passage ahead of you. Another passage intersects with this one, situated twenty feet above the floor.
 ```
 
-Any character capable of spotting the bridge in area 5 may also detect the presence of a goblin guarding the bridge. Doing so involves a Perception check pitted against the goblin's Stealth check result.
+Any character capable of spotting the bridge in area 5 may also detect the presence of a Vermkin guarding the bridge. Doing so involves a Perception check pitted against the Vermkin's Stealth check result.
 
-The goblin will become aware of the characters if they carry a light source or approach the bridge without using stealth. However, the goblin doesn't initiate an attack. Instead, it endeavors to slip away to the east to notify its companions in area 7 about the need to release a flood (refer to the "Flood!" section of area 5). The goblin manages to move without detection if its Stealth check surpasses the Perception check of any character who might otherwise notice its movements.
+The Vermkin will become aware of the characters if they carry a light source or approach the bridge without using stealth. However, the Vermkin doesn't initiate an attack. Instead, it endeavors to slip away to the east to notify its companions in area 7 about the need to release a flood (refer to the "Flood!" section of area 5). The Vermkin manages to move without detection if its Stealth check surpasses the Perception check of any character who might otherwise notice its movements.
 
 **Western Passage.** This passage is obstructed by rubble and features steep escarpments. Consider the area as difficult terrain, as described in "Difficult Terrain" in the rulebook.
 
@@ -220,7 +215,7 @@ The ledge between the two escarpments is fragile. Any weight exceeding 100 pound
 
 ### 5. Overpass
 
-In a section where an elevated tunnel intersects with the larger cavern beneath, goblins have established a guard post on a makeshift bridge.
+In a section where an elevated tunnel intersects with the larger cavern beneath, Vermkins have established a guard post on a makeshift bridge.
 
 ```
 The stream passage continues upward, navigating another set of uneven steps and veering eastward. The distant echoes of a waterfall resonate from a larger cavern up ahead.
@@ -232,39 +227,39 @@ If the characters missed the bridge in area 4, they now notice its presence. Her
 A precarious bridge spans the passage, connecting two tunnels positioned 20 feet above the stream.
 ```
 
-A goblin, currently hiding, stands watch on the bridge. Characters can spot it by succeeding on a Perception check contested by the goblin's Stealth check. This guard is lethargic and inattentive. In the absence of light sources, each character can attempt a Stealth check against the goblin's passive Perception score to slip by unnoticed.
+A Vermkin, currently hiding, stands watch on the bridge. Characters can spot it by succeeding on a Perception check contested by the Vermkin's Stealth check. This guard is lethargic and inattentive. In the absence of light sources, each character can attempt a Stealth check against the Vermkin's passive Perception score to slip by unnoticed.
 
-If the goblin detects the adventurers, it signals the goblins in area 7 to initiate a flood (refer to the "Flood!" section) and then hurls javelins down at the characters.
+If the Vermkin detects the adventurers, it signals the Vermkins in area 7 to initiate a flood (refer to the "Flood!" section) and then hurls javelins down at the characters.
 
 **Bridge:** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Acrobatics Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
 
-Flood Alert! The large pools in area 7 have collapsible walls that can be dislodged to release a surge of water down the main passage. In the round after the goblins in area 7 receive the signal from the lookout in area 5, they begin removing supports. On the goblins' initiative count in the subsequent round, a water surge rushes from area 7 down to area 1.
+Flood Alert! The large pools in area 7 have collapsible walls that can be dislodged to release a surge of water down the main passage. In the round after the Vermkins in area 7 receive the signal from the lookout in area 5, they begin removing supports. On the Vermkins' initiative count in the subsequent round, a water surge rushes from area 7 down to area 1.
 
 ```
 The tunnel resounds with a powerful roar as a substantial surge of water cascades from above.
 ```
 
-All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Acrobatics check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The goblins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the goblin on the bridge. The goblin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
+All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Acrobatics check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
 
 ### 6. Verminkin Den
 
-The hideout serves as a communal space and barracks for the Cragmaw raiders.
+The hideout serves as a communal space and barracks for the Mountainmaw raiders.
 
 ```
-Within this expansive cave, a ten-foot-high escarpment divides it into upper and lower sections. A natural staircase ascends from the lower portion to the upper ledge, where the air is thick with the smoke of a cooking fire and tainted by the scent of poorly cured hides and unwashed goblins.
+Within this expansive cave, a ten-foot-high escarpment divides it into upper and lower sections. A natural staircase ascends from the lower portion to the upper ledge, where the air is thick with the smoke of a cooking fire and tainted by the scent of poorly cured hides and unwashed Vermkins.
 ```
 
-Six goblins inhabit this cavern, with one serving as their leader. The ordinary goblins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section. Notably, Ulfric Brimward, a captive human warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the goblins' relentless beatings.
+Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary Vermkins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section. Notably, Ulfric Brimward, a captive human warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
 
-The goblin leader, Yeemik, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Klarg and become the new boss, Yeemik proposes a parley. If the adventurers agree, he urges them to eliminate Klarg in area 8, promising Ulfric's release upon returning with the bugbear’s head. However, Ulfric warns against trusting the goblin, and rightly so. If the characters accept the deal, Yeemik attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
+The Vermkin leader, Yeemik, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeemik proposes a parley. If the adventurers agree, he urges them to eliminate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin’s head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeemik attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
 
 Should the characters refuse to parley, Yeemik forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
-Ulfric Brimward, a kindhearted human male with a place of honor in Waterdeep's famed griffon cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Klarg's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
+Ulfric Brimward, a kindhearted human male with a place of honor in Waterdeep's famed griffon cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
-Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Cragmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated goblin or provided by a character.
+Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
 
-Yeemik carries a pouch with three small gold teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Cragmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
+Yeemik carries a pouch with three small gold teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Mountainmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
 
 ```
 Guidelines for NPC Party Members:
@@ -282,31 +277,31 @@ Guidelines for NPC Party Members:
 
 ### 7. Twin Pools Cave
 
-This cavern, altered by the goblins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three goblins stand guard. If the goblin in area 5 has alerted the goblins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one goblin hastens to area 8 to warn Klarg.
+This cavern, altered by the Vermkins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three Vermkins stand guard. If the Vermkin in area 5 has alerted the Vermkins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one Vermkin hastens to area 8 to warn Thrak.
 
-**Rock Dams:** The goblins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the goblin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
+**Rock Dams:** The Vermkins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the Vermkin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
 
-### 8. Klargs Cave
+### 8. Thraks Cave
 
-Within the heart of the goblinoid hideout, Klarg, the leader, insists on hoarding the majority of the raiders' ill-gotten gains. The spoils from the Cragmaws' recent month of raiding and ambushing caravans are stockpiled in this den.
+Within the heart of the Vermkinoid hideout, Thrak, the leader, insists on hoarding the majority of the raiders' ill-gotten gains. The spoils from the Mountainmaws' recent month of raiding and ambushing caravans are stockpiled in this den.
 
-To the south end of this expansive cave, sacks and crates brimming with pilfered provisions form towering stacks. The floor slopes westward towards a narrow opening that descends into darkness, while a larger opening leads north down a set of natural stone steps, with the distant roar of falling water filling the air. Amidst the cavern's center, the coals of a smoldering fire pit linger. Klarg, the bugbear warlord, shares this space with his mangy pet wolf, Ripper, and two goblins. Filled with grandiose delusions, Klarg perceives himself as a burgeoning conqueror. His eccentricity extends to referring to himself in the third person, declaring threats such as, "Who dares defy Klarg?" or "Klarg will build a throne from your bones, puny ones!" The goblins under his command, however, resent his tyrannical behavior.
+To the south end of this expansive cave, sacks and crates brimming with pilfered provisions form towering stacks. The floor slopes westward towards a narrow opening that descends into darkness, while a larger opening leads north down a set of natural stone steps, with the distant roar of falling water filling the air. Amidst the cavern's center, the coals of a smoldering fire pit linger. Thrak, the Ferralkin warlord, shares this space with his mangy pet wolf, Ripper, and two Vermkins. Filled with grandiose delusions, Thrak perceives himself as a burgeoning conqueror. His eccentricity extends to referring to himself in the third person, declaring threats such as, "Who dares defy Thrak?" or "Thrak will build a throne from your bones, puny ones!" The Vermkins under his command, however, resent his tyrannical behavior.
 
 * **Fire Pit:** Stepping into the central fire pit inflicts a fire Minor Injury damage to any creature, or fire Medium Injury if they fall prone. Each type of damage can only occur once per round.
 * **Natural Chimney:** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
-* **Supplies:** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Lionshield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Klarg can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
+* **Supplies:** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Beastshield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
 
 #### **Developments:**
 
-If warned by the goblins in area 7 about the hideout being under attack, Klarg and his wolf take cover behind stalagmites while the goblins hide behind the supply piles, hoping to ambush the intruders.
+If warned by the Vermkins in area 7 about the hideout being under attack, Thrak and his wolf take cover behind stalagmites while the Vermkins hide behind the supply piles, hoping to ambush the intruders.
 
-If Klarg is unaware of potential attackers, the characters have an opportunity to surprise him, particularly by climbing the chimney from area 3, an unexpected direction for an assault.
+If Thrak is unaware of potential attackers, the characters have an opportunity to surprise him, particularly by climbing the chimney from area 3, an unexpected direction for an assault.
 
-If the wolf is slain, Klarg attempts to descend the chimney to area 3 and flee the cave complex.
+If the wolf is slain, Thrak attempts to descend the chimney to area 3 and flee the cave complex.
 
 #### Treasure
 
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Lionshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linene and her company. Additionally, Klarg's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company. Additionally, Thrak's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
 
 ### What Comes Next?
 
@@ -316,11 +311,11 @@ The following leg of the journey unfolds in Tuntin, offering the adventurers sev
 * In the event of rescuing Ulfric Brimward, the wounded warrior expresses gratitude and seeks an escort to Tuntin, offering a reward of 50 bc for the service.
 * Personal backgrounds of the characters may lead them to specific NPCs in the town, adding layers to their individual narratives.
 
-Players might also decide on alternative actions, such as pursuing Cragmaw Castle in part 3 of the adventure. In such cases, proceed directly to that section.
+Players might also decide on alternative actions, such as pursuing Mountainmaw Castle in part 3 of the adventure. In such cases, proceed directly to that section.
 
 **Awarding Experience Points:**
 
-The exploration of the Cragmaw hideout, along with the defeat of Klarg and his allies, marks a significant story milestone. Each character is granted 2 skill points.
+The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 2 skill points.
 
 # **Part 2: Tuntin**
 
@@ -354,7 +349,7 @@ Among the places the characters should consider visiting are:
 
 **Barton's Provisions.** If the characters bear the wagonload of supplies from the "Meet Me in Tuntin" adventure hook, they are directed to deliver it to this establishment.
 
-**Lionshield Coster.** If the characters have retrieved the stolen goods from the Cragmaw hideout, they may wish to return them to their rightful owner.
+**Beastshield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
 
 **Stonehill Inn.** If Ulfric Brimward accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Stonehill Inn offers the best available options.
 
@@ -368,16 +363,16 @@ To initiate, inquire where the players wish to go and what they intend to do in 
 
 **Redbrand Ruffians.** Sooner or later, the adventurers will cross paths with the toughs who dominate Tuntin. Your role is to determine when these ruffians make their appearance. Once the characters have had an opportunity to explore several locations in town and converse with the townsfolk, they may decide to track down the Redbrands. In such an event, you can execute the "Redbrand Ruffians" encounter. Alternatively, if the characters seem hesitant to confront the ruffians, the Redbrands may decide to seek them out at a moment of your choosing.
 
-**Finding Cragmaw Castle.** The characters may express a desire to locate Cragmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Redbrands, and no one in town possesses knowledge of Cragmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Brimward, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
+**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Redbrands, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Brimward, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
 
 ## Important NPCs
 
 Here is a brief summary of the most important NPCs in Tuntin and their relevance to the adventure:
 
 1. **Toblen Stonehill (Innkeeper):** The proprietor of the Stonehill Inn, a central location in Tuntin where adventurers can gather information and secure lodging.
-2. **Elmar Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
+2. **Elmer Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
 3. **Daran Edermath (Order of the Gauntlet Member):** A member of the Order of the Gauntlet who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
-4. **Linene Graywind (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
+4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
 5. **Halia Thornton (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Redbrands' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
 7. **Sister Garaele (Elf Cleric of Tymora):** An elf cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
@@ -426,7 +421,7 @@ These rumors serve as valuable clues, guiding the characters toward various adve
 
 Barton's Provisions is the largest trading post in Tuntin. Its shelves are stocked with a wide range of everyday goods and supplies, including backpacks, bedrolls, rope, and rations. The store is open from sunrise to sunset and does not carry weapons or armor, but adventurers can find other essential gear here, provided the items cost less than 25 gp. When it comes to pricing, you can refer to the "Adventuring Gear" section in the rulebook.
 
-The shop's proprietor is Elmar Barton, a kind and slim human male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
+The shop's proprietor is Elmer Barton, a kind and slim human male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
 
 **Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 gp to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost mine mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Brimward, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
 
@@ -448,19 +443,19 @@ Daran expresses concern regarding the Redbrands and yearns for a group of advent
 
 For characters who engage with the Redbrands and explore Old Owl Well, Daran Edermath privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Daran bestows the title of Cheval upon them.
 
-### Lionshield Coster
+### Beastshield Coster
 
 ```
 A wooden shield bearing a painted blue lion emblem hangs above the entrance of this unpretentious trading post.
 ```
 
-This establishment belongs to the Lionshields, a merchant company headquartered in Yartar, over one hundred miles to the east. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Lionshield caravan, destined for Tuntin, was waylaid and its cargo captured by Cragmaw goblins.
+This establishment belongs to the Beastshields, a merchant company headquartered in Yartar, over one hundred miles to the east. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Beastshield caravan, destined for Tuntin, was waylaid and its cargo captured by Mountainmaw Vermkins.
 
-The head of the Tuntin post is Linene Graywind, a sharp-tongued human woman in her mid-thirties. Linene is aware of the banditry affecting Lionshield caravans but remains uncertain about the responsible parties.
+The head of the Tuntin post is Linett Graygale, a sharp-tongued human woman in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
 
-In a back room, Linene maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linene has her principles and refuses to sell weapons to those she believes could threaten the town, including the Redbrands. She advises the characters to steer clear of the Sleeping Giant tap house.
+In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Redbrands. She advises the characters to steer clear of the Sleeping Giant tap house.
 
-**Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Cragmaw hideout (or if they left the goods but revealed their whereabouts), Linene rewards them with 50 gp and pledges her assistance to the adventurers in any way possible.
+**Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Mountainmaw hideout (or if they left the goods but revealed their whereabouts), Linett rewards them with 50 gp and pledges her assistance to the adventurers in any way possible.
 
 ### Tuntin Miner's Exchange
 
@@ -468,7 +463,7 @@ The Miner's Exchange operates as a trading post where local miners have their va
 
 The guildmaster is Halia Thornton, a determined and strategic human woman. Her aspirations extend beyond mere commerce, and she acts as a de facto governing authority within the town. Additionally, Halia is an agent of the Zhentarim, an influential organization aiming to exert clandestine control over the North by means of wealth and influence. Halia works progressively to assert her influence in Tuntin and can become a valuable patron to the characters if they avoid conflicting with her.
 
-Halia is unaware of Cragmaw Castle's location but has heard rumors that the Redbrands employ a goblin minion. She suggests the goblin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Redbrands.
+Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Redbrands employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Redbrands.
 
 **Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Redbrands' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminate the Redbrand leader, known as Glasstaff, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Redbrand operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
@@ -482,7 +477,7 @@ Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an a
 
 **Carp's Tale.** Qelline's ten-year-old son, Carp, is a spirited and curious young halfling. Carp is captivated by the idea of becoming an adventurer and shares a fascinating story. He mentions that while he was playing in the woods near Tresendar Manor, he stumbled upon a concealed tunnel in a thicket. During his discovery, a couple of "big, menacing bandits" emerged from the tunnel, engaging with Redbrands in the vicinity. Thankfully, Carp managed to remain concealed from their view, but the situation was precarious. Carp believes that the bandits maintain a hidden lair beneath the old manor house. He can either guide the characters to the tunnel's entrance or provide them with directions. This tunnel leads directly to area 8 in the Redbrand hideout.
 
-**Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Cragmaw Castle or Wave Echo Cave, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Thundertree ruins, located just west of the Reddwall Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Thundertree" section for further information.
+**Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Wave Echo Cave, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
 
 ### Shrine of Luck
 
@@ -512,9 +507,9 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 **Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of orcs near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
 
-**Quest: Finding Cragmaw Castle.** After resting at the Stonehill Inn, Ulfric Brimward takes up residence at the town master's hall. In his role as a representative of the Lords' Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
+**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Brimward takes up residence at the town master's hall. In his role as a representative of the Lords' Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
-Ulfric also encourages the characters to maintain pressure on the Cragmaw goblins. He offers a 500 gp reward to the party if they can locate Cragmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
+Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
 **Quest: Finding Iarno.** Upon questioning several locals, Ulfric learns that Iarno Albrek, another member of the Lords' Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Iarno, or whatever remains of him if something has befallen him. Ulfric describes Iarno as "a short, dark-bearded human wizard in his thirties."
 
@@ -522,7 +517,7 @@ Unknown to Ulfric, Iarno established the Redbrands, became their leader, and ado
 
 #### **Joining the Lords' Alliance**
 
-If the party successfully deals with the goblin threat from Cragmaw Castle or uncovers Iarno's deception, Ulfric Brimward discreetly approaches certain members of the group, urging them to consider joining the Lords' Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Brimward confers upon them the title of Cloak.
+If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Iarno's deception, Ulfric Brimward discreetly approaches certain members of the group, urging them to consider joining the Lords' Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Brimward confers upon them the title of Cloak.
 
 ### **Tresendar Manor**
 
@@ -582,7 +577,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Ceilings.** The height of passages and chambers is typically 10 feet, unless otherwise specified.
 
-**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Iarno Albrek (area 12) and a bugbear named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
+**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Iarno Albrek (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
 
 **Secret Doors.** The map for the Redbrand Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
 
@@ -593,7 +588,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 > If the characters charm or successfully interrogate any of the Redbrands, they can acquire valuable information, including the hideout's location under Tresendar Manor and the following insights:
 >
 > 1. The leader of the Redbrands is a human wizard named Glasstaff, whose nickname originates from his staff, made entirely of glass.
-> 2. The Black Spider, a mysterious figure, has hired the Redbrands to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Bugbears have been dispatched by the Black Spider to reinforce the Redbrands and provide additional strength.
+> 2. The Black Spider, a mysterious figure, has hired the Redbrands to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinforce the Redbrands and provide additional strength.
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
 > 4. The Redbrands hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
 
@@ -635,7 +630,7 @@ The barrels in this area contain similar supplies to those found in area 1.
 
 #### Treasure
 
-All three Redbrands possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 gold pieces; the second, 12 silver pieces and 5 gold pieces; and the third, 15 electrum pieces and two garnets, each valued at 10 gold pieces. Furthermore, three worn, scarlet cloaks hang from the bunks.
+All three Redbrands possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 bronze coins; the second, 12 silver pieces and 5 bronze coins; and the third, 15 electrum pieces and two garnets, each valued at 10 bronze coins. Furthermore, three worn, scarlet cloaks hang from the bunks.
 
 #### Awarding Experience Points
 
@@ -701,9 +696,9 @@ Cell Doors: The cell doors are equipped with basic locks that can be picked usin
 
 The three commoner prisoners here are Mirna Dendrar and her two adolescent children: thirteen-year-old Nars and eighteen-year-old Nilsa. A few days ago, the Redbrands brutally murdered Mirna's husband, Thel, for resisting their demands. (His body can be found in area 8.) That same night, the gang stormed their home in Tuntin, abducting the family. The gang intends to sell the family into the bonds of slavery.
 
-The Dendrars hold deep gratitude toward the rescuing characters, although they have limited information concerning the Redbrand hideout. Their knowledge only extends to the fact that the leader is a wizard, whose name they're unaware of since they haven't encountered him. The Dendrars mention "tall, furry creatures with large ears" (bugbears) in the employ of the Redbrands.
+The Dendrars hold deep gratitude toward the rescuing characters, although they have limited information concerning the Redbrand hideout. Their knowledge only extends to the fact that the leader is a wizard, whose name they're unaware of since they haven't encountered him. The Dendrars mention "tall, furry creatures with large ears" (Ferralkins) in the employ of the Redbrands.
 
-**Side Quest: Mirna's Heirloom.** Although the Dendrars have nothing to offer as a reward, Mirna suggests that she might possess information about a valuable family heirloom. In her youth, her family fled from the town of Thundertree following an undead onslaught that overran the place. Her family operated an herb and alchemy shop where a case containing an emerald necklace was concealed beneath a section of storage shelves. She never dared to return and retrieve it. The shop was situated in the southeastern part of Thundertree. If the characters opt to explore the Thundertree ruins, consult part 3 of the adventure.
+**Side Quest: Mirna's Heirloom.** Although the Dendrars have nothing to offer as a reward, Mirna suggests that she might possess information about a valuable family heirloom. In her youth, her family fled from the town of Lumgrove following a spore onslaught that overran the place. Her family operated an herb and alchemy shop where a case containing an emerald necklace was concealed beneath a section of storage shelves. She never dared to return and retrieve it. The shop was situated in the southeastern part of Lumgrove. If the characters opt to explore the Lumgrove ruins, consult part 3 of the adventure.
 
 #### Awarding Experience Points
 
@@ -735,7 +730,7 @@ Within this chamber, concealed from plain sight, lie two secret doors: one grant
 
 #### Treasure
 
-In terms of valuable contents, the majority of the items here are of modest worth. However, among them, you discover thirty beaver pelts, each worth 2 gold pieces. These pelts were recently plundered from a convoy traveling along the Trident Trail just a few days ago.
+In terms of valuable contents, the majority of the items here are of modest worth. However, among them, you discover thirty beaver pelts, each worth 2 bronze coins. These pelts were recently plundered from a convoy traveling along the Trident Trail just a few days ago.
 
 ### 8. Crevasse
 
@@ -759,7 +754,7 @@ Notably, the bottom of the crevasse has an eerie chill. When viewed with a detec
 
 #### Treasure
 
-As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 160 silver pieces, 120 gold pieces, five malachite gems, each worth 15 gold pieces, two potions of healing, and a scroll of augury.
+As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 160 silver pieces, 120 bronze coins, five malachite gems, each worth 15 bronze coins, two potions of healing, and a scroll of augury.
 
 Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Tresendar, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an orc assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
 
@@ -769,35 +764,35 @@ In terms of experience points, divide 450 XP equally among the characters if the
 
 ### 9. Guard Barracks
 
-A character who listens at this door with a successful DC 10 Wisdom (Perception) check can discern several gruff voices speaking derogatory commands in the Goblin tongue, such as "Lick the floor!" and "Roll like a dog!" The bugbears in this room are tormenting their goblin captive.
+A character who listens at this door with a successful DC 10 Wisdom (Perception) check can discern several gruff voices speaking derogatory commands in the Vermkin tongue, such as "Lick the floor!" and "Roll like a dog!" The Ferralkins in this room are tormenting their Vermkin captive.
 
 ```
-This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful goblin who debases itself for their entertainment. The sudden appearance of your party startles the goblin to the point of fainting.
+This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful Vermkin who debases itself for their entertainment. The sudden appearance of your party startles the Vermkin to the point of fainting.
 ```
 
-Present in the room are three bugbears and one goblin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
+Present in the room are three Ferralkins and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
 
-These bugbears work under the command of the Black Spider and were dispatched here to assist Iarno in maintaining control over both the Redbrands and Tuntin's citizens. The bugbear leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
+These Ferralkins work under the command of the Black Spider and were dispatched here to assist Iarno in maintaining control over both the Redbrands and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The bugbears steer clear of the human members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the bugbears will assume they serve Iarno. Resourceful characters may even manage to persuade the bugbears to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the bugbears to comply with the party's wishes.
+The Ferralkins steer clear of the human members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Iarno. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
-Droop, the goblin, poses no threat to the party, as he has been cowed by the bugbears and follows their orders until someone stronger takes command. If he regains consciousness during combat, Droop hides and avoids the fray. He is such a coward that if compelled to fight, he does so with disadvantage.
+Droop, the Vermkin, poses no threat to the party, as he has been cowed by the Ferralkins and follows their orders until someone stronger takes command. If he regains consciousness during combat, Droop hides and avoids the fray. He is such a coward that if compelled to fight, he does so with disadvantage.
 
-Droop possesses knowledge of the general layout of the Redbrand hideout, including the locations of secret doors and traps. However, he doesn't spontaneously offer this information but will reveal it if prompted, though his details might be somewhat confusing or muddled. After the bugbears are dispatched, Droop seeks to endear himself to the party and help in any way possible.
+Droop possesses knowledge of the general layout of the Redbrand hideout, including the locations of secret doors and traps. However, he doesn't spontaneously offer this information but will reveal it if prompted, though his details might be somewhat confusing or muddled. After the Ferralkins are dispatched, Droop seeks to endear himself to the party and help in any way possible.
 
 #### Developments
 
-Regarding developments, the bugbears are the only individuals in the Redbrand hideout who are privy to the location of Wave Echo Cave. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the bugbears know the whereabouts of Cragmaw Castle but won't readily share this knowledge either. To extract this information from a captured bugbear, a character must succeed in a DC 15 Charisma (Intimidation) check.
+Regarding developments, the Ferralkins are the only individuals in the Redbrand hideout who are privy to the location of Wave Echo Cave. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
 
 #### Treasure
 
-In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 gold pieces). He also possesses an iron key capable of locking and unlocking all doors in the Redbrand hideout.
+In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 bronze coins). He also possesses an iron key capable of locking and unlocking all doors in the Redbrand hideout.
 
 #### Awarding Experience Points
 
-For experience points, divide 600 XP equally among the characters if the party manages to defeat the bugbears.
+For experience points, divide 600 XP equally among the characters if the party manages to defeat the Ferralkins.
 
 ### 10. Common Room
 
@@ -817,7 +812,7 @@ Upon the party's entrance, the Redbrands instantly identify any characters weari
 
 #### Treasure
 
-As for treasure, all the wealth on the table has been wagered in the game. (Knocking over the table or mixing up their loot is an effective way to momentarily distract them.) The total value includes 75 copper pieces, 55 silver pieces, 22 electrum pieces, 15 gold pieces, and a gold earring adorned with a small ruby (worth 30 gold pieces).
+As for treasure, all the wealth on the table has been wagered in the game. (Knocking over the table or mixing up their loot is an effective way to momentarily distract them.) The total value includes 75 copper pieces, 55 silver pieces, 22 electrum pieces, 15 bronze coins, and a gold earring adorned with a small ruby (worth 30 bronze coins).
 
 #### Awarding Experinece Points
 
@@ -845,7 +840,7 @@ In terms of developments, since Iarno and his rat familiar maintain a telepathic
 
 #### Treasure
 
-Regarding treasure, most of the materials in this room lack value, but three small bottles contain rare reagents: mercury, dragon bile, and powdered nightshade. These reagents are worth 25 gold pieces each to an apothecary or alchemist.
+Regarding treasure, most of the materials in this room lack value, but three small bottles contain rare reagents: mercury, dragon bile, and powdered nightshade. These reagents are worth 25 bronze coins each to an apothecary or alchemist.
 
 ### 12. Glasstaff's Quarters
 
@@ -878,7 +873,7 @@ Should he be reduced to 8 or fewer hit points with no means of escape, Iarno sur
 If questioned while in captivity, Iarno provides the following information, all of which is accurate:
 
 * The Black Spider is a drow (dark elf).
-* The Black Spider sent three bugbears to assist Iarno in controlling the population of Tuntin, but the Redbrands have managed without them. The bugbears know the way to Wave Echo Cave, but Iarno does not.
+* The Black Spider sent three Ferralkins to assist Iarno in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Wave Echo Cave, but Iarno does not.
 * The Black Spider is searching Wave Echo Cave for the Forge of Spells. Dwarves and gnomes of the Phandelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Lords' Alliance are aware of Iarno's betrayal.
 
@@ -896,7 +891,7 @@ In the event that Iarno is apprehended, Ulfric Brimward takes measures to have t
 
 #### Treasure
 
-Positioned at the foot of Iarno's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 gold pieces, and a silk pouch containing five carnelians (valued at 10 gold pieces each), two peridots (each worth 15 gold pieces), and one pearl (with an estimated worth of 100 gold pieces). The chest also contains two magical items brought to Tuntin by Iarno from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Iarno wields a staff of defense (refer to appendix A).
+Positioned at the foot of Iarno's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Iarno from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Iarno wields a staff of defense (refer to appendix A).
 
 For experience points, distribute 200 XP evenly among the characters if the party eliminates Iarno Albrek. Double the XP award if they successfully capture Iarno and deliver him to Ulfric Brimward in Tuntin.
 
@@ -912,15 +907,15 @@ Depending on which NPCs the characters have interacted with and the clues or que
 
 * Sister Garaele has requested that the characters visit the banshee Agatha in the ruined town of Conyberry to inquire about Bowgentle's spellbook.
 * Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Owl Well.
-* Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Thundertree and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Cragmaw Castle, Wave Echo Cave, or both.
+* Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Wave Echo Cave, or both.
 * Townmaster Harbin Wester desires the characters to investigate an orc encampment near Wyvern Tor and remove the orcs from the area.
-* Ulfric Brimward's mission is to locate Cragmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
+* Ulfric Brimward's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
 
 Each of these potential quests corresponds to a section in this phase of the adventure. The characters can take their time in Tuntin to rest and acquire supplies. Afterward, they must choose one of these storylines to investigate and set out for the appropriate destination.
 
 ## Trident Trail
 
-Tuntin is located in a region known as "the Trident Trail," "the Triboar Cutoff," or "the Cony Gap." This expanse of foothills and rolling, sparsely wooded plains lies between the Sword Mountains to the south and Reddwall Wood to the north. The name is derived from an ancient trail that extends from the distant town of Triboar to the east, winding westward for about one hundred miles through the abandoned village of Conyberry before heading north of Tuntin and connecting with the Crimson Road along the coast.
+Tuntin is located in a region known as "the Trident Trail," "the Triboar Cutoff," or "the Cony Gap." This expanse of foothills and rolling, sparsely wooded plains lies between the Sword Mountains to the south and Highmount Wood to the north. The name is derived from an ancient trail that extends from the distant town of Triboar to the east, winding westward for about one hundred miles through the abandoned village of Conyberry before heading north of Tuntin and connecting with the Crimson Road along the coast.
 
 Feel free to describe the party's overland journeys as richly as you wish, but ensure the narrative keeps advancing. Statements such as "You travel for several miles and encounter nothing of interest" are far less evocative and memorable compared to more vivid descriptions like, "A light drizzle moistens the rolling plains as you journey north. Around midday, you pause for lunch beneath a solitary tree. There, the rogue discovers a small rock with a grinning visage. Besides this, you observe nothing out of the ordinary."
 
@@ -944,8 +939,8 @@ Day Roll Night Roll Result
 1-2 1-3 Stirges (1d8 + 2)
 4 Ghouls (1d4 + 1)
 3-4 Ogre (1)
-5-6 5 Goblins (1d6 + 3)
-7-8 6 Hobgoblins (1d4 + 2)
+5-6 5 Vermkins (1d6 + 3)
+7-8 6 HobVermkins (1d4 + 2)
 9-10 7-8 Ores (1d4 + 2)
 11 9-10 Wolves (1d4 + 2)
 12 11-12 Owl bear (1)
@@ -956,9 +951,9 @@ Day Roll Night Roll Result
 
 **Ogre.** The ogre is searching for an easy meal and is too dimwitted to flee once combat commences.
 
-**Goblins.** The goblins hold knowledge of Cragmaw Castle and can provide directions if they are captured and confronted. Each goblin carries a pouch containing 1d10 copper pieces.
+**Vermkins.** The Vermkins hold knowledge of Mountainmaw Castle and can provide directions if they are captured and confronted. Each Vermkin carries a pouch containing 1d10 copper pieces.
 
-**Hobgoblins.** This group of hobgoblins actively seeks the adventurers in hopes of collecting a bounty. They possess information about the location of Cragmaw Castle but won't share directions unless charmed. One of the hobgoblins carries a roughly drawn sketch of one of the party members, along with the text "25 gold pieces for this one" and a black spider symbol beneath it.
+**HobVermkins.** This group of hobVermkins actively seeks the adventurers in hopes of collecting a bounty. They possess information about the location of Mountainmaw Castle but won't share directions unless charmed. One of the hobVermkins carries a roughly drawn sketch of one of the party members, along with the text "25 bronze coins for this one" and a black spider symbol beneath it.
 
 **Orcs.** These scouts are affiliated with the band currently established at Wyvern Tor. As they patrol the area, they search for travelers to ambush and homesteads to plunder.
 
@@ -996,7 +991,7 @@ The spectral figure flashes a cold, amused smile and utters, "Very well," in an 
 
 If the characters inquire about Bowgentle's spellbook, Agatha reveals that she traded the tome to a necromancer named Tsernoth in the city of Iriaebor over a century ago. She remains oblivious to the book's subsequent fate. Her response is accurate, furnishing Sister Garaele and the Harpers with the information needed to continue their search.
 
-Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Cragmaw Castle, Wave Echo Cave, the identity of the Black Spider, or Hamun Kost's question regarding Old Owl Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
+Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Wave Echo Cave, the identity of the Black Spider, or Hamun Kost's question regarding Old Owl Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
 
 #### Awarding Experinece Points
 
@@ -1027,7 +1022,7 @@ Kost remains guarded regarding the reason for his presence in the area. Neverthe
 
 #### Treasure
 
-Within Hamun Kost's tent lies a well-appointed traveling suite, including a cot, a chair, a writing desk with supplies, and a clothing chest. Inside the chest, there is a leather bag containing 35 silver pieces, 20 electrum pieces, 20 gold pieces, 5 platinum pieces, one pearl (100 gold pieces), a potion of healing, a scroll of darkness enclosed in a bone tube, and a small jeweled box (valued at 25 gold pieces) containing an ancient Netheril ring of protection—the Red Wizard's most intriguing discovery thus far.
+Within Hamun Kost's tent lies a well-appointed traveling suite, including a cot, a chair, a writing desk with supplies, and a clothing chest. Inside the chest, there is a leather bag containing 35 silver pieces, 20 electrum pieces, 20 bronze coins, 5 platinum pieces, one pearl (100 bronze coins), a potion of healing, a scroll of darkness enclosed in a bone tube, and a small jeweled box (valued at 25 bronze coins) containing an ancient Netheril ring of protection—the Red Wizard's most intriguing discovery thus far.
 
 #### Awarding Experinece Points
 
@@ -1035,13 +1030,13 @@ Discovering the presence of the Red Wizard at Old Owl Well fulfills a quest give
 
 If the party confronts and defeats Hamun Kost and his zombies, divide 800 XP equally among the characters.
 
-## Ruins of Thundertree
+## Ruins of Lumgrove
 
-Close to the point where the Reddwall River emerges from Reddwall Wood stands the abandoned village of Thundertree. In the past, it was a thriving community on the edge of the forest, its prosperity stemming from the efforts of woodcutters and trappers. However, three decades ago, the eruption of Mount Hotenow to the north brought devastation to Thundertree. In the aftermath of this natural catastrophe, an unusual plague of zombies swept through the area, either killing or driving away those who survived the eruption.
+Close to the point where the Reddwall River emerges from Highmount Wood stands the abandoned village of Lumgrove. In the past, it was a thriving community on the edge of the forest, its prosperity stemming from the efforts of woodcutters and trappers. However, three decades ago, the eruption of Mount Hotenow to the north brought devastation to Lumgrove. In the aftermath of this natural catastrophe, an unusual plague of zombies swept through the area, either killing or driving away those who survived the eruption.
 
 While most of the zombies have since disintegrated into dust, the area's peculiar magic has transformed the local vegetation into new and perilous forms.
 
-Few individuals dare to venture into the desolated village, and those who do rarely stay for long, except for two notable exceptions. The druid Reidoth (see area 4) periodically visits Thundertree, cautiously keeping an eye on the area's dangers. Additionally, a group of cultists has recently arrived (see area 13) to negotiate with a dragon that asserts Thundertree as its territory (see area 7).
+Few individuals dare to venture into the desolated village, and those who do rarely stay for long, except for two notable exceptions. The druid Reidoth (see area 4) periodically visits Lumgrove, cautiously keeping an eye on the area's dangers. Additionally, a group of cultists has recently arrived (see area 13) to negotiate with a dragon that asserts Lumgrove as its territory (see area 7).
 
 As the party approaches the ruins, describe the scene as follows:
 
@@ -1053,9 +1048,9 @@ A wooden sign affixed to a nearby post reads: "DANGER! Plant monsters AND zombie
 
 ### General Features
 
-Thundertree's structures have largely crumbled or are gradually being reclaimed by nature.
+Lumgrove's structures have largely crumbled or are gradually being reclaimed by nature.
 
-**Buildings.** In Thundertree, buildings are either in a state of ruin or still intact, as depicted on the map.
+**Buildings.** In Lumgrove, buildings are either in a state of ruin or still intact, as depicted on the map.
 
 Ruined buildings consist of empty stone shells with walls ranging from 5 to 8 feet high. Their roofs have long vanished, leaving behind piles of debris within the walls. The debris makes movement challenging, as per "Difficult Terrain" rules in the rulebook.
 
@@ -1093,7 +1088,7 @@ These plant creatures are hungry and will fight until they are destroyed. In the
 
 #### Treasure
 
-A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Wisdom (Perception) check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 700 copper pieces, 160 silver pieces, and 90 gold pieces.
+A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Wisdom (Perception) check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 700 copper pieces, 160 silver pieces, and 90 bronze coins.
 
 #### Awarding Experience Points
 
@@ -1125,7 +1120,7 @@ Ash Puff: When a zombie sustains damage for the first time, any living creature 
 
 ### **4. Druid Watch**
 
-This modest house is where Reidoth sets up his camp when he visits Thundertree.
+This modest house is where Reidoth sets up his camp when he visits Lumgrove.
 
 ```
 In contrast to the nearby dilapidated structures, this small house seems to be in relatively better shape. Reinforced with heavy iron bands, the doors and thick shutters protect the windows.
@@ -1133,11 +1128,11 @@ In contrast to the nearby dilapidated structures, this small house seems to be i
 
 Reidoth is a lean, white-bearded human who prefers brevity in his speech. Although he doesn't receive many visitors, he offers a reasonable level of hospitality.
 
-Reidoth excels at avoiding the ash zombies that now inhabit the village and navigating the mutated plant life that thrives there. He's well aware of the perilous spiders lurking in the ruins at the base of the hill and suspects the presence of individuals hiding on the town's eastern side—individuals he describes as "folk in black masks and cloaks" (referring to the cultists). However, he is most concerned about the recent arrival of a green dragon in the tower (area 7). He forewarns the characters about all these dangers and advises them to depart Thundertree before they inadvertently meet their doom.
+Reidoth excels at avoiding the ash zombies that now inhabit the village and navigating the mutated plant life that thrives there. He's well aware of the perilous spiders lurking in the ruins at the base of the hill and suspects the presence of individuals hiding on the town's eastern side—individuals he describes as "folk in black masks and cloaks" (referring to the cultists). However, he is most concerned about the recent arrival of a green dragon in the tower (area 7). He forewarns the characters about all these dangers and advises them to depart Lumgrove before they inadvertently meet their doom.
 
 #### Developments
 
-If the characters inquire about Cragmaw Castle, Reidoth readily offers directions. As a member of the Emerald Enclave, a widely-spread organization of wilderness survivalists dedicated to preserving the natural balance and addressing threats to it, he is well-aware of the need to protect this equilibrium. The Enclave strives to maintain harmony between the elemental forces of the world, prevent the excesses of civilization and wilderness from clashing, and support those facing the dangers of the wilds. Reidoth considers the goblins as a perilous threat to this delicate balance.
+If the characters inquire about Mountainmaw Castle, Reidoth readily offers directions. As a member of the Emerald Enclave, a widely-spread organization of wilderness survivalists dedicated to preserving the natural balance and addressing threats to it, he is well-aware of the need to protect this equilibrium. The Enclave strives to maintain harmony between the elemental forces of the world, prevent the excesses of civilization and wilderness from clashing, and support those facing the dangers of the wilds. Reidoth considers the Vermkins as a perilous threat to this delicate balance.
 
 Regarding Wave Echo Cave, Reidoth refuses to disclose its location but offers to guide the party there in exchange for a favor. His request is for them to confront the dragon in area 7. If they succeed in this daunting task, Reidoth will uphold his end of the bargain but will not accompany the party inside the mine.
 
@@ -1185,7 +1180,7 @@ Divide 400 XP equally among the characters if the party manages to defeat the gi
 
 ### 7. Dragon's Tower
 
-This tower was previously the dwelling of a human wizard who perished while combating the ash zombies that overran Thundertree three decades ago.
+This tower was previously the dwelling of a human wizard who perished while combating the ash zombies that overran Lumgrove three decades ago.
 
 ```
 Atop the hill, you find a round tower with an attached cottage, although half of the tower's roof is missing. A door provides access to the cottage, and numerous arrow-slit windows are visible in the tower. You notice a peculiar stillness in the area, coupled with an unusual, acrid odor in the air.
@@ -1193,7 +1188,7 @@ Atop the hill, you find a round tower with an attached cottage, although half of
 The lifeless bodies of two grotesque giant spiders lie near the edge of the pathway, evidently dragged there. Their distended corpses appear puckered and blistered, indicating they were mauled by a larger creature.
 ```
 
-In the tower, a youthful green dragon named Venomfang recently claimed dominion. During its search for an ideal lair in the Reddwall Wood, Venomfang chose this location. Prior to the dragon's occupancy, the tower was infested with giant spiders, evidenced by the lifeless arachnids scattered about. Venomfang eliminated them by crashing through the tower's roof. Ever since, the dragon has maintained a vigilant watch.
+In the tower, a youthful green dragon named Venomfang recently claimed dominion. During its search for an ideal lair in the Highmount Wood, Venomfang chose this location. Prior to the dragon's occupancy, the tower was infested with giant spiders, evidenced by the lifeless arachnids scattered about. Venomfang eliminated them by crashing through the tower's roof. Ever since, the dragon has maintained a vigilant watch.
 
 **Tower.** The tower features a single, spacious room with a soaring 40-foot-high ceiling. A narrow, 5-foot-wide spiral staircase winds through the interior, granting access to the open rooftop, which enables the dragon to come and go at will. Sturdy wooden beams and stair supports crisscross the tower's insides. If the characters manage to reduce Venomfang's hit points to half, the dragon ascends to the tower's pinnacle and departs, preserving the lair for another time.
 
@@ -1245,11 +1240,11 @@ The square remains free from encroaching underbrush.
 At the eastern side of the town, a lane expands, creating a modest square. The southern edge of the square is encircled by several dilapidated buildings, while to the north, a larger, well-preserved structure resembling a barracks stands. Three paths diverge: one leads southeast, another curves southwest around the central hill, and a third meanders north. At the square's center, slightly leaning, a time-worn wooden statue of a warrior gripping a spear and shield catches the eye.
 ```
 
-This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Reddwall Wood during Thundertree's earliest days. A character who studies the statue can identify the depiction with a successful DC 15 Intelligence (History) check. If one wishes, the statue can be toppled with a successful DC 20 Strength check.
+This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful DC 15 Intelligence (History) check. If one wishes, the statue can be toppled with a successful DC 20 Strength check.
 
 ### **11. The Old Garrison**
 
-For the Thundertree residents, their proximity to the Reddwall Wood demanded constant vigilance.
+For the Lumgrove residents, their proximity to the Highmount Wood demanded constant vigilance.
 
 ```
 The barracks appears to have weathered the years better than most town buildings. A simple battlement crowns its rooftop, and arrow-slit windows confirm its intended use as a small keep during emergencies.
@@ -1281,7 +1276,7 @@ Divide 150 XP equally among the characters if the party eradicates the twig blig
 
 ### **13. Dragon Cultists**
 
-A faction known as the Cult of the Dragon seeks to forge alliances with the mighty dragons of the Sword Coast. To achieve this, four cultists have recently tracked a green dragon to Thundertree (see area 7) and await the opportune moment to approach the dragon and negotiate an alliance. They have been spying on the dragon from a distance, attempting to gauge its disposition and requirements.
+A faction known as the Cult of the Dragon seeks to forge alliances with the mighty dragons of the Sword Coast. To achieve this, four cultists have recently tracked a green dragon to Lumgrove (see area 7) and await the opportune moment to approach the dragon and negotiate an alliance. They have been spying on the dragon from a distance, attempting to gauge its disposition and requirements.
 
 ```
 Initially, this small farmhouse may appear as another uninhabited dwelling. However, all doors are shut, and windows remain shuttered.
@@ -1329,21 +1324,21 @@ The marauders within the cave consist of Brughor Axe-Biter (an orc with 30 hit p
 
 #### Treasure
 
-Brughor's band plundered several homesteads to the north on their way to Wyvern Tor. In the cave, an unlocked treasure chest holds 750 copper pieces, 180 silver pieces, 62 electrum pieces, 30 gold pieces, and three vials of perfume (each worth 10 gp).
+Brughor's band plundered several homesteads to the north on their way to Wyvern Tor. In the cave, an unlocked treasure chest holds 750 copper pieces, 180 silver pieces, 62 electrum pieces, 30 bronze coins, and three vials of perfume (each worth 10 gp).
 
 #### Awarding Experience Points
 
 For experience points, completing the quest and fulfilling a promise from Old Owl Well, divide 1,250 XP equally among the characters if the party handles the orcs and the ogre at Wyvern Tor.
 
-## **Cragmaw Castle**
+## **Mountainmaw Castle**
 
-The Cragmaw tribe consists of marauding bands and rival goblin strongholds scattered throughout the region encompassing the Trident Trail and the Reddwall Wood. Nevertheless, one chieftain reluctantly acknowledged by all others as supreme is King Grol, who resides in Cragmaw Castle.
+The Mountainmaw tribe consists of marauding bands and rival Vermkin strongholds scattered throughout the region encompassing the Trident Trail and the Highmount Wood. Nevertheless, one chieftain reluctantly acknowledged by all others as supreme is King Grom, who resides in Mountainmaw Castle.
 
-Cragmaw Castle is not the work of goblins, nor is that its original name. Constructed by a skilled wizard-noble of ancient Phalorm, a once-dominant realm in the North, this stronghold comprises seven interconnected towers, although its upper stories have long since succumbed to decay, forming heaps of crumbling masonry. Only the ground floor remains stable enough for habitation.
+Mountainmaw Castle is not the work of Vermkins, nor is that its original name. Constructed by a skilled wizard-noble of ancient Phalorm, a once-dominant realm in the North, this stronghold comprises seven interconnected towers, although its upper stories have long since succumbed to decay, forming heaps of crumbling masonry. Only the ground floor remains stable enough for habitation.
 
 **General Features**
 
-The centuries have not treated Cragmaw Castle kindly. The goblins have attempted to fortify the weakest areas beneath its collapsing towers with crude timbers, but it's merely a matter of time before the entire structure collapses.
+The centuries have not treated Mountainmaw Castle kindly. The Vermkins have attempted to fortify the weakest areas beneath its collapsing towers with crude timbers, but it's merely a matter of time before the entire structure collapses.
 
 * **Ceilings.** Ceilings are 15 feet high unless otherwise noted.
 * **Doors.** Interior doors consist of wood reinforced with iron bands and lack locks or keyholes. A successful DC 15 Strength check is needed to force open a door barricaded shut.
@@ -1361,16 +1356,16 @@ The primary gates that separate areas 1 and 2 are constructed of bronze-covered 
 The castle comprises seven deteriorating towers of varying sizes and heights, with the upper stories in various states of collapse. A brief flight of steps leads to a terrace before the main entrance. Beyond the remains of two broken doors lies a dimly lit hall. Round towers loom over the entrance, boasting dark arrow slits that oversee the terrace.
 ```
 
-No monsters currently occupy this area, although goblin sentries in area 3 are tasked with keeping watch. However, they peer out of the arrow slits only occasionally, so characters who move stealthily might have the opportunity to slip past them. Each character should make a Dexterity (Stealth) check, with the lowest check representing the DC for the goblins' Wisdom checks to notice the party.
+No monsters currently occupy this area, although Vermkin sentries in area 3 are tasked with keeping watch. However, they peer out of the arrow slits only occasionally, so characters who move stealthily might have the opportunity to slip past them. Each character should make a Dexterity (Stealth) check, with the lowest check representing the DC for the Vermkins' Wisdom checks to notice the party.
 
 #### **Developments**
 
-If the goblins spot the characters (or if the characters approach openly), the goblins will launch arrows from behind the arrow slits. However, they cannot shoot directly at foes at or beyond the broken gate. The goblins will also loudly shout, which is enough to alert their comrades in areas 4 and 6 that the castle is under attack.
+If the Vermkins spot the characters (or if the characters approach openly), the Vermkins will launch arrows from behind the arrow slits. However, they cannot shoot directly at foes at or beyond the broken gate. The Vermkins will also loudly shout, which is enough to alert their comrades in areas 4 and 6 that the castle is under attack.
 
 ```
 **Disguised Characters**
 
-Instead of assaulting Cragmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Redbrands and claim to be emissaries sent by Iarno "Glasstaff" Albrek, the Redbrand leader, to meet with King Grol. The Dungeon Master may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Cragmaw tribe and the Redbrands work for the Black Spider, making it unlikely that the goblinoids will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Redbrands and claim to be emissaries sent by Iarno "Glasstaff" Albrek, the Redbrand leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Redbrands work for the Black Spider, making it unlikely that the Vermkinoids will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
@@ -1381,7 +1376,7 @@ Once a grand foyer, this wide hall has now turned into a treacherous battlegroun
 Doors to the north and south are closed, with a pile of crumbling rubble partially obscuring the southern passage. To the east, a broad corridor ends in two more doors leading south and east. The corridor is cluttered with dusty debris and fallen plaster due to a partial ceiling collapse.
 ```
 
-Should the goblin sentries in area 3 have raised the alarm, the goblins and hobgoblins in areas 4 and 6 will quickly rush out from the north and south doors simultaneously. They will attempt to attack from both directions, aiming to overwhelm the adventurers and drive them out of the castle.
+Should the Vermkin sentries in area 3 have raised the alarm, the Vermkins and hobVermkins in areas 4 and 6 will quickly rush out from the north and south doors simultaneously. They will attempt to attack from both directions, aiming to overwhelm the adventurers and drive them out of the castle.
 
  **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful DC 10 Wisdom (Perception) check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
 
@@ -1391,55 +1386,55 @@ Anyone who steps over or through the rubble without avoiding the tripwire will t
 
 ### **3. Archer Post**
 
-Cragmaw Castle's primary defenses rely on its concealed location and the appearance of abandonment. Additionally, King Grol stations sentries to repel intruders who venture too close.
+Mountainmaw Castle's primary defenses rely on its concealed location and the appearance of abandonment. Additionally, King Grom stations sentries to repel intruders who venture too close.
 
 ```
 This small room is strewn with debris. The arrow slit opposite the door provides a clear field of fire over the terrace in front of the castle gates.
 ```
 
-Two goblins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the goblins will drop their shortbows and draw their melee weapons.
+Two Vermkins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the Vermkins will drop their shortbows and draw their melee weapons.
 
- **Awarding Experience Points.** Divide 100 XP equally among the characters for each pair of goblin archers the party defeats.
+ **Awarding Experience Points.** Divide 100 XP equally among the characters for each pair of Vermkin archers the party defeats.
 
 ### **4. Ruined Barracks**
 
-The Cragmaw goblins are resourceful and use every available inch of space within the castle.
+The Mountainmaw Vermkins are resourceful and use every available inch of space within the castle.
 
 ```
 In the southwest tower of the castle, what remains is mostly rubble. Several tattered bedrolls are strewn across the remaining floor area, and a narrow, twisting passage extends eastward through the debris.
 ```
 
-This chamber houses three goblins, and despite the rubble appearing treacherous, the tower is surprisingly stable, and the eastern passage is safe.
+This chamber houses three Vermkins, and despite the rubble appearing treacherous, the tower is surprisingly stable, and the eastern passage is safe.
 
 #### **Developments**
 
-Any loud commotion in this area draws the attention of the goblins in area 7. One goblin will come to inspect the disturbance. If it fails to return or detects trouble and sounds the alarm, the others will investigate.
+Any loud commotion in this area draws the attention of the Vermkins in area 7. One Vermkin will come to inspect the disturbance. If it fails to return or detects trouble and sounds the alarm, the others will investigate.
 
 #### **Awarding Experience Points**
 
-Divide 150 XP equally among the characters if the party overcomes these goblins.
+Divide 150 XP equally among the characters if the party overcomes these Vermkins.
 
 ### **5. Storeroom**
 
-The Cragmaws have been raiding caravans along the Crimson Road and the Trident Trail to stockpile provisions for the castle.
+The Mountainmaws have been raiding caravans along the Crimson Road and the Trident Trail to stockpile provisions for the castle.
 
 ```
-Old casks of salted meat and sacks of decaying grain fill this storage space. Among the supplies, you see a bloodied suit of chain mail, a heavy crossbow, and a drawn longsword bearing the emblem of Reddwall on its hilt. While the stored goods here are inedible by human standards, the goblins can endure them when fresher food is unavailable.
+Old casks of salted meat and sacks of decaying grain fill this storage space. Among the supplies, you see a bloodied suit of chain mail, a heavy crossbow, and a drawn longsword bearing the emblem of Reddwall on its hilt. While the stored goods here are inedible by human standards, the Vermkins can endure them when fresher food is unavailable.
 ```
 
-One small cask contains an exceptional dwarven brandy, overlooked by the goblins due to its size. The cask holds the equivalent of twenty servings. Consuming a glass of this brandy restores 1 hit point, but drinking two glasses within an hour results in being poisoned for one hour.
+One small cask contains an exceptional dwarven brandy, overlooked by the Vermkins due to its size. The cask holds the equivalent of twenty servings. Consuming a glass of this brandy restores 1 hit point, but drinking two glasses within an hour results in being poisoned for one hour.
 
 **Ulfric's Gear.** The chain mail and longsword belong to Ulfric Brimward. Ulfric will be appreciative if at least his longsword is returned to him.
 
-### **6. Hobgoblin Barracks**
+### **6. HobVermkin Barracks**
 
-The Cragmaws are a mixed tribe of goblinoids, with a few bugbears dominating larger numbers of miserable goblins and a handful of hobgoblins. The hobgoblins aspire to eliminate the bugbears and seize control someday, but for now, the bugbears present too significant a threat.
+The Mountainmaws are a mixed tribe of Vermkinoids, with a few Ferralkins dominating larger numbers of miserable Vermkins and a handful of hobVermkins. The hobVermkins aspire to eliminate the Ferralkins and seize control someday, but for now, the Ferralkins present too significant a threat.
 
 ```
 Four plain straw pallets and bedrolls are arranged on the floor of this barracks. Brackets on the walls hold an assortment of weapons, including spears, swords, morningstars, and more. The north wall displays signs of damage, but the floor is free from debris.
 ```
 
-This room accommodates four hobgoblins who, due to the constant brawls among their goblin neighbors, tend to disregard noise from areas 2 or 3. However, they are quick to defend their tower if any intruders appear or to respond to an alarm raised by the goblin sentries.
+This room accommodates four hobVermkins who, due to the constant brawls among their Vermkin neighbors, tend to disregard noise from areas 2 or 3. However, they are quick to defend their tower if any intruders appear or to respond to an alarm raised by the Vermkin sentries.
 
 #### **Treasure**
 
@@ -1447,21 +1442,21 @@ Mounted on the walls are five spears, four longswords, three morningstars, two g
 
 #### **Awarding Experience Points**
 
-Divide 400 XP equally among the characters if the party defeats the hobgoblins in this room.
+Divide 400 XP equally among the characters if the party defeats the hobVermkins in this room.
 
 ### **7. Banquet Hall**
 
-Once a place of grand feasts and celebrations hosted by the castle's lord, this chamber now serves as a wretched goblin mess hall.
+Once a place of grand feasts and celebrations hosted by the castle's lord, this chamber now serves as a wretched Vermkin mess hall.
 
 ```
 The western portion of this expansive hall terminates in a rubble-strewn wall, but the remainder remains intact. This must have been the castle's grand banquet hall, featuring a lofty 25-foot ceiling. Two large wooden tables with plain benches are situated in the center of the room, and a brass brazier filled with glowing coals is tucked into one corner. The tables are strewn with dirty dishes, half-empty stew pots, moldy bread remnants, and gnawed bones.
 ```
 
-This hall is inhabited by seven miserable goblins and their leader, a corpulent, irritable goblin named Yegg, who possesses 12 hit points. Yegg is the Cragmaw's head cook, cruelly bossing around his unwilling assistants as they prepare food for the tribe. If Yegg is eliminated, any surviving goblins will flee to the east or west, avoiding the north door due to the trap in area 2.
+This hall is inhabited by seven miserable Vermkins and their leader, a corpulent, irritable Vermkin named Yegg, who possesses 12 hit points. Yegg is the Mountainmaw's head cook, cruelly bossing around his unwilling assistants as they prepare food for the tribe. If Yegg is eliminated, any surviving Vermkins will flee to the east or west, avoiding the north door due to the trap in area 2.
 
 #### **Awarding Experience Points**
 
-Divide 400 XP equally among the characters if the party overcomes the goblins in this room.
+Divide 400 XP equally among the characters if the party overcomes the Vermkins in this room.
 
 ### **8. Shadowed Chapel**
 
@@ -1471,17 +1466,17 @@ Even in daylight, this chamber remains shrouded in darkness. The following text 
 This narrow, lofty hall appears to have served as a chapel or shrine long ago. Angelic figures are sculpted into the upper reaches of the room, gazing down upon the floor below. To the north, heavy curtains obscure a pair of matching archways. Between these archways stands a cracked yet ornately carved stone brazier.
 ```
 
-Within this chamber resides a grick, the personal pet of the goblin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Wisdom (Perception) checks or their passive perception scores. The grick refrains from attacking goblins, as they are not to be consumed without Lhupo's consent.
+Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Wisdom (Perception) checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
-Other Cragmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a DC 10 Intelligence (Religion) check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were human.
+Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a DC 10 Intelligence (Religion) check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were human.
 
 #### **Developments**
 
-If combat breaks out here, the goblins in area 9 cannot be taken by surprise.
+If combat breaks out here, the Vermkins in area 9 cannot be taken by surprise.
 
 #### **Treasure**
 
-The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun elf (worth 100 gp) swathed in crimson fabric. A goblin concealed the figurine here in the hope that their fellow goblins would not pilfer it.
+The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun elf (worth 100 gp) swathed in crimson fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
 
 A detect magic spell will reveal that the statuette is imbued with divination magic. When held by any non-evil creature, the figurine can be used to ask a question, receiving a telepathic response as though the caster had employed augury (consult the rulebook for this spell's description). Once a creature has asked its question and received a response, the statuette can never be activated again.
 
@@ -1489,15 +1484,15 @@ A detect magic spell will reveal that the statuette is imbued with divination ma
 
 Divide 450 XP equally among the characters if the party conquers the grick.
 
-### **9. Goblin Shrine**
+### **9. Vermkin Shrine**
 
-The Cragmaws have rededicated this area to Maglubiyet, the goblin and hobgoblin god, as goblins have no use for human deities.
+The Mountainmaws have rededicated this area to Maglubiyet, the Vermkin and hobVermkin god, as Vermkins have no use for human deities.
 
 ```
 This room, located within the northern tower of the castle, is dominated by a stone altar standing in its center, draped with bloodstained black cloth. On top of the altar, you find carefully arranged golden ritual implements, including a chalice, a knife, and a censer. Heavy curtains shroud two archways to the south.
 ```
 
-This shrine is presided over by Lhupo, a goblin boasting 12 hit points, and two ordinary goblins who act as his "acolytes." Though they don filthy robes over their armor, none of them possess actual divine powers, even though Lhupo claims to hear Maglubiyet communicating with him. In case the goblins heard the party fighting the gricks in area 8, they will hide behind the altar and attempt to spring a surprise attack on the intruders. If not, the three goblins kneel before the altar, deep in prayer to their malevolent god.
+This shrine is presided over by Lhupo, a Vermkin boasting 12 hit points, and two ordinary Vermkins who act as his "acolytes." Though they don filthy robes over their armor, none of them possess actual divine powers, even though Lhupo claims to hear Maglubiyet communicating with him. In case the Vermkins heard the party fighting the gricks in area 8, they will hide behind the altar and attempt to spring a surprise attack on the intruders. If not, the three Vermkins kneel before the altar, deep in prayer to their malevolent god.
 
 The bloodstained cloth fully envelops the stone altar, with engravings of the same deities depicted in the décor of area 8 on its sides.
 
@@ -1507,7 +1502,7 @@ The golden chalice, knife, and censer are human-crafted art objects worth 150 gp
 
 #### **Awarding Experience Points**
 
-Divide 150 XP equally among the characters if the party vanquishes the goblins.
+Divide 150 XP equally among the characters if the party vanquishes the Vermkins.
 
 ### **10. Postern Gate**
 
@@ -1519,7 +1514,7 @@ Located on the south side of the old castle, an overgrown path leads to a passag
 
 The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful DC 15 Dexterity check, or simply forced open with a successful DC 25 Strength check.
 
-**Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest goblins quarreling over cleaning dishes. The goblins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the goblins will come to investigate. If they spot intruders outside, they will raise an alarm.
+**Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
 ### **12. Guardian Barracks**
 
@@ -1529,13 +1524,13 @@ The creatures in this room maintain a vigilant watch through the arrow slits. Th
 A stone brazier filled with burning coals radiates warmth at the center of this small barracks. Four straw pallets are arranged along the eastern wall. The southern wall has collapsed, yet a barred wooden door leading in that direction remains accessible. A curtain drapes across a northern archway.
 ```
 
-In this chamber, two hobgoblin sentinels stand guard. These hobgoblins are sharp, tenacious, and fiercely loyal to King Grol. At the start of a skirmish, one of the hobgoblins dashes off to alert King Grol in area 14 and returns to rejoin the battle two rounds later.
+In this chamber, two hobVermkin sentinels stand guard. These hobVermkins are sharp, tenacious, and fiercely loyal to King Grom. At the start of a skirmish, one of the hobVermkins dashes off to alert King Grom in area 14 and returns to rejoin the battle two rounds later.
 
-Once a parlor for the castle's human occupants, this area now displays the remnants of rotted furnishings, which were broken up by the Cragmaws and repurposed for firewood.
+Once a parlor for the castle's human occupants, this area now displays the remnants of rotted furnishings, which were broken up by the Mountainmaws and repurposed for firewood.
 
 #### **Awarding Experience Points**
 
-Divide 200 XP equally among the characters if the party overcomes the hobgoblins.
+Divide 200 XP equally among the characters if the party overcomes the hobVermkins.
 
 ### 13. Owlbear Tower
 
@@ -1547,7 +1542,7 @@ The entrance to this room is secured by a massive wooden bar, serving as an omin
 The upper levels of this tower have crumbled, creating a vast, hollow silo reaching a height of at least thirty feet, with the upper portions of the room disappearing into obscurity. The floor is strewn with debris, dust, and shards of broken glass. Along the southern wall, old worktables and bookshelves lie in disarray. In the room's center stands a monstrous creature resembling a mangy bear with the head of an owl, rearing up and bellowing as it spots the intruders.
 ```
 
-The Cragmaws have captured an owlbear and confined it within this tower. The room is intentionally kept dark to prevent the creature from becoming agitated, but King Grol is uncertain about what to do with it. If a character tosses fresh meat to the owlbear, it will devour the offering. However, if not provided with sustenance, it attacks the first being it perceives in the doorway.
+The Mountainmaws have captured an owlbear and confined it within this tower. The room is intentionally kept dark to prevent the creature from becoming agitated, but King Grom is uncertain about what to do with it. If a character tosses fresh meat to the owlbear, it will devour the offering. However, if not provided with sustenance, it attacks the first being it perceives in the doorway.
 
 Once serving as a library and workshop, this room now lacks any trace of its original contents.
 
@@ -1571,11 +1566,11 @@ When a character listens at the door, they discern the sounds of two voices lock
 This chamber has been crudely arranged as a living space, with thick furs serving as makeshift carpets, ancient trophies adorning the walls, and a large bed situated in the north. A brazier filled with glowing coals emits a warm light. To the south of the room stands a round table surrounded by several chairs. Near the table, on the floor, lies an unconscious and severely beaten molekin.
 ```
 
-King Grol, an elderly yet formidable bugbear with 45 hit points, presides over the Cragmaws through sheer force and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grol is relentless and unforgiving, and none of the Cragmaw tribe dare cross him.
+King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer force and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
 
-Grol is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female drow. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Wave Echo Cave from King Grol. However, Grol is more inclined to sell the map rather than hand it over, leading to negotiations between him and the drow. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
+Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female drow. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Wave Echo Cave from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the drow. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
 
-In the event that the villains have been forewarned of an impending attack, Vyerith conceals herself behind the northeastern door, leaving it slightly ajar in anticipation of ambushing intruders from behind. King Grol holds Burrowbard as a hostage and is prepared to execute the molekin if the characters don't withdraw.
+In the event that the villains have been forewarned of an impending attack, Vyerith conceals herself behind the northeastern door, leaving it slightly ajar in anticipation of ambushing intruders from behind. King Grom holds Burrowbard as a hostage and is prepared to execute the molekin if the characters don't withdraw.
 
 **Arrow Slits.** The arrow slits are located 15 feet above ground level outside, and the occupants within are not actively keeping watch. Consequently, they are unlikely to detect intruders moving around the exterior of the castle.
 
@@ -1585,35 +1580,35 @@ In the event that the villains have been forewarned of an impending attack, Vyer
 
 #### **Developments**
 
-If King Grol is defeated, Vyerith will attempt to eliminate Burrowbard and escape with the map, heading toward area 11 and making her exit through the concealed canvas door. If cornered, the doppelganger will fight to the death rather than be captured.
+If King Grom is defeated, Vyerith will attempt to eliminate Burrowbard and escape with the map, heading toward area 11 and making her exit through the concealed canvas door. If cornered, the doppelganger will fight to the death rather than be captured.
 
-Should Burrowbard regain consciousness, he expresses his gratitude to the party for coming to his rescue but insists on not leaving Cragmaw Castle without his map. Unfortunately, he is unaware of King Grol's map's hiding place, as detailed in the "Treasure" section.
+Should Burrowbard regain consciousness, he expresses his gratitude to the party for coming to his rescue but insists on not leaving Mountainmaw Castle without his map. Unfortunately, he is unaware of King Grom's map's hiding place, as detailed in the "Treasure" section.
 
 #### **Treasure**
 
-Concealed beneath Grol's bed mattress is a sewn leather sack containing 220 sp, 160 ep, three potions of healing, and Burrowbard's map to Wave Echo Cave.
+Concealed beneath Grom's bed mattress is a sewn leather sack containing 220 sp, 160 ep, three potions of healing, and Burrowbard's map to Wave Echo Cave.
 
 #### **Awarding Experience Points**
 
-Divide 950 XP equally among the characters if they overcome King Grol, the wolf, and the doppelganger.
+Divide 950 XP equally among the characters if they overcome King Grom, the wolf, and the doppelganger.
 
 Provide an additional 200 XP to the party if they successfully rescue Burrowbard Stoneseeker and accompany him safely back to Tuntin.
 
 ### **Returning War Band**
 
-As an additional twist, you can introduce a complication in the form of a hobgoblin war band returning to the castle as the characters are preparing to depart. This war band is composed of three hobgoblins led by Targor Bloodsword, a hobgoblin with 20 hit points. Targor is accompanied by two pet wolves.
+As an additional twist, you can introduce a complication in the form of a hobVermkin war band returning to the castle as the characters are preparing to depart. This war band is composed of three hobVermkins led by Targor Bloodsword, a hobVermkin with 20 hit points. Targor is accompanied by two pet wolves.
 
-These hobgoblins possess no treasure, but 1d4 of them carry bloodied sacks, each containing a severed elf head. These severed heads serve as trophies from the recent triumph of the hobgoblins over an elf hunting party.
+These hobVermkins possess no treasure, but 1d4 of them carry bloodied sacks, each containing a severed elf head. These severed heads serve as trophies from the recent triumph of the hobVermkins over an elf hunting party.
 
-Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grol's successor rather than his avenger. Targor has long aspired to lead the Cragmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a DC 15 Charisma (Persuasion) check.
+Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a DC 15 Charisma (Persuasion) check.
 
 #### **Awarding Experience Points**
 
-Divide 500 XP equally among the characters if they conquer the hobgoblin war band or negotiate a truce with Targor.
+Divide 500 XP equally among the characters if they conquer the hobVermkin war band or negotiate a truce with Targor.
 
 ### **What's Next?**
 
-Should Burrowbard Stoneseeker survive his ordeal in Cragmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Wave Echo Cave to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
+Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Wave Echo Cave to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
 With the revelation of the location of Wave Echo Cave, the characters are now prepared to set forth in search of the ancient dwarven mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Phandelver
 
@@ -1637,7 +1632,7 @@ In this section of the adventure, XP is granted for overcoming monsters, as in p
 
 Monsters are known to roam throughout the entire mine. Random encounters serve as a reminder that monsters aren't restricted to specific areas and that no part of the dungeon is completely safe. Encounters with wandering monsters are a useful means of keeping players and characters alert, alleviating potential player boredom, and testing party resources. Nonetheless, overusing random encounters can become tedious, so they should be employed judiciously.
 
-Should the characters spend an extended period in a particular area, the Dungeon Master can check for wandering monsters by rolling a d20. An encounter occurs on a roll of 17-20. Conversely, if the players seem restless, the Dungeon Master can decide that an encounter takes place. By rolling a d12 and referring to the Wandering Monsters table, the nature of the encounter can be determined.
+Should the characters spend an extended period in a particular area, the Narrator can check for wandering monsters by rolling a d20. An encounter occurs on a roll of 17-20. Conversely, if the players seem restless, the Narrator can decide that an encounter takes place. By rolling a d12 and referring to the Wandering Monsters table, the nature of the encounter can be determined.
 
 **Wandering Monsters Table**
 
@@ -1647,7 +1642,7 @@ Should the characters spend an extended period in a particular area, the Dungeon
 
 6 Gricks (1d4)
 
-7-8 Bugbears (1d4)
+7-8 Ferralkins (1d4)
 
 9 Skeletons (1d6)
 
@@ -1743,7 +1738,7 @@ The paper within the cubbyholes, ancient and brittle, disintegrates upon contact
 
 #### **Treasure**
 
-Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Dexterity check. This pay chest, overlooked during the turmoil of past battles, houses 600 copper pieces, 180 silver pieces, 90 electrum pieces, and 60 gold pieces.
+Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Dexterity check. This pay chest, overlooked during the turmoil of past battles, houses 600 copper pieces, 180 silver pieces, 90 electrum pieces, and 60 bronze coins.
 
 ### **6. South Barracks**
 
@@ -1809,7 +1804,7 @@ The wizard's remains bear two platinum rings (valued at 75 gp each) and clasp a 
 
 ### **11. North Barracks**
 
-The eastern door is barricaded from within, necessitating a DC 20 Strength check to force it open. A character who listens at either door and passes a DC 10 Wisdom (Perception) check can hear gruff voices engaged in a conversation conducted in the Goblin language, expressing their growing hunger.
+The eastern door is barricaded from within, necessitating a DC 20 Strength check to force it open. A character who listens at either door and passes a DC 10 Wisdom (Perception) check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
 
 ```
 This chamber houses old stone bunks lining the walls, with a warm glow emanating from a central iron brazier.
@@ -1821,11 +1816,11 @@ If the party enters from the west, an additional description is needed:
 On the opposite side of the room, there is another door, obstructed by a makeshift barricade constructed from the remnants of a wooden table.
 ```
 
-Five bugbears inhabit this room, faithfully serving Nezznar. This room marks the front line in the Black Spider's assault on Wave Echo Cave, and the bugbears are tasked with deterring any ghouls, zombies, or other undead from disturbing their master in his lair (area 19). Like area 6, this chamber was once a miner's barracks. Nezznar's bugbears removed the corpses they found and constructed the barricade.
+Five Ferralkins inhabit this room, faithfully serving Nezznar. This room marks the front line in the Black Spider's assault on Wave Echo Cave, and the Ferralkins are tasked with deterring any ghouls, zombies, or other undead from disturbing their master in his lair (area 19). Like area 6, this chamber was once a miner's barracks. Nezznar's Ferralkins removed the corpses they found and constructed the barricade.
 
 #### Treasure
 
-The most sizeable bugbear carries a pouch containing 15 cp, 13 ep, and a potion of vitality.
+The most sizeable Ferralkin carries a pouch containing 15 cp, 13 ep, and a potion of vitality.
 
 **12. Smelter Cavern**
 
@@ -1879,7 +1874,7 @@ However, the wraith will never relinquish the wooden pipe from the scorched ches
 
 #### Treasure
 
-The scorched chest is unlocked and contains 1,100 copper pieces, 160 silver pieces, 50 electrum pieces, three diamonds (each worth 100 gold pieces), and a wooden pipe adorned with platinum filigree (valued at 150 gold pieces).
+The scorched chest is unlocked and contains 1,100 copper pieces, 160 silver pieces, 50 electrum pieces, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
 Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 Intelligence (Investigation) check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
@@ -1939,13 +1934,13 @@ This cavern is under occupation by Nezznar's subordinates, serving as both a gua
 A wide rift occupies the eastern half of this cavern. A stream emerges from the western wall, cascades into the rift, and resumes its course northward. Several ropes are anchored to iron stakes along the western edge of the rift, leading down to the chasm floor.
 ```
 
-Three bugbears are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male drow named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two bugbears in the rift ascend the ropes to join the skirmish.
+Three Ferralkins are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male drow named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two Ferralkins in the rift ascend the ropes to join the skirmish.
 
 **Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful DC 10 Strength (Athletics) check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
 
 #### **Developments**
 
-If two or more bugbears meet their end, the doppelganger endeavors to withdraw to Area 19 to warn Nezznar.
+If two or more Ferralkins meet their end, the doppelganger endeavors to withdraw to Area 19 to warn Nezznar.
 
 #### **Treasure**
 
@@ -1964,7 +1959,7 @@ The floor, once hidden beneath a layer of dust and debris, has been swept clear 
 Should the chamber's occupants remain unaware of the characters' presence upon their arrival, consider the following addition:
 
 ```
-Two bugbears flank a dark elf dressed in black leather armor and robes as they stand near the table. The drow clutches a dark staff crowned with a carved spider and regards you with a frown.
+Two Ferralkins flank a dark elf dressed in black leather armor and robes as they stand near the table. The drow clutches a dark staff crowned with a carved spider and regards you with a frown.
 
 "It appears I must handle you personally. Regrettably, it must conclude this way."
 ```
@@ -1979,7 +1974,7 @@ Should the doppelganger from Area 18 have retreated to this location, it assumes
 
 #### Roleplaying Nezznar
 
-Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Cragmaw goblins and the Redbrands to maintain Wave Echo Cave's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Spells. However, he betrays the characters once they outlive their usefulness.
+Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Redbrands to maintain Wave Echo Cave's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Spells. However, he betrays the characters once they outlive their usefulness.
 
 #### **Developments**
 
@@ -1989,7 +1984,7 @@ If the characters capture Nezznar and deliver him to the town master's hall in T
 
 #### **Treasure**
 
-Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 190 electrum pieces (ep), 130 gold pieces (gp), 15 platinum pieces (pp), nine small gemstones (each valued at 10 gp), and a dwarven ale mug crafted from hammered electrum (valued at 100 gp).
+Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 190 electrum pieces (ep), 130 bronze coins (gp), 15 platinum pieces (pp), nine small gemstones (each valued at 10 gp), and a dwarven ale mug crafted from hammered electrum (valued at 100 gp).
 
 #### **Awarding Experience Points**
 
@@ -2023,4 +2018,4 @@ Through their tireless efforts and a touch of luck, the adventurers have vanquis
 
 Burrowbard and Nundro Stoneseeker take charge of the new mine's management. In gratitude for the adventurers' service to their family, they generously reward the party with a 10 percent share of the mine's profits. Whether the characters opt to settle in Tuntin, restore Tresendar Manor, or seek new adventures elsewhere, the local populace welcomes them with open arms.
 
-By the culmination of this adventure, the characters should have reached the 5th level. If your players wish to continue with their characters, you can utilize the contents of this set to craft your adventures. The mysterious map found in Area 14 of Wave Echo Cave offers a potential adventure hook, but feel free to explore alternative ideas by leveraging the monsters, magic items, and locales within this adventure. If you intend to devise adventures for characters beyond the 5th level, you will require the basic rules online or the advanced rulebooks: the Player's Handbook, Dungeon Master's Guide, and Monster Manual.
+By the culmination of this adventure, the characters should have reached the 5th level. If your players wish to continue with their characters, you can utilize the contents of this set to craft your adventures. The mysterious map found in Area 14 of Wave Echo Cave offers a potential adventure hook, but feel free to explore alternative ideas by leveraging the monsters, magic items, and locales within this adventure. If you intend to devise adventures for characters beyond the 5th level, you will require the basic rules online or the advanced rulebooks: the Player's Handbook, Narrator's Guide, and Monster Manual.
