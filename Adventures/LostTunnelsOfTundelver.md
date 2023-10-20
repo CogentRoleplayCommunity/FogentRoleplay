@@ -90,7 +90,6 @@ After the Vermkin ambush, the party may require a rest depending on the outcome 
 
 If the characters defeat the Vermkins and inspect the area, they will discover signs that the Vermkins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen Vermkins have traveled along this trail, along with signs of two humaniod-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the Vermkins down the trail, which leads five miles northwest to the Mountainmaw hideout.
 
-
 Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The Vermkins have set two traps to hinder pursuers:
 
 **Snare.** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
@@ -253,7 +252,7 @@ The hideout serves as a communal space and barracks for the Mountainmaw raiders.
 Within this expansive cave, a ten-foot-high escarpment divides it into upper and lower sections. A natural staircase ascends from the lower portion to the upper ledge, where the air is thick with the smoke of a cooking fire and tainted by the scent of poorly cured hides and unwashed Vermkins.
 ```
 
-Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary Vermkins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section. 
+Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary Vermkins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section.
 
 Ulfric Warwinter, a captive human warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
 
@@ -265,7 +264,7 @@ Ulfric Warwinter, a kindhearted human male with a place of honor in Reddwall's f
 
 Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
 
-Yeek carries a pouch with three small gold teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Mountainmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
+Yeek carries a pouch with three small bronze teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Mountainmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
 
 ```
 Guidelines for NPC Party Members:
@@ -285,7 +284,7 @@ Guidelines for NPC Party Members:
 
 This cavern, altered by the Vermkins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three Vermkins stand guard. If the Vermkin in area 5 has alerted the Vermkins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one Vermkin hastens to area 8 to warn Thrak.
 
-**Rock Dams:** The Vermkins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the Vermkin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
+**Rock Dams.** The Vermkins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the Vermkin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
 
 ### 8. Thraks Cave
 
@@ -293,11 +292,13 @@ Within the heart of the Vermkinoid hideout, Thrak, the leader, insists on hoardi
 
 To the south end of this expansive cave, sacks and crates brimming with pilfered provisions form towering stacks. The floor slopes westward towards a narrow opening that descends into darkness, while a larger opening leads north down a set of natural stone steps, with the distant roar of falling water filling the air. Amidst the cavern's center, the coals of a smoldering fire pit linger. Thrak, the Ferralkin warlord, shares this space with his mangy pet wolf, Ripper, and two Vermkins. Filled with grandiose delusions, Thrak perceives himself as a burgeoning conqueror. His eccentricity extends to referring to himself in the third person, declaring threats such as, "Who dares defy Thrak?" or "Thrak will build a throne from your bones, puny ones!" The Vermkins under his command, however, resent his tyrannical behavior.
 
-* **Fire Pit:** Stepping into the central fire pit inflicts a fire Minor Injury damage to any creature, or fire Medium Injury if they fall prone. Each type of damage can only occur once per round.
-* **Natural Chimney:** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
-* **Supplies:** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Beastshield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
+**Fire Pit.** Stepping into the central fire pit inflicts a fire Minor Injury damage to any creature, or fire Medium Injury if they fall prone. Each type of damage can only occur once per round.
 
-#### **Developments:**
+**Natural Chimney.** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
+
+**Supplies.** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Beastshield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
+
+#### **Developments**
 
 If warned by the Vermkins in area 7 about the hideout being under attack, Thrak and his wolf take cover behind stalagmites while the Vermkins hide behind the supply piles, hoping to ambush the intruders.
 
@@ -319,7 +320,7 @@ The following leg of the journey unfolds in Tuntin, offering the adventurers sev
 
 Players might also decide on alternative actions, such as pursuing Mountainmaw Castle in part 3 of the adventure. In such cases, proceed directly to that section.
 
-**Awarding Experience Points:**
+#### **Awarding Experience Points**
 
 The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 2 skill points.
 
