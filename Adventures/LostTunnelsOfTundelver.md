@@ -261,7 +261,7 @@ The Vermkin leader, Yeek, holds the second-in-command position in the hideout. I
 
 Should the characters refuse to parley, Yeek forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
-Ulfric Warwinter, a kindhearted human male with a place of honor in Waterdeep's famed griffon cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
+Ulfric Warwinter, a kindhearted human male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
 Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
 
@@ -383,7 +383,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Redbrands' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
 7. **Sister Garaele (Elf Cleric of Tymora):** An elf cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
 8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
-9. **Ulfric Warwinter (Lords' Alliance Member):** A member of the Lords' Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Iarno Albrek.
+9. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Iarno Albrek.
 
 ### Roleplaying Tuntin NPCs
 
@@ -513,17 +513,17 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 **Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of orcs near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
 
-**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Lords' Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
+**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
 Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
-**Quest: Finding Iarno.** Upon questioning several locals, Ulfric learns that Iarno Albrek, another member of the Lords' Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Iarno, or whatever remains of him if something has befallen him. Ulfric describes Iarno as "a short, dark-bearded human wizard in his thirties."
+**Quest: Finding Iarno.** Upon questioning several locals, Ulfric learns that Iarno Albrek, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Iarno, or whatever remains of him if something has befallen him. Ulfric describes Iarno as "a short, dark-bearded human wizard in his thirties."
 
 Unknown to Ulfric, Iarno established the Redbrands, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Iarno, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Iarno's fate, Ulfric rewards the party with 200 gp for eliminating the Redbrand threat.
 
-#### **Joining the Lords' Alliance**
+#### **Joining the Eastern Alliance**
 
-If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Iarno's deception, Ulfric Warwinter discreetly approaches certain members of the group, urging them to consider joining the Lords' Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Warwinter confers upon them the title of Cloak.
+If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Iarno's deception, Ulfric Warwinter discreetly approaches certain members of the group, urging them to consider joining the Eastern Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Warwinter confers upon them the title of Cloak.
 
 ### **Tresendar Manor**
 
@@ -868,7 +868,7 @@ If he successfully escapes, Iarno flees to area 1 (through areas 7 and 8) and re
 
 #### Roleplaying Iarno
 
-In terms of roleplaying, a former member of the Lords' Alliance, Iarno seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Iarno was already familiar with the Black Spider through his contacts in the Lords' Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Spells with the wizard in exchange for his assistance and loyalty.
+In terms of roleplaying, a former member of the Eastern Alliance, Iarno seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Iarno was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Spells with the wizard in exchange for his assistance and loyalty.
 
 Iarno tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Iarno is just as thuggish and arrogant as any Redbrand outlaws.
 
@@ -881,7 +881,7 @@ If questioned while in captivity, Iarno provides the following information, all 
 * The Black Spider is a drow (dark elf).
 * The Black Spider sent three Ferralkins to assist Iarno in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Wave Echo Cave, but Iarno does not.
 * The Black Spider is searching Wave Echo Cave for the Forge of Spells. Dwarves and gnomes of the Phandelver's Pact used the magical forge to create powerful magic items.
-* No other members of the Lords' Alliance are aware of Iarno's betrayal.
+* No other members of the Eastern Alliance are aware of Iarno's betrayal.
 
 ### Develoments
 
@@ -1986,7 +1986,7 @@ Despite his intentions to eliminate the characters, Nezznar is intrigued by them
 
 The creatures from Area 18 become aware of combat noises in this room. If they have not already been dealt with, they arrive after 3 rounds and act immediately after Nezznar's giant spiders in the initiative order.
 
-If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Warwinter or another representative of the Lords' Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Wave Echo Cave. Subsequent events involving Nezznar are at your discretion.
+If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Wave Echo Cave. Subsequent events involving Nezznar are at your discretion.
 
 #### **Treasure**
 

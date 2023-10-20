@@ -6,7 +6,7 @@
 
 ## Backstory
 
-Ulfric Warwinter, a former soldier and sellsword, originates from the city of Reddwall. He is a committed member of the Lords' Alliance, a political entity that unites the cities and towns of the East.
+Ulfric Warwinter, a former soldier and sellsword, originates from the city of Reddwall. He is a committed member of the Eastern Alliance, a political entity that unites the cities and towns of the East.
 
 ## Appearance
 
@@ -20,7 +20,7 @@ Body Type: Strong
 
 ## Disposition
 
-Despite his restrained and somewhat cold demeanor, he compassionate and genuine individual. He lacks confidence and charisma, but his heart is in the right place. He is cautious by nature, but he is not afraid to step into dangerous situations when others are too scared to do so. 
+Despite his restrained and somewhat cold demeanor, he compassionate and genuine individual. He lacks confidence and charisma, but his heart is in the right place. He is cautious by nature, but he is not afraid to step into dangerous situations when others are too scared to do so.
 
 He has a fondness for "quaint" inns.
 
