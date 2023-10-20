@@ -2,11 +2,11 @@
 
 The "Lost Mine of Phandelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
-Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Iarno "Glasstaff" Albrek, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
+Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
 Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost dwarven mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
-Following the map or the directions to the lost mine takes the characters to Part 4, "Wave Echo Cave." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Spells. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Phandelver."
+Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Spells. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Phandelver."
 
 ## **Adventure Hook**
 
@@ -261,7 +261,7 @@ The Vermkin leader, Yeek, holds the second-in-command position in the hideout. I
 
 Should the characters refuse to parley, Yeek forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
-Ulfric Warwinter, a kindhearted human male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
+Ulfric Warwinter, a kindhearted human male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Cavern, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
 Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
 
@@ -325,7 +325,7 @@ The exploration of the Mountainmaw hideout, along with the defeat of Thrak and h
 
 # **Part 2: Tuntin**
 
-Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling human town, firmly allied with the dwarves and gnomes of the Phandelver's Pact. However, the same horde of marauders who plundered the mines at Wave Echo Cave razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
+Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling human town, firmly allied with the dwarves and gnomes of the Phandelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
 
 Over the past three or four years, resilient settlers from the cities of Reddwall and Waterdeep embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Sword Mountains.
 
@@ -347,7 +347,7 @@ Ulfric appears visibly more relaxed.
 "My friends," he comments, "let's secure lodgings. I hear the local inn is quite charming."
 ```
 
-Ulfric's intention is to obtain some rest at the Stonehill Inn and subsequently launch an investigation throughout Tuntin in search of the missing wizard, Iarno Albrek. When his inquiry reaches an impasse, he organizes a meeting with Townmaster Harbin Wester (see the "Townmaster's Hall" section).
+Ulfric's intention is to obtain some rest at the Stonehill Inn and subsequently launch an investigation throughout Tuntin in search of the missing wizard, Sylas Alabaster. When his inquiry reaches an impasse, he organizes a meeting with Townmaster Harbin Wester (see the "Townmaster's Hall" section).
 
 Throughout this phase of the adventure, the characters have the liberty to explore various locations in Tuntin and engage with the NPCs they encounter (see the "Town Description" section for more information). The town is small enough that one can traverse its length within a few minutes. However, given that the characters arrive late in the day, they won't have enough time to visit more than one or two locations before they must seek accommodations for the night.
 
@@ -383,7 +383,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Redbrands' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
 7. **Sister Garaele (Elf Cleric of Tymora):** An elf cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
 8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
-9. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Iarno Albrek.
+9. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Sylas Alabaster.
 
 ### Roleplaying Tuntin NPCs
 
@@ -483,7 +483,7 @@ Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an a
 
 **Carp's Tale.** Qelline's ten-year-old son, Carp, is a spirited and curious young halfling. Carp is captivated by the idea of becoming an adventurer and shares a fascinating story. He mentions that while he was playing in the woods near Tresendar Manor, he stumbled upon a concealed tunnel in a thicket. During his discovery, a couple of "big, menacing bandits" emerged from the tunnel, engaging with Redbrands in the vicinity. Thankfully, Carp managed to remain concealed from their view, but the situation was precarious. Carp believes that the bandits maintain a hidden lair beneath the old manor house. He can either guide the characters to the tunnel's entrance or provide them with directions. This tunnel leads directly to area 8 in the Redbrand hideout.
 
-**Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Wave Echo Cave, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
+**Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Tide Echo Cavern, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
 
 ### Shrine of Luck
 
@@ -513,17 +513,17 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 **Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of orcs near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
 
-**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
+**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
 Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
-**Quest: Finding Iarno.** Upon questioning several locals, Ulfric learns that Iarno Albrek, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Iarno, or whatever remains of him if something has befallen him. Ulfric describes Iarno as "a short, dark-bearded human wizard in his thirties."
+**Quest: Finding Sylas.** Upon questioning several locals, Ulfric learns that Sylas Alabaster, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Sylas, or whatever remains of him if something has befallen him. Ulfric describes Sylas as "a short, dark-bearded human wizard in his thirties."
 
-Unknown to Ulfric, Iarno established the Redbrands, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Iarno, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Iarno's fate, Ulfric rewards the party with 200 gp for eliminating the Redbrand threat.
+Unknown to Ulfric, Sylas established the Redbrands, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Redbrand threat.
 
 #### **Joining the Eastern Alliance**
 
-If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Iarno's deception, Ulfric Warwinter discreetly approaches certain members of the group, urging them to consider joining the Eastern Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Warwinter confers upon them the title of Cloak.
+If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Sylas's deception, Ulfric Warwinter discreetly approaches certain members of the group, urging them to consider joining the Eastern Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Warwinter confers upon them the title of Cloak.
 
 ### **Tresendar Manor**
 
@@ -583,7 +583,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Ceilings.** The height of passages and chambers is typically 10 feet, unless otherwise specified.
 
-**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Iarno Albrek (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
+**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
 
 **Secret Doors.** The map for the Redbrand Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
 
@@ -620,7 +620,7 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 **Treasure**
 
-The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Iarno keeps in the cellar for emergencies.
+The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
 ### 2. Barracks
 
@@ -746,7 +746,7 @@ The characters find themselves in this area through one of three different route
 Within this vast and chilling cavern, a peculiar, cold draft drifts through, carrying with it a faint, ominous aroma of decaying flesh. A rift cleaves the cavern in two, flanked by two roughly hewn stone columns that serve as support for the twenty-foot-tall ceiling. Two wooden bridges, each fashioned with arches, traverse the chasm.
 ```
 
-This cavern's guardian is a nothic—an unhinged subterranean monstrosity with an insatiable appetite for flesh. The creature was originally drawn here by a faint magical aura emanating from the crevasse. When the Redbrands took over, their leader, Iarno, struck an agreement with the nothic. In exchange for treasure and a regular supply of fresh meat, the nothic was persuaded to assist in guarding the stronghold. However, its loyalty remains unpredictable.
+This cavern's guardian is a nothic—an unhinged subterranean monstrosity with an insatiable appetite for flesh. The creature was originally drawn here by a faint magical aura emanating from the crevasse. When the Redbrands took over, their leader, Sylas, struck an agreement with the nothic. In exchange for treasure and a regular supply of fresh meat, the nothic was persuaded to assist in guarding the stronghold. However, its loyalty remains unpredictable.
 
 The nothic lurks close to the western ends of the two bridges. Upon noticing intruders entering the cave, it conceals itself behind one of the large stone columns and surveils them. The creature tries to use its unique ability, Weird Insight, to extract secrets from the characters.
 
@@ -778,9 +778,9 @@ This chamber serves as a barracks, furnished with four rudimentary wooden bunks,
 
 Present in the room are three Ferralkins and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
 
-These Ferralkins work under the command of the Black Spider and were dispatched here to assist Iarno in maintaining control over both the Redbrands and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
+These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Redbrands and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the human members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Iarno. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the human members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
@@ -790,7 +790,7 @@ Droop possesses knowledge of the general layout of the Redbrand hideout, includi
 
 #### Developments
 
-Regarding developments, the Ferralkins are the only individuals in the Redbrand hideout who are privy to the location of Wave Echo Cave. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
+Regarding developments, the Ferralkins are the only individuals in the Redbrand hideout who are privy to the location of Tide Echo Cavern. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
 
 #### Treasure
 
@@ -832,17 +832,17 @@ Through either door of this room, faint bubbling and dripping sounds can be disc
 This chamber takes the form of a wizard's workshop, with a rat darting across the floor and finding refuge under a large worktable, adorned with alembics, retorts, distillation coils, and other alchemical devices, all actively bubbling and simmering away. The bookshelves in the room are brimming with piles of parchment and peculiar-looking tomes.
 ```
 
-Iarno has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Iarno as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminated, it vanishes.
+Sylas has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Sylas as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminated, it vanishes.
 
-If the characters opt to leave the rat unharmed, it will follow them around as if driven by curiosity or hunger. It might even pretend to be affectionate towards a character who feeds it, but its loyalty remains firmly with Iarno.
+If the characters opt to leave the rat unharmed, it will follow them around as if driven by curiosity or hunger. It might even pretend to be affectionate towards a character who feeds it, but its loyalty remains firmly with Sylas.
 
-**Books and Notes.** Within the room, you'll find books and notes scattered about, as Iarno is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Iarno's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
+**Books and Notes.** Within the room, you'll find books and notes scattered about, as Sylas is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Sylas's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
 
-Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Phandelver and the Forge of Spells (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Phandelver's Pact. This mace went missing when Wave Echo Cave and its mine vanished from history. (Characters might find the mace in part 4, "Wave Echo Cave.")
+Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Phandelver and the Forge of Spells (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Phandelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
 
 #### Developments
 
-In terms of developments, since Iarno and his rat familiar maintain a telepathic bond, the mage (in area 12) becomes aware that the characters are approaching and thus has time to make preparations.
+In terms of developments, since Sylas and his rat familiar maintain a telepathic bond, the mage (in area 12) becomes aware that the characters are approaching and thus has time to make preparations.
 
 #### Treasure
 
@@ -850,56 +850,56 @@ Regarding treasure, most of the materials in this room lack value, but three sma
 
 ### 12. Glasstaff's Quarters
 
-If the characters approach this room via the secret passage from area 7, they can catch the leader of the Redbrands, Iarno "Glasstaff" Albrek, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
+If the characters approach this room via the secret passage from area 7, they can catch the leader of the Redbrands, Sylas "Glasstaff" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
 
 ```
 This room features walls adorned with scarlet cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
 ```
 
-If Iarno is taken by surprise, include the following paragraph:
+If Sylas is taken by surprise, include the following paragraph:
 
 ```
 Sitting at the desk is a short, dark-bearded human male dressed in robes, engrossed in the study of a tome. He sports an ermine-trimmed princely mantle and keeps a splendid glass staff leaning against his chair, within easy reach.
 ```
 
-However, if the rat in area 11 alerts him to the approaching danger, Iarno, the malevolent mage, swiftly retrieves his staff of defense (see the appendix) and the scrolls from his chest (see the "Treasure" section) before making his escape through the secret door in the northeast corner of the room. In his rush, Iarno inadvertently leaves a letter from the Black Spider behind (see the "Developments" section), and fails to secure the secret door completely. Characters gain an advantage on ability checks when trying to locate the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For additional information on secret doors, refer to the "General Features" section (page 20).
+However, if the rat in area 11 alerts him to the approaching danger, Sylas, the malevolent mage, swiftly retrieves his staff of defense (see the appendix) and the scrolls from his chest (see the "Treasure" section) before making his escape through the secret door in the northeast corner of the room. In his rush, Sylas inadvertently leaves a letter from the Black Spider behind (see the "Developments" section), and fails to secure the secret door completely. Characters gain an advantage on ability checks when trying to locate the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For additional information on secret doors, refer to the "General Features" section (page 20).
 
-If he successfully escapes, Iarno flees to area 1 (through areas 7 and 8) and retrieves the satchel hidden in the cistern there. If the nothic in area 8 is still alive, Iarno instructs it to waylay any pursuers. If the characters manage to catch up to him, Iarno drinks the potion of invisibility from the satchel and makes a hasty exit from the hideout. Depending on your discretion, he may reappear later in the adventure.
+If he successfully escapes, Sylas flees to area 1 (through areas 7 and 8) and retrieves the satchel hidden in the cistern there. If the nothic in area 8 is still alive, Sylas instructs it to waylay any pursuers. If the characters manage to catch up to him, Sylas drinks the potion of invisibility from the satchel and makes a hasty exit from the hideout. Depending on your discretion, he may reappear later in the adventure.
 
-#### Roleplaying Iarno
+#### Roleplaying Sylas
 
-In terms of roleplaying, a former member of the Eastern Alliance, Iarno seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Iarno was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Spells with the wizard in exchange for his assistance and loyalty.
+In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Sylas was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Spells with the wizard in exchange for his assistance and loyalty.
 
-Iarno tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Iarno is just as thuggish and arrogant as any Redbrand outlaws.
+Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Redbrand outlaws.
 
-If he feels threatened, Iarno uses his staff of defense to cast mage armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Iarno employs the shield power of his staff for extra protection.
+If he feels threatened, Sylas uses his staff of defense to cast mage armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Sylas employs the shield power of his staff for extra protection.
 
-Should he be reduced to 8 or fewer hit points with no means of escape, Iarno surrenders, valuing his life above all else, hoping that his model behavior as a prisoner might lead the Black Spider to secure his release.
+Should he be reduced to 8 or fewer hit points with no means of escape, Sylas surrenders, valuing his life above all else, hoping that his model behavior as a prisoner might lead the Black Spider to secure his release.
 
-If questioned while in captivity, Iarno provides the following information, all of which is accurate:
+If questioned while in captivity, Sylas provides the following information, all of which is accurate:
 
 * The Black Spider is a drow (dark elf).
-* The Black Spider sent three Ferralkins to assist Iarno in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Wave Echo Cave, but Iarno does not.
-* The Black Spider is searching Wave Echo Cave for the Forge of Spells. Dwarves and gnomes of the Phandelver's Pact used the magical forge to create powerful magic items.
-* No other members of the Eastern Alliance are aware of Iarno's betrayal.
+* The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
+* The Black Spider is searching Tide Echo Cavern for the Forge of Spells. Dwarves and gnomes of the Phandelver's Pact used the magical forge to create powerful magic items.
+* No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
 ### Develoments
 
-In terms of developments, various papers and notes are neatly stacked on the desk, primarily consisting of Iarno's written orders to apothecaries and alchemists in nearby settlements for additional materials for his workshop. Among these documents, the characters also discover a letter marked with the Black Spider's symbol.
+In terms of developments, various papers and notes are neatly stacked on the desk, primarily consisting of Sylas's written orders to apothecaries and alchemists in nearby settlements for additional materials for his workshop. Among these documents, the characters also discover a letter marked with the Black Spider's symbol.
 
 ```
-Lord Albrek,
+Lord Alabaster,
 
-Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any dwarven maps within their possession are swiftly delivered to me. I am relying on you, Iarno. Do not let me down.
+Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any dwarven maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
 ```
 
-In the event that Iarno is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Iarno faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
+In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Sylas faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
 
 #### Treasure
 
-Positioned at the foot of Iarno's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Iarno from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Iarno wields a staff of defense (refer to appendix A).
+Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
-For experience points, distribute 200 XP evenly among the characters if the party eliminates Iarno Albrek. Double the XP award if they successfully capture Iarno and deliver him to Ulfric Warwinter in Tuntin.
+For experience points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
 #### Awarding Experinece
 
@@ -913,7 +913,7 @@ Depending on which NPCs the characters have interacted with and the clues or que
 
 * Sister Garaele has requested that the characters visit the banshee Agatha in the ruined town of Conyberry to inquire about Bowgentle's spellbook.
 * Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Owl Well.
-* Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Wave Echo Cave, or both.
+* Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Tide Echo Cavern, or both.
 * Townmaster Harbin Wester desires the characters to investigate an orc encampment near Wyvern Tor and remove the orcs from the area.
 * Ulfric Warwinter's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
 
@@ -997,7 +997,7 @@ The spectral figure flashes a cold, amused smile and utters, "Very well," in an 
 
 If the characters inquire about Bowgentle's spellbook, Agatha reveals that she traded the tome to a necromancer named Tsernoth in the city of Iriaebor over a century ago. She remains oblivious to the book's subsequent fate. Her response is accurate, furnishing Sister Garaele and the Harpers with the information needed to continue their search.
 
-Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Wave Echo Cave, the identity of the Black Spider, or Hamun Kost's question regarding Old Owl Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
+Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Tide Echo Cavern, the identity of the Black Spider, or Hamun Kost's question regarding Old Owl Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
 
 #### Awarding Experinece Points
 
@@ -1140,7 +1140,7 @@ Reidoth excels at avoiding the ash zombies that now inhabit the village and navi
 
 If the characters inquire about Mountainmaw Castle, Reidoth readily offers directions. As a member of the Emerald Enclave, a widely-spread organization of wilderness survivalists dedicated to preserving the natural balance and addressing threats to it, he is well-aware of the need to protect this equilibrium. The Enclave strives to maintain harmony between the elemental forces of the world, prevent the excesses of civilization and wilderness from clashing, and support those facing the dangers of the wilds. Reidoth considers the Vermkins as a perilous threat to this delicate balance.
 
-Regarding Wave Echo Cave, Reidoth refuses to disclose its location but offers to guide the party there in exchange for a favor. His request is for them to confront the dragon in area 7. If they succeed in this daunting task, Reidoth will uphold his end of the bargain but will not accompany the party inside the mine.
+Regarding Tide Echo Cavern, Reidoth refuses to disclose its location but offers to guide the party there in exchange for a favor. His request is for them to confront the dragon in area 7. If they succeed in this daunting task, Reidoth will uphold his end of the bargain but will not accompany the party inside the mine.
 
 Should the characters turn hostile and attack him for any reason, Reidoth takes the form of a gray squirrel and darts out of the cottage through a crack in the wall, disappearing into the woods. His watch post contains nothing of material value.
 
@@ -1371,7 +1371,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Redbrands and claim to be emissaries sent by Iarno "Glasstaff" Albrek, the Redbrand leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Redbrands work for the Black Spider, making it unlikely that the Vermkinoids will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Redbrands and claim to be emissaries sent by Sylas "Glasstaff" Alabaster, the Redbrand leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Redbrands work for the Black Spider, making it unlikely that the Vermkinoids will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
@@ -1574,7 +1574,7 @@ This chamber has been crudely arranged as a living space, with thick furs servin
 
 King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer force and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
 
-Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female drow. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Wave Echo Cave from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the drow. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
+Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female drow. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the drow. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
 
 In the event that the villains have been forewarned of an impending attack, Vyerith conceals herself behind the northeastern door, leaving it slightly ajar in anticipation of ambushing intruders from behind. King Grom holds Burrowbard as a hostage and is prepared to execute the molekin if the characters don't withdraw.
 
@@ -1592,7 +1592,7 @@ Should Burrowbard regain consciousness, he expresses his gratitude to the party 
 
 #### **Treasure**
 
-Concealed beneath Grom's bed mattress is a sewn leather sack containing 220 sp, 160 ep, three potions of healing, and Burrowbard's map to Wave Echo Cave.
+Concealed beneath Grom's bed mattress is a sewn leather sack containing 220 sp, 160 ep, three potions of healing, and Burrowbard's map to Tide Echo Cavern.
 
 #### **Awarding Experience Points**
 
@@ -1614,15 +1614,15 @@ Divide 500 XP equally among the characters if they conquer the hobVermkin war ba
 
 ### **What's Next?**
 
-Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Wave Echo Cave to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
+Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
-With the revelation of the location of Wave Echo Cave, the characters are now prepared to set forth in search of the ancient dwarven mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Phandelver
+With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient dwarven mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Phandelver
 
-## **Part 4: Wave Echo Cave**
+## **Part 4: Tide Echo Cavern**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Wave Echo Cave hides the rich mine of Phandelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Wave Echo Cave.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Phandelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
-Nezznar seeks the Forge of Spells, where human mages from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Wave Echo Cave, forcing him to proceed with extreme caution.
+Nezznar seeks the Forge of Spells, where human mages from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
 
 The adventurers now have an opportunity to assist Burrowbard, avenge his kin, and thwart the Black Spider's sinister plans. Furthermore, the rumored hoard of potent magic hidden within the mines promises a valuable prize.
 
@@ -1674,19 +1674,19 @@ The mine is characterized by its cold, damp atmosphere and surprising drafts. A 
 
 ## Keyed Encounters
 
-All the encounters in this part of the adventure correspond to the map of Wave Echo Cave.
+All the encounters in this part of the adventure correspond to the map of Tide Echo Cavern.
 
 ```
 BOOMING WAVES
 
-Every exceptional dungeon has distinguishing features that make it unique, and Wave Echo Cave is no exception. Throughout the mine, there is a rhythmic sound of thunderous waves that reverberates, causing the very ground beneath to shudder. These waves come roughly every two minutes, intensifying as one moves northeast.
+Every exceptional dungeon has distinguishing features that make it unique, and Tide Echo Cavern is no exception. Throughout the mine, there is a rhythmic sound of thunderous waves that reverberates, causing the very ground beneath to shudder. These waves come roughly every two minutes, intensifying as one moves northeast.
 
-While Wave Echo Cave is far from the ocean, a water-filled cavern deep within the mine is connected to an underground hot spring. This spring continuously overflows, creating a surge that slams into a narrow funnel, producing a noise resembling crashing waves. On occasion, you should describe this sound to the players. It will pique their curiosity and draw them towards its source, naturally enticing them to venture deeper into the mine.
+While Tide Echo Cavern is far from the ocean, a water-filled cavern deep within the mine is connected to an underground hot spring. This spring continuously overflows, creating a surge that slams into a narrow funnel, producing a noise resembling crashing waves. On occasion, you should describe this sound to the players. It will pique their curiosity and draw them towards its source, naturally enticing them to venture deeper into the mine.
 ```
 
 **1. CAVE ENTRANCE**
 
-Whether the characters are following Burrowbard's map or have received directions to Wave Echo Cave from another source, their initial approach leads them to a narrow tunnel concealed within the Sword Mountain foothills.
+Whether the characters are following Burrowbard's map or have received directions to Tide Echo Cavern from another source, their initial approach leads them to a narrow tunnel concealed within the Sword Mountain foothills.
 
 ```
 The entrance tunnel opens into a large cavern supported by a natural rock pillar and containing three stalagmites. Behind the rock column in the western part of the cave are three bedrolls and an assortment of everyday supplies such as sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other equipment. Amidst these supplies lies the body of a deceased molekin miner, who has been lifeless for at least a week.
@@ -1700,11 +1700,11 @@ This area used to serve as the campsite for the Stoneseeker brothers. The deceas
 
 #### **Treasure**
 
-Tharden wears a pair of boots of striding and springing. In his hurry to explore the rest of Wave Echo Cave, Nezznar missed them.
+Tharden wears a pair of boots of striding and springing. In his hurry to explore the rest of Tide Echo Cavern, Nezznar missed them.
 
 ### **2. Mine Tunnels**
 
-This intricate network of passages constitutes an old section of the original Wave Echo Cave mine.
+This intricate network of passages constitutes an old section of the original Tide Echo Cavern mine.
 
 ```
 This area is characterized by multiple intersecting passageways with ceilings that are only six feet high, and some of these passages lead to partially excavated rock faces.
@@ -1714,7 +1714,7 @@ These dead-end passages mark areas where the miners abandoned their efforts, opt
 
 ### **3. Old Entrance**
 
-The southern tunnel once served as the original entrance to Wave Echo Cave but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when orcs laid siege to the mines. The fallen still lie where they perished.
+The southern tunnel once served as the original entrance to Tide Echo Cavern but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when orcs laid siege to the mines. The fallen still lie where they perished.
 
 ```
 In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and gnome miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of dwarves and others orcs, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
@@ -1748,7 +1748,7 @@ Behind the counter, a securely locked iron strongbox can be found, requiring the
 
 ### **6. South Barracks**
 
-This room served as a miners' barracks, providing rest for the skilled delvers working within Wave Echo Cave between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Wisdom (Perception) check to do so.
+This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Cavern between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Wisdom (Perception) check to do so.
 
 ```
 Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen dwarves and orcs, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
@@ -1822,7 +1822,7 @@ If the party enters from the west, an additional description is needed:
 On the opposite side of the room, there is another door, obstructed by a makeshift barricade constructed from the remnants of a wooden table.
 ```
 
-Five Ferralkins inhabit this room, faithfully serving Nezznar. This room marks the front line in the Black Spider's assault on Wave Echo Cave, and the Ferralkins are tasked with deterring any ghouls, zombies, or other undead from disturbing their master in his lair (area 19). Like area 6, this chamber was once a miner's barracks. Nezznar's Ferralkins removed the corpses they found and constructed the barricade.
+Five Ferralkins inhabit this room, faithfully serving Nezznar. This room marks the front line in the Black Spider's assault on Tide Echo Cavern, and the Ferralkins are tasked with deterring any ghouls, zombies, or other undead from disturbing their master in his lair (area 19). Like area 6, this chamber was once a miner's barracks. Nezznar's Ferralkins removed the corpses they found and constructed the barricade.
 
 #### Treasure
 
@@ -1840,7 +1840,7 @@ Numerous lifeless corpses of dwarves and orcs, still adorned in tattered armor, 
 
 Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the human wizards allied with the Phandelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
 
-This impressive chamber previously served as the hub of Wave Echo Cave's mining operation. Here, dwarves smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the dwarves diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
+This impressive chamber previously served as the hub of Tide Echo Cavern's mining operation. Here, dwarves smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the dwarves diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
 
 ### 13. Starry Cavern
 
@@ -1866,7 +1866,7 @@ Within, the room bears the marks of destruction, evident in the ash, dust, fire-
 
 The spirit of Mormesk, the last wizard to perish in this room, still haunts the area. Initially unseen, Mormesk materializes when a living being enters the room. Once a formidable mage, his existence was snuffed out during the climactic battle that devastated the mines. Centuries of resentment have warped his soul into a malevolent apparition.
 
-Mormesk presides over the undead that haunt Wave Echo Cave. He lingers here because his wealth from life resides within the scorched chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
+Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scorched chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
 
 This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Spells (area 15), most of whom were human. The furnishings reflect their human-sized proportions.
 
@@ -1898,7 +1898,7 @@ Hovering behind the brazier with its green flame is a spherical entity, roughly 
 
 The wraith in Area 14 is determined to drive off or eliminate the spectator, but thus far, the creature has easily fended off the assaults of Mormesk's zombies and ghouls, seemingly oblivious to the undead roaming the mine. Should the party attempt to remove anything from this area, the spectator will attack. If somehow blinded, the creature retreats to its home plane, convinced that it can no longer fulfill the purpose for which it was summoned.
 
-By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Wave Echo Cave, dispatched to terminate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
+By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Cavern, dispatched to terminate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
 
 **The Brazier of Green Flame.** A successful DC 15 Intelligence (Arcana) check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
 
@@ -1914,7 +1914,7 @@ On the worktable in the southeast corner of the room, you find the last items th
 
 ### 16. Booming Cavern
 
-The unmistakable sound of pounding surf, which has christened Wave Echo Cave, finds its origins in this water-filled cavern.
+The unmistakable sound of pounding surf, which has christened Tide Echo Cavern, finds its origins in this water-filled cavern.
 
 ```
 A narrow ledge affords a view of the expansive chamber, wherein a turbulent and frothing body of water resides. The rhythmic thunders that resonate throughout the mines reach their crescendo here. Periodically, a fresh surge of water rushes into this chamber, crashing against the wall just beneath the ledge. The echoes suggest that this cavern may be one arm of a much grander chamber to the northeast.
@@ -1930,7 +1930,7 @@ The stream that previously flowed from Area 10 to Area 18 once continued its jou
 This passage barely reaches a height of four feet and is cluttered with rounded boulders and pebbles. In its time, it might have served as a streambed, though no water courses through it today.
 ```
 
-The dwarves diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the orc invasion rocked Wave Echo Cave, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
+The dwarves diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the orc invasion rocked Tide Echo Cavern, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
 
 ### 18. Collapsed Cavern
 
@@ -1980,13 +1980,13 @@ Should the doppelganger from Area 18 have retreated to this location, it assumes
 
 #### Roleplaying Nezznar
 
-Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Redbrands to maintain Wave Echo Cave's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Spells. However, he betrays the characters once they outlive their usefulness.
+Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Redbrands to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Spells. However, he betrays the characters once they outlive their usefulness.
 
 #### **Developments**
 
 The creatures from Area 18 become aware of combat noises in this room. If they have not already been dealt with, they arrive after 3 rounds and act immediately after Nezznar's giant spiders in the initiative order.
 
-If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Wave Echo Cave. Subsequent events involving Nezznar are at your discretion.
+If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Tide Echo Cavern. Subsequent events involving Nezznar are at your discretion.
 
 #### **Treasure**
 
@@ -2010,7 +2010,7 @@ This chamber once belonged to the priest responsible for Dumathoin's temple (fro
 
 **Developments**
 
-If the adventurers successfully rescue Nundro, he expresses his gratitude and offers to accompany them during their stay in Wave Echo Cave. However, Nundro possesses limited knowledge of the mine's layout and can provide little useful information. Refer to the "NPC Party Members" sidebar (page 11) for guidance on role-playing Nundro.
+If the adventurers successfully rescue Nundro, he expresses his gratitude and offers to accompany them during their stay in Tide Echo Cavern. However, Nundro possesses limited knowledge of the mine's layout and can provide little useful information. Refer to the "NPC Party Members" sidebar (page 11) for guidance on role-playing Nundro.
 
 Should the characters deal with Nezznar and his allies, this area provides a secure and comfortable place for them to rest before continuing their explorations within the mine.
 
@@ -2020,8 +2020,8 @@ If Nundro is rescued and survives the adventure, distribute 200 XP equally among
 
 ## **Conclusion**
 
-Through their tireless efforts and a touch of luck, the adventurers have vanquished the Black Spider, thwarted his malevolent schemes, rid Tuntin of the threats posed by the ruffians, and reclaimed the long-lost mine of Wave Echo Cave. Their valorous deeds will be enshrined in the annals of this corner of the Sword Coast. In the years to come, the revitalized mines of the Phandelver's Pact will bring substantial wealth to Tuntin, fostering peace and prosperity in the region.
+Through their tireless efforts and a touch of luck, the adventurers have vanquished the Black Spider, thwarted his malevolent schemes, rid Tuntin of the threats posed by the ruffians, and reclaimed the long-lost mine of Tide Echo Cavern. Their valorous deeds will be enshrined in the annals of this corner of the Sword Coast. In the years to come, the revitalized mines of the Phandelver's Pact will bring substantial wealth to Tuntin, fostering peace and prosperity in the region.
 
 Burrowbard and Nundro Stoneseeker take charge of the new mine's management. In gratitude for the adventurers' service to their family, they generously reward the party with a 10 percent share of the mine's profits. Whether the characters opt to settle in Tuntin, restore Tresendar Manor, or seek new adventures elsewhere, the local populace welcomes them with open arms.
 
-By the culmination of this adventure, the characters should have reached the 5th level. If your players wish to continue with their characters, you can utilize the contents of this set to craft your adventures. The mysterious map found in Area 14 of Wave Echo Cave offers a potential adventure hook, but feel free to explore alternative ideas by leveraging the monsters, magic items, and locales within this adventure. If you intend to devise adventures for characters beyond the 5th level, you will require the basic rules online or the advanced rulebooks: the Player's Handbook, Narrator's Guide, and Monster Manual.
+By the culmination of this adventure, the characters should have reached the 5th level. If your players wish to continue with their characters, you can utilize the contents of this set to craft your adventures. The mysterious map found in Area 14 of Tide Echo Cavern offers a potential adventure hook, but feel free to explore alternative ideas by leveraging the monsters, magic items, and locales within this adventure. If you intend to devise adventures for characters beyond the 5th level, you will require the basic rules online or the advanced rulebooks: the Player's Handbook, Narrator's Guide, and Monster Manual.
