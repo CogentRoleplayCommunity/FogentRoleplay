@@ -26,6 +26,14 @@ To commence this adventure, the player characters find themselves on a mission t
 
 Now, when you're ready to initiate the adventure, read the enclosed text. Should you choose to devise an alternative story hook, proceed to the subsequent paragraph, and adapt the particulars to suit your narrative, disregarding any references to guiding the wagon.
 
+>
+> Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
+
+> Intriguingly, Burrowbard and his warrior companion, Ulfric Brimward, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
+>
+> Your expedition has seen you trekking through the past few days, tracing the well-trodden path along the Crimson Road, venturing eastward from Reddwall. As of late, you've taken a turn eastward onto the Trident Trail. Thus far, your journey has been relatively uneventful, though this terrain is notorious for its perils. Bandits and outlaws are known to lurk along these very trails, making vigilance and caution imperative.
+
+
 ```
 Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
 
@@ -50,7 +58,7 @@ When you're prepared, proceed to the next section, "Vermkin Arrows," to initiate
 
 ## Feral Ambush
 
-To initiate the encounter, please read the following text aloud:
+To initiate the encounter, please read the following text aloud.
 
 ```
 Having journeyed along the Trident Trail for approximately half a day, you round a bend and are confronted by a grim sight. There, about fifty feet ahead, lie two lifeless horses sprawled across the path. Each animal bears the unmistakable mark of several black-feathered arrows embedded in their flesh. The forest presses closely to the trail at this point, flanked by a steep embankment and thickets that seem impenetrable on either side.
@@ -76,9 +84,7 @@ Prepare for what may well become the initial skirmish in a series of battles wit
 
 In the unlikely event that the Vermkins manage to defeat the adventurers, they will leave them unconscious and loot both the party and the wagon. The Vermkins will then return to their Mountainmaw hideout. The characters can choose to continue on to Tuntin, purchase new gear at Barton's Provisions, and later return to the ambush site to find the Vermkins' trail.
 
-
 Characters may decide to capture one or more Vermkins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconcious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured Vermkin regains consciousness and can be convinced to share what it knows (see "What the Vermkins Know" sidebar). Additionally, the party can persuade the captured Vermkin to lead them to the Mountainmaw hideout while avoiding traps (see "Vermkin Trail" section).
-
 
 If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Beastshield Coster for more information on the Vermkin attacks.
 
