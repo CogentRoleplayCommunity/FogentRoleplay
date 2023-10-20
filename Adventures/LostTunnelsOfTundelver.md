@@ -80,7 +80,11 @@ Characters may decide to capture one or more Vermkins by knocking them unconscio
 
 If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Beastshield Coster for more information on the Vermkin attacks.
 
-**Resting:** After the Vermkin ambush, the party may require a rest depending on the outcome of the battle.
+```
+Resting:
+
+After the Vermkin ambush, the party may require a rest depending on the outcome of the battle.
+```
 
 **Vermkin Trail:**
 If the characters defeat the Vermkins and inspect the area, they will discover signs that the Vermkins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen Vermkins have traveled along this trail, along with signs of two humaniod-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the Vermkins down the trail, which leads five miles northwest to the Mountainmaw hideout.
