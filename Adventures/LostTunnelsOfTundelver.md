@@ -26,7 +26,6 @@ To commence this adventure, the player characters find themselves on a mission t
 
 Now, when you're ready to initiate the adventure, read the enclosed text. Should you choose to devise an alternative story hook, proceed to the subsequent paragraph, and adapt the particulars to suit your narrative, disregarding any references to guiding the wagon.
 
-
 ```
 Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
 
@@ -41,7 +40,7 @@ Before delving further into the adventure, take a few moments to engage the play
 - **Character Connections to Burrowbard Stoneseeker:** Have the players consider how their characters came to know their molekin patron, Burrowbard Stoneseeker. Encourage them to create their own stories, but offer suggestions if someone is struggling with ideas. For instance, Burrowbard could be a childhood friend, a mentor, or someone who aided the character in a difficult situation. This exercise allows players to contribute to the adventure's backstory and provides a more personalized connection to the quest.
 - **Party's Marching Order:** Ask the players to determine the party's marching order and how their characters are traveling. Identify who's at the front and who's at the rear, and if the characters are escorting Burrowbard's wagon, clarify who's driving it. The remaining characters can decide whether they're riding on the wagon, walking alongside, or scouting ahead. This helps establish the group dynamics and tactics for the journey.
 
-#### Driving the Wagon:
+#### Driving the Wagon
 
 Any character within the party can take the reins and drive the wagon. No specific skill is required to do so. The wagon is pulled by two sturdy oxen, and if no one holds the reins, the oxen will come to a halt.
 
