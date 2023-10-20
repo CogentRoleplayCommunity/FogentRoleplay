@@ -26,13 +26,6 @@ To commence this adventure, the player characters find themselves on a mission t
 
 Now, when you're ready to initiate the adventure, read the enclosed text. Should you choose to devise an alternative story hook, proceed to the subsequent paragraph, and adapt the particulars to suit your narrative, disregarding any references to guiding the wagon.
 
->
-> Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
-
-> Intriguingly, Burrowbard and his warrior companion, Ulfric Brimward, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
->
-> Your expedition has seen you trekking through the past few days, tracing the well-trodden path along the Crimson Road, venturing eastward from Reddwall. As of late, you've taken a turn eastward onto the Trident Trail. Thus far, your journey has been relatively uneventful, though this terrain is notorious for its perils. Bandits and outlaws are known to lurk along these very trails, making vigilance and caution imperative.
-
 
 ```
 Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
