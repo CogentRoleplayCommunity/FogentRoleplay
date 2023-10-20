@@ -320,9 +320,9 @@ The following leg of the journey unfolds in Tuntin, offering the adventurers sev
 
 Players might also decide on alternative actions, such as pursuing Mountainmaw Castle in part 3 of the adventure. In such cases, proceed directly to that section.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
-The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 2 skill points.
+The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 2 skill & destiny points.
 
 # **Part 2: Tuntin**
 
@@ -564,7 +564,7 @@ Redbrands who are captured or charmed by the characters can provide valuable inf
 
 If the characters kill the ruffians, most of the townspeople will be appreciative. An exception is the town master, who is concerned about the possibility of Redbrand retaliation. Harbin will not punish the characters but will caution them against causing further trouble.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Each character is awarded a skill point upon their successful defeat of the ruffians.
 
@@ -639,7 +639,7 @@ The barrels in this area contain similar supplies to those found in area 1.
 
 All three Redbrands possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 bronze coins; the second, 12 silver pieces and 5 bronze coins; and the third, 15 electrum pieces and two garnets, each valued at 10 bronze coins. Furthermore, three worn, scarlet cloaks hang from the bunks.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Distribute 300 XP equally among the characters if the party overcomes the ruffians.
 
@@ -655,7 +655,7 @@ Concealed in the middle of the corridor is a perilous pit trap, concealed beneat
 
 A character who triggers the trap or fails the Dexterity check while attempting to bypass the pit must make a DC 15 Dexterity saving throw to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
 
-AWARDING EXPERIENCE POINTS
+AWARDING Skill & Destiny Points
 
 Distribute 100 XP equally among the characters if the party successfully avoids or survives the pit trap.
 
@@ -679,7 +679,7 @@ Combat in this chamber will serve as a warning to the Redbrands in area 5, alert
 
 Within the remnants of each sarcophagus, a platinum signet ring (50 gp) can be found among the bones.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Distribute 150 XP equally among the characters if the party successfully vanquishes the skeletons.
 
@@ -707,7 +707,7 @@ The Dendrars hold deep gratitude toward the rescuing characters, although they h
 
 **Side Quest: Mirna's Heirloom.** Although the Dendrars have nothing to offer as a reward, Mirna suggests that she might possess information about a valuable family heirloom. In her youth, her family fled from the town of Lumgrove following a spore onslaught that overran the place. Her family operated an herb and alchemy shop where a case containing an emerald necklace was concealed beneath a section of storage shelves. She never dared to return and retrieve it. The shop was situated in the southeastern part of Lumgrove. If the characters opt to explore the Lumgrove ruins, consult part 3 of the adventure.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Divide 200 XP equally among the characters if the party overcomes the ruffians. Divide 100 XP equally among the characters if the Dendrars return safely to town.
 
@@ -765,9 +765,9 @@ As for the treasure, the nothic safeguards its riches in a battered wooden chest
 
 Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Tresendar, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an orc assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
 
-### Awarding Experinece Points
+### Awarding Skill & Destiny Points
 
-In terms of experience points, divide 450 XP equally among the characters if the party manages to either defeat the nothic or negotiate a truce with it.
+In terms of Skill & Destiny Points, divide 450 XP equally among the characters if the party manages to either defeat the nothic or negotiate a truce with it.
 
 ### 9. Guard Barracks
 
@@ -797,9 +797,9 @@ Regarding developments, the Ferralkins are the only individuals in the Redbrand 
 
 In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 bronze coins). He also possesses an iron key capable of locking and unlocking all doors in the Redbrand hideout.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
-For experience points, divide 600 XP equally among the characters if the party manages to defeat the Ferralkins.
+For Skill & Destiny Points, divide 600 XP equally among the characters if the party manages to defeat the Ferralkins.
 
 ### 10. Common Room
 
@@ -821,9 +821,9 @@ Upon the party's entrance, the Redbrands instantly identify any characters weari
 
 As for treasure, all the wealth on the table has been wagered in the game. (Knocking over the table or mixing up their loot is an effective way to momentarily distract them.) The total value includes 75 copper pieces, 55 silver pieces, 22 electrum pieces, 15 bronze coins, and a gold earring adorned with a small ruby (worth 30 bronze coins).
 
-#### Awarding Experinece Points
+#### Awarding Skill & Destiny Points
 
-For experience points, divide 400 XP equally among the characters if the party manages to vanquish the Redbrands in this room.
+For Skill & Destiny Points, divide 400 XP equally among the characters if the party manages to vanquish the Redbrands in this room.
 
 ### 11. Runesmith's Workshop
 
@@ -900,7 +900,7 @@ In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have 
 
 Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
-For experience points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
+For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
 #### Awarding Experinece
 
@@ -1000,9 +1000,9 @@ If the characters inquire about Bowgentle's spellbook, Agatha reveals that she t
 
 Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Tide Echo Cavern, the identity of the Black Spider, or Hamun Kost's question regarding Old Owl Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
 
-#### Awarding Experinece Points
+#### Awarding Skill & Destiny Points
 
-The characters receive experience points for persuading Agatha successfully to answer a question. If they achieve this, allocate 200 XP equally among the characters.
+The characters receive Skill & Destiny Points for persuading Agatha successfully to answer a question. If they achieve this, allocate 200 XP equally among the characters.
 
 ## Old Owl Well
 
@@ -1031,7 +1031,7 @@ Kost remains guarded regarding the reason for his presence in the area. Neverthe
 
 Within Hamun Kost's tent lies a well-appointed traveling suite, including a cot, a chair, a writing desk with supplies, and a clothing chest. Inside the chest, there is a leather bag containing 35 silver pieces, 20 electrum pieces, 20 bronze coins, 5 platinum pieces, one pearl (100 bronze coins), a potion of healing, a scroll of darkness enclosed in a bone tube, and a small jeweled box (valued at 25 bronze coins) containing an ancient Netheril ring of protection—the Red Wizard's most intriguing discovery thus far.
 
-#### Awarding Experinece Points
+#### Awarding Skill & Destiny Points
 
 Discovering the presence of the Red Wizard at Old Owl Well fulfills a quest given to the party by Daran Edermath in Tuntin. If the party parleys with Hamun Kost and reports back to Daran, divide 200 XP equally among the characters.
 
@@ -1097,7 +1097,7 @@ These plant creatures are hungry and will fight until they are destroyed. In the
 
 A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Wisdom (Perception) check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 700 copper pieces, 160 silver pieces, and 90 bronze coins.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Divide 50 XP equally among the characters if the party overcomes these twig blights.
 
@@ -1113,7 +1113,7 @@ In this building, shadows conceal four ash zombies (refer to the "Ash Zombies" s
 
 The eastern part of the building used to serve as the old common room, while the western portion housed the kitchens and brewer's vats. Massive wooden tuns are situated to the west, and a faint hint of yeast still lingers in the air. However, the ale is long gone.
 
-#### Awarding Experinece Points
+#### Awarding Skill & Destiny Points
 
 Divide 200 XP equally among the characters if the party successfully vanquishes the ash zombies.
 
@@ -1159,7 +1159,7 @@ The ruin in front of you appears to have been a farmhouse at one time, now only 
 
 The thicket to the east of this ruin harbors eight twig blights. Any disturbance within the ruined farmhouse, such as characters sifting through rubble, rouses the anger of the blights. In response, two twig blights head for the south doorway leading into the farmhouse, while two others head for the north doorway for three rounds. The blights aggressively attack until they are vanquished.
 
-#### Awarding Experinece Points
+#### Awarding Skill & Destiny Points
 
 Divide 200 XP equally among the characters if the party successfully eliminates the twig blights.
 
@@ -1181,7 +1181,7 @@ Circumventing the webs is made difficult by the dense thickets on the north side
 
 In the western half of the building, the corpse of an unfortunate adventurer is ensnared in spider silk. The body, a shriveled male elf, is sucked dry and decomposed but still clad in studded leather armor with a shortsword in its scabbard. A thorough search also reveals a potion of healing in a belt pouch, along with 23 gp and 35 sp.
 
-EXPERIENCE POINTS
+Skill & Destiny Points
 
 Divide 400 XP equally among the characters if the party manages to defeat the giant spiders.
 
@@ -1207,7 +1207,7 @@ An aged wooden chest, its lid broken open and resting on the tower floor, safegu
 
 Remarkably, the most intriguing item in the hoard is often overlooked by the dragon. Beneath the coins lies a rustic battleaxe of dwarven craftsmanship. Dwarvish runes on the axe head read "Hew," and the rust obscures its true nature. Hew is a +1 battleaxe that deals maximum damage when used against plant creatures or wooden objects. The axe's creator, a molekin smith, had a long-standing feud with the forest's dryads, from whom he gathered firewood. Anyone wielding this axe feels discomfort while traversing a forest.
 
-#### Awarding Experinece Points
+#### Awarding Skill & Destiny Points
 
 Divide 2,000 XP evenly among the characters if they succeed in driving Venomfang away. While slaying the dragon at their current level is unlikely, the creature is worth 3,900 XP.
 
@@ -1221,9 +1221,9 @@ Indications of its past functionality include a wide chimney and untidy woodpile
 
 Upon entering, two ash zombies (refer to the "Ash Zombies" sidebar) sprawl on the floor. As the characters step inside, the zombies laboriously rise to their feet, using half their speed to do so. They then relentlessly assault the intruders, regardless of their movements. The building is scattered with various old tools like tongs, bellows, hammers, and a pair of iron anvils.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
-For experience points, divide 100 XP equally among the characters if the party successfully defeats the ash zombies.
+For Skill & Destiny Points, divide 100 XP equally among the characters if the party successfully defeats the ash zombies.
 
 ### **9. The Herbalist's Shop**
 
@@ -1261,7 +1261,7 @@ Five ash zombies, former members of the garrison, still wear tattered remnants o
 
 Furnishings are still found within the building, including a ladder in the main room leading to the roof. The northern chamber contains two double bunks, while the southern chamber holds three double bunks, offering accommodations for ten soldiers in total. To the northwest, a kitchen and pantry now hold piles of decayed sacks and barrels that once stored salted meat. However, vermin have long since devoured all the foodstuffs.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Divide 250 XP equally among the characters if the party eliminates the ash zombies.
 
@@ -1277,7 +1277,7 @@ Six twig blights skulk in the thicket south of the ruin. Allow each character to
 
 Notably, any loud noises in this area will alert the cultists in area 13, who will proceed cautiously to investigate.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Divide 150 XP equally among the characters if the party eradicates the twig blights.
 
@@ -1305,7 +1305,7 @@ If the characters decide to converse with the cultists, Favric explains that the
 
 Favric keeps a small coffer in the main room, containing tribute for the green dragon: three diamonds (valued at 100 gp each). He also carries a potion of flying in a stoppered vial around his neck.
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
 Divide 150 XP equally among the characters if the party successfully defeats or drives away the cultists.
 
@@ -1333,9 +1333,9 @@ The marauders within the cave consist of Brughor Axe-Biter (an orc with 30 hit p
 
 Brughor's band plundered several homesteads to the north on their way to Wyvern Tor. In the cave, an unlocked treasure chest holds 750 copper pieces, 180 silver pieces, 62 electrum pieces, 30 bronze coins, and three vials of perfume (each worth 10 gp).
 
-#### Awarding Experience Points
+#### Awarding Skill & Destiny Points
 
-For experience points, completing the quest and fulfilling a promise from Old Owl Well, divide 1,250 XP equally among the characters if the party handles the orcs and the ogre at Wyvern Tor.
+For Skill & Destiny Points, completing the quest and fulfilling a promise from Old Owl Well, divide 1,250 XP equally among the characters if the party handles the orcs and the ogre at Wyvern Tor.
 
 ## **Mountainmaw Castle**
 
@@ -1389,7 +1389,7 @@ Should the Vermkin sentries in area 3 have raised the alarm, the Vermkins and ho
 
 Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a DC 10 Dexterity saving throw or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
 
- **Awarding Experience Points.** Divide 100 XP equally among the characters if the party detects or survives the trap.
+ **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters if the party detects or survives the trap.
 
 ### **3. Archer Post**
 
@@ -1401,7 +1401,7 @@ This small room is strewn with debris. The arrow slit opposite the door provides
 
 Two Vermkins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the Vermkins will drop their shortbows and draw their melee weapons.
 
- **Awarding Experience Points.** Divide 100 XP equally among the characters for each pair of Vermkin archers the party defeats.
+ **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters for each pair of Vermkin archers the party defeats.
 
 ### **4. Ruined Barracks**
 
@@ -1417,7 +1417,7 @@ This chamber houses three Vermkins, and despite the rubble appearing treacherous
 
 Any loud commotion in this area draws the attention of the Vermkins in area 7. One Vermkin will come to inspect the disturbance. If it fails to return or detects trouble and sounds the alarm, the others will investigate.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 150 XP equally among the characters if the party overcomes these Vermkins.
 
@@ -1447,7 +1447,7 @@ This room accommodates four hobVermkins who, due to the constant brawls among th
 
 Mounted on the walls are five spears, four longswords, three morningstars, two greatswords, and a finely crafted quarterstaff. The quarterstaff is engraved with stylized feathers, surprisingly light (11 pounds), and valued at 10 gp.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 400 XP equally among the characters if the party defeats the hobVermkins in this room.
 
@@ -1461,7 +1461,7 @@ The western portion of this expansive hall terminates in a rubble-strewn wall, b
 
 This hall is inhabited by seven miserable Vermkins and their leader, a corpulent, irritable Vermkin named Yegg, who possesses 12 hit points. Yegg is the Mountainmaw's head cook, cruelly bossing around his unwilling assistants as they prepare food for the tribe. If Yegg is eliminated, any surviving Vermkins will flee to the east or west, avoiding the north door due to the trap in area 2.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 400 XP equally among the characters if the party overcomes the Vermkins in this room.
 
@@ -1487,7 +1487,7 @@ The stone brazier conceals a mound of coal, beneath which rests a gold statuette
 
 A detect magic spell will reveal that the statuette is imbued with divination magic. When held by any non-evil creature, the figurine can be used to ask a question, receiving a telepathic response as though the caster had employed augury (consult the rulebook for this spell's description). Once a creature has asked its question and received a response, the statuette can never be activated again.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 450 XP equally among the characters if the party conquers the grick.
 
@@ -1507,7 +1507,7 @@ The bloodstained cloth fully envelops the stone altar, with engravings of the sa
 
 The golden chalice, knife, and censer are human-crafted art objects worth 150 gp, 60 gp, and 120 gp, respectively.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 150 XP equally among the characters if the party vanquishes the Vermkins.
 
@@ -1535,7 +1535,7 @@ In this chamber, two hobVermkin sentinels stand guard. These hobVermkins are sha
 
 Once a parlor for the castle's human occupants, this area now displays the remnants of rotted furnishings, which were broken up by the Mountainmaws and repurposed for firewood.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 200 XP equally among the characters if the party overcomes the hobVermkins.
 
@@ -1561,7 +1561,7 @@ If the characters open the door and remain out of the owlbear's path, it will fl
 
 All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful DC 15 Wisdom (Perception) check to be spotted. It is unlocked and contains 90 ep, 120 gp, a potion of healing, a scroll of silence, and a scroll of revivify.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 700 XP equally among the characters if the party subdues the owlbear or releases it.
 
@@ -1595,7 +1595,7 @@ Should Burrowbard regain consciousness, he expresses his gratitude to the party 
 
 Concealed beneath Grom's bed mattress is a sewn leather sack containing 220 sp, 160 ep, three potions of healing, and Burrowbard's map to Tide Echo Cavern.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 950 XP equally among the characters if they overcome King Grom, the wolf, and the doppelganger.
 
@@ -1609,7 +1609,7 @@ These hobVermkins possess no treasure, but 1d4 of them carry bloodied sacks, eac
 
 Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a DC 15 Charisma (Persuasion) check.
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 Divide 500 XP equally among the characters if they conquer the hobVermkin war band or negotiate a truce with Targor.
 
@@ -1633,7 +1633,7 @@ This part of the adventure is designed for characters who are at least 4th level
 
 ## **Experience Point Awards**
 
-In this section of the adventure, XP is granted for overcoming monsters, as in parts 2 and 3. However, XP rewards for monsters are not explicitly provided in the encounter descriptions. Instead, each monster's XP value is indicated in its stat block (refer to appendix B). Players calculate the award by summing the values of the monsters they conquer. Additional XP awards and the rationale for them are described in the text under the "Awarding Experience Points" heading.
+In this section of the adventure, XP is granted for overcoming monsters, as in parts 2 and 3. However, XP rewards for monsters are not explicitly provided in the encounter descriptions. Instead, each monster's XP value is indicated in its stat block (refer to appendix B). Players calculate the award by summing the values of the monsters they conquer. Additional XP awards and the rationale for them are described in the text under the "Awarding Skill & Destiny Points" heading.
 
 ## **Wandering Monsters**
 
@@ -1993,7 +1993,7 @@ If the characters capture Nezznar and deliver him to the town master's hall in T
 
 Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 190 electrum pieces (ep), 130 bronze coins (gp), 15 platinum pieces (pp), nine small gemstones (each valued at 10 gp), and a dwarven ale mug crafted from hammered electrum (valued at 100 gp).
 
-#### **Awarding Experience Points**
+#### **Awarding Skill & Destiny Points**
 
 If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster Wester in Tuntin, award the party double his XP value.
 
@@ -2015,7 +2015,7 @@ If the adventurers successfully rescue Nundro, he expresses his gratitude and of
 
 Should the characters deal with Nezznar and his allies, this area provides a secure and comfortable place for them to rest before continuing their explorations within the mine.
 
-**Awarding Experience Points**
+**Awarding Skill & Destiny Points**
 
 If Nundro is rescued and survives the adventure, distribute 200 XP equally among the party members.
 
