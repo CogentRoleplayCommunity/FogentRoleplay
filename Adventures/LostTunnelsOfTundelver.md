@@ -1,6 +1,6 @@
 ## **Overview**
 
-The "Lost Mine of Phandelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Brimward. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
+The "Lost Mine of Phandelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Iarno "Glasstaff" Albrek, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
@@ -12,7 +12,7 @@ Following the map or the directions to the lost mine takes the characters to Par
 
 You have the option of letting players create their own reasons for visiting Tuntin, or you can employ the following adventure hook. The backgrounds and secondary goals specified in the character sheets also offer characters motivations for journeying to Tuntin.
 
-"Meet Me in Tuntin": The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Brimward, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.
+"Meet Me in Tuntin": The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.
 
 ## **THE FORGOTTEN REALMS**
 
@@ -29,7 +29,7 @@ Now, when you're ready to initiate the adventure, read the enclosed text. Should
 ```
 Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the name of Burrowbard Stoneseeker entrusted you with a significant task. He implored you to transport a wagon laden with vital supplies to the rugged settlement of Tuntin, located several days' journey to the southeast of the city. Burrowbard's demeanor was a curious blend of enthusiasm and secrecy, and he disclosed very little about the true nature of this venture. He merely divulged that he and his brothers had uncovered something of immense import. He promised a generous reward of ten bronze coins to each of you for ensuring the safe delivery of his provisions to Barton's Provisions, a trading post nestled in the heart of Tuntin.
 
-Intriguingly, Burrowbard and his warrior companion, Ulfric Brimward, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
+Intriguingly, Burrowbard and his warrior companion, Ulfric Warwinter, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
 
 Your expedition has seen you trekking through the past few days, tracing the well-trodden path along the Crimson Road, venturing eastward from Reddwall. As of late, you've taken a turn eastward onto the Trident Trail. Thus far, your journey has been relatively uneventful, though this terrain is notorious for its perils. Bandits and outlaws are known to lurk along these very trails, making vigilance and caution imperative.
 ```
@@ -56,7 +56,7 @@ To initiate the encounter, please read the following text aloud.
 Having journeyed along the Trident Trail for approximately half a day, you round a bend and are confronted by a grim sight. There, about fifty feet ahead, lie two lifeless horses sprawled across the path. Each animal bears the unmistakable mark of several black-feathered arrows embedded in their flesh. The forest presses closely to the trail at this point, flanked by a steep embankment and thickets that seem impenetrable on either side.
 ```
 
-For those adventurers using the 'Meet Me in Tuntin' adventure hook, a more detailed examination of the scene yields troubling discoveries. The deceased horses can be identified as the property of Burrowbard Stoneseeker and Ulfric Brimward. Regrettably, they have been deceased for a day, their demise brought about by the very arrows that now pierce them.
+For those adventurers using the 'Meet Me in Tuntin' adventure hook, a more detailed examination of the scene yields troubling discoveries. The deceased horses can be identified as the property of Burrowbard Stoneseeker and Ulfric Warwinter. Regrettably, they have been deceased for a day, their demise brought about by the very arrows that now pierce them.
 
 ```
 As you inspect the area more closely, you find the saddlebags have been pillaged, and nearby rests an abandoned leather map case.
@@ -86,14 +86,16 @@ Resting:
 After the Vermkin ambush, the party may require a rest depending on the outcome of the battle.
 ```
 
-**Vermkin Trail:**
+### **Vermkin Trail**
+
 If the characters defeat the Vermkins and inspect the area, they will discover signs that the Vermkins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen Vermkins have traveled along this trail, along with signs of two humaniod-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the Vermkins down the trail, which leads five miles northwest to the Mountainmaw hideout.
 
-**Marching Order and Traps:**
+
 Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The Vermkins have set two traps to hinder pursuers:
 
-* **Snare:** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
-* **Pit:** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
+**Snare.** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
+
+**Pit.** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
 
 ### Awarding Skill Points
 
@@ -101,7 +103,7 @@ Overcoming the Vermkin ambush and finding the Mountainmaw hideout nets each the 
 
 ## Mountainmaw Hideout
 
-The Vermkin clan known as the Mountainmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Mountainmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Thrak, a Ferralkin who takes orders from the chief of the Mountainmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Mountainmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him.
+The Ferralkin clan known as the Mountainmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Mountainmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Thrak, a Ferralkin who takes orders from the chief of the Mountainmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Mountainmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him.
 
 ### General Features
 
@@ -120,7 +122,7 @@ The Mountainmaw cave ascends steeply, situated at the base of a substantial hill
 **Stream.** A shallow stream courses  through the complex, measuring only 2 feet in depth. The cold, slow-moving water facilitates easy wading for creatures moving through it.
 
 ```
-What the Vermkins know
+What the Vermkins know:
 
 In the event that the characters successfully capture or charm any of the Vermkins in this vicinity, they can coerce the Vermkins into revealing valuable details:
 
@@ -188,7 +190,7 @@ The primary passage leading from the cave's entrance ascends steeply. On the wes
 ```
 
 ```
-Adventure Maps
+Adventure Maps:
 
 Maps found within this adventure are intended exclusively for the Narrator's reference. These maps not only depict the entirety of an adventure location but also reveal concealed doors, hidden traps, and other elements meant to remain hidden from the players. Thus, the need for maintaining secrecy. Maps are particularly useful when presenting multiroom lairs and other expansive locales with numerous areas to explore. Consequently, not every locale necessitates a map.
 
@@ -233,7 +235,7 @@ A Vermkin, currently hiding, stands watch on the bridge. Characters can spot it 
 
 If the Vermkin detects the adventurers, it signals the Vermkins in area 7 to initiate a flood (refer to the "Flood!" section) and then hurls javelins down at the characters.
 
-**Bridge:** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Acrobatics Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
+**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Acrobatics Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
 
 Flood Alert! The large pools in area 7 have collapsible walls that can be dislodged to release a surge of water down the main passage. In the round after the Vermkins in area 7 receive the signal from the lookout in area 5, they begin removing supports. On the Vermkins' initiative count in the subsequent round, a water surge rushes from area 7 down to area 1.
 
@@ -251,17 +253,19 @@ The hideout serves as a communal space and barracks for the Mountainmaw raiders.
 Within this expansive cave, a ten-foot-high escarpment divides it into upper and lower sections. A natural staircase ascends from the lower portion to the upper ledge, where the air is thick with the smoke of a cooking fire and tainted by the scent of poorly cured hides and unwashed Vermkins.
 ```
 
-Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary Vermkins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section. Notably, Ulfric Brimward, a captive human warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
+Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary Vermkins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section. 
 
-The Vermkin leader, Yeemik, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeemik proposes a parley. If the adventurers agree, he urges them to eliminate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin’s head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeemik attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
+Ulfric Warwinter, a captive human warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
 
-Should the characters refuse to parley, Yeemik forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
+The Vermkin leader, Yeek, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeek proposes a parley. If the adventurers agree, he urges them to eliminate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin’s head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeek attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
 
-Ulfric Brimward, a kindhearted human male with a place of honor in Waterdeep's famed griffon cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
+Should the characters refuse to parley, Yeek forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
+
+Ulfric Warwinter, a kindhearted human male with a place of honor in Waterdeep's famed griffon cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Iarno Albrek, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Wave Echo Cave, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
 Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
 
-Yeemik carries a pouch with three small gold teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Mountainmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
+Yeek carries a pouch with three small gold teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Mountainmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
 
 ```
 Guidelines for NPC Party Members:
@@ -310,7 +314,7 @@ The captured stores are voluminous, requiring a wagon for transportation. Return
 The following leg of the journey unfolds in Tuntin, offering the adventurers several compelling reasons to visit the town:
 
 * For those who embarked on the "Meet Me in Tuntin" adventure hook, the characters can receive payment from Barton's Provisions for delivering the wagonload of supplies.
-* In the event of rescuing Ulfric Brimward, the wounded warrior expresses gratitude and seeks an escort to Tuntin, offering a reward of 50 bc for the service.
+* In the event of rescuing Ulfric Warwinter, the wounded warrior expresses gratitude and seeks an escort to Tuntin, offering a reward of 50 bc for the service.
 * Personal backgrounds of the characters may lead them to specific NPCs in the town, adding layers to their individual narratives.
 
 Players might also decide on alternative actions, such as pursuing Mountainmaw Castle in part 3 of the adventure. In such cases, proceed directly to that section.
@@ -335,7 +339,7 @@ Your journey along the rutted track reveals the first glimpse of Tuntin. The tow
 Most of the contemporary buildings flank the cart track, which expands into a somewhat muddy main street as it ascends toward a dilapidated manor house situated on the eastern hillside of the town. As you draw near, you observe children at play on the town green, while townsfolk are preoccupied with their daily tasks, darting to and from shops. Many eyes briefly rise to acknowledge your presence but then return to their duties as you pass by.
 ```
 
-If Ulfric Brimward accompanies the party, add:
+If Ulfric Warwinter accompanies the party, add:
 
 ```
 Ulfric appears visibly more relaxed.
@@ -353,7 +357,7 @@ Among the places the characters should consider visiting are:
 
 **Beastshield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
 
-**Stonehill Inn.** If Ulfric Brimward accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Stonehill Inn offers the best available options.
+**Stonehill Inn.** If Ulfric Warwinter accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Stonehill Inn offers the best available options.
 
 ## Encounters in Tuntin
 
@@ -365,7 +369,7 @@ To initiate, inquire where the players wish to go and what they intend to do in 
 
 **Redbrand Ruffians.** Sooner or later, the adventurers will cross paths with the toughs who dominate Tuntin. Your role is to determine when these ruffians make their appearance. Once the characters have had an opportunity to explore several locations in town and converse with the townsfolk, they may decide to track down the Redbrands. In such an event, you can execute the "Redbrand Ruffians" encounter. Alternatively, if the characters seem hesitant to confront the ruffians, the Redbrands may decide to seek them out at a moment of your choosing.
 
-**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Redbrands, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Brimward, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
+**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Redbrands, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Warwinter, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
 
 ## Important NPCs
 
@@ -379,7 +383,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Redbrands' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
 7. **Sister Garaele (Elf Cleric of Tymora):** An elf cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
 8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
-9. **Ulfric Brimward (Lords' Alliance Member):** A member of the Lords' Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Iarno Albrek.
+9. **Ulfric Warwinter (Lords' Alliance Member):** A member of the Lords' Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Iarno Albrek.
 
 ### Roleplaying Tuntin NPCs
 
@@ -404,7 +408,7 @@ The subsequent sections provide specific details about various locations within 
 At the heart of Tuntin stands a recently constructed roadhouse made of fieldstone and rough-hewn timbers. Inside, the common room buzzes with locals enjoying mugs of ale or cider, their curious eyes following your arrival.
 ```
 
-This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Brimward. If the characters opt to stay at the Stonehill Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
+This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Stonehill Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
 
 The innkeeper is a friendly, short young human named Toblen Stonehill. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Redbrands' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Redbrand retaliation.
 
@@ -425,7 +429,7 @@ Barton's Provisions is the largest trading post in Tuntin. Its shelves are stock
 
 The shop's proprietor is Elmer Barton, a kind and slim human male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
 
-**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 gp to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost mine mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Brimward, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
+**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 gp to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost mine mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
 
 Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tharden, have been camping outside of town. However, he hasn't seen them in the past ten days and anticipates their return to resupply at any moment. Unbeknownst to Barton, Tharden has passed away, and Nundro is held captive within the mine.
 
@@ -509,7 +513,7 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 **Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of orcs near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
 
-**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Brimward takes up residence at the town master's hall. In his role as a representative of the Lords' Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
+**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Lords' Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Wave Echo Cave and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
 Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
@@ -519,7 +523,7 @@ Unknown to Ulfric, Iarno established the Redbrands, became their leader, and ado
 
 #### **Joining the Lords' Alliance**
 
-If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Iarno's deception, Ulfric Brimward discreetly approaches certain members of the group, urging them to consider joining the Lords' Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Brimward confers upon them the title of Cloak.
+If the party successfully deals with the Vermkin threat from Mountainmaw Castle or uncovers Iarno's deception, Ulfric Warwinter discreetly approaches certain members of the group, urging them to consider joining the Lords' Alliance. He engages with individuals who aspire to uphold civilization through proactive measures. If a character decides to join, Ulfric Warwinter confers upon them the title of Cloak.
 
 ### **Tresendar Manor**
 
@@ -889,13 +893,13 @@ Lord Albrek,
 Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any dwarven maps within their possession are swiftly delivered to me. I am relying on you, Iarno. Do not let me down.
 ```
 
-In the event that Iarno is apprehended, Ulfric Brimward takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Iarno faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
+In the event that Iarno is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Iarno faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
 
 #### Treasure
 
 Positioned at the foot of Iarno's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Iarno from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Iarno wields a staff of defense (refer to appendix A).
 
-For experience points, distribute 200 XP evenly among the characters if the party eliminates Iarno Albrek. Double the XP award if they successfully capture Iarno and deliver him to Ulfric Brimward in Tuntin.
+For experience points, distribute 200 XP evenly among the characters if the party eliminates Iarno Albrek. Double the XP award if they successfully capture Iarno and deliver him to Ulfric Warwinter in Tuntin.
 
 #### Awarding Experinece
 
@@ -911,7 +915,7 @@ Depending on which NPCs the characters have interacted with and the clues or que
 * Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Owl Well.
 * Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Wave Echo Cave, or both.
 * Townmaster Harbin Wester desires the characters to investigate an orc encampment near Wyvern Tor and remove the orcs from the area.
-* Ulfric Brimward's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
+* Ulfric Warwinter's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
 
 Each of these potential quests corresponds to a section in this phase of the adventure. The characters can take their time in Tuntin to rest and acquire supplies. Afterward, they must choose one of these storylines to investigate and set out for the appropriate destination.
 
@@ -1426,7 +1430,7 @@ Old casks of salted meat and sacks of decaying grain fill this storage space. Am
 
 One small cask contains an exceptional dwarven brandy, overlooked by the Vermkins due to its size. The cask holds the equivalent of twenty servings. Consuming a glass of this brandy restores 1 hit point, but drinking two glasses within an hour results in being poisoned for one hour.
 
-**Ulfric's Gear.** The chain mail and longsword belong to Ulfric Brimward. Ulfric will be appreciative if at least his longsword is returned to him.
+**Ulfric's Gear.** The chain mail and longsword belong to Ulfric Warwinter. Ulfric will be appreciative if at least his longsword is returned to him.
 
 ### **6. HobVermkin Barracks**
 
@@ -1982,7 +1986,7 @@ Despite his intentions to eliminate the characters, Nezznar is intrigued by them
 
 The creatures from Area 18 become aware of combat noises in this room. If they have not already been dealt with, they arrive after 3 rounds and act immediately after Nezznar's giant spiders in the initiative order.
 
-If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Brimward or another representative of the Lords' Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Wave Echo Cave. Subsequent events involving Nezznar are at your discretion.
+If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Warwinter or another representative of the Lords' Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Wave Echo Cave. Subsequent events involving Nezznar are at your discretion.
 
 #### **Treasure**
 
@@ -1990,7 +1994,7 @@ Nezznar possesses a potion of healing and a spider staff. Additionally, he carri
 
 #### **Awarding Experience Points**
 
-If Nezznar is captured alive and handed over to Ulfric Brimward or Townmaster Wester in Tuntin, award the party double his XP value.
+If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster Wester in Tuntin, award the party double his XP value.
 
 ### **20. Quarters of the Priests**
 
