@@ -2,7 +2,7 @@
 
 ### [Brightkin](Brightkin/Brightkin.md)
 
-### [Dhampire](Dhampir/Dhampire.md)
+### [Dhampire](Dhampir/Dhampir.md)
 
 ### [Seakin](Seakin/Seakin.md)
 
