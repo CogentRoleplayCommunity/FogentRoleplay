@@ -12,28 +12,28 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ![Alt text](CogentRoleplayAttribution_Wide.png)
 
-## [Adventures](Adventures/Adventures.md)
+## [Adventures](src/Adventures/Adventures.md)
 
-## [Creation Myth](CreationMyth/CreationMyth.md)
+## [Creation Myth](src/CreationMyth/CreationMyth.md)
 
-## [History](History/History.md)
+## [History](src/History/History.md)
 
-## [Gods](Gods/Gods.md)
+## [Gods](src/Gods/Gods.md)
 
-## [Terra](Terra/Terra.md)
+## [Terra](src/Terra/Terra.md)
 
-## [Countries](Countries/Countries.md)
+## [Countries](src/Countries/Countries.md)
 
-## [Races](Races/Races.md)
+## [Races](src/Races/Races.md)
 
-## [Languages](Languages/Languages.md)
+## [Languages](src/Languages/Languages.md)
 
-## [Diseases](Diseases/Diseases.md)
+## [Diseases](src/Diseases/Diseases.md)
 
-## [General Rules](GeneralRules/GeneralRules.md)
+## [General Rules](src/GeneralRules/GeneralRules.md)
 
-## [Magic](Magic/Magic.md)
+## [Magic](src/Magic/Magic.md)
 
-## [Items](Items/Items.md)
+## [Items](src/Items/Items.md)
 
-## [Characters](Characters/Characters.md)
+## [Characters](src/Characters/Characters.md)
