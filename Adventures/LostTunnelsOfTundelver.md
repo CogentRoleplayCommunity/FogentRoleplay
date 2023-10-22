@@ -1,12 +1,12 @@
 ## **Overview**
 
-The "Lost Mine of Phandelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
+The "Lost Mine of Tundelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
 Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost dwarven mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
-Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Spells. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Phandelver."
+Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Spells. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
 ## **Adventure Hook**
 
@@ -326,7 +326,7 @@ The exploration of the Mountainmaw hideout, along with the defeat of Thrak and h
 
 # **Part 2: Tuntin**
 
-Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling human town, firmly allied with the dwarves and gnomes of the Phandelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
+Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling human town, firmly allied with the dwarves and gnomes of the Tundelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
 
 Over the past three or four years, resilient settlers from the cities of Reddwall and Waterdeep embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Sword Mountains.
 
@@ -839,7 +839,7 @@ If the characters opt to leave the rat unharmed, it will follow them around as i
 
 **Books and Notes.** Within the room, you'll find books and notes scattered about, as Sylas is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Sylas's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
 
-Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Phandelver and the Forge of Spells (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Phandelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
+Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Spells (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Tundelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
 
 #### Developments
 
@@ -881,7 +881,7 @@ If questioned while in captivity, Sylas provides the following information, all 
 
 * The Black Spider is a drow (dark elf).
 * The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
-* The Black Spider is searching Tide Echo Cavern for the Forge of Spells. Dwarves and gnomes of the Phandelver's Pact used the magical forge to create powerful magic items.
+* The Black Spider is searching Tide Echo Cavern for the Forge of Spells. Dwarves and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
 ### Develoments
@@ -1617,11 +1617,11 @@ Divide 500 XP equally among the characters if they conquer the hobVermkin war ba
 
 Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
-With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient dwarven mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Phandelver
+With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient dwarven mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
 
 ## **Part 4: Tide Echo Cavern**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Phandelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
 Nezznar seeks the Forge of Spells, where human mages from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
 
@@ -1839,7 +1839,7 @@ The cavern boasts a massive blast furnace accompanied by a mechanical bellows, p
 Numerous lifeless corpses of dwarves and orcs, still adorned in tattered armor, are scattered throughout the room. Hovering over them is a skull, enshrouded in an eerie green flame.
 ```
 
-Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the human wizards allied with the Phandelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
+Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the human wizards allied with the Tundelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
 
 This impressive chamber previously served as the hub of Tide Echo Cavern's mining operation. Here, dwarves smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the dwarves diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
 
@@ -1887,7 +1887,7 @@ Several magically preserved tomes remain on the shelves, primarily historical in
 
 ### Runecraft Forge
 
-In this chamber, the collaboration between the wizards allied with the dwarves and gnomes of Phandelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful DC 15 Strength check. The western double doors have suffered similar damage but stand slightly ajar.
+In this chamber, the collaboration between the wizards allied with the dwarves and gnomes of Tundelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful DC 15 Strength check. The western double doors have suffered similar damage but stand slightly ajar.
 
 ```
 This expansive workshop has been marred by the remnants of an ancient spell battle that ravaged the mine. Scorched worktables occupy two corners of the room, and the plaster has been seared off the stone walls. In the room's center, a stone pedestal cradles a small brazier, from which an eerie green flame dances and crackles. Strangely, the brazier and its pedestal have remained untouched by the destructive forces that swept through this area.
@@ -2021,7 +2021,7 @@ If Nundro is rescued and survives the adventure, distribute 200 XP equally among
 
 ## **Conclusion**
 
-Through their tireless efforts and a touch of luck, the adventurers have vanquished the Black Spider, thwarted his malevolent schemes, rid Tuntin of the threats posed by the ruffians, and reclaimed the long-lost mine of Tide Echo Cavern. Their valorous deeds will be enshrined in the annals of this corner of the Sword Coast. In the years to come, the revitalized mines of the Phandelver's Pact will bring substantial wealth to Tuntin, fostering peace and prosperity in the region.
+Through their tireless efforts and a touch of luck, the adventurers have vanquished the Black Spider, thwarted his malevolent schemes, rid Tuntin of the threats posed by the ruffians, and reclaimed the long-lost mine of Tide Echo Cavern. Their valorous deeds will be enshrined in the annals of this corner of the Sword Coast. In the years to come, the revitalized mines of the Tundelver's Pact will bring substantial wealth to Tuntin, fostering peace and prosperity in the region.
 
 Burrowbard and Nundro Stoneseeker take charge of the new mine's management. In gratitude for the adventurers' service to their family, they generously reward the party with a 10 percent share of the mine's profits. Whether the characters opt to settle in Tuntin, restore Tresendar Manor, or seek new adventures elsewhere, the local populace welcomes them with open arms.
 
