@@ -84,6 +84,9 @@ If you are making a magic system, these will probably have different names in yo
 - Sound Magic
 - Blood Magic
 - Acid Magic
+- Time Magic
+- Space Magic
+- Gravity Magic
 
 ### Combo Magic Skill
 
