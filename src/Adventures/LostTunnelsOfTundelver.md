@@ -1,6 +1,6 @@
 ## **Overview**
 
-The "Lost Mine of Tundelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a human warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
+The "Lost Mine of Tundelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a mudblood warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
@@ -19,6 +19,8 @@ You have the option of letting players create their own reasons for visiting Tun
 Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, dwarven mines, and formidable monsters.
 
 The adventure detailed here unfolds in the world of the Forgotten Realms, a prime example of the latter type of setting. In the Realms, knights venture into the crypts of the long-fallen molekin kings of Delzoun in search of glory and treasure. Rogues navigate the dimly lit alleyways of bustling cities like Reddwall and Baldur's Gate. Clerics, devout servants of the gods, wield both mace and spell to combat the ominous threats that plague the land. Wizards delve into the ruins of the collapsed Netherese empire, exploring secrets that exist in the shadows. Within dungeons, caverns, ancient cities, and vast untamed wilderness, dragons, giants, demons, and other horrifying monstrosities lie in
+
+# Chapter 0: Prologue
 
 # Chapter 1: Feral Arrows
 
@@ -131,7 +133,7 @@ In the event that the characters successfully capture or charm any of the Vermki
 
 - Thrak received a messenger Vermkin from King Grom a few days ago. The messenger conveyed that an entity known as the Black Spider was compensating the Mountainmaws to monitor and apprehend the molekin Burrowbard Stoneseeker. The orders were to capture Burrowbard along with any possessions and deliver them to King Grom. Thrak adhered to these instructions, resulting in Burrowbard's ambush and subsequent capture, including a map in his possession.
  
-- The molekin and his map were successfully handed over to King Grom as per instructions. The molekin's human companion is currently held captive in the "eating cave" (area 6).
+- The molekin and his map were successfully handed over to King Grom as per instructions. The molekin's mudblood companion is currently held captive in the "eating cave" (area 6).
 ```
 
 ### 1. Cave Mouth
@@ -254,13 +256,13 @@ Within this expansive cave, a ten-foot-high escarpment divides it into upper and
 
 Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary Vermkins tend to the cooking fire in the lower part, near the entrance passage, while the leader rests in the upper section.
 
-Ulfric Warwinter, a captive human warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
+Ulfric Warwinter, a captive mudblood warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
 
 The Vermkin leader, Yeek, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeek proposes a parley. If the adventurers agree, he urges them to eliminate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin’s head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeek attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
 
 Should the characters refuse to parley, Yeek forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
-Ulfric Warwinter, a kindhearted human male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Cavern, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
+Ulfric Warwinter, a kindhearted mudblood male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Cavern, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
 Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
 
@@ -326,7 +328,7 @@ The exploration of the Mountainmaw hideout, along with the defeat of Thrak and h
 
 # **Part 2: Tuntin**
 
-Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling human town, firmly allied with the dwarves and gnomes of the Tundelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
+Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling mudblood town, firmly allied with the dwarves and gnomes of the Tundelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
 
 Over the past three or four years, resilient settlers from the cities of Reddwall and Waterdeep embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Sword Mountains.
 
@@ -411,7 +413,7 @@ At the heart of Tuntin stands a recently constructed roadhouse made of fieldston
 
 This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Stonehill Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
 
-The innkeeper is a friendly, short young human named Toblen Stonehill. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Redbrands' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Redbrand retaliation.
+The innkeeper is a friendly, short young mudblood named Toblen Stonehill. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Redbrands' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Redbrand retaliation.
 
 **Rumors at Stonehill Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Stonehill Inn include:
 
@@ -428,7 +430,7 @@ These rumors serve as valuable clues, guiding the characters toward various adve
 
 Barton's Provisions is the largest trading post in Tuntin. Its shelves are stocked with a wide range of everyday goods and supplies, including backpacks, bedrolls, rope, and rations. The store is open from sunrise to sunset and does not carry weapons or armor, but adventurers can find other essential gear here, provided the items cost less than 25 gp. When it comes to pricing, you can refer to the "Adventuring Gear" section in the rulebook.
 
-The shop's proprietor is Elmer Barton, a kind and slim human male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
+The shop's proprietor is Elmer Barton, a kind and slim mudblood male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
 
 **Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 gp to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost mine mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
 
@@ -458,7 +460,7 @@ A wooden shield bearing a painted blue lion emblem hangs above the entrance of t
 
 This establishment belongs to the Beastshields, a merchant company headquartered in Yartar, over one hundred miles to the east. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Beastshield caravan, destined for Tuntin, was waylaid and its cargo captured by Mountainmaw Vermkins.
 
-The head of the Tuntin post is Linett Graygale, a sharp-tongued human woman in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
+The head of the Tuntin post is Linett Graygale, a sharp-tongued mudblood woman in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
 
 In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Redbrands. She advises the characters to steer clear of the Sleeping Giant tap house.
 
@@ -468,7 +470,7 @@ In a back room, Linett maintains an inventory of armor and weapons available for
 
 The Miner's Exchange operates as a trading post where local miners have their valuable discoveries weighed, measured, and compensated. In the absence of local governance, the exchange serves as an unofficial records office, recording claims to various streams and excavations throughout the region. While Tuntin isn't experiencing a full-scale gold rush, hidden wealth in nearby streams and valleys supports numerous independent prospectors.
 
-The guildmaster is Halia Thornton, a determined and strategic human woman. Her aspirations extend beyond mere commerce, and she acts as a de facto governing authority within the town. Additionally, Halia is an agent of the Zhentarim, an influential organization aiming to exert clandestine control over the North by means of wealth and influence. Halia works progressively to assert her influence in Tuntin and can become a valuable patron to the characters if they avoid conflicting with her.
+The guildmaster is Halia Thornton, a determined and strategic mudblood woman. Her aspirations extend beyond mere commerce, and she acts as a de facto governing authority within the town. Additionally, Halia is an agent of the Zhentarim, an influential organization aiming to exert clandestine control over the North by means of wealth and influence. Halia works progressively to assert her influence in Tuntin and can become a valuable patron to the characters if they avoid conflicting with her.
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Redbrands employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Redbrands.
 
@@ -508,7 +510,7 @@ This dilapidated tap house is a grimy and perilous watering hole situated at the
 The town master's hall is a solid structure, adorned with sturdy stone walls, a sloping wooden roof, and a bell tower at the rear. A public notice, written in Common, is affixed to a board next to the front door. It announces, "REWARD - Orcs near Wyvern Tor! Those willing to confront the orc threat should inquire within." The notice is stamped with the town's seal and features an inscrutable signature.
 ```
 
-Tuntin does not have a functioning government, but the residents elect a town master annually. The town master serves as an arbiter in minor disputes and manages any essential records. The present town master is Harbin Wester, a rotund and pompous elderly human who works as a banker. However, he is entirely cowed by the Redbrands and dismisses them as "just a group of mercenaries, not much trouble, really."
+Tuntin does not have a functioning government, but the residents elect a town master annually. The town master serves as an arbiter in minor disputes and manages any essential records. The present town master is Harbin Wester, a rotund and pompous elderly mudblood who works as a banker. However, he is entirely cowed by the Redbrands and dismisses them as "just a group of mercenaries, not much trouble, really."
 
 The town master's hall includes a small yet functional jail in its cellar, featuring two cells. Harbin holds the keys to these cell doors.
 
@@ -518,7 +520,7 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
-**Quest: Finding Sylas.** Upon questioning several locals, Ulfric learns that Sylas Alabaster, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Sylas, or whatever remains of him if something has befallen him. Ulfric describes Sylas as "a short, dark-bearded human wizard in his thirties."
+**Quest: Finding Sylas.** Upon questioning several locals, Ulfric learns that Sylas Alabaster, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Sylas, or whatever remains of him if something has befallen him. Ulfric describes Sylas as "a short, dark-bearded mudblood runesmith in his thirties."
 
 Unknown to Ulfric, Sylas established the Redbrands, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Redbrand threat.
 
@@ -542,14 +544,14 @@ It's almost inevitable that a confrontation with the Redbrands occurs within a d
 
 If the characters decide to confront the Redbrands at the Sleeping Giant, you can describe the scene as follows:
 
-"The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly human ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
+"The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
 
 One of the thugs spits on the ground. "Well, well," he sneers. "Here's a whole bunch of little pups. What's your business here, pups? Did you come to yap at us?"
 
 If the Redbrands confront the characters in the street, describe it as follows:
 
 ```
-As you step back into the street, you notice four armed ruffians waiting for you. They are all humans dressed in filthy red cloaks, their hands on their weapons as they observe you.
+As you step back into the street, you notice four armed ruffians waiting for you. They are all mudbloods dressed in filthy red cloaks, their hands on their weapons as they observe you.
 
 One of the ruffians spits on the ground. "It's time to clear out, strangers. Hand over your belongings and be on your way."
 ```
@@ -594,7 +596,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 >
 > If the characters charm or successfully interrogate any of the Redbrands, they can acquire valuable information, including the hideout's location under Tresendar Manor and the following insights:
 >
-> 1. The leader of the Redbrands is a human wizard named Glasstaff, whose nickname originates from his staff, made entirely of glass.
+> 1. The leader of the Redbrands is a mudblood runesmith named Glasstaff, whose nickname originates from his staff, made entirely of glass.
 > 2. The Black Spider, a mysterious figure, has hired the Redbrands to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinforce the Redbrands and provide additional strength.
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
 > 4. The Redbrands hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
@@ -664,12 +666,12 @@ Distribute 100 XP equally among the characters if the party successfully avoids 
 The mausoleum was the final resting place of the long-forgotten Tresendar family elders.
 
 ```
-Within the dimly lit crypt, three substantial stone sarcophagi occupy the space, their surfaces veiled in layers of dust. Resting against each sarcophagus are human skeletons garbed in fragments of corroded mail. The chamber's walls feature faux columns carved to resemble expansive oak trees, and the double doors in the southeastern corner are covered with aged copper plates.
+Within the dimly lit crypt, three substantial stone sarcophagi occupy the space, their surfaces veiled in layers of dust. Resting against each sarcophagus are skeletons garbed in fragments of corroded mail. The chamber's walls feature faux columns carved to resemble expansive oak trees, and the double doors in the southeastern corner are covered with aged copper plates.
 ```
 
 When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct scarlet cloak of the Redbrands or utters the password "Illefam," which references an ancient elven realm that once spanned a significant part of the Sword Coast.
 
-The stone lids of each sarcophagus bear carvings of the individuals interred within—two noble male humans and one noble female human. Should the tombs be opened, they reveal mostly decayed bones and remnants of clothing, detailed in the "Treasure" section.
+The stone lids of each sarcophagus bear carvings of the individuals interred within—two noble male dhampir and one noble female dhampir. Should the tombs be opened, they reveal mostly decayed bones and remnants of clothing, detailed in the "Treasure" section.
 
 #### Developments
 
@@ -688,7 +690,7 @@ Distribute 150 XP equally among the characters if the party successfully vanquis
 For the last two months, the Redbrands have been seizing travelers in the vicinity, imprisoning them within these cells for eventual sale into slavery.
 
 ```
-This elongated chamber is sectioned into three parts, featuring iron bars that partition the north and south areas. Filthy straw litters the floors of these cells, while their hinged doors are secured by chains and padlocks. In the southern cell, two disheveled human women are confined, while a young human boy is isolated in the northern one. All three individuals are clad in simple gray tunics, and iron collars are affixed around their necks.
+This elongated chamber is sectioned into three parts, featuring iron bars that partition the north and south areas. Filthy straw litters the floors of these cells, while their hinged doors are secured by chains and padlocks. In the southern cell, two disheveled mudblood women are confined, while a young mudblood boy is isolated in the northern one. All three individuals are clad in simple gray tunics, and iron collars are affixed around their necks.
 ```
 
 A pile of discarded clothing is carelessly strewn against the far wall.
@@ -781,7 +783,7 @@ Present in the room are three Ferralkins and one Vermkin, known as Droop. The si
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Redbrands and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the human members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the mudblood members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
@@ -810,7 +812,7 @@ If a character listens at the door with a successful DC 10 Wisdom (Perception) c
 ```
 The room features numerous worn tables and chairs, with wooden benches lining the walls adorned with drapes of brown and red. Several kegs of ale are propped up and tapped.
 
-Four burly human warriors, donned in scarlet cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
+Four burly mudblood warriors, donned in scarlet cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
 ```
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
@@ -860,7 +862,7 @@ This room features walls adorned with scarlet cloth drapes, and its furnishings 
 If Sylas is taken by surprise, include the following paragraph:
 
 ```
-Sitting at the desk is a short, dark-bearded human male dressed in robes, engrossed in the study of a tome. He sports an ermine-trimmed princely mantle and keeps a splendid glass staff leaning against his chair, within easy reach.
+Sitting at the desk is a short, dark-bearded mudblood male dressed in robes, engrossed in the study of a tome. He sports an ermine-trimmed princely mantle and keeps a splendid glass staff leaning against his chair, within easy reach.
 ```
 
 However, if the rat in area 11 alerts him to the approaching danger, Sylas, the malevolent mage, swiftly retrieves his staff of defense (see the appendix) and the scrolls from his chest (see the "Treasure" section) before making his escape through the secret door in the northeast corner of the room. In his rush, Sylas inadvertently leaves a letter from the Black Spider behind (see the "Developments" section), and fails to secure the secret door completely. Characters gain an advantage on ability checks when trying to locate the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For additional information on secret doors, refer to the "General Features" section (page 20).
@@ -954,7 +956,7 @@ Day Roll Night Roll Result
 
 **Stirges.** These airborne predators feast on the blood of their victims and are attracted to the light of campfires at night.
 
-**Ghouls.** These undead were once human and now hunger for living flesh.
+**Ghouls.** These undead were once fellkin and now hunger for living flesh.
 
 **Ogre.** The ogre is searching for an easy meal and is too dimwitted to flee once combat commences.
 
@@ -1133,7 +1135,7 @@ This modest house is where Reidoth sets up his camp when he visits Lumgrove.
 In contrast to the nearby dilapidated structures, this small house seems to be in relatively better shape. Reinforced with heavy iron bands, the doors and thick shutters protect the windows.
 ```
 
-Reidoth is a lean, white-bearded human who prefers brevity in his speech. Although he doesn't receive many visitors, he offers a reasonable level of hospitality.
+Reidoth is a lean, white-bearded mudblood who prefers brevity in his speech. Although he doesn't receive many visitors, he offers a reasonable level of hospitality.
 
 Reidoth excels at avoiding the ash zombies that now inhabit the village and navigating the mutated plant life that thrives there. He's well aware of the perilous spiders lurking in the ruins at the base of the hill and suspects the presence of individuals hiding on the town's eastern side—individuals he describes as "folk in black masks and cloaks" (referring to the cultists). However, he is most concerned about the recent arrival of a green dragon in the tower (area 7). He forewarns the characters about all these dangers and advises them to depart Lumgrove before they inadvertently meet their doom.
 
@@ -1187,7 +1189,7 @@ Divide 400 XP equally among the characters if the party manages to defeat the gi
 
 ### 7. Dragon's Tower
 
-This tower was previously the dwelling of a human wizard who perished while combating the ash zombies that overran Lumgrove three decades ago.
+This tower was previously the dwelling of a mudblood runesmith who perished while combating the ash zombies that overran Lumgrove three decades ago.
 
 ```
 Atop the hill, you find a round tower with an attached cottage, although half of the tower's roof is missing. A door provides access to the cottage, and numerous arrow-slit windows are visible in the tower. You notice a peculiar stillness in the area, coupled with an unusual, acrid odor in the air.
@@ -1291,7 +1293,7 @@ Initially, this small farmhouse may appear as another uninhabited dwelling. Howe
 
 The cottage's doors are securely barred from the inside, demanding a successful DC 20 Strength check to forcibly open. Similarly, the shutters are barred from within, and they can be forced open with a successful DC 15 Strength check.
 
-Inside the house, six human cultists are hidden. Four of them stand guard, with two in each room, while the rest rest in the larger chamber. These cultists wear black cloaks fashioned to resemble dragon wings and don black leather masks with stylized dragon horns. They are fluent in Common as well as Draconic.
+Inside the house, six mudblood cultists are hidden. Four of them stand guard, with two in each room, while the rest rest in the larger chamber. These cultists wear black cloaks fashioned to resemble dragon wings and don black leather masks with stylized dragon horns. They are fluent in Common as well as Draconic.
 
 The interior of the house is dusty and draped with cobwebs. The sole furnishings include a small stove, a table, two chairs, and a shared bunk for the cultists.
 
@@ -1313,7 +1315,7 @@ Divide 150 XP equally among the characters if the party successfully defeats or 
 
 Wyvern Tor, a prominent landmark in the rugged hills northeast of the Sword Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyvern Tor to the south. In the past, Wyvern Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyvern Tor include a band of orcs and their ogre ally.
 
-The orcs are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on human settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
+The orcs are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
 
 ### Orc Camp
 
@@ -1426,7 +1428,7 @@ Divide 150 XP equally among the characters if the party overcomes these Vermkins
 The Mountainmaws have been raiding caravans along the Crimson Road and the Trident Trail to stockpile provisions for the castle.
 
 ```
-Old casks of salted meat and sacks of decaying grain fill this storage space. Among the supplies, you see a bloodied suit of chain mail, a heavy crossbow, and a drawn longsword bearing the emblem of Reddwall on its hilt. While the stored goods here are inedible by human standards, the Vermkins can endure them when fresher food is unavailable.
+Old casks of salted meat and sacks of decaying grain fill this storage space. Among the supplies, you see a bloodied suit of chain mail, a heavy crossbow, and a drawn longsword bearing the emblem of Reddwall on its hilt. While the stored goods here are inedible by civilized standards, the Vermkins can endure them when fresher food is unavailable.
 ```
 
 One small cask contains an exceptional dwarven brandy, overlooked by the Vermkins due to its size. The cask holds the equivalent of twenty servings. Consuming a glass of this brandy restores 1 hit point, but drinking two glasses within an hour results in being poisoned for one hour.
@@ -1475,7 +1477,7 @@ This narrow, lofty hall appears to have served as a chapel or shrine long ago. A
 
 Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Wisdom (Perception) checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
-Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a DC 10 Intelligence (Religion) check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were human.
+Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a DC 10 Intelligence (Religion) check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
 
 #### **Developments**
 
@@ -1493,7 +1495,7 @@ Divide 450 XP equally among the characters if the party conquers the grick.
 
 ### **9. Vermkin Shrine**
 
-The Mountainmaws have rededicated this area to Maglubiyet, the Vermkin and hobVermkin god, as Vermkins have no use for human deities.
+The Mountainmaws have rededicated this area to Maglubiyet, the Vermkin and hobVermkin god, as Vermkins have no use for deities of the civilized world.
 
 ```
 This room, located within the northern tower of the castle, is dominated by a stone altar standing in its center, draped with bloodstained black cloth. On top of the altar, you find carefully arranged golden ritual implements, including a chalice, a knife, and a censer. Heavy curtains shroud two archways to the south.
@@ -1505,7 +1507,7 @@ The bloodstained cloth fully envelops the stone altar, with engravings of the sa
 
 #### **Treasure**
 
-The golden chalice, knife, and censer are human-crafted art objects worth 150 gp, 60 gp, and 120 gp, respectively.
+The golden chalice, knife, and censer are mudblood-crafted art objects worth 150 gp, 60 gp, and 120 gp, respectively.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1533,7 +1535,7 @@ A stone brazier filled with burning coals radiates warmth at the center of this 
 
 In this chamber, two hobVermkin sentinels stand guard. These hobVermkins are sharp, tenacious, and fiercely loyal to King Grom. At the start of a skirmish, one of the hobVermkins dashes off to alert King Grom in area 14 and returns to rejoin the battle two rounds later.
 
-Once a parlor for the castle's human occupants, this area now displays the remnants of rotted furnishings, which were broken up by the Mountainmaws and repurposed for firewood.
+Once a parlor for the castle's dhampir occupants, this area now displays the remnants of rotted furnishings, which were broken up by the Mountainmaws and repurposed for firewood.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1623,7 +1625,7 @@ With the revelation of the location of Tide Echo Cavern, the characters are now 
 
 Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
-Nezznar seeks the Forge of Spells, where human mages from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
+Nezznar seeks the Forge of Spells, where runesmiths from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
 
 The adventurers now have an opportunity to assist Burrowbard, avenge his kin, and thwart the Black Spider's sinister plans. Furthermore, the rumored hoard of potent magic hidden within the mines promises a valuable prize.
 
@@ -1803,7 +1805,7 @@ A passage leads southward from this area, while a set of steps ascends to the ea
 
 The pool's central region reaches a depth of 20 feet. The northeast stream measures 3 feet in depth, and the passage's ceiling hovers 2 to 3 feet above the water's surface. Characters can wade through the stream effortlessly, reaching area 18.
 
-Upon examining the pool's depths, an adventurous character stumbles upon the well-preserved skeleton of a human wizard from ancient Tuntin. The wizard met his demise while defending the mines against orc invaders, and his ribcage still clutches several orc arrows.
+Upon examining the pool's depths, an adventurous character stumbles upon the well-preserved skeleton of a mudblood runesmith from ancient Tuntin. The wizard met his demise while defending the mines against orc invaders, and his ribcage still clutches several orc arrows.
 
 #### Treasure
 
@@ -1839,7 +1841,7 @@ The cavern boasts a massive blast furnace accompanied by a mechanical bellows, p
 Numerous lifeless corpses of dwarves and orcs, still adorned in tattered armor, are scattered throughout the room. Hovering over them is a skull, enshrouded in an eerie green flame.
 ```
 
-Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the human wizards allied with the Tundelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
+Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the mudblood runesmith allied with the Tundelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
 
 This impressive chamber previously served as the hub of Tide Echo Cavern's mining operation. Here, dwarves smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the dwarves diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
 
@@ -1850,7 +1852,7 @@ The remnants of a fierce magical battle waged centuries ago between orcs and the
 ```
 The cavern's ceiling sparkles with dazzling minerals, reflecting light in such a way that it emulates a starry night sky. Dozens of skeletons, some crushed beneath fallen debris, litter the cavern floor.
 
-This spacious cavern accommodates two standalone structures, unlike the molekin-sized architecture found elsewhere in the mines. Both of these stone buildings are designed for human-sized inhabitants. The masonry walls of these structures appear battered and scorched, with their double doors cracked and marred. A rugged escarpment divides the cavern, with a flight of stairs chiseled into it. Passageways branch out to the north, south, and west.
+This spacious cavern accommodates two standalone structures, unlike the molekin-sized architecture found elsewhere in the mines. Both of these stone buildings are designed for mudblood-sized inhabitants. The masonry walls of these structures appear battered and scorched, with their double doors cracked and marred. A rugged escarpment divides the cavern, with a flight of stairs chiseled into it. Passageways branch out to the north, south, and west.
 ```
 
 For a detailed description of the damaged buildings, please refer to sections 14 and 15. While the minerals in the ceiling may be visually captivating, they possess neither magical nor monetary value.
@@ -1869,7 +1871,7 @@ The spirit of Mormesk, the last wizard to perish in this room, still haunts the 
 
 Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scorched chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
 
-This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Spells (area 15), most of whom were human. The furnishings reflect their human-sized proportions.
+This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Spells (area 15), most of whom were mudblood. The furnishings reflect their mudblood-sized proportions.
 
 #### Roleplay Mormesk
 
@@ -1911,7 +1913,7 @@ On the worktable in the southeast corner of the room, you find the last items th
 
 **Lightbringer.** This +1 mace, crafted for a cleric of Lathander, the god of dawn, boasts a head shaped like a radiant sunburst, made from solid brass. Dubbed Lightbringer, this weapon illuminates as brightly as a torch upon command. While glowing, the mace inflicts an additional 1d6 radiant damage to undead creatures.
 
-**Dragonguard.** This +1 breastplate, adorned with a gold dragon motif in its design, was made for a human hero of Reddwall named Tergon. It grants its wearer advantage on saving throws against the breath weapons of creatures with the dragon type.
+**Dragonguard.** This +1 breastplate, adorned with a gold dragon motif in its design, was made for a dhampir hero of Reddwall named Tergon. It grants its wearer advantage on saving throws against the breath weapons of creatures with the dragon type.
 
 ### 16. Booming Cavern
 
