@@ -9,7 +9,11 @@ Part 3, aptly titled "The Spider's Web," presents the characters with several sh
 Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
 ## Villainous Synopsis
-The Black Spider, our shrewd villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the 
+The Black Spider, our shrewd and alluring Spiderkin villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the Forge of Runes within. She has brokered an alliance between the more unscrupulous factions surrounding the town of Tuntin, promising each a share of the power the forge will grant.
+
+She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exhange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Redwall, in exchange for sovereignty over the town. She even asked the Orgekin bandits of Wyvern Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
+
+Now that she has Burrowbard's map, there's no problem, well there's one problem. She needs the players' mysterious puzzle box to appease the Forge of Runes' guardian...
 
 ## **Adventure Hook**
 
