@@ -6,7 +6,10 @@ Part 2, titled "Tuntin," finds the characters arriving in the troubled town of T
 
 Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost dwarven mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
-Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Spells. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
+Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
+
+## Villainous Synopsis
+The Black Spider, our shrewd villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the 
 
 ## **Adventure Hook**
 
@@ -841,7 +844,7 @@ If the characters opt to leave the rat unharmed, it will follow them around as i
 
 **Books and Notes.** Within the room, you'll find books and notes scattered about, as Sylas is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Sylas's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
 
-Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Spells (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Tundelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
+Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Tundelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
 
 #### Developments
 
@@ -871,7 +874,7 @@ If he successfully escapes, Sylas flees to area 1 (through areas 7 and 8) and re
 
 #### Roleplaying Sylas
 
-In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Sylas was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Spells with the wizard in exchange for his assistance and loyalty.
+In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Sylas was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Runes with the wizard in exchange for his assistance and loyalty.
 
 Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Redbrand outlaws.
 
@@ -883,7 +886,7 @@ If questioned while in captivity, Sylas provides the following information, all 
 
 * The Black Spider is a drow (dark elf).
 * The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
-* The Black Spider is searching Tide Echo Cavern for the Forge of Spells. Dwarves and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
+* The Black Spider is searching Tide Echo Cavern for the Forge of Runes. Dwarves and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
 ### Develoments
@@ -1625,7 +1628,7 @@ With the revelation of the location of Tide Echo Cavern, the characters are now 
 
 Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
-Nezznar seeks the Forge of Spells, where runesmiths from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
+Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
 
 The adventurers now have an opportunity to assist Burrowbard, avenge his kin, and thwart the Black Spider's sinister plans. Furthermore, the rumored hoard of potent magic hidden within the mines promises a valuable prize.
 
@@ -1871,7 +1874,7 @@ The spirit of Mormesk, the last wizard to perish in this room, still haunts the 
 
 Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scorched chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
 
-This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Spells (area 15), most of whom were mudblood. The furnishings reflect their mudblood-sized proportions.
+This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Runes (area 15), most of whom were mudblood. The furnishings reflect their mudblood-sized proportions.
 
 #### Roleplay Mormesk
 
@@ -1879,7 +1882,7 @@ Mormesk speaks in somber, whispering tones. Upon rising from the floor, the wrai
 
 If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a DC 10 Charisma (Persuasion) check to convince the wraith of its value.
 
-However, the wraith will never relinquish the wooden pipe from the scorched chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Spells (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
+However, the wraith will never relinquish the wooden pipe from the scorched chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Runes (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
 
 #### Treasure
 
@@ -1957,7 +1960,7 @@ Nezznar's divinations prove accurate. Concealed beneath the weighty debris at th
 
 ### **19. The Sanctum of Dumathoin**
 
-Nezznar has claimed this chamber as his base of operations while he delves into the depths of the mines in search of the Forge of Spells.
+Nezznar has claimed this chamber as his base of operations while he delves into the depths of the mines in search of the Forge of Runes.
 
 ```
 This hall is adorned with six weathered marble pillars lining its walls. At the north end, a nine-foot-tall statue of a molekin, seated regally upon a throne, holds a massive stone warhammer upon its lap. Glistening emeralds catch the light in the statue's eyes.
@@ -1983,7 +1986,7 @@ Should the doppelganger from Area 18 have retreated to this location, it assumes
 
 #### Roleplaying Nezznar
 
-Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Redbrands to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Spells. However, he betrays the characters once they outlive their usefulness.
+Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Redbrands to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
 
 #### **Developments**
 
