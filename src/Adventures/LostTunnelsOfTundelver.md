@@ -1,14 +1,17 @@
 ## **Overview**
 
-The "Lost Mine of Tundelver" unfolds across four distinct sections. In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a mudblood warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
+The "Lost Mine of Tundelver" unfolds across four distinct sections.
 
-Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Redbrands, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Redbrands seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Redbrand hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Redbrands' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
+In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a mudblood warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
-Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost dwarven mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
+Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Lavender Lancers, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Lavender Lancers seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Lavender Lancer hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Lavender Lancers' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
+
+Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
 Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
 ## Villainous Synopsis
+
 The Black Spider, our shrewd and alluring Spiderkin villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the Forge of Runes within. She has brokered an alliance between the more unscrupulous factions surrounding the town of Tuntin, promising each a share of the power the forge will grant.
 
 She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exhange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Redwall, in exchange for sovereignty over the town. She even asked the Orgekin bandits of Wyvern Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
@@ -19,10 +22,9 @@ The Black Spider is a reaccuring villain within the story. She will show up from
 
 She has a Doppler ally named Monteith, who acts as his mistresses butler and personal spy.
 
-
 ## **THE FORGOTTEN REALMS**
 
-Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, dwarven mines, and formidable monsters.
+Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, molekin mines, and formidable monsters.
 
 The adventure detailed here unfolds in the world of the Forgotten Realms, a prime example of the latter type of setting. In the Realms, knights venture into the crypts of the long-fallen molekin kings of Delzoun in search of glory and treasure. Rogues navigate the dimly lit alleyways of bustling cities like Reddwall and Baldur's Gate. Clerics, devout servants of the gods, wield both mace and spell to combat the ominous threats that plague the land. Wizards delve into the ruins of the collapsed Netherese empire, exploring secrets that exist in the shadows. Within dungeons, caverns, ancient cities, and vast untamed wilderness, dragons, giants, demons, and other horrifying monstrosities lie in
 
@@ -62,13 +64,14 @@ Example of connections to Burrowbard:
 - For magic characters, Burrowbard was at one point an adventure and steered the player character away from the darker aspects of their magic
 - He was a father figure who helped a character relearn their self worth
 
-```The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.```
+``The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.``
 
 ## Planning for Special player moments
 
 I want you to think about how you can encorporate each players' backstory into the campaign for some special player moments. Every character should have one moment, one pportunity in the story that's specific to their character. If there is an important NPC in their past (you could add them in) or important item, bring it on in. Get creative and plan to give each of your players one big moment!
 
 ## Prologue Roleplay (No dice just yet)
+
 Roleplay a scene set around a table in a Reddwall tavern, where Burrowbard imparts the following information in a soft Scottish accent.
 
 ```
@@ -408,7 +411,7 @@ Tuntin, a frontier town, is perched atop the remnants of a much older settlement
 
 Over the past three or four years, resilient settlers from the cities of Reddwall and Waterdeep embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Sword Mountains.
 
-Regrettably, the lack of a local lord or authority to maintain order has also drawn its share of bandits and brigands. For the past two months, a gang known as the Redbrands has held sway over Tuntin, intimidating and coercing the town's populace. The gang's enigmatic leader is a figure known to the townsfolk as Glasstaff.
+Regrettably, the lack of a local lord or authority to maintain order has also drawn its share of bandits and brigands. For the past two months, a gang known as the Lavender Lancers has held sway over Tuntin, intimidating and coercing the town's populace. The gang's enigmatic leader is a figure known to the townsfolk as Glasstaff.
 
 Upon the characters' initial arrival in Tuntin, present the following scene:
 
@@ -446,9 +449,9 @@ To initiate, inquire where the players wish to go and what they intend to do in 
 
 **The Stonehill Inn.** If the players are unsure about their characters' next steps, encourage them to commence at the Stonehill Inn. The NPCs here serve as guides, steering the characters towards various adventure opportunities and essential rumors accessible in other parts of the town. By patronizing the inn, the characters gain insight into other places they should explore.
 
-**Redbrand Ruffians.** Sooner or later, the adventurers will cross paths with the toughs who dominate Tuntin. Your role is to determine when these ruffians make their appearance. Once the characters have had an opportunity to explore several locations in town and converse with the townsfolk, they may decide to track down the Redbrands. In such an event, you can execute the "Redbrand Ruffians" encounter. Alternatively, if the characters seem hesitant to confront the ruffians, the Redbrands may decide to seek them out at a moment of your choosing.
+**Lavender Lancer Ruffians.** Sooner or later, the adventurers will cross paths with the toughs who dominate Tuntin. Your role is to determine when these ruffians make their appearance. Once the characters have had an opportunity to explore several locations in town and converse with the townsfolk, they may decide to track down the Lavender Lancers. In such an event, you can execute the "Lavender Lancer Ruffians" encounter. Alternatively, if the characters seem hesitant to confront the ruffians, the Lavender Lancers may decide to seek them out at a moment of your choosing.
 
-**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Redbrands, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Warwinter, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
+**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Lavender Lancers, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Warwinter, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
 
 ## Important NPCs
 
@@ -459,7 +462,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 3. **Daran Edermath (Order of the Gauntlet Member):** A member of the Order of the Gauntlet who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
 4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
 5. **Halia Thornton (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
-6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Redbrands' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
+6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
 7. **Sister Garaele (Elf Cleric of Tymora):** An elf cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
 8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
 9. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Sylas Alabaster.
@@ -477,7 +480,7 @@ If you're uncertain about how to portray an NPC, a great way to begin is to have
 
 ## **Description of Tuntin**
 
-Tuntin is a small town, which means the characters can explore various locations and interact with different NPCs throughout a single day. If the players decide to split up their characters, they can cover more ground, but you'll need to take turns managing interactions for each player. It's important to be aware that splitting the party can increase the potential danger of the "Redbrand Ruffians" encounter.
+Tuntin is a small town, which means the characters can explore various locations and interact with different NPCs throughout a single day. If the players decide to split up their characters, they can cover more ground, but you'll need to take turns managing interactions for each player. It's important to be aware that splitting the party can increase the potential danger of the "Lavender Lancer Ruffians" encounter.
 
 The subsequent sections provide specific details about various locations within the town.
 
@@ -489,18 +492,18 @@ At the heart of Tuntin stands a recently constructed roadhouse made of fieldston
 
 This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Stonehill Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
 
-The innkeeper is a friendly, short young mudblood named Toblen Stonehill. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Redbrands' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Redbrand retaliation.
+The innkeeper is a friendly, short young mudblood named Toblen Stonehill. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
 
 **Rumors at Stonehill Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Stonehill Inn include:
 
 * Narth, an elderly farmer, shares that "Sister Garaele, the overseer of the Shrine of Luck, recently returned to town, injured and fatigued."
 * Elsa, a talkative barmaid, reveals that "Daran Edermath, the orchard keeper, is a former adventurer."
 * Lanar, a miner, reports that "Ore raiders have been sighted at the east end of Trident Trail, and the town master is searching for someone to handle the situation."
-* Trilena, the innkeeper's wife, discloses the tragic story of Thel Dendrar, a local woodcarver who confronted the Redbrands and was subsequently murdered. She also reveals that Thel's family has gone missing. Unbeknownst to Trilena and the townsfolk, the Redbrands have taken Thel's wife and children to their hidden hideout.
-* Pip, Toblen's young son, recounts Carp, Qelline Alderleaf's son, who discovered a secret tunnel in the woods, barely escaping the Redbrands' pursuit.
-* Freda, a weaver, mentions that the Redbrands harass all the businesses in town, except for the Tuntin Miner's Exchange, as they don't want to provoke Halia Thornton, who runs it.
+* Trilena, the innkeeper's wife, discloses the tragic story of Thel Dendrar, a local woodcarver who confronted the Lavender Lancers and was subsequently murdered. She also reveals that Thel's family has gone missing. Unbeknownst to Trilena and the townsfolk, the Lavender Lancers have taken Thel's wife and children to their hidden hideout.
+* Pip, Toblen's young son, recounts Carp, Qelline Alderleaf's son, who discovered a secret tunnel in the woods, barely escaping the Lavender Lancers' pursuit.
+* Freda, a weaver, mentions that the Lavender Lancers harass all the businesses in town, except for the Tuntin Miner's Exchange, as they don't want to provoke Halia Thornton, who runs it.
 
-These rumors serve as valuable clues, guiding the characters toward various adventure opportunities in Tuntin. Furthermore, any of the inn's patrons can inform the characters that the Redbrands frequent the Sleeping Giant tap house on the town's eastern end, emphasizing the danger posed by these ruffians.
+These rumors serve as valuable clues, guiding the characters toward various adventure opportunities in Tuntin. Furthermore, any of the inn's patrons can inform the characters that the Lavender Lancers frequent the Sleeping Giant tap house on the town's eastern end, emphasizing the danger posed by these ruffians.
 
 ### **Barton's Provisions**
 
@@ -512,7 +515,7 @@ The shop's proprietor is Elmer Barton, a kind and slim mudblood male shopkeeper 
 
 Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tharden, have been camping outside of town. However, he hasn't seen them in the past ten days and anticipates their return to resupply at any moment. Unbeknownst to Barton, Tharden has passed away, and Nundro is held captive within the mine.
 
-**Barton's News.** If the characters inquire about the state of business in Tuntin, Barton mentions that the Redbrands are making life difficult for everyone. They are extorting local businesses and defying the authority of the townmaster. If the characters express a desire to take action, he informs them that the Redbrands are regular patrons at the Sleeping Giant tap house.
+**Barton's News.** If the characters inquire about the state of business in Tuntin, Barton mentions that the Lavender Lancers are making life difficult for everyone. They are extorting local businesses and defying the authority of the townmaster. If the characters express a desire to take action, he informs them that the Lavender Lancers are regular patrons at the Sleeping Giant tap house.
 
 ### Edermath Orchard
 
@@ -520,13 +523,13 @@ Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to 
 
 Daran is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Daran keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
-Daran expresses concern regarding the Redbrands and yearns for a group of adventurers to confront them. He believes it is time to challenge the Redbrands' leader, Glasstaff. Daran discloses to the characters that the Redbrands frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
+Daran expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glasstaff. Daran discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
 
 **Quest: Old Owl Trouble.** Daran has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Owl Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Daran urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Daran's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Owl Well" section for further details.
 
 #### Joining the Order of the Gauntlet
 
-For characters who engage with the Redbrands and explore Old Owl Well, Daran Edermath privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Daran bestows the title of Cheval upon them.
+For characters who engage with the Lavender Lancers and explore Old Owl Well, Daran Edermath privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Daran bestows the title of Cheval upon them.
 
 ### Beastshield Coster
 
@@ -538,7 +541,7 @@ This establishment belongs to the Beastshields, a merchant company headquartered
 
 The head of the Tuntin post is Linett Graygale, a sharp-tongued mudblood woman in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
 
-In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Redbrands. She advises the characters to steer clear of the Sleeping Giant tap house.
+In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Sleeping Giant tap house.
 
 **Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Mountainmaw hideout (or if they left the goods but revealed their whereabouts), Linett rewards them with 50 gp and pledges her assistance to the adventurers in any way possible.
 
@@ -548,19 +551,19 @@ The Miner's Exchange operates as a trading post where local miners have their va
 
 The guildmaster is Halia Thornton, a determined and strategic mudblood woman. Her aspirations extend beyond mere commerce, and she acts as a de facto governing authority within the town. Additionally, Halia is an agent of the Zhentarim, an influential organization aiming to exert clandestine control over the North by means of wealth and influence. Halia works progressively to assert her influence in Tuntin and can become a valuable patron to the characters if they avoid conflicting with her.
 
-Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Redbrands employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Redbrands.
+Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Redbrands' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminate the Redbrand leader, known as Glasstaff, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Redbrand operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminate the Lavender Lancer leader, known as Glasstaff, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
-Should the party successfully eliminate the Redbrand leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Redbrand gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
+Should the party successfully eliminate the Lavender Lancer leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
 
 ### Alderleaf Farm
 
 Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an astute farmer who seems to be privy to all the town's ongoings. She provides hospitable accommodation, offering the characters the option to stay in her hayloft if they prefer not to lodge at the Stonehill Inn.
 
-**Carp's Tale.** Qelline's ten-year-old son, Carp, is a spirited and curious young halfling. Carp is captivated by the idea of becoming an adventurer and shares a fascinating story. He mentions that while he was playing in the woods near Tresendar Manor, he stumbled upon a concealed tunnel in a thicket. During his discovery, a couple of "big, menacing bandits" emerged from the tunnel, engaging with Redbrands in the vicinity. Thankfully, Carp managed to remain concealed from their view, but the situation was precarious. Carp believes that the bandits maintain a hidden lair beneath the old manor house. He can either guide the characters to the tunnel's entrance or provide them with directions. This tunnel leads directly to area 8 in the Redbrand hideout.
+**Carp's Tale.** Qelline's ten-year-old son, Carp, is a spirited and curious young halfling. Carp is captivated by the idea of becoming an adventurer and shares a fascinating story. He mentions that while he was playing in the woods near Tresendar Manor, he stumbled upon a concealed tunnel in a thicket. During his discovery, a couple of "big, menacing bandits" emerged from the tunnel, engaging with Lavender Lancers in the vicinity. Thankfully, Carp managed to remain concealed from their view, but the situation was precarious. Carp believes that the bandits maintain a hidden lair beneath the old manor house. He can either guide the characters to the tunnel's entrance or provide them with directions. This tunnel leads directly to area 8 in the Lavender Lancer hideout.
 
 **Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Tide Echo Cavern, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
 
@@ -568,7 +571,7 @@ Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an a
 
 Tuntin's sole temple is a modest shrine constructed using stones collected from nearby ruins. It is dedicated to Tymora, the goddess of luck and good fortune.
 
-The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young elf who despairs of ever eradicating the Redbrands from Tuntin. Sister Garaele is a member of the Harpers, a widely distributed network of adventurers and spies committed to promoting equality and covertly opposing the abuse of power. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
+The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young elf who despairs of ever eradicating the Lavender Lancers from Tuntin. Sister Garaele is a member of the Harpers, a widely distributed network of adventurers and spies committed to promoting equality and covertly opposing the abuse of power. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
 
 **Quest: The Banshee's Bargain.** Sister Garaele was recently assigned a sensitive mission by her superiors. Her task was to persuade a banshee known as Agatha to respond to a question concerning a spellbook. Sister Garaele visited Agatha in her lair, but the banshee refused to appear for her. To facilitate communication, Garaele seeks an intermediary who will offer Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to divulge information about the location of a spellbook that once belonged to a legendary mage named Bowgentle. Sister Garaele believes that a character capable of flattering Agatha's vanity might be able to secure the answer through this trade. She extends the quest to the characters and offers them three potions of healing as compensation for their efforts. If the party decides to undertake this quest, refer to the "Conyberry and Agatha's Lair" section for more details.
 
@@ -578,7 +581,7 @@ Should the party assist Sister Garaele in uncovering the fate of Bowgentle's spe
 
 ### The Sleeping Giant
 
-This dilapidated tap house is a grimy and perilous watering hole situated at the end of Tuntin's main street. It's a favorite haunt of Redbrand thugs and is managed by a cantankerous female molekin named Grista. If the characters decide to visit this establishment, initiate the "Redbrand Ruffians" encounter.
+This dilapidated tap house is a grimy and perilous watering hole situated at the end of Tuntin's main street. It's a favorite haunt of Lavender Lancer thugs and is managed by a cantankerous female molekin named Grista. If the characters decide to visit this establishment, initiate the "Lavender Lancer Ruffians" encounter.
 
 ### **The Town Master's Hall**
 
@@ -586,7 +589,7 @@ This dilapidated tap house is a grimy and perilous watering hole situated at the
 The town master's hall is a solid structure, adorned with sturdy stone walls, a sloping wooden roof, and a bell tower at the rear. A public notice, written in Common, is affixed to a board next to the front door. It announces, "REWARD - Orcs near Wyvern Tor! Those willing to confront the orc threat should inquire within." The notice is stamped with the town's seal and features an inscrutable signature.
 ```
 
-Tuntin does not have a functioning government, but the residents elect a town master annually. The town master serves as an arbiter in minor disputes and manages any essential records. The present town master is Harbin Wester, a rotund and pompous elderly mudblood who works as a banker. However, he is entirely cowed by the Redbrands and dismisses them as "just a group of mercenaries, not much trouble, really."
+Tuntin does not have a functioning government, but the residents elect a town master annually. The town master serves as an arbiter in minor disputes and manages any essential records. The present town master is Harbin Wester, a rotund and pompous elderly mudblood who works as a banker. However, he is entirely cowed by the Lavender Lancers and dismisses them as "just a group of mercenaries, not much trouble, really."
 
 The town master's hall includes a small yet functional jail in its cellar, featuring two cells. Harbin holds the keys to these cell doors.
 
@@ -598,7 +601,7 @@ Ulfric also encourages the characters to maintain pressure on the Mountainmaw Ve
 
 **Quest: Finding Sylas.** Upon questioning several locals, Ulfric learns that Sylas Alabaster, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Sylas, or whatever remains of him if something has befallen him. Ulfric describes Sylas as "a short, dark-bearded mudblood runesmith in his thirties."
 
-Unknown to Ulfric, Sylas established the Redbrands, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Redbrand threat.
+Unknown to Ulfric, Sylas established the Lavender Lancers, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Lavender Lancer threat.
 
 #### **Joining the Eastern Alliance**
 
@@ -606,25 +609,25 @@ If the party successfully deals with the Vermkin threat from Mountainmaw Castle 
 
 ### **Tresendar Manor**
 
-More fortress than residence, Tresendar Manor stands at the eastern outskirts of town, positioned atop a low hill amid woods and thickets. Although the ancient manor has been abandoned for a long time, its cellars have been converted into a stronghold for the Redbrands. If the characters decide to investigate this location, they will find the entrance to the Redbrand hideout.
+More fortress than residence, Tresendar Manor stands at the eastern outskirts of town, positioned atop a low hill amid woods and thickets. Although the ancient manor has been abandoned for a long time, its cellars have been converted into a stronghold for the Lavender Lancers. If the characters decide to investigate this location, they will find the entrance to the Lavender Lancer hideout.
 
-## **Redbrand Ruffians**
+## **Lavender Lancer Ruffians**
 
-It's almost inevitable that a confrontation with the Redbrands occurs within a day or two of the adventurers' arrival in Tuntin. Several scenarios can trigger this confrontation:
+It's almost inevitable that a confrontation with the Lavender Lancers occurs within a day or two of the adventurers' arrival in Tuntin. Several scenarios can trigger this confrontation:
 
-1. If the characters decide to confront the Redbrands at the Sleeping Giant tap house after speaking with several NPCs in town.
+1. If the characters decide to confront the Lavender Lancers at the Sleeping Giant tap house after speaking with several NPCs in town.
 2. If the characters choose to investigate Tresendar Manor.
-3. If the party shows no interest in the Redbrands, a gang of ruffians seeks them out and provokes a fight in the street, often as they are leaving a location in town.
+3. If the party shows no interest in the Lavender Lancers, a gang of ruffians seeks them out and provokes a fight in the street, often as they are leaving a location in town.
 
 ### **Confrontation**
 
-If the characters decide to confront the Redbrands at the Sleeping Giant, you can describe the scene as follows:
+If the characters decide to confront the Lavender Lancers at the Sleeping Giant, you can describe the scene as follows:
 
 "The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
 
 One of the thugs spits on the ground. "Well, well," he sneers. "Here's a whole bunch of little pups. What's your business here, pups? Did you come to yap at us?"
 
-If the Redbrands confront the characters in the street, describe it as follows:
+If the Lavender Lancers confront the characters in the street, describe it as follows:
 
 ```
 As you step back into the street, you notice four armed ruffians waiting for you. They are all mudbloods dressed in filthy red cloaks, their hands on their weapons as they observe you.
@@ -632,15 +635,15 @@ As you step back into the street, you notice four armed ruffians waiting for you
 One of the ruffians spits on the ground. "It's time to clear out, strangers. Hand over your belongings and be on your way."
 ```
 
-Continue the insults and provocations as long as you see fit. The Redbrands will attack within a round or two if the characters do not initiate combat. Neither side should be surprised, given the tension and the clear signs of an impending confrontation.
+Continue the insults and provocations as long as you see fit. The Lavender Lancers will attack within a round or two if the characters do not initiate combat. Neither side should be surprised, given the tension and the clear signs of an impending confrontation.
 
-The group consists of four Redbrand ruffians. If three of them are defeated, the last one will flee toward Tresendar Manor.
+The group consists of four Lavender Lancer ruffians. If three of them are defeated, the last one will flee toward Tresendar Manor.
 
 #### **Developments**
 
-Redbrands who are captured or charmed by the characters can provide valuable information (see "What the Redbrands Know" sidebar on page 20). While Townmaster Harbin Wester may not want to retain Redbrand prisoners until he is certain the entire gang has been eradicated, the characters can persuade or intimidate him into detaining any captured Redbrands for at least a few days.
+Lavender Lancers who are captured or charmed by the characters can provide valuable information (see "What the Lavender Lancers Know" sidebar on page 20). While Townmaster Harbin Wester may not want to retain Lavender Lancer prisoners until he is certain the entire gang has been eradicated, the characters can persuade or intimidate him into detaining any captured Lavender Lancers for at least a few days.
 
-If the characters kill the ruffians, most of the townspeople will be appreciative. An exception is the town master, who is concerned about the possibility of Redbrand retaliation. Harbin will not punish the characters but will caution them against causing further trouble.
+If the characters kill the ruffians, most of the townspeople will be appreciative. An exception is the town master, who is concerned about the possibility of Lavender Lancer retaliation. Harbin will not punish the characters but will caution them against causing further trouble.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -648,13 +651,13 @@ Each character is awarded a skill point upon their successful defeat of the ruff
 
 > **Guiding the Players**
 >
-> Following the "Redbrand Ruffians" encounter, the players should sense the necessity of addressing the remaining gang. If it appears the characters are uncertain about their next course of action, one of the NPCs they've previously encountered in town should take the initiative. This NPC can explicitly suggest investigating the Redbrand hideout and direct them toward Tresendar Manor.
+> Following the "Lavender Lancer Ruffians" encounter, the players should sense the necessity of addressing the remaining gang. If it appears the characters are uncertain about their next course of action, one of the NPCs they've previously encountered in town should take the initiative. This NPC can explicitly suggest investigating the Lavender Lancer hideout and direct them toward Tresendar Manor.
 >
-> However, if the players express a preference for pursuing alternative leads in the region, it's acceptable to proceed to part 3 of the adventure and allow the ruffians to remain a pending matter. Upon the characters' return to Tuntin, ensure it's evident that the Redbrands are creating escalating issues, underscoring the urgency of dealing with them.
+> However, if the players express a preference for pursuing alternative leads in the region, it's acceptable to proceed to part 3 of the adventure and allow the ruffians to remain a pending matter. Upon the characters' return to Tuntin, ensure it's evident that the Lavender Lancers are creating escalating issues, underscoring the urgency of dealing with them.
 
 ## Lavendar Lancer Hideout
 
-The Redbrands' headquarters in Tuntin occupies an underground complex beneath the now-dilapidated Tresendar Manor. Originally, the manor's cellars were designed for the safe storage of provisions, including food and water, in case the estate came under attack. Adjacent to the cellars was a crypt intended for interring deceased members of the Tresendar family. The Redbrands, however, have substantially expanded the cellars to serve their own needs, modifying them to accommodate slave pens, workshops, and barracks. Should the characters initiate their search from Tresendar Manor, their entry point into the dungeon is in area 1. Alternatively, if they opt to follow Carp Alderleaf through the secret tunnel he discovered, they gain access to the dungeon via area 8.
+The Lavender Lancers' headquarters in Tuntin occupies an underground complex beneath the now-dilapidated Tresendar Manor. Originally, the manor's cellars were designed for the safe storage of provisions, including food and water, in case the estate came under attack. Adjacent to the cellars was a crypt intended for interring deceased members of the Tresendar family. The Lavender Lancers, however, have substantially expanded the cellars to serve their own needs, modifying them to accommodate slave pens, workshops, and barracks. Should the characters initiate their search from Tresendar Manor, their entry point into the dungeon is in area 1. Alternatively, if they opt to follow Carp Alderleaf through the secret tunnel he discovered, they gain access to the dungeon via area 8.
 
 ### **General Features**
 
@@ -664,18 +667,18 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
 
-**Secret Doors.** The map for the Redbrand Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
+**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
 
 **Light.** Most areas within the hideout are illuminated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
-> **What the Redbrands Know**
+> **What the Lavender Lancers Know**
 >
-> If the characters charm or successfully interrogate any of the Redbrands, they can acquire valuable information, including the hideout's location under Tresendar Manor and the following insights:
+> If the characters charm or successfully interrogate any of the Lavender Lancers, they can acquire valuable information, including the hideout's location under Tresendar Manor and the following insights:
 >
-> 1. The leader of the Redbrands is a mudblood runesmith named Glasstaff, whose nickname originates from his staff, made entirely of glass.
-> 2. The Black Spider, a mysterious figure, has hired the Redbrands to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinforce the Redbrands and provide additional strength.
+> 1. The leader of the Lavender Lancers is a mudblood runesmith named Glasstaff, whose nickname originates from his staff, made entirely of glass.
+> 2. The Black Spider, a mysterious figure, has hired the Lavender Lancers to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinforce the Lavender Lancers and provide additional strength.
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
-> 4. The Redbrands hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
+> 4. The Lavender Lancers hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
 
 ### **1. Cellar**
 
@@ -683,13 +686,13 @@ Upon exploring the manor grounds, the characters discover the abandoned building
 
 "The door opens onto a five-foot-wide landing fifteen feet above a large cellar, with stone steps descending to the floor in two short flights. Another door stands beneath the stairs to the north. A large stone cistern occupies the western part of the room, whose walls are lined with kegs and barrels."
 
-This room is a spacious storage cellar, well-suited to the underhanded activities of the Redbrands. Although barrels contain fresh provisions, there is nothing in this room that suggests the Redbrands' presence.
+This room is a spacious storage cellar, well-suited to the underhanded activities of the Lavender Lancers. Although barrels contain fresh provisions, there is nothing in this room that suggests the Lavender Lancers' presence.
 
-The barrels house supplies like salted pork and beef, flour, sugar, apples, and ale. Vigilantly searching the barrels is a noisy endeavor that could alert the Redbrands in area 2.
+The barrels house supplies like salted pork and beef, flour, sugar, apples, and ale. Vigilantly searching the barrels is a noisy endeavor that could alert the Lavender Lancers in area 2.
 
  **Cistern** : The rectangular cistern holds cold, fresh water, is 10 feet deep, and features a rim 2 feet higher than the surrounding floor. Drain pipes from the manor's roof provide the cistern with water. A waterproof satchel, hidden from plain sight underwater, is attached to a submerged rope along the south cistern wall. It can be discovered with a successful DC 15 Wisdom (Perception) check or by a character probing the cistern with a pole or jumping in. The satchel contains valuable items detailed in the "Treasure" section.
 
- **Secret Door** : A secret door can be found in the southwest corner of the room, as indicated on the Redbrand Hideout map.
+ **Secret Door** : A secret door can be found in the southwest corner of the room, as indicated on the Lavender Lancer Hideout map.
 
 **Developments**
 
@@ -703,19 +706,19 @@ The waterproof satchel concealed in the cistern contains a potion of healing, a 
 
 ### 2. Barracks
 
-The Redbrands in Tuntin have their lodgings scattered throughout the town. These quarters serve as a hideaway, ideal for taking refuge after intimidating the local miners and fur traders.
+The Lavender Lancers in Tuntin have their lodgings scattered throughout the town. These quarters serve as a hideaway, ideal for taking refuge after intimidating the local miners and fur traders.
 
 ```
 This chamber appears to have been converted from a storage room into makeshift living quarters. Two double bunks are neatly arranged against the wall near the entrance, while barrels and crates occupy the room's southern half.
 ```
 
-Within the room, three Redbrand ruffians are taking a break. If they detect significant commotion from area 1, such as loud voices or the sound of barrels being moved, they prepare themselves for a potential confrontation and attempt to catch intruders off guard.
+Within the room, three Lavender Lancer ruffians are taking a break. If they detect significant commotion from area 1, such as loud voices or the sound of barrels being moved, they prepare themselves for a potential confrontation and attempt to catch intruders off guard.
 
 The barrels in this area contain similar supplies to those found in area 1.
 
 #### Treasure
 
-All three Redbrands possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 bronze coins; the second, 12 silver pieces and 5 bronze coins; and the third, 15 electrum pieces and two garnets, each valued at 10 bronze coins. Furthermore, three worn, scarlet cloaks hang from the bunks.
+All three Lavender Lancers possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 bronze coins; the second, 12 silver pieces and 5 bronze coins; and the third, 15 electrum pieces and two garnets, each valued at 10 bronze coins. Furthermore, three worn, scarlet cloaks hang from the bunks.
 
 #### Awarding Skill & Destiny Points
 
@@ -723,7 +726,7 @@ Distribute 300 XP equally among the characters if the party overcomes the ruffia
 
 ### 3. Trapped Hall
 
-This corridor was originally a segment of Tresendar Manor's ancient cellars. The Redbrands, however, excavated beneath the stone floor, fashioning a concealed pit trap.
+This corridor was originally a segment of Tresendar Manor's ancient cellars. The Lavender Lancers, however, excavated beneath the stone floor, fashioning a concealed pit trap.
 
 ```
 A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every ten feet, faux columns decorate the walls, while the double doors at the western end display copper plating that has now turned green with age. These doors feature an intricately carved depiction of a sorrowful angel.
@@ -745,13 +748,13 @@ The mausoleum was the final resting place of the long-forgotten Tresendar family
 Within the dimly lit crypt, three substantial stone sarcophagi occupy the space, their surfaces veiled in layers of dust. Resting against each sarcophagus are skeletons garbed in fragments of corroded mail. The chamber's walls feature faux columns carved to resemble expansive oak trees, and the double doors in the southeastern corner are covered with aged copper plates.
 ```
 
-When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct scarlet cloak of the Redbrands or utters the password "Illefam," which references an ancient elven realm that once spanned a significant part of the Sword Coast.
+When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct scarlet cloak of the Lavender Lancers or utters the password "Illefam," which references an ancient elven realm that once spanned a significant part of the Sword Coast.
 
 The stone lids of each sarcophagus bear carvings of the individuals interred within—two noble male dhampir and one noble female dhampir. Should the tombs be opened, they reveal mostly decayed bones and remnants of clothing, detailed in the "Treasure" section.
 
 #### Developments
 
-Combat in this chamber will serve as a warning to the Redbrands in area 5, alerting them to the impending threat.
+Combat in this chamber will serve as a warning to the Lavender Lancers in area 5, alerting them to the impending threat.
 
 #### Treasure
 
@@ -763,7 +766,7 @@ Distribute 150 XP equally among the characters if the party successfully vanquis
 
 ### 5. Slave Pens
 
-For the last two months, the Redbrands have been seizing travelers in the vicinity, imprisoning them within these cells for eventual sale into slavery.
+For the last two months, the Lavender Lancers have been seizing travelers in the vicinity, imprisoning them within these cells for eventual sale into slavery.
 
 ```
 This elongated chamber is sectioned into three parts, featuring iron bars that partition the north and south areas. Filthy straw litters the floors of these cells, while their hinged doors are secured by chains and padlocks. In the southern cell, two disheveled mudblood women are confined, while a young mudblood boy is isolated in the northern one. All three individuals are clad in simple gray tunics, and iron collars are affixed around their necks.
@@ -771,7 +774,7 @@ This elongated chamber is sectioned into three parts, featuring iron bars that p
 
 A pile of discarded clothing is carelessly strewn against the far wall.
 
-Two Redbrand ruffians donned in scarlet cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
+Two Lavender Lancer ruffians donned in scarlet cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
@@ -779,9 +782,9 @@ Cell Doors: The cell doors are equipped with basic locks that can be picked usin
 
 #### Captives
 
-The three commoner prisoners here are Mirna Dendrar and her two adolescent children: thirteen-year-old Nars and eighteen-year-old Nilsa. A few days ago, the Redbrands brutally murdered Mirna's husband, Thel, for resisting their demands. (His body can be found in area 8.) That same night, the gang stormed their home in Tuntin, abducting the family. The gang intends to sell the family into the bonds of slavery.
+The three commoner prisoners here are Mirna Dendrar and her two adolescent children: thirteen-year-old Nars and eighteen-year-old Nilsa. A few days ago, the Lavender Lancers brutally murdered Mirna's husband, Thel, for resisting their demands. (His body can be found in area 8.) That same night, the gang stormed their home in Tuntin, abducting the family. The gang intends to sell the family into the bonds of slavery.
 
-The Dendrars hold deep gratitude toward the rescuing characters, although they have limited information concerning the Redbrand hideout. Their knowledge only extends to the fact that the leader is a wizard, whose name they're unaware of since they haven't encountered him. The Dendrars mention "tall, furry creatures with large ears" (Ferralkins) in the employ of the Redbrands.
+The Dendrars hold deep gratitude toward the rescuing characters, although they have limited information concerning the Lavender Lancer hideout. Their knowledge only extends to the fact that the leader is a wizard, whose name they're unaware of since they haven't encountered him. The Dendrars mention "tall, furry creatures with large ears" (Ferralkins) in the employ of the Lavender Lancers.
 
 **Side Quest: Mirna's Heirloom.** Although the Dendrars have nothing to offer as a reward, Mirna suggests that she might possess information about a valuable family heirloom. In her youth, her family fled from the town of Lumgrove following a spore onslaught that overran the place. Her family operated an herb and alchemy shop where a case containing an emerald necklace was concealed beneath a section of storage shelves. She never dared to return and retrieve it. The shop was situated in the southeastern part of Lumgrove. If the characters opt to explore the Lumgrove ruins, consult part 3 of the adventure.
 
@@ -797,13 +800,13 @@ The entrance to this room is secured with a lock, and it can only be opened from
 The walls of this chamber are adorned with racks filled with an array of weaponry, encompassing spears, swords, crossbows, and bolts. A total of twelve grimy red cloaks are suspended on hooks near the door.
 ```
 
-The Redbrands have grand aspirations for bolstering their ranks in the near future, which has prompted them to amass an arsenal of arms and armor.
+The Lavender Lancers have grand aspirations for bolstering their ranks in the near future, which has prompted them to amass an arsenal of arms and armor.
 
 The weapon racks contain twelve spears, six shortswords, four longswords, six light crossbows, and eight quivers, each stocked with twenty crossbow bolts.
 
 ### 7. Storeroom and Work Area
 
-In this space, the Redbrands meticulously catalog their pilfered possessions, making preparations for their transportation through the southern cave passage or arranging them for safekeeping within the stronghold.
+In this space, the Lavender Lancers meticulously catalog their pilfered possessions, making preparations for their transportation through the southern cave passage or arranging them for safekeeping within the stronghold.
 
 ```
 This portion forms the northern extremity of a capacious, naturally formed cavern. The walls are artfully constructed using dressed stone blocks, and the floor is fashioned from durable flagstones. You'll notice a collection of barrels neatly positioned against the cavern's walls. Adjacent to these are numerous vacant crates, bundles of straw used for packing, as well as tools like hammers, pry bars, and nails.
@@ -825,17 +828,17 @@ The characters find themselves in this area through one of three different route
 Within this vast and chilling cavern, a peculiar, cold draft drifts through, carrying with it a faint, ominous aroma of decaying flesh. A rift cleaves the cavern in two, flanked by two roughly hewn stone columns that serve as support for the twenty-foot-tall ceiling. Two wooden bridges, each fashioned with arches, traverse the chasm.
 ```
 
-This cavern's guardian is a nothic—an unhinged subterranean monstrosity with an insatiable appetite for flesh. The creature was originally drawn here by a faint magical aura emanating from the crevasse. When the Redbrands took over, their leader, Sylas, struck an agreement with the nothic. In exchange for treasure and a regular supply of fresh meat, the nothic was persuaded to assist in guarding the stronghold. However, its loyalty remains unpredictable.
+This cavern's guardian is a nothic—an unhinged subterranean monstrosity with an insatiable appetite for flesh. The creature was originally drawn here by a faint magical aura emanating from the crevasse. When the Lavender Lancers took over, their leader, Sylas, struck an agreement with the nothic. In exchange for treasure and a regular supply of fresh meat, the nothic was persuaded to assist in guarding the stronghold. However, its loyalty remains unpredictable.
 
 The nothic lurks close to the western ends of the two bridges. Upon noticing intruders entering the cave, it conceals itself behind one of the large stone columns and surveils them. The creature tries to use its unique ability, Weird Insight, to extract secrets from the characters.
 
-The nothic communicates telepathically, favoring negotiation over aggression, and is willing to betray the Redbrands if the right incentive is offered, such as food. When role-playing the nothic, adopt a whispering tone with sporadic fits of mad cackles and incoherent mutterings. It doesn't actually speak but rather implants its unsettling thoughts and demands in the characters' minds. The nothic possesses all the knowledge the Redbrands have; refer to the "What the Redbrands Know" sidebar on page 20.
+The nothic communicates telepathically, favoring negotiation over aggression, and is willing to betray the Lavender Lancers if the right incentive is offered, such as food. When role-playing the nothic, adopt a whispering tone with sporadic fits of mad cackles and incoherent mutterings. It doesn't actually speak but rather implants its unsettling thoughts and demands in the characters' minds. The nothic possesses all the knowledge the Lavender Lancers have; refer to the "What the Lavender Lancers Know" sidebar on page 20.
 
 As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful DC 15 Intelligence (Investigation) check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
 
 The crevasse itself is steep-sided, measuring 5 to 10 feet in width and 20 feet in depth. Its rugged walls can be easily climbed without requiring an ability check. A character unfortunate enough to fall into the crevasse sustains 2d6 bludgeoning damage and lands prone amid a mass of rubble, which becomes difficult terrain.
 
-Notably, the bottom of the crevasse has an eerie chill. When viewed with a detect magic spell, the area emits a faint necromantic aura. This magical presence causes organic matter within the crevasse to age and decompose at half the usual rate. At the bottom, among the broken and gnawed bones, lies the partially devoured corpse of Thel Dendrar, the Tuntin woodcarver who met his end at the hands of the Redbrands, and whose body they left for the nothic to consume.
+Notably, the bottom of the crevasse has an eerie chill. When viewed with a detect magic spell, the area emits a faint necromantic aura. This magical presence causes organic matter within the crevasse to age and decompose at half the usual rate. At the bottom, among the broken and gnawed bones, lies the partially devoured corpse of Thel Dendrar, the Tuntin woodcarver who met his end at the hands of the Lavender Lancers, and whose body they left for the nothic to consume.
 
 #### Treasure
 
@@ -857,23 +860,23 @@ This chamber serves as a barracks, furnished with four rudimentary wooden bunks,
 
 Present in the room are three Ferralkins and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
 
-These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Redbrands and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
+These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the mudblood members of the Redbrands. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
 Droop, the Vermkin, poses no threat to the party, as he has been cowed by the Ferralkins and follows their orders until someone stronger takes command. If he regains consciousness during combat, Droop hides and avoids the fray. He is such a coward that if compelled to fight, he does so with disadvantage.
 
-Droop possesses knowledge of the general layout of the Redbrand hideout, including the locations of secret doors and traps. However, he doesn't spontaneously offer this information but will reveal it if prompted, though his details might be somewhat confusing or muddled. After the Ferralkins are dispatched, Droop seeks to endear himself to the party and help in any way possible.
+Droop possesses knowledge of the general layout of the Lavender Lancer hideout, including the locations of secret doors and traps. However, he doesn't spontaneously offer this information but will reveal it if prompted, though his details might be somewhat confusing or muddled. After the Ferralkins are dispatched, Droop seeks to endear himself to the party and help in any way possible.
 
 #### Developments
 
-Regarding developments, the Ferralkins are the only individuals in the Redbrand hideout who are privy to the location of Tide Echo Cavern. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
+Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Cavern. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
 
 #### Treasure
 
-In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 bronze coins). He also possesses an iron key capable of locking and unlocking all doors in the Redbrand hideout.
+In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 bronze coins). He also possesses an iron key capable of locking and unlocking all doors in the Lavender Lancer hideout.
 
 #### Awarding Skill & Destiny Points
 
@@ -881,7 +884,7 @@ For Skill & Destiny Points, divide 600 XP equally among the characters if the pa
 
 ### 10. Common Room
 
-This area functions as the Redbrands' central command and gathering space. When official business isn't in session, it transforms into a common area where the fortress's guards can unwind during their off hours.
+This area functions as the Lavender Lancers' central command and gathering space. When official business isn't in session, it transforms into a common area where the fortress's guards can unwind during their off hours.
 
 If a character listens at the door with a successful DC 10 Wisdom (Perception) check, they can overhear the villains inside immersed in a knucklebones game. This results in a mysterious clinking noise, followed by exclamations, moans, and a sudden chatter of voices as bets are settled. If the party abruptly enters the room, they automatically take the occupants by surprise.
 
@@ -893,7 +896,7 @@ Four burly mudblood warriors, donned in scarlet cloaks, have gathered around one
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
 
-Upon the party's entrance, the Redbrands instantly identify any characters wearing scarlet cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a DC 10 Charisma (Deception) check to hoodwink the Redbrands.
+Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing scarlet cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a DC 10 Charisma (Deception) check to hoodwink the Lavender Lancers.
 
 #### Treasure
 
@@ -901,7 +904,7 @@ As for treasure, all the wealth on the table has been wagered in the game. (Knoc
 
 #### Awarding Skill & Destiny Points
 
-For Skill & Destiny Points, divide 400 XP equally among the characters if the party manages to vanquish the Redbrands in this room.
+For Skill & Destiny Points, divide 400 XP equally among the characters if the party manages to vanquish the Lavender Lancers in this room.
 
 ### 11. Runesmith's Workshop
 
@@ -929,7 +932,7 @@ Regarding treasure, most of the materials in this room lack value, but three sma
 
 ### 12. Glasstaff's Quarters
 
-If the characters approach this room via the secret passage from area 7, they can catch the leader of the Redbrands, Sylas "Glasstaff" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
+If the characters approach this room via the secret passage from area 7, they can catch the leader of the Lavender Lancers, Sylas "Glasstaff" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
 
 ```
 This room features walls adorned with scarlet cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
@@ -949,7 +952,7 @@ If he successfully escapes, Sylas flees to area 1 (through areas 7 and 8) and re
 
 In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Sylas was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Runes with the wizard in exchange for his assistance and loyalty.
 
-Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Redbrand outlaws.
+Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Lavender Lancer outlaws.
 
 If he feels threatened, Sylas uses his staff of defense to cast mage armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Sylas employs the shield power of his staff for extra protection.
 
@@ -958,7 +961,7 @@ Should he be reduced to 8 or fewer hit points with no means of escape, Sylas sur
 If questioned while in captivity, Sylas provides the following information, all of which is accurate:
 
 * The Black Spider is a drow (dark elf).
-* The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Redbrands have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
+* The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Lavender Lancers have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
 * The Black Spider is searching Tide Echo Cavern for the Forge of Runes. Dwarves and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
@@ -969,14 +972,14 @@ In terms of developments, various papers and notes are neatly stacked on the des
 ```
 Lord Alabaster,
 
-Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any dwarven maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
+Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
 ```
 
 In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Sylas faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
 
 #### Treasure
 
-Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Redbrands over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
+Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Lavender Lancers over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
 For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
@@ -1283,7 +1286,7 @@ In the tower, a youthful green dragon named Venomfang recently claimed dominion.
 
 An aged wooden chest, its lid broken open and resting on the tower floor, safeguards the last remnants of a deceased wizard's wealth. The chest contains 800 sp, 150 gp, four silver goblets adorned with moonstones (valued at 60 gp each), a scroll of misty step, and a scroll of lightning bolt. Venomfang takes great delight in surveying its hoard.
 
-Remarkably, the most intriguing item in the hoard is often overlooked by the dragon. Beneath the coins lies a rustic battleaxe of dwarven craftsmanship. Dwarvish runes on the axe head read "Hew," and the rust obscures its true nature. Hew is a +1 battleaxe that deals maximum damage when used against plant creatures or wooden objects. The axe's creator, a molekin smith, had a long-standing feud with the forest's dryads, from whom he gathered firewood. Anyone wielding this axe feels discomfort while traversing a forest.
+Remarkably, the most intriguing item in the hoard is often overlooked by the dragon. Beneath the coins lies a rustic battleaxe of molekin craftsmanship. Dwarvish runes on the axe head read "Hew," and the rust obscures its true nature. Hew is a +1 battleaxe that deals maximum damage when used against plant creatures or wooden objects. The axe's creator, a molekin smith, had a long-standing feud with the forest's dryads, from whom he gathered firewood. Anyone wielding this axe feels discomfort while traversing a forest.
 
 #### Awarding Skill & Destiny Points
 
@@ -1305,7 +1308,7 @@ For Skill & Destiny Points, divide 100 XP equally among the characters if the pa
 
 ### **9. The Herbalist's Shop**
 
-In the past, this establishment served as an herb and alchemy shop owned by Mirna Dendrar's family, who now resides in Tuntin (see encounter 5 in the "Redbrand Hideout" section).
+In the past, this establishment served as an herb and alchemy shop owned by Mirna Dendrar's family, who now resides in Tuntin (see encounter 5 in the "Lavender Lancer Hideout" section).
 
 ```
 The ruined shop is replete with dilapidated storage shelves and broken furniture. Among the weeds and rubble, you'll spot fragments of glass and pottery, alongside decaying books and casks.
@@ -1450,7 +1453,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Redbrands and claim to be emissaries sent by Sylas "Glasstaff" Alabaster, the Redbrand leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Redbrands work for the Black Spider, making it unlikely that the Vermkinoids will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glasstaff" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Vermkinoids will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
@@ -1507,7 +1510,7 @@ The Mountainmaws have been raiding caravans along the Crimson Road and the Tride
 Old casks of salted meat and sacks of decaying grain fill this storage space. Among the supplies, you see a bloodied suit of chain mail, a heavy crossbow, and a drawn longsword bearing the emblem of Reddwall on its hilt. While the stored goods here are inedible by civilized standards, the Vermkins can endure them when fresher food is unavailable.
 ```
 
-One small cask contains an exceptional dwarven brandy, overlooked by the Vermkins due to its size. The cask holds the equivalent of twenty servings. Consuming a glass of this brandy restores 1 hit point, but drinking two glasses within an hour results in being poisoned for one hour.
+One small cask contains an exceptional molekin brandy, overlooked by the Vermkins due to its size. The cask holds the equivalent of twenty servings. Consuming a glass of this brandy restores 1 hit point, but drinking two glasses within an hour results in being poisoned for one hour.
 
 **Ulfric's Gear.** The chain mail and longsword belong to Ulfric Warwinter. Ulfric will be appreciative if at least his longsword is returned to him.
 
@@ -1695,13 +1698,13 @@ Divide 500 XP equally among the characters if they conquer the hobVermkin war ba
 
 Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
-With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient dwarven mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
+With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient molekin mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
 
 ## **Part 4: Tide Echo Cavern**
 
 Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
-Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted dwarven weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
+Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
 
 The adventurers now have an opportunity to assist Burrowbard, avenge his kin, and thwart the Black Spider's sinister plans. Furthermore, the rumored hoard of potent magic hidden within the mines promises a valuable prize.
 
@@ -2053,13 +2056,13 @@ Nezznar the Black Spider is accompanied by four formidable giant spiders who def
 
 Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for forcing the party's surrender (although the drow does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the drow villain.
 
-**Statue.** The statue represents Dumathoin, the dwarven god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful DC 15 Intelligence (Investigation) check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Strength check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a DC 15 Dexterity saving throw. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
+**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful DC 15 Intelligence (Investigation) check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Strength check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a DC 15 Dexterity saving throw. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
 **Table.** The table is strewn with notes and maps, showcasing Nezznar's exploration efforts within the mine. Amid the paperwork lies a black leather sack containing treasure (see the "Treasure" section).
 
 #### Roleplaying Nezznar
 
-Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Redbrands to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
+Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Lavender Lancers to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
 
 #### **Developments**
 
@@ -2069,7 +2072,7 @@ If the characters capture Nezznar and deliver him to the town master's hall in T
 
 #### **Treasure**
 
-Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 190 electrum pieces (ep), 130 bronze coins (gp), 15 platinum pieces (pp), nine small gemstones (each valued at 10 gp), and a dwarven ale mug crafted from hammered electrum (valued at 100 gp).
+Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 190 electrum pieces (ep), 130 bronze coins (gp), 15 platinum pieces (pp), nine small gemstones (each valued at 10 gp), and a molekin ale mug crafted from hammered electrum (valued at 100 gp).
 
 #### **Awarding Skill & Destiny Points**
 
