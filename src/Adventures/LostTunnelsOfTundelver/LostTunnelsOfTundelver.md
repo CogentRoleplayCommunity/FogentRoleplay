@@ -103,6 +103,10 @@ Behind it a cloaked figure with red eyes shakes it's head. In a womanly elegant 
 
 # Chapter 1: Feral Arrows
 
+![img](RoadToTuntin.png)
+
+[Talespire Map](https://talestavern.com/slab/goblin-ambush-on-the-triboar-trail/)
+
 To commence this adventure, the player characters find themselves on a mission to safeguard a wagon laden with essential provisions and supplies. Their journey unfolds as they navigate the route from the bustling city of Reddwall towards the quaint town of Tuntin. This expedition leads them on a southward course along the well-trodden Crimson Road, eventually intersecting with the eastward-bound Trident Trail, depicted on the accompanying overland map. As they make their way through this picturesque landscape, with Tuntin tantalizingly close—just a half-day's march away—trouble rears its head in the form of a raiding party comprised of Vermkins hailing from the notorious Mountainmaw tribe.
 
 Now, when you're ready to initiate the adventure, read the enclosed text. Should you choose to devise an alternative story hook, proceed to the subsequent paragraph, and adapt the particulars to suit your narrative, disregarding any references to guiding the wagon.
@@ -130,6 +134,8 @@ The wagon's cargo is a diverse assortment of mining supplies and foodstuffs, inc
 When you're prepared, proceed to the next section, "Vermkin Arrows," to initiate the adventure.
 
 ## Feral Ambush
+
+![](LostTunnelsOfTundelver.png)
 
 To initiate the encounter, please read the following text aloud.
 
