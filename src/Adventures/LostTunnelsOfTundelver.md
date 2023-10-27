@@ -6,7 +6,7 @@ In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route t
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Lavender Lancers, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Lavender Lancers seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Lavender Lancer hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Lavender Lancers' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
-Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of orcs lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
+Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
 Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
@@ -24,7 +24,7 @@ She has a Doppler ally named Monteith, who acts as his mistresses butler and per
 
 ## **THE FORGOTTEN REALMS**
 
-Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, molekin mines, and formidable monsters.
+Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sogrekinery world where barbarians clash with malevolent sogrekinerers to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, elven cities, molekin mines, and formidable monsters.
 
 The adventure detailed here unfolds in the world of the Forgotten Realms, a prime example of the latter type of setting. In the Realms, knights venture into the crypts of the long-fallen molekin kings of Delzoun in search of glory and treasure. Rogues navigate the dimly lit alleyways of bustling cities like Reddwall and Baldur's Gate. Clerics, devout servants of the gods, wield both mace and spell to combat the ominous threats that plague the land. Wizards delve into the ruins of the collapsed Netherese empire, exploring secrets that exist in the shadows. Within dungeons, caverns, ancient cities, and vast untamed wilderness, dragons, giants, demons, and other horrifying monstrosities lie in
 
@@ -339,7 +339,7 @@ Ulfric Warwinter, a captive mudblood warrior, is held securely bound on the sout
 
 The Vermkin leader, Yeek, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeek proposes a parley. If the adventurers agree, he urges them to eliminate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin’s head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeek attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
 
-Should the characters refuse to parley, Yeek forcibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
+Should the characters refuse to parley, Yeek fogrekinibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
 Ulfric Warwinter, a kindhearted mudblood male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Lords’ Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Cavern, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
@@ -497,7 +497,7 @@ The innkeeper is a friendly, short young mudblood named Toblen Stonehill. Origin
 **Rumors at Stonehill Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Stonehill Inn include:
 
 * Narth, an elderly farmer, shares that "Sister Garaele, the overseer of the Shrine of Luck, recently returned to town, injured and fatigued."
-* Elsa, a talkative barmaid, reveals that "Daran Edermath, the orchard keeper, is a former adventurer."
+* Elsa, a talkative barmaid, reveals that "Daran Edermath, the ogrekinhard keeper, is a former adventurer."
 * Lanar, a miner, reports that "Ore raiders have been sighted at the east end of Trident Trail, and the town master is searching for someone to handle the situation."
 * Trilena, the innkeeper's wife, discloses the tragic story of Thel Dendrar, a local woodcarver who confronted the Lavender Lancers and was subsequently murdered. She also reveals that Thel's family has gone missing. Unbeknownst to Trilena and the townsfolk, the Lavender Lancers have taken Thel's wife and children to their hidden hideout.
 * Pip, Toblen's young son, recounts Carp, Qelline Alderleaf's son, who discovered a secret tunnel in the woods, barely escaping the Lavender Lancers' pursuit.
@@ -517,9 +517,9 @@ Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tha
 
 **Barton's News.** If the characters inquire about the state of business in Tuntin, Barton mentions that the Lavender Lancers are making life difficult for everyone. They are extorting local businesses and defying the authority of the townmaster. If the characters express a desire to take action, he informs them that the Lavender Lancers are regular patrons at the Sleeping Giant tap house.
 
-### Edermath Orchard
+### Edermath ogrekinhard
 
-Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-elf, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
+Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple ogrekinhard. He is a robust half-elf, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
 
 Daran is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Daran keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
@@ -586,14 +586,14 @@ This dilapidated tap house is a grimy and perilous watering hole situated at the
 ### **The Town Master's Hall**
 
 ```
-The town master's hall is a solid structure, adorned with sturdy stone walls, a sloping wooden roof, and a bell tower at the rear. A public notice, written in Common, is affixed to a board next to the front door. It announces, "REWARD - Orcs near Wyvern Tor! Those willing to confront the orc threat should inquire within." The notice is stamped with the town's seal and features an inscrutable signature.
+The town master's hall is a solid structure, adorned with sturdy stone walls, a sloping wooden roof, and a bell tower at the rear. A public notice, written in Common, is affixed to a board next to the front door. It announces, "REWARD - ogrekins near Wyvern Tor! Those willing to confront the ogrekin threat should inquire within." The notice is stamped with the town's seal and features an inscrutable signature.
 ```
 
 Tuntin does not have a functioning government, but the residents elect a town master annually. The town master serves as an arbiter in minor disputes and manages any essential records. The present town master is Harbin Wester, a rotund and pompous elderly mudblood who works as a banker. However, he is entirely cowed by the Lavender Lancers and dismisses them as "just a group of mercenaries, not much trouble, really."
 
 The town master's hall includes a small yet functional jail in its cellar, featuring two cells. Harbin holds the keys to these cell doors.
 
-**Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of orcs near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
+**Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
 
 **Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
@@ -623,7 +623,7 @@ It's almost inevitable that a confrontation with the Lavender Lancers occurs wit
 
 If the characters decide to confront the Lavender Lancers at the Sleeping Giant, you can describe the scene as follows:
 
-"The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
+"The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered pogrekinh, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
 
 One of the thugs spits on the ground. "Well, well," he sneers. "Here's a whole bunch of little pups. What's your business here, pups? Did you come to yap at us?"
 
@@ -665,7 +665,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Ceilings.** The height of passages and chambers is typically 10 feet, unless otherwise specified.
 
-**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
+**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be fogrekinefully broken down with a successful DC 20 Strength check.
 
 **Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
 
@@ -676,7 +676,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 > If the characters charm or successfully interrogate any of the Lavender Lancers, they can acquire valuable information, including the hideout's location under Tresendar Manor and the following insights:
 >
 > 1. The leader of the Lavender Lancers is a mudblood runesmith named Glasstaff, whose nickname originates from his staff, made entirely of glass.
-> 2. The Black Spider, a mysterious figure, has hired the Lavender Lancers to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinforce the Lavender Lancers and provide additional strength.
+> 2. The Black Spider, a mysterious figure, has hired the Lavender Lancers to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinfogrekine the Lavender Lancers and provide additional strength.
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
 > 4. The Lavender Lancers hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
 
@@ -778,7 +778,7 @@ Two Lavender Lancer ruffians donned in scarlet cloaks serve as guards in this pl
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful DC 10 Dexterity check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Strength check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful DC 10 Dexterity check. Alternatively, they can be fogrekinefully torn open through sheer strength with a successful DC 22 Strength check.
 
 #### Captives
 
@@ -844,7 +844,7 @@ Notably, the bottom of the crevasse has an eerie chill. When viewed with a detec
 
 As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 160 silver pieces, 120 bronze coins, five malachite gems, each worth 15 bronze coins, two potions of healing, and a scroll of augury.
 
-Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Tresendar, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an orc assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
+Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Tresendar, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an ogrekin assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
 
 ### Awarding Skill & Destiny Points
 
@@ -996,7 +996,7 @@ Depending on which NPCs the characters have interacted with and the clues or que
 * Sister Garaele has requested that the characters visit the banshee Agatha in the ruined town of Conyberry to inquire about Bowgentle's spellbook.
 * Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Owl Well.
 * Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Tide Echo Cavern, or both.
-* Townmaster Harbin Wester desires the characters to investigate an orc encampment near Wyvern Tor and remove the orcs from the area.
+* Townmaster Harbin Wester desires the characters to investigate an ogrekin encampment near Wyvern Tor and remove the ogrekins from the area.
 * Ulfric Warwinter's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
 
 Each of these potential quests corresponds to a section in this phase of the adventure. The characters can take their time in Tuntin to rest and acquire supplies. Afterward, they must choose one of these storylines to investigate and set out for the appropriate destination.
@@ -1043,7 +1043,7 @@ Day Roll Night Roll Result
 
 **HobVermkins.** This group of hobVermkins actively seeks the adventurers in hopes of collecting a bounty. They possess information about the location of Mountainmaw Castle but won't share directions unless charmed. One of the hobVermkins carries a roughly drawn sketch of one of the party members, along with the text "25 bronze coins for this one" and a black spider symbol beneath it.
 
-**Orcs.** These scouts are affiliated with the band currently established at Wyvern Tor. As they patrol the area, they search for travelers to ambush and homesteads to plunder.
+**ogrekins.** These scouts are affiliated with the band currently established at Wyvern Tor. As they patrol the area, they search for travelers to ambush and homesteads to plunder.
 
 **Owlbear.** This ravenous predator catches wind of the characters' scent and relentlessly pursues them.
 
@@ -1142,7 +1142,7 @@ Lumgrove's structures have largely crumbled or are gradually being reclaimed by 
 
 Ruined buildings consist of empty stone shells with walls ranging from 5 to 8 feet high. Their roofs have long vanished, leaving behind piles of debris within the walls. The debris makes movement challenging, as per "Difficult Terrain" rules in the rulebook.
 
-Intact buildings are deteriorated, makeshift stone cottages that remain standing. Their wooden doors are swollen, requiring a successful DC 10 Strength check to force open. These buildings feature narrow windows covered by wooden shutters containing 6-inch wide arrow slits, providing three-quarters cover to creatures on one side against attacks from the other side (as per "Cover" in the rulebook). Dusty furnishings, such as simple wooden chairs and tables, are present in most intact buildings.
+Intact buildings are deteriorated, makeshift stone cottages that remain standing. Their wooden doors are swollen, requiring a successful DC 10 Strength check to fogrekine open. These buildings feature narrow windows covered by wooden shutters containing 6-inch wide arrow slits, providing three-quarters cover to creatures on one side against attacks from the other side (as per "Cover" in the rulebook). Dusty furnishings, such as simple wooden chairs and tables, are present in most intact buildings.
 
 **Trees and Brush.** Trees reach an average height of 30 to 40 feet and offer cover. Brush consists of large bushes that create difficult terrain.
 
@@ -1211,7 +1211,7 @@ Ash Puff: When a zombie sustains damage for the first time, any living creature 
 This modest house is where Reidoth sets up his camp when he visits Lumgrove.
 
 ```
-In contrast to the nearby dilapidated structures, this small house seems to be in relatively better shape. Reinforced with heavy iron bands, the doors and thick shutters protect the windows.
+In contrast to the nearby dilapidated structures, this small house seems to be in relatively better shape. Reinfogrekined with heavy iron bands, the doors and thick shutters protect the windows.
 ```
 
 Reidoth is a lean, white-bearded mudblood who prefers brevity in his speech. Although he doesn't receive many visitors, he offers a reasonable level of hospitality.
@@ -1220,7 +1220,7 @@ Reidoth excels at avoiding the ash zombies that now inhabit the village and navi
 
 #### Developments
 
-If the characters inquire about Mountainmaw Castle, Reidoth readily offers directions. As a member of the Emerald Enclave, a widely-spread organization of wilderness survivalists dedicated to preserving the natural balance and addressing threats to it, he is well-aware of the need to protect this equilibrium. The Enclave strives to maintain harmony between the elemental forces of the world, prevent the excesses of civilization and wilderness from clashing, and support those facing the dangers of the wilds. Reidoth considers the Vermkins as a perilous threat to this delicate balance.
+If the characters inquire about Mountainmaw Castle, Reidoth readily offers directions. As a member of the Emerald Enclave, a widely-spread organization of wilderness survivalists dedicated to preserving the natural balance and addressing threats to it, he is well-aware of the need to protect this equilibrium. The Enclave strives to maintain harmony between the elemental fogrekines of the world, prevent the excesses of civilization and wilderness from clashing, and support those facing the dangers of the wilds. Reidoth considers the Vermkins as a perilous threat to this delicate balance.
 
 Regarding Tide Echo Cavern, Reidoth refuses to disclose its location but offers to guide the party there in exchange for a favor. His request is for them to confront the dragon in area 7. If they succeed in this daunting task, Reidoth will uphold his end of the bargain but will not accompany the party inside the mine.
 
@@ -1370,7 +1370,7 @@ A faction known as the Cult of the Dragon seeks to forge alliances with the migh
 Initially, this small farmhouse may appear as another uninhabited dwelling. However, all doors are shut, and windows remain shuttered.
 ```
 
-The cottage's doors are securely barred from the inside, demanding a successful DC 20 Strength check to forcibly open. Similarly, the shutters are barred from within, and they can be forced open with a successful DC 15 Strength check.
+The cottage's doors are securely barred from the inside, demanding a successful DC 20 Strength check to fogrekinibly open. Similarly, the shutters are barred from within, and they can be fogrekined open with a successful DC 15 Strength check.
 
 Inside the house, six mudblood cultists are hidden. Four of them stand guard, with two in each room, while the rest rest in the larger chamber. These cultists wear black cloaks fashioned to resemble dragon wings and don black leather masks with stylized dragon horns. They are fluent in Common as well as Draconic.
 
@@ -1392,23 +1392,23 @@ Divide 150 XP equally among the characters if the party successfully defeats or 
 
 ## Wyvern Tor
 
-Wyvern Tor, a prominent landmark in the rugged hills northeast of the Sword Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyvern Tor to the south. In the past, Wyvern Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyvern Tor include a band of orcs and their ogre ally.
+Wyvern Tor, a prominent landmark in the rugged hills northeast of the Sword Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyvern Tor to the south. In the past, Wyvern Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyvern Tor include a band of ogrekins and their ogre ally.
 
-The orcs are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
+The ogrekins are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
 
-### Orc Camp
+### ogrekin Camp
 
-Wyvern Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden orc camp takes time. The party can attempt one DC 15 Wisdom (Perception) check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
+Wyvern Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one DC 15 Wisdom (Perception) check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
 
 Once the characters find the camp, describe the following:
 
 ```
-As you ascend a rugged ridge on the lower slopes of the hill, a faint smell of smoke lingers in the air. About fifty yards away, a cave entrance opens at the base of a ravine. Hunkered down by a boulder twenty yards outside the cave, keeping watch, is a solitary orc.
+As you ascend a rugged ridge on the lower slopes of the hill, a faint smell of smoke lingers in the air. About fifty yards away, a cave entrance opens at the base of a ravine. Hunkered down by a boulder twenty yards outside the cave, keeping watch, is a solitary ogrekin.
 ```
 
-If the characters can quietly and efficiently eliminate the lone orc, they have the chance to surprise the orcs inside the cave. If the sentry spots the characters sneaking up or is not silenced during the surprise round, the orc will retreat back into the cave to warn the others.
+If the characters can quietly and efficiently eliminate the lone ogrekin, they have the chance to surprise the ogrekins inside the cave. If the sentry spots the characters sneaking up or is not silenced during the surprise round, the ogrekin will retreat back into the cave to warn the others.
 
-The marauders within the cave consist of Brughor Axe-Biter (an orc with 30 hit points), six ordinary orcs, and a filthy ogre named Gog. Gog fights until slain, while the orcs fight until Brughor is killed, at which point any remaining orcs will flee.
+The marauders within the cave consist of Brughor Axe-Biter (an ogrekin with 30 hit points), six ordinary ogrekins, and a filthy ogre named Gog. Gog fights until slain, while the ogrekins fight until Brughor is killed, at which point any remaining ogrekins will flee.
 
 #### Treasure
 
@@ -1416,7 +1416,7 @@ Brughor's band plundered several homesteads to the north on their way to Wyvern 
 
 #### Awarding Skill & Destiny Points
 
-For Skill & Destiny Points, completing the quest and fulfilling a promise from Old Owl Well, divide 1,250 XP equally among the characters if the party handles the orcs and the ogre at Wyvern Tor.
+For Skill & Destiny Points, completing the quest and fulfilling a promise from Old Owl Well, divide 1,250 XP equally among the characters if the party handles the ogrekins and the ogre at Wyvern Tor.
 
 ## **Mountainmaw Castle**
 
@@ -1429,7 +1429,7 @@ Mountainmaw Castle is not the work of Vermkins, nor is that its original name. C
 The centuries have not treated Mountainmaw Castle kindly. The Vermkins have attempted to fortify the weakest areas beneath its collapsing towers with crude timbers, but it's merely a matter of time before the entire structure collapses.
 
 * **Ceilings.** Ceilings are 15 feet high unless otherwise noted.
-* **Doors.** Interior doors consist of wood reinforced with iron bands and lack locks or keyholes. A successful DC 15 Strength check is needed to force open a door barricaded shut.
+* **Doors.** Interior doors consist of wood reinfogrekined with iron bands and lack locks or keyholes. A successful DC 15 Strength check is needed to fogrekine open a door barricaded shut.
 * **Floors.** Cracked and uneven flagstones conceal a dirt floor underneath.
 
  **Light.**  A minimal amount of natural light filters through the arrow slits around the castle, providing dim light in most areas during the day. At night, all areas are dark.
@@ -1600,7 +1600,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful DC 15 Dexterity check, or simply forced open with a successful DC 25 Strength check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful DC 15 Dexterity check, or simply fogrekined open with a successful DC 25 Strength check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1654,7 +1654,7 @@ When a character listens at the door, they discern the sounds of two voices lock
 This chamber has been crudely arranged as a living space, with thick furs serving as makeshift carpets, ancient trophies adorning the walls, and a large bed situated in the north. A brazier filled with glowing coals emits a warm light. To the south of the room stands a round table surrounded by several chairs. Near the table, on the floor, lies an unconscious and severely beaten molekin.
 ```
 
-King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer force and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
+King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer fogrekine and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
 
 Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female drow. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the drow. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
 
@@ -1696,15 +1696,15 @@ Divide 500 XP equally among the characters if they conquer the hobVermkin war ba
 
 ### **What's Next?**
 
-Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider orchestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
+Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider ogrekinhestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
 With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient molekin mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
 
 ## **Part 4: Tide Echo Cavern**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during orc invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
-Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, forcing him to proceed with extreme caution.
+Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, fogrekining him to proceed with extreme caution.
 
 The adventurers now have an opportunity to assist Burrowbard, avenge his kin, and thwart the Black Spider's sinister plans. Furthermore, the rumored hoard of potent magic hidden within the mines promises a valuable prize.
 
@@ -1796,10 +1796,10 @@ These dead-end passages mark areas where the miners abandoned their efforts, opt
 
 ### **3. Old Entrance**
 
-The southern tunnel once served as the original entrance to Tide Echo Cavern but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when orcs laid siege to the mines. The fallen still lie where they perished.
+The southern tunnel once served as the original entrance to Tide Echo Cavern but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when ogrekins laid siege to the mines. The fallen still lie where they perished.
 
 ```
-In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and gnome miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of dwarves and others orcs, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
+In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and gnome miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of dwarves and others ogrekins, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
 ```
 
 Clutching the ceiling like bats are ten stirges. These creatures find little living prey in the mines and are ravenous. If the characters are looking down at the skeletons on the floor, the stirges are likely to catch them by surprise. Characters not watching the ceiling will be surprised, unless their passive Wisdom (Perception) score exceeds the total of the stirges' Dexterity (Stealth) check (roll once for all of them). Characters who avoid surprise will hear a flapping noise as the stirges descend to attack.
@@ -1811,7 +1811,7 @@ The lanterns and carvings of miners at work were originally meant to welcome new
 This chamber once functioned as a guardroom protecting the nearby mine entrance, but it was overrun early in the fighting when the ores launched their attack.
 
 ```
-The room is now filled with shattered stone benches and heaps of rubble from a partially collapsed ceiling. Among the rubble are the bones of several dwarves and orcs.
+The room is now filled with shattered stone benches and heaps of rubble from a partially collapsed ceiling. Among the rubble are the bones of several dwarves and ogrekins.
 ```
 
 The round after any living creature enters this chamber, the bones begin to stir and reassemble, forming nine skeletons. They will fight until destroyed.
@@ -1833,7 +1833,7 @@ Behind the counter, a securely locked iron strongbox can be found, requiring the
 This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Cavern between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Wisdom (Perception) check to do so.
 
 ```
-Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen dwarves and orcs, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
+Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen dwarves and ogrekins, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
 ```
 
 Three ghouls from the pack in area 9 are present, cracking and gnawing at the ancient bones in the hopes of finding some remaining morsels of marrow. Eager for a fresh meal, the ghouls attack immediately.
@@ -1865,12 +1865,12 @@ For the most part, the fungi is innocuous. Interestingly, the green-glowing fung
 This expansive chamber once functioned as the miners' communal area, serving as both a banquet hall and meeting place where they'd unwind after a hard day's labor.
 
 ```
-The cavern is divided into three distinct sections: elevated ledges at either end, and a central lower area. Stone stairs are carved into the sides, leading up to the ledges. In the middle section, you'll find two substantial tables accompanied by old braziers. There's a smaller table on the eastern ledge. A somber display of skeletal remains sprawled across the floor bears witness to the intense conflicts that transpired here, involving dwarves, gnomes, orcs, and ogres.
+The cavern is divided into three distinct sections: elevated ledges at either end, and a central lower area. Stone stairs are carved into the sides, leading up to the ledges. In the middle section, you'll find two substantial tables accompanied by old braziers. There's a smaller table on the eastern ledge. A somber display of skeletal remains sprawled across the floor bears witness to the intense conflicts that transpired here, involving dwarves, gnomes, ogrekins, and ogres.
 ```
 
 In the shadows on the western ledge, seven ghouls hide, vigilant for any light or sound elsewhere in the cave. When alerted, they swiftly descend to engage their prey, their ravenous hunger driving them to battle until they are vanquished.
 
-The 10-foot-high escarpments require a successful DC 12 Strength (Athletics) check to climb. A fall or forceful push from the top results in 1d6 bludgeoning damage, with the unfortunate individual landing in a prone position.
+The 10-foot-high escarpments require a successful DC 12 Strength (Athletics) check to climb. A fall or fogrekineful push from the top results in 1d6 bludgeoning damage, with the unfortunate individual landing in a prone position.
 
 ### **10. Dark Pool**
 
@@ -1884,7 +1884,7 @@ A passage leads southward from this area, while a set of steps ascends to the ea
 
 The pool's central region reaches a depth of 20 feet. The northeast stream measures 3 feet in depth, and the passage's ceiling hovers 2 to 3 feet above the water's surface. Characters can wade through the stream effortlessly, reaching area 18.
 
-Upon examining the pool's depths, an adventurous character stumbles upon the well-preserved skeleton of a mudblood runesmith from ancient Tuntin. The wizard met his demise while defending the mines against orc invaders, and his ribcage still clutches several orc arrows.
+Upon examining the pool's depths, an adventurous character stumbles upon the well-preserved skeleton of a mudblood runesmith from ancient Tuntin. The wizard met his demise while defending the mines against ogrekin invaders, and his ribcage still clutches several ogrekin arrows.
 
 #### Treasure
 
@@ -1892,7 +1892,7 @@ The wizard's remains bear two platinum rings (valued at 75 gp each) and clasp a 
 
 ### **11. North Barracks**
 
-The eastern door is barricaded from within, necessitating a DC 20 Strength check to force it open. A character who listens at either door and passes a DC 10 Wisdom (Perception) check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
+The eastern door is barricaded from within, necessitating a DC 20 Strength check to fogrekine it open. A character who listens at either door and passes a DC 10 Wisdom (Perception) check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
 
 ```
 This chamber houses old stone bunks lining the walls, with a warm glow emanating from a central iron brazier.
@@ -1917,7 +1917,7 @@ Similar to area 8, this cavern represents a significant hindrance for Nezznar's 
 ```
 The cavern boasts a massive blast furnace accompanied by a mechanical bellows, powered by a dry waterwheel. The furnace currently stands dormant and devoid of light. The room is filled with piles of coal and carts loaded with unprocessed ore. Two passages extend west and south, while another set of stairs climbs to the east. The dry channel leading out of the cave exits to the north and east.
 
-Numerous lifeless corpses of dwarves and orcs, still adorned in tattered armor, are scattered throughout the room. Hovering over them is a skull, enshrouded in an eerie green flame.
+Numerous lifeless corpses of dwarves and ogrekins, still adorned in tattered armor, are scattered throughout the room. Hovering over them is a skull, enshrouded in an eerie green flame.
 ```
 
 Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the mudblood runesmith allied with the Tundelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
@@ -1926,12 +1926,12 @@ This impressive chamber previously served as the hub of Tide Echo Cavern's minin
 
 ### 13. Starry Cavern
 
-The remnants of a fierce magical battle waged centuries ago between orcs and their hired wizards can still be witnessed in this area, evident in the structural damage and the scattered skeletal remains. This cavern, once the target of their conflict, now offers an awe-inspiring spectacle.
+The remnants of a fierce magical battle waged centuries ago between ogrekins and their hired wizards can still be witnessed in this area, evident in the structural damage and the scattered skeletal remains. This cavern, once the target of their conflict, now offers an awe-inspiring spectacle.
 
 ```
 The cavern's ceiling sparkles with dazzling minerals, reflecting light in such a way that it emulates a starry night sky. Dozens of skeletons, some crushed beneath fallen debris, litter the cavern floor.
 
-This spacious cavern accommodates two standalone structures, unlike the molekin-sized architecture found elsewhere in the mines. Both of these stone buildings are designed for mudblood-sized inhabitants. The masonry walls of these structures appear battered and scorched, with their double doors cracked and marred. A rugged escarpment divides the cavern, with a flight of stairs chiseled into it. Passageways branch out to the north, south, and west.
+This spacious cavern accommodates two standalone structures, unlike the molekin-sized architecture found elsewhere in the mines. Both of these stone buildings are designed for mudblood-sized inhabitants. The masonry walls of these structures appear battered and scogrekinhed, with their double doors cracked and marred. A rugged escarpment divides the cavern, with a flight of stairs chiseled into it. Passageways branch out to the north, south, and west.
 ```
 
 For a detailed description of the damaged buildings, please refer to sections 14 and 15. While the minerals in the ceiling may be visually captivating, they possess neither magical nor monetary value.
@@ -1940,15 +1940,15 @@ Characters proficient in Arcana may sense a subtle undercurrent of magic in the 
 
 ### 14. Wizard's Quarters
 
-The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them forcefully requires a Strength check with a DC of 15.
+The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them fogrekinefully requires a Strength check with a DC of 15.
 
 ```
-Within, the room bears the marks of destruction, evident in the ash, dust, fire-blackened walls, and heaps of debris under the sagging ceiling. The furnishings, including tables, chairs, bookshelves, and beds, have been charred or shattered, but they remain surprisingly intact. An iron chest, scorched by the flames, rests near the base of one of the beds.
+Within, the room bears the marks of destruction, evident in the ash, dust, fire-blackened walls, and heaps of debris under the sagging ceiling. The furnishings, including tables, chairs, bookshelves, and beds, have been charred or shattered, but they remain surprisingly intact. An iron chest, scogrekinhed by the flames, rests near the base of one of the beds.
 ```
 
 The spirit of Mormesk, the last wizard to perish in this room, still haunts the area. Initially unseen, Mormesk materializes when a living being enters the room. Once a formidable mage, his existence was snuffed out during the climactic battle that devastated the mines. Centuries of resentment have warped his soul into a malevolent apparition.
 
-Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scorched chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
+Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scogrekinhed chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
 
 This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Runes (area 15), most of whom were mudblood. The furnishings reflect their mudblood-sized proportions.
 
@@ -1958,11 +1958,11 @@ Mormesk speaks in somber, whispering tones. Upon rising from the floor, the wrai
 
 If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a DC 10 Charisma (Persuasion) check to convince the wraith of its value.
 
-However, the wraith will never relinquish the wooden pipe from the scorched chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Runes (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
+However, the wraith will never relinquish the wooden pipe from the scogrekinhed chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Runes (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
 
 #### Treasure
 
-The scorched chest is unlocked and contains 1,100 copper pieces, 160 silver pieces, 50 electrum pieces, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
+The scogrekinhed chest is unlocked and contains 1,100 copper pieces, 160 silver pieces, 50 electrum pieces, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
 Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 Intelligence (Investigation) check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
@@ -1971,7 +1971,7 @@ Several magically preserved tomes remain on the shelves, primarily historical in
 In this chamber, the collaboration between the wizards allied with the dwarves and gnomes of Tundelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful DC 15 Strength check. The western double doors have suffered similar damage but stand slightly ajar.
 
 ```
-This expansive workshop has been marred by the remnants of an ancient spell battle that ravaged the mine. Scorched worktables occupy two corners of the room, and the plaster has been seared off the stone walls. In the room's center, a stone pedestal cradles a small brazier, from which an eerie green flame dances and crackles. Strangely, the brazier and its pedestal have remained untouched by the destructive forces that swept through this area.
+This expansive workshop has been marred by the remnants of an ancient spell battle that ravaged the mine. Scogrekinhed worktables occupy two corners of the room, and the plaster has been seared off the stone walls. In the room's center, a stone pedestal cradles a small brazier, from which an eerie green flame dances and crackles. Strangely, the brazier and its pedestal have remained untouched by the destructive fogrekines that swept through this area.
 
 Hovering behind the brazier with its green flame is a spherical entity, roughly four feet in diameter. Four eyestalks extend from its central mass, two on each side, with a large, unblinking eye at the creature's core.
 
@@ -1990,7 +1990,7 @@ By succeeding in a DC 15 Charisma (Deception) check, a character can trick the s
 
 On the worktable in the southeast corner of the room, you find the last items that the spectator was tasked to protect: Lightbringer and Dragonguard.
 
-**Lightbringer.** This +1 mace, crafted for a cleric of Lathander, the god of dawn, boasts a head shaped like a radiant sunburst, made from solid brass. Dubbed Lightbringer, this weapon illuminates as brightly as a torch upon command. While glowing, the mace inflicts an additional 1d6 radiant damage to undead creatures.
+**Lightbringer.** This +1 mace, crafted for a cleric of Lathander, the god of dawn, boasts a head shaped like a radiant sunburst, made from solid brass. Dubbed Lightbringer, this weapon illuminates as brightly as a togrekinh upon command. While glowing, the mace inflicts an additional 1d6 radiant damage to undead creatures.
 
 **Dragonguard.** This +1 breastplate, adorned with a gold dragon motif in its design, was made for a dhampir hero of Reddwall named Tergon. It grants its wearer advantage on saving throws against the breath weapons of creatures with the dragon type.
 
@@ -2012,7 +2012,7 @@ The stream that previously flowed from Area 10 to Area 18 once continued its jou
 This passage barely reaches a height of four feet and is cluttered with rounded boulders and pebbles. In its time, it might have served as a streambed, though no water courses through it today.
 ```
 
-The dwarves diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the orc invasion rocked Tide Echo Cavern, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
+The dwarves diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the ogrekin invasion rocked Tide Echo Cavern, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
 
 ### 18. Collapsed Cavern
 
@@ -2054,7 +2054,7 @@ Two Ferralkins flank a dark elf dressed in black leather armor and robes as they
 
 Nezznar the Black Spider is accompanied by four formidable giant spiders who defend their master to the death. If they anticipate trouble, the spiders conceal themselves behind the pillars while Nezznar cloaks himself in invisibility, positioning near the table. Roll a Dexterity (Stealth) check for the spiders. As intruders appear, the spiders will attempt to ensnare them in webs before closing in for melee combat. Nezznar joins the fray the round following the spiders' attack.
 
-Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for forcing the party's surrender (although the drow does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the drow villain.
+Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the drow does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the drow villain.
 
 **Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful DC 15 Intelligence (Investigation) check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Strength check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a DC 15 Dexterity saving throw. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
