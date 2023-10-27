@@ -6,7 +6,7 @@ In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route t
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Lavender Lancers, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Lavender Lancers seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Lavender Lancer hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Lavender Lancers' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
-Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a drow adventurer named Nezznar, and the Mountainmaw Vermkins serve him. Drow, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
+Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a spiderkin adventurer named Nezznar, and the Mountainmaw Vermkins serve him. spiderkin, for context, are a subterranean elven race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
 Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
@@ -950,7 +950,7 @@ If he successfully escapes, Sylas flees to area 1 (through areas 7 and 8) and re
 
 #### Roleplaying Sylas
 
-In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Sylas was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The drow offered to share the secrets and riches of the Forge of Runes with the wizard in exchange for his assistance and loyalty.
+In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized the opportunity in Tuntin to enrich himself. Originally assigned to establish a constabulary, he decided to gather a band of outlaws and local ruffians instead to secure his own position in town. Sylas was already familiar with the Black Spider through his contacts in the Eastern Alliance and brokered a meeting. The spiderkin offered to share the secrets and riches of the Forge of Runes with the wizard in exchange for his assistance and loyalty.
 
 Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Lavender Lancer outlaws.
 
@@ -960,7 +960,7 @@ Should he be reduced to 8 or fewer hit points with no means of escape, Sylas sur
 
 If questioned while in captivity, Sylas provides the following information, all of which is accurate:
 
-* The Black Spider is a drow (dark elf).
+* The Black Spider is a spiderkin.
 * The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Lavender Lancers have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
 * The Black Spider is searching Tide Echo Cavern for the Forge of Runes. Dwarves and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
@@ -1656,7 +1656,7 @@ This chamber has been crudely arranged as a living space, with thick furs servin
 
 King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer fogrekine and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
 
-Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female drow. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the drow. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
+Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female spiderkin. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the spiderkin. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
 
 In the event that the villains have been forewarned of an impending attack, Vyerith conceals herself behind the northeastern door, leaving it slightly ajar in anticipation of ambushing intruders from behind. King Grom holds Burrowbard as a hostage and is prepared to execute the molekin if the characters don't withdraw.
 
@@ -1702,7 +1702,7 @@ With the revelation of the location of Tide Echo Cavern, the characters are now 
 
 ## **Part 4: Tide Echo Cavern**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The drow villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
 Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, fogrekining him to proceed with extreme caution.
 
@@ -1852,7 +1852,7 @@ The contents of the kegs have long since evaporated.
 
 ### **8. FUNGI CAVERN**
 
-This cave has been a thorn in the side of Nezznar's explorations. The drow has reason to believe that the mine's magical workshops are in close proximity, but he's wary of engaging with the resident monsters in this area.
+This cave has been a thorn in the side of Nezznar's explorations. The spiderkin has reason to believe that the mine's magical workshops are in close proximity, but he's wary of engaging with the resident monsters in this area.
 
 The cavern floor is blanketed by an expanse of peculiar fungi, covering extensive sections of the terrain. This fungal growth encompasses various forms, including foot-wide puffballs, bizarre shelf fungi adorning stalagmites, and towering stalks and caps, reaching up to five feet in height. Notably, some of these puffballs emit an eerie green phosphorescent glow.
 
@@ -1912,7 +1912,7 @@ The most sizeable Ferralkin carries a pouch containing 15 cp, 13 ep, and a potio
 
 **12. Smelter Cavern**
 
-Similar to area 8, this cavern represents a significant hindrance for Nezznar's progress. The drow senses that the mine's magical forges are close, but he is hesitant to confront the guardians present in this region.
+Similar to area 8, this cavern represents a significant hindrance for Nezznar's progress. The spiderkin senses that the mine's magical forges are close, but he is hesitant to confront the guardians present in this region.
 
 ```
 The cavern boasts a massive blast furnace accompanied by a mechanical bellows, powered by a dry waterwheel. The furnace currently stands dormant and devoid of light. The room is filled with piles of coal and carts loaded with unprocessed ore. Two passages extend west and south, while another set of stairs climbs to the east. The dry channel leading out of the cave exits to the north and east.
@@ -2022,7 +2022,7 @@ This cavern is under occupation by Nezznar's subordinates, serving as both a gua
 A wide rift occupies the eastern half of this cavern. A stream emerges from the western wall, cascades into the rift, and resumes its course northward. Several ropes are anchored to iron stakes along the western edge of the rift, leading down to the chasm floor.
 ```
 
-Three Ferralkins are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male drow named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two Ferralkins in the rift ascend the ropes to join the skirmish.
+Three Ferralkins are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male spiderkin named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two Ferralkins in the rift ascend the ropes to join the skirmish.
 
 **Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful DC 10 Strength (Athletics) check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
 
@@ -2047,14 +2047,14 @@ The floor, once hidden beneath a layer of dust and debris, has been swept clear 
 Should the chamber's occupants remain unaware of the characters' presence upon their arrival, consider the following addition:
 
 ```
-Two Ferralkins flank a dark elf dressed in black leather armor and robes as they stand near the table. The drow clutches a dark staff crowned with a carved spider and regards you with a frown.
+Two Ferralkins flank a spiderkin dressed in black leather armor and robes as they stand near the table. The spiderkin clutches a dark staff crowned with a carved spider and regards you with a frown.
 
 "It appears I must handle you personally. Regrettably, it must conclude this way."
 ```
 
 Nezznar the Black Spider is accompanied by four formidable giant spiders who defend their master to the death. If they anticipate trouble, the spiders conceal themselves behind the pillars while Nezznar cloaks himself in invisibility, positioning near the table. Roll a Dexterity (Stealth) check for the spiders. As intruders appear, the spiders will attempt to ensnare them in webs before closing in for melee combat. Nezznar joins the fray the round following the spiders' attack.
 
-Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the drow does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the drow villain.
+Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the spiderkin does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the spiderkin villain.
 
 **Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful DC 15 Intelligence (Investigation) check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Strength check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a DC 15 Dexterity saving throw. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
@@ -2068,7 +2068,7 @@ Despite his intentions to eliminate the characters, Nezznar is intrigued by them
 
 The creatures from Area 18 become aware of combat noises in this room. If they have not already been dealt with, they arrive after 3 rounds and act immediately after Nezznar's giant spiders in the initiative order.
 
-If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the drow is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Tide Echo Cavern. Subsequent events involving Nezznar are at your discretion.
+If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the spiderkin is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Tide Echo Cavern. Subsequent events involving Nezznar are at your discretion.
 
 #### **Treasure**
 
@@ -2082,13 +2082,13 @@ If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster W
 
 The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful DC 15 Dexterity check to open. Nezznar (from Area 19) possesses the key.
 
-Unless the characters are maintaining a stealthy approach, any activity at the door catches the attention of Nezznar and his comrades in Area 19, prompting the drow to dispatch his giant spiders to investigate.
+Unless the characters are maintaining a stealthy approach, any activity at the door catches the attention of Nezznar and his comrades in Area 19, prompting the spiderkin to dispatch his giant spiders to investigate.
 
 ```
 The room is adorned with dusty draperies hanging along the walls. It also contains a bed and a brazier. On the cold stone floor lies a molekin, his form badly disheveled, bound, and unconscious.
 ```
 
-This chamber once belonged to the priest responsible for Dumathoin's temple (from Area 19), but Nezznar has seized it and repurposed it into a makeshift cell. The figure on the floor is Nundro, a molekin commoner, and the youngest of the three Stoneseeker brothers. Nezznar spared him due to suspicions that the molekin might possess more knowledge about the mine than he was revealing. The drow has subjected Nundro to harsh interrogations once or twice daily since his capture.
+This chamber once belonged to the priest responsible for Dumathoin's temple (from Area 19), but Nezznar has seized it and repurposed it into a makeshift cell. The figure on the floor is Nundro, a molekin commoner, and the youngest of the three Stoneseeker brothers. Nezznar spared him due to suspicions that the molekin might possess more knowledge about the mine than he was revealing. The spiderkin has subjected Nundro to harsh interrogations once or twice daily since his capture.
 
 **Developments**
 
