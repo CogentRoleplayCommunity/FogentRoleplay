@@ -14,6 +14,8 @@ Height: 3'6"
 
 ## Disposition
 
+- Cowardice
+- Cruel
 - Hostile
 - Brave in numbers
 
