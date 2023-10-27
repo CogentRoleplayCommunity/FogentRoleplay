@@ -15,11 +15,10 @@ She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exhange 
 
 Now that she has Burrowbard's map, there's no problem, well there's one problem. She needs the players' mysterious puzzle box to appease the Forge of Runes' guardian...
 
-## **Adventure Hook**
+The Black Spider is a reaccuring villain within the story. She will show up from time to time to spy and talk to the players while concealing her identity.
 
-You have the option of letting players create their own reasons for visiting Tuntin, or you can employ the following adventure hook. The backgrounds and secondary goals specified in the character sheets also offer characters motivations for journeying to Tuntin.
+She has a Doppler ally named Monteith, who acts as his mistresses butler and personal spy.
 
-"Meet Me in Tuntin": The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.
 
 ## **THE FORGOTTEN REALMS**
 
@@ -28,6 +27,76 @@ Much like a setting in a fantasy novel or movie, an adventure unfolds within a l
 The adventure detailed here unfolds in the world of the Forgotten Realms, a prime example of the latter type of setting. In the Realms, knights venture into the crypts of the long-fallen molekin kings of Delzoun in search of glory and treasure. Rogues navigate the dimly lit alleyways of bustling cities like Reddwall and Baldur's Gate. Clerics, devout servants of the gods, wield both mace and spell to combat the ominous threats that plague the land. Wizards delve into the ruins of the collapsed Netherese empire, exploring secrets that exist in the shadows. Within dungeons, caverns, ancient cities, and vast untamed wilderness, dragons, giants, demons, and other horrifying monstrosities lie in
 
 # Chapter 0: Prologue
+
+The sections acts as a session 0 to start the campaign on the right foot. This is where you manage player expectations for the campaign, set some personal boundaries, and you make characters.
+
+## Making Characters
+
+If any of your players are brandnew to Table Top Role Play Games, than I'd encourage you to steer them towards these pre-generated character sheets:
+
+- Premade 1
+- Premade 2
+- Premade 3
+- Premade 4
+- Premade 5
+
+While writing you and your players come up with your backstories, it is your job to steer your players away from any problematic decisions. Anything that would make the party less cohesive or unproductive to the story.
+
+Javk Wick's 3 rules of character creation:
+
+- No joke characters
+- No anti-social characters
+- You character can't start evil
+
+## Connections to Burrowbard Stoneseeker
+
+Burrowbard Stoneseeker, the old Molekin who has lived a full life, is a central character and plot hook for the adventure. All players are good old friends of Burrowbard. They should specify as part of their backstories how Burrowbard is intergral to their some element of their past.
+
+Burrowbard is an unquestionably kind person, someone who has come through for the player characters countless times. A true friend who likes and empowers the player characters. Beyond this, Burrowbard is a blank slate for you to tie the party together and give them someone to fight to save. By establishing Burrowbard as a sympathetic character, the party should actually care when he goes missing. They need to like him and needs to be spotless in the parties eyes.
+
+Example of connections to Burrowbard:
+
+- For bard characters, Burrowbard met said player character while learning the ropes, becoming fast friends
+- For any character, Burrowbard is a family friend, possibly their as they grew up.
+- For any character, Burrowbard helped them recover after they lost their memory
+- For magic characters, Burrowbard was at one point an adventure and steered the player character away from the darker aspects of their magic
+- He was a father figure who helped a character relearn their self worth
+
+```The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.```
+
+## Planning for Special player moments
+
+I want you to think about how you can encorporate each players' backstory into the campaign for some special player moments. Every character should have one moment, one pportunity in the story that's specific to their character. If there is an important NPC in their past (you could add them in) or important item, bring it on in. Get creative and plan to give each of your players one big moment!
+
+## Prologue Roleplay (No dice just yet)
+Roleplay a scene set around a table in a Reddwall tavern, where Burrowbard imparts the following information in a soft Scottish accent.
+
+```
+Thank you for joining me everyone. I value everyone that sits at this table and I hope you all will become as fast friends. I want to share a secret with, I need you all to retrieve an important trinket critical to a new business venture I have been investigating, which I'd like to bring each of you in on.
+
+There is a mysterious puzzle box in the which is currently being fixed by a younge tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a saftey deposit box at the local bank, were you will retrieve it. Once aquired, I need you to bring it along with the a wagon ful of mining supplies to Bart at the Stonehill Inn in Tuntin. I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own saftey.
+```
+
+At this point Burrowbard gestures to an older mudblood who has been quietly sitting since the party arrived.
+
+```
+Accompanying you is my dear old friend Ulfric Warwinter, who has been a faithful companion since I was a much younger person. He will accompany you on your journey to Tuntin when you depart, as he also has business in Tuntin.
+```
+
+If Ulfric is questioned he mentions in a pompus English accent that he needs to check in on a colleague named Sylas who's gone missing in the area.
+
+The young mudblood tinker KillroyContained within the puzzle box is an runesmithed blue crystaline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mucufin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a singel player make a CL 3 General Knowledge check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
+
+At the end of session 0 and the prologue, describe the following scene.
+
+```
+A guard patrol the interior of the bank you retrieved the mysterious puzzle box from earlier in the day before setting out on the road, wagon in tow. The security guard hears a piculiar sound from the vault area.
+
+In the dead of night, light footsteps echo across the vault that you had visted earlier, there is the sound of a scuffle and a guard collapses to the fround in a heap, stragnle marks visible around his neck. His silent attacker appears to be one of his copatriots, but the disguised flesh morphs, to reveal a translucent alien-like body. Mouthless, the creature approaches the lock box, opening it easily and notices the mysterious puzzle box is missing.
+
+Behind it a cloaked figure with red eyes shakes it's head. In a womanly elegant soft French voice "Well Montheith, it appears that someone has beat us to the punch, we migh have to get a little creative after all."
+
+```
 
 # Chapter 1: Feral Arrows
 
