@@ -1,6 +1,6 @@
 # Javk Wick
 
-![img](JavkWick.png)
+![img](Javk-Wick.png)
 
 [Link to character sheet]()
 
