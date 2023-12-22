@@ -1,6 +1,6 @@
 # Magic
 
-This document provides generalized rules for magic system mechanics built to integrate with Cogent Roleplay. Once you understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor. If you are playing Fallen, you will probably just use the premade magic systems. But if you were wanting to make your own magic system for your own world, the generalized magic system mechanics are a great scaffolding.
+This document provides generalized rules for magic system mechanics built to integrate with Cogent Roleplay. Once understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor. If you are playing Fallen, you will probably just use the premade magic systems. But if you were wanting to make your own magic system for your own world, the generalized magic system mechanics are a great scaffolding.
 
 - Magic Name = Fellcraft/Miracles/Runecraft
 - Magic Vocation = Fellkin/Brightkin/Runesmith
@@ -9,7 +9,7 @@ This document provides generalized rules for magic system mechanics built to int
 - Governing Core Skill = Endurnace/Willpower/Communication
 - Spell = Fellweave/DivineTale/CompoundRune
 
-## Fallen Magic systems
+## Fallen Magic Systems
 
 ### [Fellcraft](Fellcraft/Fellcraft.md)
 
@@ -33,31 +33,21 @@ This level of proficeny with magic might be a fun party trick or for convience b
 
 ### Level 0: Novice
 
-Requires an investment of 1 skill point to unlock.
-
 Representing an inexperienced level of skill.
 
 ### Level 1: Apprentice
-
-Requires an investment of 2 skill point to unlock.
 
 Represting a level of skill where the basics have been learned.
 
 ### Level 2: Adept
 
-Requires an investment of 3 skill point to unlock.
-
 Skill level where the basics have been fully understood and the more advanced concepts are being learned.
 
 ### Level 3: Expert
 
-Requires an investment of 4 skill point to unlock.
-
 Skill level where advanced concepts have been fuly understood and master level concepts are beginning to be introduced.
 
 ### Level 4: Master
-
-Requires an investment of 5 skill point to unlock.
 
 Skill level where a master level of proficency has been achived.
 
