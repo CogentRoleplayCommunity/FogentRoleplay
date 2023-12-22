@@ -48,7 +48,7 @@ Javk Wick's 3 rules of character creation:
 
 - No joke characters
 - No anti-social characters
-- You character can't start evil
+- You character can start evil
 
 ## Connections to Burrowbard Stoneseeker
 
@@ -61,7 +61,7 @@ Example of connections to Burrowbard:
 - For bard characters, Burrowbard met said player character while learning the ropes, becoming fast friends
 - For any character, Burrowbard is a family friend, possibly their as they grew up.
 - For any character, Burrowbard helped them recover after they lost their memory
-- For magic characters, Burrowbard was at one point an adventure and steered the player character away from the darker aspects of their magic
+- For magic characters, Burrowbard was at one point an adventurer and steered the player character away from the darker aspects of their magic
 - He was a father figure who helped a character relearn their self worth
 
 ``The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.``
@@ -88,13 +88,11 @@ Accompanying you is my dear old friend Ulfric Warwinter, who has been a faithful
 
 If Ulfric is questioned he mentions in a pompus English accent that he needs to check in on a colleague named Sylas who's gone missing in the area.
 
-The young mudblood tinker KillroyContained within the puzzle box is an runesmithed blue crystaline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mucufin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a singel player make a CL 3 General Knowledge check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
+The young mudblood tinker Killroy Contained within the puzzle box is an runesmithed blue crystaline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mucufin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a singel player make a CL 3 General Knowledge check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
 
 At the end of session 0 and the prologue, describe the following scene.
 
 ```
-A guard patrol the interior of the bank you retrieved the mysterious puzzle box from earlier in the day before setting out on the road, wagon in tow. The security guard hears a piculiar sound from the vault area.
-
 In the dead of night, light footsteps echo across the vault that you had visted earlier, there is the sound of a scuffle and a guard collapses to the fround in a heap, stragnle marks visible around his neck. His silent attacker appears to be one of his copatriots, but the disguised flesh morphs, to reveal a translucent alien-like body. Mouthless, the creature approaches the lock box, opening it easily and notices the mysterious puzzle box is missing.
 
 Behind it a cloaked figure with red eyes shakes it's head. In a womanly elegant soft French voice "Well Montheith, it appears that someone has beat us to the punch, we migh have to get a little creative after all."
