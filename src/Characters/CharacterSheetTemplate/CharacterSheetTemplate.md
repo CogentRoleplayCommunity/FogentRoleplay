@@ -60,17 +60,17 @@
 
 ## Equipment:
 
-| On | Name | # | Class | Tier | Durability | LB | Value |
-| :-: | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|    |      |  |      |      |            |    |      |
+| Name | # | Class | Tier | Durability | LB | Value |
+| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|      |  |      |      |            |    |      |
 
 ## Containers:
 
 ### Container Name
 
-| On | Name | # | Class | Tier | Durability | LB | Value |
-| :-: | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|    |      |  |      |      |            |    |      |
+| Name | # | Class | Tier | Durability | LB | Value |
+| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|      |  |      |      |            |    |      |
 
 ## Appearance:
 

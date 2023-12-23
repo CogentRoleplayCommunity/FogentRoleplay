@@ -49,6 +49,9 @@
 |    Naturecraft - Reach    |       7d6       |                |                  |      2      | Reach | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |      1 (Ichor)      |
 |   Naturecraft - Focused   |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |                    |      1 (Ichor)      |
 |   Naturecraft - Sphere   |       8d6       |                |                  |      3      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |       Sphere       |      2 (Ichor)      |
+|     Thrown Small Point     | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |                Pierce                |           Quick           |        None        |        None        |
+|   Small Thrusting Point   | 4d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |                Pierce                |           Rapid           |        None        |        None        |
+|    Small Slashing Blade    | 5d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |                Slash                |           Rapid           |        None        |        None        |
 
 ## Destiny Points: 0/3
 
@@ -56,22 +59,23 @@
 
 ## Equipment:
 
-| Name                         | # |                     Class                     |  Tier  | Durability | LB | Value |
-| ---------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :-: | :----: |
-| Arming Sword                 | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   | 2 |  2 bc  |
-| Gambeson Coat                | 1 |                  Phy. Def. 1                  | Mundane |   12/12   | 5 |  2 bc  |
-| Gambeson Leggings            | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 3 |  1 bc  |
-| Leather Cuirass and Pauldron | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 4 |  3 bc  |
-| Leather Cuisses and Greaves  | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 3 |  2 bc  |
-| Leather Vambrace             | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 2 | 1.5 bc |
+| Name                         | # |                              Class                              |  Tier  | Durability | LB | Value |
+| ---------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :-: | :----: |
+| Gambeson Coat                | 1 |                           Phy. Def. 1                           | Mundane |   12/12   | 5 |  2 bc  |
+| Gambeson Leggings            | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   | 3 |  1 bc  |
+| Leather Cuirass and Pauldron | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   | 4 |  3 bc  |
+| Leather Cuisses and Greaves  | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   | 3 |  2 bc  |
+| Leather Vambrace             | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   | 2 | 1.5 bc |
+| Dagger                       | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   | 1 |  2 bc  |
+| Satchel (2/5 ft^3)           | 1 |                         12 lb container                         | Mundane |            | 2 |  1 bc  |
 
 ## Containers:
 
-### Container Name
+### Satchel (2/5 ft^3)
 
-| On | Name | # | Class | Tier | Durability | LB | Value |
-| :-: | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|    |      |  |      |      |            |    |      |
+| Name | # | Class | Tier | Durability | LB | Value |
+| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|      |  |      |      |            |    |      |
 
 ## Appearance:
 

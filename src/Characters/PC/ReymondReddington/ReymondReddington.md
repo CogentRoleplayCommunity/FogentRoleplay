@@ -23,12 +23,13 @@
 
 |            Name            |                       Effect                       | Duration |                        Source                        |
 | :-------------------------: | :-------------------------------------------------: | :------: | :---------------------------------------------------: |
+|   Physical Defense Level   |                          0                          |          |                         Armor                         |
 |         Medium Size         |                5x5 ft on battle map.                |          |                                                      |
 |     Language: Babelish     |                 Can speak Babelish.                 |          |                                                      |
 |      Language: Pirish      |                  Can speak Pirish.                  |          |                                                      |
 |      Disabling: Greedy      |                Obsessed with money.                |          |                                                      |
 | Disabling: Authority Issues | Can't stand being talked down to or ordered around. |          |                                                      |
-|      Inventory Weight      |                        0 lb                        |          |                       Equipment                       |
+|      Inventory Weight      |                        19 lb                        |          |                       Equipment                       |
 |    Humanoid Carry Weight    |                       120 lb                       |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |        Light Weight        |           -0d6 to STR/RFX governed skills           |          |               0% - 25% of carry weight               |
 |   Humanoid Movement Speed   |                        35 ft                        |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
