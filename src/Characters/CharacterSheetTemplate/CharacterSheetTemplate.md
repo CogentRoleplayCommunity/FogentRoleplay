@@ -38,7 +38,7 @@
 
 ## Destiny Points: 0/3
 
-## Ichor: 0/3
+## Magic Resource: 0/3
 
 ## Equipment:
 
@@ -62,6 +62,10 @@ Additional Details:
 
 ## Disposition:
 
+## Beliefs/Morality:
+
 ## Goals/Aspirations:
+
+## Notes:
 
 ## Backstory:

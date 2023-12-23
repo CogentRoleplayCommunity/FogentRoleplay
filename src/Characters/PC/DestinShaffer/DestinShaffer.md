@@ -92,6 +92,16 @@ Additional Details:
 - Principled
 - Tired
 
+## Beliefs/Morality:
+
+Do to others what you'd like them to do for you.
+
+Deeps down, knows the difference between right and wrong.
+
+Stands up for the little guy.
+
+Doesn't respect traditional authority, but sees the value of service.
+
 ## Goals/Aspirations
 
 - Find out where he came from and who his biological parents are.

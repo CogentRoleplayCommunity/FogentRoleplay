@@ -94,6 +94,16 @@ Hard on self: “The purpose of life is finding the largest burden that you can 
 
 Regretful: "I am ashamed of my past and the people that I hurt"
 
+## Beliefs/Morality:
+
+Redemption: There's a spark of good in everyone. (Good)
+
+Creativity: I think creativity is intelligence and having fun.
+
+Believes in good and evil.
+
+Doesn't hurt children and the weak.
+
 ## Goals/Aspirations:
 
 Find a way to remove the Shard of Darkness that is slowly killing him.
