@@ -2,8 +2,69 @@
 
 ![alt_text](UhtredStorm.png)
 
-[Link to Character Sheet](https://docs.google.com/spreadsheets/d/1c73Gmo-9ZDDEUwGKUkGZs6qk-obuo54Z4KmV3jHcrIw/edit?usp=sharing)
+## Attributes and Core Skills
 
+| STR       | 0 |    | RFX             | 0 |    | INT               | 0 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
+
+## Vocations and Vocational Skills
+
+| Vocation Name {}    | 0 |    |
+| ------------------- | :-: | :-: |
+| Vocational Skill {} | 0 | 3d6 |
+|                     | 0 | 3d6 |
+|                     | 0 | 3d6 |
+|                     | 0 | 3d6 |
+
+## Effects:
+
+| Name | Effect | Duration | Source |
+| :--: | :----: | :------: | :----: |
+|      |        |          |        |
+
+## Combat Rolls:
+
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|      |                |                |                  |            |      |                  |                          |                    |                    |
+
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
+
+## Equipment:
+
+| On | Name | # | Class | Tier | Durability | LB | Value |
+| :-: | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|    |      |  |      |      |            |    |      |
+
+## Appearance
+
+Age: 17
+
+Race: Brightkin
+
+Height: 5'10"
+
+Body Type: Built
+
+## Disposition
+
+- Ambitious
+- Brave
+- Faithful
+- Determined
+- Broken (after the death of his friend Killroy)
+
+## Goals/Aspirations
+
+- To find and protect Vex'hilla Reddington
+- Find out more about what it means to be Brightkinkin and find out more about his mother.
+- To live his life to make those who have passed proud, and to fix the mistakes that he made.
 
 ## Backstory
 
@@ -36,30 +97,3 @@ Uhtred was resolved to join the guard. He still could not read. He somehow made 
 Eight months after Helena's death:
 
 On one occasion Felix and Uhtred bumped into one another at Knox's tavern. Uhtred and his friend Knob had just gotten off after training for the day and decided to share a drink together. Felix had been talking to Knox in a back room, and upon entering the main room, both Felix and Uhtred noticed each other. Felix acknowledged Uhtred in a disdainful tone, "Uhtred". Uhtred responded in turn, "Felix.". Felix: "what are you doing here". Uhtred: "None of your business" siping his ale. Felix notices the cadet uniform: "What's with the armor Uhtred, here for Randy to?". Uhtred: "If Randy did what Helena did, then yes.". Knob: "Are you actually defending that murderous bitch". Felix: "She didn't have to die.". At this Knob explodes in rage, grabbing Felix, slamming him into a table, and proceeds to beat him. Through his tears, Knob screams: "That bitch took my father from me. How dare you defend her.". Uhtred: "Knob, he's not worth your time.". Knox: "Randy, him outside so he can cool off". Randy drags Knob off and outside. Uhtred lays down a couple coins and nods at Knox: "For the trouble." Uhtred to Felix: "Felix you are naive as the day I met you. Keep your nose in books and out of other people's business."
-
-
-## Appearance
-
-Age: 17
-
-Race: Brightkin
-
-Height: 5'10"
-
-Body Type: Built
-
-
-## Disposition
-
-- Ambitious
-- Brave
-- Faithful
-- Determined
-- Broken (after the death of his friend Killroy)
-
-
-## Goals/Aspirations
-
-- To find and protect Vex'hilla Reddington
-- Find out more about what it means to be Brightkinkin and find out more about his mother.
-- To live his life to make those who have passed proud, and to fix the mistakes that he made.

@@ -2,7 +2,7 @@
 
 ![Seakin](Seakin.png)
 
-Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed to the Bright lord. These monsters were grafted consciousness and the humaniod form of the Bright Lord.
+Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed to the Bright lord. These monsters were grafted consciousness and the humanoid form of the Bright Lord.
 
 Distinctive features of Sirens include their fin-like ears, blue or green skin (though other colors exist), and often distinctive natural markings.
 

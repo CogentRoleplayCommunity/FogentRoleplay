@@ -26,7 +26,6 @@
 | :--: | :----: | :------: | :----: |
 |      |        |          |        |
 
-
 ## Combat Rolls:
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
@@ -36,6 +35,10 @@
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
+
+## Destiny Points: 0/3
+
+## Ichor: 0/3
 
 ## Equipment:
 
