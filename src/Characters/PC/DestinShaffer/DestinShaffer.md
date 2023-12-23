@@ -132,6 +132,8 @@ Doesn't respect traditional authority, but sees the value of service.
 - To have a piece of every type of metal, hoarding instinct.
 - Learn regional smithing techniques.
 
+## Notes:
+
 ## Backstory:
 
 Destin grew up in a small town outside of Redwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
