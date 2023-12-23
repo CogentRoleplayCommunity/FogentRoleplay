@@ -93,7 +93,7 @@
 |      Candle      | 1 |                   Misc                   | Mundane |            | 0.1 | 1 cc |
 |   Drug, Mirage   | 1 |                   Misc                   | Mundane |            | 0.1 | 5 bc |
 
-## Description
+## Apperance:
 
 Age: 16
 
@@ -107,7 +107,7 @@ Body Type: Strong
 
 Additional Details:
 
-## Disposition
+## Disposition:
 
 - Adventurous
 - Bold
@@ -126,7 +126,7 @@ Stands up for the little guy.
 
 Doesn't respect traditional authority, but sees the value of service.
 
-## Goals/Aspirations
+## Goals/Aspirations:
 
 - Find out where he came from and who his biological parents are.
 - To have a piece of every type of metal, hoarding instinct.
