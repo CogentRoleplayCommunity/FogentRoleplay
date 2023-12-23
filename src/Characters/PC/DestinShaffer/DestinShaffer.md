@@ -27,7 +27,7 @@
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                      |
 |  Disabling: Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                      |
 | Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                     Daddy Issues                     |
-|    Inventory Weight    |                          20.0075 lb                          |          |                       Equipment                       |
+|    Inventory Weight    |                           23.45 lb                           |          |                       Equipment                       |
 |  Minor Silver Weakness  |   (+1) to the level of injury received from Silver damage.   |          |                        Fellkin                        |
 |  Humanoid Carry Weight  |                            240 lb                            |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |               0% - 25% of carry weight               |
@@ -52,11 +52,9 @@
 
 ## Magic
 
-### Ichor: 0/1
+### Ichor: 1/1
 
 ### Fellweaves known:
-
-* Lockpick cantrip
 
 ## Equipment:
 
@@ -68,6 +66,32 @@
 |       Waterskin (4/4)       | 1 |                              Misc                              | Mundane |            |  5  | 20 cc |
 | Vial of Medium Healing Blood | 1 |                              Misc                              | Mundane |            | 0.25 | 100 bc |
 |        Clothes, Fine        | 1 |                              Misc                              | Mundane |            |  6  | 15 bc |
+|      Satchel (2/5 ft^3)      | 1 |                         12 lb container                         | Mundane |            |  2  |  1 bc  |
+
+## Containers:
+
+### Satchel
+
+|   Name   | # |       Class       |  Tier  | Durability | LB | Value |
+| :-------: | - | :----------------: | :-----: | :--------: | :-: | :---: |
+| Whetstone | 1 |        Misc        | Mundane |            |  1  | 1 cc |
+|  Hammer  | 1 | Small Hafted Blunt | Mundane |   12/12   |  3  | 1 bc |
+| Dice Set | 1 |        Misc        | Mundane |            | 0.2 | 10 cc |
+
+## Chest
+
+|       Name       | # |                   Class                   |  Tier  | Durability | LB | Value |
+| :---------------: | - | :---------------------------------------: | :-----: | :--------: | :-: | :---: |
+|     Whetstone     | 1 |                   Misc                   | Mundane |            |  1  | 1 cc |
+|      Hammer      | 1 |            Small Hafted Blunt            | Mundane |   12/12   |  3  | 1 bc |
+|     Dice Set     | 1 |                   Misc                   | Mundane |            | 0.2 | 10 cc |
+|       Char       | 1 | Thrusting Greatsword, Slashing Greatsword | Mundane |   12/12   |  6  |   ?   |
+|   Smith's Tools   | 1 |                   Misc                   | Mundane |            |  8  | 20 bc |
+|  Book, Scripture  | 1 |                   Misc                   | Mundane |            | 0.5 | 25 bc |
+| Incense (1 block) | 1 |                   Misc                   | Mundane |            | 0.1 | 1 cc |
+|      Blanket      | 1 |                   Misc                   | Mundane |            |  3  | 50 cc |
+|      Candle      | 1 |                   Misc                   | Mundane |            | 0.1 | 1 cc |
+|   Drug, Mirage   | 1 |                   Misc                   | Mundane |            | 0.1 | 5 bc |
 
 ## Description
 
@@ -77,7 +101,7 @@ Race: Steel Dragonkin
 
 Height: 6'0"
 
-Weight: ~ ? lb
+Weight: 200 lb
 
 Body Type: Strong
 
@@ -105,6 +129,8 @@ Doesn't respect traditional authority, but sees the value of service.
 ## Goals/Aspirations
 
 - Find out where he came from and who his biological parents are.
+- To have a piece of every type of metal, hoarding instinct.
+- Learn regional smithing techniques.
 
 ## Backstory:
 
