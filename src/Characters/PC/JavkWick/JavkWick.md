@@ -80,65 +80,51 @@ Additional Details:
 
 ## Disposition:
 
-Natural Leader, Proud, Brave, Resourceful, Tenacious
-
-Sarcasm: "Just because I don't care doesn't mean I don't understand."
-
-Lucky: "Never tell me the odds."
-
-Moral Compass: "A sense of shame is not a bad moral compass."
-
-Blood Lust: “When I start killing, things go red and something else takes over. I'll come out of it later when everything is dead or someone snaps me out of it.”
-
-Hard on self: “The purpose of life is finding the largest burden that you can bear and bearing it.”
-
-Regretful: "I am ashamed of my past and the people that I hurt"
+- Natural Leader
+- Proud
+- Brave
+- Resourceful
+- Tenacious
+- Sarcasm: "Just because I don't care doesn't mean I don't understand."
+- Lucky: "Never tell me the odds."
+- Moral Compass: "A sense of shame is not a bad moral compass."
+- Blood Lust: "When I start killing, things go red and something else takes over. I'll come out of it later when everything is dead or someone snaps me out of it."
+- Hard on self: "The purpose of life is finding the largest burden that you can bear and bearing it."
+- Regretful: "I am ashamed of my past and the people that I hurt"
 
 ## Beliefs/Morality:
 
-Redemption: There's a spark of good in everyone. (Good)
-
-Creativity: I think creativity is intelligence and having fun.
-
-Believes in good and evil.
-
-Doesn't hurt children and the weak.
+- Redemption: There's a spark of good in everyone. (Good)
+- Creativity: I think creativity is intelligence and having fun.
+- Believes in good and evil.
+- Doesn't hurt children and the weak.
 
 ## Goals/Aspirations:
 
-Find a way to remove the Shard of Darkness that is slowly killing him.
+- Find a way to remove the Shard of Darkness that is slowly killing him.
+- Try to live up to the expectations of Old Ben.
+- Become an excellent magician and perform for people.
+- Upgrade his arm to become a artifact magic item.
+- Figure out what the dreams and nightmares mean. Standing before a burning city.
+- Find a cool cowboy hat and magic whip.
+- Find cool sword.
+- Find the perfect cigar.
+- Find a guitar.
+- Find poison materials.
+- Start merc group (sword point).
+- Become a magician.
 
-Try to live up to the expectations of Old Ben.
-
-Become an excellent magician and perform for people.
-
-Upgrade his arm to become a artifact magic item.
-
-Figure out what the dreams and nightmares mean. Standing before a burning city.
-
-Find a cool cowboy hat and magic whip.
-
-Find cool sword.
-
-Find the perfect cigar.
-
-Find a guitar.
-
-Find poison materials.
-
-Start merc group (sword point).
-
-Become a magician.
+## Notes:
 
 ## Backstory:
 
-Across the world, when mothers tuck their children into bed, bandits gather around their campfires, and adventures congregate near the inn’s hearth, the “Tale of the Wicker” is a common tale. A monster/ghost story that has been passed down from generation to generation. The tale of the Wicker is a reminder that the scariest monsters don’t look like monsters at all. For the Wicker looks just like you and me. Only when it claims your severed head and drags your soul to the bottom of the Abyss will you know you have encountered the Wicker. For children it is a reminder to not trust strangers or wonder off from your parents. For adults it’s a warning that monsters walk among us, and no matter how much power, wealth, or fame you possess, none of it will protect you from true malevolence.
+Across the world, when mothers tuck their children into bed, bandits gather around their campfires, and adventures congregate near the inn’s hearth, the "Tale of the Wicker" is a common tale. A monster/ghost story that has been passed down from generation to generation. The tale of the Wicker is a reminder that the scariest monsters don’t look like monsters at all. For the Wicker looks just like you and me. Only when it claims your severed head and drags your soul to the bottom of the Abyss will you know you have encountered the Wicker. For children it is a reminder to not trust strangers or wonder off from your parents. For adults it’s a warning that monsters walk among us, and no matter how much power, wealth, or fame you possess, none of it will protect you from true malevolence.
 
-As for the actual validity of the Wicker, after looking at the supposed historical accounts, there is no definitive evidence. However, while I don’t believe in the “Wicker”, but I’m terrified it exists…”– An Narrative Exploration of the Wicker Myth by Volothamp Veddarm
+As for the actual validity of the Wicker, after looking at the supposed historical accounts, there is no definitive evidence. However, while I don’t believe in the "Wicker", but I'm terrified it exists… – An Narrative Exploration of the Wicker Myth by Volothamp Veddarm
 
-“There is no binding it can’t escape. No trap it can’t evade. No door it can’t open. No price it can be bought for. It’s coming for you next. Pleasant dreams.” – Tales of the Wicker
+"There is no binding it can't escape. No trap it can't evade. No door it can't open. No price it can be bought for. It's coming for you next. Pleasant dreams." – Tales of the Wicker
 
-Stories are usually full of half truths. In reality there isn’t a “Wicker” or not anymore. Through most of modern time there have been many Wicker, all clones of a human who was believed to be the first Wicker. Within the past 100 years though, the “original” clones have been phased out slowly as the repeated cloning has left them with little to no innate magic. The modern Wicker organization has close ties to many shady organizations, and the majority of their contracts come from them. Whether its upstart evil wizards, war lords, crime bosses, city officials, or disloyal spies, the Wicker always gets their mark.
+Stories are usually full of half truths. In reality there isn't a "Wicker" or not anymore. Through most of modern time there have been many Wicker, all clones of a human who was believed to be the first Wicker. Within the past 100 years though, the "original” clones have been phased out slowly as the repeated cloning has left them with little to no innate magic. The modern Wicker organization has close ties to many shady organizations, and the majority of their contracts come from them. Whether its upstart evil wizards, war lords, crime bosses, city officials, or disloyal spies, the Wicker always gets their mark.
 
 The calling card of the Wicker is their headless victims, a cut so clean that no material weapon could produce. This is an old Wicker enchantment weapon enchantment that separates the head from the body of the creatures when killed with the weapon. This is simply for practical purposes, as the head is needed to confirm the contract. But superstitious theories would argue otherwise.
 
