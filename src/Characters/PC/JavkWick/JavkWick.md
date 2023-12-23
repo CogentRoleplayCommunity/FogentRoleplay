@@ -29,7 +29,7 @@
 |            Language: Demonic            |                          Can speak Demonic.                          |          |                                                      |
 | Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                        Injury                        |
 |            Inventory Weight            |                             20.0075 lb                             |          |                       Equipment                       |
-|          Humaniod Carry Weight          |                                120 lb                                |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
+|          Humanoid Carry Weight          |                                120 lb                                |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |              Light Weight              |                   -0d6 to STR/RFX governed skills                   |          |               0% - 25% of carry weight               |
 |         Humanoid Movement Speed         |                                45 ft                                |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |           Humanoid Swim Speed           |                                20 ft                                |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
@@ -41,7 +41,7 @@
 | --------------------------------- | :------------------: | :------------------: | :------------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Epilogue - Medium Thrusting Sword | 3d8,6d6<br />(+1d6) | 3d8, 7d6<br />(+2d6) | 3d8, 7d6<br />(+1d6) |      2      |  Melee  |      Pierce      |    4/5/5<br />(Rapid)    |        None        |        None        |
 | Epilogue - Medium Slashing Sword  | 3d8, 7d6<br />(+2d6) | 3d8, 8d6<br />(+3d6) | 3d8, 8d6<br />(+1d6) |      0      |  Melee  |       Slash       |    5/5/5<br />(Rapid)    |        None        |        None        |
-| Light Crossbow                    |         None         |     <br />(+1d6)     |         None         |      0      | Extended |                  |          Loading          |        None        |        Bolt        |
+| Light Crossbow                    |         None         |   6d6<br />(+1d6)   |         None         |      0      | Extended |                  |          Loading          |        None        |        Bolt        |
 
 | Name          | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | ------------- | ------------------- | ------------------ | ----------- | ----- | ----------------- | ------------------- |
