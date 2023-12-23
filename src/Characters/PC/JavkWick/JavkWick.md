@@ -13,11 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Rogue {RFX}          | 0 |     |
+| Rogue {RFX}          | 3 | 7d6 |
 | -------------------- | - | --- |
 | Medium Sword {ALL}   | 3 | 8d6 |
-| Light Crossbow {ALL} | 0 | 3d6 |
-|                      |   |     |
+| Light Crossbow {ALL} | 2 | 7d6 |
 |                      |   |     |
 
 ## Info:
@@ -59,6 +58,10 @@
 | Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc   |
 | Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc   |
 | Leather Cuirass and Pauldrons       | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 4     | 3 bc   |
+
+## Destiny Points: 0/3
+
+## Magic Resource: 0/3
 
 ## Appearance:
 
