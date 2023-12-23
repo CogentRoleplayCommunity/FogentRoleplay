@@ -1,0 +1,117 @@
+# Verd Lambsquaters
+
+![NotMyImage](VerdLambsquarter.jpg)
+
+## Attributes and Core Skills
+
+| STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 0 | 3d6 | Acrobatics      | 1 | 4d6 | Communication     | 1 | 5d6 |
+| Climb     | 1 | 4d6 | Perception      | 0 | 3d6 | General Knowledge | 1 | 5d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 2 | 6d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 4d6 |
+
+## Vocations and Vocational Skills
+
+| Fellkin {ALL}    | 2 | 6d6 | Student {INT} | 1 | 5d6 |
+| ----------------- | :-: | :-: | ------------- | - | --- |
+| Naturecraft {ALL} | 2 | 6d6 |               |   |     |
+|                   | 0 | 3d6 |               |   |     |
+|                   | 0 | 3d6 |               |   |     |
+|                   | 0 | 3d6 |               |   |     |
+
+## Info:
+
+|             Name             |                       Effect                       | Duration |                        Source                        |
+| :---------------------------: | :-------------------------------------------------: | :------: | :---------------------------------------------------: |
+|    Physical Defense Level    |                          3                          |          |                         Armor                         |
+|          Medium Size          |                5x5 ft on battle map.                |          |                                                      |
+|      Language: Babelish      |                 Can speak Babelish.                 |          |                                                      |
+|       Language: Primal       |                  Can speak Primal.                  |          |                                                      |
+|      Disabling: Guilible      | -3d6 to rolls versus deceptive communication rolls. |          |                                                      |
+| Disabling: Overly Emphathetic |      Overwhelming dispostion towards empathy.      |          |                                                      |
+|       Inventory Weight       |                        19 lb                        |          |                       Equipment                       |
+|     Humanoid Carry Weight     |                       120 lb                       |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
+|         Light Weight         |           -0d6 to STR/RFX governed skills           |          |               0% - 25% of carry weight               |
+|    Humanoid Movement Speed    |                        30 ft                        |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|      Humanoid Swim Speed      |                        15 ft                        |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|     Humanoid Climb Speed     |                        20 ft                        |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
+
+## Combat Rolls:
+
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Naturecraft - Melee Trick |       6d6       |                |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |                    |
+| Naturecraft - Ranged Trick |       6d6       |                |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce, Poison |         Standard         |                    |                    |
+|    Naturecraft - Melee    |       7d6       |                |                  |      2      | Melee | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |      1 (Ichor)      |
+|    Naturecraft - Ranged    |       7d6       |                |                  |      1      | Close | Slash, Bludgeon, Hew, Pierce, Poison |         Standard         |                    |      1 (Ichor)      |
+|     Naturecraft - Cone     |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |        Cone        |      1 (Ichor)      |
+|    Naturecraft - Reach    |       7d6       |                |                  |      2      | Reach | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |      1 (Ichor)      |
+|   Naturecraft - Focused   |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |                    |      1 (Ichor)      |
+|   Naturecraft - Sphere   |       8d6       |                |                  |      3      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |       Sphere       |      2 (Ichor)      |
+
+## Destiny Points: 0/3
+
+## Ichor: 8/8
+
+## Equipment:
+
+| Name                         | # |                     Class                     |  Tier  | Durability | LB | Value |
+| ---------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :-: | :----: |
+| Arming Sword                 | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   | 2 |  2 bc  |
+| Gambeson Coat                | 1 |                  Phy. Def. 1                  | Mundane |   12/12   | 5 |  2 bc  |
+| Gambeson Leggings            | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 3 |  1 bc  |
+| Leather Cuirass and Pauldron | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 4 |  3 bc  |
+| Leather Cuisses and Greaves  | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 3 |  2 bc  |
+| Leather Vambrace             | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 2 | 1.5 bc |
+
+## Containers:
+
+### Container Name
+
+| On | Name | # | Class | Tier | Durability | LB | Value |
+| :-: | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|    |      |  |      |      |            |    |      |
+
+## Appearance:
+
+Age: 21
+
+Race: Leshkin
+
+Height: 5' 8"
+
+Weight: ~ 140 lb
+
+Body Type: Skinny
+
+Additional Details:
+
+## Disposition:
+
+* Pleasant
+* Fidgety
+* Outdoorsy
+* Fistidious
+* Curious
+
+## Beliefs/Morality:
+
+* Redemption: There's a spark of good in everyone. (Good)
+* All life is precious, is a vegetarian
+
+## Goals/Aspirations:
+
+* To one day lead her tribe
+
+## Notes:
+
+## Backstory:
+
+Verd hails from a tribe of Leshkin and Nature Dragonkin residing in the ancient expanse of the Old Growth Forest located in eastern Reddland. In their role as forest guardians, her tribe ensures that wandering travelers do not meet their demise, for the dragon-infested woods consume all who venture too deeply.
+
+Verd and her younger borther Leif had a wonderful childhood exploring the Ironwoods. One winter, Verd came across a hagarded group of lumberman, who their tribe had a deal with to remove dead growth from the forest. Verd saved nearly 20 men's lives that day, bravely leading them out of the Dragongrowth. The leader of this group was Burrowbard Stoneseeker, a kindly enterpenually molekin, who took a liking to young Verd, becoming a family friend.
+
+When Verd was 16, Burrowbard, noticing Verd's tallent for Naturecraft, offered to sponsor her education at Byrgenwerth University. Her father respected Burrowbard and Verd departed with Burrowbard, living in his estate while she attend school. Verd grew to dispise the city as it was full of pickpockets, polution, charlatins, and drunks. While she accelled in her studies, she missed the simplicity of nature. She missed the wildness of nature, wanting to get out, see the world, and use what she had learned.
+
+Burrowbard, noticing how unhappy Verd offered her an oppertunity to be apart of a business oppertunity he had recently come upon....

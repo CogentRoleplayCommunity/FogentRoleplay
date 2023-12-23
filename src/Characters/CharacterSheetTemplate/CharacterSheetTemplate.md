@@ -1,6 +1,6 @@
 # Name
 
-![img](Javk-Wick.png)
+![img]()
 
 ## Attributes and Core Skills
 
@@ -22,15 +22,33 @@
 
 ## Effects:
 
-| Name | Effect | Duration | Source |
-| :--: | :----: | :------: | :----: |
-|      |        |          |        |
+|          Name          |             Effect             | Duration |                        Source                        |
+| :---------------------: | :-----------------------------: | :------: | :---------------------------------------------------: |
+| Physical Defense Level |                0                |          |                         Armor                         |
+|       Medium Size       |      5x5 ft on battle map.      |          |                                                      |
+|   Language: Babelish   |       Can speak Babelish.       |          |                                                      |
+|        Language:        |          Can speak .          |          |                                                      |
+|       Disabling:       |                                |          |                                                      |
+|       Disabling:       |                                |          |                                                      |
+|    Inventory Weight    |              0 lb              |          |                       Equipment                       |
+|  Humanoid Carry Weight  |             120 lb             |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
+|      Light Weight      | -0d6 to STR/RFX governed skills |          |               0% - 25% of carry weight               |
+| Humanoid Movement Speed |              30 ft              |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|   Humanoid Swim Speed   |              15 ft              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|  Humanoid Climb Speed  |              15 ft              |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 
 ## Combat Rolls:
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|      |                |                |                  |            |      |                  |                          |                    |                    |
+|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
+| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
+|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
+|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
+|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
+|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
+|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
+|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
