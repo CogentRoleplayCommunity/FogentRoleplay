@@ -26,6 +26,10 @@
 
 ### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
 
+### [Verd Lambsquarter](PC/VerdLambsquarter/VerdLambsquarter.md)
+
+### [Reymond Reddington](PC/ReymondReddington/ReymondReddington.md)
+
 ## Non Player Characters
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
