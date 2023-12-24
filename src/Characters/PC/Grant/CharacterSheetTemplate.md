@@ -1,4 +1,4 @@
-# Name
+# William Galset
 
 ![img]()
 
@@ -84,7 +84,7 @@
 
 ## Appearance:
 
-Age: 26
+Age: 22
 
 Race: Wraithkin
 
@@ -98,9 +98,14 @@ Additional Details: Burn scars on the left side of his face, one eye is grayed o
 
 ## Disposition:
 
+* Distrustful
+* Bitter
+* Dishonorable
+* Aggressive
+
 ## Beliefs/Morality:
 
-* Myself over any other.
+* Myself over most.
 * If I can take it, it belongs to me.
 * Some things are worth dying over.
 * Treasure what you have, and take care of it.
@@ -108,6 +113,15 @@ Additional Details: Burn scars on the left side of his face, one eye is grayed o
 
 ## Goals/Aspirations:
 
+* Clear his name.
+* Earn enough money to send back to his family to get them out of debt.
+* Destroy the loan baron that tricked his family.
+* Steal Vasilii's money.
+
 ## Notes:
 
 ## Backstory:
+
+Born to a poor family in Redland, William lives much of his life on the street, growing up amongst a tough crowd that taught him how to steal his bread, and provide for his family in a small way. During this time he became a proficient pickpocket and padfoot, and began to learn that taking from others felt good. However during these times, to save his sister from the Spore, his family had to take out a large loan to be able to purchase Healing Blood, being scammed by the loan baron that tricked them into the egregious loan. Now unable to support themselves thanks to the extreme conditions of the loan, William decides to take up a job in the Red Legion at the age of 18, in order to send money back to his family in hopes of one day clearing them of their debt.
+
+However this did not go to plan. After a few years of unimpressive service as a scout in the Red Legion, the stress caused William's tendencies flared up once more and he began to steal from the camp, swiping other soldier's personal items and equipment whenever possible. However he made one fatal slip and one day tried to steal from an Officer's tent, and was caught in the act. He moved quickly and fled, using his skills in stealth and quick movement to escape from the Legion. Now branded a deserter, he had no choice but to try and work as a manager until he can get the money to help his family, and then try to clear his name.
