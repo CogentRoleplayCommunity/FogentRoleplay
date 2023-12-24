@@ -6,17 +6,17 @@
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 3d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 1 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 3d6 | Willpower         | 0 | 3d6 |
+| Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 5d6 | Survival          | 1 | 4d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
 | Scout {RFX}         | 1 |    |
 | ------------------- | :-: | :-: |
-| Medium Sword {RFX} | 1 | 3d6 |
-| Hand Crossbow {RFX} | 1 | 3d6 |
+| Medium Sword {RFX} | 1 | 5d6 |
+| Hand Crossbow {RFX} | 1 | 5d6 |
 |                     | 0 | 3d6 |
 |                     | 0 | 3d6 |
 
@@ -24,71 +24,87 @@
 
 |           Name           |                             Effect                             | Duration |                        Source                        |
 | :----------------------: | :-------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|  Physical Defense Level  |                                0                                |          |                         Armor                         |
+|  Physical Defense Level  |                               4.5                               |          |                         Armor                         |
 |       Medium Size       |                      5x5 ft on battle map.                      |          |                                                      |
 |    Language: Babelish    |                       Can speak Babelish.                       |          |                                                      |
 |        Language:        |                          Can speak .                          |          |                                                      |
 | Disabling: Exposure Fear | Irrationally afraid of being found to be a Red Legion Deserter. |          |                                                      |
 |  Disabling: Kleptomania  |        Desire to steal most things regardless of value.        |          |                                                      |
-|     Inventory Weight     |                              0 lb                              |          |                       Equipment                       |
+|     Inventory Weight     |                            29.75 lb                            |          |                       Equipment                       |
 |  Humanoid Carry Weight  |                             120 lb                             |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |       Light Weight       |                 -0d6 to STR/RFX governed skills                 |          |               0% - 25% of carry weight               |
-| Humanoid Movement Speed |                              30 ft                              |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|   Humanoid Swim Speed   |                              15 ft                              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+| Humanoid Movement Speed |                              45 ft                              |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|   Humanoid Swim Speed   |                              20 ft                              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |   Humanoid Climb Speed   |                              15 ft                              |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 
 ## Combat Rolls:
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|     Hand Crossbow     |      +1d6      |      +1d6      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |        Bolt        |
+| Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+| Broadhead Bolt |        Bolt        |        +1d6        |      1      | None |      Pierce      |        None        |
 
-## Destiny Points: 0/3
+## Destiny Points: 1/3
 
-## Magic Resource: 0/3
+## Magic Resource: 0/0
 
 ## Equipment:
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name                                | # |                     Class                     |  Tier  | Durability |  LB  | Value |
+| ----------------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :---: |
+| Gambeson Coat                       | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  5  | 2 bc |
+| Gambeson Leggings                   | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  | 1 bc |
+| Leather Cuirass and Pauldrons       | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  4  | 3 bc |
+| Leather Cuisses and Greaves         | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  |      |
+| Arming Sword                        | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   |  2  | 2 bc |
+| Heater Shield                       | 1 |                  Phy. Def. 2                  | Mundane |   12/12   |  8  | 7 bc |
+| Hand Crossbow                       | 1 |                 Hand Crossbow                 | Mundane |   12/12   |  3  | 75 bc |
+| Case, Crossbow Bolts (capacity: 20) | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
+| Broadhead Bolt                      | 10 |                 Standard Bolt                 | Mundane |     -     | 0.75 | 1 bc |
+| Satchel (2/5 ft^3)                  | 1 |                12 lb container                | Mundane |            |  2  | 1 bc |
 
 ## Containers:
 
-### Container Name
+### Satchel
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name                   | # | Class |  Tier  | Durability |  LB  | Value |
+| ---------------------- | :-: | :---: | :-----: | :--------: | :--: | :----: |
+| Waterskin (4/4)        | 1 | Misc | Mundane |            |  5  | 20 cc |
+| Rations (1 day)        | 7 | Misc | Mundane |            |  2  | 350 cc |
+| Rope, Hempen (50 feet) | 1 | Misc | Mundane |            |  10  |  100c  |
+| Soap                   | 1 | Misc | Mundane |            | 0.5 |  2 cc  |
+| Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
+| Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
+| Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
 
 ## Appearance:
 
-Age:
+Age: 26
 
-Race:
+Race: Wraithkin
 
-Height: ?' ?"
+Height: 5' 6"
 
-Weight: ~ ? lb
+Weight: 160 lb
 
-Body Type:
+Body Type: Wiry
 
-Additional Details:
+Additional Details: Burn scars on the left side of his face, one eye is grayed out but he's not blind in it.
 
 ## Disposition:
 
 ## Beliefs/Morality:
+
+* Myself over any other.
+* If I can take it, it belongs to me.
+* Some things are worth dying over.
+* Treasure what you have, and take care of it.
+* Friends are rare, let those that you have lean on you.
 
 ## Goals/Aspirations:
 
