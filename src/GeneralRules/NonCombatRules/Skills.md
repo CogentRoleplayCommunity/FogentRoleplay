@@ -49,7 +49,7 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 ### Acrobatics
 
-Represented by circus performers or cat buglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for dodging things and avoiding traps or pitfalls.
+Represented by circus performers or cat buglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging things, and avoiding traps or pitfalls.
 
 ### Perception
 
@@ -57,7 +57,7 @@ Perception is the art of detecting things through the senses, such as sight soun
 
 ### Sleight of Hand
 
-Represented by pickpockets or magicians. Activities that require highly dexterous control of the hands are covered by Sleight of Hand. While more obvious tasks such as picking pockets come to mind, the skill also covers things such as weaving a small basket or threading a needle. Also very applicable as an assist roll for finesse like weapons such as daggers, short swords, or rapiers.
+Represented by pickpockets or magicians. Activities that require highly dexterous control of the hands are covered by Sleight of Hand. While more obvious tasks such as picking pockets come to mind, the skill also covers things such as playing a guitar, driving a racing car, weaving a small basket or threading a needle. Also very applicable as an assist roll for finesse like weapons such as daggers, short swords, or rapiers.
 
 ### Stealth
 
