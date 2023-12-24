@@ -14,8 +14,7 @@ Each grid of the battle map represents a 5x5 ft square.
 |         Flight Speed         | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
 
 - If a creature has a negative in the governing attribute, remove the indicated distance instead.
-- If a creature has a negative in the governing skill, remove the indicated distance instead.
-- If movement will always be multiplication of 5 ft. Round down to the nearest multiple of 5 ft. For instance, if I have 16 ft of movement due to being at 80% of my speed due to medium weight, I would only move 15 ft total.
+- If a creature has a negative in the governing skill, remove the indicated distance instead. This includes dice modifications such as from carry weight attribute governed skill modifications (i.e. light, medium, or heavy weight).
 
 ## Size
 
