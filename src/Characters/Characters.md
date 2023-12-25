@@ -30,6 +30,10 @@
 
 ### [Reymond Reddington](PC/ReymondReddington/ReymondReddington.md)
 
+### [Jing Hu](PC/JingHu/JingHu.md)
+
+### [Elinor Shortwick](PC/ElinorShortwick/ElinorShortwick.md)
+
 ## Non Player Characters
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
