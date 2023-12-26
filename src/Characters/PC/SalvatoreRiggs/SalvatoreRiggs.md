@@ -16,9 +16,6 @@
 | Criminal {INT}       | 2 | 6d6 |
 | -------------------- | :-: | :-: |
 | Hand Crossbow {ALL} | 2 | 6d6 |
-|                      | 0 | 3d6 |
-|                      | 0 | 3d6 |
-|                      | 0 | 3d6 |
 
 ## Effects:
 
@@ -27,7 +24,7 @@
 |     Physical Defense Level     |                       0                       |          |                         Armor                         |
 |          Medium Size          |             5x5 ft on battle map.             |          |                                                      |
 |       Language: Babelish       |              Can speak Babelish.              |          |                                                      |
-|           Language:           |                 Can speak .                 |          |                                                      |
+|        Language: Pirish        |               Can speak Pirish.               |          |                                                      |
 | Disabling: Addiction to Ladies | Goes out of his way to impress the other sex. |          |                                                      |
 |     Disabling: Short Fuse     | Has an extreme predisposition towards anger. |          |                                                      |
 |        Inventory Weight        |                     0 lb                     |          |                       Equipment                       |
@@ -39,30 +36,32 @@
 
 ## Combat Rolls:
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     Hand Crossbow     | 7d6<br />(+1d6) |  <br />(+1d6)  |  8d6<br />(+1d6)  |      0      | Medium |                  |         Standard         |        None        |        Bolt        |
-| Medium Thrusting Sword |     (+1d6)     |      +2d6      |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword |     (+2d6)     |     (+3d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-| Small Thrusting Point |     (+0d6)     |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-|  Small Slashing Blade  |     (+1d6)     |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|   Thrown Small Point   |     (+0d6)     |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |        Range        | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------------------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|     Hand Crossbow     | 7d6<br />(+1d6) |  <br />(+1d6)  |  8d6<br />(+1d6)  |      0      | 40/120<br />(Medium) |                  |         Standard         |        None        |        Bolt        |
+| Small Thrusting Point | 4d6<br />(+0d6) |     (+0d6)     |  5d6<br />(+1d6)  |      2      |        Melee        |      Pierce      |           Rapid           |        None        |        None        |
+| Small Slashing Blade | 5d6<br />(+1d6) |     (+1d6)     |  6d6<br />(+1d6)  |      0      |        Melee        |       Slash       |           Rapid           |        None        |        None        |
+|  Thrown Small Point  | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      |   10/60<br />Short   |      Pierce      |           Quick           |        None        |        None        |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|     Name     | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :-----------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+| Standard Bolt |        Bolt        |        +1d6        |      1      | None |      Pierce      |        None        |
 
 ## Destiny Points: 0/3
 
-## Magic Resource: 0/3
-
 ## Equipment:
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
-
-## Containers:
+| Name                                | # |                              Class                              |  Tier  | Durability |  LB  | Value |
+| ----------------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :----: |
+| Gambeson Coat                       | 1 |                           Phy. Def. 1                           | Mundane |   12/12   |   5   |  2 bc  |
+| Gambeson Leggings                   | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |   3   |  1 bc  |
+| Leather Cuirass and Pauldron        | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |   4   |  3 bc  |
+| Leather Cuisses and Greaves         | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |   3   |  2 bc  |
+| Leather Vambrace                    | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |   2   | 1.5 bc |
+| Dagger                              | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |   1   |  2 bc  |
+| Hand Crossbow                       | 1 |                          Hand Crossbow                          | Mundane |   12/12   |   3   | 75 bc |
+| Broadhead Bolt                      | 20 |                          Standard Bolt                          | Mundane |     -     | 0.075 |  1 bc  |
+| Case, Crossbow Bolts (capacity: 20) | 1 |                              Misc                              | Mundane |            |   1   |  1 bc  |
 
 ### Container Name
 
@@ -90,24 +89,34 @@ Additional Details:
 
 ## Disposition:
 
+- Quick to anger
+- Charming
+- Ladies man
+
 ## Beliefs/Morality:
 
+- Loyalty to parterns
+- Not being a rat
+
 ## Goals/Aspirations:
+
 
 ## Notes:
 
 ## Backstory:
 
-Salvatore Riggs grew up on the streets of Reddwall. His family was lower class, so from an early age he learn the nessesity of money. He started by picking pockets and selling the stolen goods on the black market. By the time he was 18 he was running his own minor fencing operation.
+Salvatore Riggs grew up on the streets of Reddwall. His family was lower class, so from an early age he learn the nessesity of money. He started by picking pockets and selling the stolen goods on the black market. By the time he was 18 he was running his own minor fencing operation. While Salvatore didn't mind getting his hands dirty, he went out of his way to do things with his words. He became well know in his community for his loyalty and commitment to his partners
 
-While Salvatore didn't mind getting his hands dirty, he went out of his way to do things with his words. He became 
+Salvatore big break came when Burrowbard Stoneseeker, a respected business and figure in Reddwall reached out to Salvatore. Burrowbard was looking for a partner to help him mange the import and export of rare antiquities in and out of the city of Reddwall. Through Salvatore's talent and Burrowbard's contact within the city government a profitable operation, partnership, and friendship was born.
 
-Salvatore big break came when Burrowbard Stoneseeker, a respected business and figure in Reddwall reached out to Salvatore. Burrowbard was looking for a partner to help him mange the import and export of rare intiquities in and out of the city of Reddwall. Through Salvatore's talent and Burrowbard's contact within the city government a profitable operation was born, parntership, and friendship was born.
+The "business" went swimingly over the next couple of years. Eventually, Burrowbard reached to Salvatore about another business prospect he was cooking up...
 
+ChatGPT
 
+Salvatore Riggs spent his formative years navigating the gritty streets of Reddwall, raised in a lower-class family that instilled in him the importance of financial acumen. Early on, he grasped the imperative nature of money, initiating his journey by deftly picking pockets and peddling pilfered wares on the clandestine market. By the age of 18, Salvatore had evolved his endeavors into overseeing a modest fencing operation.
 
-Salvatore
+While Salvatore did not shy away from hands-on work, he distinguished himself through the finesse of his words. His reputation in the community burgeoned due to his unwavering loyalty and dedication to his associates. Salvatore's pivotal moment materialized when Burrowbard Stoneseeker, a highly regarded business figure in Reddwall, extended an invitation for collaboration.
 
-- Shaddy
-- business trader of antiquities
--
+Burrowbard sought a partner to co-manage the intricate logistics of importing and exporting rare antiquities in and out of Reddwall. Leveraging Salvatore's skills and Burrowbard's influential connections within the city government, a prosperous alliance was forged—marked by operational success, mutual partnership, and the blossoming of a genuine friendship.
+
+The enterprise flourished seamlessly in the ensuing years. As the business prospered, Burrowbard approached Salvatore with yet another entrepreneurial venture he was fervently developing.

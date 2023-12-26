@@ -34,6 +34,9 @@
 
 ### [Elinor Shortwick](PC/ElinorShortwick/ElinorShortwick.md)
 
+
+### [Salvatore Riggs](PC/SalvatoreRiggs/SalvatoreRiggs.md)
+
 ## Non Player Characters
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
