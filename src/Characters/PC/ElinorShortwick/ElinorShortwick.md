@@ -6,10 +6,10 @@
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | -1 | 3d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 4d6 |
 | Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 2 | 6d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 2 | 6d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 4d6 | Willpower         | 2 | 6d6 |
+| Endurance | 1 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 2 | 6d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 4d6 | Willpower         | 0 | 4d6 |
 
 ## Vocations and Vocational Skills
 
@@ -21,7 +21,7 @@
 
 |               Name               |                                 Effect                                 | Duration |                        Source                        |
 | :------------------------------: | :--------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|      Physical Defense Level      |                                   0                                   |          |                         Armor                         |
+|      Physical Defense Level      |                                   5                                   |          |                         Armor                         |
 |           Medium Size           |                         5x5 ft on battle map.                         |          |                                                      |
 |        Language: Babelish        |                          Can speak Babelish.                          |          |                                                      |
 |       Language: Deap-speak       |                         Can speak Deep-speak.                         |          |                                                      |
@@ -52,15 +52,21 @@
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-## Destiny Points: 0/3
+## Destiny Points: 3/3
 
-## Magic Resource: 0/3
+## Ichor: 7/7
 
 ## Equipment:
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name                         | # |         Class         |  Tier  | Durability | LB | Value |
+| ---------------------------- | :-: | :-------------------: | :-----: | :--------: | :-: | :----: |
+| Gambeson Coat                | 1 |      Phy. Def. 1      | Mundane |   12/12   | 5 |  2 bc  |
+| Gambeson Leggings            | 1 |     Phy. Def. 0.5     | Mundane |   12/12   | 3 |  1 bc  |
+| Leather Cuirass and Pauldron | 1 |     Phy. Def. 0.5     | Mundane |   12/12   | 4 |  3 bc  |
+| Leather Cuisses and Greaves  | 1 |     Phy. Def. 0.5     | Mundane |   12/12   | 3 |  2 bc  |
+| Leather Vambrace             | 1 |     Phy. Def. 0.5     | Mundane |   12/12   | 2 | 1.5 bc |
+| Scimitar                     | 1 | Medium Slashing Sword | Mundane |   12/12   | 2 | 25 bc |
+| Heater Shield                | 1 |      Phy. Def. 2      | Mundane |   12/12   | 8 |  7 bc  |
 
 ## Containers:
 
