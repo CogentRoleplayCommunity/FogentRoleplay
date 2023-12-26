@@ -105,14 +105,6 @@ Additional Details:
 
 ## Backstory:
 
-Salvatore Riggs grew up on the streets of Reddwall. His family was lower class, so from an early age he learn the nessesity of money. He started by picking pockets and selling the stolen goods on the black market. By the time he was 18 he was running his own minor fencing operation. While Salvatore didn't mind getting his hands dirty, he went out of his way to do things with his words. He became well know in his community for his loyalty and commitment to his partners
-
-Salvatore big break came when Burrowbard Stoneseeker, a respected business and figure in Reddwall reached out to Salvatore. Burrowbard was looking for a partner to help him mange the import and export of rare antiquities in and out of the city of Reddwall. Through Salvatore's talent and Burrowbard's contact within the city government a profitable operation, partnership, and friendship was born.
-
-The "business" went swimingly over the next couple of years. Eventually, Burrowbard reached to Salvatore about another business prospect he was cooking up...
-
-ChatGPT
-
 Salvatore Riggs spent his formative years navigating the gritty streets of Reddwall, raised in a lower-class family that instilled in him the importance of financial acumen. Early on, he grasped the imperative nature of money, initiating his journey by deftly picking pockets and peddling pilfered wares on the clandestine market. By the age of 18, Salvatore had evolved his endeavors into overseeing a modest fencing operation.
 
 While Salvatore did not shy away from hands-on work, he distinguished himself through the finesse of his words. His reputation in the community burgeoned due to his unwavering loyalty and dedication to his associates. Salvatore's pivotal moment materialized when Burrowbard Stoneseeker, a highly regarded business figure in Reddwall, extended an invitation for collaboration.
