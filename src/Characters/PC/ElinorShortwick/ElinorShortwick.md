@@ -16,9 +16,6 @@
 | Detective {INT}    | 1 |    | Fellkin {ALL} | 2 |     |
 | ------------------- | :-: | :-: | ------------- | - | --- |
 | Vocational Skill {} | 0 | 3d6 | Polycraft     | 2 | 6d6 |
-|                     | 0 | 3d6 |               |   |     |
-|                     | 0 | 3d6 |               |   |     |
-|                     | 0 | 3d6 |               |   |     |
 
 ## Effects:
 
@@ -94,7 +91,6 @@ Eyes: Green eyes
 Additional Details:
 
 ## Disposition:
-
 
 ## Beliefs/Morality:
 
