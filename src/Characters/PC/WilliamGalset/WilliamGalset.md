@@ -105,7 +105,7 @@ Additional Details: Burn scars on the left side of his face, one eye is grayed o
 
 * Distrustful
 * Bitter
-* Dishonorable
+* Always pays back a debt
 * Aggressive
 
 ## Beliefs/Morality:
@@ -118,7 +118,6 @@ Additional Details: Burn scars on the left side of his face, one eye is grayed o
 
 ## Goals/Aspirations:
 
-* Clear his name.
 * Earn enough money to send back to his family to get them out of debt.
 * Destroy the loan baron that tricked his family.
 * Steal Vasilii's money.
@@ -129,4 +128,4 @@ Additional Details: Burn scars on the left side of his face, one eye is grayed o
 
 Born to a poor family in Redland, William lives much of his life on the street, growing up amongst a tough crowd that taught him how to steal his bread, and provide for his family in a small way. During this time he became a proficient pickpocket and padfoot, and began to learn that taking from others felt good. However during these times, to save his sister from the Spore, his family had to take out a large loan to be able to purchase Healing Blood, being scammed by the loan baron that tricked them into the egregious loan. Now unable to support themselves thanks to the extreme conditions of the loan, William decides to take up a job as a mercenary at the age of 18, in order to send money back to his family in hopes of one day clearing them of their debt.
 
-During this time, William met a man named Burrowbard Stoneseeker and began to work for him, and after a time Burrowbard found out that William's family was deperately in debt due to his familyu being scammed by a loan baron, and was only working as a mercenary in order to pay it off. This made him sympathize with William and buy his family's debt out, charging no interest on the condition that William worked for him from then on. William enthusiastically agreed and began to work under him as his private mercenary.
+During this time, William met a man named Burrowbard Stoneseeker and began to work for him, and after a time Burrowbard found out that William's family was deperately in debt due to his family being scammed by a loan baron, and he was only working as a mercenary in order to pay it off. This made him sympathize with William and buy his family's debt out, charging no interest on the condition that William worked for him exclusively from then on. William enthusiastically agreed and began to work under him as his private mercenary.
