@@ -43,7 +43,7 @@
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |        Shortbow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                  |           Rapid           |        None        |        Arrow        |
 | Medium Thrusting Sword | 7d6<br />(+1d6) | 8d6<br />(+2d6) |      (+1d6)      |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword | 7d6<br />(+2d6) | 9d6<br />(+3d6) |   <br />(+1d6)   |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
+| Medium Slashing Sword | 7d6<br />(+2d6) | 9d6<br />(+3d6) |      (+1d6)      |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 | Small Thursting Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |         2         |    Melee    |  Pierce  |       Rapid       |           +1d6           |        None        |        None        |
 |  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |         0         |    Melee    |  Slash  |       Rapid       |           +1d6           |        None        |        None        |
 
