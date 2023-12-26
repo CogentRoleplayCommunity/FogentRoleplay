@@ -67,7 +67,7 @@ Represented by ninjas or assassins. Sneaking, hiding from others and moving with
 
 ### Communication
 
-Represented by politicians or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is the manner in which you communicate that will ultimately entail success or failure. It's not what you say, but how you say it.
+Represented by politicians or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is the manner in which you communicate that will ultimately entail success or failure. It's not what you say, but how you say it. It also is used to tell if someone is lying or decieving you.
 
 ### General Knowledge
 
