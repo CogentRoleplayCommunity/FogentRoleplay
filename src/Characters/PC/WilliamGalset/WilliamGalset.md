@@ -1,24 +1,24 @@
 # William Galset
 
-![img](WilliamGalset.jpg)
+![NotMyImage](WilliamGalset.jpg)
 
 ## Attributes and Core Skills
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 3d6 | Sleight of Hand | 1 | 5d6 | Survival          | 1 | 4d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
+| Lift      | 0 | 3d6 | Stealth         | 2 | 6d6 | Willpower         | -1 | 2d6 |
 
 ## Vocations and Vocational Skills
 
-| Scout {RFX}         | 1 |    |
-| ------------------- | :-: | :-: |
-| Medium Sword {RFX} | 1 | 5d6 |
-| Hand Crossbow {RFX} | 1 | 5d6 |
-|                     | 0 | 3d6 |
-|                     | 0 | 3d6 |
+| Scout {RFX}         | 2 | 6d6 | Fellkin{ALL}      | 0  | 4d6 |
+| ------------------- | :-: | :-: | ----------------- | -- | --- |
+| Medium Sword {ALL} | 2 | 6d6 | Shadowcraft {ALL} | -1 | 3d6 |
+|                     | 0 | 3d6 |                   |    |     |
+|                     | 0 | 3d6 |                   |    |     |
+|                     | 0 | 3d6 |                   |    |     |
 
 ## Effects:
 
@@ -39,15 +39,17 @@
 
 ## Combat Rolls:
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     Hand Crossbow     |      +1d6      |      +1d6      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |        Bolt        |
-| Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|        Shortbow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                  |           Rapid           |        None        |        Arrow        |
+| Medium Thrusting Sword | 7d6<br />(+1d6) | 7d6<br />(+2d6) |      (+1d6)      |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword | 7d6<br />(+2d6) | 8d6<br />(+3d6) |   <br />(+1d6)   |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
+| Small Thursting Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |         2         |    Melee    |  Pierce  |       Rapid       |           +1d6           |        None        |        None        |
+|  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |         0         |    Melee    |  Slash  |       Rapid       |           +1d6           |        None        |        None        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Broadhead Bolt |        Bolt        |        +1d6        |      1      | None |      Pierce      |        None        |
+| :-------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+| Broadhead Arrow |        Arrow        |  6d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
 ## Destiny Points: 1/3
 
@@ -55,18 +57,19 @@
 
 ## Equipment:
 
-| Name                                | # |                     Class                     |  Tier  | Durability |  LB  | Value |
-| ----------------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :---: |
-| Gambeson Coat                       | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  5  | 2 bc |
-| Gambeson Leggings                   | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  | 1 bc |
-| Leather Cuirass and Pauldrons       | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  4  | 3 bc |
-| Leather Cuisses and Greaves         | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  |      |
-| Arming Sword                        | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   |  2  | 2 bc |
-| Heater Shield                       | 1 |                  Phy. Def. 2                  | Mundane |   12/12   |  8  | 7 bc |
-| Hand Crossbow                       | 1 |                 Hand Crossbow                 | Mundane |   12/12   |  3  | 75 bc |
-| Case, Crossbow Bolts (capacity: 20) | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
-| Broadhead Bolt                      | 10 |                 Standard Bolt                 | Mundane |     -     | 0.75 | 1 bc |
-| Satchel (2/5 ft^3)                  | 1 |                12 lb container                | Mundane |            |  2  | 1 bc |
+| Name                          | # |                              Class                              |  Tier  | Durability | LB | Value |
+| ----------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :-: | :----: |
+| Gambeson Coat                 | 1 |                           Phy. Def. 1                           | Mundane |   12/12   |  5  |  2 bc  |
+| Gambeson Leggings             | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  3  |  1 bc  |
+| Leather Cuirass and Pauldrons | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  4  |  3 bc  |
+| Leather Cuisses and Greaves   | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  3  |        |
+| Leather Vambrace              | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  2  | 1.5 bc |
+| Arming Sword                  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Mundane |   12/12   |  2  |  2 bc  |
+| Dagger                        | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  |  2 bc  |
+| Shortbow                      | 1 |                            Light Bow                            | Mundane |   12/12   |  2  | 25 bc |
+| Broadhead Arrow               | 20 |                         Standard Arrow                         | Mundane |     -     | 0.5 |  1 bc  |
+| Quiver (capacity: 20)         | 1 |                              Misc                              | Mundane |            |  1  |  1 bc  |
+| Satchel (2/5 ft^3)            | 1 |                         12 lb container                         | Mundane |            |  2  |  1 bc  |
 
 ## Containers:
 
