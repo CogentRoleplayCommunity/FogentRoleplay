@@ -46,13 +46,14 @@
 ## Equipment:
 
 | Name                                 | # |                  Class                  |    Tier    | Durability | LB | Value |
-| ------------------------------------ | :-: | :--------------------------------------: | :---------: | :--------: | :-: | :---: |
-| Shoddy Leather Cuirass and Pauldrons | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 4 |      |
-| Shoddy Leather Cuisses and Greaves   | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 3 |      |
-| Shoddy Leather Vambrace              | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 2 |      |
-| Heater Shield                        | 1 |               Phy. Def. 2               |   Mundane   |   12/12   | 8 | 7 bc |
+| ------------------------------------ | :-: | :--------------------------------------: | :---------: | :--------: | :-: | :----: |
+| Shoddy Leather Helmet                | 1 |             1	Phy. Def. 0.5             |   Shoddy   |    9/9    | 2 | 0.5 bc |
+| Shoddy Leather Cuirass and Pauldrons | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 4 |  3 bc  |
+| Shoddy Leather Cuisses and Greaves   | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 3 |  2 bc  |
+| Shoddy Leather Vambrace              | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 2 | 1.5 bc |
+| Heater Shield                        | 1 |               Phy. Def. 2               |   Mundane   |   12/12   | 8 |  7 bc  |
 | Morning Star                         | 1 | Medium Hafted Blunt, Medium Hafted Point |   Mundane   |   12/12   | 4 | 15 bc |
-| Crude Wooden Javelin                 | 1 |     Short Spear, Thrown Short Spear     | Compromised |    6/6    | 3 | 1 bc |
+| Crude Wooden Javelin                 | 1 |     Short Spear, Thrown Short Spear     | Compromised |    6/6    | 3 |  1 bc  |
 
 ## Backstory
 
