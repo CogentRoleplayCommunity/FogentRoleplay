@@ -95,9 +95,17 @@ Additional Details:
 
 ## Disposition:
 
+
 ## Beliefs/Morality:
 
+- Will kill anyone except the weak such as women and children.
+- Dosen't follow any religions or deity.
+- Morals aren't fully realized.
+- Just consumed with anger, rage, and vengeance.
+
 ## Goals/Aspirations:
+
+- Kill the Black Spider
 
 ## Notes:
 
