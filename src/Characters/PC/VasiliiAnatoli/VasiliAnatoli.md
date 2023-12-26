@@ -57,23 +57,36 @@
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-## Destiny Points: 0/3
+## Destiny Points: 1/3
 
-## Magic Resource: 0/3
+## Magic Resource: 6/6
 
 ## Equipment:
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name               | # |                    Class                    |  Tier  | Durability | LB |  Value  |
+| ------------------ | :-: | :-----------------------------------------: | :-----: | :--------: | :-: | :-----: |
+| Longsword          | 1 | Large Thrusting Sword, Large Slashing Sword | Mundane |   12/12   | 3 |  15 bc  |
+| Chainmail Sleeves  | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 11 | 11.2 bc |
+| Chainmail Leggings | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 12 | 11.2 bc |
+| Chainmail Shirt    | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 20 | 22.4 bc |
+| Gambeson Leggings  | 1 |                Phy. Def. 0.5                | Mundane |   12/12   | 3 |  1 bc  |
+| Gambeson Coat      | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 5 |  2 bc  |
 
 ## Containers:
 
-### Container Name
+### Satchel
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name                   | # | Class |  Tier  | Durability |  LB  | Value |
+| ---------------------- | :-: | :---: | :-----: | :--------: | :--: | :----: |
+| Waterskin (4/4)        | 1 | Misc | Mundane |            |  5  | 20 cc |
+| Rations (1 day)        | 7 | Misc | Mundane |            |  2  | 350 cc |
+| Rope, Hempen (50 feet) | 1 | Misc | Mundane |            |  10  |  100c  |
+| Soap                   | 1 | Misc | Mundane |            | 0.5 |  2 cc  |
+| Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
+| Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
+| Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
+| Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
+| Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
 
 ## Appearance:
 
