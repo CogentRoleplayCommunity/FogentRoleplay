@@ -84,8 +84,8 @@
 | Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
 | Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
 | Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
-| Bronze Coin | 2 | Misc | Mundane |  | 0.04 | 2 bc |
-| Copper Coin | 28 | Misc | Mundane |  | 0.56 | 28 cc |
+| Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
+| Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
 
 ## Appearance:
 
@@ -127,6 +127,6 @@ Additional Details: Burn scars on the left side of his face, one eye is grayed o
 
 ## Backstory:
 
-Born to a poor family in Redland, William lives much of his life on the street, growing up amongst a tough crowd that taught him how to steal his bread, and provide for his family in a small way. During this time he became a proficient pickpocket and padfoot, and began to learn that taking from others felt good. However during these times, to save his sister from the Spore, his family had to take out a large loan to be able to purchase Healing Blood, being scammed by the loan baron that tricked them into the egregious loan. Now unable to support themselves thanks to the extreme conditions of the loan, William decides to take up a job in the Red Legion at the age of 18, in order to send money back to his family in hopes of one day clearing them of their debt.
+Born to a poor family in Redland, William lives much of his life on the street, growing up amongst a tough crowd that taught him how to steal his bread, and provide for his family in a small way. During this time he became a proficient pickpocket and padfoot, and began to learn that taking from others felt good. However during these times, to save his sister from the Spore, his family had to take out a large loan to be able to purchase Healing Blood, being scammed by the loan baron that tricked them into the egregious loan. Now unable to support themselves thanks to the extreme conditions of the loan, William decides to take up a job as a mercenary at the age of 18, in order to send money back to his family in hopes of one day clearing them of their debt.
 
-However this did not go to plan. After a few years of unimpressive service as a scout in the Red Legion, the stress caused William's tendencies flared up once more and he began to steal from the camp, swiping other soldier's personal items and equipment whenever possible. However he made one fatal slip and one day tried to steal from an Officer's tent, and was caught in the act. He moved quickly and fled, using his skills in stealth and quick movement to escape from the Legion. Now branded a deserter, he had no choice but to try and work as a manager until he can get the money to help his family, and then try to clear his name.
+During this time, William met a man named Burrowbard Stoneseeker and began to work for him, and after a time Burrowbard found out that William's family was deperately in debt due to his familyu being scammed by a loan baron, and was only working as a mercenary in order to pay it off. This made him sympathize with William and buy his family's debt out, charging no interest on the condition that William worked for him from then on. William enthusiastically agreed and began to work under him as his private mercenary.
