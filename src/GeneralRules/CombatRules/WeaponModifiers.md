@@ -6,9 +6,9 @@
 
 |  Description  | 1-Handed Dice | 2-Handed Dice | Penetration |  Range  | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :------------: | :-----------: | :-----------: | :---------: | :------: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Hand Crossbow                    |+1d6               |+1d6               |0          |Medium      |                |Standard           |+1d6              |None        |Bolt         |STR,RFX,INT      |
-|Light Crossbow                   |None               |+1d6               |0          |Extended    |                |Loading            |None              |None        |Bolt         |STR,RFX,INT      |
-|Light Bow                        |None               |+1d6               |0          |Extended    |                |Quick              |None              |None        |Arrow        |STR,RFX,INT      |
+| Hand Crossbow |     +1d6     |     +1d6     |      0      |  Medium  |        |       Standard       |     +1d6     | None |   Bolt   |     STR,RFX,INT     |
+| Light Crossbow |     None     |     +1d6     |      1      | Extended |        |       Loading       |     None     | None |   Bolt   |     STR,RFX,INT     |
+|   Light Bow   |     None     |     +1d6     |      0      | Extended |        |        Quick        |     None     | None |  Arrow  |     STR,RFX,INT     |
 
 - Dual Wield Hand Crossbow: The off-handed crossbow can target a separate opponent in a round. Dice are added or subtracted based if main and off hand combat rolls are different, though If both the main hand and offhand attacks are at the same target, gain +1d6 to the combat roll.
 
@@ -18,18 +18,18 @@
 
 |  Description  | 1-Handed Dice | 2-Handed Dice | Penetration |    Range    | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :------------: | :-----------: | :-----------: | :---------: | :----------: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Heavy Crossbow                   |None               |+2d6               |0          |Long        |                |Complex Loading    |None              |None        |Bolt         |STR,RFX,INT      |
-|Heavy Bow                        |None               |+2d6               |0          |Sharpshooter|                |Standard           |None              |None        |Arrow        |STR,RFX,INT      |
+| Heavy Crossbow |     None     |     +2d6     |      2      |     Long     |        |   Complex Loading   |     None     | None |   Bolt   |     STR,RFX,INT     |
+|   Heavy Bow   |     None     |     +2d6     |      2      | Sharpshooter |        |       Standard       |     None     | None |  Arrow  |     STR,RFX,INT     |
 
-- Heavy Bow Required Attribute: 1 STR
+- Heavy Bow Required Attribute to use: 1 STR
+- Heavy Bow Required Skill to use: Level 1
 
 ### Exotic Ranged
 
 | Description | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE |   Resource   | Governing Attributes |
 | :---------: | :-----------: | :-----------: | :---------: | :----: | :----: | :------------------: | :-----------: | :--: | :----------: | :------------------: |
-|Blowgun                          |+0d6               |+1d6               |0          |Medium      |                |Slow               |None              |None        |Blowgun Dart |STR,RFX,INT      |
-|Sling                            |+1d6               |+1d6               |1          |Medium      |                |Slow               |None              |None        |Sling Bullet |STR,RFX,INT      |
-
+|   Blowgun   |     +0d6     |     +1d6     |      0      | Medium |        |         Slow         |     None     | None | Blowgun Dart |     STR,RFX,INT     |
+|    Sling    |     +1d6     |     +1d6     |      1      | Medium |        |         Slow         |     None     | None | Sling Bullet |     STR,RFX,INT     |
 
 ## Weapon Resources
 
@@ -50,10 +50,10 @@
 
 |            Description            | 1-Handed Dice | 2-Handed Dice | Penetration | Range |  Damage  | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :-------------------------------: | :-----------: | :-----------: | :---------: | :---: | :------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Unarmed                          |-1                 |-1                 |0          |Melee       |Bludgeon        |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Hand Protection Unarmed          |+0d6               |+0d6               |0          |Melee       |Bludgeon        |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Disarming Unarmed                |+3d6               |+3d6               |0          |Melee       |Bludgeon        |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Disarming Hand Protection Unarmed|+4d6               |+4d6               |0          |Melee       |Bludgeon        |Rapid              |None              |None        |None         |STR,RFX,INT      |
+|              Unarmed              |      -1      |      -1      |      0      | Melee | Bludgeon |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+|      Hand Protection Unarmed      |     +0d6     |     +0d6     |      0      | Melee | Bludgeon |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+|         Disarming Unarmed         |     +3d6     |     +3d6     |      0      | Melee | Bludgeon |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Disarming Hand Protection Unarmed |     +4d6     |     +4d6     |      0      | Melee | Bludgeon |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
 
 ### Disarming
 
@@ -63,30 +63,29 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 - Can be used in close combat
 
-### Small Hafted 
+### Small Hafted
 
 (Small axe, small pick, kama, small mace, war hammer, crowbar, club)
 
-|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :----------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Small Hafted Axe                 |+1d6               |+1d6               |0          |Melee       |Hew             |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Small Hafted Blade               |+1d6               |+1d6               |0          |Melee       |Slash           |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Small Hafted Point               |+0d6               |+0d6               |2          |Melee       |Pierce          |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Thrown Small Axe                 |+1d6               |+1d6               |0          |Short       |Hew             |Quick              |None              |None        |None         |STR,RFX,INT      |
-|Small Hafted Blunt               |+0d6               |+0d6               |2          |Melee       |Bludgeon        |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Torch                            |+0d6               |+0d6               |2          |Melee       |Fire, Bludgeon  |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
+|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range |     Damage     | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :----------------: | :-----------: | :-----------: | :---------: | :---: | :------------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+|  Small Hafted Axe  |     +1d6     |     +1d6     |      0      | Melee |      Hew      |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Small Hafted Blade |     +1d6     |     +1d6     |      0      | Melee |     Slash     |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Small Hafted Point |     +0d6     |     +0d6     |      2      | Melee |     Pierce     |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+|  Thrown Small Axe  |     +1d6     |     +1d6     |      0      | Short |      Hew      |        Quick        |     None     | None |   None   |     STR,RFX,INT     |
+| Small Hafted Blunt |     +0d6     |     +0d6     |      2      | Melee |    Bludgeon    |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+|       Torch       |     +0d6     |     +0d6     |      2      | Melee | Fire, Bludgeon |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
 
 ### Small bladed
 
 (Dagger, shortsword)
 
-|       Description       | 1-Handed Dice | 2-Handed Dice | Penetration | Range |    Damage    | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :---------------------: | :-----------: | :-----------: | :---------: | :---: | :-----------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Small Thursting Point            |+0d6               |+0d6               |2          |Melee       |Pierce          |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Small Slashing Blade             |+1d6               |+1d6               |0          |Melee       |Slash           |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Thrown Small Blade               |+1d6               |+1d6               |0          |Short       |Slash           |Quick              |None              |None        |None         |STR,RFX,INT      |
-|Thrown Small Point               |+0d6               |+0d6               |1          |Short       |Pierce          |Quick              |None              |None        |None         |STR,RFX,INT      |
-
+|      Description      | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :-------------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+| Small Thursting Point |     +0d6     |     +0d6     |      2      | Melee | Pierce |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Small Slashing Blade |     +1d6     |     +1d6     |      0      | Melee | Slash |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+|  Thrown Small Blade  |     +1d6     |     +1d6     |      0      | Short | Slash |        Quick        |     None     | None |   None   |     STR,RFX,INT     |
+|  Thrown Small Point  |     +0d6     |     +0d6     |      1      | Short | Pierce |        Quick        |     None     | None |   None   |     STR,RFX,INT     |
 
 ## Medium weapons
 
@@ -94,21 +93,21 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (one handed axe, war pick, war hammer's spike, One-handed mace, morning star, war hammer)
 
-|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :---------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Med. Hafted Axe                  |+1d6               |+2d6               |2          |Melee       |Hew             |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Med. Hafted Blade                |+2d6               |+3d6               |0          |Melee       |Slash           |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Med. Hafted Point                |+1d6               |+2d6               |2          |Melee       |Pierce          |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Med. Hafted Blunt                |+0d6               |+1d6               |4          |Melee       |Bludgeon        |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
+|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range |  Damage  | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :---------------: | :-----------: | :-----------: | :---------: | :---: | :------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+|  Med. Hafted Axe  |     +1d6     |     +2d6     |      2      | Melee |   Hew   |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Med. Hafted Blade |     +2d6     |     +3d6     |      0      | Melee |  Slash  |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Med. Hafted Point |     +1d6     |     +2d6     |      2      | Melee |  Pierce  |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Med. Hafted Blunt |     +0d6     |     +1d6     |      4      | Melee | Bludgeon |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
 
 ### Medium sword
 
 (Arming-sword, sidesword, broadsword, one-handed falchion, messer, one-handed katana, scimitar, and wakizashi)
 
-| Description | 1-Handed Dice | 2-Handed Dice | Penetration | Range |    Damage    | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :---------: | :-----------: | :-----------: | :---------: | :---: | :-----------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Med. Thrusting Sword             |+1d6               |+2d6               |2          |Melee       |Pierce          |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Med. Slashing Sword              |+2d6               |+3d6               |0          |Melee       |Slash           |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
+|     Description     | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :------------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+| Med. Thrusting Sword |     +1d6     |     +2d6     |      2      | Melee | Pierce |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Med. Slashing Sword |     +2d6     |     +3d6     |      0      | Melee | Slash |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
 
 ## Large weapons
 
@@ -116,28 +115,28 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 (two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd)
 
-|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :----------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Large Hafted Axe                 |+0d6               |+2d6               |3          |Melee       |Hew             |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Large Hafted Blade               |+0d6               |+3d6               |2          |Melee       |Slash           |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Large Hafted Point               |+0d6               |+2d6               |3          |Melee       |Pierce          |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Large Hafted Blunt               |-1                 |+1d6               |5          |Melee       |Bludgeon        |Rapid              |None              |None        |None         |STR,RFX,INT      |
+|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range |  Damage  | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :----------------: | :-----------: | :-----------: | :---------: | :---: | :------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+|  Large Hafted Axe  |     +0d6     |     +2d6     |      3      | Melee |   Hew   |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Large Hafted Blade |     +0d6     |     +3d6     |      2      | Melee |  Slash  |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Large Hafted Point |     +0d6     |     +2d6     |      3      | Melee |  Pierce  |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Large Hafted Blunt |      -1      |     +1d6     |      5      | Melee | Bludgeon |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
 
 ### Large sword
 
 (Two-handed katana, two-handed falchion, two handed scimitar and kriegsmesser)
 
-| Description | 1-Handed Dice | 2-Handed Dice | Penetration | Range |    Damage    | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :---------: | :-----------: | :-----------: | :---------: | :---: | :-----------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Large Thrusting Sword            |+0d6               |+2d6               |3          |Melee       |Pierce          |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Large Slashing Sword             |+0d6               |+3d6               |2          |Melee       |Slash           |Rapid              |None              |None        |None         |STR,RFX,INT      |
+|      Description      | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :-------------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+| Large Thrusting Sword |     +0d6     |     +2d6     |      3      | Melee | Pierce |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Large Slashing Sword |     +0d6     |     +3d6     |      2      | Melee | Slash |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
 
 ### Short spear
 
 |    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :----------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Short Spear                      |+3d6               |+3d6               |3          |Melee       |Pierce          |Spear Rapid        |+1d6              |None        |None         |STR,RFX,INT      |
-|Thrown Short Spear               |+2d6               |+2d6               |3          |Short       |Pierce          |Standard           |None              |None        |None         |STR,RFX,INT      |
+|    Short Spear    |     +3d6     |     +3d6     |      3      | Melee | Pierce |     Spear Rapid     |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Thrown Short Spear |     +2d6     |     +2d6     |      3      | Short | Pierce |       Standard       |     None     | None |   None   |     STR,RFX,INT     |
 
 ## Reach Weapons
 
@@ -147,21 +146,21 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 (Poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, two handed mace, war hammer, maul, short poleaxe hammerhead)
 
-|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :----------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Reach Hafted Axe                 |-2                 |+3d6               |4          |Reach       |Hew             |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Reach Hafted Blade               |-2                 |+4d6               |3          |Reach       |Slash           |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Reach Hafted Point               |-2                 |+3d6               |4          |Reach       |Pierce          |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Reach Hafted Blunt               |-2                 |+2d6               |5          |Reach       |Bludgeon        |Rapid              |None              |None        |None         |STR,RFX,INT      |
+|    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range |  Damage  | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :----------------: | :-----------: | :-----------: | :---------: | :---: | :------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+|  Reach Hafted Axe  |      -2      |     +3d6     |      4      | Reach |   Hew   |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Reach Hafted Blade |      -2      |     +4d6     |      3      | Reach |  Slash  |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Reach Hafted Point |      -2      |     +3d6     |      4      | Reach |  Pierce  |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Reach Hafted Blunt |      -2      |     +2d6     |      5      | Reach | Bludgeon |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
 
 ### Greatsword
 
 (zweihänder)
 
-| Description | 1-Handed Dice | 2-Handed Dice | Penetration | Range |    Damage    | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
-| :---------: | :-----------: | :-----------: | :---------: | :---: | :-----------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Thrusting Greatsword             |-2                 |+3d6               |4          |Reach       |Pierce          |Rapid              |None              |None        |None         |STR,RFX,INT      |
-|Slashing Greatsword              |-2                 |+4d6               |3          |Reach       |Slash           |Rapid              |None              |None        |None         |STR,RFX,INT      |
+|     Description     | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
+| :------------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
+| Thrusting Greatsword |      -2      |     +3d6     |      4      | Reach | Pierce |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
+| Slashing Greatsword |      -2      |     +4d6     |      3      | Reach | Slash |        Rapid        |     None     | None |   None   |     STR,RFX,INT     |
 
 ### Long spear
 
@@ -169,11 +168,11 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 | Description | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :---------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Longspear                        |-2                 |+4d6               |4          |Reach       |Pierce          |Spear Rapid        |None              |None        |None         |STR,RFX,INT      |
+|  Longspear  |      -2      |     +4d6     |      4      | Reach | Pierce |     Spear Rapid     |     None     | None |   None   |     STR,RFX,INT     |
 
 ### Exotic Reach
 
 | Description | 1-Handed Dice | 2-Handed Dice | Penetration | Range |  Damage  | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :---------: | :-----------: | :-----------: | :---------: | :---: | :------: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|Whip                             |+1d6               |+1d6               |0          |Reach       |Slash           |Rapid              |+1d6              |None        |None         |STR,RFX,INT      |
-|Man Catcher                      |-1                 |+1d6               |2          |Reach       |Bludgeon        |Spear Rapid        |None              |None        |None         |STR,RFX,INT      |
+|    Whip    |     +1d6     |     +1d6     |      0      | Reach |  Slash  |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Man Catcher |      -1      |     +1d6     |      2      | Reach | Bludgeon |     Spear Rapid     |     None     | None |   None   |     STR,RFX,INT     |
