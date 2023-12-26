@@ -133,8 +133,6 @@ When you're prepared, proceed to the next section, "Vermkin Arrows," to initiate
 
 ## Feral Ambush
 
-![](LostTunnelsOfTundelver.png)
-
 To initiate the encounter, please read the following text aloud.
 
 ```
@@ -189,6 +187,8 @@ Overcoming the Vermkin ambush and finding the Mountainmaw hideout nets each the 
 
 The Ferralkin clan known as the Mountainmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Mountainmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Thrak, a Ferralkin who takes orders from the chief of the Mountainmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Mountainmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him.
 
+![NotMyImage](MountiainmawHideout.png)
+
 ### General Features
 
 The Mountainmaw cave ascends steeply, situated at the base of a substantial hill, with its caverns and passages embedded within the hill itself.
@@ -233,7 +233,7 @@ The thicket in area 2 proves impassable from the west side of the stream.
 
 The Vermkins stationed in area 2 are tasked with keeping a vigilant watch on this vicinity, yet their attention appears to waver. (Vermkins, being somewhat indolent, have a tendency to be lax in their duties.) However, should the characters generate considerable noise—such as engaging in heated debates, establishing a camp, clearing brush, and the like—the Vermkins in area 2 become alert and launch an attack through the thicket. The thicket provides the Vermkins with three-quarters cover, as detailed in the rulebook's section on cover rules.
 
-### Vermkin Blind
+### 2. Vermkin Blind
 
 Upon crossing to the east side of the stream, characters gain a view beyond the screening thickets into area 2. This serves as a Vermkin guard post, though the occupants display signs of boredom and inattention.
 
@@ -257,7 +257,7 @@ The cave gradually narrows into a steep fissure at its far end, permeated by the
 
 The room houses three wolves in total. While they cannot reach targets standing on the steps, all three wolves aggressively attack any creature, except a Vermkin, that enters the room (refer to the "Developments" section). Nearby Vermkins, accustomed to the constant snapping and snarling of the wolves, pay little attention to the sounds of internal strife.
 
-Any character attempting to calm the animals can make a CL Communication 3 check. Character's with that can speak Primal can reduce the CL by 1. If the wolves are provided with food, the CL is reduced by 1. A successful check allows the character to move freely within the room.
+Any character attempting to calm the animals can make a CL Survival 3 check. Character's with that can speak Primal can reduce the CL by 1. If the wolves are provided with food, the CL is reduced by 1. A successful check allows the character to move freely within the room.
 
 **Fissure.** An opening in the east wall leads to a narrow chimney that ascends 30 feet to area 8. The base of the fissure is cluttered with discarded rubbish from the opening above. Climbing or descending the chimney shaft requires a CL 2 Climb check. On a successful check, the character moves at once with their climbing speed. A result of CL 1 results in no gain or loss of ground, while a result of CL 0 causes the character to fall, incurring a bludgeon Minor Injury for first 10 feet fallen, with the injury increasing to a higher tier for ever additional 10 feet and landing prone at the base.
 
