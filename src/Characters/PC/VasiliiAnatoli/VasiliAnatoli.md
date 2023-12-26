@@ -15,7 +15,7 @@
 
 | Warrior {ALL}    | 2 | 6d6 | Fellkin {ALL}   | 2 | 6d6 |
 | ----------------- | :-: | :-: | --------------- | - | --- |
-| Large Sword {ALL} | 2 | 3d6 | Polycraft {ALL} | 2 | 6d6 |
+| Large Sword {ALL} | 2 | 6d6 | Polycraft {ALL} | 2 | 6d6 |
 |                   | 0 | 3d6 |                 |   |     |
 |                   | 0 | 3d6 |                 |   |     |
 |                   | 0 | 3d6 |                 |   |     |
@@ -42,24 +42,22 @@
 
 ## Combat Rolls:
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Polycraft - Melee Trick |       6d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |                    |
+| Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
+|    Polycraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|    Polycraft - Ranged    |       7d6       |                |                  |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |      1 (Ichor)      |
+|     Polycraft - Cone     |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |      1 (Ichor)      |
+|    Polycraft - Reach    |       7d6       |                |                  |      2      |  Reach  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|   Polycraft - Focused   |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |      1 (Ichor)      |
+|   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
+|  Large Thrusting Sword  | 6d6<br />(+0d6) | 8d6<br />(+2d6) |       None       |      3      |  Melee  |            Pierce            |           Rapid           |        None        |        None        |
+|   Large Slashing Sword   | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None       |      2      |  Melee  |            Slash            |           Rapid           |        None        |        None        |
 
 ## Destiny Points: 1/3
 
-## Magic Resource: 6/6
+## Ichor: 6/6
 
 ## Equipment:
 
