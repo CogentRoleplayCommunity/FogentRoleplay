@@ -13,11 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}   | 2 | 6d6 | Enterpenuer {INT} | 1 |  |
-| --------------- | :-: | :-: | ----------------- | - | - |
-| Sonocraft {ALL} | 2 | 6d6 |                   |   |  |
-|                 | 0 | 3d6 |                   |   |  |
-|                 | 0 | 3d6 |                   |   |  |
+| Fellkin {ALL}   | 2 | 6d6 | Enterpenuer {INT} | 1 | 5d6 |
+| --------------- | :-: | :-: | ----------------- | - | --- |
+| Sonocraft {ALL} | 2 | 6d6 |                   |   |     |
 
 ## Effects:
 
@@ -38,15 +36,15 @@
 
 ## Combat Rolls:
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Sonocraft - Ranged Trick |       6d6       |                |                  |      0      | Close |                  |         Standard         |        None        |        None        |
-|    Sonocraft - Ranged    |       7d6       |                |                  |      1      | Close |                  |         Standard         |        None        |      1 (Ichor)      |
-|     Sonocraft - Cone     |       7d6       |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|   Sonocraft - Focused   |       8d6       |                |                  |      2      | Close |                  |          Focused          |        None        |      1 (Ichor)      |
-|    Sonocraft - Sphere    |       8d6       |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-|  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  6d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-|  Medium Slashing Sword  | 6d6<br />(+2d6) | 7d6<br />(+3d6) |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Sonocraft - Ranged Trick |       6d6       |                |                  |      0      | Extended |                  |         Standard         |        None        |        None        |
+|    Sonocraft - Ranged    |       7d6       |                |                  |      1      | Extended |                  |         Standard         |        None        |      1 (Ichor)      |
+|     Sonocraft - Cone     |       7d6       |                |                  |      2      | Extended |                  |          Focused          |        Cone        |      1 (Ichor)      |
+|   Sonocraft - Focused   |       8d6       |                |                  |      2      | Extended |                  |          Focused          |        None        |      1 (Ichor)      |
+|    Sonocraft - Sphere    |       8d6       |                |                  |      3      | Extended |                  |          Focused          |       Sphere       |      2 (Ichor)      |
+|  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  6d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
+|  Medium Slashing Sword  | 6d6<br />(+2d6) | 7d6<br />(+3d6) |  7d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
