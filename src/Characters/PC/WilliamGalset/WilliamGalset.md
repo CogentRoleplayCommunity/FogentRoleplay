@@ -1,6 +1,6 @@
 # William Galset
 
-![img]()
+![img](WilliamGalset.jpg)
 
 ## Attributes and Core Skills
 
