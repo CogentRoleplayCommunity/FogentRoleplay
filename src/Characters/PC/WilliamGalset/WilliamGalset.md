@@ -33,8 +33,8 @@
 |     Inventory Weight     |                            29.75 lb                            |          |                       Equipment                       |
 |  Humanoid Carry Weight  |                             120 lb                             |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |       Light Weight       |                 -0d6 to STR/RFX governed skills                 |          |               0% - 25% of carry weight               |
-| Humanoid Movement Speed |                              45 ft                              |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|   Humanoid Swim Speed   |                              20 ft                              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+| Humanoid Movement Speed |                             40 ft                             |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|   Humanoid Swim Speed   |                              15 ft                              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |   Humanoid Climb Speed   |                              15 ft                              |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 
 ## Combat Rolls:
@@ -42,8 +42,8 @@
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |        Shortbow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                  |           Rapid           |        None        |        Arrow        |
-| Medium Thrusting Sword | 7d6<br />(+1d6) | 7d6<br />(+2d6) |      (+1d6)      |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword | 7d6<br />(+2d6) | 8d6<br />(+3d6) |   <br />(+1d6)   |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
+| Medium Thrusting Sword | 7d6<br />(+1d6) | 8d6<br />(+2d6) |      (+1d6)      |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword | 7d6<br />(+2d6) | 9d6<br />(+3d6) |   <br />(+1d6)   |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 | Small Thursting Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |         2         |    Melee    |  Pierce  |       Rapid       |           +1d6           |        None        |        None        |
 |  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |         0         |    Melee    |  Slash  |       Rapid       |           +1d6           |        None        |        None        |
 
@@ -84,6 +84,8 @@
 | Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
 | Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
 | Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
+| Bronze Coin | 2 | Misc | Mundane |  | 0.04 | 2 bc |
+| Copper Coin | 28 | Misc | Mundane |  | 0.56 | 28 cc |
 
 ## Appearance:
 
