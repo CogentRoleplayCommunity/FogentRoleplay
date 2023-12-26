@@ -1,5 +1,11 @@
 # Weapon Modifiers
 
+## Dual wielding
+
+Grants an additional dice bonus depending on the weapons class of the second weapon being used. To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Your non off-handed weapon must be a small or medium weapon.
+
+Secondary weapon: +1d6 to combat rolls
+
 ## Light Ranged Flexed
 
 - -1d6 in melee combat while attempting ranged attack
