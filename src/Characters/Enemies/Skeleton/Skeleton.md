@@ -42,12 +42,11 @@
 
 ## Combat Rolls:
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Medium Hafted Point |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Hafted Blunt |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|     Short Spear     |      +3d6      |      +3d6      |       +1d6       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   Medium Slashing Blade   |   (1d4, 4d6)   |   (1d4, 5d6)   |      (+1d6)      |      0      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|  Medium Thrusting Point  |   (1d4, 3d6)   |   (1d4, 4d6)   |      (+1d6)      |      2      | Melee |     Slashing     |           Rapid           |        None        |        None        |
+| Shoddy Shortbow Broadhead |      None      |   (1d4, 5d6)   |      (+1d6)      |      1      | Ranged |      Pierce      |           Quick           |        None        |        None        |
 
 ## Equipment:
 
