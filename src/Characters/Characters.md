@@ -50,10 +50,16 @@
 
 ## Enemies
 
+### [Cultist](Enemies/Cultist/Cultist.md)
+
 ### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
 
 ### [Feral Verminkin](Enemies/FeralVerminkin/FeralVerminkin.md)
 
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
+### [Skeleton](Enemies/Skeleton/Skeleton.md)
+
 ### [Wolf](Enemies/Wolf/Wolf.md)
+
+### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
