@@ -50,7 +50,7 @@
 
 ## Destiny Points: 1/3
 
-## Magic Resource: 0/0
+## Ichor: 0/0
 
 ## Equipment:
 
