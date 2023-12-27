@@ -37,6 +37,8 @@
 
 ### [Salvatore Riggs](PC/SalvatoreRiggs/SalvatoreRiggs.md)
 
+### [Vasilii Anatoli](PC/VasiliiAnatoli/VasiliAnatoli.md)
+
 ## Non Player Characters
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
