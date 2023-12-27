@@ -1,4 +1,4 @@
-# Vasili Anatoli
+# Vasili "The Bear Knight" Anatoli
 
 ![NotMyImage](VasiliiAnatoli.png)
 
@@ -133,4 +133,4 @@ When Vasilii was 23 his father had sent him, Artoym, and Borya his oldest brothe
 
 The whole incident was covered up, and his brother's death was blamed on a cell of revolutionists. Artoym pointed out that the people would rise up if Vasilii was executed. Instead his father banished him, never to return.
 
-Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilli genuinly being suprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilli grew into something of a folk hero in the region surrounding Reddwall.
+Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilli genuinly being suprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilli grew into something of a folk hero in the region surrounding Reddwall known as "The Bear Knight".
