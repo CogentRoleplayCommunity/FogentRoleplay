@@ -34,7 +34,7 @@
 
 ### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
 
-### [Vasilii Anatoli](PC/VasiliiAnatoli/VasiliAnatoli.md)
+### [Vasilii Anatoli](PC/VasiliiAnatoli/VasiliiAnatoli.md)
 
 ### [Verd Lambsquarter](PC/VerdLambsquarter/VerdLambsquarter.md)
 
