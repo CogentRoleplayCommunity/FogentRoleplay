@@ -82,7 +82,7 @@
 
 ## Appearance:
 
-Age: 24
+Age: 27
 
 Race: Beastkin (Bear)
 
