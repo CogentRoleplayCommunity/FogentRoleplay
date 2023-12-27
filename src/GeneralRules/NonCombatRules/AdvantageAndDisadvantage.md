@@ -2,22 +2,21 @@
 
 ## Advantage
 
-Addvatage is gained when you character gains the upper hand in a fight or circumstance favors them. For any dice rolled, 3 count as a success for that roll.
+Addvatage is gained when you character gains the upper hand in a fight or circumstance favors them. For any dice rolled, 3's count as a success for that roll.
 
  In combat this could be taking the highground, flanking an opponent, or attacking a downed opponent in melee. This can also be gained by spending a Destiny point preemptively on a roll.
 
 ## Disadvantage
 
-Disadvantage is gained when your character loses the upper hand in a fight or circumstance disfavors them. For any dice rolled, 4 count as a failure for that roll.
+Disadvantage is gained when your character loses the upper hand in a fight or circumstance disfavors them. For any dice rolled, 4's count as a failure for that roll.
 
-In combat this could be taking the losing your balance from a stagger, having to fight in melee while on the ground, or attacking a downed opponent in melee. This can also be gained by spending a Destiny point preemptively on a roll. 
-
+In combat this could be losing your balance from a stagger, having to fight in melee while on the ground, or attacking a downed opponent in from range.
 
 ## Super Advantage
 
 Gained under very specific conditions when the stars have aligned for your character. For any dice rolled, 3s and 2s count as a success for that roll.
 
-Super advantage can only gain when you already have advantage that was the result of another player character's action. You must then spend a destiny point preemptively, resulting in super advantage. This is equivilent to an awesome teamworker moment. Whether it's a massive combo attack or a daring political power play, it should be treated as a cool moment.
+Super advantage can only gain when you already have advantage that was the result of another player character's action. You must then spend a destiny point preemptively, resulting in super advantage. This is equivilent to an awesome teamwork moment. Whether it's a massive combo attack or a daring political power play, it should be treated as a cool moment.
 
 Super advantage can also be gained when finishing off an incapacitated opponent.
 

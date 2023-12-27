@@ -46,11 +46,11 @@ Conditions to apply when attacking beyond effective range.
 
 ### Within 2x Effective Range (Disadvantage):
 
-If a ranged shot is being within 2 times it's effective range and within it's max range.
+If a ranged shot is made within 2 times it's effective range.
 
 ### Exceeding 2x Effective Range (Super Disadvantage):
 
-If a ranged shot is being made greater than 2 times it's effective range but within it's max range.
+If a ranged shot is made greater than 2 times it's effective range.
 
 ## Off guard (CL in lieu of defense roll)
 
