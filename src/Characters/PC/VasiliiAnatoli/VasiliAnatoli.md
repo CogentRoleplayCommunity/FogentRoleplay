@@ -16,9 +16,6 @@
 | Warrior {ALL}    | 2 | 6d6 | Fellkin {ALL}   | 2 | 6d6 |
 | ----------------- | :-: | :-: | --------------- | - | --- |
 | Large Sword {ALL} | 2 | 6d6 | Polycraft {ALL} | 2 | 6d6 |
-|                   | 0 | 3d6 |                 |   |     |
-|                   | 0 | 3d6 |                 |   |     |
-|                   | 0 | 3d6 |                 |   |     |
 
 ## Effects:
 
@@ -27,18 +24,15 @@
 |    Physical Defense Level    |                                                                             0                                                                             |          |                         Armor                         |
 |         Medium Size         |                                                                   5x5 ft on battle map.                                                                   |          |                                                      |
 |      Language: Babelish      |                                                                    Can speak Babelish.                                                                    |          |                                                      |
-|          Language:          |                                                                        Can speak .                                                                        |          |                                                      |
+|       Language: Primal       |                                                                     Can speak Primal.                                                                     |          |                                                      |
 | Disabling: Scandolous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                      |
 |     Disabling: Alcholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
-|       Inventory Weight       |                                                                           0 lb                                                                           |          |                       Equipment                       |
+|       Inventory Weight       |                                                                           54 lb                                                                           |          |                       Equipment                       |
 |    Humanoid Carry Weight    |                                                                           220 lb                                                                           |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                              |          |               0% - 25% of carry weight               |
 |   Humanoid Movement Speed   |                                                                           30 ft                                                                           |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |     Humanoid Swim Speed     |                                                                           15 ft                                                                           |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |     Humanoid Climb Speed     |                                                                           15 ft                                                                           |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
-
-| Extreme addiction, suffers from withdrawals if not satisfied. |
-| ------------------------------------------------------------- |
 
 ## Combat Rolls:
 
@@ -139,4 +133,4 @@ When Vasilii was 23 his father had sent him, Artoym, and Borya his oldest brothe
 
 The whole incident was covered up, and his brother's death was blamed on a cell of revolutionists. Artoym pointed out that the people would rise up if Vasilii was executed. Instead his father banished him, never to return.
 
-Vasilii  took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn’t have the strength to fight for themselves.
+Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilli genuinly being suprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilli grew into something of a folk hero in the region surrounding Reddwall.
