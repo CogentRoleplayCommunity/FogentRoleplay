@@ -34,7 +34,6 @@
 
 ### [Elinor Shortwick](PC/ElinorShortwick/ElinorShortwick.md)
 
-
 ### [Salvatore Riggs](PC/SalvatoreRiggs/SalvatoreRiggs.md)
 
 ### [Vasilii Anatoli](PC/VasiliiAnatoli/VasiliAnatoli.md)
