@@ -1,6 +1,6 @@
 ## Player Characters
 
-### [CorneliusPandrus](PC/CorneliusPandrus/CorneliusPandrus.md)
+### [Cornelius Pandrus](PC/CorneliusPandrus/CorneliusPandrus.md)
 
 ### [Destin Shaffer](PC/DestinShaffer/DestinShaffer.md)
 
