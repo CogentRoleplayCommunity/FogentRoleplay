@@ -6,10 +6,10 @@
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 2 | 3d6 | Survival          | 2 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 2 | 3d6 | Willpower         | 0 | 3d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 6d6 |
+| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 4d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 2 | 5d6 | Survival          | 2 | 6d6 |
+| Lift      | 0 | 3d6 | Stealth         | 2 | 5d6 | Willpower         | 0 | 4d6 |
 
 ## Vocations and Vocational Skills
 
@@ -99,7 +99,6 @@ Additional Details:
 - Not being a rat
 
 ## Goals/Aspirations:
-
 
 ## Notes:
 
