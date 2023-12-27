@@ -27,7 +27,7 @@
 |       Language: Primal       |                                                                     Can speak Primal.                                                                     |          |                                                      |
 | Disabling: Scandolous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                      |
 |     Disabling: Alcholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
-|       Inventory Weight       |                                                                           54 lb                                                                           |          |                       Equipment                       |
+|       Inventory Weight       |                                                                           55 lb                                                                           |          |                       Equipment                       |
 |    Humanoid Carry Weight    |                                                                           220 lb                                                                           |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                              |          |               0% - 25% of carry weight               |
 |   Humanoid Movement Speed   |                                                                           30 ft                                                                           |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
@@ -55,14 +55,14 @@
 
 ## Equipment:
 
-| Name               | # |                    Class                    |  Tier  | Durability | LB |  Value  |
-| ------------------ | :-: | :-----------------------------------------: | :-----: | :--------: | :-: | :-----: |
-| Longsword          | 1 | Large Thrusting Sword, Large Slashing Sword | Mundane |   12/12   | 3 |  15 bc  |
-| Chainmail Sleeves  | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 11 | 11.2 bc |
-| Chainmail Leggings | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 12 | 11.2 bc |
-| Chainmail Shirt    | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 20 | 22.4 bc |
-| Gambeson Leggings  | 1 |                Phy. Def. 0.5                | Mundane |   12/12   | 3 |  1 bc  |
-| Gambeson Coat      | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 5 |  2 bc  |
+| Name                             | # |                    Class                    |  Tier  | Durability | LB |  Value  |
+| -------------------------------- | :-: | :-----------------------------------------: | :-----: | :--------: | :-: | :-----: |
+| Longsword                        | 1 | Large Thrusting Sword, Large Slashing Sword | Mundane |   12/12   | 3 |  15 bc  |
+| Chainmail Sleeves                | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 11 | 11.2 bc |
+| Chainmail Leggings               | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 12 | 11.2 bc |
+| Brigandine Cuirass and Pauldrons | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 20 |  60 bc  |
+| Gambeson Leggings                | 1 |                Phy. Def. 0.5                | Mundane |   12/12   | 3 |  1 bc  |
+| Gambeson Coat                    | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 5 |  2 bc  |
 
 ## Containers:
 
