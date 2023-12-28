@@ -32,7 +32,7 @@
 
 ### [Engageable Opponents](CombatRules/EngageableOpponents.md)
 
-### [Evasion Roll](CombatRules/EvasionRoll.md)
+### [Dodge](CombatRules/Dodge.md)
 
 ### [Item Tier And Durability](CombatRules/ItemTierAndDurability.md)
 

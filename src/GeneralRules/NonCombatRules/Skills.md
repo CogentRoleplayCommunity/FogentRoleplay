@@ -51,6 +51,11 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 Represented by circus performers or cat buglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging things, and avoiding traps or pitfalls.
 
+#### Dodge
+
+When an attack is made against a character who is not returning fire or attacking back, the defender can make an Acrobatics Roll vs the attacker's Combat Roll. Any levels over the defender's Evasion wins count as victories for the attacker. The Dodge Roll counts for the entire round. A Combat Roll and Dodge Roll can both be made in a round. If the character takes the Defensive combat modifier, then it is also applied.
+
+
 ### Perception
 
 Perception is the art of detecting things through the senses, such as sight sound or scent. It is used as the defence against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. While intellect can be vital in perception, it is the speed at which one notices things that can turn the tide in one's favour. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.

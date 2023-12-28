@@ -2,7 +2,7 @@
 
 ## Dash (2x Movement Speed)
 
-Instead of engaging in a combat roll, a player can choose to focus purely on their movement  in combat, doubling their movement speed. They can make an Evasion Roll. They may not take the Defensive modifier during a dash.
+Instead of engaging in a combat roll, a player can choose to focus purely on their movement  in combat, doubling their movement speed. They can still Dodge. They may not take the Defensive modifier during a dash.
 
 ## Charge (+1d6)
 
