@@ -63,7 +63,7 @@
 ,,,,,,,,,,
 "Blacksmith",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Adventuring Gear]~",,,,,,,,,,
+"-[Adventuring Gear]-",,,,,,,,,,
 "Bag of Ball Bearings",1000,Misc,Mundane,,2,70 cc,FALSE,TRUE,TRUE,TRUE
 "Bell",1,Misc,Mundane,,0.1,70 cc,FALSE,TRUE,TRUE,TRUE
 "Block and Tackle",1,Misc,Mundane,,5,70 cc,FALSE,FALSE,TRUE,TRUE
@@ -84,23 +84,23 @@
 "Pot, Iron",1,Misc,Mundane,,10,1 bc,FALSE,TRUE,TRUE,TRUE
 "Spikes, Iron",1,Misc,Mundane,,5,70 cc,FALSE,FALSE,TRUE,TRUE
 "Whetstone",1,Misc,Mundane,,1,1 cc,FALSE,TRUE,TRUE,TRUE
-"~[Tools]~",,,,,,,,,,
+"-[Tools]-",,,,,,,,,,
 "Carpenter's Tools",1,Misc,Mundane,,6,6 bc,FALSE,TRUE,TRUE,TRUE
 "Mason's Tools",1,Misc,Mundane,,8,7 bc,FALSE,FALSE,TRUE,TRUE
 "Smith's Tools",1,Misc,Mundane,,8,20 bc,TRUE,TRUE,TRUE,TRUE
 "Tinker's Tools",1,Misc,Mundane,,10,38 bc,FALSE,FALSE,FALSE,TRUE
-"~[Musical Instruments]~",,,,,,,,,,
+"-[Musical Instruments]-",,,,,,,,,,
 "Horn",1,Misc,Mundane,,2,3 bc,FALSE,FALSE,FALSE,TRUE
 ,,,,,,,,,,
 "Fletcher/Bowyer",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Weapon]~",,,,,,,,,,
+"-[Weapon]-",,,,,,,,,,
 "Light Crossbow",1,Light Crossbow,Mundane,12/12,5,25 bc,FALSE,TRUE,TRUE,TRUE
 "Shortbow",1,Light Bow,Mundane,12/12,2,25 bc,TRUE,TRUE,TRUE,TRUE
 "Hand Crossbow",1,Hand Crossbow,Mundane,12/12,3,75 bc,FALSE,FALSE,TRUE,TRUE
 "Heavy Crossbow",1,Heavy Crossbow,Mundane,12/12,11,50 bc,FALSE,TRUE,TRUE,TRUE
 "Longbow",1,Heavy Bow,Mundane,12/12,4,50 bc,TRUE,TRUE,TRUE,TRUE
-"~[Ammunition]~",,,,,,,,,,
+"-[Ammunition]-",,,,,,,,,,
 "Broadhead Arrow",20,Standard Arrow,Mundane,-,0.05,1 bc,TRUE,TRUE,TRUE,TRUE
 "Barbed Broadhead Arrow",20,Wounding Arrow,Mundane,-,0.05,1.4 bc,FALSE,FALSE,TRUE,TRUE
 "Bodkin Arrow",20,Anti-armor Arrow,Mundane,-,0.05,2 bc,FALSE,FALSE,TRUE,TRUE
@@ -109,7 +109,7 @@
 "Barbed Broadhead Bolt",20,Wounding Bolt,Mundane,-,0.075,1.4 bc,FALSE,FALSE,TRUE,TRUE
 "Bodkin Bolt",20,Anti-armor Bolt,Mundane,-,0.075,2 bc,FALSE,FALSE,TRUE,TRUE
 "Wood Tipped Bolt",20,Shoddy Bolt,Mundane,-,0.075,50 cc,TRUE,TRUE,TRUE,TRUE
-"~[Misc]~",,,,,,,,,,
+"-[Misc]-",,,,,,,,,,
 "Shortbow Bowstring",1,Misc,Mundane,,0.05,8 cc,TRUE,TRUE,TRUE,TRUE
 "Longbow Bowstring",1,Misc,Mundane,,0.05,10 cc,TRUE,TRUE,TRUE,TRUE
 "Hand Crossbow Bowstring",1,Misc,Mundane,,0.05,10 cc,FALSE,FALSE,FALSE,TRUE
@@ -120,14 +120,14 @@
 ,,,,,,,,,,
 "Leatherworker",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Armor]~",,,,,,,,,,
+"-[Armor]-",,,,,,,,,,
 "Leather Helmet",1,Phy. Def. 0.5,Mundane,12/12,2,0.5 bc,FALSE,FALSE,FALSE,TRUE
 "Leather Cuirass and Pauldrons",1,Phy. Def. 0.5,Mundane,12/12,4,3 bc,FALSE,FALSE,FALSE,TRUE
 "Leather Cuisses and Greaves",1,Phy. Def. 0.5,Mundane,12/12,3,2 bc,FALSE,FALSE,FALSE,TRUE
 "Leather Vambrace",1,Phy. Def. 0.5,Mundane,12/12,2,1.5 bc,FALSE,FALSE,FALSE,TRUE
-"~[Weapom]~",,,,,,,,,,
+"-[Weapom]-",,,,,,,,,,
 "Sling",1,Sling,Mundane,12/12,0.5,20 cc,TRUE,TRUE,FALSE,FALSE
-"~[Misc]~",,,,,,,,,,
+"-[Misc]-",,,,,,,,,,
 "Waterskin (0/4)",1,Misc,Mundane,,1,20 cc,TRUE,TRUE,TRUE,TRUE
 "Waterskin (4/4)",1,Misc,Mundane,,5,20 cc,TRUE,TRUE,TRUE,TRUE
 "Cobbler's Tools",1,Misc,Mundane,,5,5 bc,FALSE,TRUE,TRUE,TRUE
@@ -176,7 +176,7 @@
 "Flute",1,Misc,Mundane,,2,2 bc,FALSE,FALSE,FALSE,O
 "Lyre",1,Misc,Mundane,,2,30 bc,FALSE,FALSE,FALSE,O
 "Horn",1,Misc,Mundane,,2,3 bc,FALSE,FALSE,FALSE,O
-"~[Services]~",,,,,,,,,,
+"-[Services]-",,,,,,,,,,
 "Lvl 1 Blessing",,,,,10 bc,,TRUE,TRUE,TRUE,TRUE
 "Lvl 2 Blessing",,,,,50 bc,,FALSE,TRUE,TRUE,TRUE
 "Lvl 3 Blessing",,,,,50 bc,,TRUE,TRUE,TRUE,TRUE
@@ -243,14 +243,14 @@
 ,,,,,,,,,,
 "Adventuring Supplies",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Armor]~",,,,,,,,,,
+"-[Armor]-",,,,,,,,,,
 "Gambeson Coat",1,Phy. Def. 1,Mundane,12/12,5,2 bc,FALSE,FALSE,TRUE,TRUE
 "Gambeson Leggings",1,Phy. Def. 0.5,Mundane,12/12,3,1 bc,FALSE,FALSE,TRUE,TRUE
 "Leather Helmet",1,Phy. Def. 0.5,Mundane,12/12,2,0.5 bc,FALSE,FALSE,TRUE,TRUE
 "Leather Cuirass and Pauldrons",1,Phy. Def. 0.5,Mundane,12/12,4,3 bc,FALSE,FALSE,TRUE,TRUE
 "Leather Cuisses and Greaves",1,Phy. Def. 0.5,Mundane,12/12,3,2 bc,FALSE,FALSE,TRUE,TRUE
 "Leather Vambrace",1,Phy. Def. 0.5,Mundane,12/12,2,1.5 bc,FALSE,FALSE,TRUE,TRUE
-"~[Weapons]~",,,,,,,,,,
+"-[Weapons]-",,,,,,,,,,
 "Dagger",1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",Mundane,12/12,1,2 bc,TRUE,TRUE,TRUE,TRUE
 "Handaxe",1,Small Hafted Blade,Mundane,12/12,2,10 bc,TRUE,TRUE,TRUE,TRUE
 "Light Hammer",1,Small Hafted Blunt,Mundane,12/12,2,1 bc,FALSE,FALSE,TRUE,TRUE
@@ -266,7 +266,7 @@
 "Heavy Crossbow",1,Heavy Crossbow,Mundane,12/12,11,50 bc,FALSE,TRUE,TRUE,TRUE
 "Longbow",1,Heavy Bow,Mundane,12/12,4,50 bc,TRUE,TRUE,TRUE,TRUE
 "Blowgun",1,Blowgun,Mundane,12/12,1,10 bc,FALSE,TRUE,FALSE,FALSE
-"~ [Ammunition] ~",,,,,,,,,,
+"- [Ammunition] -",,,,,,,,,,
 "Broadhead Arrow",20,Standard Arrow,Mundane,-,0.05,1 bc,TRUE,TRUE,TRUE,TRUE
 "Barbed Broadhead Arrow",20,Wounding Arrow,Mundane,-,0.05,1.4 bc,FALSE,FALSE,TRUE,TRUE
 "Bodkin Arrow",20,Anti-armor Arrow,Mundane,-,0.05,2 bc,FALSE,FALSE,TRUE,TRUE
@@ -277,7 +277,7 @@
 "Wood Tipped Bolt",20,Shoddy Bolt,Mundane,-,0.075,50 cc,TRUE,TRUE,TRUE,TRUE
 "Sling Bullets",50,Standard Sling Bullets,Mundane,-,0.075,4 cc,FALSE,TRUE,TRUE,FALSE
 "Blowguns Needles Plain",20,Plain Needles,Mundane,-,0.05,50 cc,FALSE,TRUE,FALSE,FALSE
-"~ [Misc] ~",,,,,,,,,,
+"- [Misc] -",,,,,,,,,,
 "Backpack (1 ft^3)",1,30 lb container,Mundane,,5,2 bc,TRUE,TRUE,TRUE,TRUE
 "Bedroll",1,Misc,Mundane,,7,1 bc,TRUE,TRUE,TRUE,TRUE
 "Blanket",1,Misc,Mundane,,3,50 cc,TRUE,TRUE,TRUE,TRUE
@@ -464,16 +464,16 @@
 "Ring, Exquisite",1,Misc,Mundane,,0.2,3 bc,TRUE,TRUE,TRUE,TRUE
 "Ring, Mundane",1,Misc,Mundane,,0.2,30 cc,TRUE,TRUE,TRUE,TRUE
 "Signet Ring",1,Misc,Mundane,,0.2,5 bc,FALSE,TRUE,TRUE,TRUE
-"~[Tools]~",,,,,,,,,,
+"-[Tools]-",,,,,,,,,,
 "Jeweler's Tools",1,Misc,Mundane,,2,25 bc,FALSE,TRUE,TRUE,TRUE
-"~[Services]~",,,,,,,,,,
+"-[Services]-",,,,,,,,,,
 "Gemstone Apprasisal (3 gems)",,,,,5 bc,,TRUE,TRUE,TRUE,TRUE
 "Resizing Jewelry",,,,,10 bc,,FALSE,TRUE,TRUE,TRUE
 "Set Gem (<100 bc value)",,,,,45 bc,,FALSE,TRUE,TRUE,FALSE
 "Set Gem (100-1K bc value)",,,,,75 bc,,FALSE,FALSE,TRUE,TRUE
 "Set Gem (1K+ bc value)",,,,,150 bc,,FALSE,FALSE,FALSE,TRUE
 "Stone Cutting (+ value)",,,,,1/4 of value,,FALSE,FALSE,TRUE,TRUE
-"~[10 bc Gemstones]~",,,,,,,,,,
+"-[10 bc Gemstones]-",,,,,,,,,,
 "Azurite (Deep blue)",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,TRUE
 "Banded agate (Brown / Blue)",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,TRUE
 "Blue quartz (Pale blue)",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,TRUE
@@ -486,7 +486,7 @@
 "Rhodochrosite (Light pink)",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,TRUE
 "Tiger eye (Brown, gold center)",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,TRUE
 "Turquoise (Light blue-green)",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,FALSE
-"~[50 bc Gemstones]~",,,,,,,,,,
+"-[50 bc Gemstones]-",,,,,,,,,,
 "Bloodstone (Gray with red)",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,FALSE
 "Carnelian (Opaque oranges)",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,TRUE
 "Chalcedony (Opaque white)",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,TRUE
@@ -499,7 +499,7 @@
 "Sardonyx (Red & white)",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,TRUE
 "Star rose quartz (White star)",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,TRUE
 "Zircon (Pale blue-green)",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,TRUE
-"~[100 bc Gemstones]~",,,,,,,,,,
+"-[100 bc Gemstones]-",,,,,,,,,,
 "Amber (Watery gold)",1,Misc,Mundane,,0.1,100 bc,TRUE,FALSE,TRUE,TRUE
 "Amethyst (Deep purple)",1,Misc,Mundane,,0.1,100 bc,TRUE,FALSE,FALSE,TRUE
 "Chrysoberyl (Yellow-green)",1,Misc,Mundane,,0.1,100 bc,TRUE,FALSE,TRUE,TRUE
@@ -510,14 +510,14 @@
 "Pearl (Lustrous white to pink)",1,Misc,Mundane,,0.1,100 bc,TRUE,TRUE,TRUE,TRUE
 "Spinel (Clear red to green)",1,Misc,Mundane,,0.1,100 bc,TRUE,FALSE,TRUE,TRUE
 "Tourmaline (Pale Red / Brown)",1,Misc,Mundane,,0.1,100 bc,TRUE,FALSE,TRUE,TRUE
-"~[500 bc Gemstones]~",,,,,,,,,,
+"-[500 bc Gemstones]-",,,,,,,,,,
 "Alexandrite (Dark green)",1,Misc,Mundane,,0.1,,TRUE,FALSE,TRUE,TRUE
 "Aquamarine (Pale green-blue)",1,Misc,Mundane,,0.1,,TRUE,FALSE,TRUE,TRUE
 "Black pearl (Pure black)",1,Misc,Mundane,,0.1,,TRUE,FALSE,FALSE,TRUE
 "Bluespinel (Deep blue)",1,Misc,Mundane,,0.1,,TRUE,FALSE,TRUE,TRUE
 "Peridot (Rich olive green)",1,Misc,Mundane,,0.1,,TRUE,FALSE,TRUE,TRUE
 "Topaz (Golden yellow)",1,Misc,Mundane,,0.1,,TRUE,FALSE,FALSE,TRUE
-"~[1000 bc Gemstones]~",,,,,,,,,,
+"-[1000 bc Gemstones]-",,,,,,,,,,
 "Black Opal (Translucent green)",1,Misc,Mundane,,0.1,1000 bc,TRUE,FALSE,FALSE,TRUE
 "Blue sapphire (Shades of blue)",1,Misc,Mundane,,0.1,1000 bc,TRUE,FALSE,FALSE,TRUE
 "Emerald (Deep bright green)",1,Misc,Mundane,,0.1,1000 bc,TRUE,FALSE,TRUE,TRUE
@@ -526,12 +526,12 @@
 "Star ruby (Ruby with star)",1,Misc,Mundane,,0.1,1000 bc,TRUE,FALSE,FALSE,TRUE
 "Star sapphire (Blue with star)",1,Misc,Mundane,,0.1,1000 bc,TRUE,FALSE,FALSE,TRUE
 "Yellow Sapphire (Fiery yellow)",1,Misc,Mundane,,0.1,1000 bc,TRUE,FALSE,FALSE,TRUE
-"~[5000 bc Gemstones]~",,,,,,,,,,
+"-[5000 bc Gemstones]-",,,,,,,,,,
 "Black Sapphire (Lustrous black)",1,Misc,Mundane,,0.1,5000 bc,TRUE,FALSE,FALSE,TRUE
 "Diamond (Transparent)",1,Misc,Mundane,,0.1,5000 bc,TRUE,FALSE,FALSE,TRUE
 "Jacinth (Fiery orange)",1,Misc,Mundane,,0.1,5000 bc,TRUE,FALSE,FALSE,TRUE
 "Ruby (Shades of red)",1,Misc,Mundane,,0.1,5000 bc,TRUE,FALSE,FALSE,TRUE
-"~[Powdering of Gems]~",,,,,,,,,,
+"-[Powdering of Gems]-",,,,,,,,,,
 "10 bc Gemstones",1,Misc,Mundane,,0.1,10 bc,TRUE,TRUE,TRUE,TRUE
 "50 bc Gemstones",1,Misc,Mundane,,0.1,50 bc,TRUE,TRUE,TRUE,TRUE
 "100 bc Gemstones",1,Misc,Mundane,,0.1,100 bc,FALSE,FALSE,TRUE,TRUE
@@ -597,7 +597,7 @@
 "Calligrapher's Supplies",1,Misc,Mundane,,5,10 bc,FALSE,FALSE,TRUE,TRUE
 "Lute",1,Misc,Mundane,,2,35 bc,FALSE,FALSE,TRUE,TRUE
 "Lyre",1,Misc,Mundane,,2,30 bc,FALSE,FALSE,FALSE,TRUE
-"~[Services]~",,,,,,,,,,
+"-[Services]-",,,,,,,,,,
 "Magic Appraisal (Identify)",,,,,100 bc,,TRUE,TRUE,TRUE,TRUE
 "Common (Cantrip)",,,,,50 bc,,TRUE,TRUE,TRUE,TRUE
 "Common (Level 1)",,,,,100 bc,,TRUE,TRUE,TRUE,TRUE
@@ -608,52 +608,52 @@
 ,,,,,,,,,,
 "Inns",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Typical Breakfast Options: Commer]~",,,,,,,,,,
+"-[Typical Breakfast Options: Commer]-",,,,,,,,,,
 "“Meat” Stick",1,Misc,Mundane,,0.25,3 cc,FALSE,FALSE,FALSE,FALSE
 "Roasted Locusts",1,Misc,Mundane,,0.25,3 cc,FALSE,FALSE,FALSE,FALSE
 "Cheese Omelet",1,Misc,Mundane,,0.25,4 cc,FALSE,FALSE,FALSE,FALSE
 "Ham & Cheese on Rye",1,Misc,Mundane,,0.25,5 cc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Breakfast Options: Merchant]~",,,,,,,,,,
+"-[Typical Breakfast Options: Merchant]-",,,,,,,,,,
 "Bacon & Egg Sandwich",1,Misc,Mundane,,0.25,30 cc,FALSE,FALSE,FALSE,FALSE
 "Omelet “your’ Way",1,Misc,Mundane,,0.25,30 cc,FALSE,FALSE,FALSE,FALSE
 "Bloodhawk Eggs",1,Misc,Mundane,,0.25,40 cc,FALSE,FALSE,FALSE,FALSE
 "Bacon Stuffed Bread",1,Misc,Mundane,,0.25,50 cc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Breakfast Options: Noble]~",,,,,,,,,,
+"-[Typical Breakfast Options: Noble]-",,,,,,,,,,
 "Frittata & Herbs",1,Misc,Mundane,,0.25,1 bc,FALSE,FALSE,FALSE,FALSE
 "Bacon & Owlbear Eggs",1,Misc,Mundane,,0.25,2 bc,FALSE,FALSE,FALSE,FALSE
 "Boar Ham Steak & Eggs",1,Misc,Mundane,,0.25,2 bc,FALSE,FALSE,FALSE,FALSE
 "Truffle Omelet",1,Misc,Mundane,,0.25,3 bc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Lunch Options: Commoner]~",,,,,,,,,,
+"-[Typical Lunch Options: Commoner]-",,,,,,,,,,
 "Stockpot Stew/ Soup",1,Misc,Mundane,,0.25,4 cc,FALSE,FALSE,FALSE,FALSE
 "“Adventurer’s” Steak",1,Misc,Mundane,,0.25,4 cc,FALSE,FALSE,FALSE,FALSE
 "Minced Pork",1,Misc,Mundane,,0.25,5 cc,FALSE,FALSE,FALSE,FALSE
 "Roast Goat & Cheese",1,Misc,Mundane,,0.25,6 cc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Lunch Options: Merchant]~",,,,,,,,,,
+"-[Typical Lunch Options: Merchant]-",,,,,,,,,,
 "Roast Lamb & Cheese",1,Misc,Mundane,,0.25,40 cc,FALSE,FALSE,FALSE,FALSE
 "Boar Tenderloin",1,Misc,Mundane,,0.25,50 cc,FALSE,FALSE,FALSE,FALSE
 "Baked Goose Breast",1,Misc,Mundane,,0.25,50 cc,FALSE,FALSE,FALSE,FALSE
 "Grilled Salmon",1,Misc,Mundane,,0.25,60 cc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Lunch Options: Noble]~",,,,,,,,,,
+"-[Typical Lunch Options: Noble]-",,,,,,,,,,
 "Rack of Lamb",1,Misc,Mundane,,0.25,2 bc,FALSE,FALSE,FALSE,FALSE
 "Shellfish Platter",1,Misc,Mundane,,0.25,3 bc,FALSE,FALSE,FALSE,FALSE
 "Dragon Turtle Soup",1,Misc,Mundane,,0.25,4 bc,FALSE,FALSE,FALSE,FALSE
 "Roc Meat Portion",1,Misc,Mundane,,0.25,5 bc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Dinner Options: Commoner]~",,,,,,,,,,
+"-[Typical Dinner Options: Commoner]-",,,,,,,,,,
 "Stockpot Stew/ Soup",1,Misc,Mundane,,0.25,4 cc,FALSE,FALSE,FALSE,FALSE
 "Grave of Small Birds",1,Misc,Mundane,,0.25,5 cc,FALSE,FALSE,FALSE,FALSE
 "‘Tasha’s Hideous’ Stew",1,Misc,Mundane,,0.25,5 cc,FALSE,FALSE,FALSE,FALSE
 "Rabbit & Potato Plate",1,Misc,Mundane,,0.25,6 cc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Dinner Options: Merchant]~",,,,,,,,,,
+"-[Typical Dinner Options: Merchant]-",,,,,,,,,,
 "Hunter’s Pie",1,Misc,Mundane,,0.25,40 cc,FALSE,FALSE,FALSE,FALSE
 "Bloodhawk Breast",1,Misc,Mundane,,0.25,50 cc,FALSE,FALSE,FALSE,FALSE
 "Crocodile Steak",1,Misc,Mundane,,0.25,50 cc,FALSE,FALSE,FALSE,FALSE
 "Roasted Bullywug Legs",1,Misc,Mundane,,0.25,60 cc,FALSE,FALSE,FALSE,FALSE
-"~[Typical Dinner Options: Merchant]~",,,,,,,,,,
+"-[Typical Dinner Options: Merchant]-",,,,,,,,,,
 "Buffalo Ribeye",1,Misc,Mundane,,0.25,2 bc,FALSE,FALSE,FALSE,FALSE
 "Sahuagin Caviar",1,Misc,Mundane,,0.25,3 bc,FALSE,FALSE,FALSE,FALSE
 "Owlbear Steak & Eggs",1,Misc,Mundane,,0.25,4 bc,FALSE,FALSE,FALSE,FALSE
 "[color] Dragon Steak",1,Misc,Mundane,,0.25,5 bc,FALSE,FALSE,FALSE,FALSE
-"~[Room Prices, Inns/Taverns]~",,,,,,,,,,
+"-[Room Prices, Inns/Taverns]-",,,,,,,,,,
 "Commoner Room",,,,,5 cc,,TRUE,TRUE,TRUE,TRUE
 "Modest Room",,,,,10 cc,,TRUE,TRUE,TRUE,TRUE
 "Merchant Room",,,,,1 bc,,TRUE,TRUE,TRUE,TRUE
@@ -728,7 +728,7 @@
 ,,,,,,,,,,
 "High End Clothing",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Custom Clothing Items]~",,,,,,,,,,
+"-[Custom Clothing Items]-",,,,,,,,,,
 "Bandolier",1,Misc,Mundane,,0.5,8 bc,FALSE,FALSE,FALSE,FALSE
 "Belt",1,Misc,Mundane,,0.5,2 bc,FALSE,FALSE,FALSE,FALSE
 "“Better” Backpack (1.2 ft^3)",1,35 lb container,Mundane,,5,4 bc,FALSE,FALSE,FALSE,FALSE
@@ -759,7 +759,7 @@
 "Tunic",1,Misc,Mundane,,2,50 cc,FALSE,FALSE,FALSE,FALSE
 "Undergarments",1,Misc,Mundane,,0.5,50 cc,FALSE,FALSE,FALSE,FALSE
 "Vests",1,Misc,Mundane,,1,3 bc,FALSE,FALSE,FALSE,FALSE
-"~[Extras]~",,,,,,,,,,
+"-[Extras]-",,,,,,,,,,
 "Closure Devices (Options): Buckles",1,Misc,Mundane,,0.2,10 cc,FALSE,FALSE,FALSE,FALSE
 "Closure Devices (Options): Snaps",1,Misc,Mundane,,0.2,50 cc,FALSE,FALSE,FALSE,FALSE
 "Cosmetic: Embroidery (per foot)",1,Misc,Mundane,,0,2 bc,FALSE,FALSE,FALSE,FALSE
@@ -772,7 +772,7 @@
 ,,,,,,,,,,
 "Special Materials, Leather Armor Pieces",,,,,,,,,,
 "Name",#,Type,Tier,Durability,Weight,Value,Limited Stock,Rural Locale,Urban Locale,Premium Locale
-"~[Custom Armor Parts]~",,,,,,,,,,
+"-[Custom Armor Parts]-",,,,,,,,,,
 "Cosmetic: Bracers",1,Misc,Mundane,,0,50 cc,FALSE,FALSE,FALSE,FALSE
 "Cosmetic: Breastplate",1,Misc,Mundane,,0,3 bc,FALSE,FALSE,FALSE,FALSE
 "Boots",1,Misc,Mundane,,1,4 bc,FALSE,FALSE,FALSE,FALSE
@@ -788,7 +788,7 @@
 "Cosmetic: Helmet",1,Misc,Mundane,,0,2 bc,FALSE,FALSE,FALSE,FALSE
 "Cosmetic: Pauldrons (Shoulders)",1,Misc,Mundane,,0,1 bc,FALSE,FALSE,FALSE,FALSE
 "Cosmetic: Sabatons (Feet)",1,Misc,Mundane,,0,50 cc,FALSE,FALSE,FALSE,FALSE
-"~[Custom Accessories]~",,,,,,,,,,
+"-[Custom Accessories]-",,,,,,,,,,
 "Small Shield (Buckler, Targe, Parma)",1,Phy. Def. 1,Mundane,12/12,4,2 bc,FALSE,FALSE,FALSE,FALSE
 "Quiver (capacity: 20)",1,Misc,Mundane,,1,1 bc,FALSE,FALSE,FALSE,FALSE
 "Cosmetic: Sheathe (See Unit Note)",1,Misc,Mundane,,0,80 cc,FALSE,FALSE,FALSE,FALSE
