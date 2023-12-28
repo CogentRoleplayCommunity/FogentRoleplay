@@ -34,7 +34,7 @@
 
 ### [Evasion Roll](CombatRules/EvasionRoll.md)
 
-### [Item Tier](CombatRules/ItemTier.md)
+### [Item Tier And Durability](CombatRules/ItemTierAndDurability.md)
 
 ### [Range](CombatRules/Range.md)
 

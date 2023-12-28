@@ -1,4 +1,6 @@
-# Item Tier
+# Item Tier And Durability
+
+## Item Tier
 
 Items are created with carious levels of quality. Depending on an individual items tiers, it will have the following stats associated with it.
 
@@ -22,13 +24,15 @@ Items are created with carious levels of quality. Depending on an individual ite
 |   Mythic   |  11  |     11     | 1d12, 2d20 |       45       |
 |  Artifact  |  12  |     12     |    3d20    |       48       |
 
-## Base Dice Modification
+### Base Dice Modification
 
 Base Dice are a reflection of a higher/lower quality of an item when used. Replace the typical 3d6 base dice with the corresponding dice on the item tier table. For instance, a mundane dagger for a character rolls 4d6. With a Mythic dagger they would roll 1d6, 1d12, and 2d20. This also applies to Conduits, tools used in skill rolls (high quality grappling hook for Climb), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability and upgrade slots.
 
 On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a destiny point is used preemptively to turn 3's into successes).
 
-## Durability
+## Item Durability (Optional)
+
+Using item durability is a great way to increase immersion (having to go to blacksmith or learn to repair their grear) and challenge for your players.However, for players that want a more casul experience, item durability can be disregarded. This is my (Javk Wick here) preferred way to play.
 
 ### Weapon Durability
 
@@ -47,3 +51,11 @@ An armors durability decreases by level of injury inflicted plus the attacks def
 - Armor damage = (level of injury inflicted) + (attack's armor penetration)
 
 If an injury is not fully negated by the defender's armor, then all pieces of armor take armor damage.
+
+### Normal Play Durability Rules
+
+When an item's durability falls, it's base dice remain unchanged until the weapon reaches 9 durability (or Shoddy) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Comprimised.
+
+### Hardcore Durability Rules
+
+When an item's durability falls, each time your item's durability falls to lower tier's max durability, you then use that lower tier's base dice. For instance, if I had a legendary tier sword with 23 durability I would be rolling the Superior tier base dice.
