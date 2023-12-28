@@ -12,6 +12,8 @@
 
 ### [Healing](NonCombatRules/Healing.md)
 
+### [Perks](NonCombatRules/Perks.md)
+
 ### [Skills](NonCombatRules/Skills.md)
 
 ### [Vision and Light](NonCombatRules/LightAndVision.md)
