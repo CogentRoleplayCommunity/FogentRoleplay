@@ -1,187 +1,189 @@
-## Items
+# Items
 
-### Shops
+## Shops
 
-#### [Armory](./ItemShop.md#armory)
+### [Out of Game Downtime Bartering Rules](ItemShop.md#out-of-game-downtime-bartering-rules)
 
-#### [Weaponsmith](ItemShop.md#weaponsmith)
+### [Armory](ItemShop.md#armory)
 
-#### [Blacksmith](ItemShop.md#blacksmith)
+### [Weaponsmith](ItemShop.md#weaponsmith)
 
-#### [Leatherworker](ItemShop.md#leatherworker)
+### [Blacksmith](ItemShop.md#blacksmith)
 
-#### [Temple/Faith Supplies](ItemShop.md#templefaith-supplies)
+### [Leatherworker](ItemShop.md#leatherworker)
 
-#### [Book Prices (Library or Otherwise)](ItemShop.md#book-prices-library-or-otherwise)
+### [Temple/Faith Supplies](ItemShop.md#templefaith-supplies)
 
-#### [Genral Store](ItemShop.md#general-store)
+### [Book Prices (Library or Otherwise)](ItemShop.md#book-prices-library-or-otherwise)
 
-#### [Adventuring Supplies](ItemShop.md#adventuring-supplies)
+### [Genral Store](ItemShop.md#general-store)
 
-#### [Shady Dealer - General Store Add-on](ItemShop.md#shady-dealer---general-store-add-on)
+### [Adventuring Supplies](ItemShop.md#adventuring-supplies)
 
-#### [Magical Theme - General Store Add-on](ItemShop.md#magical-theme---general-store-add-on)
+### [Shady Dealer - General Store Add-on](ItemShop.md#shady-dealer---general-store-add-on)
 
-#### [Water-side Theme - General Store Add-on](ItemShop.md#water-side-theme---general-store-add-on)
+### [Magical Theme - General Store Add-on](ItemShop.md#magical-theme---general-store-add-on)
 
-#### [Art and Games Theme - General Store Add-on](ItemShop.md#art-and-games-theme---general-store-add-on)
+### [Water-side Theme - General Store Add-on](ItemShop.md#water-side-theme---general-store-add-on)
 
-#### [Tailor/Textiles](ItemShop.md#tailortextiles)
+### [Art and Games Theme - General Store Add-on](ItemShop.md#art-and-games-theme---general-store-add-on)
 
-#### [Transportation](ItemShop.md#transportation)
+### [Tailor/Textiles](ItemShop.md#tailortextiles)
 
-#### [Jeweler](ItemShop.md#jeweler)
+### [Transportation](ItemShop.md#transportation)
 
-#### [Potion Shop](ItemShop.md#potion-shop)
+### [Jeweler](ItemShop.md#jeweler)
 
-#### [Arcane Shop](ItemShop.md#arcane-shop)
+### [Potion Shop](ItemShop.md#potion-shop)
 
-#### [Inns](ItemShop.md#inns)
+### [Arcane Shop](ItemShop.md#arcane-shop)
 
-#### [Market Produce/Foods](ItemShop.md#market-producefoods)
+### [Inns](ItemShop.md#inns)
 
-#### [Creature Parts Values](ItemShop.md#creature-parts-values)
+### [Market Produce/Foods](ItemShop.md#market-producefoods)
 
-#### [High End](ItemShop.md#high-end)
+### [Creature Parts Values](ItemShop.md#creature-parts-values)
 
-#### [Special Materials, Leather Armor Pieces](ItemShop.md#special-materials-leather-armor-pieces)
+### [High End](ItemShop.md#high-end)
 
-#### [Special Crafting Materials](ItemShop.md#special-crafting-materials)
+### [Special Materials, Leather Armor Pieces](ItemShop.md#special-materials-leather-armor-pieces)
 
-### Unique Weapons
+### [Special Crafting Materials](ItemShop.md#special-crafting-materials)
 
-#### [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
+## Unique Weapons
 
-#### [Adversary - Damaged](UniqueWeapons/Adversary-Damaged/Adversary-Damaged.md)
+### [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
 
-#### [Asclepius](UniqueWeapons/Asclepius/Asclepius.md)
+### [Adversary - Damaged](UniqueWeapons/Adversary-Damaged/Adversary-Damaged.md)
 
-#### [Asher&#39;s Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
+### [Asclepius](UniqueWeapons/Asclepius/Asclepius.md)
 
-#### [Char](UniqueWeapons/Char/Char.md)
+### [Asher&#39;s Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
 
-#### [Dancing Moonlight](UniqueWeapons/DancingMoonlight/DancingMoonlight.md)
+### [Char](UniqueWeapons/Char/Char.md)
 
-#### [The Spear of Destiny](UniqueWeapons/TheSpearOfDestiny/TheSpearOfDestiny.md)
+### [Dancing Moonlight](UniqueWeapons/DancingMoonlight/DancingMoonlight.md)
 
-#### [Hew](UniqueWeapons/Hew/Hew.md)
+### [The Spear of Destiny](UniqueWeapons/TheSpearOfDestiny/TheSpearOfDestiny.md)
 
-#### [Monkey Staff](UniqueWeapons/MonkeyStaff/MonkeyStaff.md)
+### [Hew](UniqueWeapons/Hew/Hew.md)
 
-#### [Talon - Replica](UniqueWeapons/Talon-Replica/Talon-Replica.md)
+### [Monkey Staff](UniqueWeapons/MonkeyStaff/MonkeyStaff.md)
 
-#### [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)
+### [Talon - Replica](UniqueWeapons/Talon-Replica/Talon-Replica.md)
 
-#### [Sirius&#39;s Sword](UniqueWeapons/Siruis'sSword/Siruis'sSword.md)
+### [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)
 
-#### [Echo](UniqueWeapons/Echo/Echo.md)
+### [Sirius&#39;s Sword](UniqueWeapons/Siruis'sSword/Siruis'sSword.md)
 
-### Unique Armor
+### [Echo](UniqueWeapons/Echo/Echo.md)
 
-#### [Dragonguard](UniqueArmor/Dragonguard/Dragonguard.md)
+## Unique Armor
 
-#### [Guardian Shield](UniqueArmor/GuardianShield/GuardianShield.md)
+### [Dragonguard](UniqueArmor/Dragonguard/Dragonguard.md)
 
-### Potions
+### [Guardian Shield](UniqueArmor/GuardianShield/GuardianShield.md)
 
-#### [Vial of Gradual Healing Blood](Potions/VialOfGradualHealingBlood/VialOfGradualHealingBlood.md)
+## Potions
 
-#### [Vial of Minor Healing Blood](Potions/VialOfMinorHealingBlood/VialOfMinorHealingBlood.md)
+### [Vial of Gradual Healing Blood](Potions/VialOfGradualHealingBlood/VialOfGradualHealingBlood.md)
 
-#### [Vial of Medium Healing Blood](Potions/VialOfMediumHealingBlood/VialOfMediumHealingBlood.md)
+### [Vial of Minor Healing Blood](Potions/VialOfMinorHealingBlood/VialOfMinorHealingBlood.md)
 
-#### [Vial of Serious Healing Blood](Potions/VialOfSeriousHealingBlood/VialOfSeriousHealingBlood.md)
+### [Vial of Medium Healing Blood](Potions/VialOfMediumHealingBlood/VialOfMediumHealingBlood.md)
 
-#### [Vial of Fatal Healing Blood](Potions/VialOfFatalHealingBlood/VialOfFatalHealingBlood.md)
+### [Vial of Serious Healing Blood](Potions/VialOfSeriousHealingBlood/VialOfSeriousHealingBlood.md)
 
-#### [Vial of Revival Healing Blood](Potions/VialOfRevivalHealingBlood/VialOfRevivalHealingBlood.md)
+### [Vial of Fatal Healing Blood](Potions/VialOfFatalHealingBlood/VialOfFatalHealingBlood.md)
 
-### Unique Misc
+### [Vial of Revival Healing Blood](Potions/VialOfRevivalHealingBlood/VialOfRevivalHealingBlood.md)
 
-#### [Petty Brightstone](UniqueMisc/PettyBrightstone/PettyBrightstone.md)
+## Unique Misc
 
-#### [Mechanical Heart](UniqueMisc/MechanicalHeart/MechanicalHeart.md)
+### [Petty Brightstone](UniqueMisc/PettyBrightstone/PettyBrightstone.md)
 
-### Talismans
+### [Mechanical Heart](UniqueMisc/MechanicalHeart/MechanicalHeart.md)
 
-#### [Amulet Of Reflection](Talismans/AmuletOfReflection/AmuletOfReflection.md)
+## Talismans
 
-#### [Arsenal Charm](Talismans/ArsenalCharm/ArsenalCharm.md)
+### [Amulet Of Reflection](Talismans/AmuletOfReflection/AmuletOfReflection.md)
 
-#### [Arsenal Charm +1](Talismans/ArsenalCharm+1/ArsenalCharm+1.md)
+### [Arsenal Charm](Talismans/ArsenalCharm/ArsenalCharm.md)
 
-#### [Assassin&#39;s Azulian Talisman](Talismans/Assassin'sAzulianTalisman/Assassin'sAzulianTalisman.md)
+### [Arsenal Charm +1](Talismans/ArsenalCharm+1/ArsenalCharm+1.md)
 
-#### [Assassin&#39;s Crimson Talisman](Talismans/Assassin'sCrimsonTalisman/Assassin'sCrimsonTalisman.md)
+### [Assassin&#39;s Azulian Talisman](Talismans/Assassin'sAzulianTalisman/Assassin'sAzulianTalisman.md)
 
-#### [Azulian Talisman](Talismans/AzulianTalisman/AzulianTalisman.md)
+### [Assassin&#39;s Crimson Talisman](Talismans/Assassin'sCrimsonTalisman/Assassin'sCrimsonTalisman.md)
 
-#### [Azulian Talisman +1](Talismans/AzulianTalisman+1/AzulianTalisman+1.md)
+### [Azulian Talisman](Talismans/AzulianTalisman/AzulianTalisman.md)
 
-#### [Azulian Talisman +2](Talismans/AzulianTalisman+2/AzulianTalisman+2.md)
+### [Azulian Talisman +1](Talismans/AzulianTalisman+1/AzulianTalisman+1.md)
 
-#### [Blessed Dew Talisman](Talismans/BlessedDewTalisman/BlessedDewTalisman.md)
+### [Azulian Talisman +2](Talismans/AzulianTalisman+2/AzulianTalisman+2.md)
 
-#### [Claw Talisman](Talismans/ClawTalisman/ClawTalisman.md)
+### [Blessed Dew Talisman](Talismans/BlessedDewTalisman/BlessedDewTalisman.md)
 
-#### [Concealing Veil Talisman](Talismans/ConcealingVeilTalisman/ConcealingVeil.md)
+### [Claw Talisman](Talismans/ClawTalisman/ClawTalisman.md)
 
-#### [Crimson Medallion](Talismans/CrimsonMedallion/CrimsonMedallion.md)
+### [Concealing Veil Talisman](Talismans/ConcealingVeilTalisman/ConcealingVeil.md)
 
-#### [Crimson Medallion +1](Talismans/CrimsonMedallion+1/CrimsonMedallion+1.md)
+### [Crimson Medallion](Talismans/CrimsonMedallion/CrimsonMedallion.md)
 
-#### [Crimson Medallion](Talismans/CrimsonMedallion+2/CrimsonMedallion+2.md)
+### [Crimson Medallion +1](Talismans/CrimsonMedallion+1/CrimsonMedallion+1.md)
 
-#### [Dagger Talisman](Talismans/DaggerTalisman/DaggerTalisman.md)
+### [Crimson Medallion](Talismans/CrimsonMedallion+2/CrimsonMedallion+2.md)
 
-#### [Fire Dragon Scale Talisman](Talismans/FireDragonScaleTalisman/FireDragonScaleTalisman.md)
+### [Dagger Talisman](Talismans/DaggerTalisman/DaggerTalisman.md)
 
-#### [Fire Dragon Scale Talisman +1](Talismans/FireDragonScaleTalisman+1/FireDragonScaleTalisman+1.md)
+### [Fire Dragon Scale Talisman](Talismans/FireDragonScaleTalisman/FireDragonScaleTalisman.md)
 
-#### [Fire Dragon Scale Talisman +2](Talismans/FireDragonScaleTalisman+2/FireDragonScaleTalisman+2.md)
+### [Fire Dragon Scale Talisman +1](Talismans/FireDragonScaleTalisman+1/FireDragonScaleTalisman+1.md)
 
-#### [Frost Dragon Scale Talisman](Talismans/FrostDragonScaleTalisman/FrostDragonScaleTalisman.md)
+### [Fire Dragon Scale Talisman +2](Talismans/FireDragonScaleTalisman+2/FireDragonScaleTalisman+2.md)
 
-#### [Frost Dragon Scale Talisman +1](Talismans/FrostDragonScaleTalisman+1/FrostDragonScaleTalisman+1.md)
+### [Frost Dragon Scale Talisman](Talismans/FrostDragonScaleTalisman/FrostDragonScaleTalisman.md)
 
-#### [Frost Dragon Scale Talisman +2](Talismans/FrostDragonScaleTalisman+2/FrostDragonScaleTalisman+2.md)
+### [Frost Dragon Scale Talisman +1](Talismans/FrostDragonScaleTalisman+1/FrostDragonScaleTalisman+1.md)
 
-#### [Great Arsenal Talisman](Talismans/GreatArsenalTalisman/GreatArsenalTalisman.md)
+### [Frost Dragon Scale Talisman +2](Talismans/FrostDragonScaleTalisman+2/FrostDragonScaleTalisman+2.md)
 
-#### [Great Steel Dragon Scale Talisman](Talismans/GreatSteelDragonScaleTalisman/GreatSteelDragonScaleTalisman.md)
+### [Great Arsenal Talisman](Talismans/GreatArsenalTalisman/GreatArsenalTalisman.md)
 
-#### [Green Turtle Talisman](Talismans/GreenTurtleTalisman/GreenTurtleTalisman.md)
+### [Great Steel Dragon Scale Talisman](Talismans/GreatSteelDragonScaleTalisman/GreatSteelDragonScaleTalisman.md)
 
-#### [Lightning Dragon Scale Talisman](Talismans/LightningDragonScaleTalisman/LightningDragonScaleTalisman.md)
+### [Green Turtle Talisman](Talismans/GreenTurtleTalisman/GreenTurtleTalisman.md)
 
-#### [Lightning Dragon Scale Talisman +1](Talismans/LightningDragonScaleTalisman+1/LightningDragonScaleTalisman+1.md)
+### [Lightning Dragon Scale Talisman](Talismans/LightningDragonScaleTalisman/LightningDragonScaleTalisman.md)
 
-#### [Lightning Dragon Scale Talisman +2](Talismans/LightningDragonScaleTalisman+2/LightningDragonScaleTalisman+2.md)
+### [Lightning Dragon Scale Talisman +1](Talismans/LightningDragonScaleTalisman+1/LightningDragonScaleTalisman+1.md)
 
-#### [Longtail Cat Talisman](Talismans/LongtailCatTalisman/LongtailCatTalisman.md)
+### [Lightning Dragon Scale Talisman +2](Talismans/LightningDragonScaleTalisman+2/LightningDragonScaleTalisman+2.md)
 
-#### [Pearl Dragon Scale Talisman](Talismans/PearlDragonScaleTalisman/PearlDragonScaleTalisman.md)
+### [Longtail Cat Talisman](Talismans/LongtailCatTalisman/LongtailCatTalisman.md)
 
-#### [Pearl Dragon Scale Talisman +1](Talismans/PearlDragonScaleTalisman+1/PearlDragonScaleTalisman+1.md)
+### [Pearl Dragon Scale Talisman](Talismans/PearlDragonScaleTalisman/PearlDragonScaleTalisman.md)
 
-#### [Pearl Dragon Scale Talisman +2](Talismans/PearlDragonScaleTalisman+2/PearlDragonScaleTalisman+2.md)
+### [Pearl Dragon Scale Talisman +1](Talismans/PearlDragonScaleTalisman+1/PearlDragonScaleTalisman+1.md)
 
-#### [Radiant Dragon Scale Talisman](Talismans/RadiantDragonScaleTalisman/RadiantDragonScaleTalisman.md)
+### [Pearl Dragon Scale Talisman +2](Talismans/PearlDragonScaleTalisman+2/PearlDragonScaleTalisman+2.md)
 
-#### [Radiant Dragon Scale Talisman +1](Talismans/RadiantDragonScaleTalisman+1/RadiantDragonScaleTalisman+1.md)
+### [Radiant Dragon Scale Talisman](Talismans/RadiantDragonScaleTalisman/RadiantDragonScaleTalisman.md)
 
-#### [Radiant Dragon Scale Talisman +2](Talismans/RadiantDragonScaleTalisman+2/RadiantDragonScaleTalisman+2.md)
+### [Radiant Dragon Scale Talisman +1](Talismans/RadiantDragonScaleTalisman+1/RadiantDragonScaleTalisman+1.md)
 
-#### [Rejuvenation Talisman](Talismans/RejuvenationTalisman/RejuvenationTalisman.md)
+### [Radiant Dragon Scale Talisman +2](Talismans/RadiantDragonScaleTalisman+2/RadiantDragonScaleTalisman+2.md)
 
-#### [Steel Dragon Scale Talisman](Talismans/SteelDragonScaleTalisman/SteelDragonScaleTalisman.md)
+### [Rejuvenation Talisman](Talismans/RejuvenationTalisman/RejuvenationTalisman.md)
 
-#### [Steel Dragon Scale Talisman +1](Talismans/SteelDragonScaleTalisman+1/SteelDragonScaleTalisman+1.md)
+### [Steel Dragon Scale Talisman](Talismans/SteelDragonScaleTalisman/SteelDragonScaleTalisman.md)
 
-#### [Steel Dragon Scale Talisman +2](Talismans/SteelDragonScaleTalisman+2/SteelDragonScaleTalisman+2.md)
+### [Steel Dragon Scale Talisman +1](Talismans/SteelDragonScaleTalisman+1/SteelDragonScaleTalisman+1.md)
 
-#### [Viridian Medallion](Talismans/ViridianMedallion/ViridianMedallionTalisman.md)
+### [Steel Dragon Scale Talisman +2](Talismans/SteelDragonScaleTalisman+2/SteelDragonScaleTalisman+2.md)
 
-#### [Viridian Medallion +1](Talismans/ViridianMedallion+1/ViridianMedallionTalisman+1.md)
+### [Viridian Medallion](Talismans/ViridianMedallion/ViridianMedallionTalisman.md)
 
-#### [Viridian Medallion +2](Talismans/ViridianMedallion+2/ViridianMedallionTalisman+2.md)
+### [Viridian Medallion +1](Talismans/ViridianMedallion+1/ViridianMedallionTalisman+1.md)
+
+### [Viridian Medallion +2](Talismans/ViridianMedallion+2/ViridianMedallionTalisman+2.md)

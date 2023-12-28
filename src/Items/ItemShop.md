@@ -1,4 +1,34 @@
-## ![](ItemShop/Armory.png) Armory 
+# Item Shop
+
+## Out of Game Downtime Bartering Rules
+
+When players arrive in a caravan rest stop, village, or city they may choose to take downtime. The time in the game will pass but the game is not being actively played. During this time player characters may shop at various local businesses.
+
+This system heavily relies on trusting your players to be honest with you about their character's personal finances. If you have players that routinely bend the rules, then these might not be rules you should consider.
+
+### Shop Tiers
+
+The world is a big place, with plenty of small run down villages littering the countryside. While it might be easy to find your character's essential items in large cities, they might not have the same luck out in the wilderness. The following store types describe the various store tiers you will encounter across Terra.
+
+**Limited Stock**
+
+A merchant selling wares out of a cart in a bazaar, someone with no brick-and-mortar shop.
+
+**Rural Locale**
+
+A small brick-and-mortar shop in a small town or village.
+
+**Urban Locale**
+
+A brick-and-mortar shop in an average city.
+
+**Premium Locale**
+
+A top tier shop of very large scale found in capitals and large trade cities.
+
+
+## ![](ItemShop/Armory.png) Armory
+
 | Name                                 | # | Type                                    | Tier     | Durability | Weight | Value    | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------------ | - | --------------------------------------- | -------- | ---------- | ------ | -------- | ------------- | ------------ | ------------ | -------------- |
 | Gambeson Coat                        | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 5      | 2 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
