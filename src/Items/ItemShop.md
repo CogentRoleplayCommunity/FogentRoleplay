@@ -4,6 +4,12 @@
 
 Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
 
+| Copper Coin   | 1 | Misc | Mundane |  | 0.02 | 1 cc |
+| ------------- | - | ---- | ------- | - | ---- | ---- |
+| Bronze Coin   | 1 | Misc | Mundane |  | 0.02 | 1 bc |
+| Gold Coin     | 1 | Misc | Mundane |  | 0.02 | 1 gc |
+| Platinum Coin | 1 | Misc | Mundane |  | 0.02 | 1 pc |
+
 **Fallen to DnD exchange Rate:**
 
 | Fallen Currency  | DnD 5e Currency     |
@@ -60,7 +66,6 @@ Normal shops will charge 100% the value for any item on this list.
 Cheap
 
 Cheap shops will charge 50% the value for any item on this list.
-
 
 ## ![](ItemShop/Armory.png) Armory
 
