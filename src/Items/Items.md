@@ -2,6 +2,8 @@
 
 ## Shops
 
+### [Currency](ItemShop.md#currency)
+
 ### [Out of Game Downtime Bartering Rules](ItemShop.md#out-of-game-downtime-bartering-rules)
 
 ### [Armory](ItemShop.md#armory)

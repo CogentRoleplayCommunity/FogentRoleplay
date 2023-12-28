@@ -1,6 +1,25 @@
 # Item Shop
 
+### Currency
+
+Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
+
+**Fallen to DnD exchange Rate:**
+
+| Fallen Currency  | DnD 5e Currency     |
+| ---------------- | ------------------- |
+| 1 copper coin    | 1 copper piece      |
+| 10 copper coins  | 1 silver piece      |
+| 100 copper coins | 1 gold piece        |
+| 1 bronze coin    | 1 gold piece        |
+| 100 bronze coins | 1 platinum piece    |
+| 1 gold coin      | 1 platinum piece    |
+| 1 gold coin      | 1 platinum piece    |
+| 1 platinum coin  | 100 platinum pieces |
+
 ## Out of Game Downtime Bartering Rules
+
+Fallen uses a handy item catalog formatted the same as your characters inventories to make buying, selling, and looting as easy as copying and pasting.
 
 When players arrive in a caravan rest stop, village, or city they may choose to take downtime. The time in the game will pass but the game is not being actively played. During this time player characters may shop at various local businesses.
 
@@ -8,7 +27,7 @@ This system heavily relies on trusting your players to be honest with you about 
 
 ### Shop Tiers
 
-The world is a big place, with plenty of small run down villages littering the countryside. While it might be easy to find your character's essential items in large cities, they might not have the same luck out in the wilderness. The following store types describe the various store tiers you will encounter across Terra.
+The world is a big place, with plenty of small run down villages littering the countryside. While it might be easy to find your character's essential items in large cities, they might not have the same luck out in the wilderness. The following store types describe the various store tiers you will encounter.
 
 **Limited Stock**
 
@@ -25,6 +44,22 @@ A brick-and-mortar shop in an average city.
 **Premium Locale**
 
 A top tier shop of very large scale found in capitals and large trade cities.
+
+### Shop Prices
+
+Prices vary across regions depending on if there is an excess of good. In war time things might be pricier where as in peace times they are cheaper. Or maybe a group of co
+
+Expensive
+
+Expensive shops will charge 150% the value for any item on this list.
+
+Normal
+
+Normal shops will charge 100% the value for any item on this list.
+
+Cheap
+
+Cheap shops will charge 50% the value for any item on this list.
 
 
 ## ![](ItemShop/Armory.png) Armory
