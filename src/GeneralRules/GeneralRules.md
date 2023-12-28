@@ -38,6 +38,8 @@
 
 ### [Range](CombatRules/Range.md)
 
+### [Status Effect](CombatRules/StatusEffect.md)
+
 ### [Victory Levels](CombatRules/VictoryLevels.md)
 
 ### [Weapon Modifiers](CombatRules/WeaponModifiers.md)
