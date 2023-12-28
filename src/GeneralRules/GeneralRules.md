@@ -18,6 +18,8 @@
 
 ### [Vision and Light](NonCombatRules/LightAndVision.md)
 
+### [Vocation Rework](NonCombatRules/VocationRework.md)
+
 ## Combat Rules
 
 ### [Battlemap Combat](CombatRules/BattlemapCombat.md)
