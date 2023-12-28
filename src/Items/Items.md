@@ -1,5 +1,53 @@
 ## Items
 
+### Shops
+
+#### [Armory](./ItemShop.md#armory)
+
+#### [Weaponsmith](ItemShop.md#weaponsmith)
+
+#### [Blacksmith](ItemShop.md#blacksmith)
+
+#### [Leatherworker](ItemShop.md#leatherworker)
+
+#### [Temple/Faith Supplies](ItemShop.md#templefaith-supplies)
+
+#### [Book Prices (Library or Otherwise)](ItemShop.md#book-prices-library-or-otherwise)
+
+#### [Genral Store](ItemShop.md#general-store)
+
+#### [Adventuring Supplies](ItemShop.md#adventuring-supplies)
+
+#### [Shady Dealer - General Store Add-on](ItemShop.md#shady-dealer---general-store-add-on)
+
+#### [Magical Theme - General Store Add-on](ItemShop.md#magical-theme---general-store-add-on)
+
+#### [Water-side Theme - General Store Add-on](ItemShop.md#water-side-theme---general-store-add-on)
+
+#### [Art and Games Theme - General Store Add-on](ItemShop.md#art-and-games-theme---general-store-add-on)
+
+#### [Tailor/Textiles](ItemShop.md#tailortextiles)
+
+#### [Transportation](ItemShop.md#transportation)
+
+#### [Jeweler](ItemShop.md#jeweler)
+
+#### [Potion Shop](ItemShop.md#potion-shop)
+
+#### [Arcane Shop](ItemShop.md#arcane-shop)
+
+#### [Inns](ItemShop.md#inns)
+
+#### [Market Produce/Foods](ItemShop.md#market-producefoods)
+
+#### [Creature Parts Values](ItemShop.md#creature-parts-values)
+
+#### [High End](ItemShop.md#high-end)
+
+#### [Special Materials, Leather Armor Pieces](ItemShop.md#special-materials-leather-armor-pieces)
+
+#### [Special Crafting Materials](ItemShop.md#special-crafting-materials)
+
 ### Unique Weapons
 
 #### [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
