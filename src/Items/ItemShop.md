@@ -1,5 +1,4 @@
-## Armory
-
+## ![](ItemShop/Armory.png) Armory 
 | Name                                 | # | Type                                    | Tier     | Durability | Weight | Value    | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------------ | - | --------------------------------------- | -------- | ---------- | ------ | -------- | ------------- | ------------ | ------------ | -------------- |
 | Gambeson Coat                        | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 5      | 2 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
@@ -31,7 +30,7 @@
 | Heavy Shield (Tower)                 | 1 | Phy. Def. 3                             | Mundane  | 12/12      | 25     | 150 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 | Mantlet                              | 1 | Phy. Def. 4                             | Mundane  | 12/12      | 90     | 17 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## Weaponsmith
+## ![](ItemShop/Weaponsmith.png) Weaponsmith
 
 | Name           | # | Type                                                            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------- | - | --------------------------------------------------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -66,7 +65,7 @@
 | Man Catcher    | 1 | Man Catcher                                                     | Mundane | 12/12      | 8      | 5 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
 | Swordbreaker   | 1 | Small Slashing Blade                                            | Mundane | 12/12      | 1      | 25 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## Blacksmith
+## ![](ItemShop/Blacksmith.png) Blacksmith
 
 | Name                                | #    | Type               | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------------- | ---- | ------------------ | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
@@ -125,7 +124,7 @@
 | Quiver (capacity: 20)               | 1    | Misc               | Mundane |            | 1      | 1 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
 | Case, Crossbow Bolts (capacity: 20) | 1    | Misc               | Mundane |            | 1      | 1 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 
-## Leatherworker
+## ![](ItemShop/Leatherworker.png) Leatherworker
 
 | Name                          | # | Type          | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | - | ------------- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
@@ -145,7 +144,7 @@
 | Drum                          | 1 | Misc          | Mundane |            | 3      | 6 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 |                               |   |               |         |            |        |        |               |              |              |                |
 
-## Temple/Faith Supplies
+## ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
 | Name                          | # | Type  | Tier    | Durability | Weight  | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | - | ----- | ------- | ---------- | ------- | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -196,7 +195,7 @@
 | Lvl 5 Blessing                |   |       |         |            | 400 bc  |         | FALSE         | TRUE         | TRUE         | TRUE           |
 | Lvl 6 Blessing                |   |       |         |            | 1000 bc |         | FALSE         | TRUE         | TRUE         | TRUE           |
 
-## Book Prices (Library or Otherwise)
+## ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
 
 | Name                      | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -208,7 +207,7 @@
 | Rare Book, Soft Bound     | 1 | Misc | Mundane |            | 1      | 10 bc | FALSE         | FALSE        | TRUE         | TRUE           |
 | Rare Book, Hard Bound     | 1 | Misc | Mundane |            | 1      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
 
-## General Store
+## ![](ItemShop/GeneralStore.png) General Store
 
 | Name                           | # | Type                | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------ | - | ------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -257,7 +256,7 @@
 | Weaver's Tools                 | 1 | Misc                | Mundane |            | 5      | 1 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
 | Woodcarver's Tools             | 1 | Misc                | Mundane |            | 5      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## Adventuring Supplies
+## ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
 
 | Name                                | #  | Type                                                            | Tier    | Durability | Weight | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------------- | -- | --------------------------------------------------------------- | ------- | ---------- | ------ | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -351,7 +350,7 @@
 | Herbalism Kit                       | 1  | Misc                                                            | Mundane |            | 3      | 5 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
 | Navigator's Kit                     | 1  | Misc                                                            | Mundane |            | 2      | 25 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## Shady Dealer - General Store Add-on
+## ![](ItemShop/ShadyDealer.png) Shady Dealer - General Store Add-on
 
 | Name                 | #  | Type | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------- | -- | ---- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
@@ -371,7 +370,7 @@
 | Poisoner's Kit       | 1  | Misc | Mundane |            | 2      | 50 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 | Thieves' Tools       | 1  | Misc | Mundane |            | 1      | 25 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## Magical Theme - General Store Add-on
+## ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
 | Name                          | # | Type            | Tier    | Durability | Weight | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | - | --------------- | ------- | ---------- | ------ | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -390,7 +389,7 @@
 | Vial of Revival Healing Blood | 1 | Misc            | Mundane |            | 0.25   | 500 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
 |                               |   |                 |         |            |        |         |               |              |              |                |
 
-## Water-side Theme - General Store Add-on
+## ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
 | Name                | # | Type                            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------- | - | ------------------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -401,7 +400,7 @@
 | Rowboat             |   |                                 |         |            | 50 bc  |       | FALSE         | TRUE         | TRUE         | TRUE           |
 | 1lb of Fishing Bait | 1 | Misc                            | Mundane |            | 1      | 5 cc  | FALSE         | TRUE         | TRUE         | TRUE           |
 
-## Art and Games Theme - General Store Add-on
+## ![](ItemShop/ArtAndGameTheme.png) Art and Games Theme - General Store Add-on
 
 | Name                    | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -427,7 +426,7 @@
 | Shawm                   | 1 | Misc | Mundane |            | 1      | 1 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
 | Viol                    | 1 | Misc | Mundane |            | 1      | 22 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## Tailor/Textiles
+## ![](ItemShop/TaliorTextiles.png) Tailor/Textiles
 
 | Name                    | # | Type            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------- | - | --------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -450,7 +449,7 @@
 | Leather Cord (15 feet)  | 1 | Misc            | Mundane |            | 0.2    | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 | Weaver's Tools          | 1 | Misc            | Mundane |            | 5      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## Transportation
+## ![](ItemShop/Transportation.png) Transportation
 
 | Name               | # | Type | Tier    | Durability | Weight      | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------ | - | ---- | ------- | ---------- | ----------- | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -484,7 +483,7 @@
 | Warship            |   |      |         |            | 25,000 bc   |       | TRUE          | FALSE        | FALSE        | TRUE           |
 |                    |   |      |         |            |             |       |               |              |              |                |
 
-## Jeweler
+## ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
 
 | Name                             | # | Type | Tier    | Durability | Weight       | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------------------- | - | ---- | ------- | ---------- | ------------ | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -573,7 +572,7 @@
 | 1000 bc Gemstones                | 1 | Misc | Mundane |            | 0.1          | 1000 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | 5000 bc Gemstones                | 1 | Misc | Mundane |            | 0.1          | 5000 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## Potion Shop
+## ![](ItemShop/PotionShop.png) Potion Shop
 
 | Name                           | # | Type            | Tier    | Durability | Weight | Value    | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------ | - | --------------- | ------- | ---------- | ------ | -------- | ------------- | ------------ | ------------ | -------------- |
@@ -605,7 +604,7 @@
 | Potion - Legendary             | 1 | Misc            | Mundane |            | 0.25   | 62500 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | Spell Components               | 1 | Misc            | Mundane |            | 0.5    | ??       | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## Arcane Shop
+## ![](ItemShop/ArcaneShop.png) Arcane Shop
 
 | Name                               | # | Type            | Tier    | Durability | Weight  | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ---------------------------------- | - | --------------- | ------- | ---------- | ------- | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -700,7 +699,7 @@
 | Wealthy Room                            |   |      |         |            | 2 bc   |       | TRUE          | FALSE        | TRUE         | TRUE           |
 | Noble Room                              |   |      |         |            | 4 bc   |       | TRUE          | FALSE        | FALSE        | TRUE           |
 
-## Market Produce/Foods
+## ![](ItemShop/MarketProduceFoods.png) Market Produce/Foods
 
 | Name                            | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -754,7 +753,7 @@
 | Salt (½ Ounce)                 | 1 | Misc | Mundane |            | 0.03   | 6 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Specialty Spice (½ Ounce)      | 1 | Misc | Mundane |            | 0.03   | 20 cc | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## Creature Parts Values
+## ![](ItemShop/CreaturePartsValues.png) Creature Parts Values
 
 | Name                                         | # | Type | Tier | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------------------------------- | - | ---- | ---- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -764,7 +763,7 @@
 | [Selling Value (Creature XP %)] CR: 19 – 24 |   |      |      |            | #N/A   |       | FALSE         | FALSE        | FALSE        | FALSE          |
 | [Selling Value (Creature XP %)] CR: 25+      |   |      |      |            | #N/A   |       | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## High End
+## ![](ItemShop/High-endClothing.png) High End
 
 | Name                                                     | # | Type            | Tier    | Durability | Weight | Value     | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------------------------------------------- | - | --------------- | ------- | ---------- | ------ | --------- | ------------- | ------------ | ------------ | -------------- |
@@ -810,7 +809,7 @@
 | Cosmetic: Lining (Material Options): Silk                | 1 | Misc            | Mundane |            | 0      | 3 bc      | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cosmetic: Pockets                                        | 1 | Misc            | Mundane |            | 0      | 20 cc     | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## Special Materials, Leather Armor Pieces
+## ![](ItemShop/SpecialCraftingMaterials.png) Special Materials, Leather Armor Pieces
 
 | Name                                    | # | Type        | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------------------- | - | ----------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -835,7 +834,7 @@
 | Quiver (capacity: 20)                   | 1 | Misc        | Mundane |            | 1      | 1 bc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cosmetic: Sheathe (See Unit Note)       | 1 | Misc        | Mundane |            | 0      | 80 cc | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## Special Crafting Materials
+## ![](ItemShop/SpecialCraftingMaterials.png) Special Crafting Materials
 
 | Name                        | # | Type | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------- | - | ---- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
