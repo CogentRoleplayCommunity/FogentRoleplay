@@ -6,19 +6,16 @@
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 1 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 3d6 | Survival          | 2 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 3d6 | Willpower         | 0 | 3d6 |
+| Athletics | 1 | 4d6 | Acrobatics      | 0 | 4d6 | Communication     | 1 | 4d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 5d6 | Survival          | 2 | 5d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Criminal {RFX}    | 2 | 6d6 |
-| ------------------ | :-: | :-: |
-| Small Bladed {ALL} | 1 | 3d6 |
-|                    | 0 | 3d6 |
-|                    | 0 | 3d6 |
-|                    | 0 | 3d6 |
+| Criminal {RFX}   | 2 | 6d6 |
+| ----------------- | :-: | :-: |
+| Small Blade {ALL} | 1 | 5d6 |
 
 ## Effects:
 
