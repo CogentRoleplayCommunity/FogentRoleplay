@@ -1,6 +1,6 @@
 # Item Shop
 
-### Currency
+## Currency
 
 Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
 
@@ -31,7 +31,7 @@ When players arrive in a caravan rest stop, village, or city they may choose to 
 
 This system heavily relies on trusting your players to be honest with you about their character's personal finances. If you have players that routinely bend the rules, then these might not be rules you should consider.
 
-### Shop Tiers
+## Shop Tiers
 
 The world is a big place, with plenty of small run down villages littering the countryside. While it might be easy to find your character's essential items in large cities, they might not have the same luck out in the wilderness. The following store types describe the various store tiers you will encounter.
 
@@ -51,7 +51,7 @@ A brick-and-mortar shop in an average city.
 
 A top tier shop of very large scale found in capitals and large trade cities.
 
-### Shop Prices
+## Shop Prices
 
 Prices vary across regions depending on if there is an excess of good. In war time things might be pricier where as in peace times they are cheaper. Or maybe a group of co
 
@@ -67,7 +67,9 @@ Cheap
 
 Cheap shops will charge 50% the value for any item on this list.
 
-## ![](ItemShop/Armory.png) Armory
+## Shop Types
+
+### ![](ItemShop/Armory.png) Armory
 
 | Name                                 | # | Type                                    | Tier     | Durability | Weight | Value    | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------------ | - | --------------------------------------- | -------- | ---------- | ------ | -------- | ------------- | ------------ | ------------ | -------------- |
@@ -100,7 +102,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Heavy Shield (Tower)                 | 1 | Phy. Def. 3                             | Mundane  | 12/12      | 25     | 150 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 | Mantlet                              | 1 | Phy. Def. 4                             | Mundane  | 12/12      | 90     | 17 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## ![](ItemShop/Weaponsmith.png) Weaponsmith
+### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
 | Name           | # | Type                                                            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------- | - | --------------------------------------------------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -135,7 +137,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Man Catcher    | 1 | Man Catcher                                                     | Mundane | 12/12      | 8      | 5 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
 | Swordbreaker   | 1 | Small Slashing Blade                                            | Mundane | 12/12      | 1      | 25 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## ![](ItemShop/Blacksmith.png) Blacksmith
+### ![](ItemShop/Blacksmith.png) Blacksmith
 
 | Name                                | #    | Type               | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------------- | ---- | ------------------ | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
@@ -194,7 +196,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Quiver (capacity: 20)               | 1    | Misc               | Mundane |            | 1      | 1 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
 | Case, Crossbow Bolts (capacity: 20) | 1    | Misc               | Mundane |            | 1      | 1 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 
-## ![](ItemShop/Leatherworker.png) Leatherworker
+### ![](ItemShop/Leatherworker.png) Leatherworker
 
 | Name                          | # | Type          | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | - | ------------- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
@@ -214,7 +216,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Drum                          | 1 | Misc          | Mundane |            | 3      | 6 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 |                               |   |               |         |            |        |        |               |              |              |                |
 
-## ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
+### ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
 | Name                          | # | Type  | Tier    | Durability | Weight  | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | - | ----- | ------- | ---------- | ------- | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -265,7 +267,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Lvl 5 Blessing                |   |       |         |            | 400 bc  |         | FALSE         | TRUE         | TRUE         | TRUE           |
 | Lvl 6 Blessing                |   |       |         |            | 1000 bc |         | FALSE         | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
+### ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
 
 | Name                      | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -277,7 +279,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Rare Book, Soft Bound     | 1 | Misc | Mundane |            | 1      | 10 bc | FALSE         | FALSE        | TRUE         | TRUE           |
 | Rare Book, Hard Bound     | 1 | Misc | Mundane |            | 1      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
 
-## ![](ItemShop/GeneralStore.png) General Store
+### ![](ItemShop/GeneralStore.png) General Store
 
 | Name                           | # | Type                | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------ | - | ------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -326,7 +328,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Weaver's Tools                 | 1 | Misc                | Mundane |            | 5      | 1 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
 | Woodcarver's Tools             | 1 | Misc                | Mundane |            | 5      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
+### ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
 
 | Name                                | #  | Type                                                            | Tier    | Durability | Weight | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------------- | -- | --------------------------------------------------------------- | ------- | ---------- | ------ | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -420,7 +422,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Herbalism Kit                       | 1  | Misc                                                            | Mundane |            | 3      | 5 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
 | Navigator's Kit                     | 1  | Misc                                                            | Mundane |            | 2      | 25 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/ShadyDealer.png) Shady Dealer - General Store Add-on
+### ![](ItemShop/ShadyDealer.png) Shady Dealer - General Store Add-on
 
 | Name                 | #  | Type | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------- | -- | ---- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
@@ -440,7 +442,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Poisoner's Kit       | 1  | Misc | Mundane |            | 2      | 50 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 | Thieves' Tools       | 1  | Misc | Mundane |            | 1      | 25 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
+### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
 | Name                          | # | Type            | Tier    | Durability | Weight | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | - | --------------- | ------- | ---------- | ------ | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -459,7 +461,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Vial of Revival Healing Blood | 1 | Misc            | Mundane |            | 0.25   | 500 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
 |                               |   |                 |         |            |        |         |               |              |              |                |
 
-## ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
+### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
 | Name                | # | Type                            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------- | - | ------------------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -470,7 +472,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Rowboat             |   |                                 |         |            | 50 bc  |       | FALSE         | TRUE         | TRUE         | TRUE           |
 | 1lb of Fishing Bait | 1 | Misc                            | Mundane |            | 1      | 5 cc  | FALSE         | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/ArtAndGameTheme.png) Art and Games Theme - General Store Add-on
+### ![](ItemShop/ArtAndGameTheme.png) Art and Games Theme - General Store Add-on
 
 | Name                    | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -496,7 +498,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Shawm                   | 1 | Misc | Mundane |            | 1      | 1 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
 | Viol                    | 1 | Misc | Mundane |            | 1      | 22 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## ![](ItemShop/TaliorTextiles.png) Tailor/Textiles
+### ![](ItemShop/TaliorTextiles.png) Tailor/Textiles
 
 | Name                    | # | Type            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------- | - | --------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -519,7 +521,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Leather Cord (15 feet)  | 1 | Misc            | Mundane |            | 0.2    | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 | Weaver's Tools          | 1 | Misc            | Mundane |            | 5      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/Transportation.png) Transportation
+### ![](ItemShop/Transportation.png) Transportation
 
 | Name               | # | Type | Tier    | Durability | Weight      | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------ | - | ---- | ------- | ---------- | ----------- | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -553,7 +555,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Warship            |   |      |         |            | 25,000 bc   |       | TRUE          | FALSE        | FALSE        | TRUE           |
 |                    |   |      |         |            |             |       |               |              |              |                |
 
-## ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
+### ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
 
 | Name                             | # | Type | Tier    | Durability | Weight       | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------------------- | - | ---- | ------- | ---------- | ------------ | ------- | ------------- | ------------ | ------------ | -------------- |
@@ -642,7 +644,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | 1000 bc Gemstones                | 1 | Misc | Mundane |            | 0.1          | 1000 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | 5000 bc Gemstones                | 1 | Misc | Mundane |            | 0.1          | 5000 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## ![](ItemShop/PotionShop.png) Potion Shop
+### ![](ItemShop/PotionShop.png) Potion Shop
 
 | Name                           | # | Type            | Tier    | Durability | Weight | Value    | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------ | - | --------------- | ------- | ---------- | ------ | -------- | ------------- | ------------ | ------------ | -------------- |
@@ -674,7 +676,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Potion - Legendary             | 1 | Misc            | Mundane |            | 0.25   | 62500 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | Spell Components               | 1 | Misc            | Mundane |            | 0.5    | ??       | TRUE          | TRUE         | TRUE         | TRUE           |
 
-## ![](ItemShop/ArcaneShop.png) Arcane Shop
+### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
 | Name                               | # | Type            | Tier    | Durability | Weight  | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ---------------------------------- | - | --------------- | ------- | ---------- | ------- | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -713,7 +715,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Rare (Level 4)                     |   |                 |         |            | 2500 bc |       | FALSE         | FALSE        | FALSE        | TRUE           |
 | Rare (Level 5)                     |   |                 |         |            | 5000 bc |       | FALSE         | FALSE        | FALSE        | TRUE           |
 
-## Inns
+### Inns
 
 | Name                                    | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -769,7 +771,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Wealthy Room                            |   |      |         |            | 2 bc   |       | TRUE          | FALSE        | TRUE         | TRUE           |
 | Noble Room                              |   |      |         |            | 4 bc   |       | TRUE          | FALSE        | FALSE        | TRUE           |
 
-## ![](ItemShop/MarketProduceFoods.png) Market Produce/Foods
+### ![](ItemShop/MarketProduceFoods.png) Market Produce/Foods
 
 | Name                            | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ------------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -823,7 +825,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Salt (½ Ounce)                 | 1 | Misc | Mundane |            | 0.03   | 6 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Specialty Spice (½ Ounce)      | 1 | Misc | Mundane |            | 0.03   | 20 cc | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## ![](ItemShop/CreaturePartsValues.png) Creature Parts Values
+### ![](ItemShop/CreaturePartsValues.png) Creature Parts Values
 
 | Name                                         | # | Type | Tier | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------------------------------- | - | ---- | ---- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -833,7 +835,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | [Selling Value (Creature XP %)] CR: 19 – 24 |   |      |      |            | #N/A   |       | FALSE         | FALSE        | FALSE        | FALSE          |
 | [Selling Value (Creature XP %)] CR: 25+      |   |      |      |            | #N/A   |       | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## ![](ItemShop/High-endClothing.png) High End
+### ![](ItemShop/High-endClothing.png) High End
 
 | Name                                                     | # | Type            | Tier    | Durability | Weight | Value     | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | -------------------------------------------------------- | - | --------------- | ------- | ---------- | ------ | --------- | ------------- | ------------ | ------------ | -------------- |
@@ -879,7 +881,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Cosmetic: Lining (Material Options): Silk                | 1 | Misc            | Mundane |            | 0      | 3 bc      | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cosmetic: Pockets                                        | 1 | Misc            | Mundane |            | 0      | 20 cc     | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## ![](ItemShop/SpecialCraftingMaterials.png) Special Materials, Leather Armor Pieces
+### ![](ItemShop/SpecialCraftingMaterials.png) Special Materials, Leather Armor Pieces
 
 | Name                                    | # | Type        | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------------------- | - | ----------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
@@ -904,7 +906,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Quiver (capacity: 20)                   | 1 | Misc        | Mundane |            | 1      | 1 bc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cosmetic: Sheathe (See Unit Note)       | 1 | Misc        | Mundane |            | 0      | 80 cc | FALSE         | FALSE        | FALSE        | FALSE          |
 
-## ![](ItemShop/SpecialCraftingMaterials.png) Special Crafting Materials
+### ![](ItemShop/SpecialCraftingMaterials.png) Special Crafting Materials
 
 | Name                        | # | Type | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------- | - | ---- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
