@@ -1,5 +1,16 @@
 # Skills
 
+## Skill Levels
+
+|    Name    | Level |
+| :---------: | :---: |
+| Incompetent |  -1  |
+|   Novice   |   0   |
+| Apprentice |   1   |
+|    Adept    |   2   |
+|   Expert   |   3   |
+|   Master   |   4   |
+
 ## Skill Specialty
 
 Once a dice pool for a given skill check is equal to or greater than 8 you are considered a specialist in that skill. If you are a specialist for a skill, when asked to make a check for that skill with a Challenge Level of 3 or less, you automatically pass if all of the following are true.
@@ -54,7 +65,6 @@ Represented by circus performers or cat buglars. Covers movements requiring agil
 #### Dodge
 
 When an attack is made against a character who is not returning fire or attacking back, the defender can make an Acrobatics Roll vs the attacker's Combat Roll. Any levels over the defender's Evasion wins count as victories for the attacker. The Dodge Roll counts for the entire round. A Combat Roll and Dodge Roll can both be made in a round. If the character takes the Defensive combat modifier, then it is also applied.
-
 
 ### Perception
 
