@@ -21,6 +21,7 @@
 
 |               Name               |                                 Effect                                 | Duration |                        Source                        |
 | :------------------------------: | :--------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|      Minor Silver Weakness      |        (+1) to the level of injury received from Silver damage.        |          |                     Fellkin blood                     |
 |      Physical Defense Level      |                                   5                                   |          |                         Armor                         |
 |           Medium Size           |                         5x5 ft on battle map.                         |          |                                                      |
 |        Language: Babelish        |                          Can speak Babelish.                          |          |                                                      |
@@ -49,8 +50,6 @@
 |   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
 |  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |       None       |      2      |  Melee  |            Pierce            |           Rapid           |        None        |        None        |
 |  Medium Slashing Sword  | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      0      |  Melee  |            Slash            |           Rapid           |        None        |        None        |
-
-
 
 ## Destiny Points: 3/3
 
