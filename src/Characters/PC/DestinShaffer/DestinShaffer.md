@@ -15,8 +15,7 @@
 
 | Smith {STR}        | 1 | 5d6 | Fellkin {ALL}    | 0 |     |
 | ------------------- | :-: | :-: | ---------------- | - | --- |
-| Medium Hafted {ALL} | 1 | 5d6 | Ferracraft {ALL} | 1 | 4d6 |
-| Crafting {STR}      | 1 | 5d6 |                  |   |     |
+| Medium Hafted {ALL} | 1 | 5d6 | Ferracraft {ALL} | 0 | 4d6 |
 | Unarmed {ALL}       | 1 | 5d6 |                  |   |     |
 
 ## Info:
