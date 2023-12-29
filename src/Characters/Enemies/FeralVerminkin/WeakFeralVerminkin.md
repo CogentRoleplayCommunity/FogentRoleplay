@@ -1,4 +1,4 @@
-# Feral Verminkin
+# Weak Feral Verminkin
 
 ![alt_text](FeralVerminkin.png)
 
@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Bandit {RFX}        | 1 | 5d6 | Fellkin {ALL}   | 0  | 3d6 |
+| Bandit {RFX}        | 1 | 4d6 | Fellkin {ALL}   | 0  | 3d6 |
 | ------------------- | :-: | :-: | --------------- | -- | --- |
-| Medium Sword {ALL} | 1 | 4d6 | Polycraft {ALL} | -1 | 2d6 |
-| Light Bow {ALL}     | 1 | 4d6 |                 |    |     |
+| Medium Sword {ALL} | 0 | 3d6 | Polycraft {ALL} | -1 | 2d6 |
+| Light Bow {ALL}     | 0 | 3d6 |                 |    |     |
 
 ## Effects:
 
@@ -39,13 +39,13 @@
 
 |          Name          |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|       Light Bow       |         None         | 4d6, 1d4<br />(+1d6) |       None       |      1      | Ranged |      Pierce      |           Quick           |        None        |        None        |
-| Medium Thrusting Sword | 4d6, 1d4<br />(+1d6) | 5d6, 1d4<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword | 5d6, 1d4<br />(+2d6) | 7d6, 1d4<br />(+3d6) |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|       Light Bow       |         None         | 3d6, 1d4<br />(+1d6) |       None       |      1      | Ranged |      Pierce      |           Quick           |        None        |        None        |
+| Medium Thrusting Sword | 3d6, 1d4<br />(+1d6) | 4d6, 1d4<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword | 4d6, 1d4<br />(+2d6) | 5d6, 1d4<br />(+3d6) |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
 |     Name     | Resource<br />Class |  Resource<br />Dice  | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :----------: | :-----------------: | :------------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Shoddy Arrow |        Arrow        | 4d6, 2d4<br />(+1d4) |      1      | None |      Pierce      |        None        |
+| Shoddy Arrow |        Arrow        | 3d6, 2d4<br />(+1d4) |      1      | None |      Pierce      |        None        |
 
 ## Equipment:
 
