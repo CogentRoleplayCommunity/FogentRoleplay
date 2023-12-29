@@ -6,16 +6,16 @@
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 1 | 4d6 | Communication     | 1 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | -1 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | -1 | 3d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 1 | 5d6 | Communication     | 1 | 4d6 |
+| Climb     | 0 | 3d6 | Perception      | 0 | 4d6 | General Knowledge | -1 | 2d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 4d6 | Willpower         | -1 | 2d6 |
 
 ## Vocations and Vocational Skills
 
 | Bandit {RFX}      | 1 | 5d6 |
 | ----------------- | :-: | :-: |
-| Small Blade {ALL} | 0 | 4d6 |
+| Small Blade {ALL} | 1 | 4d6 |
 
 ## Effects:
 
@@ -36,9 +36,9 @@
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Thrusting Point | 4d6<br />(+0d6) | 4d6<br />(+0d6) |  5d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Small Slashing Blade | 5d6<br />(+1d6) | 5d6<br />(+1d6) |  6d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|  Thrown Small Blade  | 5d6<br />(+1d6) | 5d6<br />(+1d6) |       None       |      0      | Short |       Slash       |           Quick           |        None        |        None        |
+| Small Thrusting Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |  6d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Small Slashing Blade | 6d6<br />(+1d6) | 6d6<br />(+1d6) |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|  Thrown Small Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       None       |      0      | Short |       Slash       |           Quick           |        None        |        None        |
 
 ## Equipment:
 
