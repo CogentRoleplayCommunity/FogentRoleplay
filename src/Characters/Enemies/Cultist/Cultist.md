@@ -15,6 +15,7 @@
 
 | Cultist {RFX} | 1 | 5d6 |
 | ------------- | :-: | :-: |
+| Small Blade   | 1 | 4d6 |
 
 ## Effects:
 
@@ -33,9 +34,9 @@
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Thrusting Point | 3d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Small Slashing Blade | 4d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|  Thrown Small Point  | 3d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+| Small Thrusting Point | 4d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Small Slashing Blade | 5d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|  Thrown Small Point  | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
 
 ## Equipment:
 
