@@ -20,20 +20,20 @@
 
 ## Effects:
 
-|             Name             |                                    Effect                                    | Duration |                                                    Source                                                    |
-| :---------------------------: | :--------------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|    Physical Defense Level    |                                      2                                      |          |                                                    Armor                                                    |
-|          Small Size          |                          2.5x2.5 ft on battle map.                          |          |                                                                                                              |
-|      Language: Babelish      |                             Can speak Babelish.                             |          |                                                                                                              |
-|       Language: Primal       |                              Can speak Primal.                              |          |                                                                                                              |
-|     Minor Silver Weakness     |           (+1) to the level of injury received from Silver damage.           |          |                                                Fellkin blood                                                |
-|          Dark Vision          | Provides 20 fe radius of dark vision and 40 ft radius dim light dark vision. |          |                                                                                                              |
-|       Inventory Weight       |                                   14.05 lb                                   |          |                                                  Equipment                                                  |
-|     Humanoid Carry Weight     |                                    70 lb                                    |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
-|         Light Weight         |                       -0d6 to STR/RFX governed skills                       |          |                                           0% - 25% of carry weight                                           |
-| Small Humanoid Movement Speed |                                    35 ft                                    |          |                            25 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|      Humanoid Swim Speed      |                                    15 ft                                    |          |                            15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                            |
-|     Humanoid Climb Speed     |                                    15 ft                                    |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
+|             Name             |                          Effect                          | Duration |                                                    Source                                                    |
+| :---------------------------: | :------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
+|    Physical Defense Level    |                            2                            |          |                                                    Armor                                                    |
+|          Small Size          |                2.5x2.5 ft on battle map.                |          |                                                                                                              |
+|      Language: Babelish      |                   Can speak Babelish.                   |          |                                                                                                              |
+|       Language: Primal       |                    Can speak Primal.                    |          |                                                                                                              |
+|     Minor Silver Weakness     | (+1) to the level of injury received from Silver damage. |          |                                                Fellkin blood                                                |
+|          Dark Vision          |                          60 ft                          |          |                                                                                                              |
+|       Inventory Weight       |                         14.05 lb                         |          |                                                  Equipment                                                  |
+|     Humanoid Carry Weight     |                          70 lb                          |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
+|         Light Weight         |             -0d6 to STR/RFX governed skills             |          |                                           0% - 25% of carry weight                                           |
+| Small Humanoid Movement Speed |                          35 ft                          |          |                            25 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
+|      Humanoid Swim Speed      |                          15 ft                          |          |                            15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                            |
+|     Humanoid Climb Speed     |                          15 ft                          |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
 
 ## Combat Rolls:
 
