@@ -4,13 +4,14 @@
 
 ## Desc
 
-
-
 ## Info
 
-Item Type: 
+Item Type:
 
-Tier: 
-
+Tier:
 
 ## Effects
+
+| Name | Effect | Duration | Source |
+| :--- | :----: | :------: | :----: |
+|      |        |          |        |
