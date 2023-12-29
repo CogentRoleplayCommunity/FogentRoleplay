@@ -6,10 +6,10 @@
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 3d6 | General Knowledge | 1 | 3d6 |
-| Endurance | 1 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 3d6 | Willpower         | 0 | 3d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 6d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 1 | 5d6 |
+| Endurance | 1 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 5d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 4d6 | Willpower         | 0 | 4d6 |
 
 ## Vocations and Vocational Skills
 
@@ -49,10 +49,10 @@
 |    Naturecraft - Reach    |       7d6       |                |                  |      2      | Reach | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |      1 (Ichor)      |
 |   Naturecraft - Focused   |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |                    |      1 (Ichor)      |
 |   Naturecraft - Sphere   |       8d6       |                |                  |      3      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |       Sphere       |      2 (Ichor)      |
-|  Polycraft - Melee Trick  |       3d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Polycraft - Ranged Trick |       3d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-| Toxincraft - Melee Trick |       3d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Toxincraft - Ranged Trick |       3d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
+|  Polycraft - Melee Trick  |       3d6       |                |                  |      0      | Melee |                                      |           Rapid           |                    |        None        |
+|  Polycraft - Ranged Trick  |       3d6       |                |                  |      0      | Close |                                      |         Standard         |                    |        None        |
+|  Toxincraft - Melee Trick  |       3d6       |                |                  |      0      | Melee |                                      |           Rapid           |                    |        None        |
+| Toxincraft - Ranged Trick |       3d6       |                |                  |      0      | Close |                                      |         Standard         |                    |        None        |
 |     Thrown Small Point     | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |                Pierce                |           Quick           |        None        |        None        |
 |   Small Thrusting Point   | 4d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |                Pierce                |           Rapid           |        None        |        None        |
 |    Small Slashing Blade    | 5d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |                Slash                |           Rapid           |        None        |        None        |
