@@ -8,7 +8,7 @@
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 5d6 | Acrobatics      | 1 | 4d6 | Communication     | 1 | 5d6 |
 | Climb     | 0 | 5d6 | Perception      | 2 | 5d6 | General Knowledge | 0 | 4d6 |
-| Endurance | 1 | 6d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Endurance | 2 | 7d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
 | Lift      | 0 | 5d6 | Stealth         | 1 | 4d6 | Willpower         | 1 | 5d6 |
 
 ## Vocations and Vocational Skills
@@ -29,43 +29,24 @@
 |         Disabling:         |                                                  |          |                                                      |
 |         Disabling:         |                                                  |          |                                                      |
 |  4-Legged Movement Speed  |                       55 ft                       |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|    4-Legged Swim Speed    |                       20 ft                       |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|    4-Legged Swim Speed    |                       35 ft                       |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |        Flight Speed        |                       80 ft                       |          | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
+| Minor Enhanced Toxincraft |                  +1d6 Toxincraft                  |          |                  Draconic bloodline                  |
 
 ## Combat Rolls:
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Toxincraft - Melee Trick |       9d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Toxincraft - Ranged Trick |       9d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    Toxincraft - Melee    |      10d6      |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Toxincraft - Ranged    |      10d6      |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     Toxincraft - Cone     |      10d6      |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    Toxincraft - Reach    |      10d6      |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   Toxincraft - Focused   |      11d6      |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    Toxincraft - Sphere    |      11d6      |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Toxincraft - Melee Trick |      10d6      |                |                  |      0      |  Melee  |      Poison      |           Rapid           |                    |        None        |
+| Toxincraft - Ranged Trick |      10d6      |                |                  |      0      | Extended |      Poison      |         Standard         |                    |        None        |
+|    Toxincraft - Melee    |      11d6      |                |                  |      2      |  Melee  |      Poison      |           Rapid           |                    |      1 (Ichor)      |
+|    Toxincraft - Ranged    |      11d6      |                |                  |      1      | Extended |      Poison      |         Standard         |                    |      1 (Ichor)      |
+|     Toxincraft - Cone     |      11d6      |                |                  |      2      | Extended |      Poison      |          Focused          |        Cone        |      1 (Ichor)      |
+|    Toxincraft - Reach    |      11d6      |                |                  |      2      |  Reach  |      Poison      |           Rapid           |                    |      1 (Ichor)      |
+|   Toxincraft - Focused   |      12d6      |                |                  |      2      | Extended |      Poison      |          Focused          |                    |      1 (Ichor)      |
+|    Toxincraft - Sphere    |      12d6      |                |                  |      3      | Extended |      Poison      |          Focused          |       Sphere       |      2 (Ichor)      |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
-
-## Destiny Points: 0/3
-
-## Magic Resource: 0/3
-
-## Equipment:
-
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
-
-## Containers:
-
-### Container Name
-
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+## Ichor: 8/8
 
 ## Appearance:
 
