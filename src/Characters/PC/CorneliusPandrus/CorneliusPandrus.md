@@ -39,16 +39,29 @@
 
 ## Combat Rolls:
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
+|              Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   Rune of Fire - Melee Trick   |       5d6       |                |                  |      0      | Melee |                 Fire                 |           Rapid           |                    |        None        |
+|   Rune of Fire- Ranged Trick   |       5d6       |                |                  |      0      | Close |                 Fire                 |         Standard         |                    |        None        |
+|      Rune of Fire - Melee      |       6d6       |                |                  |      2      | Melee |                 Fire                 |           Rapid           |                    |      1 (Ichor)      |
+|      Rune of Fire- Ranged      |       6d6       |                |                  |      1      | Close |                 Fire                 |         Standard         |                    |      1 (Ichor)      |
+|      Rune of Fire - Cone      |       6d6       |                |                  |      2      | Close |                 Fire                 |          Focused          |        Cone        |      1 (Ichor)      |
+|      Rune of Fire - Reach      |       6d6       |                |                  |      2      | Reach |                 Fire                 |           Rapid           |                    |      1 (Ichor)      |
+|    Rune of Fire - Focused    |       7d6       |                |                  |      2      | Close |                 Fire                 |          Focused          |                    |      1 (Ichor)      |
+| Rune of Earth  - Melee Trick |       4d6       |                |                  |      0      | Melee |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                    |        None        |
+| Rune of Earth  - Ranged Trick |       4d6       |                |                  |      0      | Short |     Slash, Bludgeon, Hew, Pierce     |         Standard         |                    |        None        |
+|    Rune of Earth  - Melee    |       5d6       |                |                  |      2      | Melee |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                    |      1 (Ichor)      |
+|    Rune of Earth - Ranged    |       5d6       |                |                  |      1      | Short |     Slash, Bludgeon, Hew, Pierce     |         Standard         |                    |      1 (Ichor)      |
+|   Rune of Air - Melee Trick   |       4d6       |                |                  |      0      | Melee |      Slash, Bludgeon, Shockwave      |           Rapid           |                    |        None        |
+|   Rune of Air - Ranged Trick   |       4d6       |                |                  |      0      | Short |      Slash, Bludgeon, Shockwave      |         Standard         |                    |        None        |
+|      Rune of Air - Melee      |       5d6       |                |                  |      2      | Melee |      Slash, Bludgeon, Shockwave      |           Rapid           |                    |      1 (Ichor)      |
+|      Rune of Air - Ranged      |       5d6       |                |                  |      1      | Short |      Slash, Bludgeon, Shockwave      |         Standard         |                    |      1 (Ichor)      |
+|  Rune of Water - Melee Trick  |       4d6       |                |                  |      0      | Melee | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                    |        None        |
+|  Rune of Water - Ranged Trick  |       4d6       |                |                  |      0      | Short | Suffocation, Slash, Bludgeon, Pierce |         Standard         |                    |        None        |
+|     Rune of Water - Melee     |       5d6       |                |                  |      2      | Melee | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|     Rune of Water - Ranged     |       5d6       |                |                  |      1      | Short | Suffocation, Slash, Bludgeon, Pierce |         Standard         |                    |      1 (Ichor)      |
+|    Hemacraft - Melee Trick    |       2d6       |                |                  |      0      | Melee |                Bleed                |           Rapid           |                    |        None        |
+|    Hemacraft - Ranged Trick    |       2d6       |                |                  |      0      | Short |                Bleed                |         Standard         |                    |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
