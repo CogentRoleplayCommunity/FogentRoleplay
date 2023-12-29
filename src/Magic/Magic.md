@@ -51,6 +51,19 @@ Skill level where advanced concepts have been fuly understood and master level c
 
 Skill level where a master level of proficency has been achived.
 
+## Unlocking Magic
+
+You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompotent).
+
+| Magic Vocation Level | Magic Vocational Skills known |
+| -------------------- | ----------------------------- |
+| 0                    | 1                             |
+| 1                    | 2                             |
+| 2                    | 3                             |
+| 3                    | 4                             |
+| 4                    | 5                             |
+
+
 ## Magic Skills
 
 These magic skills represent every generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
@@ -163,7 +176,6 @@ Area Of Effect: Adds an innate area of effect to every combat roll made with the
 Resoure Class: Additional resource consummed by the conduit when used.
 
 Effected Magic Skills: Which Magic skill the conduit can be used with.
-
 
 ## Magic Roll
 
