@@ -2,25 +2,23 @@
 
 ![Cornelius Pandrus](CorneliusPandrus.png)
 
-Unspent Skill points: 6
-
 ## Attributes and Core Skills
 
 | STR       | -1 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 2d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 4d6 |
-| Climb     | 0 | 2d6 | Perception      | 0 | 4d6 | General Knowledge | 2 | 6d6 |
+| Climb     | 0 | 2d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 6d6 |
 | Endurance | 0 | 2d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
 | Lift      | 0 | 2d6 | Stealth         | 0 | 3d6 | Willpower         | 2 | 6d6 |
 
 ## Vocations and Vocational Skills
 
-| Runesmith {INT}     | 2 | 6d6 | Fellkin {ALL} | 0 | 3d6 |
-| ------------------- | :-: | :-: | ------------- | - | --- |
-| Vocational Skill {} | 0 | 3d6 |               |   |     |
-|                     | 0 | 3d6 |               |   |     |
-|                     | 0 | 3d6 |               |   |     |
-|                     | 0 | 3d6 |               |   |     |
+| Runesmith {INT}     | 2 | 6d6 | Fellkin {ALL}   | 0  | 2d6 |
+| ------------------- | :-: | :-: | --------------- | -- | --- |
+| Rune of Fire {INT} | 1 | 4d6 | Hemacraft {ALL} | -1 | 2d6 |
+| Rune of Earth {INT} | 0 | 4d6 |                 |    |     |
+| Rune of Air {INT}   | 0 | 4d6 |                 |    |     |
+| Rune of Water {INT} | 0 | 4d6 |                 |    |     |
 
 ## Effects:
 
