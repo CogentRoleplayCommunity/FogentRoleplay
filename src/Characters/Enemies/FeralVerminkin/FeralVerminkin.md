@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Bandit {RFX}        | 0 | 4d6 | Fellkin {ALL} | 0 | 4d6 |
-| ------------------- | :-: | :-: | ------------- | - | --- |
-| Small Hafted {ALL} | 0 | 4d6 |               |   |     |
-| Light Bow {ALL}     | 0 | 4d6 |               |   |     |
+| Bandit {RFX}        | 1 | 4d6 | Fellkin {ALL}   | 0  | 4d6 |
+| ------------------- | :-: | :-: | --------------- | -- | --- |
+| Small Hafted {ALL} | 1 | 4d6 | Polycraft {ALL} | -1 | 2d6 |
+| Light Bow {ALL}     | 1 | 4d6 |                 |    |     |
 
 ## Effects:
 
@@ -40,7 +40,7 @@
 |        Name        |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :------------------: | :------------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |     Light Bow     |         None         | 4d6, 1d4<br />(+1d6) |       None       |      0      | Extended |                  |           Quick           |        None        |        Arrow        |
-| Small Hafted Blade | 4d6, 1d4<br />(+1d6) |        (+1d6)        |      (+1d6)      |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
+| Small Hafted Blade | 4d6, 1d4<br />(+1d6) |        (+1d6)        |       +1d6       |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 
 |     Name     | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :----------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
