@@ -16,6 +16,6 @@ Tier: Flawless (+6)
 
 ## Effects
 
-### Enhanced Vitality
+### Minor Enhanced Vitality
 
 Reduce up to 1d6 of total injury penalty dice.
