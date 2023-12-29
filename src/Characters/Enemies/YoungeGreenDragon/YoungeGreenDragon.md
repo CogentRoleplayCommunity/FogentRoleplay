@@ -19,19 +19,18 @@
 
 ## Effects:
 
-|            Name            |                      Effect                      | Duration |                        Source                        |
-| :------------------------: | :-----------------------------------------------: | :------: | :---------------------------------------------------: |
-|   Physical Defense Level   |                         7                         |          |                         Armor                         |
-|        Medium Size        |               5x5 ft on battle map.               |          |                                                      |
-|     Language: Babelish     |                Can speak Babelish.                |          |                                                      |
-|    Language: Draconic    |               Can speak Draconic.               |          |                                                      |
-| Complete Poison Resistance | -5 to victory levels received from Poison damage. |          |                  Draconic bloodline                  |
-|         Disabling:         |                                                  |          |                                                      |
-|         Disabling:         |                                                  |          |                                                      |
-|  4-Legged Movement Speed  |                       55 ft                       |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|    4-Legged Swim Speed    |                       35 ft                       |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
-|        Flight Speed        |                       80 ft                       |          | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
-| Minor Enhanced Toxincraft |                  +1d6 Toxincraft                  |          |                  Draconic bloodline                  |
+|                 Name                 |                      Effect                      | Duration |                        Source                        |
+| :----------------------------------: | :-----------------------------------------------: | :------: | :---------------------------------------------------: |
+|        Physical Defense Level        |                         7                         |          |                         Armor                         |
+|              Large Size              |              10x10 ft on battle map.              |          |                                                      |
+|          Language: Babelish          |                Can speak Babelish.                |          |                                                      |
+|         Language: Draconic         |               Can speak Draconic.               |          |                                                      |
+|      Complete Poison Resistance      | -5 to victory levels received from Poison damage. |          |                  Draconic bloodline                  |
+|       4-Legged Movement Speed       |                       55 ft                       |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|         4-Legged Swim Speed         |                       35 ft                       |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|             Flight Speed             |                       80 ft                       |          | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
+|      Minor Enhanced Toxincraft      |                  +1d6 Toxincraft                  |          |                  Draconic bloodline                  |
+| Minor Magic<br />Resource Enhancment |          +2 to magic Resource capacity.          |          |                  Draconic bloodline                  |
 
 ## Combat Rolls:
 
