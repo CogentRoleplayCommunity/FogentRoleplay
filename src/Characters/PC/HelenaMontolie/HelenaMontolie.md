@@ -2,7 +2,115 @@
 
 ![alt_text](HelenaMontolie.png)
 
-[Link to character sheet](https://docs.google.com/spreadsheets/d/10j-czVPTGtGo-aP3-Zj4BtnfCV-YctefoPUVnwJ9XwI/edit?usp=sharing)
+Unspent skill points: 2
+
+## Attributes and Core Skills
+
+| STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 1 | 4d6 | Acrobatics      | 0 | 3d6 | Communication     | 1 | 5d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 6d6 |
+| Endurance | 1 | 4d6 | Sleight of Hand | 1 | 4d6 | Survival          | 1 | 5d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 4d6 |
+
+## Vocations and Vocational Skills
+
+| Student {INT}       | 1 | 5d6 | Fellkin {ALL} | 0 | 4d6 |
+| ------------------- | :-: | :-: | ------------- | - | --- |
+| Homesteading {INT} | 1 | 5d6 | Hemacraft     | 0 | 4d6 |
+| Performance {INT}   | 1 | 5d6 |               |   |     |
+
+## Effects:
+
+|              Name              |                            Effect                            | Duration |                                                    Source                                                    |
+| :-----------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
+|      Minor Silver Weakness      | (+1) to the level of injury<br />received from Silver damage. |          |                                                Fellkin blood                                                |
+|     Physical Defense Level     |                               0                               |          |                                                    Armor                                                    |
+|           Medium Size           |                     5x5 ft on battle map.                     |          |                                                                                                              |
+|       Language: Babelish       |                      Can speak Babelish.                      |          |                                                                                                              |
+|        Language: Pirish        |                       Can speak Pirish.                       |          |                                                                                                              |
+| Disabling: Incontrollable Grief |                                                              |          |                        Overwhelming grief that is triggered reminder of past trauma.                        |
+|           Disabling:           |                                                              |          |                                                                                                              |
+|        Inventory Weight        |                           12.25 lb                           |          |                                                  Equipment                                                  |
+|      Humanoid Carry Weight      |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
+|          Light Weight          |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
+|     Humanoid Movement Speed     |                             35 ft                             |          |                            30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
+|       Humanoid Swim Speed       |                             20 ft                             |          |                            15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                            |
+|      Humanoid Climb Speed      |                             15 ft                             |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
+
+## Combat Rolls:
+
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Hemacraft - Melee Trick |       4d6       |                |                  |      0      | Melee |       Bleed       |           Rapid           |                    |        None        |
+| Hemacraft - Ranged Trick |       4d6       |                |                  |      0      | Short |       Bleed       |         Standard         |                    |        None        |
+|    Hemacraft - Melee    |       5d6       |                |                  |      2      | Melee |       Bleed       |           Rapid           |                    |      1 (Ichor)      |
+|    Hemacraft - Ranged    |       5d6       |                |                  |      1      | Short |       Bleed       |         Standard         |                    |      1 (Ichor)      |
+|  Small Thrusting Point  | 4d6<br />(+0d6) |      +0d6      |  5d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|   Small Slashing Blade   | 5d6<br />(+1d6) |      +1d6      |  6d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
+
+## Destiny Points: 1/3
+
+## Ichor: 1/1
+
+## Equipment:
+
+| Name                           | # |                              Class                              |  Tier  | Durability |  LB  | Value |
+| ------------------------------ | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :--: | :---: |
+| Clothes, Common                | 1 |                              Misc                              | Mundane |            |  3  | 5 bc |
+| Waterskin (4/4)                | 1 |                              Misc                              | Mundane |            |  5  | 20 cc |
+| Common Book, Soft Bound        | 1 |                              Misc                              | Mundane |            |  1  | 5 bc |
+| Journal, Soft Bound, 25 Sheets | 1 |                              Misc                              | Mundane |            |  1  | 7 bc |
+| Ink (1 ounce bottle)           | 1 |                              Misc                              | Mundane |            | 0.1 | 10 bc |
+| Ink Pen (Fountain)             | 1 |                              Misc                              | Mundane |            | 0.05 | 3 bc |
+| Mother's Jeweled Braclet       | 1 |                              Misc                              | Mundane |            | 0.1 |   ?   |
+| Dagger                         | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  | 2 bc |
+| Pouch (1/5 ft^3)               | 1 |                         6 lb container                         | Mundane |            |  1  | 50 cc |
+
+## Containers:
+
+| Name            | # |      Class      |  Tier  | Durability | LB | Value |
+| --------------- | :-: | :--------------: | :-----: | :--------: | :-: | :---: |
+| Chest (12 ft^3) | 1 | 300 lb container | Mundane |            | 25 | 5 bc |
+| Mirror, Steel   | 1 |       Misc       | Mundane |            | 0.5 | 5 bc |
+| Pot, Iron       | 1 |       Misc       | Mundane |            | 10 | 2 bc |
+| Soap            | 1 |       Misc       | Mundane |            | 0.5 | 2 cc |
+| Hourglass       | 1 |       Misc       | Mundane |            |  1  | 25 bc |
+| Lamp            | 1 |       Misc       | Mundane |            |  1  | 50 cc |
+| Cook's Utensils | 1 |       Misc       | Mundane |            |  8  | 1 bc |
+| Lock            | 1 |       Misc       | Mundane |            |  1  | 10 bc |
+
+| Name             | # |     Class     |  Tier  | Durability | LB | Value |
+| ---------------- | :-: | :------------: | :-----: | :--------: | :-: | :---: |
+| Pouch (1/5 ft^3) | 1 | 6 lb container | Mundane |            | 1 | 50 cc |
+
+## Appearance
+
+Age: 16
+
+Race: Dhampir
+
+Height: 5'6"
+
+Weight: ~ ? lb
+
+Body Type: Slender
+
+Additional Details:
+
+## Disposition
+
+- Over-emotional (depression)
+
+## Goals/Aspirations
+
+- Become an academic scholar
+- Start a farm
+- Find ways to cope with her depression.
 
 ## Backstory
 
@@ -21,23 +129,3 @@ Mama was returning from a business trip in a neighboring district, so Papa and I
 "You got it Papa!" I started heading towards the door. The sporadic knocking turned into banging. I thought to myself, "She probably had a bad day at work, I bet being at home will cheer her up." I unlocked the door, and as I opened it her body came tumbling inward, crashing into the ground beneath her. She lifted her head, and looked at me. Her skin was grey, her eyes burnt out and turned dull, and she had a gash in her neck with no blood squirting out. In rapid succession, Mama grabbed my hand and sunk her teeth into my wrist. Blood rushed out of my wound, and decorated her face.
 
 "PAPA! HELP!" Papa, knife in hand, rushed out of the kitchen to witness the love of his life gnawing on the arm of his child. Papa turned into a deer in headlights, he didn't know what to do. This was the first and last time I witnessed fear engulf him. Papa ran towards Mama and tackled her onto the ground. "Aura, what is wrong with you!" Papa stared into her eyes, and found nothing but a vast void. She wriggled out of Papa's grasp, and sunk her teeth into Papa's neck. Papa couldn't stab the woman he loved, so he let it happen. It was first the neck, then the face, then she tore open his stomach. I stared at the mangled body of Papa in front of me. I couldn't move, I couldn't help Papa, and I couldn't help Mama.
-
-## Appearance
-
-Age: 16
-
-Race: Dhampir
-
-Height: 5'6"
-
-Body Type: Slender
-
-## Disposition
-
-- Over-emotional (depression)
-
-## Goals/Aspirations
-
-- Become an academic scholar
-- Start a farm
-- Find ways to cope with her depression.
