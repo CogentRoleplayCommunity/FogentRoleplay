@@ -6,10 +6,10 @@
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 3d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 6d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 3d6 | Willpower         | 0 | 3d6 |
+| Athletics | 2 | 5d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -22,7 +22,7 @@
 |          Name          |                            Effect                            | Duration |                                                    Source                                                    |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
 |  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                Fellkin blood                                                |
-| Physical Defense Level |                               0                               |          |                                                    Armor                                                    |
+| Physical Defense Level |                               3                               |          |                                                    Armor                                                    |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                              |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                              |
 |        Language:        |                         Can speak .                         |          |                                                                                                              |
