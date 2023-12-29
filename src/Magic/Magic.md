@@ -19,7 +19,7 @@ This document provides generalized rules for magic system mechanics built to int
 
 ## Magic Skill Levels
 
-### Level -1: Party Trick
+### Level -1: Incompotent (Party Trick)
 
 Requires an investment of 0 skill point to unlock. Generally aquired through narative means. Examples include:
 
@@ -134,11 +134,42 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 * Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
 * The Narrator might also decide that certain environmental phenomena, such as a wave washing over you while you're on a storm-tossed ship, require you to succeed on a Challenge level 2 governing core skill check.
 
+## Magic Conduit
+
+All magic needs a conduit to be cast through wether a wizards staff, a druids focus, or even your own body. Just about anything can be made into a conduit from a narrative perspective, but it is up to the narrator to decide if their are any restrictions.
+
+Example Conduit:
+
+| Name               | One<br />Handed | Two<br />Handed | Dual<br /> Wielded | Additional<br />Penetration | Range<br />Adjustment | Additional<br />Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Effected<br />Magic Skills |
+| ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
+| Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           | 0                     |                                   | None                      | None                | None                | Blazecraft                 |
+
+One Handed: Dice bonus given by weilding the conduit in one hand.
+
+Two Handed: Dice Bonus given by weilding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
+
+Dual Wielded: Dice bonus given when weilding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual weilding fire magic wands.
+
+Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
+
+Range Adjustment: Increase or decrease range calculation for magic skill (see Magic Range Adjustment below).
+
+Additional Damage Types: Extra damage types to be added onto combat rolls made with this conduit.
+
+Engageable Opponents: Changes engageable opponent type when making a combat roll. This could be a fast shooting wand or a slow shooting staff that pacts a large wallop.
+
+Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
+
+Resoure Class: Additional resource consummed by the conduit when used.
+
+Effected Magic Skills: Which Magic skill the conduit can be used with.
+
+
 ## Magic Roll
 
 This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user's Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Resource consumed.
 
-- Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level)
+- Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level) + Xd6 (Conduit Dice Modification)
 
 ### Overcharging Magic
 
