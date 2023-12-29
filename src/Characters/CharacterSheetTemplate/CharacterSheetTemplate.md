@@ -20,7 +20,7 @@
 |                     | 0 | 3d6 |
 |                     | 0 | 3d6 |
 
-## Effects:
+## Effects
 
 |          Name          |                            Effect                            | Duration |                                                    Source                                                    |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
@@ -38,7 +38,7 @@
 |   Humanoid Swim Speed   |                             15 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
 |  Humanoid Climb Speed  |                             15 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
 
-## Combat Rolls:
+## Combat Rolls
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -59,13 +59,13 @@
 
 ## Magic Resource: 0/3
 
-## Equipment:
+## Equipment
 
 | Name | # | Class | Tier | Durability | LB | Value |
 | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
 |      |  |      |      |            |    |      |
 
-## Containers:
+## Containers
 
 ### Container Name
 
@@ -73,9 +73,9 @@
 | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
 |      |  |      |      |            |    |      |
 
-## Notes:
+## Notes
 
-## Appearance:
+## Appearance
 
 Age:
 
@@ -93,10 +93,10 @@ Eyes Color:
 
 Additional Details:
 
-## Disposition:
+## Disposition
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
-## Goals/Aspirations:
+## Goals/Aspirations
 
-## Backstory:
+## Backstory
