@@ -249,7 +249,7 @@ Requires Level 1 in specific Magic skill
 
 Represents a character unleashing an attack over an area represented by a cone. The table below shows default cones, with the width of the cone at any point equal to the distance from the user. However, any cone that doesn't exceed effective range or the Cone Area for a specified dice roll is acceptable.
 
-Requires Level 0 in specific Magic skill
+Requires Level 1 in specific Magic skill
 
 - Penetration: 2
 - Resource Requirement: 1 minimum
