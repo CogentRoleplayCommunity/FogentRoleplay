@@ -1,6 +1,6 @@
 # Younge Green Dragon
 
-![img]()
+![NotMyImage](YoungeGreenDragon.png)
 
 ## Attributes and Core Skills
 
