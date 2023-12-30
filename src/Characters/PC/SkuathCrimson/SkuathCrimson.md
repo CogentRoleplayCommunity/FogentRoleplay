@@ -77,6 +77,8 @@
 
 ## Notes
 
+- Recover research and artifact, given map of last known location.
+
 ## Appearance
 
 Age: 21
