@@ -6,19 +6,19 @@
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 2 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 4d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 7d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 7d6 |
 | Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 7d6 |
 | Endurance | 1 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 6d6 |
 | Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | -1 | 4d6 |
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}   | 3 | 8d6 |
-| --------------- | :-: | :-: |
-| Mindcraft {ALL} | 3 | 8d6 |
-| Sonocraft {ALL} | 3 | 8d6 |
-| Polycraft {ALL} | 1 | 6d6 |
-| Galecraft {ALL} | 0 | 5d6 |
+| Fellkin {ALL}   | 3 | 8d6 | Royal Morraki {INT} | 0 | 5d6 |
+| --------------- | :-: | :-: | ------------------- | - | --- |
+| Mindcraft {ALL} | 3 | 8d6 | Medium Hafted       | 0 | 5d6 |
+| Sonocraft {ALL} | 3 | 8d6 |                     |   |     |
+| Polycraft {ALL} | 1 | 6d6 |                     |   |     |
+| Galecraft {ALL} | 0 | 5d6 |                     |   |     |
 
 ## Effects
 
@@ -34,7 +34,7 @@
 |    Inventory Weight    |                             27 lb                             |          |                                                  Equipment                                                  |
 |  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
-| Humanoid Movement Speed |                             35 ft                             |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
+| Humanoid Movement Speed |                            30 ft                            |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
 |   Humanoid Swim Speed   |                             20 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
 |  Humanoid Climb Speed  |                             15 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
 
@@ -69,6 +69,7 @@
 | Galecraft - Ranged Trick |       5d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
 |     Galecraft - Melee     |       6d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
 |    Galecraft - Ranged    |       6d6       |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
+| Medium Hafted Blunt | 5d6<br />(+0d6) | 6d6<br />(+1d6) | +1d6 | 4 | Melee | Bludgeon | Rapid | None | None |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
