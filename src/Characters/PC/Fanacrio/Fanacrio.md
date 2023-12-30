@@ -69,13 +69,13 @@
 | Galecraft - Ranged Trick |       5d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
 |     Galecraft - Melee     |       6d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
 |    Galecraft - Ranged    |       6d6       |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-| Medium Hafted Blunt | 5d6<br />(+0d6) | 6d6<br />(+1d6) | +1d6 | 4 | Melee | Bludgeon | Rapid | None | None |
+|    Medium Hafted Blunt    | 5d6<br />(+0d6) | 6d6<br />(+1d6) |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-## Destiny Points: 0/3
+## Destiny Points: 2/3
 
 ## Ichor: 10/10
 
