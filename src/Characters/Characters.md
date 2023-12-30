@@ -1,5 +1,7 @@
 ## Player Characters
 
+### [Arinoth The Enlightened](PC/ArinothTheEnlightened/ArinothTheEnlightened.md)
+
 ### [Cornelius Pandrus](PC/CorneliusPandrus/CorneliusPandrus.md)
 
 ### [Destin Shaffer](PC/DestinShaffer/DestinShaffer.md)
@@ -46,7 +48,7 @@
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
-### [Vex'hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
+### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
 
 ## Enemies
 
