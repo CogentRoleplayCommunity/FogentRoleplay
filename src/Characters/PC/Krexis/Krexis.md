@@ -26,8 +26,8 @@
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                              |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                              |
 |   Language: Draconic   |                      Can speak Draconic.                      |          |                                                                                                              |
-|  Disabling: Addiction  |                                                              |          |                                                                                                              |
-|       Disabling:       |                                                              |          |                                                                                                              |
+|  Disabling: Addiction  |                 Addicted to attractive women.                 |          |                                                                                                              |
+|   Disabling: Amnesia   |                Can't remember who they were.                |          |                                                                                                              |
 |    Inventory Weight    |                             55 lb                             |          |                                                  Equipment                                                  |
 |  Humanoid Carry Weight  |                            220 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
