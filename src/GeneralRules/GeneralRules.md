@@ -12,6 +12,8 @@
 
 ### [Destiny Points](NonCombatRules/DestinyPoints.md)
 
+### [DicePools](NonCombatRules/DicePools.md)
+
 ### [Healing](NonCombatRules/Healing.md)
 
 ### [Perks](NonCombatRules/Perks.md)
