@@ -4,6 +4,8 @@
 
 ### [Advantage And Disadvantage](NonCombatRules/AdvantageAndDisadvantage.md)
 
+### [Attributes](NonCombatRules/Attributes.md)
+
 ### [Carry Weight](NonCombatRules/CarryWeight.md)
 
 ### [Challenge Levels](NonCombatRules/ChallengeLevels.md)
