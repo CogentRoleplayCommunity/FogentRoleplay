@@ -155,6 +155,12 @@ Even though his people treated Fanácrio terrible, he still can't shake the need
 
 - Get the hivemind back.
 
+## Additional Art
+
+![](Fanacrio1.png)
+![](Fanacrio2.png)
+![](Fanacrio3.png)
+
 ## Backstory
 
 The Kiki descended from the insectoid monsters known as  Kikimora. Once they were granted consciousness by the Bright Lord, their own biology structured their entire civilization. This would be known as "the Old Way'', a civilization that had many similarities to that of the Kikimore. The Old Way was ruled by structure, order, and control. The group was always prioritized over the individual. This was the time of the Great Queens. Though, over time the Old Way would fade, and the New Way would rise. This was spurred by missionaries of the Bright Lord, who introduced Kikki to the concept of freedom and self-will. Throughout the Age of Conquest, Kikki flourished. That is until The Witch Queen Alana began her quest of domination by slaughtering the Kikki Queen, and marking the beginning of the Red War. Without the protection of their Queen, Alana controlled Kikki using her mindcraft, wresting control of their will through the Old Way. They fought as the physical extensions of her will. After the death of the Witch Queen, the colony went into madness. The other races now saw Kikki as less than Fellkind. Fearing outside threats and subjugation, Chitinkin reverted to the Old Way as they cared more for their security, strength, and survival than their freedom. Those that regressed into the Old way were labeled Morakki, and those that favored the New Way were deemed Goroki.
