@@ -42,6 +42,76 @@
 | :-: | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
 |    |      |  |      |      |            |    |      |
 
+## Notes
+
+1 in miracles, 1 in blessing
+The singing ring(in the crypt).
+
+Session 25:
+Lady red guard is dead, lord rose blood is dead, vex died and came back to life, Luc saw me and vex come to life and is confused, Uhtred is now Aglekin, the staff was stolen by the cult of Amon. AKA Uskal.
+Helena was resurrected: Uhtred does not know
+Uhtred got his mother necklace from commander Royce
+Uhtred does not have his sword- dream sword may be bad that the dream sword is gone.
+Uhtred is outside the hospital after meeting commander Royce.
+
+ 23OCT2021
+Beocca has the spear of destiny
+Party gathers things and leaves redwall
+Vex has a mental break down
+Party attacked by mercs that want to kill carma
+
+Session 27:
+Carma and Vex left the party
+The tavern Exploded
+Uhtred sacrifice himself for dipper
+
+Session 28:
+Met Destin Shafer and the group hired his sword
+Got into a fight with wraiths( The town we are heading towards might have a lot of death)
+Sirus and Uhtred made a deal with the masked man he agreed to help the party protect vex
+Masked man told us that Vex had the mark of Amon.
+
+Session 29:
+Entered the town of tuntin
+Talked to the sheriff
+We got contracted to fight the lancers
+
+Session 30:
+It came out that Uhtres’s friends perpetrated the terrorist attack
+Killroy tried to kill him
+Fanacrio almost died in killroy’s dream
+
+Session 31:
+The lancers killed some girl
+We are killing the lancers
+There are only 4 of demons
+
+Sessions 32:
+Helena is a demon, and she wants to make Uhtred and Sirius lives hell
+Killroy finally died, Uhtred did not get to say goodbye
+Saw red hair come from Sirius
+
+Session 33&34
+The party left tuntin and Luc joined them, they tried to help the suffering people there
+The party has been traveling and talking to the masked man, winter fast approaches and they are no closer to finding Vex.
+The party is lost in a forest in the middle of a winter storm, they are hungry and freezing to death
+They encounter werewolves and Finacrio and Sirus almost die.
+
+Session 35:
+The party made it away from the werewolves and continued to trek the frozen tundra injured and broken.
+They come across Vengward who is an assassin kiki that lives apart of the hive.
+They talk and get rest and food.
+Luc tells Uhtred that they are brothers in some way and that Uhtred will always have his protection
+Sirus talks to Luc and Luc draws his sword on him
+Uhtred sees sirius’s notebook and its the same phrase written in it over and over again.
+Luc leaves the party in the charge of Vengward and they are about to take out a lancer camp and hunker down for the winter.
+
+Session 36:
+The party started attacking the bandit camp
+Noticed that it seemed like the bandits are cannibals or something they look like zombies
+
+Session 37:
+
 ## Appearance
 
 Age: 17
@@ -60,11 +130,27 @@ Body Type: Built
 - Determined
 - Broken (after the death of his friend Killroy)
 
+## Beliefs/Morality
+
+Will defend those who can't defend themselves.
+Has strong morals with right and wrong.
+Believes there is always a choice.
+
+Post Killroy Death:
+Will do whatever it takes to find Vex
+Has strong morals with right and wrong
+Won't let the innocent suffer due to his negligence, there is always a choice.
+
 ## Goals/Aspirations
 
 - To find and protect Vex'hilla Reddington
 - Find out more about what it means to be Brightkinkin and find out more about his mother.
 - To live his life to make those who have passed proud, and to fix the mistakes that he made.
+
+Things I want to do with Uhtred:
+
+- Find out what Luc meant when he called him brother
+- Get stronger and prove that he is worthy to be called brother by LucFind Vex and get her to safety
 
 ## Backstory
 
