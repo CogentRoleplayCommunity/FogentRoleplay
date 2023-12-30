@@ -27,6 +27,7 @@
 |    Physical Defense Level    |                               3                               |          |                                                    Armor                                                    |
 |          Medium Size          |                     5x5 ft on battle map.                     |          |                                                                                                              |
 |      Language: Babelish      |                      Can speak Babelish.                      |          |                                                                                                              |
+|      Language: Draconic      |                      Can speak Draconic.                      |          |                                                                                                              |
 | Disabling: Incapable of Lying |               Lying causes immense mental pain.               |          |                                                                                                              |
 |      Disabling: Amnesia      |                Can't remember who they were.                |          |                                                                                                              |
 |       Inventory Weight       |                            23.2 lb                            |          |                                                  Equipment                                                  |
