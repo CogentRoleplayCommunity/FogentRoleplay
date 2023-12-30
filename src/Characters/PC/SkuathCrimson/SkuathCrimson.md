@@ -71,8 +71,6 @@
 
 ## Containers
 
-### Container Name
-
 | Name              | # |      Class      |  Tier  | Durability | LB | Value |
 | ----------------- | :-: | :-------------: | :-----: | :--------: | :-: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            | 5 | 2 bc |
