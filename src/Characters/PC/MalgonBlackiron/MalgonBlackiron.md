@@ -23,12 +23,11 @@
 |             Name             |                            Effect                            | Duration |                                                    Source                                                    |
 | :---------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
 |     Minor Silver Weakness     | (+1) to the level of injury<br />received from Silver damage. |          |                                                Fellkin blood                                                |
-|    Physical Defense Level    |                               0                               |          |                                                    Armor                                                    |
+|    Physical Defense Level    |                               4                               |          |                                                    Armor                                                    |
 |          Medium Size          |                     5x5 ft on battle map.                     |          |                                                                                                              |
 |      Language: Babelish      |                      Can speak Babelish.                      |          |                                                                                                              |
 |       Language: Primal       |                       Can speak Primal.                       |          |                                                                                                              |
 | Disabling: Incapable of Lying |          His people do not lie and neither does he.          |          |                                                                                                              |
-|          Disabling:          |                                                              |          |                                                                                                              |
 |       Inventory Weight       |                             49 lb                             |          |                                                  Equipment                                                  |
 |     Humanoid Carry Weight     |                            260 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |         Light Weight         |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
@@ -53,7 +52,7 @@
 
 ## Destiny Points: 0/3
 
-## Ichor: 0/3
+## Ichor: 0/0
 
 ## Equipment:
 
@@ -73,11 +72,11 @@
 
 ## Containers
 
-### Container Name
-
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name              | # |      Class      |  Tier  | Durability | LB | Value |
+| ----------------- | :-: | :-------------: | :-----: | :--------: | :-: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
+| Dice Set          | 1 |      Misc      | Mundane |            | 0.2 | 10 cc |
+| Ring, Exquisite   | 2 |      Misc      | Mundane |            | 0.2 | 3 bc |
 
 ## Notes
 
@@ -101,8 +100,12 @@ Additional Details:
 
 ## Disposition
 
+- Tactical
+
 ## Beliefs/Morality
 
 ## Goals/Aspirations
 
 ## Backstory
+
+Born high in the peaks of the Spine of the world, Malgon learned from an early age what it meant to work as a unit to stay alive. Despite the extreme conditions and the constant threat of monster attacks, Malgon’s tribe thrived in the mountains. On his 18th birthday, Malgon left his tribe to take the journey of knowledge, in which young members of the tribe descend the mountains to gather knowledge from the low-landers. The quality and usefulness of the skill the return with and teach determines their position in the tribe. Hoping to bring back the famed skill of the Silversmith of the Brotherhood of Silver, Molgon seeks them out hoping to join their ranks.
