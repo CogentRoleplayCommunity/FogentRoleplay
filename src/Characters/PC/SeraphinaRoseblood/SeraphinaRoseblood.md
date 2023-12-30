@@ -48,7 +48,7 @@
 |     Hydrocraft - Cone     |       7d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        Cone        |      1 (Ichor)      |
 |   Hydrocraft - Focused   |       8d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        None        |      1 (Ichor)      |
 |    Hydrocraft - Sphere    |       8d6       |                |                  |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
-|        Short Spear        | 7d6<br />(+3d6) |     (+3d6)     |       None       |      3      |  Melee  |                  Pierce                  |        Spear Rapid        |        None        |        None        |
+|        Short Spear        | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None       |      3      |  Melee  |                  Pierce                  |        Spear Rapid        |        None        |        None        |
 |    Thrown Short Spear    | 6d6<br />(+2d6) |     (+2d6)     |       None       |      3      |  Short  |                  Pierce                  |         Standard         |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
@@ -61,18 +61,17 @@
 
 ## Equipment:
 
-| Name                         | # |              Class              |  Tier  | Durability | LB | Value |
-| ---------------------------- | :-: | :-----------------------------: | :-----: | :--------: | :-: | :----: |
-| Gambeson Coat                | 1 |           Phy. Def. 1           | Mundane |   12/12   | 5 |  2 bc  |
-| Gambeson Leggings            | 1 |          Phy. Def. 0.5          | Mundane |   12/12   | 3 |  1 bc  |
-| Leather Cuirass and Pauldron | 1 |          Phy. Def. 0.5          | Mundane |   12/12   | 4 |  3 bc  |
-| Leather Cuisses and Greaves  | 1 |          Phy. Def. 0.5          | Mundane |   12/12   | 3 |  2 bc  |
-| Leather Vambrace             | 1 |          Phy. Def. 0.5          | Mundane |   12/12   | 2 | 1.5 bc |
-| Clothes, Common              | 1 |              Misc              | Mundane |            | 3 |  5 bc  |
-| Trident                      | 1 | Short Spear, Thrown Short Spear | Mundane |   12/12   | 3 |  5 bc  |
-| Signet Ring | 1 | Misc | Mundane |  | 0.2 | 5 bc |
-| Copper Coin | 70 | Misc | Mundane |  | 0.02 | 1 cc |
-
+| Name                         | # |              Class              |  Tier  | Durability |  LB  | Value |
+| ---------------------------- | :-: | :-----------------------------: | :-----: | :--------: | :--: | :----: |
+| Gambeson Coat                | 1 |           Phy. Def. 1           | Mundane |   12/12   |  5  |  2 bc  |
+| Gambeson Leggings            | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  3  |  1 bc  |
+| Leather Cuirass and Pauldron | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  4  |  3 bc  |
+| Leather Cuisses and Greaves  | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  3  |  2 bc  |
+| Leather Vambrace             | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  2  | 1.5 bc |
+| Clothes, Common              | 1 |              Misc              | Mundane |            |  3  |  5 bc  |
+| Trident                      | 1 | Short Spear, Thrown Short Spear | Mundane |   12/12   |  3  |  5 bc  |
+| Signet Ring                  | 1 |              Misc              | Mundane |            | 0.2 |  5 bc  |
+| Copper Coin                  | 70 |              Misc              | Mundane |            | 0.02 |  1 cc  |
 
 ## Containers
 

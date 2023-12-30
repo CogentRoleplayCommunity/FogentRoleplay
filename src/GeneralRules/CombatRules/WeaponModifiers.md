@@ -141,7 +141,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 |    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :----------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|    Short Spear    |     +3d6     |     +3d6     |      3      | Melee | Pierce |     Spear Rapid     |     +1d6     | None |   None   |     STR,RFX,INT     |
+|    Short Spear    |     +2d6     |     +3d6     |      3      | Melee | Pierce |     Spear Rapid     |     +1d6     | None |   None   |     STR,RFX,INT     |
 | Thrown Short Spear |     +2d6     |     +2d6     |      3      | Short | Pierce |       Standard       |     None     | None |   None   |     STR,RFX,INT     |
 
 ## Reach Weapons
