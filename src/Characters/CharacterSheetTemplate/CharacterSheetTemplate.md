@@ -67,8 +67,6 @@
 
 ## Containers
 
-### Container Name
-
 | Name | # | Class | Tier | Durability | LB | Value |
 | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
 |      |  |      |      |            |    |      |
