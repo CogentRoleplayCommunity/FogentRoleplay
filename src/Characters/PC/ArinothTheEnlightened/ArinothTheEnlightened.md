@@ -115,6 +115,8 @@ Additional Details:
 
 ## Goals/Aspirations
 
+- Find other apelings. Apeling strong together.
+
 ## Backstory
 
 Arinoth the Enlightened was born in a jungle village. When Arinoth was a young boy, he went out into the jungle to gather food for his community. When he returned, his village was gone. The people and the trees were burnt to the ground. Arinoth suspects a dragon attacked that day, but he can’t say for sure. He will never have that certainty to comfort him.
