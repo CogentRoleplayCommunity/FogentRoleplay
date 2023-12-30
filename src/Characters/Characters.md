@@ -22,6 +22,8 @@
 
 ### [Krexis](PC/Krexis/Krexis.md)
 
+### [Malgon Blackiron](PC/MalgonBlackiron/MalgonBlackiron.md)
+
 ### [Nivix](PC/Nivix/Nivix.md)
 
 ### [Reymond Reddington](PC/ReymondReddington/ReymondReddington.md)
