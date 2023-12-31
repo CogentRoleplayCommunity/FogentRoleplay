@@ -8,7 +8,7 @@
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 1 | 7d6 | Perception      | 2 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 1 | 7d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 3d6 |
+| Endurance | 1 | 7d6 | Sleight of Hand | 0 | 3d6 | Survival          | 2 | 4d6 |
 | Lift      | 1 | 7d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
@@ -28,9 +28,9 @@
 |    Inventory Weight    |              0 lb              |          |                                                  Equipment                                                  |
 |  Humanoid Carry Weight  |             340 lb             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                           0% - 25% of carry weight                                           |
-| 4-Legged Movement Speed |              40 ft              |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
-|   Humanoid Swim Speed   |              15 ft              |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
-|  Humanoid Climb Speed  |              15 ft              |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+| 4-Legged Movement Speed |              50 ft              |          |                          50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
+|   Humanoid Swim Speed   |              30 ft              |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
+|  Humanoid Climb Speed  |              35 ft              |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
 
 ## Combat Rolls
 
