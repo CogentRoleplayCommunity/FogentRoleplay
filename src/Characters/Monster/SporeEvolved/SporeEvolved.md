@@ -41,4 +41,4 @@
 |    Sporecraft - Reach    |       6d6       |                |                  |      2      | Reach |     Necrotic     |           Rapid           |                    |      1 (Ichor)      |
 |   Sporecraft - Focused   |       7d6       |                |                  |      2      | Close |     Necrotic     |          Focused          |                    |      1 (Ichor)      |
 
-## Destiny Points: 4/4
+## Ichor: 4/4
