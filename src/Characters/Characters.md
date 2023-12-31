@@ -70,6 +70,8 @@
 
 ### [Leshen](Monster/Leshen/Leshin.md)
 
+### [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
+
 ### [Skeleton](Monster/Skeleton/Skeleton.md)
 
 ### [Worg](Monster/Worg/Worg.md)
