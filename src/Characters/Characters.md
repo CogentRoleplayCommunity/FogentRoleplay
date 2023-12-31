@@ -74,6 +74,8 @@
 
 ### [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
 
+### [Ogre](Monster/Ogre/Ogre.md)
+
 ### [Skeleton](Monster/Skeleton/Skeleton.md)
 
 ### [Spore Infected](Monster/Skeleton/Skeleton.md)
