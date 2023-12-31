@@ -56,7 +56,11 @@
 
 ## Enemies
 
+## [Brown Bear](Enemies/BrownBear/BrownBear.md)
+
 ### [Cultist](Enemies/Cultist/Cultist.md)
+
+### [Deer](Enemies/Deer/Deer.md)
 
 ### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
 
