@@ -62,7 +62,9 @@
 
 ### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
 
-### [Lavendar Lancer Ruffian](Humanoids/LavendarLancerRuffian/LavendarLancerRuffian.md)
+### [Guard](Humanoids/Guard/Guard.md)
+
+### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
 ## Monsters
 
