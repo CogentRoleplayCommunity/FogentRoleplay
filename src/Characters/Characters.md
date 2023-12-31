@@ -74,6 +74,14 @@
 
 ### [Deer](Animals/Deer/Deer.md)
 
+### [Draft Horse](Animals/DraftHorse/DraftHorse.md)
+
+### [Mule](Animals/Mule/Mule.md)
+
+### [Pony](Animals/Pony/Pony.md)
+
 ### [Riding Horse](Animals/RidingHorse/RidingHorse.md)
+
+### [Warhorse](Animals/Warhorse/Warhorse.md)
 
 ### [Wolf](Animals/Wolf/Wolf.md)
