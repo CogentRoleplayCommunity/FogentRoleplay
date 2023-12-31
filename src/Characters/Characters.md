@@ -56,11 +56,7 @@
 
 ## Enemies
 
-## [Brown Bear](Enemies/BrownBear/BrownBear.md)
-
 ### [Cultist](Enemies/Cultist/Cultist.md)
-
-### [Deer](Enemies/Deer/Deer.md)
 
 ### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
 
@@ -70,6 +66,12 @@
 
 ### [Skeleton](Enemies/Skeleton/Skeleton.md)
 
-### [Wolf](Enemies/Wolf/Wolf.md)
-
 ### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
+
+## Animals
+
+### [Brown Bear](Animals/BrownBear/BrownBear.md)
+
+### [Deer](Animals/Deer/Deer.md)
+
+### [Wolf](Animals/Wolf/Wolf.md)
