@@ -85,3 +85,5 @@
 ### [Warhorse](Animals/Warhorse/Warhorse.md)
 
 ### [Wolf](Animals/Wolf/Wolf.md)
+
+### [Worg](Animals/Worg/Worg.md)
