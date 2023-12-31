@@ -68,6 +68,10 @@
 
 ### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
 
+## Monsters
+
+### [Worg](Monster/Worg/Worg.md)
+
 ## Animals
 
 ### [Brown Bear](Animals/BrownBear/BrownBear.md)
@@ -85,5 +89,3 @@
 ### [Warhorse](Animals/Warhorse/Warhorse.md)
 
 ### [Wolf](Animals/Wolf/Wolf.md)
-
-### [Worg](Animals/Worg/Worg.md)
