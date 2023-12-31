@@ -74,4 +74,6 @@
 
 ### [Deer](Animals/Deer/Deer.md)
 
+### [Riding Horse](Animals/RidingHorse/RidingHorse.md)
+
 ### [Wolf](Animals/Wolf/Wolf.md)
