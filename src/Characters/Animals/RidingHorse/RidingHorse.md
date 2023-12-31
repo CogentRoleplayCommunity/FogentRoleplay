@@ -13,12 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Beast {STR, RFX}    | 2 | 7d6 |
-| ------------------- | :-: | :-: |
-| Vocational Skill {} | 0 | 3d6 |
-|                     | 0 | 3d6 |
-|                     | 0 | 3d6 |
-|                     | 0 | 3d6 |
+| Beast {STR, RFX}  | 2 | 7d6 |
+| ----------------- | :-: | :-: |
+| Large Stomp {ALL} | 2 | 6d6 |
+| Bite {ALL}        | 0 | 4d6 |
 
 ## Effects
 
@@ -37,8 +35,8 @@
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Stomp |      +1d6      |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Bite | +1d6 | +1d6 | None | 2 | Melee | Pierce, Bludgeon | Focused | None | None |
+| Large Stomp | 7d6<br />(+1d6) |     (+1d6)     |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|    Bite    | 5d6<br />(+1d6) |     (+1d6)     |       None       |      2      | Melee | Pierce, Bludgeon |          Focused          |        None        |        None        |
 
 ## Equipment
 
