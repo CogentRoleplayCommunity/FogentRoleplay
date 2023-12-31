@@ -1,5 +1,8 @@
 # Character Creation
 
+## Disabling Characteristics
+
+Represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. Skill points can be gained by choosing a disabling characteristic. For each disablling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
 
 ## Tiers of play
 
@@ -15,7 +18,6 @@ Given Vocation Points: 1
 
 Max Skill Points from Disabling Characteristics: 2
 
-
 ### Adept Tier (D&D Level 3-4)
 
 Maximum Skill Level: 3
@@ -27,7 +29,6 @@ Starting Skill Points: 12
 Given Vocation Points: 2
 
 Max Skill Points from Disabling Characteristics: 3
-
 
 ### Veteran Tier (D&D Level 5-6)
 
