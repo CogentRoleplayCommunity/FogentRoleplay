@@ -28,7 +28,7 @@
 |    4-Legged Carry Weight    |             520 lb             |          | 120 lb (Base), +200 lb (per STR above 0),<br />-100 lb (per STR below 0), +/- 40 lb (per Lift above/below 0) |
 |         Light Weight         | -0d6 to STR/RFX governed skills |          |                                           0% - 25% of carry weight                                           |
 | Fast 4-Legged Movement Speed |              75 ft              |          |                            65 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|     4-Legged Swim Speed     |              30 ft              |          |                           15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                           |
+|     4-Legged Swim Speed     |              30 ft              |          |                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                           |
 |     4-Legged Climb Speed     |              10 ft              |          |                              0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                              |
 
 ## Combat Rolls
