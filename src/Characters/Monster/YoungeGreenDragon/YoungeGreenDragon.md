@@ -4,18 +4,18 @@
 
 ## Attributes and Core Skills
 
-| STR       | 2 |    | RFX             | 0 |    | INT               | 1 |    |
+| STR       | 3 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 5d6 | Acrobatics      | 1 | 4d6 | Communication     | 1 | 5d6 |
-| Climb     | 0 | 5d6 | Perception      | 2 | 5d6 | General Knowledge | 0 | 4d6 |
-| Endurance | 2 | 7d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
-| Lift      | 0 | 5d6 | Stealth         | 1 | 4d6 | Willpower         | 1 | 5d6 |
+| Athletics | 0 | 6d6 | Acrobatics      | 1 | 4d6 | Communication     | 1 | 5d6 |
+| Climb     | 0 | 6d6 | Perception      | 2 | 5d6 | General Knowledge | 0 | 4d6 |
+| Endurance | 2 | 8d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Lift      | 0 | 6d6 | Stealth         | 1 | 4d6 | Willpower         | 1 | 5d6 |
 
 ## Vocations and Vocational Skills
 
-| Dragon {ALL}     | 2 | 6d6 |
+| Dragon {ALL}     | 2 | 7d6 |
 | ---------------- | :-: | :-: |
-| Toxincraft {ALL} | 2 | 6d6 |
+| Toxincraft {ALL} | 2 | 7d6 |
 
 ## Effects:
 
@@ -39,14 +39,14 @@
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Toxincraft - Melee Trick |      10d6      |                |                  |      0      |  Melee  |      Poison      |           Rapid           |                    |        None        |
-| Toxincraft - Ranged Trick |      10d6      |                |                  |      0      | Extended |      Poison      |         Standard         |                    |        None        |
-|    Toxincraft - Melee    |      11d6      |                |                  |      2      |  Melee  |      Poison      |           Rapid           |                    |      1 (Ichor)      |
-|    Toxincraft - Ranged    |      11d6      |                |                  |      1      | Extended |      Poison      |         Standard         |                    |      1 (Ichor)      |
-|     Toxincraft - Cone     |      11d6      |                |                  |      2      | Extended |      Poison      |          Focused          |        Cone        |      1 (Ichor)      |
-|    Toxincraft - Reach    |      11d6      |                |                  |      2      |  Reach  |      Poison      |           Rapid           |                    |      1 (Ichor)      |
-|   Toxincraft - Focused   |      12d6      |                |                  |      2      | Extended |      Poison      |          Focused          |                    |      1 (Ichor)      |
-|    Toxincraft - Sphere    |      12d6      |                |                  |      3      | Extended |      Poison      |          Focused          |       Sphere       |      2 (Ichor)      |
+| Toxincraft - Melee Trick |      11d6      |                |                  |      0      |  Melee  |      Poison      |           Rapid           |                    |        None        |
+| Toxincraft - Ranged Trick |      11d6      |                |                  |      0      | Extended |      Poison      |         Standard         |                    |        None        |
+|    Toxincraft - Melee    |      12d6      |                |                  |      2      |  Melee  |      Poison      |           Rapid           |                    |      1 (Ichor)      |
+|    Toxincraft - Ranged    |      12d6      |                |                  |      1      | Extended |      Poison      |         Standard         |                    |      1 (Ichor)      |
+|     Toxincraft - Cone     |      12d6      |                |                  |      2      | Extended |      Poison      |          Focused          |        Cone        |      1 (Ichor)      |
+|    Toxincraft - Reach    |      12d6      |                |                  |      2      |  Reach  |      Poison      |           Rapid           |                    |      1 (Ichor)      |
+|   Toxincraft - Focused   |      13d6      |                |                  |      2      | Extended |      Poison      |          Focused          |                    |      1 (Ichor)      |
+|    Toxincraft - Sphere    |      13d6      |                |                  |      3      | Extended |      Poison      |          Focused          |       Sphere       |      2 (Ichor)      |
 
 ## Ichor: 10/10
 
