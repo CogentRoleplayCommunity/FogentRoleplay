@@ -70,6 +70,8 @@
 
 ## Monsters
 
+### [Leshen](Monster/Leshen/Leshin.md)
+
 ### [Worg](Monster/Worg/Worg.md)
 
 ## Animals
