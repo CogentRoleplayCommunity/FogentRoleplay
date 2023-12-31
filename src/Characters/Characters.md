@@ -62,11 +62,13 @@
 
 ### [Feral Verminkin](Enemies/FeralVerminkin/FeralVerminkin.md)
 
+### [Guard](Humanoids/Guard/Guard.md)
+
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
 ### [Skeleton](Enemies/Skeleton/Skeleton.md)
 
-### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
+### [Young Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
 
 ## Monsters
 
