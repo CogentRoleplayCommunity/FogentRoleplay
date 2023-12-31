@@ -54,27 +54,27 @@
 
 ### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
 
-## Enemies
+## Humanoids
 
-### [Cultist](Enemies/Cultist/Cultist.md)
+### [Cultist](Humanoids/Cultist/Cultist.md)
 
-### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
+### [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 
-### [Feral Verminkin](Enemies/FeralVerminkin/FeralVerminkin.md)
+### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
 
 ### [Guard](Humanoids/Guard/Guard.md)
 
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
-### [Skeleton](Enemies/Skeleton/Skeleton.md)
-
-### [Young Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
-
 ## Monsters
 
 ### [Leshen](Monster/Leshen/Leshin.md)
 
+### [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
+
 ### [Skeleton](Monster/Skeleton/Skeleton.md)
+
+### [Spore Infected](Monster/Skeleton/Skeleton.md)
 
 ### [Worg](Monster/Worg/Worg.md)
 
