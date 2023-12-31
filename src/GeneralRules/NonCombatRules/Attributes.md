@@ -22,7 +22,7 @@ Represent your characters inate muscle strength, bone density, tendon strength, 
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
 |        3        |              Captin America              |
-|        4        |             Thor or Superman             |
+|        4        |                 Superman                 |
 
 STR has the following effects:
 
