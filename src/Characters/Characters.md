@@ -66,6 +66,8 @@
 
 ### [Guard](Humanoids/Guard/Guard.md)
 
+### [Knight](Humanoids/Knight/Knight.md)
+
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
 ## Monsters
