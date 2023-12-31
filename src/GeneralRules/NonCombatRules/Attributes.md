@@ -2,14 +2,15 @@
 
 Attributes represent the physical abilities of your character. An attribute can goes from level -1 to level 4. Each level correspounds with a narrative significance.
 
-| Attribute Level | Narrative Meaning                                |
-| :-------------: | ------------------------------------------------ |
-|       -1       | Below an average person in our world.            |
-|        0        | An average person in our world.                  |
-|        1        | Professional or naturally gifted.                |
-|        2        | Elite or 'world-class'. Peak of human potential. |
-|        3        | Meta-human or demi-god like.                     |
-|        4        | Peak achievable or god like.                     |
+| Attribute Level | Narrative Meaning                                           |
+| :-------------: | ----------------------------------------------------------- |
+|       -1       | Below an average person in our world.                       |
+|        0        | An average person in our world.                             |
+|        1        | Professional or naturally gifted.                           |
+|        2        | Elite or 'world-class'. Peak of real world human potential. |
+|        3        | Meta-human or genetic anomaly                               |
+|        4        | Demi-god like                                               |
+|        5        | Peak achievable or god like.                                |
 
 ## Strength (STR)
 
@@ -21,8 +22,9 @@ Represent your characters inate muscle strength, bone density, tendon strength, 
 |        0        |      An average person in our world      |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
-|        3        |              Captin America              |
-|        4        |                 Superman                 |
+|        3        |      Bear, Ogre, or Captin America      |
+|        4        |             Thor or Hercules             |
+|        5        |                 Superman                 |
 
 STR has the following effects:
 
@@ -43,7 +45,8 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 |        1        |    Professional thief or circus acrobat    |
 |        2        | Gold medal gymnast or master martial artist |
 |        3        |                  Leogolas                  |
-|        4        |             The Flash or Hermes             |
+|        4        |                  Spiderman                  |
+|        5        |             The Flash or Hermes             |
 
 RFX has the following effects:
 
@@ -61,8 +64,9 @@ Represents your raw mental horse power and IQ.
 |        0        |                    An average person in our world                    |
 |        1        |           University science professor or career politician           |
 |        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
-|        3        |                       Professor Charles Xavier                       |
-|        4        |                        Dr. Manhatan or Athena                        |
+|        3        |                              Tony Stark                              |
+|        4        |                           Ultron or Skynet                           |
+|        5        |                        Dr. Manhatan or Athena                        |
 
 INT has the following effects:
 
