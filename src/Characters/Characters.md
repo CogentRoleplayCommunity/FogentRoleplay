@@ -76,6 +76,8 @@
 
 ### [Spore Infected](Monster/Skeleton/Skeleton.md)
 
+### [Spore Evolved](Monster/SporeEvolved/SporeEvolved.md)
+
 ### [Worg](Monster/Worg/Worg.md)
 
 ### [Wraith](Monster/Wraith/Wraith.md)
