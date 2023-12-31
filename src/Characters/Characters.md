@@ -54,19 +54,15 @@
 
 ### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
 
-## Enemies
+## Humanoids
 
-### [Cultist](Enemies/Cultist/Cultist.md)
+### [Cultist](Humanoids/Cultist/Cultist.md)
 
-### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
+### [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 
-### [Feral Verminkin](Enemies/FeralVerminkin/FeralVerminkin.md)
+### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
 
-### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
-
-### [Skeleton](Enemies/Skeleton/Skeleton.md)
-
-### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
+### [Lavendar Lancer Ruffian](Humanoids/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
 ## Monsters
 
