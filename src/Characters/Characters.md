@@ -74,7 +74,13 @@
 
 ### [Leshen](Monster/Leshen/Leshin.md)
 
+### [Skeleton](Monster/Skeleton/Skeleton.md)
+
 ### [Worg](Monster/Worg/Worg.md)
+
+### [Wraith](Monster/Wraith/Wraith.md)
+
+### [Younge Green Dragon](Monster/Wraith/Wraith.md)
 
 ## Animals
 
