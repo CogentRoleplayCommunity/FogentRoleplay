@@ -60,6 +60,8 @@
 
 ### [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 
+### [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
+
 ### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
 
 ### [Guard](Humanoids/Guard/Guard.md)
