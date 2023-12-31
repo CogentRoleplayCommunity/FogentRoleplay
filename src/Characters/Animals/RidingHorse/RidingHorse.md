@@ -38,9 +38,7 @@
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Stomp |      +1d6      |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-
 | Bite | +1d6 | +1d6 | None | 2 | Melee | Pierce, Bludgeon | Focused | None | None |
-| ---- | ---- | ---- | ---- | - | ----- | ---------------- | ------- | ---- | ---- |
 
 ## Equipment
 
