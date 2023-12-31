@@ -6,10 +6,10 @@
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 2 | 3d6 | Survival          | 2 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 2 | 3d6 | Willpower         | 0 | 3d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 6d6 |
+| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 4d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 2 | 5d6 | Survival          | 2 | 6d6 |
+| Lift      | 0 | 3d6 | Stealth         | 2 | 5d6 | Willpower         | 0 | 4d6 |
 
 ## Vocations and Vocational Skills
 
@@ -19,20 +19,21 @@
 
 ## Effects:
 
-|              Name              |                    Effect                    | Duration |                        Source                        |
-| :----------------------------: | :-------------------------------------------: | :------: | :---------------------------------------------------: |
-|     Physical Defense Level     |                       0                       |          |                         Armor                         |
-|          Medium Size          |             5x5 ft on battle map.             |          |                                                      |
-|       Language: Babelish       |              Can speak Babelish.              |          |                                                      |
-|        Language: Pirish        |               Can speak Pirish.               |          |                                                      |
-| Disabling: Addiction to Ladies | Goes out of his way to impress the other sex. |          |                                                      |
-|     Disabling: Short Fuse     | Has an extreme predisposition towards anger. |          |                                                      |
-|        Inventory Weight        |                     0 lb                     |          |                       Equipment                       |
-|     Humanoid Carry Weight     |                    120 lb                    |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
-|          Light Weight          |        -0d6 to STR/RFX governed skills        |          |               0% - 25% of carry weight               |
-|    Humanoid Movement Speed    |                     30 ft                     |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|      Humanoid Swim Speed      |                     15 ft                     |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
-|      Humanoid Climb Speed      |                     15 ft                     |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
+|              Name              |                          Effect                          | Duration |                        Source                        |
+| :----------------------------: | :------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|     Minor Silver Weakness     | (+1) to the level of injury received from Silver damage. |          |                     Fellkin blood                     |
+|     Physical Defense Level     |                            0                            |          |                         Armor                         |
+|          Medium Size          |                  5x5 ft on battle map.                  |          |                                                      |
+|       Language: Babelish       |                   Can speak Babelish.                   |          |                                                      |
+|        Language: Pirish        |                    Can speak Pirish.                    |          |                                                      |
+| Disabling: Addiction to Ladies |      Goes out of his way to impress the other sex.      |          |                                                      |
+|     Disabling: Short Fuse     |       Has an extreme predisposition towards anger.       |          |                                                      |
+|        Inventory Weight        |                          0 lb                          |          |                       Equipment                       |
+|     Humanoid Carry Weight     |                          120 lb                          |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
+|          Light Weight          |             -0d6 to STR/RFX governed skills             |          |               0% - 25% of carry weight               |
+|    Humanoid Movement Speed    |                          30 ft                          |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|      Humanoid Swim Speed      |                          15 ft                          |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|      Humanoid Climb Speed      |                          15 ft                          |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 
 ## Combat Rolls:
 
@@ -99,7 +100,6 @@ Additional Details:
 - Not being a rat
 
 ## Goals/Aspirations:
-
 
 ## Notes:
 

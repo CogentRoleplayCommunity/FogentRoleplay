@@ -15,14 +15,14 @@
 
 | Smith {STR}        | 1 | 5d6 | Fellkin {ALL}    | 0 |     |
 | ------------------- | :-: | :-: | ---------------- | - | --- |
-| Medium Hafted {ALL} | 1 | 5d6 | Ferracraft {ALL} | 1 | 4d6 |
-| Crafting {STR}      | 1 | 5d6 |                  |   |     |
+| Medium Hafted {ALL} | 1 | 5d6 | Ferracraft {ALL} | 0 | 4d6 |
 | Unarmed {ALL}       | 1 | 5d6 |                  |   |     |
 
 ## Info:
 
 |          Name          |                            Effect                            | Duration |                        Source                        |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|  Minor Silver Weakness  |   (+1) to the level of injury received from Silver damage.   |          |                     Fellkin blood                     |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                        Genetic                        |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                      |
 |  Disabling: Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                      |

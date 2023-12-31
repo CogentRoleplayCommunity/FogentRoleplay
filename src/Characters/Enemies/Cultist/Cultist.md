@@ -15,6 +15,7 @@
 
 | Cultist {RFX} | 1 | 5d6 |
 | ------------- | :-: | :-: |
+| Small Blade   | 1 | 4d6 |
 
 ## Effects:
 
@@ -22,7 +23,7 @@
 | :---------------------: | :-----------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
 | Physical Defense Level |                1                |          |                                                    Armor                                                    |
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                              |
-|    Inventory Weight    |              0 lb              |          |                                                  Equipment                                                  |
+|    Inventory Weight    |             13.5 lb             |          |                                                  Equipment                                                  |
 |  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                           0% - 25% of carry weight                                           |
 | Humanoid Movement Speed |              30 ft              |          |                            30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
@@ -33,15 +34,18 @@
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Medium Slashing Blade |      (5d6)      |      (6d6)      |      (+1d6)      |      0      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Small Thrusting Point | 4d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Small Slashing Blade | 5d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|  Thrown Small Point  | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
 
 ## Equipment:
 
-| Name                          | # |         Class         |  Tier  | Durability | LB | Value |
-| ----------------------------- | :-: | :-------------------: | :-----: | :--------: | :-: | :----: |
-| Scimitar                      | 1 | Medium Slashing Blade | Mundane |    9/9    | 1.5 |  7 bc  |
-| Leather Cuirass and Pauldrons | 1 |     Phy. Def. 0.5     | Mundane |   12/12   |  4  |  3 bc  |
-| Leather Vambrace              | 1 |     Phy. Def. 0.5     | Mundane |   12/12   |  2  | 1.5 bc |
+| Name                          | # |                              Class                              |  Tier  | Durability | LB | Value |
+| ----------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :-: | :----: |
+| Leather Cuirass and Pauldrons | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  4  |  3 bc  |
+| Leather Vambrace              | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  2  | 1.5 bc |
+| Clothes, Fine                 | 1 |                              Misc                              | Mundane |            |  6  | 15 bc |
+| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   | 1.5 | 10 bc |
 
 ## Backstory
 

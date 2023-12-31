@@ -32,3 +32,13 @@ DnD skill Modifier to Fallen Skill Level:
 - 4 - 6 -> 2 (Adept)
 - 7 - 9 -> 3 (Expert)
 - 10 -> 12 -> (Master)
+
+DnD Armor Class to Fallen Defense Level:
+	Rememver to remove DnD dexterity modifier from AC be for converting.
+
+    You may also slighly reduce the defense level and give better acrobatics if the creature is harder to hit becuase it is quick, agile, or small.
+
+- 10 AC -> 0 Defense Level
+- 11 AC -> 1 Defene Level
+- 12 AC -> 2 Defense Level
+- So on...

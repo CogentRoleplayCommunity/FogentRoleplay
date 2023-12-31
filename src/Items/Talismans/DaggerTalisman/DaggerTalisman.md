@@ -20,4 +20,4 @@ Tier: Flawless (+6)
 
 ### Enhanced Criticals
 
-+1 automatic win to sneak  attacks and incapacitated opponents.
++1 automatic win to sneak attacks and incapacitated opponents.

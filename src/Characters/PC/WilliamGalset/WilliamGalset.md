@@ -16,14 +16,12 @@
 | Scout {RFX}         | 2 | 6d6 | Fellkin{ALL}      | 0  | 4d6 |
 | ------------------- | :-: | :-: | ----------------- | -- | --- |
 | Medium Sword {ALL} | 2 | 6d6 | Shadowcraft {ALL} | -1 | 3d6 |
-|                     | 0 | 3d6 |                   |    |     |
-|                     | 0 | 3d6 |                   |    |     |
-|                     | 0 | 3d6 |                   |    |     |
 
 ## Effects:
 
 |           Name           |                             Effect                             | Duration |                        Source                        |
 | :----------------------: | :-------------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|  Minor Silver Weakness  |    (+1) to the level of injury received from Silver damage.    |          |                     Fellkin blood                     |
 |  Physical Defense Level  |                                3                                |          |                         Armor                         |
 |       Medium Size       |                      5x5 ft on battle map.                      |          |                                                      |
 |    Language: Babelish    |                       Can speak Babelish.                       |          |                                                      |
@@ -42,10 +40,10 @@
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |        Shortbow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                  |           Rapid           |        None        |        Arrow        |
-| Medium Thrusting Sword | 8d6<br />(+1d6) | 8d6<br />(+2d6) |      (+1d6)      |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword | 9d6<br />(+2d6) | 9d6<br />(+3d6) |      (+1d6)      |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
+| Medium Thrusting Sword | 7d6<br />(+1d6) | 8d6<br />(+2d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword | 8d6<br />(+2d6) | 9d6<br />(+3d6) |  9d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 | Small Thursting Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (+1d6)      |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
-|  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |      (+1d6)      |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
+|  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |  7d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
@@ -53,7 +51,7 @@
 
 ## Destiny Points: 1/3
 
-## Magic Resource: 0/0
+## Ichor: 0/0
 
 ## Equipment:
 

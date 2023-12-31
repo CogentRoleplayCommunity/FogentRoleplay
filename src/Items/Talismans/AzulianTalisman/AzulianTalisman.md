@@ -16,6 +16,6 @@ Tier: Excellent (+3)
 
 ## Effects
 
-### Enhanced Magic Resource
+### Minor Enhanced Magic Resource
 
 +2 to magic Resource capacity.

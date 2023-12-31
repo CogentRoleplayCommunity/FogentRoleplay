@@ -13,14 +13,15 @@
 
 ## Vocations and Vocational Skills
 
-| Detective {INT}    | 1 |    | Fellkin {ALL} | 2 |     |
-| ------------------- | :-: | :-: | ------------- | - | --- |
-| Vocational Skill {} | 0 | 3d6 | Polycraft     | 2 | 6d6 |
+| Detective {INT}   | 1 | 5d6 | Fellkin {ALL} | 2 | 6d6 |
+| ------------------ | :-: | :-: | ------------- | - | --- |
+| Medium Sword {ALL} | 0 | 4d6 | Polycraft     | 2 | 6d6 |
 
 ## Effects:
 
 |               Name               |                                 Effect                                 | Duration |                        Source                        |
 | :------------------------------: | :--------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|      Minor Silver Weakness      |        (+1) to the level of injury received from Silver damage.        |          |                     Fellkin blood                     |
 |      Physical Defense Level      |                                   5                                   |          |                         Armor                         |
 |           Medium Size           |                         5x5 ft on battle map.                         |          |                                                      |
 |        Language: Babelish        |                          Can speak Babelish.                          |          |                                                      |
@@ -37,20 +38,18 @@
 
 ## Combat Rolls:
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Polycraft - Melee Trick |       6d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |                    |
+| Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
+|    Polycraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|    Polycraft - Ranged    |       7d6       |                |                  |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |      1 (Ichor)      |
+|     Polycraft - Cone     |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |      1 (Ichor)      |
+|    Polycraft - Reach    |       7d6       |                |                  |      2      |  Reach  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|   Polycraft - Focused   |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |      1 (Ichor)      |
+|   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
+|  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |       None       |      2      |  Melee  |            Pierce            |           Rapid           |        None        |        None        |
+|  Medium Slashing Sword  | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      0      |  Melee  |            Slash            |           Rapid           |        None        |        None        |
 
 ## Destiny Points: 3/3
 

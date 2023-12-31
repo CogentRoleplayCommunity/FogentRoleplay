@@ -2,7 +2,7 @@
 
 ## Dash (2x Movement Speed)
 
-Instead of engaging in a combat roll, a player can choose to focus purely on their movement  in combat, doubling their movement speed. They can make an Evasion Roll. They may not take the Defensive modifier during a dash. While dashing, any attack against you gains the Flank combat modifier, as you are purely focused on movement.
+Instead of engaging in a combat roll, a player can choose to focus purely on their movement  in combat, doubling their movement speed. They can still Dodge. They may not take the Defensive modifier during a dash.
 
 ## Charge (+1d6)
 
@@ -16,39 +16,47 @@ While making a ranged attack, remain still and  focus on a single shot. Your Eng
 
 A brace is a move purely to counter a charge. No movement can be used while bracing. Bracing uses the opponent’s momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
-## High ground (+2d6)
+## High ground (Advantage)
 
-Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount etc.
+Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground.
 
-## Flank (+2d6)
+## Flank (Advantage)
 
 Bonus received when attacking an opponent actively engaged in something else, IE exhausting an opponent 's Engageable Opponents within a single round, picking a lock, dashing away, etc.
 
-## Staggered (-2d6)
+## Staggered (Disadvantage)
 
 Penalty received if the opponent selects to stagger through a victory level, or if the Narrator applies it. This could be sand thrown in a character face, being shoulder checked, or they lose their footing. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered.
 
 ## Close Combat
 
-The fight is so close in physical proximity that the character’s bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
+The fight is so close in physical proximity that the characte's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
 
-## Defensive (+2d6) (no victory levels)
+## Defensive (Advantage) (no victory levels)
 
 This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Evasion Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, Prone, Flanked, etc.)
 
-## Prone (-4d6)
+## Prone (Disadvantage)
 
 Penalty lasts for one round or until the character readies themselves. In combat, the penalty counts as taking place during the action of getting up while fighting. The opponent can not benefit from the Defensive modifier if they are trying to regain their footing during the round.
 
-## Effective Range Exceeded (-3d6)
+## Effective Range Exceeded
 
-If a ranged shot is being made within it's max range but exceeding it's effective range. The -3d6 penalty is the base penalty, but the narrator is free to adjust this given the context of the shot trying to be made.
+Conditions to apply when attacking beyond effective range.
+
+### Within 2x Effective Range (Disadvantage):
+
+If a ranged shot is made within 2 times it's effective range.
+
+### Exceeding 2x Effective Range (Super Disadvantage):
+
+If a ranged shot is made greater than 2 times it's effective range.
 
 ## Off guard (CL in lieu of defense roll)
 
 CL determined by Narrator IE, attacking a soldier from behind may require a successful Stealth check, then the attack (which they cannot defend against) will be a CL assigned by the Narrator, which the player will roll against with a normal combat roll (without a flanking bonus). Any wins achieved over the CL counts towards the level of victory. Failing the CL commences the next round of combat, where the opponent is then engaged.
 
-## Incapacitated
+## Incapacitated (Super Advantage)
 
 If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily. The CL a character must exceed to obtain ANY victory level against them is CL1.
 

@@ -2,27 +2,25 @@
 
 ## Gradual Heal
 
-Minor injuries heal in one day.
-
-All other injuries heal over the next few days if maintained. Once healed they are downgraded to the injury level below.
+Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stablized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.
 
 ## Minor Heal
 
 Removes a minor or lesser injury.
 
-For a higher tier injury, reduce the dice penalty of the  injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
+For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
 
 ## Medium Heal
 
 Removes a medium or lesser injury.
 
-For a higher tier injury, reduce the dice penalty of the  injury by 2. Injury remains at its current tier. Further medium healing  has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
+For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing  has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
 
 ## Serious Heal
 
 Removes a serious or lesser injury.
 
-For a higher tier injury, reduce the dice penalty of the  injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
+For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.
 
 Can be used to reattach limbs as long as the limb is not completely destroyed.
 

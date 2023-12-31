@@ -1,8 +1,12 @@
 ## Player Characters
 
-### [CorneliusPandrus](PC/CorneliusPandrus/CorneliusPandrus.md)
+### [Arinoth The Enlightened](PC/ArinothTheEnlightened/ArinothTheEnlightened.md)
+
+### [Cornelius Pandrus](PC/CorneliusPandrus/CorneliusPandrus.md)
 
 ### [Destin Shaffer](PC/DestinShaffer/DestinShaffer.md)
+
+### [Elinor Shortwick](PC/ElinorShortwick/ElinorShortwick.md)
 
 ### [Elowyn Lovelace](PC/ElowynLovelace/ElowynLovelace.md)
 
@@ -14,9 +18,17 @@
 
 ### [Javk Wick](PC/JavkWick/JavkWick.md)
 
+### [Jing Hu](PC/JingHu/JingHu.md)
+
 ### [Krexis](PC/Krexis/Krexis.md)
 
+### [Malgon Blackiron](PC/MalgonBlackiron/MalgonBlackiron.md)
+
 ### [Nivix](PC/Nivix/Nivix.md)
+
+### [Reymond Reddington](PC/ReymondReddington/ReymondReddington.md)
+
+### [Salvatore Riggs](PC/SalvatoreRiggs/SalvatoreRiggs.md)
 
 ### [Seraphina Roseblood](PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
 
@@ -24,28 +36,27 @@
 
 ### [Uhtred Storm](PC/UhtredStorm/UhtredStorm.md)
 
+### [Uhtred Storm (Depricated)](PC/UhtredStorm/UhtredStormDepricated.md)
+
 ### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
+
+### [Vasilii Anatoli](PC/VasiliiAnatoli/VasiliiAnatoli.md)
 
 ### [Verd Lambsquarter](PC/VerdLambsquarter/VerdLambsquarter.md)
 
-### [Reymond Reddington](PC/ReymondReddington/ReymondReddington.md)
-
-### [Jing Hu](PC/JingHu/JingHu.md)
-
-### [Elinor Shortwick](PC/ElinorShortwick/ElinorShortwick.md)
-
-
-### [Salvatore Riggs](PC/SalvatoreRiggs/SalvatoreRiggs.md)
+### [William Galset](PC/WilliamGalset/WilliamGalset.md)
 
 ## Non Player Characters
 
-### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
-
 ### [Killroy Crimson](NPC/KillroyCrimson/KillroyCrimson.md)
+
+### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
 ### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
 
 ## Enemies
+
+### [Cultist](Enemies/Cultist/Cultist.md)
 
 ### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
 
@@ -53,4 +64,16 @@
 
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
-### [Wolf](Enemies/Wolf/Wolf.md)
+### [Skeleton](Enemies/Skeleton/Skeleton.md)
+
+### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
+
+## Animals
+
+### [Brown Bear](Animals/BrownBear/BrownBear.md)
+
+### [Deer](Animals/Deer/Deer.md)
+
+### [Riding Horse](Animals/RidingHorse/RidingHorse.md)
+
+### [Wolf](Animals/Wolf/Wolf.md)

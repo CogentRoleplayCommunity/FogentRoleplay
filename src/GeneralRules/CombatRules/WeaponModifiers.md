@@ -1,5 +1,11 @@
 # Weapon Modifiers
 
+## Dual wielding
+
+Grants an additional dice bonus depending on the weapons class of the second weapon being used. To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Your non off-handed weapon must be a small or medium weapon.
+
+Secondary weapon: +1d6 to combat rolls
+
 ## Light Ranged Flexed
 
 - -1d6 in melee combat while attempting ranged attack
@@ -135,7 +141,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 |    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :----------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-|    Short Spear    |     +3d6     |     +3d6     |      3      | Melee | Pierce |     Spear Rapid     |     +1d6     | None |   None   |     STR,RFX,INT     |
+|    Short Spear    |     +2d6     |     +3d6     |      3      | Melee | Pierce |     Spear Rapid     |     +1d6     | None |   None   |     STR,RFX,INT     |
 | Thrown Short Spear |     +2d6     |     +2d6     |      3      | Short | Pierce |       Standard       |     None     | None |   None   |     STR,RFX,INT     |
 
 ## Reach Weapons

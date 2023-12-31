@@ -1,4 +1,4 @@
-# Vasili Anatoli
+# Vasili "The Bear Knight" Anatoli
 
 ![NotMyImage](VasiliiAnatoli.png)
 
@@ -15,62 +15,55 @@
 
 | Warrior {ALL}    | 2 | 6d6 | Fellkin {ALL}   | 2 | 6d6 |
 | ----------------- | :-: | :-: | --------------- | - | --- |
-| Large Sword {ALL} | 2 | 3d6 | Polycraft {ALL} | 2 | 6d6 |
-|                   | 0 | 3d6 |                 |   |     |
-|                   | 0 | 3d6 |                 |   |     |
-|                   | 0 | 3d6 |                 |   |     |
+| Large Sword {ALL} | 2 | 6d6 | Polycraft {ALL} | 2 | 6d6 |
 
 ## Effects:
 
 |             Name             |                                                                           Effect                                                                           | Duration |                        Source                        |
 | :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|    Physical Defense Level    |                                                                             0                                                                             |          |                         Armor                         |
+|    Minor Silver Weakness    |                                                  (+1) to the level of injury received from Silver damage.                                                  |          |                     Fellkin blood                     |
+|    Physical Defense Level    |                                                                             4                                                                             |          |                         Armor                         |
 |         Medium Size         |                                                                   5x5 ft on battle map.                                                                   |          |                                                      |
 |      Language: Babelish      |                                                                    Can speak Babelish.                                                                    |          |                                                      |
-|          Language:          |                                                                        Can speak .                                                                        |          |                                                      |
+|       Language: Primal       |                                                                     Can speak Primal.                                                                     |          |                                                      |
 | Disabling: Scandolous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                      |
 |     Disabling: Alcholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
-|       Inventory Weight       |                                                                           0 lb                                                                           |          |                       Equipment                       |
+|       Inventory Weight       |                                                                           55 lb                                                                           |          |                       Equipment                       |
 |    Humanoid Carry Weight    |                                                                           220 lb                                                                           |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                              |          |               0% - 25% of carry weight               |
 |   Humanoid Movement Speed   |                                                                           30 ft                                                                           |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |     Humanoid Swim Speed     |                                                                           15 ft                                                                           |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |     Humanoid Climb Speed     |                                                                           15 ft                                                                           |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 
-| Extreme addiction, suffers from withdrawals if not satisfied. |
-| ------------------------------------------------------------- |
-
 ## Combat Rolls:
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Polycraft - Melee Trick |       6d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |                    |
+| Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
+|    Polycraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|    Polycraft - Ranged    |       7d6       |                |                  |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |      1 (Ichor)      |
+|     Polycraft - Cone     |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |      1 (Ichor)      |
+|    Polycraft - Reach    |       7d6       |                |                  |      2      |  Reach  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|   Polycraft - Focused   |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |      1 (Ichor)      |
+|   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
+|  Large Thrusting Sword  | 6d6<br />(+0d6) | 8d6<br />(+2d6) |       None       |      3      |  Melee  |            Pierce            |           Rapid           |        None        |        None        |
+|   Large Slashing Sword   | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None       |      2      |  Melee  |            Slash            |           Rapid           |        None        |        None        |
 
 ## Destiny Points: 1/3
 
-## Magic Resource: 6/6
+## Ichor: 6/6
 
 ## Equipment:
 
-| Name               | # |                    Class                    |  Tier  | Durability | LB |  Value  |
-| ------------------ | :-: | :-----------------------------------------: | :-----: | :--------: | :-: | :-----: |
-| Longsword          | 1 | Large Thrusting Sword, Large Slashing Sword | Mundane |   12/12   | 3 |  15 bc  |
-| Chainmail Sleeves  | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 11 | 11.2 bc |
-| Chainmail Leggings | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 12 | 11.2 bc |
-| Chainmail Shirt    | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 20 | 22.4 bc |
-| Gambeson Leggings  | 1 |                Phy. Def. 0.5                | Mundane |   12/12   | 3 |  1 bc  |
-| Gambeson Coat      | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 5 |  2 bc  |
+| Name                             | # |                    Class                    |  Tier  | Durability | LB |  Value  |
+| -------------------------------- | :-: | :-----------------------------------------: | :-----: | :--------: | :-: | :-----: |
+| Longsword                        | 1 | Large Thrusting Sword, Large Slashing Sword | Mundane |   12/12   | 3 |  15 bc  |
+| Chainmail Sleeves                | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 11 | 11.2 bc |
+| Chainmail Leggings               | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 12 | 11.2 bc |
+| Brigandine Cuirass and Pauldrons | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 20 |  60 bc  |
+| Gambeson Leggings                | 1 |                Phy. Def. 0.5                | Mundane |   12/12   | 3 |  1 bc  |
+| Gambeson Coat                    | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 5 |  2 bc  |
 
 ## Containers:
 
@@ -90,7 +83,7 @@
 
 ## Appearance:
 
-Age: 24
+Age: 27
 
 Race: Beastkin (Bear)
 
@@ -141,4 +134,4 @@ When Vasilii was 23 his father had sent him, Artoym, and Borya his oldest brothe
 
 The whole incident was covered up, and his brother's death was blamed on a cell of revolutionists. Artoym pointed out that the people would rise up if Vasilii was executed. Instead his father banished him, never to return.
 
-Vasilii  took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn’t have the strength to fight for themselves.
+Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilli genuinly being suprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilli grew into something of a folk hero in the region surrounding Reddwall known as "The Bear Knight".

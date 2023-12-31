@@ -13,40 +13,39 @@
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}   | 2 | 6d6 | Enterpenuer {INT} | 1 |  |
-| --------------- | :-: | :-: | ----------------- | - | - |
-| Sonocraft {ALL} | 2 | 6d6 |                   |   |  |
-|                 | 0 | 3d6 |                   |   |  |
-|                 | 0 | 3d6 |                   |   |  |
+| Fellkin {ALL}   | 2 | 6d6 | Enterpenuer {INT} | 1 | 5d6 |
+| --------------- | :-: | :-: | ----------------- | - | --- |
+| Sonocraft {ALL} | 2 | 6d6 |                   |   |     |
 
 ## Effects:
 
-|            Name            |                       Effect                       | Duration |                        Source                        |
-| :-------------------------: | :-------------------------------------------------: | :------: | :---------------------------------------------------: |
-|   Physical Defense Level   |                          0                          |          |                         Armor                         |
-|         Medium Size         |                5x5 ft on battle map.                |          |                                                      |
-|     Language: Babelish     |                 Can speak Babelish.                 |          |                                                      |
-|      Language: Pirish      |                  Can speak Pirish.                  |          |                                                      |
-|      Disabling: Greedy      |                Obsessed with money.                |          |                                                      |
-| Disabling: Authority Issues | Can't stand being talked down to or ordered around. |          |                                                      |
-|      Inventory Weight      |                        19 lb                        |          |                       Equipment                       |
-|    Humanoid Carry Weight    |                       120 lb                       |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
-|        Light Weight        |           -0d6 to STR/RFX governed skills           |          |               0% - 25% of carry weight               |
-|   Humanoid Movement Speed   |                        35 ft                        |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|     Humanoid Swim Speed     |                        20 ft                        |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
-|    Humanoid Climb Speed    |                        15 ft                        |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
+|            Name            |                          Effect                          | Duration |                        Source                        |
+| :-------------------------: | :------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|    Minor Silver Weakness    | (+1) to the level of injury received from Silver damage. |          |                     Fellkin blood                     |
+|   Physical Defense Level   |                            0                            |          |                         Armor                         |
+|         Medium Size         |                  5x5 ft on battle map.                  |          |                                                      |
+|     Language: Babelish     |                   Can speak Babelish.                   |          |                                                      |
+|      Language: Pirish      |                    Can speak Pirish.                    |          |                                                      |
+|      Disabling: Greedy      |                   Obsessed with money.                   |          |                                                      |
+| Disabling: Authority Issues |   Can't stand being talked down to or ordered around.   |          |                                                      |
+|      Inventory Weight      |                          19 lb                          |          |                       Equipment                       |
+|    Humanoid Carry Weight    |                          120 lb                          |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
+|        Light Weight        |             -0d6 to STR/RFX governed skills             |          |               0% - 25% of carry weight               |
+|   Humanoid Movement Speed   |                          35 ft                          |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|     Humanoid Swim Speed     |                          20 ft                          |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|    Humanoid Climb Speed    |                          15 ft                          |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 
 ## Combat Rolls:
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Sonocraft - Ranged Trick |       6d6       |                |                  |      0      | Close |                  |         Standard         |        None        |        None        |
-|    Sonocraft - Ranged    |       7d6       |                |                  |      1      | Close |                  |         Standard         |        None        |      1 (Ichor)      |
-|     Sonocraft - Cone     |       7d6       |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|   Sonocraft - Focused   |       8d6       |                |                  |      2      | Close |                  |          Focused          |        None        |      1 (Ichor)      |
-|    Sonocraft - Sphere    |       8d6       |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-|  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  6d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-|  Medium Slashing Sword  | 6d6<br />(+2d6) | 7d6<br />(+3d6) |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Sonocraft - Ranged Trick |       6d6       |                |                  |      0      | Extended |                  |         Standard         |        None        |        None        |
+|    Sonocraft - Ranged    |       7d6       |                |                  |      1      | Extended |                  |         Standard         |        None        |      1 (Ichor)      |
+|     Sonocraft - Cone     |       7d6       |                |                  |      2      | Extended |                  |          Focused          |        Cone        |      1 (Ichor)      |
+|   Sonocraft - Focused   |       8d6       |                |                  |      2      | Extended |                  |          Focused          |        None        |      1 (Ichor)      |
+|    Sonocraft - Sphere    |       8d6       |                |                  |      3      | Extended |                  |          Focused          |       Sphere       |      2 (Ichor)      |
+|  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  6d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
+|  Medium Slashing Sword  | 6d6<br />(+2d6) | 7d6<br />(+3d6) |  7d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |

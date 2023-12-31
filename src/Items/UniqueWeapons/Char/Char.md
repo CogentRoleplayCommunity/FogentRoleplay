@@ -26,4 +26,4 @@ Tier: Mundane (+0)
 
 ### Fire Repair and Enhancement
 
-Weapons repairs in intense fires. If the fire is fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.
+Weapons repairs in intense fires. If fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.

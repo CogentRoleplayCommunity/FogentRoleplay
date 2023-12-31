@@ -16,4 +16,4 @@ Tier: Flawless (+6)
 
 ### Ariel Assassin
 
-While performing an aerial attack, one of the dice from the "High Ground" modifier becomes an automatic win.
+While performing an aerial attack, gain a +1 to your victory level.

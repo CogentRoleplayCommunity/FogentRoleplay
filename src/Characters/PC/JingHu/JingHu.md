@@ -21,6 +21,7 @@
 
 |                    Name                    |                            Effect                            | Duration |                        Source                        |
 | :----------------------------------------: | :-----------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|           Minor Silver Weakness           |   (+1) to the level of injury received from Silver damage.   |          |                     Fellkin blood                     |
 |           Physical Defense Level           |                               3                               |          |                         Armor                         |
 |                Medium Size                |                     5x5 ft on battle map.                     |          |                                                      |
 |             Language: Babelish             |                 Can speak and write Babelish.                 |          |                                                      |
@@ -39,7 +40,7 @@
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Hafted Blunt |  4d6<br />(-1)  | 6d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Short Spear    | 8d6<br />(+3d6) |     (+3d6)     |  9d6<br />(+1d6)  |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
+|    Short Spear    | 7d6<br />(+2d6) |     (+3d6)     |  9d6<br />(+1d6)  |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
 | Thrown Short Spear | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        |
 
 ## Destiny Points: 0/3

@@ -16,6 +16,18 @@ Due to their monstrous ancestry, Fellkind carries Ichor, the potential energy fo
 - Governing Core Skill: Endurance
 - Spell: Fellweave
 
+### Silverburn
+
+A reaction caused by silver coming into contact with Ichor. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Ichor in their blood.
+
+If a character has at least a level 1 in the "Fellkin" or equivelent vocation, they gain a Minor weakness to silver damage.
+
+Silverburn damage taken while transformed by Ichor, forces the user to make an Endurance check to maintain their form.
+
+* CL of  Endurance check will be level of injury dealt + 1.
+* If the user fails, then they lose all active Fellcraft buffs.
+* For monsters this often means reducing their base attributes like STR and RFX.
+
 ### Fellcraft Tree
 
 The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
