@@ -6,10 +6,10 @@
 
 | STR       | 3 |    | RFX             | 0 |    | INT               | -1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 1 | 7d6 | Perception      | 2 | 5d6 | General Knowledge | 0 | 3d6 |
+| Athletics | 0 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 2d6 |
+| Climb     | 1 | 7d6 | Perception      | 2 | 5d6 | General Knowledge | 0 | 2d6 |
 | Endurance | 1 | 7d6 | Sleight of Hand | 0 | 3d6 | Survival          | 2 | 4d6 |
-| Lift      | 1 | 7d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
+| Lift      | 1 | 7d6 | Stealth         | 0 | 3d6 | Willpower         | 1 | 3d6 |
 
 ## Vocations and Vocational Skills
 
