@@ -7,8 +7,8 @@
 | STR       | 0 |     | RFX             | 1 |     | INT               | 1 |     |
 | --------- | - | --- | --------------- | - | --- | ----------------- | - | --- |
 | Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 1 | 5d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 6d6 | General Knowledge | 1 | 5d6 |
-| Endurance | 1 | 4d6 | Sleight of Hand | 1 | 5d6 | Survival          | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 2 | 6d6 | General Knowledge | 0 | 4d6 |
+| Endurance | 0 | 4d6 | Sleight of Hand | 1 | 5d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 3d6 | Stealth         | 3 | 7d6 | Willpower         | 1 | 5d6 |
 
 ## Vocations and Vocational Skills
@@ -17,7 +17,6 @@
 | -------------------- | - | --- |
 | Medium Sword {ALL}   | 3 | 8d6 |
 | Light Crossbow {ALL} | 2 | 7d6 |
-|                      |   |     |
 
 ## Info:
 
