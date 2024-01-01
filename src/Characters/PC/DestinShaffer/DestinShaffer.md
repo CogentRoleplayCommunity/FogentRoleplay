@@ -134,6 +134,14 @@ Doesn't respect traditional authority, but sees the value of service.
 
 ## Notes:
 
+Ferracraft blood into Bloodsteel
+
+Magnetic shield for incoming weapon attacks
+
+Bloodforge Char with Bloodsteel to reforge it
+
+Magnetic bullets
+
 ## Backstory:
 
 Destin grew up in a small town outside of Redwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
