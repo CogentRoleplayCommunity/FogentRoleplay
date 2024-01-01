@@ -14,11 +14,13 @@
 
 ### Stagger
 
-Opponent is staggered. This could be sand thrown in a character face, being shoulder checked, or losing their footing. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered.
+Opponent gains the staggered combat modifier. This could be sand thrown in a character face, being shoulder checked, or losing their footing. The opponent has disadvantage rolls until the end of the next round. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered as they can't fully focus on defending themselves.
 
 ### Close Combat
 
-Enter/exit close combat. The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls. Once an opponent is grappled, on the same round you can attempt a Lift check determined by your narrator given the size and the weight of your opponent. If successful, you can Move or Shove your opponent.
+Enter/exit close combat. The fight is so close in physical proximity that the characte's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
+
+The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls. Once an opponent is grappled, on the same round you can attempt a Lift check determined by your narrator given the size and the weight of your opponent. If successful, you can Move or Shove your opponent.
 
 ### Move
 
@@ -46,7 +48,11 @@ Opponent loses their weapon.
 
 ### Trip
 
-Opponent is rendered prone.  -4d6 for one round or until footing is regained. Opponents can not benefit from the Defensive modifier.
+Opponent is rendered prone. The opponent has disadvantage on rolls until they get up. Melee attacks made against the downed opponent are at advantage.
+
+A character can declare they are attempting to get up on a round they start prone. While getting up, the opponents movement speed is 0. They are able to regain their footing and remove the prone effect at the end of the round they were getting up. The opponent can not benefit from the Defensive modifier while getting up as they can't fully focus on defending themselves.
+
+Instead of getting up, a character can remain prone. They use their climb speed instead of their movement speed.
 
 ## Level 4 Victory
 

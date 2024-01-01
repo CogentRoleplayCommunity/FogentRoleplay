@@ -24,21 +24,9 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 Bonus received when attacking an opponent actively engaged in something else, IE exhausting an opponent 's Engageable Opponents within a single round, picking a lock, dashing away, etc.
 
-## Staggered (Disadvantage)
-
-Penalty received if the opponent selects to stagger through a victory level, or if the Narrator applies it. This could be sand thrown in a character face, being shoulder checked, or they lose their footing. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered.
-
-## Close Combat
-
-The fight is so close in physical proximity that the characte's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
-
 ## Defensive (Advantage) (no victory levels)
 
 This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Evasion Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, Prone, Flanked, etc.)
-
-## Prone (Disadvantage)
-
-Penalty lasts for one round or until the character readies themselves. In combat, the penalty counts as taking place during the action of getting up while fighting. The opponent can not benefit from the Defensive modifier if they are trying to regain their footing during the round.
 
 ## Effective Range Exceeded
 
