@@ -1,11 +1,13 @@
 DnD ability score to Fallen attribute:
 
-- below 10 -> -1
+- 1 - 5 -> -2
+- 6 - 9 -> -1
 - 10 - 13 -> 0
 - 14 - 17 -> 1
 - 18 - 21 -> 2
 - 22 - 25 -> 3
-- above 25 -> 4
+- 26 - 29 -> 4
+- 30 -> 5
 - Strength and Constitution average -> STR
 - Dexterity -> RFX
 - Intelligence -> INT
