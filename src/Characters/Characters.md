@@ -60,21 +60,31 @@
 
 ### [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 
+### [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
+
 ### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
 
 ### [Guard](Humanoids/Guard/Guard.md)
+
+### [Knight](Humanoids/Knight/Knight.md)
 
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
 ## Monsters
 
+### [Doppelganger](Monster/Doppelganger/Doppelganger.md)
+
 ### [Leshen](Monster/Leshen/Leshin.md)
 
 ### [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
 
+### [Ogre](Monster/Ogre/Ogre.md)
+
 ### [Skeleton](Monster/Skeleton/Skeleton.md)
 
 ### [Spore Infected](Monster/Skeleton/Skeleton.md)
+
+### [Spore Evolved](Monster/SporeEvolved/SporeEvolved.md)
 
 ### [Worg](Monster/Worg/Worg.md)
 

@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Knight {RFX}       | 2 | 7d6 |
+| Knight {ALL}       | 2 | 7d6 |
 | ------------------ | :-: | :-: |
 | Large Sword {ALL} | 2 | 7d6 |
 

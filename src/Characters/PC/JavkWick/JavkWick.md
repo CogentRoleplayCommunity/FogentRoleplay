@@ -7,8 +7,8 @@
 | STR       | 0 |     | RFX             | 1 |     | INT               | 1 |     |
 | --------- | - | --- | --------------- | - | --- | ----------------- | - | --- |
 | Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 1 | 5d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 6d6 | General Knowledge | 1 | 5d6 |
-| Endurance | 1 | 4d6 | Sleight of Hand | 1 | 5d6 | Survival          | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 2 | 6d6 | General Knowledge | 0 | 4d6 |
+| Endurance | 0 | 4d6 | Sleight of Hand | 1 | 5d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 3d6 | Stealth         | 3 | 7d6 | Willpower         | 1 | 5d6 |
 
 ## Vocations and Vocational Skills
@@ -17,7 +17,6 @@
 | -------------------- | - | --- |
 | Medium Sword {ALL}   | 3 | 8d6 |
 | Light Crossbow {ALL} | 2 | 7d6 |
-|                      |   |     |
 
 ## Info:
 
@@ -118,6 +117,36 @@ Additional Details:
 - Become a magician.
 
 ## Notes:
+
+Javk sacrificed his arm and eye as a devil contract
+
+Thorn is the name of Javk's arm or maybe bow
+
+Diamond devil eyes from containment
+
+Yellow flame of frenzy eye on normal eye
+
+Sayings:
+Never fight fair
+We, fight, TOGETHER
+Who carries the load (Boat)
+“We do this, together”
+“Why do we Fall…”
+“I'm not likely to back down from much, I always stand my ground”
+“If you find yourself in a fair fight, then your tactics suck.”
+“It's never been a fair fight”
+“Because fighting fair is for losers.”
+“No man gets to walk out of their own story…”
+“Then be a hero”
+“”It's not about you, it's about them
+https://youtube.com/shorts/KxKjt2-Z7ts?feature=share
+
+Habits:
+Tinker with arm
+Practice card tricks and magician tricks
+Complain that I don't have a cigar
+Fiddle with horn
+Play up deteriorating health
 
 ## Backstory:
 
