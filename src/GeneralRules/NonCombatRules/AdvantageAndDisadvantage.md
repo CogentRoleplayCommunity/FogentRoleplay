@@ -1,5 +1,7 @@
 # Advantage and Disadvantge
 
+It is important that advantage/disadvantage/super advantage/super disadvantage only applies to a single dice pool, not additional dice pools such as from assists. For example, if I have advantage on a stealth check and decide to assist with my "Rogue" vocation, than the advantage only applies on the stealth dice pool and not on the "Rogue" dice pool. However, I could preemptively use a destiny point to gain advantage on the "Rogue" assist dice pool.
+
 ## Advantage
 
 Addvatage is gained when you character gains the upper hand in a fight or circumstance favors them. For any dice rolled, 3's count as a success for that roll.
@@ -22,6 +24,6 @@ Super advantage can also be gained when finishing off an incapacitated opponent.
 
 ## Super Disadvantage
 
-Gained under very specific conditions when your character has drawn the short straw.
+Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as a failure for that roll.
 
 Super disadvantage can only be gained when your are attempting something that has virtually no chance of succeding. For instance, in combat trying to hit someone well beyond your weapons effective range (see Effective Range Exceeded in Combat Modifiers).
