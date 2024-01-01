@@ -42,14 +42,14 @@
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Naturecraft - Melee Trick |       6d6       |                |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |                    |
-| Naturecraft - Ranged Trick |       6d6       |                |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce, Poison |         Standard         |                    |                    |
-|    Naturecraft - Melee    |       7d6       |                |                  |      2      | Melee | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |      1 (Ichor)      |
-|    Naturecraft - Ranged    |       7d6       |                |                  |      1      | Close | Slash, Bludgeon, Hew, Pierce, Poison |         Standard         |                    |      1 (Ichor)      |
-|     Naturecraft - Cone     |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |        Cone        |      1 (Ichor)      |
-|    Naturecraft - Reach    |       7d6       |                |                  |      2      | Reach | Slash, Bludgeon, Hew, Pierce, Poison |           Rapid           |                    |      1 (Ichor)      |
-|   Naturecraft - Focused   |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |                    |      1 (Ichor)      |
-|   Naturecraft - Sphere   |       8d6       |                |                  |      3      | Close | Slash, Bludgeon, Hew, Pierce, Poison |          Focused          |       Sphere       |      2 (Ichor)      |
+| Naturecraft - Melee Trick |       6d6       |                |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |                    |
+| Naturecraft - Ranged Trick |       6d6       |                |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
+|    Naturecraft - Melee    |       7d6       |                |                  |      2      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|    Naturecraft - Ranged    |       7d6       |                |                  |      1      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |      1 (Ichor)      |
+|     Naturecraft - Cone     |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |      1 (Ichor)      |
+|    Naturecraft - Reach    |       7d6       |                |                  |      2      | Reach | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
+|   Naturecraft - Focused   |       7d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |      1 (Ichor)      |
+|   Naturecraft - Sphere   |       8d6       |                |                  |      3      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
 |     Thrown Small Point     | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |                Pierce                |           Quick           |        None        |        None        |
 |   Small Thrusting Point   | 4d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |                Pierce                |           Rapid           |        None        |        None        |
 |    Small Slashing Blade    | 5d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |                Slash                |           Rapid           |        None        |        None        |

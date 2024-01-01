@@ -28,6 +28,10 @@ Spoken by the Chitinkin (Kiki) and across the Underworld (the giant caverns that
 
 A very rare and ancient language that has existed since before creation. Since Dragonkin are rare, this language is only used amongst themselves. An almost serpentine like language in sound.
 
+### **Jotun**
+
+Spoken by Giants, Ogres, and Ogrekin.
+
 ### Demonic
 
 Said to be spoken by demons, no record exists of it, only myths.

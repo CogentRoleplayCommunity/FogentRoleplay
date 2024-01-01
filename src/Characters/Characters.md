@@ -54,19 +54,43 @@
 
 ### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
 
-## Enemies
+## Humanoids
 
-### [Cultist](Enemies/Cultist/Cultist.md)
+### [Cultist](Humanoids/Cultist/Cultist.md)
 
-### [Feral Beastkin](Enemies/FeralBeastkin/FeralBeastkin.md)
+### [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 
-### [Feral Verminkin](Enemies/FeralVerminkin/FeralVerminkin.md)
+### [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
+
+### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
+
+### [Guard](Humanoids/Guard/Guard.md)
+
+### [Knight](Humanoids/Knight/Knight.md)
 
 ### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
 
-### [Skeleton](Enemies/Skeleton/Skeleton.md)
+## Monsters
 
-### [Younge Green Dragon](Enemies/YoungeGreenDragon/YoungeGreenDragon.md)
+### [Doppelganger](Monster/Doppelganger/Doppelganger.md)
+
+### [Leshen](Monster/Leshen/Leshin.md)
+
+### [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
+
+### [Ogre](Monster/Ogre/Ogre.md)
+
+### [Skeleton](Monster/Skeleton/Skeleton.md)
+
+### [Spore Infected](Monster/Skeleton/Skeleton.md)
+
+### [Spore Evolved](Monster/SporeEvolved/SporeEvolved.md)
+
+### [Worg](Monster/Worg/Worg.md)
+
+### [Wraith](Monster/Wraith/Wraith.md)
+
+### [Younge Green Dragon](Monster/Wraith/Wraith.md)
 
 ## Animals
 
@@ -74,6 +98,14 @@
 
 ### [Deer](Animals/Deer/Deer.md)
 
+### [Draft Horse](Animals/DraftHorse/DraftHorse.md)
+
+### [Mule](Animals/Mule/Mule.md)
+
+### [Pony](Animals/Pony/Pony.md)
+
 ### [Riding Horse](Animals/RidingHorse/RidingHorse.md)
+
+### [Warhorse](Animals/Warhorse/Warhorse.md)
 
 ### [Wolf](Animals/Wolf/Wolf.md)

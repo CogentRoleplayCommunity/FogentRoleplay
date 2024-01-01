@@ -11,7 +11,7 @@ Each grid of the battle map represents a 5x5 ft square.
 |      Humanoid Swim Speed      | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |     Humanoid Climb Speed     |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 |    4-Legged Movement Speed    | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|     4-Legged Swim Speed     | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|     4-Legged Swim Speed     | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics) |
 |     4-Legged Climb Speed     |    0 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
 | Fast 4-Legged Movement Speed | 65 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |         Flight Speed         | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
