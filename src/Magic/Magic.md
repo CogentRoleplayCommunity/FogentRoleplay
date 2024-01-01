@@ -383,6 +383,8 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 [Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
 
+[Mind Reading](Spells/Novice/MindReading.md)
+
 [Leap](Spells/Novice/Leap.md)
 
 [Slow Fall](CompoundRunes\SlowFall.md)
