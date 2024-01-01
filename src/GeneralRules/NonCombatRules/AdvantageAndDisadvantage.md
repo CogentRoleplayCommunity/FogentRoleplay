@@ -27,3 +27,7 @@ Super advantage can also be gained when finishing off an incapacitated opponent.
 Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as a failure for that roll.
 
 Super disadvantage can only be gained when your are attempting something that has virtually no chance of succeding. For instance, in combat trying to hit someone well beyond your weapons effective range (see Effective Range Exceeded in Combat Modifiers).
+
+## Advantage and Disadvantage cancelling out
+
+If on a roll you had disadvantage, but were able to get advantage from some other benifit, than the two effects cancel out leaving you with only a normal roll. If you had two sources giving you advantage, than you would still only have advantage. However, if you had two sources of advantage and one source of disadvantage, than one advantage would cancel out with the only disadvantage, leaving you with advantage.
