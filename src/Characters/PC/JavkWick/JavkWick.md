@@ -119,6 +119,36 @@ Additional Details:
 
 ## Notes:
 
+Javk sacrificed his arm and eye as a devil contract
+
+Thorn is the name of Javk's arm or maybe bow
+
+Diamond devil eyes from containment
+
+Yellow flame of frenzy eye on normal eye
+
+Sayings:
+Never fight fair
+We, fight, TOGETHER
+Who carries the load (Boat)
+“We do this, together”
+“Why do we Fall…”
+“I'm not likely to back down from much, I always stand my ground”
+“If you find yourself in a fair fight, then your tactics suck.”
+“It's never been a fair fight”
+“Because fighting fair is for losers.”
+“No man gets to walk out of their own story…”
+“Then be a hero”
+“”It's not about you, it's about them
+https://youtube.com/shorts/KxKjt2-Z7ts?feature=share
+
+Habits:
+Tinker with arm
+Practice card tricks and magician tricks
+Complain that I don't have a cigar
+Fiddle with horn
+Play up deteriorating health
+
 ## Backstory:
 
 Across the world, when mothers tuck their children into bed, bandits gather around their campfires, and adventures congregate near the inn's hearth, the "Tale of the Wicker" is a common tale. A monster/ghost story that has been passed down from generation to generation. The tale of the Wicker is a reminder that the scariest monsters don't look like monsters at all. For the Wicker looks just like you and me. Only when it claims your severed head and drags your soul to the bottom of the Abyss will you know you have encountered the Wicker. For children it is a reminder to not trust strangers or wonder off from your parents. For adults it's a warning that monsters walk among us, and no matter how much power, wealth, or fame you possess, none of it will protect you from true malevolence.
