@@ -4,6 +4,7 @@ Attributes represent the physical abilities of your character. An attribute can 
 
 | Attribute Level | Narrative Meaning                                           |
 | :-------------: | ----------------------------------------------------------- |
+|       -2       | Painfully lacking in the attribute.                        |
 |       -1       | Below an average person in our world.                       |
 |        0        | An average person in our world.                             |
 |        1        | Professional or naturally gifted.                           |
@@ -18,6 +19,7 @@ Represent your characters inate muscle strength, bone density, tendon strength, 
 
 | Attribute Level |            Narrative Meaning            |
 | :-------------: | :--------------------------------------: |
+|       -2       |                 A squirl                 |
 |       -1       |   Below an average person in our world   |
 |        0        |      An average person in our world      |
 |        1        |      Professional soldier or knight      |
@@ -40,6 +42,7 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 
 | Attribute Level |              Narrative Meaning              |
 | :-------------: | :-----------------------------------------: |
+|       -2       |                A seacucumber                |
 |       -1       |    Below an average person in our world    |
 |        0        |       An average person in our world       |
 |        1        |    Professional thief or circus acrobat    |
@@ -60,6 +63,7 @@ Represents your raw mental horse power and IQ.
 
 | Attribute Level |                           Narrative Meaning                           |
 | :-------------: | :-------------------------------------------------------------------: |
+|       -2       |                               A zombie                               |
 |       -1       |                 Below an average person in our world                 |
 |        0        |                    An average person in our world                    |
 |        1        |           University science professor or career politician           |
