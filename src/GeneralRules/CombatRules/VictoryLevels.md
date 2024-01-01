@@ -6,11 +6,23 @@
 - A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
+## Dice Removal
+
+Whenever you are removing dice from a dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+
+### Keep your Combat Rolls!
+
+Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage in that round which turn, which will be taken out of your already rolled dice pool.
+
+### Removing Dice to an already rolled Dice Pool
+
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benifits their combat roll for that round. With physical dice, you can just straighten out the dice and begin removing in that order.
+
 ## Level 1 victory
 
 ### Minor Injury
 
-–1d6 to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
+–1 dice to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
 
 ### Stagger
 
@@ -34,7 +46,7 @@ Must be initiated while in close combat. Shove an enemy in a desired direction. 
 
 ### Medium injury
 
--2d6 to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
+-2 dice to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
 
 ### Disarm
 
@@ -44,7 +56,7 @@ Opponent loses their weapon.
 
 ### Serious injury
 
-– 3d6 to all physical based dice checks and the character will die in time if the wound is untreated.
+– 3 dice to all physical based dice checks and the character will die in time if the wound is untreated.
 
 ### Trip
 
@@ -58,7 +70,7 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 ### Fatal injury
 
-– 4d6 to all physical based dice checks, incapacitated, and will die very soon if untreated.
+– 4 dice to all physical based dice checks, incapacitated, and will die very soon if untreated.
 
 ### Dismember
 
