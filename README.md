@@ -1,6 +1,6 @@
 ## Cogent Roleplay Open License
 
-Fallen is developed based on Cognet Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
+Fallen is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
 
 All game mechanics and game systems contained within this document are open and freely available for anyone to re-use, include, adapt or develop, in their own projects that are also based on Cogent Roleplay.
 
