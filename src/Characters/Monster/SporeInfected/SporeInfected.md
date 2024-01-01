@@ -4,12 +4,12 @@
 
 ## Attributes and Core Skills
 
-| STR       | 1 |    | RFX             | -1 |    | INT               | -1 |    |
+| STR       | 2 |    | RFX             | -1 |    | INT               | -2 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 4d6 | Acrobatics      | 0 | 2d6 | Communication     | -1 | 1d6 |
-| Climb     | 0 | 4d6 | Perception      | 0 | 2d6 | General Knowledge | -1 | 1d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 2d6 | Survival          | -1 | 1d6 |
-| Lift      | 0 | 4d6 | Stealth         | 0 | 2d6 | Willpower         | 1 | 3d6 |
+| Athletics | 0 | 4d6 | Acrobatics      | 0 | 2d6 | Communication     | -1 | 0d6 |
+| Climb     | 0 | 4d6 | Perception      | 0 | 2d6 | General Knowledge | -1 | 0d6 |
+| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 2d6 | Survival          | -1 | 0d6 |
+| Lift      | 0 | 4d6 | Stealth         | 0 | 2d6 | Willpower         | 1 | 2d6 |
 
 ## Vocations and Vocational Skills
 
