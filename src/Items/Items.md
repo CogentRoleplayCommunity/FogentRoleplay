@@ -23,7 +23,7 @@ Silver Plating, while highly effective, is still soft and is easily tarnished. A
 - [Leatherworker](ItemShop.md#leatherworker)
 - [Temple/Faith Supplies](ItemShop.md#templefaith-supplies)
 - [Book Prices (Library or Otherwise)](ItemShop.md#book-prices-library-or-otherwise)
-- [Genral Store](ItemShop.md#general-store)
+- [General Store](ItemShop.md#general-store)
 - [Adventuring Supplies](ItemShop.md#adventuring-supplies)
 - [Shady Dealer - General Store Add-on](ItemShop.md#shady-dealer---general-store-add-on)
 - [Magical Theme - General Store Add-on](ItemShop.md#magical-theme---general-store-add-on)

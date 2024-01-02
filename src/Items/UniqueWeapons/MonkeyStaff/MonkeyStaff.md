@@ -16,6 +16,6 @@ Tier: Excellent (+3)
 
 ## Effects
 
-### Extentable Weapon:
+### Extendable Weapon:
 
-This weapon can shrink to the size of a small weapon, extend up to reach weapon, aswell as any size inbetween. The force of the weapon extending can be used in a variety of way.
+This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way.

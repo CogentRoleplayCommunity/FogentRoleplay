@@ -431,7 +431,7 @@
 "Mastiff",,,,,25 bc,,FALSE,TRUE,TRUE,TRUE
 "Pony",,,,,30 bc,,TRUE,TRUE,TRUE,TRUE
 "Warhorse",,,,,400 bc,,TRUE,FALSE,FALSE,TRUE
-"Barding",,,,,x4 humaniod,,FALSE,TRUE,TRUE,TRUE
+"Barding",,,,,x4 humanoid,,FALSE,TRUE,TRUE,TRUE
 "Bit & Bridle",1,Misc,Mundane,,1,2 bc,FALSE,TRUE,TRUE,TRUE
 "Carriage",,,,,100 bc,,TRUE,FALSE,TRUE,TRUE
 "Cart",,,,,15 bc,,TRUE,TRUE,TRUE,TRUE
