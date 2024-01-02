@@ -54,7 +54,7 @@ Through this transformative event, a multitude of beings came into existence. Th
 
 ### The First of Brightkind
 
-With a divine touch, the Bright Lord bestowed the blessing upon the most devoted daughters of Fellkind his offspring.These were the first demi-brights or Brightkin.
+With a divine touch, the Bright Lord bestowed the blessing upon the most devoted daughters of Fellkind his offspring. These were the first demigods or Brightkin.
 
 ![img](../Races/Brightkin/Brightkin.png)
 
