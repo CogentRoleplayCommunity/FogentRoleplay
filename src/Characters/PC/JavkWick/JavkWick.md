@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Rogue {RFX}          | 3 | 7d6 |
+| Rogue {RFX, INT}     | 3 | 7d6 |
 | -------------------- | - | --- |
 | Medium Sword {ALL}   | 3 | 8d6 |
 | Light Crossbow {ALL} | 2 | 7d6 |
