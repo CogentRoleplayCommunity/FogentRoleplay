@@ -1,4 +1,4 @@
-# Younge Green Dragon
+# Young Green Dragon
 
 ![NotMyImage](YoungeGreenDragon.png)
 

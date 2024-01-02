@@ -14,7 +14,7 @@ Following the map or the directions to the lost mine takes the characters to Par
 
 The Black Spider, our shrewd and alluring Spiderkin villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the Forge of Runes within. She has brokered an alliance between the more unscrupulous factions surrounding the town of Tuntin, promising each a share of the power the forge will grant.
 
-She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exhange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Redwall, in exchange for sovereignty over the town. She even asked the Orgekin bandits of Wyvern Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
+She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Redwall, in exchange for sovereignty over the town. She even asked the Orgekin bandits of Wyvern Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
 
 Now that she has Burrowbard's map, there's no problem, well there's one problem. She needs the players' mysterious puzzle box to appease the Forge of Runes' guardian...
 
@@ -77,7 +77,7 @@ Roleplay a scene set around a table in a Reddwall tavern, where Burrowbard impar
 ```
 Thank you for joining me everyone. I value everyone that sits at this table and I hope you all will become as fast friends. I want to share a secret with, I need you all to retrieve an important trinket critical to a new business venture I have been investigating, which I'd like to bring each of you in on.
 
-There is a mysterious puzzle box in the which is currently being fixed by a younge tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a saftey deposit box at the local bank, were you will retrieve it. Once aquired, I need you to bring it along with the a wagon ful of mining supplies to Bart at the Stonehill Inn in Tuntin. I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own saftey.
+There is a mysterious puzzle box in the which is currently being fixed by a younge tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon ful of mining supplies to Bart at the Stonehill Inn in Tuntin. I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own saftey.
 ```
 
 At this point Burrowbard gestures to an older mudblood who has been quietly sitting since the party arrived.
@@ -119,7 +119,7 @@ Your expedition has seen you trekking through the past few days, tracing the wel
 
 Before delving further into the adventure, take a few moments to engage the players in the following activities:
 
-- **Character Introductions:** Encourage the players to introduce their characters to one another if they haven't done so already. This is an excellent opportunity for the players to share their characters' backgrounds, personalities, appearences, and motivations. It can help build a stronger sense of camaraderie within the party.
+- **Character Introductions:** Encourage the players to introduce their characters to one another if they haven't done so already. This is an excellent opportunity for the players to share their characters' backgrounds, personalities, appearances, and motivations. It can help build a stronger sense of camaraderie within the party.
 - **Character Connections to Burrowbard Stoneseeker:** Have the players consider how their characters came to know their molekin patron, Burrowbard Stoneseeker. Encourage them to create their own stories, but offer suggestions if someone is struggling with ideas. For instance, Burrowbard could be a childhood friend, a mentor, or someone who aided the character in a difficult situation. This exercise allows players to contribute to the adventure's backstory and provides a more personalized connection to the quest.
 - **Party's Marching Order:** Ask the players to determine the party's marching order and how their characters are traveling. Identify who's at the front and who's at the rear, and if the characters are escorting Burrowbard's wagon, clarify who's driving it. The remaining characters can decide whether they're riding on the wagon, walking alongside, or scouting ahead. This helps establish the group dynamics and tactics for the journey.
 
@@ -145,7 +145,7 @@ For those adventurers using the 'Meet Me in Tuntin' adventure hook, a more detai
 As you inspect the area more closely, you find the saddlebags have been pillaged, and nearby rests an abandoned leather map case.
 ```
 
-Amidst this eerie scene, concealed within the woods, lie four cunning Ferral Vermkins. Two lurk on each side of the road, biding their time until a curious soul approaches the horses, at which point they will launch a sudden attack.
+Amidst this eerie scene, concealed within the woods, lie four cunning Feral Vermkins. Two lurk on each side of the road, biding their time until a curious soul approaches the horses, at which point they will launch a sudden attack.
 
 Prepare for what may well become the initial skirmish in a series of battles within this adventure. Here are the guidelines to ensure a smooth encounter:
 
