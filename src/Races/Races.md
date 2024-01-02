@@ -18,10 +18,16 @@ Fellkin vary wildly, but all share the innate risk of going feral. This occurs w
 #### More Fellkin Race Ideas:
 
 - Ogrekin
+- Wraithkin
 - Griffinkin
 - Serpentskin
 - Griffinkin
 - Wraithkin
+- Spiderkin
+- Molekin
+- Leshenkin
+- Foxkin
+- Yetikin
 
 ### [Brightkin](Brightkin/Brightkin.md)
 
