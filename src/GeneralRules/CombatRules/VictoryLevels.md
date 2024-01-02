@@ -16,7 +16,7 @@ Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during comb
 
 ### Removing Dice to an already rolled Dice Pool
 
-Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benifits their combat roll for that round. With physical dice, you can just straighten out the dice and begin removing in that order.
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just straighten out the dice and begin removing in that order.
 
 ## Level 1 victory
 
@@ -30,7 +30,7 @@ Opponent gains the staggered combat modifier. This could be sand thrown in a cha
 
 ### Close Combat
 
-Enter/exit close combat. The fight is so close in physical proximity that the characte's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
+Enter/exit close combat. The fight is so close in physical proximity that the character's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
 
 The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls. Once an opponent is grappled, on the same round you can attempt a Lift check determined by your narrator given the size and the weight of your opponent. If successful, you can Move or Shove your opponent.
 

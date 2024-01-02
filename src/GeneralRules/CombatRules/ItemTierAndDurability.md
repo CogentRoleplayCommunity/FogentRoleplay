@@ -32,7 +32,7 @@ On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a
 
 ## Item Durability (Optional)
 
-Using item durability is a great way to increase immersion (having to go to blacksmith or learn to repair their grear) and challenge for your players.However, for players that want a more casul experience, item durability can be disregarded. This is my (Javk Wick here) preferred way to play.
+Using item durability is a great way to increase immersion (having to go to blacksmith or learn to repair their gear) and challenge for your players.However, for players that want a more casual experience, item durability can be disregarded. This is my (Javk Wick here) preferred way to play.
 
 ### Weapon Durability
 
@@ -40,7 +40,7 @@ A weapon's Durability decreases by 1 whenever a weapon is used to attempt to inf
 
 ### Conduit Durability
 
-A conduit's durability decreases by 1 whenever it is used to cast magic with a reasource ( non-cantrip casting )
+A conduit's durability decreases by 1 whenever it is used to cast magic with a resource ( non-cantrip casting )
 
 ### Armor Durability
 
@@ -54,7 +54,7 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 ### Normal Play Durability Rules
 
-When an item's durability falls, it's base dice remain unchanged until the weapon reaches 9 durability (or Shoddy) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Comprimised.
+When an item's durability falls, it's base dice remain unchanged until the weapon reaches 9 durability (or Shoddy) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Compromised.
 
 ### Hardcore Durability Rules
 

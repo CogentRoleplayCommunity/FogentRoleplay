@@ -84,7 +84,7 @@ Damage caused by the loss of blood. A character loses equivalent ichor to the le
 
 Damage caused by corrosive substances.
 
-### Suffication
+### Suffocation
 
 Damage caused by coming from the lack of breathable air such drowning.
 
