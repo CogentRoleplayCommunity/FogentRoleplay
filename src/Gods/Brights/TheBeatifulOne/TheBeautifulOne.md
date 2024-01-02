@@ -1,6 +1,6 @@
-# The Beatiful One
+# The Beautiful One
 
-![Alt text](TheBeatifulOne.png)
+![Alt text](TheBeautifulOne.png)
 
 ## Aspect
 

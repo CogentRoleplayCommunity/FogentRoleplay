@@ -10,4 +10,4 @@ Eventually, the Dawn Empire emerged as the dominant power, with its resplendent 
 
 ![img](../Countries/TheDawnEmpire/Crossroads.png)
 
-And so, with the founding of the Dawn Empire, came about the High Age, an epoch characterized by a semblance of peace and prosperity. Under the rule of Brightkin Emperor Commudus Lightbringer, the realm experienced a period of relative tranquility.
+And so, with the founding of the Dawn Empire, came about the High Age, an epoch characterized by a semblance of peace and prosperity. Under the rule of Brightkin Emperor Commodus Lightbringer, the realm experienced a period of relative tranquility.

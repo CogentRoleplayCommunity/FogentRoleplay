@@ -4,7 +4,7 @@
 
 ## Desc
 
-A brooch depicting Lacrima, the long-tailed cat.
+A brooch depicting a long-tailed cat.
 
 Enhances acrobatic skill.
 

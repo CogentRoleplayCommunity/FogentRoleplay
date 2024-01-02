@@ -18,7 +18,7 @@ When Vex was 15, Killroy and Luc snuck out of Reddwall to enjoy the summer heat 
 
 Flint Reddington, had caught wind that Vex and Luc where planning to sneak out decided to tail the trio that day. Bored by his lordly duties, Flint with rum in hand jumped at the oppertunity to sneakly tail the trio on a beatiful summer day, reminding of his youthful days of adventure. Ensuring there would be no funny business, Flint set up for a nap with a clear sight of the pond. Upon awaking to the screaming of his daughter, Flint jumped into action. An expert swimmer and no strangger to fighting underwater monsters, Flint slew the trench lurker. He dragged the shredded body of Killroy to the surface, dumping every vial of healing blood on hand into him before racing towards Reddwall.
 
-Killroy died more than once on the operating table, with only the masterful skill of Lady Reddinton keeping him through. While he was saved from certain death, his fate was now far worse as he was infected with shard's disease. Despite his dibilitating disease and short outlook on life, Killroy is remarkably positive. Vex grew distant after the incident, blaming herself for causing Killroy's ill fate.
+Killroy died more than once on the operating table, with only the masterful skill of Lady Reddington keeping him through. While he was saved from certain death, his fate was now far worse as he was infected with shard's disease. Despite his dibilitating disease and short outlook on life, Killroy is remarkably positive. Vex grew distant after the incident, blaming herself for causing Killroy's ill fate.
 
 ## Appearance
 
