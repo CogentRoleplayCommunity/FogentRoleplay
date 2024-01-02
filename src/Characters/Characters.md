@@ -52,7 +52,7 @@
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
-### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
+### [Vex'hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
 
 ## Humanoids
 
@@ -90,7 +90,7 @@
 
 ### [Wraith](Monster/Wraith/Wraith.md)
 
-### [Younge Green Dragon](Monster/Wraith/Wraith.md)
+### [Young Green Dragon](Monster/YoungGreenDragon/YoungGreenDragon.md)
 
 ## Animals
 
