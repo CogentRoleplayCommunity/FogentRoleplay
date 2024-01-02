@@ -2,7 +2,7 @@
 
 Vocations represent your character's job, class, or life path. You should check with your narrator to make sure that you exists in the world. Some tradional fantasy example vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other example include Vagrant, Chef, or Salior. Each vocation has one or many governing attributes that logically would govern it.
 
-Vocational skills are skills that would logically fall under the vocation. All vocational skill levels are capped by their vocation level. For instance, if a character had level a 2 vocation, any vocational skill under it couldn't increase above 2, until it's vocation increased. Each vocational skill has one or many governing attributes that logically would govern it. A vocational skills governing attributes can be different than the vocations governing attributes.
+Vocational skills are skills that would logically fall under the vocation. All vocational skill levels are capped by their vocation level. For instance, if a character had level a 2 vocation, any vocational skill under it couldn't increase above 2, until it's vocation increased. Each vocational skill has one or many governing attributes that logically would govern it. A vocational skill's governing attributes can be different than the vocations governing attributes.
 
 There are two kinds of vocational skills, combat and non-combat vocational skills.
 
@@ -18,17 +18,15 @@ I add the "Wine Knowledge" non-combat vocational skill and give it the governing
 
 I try to make the "Chopping Food" vocational skill and give it the govering attribue RFX. RFX makes sense as they'd have to use fine motor control of their hands to chop quickly. Then remember that the "Sleight of Hand" core skill arleady exists and that this vocational skill isn't needed.
 
-I add the "Small Blade" combat vocational skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more dealy with a knife. I spend 1 skill point on it, bringing it to level 1.
+I add the "Small Blade" combat vocational skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more deadly with a knife. I spend 1 skill point on it, bringing it to level 1.
 
 I try and add the "Longspear" combat vocational skill. I realized using a longspear is not something that a chef would do, so this will not work.
-
 
 | Chef {RFX, INT}           | 2 | 7d6 |
 | -------------------------- | :-: | :-: |
 | Wine Knowledge {RFX, INT} | 2 | 7d6 |
 | ~~Chopping Food {RFX}~~   |  |    |
 | Small Blade                | 1 | 7d6 |
-| ~~Long Spear~~           |  |    |
-
+| ~~Long Spear~~            |  |    |
 
 You may still assist any other roll with your vocation if it makes narrative sense.

@@ -47,7 +47,7 @@
 
 | Name                                 | # |                  Class                  |    Tier    | Durability | LB | Value |
 | ------------------------------------ | :-: | :--------------------------------------: | :---------: | :--------: | :-: | :----: |
-| Shoddy Leather Helmet                | 1 |             1	Phy. Def. 0.5             |   Shoddy   |    9/9    | 2 | 0.5 bc |
+| Shoddy Leather Helmet                | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 2 | 0.5 bc |
 | Shoddy Leather Cuirass and Pauldrons | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 4 |  3 bc  |
 | Shoddy Leather Cuisses and Greaves   | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 3 |  2 bc  |
 | Shoddy Leather Vambrace              | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 2 | 1.5 bc |
