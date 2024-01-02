@@ -36,7 +36,7 @@
 
 ### [Uhtred Storm](PC/UhtredStorm/UhtredStorm.md)
 
-### [Uhtred Storm (Depricated)](PC/UhtredStorm/UhtredStormDepricated.md)
+### [Uhtred Storm (Deprecated)](PC/UhtredStorm/UhtredStormDepricated.md)
 
 ### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
 

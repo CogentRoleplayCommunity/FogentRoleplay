@@ -29,8 +29,8 @@
 |          Medium Size          |                  5x5 ft on battle map.                  |          |                                                      |
 |      Language: Babelish      |                   Can speak Babelish.                   |          |                                                      |
 |       Language: Primal       |                    Can speak Primal.                    |          |                                                      |
-|      Disabling: Guilible      |   -3d6 to rolls versus deceptive communication rolls.   |          |                                                      |
-| Disabling: Overly Emphathetic |         Overwhelming dispostion towards empathy.         |          |                                                      |
+|      Disabling: Gullible      |   -3d6 to rolls versus deceptive communication rolls.   |          |                                                      |
+| Disabling: Overly Empathetic |         Overwhelming disposition towards empathy.         |          |                                                      |
 |       Inventory Weight       |                          19 lb                          |          |                       Equipment                       |
 |     Humanoid Carry Weight     |                          120 lb                          |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |         Light Weight         |             -0d6 to STR/RFX governed skills             |          |               0% - 25% of carry weight               |
@@ -82,7 +82,7 @@
 
 Age: 21
 
-Race: Leshkin
+Race: Leshenkin
 
 Height: 5' 8"
 
@@ -97,7 +97,7 @@ Additional Details:
 * Pleasant
 * Fidgety
 * Outdoorsy
-* Fistidious
+* Fastidious
 * Curious
 
 ## Beliefs/Morality:
@@ -113,10 +113,10 @@ Additional Details:
 
 ## Backstory:
 
-Verd hails from a tribe of Leshkin and Nature Dragonkin residing in the ancient expanse of the Old Growth Forest located in eastern Reddland. In their role as forest guardians, her tribe ensures that wandering travelers do not meet their demise, for the dragon-infested woods consume all who venture too deeply.
+Verd hails from a tribe of Leshenkin and Nature Dragonkin residing in the ancient expanse of the Old Growth Forest located in eastern Reddland. In their role as forest guardians, her tribe ensures that wandering travelers do not meet their demise, for the dragon-infested woods consume all who venture too deeply.
 
-Verd and her younger borther Leif had a wonderful childhood exploring the Ironwoods. One winter, Verd came across a hagarded group of lumberman, who their tribe had a deal with to remove dead growth from the forest. Verd saved nearly 20 men's lives that day, bravely leading them out of the Dragongrowth. The leader of this group was Burrowbard Stoneseeker, a kindly enterpenually molekin, who took a liking to young Verd, becoming a family friend.
+Verd and her younger brother Leif had a wonderful childhood exploring the Ironwoods. One winter, Verd came across a lost group of lumberman, who their tribe had a deal with to remove dead growth from the forest. Verd saved nearly 20 men's lives that day, bravely leading them out of the Dragongrowth. The leader of this group was Burrowbard Stoneseeker, a kindly enterpenually molekin, who took a liking to young Verd, becoming a family friend.
 
-When Verd was 16, Burrowbard, noticing Verd's tallent for Naturecraft, offered to sponsor her education at Byrgenwerth University. Her father respected Burrowbard and Verd departed with Burrowbard, living in his estate while she attend school. Verd grew to dispise the city as it was full of pickpockets, polution, charlatins, and drunks. While she accelled in her studies, she missed the simplicity of nature. She missed the wildness of nature, wanting to get out, see the world, and use what she had learned.
+When Verd was 16, Burrowbard, noticing Verd's talent for Naturecraft, offered to sponsor her education at Byrgenwerth University. Her father respected Burrowbard and Verd departed with Burrowbard, living in his estate while she attend school. Verd grew to despise the city as it was full of pickpockets, pollution, charlatans, and drunks. While she excelled in her studies, she missed the simplicity of nature. She missed the wildness of nature, wanting to get out, see the world, and use what she had learned.
 
-Burrowbard, noticing how unhappy Verd offered her an oppertunity to be apart of a business oppertunity he had recently come upon....
+Burrowbard, noticing how unhappy Verd offered her an opportunity to be apart of a business opportunity he had recently come upon....

@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}   | 2 | 6d6 | Enterpenuer {INT} | 1 | 5d6 |
+| Fellkin {ALL}   | 2 | 6d6 | Entrepreneur {INT} | 1 | 5d6 |
 | --------------- | :-: | :-: | ----------------- | - | --- |
 | Sonocraft {ALL} | 2 | 6d6 |                   |   |     |
 
@@ -91,14 +91,14 @@ Additional Details:
 ## Disposition:
 
 - Sharp
-- Sarcatics
+- Sarcastic
 - Creative
 - Bold
 - Impatient
 
 ## Beliefs/Morality:
 
-- Will fuck the otherside, though always takes care of partners
+- Will fuck the other side, though always takes care of partners
 
 ## Goals/Aspirations:
 
@@ -109,12 +109,12 @@ Additional Details:
 
 ## Backstory:
 
-Reymond grew with a privilige life as a lordling in Reddwall the capital of Reddland. Though not part of the ruling family, he enjoyed all the perks of his noble blood. He enjoyed sports, partying, and chasing girls.
+Reymond grew with a privilege life as a lordling in Reddwall the capital of Reddland. Though not part of the ruling family, he enjoyed all the perks of his noble blood. He enjoyed sports, partying, and chasing girls.
 
-Reymond's father disapproved of his sons oppulent life style, which grew to esrtangment after the death of Reymond's mom when he was 16. After his mother's passing, seeking his father's approval ask to be involved in the family business, the import and export of ironwood from the Irongrove forest.
+Reymond's father disapproved of his sons opulent life style, which grew to estrangement after the death of Reymond's mom when he was 16. After his mother's passing, seeking his father's approval ask to be involved in the family business, the import and export of ironwood from the Irongrove forest.
 
-His father denied his request to work in the family business, noting his lack of direction. Reymond, taking initiative reached out to his mother's old friend Burrowbard Stoneseeker who he had know since a childhood. Burrow took Reymond under his wing, teaching him the business and fostering Reymond inate business savy. Reymond took his inheritance and began starting business vetures with Burrowbard in the ironwood trade. Reymond fell in love with commercial ventures, and bringing something of value to the world.
+His father denied his request to work in the family business, noting his lack of direction. Reymond, taking initiative reached out to his mother's old friend Burrowbard Stoneseeker who he had know since a childhood. Burrow took Reymond under his wing, teaching him the business and fostering Reymond innate business savvy. Reymond took his inheritance and began starting business ventures with Burrowbard in the ironwood trade. Reymond fell in love with commercial ventures, and bringing something of value to the world.
 
 One winter while visiting one of the small lumber yards they were investing in, the became stranded and nearly died to the elements.
 
-While working on his business dealing with Burrowbard, Reymond also kept up his acedemic endevors, attending Byrgenwerth University, honing his ability with Sonocraft. Aswell as the finer details of finance, business, and economics.
+While working on his business dealing with Burrowbard, Reymond also kept up his academic endeavors, attending Byrgenwerth University, honing his ability with Sonocraft. as well as the finer details of finance, business, and economics.

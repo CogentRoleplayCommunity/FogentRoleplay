@@ -112,7 +112,7 @@ Additional Details:
 - Adventurous
 - Bold
 - Jaded
-- Insubordinate
+- Insubordinnate
 - Principled
 - Tired
 

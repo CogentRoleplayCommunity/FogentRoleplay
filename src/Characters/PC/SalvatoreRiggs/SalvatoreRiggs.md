@@ -96,7 +96,7 @@ Additional Details:
 
 ## Beliefs/Morality:
 
-- Loyalty to parterns
+- Loyalty to partners
 - Not being a rat
 
 ## Goals/Aspirations:

@@ -327,7 +327,7 @@ Flood Alert! The large pools in area 7 have collapsible walls that can be dislod
 The tunnel resounds with a powerful roar as a substantial surge of water cascades from above.
 ```
 
-All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Acrobatics check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
+All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Acrobatics check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminnated all intruders before signaling for the second release.
 
 ### 6. Verminkin Den
 
@@ -341,7 +341,7 @@ Six Vermkins inhabit this cavern, with one serving as their leader. The ordinary
 
 Ulfric Warwinter, a captive mudblood warrior, is held securely bound on the southern ledge, with 4 Minor Injuries from the Vermkins' relentless beatings.
 
-The Vermkin leader, Yeek, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeek proposes a parley. If the adventurers agree, he urges them to eliminate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin's head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeek attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
+The Vermkin leader, Yeek, holds the second-in-command position in the hideout. If he perceives the characters gaining the upper hand, he seizes Ulfric and drags him to the edge of the upper level, demanding a truce. Expressing his desire to overthrow Thrak and become the new boss, Yeek proposes a parley. If the adventurers agree, he urges them to eliminnate Thrak in area 8, promising Ulfric's release upon returning with the Ferralkin's head. However, Ulfric warns against trusting the Vermkin, and rightly so. If the characters accept the deal, Yeek attempts to coerce them into paying a hefty ransom for Ulfric even after fulfilling their end of the bargain.
 
 Should the characters refuse to parley, Yeek fogrekinibly shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
@@ -557,11 +557,11 @@ The guildmaster is Halia Thornton, a determined and strategic mudblood woman. He
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminate the Lavender Lancer leader, known as Glasstaff, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminnate the Lavender Lancer leader, known as Glasstaff, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
-Should the party successfully eliminate the Lavender Lancer leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
+Should the party successfully eliminnate the Lavender Lancer leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
 
 ### Alderleaf Farm
 
@@ -673,7 +673,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
 
-**Light.** Most areas within the hideout are illuminated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
+**Light.** Most areas within the hideout are illuminnated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
 > **What the Lavender Lancers Know**
 >
@@ -918,7 +918,7 @@ Through either door of this room, faint bubbling and dripping sounds can be disc
 This chamber takes the form of a wizard's workshop, with a rat darting across the floor and finding refuge under a large worktable, adorned with alembics, retorts, distillation coils, and other alchemical devices, all actively bubbling and simmering away. The bookshelves in the room are brimming with piles of parchment and peculiar-looking tomes.
 ```
 
-Sylas has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Sylas as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminated, it vanishes.
+Sylas has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Sylas as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminnated, it vanishes.
 
 If the characters opt to leave the rat unharmed, it will follow them around as if driven by curiosity or hunger. It might even pretend to be affectionate towards a character who feeds it, but its loyalty remains firmly with Sylas.
 
@@ -976,7 +976,7 @@ In terms of developments, various papers and notes are neatly stacked on the des
 ```
 Lord Alabaster,
 
-Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
+Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminnate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
 ```
 
 In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Sylas faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
@@ -985,7 +985,7 @@ In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have 
 
 Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Lavender Lancers over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
-For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
+For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminnates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
 #### Awarding Experinece
 
@@ -1246,7 +1246,7 @@ The thicket to the east of this ruin harbors eight twig blights. Any disturbance
 
 #### Awarding Skill & Destiny Points
 
-Divide 200 XP equally among the characters if the party successfully eliminates the twig blights.
+Divide 200 XP equally among the characters if the party successfully eliminnates the twig blights.
 
 ### **6. Ruined Store**
 
@@ -1280,7 +1280,7 @@ Atop the hill, you find a round tower with an attached cottage, although half of
 The lifeless bodies of two grotesque giant spiders lie near the edge of the pathway, evidently dragged there. Their distended corpses appear puckered and blistered, indicating they were mauled by a larger creature.
 ```
 
-In the tower, a youthful green dragon named Venomfang recently claimed dominion. During its search for an ideal lair in the Highmount Wood, Venomfang chose this location. Prior to the dragon's occupancy, the tower was infested with giant spiders, evidenced by the lifeless arachnids scattered about. Venomfang eliminated them by crashing through the tower's roof. Ever since, the dragon has maintained a vigilant watch.
+In the tower, a youthful green dragon named Venomfang recently claimed dominion. During its search for an ideal lair in the Highmount Wood, Venomfang chose this location. Prior to the dragon's occupancy, the tower was infested with giant spiders, evidenced by the lifeless arachnids scattered about. Venomfang eliminnated them by crashing through the tower's roof. Ever since, the dragon has maintained a vigilant watch.
 
 **Tower.** The tower features a single, spacious room with a soaring 40-foot-high ceiling. A narrow, 5-foot-wide spiral staircase winds through the interior, granting access to the open rooftop, which enables the dragon to come and go at will. Sturdy wooden beams and stair supports crisscross the tower's insides. If the characters manage to reduce Venomfang's hit points to half, the dragon ascends to the tower's pinnacle and departs, preserving the lair for another time.
 
@@ -1348,7 +1348,7 @@ Furnishings are still found within the building, including a ladder in the main 
 
 #### Awarding Skill & Destiny Points
 
-Divide 250 XP equally among the characters if the party eliminates the ash zombies.
+Divide 250 XP equally among the characters if the party eliminnates the ash zombies.
 
 ### **12. The Weaver's Cottage**
 
@@ -1410,7 +1410,7 @@ Once the characters find the camp, describe the following:
 As you ascend a rugged ridge on the lower slopes of the hill, a faint smell of smoke lingers in the air. About fifty yards away, a cave entrance opens at the base of a ravine. Hunkered down by a boulder twenty yards outside the cave, keeping watch, is a solitary ogrekin.
 ```
 
-If the characters can quietly and efficiently eliminate the lone ogrekin, they have the chance to surprise the ogrekins inside the cave. If the sentry spots the characters sneaking up or is not silenced during the surprise round, the ogrekin will retreat back into the cave to warn the others.
+If the characters can quietly and efficiently eliminnate the lone ogrekin, they have the chance to surprise the ogrekins inside the cave. If the sentry spots the characters sneaking up or is not silenced during the surprise round, the ogrekin will retreat back into the cave to warn the others.
 
 The marauders within the cave consist of Brughor Axe-Biter (an ogrekin with 30 hit points), six ordinary ogrekins, and a filthy ogre named Gog. Gog fights until slain, while the ogrekins fight until Brughor is killed, at which point any remaining ogrekins will flee.
 
@@ -1520,7 +1520,7 @@ One small cask contains an exceptional molekin brandy, overlooked by the Vermkin
 
 ### **6. HobVermkin Barracks**
 
-The Mountainmaws are a mixed tribe of Vermkinoids, with a few Ferralkins dominating larger numbers of miserable Vermkins and a handful of hobVermkins. The hobVermkins aspire to eliminate the Ferralkins and seize control someday, but for now, the Ferralkins present too significant a threat.
+The Mountainmaws are a mixed tribe of Vermkinoids, with a few Ferralkins dominating larger numbers of miserable Vermkins and a handful of hobVermkins. The hobVermkins aspire to eliminnate the Ferralkins and seize control someday, but for now, the Ferralkins present too significant a threat.
 
 ```
 Four plain straw pallets and bedrolls are arranged on the floor of this barracks. Brackets on the walls hold an assortment of weapons, including spears, swords, morningstars, and more. The north wall displays signs of damage, but the floor is free from debris.
@@ -1541,10 +1541,10 @@ Divide 400 XP equally among the characters if the party defeats the hobVermkins 
 Once a place of grand feasts and celebrations hosted by the castle's lord, this chamber now serves as a wretched Vermkin mess hall.
 
 ```
-The western portion of this expansive hall terminates in a rubble-strewn wall, but the remainder remains intact. This must have been the castle's grand banquet hall, featuring a lofty 25-foot ceiling. Two large wooden tables with plain benches are situated in the center of the room, and a brass brazier filled with glowing coals is tucked into one corner. The tables are strewn with dirty dishes, half-empty stew pots, moldy bread remnants, and gnawed bones.
+The western portion of this expansive hall terminnates in a rubble-strewn wall, but the remainder remains intact. This must have been the castle's grand banquet hall, featuring a lofty 25-foot ceiling. Two large wooden tables with plain benches are situated in the center of the room, and a brass brazier filled with glowing coals is tucked into one corner. The tables are strewn with dirty dishes, half-empty stew pots, moldy bread remnants, and gnawed bones.
 ```
 
-This hall is inhabited by seven miserable Vermkins and their leader, a corpulent, irritable Vermkin named Yegg, who possesses 12 hit points. Yegg is the Mountainmaw's head cook, cruelly bossing around his unwilling assistants as they prepare food for the tribe. If Yegg is eliminated, any surviving Vermkins will flee to the east or west, avoiding the north door due to the trap in area 2.
+This hall is inhabited by seven miserable Vermkins and their leader, a corpulent, irritable Vermkin named Yegg, who possesses 12 hit points. Yegg is the Mountainmaw's head cook, cruelly bossing around his unwilling assistants as they prepare food for the tribe. If Yegg is eliminnated, any surviving Vermkins will flee to the east or west, avoiding the north door due to the trap in area 2.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1660,7 +1660,7 @@ This chamber has been crudely arranged as a living space, with thick furs servin
 
 King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer fogrekine and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
 
-Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female spiderkin. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the spiderkin. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminate the molekin and destroy the map.
+Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female spiderkin. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the spiderkin. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminnate the molekin and destroy the map.
 
 In the event that the villains have been forewarned of an impending attack, Vyerith conceals herself behind the northeastern door, leaving it slightly ajar in anticipation of ambushing intruders from behind. King Grom holds Burrowbard as a hostage and is prepared to execute the molekin if the characters don't withdraw.
 
@@ -1672,7 +1672,7 @@ In the event that the villains have been forewarned of an impending attack, Vyer
 
 #### **Developments**
 
-If King Grom is defeated, Vyerith will attempt to eliminate Burrowbard and escape with the map, heading toward area 11 and making her exit through the concealed canvas door. If cornered, the doppelganger will fight to the death rather than be captured.
+If King Grom is defeated, Vyerith will attempt to eliminnate Burrowbard and escape with the map, heading toward area 11 and making her exit through the concealed canvas door. If cornered, the doppelganger will fight to the death rather than be captured.
 
 Should Burrowbard regain consciousness, he expresses his gratitude to the party for coming to his rescue but insists on not leaving Mountainmaw Castle without his map. Unfortunately, he is unaware of King Grom's map's hiding place, as detailed in the "Treasure" section.
 
@@ -1706,7 +1706,7 @@ With the revelation of the location of Tide Echo Cavern, the characters are now 
 
 ## **Part 4: Tide Echo Cavern**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminnate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
 Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, fogrekining him to proceed with extreme caution.
 
@@ -1982,9 +1982,9 @@ Hovering behind the brazier with its green flame is a spherical entity, roughly 
 "Greetings," utters a thick, gurgling voice within your mind.
 ```
 
-The wraith in Area 14 is determined to drive off or eliminate the spectator, but thus far, the creature has easily fended off the assaults of Mormesk's zombies and ghouls, seemingly oblivious to the undead roaming the mine. Should the party attempt to remove anything from this area, the spectator will attack. If somehow blinded, the creature retreats to its home plane, convinced that it can no longer fulfill the purpose for which it was summoned.
+The wraith in Area 14 is determined to drive off or eliminnate the spectator, but thus far, the creature has easily fended off the assaults of Mormesk's zombies and ghouls, seemingly oblivious to the undead roaming the mine. Should the party attempt to remove anything from this area, the spectator will attack. If somehow blinded, the creature retreats to its home plane, convinced that it can no longer fulfill the purpose for which it was summoned.
 
-By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Cavern, dispatched to terminate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
+By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Cavern, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
 
 **The Brazier of Green Flame.** A successful DC 15 Intelligence (Arcana) check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
 
@@ -1994,7 +1994,7 @@ By succeeding in a DC 15 Charisma (Deception) check, a character can trick the s
 
 On the worktable in the southeast corner of the room, you find the last items that the spectator was tasked to protect: Lightbringer and Dragonguard.
 
-**Lightbringer.** This +1 mace, crafted for a cleric of Lathander, the god of dawn, boasts a head shaped like a radiant sunburst, made from solid brass. Dubbed Lightbringer, this weapon illuminates as brightly as a togrekinh upon command. While glowing, the mace inflicts an additional 1d6 radiant damage to undead creatures.
+**Lightbringer.** This +1 mace, crafted for a cleric of Lathander, the god of dawn, boasts a head shaped like a radiant sunburst, made from solid brass. Dubbed Lightbringer, this weapon illuminnates as brightly as a togrekinh upon command. While glowing, the mace inflicts an additional 1d6 radiant damage to undead creatures.
 
 **Dragonguard.** This +1 breastplate, adorned with a gold dragon motif in its design, was made for a dhampir hero of Reddwall named Tergon. It grants its wearer advantage on saving throws against the breath weapons of creatures with the dragon type.
 
@@ -2020,7 +2020,7 @@ The dwarves diverted the stream into the channel leading to Area 12 to power the
 
 ### 18. Collapsed Cavern
 
-This cavern is under occupation by Nezznar's subordinates, serving as both a guard against undead intrusions and a hub for carefully sifting through the debris. The Black Spider's divinations suggest that valuable treasure lies hidden at the rift's bottom, which was created when this area was devastated.
+This cavern is under occupation by Nezznar's subordinnates, serving as both a guard against undead intrusions and a hub for carefully sifting through the debris. The Black Spider's divinations suggest that valuable treasure lies hidden at the rift's bottom, which was created when this area was devastated.
 
 ```
 A wide rift occupies the eastern half of this cavern. A stream emerges from the western wall, cascades into the rift, and resumes its course northward. Several ropes are anchored to iron stakes along the western edge of the rift, leading down to the chasm floor.
@@ -2066,7 +2066,7 @@ Should the doppelganger from Area 18 have retreated to this location, it assumes
 
 #### Roleplaying Nezznar
 
-Despite his intentions to eliminate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Lavender Lancers to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
+Despite his intentions to eliminnate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Lavender Lancers to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
 
 #### **Developments**
 

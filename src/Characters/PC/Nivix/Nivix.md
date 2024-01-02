@@ -111,7 +111,7 @@ Additional Details:
 ## Disposition
 
 - Creative
-- Intuative
+- Intuitive
 - Curious
 
 ## Goals/Aspirations
@@ -132,4 +132,4 @@ After returning the artifact to the strange woman that had imprisoned them, they
 
 Nivix is plagued by dreams of burning cities.
 
-Nivix has problems lying, for whenever he does he has migranes. He is unsure why this happens, believing it to be something related to his amnesia.
+Nivix has problems lying, for whenever he does he has migraines. He is unsure why this happens, believing it to be something related to his amnesia.

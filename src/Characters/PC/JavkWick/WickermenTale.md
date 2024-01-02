@@ -1,10 +1,10 @@
 World Building Lore:
 
-Across Zaubervelt, when mothers tuck their children into bed, bandits gather around their campfires, and adventures congregate near the inn’s hearth, the “Tale of the Wicker” is a common tale. A monster/ghost story that has been passed down from generation to generation. The tale of the Wicker is a reminder that the scariest monsters don’t appear to look like monsters at all. “For the Wicker looks just like you and me. Only when it claims your severed head and drags your soul to the bottom of the Abyss will you know you have encountered the Wicker.” For children it is a reminder to not trust strangers or wonder off from your parents. For adults it is a warning that monsters walk among us, and no matter how much power, wealth, or fame you possess, none of it will protect you from true malevolence.
+Across Terra, when mothers tuck their children into bed, bandits gather around their campfires, and adventures congregate near the inn’s hearth, the “Tale of the Wicker” is a common tale. A monster/ghost story that has been passed down from generation to generation. The tale of the Wicker is a reminder that the scariest monsters don’t appear to look like monsters at all. “For the Wicker looks just like you and me. Only when it claims your severed head and drags your soul to the bottom of the Abyss will you know you have encountered the Wicker.” For children it is a reminder to not trust strangers or wonder off from your parents. For adults it is a warning that monsters walk among us, and no matter how much power, wealth, or fame you possess, none of it will protect you from true malevolence.
 
  
 
-As for the actual validity of the Wicker Man, after looking at the supposed historical accounts, there is no definitive evidence. However, while I don’t believe in the “Wicker”, I’m terrified he exists…”– An Narrative Exploration of the Myths of Assiah by Volothamp Veddarm
+As for the actual validity of the Wicker Man, after looking at the supposed historical accounts, there is no definitive evidence. However, while I don’t believe in the “Wicker”, I’m terrified he exists…”– An Narrative Exploration of the Myths of Terra by Volothamp Veddarm
 
 “There is no binding it can’t escape. No trap it can’t evade. No door it can’t open. No price it can be bought for. It is coming for you next. Pleasant dreams.” – Tales of the Wicker
 
