@@ -66,7 +66,7 @@
 | Shortbow                     | 1 |                                                Light Bow                                                |  Mundane  |   12/12   |  2  | 25 bc |
 | Quiver (capacity: 20)        | 1 |                                                  Misc                                                  |  Mundane  |            |  1  |  1 bc  |
 | Broadhead Arrow              | 20 |                                             Standard Arrow                                             |  Mundane  |     -     | 0.05 |  1 bc  |
-| Monkey Staff                 | 1 | Extentable Weapon, Small Hafted Blunt, Medium Hafted Blunt,<br />Large Hafted Blunt, Reach Hafted Blunt | Excellent |   21/21   |  4  |   ?   |
+| Monkey Staff                 | 1 | Extendable Weapon, Small Hafted Blunt, Medium Hafted Blunt,<br />Large Hafted Blunt, Reach Hafted Blunt | Excellent |   21/21   |  4  |   ?   |
 
 ## Containers
 
@@ -80,8 +80,8 @@
 ## Notes
 
 - Ronald McTavish
-- Proifessor of Rune Craft
-- Burgenwalls magic college
+- Professor of Rune Craft
+- Byrgenwerth magic college
 - other side of broken mountain range
 - feral tundra --> monsters --> silver!
 

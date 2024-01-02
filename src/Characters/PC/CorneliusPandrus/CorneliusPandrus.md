@@ -133,7 +133,7 @@ Cornelius has read all the books and scrolls on runecraft within the colleges of
 1. Put his academic knowledge to test and either confirm or deny it's validity
 2. Discover new knowledge through investigation or experimentation.
 
-With both these goals, Cornelius plans to write a new book that he hopes will immortalise himself in the academic circles, and advance the theory of runecraft to new heights.
+With both these goals, Cornelius plans to write a new book that he hopes will immortalize himself in the academic circles, and advance the theory of runecraft to new heights.
 
 ## Backstory
 

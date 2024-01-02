@@ -26,7 +26,7 @@
 |          Medium Size          |                      5x5 ft on battle map.                      |          |                                                                                                              |
 |       Language: Babelish       |                       Can speak Babelish.                       |          |                                                                                                              |
 |        Language: Primal        |                        Can speak Primal.                        |          |                                                                                                              |
-| Disabling: Superstion Paranoia | Extreme belief in common<br />superstition and old wives tales. |          |                                                                                                              |
+| Disabling: Superstition Paranoia | Extreme belief in common<br />superstition and old wives tales. |          |                                                                                                              |
 |        Inventory Weight        |                              64 lb                              |          |                                                  Equipment                                                  |
 |     Humanoid Carry Weight     |                             260 lb                             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |          Light Weight          |                 -0d6 to STR/RFX governed skills                 |          |                                           0% - 25% of carry weight                                           |
@@ -108,6 +108,6 @@ Additional Details:
 
 ## Backstory
 
-Grimwald is a hedge knight. He is a youthful 24. He is bold, cunning, and accurate. He is superstionous about all things related to magic, ghost, and the super natural. Made freaks him out as it is beyond the scope of the world he is use to, combat. As a mercenary for hire, Grimwald travels were ever the coin leads.
+Grimwald is a hedge knight. He is a youthful 24. He is bold, cunning, and accurate. He is superstitious about all things related to magic, ghost, and the super natural. Made freaks him out as it is beyond the scope of the world he is use to, combat. As a mercenary for hire, Grimwald travels were ever the coin leads.
 
-Grimwald was oprphaned after a group of monsters attacked his small family farm. Still younge, Grimwald was unable to protect his family, a bitter regret he holds to this day.
+Grimwald was orphaned after a group of monsters attacked his small family farm. Still young, Grimwald was unable to protect his family, a bitter regret he holds to this day.

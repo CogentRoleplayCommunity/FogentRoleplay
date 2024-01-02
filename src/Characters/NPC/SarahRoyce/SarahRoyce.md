@@ -4,7 +4,7 @@
 
 ## Backstory
 
-A native of Reddwall, Sarah's family all served as volener in The Redd Legion, Reddwall's standing military. Serving as Commander of the Garrison of Reddwall, Sarah maintains peace and safety for all residents of Reddwall.
+A native of Reddwall, Sarah's family all served as volunteers in The Redd Legion, Reddwall's standing military. Serving as Commander of the Garrison of Reddwall, Sarah maintains peace and safety for all residents of Reddwall.
 
 Sarah is a family friend of the Reddington Royal family.
 

@@ -62,8 +62,8 @@ One of the feral members of Fellkin, living in small packs preying on travelers.
 ## Disposition
 
 - Hostile
-- Aggresive
+- Aggressive
 
 ## Goals/Aspirations
 
-- To pilage as much as possible.
+- To pillage as much as possible.

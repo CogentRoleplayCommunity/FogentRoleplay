@@ -189,7 +189,7 @@ Won't let the innocent suffer due to his negligence, there is always a choice.
 
 ## Goals/Aspirations
 
-- To find and protect Vex'hilla Reddington
+- To find and protect Vex'halia Reddington
 - Find out more about what it means to be Brightkinkin and find out more about his mother.
 - To live his life to make those who have passed proud, and to fix the mistakes that he made.
 

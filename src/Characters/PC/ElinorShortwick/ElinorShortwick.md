@@ -25,7 +25,7 @@
 |      Physical Defense Level      |                                   5                                   |          |                         Armor                         |
 |           Medium Size           |                         5x5 ft on battle map.                         |          |                                                      |
 |        Language: Babelish        |                          Can speak Babelish.                          |          |                                                      |
-|       Language: Deap-speak       |                         Can speak Deep-speak.                         |          |                                                      |
+|       Language: Deep-speak       |                         Can speak Deep-speak.                         |          |                                                      |
 | Disabling: Incontrollable Grief |     Overwhelming grief that is triggered reminder of past trauma.     |          |                                                      |
 |       Disabling: Delusion       | Has delusions of her parents that she talks to when no one is looking. |          |                                                      |
 |       Disabling: Obsession       |                  Obsessed with avenging her parents.                  |          |                                                      |
@@ -100,7 +100,7 @@ Additional Details:
 ## Beliefs/Morality:
 
 - Will kill anyone except the weak such as women and children.
-- Dosen't follow any religions or deity.
+- doesn't follow any religions or deity.
 - Morals aren't fully realized.
 - Just consumed with anger, rage, and vengeance.
 
@@ -114,22 +114,22 @@ Additional Details:
 
 Elinor Shortwick had a pleasant childhood. She grew up as a member of the Shortwick family, an old and prestigious line of Sirens.
 
-Her parents were kind and loving, but often didn't agree with their daughters choices on how to spend her time. They would have preffered to be in court, networking and learning to pleadal in political influence as they did.
+Her parents were kind and loving, but often didn't agree with their daughters choices on how to spend her time. They would have preferred to be in court, networking and learning to pedal in political influence as they did.
 
 But Elinor choose her own path. She was quick to anger and cared little for the empty words of court, spending most of her time running rooftops, sneaking into places she wasn't suppose to, and pranking the guard of her families mansion. While Elinor and her parents didn't agree on most things, they did agree she need to know how to defend herself, providing the best fencing and marksmanship instructors money could buy.
 
-Life went went on this way until her 18 birthday. The celebration was massive, and anyone who was someone had come to attend. Her father had arrived late to her birthday celebration, seeming distraught. But Elinor was to busy watching the preforming monks, as they preformed their matrial arts in fantastic displays. Dressed in her beautiful gown, many sutors vied for her affection. While it wasn't her usaul cup of tea, she rather enjoyed her party, falling asleep with a faint smile acroos her face.
+Life went went on this way until her 18 birthday. The celebration was massive, and anyone who was someone had come to attend. Her father had arrived late to her birthday celebration, seeming distraught. But Elinor was to busy watching the preforming monks, as they preformed their martial arts in fantastic displays. Dressed in her beautiful gown, many suitors vied for her affection. While it wasn't her usual cup of tea, she rather enjoyed her party, falling asleep with a faint smile across her face.
 
 She awoke coughing and heaving. Smoke filled her room and fire licked the outside of her window. She flung open her door, and the horror of her burning ancestral home  froze her for a second. Mother, Father, she shook herself out of her fear and ran to her parents bedroom. But it was to late, their bedroom a smoldering inferno, their limp body motionless, burning.
 
-It was becoming increasingly hard to breath. She said googbye to her parents and lept through a window, falling to the ground below. She hit the ground hard, knocking the wind from her. She saw the monks who had preformed at her show running and climbing over the walls of the mansion. The last one over the wall was holding a torch, his face hard as he meet Elinors eyes. Elinor screamed vengence upon him before loss consciousness.
+It was becoming increasingly hard to breath. She said goodbye to her parents and leapt through a window, falling to the ground below. She hit the ground hard, knocking the wind from her. She saw the monks who had preformed at her show running and climbing over the walls of the mansion. The last one over the wall was holding a torch, his face hard as he meet Elinor's eyes. Elinor screamed vengeance upon him before loss consciousness.
 
-After the tramatic event, Elinor was taken by a family friend of the Shortwick's named Burrowbard Stoneseeker. Though he tried to comfort Elinor, he realized that until she brought the people to justice responsible for her parents death. He supported her finacially and acted as a father figure to her.
+After the traumatic event, Elinor was taken by a family friend of the Shortwick's named Burrowbard Stoneseeker. Though he tried to comfort Elinor, he realized that until she brought the people to justice responsible for her parents death. He supported her financially and acted as a father figure to her.
 
-She spent the next year and the remainder of her faimlies fortune tracking down these monk hitman. She learned they were called the Zen Hu, and she tracked them down as dawn broke across the sky excatly one year aftre the fire. But she arrived to late, someone had already wrought carnage on the Zen Hu, the bodies of men, women, and children littering the ground, all decapitated. She found the head of the monk she had seen that night, and weeped as she had been diened her vengence. While at the Zen Hu hideout, Elinor recovered the contract for her and her parents assassination. Signed with only an alis called "The Black Spider", Elinor was at a dead end.
+She spent the next year and the remainder of her families fortune tracking down these monk hitman. She learned they were called the Zen Hu, and she tracked them down as dawn broke across the sky exactly one year after the fire. But she arrived to late, someone had already wrought carnage on the Zen Hu, the bodies of men, women, and children littering the ground, all decapitated. She found the head of the monk she had seen that night, and wept as she had been denied her vengeance. While at the Zen Hu hideout, Elinor recovered the contract for her and her parents assassination. Signed with only an alias called "The Black Spider", Elinor was at a dead end.
 
-She found the last survior, an elf named Jing Hu, leaning from a tree stump, his belly open. He spoke of how he was cursed, and that all the family he had ever known lay dead. In the memory of her loving and kind parents, Elinor showed pity and mercy to Jing Su. She stablized him from the brink of death ans spen the next couple weeks nursing him back to health.
+She found the last survivor, an elf named Jing Hu, leaning from a tree stump, his belly open. He spoke of how he was cursed, and that all the family he had ever known lay dead. In the memory of her loving and kind parents, Elinor showed pity and mercy to Jing Su. She stabilized him from the brink of death ans spent the next couple weeks nursing him back to health.
 
-For this act of kindness, Jing Su swore a life oath to Elinor, swearing to protect her from any foe, no matter the danger. They now travel together, seaching for who had payed the Zen Hu to attack her family in the first place.
+For this act of kindness, Jing Su swore a life oath to Elinor, swearing to protect her from any foe, no matter the danger. They now travel together, searching for who had payed the Zen Hu to attack her family in the first place.
 
-Elinor spent the next couple years following the thread of "The Black Spider" lead assisted by her , though it lead nowhere. Eventually concered for her, Burrowbard pleaded her to take a break and assist him with a business venture he was starting up. Elinor reluctantly agreed, though secretly she planned to continue her search regardless...
+Elinor spent the next couple years following the thread of "The Black Spider" lead assisted by her , though it lead nowhere. Eventually concerned for her, Burrowbard pleaded her to take a break and assist him with a business venture he was starting up. Elinor reluctantly agreed, though secretly she planned to continue her search regardless...

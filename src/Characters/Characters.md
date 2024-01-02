@@ -52,7 +52,7 @@
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
-### [Vex'hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
+### [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 
@@ -62,7 +62,7 @@
 
 ### [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
 
-### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
+### [Feral Vermkin](Humanoids/FeralVermkin/FeralVermkin.md)
 
 ### [Guard](Humanoids/Guard/Guard.md)
 

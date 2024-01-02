@@ -1,6 +1,6 @@
-# Weak Feral Verminkin
+# Weak Feral Vermkin
 
-![alt_text](FeralVerminkin.png)
+![alt_text](FeralVermkin.png)
 
 ## Attributes and Core Skills
 
@@ -76,4 +76,4 @@ Height: 3'6"
 
 ## Goals/Aspirations
 
-- To pilage as much as possible.
+- To pillage as much as possible.
