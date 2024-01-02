@@ -2,19 +2,19 @@
 
 ![img](LeodelphiaMap.png)
 
-Leodelphia is a Beastkin majority nation of tropical forests,expansive grasslands, and mysterious deserts. Ruled by the Leodelphian royal family.
+Leodelphia is a Beastkin majority nation of tropical forests,expansive grasslands, and mysterious deserts. Ruled by the Leodelphia royal family.
 
 ## Oasis
 
-Oasis is a mainly Felinekin population. A city of exotic colors, architecture, people and cuisine, it serves as one of the largest trade city and capital of Leodelphia. Built in the heart of a jungle flanked by two great lakes on either side. Stone pyramids and dwellings built straight into the petrified gargantuan trees make up the majority of dwellings within Oasis, as the ground level routinly flood due to the proximity to the two lakes. Oasis has complex plumbing systems and captures rain water in water towers that sit atop a percentage of the grand trees. Travel between the various tree dwellings and stone pyramids is done via massive rope bridges that span as wide as roads in other cities.
+Oasis is a mainly Felinekin population. A city of exotic colors, architecture, people and cuisine, it serves as one of the largest trade city and capital of Leodelphia. Built in the heart of a jungle flanked by two great lakes on either side. Stone pyramids and dwellings built straight into the petrified gargantuan trees make up the majority of dwellings within Oasis, as the ground level routinely flood due to the proximity to the two lakes. Oasis has complex plumbing systems and captures rain water in water towers that sit atop a percentage of the grand trees. Travel between the various tree dwellings and stone pyramids is done via massive rope bridges that span as wide as roads in other cities.
 
 The Brightinist religion of Oasis permeates all aspects of life. The Beautiful One, the Bargainer, and the Ravenous Ones all have their followers within the city.
 
-The cast system of Oasis is extremely apperent to new commers, with locals content as part of day to day life. The massive tree dwellings that are not owned by the Leodelphia government for public use are owned by the Great Prides. They nobility and rich classes live near the canopy, with private rope bridges connecting to other of the great pride's trees dwellings. They live in absolute luxury, a stark contrast to to bussling city that occupies the lower portions of the trees. Each great house is headed by a male patriarch with many wives.
+The cast system of Oasis is extremely apparent to new comers, with locals content as part of day to day life. The massive tree dwellings that are not owned by the Leodelphia government for public use are owned by the Great Prides. They nobility and rich classes live near the canopy, with private rope bridges connecting to other of the great pride's trees dwellings. They live in absolute luxury, a stark contrast to to bustling city that occupies the lower portions of the trees. Each great house is headed by a male patriarch with many wives.
 
-The lower portions of the tree dwellings, seen as the less desirable but good enough commercail and average citizen use, are home to the rich cultural specticals and merchant bazars around every corner. The drug mirage is a major export of Oasis, coming from the neighboring desert known as the Great Emptiness. Being a large trade hub traders, mercenaries, artists, and slavers flow in and out of the city every day.
+The lower portions of the tree dwellings, seen as the less desirable but good enough commercial and average citizen use, are home to the rich cultural spectacles and merchant bazars around every corner. The drug mirage is a major export of Oasis, coming from the neighboring desert known as the Great Emptiness. Being a large trade hub traders, mercenaries, artists, and slavers flow in and out of the city every day.
 
-The portions of Oasis closest to the jugle floor are regarded as the most dangerous areas in the city. Light barley makes it below and hostile creatures roam. Only the poor, desperate, or criminally inclined reside close to the ground level.
+The portions of Oasis closest to the jungle floor are regarded as the most dangerous areas in the city. Light barley makes it below and hostile creatures roam. Only the poor, desperate, or criminally inclined reside close to the ground level.
 
 ## The Raging Wildlands
 
@@ -28,7 +28,7 @@ At the top of each Horde sits a "Grass Lord", who maintains control through migh
 
 Through the constant raiding of caravans, each Grass Lord accumulates their own caravan. These Horde caravans are closer to moving cities, leaving vast swaths of trampled grass in their wakes. At the heart of the Horde caravan is the Grass Lord's heavily defended personal caravans, holding all of the wealth and Mirage accumulated by said Grass Lord.
 
-A mount in Horde culture is seen as a symbol of status. From horses, elephants, large insectoids, and various other creatures make up the diverse mounts that present in a Horde.
+A mount in Horde culture is seen as a symbol of status. From horses, elephants, large insectoid, and various other creatures make up the diverse mounts that present in a Horde.
 
 ## The Great Emptiness
 

@@ -6,7 +6,7 @@ Mindcraft users can narratively attempt the following:
 
 - Telepathy
 
-Common among Dhampires, Mindcraft is the ability to connect to, influence, or dominate others minds. There are multiple expression of this ability. The most eyes flash using use Mindcraft, generally green.
+Common among dhampirs, Mindcraft is the ability to connect to, influence, or dominate others minds. There are multiple expression of this ability. The most eyes flash using use Mindcraft, generally green.
 
 #### Specialization: Dreamcraft
 

@@ -28,7 +28,7 @@
 
 ## Lore
 
-The Twisting One, known by different names across various cultures, such as the "World Serpent" of the Isles of Crest, the "Ouroboros" of Leodelphia, and the "Leviathan" of Redwall, represents a singular entity of immense proportions, said to encircle the foundations of the world. Revered for symbolizing want, growth, and change, the Twisting One is worshiped by the Seakin, Saliours, and those seeking radical transformations in their lives.
+The Twisting One, known by different names across various cultures, such as the "World Serpent" of the Isles of Crest, the "Ouroboros" of Leodelphia, and the "Leviathan" of Reddwall, represents a singular entity of immense proportions, said to encircle the foundations of the world. Revered for symbolizing want, growth, and change, the Twisting One is worshiped by the Seakin, Saliours, and those seeking radical transformations in their lives.
 
 Legend speaks of the Bright Lord bestowing wings upon certain offspring of the Twisting One, which gave rise to the first dragons.
 
