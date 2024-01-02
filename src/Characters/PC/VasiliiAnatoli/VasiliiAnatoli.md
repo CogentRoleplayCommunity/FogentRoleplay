@@ -8,7 +8,7 @@
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 4d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
+| Endurance | 1 | 5d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
@@ -52,7 +52,7 @@
 
 ## Destiny Points: 1/3
 
-## Ichor: 6/6
+## Ichor: 1/7
 
 ## Equipment:
 
