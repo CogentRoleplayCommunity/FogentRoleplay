@@ -4,7 +4,7 @@ Miracles are the manifestations of a divine entities power on Terra. Those that 
 
 
 
-When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin of Terra. Brightkin have the ability to use the power of the Brighlord, known as Miracles. To perform a Miracle, Light is channeled through specific strong emotion or memories to receive a desired effect.
+When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin of Terra. Brightkin have the ability to use the power of the Bright Lord, known as Miracles. To perform a Miracle, Light is channeled through specific strong emotion or memories to receive a desired effect.
 Miracles require training and practice to use, harnessing one's emotions. Most Brightkin don't devote themselves to mastering Miracles, though they enjoy the benefits of near immortality.
 
 ![Copyright](Miracles.png)
@@ -33,7 +33,7 @@ The ability can be used once for each Brightkin level, resetting on long rests. 
 
 Wonders are uses of Miracles that use an insignificant  amount of Light. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Light is completely depleted.
 
-- Cannot benifit from Brightkin assists (as no Light is consumed)
+- Cannot benefit from Brightkin assists (as no Light is consumed)
 - Light Requirement: 0 Light (No Light can be used to increase dice)
 
 ### [Radiance](Miracles/Radiance.md)

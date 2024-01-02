@@ -10,7 +10,7 @@ Shadowcraft users can narratively attempt the following:
 
 #### Shadow Leaping
 
-Shadow Leaping is a form of short range teleportation. The user must have access to a large shadow near them that is not their own shadow. They can use it as a door to a neighboring shadow, rematerializing there.
+Shadow Leaping is a form of short range teleportation. The user must have access to a large shadow near them that is not their own shadow. They can use it as a door to a neighboring shadow, rematerialized there.
 
 #### Specialization: The Shadow Dragon
 

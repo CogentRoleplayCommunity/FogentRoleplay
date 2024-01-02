@@ -719,7 +719,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 | Name                                    | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
-| -[Typical Breakfast Options: Commer]-   |   |      |         |            |        |       |               |              |              |                |
+| -[Typical Breakfast Options: Commoner]-   |   |      |         |            |        |       |               |              |              |                |
 | “Meat” Stick                          | 1 | Misc | Mundane |            | 0.25   | 3 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Roasted Locusts                         | 1 | Misc | Mundane |            | 0.25   | 3 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cheese Omelet                           | 1 | Misc | Mundane |            | 0.25   | 4 cc  | FALSE         | FALSE        | FALSE        | FALSE          |

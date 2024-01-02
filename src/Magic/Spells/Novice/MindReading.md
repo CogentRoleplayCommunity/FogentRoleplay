@@ -14,7 +14,7 @@ Upon detecting the presence of a creature using this method, you can read its th
 
 Range: Mind magic range divided by 2
 
-Engaeable Opponents: Focused
+Engageable Opponents: Focused
 
 Magic Resource Required: 1
 

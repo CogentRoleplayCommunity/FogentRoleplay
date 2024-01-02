@@ -12,7 +12,7 @@ Soulcraft users can narratively attempt the following:
 - Resit spiritual attacks
 - Astral projection and interaction
 - Astral Sense (Assist for Perception checks)
-- Phase though material objects (non-silver or Spellcraft)
+- Phase though material objects (non-silver or Runecraft)
 - Posses
 
 Users of Soulcraft learn to consciously control and strengthen their own soul. This allows them to communicate, bend, dominate, and even feed the souls of the Lost and the living. Users learn how to cross the barrier of the material plane into the astral plane.

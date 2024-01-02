@@ -6,7 +6,7 @@ You hurl a barrage of scathing remarks, imbued with arcane nuances, at a creatur
 
 Range: Extended
 
-Engaeable Opponents: Focused
+Engageable Opponents: Focused
 
 Penetration: 0
 

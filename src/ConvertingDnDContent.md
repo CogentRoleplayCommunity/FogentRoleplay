@@ -26,7 +26,7 @@ Skill conversion:
 
 DnD skill Modifier to Fallen Skill Level:
 
-    Remember to removed Ability score modifier benifits from the skill before converting
+    Remember to removed Ability score modifier benefits from the skill before converting
 
 - below 0 -> -1
 - 0 -> 0 (Novice)
@@ -36,11 +36,11 @@ DnD skill Modifier to Fallen Skill Level:
 - 10 -> 12 -> (Master)
 
 DnD Armor Class to Fallen Defense Level:
-	Rememver to remove DnD dexterity modifier from AC be for converting.
+	Remember to remove DnD dexterity modifier from AC be for converting.
 
-    You may also slighly reduce the defense level and give better acrobatics if the creature is harder to hit becuase it is quick, agile, or small.
+    You may also slightly reduce the defense level and give better acrobatics if the creature is harder to hit because it is quick, agile, or small.
 
 - 10 AC -> 0 Defense Level
-- 11 AC -> 1 Defene Level
+- 11 AC -> 1 Defense Level
 - 12 AC -> 2 Defense Level
 - So on...

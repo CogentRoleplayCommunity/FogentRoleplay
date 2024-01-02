@@ -42,7 +42,7 @@ Billhook
 
 It is quite common knowledge that Phoenix tears carry powerful healing properties. These healing effects can be instantaneous or require one to two days to take effect. Tears must be applied to the wounded area or ingested for toxins.
 
-Spellcrafted Bowstrings, weapon Buffs
+Runecrafted Bowstrings, weapon Buffs
 
 Tattoo Runecraft weapons
 

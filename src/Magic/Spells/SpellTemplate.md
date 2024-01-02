@@ -14,7 +14,7 @@
 
 Range:
 
-Engaeable Opponents:
+Engageable Opponents:
 
 Penetration:
 

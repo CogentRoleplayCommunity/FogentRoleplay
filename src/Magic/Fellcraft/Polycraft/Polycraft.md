@@ -52,9 +52,9 @@ Doppelgangers are devious shapeshifters that take on the appearance of other hum
 | ----------------------------- | --------------- | ---------- |
 | Maintain form                 | 1               | 1 hr       |
 | Mimic similar humanoid        | 2               | 1 hr       |
-| Mimic unsimilar humanoid      | 3               | 1 hr       |
+| Mimic dissimilar humanoid      | 3               | 1 hr       |
 | Mimic similar sized species   | 4               | 1 hr       |
-| Mimic unsimilar sized species | 5               | 1 hr       |
+| Mimic dissimilar sized species | 5               | 1 hr       |
 | Set default humanoid form     | 5               | Indefinite |
 | Mimic monster                 | 6               | 1 hr       |
 | Mimic greater monster         | 7               | 1 hr       |

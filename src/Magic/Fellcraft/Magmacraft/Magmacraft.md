@@ -15,7 +15,7 @@ This Fellcraft can only be accessed by users with a specialization in Blazecraft
 
 #### Specialization: The Magma Dragon
 
-When the horrors of Terra bowed down before the Bright Lord, the Bright Lord conscripted the Great magma dragons of the world who dwell even deeper than the great underground caverns of Terra in infinite seas of lava. The continents that were once separate were brought together, so that Brighkind may rule over all of their new world.
+When the horrors of Terra bowed down before the Bright Lord, the Bright Lord conscripted the Great magma dragons of the world who dwell even deeper than the great underground caverns of Terra in infinite seas of lava. The continents that were once separate were brought together, so that Brightkind may rule over all of their new world.
 
 ##### Influence Tectonic Plates
 

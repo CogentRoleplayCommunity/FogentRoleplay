@@ -4,7 +4,7 @@
 
 Chitinkin (or Kiki as they call themselves) trace their ancestry from the ancient insectoid monsters that bowed to the Bright lord. These monsters were granted consciousness and the form of the Bright Lord.
 
-Distinctive features of Chitinkin are their exoskin exteriors and insectoid-like traits.
+Distinctive features of Chitinkin are their exoskeleton exteriors and insectoid-like traits.
 
 Most Chitinkin dwell deep within the earth in massive colonies that span the massive underground caverns under the surface of Terra. Their societies are heavily influenced by their biology, with their purpose and job dictated by the needs of the collective.
 
@@ -14,4 +14,4 @@ The largest of these Colonies in the Hive is located in Caurus. The Chitinkin th
 
 Fellcrafts: Polycraft, Webcraft, Mindcraft, Sonocraft, Toxincraft, Terracraft
 Life Span: 30 - 50  years (Workers), 300 - 500 (Royals)
-Language: Kikish, Babelish
+Language: Kikishi, Babelish

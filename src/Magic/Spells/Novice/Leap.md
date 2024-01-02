@@ -2,7 +2,7 @@
 
 When you make contact with a creature, a powerful spell takes effect, temporarily granting the creature the ability to farther than usual.
 
-The distance you can jump vertically also becomes the distance you fall without incuring damage. Any distance beyond that counts as normal falling distance.
+The distance you can jump vertically also becomes the distance you fall without incurring damage. Any distance beyond that counts as normal falling distance.
 
 ## Dice Pool Size Effect
 

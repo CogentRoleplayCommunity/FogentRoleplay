@@ -37,7 +37,7 @@ When a character attempts a Blessing heal, they make a Blessing roll  (this can 
 
 #### Specialization: Bright's Heritage
 
-With sufficient Light, Brightkin can resurrect upon death. The Brightkins body will begin to glow brightly, damaged tissue pulled back together or is  regrown.
+With sufficient Light, Brightkin can resurrect upon death. The Brightkin's body will begin to glow brightly, damaged tissue pulled back together or is  regrown.
 
 - Requires
 - Must succeed a check starting at CL 6, decreasing each round of combat or every 10 seconds outside of combat.

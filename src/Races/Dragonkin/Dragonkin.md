@@ -12,9 +12,9 @@ Dragonkin are one of the rarest races on Terra, as very few of the ancient drago
 
 Dragonkin, much like Brightkin,  appear to have an indefinite lifespan. This appears to be related to the scales across their bodies as upon their removal they begin to age and eventually perish.
 
-Mainy Dragonkin worship the Great Leviathan, as it is said that all dragons came from it. For in a time before the creation of Terra, the Great Leviathan aided the Bright Lord. And thus the Bright Lord bestows wings upon all his descendants.
+Many Dragonkin worship the Great Leviathan, as it is said that all dragons came from it. For in a time before the creation of Terra, the Great Leviathan aided the Bright Lord. And thus the Bright Lord bestows wings upon all his descendants.
 
 Fellcrafts (Dependent on dragon ancestor type): Blazecraft, Toxincraft, Hydrocraft, Soulcraft, Galecraft, Terracraft, Mindcraft, Sonocraft, Electrocraft, Shadowcraft, Ferracraft, Naturecraft
 Fellcrafts: Sonocraft, Polycraft
 Life Span: Indefinite (Unless scales are removed)
-Language: Dragonic, Babelish
+Language: Draconic, Babelish
