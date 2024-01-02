@@ -52,7 +52,7 @@
 
 ## Destiny Points: 1/3
 
-## Ichor: 1/7
+## Ichor: 0/7
 
 ## Equipment:
 
@@ -80,6 +80,11 @@
 | Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
 | Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
 | Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
+
+| Name              | # |      Class      |  Tier  | Durability | LB | Value |
+| ----------------- | :-: | :-------------: | :-----: | :--------: | :-: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
+
 
 ## Appearance:
 
