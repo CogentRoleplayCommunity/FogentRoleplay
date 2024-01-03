@@ -8,11 +8,11 @@
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
 
-Eventually the Spear would end up in the possession of the Royal Family of Angland, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
+Eventually the Spear would end up in the possession of the Royal Family of the Dawn Empire, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
 
 Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
 
-The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of Angland. Those that oppose Angland had a much different perspective…
+The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…
 
 ## Info
 

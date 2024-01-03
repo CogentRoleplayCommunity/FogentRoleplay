@@ -36,7 +36,7 @@
 
 ### [Uhtred Storm](PC/UhtredStorm/UhtredStorm.md)
 
-### [Uhtred Storm (Depricated)](PC/UhtredStorm/UhtredStormDepricated.md)
+### [Uhtred Storm (Deprecated)](PC/UhtredStorm/UhtredStormDepricated.md)
 
 ### [Valkyrie Dreki](PC/ValkyrieDreki/ValkyrieDreki.md)
 
@@ -52,7 +52,7 @@
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
-### [Vex&#39;hilla Reddington](NPC/Vex'hillaReddington/Vex'hillaReddington.md)
+### [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 
@@ -62,7 +62,7 @@
 
 ### [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
 
-### [Feral Verminkin](Humanoids/FeralVerminkin/FeralVerminkin.md)
+### [Feral Vermkin](Humanoids/FeralVermkin/FeralVermkin.md)
 
 ### [Guard](Humanoids/Guard/Guard.md)
 
@@ -90,7 +90,7 @@
 
 ### [Wraith](Monster/Wraith/Wraith.md)
 
-### [Younge Green Dragon](Monster/Wraith/Wraith.md)
+### [Young Green Dragon](Monster/YoungGreenDragon/YoungGreenDragon.md)
 
 ## Animals
 

@@ -2,7 +2,7 @@
 
 ## Disabling Characteristics
 
-Represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. Skill points can be gained by choosing a disabling characteristic. For each disablling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
+Represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
 
 ## Tiers of play
 

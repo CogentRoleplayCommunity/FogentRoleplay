@@ -2,7 +2,7 @@
 
 ## Gradual Heal
 
-Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stablized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.
+Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.
 
 ## Minor Heal
 

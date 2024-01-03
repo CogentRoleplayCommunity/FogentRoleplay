@@ -1,4 +1,4 @@
-# Vasili "The Bear Knight" Anatoli
+# Vasilii "The Bear Knight" Anatoli
 
 ![NotMyImage](VasiliiAnatoli.png)
 
@@ -8,7 +8,7 @@
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 4d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
+| Endurance | 1 | 5d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
@@ -26,8 +26,8 @@
 |         Medium Size         |                                                                   5x5 ft on battle map.                                                                   |          |                                                      |
 |      Language: Babelish      |                                                                    Can speak Babelish.                                                                    |          |                                                      |
 |       Language: Primal       |                                                                     Can speak Primal.                                                                     |          |                                                      |
-| Disabling: Scandolous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                      |
-|     Disabling: Alcholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
+| Disabling: Scandalous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                      |
+|     Disabling: Alcoholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
 |       Inventory Weight       |                                                                           55 lb                                                                           |          |                       Equipment                       |
 |    Humanoid Carry Weight    |                                                                           220 lb                                                                           |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                              |          |               0% - 25% of carry weight               |
@@ -52,7 +52,7 @@
 
 ## Destiny Points: 1/3
 
-## Ichor: 6/6
+## Ichor: 0/7
 
 ## Equipment:
 
@@ -80,6 +80,11 @@
 | Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
 | Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
 | Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
+
+| Name              | # |      Class      |  Tier  | Durability | LB | Value |
+| ----------------- | :-: | :-------------: | :-----: | :--------: | :-: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
+
 
 ## Appearance:
 
@@ -128,10 +133,10 @@ By far the best part of Vasilii's childhood were the bedtime stories his mother 
 
 But everything changed that cold winter morning. Vasilii was only ten, when that man had stepped out of the crowd. Vasilii had never quite seen what it was that he was holding, as he usually sat at the back of the carriage he and his brother rode in. It all happened so quickly, the man tossing an odd device into the carriage in front of Vasilii. The one his mother and father usually rode in. The blast had left Vasilii's ears ringing. His mother had been traveling alone that day. The funeral was held three days later.
 
-A portion of his father's serfs attempted an uprising. But they were slaughtered quickly by his father’s soldiers and wizards. His father became cruel and unreasonable after his wife’s death. After he had killed all the revolutionaires, he enforced harder taxes and restrictions on all under his rule as to him they were not different from those who had taken his wife.
+A portion of his father's serfs attempted an uprising. But they were slaughtered quickly by his father’s soldiers and wizards. His father became cruel and unreasonable after his wife’s death. After he had killed all the revolutionaries, he enforced harder taxes and restrictions on all under his rule as to him they were not different from those who had taken his wife.
 
 When Vasilii was 23 his father had sent him, Artoym, and Borya his oldest brother to remove a thief's hand. A mother had stolen grain out of the Barons stores to feed her infant. Boyra, the cruelest of his brothers, had instead staged a public execution for the woman in the town square. Vasilii, who had become the advocate of the common folk  to his father, attempted to do the same to his brother. But Borya was out for blood. In the name of the Good, before his brother could bring his sword down, Vasilii drove his sword through his brother's heart.
 
 The whole incident was covered up, and his brother's death was blamed on a cell of revolutionists. Artoym pointed out that the people would rise up if Vasilii was executed. Instead his father banished him, never to return.
 
-Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilli genuinly being suprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilli grew into something of a folk hero in the region surrounding Reddwall known as "The Bear Knight".
+Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilii genuinely being surprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilii grew into something of a folk hero in the region surrounding Reddwall known as "The Bear Knight".

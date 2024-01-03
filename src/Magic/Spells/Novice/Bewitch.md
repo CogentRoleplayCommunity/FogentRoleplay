@@ -22,7 +22,7 @@ Duration: Dice Pool Size determined
 
 Range: Long
 
-Engaeable Opponents: Focused
+Engageable Opponents: Focused
 
 Magic Resource Required: 1
 

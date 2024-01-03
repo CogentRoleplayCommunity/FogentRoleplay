@@ -6,7 +6,7 @@ This document provides generalized rules for magic system mechanics built to int
 - Magic Vocation = Fellkin/Brightkin/Runesmith
 - Magic Resource = Ichor/Light/Focus
 - Cantrip = Trick/Wonder/Sign
-- Governing Core Skill = Endurnace/Willpower/Communication
+- Governing Core Skill = Endurance/Communication/Willpower
 - Spell = Fellweave/DivineTale/CompoundRune
 
 ## Fallen Magic Systems
@@ -19,17 +19,17 @@ This document provides generalized rules for magic system mechanics built to int
 
 ## Magic Skill Levels
 
-### Level -1: Incompotent (Party Trick)
+### Level -1: Incompetent (Party Trick)
 
-Requires an investment of 0 skill point to unlock. Generally aquired through narative means. Examples include:
+Requires an investment of 0 skill point to unlock. Generally acquired through narrative means. Examples include:
 
 * A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
-* A minuet blessing bestowed by a diety. (Cleric)
+* A minuet blessing bestowed by a deity. (Cleric)
 * A taste of power from an entity looking to make a deal... (Warlock)
 * A part of nature foreign to your place of origin. (Druid)
 
-This level of proficeny with magic might be a fun party trick or for convience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
 
 ### Level 0: Novice
 
@@ -37,7 +37,7 @@ Representing an inexperienced level of skill.
 
 ### Level 1: Apprentice
 
-Represting a level of skill where the basics have been learned.
+Representing a level of skill where the basics have been learned.
 
 ### Level 2: Adept
 
@@ -45,15 +45,15 @@ Skill level where the basics have been fully understood and the more advanced co
 
 ### Level 3: Expert
 
-Skill level where advanced concepts have been fuly understood and master level concepts are beginning to be introduced.
+Skill level where advanced concepts have been fully understood and master level concepts are beginning to be introduced.
 
 ### Level 4: Master
 
-Skill level where a master level of proficency has been achived.
+Skill level where a master level of proficiency has been achieved.
 
 ## Unlocking Magic
 
-You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompotent).
+You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompetent).
 
 | Magic Vocation Level | Magic Vocational Skills known |
 | -------------------- | ----------------------------- |
@@ -71,12 +71,12 @@ If you are making a magic system, these will probably have different names in yo
 - Bodily Magic (Flesh, Web, Bone, ect...)
 - Heat Magic
 - Water Magic
-- Electricty Magic
+- Electricity Magic
 - Earth Magic
 - Air Magic
 - Cold Magic
 - Plant Magic
-- Posion Magic
+- Poison Magic
 - Soul Magic
 - Light Magic
 - Shadow Magic
@@ -94,7 +94,7 @@ If you are making a magic system, these will probably have different names in yo
 Another avenue to explore are magic how these magics could be combined.
 
 - Plasma Magic = Heat Magic + Air Magic
-- Storm Magic = Air Magic + Electricy Magic + Water Magic
+- Storm Magic = Air Magic + Electricity Magic + Water Magic
 - Magma Magic = Earth Magic + Heat Magic
 - Blizzard Magic = Cold Magic + Air Magic
 
@@ -104,7 +104,7 @@ A governing core skill is used for instances when a character over exerts themse
 
 * Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
 * Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
-* Magic that relies upon a relationship with a divine being or a pact with a naferious entity could use Communication, as it is only through the connection to the entity that the magic is held together.
+* Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together.
 * Magic that relies upon ones connection with nature could use Survival.
 
 ## Magic Resource
@@ -134,7 +134,7 @@ Depending on your magic system, Magic users can absorb and feed on an ample sour
 
 ## Magic Concentration
 
-Certain magic demand your concentration to keep their effects active. If you lose this concenration, the spell's magic ends.
+Certain magic demand your concentration to keep their effects active. If you lose this concentration, the spell's magic ends.
 
 If a spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
 
@@ -155,11 +155,11 @@ Example Conduit:
 | ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
 | Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           | 0                     |                                   | None                      | None                | None                | Blazecraft                 |
 
-One Handed: Dice bonus given by weilding the conduit in one hand.
+One Handed: Dice bonus given by wielding the conduit in one hand.
 
-Two Handed: Dice Bonus given by weilding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
+Two Handed: Dice Bonus given by wielding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
 
-Dual Wielded: Dice bonus given when weilding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual weilding fire magic wands.
+Dual Wielded: Dice bonus given when wielding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual wielding fire magic wands.
 
 Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
 
@@ -171,7 +171,7 @@ Engageable Opponents: Changes engageable opponent type when making a combat roll
 
 Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
 
-Resoure Class: Additional resource consummed by the conduit when used.
+Resource Class: Additional resource consumed by the conduit when used.
 
 Effected Magic Skills: Which Magic skill the conduit can be used with.
 
@@ -357,7 +357,7 @@ Requires Level 2 in specific Magic skill
 
 ## Magic Spells
 
-Magic Spells are more complex types of magic that behave in very specific ways. Depending on the magic disipline, your may not contains any spells at all. However it is generally encouraged since they are loved by players and narrators alike.
+Magic Spells are more complex types of magic that behave in very specific ways. Depending on the magic discipline, your may not contains any spells at all. However it is generally encouraged since they are loved by players and narrators alike.
 
 ### Cantrips
 
@@ -381,7 +381,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
 
-[Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+[Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
 
 [Mind Reading](Spells/Novice/MindReading.md)
 

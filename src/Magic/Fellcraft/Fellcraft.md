@@ -20,7 +20,7 @@ Due to their monstrous ancestry, Fellkind carries Ichor, the potential energy fo
 
 A reaction caused by silver coming into contact with Ichor. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Ichor in their blood.
 
-If a character has at least a level 1 in the "Fellkin" or equivelent vocation, they gain a Minor weakness to silver damage.
+If a character has at least a level 1 in the "Fellkin" or equivalent vocation, they gain a Minor weakness to silver damage.
 
 Silverburn damage taken while transformed by Ichor, forces the user to make an Endurance check to maintain their form.
 

@@ -20,7 +20,7 @@ Webs cannot inflict damage. Instead follow the table below.
 
 #### Fellcraft Combination
 
-This Fellcraft can only be accessed by users with a specialization in Polycraft and Toxincraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+This Fellcraft can only be accessed by users with a specialization in Polycraft and Toxicant. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
 #### Specialization: The Giant Spider
 

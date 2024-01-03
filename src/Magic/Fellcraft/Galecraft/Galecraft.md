@@ -9,9 +9,9 @@ Galecraft craft users can narratively attempt the following:
 - Attempt to high jump
 - Attempt to levitate
 - Attempt to fly
-- Compress air to create shockwaves
+- Compress air to create shortwaves
 
-Galecraft generally takes on two forms, derived from the great monstrous birds and Gale Dragons. Those that draw their Galecraft from the great birds suchs as Phoenix or Thunderbird will grow feathers that can be used to influence the gales, some of these feathers will detach, still under the user's influence. These feathers can act as extensions of the user’s will far from their bodies.
+Galecraft generally takes on two forms, derived from the great monstrous birds and Gale Dragons. Those that draw their Galecraft from the great birds such as Phoenix or Thunderbird will grow feathers that can be used to influence the gales, some of these feathers will detach, still under the user's influence. These feathers can act as extensions of the user’s will far from their bodies.
 
 #### Specialization: The Gale Dragon
 

@@ -1,4 +1,4 @@
-# Lavendar Lancer Ruffian
+# Lavender Lancer Ruffian
 
 ![alt_text](LavendarLancerRuffian.png)
 
@@ -52,7 +52,7 @@
 
 ## Backstory
 
-Ruffians of the bandit gang known as the Lavenar Lancers, known for their purple attire.
+Ruffians of the bandit gang known as the Lavender Lancers, known for their purple attire.
 
 ## Disposition
 

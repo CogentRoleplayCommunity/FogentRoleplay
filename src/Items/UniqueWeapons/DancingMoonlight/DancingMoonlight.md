@@ -6,11 +6,11 @@
 
 "Ah, you were at my side all along. My true mentor. My guiding moonlight." - Unknown
 
-A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Redland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
+A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
 
 When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
 
-Princess Vex'ahlia Reddinton was gifted this sword upon her return to Redland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Redguard wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard.
+Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Reddington wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard.
 
 ## Info
 

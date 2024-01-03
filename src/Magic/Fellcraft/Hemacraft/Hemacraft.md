@@ -40,7 +40,7 @@ By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistan
 
 #### Specialization: The Healing Blood
 
-This technique was discovered when Byrgenwerth Scholars found a dark truth deep within the Siren ruins that now lay under Redwall. Protected fervently by House Reddington and the scholars at Byrgenwerth. Healing blood is shelf stable, has antifungal and antibacterial properties.
+This technique was discovered when Byrgenwerth Scholars found a dark truth deep within the Siren ruins that now lay under Reddwall. Protected fervently by House Reddington and the scholars at Byrgenwerth. Healing blood is shelf stable, has antifungal and antibacterial properties.
 
 By performing the following check below, a character may produce enough healing blood for one use of a healing blood vial.
 

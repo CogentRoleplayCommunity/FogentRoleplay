@@ -26,7 +26,7 @@
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                        Genetic                        |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                      |
 |  Disabling: Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                      |
-| Disabling: Loose Cannon |       Overwhelming predispositionf towards rage/anger.       |          |                     Daddy Issues                     |
+| Disabling: Loose Cannon |       Overwhelming predisposition towards rage/anger.       |          |                     Daddy Issues                     |
 |    Inventory Weight    |                           23.45 lb                           |          |                       Equipment                       |
 |  Minor Silver Weakness  |   (+1) to the level of injury received from Silver damage.   |          |                        Fellkin                        |
 |  Humanoid Carry Weight  |                            240 lb                            |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
@@ -93,7 +93,7 @@
 |      Candle      | 1 |                   Misc                   | Mundane |            | 0.1 | 1 cc |
 |   Drug, Mirage   | 1 |                   Misc                   | Mundane |            | 0.1 | 5 bc |
 
-## Apperance:
+## Appearance:
 
 Age: 16
 
@@ -134,9 +134,17 @@ Doesn't respect traditional authority, but sees the value of service.
 
 ## Notes:
 
+Ferracraft blood into Bloodsteel
+
+Magnetic shield for incoming weapon attacks
+
+Bloodforge Char with Bloodsteel to reforge it
+
+Magnetic bullets
+
 ## Backstory:
 
-Destin grew up in a small town outside of Redwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
+Destin grew up in a small town outside of Reddwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
 
 Destin was raised to be an apprentice blacksmith. Destin enjoyed learning about smithing, but in truth Destin wanted to be a warrior like his father was in his youth. Always big and strong for his age, Destin took to smithing quickly, almost like the metal wanted to obey Destin. Destin's father trained him well, not only in Smiting but how to defend himself as he was an officer in the Redd Legion before taking up his humble trade, which Destin loved.
 

@@ -26,7 +26,7 @@
 |   Language: Babelish   |                                                     Can speak Babelish.                                                     |          |                                                                                                              |
 |    Language: Primal    |                                                      Can speak Primal.                                                      |          |                                                                                                              |
 |  Minor Silver Weakness  |                                  (+1) to the level of injury received from Silver damage.                                  |          |                                                Fellkin blood                                                |
-|       Dark Vision       | Within 60 feet, sees dimlight as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                                                                              |
+|       Dark Vision       | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                                                                              |
 |    Inventory Weight    |                                                            24 lb                                                            |          |                                                  Equipment                                                  |
 |  Humanoid Carry Weight  |                                                           220 lb                                                           |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                                               -0d6 to STR/RFX governed skills                                               |          |                                           0% - 25% of carry weight                                           |
@@ -47,7 +47,7 @@
 
 | Name                                 | # |                  Class                  |    Tier    | Durability | LB | Value |
 | ------------------------------------ | :-: | :--------------------------------------: | :---------: | :--------: | :-: | :----: |
-| Shoddy Leather Helmet                | 1 |             1	Phy. Def. 0.5             |   Shoddy   |    9/9    | 2 | 0.5 bc |
+| Shoddy Leather Helmet                | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 2 | 0.5 bc |
 | Shoddy Leather Cuirass and Pauldrons | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 4 |  3 bc  |
 | Shoddy Leather Cuisses and Greaves   | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 3 |  2 bc  |
 | Shoddy Leather Vambrace              | 1 |              Phy. Def. 0.5              |   Shoddy   |    9/9    | 2 | 1.5 bc |
@@ -62,8 +62,8 @@ One of the feral members of Fellkin, living in small packs preying on travelers.
 ## Disposition
 
 - Hostile
-- Aggresive
+- Aggressive
 
 ## Goals/Aspirations
 
-- To pilage as much as possible.
+- To pillage as much as possible.

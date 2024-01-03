@@ -7,7 +7,7 @@ Radiance users can narratively attempt the following:
 - Create light (hard light, illusions, etc...)
 - Manipulate light
 
-Users of Radiance focus on the manipulation of light externally. Radiance is extremely versatile and has become a staple of Angland’s way of life.
+Users of Radiance focus on the manipulation of light externally. Radiance is extremely versatile and has become a staple of the Dawn Empire’s way of life.
 
 In warfare, whether it is smiting the enemy from afar, armoring themselves and companions with hard light gear, or creating illusions of calvary charging at the enemies flanks, they are a force to be reckoned with.
 

@@ -124,4 +124,4 @@ After returning the artifact to the strange woman that had imprisoned them, they
 
 Nivix is plagued by dreams of burning cities.
 
-Krexis has an extreme addiction to beatiful women, going out of his way to seduce them.
+Krexis has an extreme addiction to beautiful women, going out of his way to seduce them.

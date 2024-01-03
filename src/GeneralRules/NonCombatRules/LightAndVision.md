@@ -18,13 +18,13 @@ Most creatures can see normally in bright light. This light can come from variou
 
 Also referred to as shadows, creates a lightly obscured area. This area is typically a boundary between a source of bright light, like a torch, and the surrounding darkness. The soft light of twilight and dawn, or even a particularly brilliant full moon, also counts as dim light.
 
-Character's attempting to perform any task in Dim Light have Disadvantage (-2d6). To conteract this, Character's can assist with a Perception Assist.
+Character's attempting to perform any task in Dim Light have Disadvantage (-2d6). To counteract this, Character's can assist with a Perception Assist.
 
 ### Darkness
 
 Darkness, on the other hand, creates a heavily obscured area. Characters encounter darkness outdoors at night (excluding moonlight nights), inside an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
-Creatures attempting to perform any task reliant on sight in Darkness have Major Disadvantage (-4d6). To conteract this, Character's can assist with a Perception Assist.
+Creatures attempting to perform any task reliant on sight in Darkness have Major Disadvantage (-4d6). To counteract this, Character's can assist with a Perception Assist.
 
 ## Vision
 
@@ -34,4 +34,4 @@ Blindsight allows a creature to perceive its environment without the need for si
 
 ### Darkvision
 
-A special ability that many creatures in fantasy realms, particularly those that live underground, possess. This ability allows a creature to see in dim light as if it were bright light, and see in darkness as if it were dim lightcomplete darkness up to a certain distance. However, the trade-off is that they can't distinguish colors in the dark, only different shades of gray.
+A special ability that many creatures in fantasy realms, particularly those that live underground, possess. This ability allows a creature to see in dim light as if it were bright light, and see in darkness as if it were dim light up to a certain distance. However, the trade-off is that they can't distinguish colors in the dark, only different shades of gray.

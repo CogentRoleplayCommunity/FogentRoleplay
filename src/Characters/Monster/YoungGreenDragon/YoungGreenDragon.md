@@ -1,4 +1,4 @@
-# Younge Green Dragon
+# Young Green Dragon
 
 ![NotMyImage](YoungeGreenDragon.png)
 
@@ -27,10 +27,10 @@
 |         Language: Draconic         |                                                     Can speak Draconic.                                                     |          |                                                      |
 |        Physical Defense Level        |                                                              7                                                              |          |                         Armor                         |
 |      Minor Enhanced Toxincraft      |                                                       +1d6 Toxincraft                                                       |          |                  Draconic bloodline                  |
-| Minor Magic<br />Resource Enhancment |                                                +2 to magic Resource capacity.                                                |          |                  Draconic bloodline                  |
+| Minor Magic<br />Resource Enhancement |                                                +2 to magic Resource capacity.                                                |          |                  Draconic bloodline                  |
 |      Complete Poison Resistance      |                                      -5 to victory levels received from Poison damage.                                      |          |                  Draconic bloodline                  |
-|             Dark Vision             | Within 120 feet, sees dimlight as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                  Draconic bloodline                  |
-|              Blindsight              |                        Within 30 ft, the enviroment can<br />be perceived without the need for sight.                        |          |                                                      |
+|             Dark Vision             | Within 120 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                  Draconic bloodline                  |
+|              Blindsight              |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                                                      |
 |       4-Legged Movement Speed       |                                                            55 ft                                                            |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |         4-Legged Swim Speed         |                                                            35 ft                                                            |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
 |             Flight Speed             |                                                            80 ft                                                            |          | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |

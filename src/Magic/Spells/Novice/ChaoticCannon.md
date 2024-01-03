@@ -41,7 +41,7 @@ Must know 4 of the following Magics.
 
 - Earth Magic (lvl 0)
 - Mind Magic (lvl 0)
-- Posion Magic (lvl 0)
+- Poison Magic (lvl 0)
 - Electric Magic (lvl 0)
 - Air Magic (lvl 0)
 - Fire Magic (lvl 0)

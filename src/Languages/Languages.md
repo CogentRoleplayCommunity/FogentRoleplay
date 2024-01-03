@@ -10,7 +10,7 @@ Said to be the language of the Bright Lord and his Brights. A beautiful language
 
 ### Pirish
 
-A sophisticated language spoken by Dhampires and in upper class society across Redland. It originates from the Vampires that roamed Terra from before the Bright Lord arrived.
+A sophisticated language spoken by dhampirs and in upper class society across Reddland. It originates from the Vampires that roamed Terra from before the Bright Lord arrived.
 
 ### Deep-speak
 

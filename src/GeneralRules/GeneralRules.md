@@ -34,11 +34,7 @@
 
 ### [Defense](CombatRules/Defense.md)
 
-### [Dice Removal](CombatRules/DiceRemoval.md)
-
 ### [Engageable Opponents](CombatRules/EngageableOpponents.md)
-
-### [Dodge](CombatRules/Dodge.md)
 
 ### [Item Tier And Durability](CombatRules/ItemTierAndDurability.md)
 

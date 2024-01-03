@@ -5,7 +5,7 @@
 Terracraft users can narratively attempt the following:
 
 - Create and manipulate earth (earth, sand, etc...)
-- Earth Sense (Vibriations) to assist Perception Checks
+- Earth Sense (Vibrations) to assist Perception Checks
 
 #### Specialization: The Terra Dragon
 

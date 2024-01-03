@@ -205,7 +205,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Leather Cuirass and Pauldrons | 1 | Phy. Def. 0.5 | Mundane | 12/12      | 4      | 3 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Cuisses and Greaves   | 1 | Phy. Def. 0.5 | Mundane | 12/12      | 3      | 2 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Vambrace              | 1 | Phy. Def. 0.5 | Mundane | 12/12      | 2      | 1.5 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| -[Weapom]-                    |   |               |         |            |        |        |               |              |              |                |
+| -[Weapon]-                    |   |               |         |            |        |        |               |              |              |                |
 | Sling                         | 1 | Sling         | Mundane | 12/12      | 0.5    | 20 cc  | TRUE          | TRUE         | FALSE        | FALSE          |
 | -[Misc]-                      |   |               |         |            |        |        |               |              |              |                |
 | Waterskin (0/4)               | 1 | Misc          | Mundane |            | 1      | 20 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
@@ -533,7 +533,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Mastiff            |   |      |         |            | 25 bc       |       | FALSE         | TRUE         | TRUE         | TRUE           |
 | Pony               |   |      |         |            | 30 bc       |       | TRUE          | TRUE         | TRUE         | TRUE           |
 | Warhorse           |   |      |         |            | 400 bc      |       | TRUE          | FALSE        | FALSE        | TRUE           |
-| Barding            |   |      |         |            | x4 humaniod |       | FALSE         | TRUE         | TRUE         | TRUE           |
+| Barding            |   |      |         |            | x4 humanoid |       | FALSE         | TRUE         | TRUE         | TRUE           |
 | Bit & Bridle       | 1 | Misc | Mundane |            | 1           | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
 | Carriage           |   |      |         |            | 100 bc      |       | TRUE          | FALSE        | TRUE         | TRUE           |
 | Cart               |   |      |         |            | 15 bc       |       | TRUE          | TRUE         | TRUE         | TRUE           |
@@ -572,7 +572,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | -[Tools]-                        |   |      |         |            |              |         |               |              |              |                |
 | Jeweler's Tools                  | 1 | Misc | Mundane |            | 2            | 25 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
 | -[Services]-                     |   |      |         |            |              |         |               |              |              |                |
-| Gemstone Apprasisal (3 gems)     |   |      |         |            | 5 bc         |         | TRUE          | TRUE         | TRUE         | TRUE           |
+| Gemstone Appraisal (3 gems)     |   |      |         |            | 5 bc         |         | TRUE          | TRUE         | TRUE         | TRUE           |
 | Resizing Jewelry                 |   |      |         |            | 10 bc        |         | FALSE         | TRUE         | TRUE         | TRUE           |
 | Set Gem (<100 bc value)          |   |      |         |            | 45 bc        |         | FALSE         | TRUE         | TRUE         | FALSE          |
 | Set Gem (100-1K bc value)        |   |      |         |            | 75 bc        |         | FALSE         | FALSE        | TRUE         | TRUE           |
@@ -719,7 +719,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 | Name                                    | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
-| -[Typical Breakfast Options: Commer]-   |   |      |         |            |        |       |               |              |              |                |
+| -[Typical Breakfast Options: Commoner]-   |   |      |         |            |        |       |               |              |              |                |
 | “Meat” Stick                          | 1 | Misc | Mundane |            | 0.25   | 3 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Roasted Locusts                         | 1 | Misc | Mundane |            | 0.25   | 3 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cheese Omelet                           | 1 | Misc | Mundane |            | 0.25   | 4 cc  | FALSE         | FALSE        | FALSE        | FALSE          |

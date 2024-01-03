@@ -12,7 +12,7 @@ Brights are a group of beings that are most commonly associated with the Bright 
 
 #### [The Bound One](Brights/TheBoundOne/TheBoundOne.md)
 
-#### [The Beautiful One](Brights/TheBeatifulOne/TheBeatifulOne.md)
+#### [The Beautiful One](Brights/TheBeautifulOne/TheBeautifulOne.md)
 
 #### [The Bargainer](Brights/TheBargainer/TheBargainer.md)
 

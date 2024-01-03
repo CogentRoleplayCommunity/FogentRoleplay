@@ -2,11 +2,11 @@
 
 ![img](Runecraft.png)
 
-Runes are symbols that have been discovered, via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths (reffered to as Wizards or Mages in some cultures) use conscious thought to manipulate reality in a favorable direction.
+Runes are symbols that have been discovered, via academic endeavors, dreams, meditation and psychedelic experiences, that represent fundamental laws that govern reality. Runesmiths (referred to as Wizards or Mages in some cultures) use conscious thought to manipulate reality in a favorable direction.
 
 To draw a rune is not enough to have it take effect.
 
-First, a conscious being must create the Rune. For many this takes the form of staffs, wands, scrolls, or other arcane objects that rune can be embedded within. Since activating a rune generally puts strain on the object that holds it, these items themselves are genrally runecrafted to ensure relible use.
+First, a conscious being must create the Rune. For many this takes the form of staffs, wands, scrolls, or other arcane objects that rune can be embedded within. Since activating a rune generally puts strain on the object that holds it, these items themselves are generally runecrafted to ensure reliable use.
 
 Secondly, the user must deeply understand the rune's concept they are trying to invoke and be able to take it into conscious thought. Intelligence and mental energy seems to be the gateway to Runecraft, as minds that are too weak buckle under the weight of the knowledge of the fabric of reality, leading to horrific accidents, madness, and death.
 
@@ -37,7 +37,7 @@ It is known that the body can be a vessel for runes, though the effect often lea
 
 ## Pure Runes
 
-Pure Runes are the most basic states of reality. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versitile, Pure Runes are only limited by the creativity of their user.
+Pure Runes are the most basic states of reality. Pure Runes represent a single concept of reality such as Fire, Dark, or Soul. Quick to create and versatile, Pure Runes are only limited by the creativity of their user.
 
 ### Fire Rune
 

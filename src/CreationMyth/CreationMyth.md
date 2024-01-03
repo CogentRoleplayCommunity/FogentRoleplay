@@ -14,7 +14,7 @@ To aid the newly awakened beings in their struggle to survive and thrive in this
 
 The Beautiful One declared, "Thou has been given the passion of flesh to spread across the land."
 
-![img](../Gods/Brights/TheBeatifulOne/TheBeatifulOne.png)
+![img](../Gods/Brights/TheBeautifulOne/TheBeautifulOne.png)
 
 The Ravenous One commanded, "Thou shall indulge and consume of the world that I have granted."
 
@@ -54,7 +54,7 @@ Through this transformative event, a multitude of beings came into existence. Th
 
 ### The First of Brightkind
 
-With a divine touch, the Bright Lord bestowed the blessing upon the most devoted daughters of Fellkind his offspring.These were the first demi-brights or Brightkin.
+With a divine touch, the Bright Lord bestowed the blessing upon the most devoted daughters of Fellkind his offspring. These were the first demigods or Brightkin.
 
 ![img](../Races/Brightkin/Brightkin.png)
 

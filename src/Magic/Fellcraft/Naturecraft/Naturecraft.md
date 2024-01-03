@@ -6,7 +6,7 @@ Naturecraft users can narratively attempt the following:
 
 - Create plants
 - Manipulate plants
-- Plant Sense (Vibriations) to assist Perception Checks
+- Plant Sense (Vibrations) to assist Perception Checks
 
 #### Specialization: The Nature Dragon
 

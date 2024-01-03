@@ -88,7 +88,7 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 |      Description      | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice | AOE | Resource | Governing Attributes |
 | :-------------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :--: | :------: | :------------------: |
-| Small Thursting Point |     +0d6     |     +0d6     |      2      | Melee | Pierce |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
+| Small Thrusting Point |     +0d6     |     +0d6     |      2      | Melee | Pierce |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
 | Small Slashing Blade |     +1d6     |     +1d6     |      0      | Melee | Slash |        Rapid        |     +1d6     | None |   None   |     STR,RFX,INT     |
 |  Thrown Small Blade  |     +1d6     |     +1d6     |      0      | Short | Slash |        Quick        |     None     | None |   None   |     STR,RFX,INT     |
 |  Thrown Small Point  |     +0d6     |     +0d6     |      1      | Short | Pierce |        Quick        |     None     | None |   None   |     STR,RFX,INT     |
