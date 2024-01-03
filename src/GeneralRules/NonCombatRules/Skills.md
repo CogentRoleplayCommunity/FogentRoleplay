@@ -47,7 +47,7 @@ Perception is the art of detecting things through the senses, such as sight soun
 
 #### Sleight of Hand
 
-Represented by pickpockets or magicians. Activities that require highly dexterous control of the hands are covered by Sleight of Hand. While more obvious tasks such as picking pockets come to mind, the skill also covers things such as playing a guitar, driving a racing car, weaving a small basket or threading a needle. Also very applicable as an assist roll for finesse like weapons such as daggers, short swords, or rapiers.
+Represented by pickpockets or magicians. Activities that require highly dexterous control of the hands are covered by Sleight of Hand. While more obvious tasks such as picking pockets come to mind, the skill also covers things such as playing a guitar, weaving a small basket or threading a needle. Also very applicable as an assist roll for finesse like weapons such as daggers, short swords, or rapiers.
 
 #### Stealth
 
