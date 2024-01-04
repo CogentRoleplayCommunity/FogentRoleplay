@@ -2,13 +2,11 @@
 
 ![alt_text](HelenaMontolie.png)
 
-Unspent skill points: 2
-
 ## Attributes and Core Skills
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 4d6 | Acrobatics      | 0 | 3d6 | Communication     | 1 | 5d6 |
+| Athletics | 1 | 4d6 | Acrobatics      | 1 | 4d6 | Communication     | 2 | 6d6 |
 | Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 6d6 |
 | Endurance | 1 | 4d6 | Sleight of Hand | 1 | 4d6 | Survival          | 1 | 5d6 |
 | Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 4d6 |
