@@ -123,6 +123,14 @@ Additional Details:
 
 ## Backstory
 
-Arinoth the Enlightened was born in a jungle village. When Arinoth was a young boy, he went out into the jungle to gather food for his community. When he returned, his village was gone. The people and the trees were burnt to the ground. Arinoth suspects a dragon attacked that day, but he can’t say for sure. He will never have that certainty to comfort him.
+Arinoth the Enlightened was born in a jungle village. When Arinoth was a young boy, he went out into the jungle to gather food for his community. When he returned, his village was gone. The people and the trees were burnt to the ground. Arinoth suspects a dragon attacked that day, but he can't say for sure. He will never have that certainty to comfort him.
 
-After leaving his village to start a new life, Arinoth was adopted by monks who incited his desire to find his family and grow strong together again. From them, Arinoth has learned to calm his wild monkey mind and focus on his goals. Arinoth has left the monks to live a more independent life. He has found himself trying out for The Order of Silver to find and take revenge on whatever beast brutally destroyed his livelihood.
+After leaving his village to start a new life, Arinoth was adopted by monks who incited his desire to find his family and grow strong together again. From them, Arinoth has learned to calm his wild monkey mind and focus on his goals. Arinoth has left the monks to live a more independent life.
+
+Later in his life he spent time meditating in the Iron Forest to the east of Reddwall. While swinging amongst the great canopy, a branch snapped causing him to fall into a mysterious cavern full of a mysterious sandy powder. Unbenkownst to Arinoth, this dust was a drug called Mirage, which can cause deep slumber and strange delusions.
+
+As the monk wandered through the underground mirage network, the illusionary effects proved too overwhelming for his limited tolerance. Succumbing to the mesmerizing mirages, he fell into a deep slumber. Unbeknownst to him, Buroughbard, the molekin, discovered the sleeping figure and, with his keen sense of smell, partially blind eyes, and lapsing memory, mistook him for his long-lost chimpkin assistant, Arinoth.
+
+For a while, the chimpkin monk, still under the influence of the lingering mirage, believed himself to be Arinoth. It was only when moments of clarity broke through the illusions that he realized his true identity. Faced with the moral dilemma of aiding an entrepreneur whose business spreads the dubious mirage, Arinoth grappled with conflicting emotions. On one hand, he was enraged by the unethical practices, but on the other, he felt a strange gratitude towards Buroughbard, who genuinely cared for his missing assistant.
+
+Ultimately, Arinoth decided to guide the molekin entrepreneur towards a more virtuous path. Embracing his role as the newfound "Arinoth," the chimpkin monk used his unique perspective to influence Buroughbard's business decisions. Together, they embarked on a journey of transformation, seeking to balance the entrepreneur's ambitions with a sense of morality and enlightenment.
