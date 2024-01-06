@@ -20,6 +20,8 @@
 
 ### [Jing Hu](PC/JingHu/JingHu.md)
 
+### [Krater Ublee](./PC/KraterUblee/KraterUblee.md)
+
 ### [Krexis](PC/Krexis/Krexis.md)
 
 ### [Malgon Blackiron](PC/MalgonBlackiron/MalgonBlackiron.md)
@@ -52,7 +54,7 @@
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
-### [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
+### [Vex&#39;halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 
