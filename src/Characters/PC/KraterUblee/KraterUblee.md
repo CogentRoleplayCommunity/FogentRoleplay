@@ -13,12 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Lumber Yard Woker {STR} | 1 | 5d6 |
-| ------------------------ | :-: | :-: |
-| Large Hafted Axe {STR}  | 1 | 5d6 |
-|                          | 0 | 3d6 |
-|                          | 0 | 3d6 |
-|                          | 0 | 3d6 |
+| Lumber Yard Woker {STR} | 1 | 5d6 | Fellkin {ALL}    | 0  | 4d6 |
+| ------------------------ | :-: | :-: | ---------------- | -- | --- |
+| Large Hafted Axe {STR}  | 1 | 5d6 | Terracraft {ALL} | -1 | 3d6 |
 
 ## Effects
 
@@ -28,15 +25,15 @@
 | Physical Defense Level |                                0                                |          |                                                    Armor                                                    |
 |       Medium Size       |                      5x5 ft on battle map.                      |          |                                                                                                              |
 |   Language: Babelish   |                       Can speak Babelish.                       |          |                                                                                                              |
-|        Language:        |                           Can speak .                           |          |                                                                                                              |
+|     Language: Jotun     |                         Can speak Jotun.                         |          |                                                                                                              |
 |   Disabling: Delusion   | Belief of something to be real beyond the scope of simple faith. |          |                                                                                                              |
 |       Disabling:       |                                                                  |          |                                                                                                              |
 |    Inventory Weight    |                              0 lb                              |          |                                                  Equipment                                                  |
 |  Humanoid Carry Weight  |                              120 lb                              |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                 -0d6 to STR/RFX governed skills                 |          |                                           0% - 25% of carry weight                                           |
-| Humanoid Movement Speed |                              30 ft                              |          |                            50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|   Humanoid Swim Speed   |                              15 ft                              |          |                          15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                          |
-|  Humanoid Climb Speed  |                              15 ft                              |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+| Humanoid Movement Speed |                              35 ft                              |          |                            50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
+|   Humanoid Swim Speed   |                              25 ft                              |          |                          15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                          |
+|  Humanoid Climb Speed  |                              20 ft                              |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
 
 ## Combat Rolls
 
@@ -50,13 +47,12 @@
 
 ## Destiny Points: 0/3
 
-## Magic Resource: 0/3
+## Ichor: 2/2
 
 ## Equipment
 
 | Name | # | Class | Tier | Durability | LB | Value |
 | ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
 
 ## Containers
 
@@ -68,13 +64,13 @@
 
 ## Appearance
 
-Age: 18
+Age: 23
 
 Race: Ogrekin
 
-Height: 5' 11"
+Height: 6' 5"
 
-Weight: 178 lb
+Weight: 260 lb
 
 Body Type: Chubby
 
@@ -102,6 +98,8 @@ Krater is shy amd insecure. He spends a lot of time in his mind. He is very inse
 
 ## Backstory
 
-Lumberyard worker!! Woodsman!!! Grew up in the ironwood forests. Burrowbard was a family friend that lived with the Ublee family while he was at his lumberyard in the ironwood forests. Krater's father died working at the lumberyard and Burrowbard stepped in to raise Krater with his mother.
-
 Flaws: Krater is stubborn and finds it difficult to compromise. He gets tunnelvision.
+
+Krater grew up in the vast Ironwood forest to the east of Reddwall known as Irongrove. His family worked at one of the remote lumberyards responsible for the harvesting and exporting of ironwood. Tradgedy struck Karter's family when he was but a boy, when his father was killed in a tragic accident. Left without a father figure, Burrow Bard Stoneseeker, the owener and financer of the lumberyard opperation took Krater under his wing the best he could. Krater emmulated his now father figure, becoming increasly stubborn and difficult to compromise with.
+
+Karter grew to be quite the lumberman and proficent with his axe, working hard and always meeting quota. When his mother's health began deterioating, he saved his salary, enough to eventually move him and his mom towards Reddwall to seek better healthcare for his mother's strange disease. Burrowbard, kind as ever, helped them find a place, haggle down the price, and would frequenly check in on the two. Karter, well versed in the Ironwood trade, worked for Burrowbard at one of his Ironwood export docks.
