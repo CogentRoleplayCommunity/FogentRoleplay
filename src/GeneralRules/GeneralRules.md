@@ -24,7 +24,7 @@
 
 ### [Vision and Light](NonCombatRules/LightAndVision.md)
 
-### [Vocation Rework](NonCombatRules/VocationRework.md)
+### [Vocations](NonCombatRules/Vocations.md)
 
 ## Combat Rules
 

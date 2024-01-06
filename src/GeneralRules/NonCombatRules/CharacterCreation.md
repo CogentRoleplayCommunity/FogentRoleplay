@@ -1,10 +1,10 @@
 # Character Creation
 
-This document is introduces is a step by step walk through of how to build a character.
+This document introduces a step by step walk through of how to build a character.
 
 ## Step 0: Javk Wick's character creation house rules (Optional)
 
-Howdy all, this is Javk Wick. Here are some house rules that for character creation that I implement almost all of my campaigns, especially with brand new players. They have served me very well and I'd highly encourage you to use them to avoid an some common pitfalls.
+Howdy all, this is Javk Wick. Here are some house rules for character creation that I implement almost all of my campaigns, especially with brand new players. They have served me very well and I'd highly encourage you to use them to avoid an some common pitfalls.
 
 ### Player Characters can't start evil
 
@@ -12,7 +12,7 @@ Unless the narrator is running an evil campaign, player characters can't start a
 
 Reason being, the majority of players won't be evil characters. Early on, as at this point there is no connection between any of the characters, the majority good portion of the party will either boot out or kill the evil character for one of their evil deeds. With new players this will undoubtedly cause some real world friction and the now narratively dead player will have to make a whole new character mid campaign.
 
-However, notice how I said "Player Characters can't start evil" and not "No evil Player Characters". The reality is, that it is awesome for the narrative when player characters have a tight knit group, and one of the characters turns to the dark side for narratively in their mind compelling reasons. Since all the player characters have history with one another, they are more likely to not boot or kill the now evil character, and instead try to bring them back to the light. This inevitably becomes the heart of the story, and is extremely gripping. Anakin Skywalker is the best example of this effect in narrative, as we are able to watch his downfall.
+However, notice how I said "Player Characters can't start evil" and not "No evil Player Characters". The reality is, that it is awesome for the narrative when player characters have a tight knit group, and one of the characters turns to the dark side for in their mind compelling reasons. Since all the player characters have history with one another, they are more likely to not boot or kill the now evil character, and instead try to bring them back to the light. This inevitably becomes the heart of the story, and is extremely gripping. Anakin Skywalker is the best example of this effect in narrative, as we are able to watch his downfall.
 
 ### No joke Player Characters
 
@@ -22,7 +22,7 @@ You can easily spot a joke character when they are completely clashing with the 
 
 ### No antisocial Player Characters
 
-No antisocial/loner characters constantly split the group and never interact with the other player characters.
+No antisocial/loner characters that constantly split the group and never interact with the other player characters.
 
 The player characters are the main characters and main characters interact with one another. They should also probably like the other characters or at least have a reason why they have to work together. Table top roleplay games are at their core about spending quality time with your friends. If a player wants to have the loner experience, they can go play Skyrim or something.
 
@@ -69,7 +69,7 @@ These archetypes can of course depends on the setting you are playing in, though
 
 ## Step 2: Understand what tier of play you're playing
 
-Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at initiate tier.
+Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at initiate tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play. Once you've gained 6 skill points, you move up to the next tier of play.
 
 ### Initiate Tier (D&D Level 1-2)
 
@@ -115,7 +115,7 @@ Starting Skill Points: 18
 
 ## Step 3: Write a rough Backstory
 
-Given the archetype you chose, tier of play, and world setting the narrator has chosen, write a rough backstory about your character. You'll come back later at the end polish it, just get across the broad strokes
+Given the archetype you chose, the tier of play, and world setting the narrator has chosen, write a rough backstory about your character. You'll come back later at the end to polish it, but just get across the broad strokes at this stage.
 
 Here are some important questions to ask about your character:
 
@@ -135,7 +135,7 @@ Here are some important questions to ask about your character:
 
 ## Step 4: Spend your Vocation Points
 
-Regardless of the tier of play, you'll have vocation points to spend. These are points you get to spend on your vocation, whatever your characters life path/job has been. If you have multiple vocation points to spend, then you could put them all into one vocation or into multiple vocations. Each vocation point allows you to increase the level of said vocation by 1.
+Regardless of the tier of play, you'll have vocation points to spend. These are points you get to spend on your vocation, whatever your character's life path/job has been. If you have multiple vocation points to spend, then you could put them all into one vocation or into multiple vocations. Each vocation point allows you to increase the level of said vocation by 1.
 
 Luckily, if you already picked an archetype that you are going for, you've probably already have your vocation. For instance, if I wanted to play a Rogue archetype, than my vocation could just be Rogue.
 
@@ -145,10 +145,22 @@ Disabling characteristics represent flaws your character has. This is an essenti
 
 Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
 
+[Disabling Characteristic List](https://github.com/JackDanna/FallenCharacterSheet/blob/main/src/Server/FallenData/CharacterEffectForDisplayData.csv#L19)
+
 ## Step 6: Spend your Attribute Points
 
 Attribute represent the core characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, ect...).
 
+[Attributes in depth](./Attributes.md)
+
 ## Step 7: Spend your Skill Points
 
-Each Skill Point can be used to increase one skill level by 1. It should be noted that no skill can increase above the "Skill/Vocation Level Cap" as defined by your tier of play.
+Each Skill Point can be used to increase one core skill, vocation, or combat vocational skill level by 1. It should be noted that no skill can increase above the "Skill/Vocation Level Cap" as defined by your tier of play.
+
+[Core Skills](./Skills.md#core-skills)
+
+[Vocation](./Vocations.md#vocations)
+
+[Combat Vocational Skills](./Vocations.md#combat-vocational-skills)
+
+## Step 8:
