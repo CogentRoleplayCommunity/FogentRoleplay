@@ -10,6 +10,8 @@
 
 ### [Challenge Levels](NonCombatRules/ChallengeLevels.md)
 
+### [Character Creation](NonCombatRules/CharacterCreation.md)
+
 ### [Destiny Points](NonCombatRules/DestinyPoints.md)
 
 ### [Dice Pools](NonCombatRules/DicePools.md)
