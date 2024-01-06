@@ -1,43 +1,154 @@
 # Character Creation
 
-## Disabling Characteristics
+This document is introduces is a step by step walk through of how to build a character.
 
-Represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
+## Step 0: Javk Wick's character creation house rules (Optional)
 
-## Tiers of play
+Howdy all, this is Javk Wick. Here are some house rules that for character creation that I implement almost all of my campaigns, especially with brand new players. They have served me very well and I'd highly encourage you to use them to avoid an some common pitfalls.
+
+### Player Characters can't start evil
+
+Unless the narrator is running an evil campaign, player characters can't start as evil.
+
+Reason being, the majority of players won't be evil characters. Early on, as at this point there is no connection between any of the characters, the majority good portion of the party will either boot out or kill the evil character for one of their evil deeds. With new players this will undoubtly cause some real world friction and the now narratively dead player will have to make a whole new character mid campaign.
+
+However, notice how I said "Player Characters can't start evil" and not "No evil Player Characters". The reality is, that it is awesome for the narrative when player characters have a tight nitt group, and one of the characters turns to the dark side for narratively in their mind compelling reasons. Since all the player characters have history with one another, they are more likely to not boot or kill the now evil character, and instead try to bring them back to the light. This enevitably becomes the heart of the story, and is extremely gripping. Anakin Skywalker is the best example of this effect in narrative, as we are able to watch his downfall.
+
+### No joke Player Characters
+
+Unless the narrator is running a goofy/silly campaign, no joke player characters.
+
+You can easily spot a joke character when they are completely clashing with the themes and world setting that the narrator has chosen for the campaign. For example, it would be completely out of place to have a character that is essentially Spongebob in a gritty dark fantasy setting. These characters end up ruining the immersion of other players and make it difficult for the narrator to get across the world he/she has envisioned.
+
+### No antisocial Player Characters
+
+No antisocail/loner characters constantly split the group and never interact with the other player characters.
+
+The player characters are the main characters and main characters interact with one another. They should also probably like the other characters or at least have a reason why they have to work together. Table top roleplay games are at their core about spending quality time with your friends. If a player wants to have the loner experience, they can go play Skyrim or something.
+
+## Step 1: Start with an archetype
+
+For people who have never made a character before, it can be quite daunting to know where to start. Fear not, as you likely already have all the knowledge you need from the movies, shows, books, and other media you have watched through your life.
+
+Picking an archetype is a great starting place to think about a character. It doesn't mean that your character has to stick purely to the archetype. It is more of a jumping off point.
+
+These archetypes can of course depends on the setting you are playing in, though you'd be suprised how much a wizards in a fantasy setting is narratively similar to a techomancer hacker in a cyber punk setting. What follows is a non-exhaustive list of some common archtypes found in fantasy.
+
+### Strength Archetypes
+
+- The Fighter
+- The Warrior
+- The Knight
+- The Barbarian
+
+### Reflex/Dexterity Archtypes
+
+- The Rogue
+- The Thief
+- The Assassin
+- The Martial Artist
+
+### Intelligence Archtypes
+
+- The Wizard (Abilities gained through intense study)
+- The Bard (Abilities gained through learning to socially infulence people)
+- The Charlatan
+- The Detective
+
+### Other Magical Archetypes
+
+- The Warlock (Abilities gained through a pact with a powerful entity)
+- The Sorcerer (Abilities gained through their bloodline)
+- The Druid (Abilities gained through their connection to nature)
+
+### Additional Archetypes
+
+- The Criminal
+- The Orphan
+- The Local Hero
+
+## Step 2: Understand what tier of play you're playing
+
+Tiers of play (which are commonly called levels in ttrpg) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at initiate tier.
 
 ### Initiate Tier (D&D Level 1-2)
 
-Maximum Skill Level: 2
+This tier represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-Starting Attribute Points: 1
-
-Starting Skill Points: 6
+Skill/Vocation Level Cap: 2
 
 Given Vocation Points: 1
 
 Max Skill Points from Disabling Characteristics: 2
 
+Starting Attribute Points: 1
+
+Starting Skill Points: 6
+
 ### Adept Tier (D&D Level 3-4)
 
-Maximum Skill Level: 3
+This tier represent a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
-Starting Attribute Points: 2
-
-Starting Skill Points: 12
+Skill/Vocation Level Cap: 3
 
 Given Vocation Points: 2
 
 Max Skill Points from Disabling Characteristics: 3
 
+Starting Attribute Points: 2
+
+Starting Skill Points: 12
+
 ### Veteran Tier (D&D Level 5-6)
 
-Maximum Skill Level: 4
+This tier represent a group of veteran characters who made a name for themselves in their larger region.
+
+Skill/Vocation Level Cap: 4
+
+Given Vocation Points: 3
+
+Max Skill Points from Disabling Characteristics: 3
 
 Starting Attribute Points: 3
 
 Starting Skill Points: 18
 
-Given Vocation Points: 3
+## Step 3: Write a rough Backstory
 
-Max Skill Points from Disabling Characteristics: 3
+Given the archetype you chose, tier of play, and world setting the narrator has chosen, write a rough backstory about your character. You'll come back later at the end polish it, just get across the broad strokes
+
+Here are some important questions to ask about your character:
+
+- What is your name?
+- Where are you from?
+- What is their sex?
+- What is their age?
+- What is their race?
+- Does your race have innate abilities like magic?
+- What strenghts do you have?
+- What flaws do you have?
+- What is their appearance (hair color, eye color, skin color, height, weight, body type)? Finding some character art or generating some ai art is very usefule for this step.
+- What is their disposition (i.e. how do they act most of the time)?
+- What are their beliefs/morality?
+- What are their goals/aspirations?
+- Do they have friends/family?
+
+## Step 4: Spend your Vocation Points
+
+Regardless of the tier of play, you'll have vocation points to spend. These are points you get to spend on your voction, whatever your characters lifepath/job has been. If you have multiple vocation points to spend, then you could put them all into one vocation or into multiple vocations. Each vocation point allows you to increase the level of said vocation by 1.
+
+Luckily, if you already picked an archetype that you are going for, you've probably already have your vocation. For instance, if I wanted to play a Rogue archetype, than my vocation could just be Rogue.
+
+## Step 5: Choose Disabling Characteristics
+
+Disabling characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the narrators approval. It is highly encourgaged to take disablings as they make characters far more insteresting.
+
+Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
+
+## Step 6: Spend your Attribute Points
+
+Attribute represent the core characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, ect...).
+
+## Step 7: Spend your Skill Points
+
+Each Skill Point can be used to increase one skill level by 1. It should be noted that no skill can increase above the "Skill/Vocation Level Cap" as defiend by your tier of play.
