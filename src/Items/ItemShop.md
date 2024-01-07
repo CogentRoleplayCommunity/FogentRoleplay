@@ -104,38 +104,38 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
-| Name           | # | Type                                                            | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| -------------- | - | --------------------------------------------------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
-| Dagger         | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1      | 2 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Shortsword     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1.5    | 10 bc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Handaxe        | 1 | Small Hafted Blade                                              | Mundane | 12/12      | 2      | 10 bc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Sickle         | 1 | Small Hafted Blade                                              | Mundane | 12/12      | 2      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Light Hammer   | 1 | Small Hafted Blunt                                              | Mundane | 12/12      | 2      | 1 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Arming Sword   | 1 | Medium Thrusting Sword, Medium Slashing Sword                   | Mundane | 12/12      | 2      | 2 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Rapier         | 1 | Medium Thrusting Sword                                          | Mundane | 12/12      | 2      | 12 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Scimitar       | 1 | Medium Slashing Sword                                           | Mundane | 12/12      | 2      | 25 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Battleaxe      | 1 | Medium Hafted Axe                                               | Mundane | 12/12      | 4      | 10 bc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Flail          | 1 | Medium Hafted Blunt                                             | Mundane | 12/12      | 3      | 10 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Morning Star   | 1 | Medium Hafted Blunt, Medium Hafted Point                        | Mundane | 12/12      | 4      | 15 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Mace           | 1 | Medium Hafted Blunt                                             | Mundane | 12/12      | 3      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Warhammer/pick | 1 | Medium Hafted Blunt, Medium Hafted Point                        | Mundane | 12/12      | 4      | 9 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Longsword      | 1 | Large Thrusting Sword, Large Slashing Sword                     | Mundane | 12/12      | 3      | 15 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Glaive         | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 6      | 20 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Greataxe       | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 7      | 30 bc | FALSE         | TRUE         | TRUE         | TRUE           |
-| Maul           | 1 | Large Hafted Blunt                                              | Mundane | 12/12      | 7      | 10 bc | FALSE         | TRUE         | TRUE         | TRUE           |
-| Shortsword     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1.5    | 10 bc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Trident        | 1 | Short Spear, Thrown Short Spear                                 | Mundane | 12/12      | 3      | 5 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
-| Poleaxe        | 1 | Large Hafted Blunt, Large Hafted Blade, Large Hafted Point      | Mundane | 12/12      | 6      | 40 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Javelin        | 1 | Short Spear, Thrown Short Spear                                 | Mundane | 12/12      | 3      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Greatsword     | 1 | Thrusting Greatsword, Slashing Greatsword                       | Mundane | 12/12      | 6      | 50 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Swordstaff     | 1 | Reach Hafted Blade, Longspear                                   | Mundane | 12/12      | 6      | 50 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Halberd        | 1 | Reach Hafted Blade, Reach Hafted Point                          | Mundane | 12/12      | 7      | 20 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Long Poleaxe   | 1 | Reach Hafted Blunt, Reach Hafted Blade, Reach Hafted Point      | Mundane | 12/12      | 7      | 41 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Lance          | 1 | Reach Hafted Point                                              | Mundane | 12/12      | 11     | 10 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Long Spear     | 1 | Longspear                                                       | Mundane | 12/12      | 5      | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Pike           | 1 | Longspear                                                       | Mundane | 12/12      | 5      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Man Catcher    | 1 | Man Catcher                                                     | Mundane | 12/12      | 8      | 5 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
-| Swordbreaker   | 1 | Small Slashing Blade                                            | Mundane | 12/12      | 1      | 25 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Name           | # | Type                                                            | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| -------------- | - | --------------------------------------------------------------- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
+| Dagger         | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1      | 2 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
+| Shortsword     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1.5    | 10 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Handaxe        | 1 | Small Hafted Blade                                              | Mundane | 12/12      | 2      | 10 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Sickle         | 1 | Small Hafted Blade                                              | Mundane | 12/12      | 2      | 5 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
+| Light Hammer   | 1 | Small Hafted Blunt                                              | Mundane | 12/12      | 2      | 1 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
+| Arming Sword   | 1 | Medium Thrusting Sword, Medium Slashing Sword                   | Mundane | 12/12      | 2      | 2 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
+| Rapier         | 1 | Medium Thrusting Sword                                          | Mundane | 12/12      | 2      | 12 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
+| Scimitar       | 1 | Medium Slashing Sword                                           | Mundane | 12/12      | 2      | 25 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Battleaxe      | 1 | Medium Hafted Axe                                               | Mundane | 12/12      | 4      | 10 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Flail          | 1 | Medium Hafted Blunt                                             | Mundane | 12/12      | 3      | 10 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Morning Star   | 1 | Medium Hafted Blunt, Medium Hafted Point                        | Mundane | 12/12      | 4      | 15 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Mace           | 1 | Medium Hafted Blunt                                             | Mundane | 12/12      | 3      | 5 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
+| Warhammer/pick | 1 | Medium Hafted Blunt, Medium Hafted Point                        | Mundane | 12/12      | 4      | 9 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
+| Longsword      | 1 | Large Thrusting Sword, Large Slashing Sword                     | Mundane | 12/12      | 3      | 15 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Glaive         | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 6      | 20 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Dane Axe       | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 7      | 11 bc | FALSE         | TRUE         | TRUE         | TRUE           |
+| Maul           | 1 | Large Hafted Blunt                                              | Mundane | 12/12      | 7      | 10 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Shortsword     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1.5    | 10 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Trident        | 1 | Short Spear, Thrown Short Spear                                 | Mundane | 12/12      | 3      | 5 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Poleaxe        | 1 | Large Hafted Blunt, Large Hafted Blade, Short Spear             | Mundane | 12/12      | 6      | 40 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
+| Javelin        | 1 | Short Spear, Thrown Short Spear                                 | Mundane | 12/12      | 3      | 5 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
+| Greatsword     | 1 | Thrusting Greatsword, Slashing Greatsword                       | Mundane | 12/12      | 6      | 50 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Swordstaff     | 1 | Reach Hafted Blade, Longspear                                   | Mundane | 12/12      | 6      | 50 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Halberd        | 1 | Reach Hafted Blade, Reach Hafted Point                          | Mundane | 12/12      | 7      | 20 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Long Poleaxe   | 1 | Reach Hafted Blunt, Reach Hafted Blade, Reach Hafted Point      | Mundane | 12/12      | 7      | 41 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
+| Lance          | 1 | Reach Hafted Point                                              | Mundane | 12/12      | 11     | 10 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
+| Long Spear     | 1 | Longspear                                                       | Mundane | 12/12      | 5      | 2 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
+| Pike           | 1 | Longspear                                                       | Mundane | 12/12      | 5      | 5 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
+| Man Catcher    | 1 | Man Catcher                                                     | Mundane | 12/12      | 8      | 5 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Swordbreaker   | 1 | Small Slashing Blade                                            | Mundane | 12/12      | 1      | 25 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
 
@@ -572,7 +572,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | -[Tools]-                        |   |      |         |            |              |         |               |              |              |                |
 | Jeweler's Tools                  | 1 | Misc | Mundane |            | 2            | 25 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
 | -[Services]-                     |   |      |         |            |              |         |               |              |              |                |
-| Gemstone Appraisal (3 gems)     |   |      |         |            | 5 bc         |         | TRUE          | TRUE         | TRUE         | TRUE           |
+| Gemstone Appraisal (3 gems)      |   |      |         |            | 5 bc         |         | TRUE          | TRUE         | TRUE         | TRUE           |
 | Resizing Jewelry                 |   |      |         |            | 10 bc        |         | FALSE         | TRUE         | TRUE         | TRUE           |
 | Set Gem (<100 bc value)          |   |      |         |            | 45 bc        |         | FALSE         | TRUE         | TRUE         | FALSE          |
 | Set Gem (100-1K bc value)        |   |      |         |            | 75 bc        |         | FALSE         | FALSE        | TRUE         | TRUE           |
@@ -719,7 +719,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 | Name                                    | # | Type | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | --------------------------------------- | - | ---- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
-| -[Typical Breakfast Options: Commoner]-   |   |      |         |            |        |       |               |              |              |                |
+| -[Typical Breakfast Options: Commoner]- |   |      |         |            |        |       |               |              |              |                |
 | “Meat” Stick                          | 1 | Misc | Mundane |            | 0.25   | 3 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Roasted Locusts                         | 1 | Misc | Mundane |            | 0.25   | 3 cc  | FALSE         | FALSE        | FALSE        | FALSE          |
 | Cheese Omelet                           | 1 | Misc | Mundane |            | 0.25   | 4 cc  | FALSE         | FALSE        | FALSE        | FALSE          |

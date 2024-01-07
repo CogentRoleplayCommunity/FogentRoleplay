@@ -163,4 +163,25 @@ Each Skill Point can be used to increase one core skill, vocation, or combat voc
 
 [Combat Vocational Skills](./Vocations.md#combat-vocational-skills)
 
-## Step 8:
+## Step 8: Determine starting wealth and buy equipment
+
+Your starting wealth is determined narratively by you position in life as defined in your backstory. Your narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
+
+|              Name              | Starting Wealth | Average Wealth |
+| :----------------------------: | :-------------: | :------------: |
+|            Made up            |     5d4 bc     |     13 bc     |
+|            Made up            |   1d4 x 10 bc   |     25 bc     |
+|        Barbarian, Druid        |   2d4 x 10 bc   |     50 bc     |
+|            Sorcerer            |   3d4 x 10 bc   |     75 bc     |
+|     Rogue, Warlock, Wizard     |   4d4 x 10 bc   |     100 bc     |
+| Fighter, Paladin, Ranger, Bard |   5d4 x 10 bc   |     125 bc     |
+
+
+|                       Socioeconomic status                       | Starting Wealth | Average Wealth |
+| :--------------------------------------------------------------: | :-------------: | :------------: |
+|                               Poor                               |     5d4 bc     |     13 bc     |
+|                  Untrained Labor ( Farm hand )                  |   1d4 x 10 bc   |     25 bc     |
+|              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc     |
+|             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc     |
+| High Skilled Labor ( Accomplished thief, educated professions ) |   4d4 x 10 bc   |     100 bc     |
+|                     Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |
