@@ -1,4 +1,4 @@
-# Vocation Rework
+# Vocations
 
 Vocations represent your character's job, class, or life path. You should check with your narrator to make sure that you exists in the world. Some traditional fantasy example vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other example include Vagrant, Chef, or Sailor. Each vocation has one or many governing attributes that logically would govern it.
 
@@ -6,11 +6,15 @@ Vocational skills are skills that would logically fall under the vocation. All v
 
 There are two kinds of vocational skills, combat and non-combat vocational skills.
 
+## Combat Vocational Skills
+
 Combat vocational skill include all weapon skill such as "Small Blade", "Medium Sword", "Shortspear", ect... They also include magic skills such as Fallen's "Blazecraft", "Sonocraft", "Polycraft", ect... These skills require skill point to be increased.
+
+## Non-Combat Vocational Skills
 
 Non-combat vocational skills logically fall under the vocation and is not covered already by another core skill. Player's can make as many of these skills as they want on the fly with approval from the narrator, though this would mainly be as a reminder to have on the sheet. These skills have the same level as the vocation which they fall under. Skill points are not spent on these skills. You can not assist these skills with the vocation they are fall under.
 
-Example Vocation: Chef
+## Example Vocation
 
 Let's assume I have 1 STR, 1 RFX, and 1 INT. I take the Vocation "Chef" and give it the governing attribute RFX and INT. RFX makes sense since Chef's have to use their senses to smell, taste, and quick fine motor control. INT makes sense as they have to have a vast knowledge of recipes and flavor combinations. I increase it to level 2. My "Chef" dice pool is 7d6.
 
