@@ -57,10 +57,12 @@ You unlock an amount of Magic Skill depending on your Magic Vocation level. All 
 
 | Magic Vocation Level | Magic Vocational Skills known |
 | -------------------- | ----------------------------- |
-| 1                    | 2                             |
-| 2                    | 3                             |
-| 3                    | 4                             |
-| 4                    | 5                             |
+| -1                   | 1                             |
+| 0                    | 2                             |
+| 1                    | 3                             |
+| 2                    | 4                             |
+| 3                    | 5                             |
+| 4                    | 6                             |
 
 ## Magic Skills
 
