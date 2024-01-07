@@ -7,7 +7,7 @@
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 2 | 5d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Climb     | 1 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
 
@@ -49,7 +49,7 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  6d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-## Destiny Points: 0/3
+## Destiny Points: 2/3
 
 ## Ichor: 0/0
 
@@ -116,6 +116,6 @@ Left on the doorstep of a guards barrack in the Crimsonward of the great City of
 
 Skuath did sometimes wonder where he came from. Who his real parents were and how he ended up on that doorstep all those years ago. But these thoughts were fleeting, as between Commander Royce and his fellow cadets, Skuath already had his family.
 
-However, two weeks after his cadet graduation ceremony, malevolence struck. Commander Royce, always aiding the orphaned wards of the state, was brutally attacked. A young Dhampir serial killer named Helena Monitolie, shattered Royce’s mind leaving her in a coma, and murdered all of Skuath’s classmates while he was off on patrol. Unable to cope with the pure malevolence, something broke in Skuath, never quite healing right. Reddwall, his home for his entire life, became a never ending barrage of painful memories. 
+However, two weeks after his cadet graduation ceremony, malevolence struck. Commander Royce, always aiding the orphaned wards of the state, was brutally attacked. A young Dhampir serial killer named Helena Monitolie, shattered Royce’s mind leaving her in a coma, and murdered all of Skuath’s classmates while he was off on patrol. Unable to cope with the pure malevolence, something broke in Skuath, never quite healing right. Reddwall, his home for his entire life, became a never ending barrage of painful memories.
 
 Skuath left the guard not quite sure what to do with his life. A local pillar of the community noticed the plight of young Skuath and took him in. He gave him work guarding Ironwood lumber wagons which Burrowbard owned and helped him regain some sembalance of purpose as a protector. Any reason to leave Reddwall was good enough for Skuath.
