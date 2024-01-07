@@ -2,6 +2,8 @@
 
 ![NotMyImage](./KraterUblee.jpg)
 
+Unspent Skill Point: 1
+
 ## Attributes and Core Skills
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
@@ -47,7 +49,7 @@
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-## Destiny Points: 0/3
+## Destiny Points: 1/3
 
 ## Ichor: 2/2
 
