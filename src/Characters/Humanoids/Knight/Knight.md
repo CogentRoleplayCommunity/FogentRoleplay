@@ -9,7 +9,7 @@
 | Athletics | 2 | 7d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 5d6 |
 | Climb     | 1 | 6d6 | Perception      | 1 | 4d6 | General Knowledge | 1 | 4d6 |
 | Endurance | 1 | 6d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 3 | 7d6 | Stealth         | 0 | 3d6 | Willpower         | 2 | 5d6 |
+| Lift      | 2 | 6d6 | Stealth         | 0 | 3d6 | Willpower         | 2 | 5d6 |
 
 ## Vocations and Vocational Skills
 
@@ -19,17 +19,17 @@
 
 ## Effects
 
-|          Name          |             Effect             | Duration |                                                    Source                                                    |
-| :---------------------: | :-----------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                7                |          |                                                    Armor                                                    |
-|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                              |
-|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                              |
-|    Inventory Weight    |              68 lb              |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |             280 lb             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|      Medium Weight      | -1d6 to STR/RFX governed skills |          |                                          25% - 50% of carry weight                                          |
-| Humanoid Movement Speed |              40 ft              |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
-|   Humanoid Swim Speed   |              35 ft              |          |                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                           |
-|  Humanoid Climb Speed  |              30 ft              |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+|          Name          |             Effect             | Duration |                                                                   Source                                                                   |
+| :---------------------: | :-----------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| Physical Defense Level |                7                |          |                                                                   Armor                                                                   |
+|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                                            |
+|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                                            |
+|    Inventory Weight    |              68 lb              |          |                                                                 Equipment                                                                 |
+|  Humanoid Carry Weight  |             300 lb             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|      Medium Weight      | -1d6 to STR/RFX governed skills |          |                                                         25% - 50% of carry weight                                                         |
+| Humanoid Movement Speed |              40 ft              |          |                                         30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
+|   Humanoid Swim Speed   |              35 ft              |          |                                          15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                          |
+|  Humanoid Climb Speed  |              30 ft              |          |                                            15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                            |
 
 ## Combat Rolls
 
