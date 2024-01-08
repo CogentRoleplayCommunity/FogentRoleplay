@@ -29,9 +29,7 @@
 |   Disabling: Delusion   |  Sees his father all the time though doesn't think his is material.  |          |                                                                                                              |
 |   Disabling: Stubborn   | If he doesn't get his way he will rage out and become uncooperative. |          |                                                                                                              |
 |    Inventory Weight    |                                41 lb                                |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |                                260 lb                                |          | 120 lb (Base), +100 lb (per STR above 0),
--50 lb (per STR below 0), + 40 lb (per Lift above),
-- 20 lb (per Lift above/below 0) |
+|  Humanoid Carry Weight  |                                260 lb                                |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                   -0d6 to STR/RFX governed skills                   |          |                                           0% - 25% of carry weight                                           |
 | Humanoid Movement Speed |                                35 ft                                |          |                            50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
 |   Humanoid Swim Speed   |                                25 ft                                |          |                          15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                          |
