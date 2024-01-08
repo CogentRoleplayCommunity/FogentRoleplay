@@ -9,7 +9,7 @@
 | Athletics | 2 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
+| Lift      | 0 | 4d6 | Stealth         | 1 | 3d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -49,11 +49,11 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  9d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-## Destiny Points: 0/3
+## Destiny Points: 2/3
 
 ## Ichor: 0/0
 
-## Equipment:
+## Equipment: need Thrax Morningstar
 
 | Name                          | # |       Class       |   Tier   | Durability |  LB  |  Value  |
 | ----------------------------- | :-: | :----------------: | :------: | :--------: | :--: | :-----: |
