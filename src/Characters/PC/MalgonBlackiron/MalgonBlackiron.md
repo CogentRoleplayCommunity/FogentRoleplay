@@ -30,7 +30,9 @@
 |       Language: Primal       |                       Can speak Primal.                       |          |                                                                                                              |
 | Disabling: Incapable of Lying |          His people do not lie and neither does he.          |          |                                                                                                              |
 |       Inventory Weight       |                             49 lb                             |          |                                                  Equipment                                                  |
-|     Humanoid Carry Weight     |                            220 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
+|     Humanoid Carry Weight     |                            220 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),
+-50 lb (per STR below 0), + 40 lb (per Lift above),
+- 20 lb (per Lift above/below 0) |
 |         Light Weight         |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
 |    Humanoid Movement Speed    |                             40 ft                             |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
 |      Humanoid Swim Speed      |                             35 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
