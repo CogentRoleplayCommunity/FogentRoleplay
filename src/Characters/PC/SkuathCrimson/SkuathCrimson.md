@@ -7,7 +7,7 @@
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 2 | 5d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Climb     | 1 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
 
@@ -28,7 +28,7 @@
 |        Language:        |                         Can speak .                         |          |                                                                                                              |
 |  Disabling: Acrophobia  |                 Debilitating fear of heights.                 |          |                                                                                                              |
 |    Inventory Weight    |                           28.25 lb                           |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
+|  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
 | Humanoid Movement Speed |                             50 ft                             |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
 |   Humanoid Swim Speed   |                             25 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
@@ -49,7 +49,7 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  6d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-## Destiny Points: 0/3
+## Destiny Points: 2/3
 
 ## Ichor: 0/0
 
@@ -116,6 +116,6 @@ Left on the doorstep of a guards barrack in the Crimsonward of the great City of
 
 Skuath did sometimes wonder where he came from. Who his real parents were and how he ended up on that doorstep all those years ago. But these thoughts were fleeting, as between Commander Royce and his fellow cadets, Skuath already had his family.
 
-However, two weeks after his cadet graduation ceremony, malevolence struck. Commander Royce, always aiding the orphaned wards of the state, was brutally attacked. A young Dhampir serial killer named Helena Monitolie, shattered Royce’s mind leaving her in a coma, and murdered all of Skuath’s classmates while he was off on patrol. Unable to cope with the pure malevolence, something broke in Skuath, never quite healing right. Reddwall, his home for his entire life, became a never ending barrage of painful memories. 
+However, two weeks after his cadet graduation ceremony, malevolence struck. Commander Royce, always aiding the orphaned wards of the state, was brutally attacked. A young Dhampir serial killer named Helena Monitolie, shattered Royce’s mind leaving her in a coma, and murdered all of Skuath’s classmates while he was off on patrol. Unable to cope with the pure malevolence, something broke in Skuath, never quite healing right. Reddwall, his home for his entire life, became a never ending barrage of painful memories.
 
 Skuath left the guard not quite sure what to do with his life. A local pillar of the community noticed the plight of young Skuath and took him in. He gave him work guarding Ironwood lumber wagons which Burrowbard owned and helped him regain some sembalance of purpose as a protector. Any reason to leave Reddwall was good enough for Skuath.

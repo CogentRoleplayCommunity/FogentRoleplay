@@ -9,14 +9,15 @@
 | Athletics | 2 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
+| Lift      | 0 | 4d6 | Stealth         | 1 | 3d6 | Willpower         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Fighter {STR}      | 2 | 6d6 | Fellkin {ALL} | 0  | 4d6 |
+| Warrior {STR}     | 2 | 6d6 | Fellkin {ALL} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ------------- | -- | --- |
 | Large Hafted {ALL} | 2 | 6d6 | Cryocraft     | -1 | 3d6 |
 | Heavy Bow {ALL}    | 2 | 6d6 |               |    |     |
+| War Knowledge      |  | 5d6 |               |    |     |
 
 ## Effects
 
@@ -29,7 +30,7 @@
 |       Language: Primal       |                       Can speak Primal.                       |          |                                                                                                              |
 | Disabling: Incapable of Lying |          His people do not lie and neither does he.          |          |                                                                                                              |
 |       Inventory Weight       |                             49 lb                             |          |                                                  Equipment                                                  |
-|     Humanoid Carry Weight     |                            220 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
+|     Humanoid Carry Weight     |                            220 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 |         Light Weight         |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
 |    Humanoid Movement Speed    |                             40 ft                             |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
 |      Humanoid Swim Speed      |                             35 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
@@ -48,11 +49,11 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  9d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-## Destiny Points: 0/3
+## Destiny Points: 2/3
 
 ## Ichor: 0/0
 
-## Equipment:
+## Equipment: need Thrax Morningstar
 
 | Name                          | # |       Class       |   Tier   | Durability |  LB  |  Value  |
 | ----------------------------- | :-: | :----------------: | :------: | :--------: | :--: | :-----: |

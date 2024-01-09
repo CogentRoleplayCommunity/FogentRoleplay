@@ -64,7 +64,7 @@ Example of connections to Burrowbard:
 - For magic characters, Burrowbard was at one point an adventurer and steered the player character away from the darker aspects of their magic
 - He was a father figure who helped a character relearn their self worth
 
-``The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.``
+``The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has already headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.``
 
 ## Planning for Special player moments
 
