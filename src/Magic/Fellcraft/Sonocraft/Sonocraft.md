@@ -9,7 +9,6 @@ Sonocraft users can narratively attempt the following:
 - Silence sounds
 - Mimic voices and observed sounds
 - Echolocation to assist Perception Checks
-- Manipulate others with enchanted words
 
 #### Specialization: The Dragon
 
