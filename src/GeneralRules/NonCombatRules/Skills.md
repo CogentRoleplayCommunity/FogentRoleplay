@@ -104,7 +104,7 @@ For bows and crossbows, having a proper base, judging the distance, leading your
 
 You cannot go below 0 on a combat vocational skill for either melee or ranged.
 
-## Multiple person skill check
+## Multiple Character skill check
 
 Mutiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if mutiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
 
