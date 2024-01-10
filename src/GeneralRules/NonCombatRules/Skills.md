@@ -103,3 +103,15 @@ For bows and crossbows, having a proper base, judging the distance, leading your
 | **Heavy**  | Heavy Bow | Heavy Crossbow |
 
 You cannot go below 0 on a combat vocational skill for either melee or ranged.
+
+## Multiple person skill check
+
+Mutiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if mutiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
+
+### Example
+
+A character wants to pick up an entire sturdy couch by themselves, and take it up a flight of stairs.
+
+The narrator assings this a Speacialized task (CL 3), not only for the weigh of the couch, but for how cumberson it is for one person. The character get 2 win on their Lift check. They are not able to get the couch up the stairs.
+
+In a parallel dimension, 2 characters decide to pick up the couch. The narrator assings this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which is rounded down to 1. They are able to move the couch up the stairs.
