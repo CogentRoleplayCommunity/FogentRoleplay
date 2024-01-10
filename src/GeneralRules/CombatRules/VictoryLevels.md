@@ -32,15 +32,17 @@ Opponent gains the staggered combat modifier. This could be sand thrown in a cha
 
 Enter/exit close combat. The fight is so close in physical proximity that the character's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
 
-The initiator of close combat can release the grapple at any time.  Not available to ranged combat rolls. Once an opponent is grappled, on the same round you can attempt a Lift check determined by your narrator given the size and the weight of your opponent. If successful, you can Move or Shove your opponent.
+The initiator of close combat can release the grapple at any time. Not available to ranged combat rolls.
 
-### Move
+#### Move
 
-Must be initiated while in close combat. Move an enemy in a desired direction. Your movement speed is halved if your opponent is the same size category as you. If the opponent is one size smaller, your movement speed is unchanged. If the opponent is one size larger, you have ¼ of your movement speed. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+As part of entering into close quarters combat or already being in close quarters combat, you can move your opponent. The Narrator will give a challenge level given their size and weight.
+
+Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 5 feet. For each size category the opponent is smaller than you, double the move distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ### Shove
 
-Must be initiated while in close combat. Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 
