@@ -52,4 +52,4 @@
 | -------------------- | :-: | :-----------------------------: | :---------: | :--------: | :-: | :---: |
 | Leather Armor        | 1 |           Phy. Def. 2           |   Quality   |   15/15   | 12 | 10 bc |
 | Crude Wooden Javelin | 1 | Short Spear, Thrown Short Spear | Compromised |    6/6    | 3 | 1 bc |
-| Greataxe             | 1 |       Large Hafted Blade       |   Mundane   |   12/12   | 7 | 30 bc |
+| Dane Axe             | 1 |       Large Hafted Blade       |   Mundane   |   12/12   | 4 | 11 bc |
