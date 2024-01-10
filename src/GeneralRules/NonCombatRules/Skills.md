@@ -81,18 +81,18 @@ Once a dice pool for a given skill check is equal to or greater than 8 you are c
 
 ## Weapon Skill Transfer
 
-### Melee Weapon Skill Transfer
+### Melee Combat Skill Transfer
 
 For melee weapons, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap between weapon skills. Starting on with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may access the other side of the table as if it were right beside it.
 
-| Class<br />/Size | Hafted                               | Blade                               | Spear       |
-| ---------------- | ------------------------------------ | ----------------------------------- | ----------- |
-| **Small**  | Small Hafted Blunt/Blade/Axe/Point   | Small Thrusting/Slashing Blade      |             |
-| **Medium** | Medium Hafted Blunt/Blade/Axe/Point | Medium Thrusting/Slashing Sword    |             |
-| **Large**  | Large Hafted Blunt/Blade/Axe/Point  | Large Thrusting/Slashing Sword     | Short Spear |
-| **Reach**  | Reach Hafted Blunt/Blade/Axe/Point  | Thrusting/Slashing Blade Greatsword | Long Spear  |
+| Class<br />/Size | Hafted         | Blade        | Spear       |
+| ---------------- | -------------- | ------------ | ----------- |
+| **Small**  | Small Hafted   | Small Blade |             |
+| **Medium** | Medium Hafted | Medium Sword |             |
+| **Large**  | Large Hafted  | Large Sword | Short Spear |
+| **Reach**  | Reach Hafted  | Greatsword   | Long Spear  |
 
-### Bow Melee Skill Transfer
+### Bow Combat Skill Transfer
 
 For bows and crossbows, having a proper base, judging the distance, leading your targets,  aiming and releasing the projectile smoothly are examples of the overlap. However, bows are significantly harder to use than crossbows. Each right jump (bows to crossbows) or vertical jump (up and down on the table) is -1 reduction to the skill you've moved to. Each left jump (crossbows to bows) is a -2 reduction to the skill you've moved to.
 
@@ -103,3 +103,21 @@ For bows and crossbows, having a proper base, judging the distance, leading your
 | **Heavy**  | Heavy Bow | Heavy Crossbow |
 
 You cannot go below 0 on a combat vocational skill for either melee or ranged.
+
+### Respecing Combat Skills
+
+Since certain weapon sizes provide more combat skill transfer than others, it is intend for the narrator to allow rebalancing skill point investments as to not waster skill levels as long as all previously know skills maintain they're skill level.
+
+For example, a character has just been given a skill point to spend and has a level 3 in Small blade. They wish to invest their skill point into Medium sword to try a new magic sword they found. Since they have a 3 in Small Blade already, by the weapon skill transfer rules they have a level 2 in Medium Sword. If they were to invest their skill point into Medium Sword to bring it to level 3, they are technically wasting skill points as had they from the start only invested the 3 points from Small Blade into Medium sword, with the addition of the unspent skill point, they'd have a level 4 in Medium sword, which would also give them a level 3 in Small Blade. Instead of wasting skill points, they can take the 3 skill points from small bladed and the 1 unspent skill point and spend it on bring Medium sword to level 4. Since having a level 4 in small bladed gives a level 3 in Small Bladed, nothing has changed in Small Blade, so no harm done.
+
+## Multiple Character skill check
+
+Mutiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if mutiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
+
+### Example
+
+A character wants to pick up an entire sturdy couch by themselves, and take it up a flight of stairs.
+
+The narrator assings this a Speacialized task (CL 3), not only for the weigh of the couch, but for how cumberson it is for one person. The character get 2 win on their Lift check. They are not able to get the couch up the stairs.
+
+In a parallel dimension, 2 characters decide to pick up the couch. The narrator assings this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which is rounded down to 1. They are able to move the couch up the stairs.

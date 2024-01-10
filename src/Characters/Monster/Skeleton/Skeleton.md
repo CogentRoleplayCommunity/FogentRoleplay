@@ -20,24 +20,24 @@
 
 ## Effects:
 
-|            Name            |                           Effect                           | Duration |                                                    Source                                                    |
-| :------------------------: | :---------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|   Physical Defense Level   |                              1                              |          |                                                    Armor                                                    |
-|        Medium Size        |                    5x5 ft on battle map.                    |          |                                                                                                              |
-|      Inventory Weight      |                           13.5 lb                           |          |                                                  Equipment                                                  |
+|            Name            |                           Effect                           | Duration |                                                                   Source                                                                   |
+| :------------------------: | :---------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|   Physical Defense Level   |                              1                              |          |                                                                   Armor                                                                   |
+|        Medium Size        |                    5x5 ft on battle map.                    |          |                                                                                                                                            |
+|      Inventory Weight      |                           9.5 lb                           |          |                                                                 Equipment                                                                 |
 |   Humanoid Carry Weight   |                           120 lb                           |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|        Light Weight        |               -0d6 to STR/RFX governed skills               |          |                                           0% - 25% of carry weight                                           |
-|  Humanoid Movement Speed  |                            40 ft                            |          |                            30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|    Humanoid Swim Speed    |                            0 ft                            |          |                                              Bone's don't float                                              |
-|    Humanoid Climb Speed    |                            15 ft                            |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
-|        Dark Vision        |                            60 ft                            |          |                                                    Innate                                                    |
-|   Med. Bludgeon Weakness   | (+2) to the level of injury received from Bludgeon damage. |          |                                                    Innate                                                    |
-|   Med. Radiant Weakness   |  (+2) to the level of injury received from Radiant damage.  |          |                                                    Innate                                                    |
-|  Med. Spiritual Weakness  | (+2) to the level of injury received from Spiritual damage. |          |                                                    Innate                                                    |
-|   Minor Silver Weakness   |  (+1) to the level of injury received from Silver damage.  |          |                                                    Innate                                                    |
-|   Minor Slash Resistance   |      -1 to victory levels received from Slash damage.      |          |                                                    Innate                                                    |
-|  Major Pierce Resistance  |      -3 to victory levels received from Pierce damage.      |          |                                                    Innate                                                    |
-| Complete Poison Resistance |      -5 to victory levels received from Poison damage.      |          |                                                    Innate                                                    |
+|        Light Weight        |               -0d6 to STR/RFX governed skills               |          |                                                          0% - 25% of carry weight                                                          |
+|  Humanoid Movement Speed  |                            40 ft                            |          |                                           30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
+|    Humanoid Swim Speed    |                            0 ft                            |          |                                                             Bone's don't float                                                             |
+|    Humanoid Climb Speed    |                            15 ft                            |          |                                              15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                              |
+|        Dark Vision        |                            60 ft                            |          |                                                                   Innate                                                                   |
+|   Med. Bludgeon Weakness   | (+2) to the level of injury received from Bludgeon damage. |          |                                                                   Innate                                                                   |
+|   Med. Radiant Weakness   |  (+2) to the level of injury received from Radiant damage.  |          |                                                                   Innate                                                                   |
+|  Med. Spiritual Weakness  | (+2) to the level of injury received from Spiritual damage. |          |                                                                   Innate                                                                   |
+|   Minor Silver Weakness   |  (+1) to the level of injury received from Silver damage.  |          |                                                                   Innate                                                                   |
+|   Minor Slash Resistance   |      -1 to victory levels received from Slash damage.      |          |                                                                   Innate                                                                   |
+|  Major Pierce Resistance  |      -3 to victory levels received from Pierce damage.      |          |                                                                   Innate                                                                   |
+| Complete Poison Resistance |      -5 to victory levels received from Poison damage.      |          |                                                                   Innate                                                                   |
 
 ## Combat Rolls:
 
@@ -53,14 +53,13 @@
 
 ## Equipment:
 
-| Name                                 | # |                     Class                     |  Tier  | Durability | LB | Value |
-| ------------------------------------ | :-: | :-------------------------------------------: | :-----: | :--------: | :-: | :---: |
-| Buckler Shield                       | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  4  | 2 bc |
-| Shoddy Leather Cuirass and Pauldrons | 1 |                 Phy. Def. 0.5                 | Shoddy |    9/9    |  4  | 3 bc |
-| Shoddy Scimitar                      | 1 | Medium Thrusting Sword, Medium Slashing Sword | Shoddy |    9/9    |  2  | 15 bc |
-| Shoddy Shortbow                      | 1 |                   Light Bow                   | Shoddy |    9/9    |  2  | 15 bc |
-| Rusted Broadhead Arrow               | 20 |                 Shoddy Arrow                 | Shoddy |     -     | 0.5 | 1 bc |
-| Quiver (capacity: 20)                | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
+| Name                   | # |                     Class                     |  Tier  | Durability | LB | Value |
+| ---------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :-: | :---: |
+| Buckler Shield         | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  4  | 2 bc |
+| Shoddy Scimitar        | 1 | Medium Thrusting Sword, Medium Slashing Sword | Shoddy |    9/9    |  2  | 15 bc |
+| Shoddy Shortbow        | 1 |                   Light Bow                   | Shoddy |    9/9    |  2  | 15 bc |
+| Rusted Broadhead Arrow | 20 |                 Shoddy Arrow                 | Shoddy |     -     | 0.5 | 1 bc |
+| Quiver (capacity: 20)  | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
 
 ## Backstory
 

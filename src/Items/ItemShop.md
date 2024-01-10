@@ -71,36 +71,46 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Armory.png) Armory
 
-| Name                                 | # | Type                                    | Tier     | Durability | Weight | Value    | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| ------------------------------------ | - | --------------------------------------- | -------- | ---------- | ------ | -------- | ------------- | ------------ | ------------ | -------------- |
-| Gambeson Coat                        | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 5      | 2 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
-| Gambeson Leggings                    | 1 | Phy. Def. 0.5                           | Mundane  | 12/12      | 3      | 1 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Helmet                       | 1 | Phy. Def. 0.5                           | Mundane  | 12/12      | 2      | 0.5 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons        | 1 | Phy. Def. 0.5                           | Mundane  | 12/12      | 4      | 3 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuisses and Greaves          | 1 | Phy. Def. 0.5                           | Mundane  | 12/12      | 3      | 2 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Vambrace                     | 1 | Phy. Def. 0.5                           | Mundane  | 12/12      | 2      | 1.5 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-|                                      |   |                                         |          |            |        |          |               |              |              |                |
-| Chainmail Coif                       | 1 | Phy. Def. 0.75                          | Superior | 24/24      | 4      | 11.2 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Chainmail Shirt                      | 1 | Phy. Def. 0.75                          | Mundane  | 12/12      | 20     | 22.4 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Chainmail Leggings                   | 1 | Phy. Def. 0.75                          | Mundane  | 12/12      | 12     | 11.2 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Chainmail Sleeves                    | 1 | Phy. Def. 0.75                          | Mundane  | 12/12      | 11     | 11.2 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Half Helm                            | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 5      | 22.5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Brigandine Cuirass and Pauldrons     | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 21     | 60 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
-| Brigandine Cuisses and Greaves       | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 14     | 40.5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Brigandine Vambrace and Gauntlets    | 1 | Phy. Def. 1, Hand Protection Unarmed    | Mundane  | 12/12      | 12     | 27.75 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-|                                      |   |                                         |          |            |        |          |               |              |              |                |
-| Plate Full Helm                      | 1 | Phy. Def. 1.35                          | Mundane  | 12/12      | 6      | 225 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Plate Cuirass and Pauldrons          | 1 | Phy. Def. 1.5                           | Mundane  | 12/12      | 23     | 450 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Plate Cuisses and Greaves            | 1 | Phy. Def. 1.35                          | Mundane  | 12/12      | 15     | 300 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Plate Vambrace and Gauntlets         | 1 | Phy. Def. 1.35, Hand Protection Unarmed | Mundane  | 12/12      | 13     | 150 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-|                                      |   |                                         |          |            |        |          |               |              |              |                |
-| Small Shield (Buckler, Targe, Parma) | 1 | Phy. Def. 1                             | Mundane  | 12/12      | 4      | 2 bc     | TRUE          | TRUE         | TRUE         | TRUE           |
-| Kite Shield                          | 1 | Phy. Def. 2                             | Mundane  | 12/12      | 8      | 7 bc     | FALSE         | TRUE         | TRUE         | TRUE           |
-| Hoplon Shield                        | 1 | Phy. Def. 2                             | Mundane  | 12/12      | 8      | 7 bc     | FALSE         | TRUE         | TRUE         | TRUE           |
-| Pavise Shield                        | 1 | Phy. Def. 2                             | Mundane  | 12/12      | 8      | 7 bc     | FALSE         | TRUE         | TRUE         | TRUE           |
-| Heater Shield                        | 1 | Phy. Def. 2                             | Mundane  | 12/12      | 8      | 7 bc     | FALSE         | TRUE         | TRUE         | TRUE           |
-| Heavy Shield (Tower)                 | 1 | Phy. Def. 3                             | Mundane  | 12/12      | 25     | 150 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
-| Mantlet                              | 1 | Phy. Def. 4                             | Mundane  | 12/12      | 90     | 17 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
+| Name                              | # | Type                                    | Tier        | Durability | Weight | Value     | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| --------------------------------- | - | --------------------------------------- | ----------- | ---------- | ------ | --------- | ------------- | ------------ | ------------ | -------------- |
+| Gambeson Armor                    | 1 | Phy. Def. 1.00                          | Mundane     | 12/12      | 8      | 5 bc      | FALSE         | FALSE        | FALSE        | TRUE           |
+| Gambeson Coat                     | 1 | Phy. Def. 0.625                         | Mundane     | 12/12      | 5      | 3.13 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Gambeson Leggings                 | 1 | Phy. Def. 0.375                         | Mundane     | 12/12      | 3      | 1.87 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+|                                   |   |                                         |             |            |        |           |               |              |              |                |
+| Leather Armor                     | 1 | Phy. Def. 2                             | Quality     | 15/15      | 12     | 10 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Helmet                    | 1 | Phy. Def. 0.34                          | Quality     | 15/15      | 2      | 1.82 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons     | 1 | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 3.63 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuisses and Greaves       | 1 | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 2.73 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Vambrace                  | 1 | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.82 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+|                                   |   |                                         |             |            |        |           |               |              |              |                |
+| Chainmail Armor                   | 1 | Phy. Def. 3                             | Excellent   | 21/21      | 47     | 75 bp     | TRUE          | TRUE         | TRUE         | TRUE           |
+| Chainmail Coif                    | 1 | Phy. Def. 0.38                          | Excellent   | 21/21      | 6      | 9.57 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
+| Chainmail Short-sleeved Hauberk   | 1 | Phy. Def. 1.15                          | Excellent   | 21/21      | 18     | 28.72 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Chainmail Sleeves/Mittens         | 1 | Phy. Def. 0.77, Hand Protection Unarmed | Excellent   | 21/21      | 12     | 19.16 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Chainmail Chausses                | 1 | Phy. Def. 0.7                           | Excellent   | 21/21      | 11     | 17.55 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+|                                   |   |                                         |             |            |        |           |               |              |              |                |
+| Brigandine Armor                  | 1 | Phy. Def. 4                             | Exquisite   | 27/27      | 52     | 200 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
+| Half Helm                         | 1 | Phy. Def. 0.39                          | Exquisite   | 27/27      | 5      | 19.23 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Brigandine Cuirass and Pauldrons  | 1 | Phy. Def. 1.69                          | Exquisite   | 27/27      | 22     | 84.62 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Brigandine Cuisses and Greaves    | 1 | Phy. Def. 1.00                          | Exquisite   | 27/27      | 13     | 50 bc     | FALSE         | FALSE        | TRUE         | TRUE           |
+| Brigandine Vambrace and Gauntlets | 1 | Phy. Def. 0.92, Hand Protection Unarmed | Exquisite   | 27/27      | 12     | 46.15 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+|                                   |   |                                         |             |            |        |           |               |              |              |                |
+| Plate Armor                       | 1 | Phy. Def. 5                             | Mastercraft | 33/33      | 57     | 1495 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Plate Full Helm                   | 1 | Phy. Def. 0.53                          | Mastercraft | 33/33      | 6      | 157.37 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Plate Cuirass and Pauldrons       | 1 | Phy. Def. 2.01                          | Mastercraft | 33/33      | 23     | 603.24 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Plate Cuisses and Greaves         | 1 | Phy. Def. 1.23                          | Mastercraft | 33/33      | 14     | 367.19 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Plate Vambrace and Gauntlets      | 1 | Phy. Def. 1.23, Hand Protection Unarmed | Mastercraft | 33/33      | 14     | 367.19 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+|                                   |   |                                         |             |            |        |           |               |              |              |                |
+| Buckler Shield                    | 1 | Phy. Def. 1                             | Mundane     | 12/12      | 4      | 2 bc      | TRUE          | TRUE         | TRUE         | TRUE           |
+| Targe Shield                      | 1 | Phy. Def. 1                             | Mundane     | 12/12      | 4      | 2 bc      | TRUE          | TRUE         | TRUE         | TRUE           |
+| Parma Shield                      | 1 | Phy. Def. 1                             | Mundane     | 12/12      | 4      | 2 bc      | TRUE          | TRUE         | TRUE         | TRUE           |
+| Kite Shield                       | 1 | Phy. Def. 2                             | Mundane     | 12/12      | 8      | 7 bc      | FALSE         | TRUE         | TRUE         | TRUE           |
+| Hoplon Shield                     | 1 | Phy. Def. 2                             | Mundane     | 12/12      | 8      | 7 bc      | FALSE         | TRUE         | TRUE         | TRUE           |
+| Pavise Shield                     | 1 | Phy. Def. 2                             | Mundane     | 12/12      | 8      | 7 bc      | FALSE         | TRUE         | TRUE         | TRUE           |
+| Heater Shield                     | 1 | Phy. Def. 2                             | Mundane     | 12/12      | 8      | 7 bc      | FALSE         | TRUE         | TRUE         | TRUE           |
+| Kite Shield (Dawn Emp. Crest)     | 1 | Phy. Def. 2                             | Superior    | 24/24      | 8      | 30 bc     | FALSE         | TRUE         | TRUE         | TRUE           |
+| Heavy Shield (Tower)              | 1 | Phy. Def. 3                             | Mundane     | 12/12      | 25     | 150 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
+| Mantlet                           | 1 | Phy. Def. 4                             | Mundane     | 12/12      | 90     | 17 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
@@ -121,7 +131,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Warhammer/pick | 1 | Medium Hafted Blunt, Medium Hafted Point                        | Mundane | 12/12      | 4      | 9 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 | Longsword      | 1 | Large Thrusting Sword, Large Slashing Sword                     | Mundane | 12/12      | 3      | 15 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
 | Glaive         | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 6      | 20 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Dane Axe       | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 7      | 11 bc | FALSE         | TRUE         | TRUE         | TRUE           |
+| Dane Axe       | 1 | Large Hafted Blade                                              | Mundane | 12/12      | 4      | 11 bc | FALSE         | TRUE         | TRUE         | TRUE           |
 | Maul           | 1 | Large Hafted Blunt                                              | Mundane | 12/12      | 7      | 10 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
 | Shortsword     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1.5    | 10 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 | Trident        | 1 | Short Spear, Thrown Short Spear                                 | Mundane | 12/12      | 3      | 5 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
@@ -333,12 +343,14 @@ Cheap shops will charge 50% the value for any item on this list.
 | Name                                | #  | Type                                                            | Tier    | Durability | Weight | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------------- | -- | --------------------------------------------------------------- | ------- | ---------- | ------ | ------- | ------------- | ------------ | ------------ | -------------- |
 | -[Armor]-                           |    |                                                                 |         |            |        |         |               |              |              |                |
-| Gambeson Coat                       | 1  | Phy. Def. 1                                                     | Mundane | 12/12      | 5      | 2 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
-| Gambeson Leggings                   | 1  | Phy. Def. 0.5                                                   | Mundane | 12/12      | 3      | 1 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
-| Leather Helmet                      | 1  | Phy. Def. 0.5                                                   | Mundane | 12/12      | 2      | 0.5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Leather Cuirass and Pauldrons       | 1  | Phy. Def. 0.5                                                   | Mundane | 12/12      | 4      | 3 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
-| Leather Cuisses and Greaves         | 1  | Phy. Def. 0.5                                                   | Mundane | 12/12      | 3      | 2 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
-| Leather Vambrace                    | 1  | Phy. Def. 0.5                                                   | Mundane | 12/12      | 2      | 1.5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Gambeson Armor                      | 1  | Phy. Def. 1.00                                                  | Mundane | 12/12      | 8      | 5 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
+| Gambeson Coat                       | 1  | Phy. Def. 0.625                                                 | Mundane | 12/12      | 5      | 3.13 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Gambeson Leggings                   | 1  | Phy. Def. 0.375                                                 | Mundane | 12/12      | 3      | 1.87 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Armor                       | 1  | Phy. Def. 2                                                     | Quality | 15/15      | 12     | 10 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Helmet                      | 1  | Phy. Def. 0.34                                                  | Quality | 15/15      | 2      | 1.82 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons       | 1  | Phy. Def. 1.00                                                  | Quality | 15/15      | 6      | 3.63 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuisses and Greaves         | 1  | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 2.73 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Vambrace                    | 1  | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 1.82 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | -[Weapons]-                         |    |                                                                 |         |            |        |         |               |              |              |                |
 | Dagger                              | 1  | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1      | 2 bc    | TRUE          | TRUE         | TRUE         | TRUE           |
 | Handaxe                             | 1  | Small Hafted Blade                                              | Mundane | 12/12      | 2      | 10 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
@@ -553,7 +565,6 @@ Cheap shops will charge 50% the value for any item on this list.
 | Rowboat            |   |      |         |            | 50 bc       |       | TRUE          | TRUE         | TRUE         | TRUE           |
 | Sailing Ship       |   |      |         |            | 10,000 bc   |       | TRUE          | FALSE        | TRUE         | TRUE           |
 | Warship            |   |      |         |            | 25,000 bc   |       | TRUE          | FALSE        | FALSE        | TRUE           |
-|                    |   |      |         |            |             |       |               |              |              |                |
 
 ### ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
 

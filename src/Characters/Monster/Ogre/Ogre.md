@@ -27,7 +27,7 @@
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                            |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                                            |
 |     Language: Jotun     |                       Can speak Jotun.                       |          |                                                                                                                                            |
-|    Inventory Weight    |                             30 lb                             |          |                                                                 Equipment                                                                 |
+|    Inventory Weight    |                             17 lb                             |          |                                                                 Equipment                                                                 |
 |  Humanoid Carry Weight  |                            400 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                                          0% - 25% of carry weight                                                          |
 | Humanoid Movement Speed |                             40 ft                             |          |                                           50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
@@ -49,10 +49,8 @@
 
 ## Equipment
 
-| Name                                 | # |                 Class                 |    Tier    | Durability | LB | Value |
-| ------------------------------------ | :-: | :------------------------------------: | :---------: | :--------: | :-: | :----: |
-| Shoddy Leather Cuirass and Pauldrons | 1 |             Phy. Def. 0.5             |   Shoddy   |    9/9    | 4 |  3 bc  |
-| Shoddy Leather Vambrace              | 1 |             Phy. Def. 0.5             |   Shoddy   |    9/9    | 2 | 1.5 bc |
-| Crude Wooden Javelin                 | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 |  1 bc  |
-| Greataxe                             | 1 |           Large Hafted Blade           |   Mundane   |   12/12   | 7 | 30 bc |
-| Ogre's Spiked Club                   | 1 | Reach Hafted Blunt, Reach Hafted Point |   Mundane   |   12/12   | 14 | 41 cc |
+| Name                  | # |                 Class                 |    Tier    | Durability | LB | Value |
+| --------------------- | :-: | :------------------------------------: | :---------: | :--------: | :-: | :---: |
+| Natural Armor Level 1 | 1 |              Phy. Def. 1              |   Mundane   |            | 0 | None |
+| Crude Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
+| Ogre's Spiked Club    | 1 | Reach Hafted Blunt, Reach Hafted Point |   Mundane   |   12/12   | 14 | 41 cc |
