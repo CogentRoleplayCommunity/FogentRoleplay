@@ -13,6 +13,7 @@ Fellkin vary wildly, but all share the innate risk of going feral. This occurs w
 - [Beastkin](Beastkin/Beastkin.md)
 - [Chitinkin](Chitinkin/Chitinkin.md)
 - [Dragonkin](Dragonkin/Dragonkin.md)
+- [Harpy](Harpy/Haryp.md)
 - [Crossbreed](Crossbreed/Crossbreed.md)
 
 #### More Fellkin Race Ideas:
