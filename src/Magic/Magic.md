@@ -389,7 +389,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 [Leap](Spells/Novice/Leap.md)
 
-[Slow Fall](CompoundRunes\SlowFall.md)
+[Slow Fall](Spells/Novice/SlowFall.md)
 
 [Oil Spill](Spells/Novice/OilSpill.md)
 
