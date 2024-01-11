@@ -210,13 +210,6 @@ When casting magic with additional resource above the level allowed by your Magi
 | 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
 | 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
 
-## Magic Cantrips
-
-Cantrips are uses of Magic that use an insignificant amount of Resource. In general, Cantrips should be small and happen close to the user. Igniting your fingertips to light a cigar, or creating a gentle breeze are all examples of Cantrips. Cantrips attacks are considered the weakest form of offense, only used in dire situations or for utility.
-
-- Unaffected by Magic assists (as no Magic Resource is consumed)
-- Resource Requirement: 0
-
 ## Magic Skills in Combat
 
 - -2d6 to ranged combat rolls engaging in melee combat
