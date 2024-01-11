@@ -4,9 +4,9 @@
 
 Beastkin or Lycans trace their monstrous ancestry from Werewolves and other Bestial monsters that bowed to the Bright Lord.
 
-Since Beastkin are highly varied and shapeshifters, their appearances can vary wildly. Beastkin that live on the Isles of Crest live day to day with their bestial traits showing such as fur, claws, and bestial facial features. While in Reddland, where showing these features openly is considered a social taboo, Beastkin simply have animalistic eyes and slightly larger canines. The extent to which their Bestial feature shows is completely subconscious and has usually formed by early adolescence.
-
 ## Distinctive Physical Features
+
+Since Beastkin are highly varied and shapeshifters, their appearances can vary wildly. Beastkin that live on the Isles of Crest live day to day with their bestial traits showing such as fur, claws, and bestial facial features. While in Reddland, where showing these features openly is considered a social taboo, Beastkin simply have animalistic eyes and slightly larger canines. The extent to which their Bestial feature shows is completely subconscious and has usually formed by early adolescence.
 
 ## Culture
 
