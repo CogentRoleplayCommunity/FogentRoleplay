@@ -249,7 +249,6 @@ Requires Level -1 in specific Magic skill
 - Effective Range: Melee
 - Engageable Opponents: Rapid
 - Resource Requirement: 0
-- Unaffected by Magic Vocation assists (as no Resource is consumed)
 
 ### Ranged Cantrip
 
@@ -259,7 +258,6 @@ Requires Level -1 in specific Magic skill
 - Effective Range = Close
 - Engageable Opponents: Focused
 - Resource Requirement: 0
-- Unaffected by Magic Vocation assists (as no Resource is consumed)
 
 ### Melee
 
@@ -383,7 +381,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
 
-[Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+[Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
 
 [Mind Reading](Spells/Novice/MindReading.md)
 
