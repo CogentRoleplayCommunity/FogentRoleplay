@@ -222,19 +222,6 @@ Cantrips are uses of Magic that use an insignificant amount of Resource. In gene
 - -2d6 to ranged combat rolls engaging in melee combat
 - Character's can't cast magic twice in one round of combat unless specified otherwise
 
-### Ranges
-
-The Range type for non cantrip ranged attacks changes depending on the user's skill level unless specified otherwise.
-
-| Skill level |  Range Type  |
-| :---------: | :----------: |
-|     -1     |    Close    |
-|      0      |    Short    |
-|      1      |    Medium    |
-|      2      |   Extended   |
-|      3      |     Long     |
-|      4      | Sharpshooter |
-
 #### Magic Range adjustment
 
 If a Magic Skill has a range adjustment it is either moved up or down the table above. Ranged attacks can not fall below Close Range.
