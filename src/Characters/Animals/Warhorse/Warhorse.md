@@ -25,7 +25,7 @@
 |    Physical Defense Level    |                0                |          |                                                     Armor                                                     |
 |          Large Size          |     10x10 ft on battle map.     |          |                                                                                                              |
 |       Inventory Weight       |              33 lb              |          |                                                   Equipment                                                   |
-|    4-Legged Carry Weight    |             720 lb             |          | 120 lb (Base), +200 lb (per STR above 0),<br />-100 lb (per STR below 0), +/- 40 lb (per Lift above/below 0) |
+|    4-Legged Carry Weight    |             720 lb             |          | 120 lb (Base), +200 lb (per STR above 0),<br />-50 lb (per STR below 0), + 80 lb (per Lift above),<br />- 40 lb (per Lift above/below 0) |
 |         Light Weight         | -0d6 to STR/RFX governed skills |          |                                           0% - 25% of carry weight                                           |
 | Fast 4-Legged Movement Speed |              80 ft              |          |                            65 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
 |     4-Legged Swim Speed     |              45 ft              |          |                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                           |

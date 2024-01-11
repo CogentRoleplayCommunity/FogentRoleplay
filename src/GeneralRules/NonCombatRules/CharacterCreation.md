@@ -176,11 +176,10 @@ Your starting wealth is determined narratively by you position in life as define
 |     Rogue, Warlock, Wizard     |   4d4 x 10 bc   |     100 bc     |
 | Fighter, Paladin, Ranger, Bard |   5d4 x 10 bc   |     125 bc     |
 
-
 |                       Socioeconomic status                       | Starting Wealth | Average Wealth |
 | :--------------------------------------------------------------: | :-------------: | :------------: |
 |                               Poor                               |     5d4 bc     |     13 bc     |
-|                  Untrained Labor ( Farm hand )                  |   1d4 x 10 bc   |     25 bc     |
+|                   Manual Labor ( Farm hand )                   |   1d4 x 10 bc   |     25 bc     |
 |              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc     |
 |             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc     |
 | High Skilled Labor ( Accomplished thief, educated professions ) |   4d4 x 10 bc   |     100 bc     |

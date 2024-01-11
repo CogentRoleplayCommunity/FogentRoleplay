@@ -21,21 +21,21 @@ Unspent Skill Point: 1
 
 ## Effects
 
-|          Name          |                                Effect                                | Duration |                                                    Source                                                    |
-| :---------------------: | :------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  |    (+1) to the level of injury<br />received from Silver damage.    |          |                                                Fellkin blood                                                |
-| Physical Defense Level |                                  4                                  |          |                                                    Armor                                                    |
-|       Medium Size       |                        5x5 ft on battle map.                        |          |                                                                                                              |
-|   Language: Babelish   |                         Can speak Babelish.                         |          |                                                                                                              |
-|     Language: Jotun     |                           Can speak Jotun.                           |          |                                                                                                              |
-|   Disabling: Delusion   |  Sees his father all the time though doesn't think his is material.  |          |                                                                                                              |
-|   Disabling: Stubborn   | If he doesn't get his way he will rage out and become uncooperative. |          |                                                                                                              |
-|    Inventory Weight    |                                41 lb                                |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |                                260 lb                                |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
-|      Light Weight      |                   -0d6 to STR/RFX governed skills                   |          |                                           0% - 25% of carry weight                                           |
-| Humanoid Movement Speed |                                35 ft                                |          |                            50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|   Humanoid Swim Speed   |                                25 ft                                |          |                          15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                          |
-|  Humanoid Climb Speed  |                                20 ft                                |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+|          Name          |                                Effect                                | Duration |                                                                   Source                                                                   |
+| :---------------------: | :------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|  Minor Silver Weakness  |    (+1) to the level of injury<br />received from Silver damage.    |          |                                                               Fellkin blood                                                               |
+| Physical Defense Level |                                  4                                  |          |                                                                   Armor                                                                   |
+|       Medium Size       |                        5x5 ft on battle map.                        |          |                                                                                                                                            |
+|   Language: Babelish   |                         Can speak Babelish.                         |          |                                                                                                                                            |
+|     Language: Jotun     |                           Can speak Jotun.                           |          |                                                                                                                                            |
+|   Disabling: Delusion   |  Sees his father all the time though doesn't think his is material.  |          |                                                                                                                                            |
+|   Disabling: Stubborn   | If he doesn't get his way he will rage out and become uncooperative. |          |                                                                                                                                            |
+|    Inventory Weight    |                                41 lb                                |          |                                                                 Equipment                                                                 |
+|  Humanoid Carry Weight  |                                300 lb                                |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|      Light Weight      |                   -0d6 to STR/RFX governed skills                   |          |                                                          0% - 25% of carry weight                                                          |
+| Humanoid Movement Speed |                                35 ft                                |          |                                           50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
+|   Humanoid Swim Speed   |                                25 ft                                |          |                                         15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
+|  Humanoid Climb Speed  |                                20 ft                                |          |                                            15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                            |
 
 ## Combat Rolls
 
@@ -57,19 +57,20 @@ Unspent Skill Point: 1
 
 | Name                          | # |       Class       |  Tier  | Durability | LB |  Value  |
 | ----------------------------- | :-: | :----------------: | :-----: | :--------: | :-: | :-----: |
-| Gambeson Coat                 | 1 |    Phy. Def. 1    | Mundane |   12/12   | 5 |  2 bc  |
-| Gambeson Leggings             | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 3 |  1 bc  |
-| Leather Helmet                | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 2 | 0.5 bc |
-| Chainmail Leggings            | 1 |   Phy. Def. 0.75   | Mundane |   12/12   | 12 | 11.2 bc |
-| Chainmail Sleeves             | 1 |   Phy. Def. 0.75   | Mundane |   12/12   | 11 | 11.2 bc |
-| Leather Cuirass and Pauldrons | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 4 |  3 bc  |
+| Gambeson Coat                 | 1 |  Phy. Def. 0.625  | Mundane |   12/12   | 5 | 3.13 bc |
+| Gambeson Leggings             | 1 |  Phy. Def. 0.375  | Mundane |   12/12   | 3 | 1.87 bc |
+| Leather Cuirass and Pauldrons | 1 |   Phy. Def. 1.00   | Quality |   15/15   | 6 | 3.63 bc |
+| Clothes, Traveler's           | 1 |        Misc        | Mundane |            | 4 |  2 bc  |
 | Dane Axe                      | 1 | Large Hafted Blade | Mundane |   12/12   | 4 |  11 bc  |
 
 ## Containers
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name              | # |      Class      |  Tier  | Durability |  LB  | Value |
+| ----------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
+| Bronze Coin       | 1 |    Currency    | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 37 |    Currency    | Mundane |            | 0.02 | 1 cc |
+
 
 ## Notes
 

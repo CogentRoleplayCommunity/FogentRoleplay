@@ -20,20 +20,20 @@
 
 ## Effects:
 
-|             Name             |                                                           Effect                                                           | Duration |                                                    Source                                                    |
-| :---------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|    Physical Defense Level    |                                                              2                                                              |          |                                                    Armor                                                    |
-|          Small Size          |                                                   5x5 ft on battle map.                                                   |          |                                                                                                              |
-|      Language: Babelish      |                                                     Can speak Babelish.                                                     |          |                                                                                                              |
-|       Language: Primal       |                                                      Can speak Primal.                                                      |          |                                                                                                              |
-|     Minor Silver Weakness     |                                  (+1) to the level of injury received from Silver damage.                                  |          |                                                Fellkin blood                                                |
-|          Dark Vision          | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                             Feral Fellkin Blood                                             |
-|       Inventory Weight       |                                                          14.05 lb                                                          |          |                                                  Equipment                                                  |
-|     Humanoid Carry Weight     |                                                            70 lb                                                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
-|         Light Weight         |                                               -0d6 to STR/RFX governed skills                                               |          |                                           0% - 25% of carry weight                                           |
-| Small Humanoid Movement Speed |                                                            35 ft                                                            |          |                            25 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|      Humanoid Swim Speed      |                                                            15 ft                                                            |          |                            15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                            |
-|     Humanoid Climb Speed     |                                                            15 ft                                                            |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
+|             Name             |                                                            Effect                                                            | Duration |                                                                   Source                                                                   |
+| :---------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|    Physical Defense Level    |                                                              2                                                              |          |                                                                   Armor                                                                   |
+|          Small Size          |                                                    5x5 ft on battle map.                                                    |          |                                                                                                                                            |
+|      Language: Babelish      |                                                     Can speak Babelish.                                                     |          |                                                                                                                                            |
+|       Language: Primal       |                                                      Can speak Primal.                                                      |          |                                                                                                                                            |
+|     Minor Silver Weakness     |                                   (+1) to the level of injury received from Silver damage.                                   |          |                                                               Fellkin blood                                                               |
+|          Dark Vision          | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                            Feral Fellkin Blood                                                            |
+|       Inventory Weight       |                                                           15.05 lb                                                           |          |                                                                 Equipment                                                                 |
+|     Humanoid Carry Weight     |                                                            70 lb                                                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|         Light Weight         |                                               -0d6 to STR/RFX governed skills                                               |          |                                                          0% - 25% of carry weight                                                          |
+| Small Humanoid Movement Speed |                                                            35 ft                                                            |          |                                           25 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
+|      Humanoid Swim Speed      |                                                            15 ft                                                            |          |                                           15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                                           |
+|     Humanoid Climb Speed     |                                                            15 ft                                                            |          |                                              15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                              |
 
 ## Combat Rolls:
 
@@ -49,15 +49,14 @@
 
 ## Equipment:
 
-| Name                               | # |                     Class                     |  Tier  | Durability |  LB  | Value |
-| ---------------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :---: |
-| Shoddy Leather Cuisses and Greaves | 1 |                 Phy. Def. 0.5                 | Shoddy |    9/9    |  3  |      |
-| Shoddy Leather Vambrace            | 1 |                 Phy. Def. 0.5                 | Shoddy |    9/9    |  2  |      |
-| Buckler Shield                     | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  4  | 2 bc |
-| Shoddy Scimitar                    | 1 | Medium Thrusting Sword, Medium Slashing Sword | Shoddy |    9/9    |  2  | 15 bc |
-| Shoddy Shortbow                    | 1 |                   Light Bow                   | Shoddy |    9/9    |  2  | 15 bc |
-| Wood Tipped Arrow                  | 20 |                 Shoddy Arrow                 | Mundane |     -     | 0.05 | 50 cc |
-| Quiver (capacity: 20)              | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
+| Name                          | # |                     Class                     |  Tier  | Durability |  LB  |  Value  |
+| ----------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :-----: |
+| Leather Cuirass and Pauldrons | 1 |                Phy. Def. 1.00                | Quality |   15/15   |  6  | 3.63 bc |
+| Buckler Shield                | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  4  |  2 bc  |
+| Shoddy Scimitar               | 1 | Medium Thrusting Sword, Medium Slashing Sword | Shoddy |    9/9    |  2  |  15 bc  |
+| Shoddy Shortbow               | 1 |                   Light Bow                   | Shoddy |    9/9    |  2  |  15 bc  |
+| Wood Tipped Arrow             | 20 |                 Shoddy Arrow                 | Mundane |     -     | 0.05 |  50 cc  |
+| Quiver (capacity: 20)         | 1 |                     Misc                     | Mundane |            |  1  |  1 bc  |
 
 ## Backstory
 

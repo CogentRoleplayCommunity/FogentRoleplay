@@ -26,10 +26,10 @@
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                        Genetic                        |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                      |
 |  Disabling: Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                      |
-| Disabling: Loose Cannon |       Overwhelming predisposition towards rage/anger.       |          |                     Daddy Issues                     |
+| Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                     Daddy Issues                     |
 |    Inventory Weight    |                           23.45 lb                           |          |                       Equipment                       |
 |  Minor Silver Weakness  |   (+1) to the level of injury received from Silver damage.   |          |                        Fellkin                        |
-|  Humanoid Carry Weight  |                            240 lb                            |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
+|  Humanoid Carry Weight  |                            260 lb                            |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |               0% - 25% of carry weight               |
 | Humanoid Movement Speed |                             40 ft                             |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |   Humanoid Swim Speed   |                            35 ft                            |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |

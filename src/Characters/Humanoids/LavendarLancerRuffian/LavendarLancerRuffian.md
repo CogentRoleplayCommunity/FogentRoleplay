@@ -19,17 +19,17 @@
 
 ## Effects:
 
-|          Name          |             Effect             | Duration |                                                    Source                                                    |
-| :---------------------: | :-----------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                2                |          |                                                    Armor                                                    |
-|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                              |
-|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                              |
-|    Inventory Weight    |             16.5 lb             |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
-|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                           0% - 25% of carry weight                                           |
-| Humanoid Movement Speed |              40 ft              |          |                            30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|   Humanoid Swim Speed   |              15 ft              |          |                            15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                            |
-|  Humanoid Climb Speed  |              15 ft              |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
+|          Name          |             Effect             | Duration |                                                                   Source                                                                   |
+| :---------------------: | :-----------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| Physical Defense Level |                2                |          |                                                                   Armor                                                                   |
+|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                                            |
+|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                                            |
+|    Inventory Weight    |             17.5 lb             |          |                                                                 Equipment                                                                 |
+|  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                                          0% - 25% of carry weight                                                          |
+| Humanoid Movement Speed |              40 ft              |          |                                           30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
+|   Humanoid Swim Speed   |              15 ft              |          |                                           15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                                           |
+|  Humanoid Climb Speed  |              15 ft              |          |                                              15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                              |
 
 ## Combat Rolls:
 
@@ -41,14 +41,12 @@
 
 ## Equipment:
 
-| Name                         | # |                              Class                              |  Tier  | Durability | LB | Value |
-| ---------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :-: | :----: |
-| Gambeson Coat                | 1 |                           Phy. Def. 1                           | Mundane |   12/12   |  5  |  2 bc  |
-| Gambeson Leggings            | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  3  |  1 bc  |
-| Leather Cuirass and Pauldron | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  4  |  3 bc  |
-| Leather Vambrace             | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  2  | 1.5 bc |
-| Dagger                       | 3 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  |  2 bc  |
-| Shortsword                   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   | 1.5 | 10 bc |
+| Name                          | # |                              Class                              |  Tier  | Durability | LB |  Value  |
+| ----------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :-: | :-----: |
+| Leather Cuirass and Pauldrons | 1 |                         Phy. Def. 1.00                         | Quality |   15/15   |  6  | 3.63 bc |
+| Leather Vambrace              | 1 |                         Phy. Def. 0.33                         | Quality |   15/15   |  2  | 1.82 bc |
+| Gambeson Armor                | 1 |                         Phy. Def. 1.00                         | Mundane |   12/12   |  8  |  5 bc  |
+| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   | 1.5 |  10 bc  |
 
 ## Backstory
 

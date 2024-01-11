@@ -38,13 +38,8 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 ## Mounts in combat
 
-- When a mounted character or their mount takes an injury in combat, a Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
-- If the character has the Ride vocational skill, when using a mount's movement speed instead of their own they can reduce the penalty associated with riding without any skill.
+When riding a mount in combat, the rider's acrobatics skill replaces their mounts skill level for their movement speed calculation capped by the mounts original skill level.
 
-| Ride Skill Level | Combat Movement Speed |
-| :---------------: | :-------------------: |
-|      0 skill      |  Mount Speed -25 ft  |
-|      1 skill      |  Mount Speed -15 ft  |
-|      2 skill      |  Mount Speed -10 ft  |
-|      3 skill      |   Mount Speed -5 ft   |
-|      4 skill      |   Mount Speed -0 ft   |
+For instance, a riding horse has a the Fast 4-Legged Movement Speed and a level 3 skill in Athletics. A level 3 in athletics would typically give +15 feet (80 feet total) of movement in combat. When his master, who has a level 0 in acrobatics, decides to ride him, his masters level 0 in acrobatics is used for their combined movement speed giving +0 feet (65 feet total) of movement in combat. However, when a master rider who has a level 4 in Acrobatics, is riding the horse, they still only gain +15 feet (80 feet total) since the rider's skill is capped by the horse level 3 in Athletics.
+
+Addiontally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.

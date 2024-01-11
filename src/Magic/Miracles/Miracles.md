@@ -36,6 +36,6 @@ Wonders are uses of Miracles that use an insignificant  amount of Light. In gene
 - Cannot benefit from Brightkin assists (as no Light is consumed)
 - Light Requirement: 0 Light (No Light can be used to increase dice)
 
-### [Radiance](Miracles/Radiance.md)
+### [Radiance](./Radiance/Radiance.md)
 
-### [Blessing](Miracles/Blessing.md)
+### [Blessing](./Blessing/Blessing.md)
