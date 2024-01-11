@@ -2,13 +2,13 @@
 
 ![alt_text](Crossbreed.png)
 
-Crossbreeds trace their monstrous ancestry from the ancient monsters that bowed to the Bright Lord. These monsters were grafted consciousness and the form of the Bright Lord. However, due to the dilution and mixing of their ancestral bloodlines, the genetic gifts of their monsterous ancestry are lost to Crossbreeds. They are often referred to as Mudbloods due to their impure bloodlines.
+Crossbreeds trace their monstrous ancestry from the ancient monsters that bowed to the Bright Lord. These monsters were grafted consciousness and the form of the Bright Lord. However, due to the dilution and mixing of their ancestral bloodlines, the genetic gifts of their monstrous ancestry are lost to Crossbreeds. They are often referred to as Mudbloods due to their impure bloodlines.
 
 Some bloodlines become impure in a single generation while others take many generations.
 
 ## Distinctive Physical Features
 
-Crossbreed have realatively plain features as compared to the other races of Terra. Some Crossbreed may have some subtle features of their monsterous ancestry such as slight fangs, strange eyes, or they are a little hairier than most, it is almost a sure point that their children's children will not. Once a blood line has been crossed, the result is a forgone conclusion.
+Crossbreed have relatively plain features as compared to the other races of Terra. Some Crossbreed may have some subtle features of their monstrous ancestry such as slight fangs, strange eyes, or they are a little hairier than most, it is almost a sure point that their children's children will not. Once a blood line has been crossed, the result is a forgone conclusion.
 
 ## Culture
 
