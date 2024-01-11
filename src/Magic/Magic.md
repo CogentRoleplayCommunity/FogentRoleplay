@@ -241,15 +241,6 @@ If a Magic Skill has a range adjustment it is either moved up or down the table 
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
-### Melee
-
-Requires Level 0 in specific Magic skill
-
-- Penetration: 2
-- Effective/Max Range: Melee
-- Engageable Opponents: Rapid
-- Resource Requirement: 1 minimum
-
 ### Ranged
 
 Requires Level 0 in specific Magic skill
