@@ -1,6 +1,6 @@
 # Harpy
 
-![NotMyImage](./Harpy/Harpy.jpg)
+![NotMyImage](./Harpy.jpg)
 
 Harpies trace their monstrous ancestry from the ancient avian monsters that bowed to the Bright Lord. These monsters were grafted consciousness and the form of the Bright Lord.
 
