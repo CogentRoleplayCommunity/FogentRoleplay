@@ -46,3 +46,4 @@ Dependent on their draconic ancestor.
 - Undead Dragon: Soulcraft
 - Storm Dragon: Galecraft, Electrocraft
 - Nature Dragon: Naturecraft
+- (Make your own!)
