@@ -17,4 +17,4 @@ Use of Melee Cantrips in combat is genrally only reserved for dealing with minor
 
 **Magic skills required:**
 
-- Any magic (level -1)
+- Any magic capable of effect the material world (level -1)

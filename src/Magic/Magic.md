@@ -241,15 +241,6 @@ If a Magic Skill has a range adjustment it is either moved up or down the table 
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
-### Reach Melee
-
-Requires Level 1 in specific Magic skill
-
-- Penetration: 2
-- Effective/Max Range: Reach
-- Engageable Opponents: Rapid
-- Resource Requirement: 1 minimum
-
 ### Cone
 
 Represents a character unleashing an attack over an area represented by a cone. The table below shows default cones, with the width of the cone at any point equal to the distance from the user. However, any cone that doesn't exceed effective range or the Cone Area for a specified dice roll is acceptable.
