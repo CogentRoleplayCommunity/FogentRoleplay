@@ -7,7 +7,7 @@ Seakin or Sirens trace their monstrous ancestry from the sea monsters that bowed
 ## Distinctive Physical Features
 
 - Fin-like ears
-- Blue, green, purlple skin (other colors exist)
+- Blue, green, purple skin (other colors exist)
 - Distinctive natural markings
 
 ## Culture
