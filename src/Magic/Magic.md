@@ -393,8 +393,6 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 [Oil Spill](Spells/Novice/OilSpill.md)
 
-[Flame Tongued](Spells/Novice/)
-
 [Physical Protection](Spells/Novice/PhysicalProtection.md)
 
 [Slow Fall](Spells/Novice/SlowFall.md)
