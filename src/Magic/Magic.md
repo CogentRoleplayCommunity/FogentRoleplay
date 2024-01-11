@@ -241,18 +241,6 @@ If a Magic Skill has a range adjustment it is either moved up or down the table 
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
-### Focused
-
-Represent a character carefully aiming while still and focusing on a single powerful shot.
-
-Requires Level 1 in specific Magic skill
-
-- Penetration: 2
-- Resource Requirement: 1 minimum
-- Engageable Opponents: Focused
-- +1d6 to Combat Roll
-- No movement for the round
-
 ### AOE
 
 Represents a character unleashing an attack over an area centered on a point. If the AOE is centered on the user, they are not caught in their AOE emanating from them.
