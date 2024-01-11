@@ -241,33 +241,6 @@ If a Magic Skill has a range adjustment it is either moved up or down the table 
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
-### AOE
-
-Represents a character unleashing an attack over an area centered on a point. If the AOE is centered on the user, they are not caught in their AOE emanating from them.
-
-Requires Level 2 in specific Magic skill
-
-- Penetration: 3
-- Resource Requirement: 2 minimum
-- Engageable Opponents: Sphere
-- Effective/Max Range: Magic Roll Range - Circle Radius
-- AOE Radius: Magic Roll * 2.5 feet
-
-| Magic Roll | Circle Radius |
-| :--------: | :-----------: |
-|   1 dice   |    2.5 ft    |
-|   2 dice   |     5 ft     |
-|   3 dice   |    7.5 ft    |
-|   4 dice   |     10 ft     |
-|   5 dice   |    12.5 ft    |
-|   6 dice   |     15 ft     |
-|   7 dice   |    17.5 ft    |
-|   8 dice   |     20 ft     |
-|   9 dice   |    22.5 ft    |
-|  10 dice  |     25 ft     |
-|  11 dice  |    27.5 ft    |
-|  12 dice  |     30 ft     |
-
 ## Magic Spells
 
 Magic Spells are more complex types of magic that behave in very specific ways. Depending on the magic discipline, your may not contains any spells at all. However it is generally encouraged since they are loved by players and narrators alike.
