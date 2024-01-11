@@ -227,44 +227,39 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 ### Cantrips
 
-[Blade Barrier](Spells/Cantrip/BladeBarrier.md)
+- [Blade Barrier](Spells/Cantrip/BladeBarrier.md)
+- [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md)
+- [Minor Mirage](Spells/Cantrip/MinorMirage.md)
+- [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md)
+- [Thunder Blade](Spells/Cantrip/ThunderBlade.md)
+- [Wounding Words](Spells/Cantrip/WoundingWords.md)
 
-[Minor Mirage](Spells/Cantrip/MinorMirage.md)
+### Novice Spells
 
-[Thunder Blade](Spells/Cantrip/ThunderBlade.md)
+- [Babel's Clarity](Spells/Novice/Babel'sClarity.md)
+- [Bewitch](Spells/Novice/Bewitch.md)
+- [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
+- [Fling](Spells/Novice/Fling.md)
+- [Hellfire's Retribution](Spells/Novice/Hellfire'sRetribution.md)
+- [Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+- [Leap](Spells/Novice/Leap.md)
+- [Melee Magic](Spells/Novice/MeleeMagic.md)
+- [Mind Reading](Spells/Novice/MindReading.md)
+- [Noiseless Picture](Spells/Novice/NoiselessPicture.md)
+- [Oil Spill](Spells/Novice/OilSpill.md)
+- [Physical Protection](Spells/Novice/PhysicalProtection.md)
+- [Primal Kinship](Spells/Novice/PrimalKinship.md)
+- [Ranged Magic](Spells/Novice/RangedMagic.md)
+- [Slow Fall](Spells/Novice/SlowFall.md)
 
-[Wounding Words](Spells/Cantrip/WoundingWords.md)
+### Apprentice Spells
+- [Cone Magic](Spells/Apprentice/ConeMagic.md)
+- [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
+- [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
 
-### Novice Runes
+### Adept Spells
+- [Sphere Magic](Spells/Adept/SphereMagic.md)
 
-[Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
+### Expert Spells
 
-[Bewitch](Spells/Novice/Bewitch.md)
-
-[Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
-
-[Fling](Spells/Novice/Fling.md)
-
-[Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
-
-[Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
-
-[Mind Reading](Spells/Novice/MindReading.md)
-
-[Leap](Spells/Novice/Leap.md)
-
-[Slow Fall](Spells/Novice/SlowFall.md)
-
-[Oil Spill](Spells/Novice/OilSpill.md)
-
-[Physical Protection](Spells/Novice/PhysicalProtection.md)
-
-[Slow Fall](Spells/Novice/SlowFall.md)
-
-### Apprentice Runes
-
-[Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
-
-### Expert Runes
-
-### Master Rune
+### Master Spells
