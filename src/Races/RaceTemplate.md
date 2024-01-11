@@ -1,6 +1,6 @@
 # Name
 
-![NotMyImage](./Harpy.jpg)
+![NotMyImage]()
 
 
 ## Distinctive Physical Features
