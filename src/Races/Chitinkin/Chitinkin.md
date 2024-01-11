@@ -6,7 +6,8 @@ Chitinkin (or Kiki as they call themselves) trace their ancestry from the ancien
 
 ## Distinctive Physical Features
 
-Distinctive features of Chitinkin are their exoskeleton exteriors and insectoid-like traits.
+- Exoskeleton exteriors
+- Insectoid-like traits.
 
 ## Culture
 
