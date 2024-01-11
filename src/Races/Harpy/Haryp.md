@@ -32,3 +32,5 @@ From an early age, Harpies begin mastering the use of Galecraft, as flight is a 
 - Babelish
 
 ## Life Span
+
+150 - 200 years
