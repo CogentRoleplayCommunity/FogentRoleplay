@@ -1,0 +1,45 @@
+desc,damageTypes,rangeAdjustment,meleeCapable,magicResourceClass
+Radiance,Radiant,0,TRUE,Light
+Blessing,Radiant,0,TRUE,Light
+Polycraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Ichor
+Blazecraft,Fire,0,TRUE,Ichor
+Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",0,TRUE,Ichor
+Electrocraft,Electric,0,TRUE,Ichor
+Terracraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Ichor
+Galecraft,"Slash, Bludgeon, Shockwave",0,TRUE,Ichor
+Cryocraft,Cold,0,TRUE,Ichor
+Naturecraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Ichor
+Toxincraft,Poison,0,TRUE,Ichor
+Soulcraft,Spiritual,0,TRUE,Ichor
+Shadowcraft,Necrotic,0,TRUE,Ichor
+Mindcraft,Psychic,0,FALSE,Ichor
+Ferracraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Ichor
+Sonocraft,Shockwave,0,FALSE,Ichor
+Hemacraft,Bleed,0,TRUE,Ichor
+Spidercraft,"Suffocation, Bludgeon",0,TRUE,Ichor
+Plasmacraft,Fire,0,TRUE,Ichor
+Stormcraft,"Electric, Shockwave",0,TRUE,Ichor
+Magmacraft,"Fire, Bludgeon",0,TRUE,Ichor
+Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",0,TRUE,Ichor
+Fire Rune,Fire,0,FALSE,Focus
+Earth Rune,"Slash, Bludgeon, Hew, Pierce",0,FALSE,Focus
+Water Rune,"Suffocation, Slash, Bludgeon, Pierce",0,FALSE,Focus
+Air Rune,"Slash, Bludgeon, Shockwave",0,FALSE,Focus
+Electricity Rune,Electric,0,FALSE,Focus
+Cold Rune,Cold,0,FALSE,Focus
+Poison Rune,Poison,0,FALSE,Focus
+Blood Rune,Bleed,0,FALSE,Focus
+Light Rune,Radiant,0,FALSE,Focus
+Dark Rune,Necrotic,0,FALSE,Focus
+Sound Rune,Shockwave,0,FALSE,Focus
+Body Rune,,0,FALSE,Focus
+Mind Rune,Psychic,0,FALSE,Focus
+Soul Rune,Spiritual,0,FALSE,Focus
+Time Rune,,0,FALSE,Focus
+Strength Rune,,0,FALSE,Focus
+Gravity Rune,"Slash, Bludgeon, Hew, Pierce",0,FALSE,Focus
+Nature Rune,"Slash, Bludgeon, Pierce",0,FALSE,Focus
+Acid Rune,Acid,0,FALSE,Focus
+Shadow Magic,Necrotic,0,TRUE,Ichor
+Soul Magic,Spiritual,0,TRUE,Ichor
+Sporecraft,Necrotic,0,TRUE,Ichor

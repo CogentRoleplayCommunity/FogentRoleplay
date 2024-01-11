@@ -1,0 +1,8 @@
+desc,numDicePerEffectiveRangeUnit,ftPerEffectiveRangeUnit,roundEffectiveRangeUp,maxRange
+Close,2,5,FALSE,30
+Short,2,5,TRUE,60
+Medium,1,5,FALSE,120
+Extended,1,10,FALSE,320
+Long,1,15,FALSE,400
+Sharpshooter,1,20,FALSE,600
+Extreme,1,25,FALSE,700

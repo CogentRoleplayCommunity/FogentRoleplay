@@ -1,0 +1,8 @@
+desc,combatRollDivisor,maxEO
+Spear Rapid,2,2
+Rapid,2,None
+Quick,3,None
+Standard,4,None
+Slow,5,None
+Loading,6,None
+Complex Loading,10,None

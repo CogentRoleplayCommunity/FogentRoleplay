@@ -1,0 +1,18 @@
+desc,level,runeSlots,baseDice,durabilityMax
+Broken,-4,0,0d6,0
+Compromised,-3,0,3d4,3
+Damaged,-2,0,"2d4, 1d6",6
+Shoddy,-1,0,"1d4, 2d6",9
+Mundane,0,0,3d6,12
+Quality,1,1,"2d6, 1d8",15
+Fine,2,2,"1d6, 2d8",18
+Excellent,3,3,3d8,21
+Superior,4,4,"1d10, 2d8",24
+Exquisite,5,5,"2d10, 1d8",27
+Flawless,6,6,3d10,30
+Mastercraft,7,7,"1d12, 2d10",33
+Fabled,8,8,"2d12, 1d10",36
+Epic,9,9,3d12,39
+Legendary,10,10,"1d20, 2d12",42
+Mythic,11,11,"2d20, 1d12",45
+Artifact,12,12,3d20,48

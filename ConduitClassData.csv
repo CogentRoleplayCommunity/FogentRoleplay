@@ -1,0 +1,4 @@
+desc,oneHandedDice,twoHandedDice,dualWieldableBonus,penetration,rangeAdjustment,damageTypes,engageableOpponents,areaOfEffect,resourceClass,effectedMagicSkills
+Radiance Conduit,+0d6,+0d6,None,0,0,,None,None,None,Radiance
+Default Conduit,+0d6,+0d6,None,0,0,,None,None,None,Blazecraft
+Blazecraft Conduit,+1d6,+1d6,None,0,0,,None,None,None,Blazecraft
