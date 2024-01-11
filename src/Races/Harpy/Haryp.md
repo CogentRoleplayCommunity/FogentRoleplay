@@ -26,6 +26,7 @@ From an early age, Harpies begin mastering the use of Galecraft, as flight is a 
 
 ## Language
 
-Sky-tongue
+- Sky-tongue
+- Babelish
 
 ## Life Span

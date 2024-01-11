@@ -20,7 +20,8 @@ Reddland has become a powerful political player as during the Spore pandemic tha
 
 ## Language
 
-Pirish
+- Pirish
+- Babelish
 
 ## Life Span:
 

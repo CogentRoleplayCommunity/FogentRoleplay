@@ -18,7 +18,8 @@ The Isles of Crest are mainly inhabited by canine beastkin. They are a tribal pe
 
 ## Language
 
-Primal
+- Primal
+- Babelish
 
 ## Life Span
 

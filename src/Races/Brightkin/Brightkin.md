@@ -16,7 +16,8 @@ Devout followers of the Bright Lord and his pantheon, the Brightkin exhibit ferv
 
 ## Language
 
-Bright-speak
+- Bright-speak
+- Babelish
 
 ## Life Span
 
