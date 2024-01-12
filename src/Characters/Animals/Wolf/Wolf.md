@@ -28,7 +28,7 @@
 |  Humanoid Carry Weight  |             120 lb             |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |       Light Weight       | -0d6 to STR/RFX governed skills |          |               0% - 25% of carry weight               |
 | 4-Legged Movement Speed |              70 ft              |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|   4-Legged Swim Speed   |              15 ft              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
+|   4-Legged Swim Speed   |              15 ft              |          | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics) |
 |  4-Legged Climb Speed  |              0 ft              |          |    5 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
 
 ## Combat Rolls:
