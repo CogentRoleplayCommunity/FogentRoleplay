@@ -4,42 +4,42 @@
 
 ## Attributes and Core Skills
 
-| STR       | 0 |     | RFX             | 1 |     | INT               | 1 |     |
-| --------- | - | --- | --------------- | - | --- | ----------------- | - | --- |
-| Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 1 | 5d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 6d6 | General Knowledge | 0 | 4d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 1 | 5d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 3 | 7d6 | Willpower         | 1 | 5d6 |
+| STR       | 0   |     | RFX             | 1   |     | INT               | 1   |     |
+| --------- | --- | --- | --------------- | --- | --- | ----------------- | --- | --- |
+| Athletics | 1   | 4d6 | Acrobatics      | 1   | 5d6 | Communication     | 1   | 5d6 |
+| Climb     | 0   | 3d6 | Perception      | 2   | 6d6 | General Knowledge | 0   | 4d6 |
+| Endurance | 0   | 4d6 | Sleight of Hand | 1   | 5d6 | Survival          | 0   | 3d6 |
+| Lift      | 0   | 3d6 | Stealth         | 3   | 7d6 | Willpower         | 1   | 5d6 |
 
 ## Vocations and Vocational Skills
 
-| Rogue {RFX, INT}     | 3 | 7d6 |
-| -------------------- | - | --- |
-| Medium Sword {ALL}   | 3 | 8d6 |
-| Light Crossbow {ALL} | 2 | 7d6 |
+| Rogue {RFX, INT}     | 3   | 7d6 |
+| -------------------- | --- | --- |
+| Medium Sword {ALL}   | 3   | 8d6 |
+| Light Crossbow {ALL} | 2   | 7d6 |
 
 ## Info:
 
-|                  Name                  |                                Effect                                | Duration |                        Source                        |
-| :-------------------------------------: | :------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|               Medium Size               |                        5x5 ft on battle map.                        |          |                                                      |
-|           Language: Babelish           |                         Can speak Babelish.                         |          |                                                      |
-|            Language: Demonic            |                          Can speak Demonic.                          |          |                                                      |
-| Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                        Injury                        |
-|            Inventory Weight            |                             20.0075 lb                             |          |                       Equipment                       |
-|          Humanoid Carry Weight          |                                120 lb                                |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
-|              Light Weight              |                   -0d6 to STR/RFX governed skills                   |          |               0% - 25% of carry weight               |
+|                  Name                   |                               Effect                                | Duration |                        Source                         |
+| :-------------------------------------: | :-----------------------------------------------------------------: | :------: | :---------------------------------------------------: |
+|               Medium Size               |                        5x5 ft on battle map.                        |          |                                                       |
+|           Language: Babelish            |                         Can speak Babelish.                         |          |                                                       |
+|            Language: Demonic            |                         Can speak Demonic.                          |          |                                                       |
+| Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                        Injury                         |
+|            Inventory Weight             |                             20.0075 lb                              |          |                       Equipment                       |
+|          Humanoid Carry Weight          |                               120 lb                                |          |  120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0)  |
+|              Light Weight               |                   -0d6 to STR/RFX governed skills                   |          |               0% - 25% of carry weight                |
 |         Humanoid Movement Speed         |                                45 ft                                |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|           Humanoid Swim Speed           |                                20 ft                                |          | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics) |
-|          Humanoid Climb Speed          |                                15 ft                                |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
+|           Humanoid Swim Speed           |                                20 ft                                |          | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)  |
+|          Humanoid Climb Speed           |                                15 ft                                |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
 
 ## Combat Rolls:
 
-| Name                              |   One<br />Handed   |   Two<br />Handed   |  Dual<br />Wielded  | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| Name                              |   One<br />Handed    |   Two<br />Handed    |  Dual<br />Wielded   | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | --------------------------------- | :------------------: | :------------------: | :------------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Epilogue - Medium Thrusting Sword | 3d8,6d6<br />(+1d6) | 3d8, 7d6<br />(+2d6) | 3d8, 7d6<br />(+1d6) |      2      |  Melee  |      Pierce      |    4/5/5<br />(Rapid)    |        None        |        None        |
-| Epilogue - Medium Slashing Sword  | 3d8, 7d6<br />(+2d6) | 3d8, 8d6<br />(+3d6) | 3d8, 8d6<br />(+1d6) |      0      |  Melee  |       Slash       |    5/5/5<br />(Rapid)    |        None        |        None        |
-| Light Crossbow                    |         None         |   6d6<br />(+1d6)   |         None         |      0      | Extended |                  |          Loading          |        None        |        Bolt        |
+| Epilogue - Medium Thrusting Sword | 3d8,6d6<br />(+1d6)  | 3d8, 7d6<br />(+2d6) | 3d8, 7d6<br />(+1d6) |      2      |  Melee   |      Pierce       |    4/5/5<br />(Rapid)     |        None         |        None         |
+| Epilogue - Medium Slashing Sword  | 3d8, 7d6<br />(+2d6) | 3d8, 8d6<br />(+3d6) | 3d8, 8d6<br />(+1d6) |      0      |  Melee   |       Slash       |    5/5/5<br />(Rapid)     |        None         |        None         |
+| Light Crossbow                    |         None         |   6d6<br />(+1d6)    |         None         |      0      | Extended |                   |          Loading          |        None         |        Bolt         |
 
 | Name          | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | ------------- | ------------------- | ------------------ | ----------- | ----- | ----------------- | ------------------- |
@@ -47,16 +47,16 @@
 
 ## Equipment:
 
-| Name                                | #  | Class                                         | Tier      | Durability | LB    | Value  |
-| ----------------------------------- | -- | --------------------------------------------- | --------- | ---------- | ----- | ------ |
-| Epilogue                            | 1  | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?      |
-| Light Crossbow                      | 1  | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc  |
-| Barbed Broadhead Bolt               | 20 | Wounding Bolt                                 | Mundane   | -          | 0.075 | 1.4 bc |
-| Case, Crossbow Bolts (capacity: 20) | 1  | Misc                                          | Mundane   |            | 1     | 1 bc   |
-|                                     |    |                                               |           |            |       |        |
-| Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc   |
-| Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc   |
-| Leather Cuirass and Pauldrons       | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 4     | 3 bc   |
+| Name                                | #   | Class                                         | Tier      | Durability | LB    | Value  |
+| ----------------------------------- | --- | --------------------------------------------- | --------- | ---------- | ----- | ------ |
+| Epilogue                            | 1   | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?      |
+| Light Crossbow                      | 1   | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc  |
+| Barbed Broadhead Bolt               | 20  | Wounding Bolt                                 | Mundane   | -          | 0.075 | 1.4 bc |
+| Case, Crossbow Bolts (capacity: 20) | 1   | Misc                                          | Mundane   |            | 1     | 1 bc   |
+|                                     |     |                                               |           |            |       |        |
+| Gambeson Coat                       | 1   | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc   |
+| Gambeson Leggings                   | 1   | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc   |
+| Leather Cuirass and Pauldrons       | 1   | Phy. Def. 0.5                                 | Mundane   | 12/12      | 4     | 3 bc   |
 
 ## Destiny Points: 0/3
 

@@ -4,50 +4,50 @@
 
 ## Attributes and Core Skills
 
-| STR       | 0 |    | RFX             | 1 |    | INT               | -1 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 2 | 6d6 | Communication     | 0 | 2d6 |
-| Climb     | 1 | 4d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 2d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 2d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 2d6 |
+| STR       |   0   |       | RFX             |   1   |       | INT               |  -1   |       |
+| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
+| Athletics |   0   |  3d6  | Acrobatics      |   2   |  6d6  | Communication     |   0   |  2d6  |
+| Climb     |   1   |  4d6  | Perception      |   1   |  5d6  | General Knowledge |   0   |  2d6  |
+| Endurance |   0   |  3d6  | Sleight of Hand |   0   |  4d6  | Survival          |   0   |  2d6  |
+| Lift      |   0   |  3d6  | Stealth         |   1   |  5d6  | Willpower         |   0   |  2d6  |
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 2 | 6d6 | Fellkin {ALL}   | 0  | 4d6 |
-| ------------------- | :-: | :-: | --------------- | -- | --- |
-| Large Hafted {ALL} | 2 | 5d6 | Sonocraft {ALL} | -1 | 3d6 |
+| Monk {RFX}         |   2   |  6d6  | Fellkin {ALL}   | 0   | 4d6 |
+| ------------------ | :---: | :---: | --------------- | --- | --- |
+| Large Hafted {ALL} |   2   |  5d6  | Sonocraft {ALL} | -1  | 3d6 |
 
 ## Effects
 
-|          Name          |                            Effect                            | Duration |                                                                   Source                                                                   |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                               Fellkin blood                                                               |
-| Physical Defense Level |                               1                               |          |                                                                   Armor                                                                   |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                            |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                                            |
-|    Language: Primal    |                       Can speak Primal.                       |          |                                                                                                                                            |
-|  Disabling: Dim-witted  |                            -1 INT                            |          |                                                                                                                                            |
-|    Inventory Weight    |                             14 lb                             |          |                                                                 Equipment                                                                 |
-|  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                                          0% - 25% of carry weight                                                          |
-| Humanoid Movement Speed |                             40 ft                             |          |                                         30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
-|   Humanoid Swim Speed   |                             15 ft                             |          |                                         15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                                         |
-|  Humanoid Climb Speed  |                             20 ft                             |          |                                            15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                            |
+|          Name           |                            Effect                             | Duration |                                                                  Source                                                                  |
+| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
+| Physical Defense Level  |                               1                               |          |                                                                  Armor                                                                   |
+|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
+|   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                                          |
+|    Language: Primal     |                       Can speak Primal.                       |          |                                                                                                                                          |
+|  Disabling: Dim-witted  |                            -1 INT                             |          |                                                                                                                                          |
+|    Inventory Weight     |                             14 lb                             |          |                                                                Equipment                                                                 |
+|  Humanoid Carry Weight  |                            120 lb                             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|      Light Weight       |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
+| Humanoid Movement Speed |                             40 ft                             |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
+|   Humanoid Swim Speed   |                             15 ft                             |          |                                        15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                                         |
+|  Humanoid Climb Speed   |                             20 ft                             |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
 
 ## Combat Rolls
 
-|           Name           |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|           Name           |   One<br />Handed    |   Two<br />Handed    | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Sonocraft - Melee Trick |         3d6         |                      |                  |      0      | Melee |     Shockwave     |           Rapid           |                    |        None        |
-| Sonocraft - Ranged Trick |         3d6         |                      |                  |      0      | Close |     Shockwave     |         Standard         |                    |        None        |
-|    Small Hafted Blunt    | 3d8, 2d6<br />(+0d6) |     <br />(+0d6)     |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|   Medium Hafted Blunt   | 3d8, 2d6<br />(+0d6) | 3d8, 3d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Large Hafted Blunt    |  3d8, 1d6<br />(-1)  | 3d8, 3d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Reach Hafted Blunt    |    3d8<br />(-2)    | 3d8, 4d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
+| Sonocraft - Melee Trick  |         3d6          |                      |                   |      0      | Melee |     Shockwave     |           Rapid           |                     |        None         |
+| Sonocraft - Ranged Trick |         3d6          |                      |                   |      0      | Close |     Shockwave     |         Standard          |                     |        None         |
+|    Small Hafted Blunt    | 3d8, 2d6<br />(+0d6) |     <br />(+0d6)     |      (+1d6)       |      2      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
+|   Medium Hafted Blunt    | 3d8, 2d6<br />(+0d6) | 3d8, 3d6<br />(+1d6) |      (+1d6)       |      4      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
+|    Large Hafted Blunt    |  3d8, 1d6<br />(-1)  | 3d8, 3d6<br />(+1d6) |       None        |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
+|    Reach Hafted Blunt    |    3d8<br />(-2)     | 3d8, 4d6<br />(+2d6) |       None        |      5      | Reach |     Bludgeon      |           Rapid           |        None         |        None         |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|       |                     |                    |             |       |                   |                     |
 
 ## Destiny Points: 0/3
 
@@ -55,19 +55,19 @@
 
 ## Equipment:
 
-| Name                          | # |                                                  Class                                                  |   Tier   | Durability | LB |  Value  |
-| ----------------------------- | :-: | :-----------------------------------------------------------------------------------------------------: | :-------: | :--------: | :-: | :-----: |
-| Leather Cuirass and Pauldrons | 1 |                                             Phy. Def. 1.00                                             |  Quality  |   15/15   | 6 | 3.63 bc |
-| Clothes, Traveler             | 1 |                                                  Misc                                                  |  Mundane  |            | 4 |  5 bc  |
-| Monkey Staff                  | 1 | Extendable Weapon, Small Hafted Blunt, Medium Hafted Blunt,<br />Large Hafted Blunt, Reach Hafted Blunt | Excellent |   21/21   | 4 |    ?    |
+| Name                          |   #   |                                                  Class                                                  |   Tier    | Durability |  LB   |  Value  |
+| ----------------------------- | :---: | :-----------------------------------------------------------------------------------------------------: | :-------: | :--------: | :---: | :-----: |
+| Leather Cuirass and Pauldrons |   1   |                                             Phy. Def. 1.00                                              |  Quality  |   15/15    |   6   | 3.63 bc |
+| Clothes, Traveler             |   1   |                                                  Misc                                                   |  Mundane  |            |   4   |  5 bc   |
+| Monkey Staff                  |   1   | Extendable Weapon, Small Hafted Blunt, Medium Hafted Blunt,<br />Large Hafted Blunt, Reach Hafted Blunt | Excellent |   21/21    |   4   |    ?    |
 
 ## Containers
 
-| Name              | # |      Class      |  Tier  | Durability |  LB  | Value |
-| ----------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 2 |    Currency    | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 33 |    Currency    | Mundane |            | 0.02 | 1 cc |
+| Name              |   #   |      Class      |  Tier   | Durability |  LB   | Value |
+| ----------------- | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
+| Backpack (1 ft^3) |   1   | 30 lb container | Mundane |            |   5   | 2 bc  |
+| Bronze Coin       |   2   |    Currency     | Mundane |            | 0.02  | 1 bc  |
+| Copper Coin       |  33   |    Currency     | Mundane |            | 0.02  | 1 cc  |
 
 ## Notes
 

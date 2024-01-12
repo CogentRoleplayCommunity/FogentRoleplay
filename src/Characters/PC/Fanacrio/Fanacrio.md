@@ -4,76 +4,76 @@
 
 ## Attributes and Core Skills
 
-| STR       | 0 |    | RFX             | 0 |    | INT               | 2 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 7d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 7d6 |
-| Endurance | 1 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 6d6 |
-| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Willpower         | -1 | 4d6 |
+| STR       |   0   |       | RFX             |   0   |       | INT               |   2   |       |
+| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
+| Athletics |   0   |  3d6  | Acrobatics      |   0   |  3d6  | Communication     |   2   |  7d6  |
+| Climb     |   0   |  3d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  7d6  |
+| Endurance |   1   |  4d6  | Sleight of Hand |   0   |  3d6  | Survival          |   1   |  6d6  |
+| Lift      |   0   |  3d6  | Stealth         |   0   |  3d6  | Willpower         |  -1   |  4d6  |
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}   | 3 | 8d6 | Royal Morraki {INT} | 0 | 5d6 |
-| --------------- | :-: | :-: | ------------------- | - | --- |
-| Mindcraft {ALL} | 3 | 8d6 | Medium Hafted       | 0 | 5d6 |
-| Sonocraft {ALL} | 3 | 8d6 |                     |   |     |
-| Polycraft {ALL} | 1 | 6d6 |                     |   |     |
-| Galecraft {ALL} | 0 | 5d6 |                     |   |     |
+| Fellkin {ALL}   |   3   |  8d6  | Royal Morraki {INT} | 0   | 5d6 |
+| --------------- | :---: | :---: | ------------------- | --- | --- |
+| Mindcraft {ALL} |   3   |  8d6  | Medium Hafted       | 0   | 5d6 |
+| Sonocraft {ALL} |   3   |  8d6  |                     |     |     |
+| Polycraft {ALL} |   1   |  6d6  |                     |     |     |
+| Galecraft {ALL} |   0   |  5d6  |                     |     |     |
 
 ## Effects
 
-|          Name          |                            Effect                            | Duration |                                                    Source                                                    |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                Fellkin blood                                                |
-| Physical Defense Level |                               4                               |          |                                                    Armor                                                    |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                              |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                              |
-|    Language: Kikishi    |                      Can speak Kikishi.                      |          |                                                                                                              |
-|       Disabling:       |                                                              |          |                                                                                                              |
-|       Disabling:       |                                                              |          |                                                                                                              |
-|    Inventory Weight    |                             27 lb                             |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
-| Humanoid Movement Speed |                            30 ft                            |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
-|   Humanoid Swim Speed   |                             20 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
-|  Humanoid Climb Speed  |                             15 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+|          Name           |                            Effect                             | Duration |                                                                  Source                                                                  |
+| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
+| Physical Defense Level  |                               4                               |          |                                                                  Armor                                                                   |
+|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
+|   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                                          |
+|    Language: Kikishi    |                      Can speak Kikishi.                       |          |                                                                                                                                          |
+|       Disabling:        |                                                               |          |                                                                                                                                          |
+|       Disabling:        |                                                               |          |                                                                                                                                          |
+|    Inventory Weight     |                             27 lb                             |          |                                                                Equipment                                                                 |
+|  Humanoid Carry Weight  |                            120 lb                             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|      Light Weight       |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
+| Humanoid Movement Speed |                             30 ft                             |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
+|   Humanoid Swim Speed   |                             20 ft                             |          |                                        15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                                         |
+|  Humanoid Climb Speed   |                             15 ft                             |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
 
 ## Combat Rolls
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  Mindcraft - Melee Trick  |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Mindcraft - Ranged Trick |       8d6       |                |                  |      0      | Long |                  |         Standard         |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Mindcraft - Ranged    |       9d6       |                |                  |      1      | Long |                  |         Standard         |                    |      1 (Ichor)      |
-|     Mindcraft - Cone     |       9d6       |                |                  |      2      | Long |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|     Mindcraft- Reach     |       9d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   Mindcraft - Focused   |      10d6      |                |                  |      2      | Long |                  |          Focused          |                    |      1 (Ichor)      |
-|    Mindcraft - Sphere    |      10d6      |                |                  |      3      | Long |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-|  Sonocraft - Melee Trick  |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Sonocraft - Ranged Trick |       8d6       |                |                  |      0      | Long |                  |         Standard         |                    |        None        |
-|     Sonocraft - Melee     |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Sonocraft - Ranged    |       9d6       |                |                  |      1      | Long |                  |         Standard         |                    |      1 (Ichor)      |
-|     Sonocraft - Cone     |       9d6       |                |                  |      2      | Long |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|     Sonocraft - Reach     |       9d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Sonocraft - Focused    |      10d6      |                |                  |      2      | Long |                  |          Focused          |                    |      1 (Ichor)      |
-|    Sonocraft - Sphere    |      10d6      |                |                  |      3      | Long |                  |          Focused          |       Sphere       |      2 (Ichor)      |
-|  Polycraft - Melee Trick  |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|     Polycraft - Melee     |       7d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Polycraft - Ranged    |       7d6       |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     Polycraft - Cone     |       7d6       |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|     Polycraft - Reach     |       7d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Polycraft - Focused    |       8d6       |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|  Galecraft - Melee Trick  |       5d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| Galecraft - Ranged Trick |       5d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|     Galecraft - Melee     |       6d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    Galecraft - Ranged    |       6d6       |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|    Medium Hafted Blunt    | 5d6<br />(+0d6) | 6d6<br />(+1d6) |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
+| Mindcraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
+|    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
+|    Mindcraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Ichor)      |
+|     Mindcraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Ichor)      |
+|     Mindcraft- Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
+|   Mindcraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Ichor)      |
+|    Mindcraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+| Sonocraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
+| Sonocraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
+|    Sonocraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
+|    Sonocraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Ichor)      |
+|     Sonocraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Ichor)      |
+|    Sonocraft - Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
+|   Sonocraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Ichor)      |
+|    Sonocraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+| Polycraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
+| Polycraft - Ranged Trick |       6d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
+|    Polycraft - Melee     |       7d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
+|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
+|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Ichor)      |
+|    Polycraft - Reach     |       7d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
+|   Polycraft - Focused    |       8d6       |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Ichor)      |
+| Galecraft - Melee Trick  |       5d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
+| Galecraft - Ranged Trick |       5d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
+|    Galecraft - Melee     |       6d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
+|    Galecraft - Ranged    |       6d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
+|   Medium Hafted Blunt    | 5d6<br />(+0d6) | 6d6<br />(+1d6) |       +1d6        |      4      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|       |                     |                    |             |       |                   |                     |
 
 ## Destiny Points: 2/3
 
@@ -81,25 +81,25 @@
 
 ## Equipment
 
-| Name                                 | # |                  Class                  |   Tier   | Durability | LB | Value |
-| ------------------------------------ | :-: | :--------------------------------------: | :------: | :--------: | :-: | :----: |
-| Superior Gambeson Coat               | 1 |               Phy. Def. 1               | Superior |   24/24   | 5 |  2 bc  |
-| Superior Gambeson Leggings           | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 3 |  1 bc  |
-| Superior Leather Helmet              | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 2 | 0.5 bc |
-| Superior Leather Cuisses and Greaves | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 3 |  2 bc  |
-| Superior Leather Vambrace            | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 2 | 1.5 bc |
-| Shoddy Morraki Attire/Cloak          | 1 |                   Misc                   | Mundane |            | 4 | 15 bc |
-| Buckler Shield                       | 1 |               Phy. Def. 1               | Mundane |   12/12   | 4 |  2 bc  |
-| Morning Star                         | 1 | Medium Hafted Blunt, Medium Hafted Point | Mundane |   12/12   | 4 | 15 bc |
+| Name                                 |   #   |                  Class                   |   Tier   | Durability |  LB   | Value  |
+| ------------------------------------ | :---: | :--------------------------------------: | :------: | :--------: | :---: | :----: |
+| Superior Gambeson Coat               |   1   |               Phy. Def. 1                | Superior |   24/24    |   5   |  2 bc  |
+| Superior Gambeson Leggings           |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   3   |  1 bc  |
+| Superior Leather Helmet              |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   2   | 0.5 bc |
+| Superior Leather Cuisses and Greaves |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   3   |  2 bc  |
+| Superior Leather Vambrace            |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   2   | 1.5 bc |
+| Shoddy Morraki Attire/Cloak          |   1   |                   Misc                   | Mundane  |            |   4   | 15 bc  |
+| Buckler Shield                       |   1   |               Phy. Def. 1                | Mundane  |   12/12    |   4   |  2 bc  |
+| Morning Star                         |   1   | Medium Hafted Blunt, Medium Hafted Point | Mundane  |   12/12    |   4   | 15 bc  |
 
 ## Containers
 
-| Name                                   | # |      Class      |   Tier   | Durability | LB | Value |
-| -------------------------------------- | :-: | :-------------: | :-------: | :--------: | :-: | :---: |
-| Backpack (1 ft^3)                      | 1 | 30 lb container |  Mundane  |            | 5 | 2 bc |
-| Kite Shield (Dawn Emp. Crest)          | 1 |   Phy. Def. 2   | Superior |   24/24   | 8 | 30 bc |
-| Superior Leather Cuirass and Pauldrons | 1 |  Phy. Def. 0.5  | Superior |   24/24   | 4 | 3 bc |
-| 30 lb of gold and gems                 | 1 |      Misc      | Exquisite |     -     | 30 |   ?   |
+| Name                                   |   #   |      Class      |   Tier    | Durability |  LB   | Value |
+| -------------------------------------- | :---: | :-------------: | :-------: | :--------: | :---: | :---: |
+| Backpack (1 ft^3)                      |   1   | 30 lb container |  Mundane  |            |   5   | 2 bc  |
+| Kite Shield (Dawn Emp. Crest)          |   1   |   Phy. Def. 2   | Superior  |   24/24    |   8   | 30 bc |
+| Superior Leather Cuirass and Pauldrons |   1   |  Phy. Def. 0.5  | Superior  |   24/24    |   4   | 3 bc  |
+| 30 lb of gold and gems                 |   1   |      Misc       | Exquisite |     -      |  30   |   ?   |
 
 ## Notes
 
@@ -118,7 +118,7 @@ Fanácrio has been getting his mind repaired over the gap between season 2 & 3. 
 Fanácrio, being the only one proficient in mindcraft, is the hub of the group's mind. There is something else that has infiltrated, another entity.
 Leodelphian assassins are called “Fangs”
 Uhtred is a street rat. Is an orphan. Byoka was a friend from the orphanage, they were family. Uhtred went to Reddwall (Story of the Blood Princess). Saw Byoka in Reddwall a few days before. Finnan kamikaze during terrorist. {Caught stealing food from a rich man.} Byoka is the one wielding the terrorist,
-Brightkin cant die, but there is a price to be paid or a gift in some due, Everytime they come back, a part of them dies and is replaced with aspects of the brightlord.
+Brightkin cant die, but there is a price to be paid or a gift in some due, every time they come back, a part of them dies and is replaced with aspects of the brightlord.
 The war is at a standhill, buildiung up reserves at the Crimson Hills. Reddland deployed a new strategy.item, a runecraft mechanical contraption, which resulted in a devastating loss for the empire.
 Why do you live here in such an awful territory for kikki? I am aiding those who have brought me life. I have loyalty, unlike some kikki who have lost their way.
 Mercenary is over his head, bound by his master. Seaspeak to unlock the collar.

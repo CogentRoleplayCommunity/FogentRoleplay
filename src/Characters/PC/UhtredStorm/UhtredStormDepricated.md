@@ -1,64 +1,64 @@
-# Uhtred Storm (Depreicated)
+# Uhtred Storm (Depreciated)
 
 ![alt_text](UhtredStorm.png)
 
 ## Attributes and Core Skills
 
-| STR       | 0 |    | RFX             | 2 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 5d6 | Acrobatics      | 0 | 5d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 7d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 6d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 0 | 5d6 | Willpower         | 0 | 3d6 |
+| STR       |   0   |       | RFX             |   2   |       | INT               |   0   |       |
+| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
+| Athletics |   2   |  5d6  | Acrobatics      |   0   |  5d6  | Communication     |   0   |  3d6  |
+| Climb     |   0   |  3d6  | Perception      |   2   |  7d6  | General Knowledge |   0   |  3d6  |
+| Endurance |   0   |  3d6  | Sleight of Hand |   1   |  6d6  | Survival          |   0   |  3d6  |
+| Lift      |   0   |  3d6  | Stealth         |   0   |  5d6  | Willpower         |   0   |  3d6  |
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        | 3 | 8d6 | Brightkin {ALL} | 2  | 7d6 |
-| ------------------ | :-: | :-: | --------------- | -- | --- |
-| Medium Sword {ALL} | 3 | 8d6 | Radiance {ALL}  | 2  | 7d6 |
-|                    | 0 | 3d6 | Blessing {ALL}  | -1 | 4d6 |
-|                    | 0 | 3d6 | Additonal Trick | -1 | 4d6 |
+| Guard {RFX}        |   3   |  8d6  | Brightkin {ALL} | 2   | 7d6 |
+| ------------------ | :---: | :---: | --------------- | --- | --- |
+| Medium Sword {ALL} |   3   |  8d6  | Radiance {ALL}  | 2   | 7d6 |
+|                    |   0   |  3d6  | Blessing {ALL}  | -1  | 4d6 |
+|                    |   0   |  3d6  | Additional Trick | -1  | 4d6 |
 
 ## Effects
 
-|                Name                |                            Effect                            | Duration |                                                    Source                                                    |
-| :--------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|       Minor Silver Weakness       | (+1) to the level of injury<br />received from Silver damage. |          |                                                Fellkin blood                                                |
-|       Physical Defense Level       |                               3                               |          |                                                    Armor                                                    |
-|            Medium Size            |                     5x5 ft on battle map.                     |          |                                                                                                              |
-|         Language: Babelish         |                      Can speak Babelish.                      |          |                                                                                                              |
-|  Disabling: Incontrollable Grief  | Overwhelming grief that is triggered reminder of past trauma. |          |                                                                                                              |
-| Disabling: Bright Lord's Influence |    Character is influenced by forces beyond their control.    |          |                                                                                                              |
-|          Inventory Weight          |                            25.1 lb                            |          |                                                  Equipment                                                  |
-|       Humanoid Carry Weight       |                            120 lb                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|            Light Weight            |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
-|      Humanoid Movement Speed      |                             50 ft                             |          |                          30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                          |
-|        Humanoid Swim Speed        |                             25 ft                             |          |                          15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                          |
-|        Humanoid Climb Speed        |                             15 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+|                Name                |                            Effect                             | Duration |                                                                  Source                                                                  |
+| :--------------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|       Minor Silver Weakness        | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
+|       Physical Defense Level       |                               3                               |          |                                                                  Armor                                                                   |
+|            Medium Size             |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
+|         Language: Babelish         |                      Can speak Babelish.                      |          |                                                                                                                                          |
+|  Disabling: Incontrollable Grief   | Overwhelming grief that is triggered reminder of past trauma. |          |                                                                                                                                          |
+| Disabling: Bright Lord's Influence |    Character is influenced by forces beyond their control.    |          |                                                                                                                                          |
+|          Inventory Weight          |                            25.1 lb                            |          |                                                                Equipment                                                                 |
+|       Humanoid Carry Weight        |                            120 lb                             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|            Light Weight            |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
+|      Humanoid Movement Speed       |                             50 ft                             |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
+|        Humanoid Swim Speed         |                             25 ft                             |          |                                        15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                                         |
+|        Humanoid Climb Speed        |                             15 ft                             |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
 
 ## Combat Rolls
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|          Name           | One<br />Handed  | Two<br />Handed  | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------------------: | :--------------: | :--------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Radiance - Melee Trick |     2d8, 5d6     |                  |                  |      0      |  Melee  |      Radiant      |           Rapid           |                    |        None        |
-| Radiance - Ranged Trick |     2d8, 5d6     |                  |                  |      0      | Extended |      Radiant      |         Standard         |                    |        None        |
-|    Radiance - Melee    |     2d8, 6d6     |                  |                  |      2      |  Melee  |      Radiant      |           Rapid           |                    |      1 (Ichor)      |
-|    Radiance - Ranged    |     2d8, 6d6     |                  |                  |      1      | Extended |      Radiant      |         Standard         |                    |      1 (Ichor)      |
-|     Radiance - Cone     |     2d8, 6d6     |                  |                  |      2      | Extended |      Radiant      |          Focused          |        Cone        |      1 (Ichor)      |
-|    Radiance - Reach    |     2d8, 6d6     |                  |                  |      2      |  Reach  |      Radiant      |           Rapid           |                    |      1 (Ichor)      |
-|   Radiance - Focused   |     2d8, 7d6     |                  |                  |      2      | Extended |      Radiant      |          Focused          |                    |      1 (Ichor)      |
-|    Radiance - Sphere    |     2d8, 7d6     |                  |                  |      3      | Extended |      Radiant      |          Focused          |       Sphere       |      2 (Ichor)      |
-| Blessing - Melee Trick |       4d6       |                  |                  |      0      |  Melee  |                  |           Rapid           |                    |        None        |
-| Blessing - Ranged Trick |       4d6       |                  |                  |      0      |  Close  |                  |         Standard         |                    |        None        |
-| Medium Thrusting Sword | 9d6<br />(+1d6) | 10d6<br />(+2d6) | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
-|  Medium Slashing Sword  | 10d6<br />(+2d6) | 11d6<br />(+3d6) | 11d6<br />(+1d6) |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
-|  Small Thrusting Point  | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
-|  Small Slashing Blade  | 8d6<br />(+1d6) | 8d6<br />(+1d6) |  9d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
-|   Thrown Small Point   | 7d6<br />(+0d6) | 7d6<br />(+0d6) |       None       |      1      |  Short  |      Pierce      |           Quick           |        None        |        None        |
+| Radiance - Melee Trick  |     2d8, 5d6     |                  |                   |      0      |  Melee   |      Radiant      |           Rapid           |                     |        None         |
+| Radiance - Ranged Trick |     2d8, 5d6     |                  |                   |      0      | Extended |      Radiant      |         Standard          |                     |        None         |
+|    Radiance - Melee     |     2d8, 6d6     |                  |                   |      2      |  Melee   |      Radiant      |           Rapid           |                     |      1 (Ichor)      |
+|    Radiance - Ranged    |     2d8, 6d6     |                  |                   |      1      | Extended |      Radiant      |         Standard          |                     |      1 (Ichor)      |
+|     Radiance - Cone     |     2d8, 6d6     |                  |                   |      2      | Extended |      Radiant      |          Focused          |        Cone         |      1 (Ichor)      |
+|    Radiance - Reach     |     2d8, 6d6     |                  |                   |      2      |  Reach   |      Radiant      |           Rapid           |                     |      1 (Ichor)      |
+|   Radiance - Focused    |     2d8, 7d6     |                  |                   |      2      | Extended |      Radiant      |          Focused          |                     |      1 (Ichor)      |
+|    Radiance - Sphere    |     2d8, 7d6     |                  |                   |      3      | Extended |      Radiant      |          Focused          |       Sphere        |      2 (Ichor)      |
+| Blessing - Melee Trick  |       4d6        |                  |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
+| Blessing - Ranged Trick |       4d6        |                  |                   |      0      |  Close   |                   |         Standard          |                     |        None         |
+| Medium Thrusting Sword  | 9d6<br />(+1d6)  | 10d6<br />(+2d6) | 10d6<br />(+1d6)  |      2      |  Melee   |      Pierce       |           Rapid           |        None         |        None         |
+|  Medium Slashing Sword  | 10d6<br />(+2d6) | 11d6<br />(+3d6) | 11d6<br />(+1d6)  |      0      |  Melee   |       Slash       |           Rapid           |        None         |        None         |
+|  Small Thrusting Point  | 7d6<br />(+0d6)  | 7d6<br />(+0d6)  |  8d6<br />(+1d6)  |      2      |  Melee   |      Pierce       |           Rapid           |        None         |        None         |
+|  Small Slashing Blade   | 8d6<br />(+1d6)  | 8d6<br />(+1d6)  |  9d6<br />(+1d6)  |      0      |  Melee   |       Slash       |           Rapid           |        None         |        None         |
+|   Thrown Small Point    | 7d6<br />(+0d6)  | 7d6<br />(+0d6)  |       None        |      1      |  Short   |      Pierce       |           Quick           |        None         |        None         |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|       |                     |                    |             |       |                   |                     |
 
 ## Destiny Points: 2/3
 
@@ -66,27 +66,27 @@
 
 ## Equipment
 
-| Name                                 | # |                              Class                              |   Tier   | Durability | LB | Value |
-| ------------------------------------ | :-: | :-------------------------------------------------------------: | :------: | :--------: | :-: | :----: |
-| Superior Gambeson Coat               | 1 |                           Phy. Def. 1                           | Superior |   24/24   |  5  |  2 bc  |
-| Superior Gambeson Leggings           | 1 |                          Phy. Def. 0.5                          | Superior |   24/24   |  3  |  1 bc  |
-| Superior Leather Helmet              | 1 |                          Phy. Def. 0.5                          | Superior |   24/24   |  2  | 0.5 bc |
-| Superior Leather Cuisses and Greaves | 1 |                          Phy. Def. 0.5                          | Superior |   24/24   |  3  |  2 bc  |
-| Superior Leather Vambrace            | 1 |                          Phy. Def. 0.5                          | Superior |   24/24   |  2  | 1.5 bc |
-| Clothes, Fine                        | 1 |                              Misc                              | Mundane |            |  6  | 15 bc |
-| Asher's Arms Swordbreaker            | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Blade |   Fine   |   18/18   |  1  |   ?   |
-| Spencer's Arms Arming Sword          | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Superior |   24/24   |  2  | 20 bc |
-| Adversary - Damaged                  | 1 |                        Radiance Conduit                        |   Fine   |   18/18   |  1  |   ?   |
-| Mother's Necklace                    | 1 |                              Misc                              | Mundane |            | 0.1 |   ?   |
+| Name                                 |   #   |                              Class                              |   Tier   | Durability |  LB   | Value  |
+| ------------------------------------ | :---: | :-------------------------------------------------------------: | :------: | :--------: | :---: | :----: |
+| Superior Gambeson Coat               |   1   |                           Phy. Def. 1                           | Superior |   24/24    |   5   |  2 bc  |
+| Superior Gambeson Leggings           |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   3   |  1 bc  |
+| Superior Leather Helmet              |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   2   | 0.5 bc |
+| Superior Leather Cuisses and Greaves |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   3   |  2 bc  |
+| Superior Leather Vambrace            |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   2   | 1.5 bc |
+| Clothes, Fine                        |   1   |                              Misc                               | Mundane  |            |   6   | 15 bc  |
+| Asher's Arms Swordbreaker            |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Blade |   Fine   |   18/18    |   1   |   ?    |
+| Spencer's Arms Arming Sword          |   1   |          Medium Thrusting Sword, Medium Slashing Sword          | Superior |   24/24    |   2   | 20 bc  |
+| Adversary - Damaged                  |   1   |                        Radiance Conduit                         |   Fine   |   18/18    |   1   |   ?    |
+| Mother's Necklace                    |   1   |                              Misc                               | Mundane  |            |  0.1  |   ?    |
 
 ## Containers
 
-| Name                                   | # |      Class      |   Tier   | Durability | LB | Value |
-| -------------------------------------- | :-: | :-------------: | :-------: | :--------: | :-: | :---: |
-| Backpack (1 ft^3)                      | 1 | 30 lb container |  Mundane  |            | 5 | 2 bc |
-| Kite Shield (Dawn Emp. Crest)          | 1 |   Phy. Def. 2   | Superior |   24/24   | 8 | 30 bc |
-| Superior Leather Cuirass and Pauldrons | 1 |  Phy. Def. 0.5  | Superior |   24/24   | 4 | 3 bc |
-| 30 lb of gold and gems                 | 1 |      Misc      | Exquisite |     -     | 30 |   ?   |
+| Name                                   |   #   |      Class      |   Tier    | Durability |  LB   | Value |
+| -------------------------------------- | :---: | :-------------: | :-------: | :--------: | :---: | :---: |
+| Backpack (1 ft^3)                      |   1   | 30 lb container |  Mundane  |            |   5   | 2 bc  |
+| Kite Shield (Dawn Emp. Crest)          |   1   |   Phy. Def. 2   | Superior  |   24/24    |   8   | 30 bc |
+| Superior Leather Cuirass and Pauldrons |   1   |  Phy. Def. 0.5  | Superior  |   24/24    |   4   | 3 bc  |
+| 30 lb of gold and gems                 |   1   |      Misc       | Exquisite |     -      |  30   |   ?   |
 
 ## Notes
 
@@ -220,7 +220,7 @@ Uhtred quickly armed himself with a chair, reading to hit the creature to break 
 
  Following the death of Helena by Uhtred's hand, Sirius disappeared without a trace. Tensions between Uhtred and Felix rose leading to Uhtred leaving the Weeping Anvil. Knox and Randy went to run the tavern, and Felix was still looking for a way to attend medical school.
 
- Uhtred returned to his life on the streets resorting to petty theft and squatting to survive. Uhtred took it upon himself to care for Commander Royce in whatever way he could. He spent much of his time with Commander Royce at the Hospital in the Medical district, when he was not on the streets stealing food and items to sell. Both Flint and Vex Reddington would frequently visit Royce and Killroy, and ensured both were well taken care of. This gave Uhtred, Vex, and Flint time to grow close over their shared grief. Uhtred tried to discuss what had transpired with the Masked man. It quickly became clear that Vex had no recollection of what had transpired. Trying to openly discuss anything relating to the Singing Ring or Masked man would give Uhtred the feeling of a heart attack and a quiet, scratchy voice gently whispered "No no no, a deal is a deal".  Despite this, Uhtred and Vex would confide in one another. However, Uhtred did not tell Vex he returned to his street life. Uhtred shared his troubled life and the guilt he felt over what had transpired with Helena. Vex shared the suffocating burden and expectations she needed to live up to, as one day she is to be Empress. Uhtred's guilt continued to consume him and he crept further and further into his pain. After six months of living on the streets, Vex confronted Uhtred. By this time Uhtred's clothes were little more than rags, he appeared guant, and in ill health. Vex pushed until Uhtred broke down and was distraught to find he had taken up his old life. Uhred told Vex that no matter how hard he tried, he always failed to protect those he loved. At this Vex slapped Uhtred, looking him dead in the eyes. "There is always a choice." As tears welled in her eyes' Vex placed her hand on Commander Royce, "Ask yourself what she would've wanted. Ask yourself what she would've wanted for YOU. She cared for you, all of you. If you give up, than her suffering means nothing." Uhtred held these words in his heart. "what would she have wanted, what would she have wanted for me". The next day he signed up to become a cadet in the Red Legion. With his resolve to live his life in honor of commander Royce, Uhtred excelled in his class. Once Flint learned Uhtred had joined, he requested Uhtred be his personal bodyguard, a position that had long remained empty. Uhtred spent his nights in the barracks of Castleward. He continued to  regularly visit Commander Royce and would use most of his money to finance the Weeping Anvil once Killroy was let out of the hospital.
+ Uhtred returned to his life on the streets resorting to petty theft and squatting to survive. Uhtred took it upon himself to care for Commander Royce in whatever way he could. He spent much of his time with Commander Royce at the Hospital in the Medical district, when he was not on the streets stealing food and items to sell. Both Flint and Vex Reddington would frequently visit Royce and Killroy, and ensured both were well taken care of. This gave Uhtred, Vex, and Flint time to grow close over their shared grief. Uhtred tried to discuss what had transpired with the Masked man. It quickly became clear that Vex had no recollection of what had transpired. Trying to openly discuss anything relating to the Singing Ring or Masked man would give Uhtred the feeling of a heart attack and a quiet, scratchy voice gently whispered "No no no, a deal is a deal".  Despite this, Uhtred and Vex would confide in one another. However, Uhtred did not tell Vex he returned to his street life. Uhtred shared his troubled life and the guilt he felt over what had transpired with Helena. Vex shared the suffocating burden and expectations she needed to live up to, as one day she is to be Empress. Uhtred's guilt continued to consume him and he crept further and further into his pain. After six months of living on the streets, Vex confronted Uhtred. By this time Uhtred's clothes were little more than rags, he appeared gaunt, and in ill health. Vex pushed until Uhtred broke down and was distraught to find he had taken up his old life. Uhred told Vex that no matter how hard he tried, he always failed to protect those he loved. At this Vex slapped Uhtred, looking him dead in the eyes. "There is always a choice." As tears welled in her eyes' Vex placed her hand on Commander Royce, "Ask yourself what she would've wanted. Ask yourself what she would've wanted for YOU. She cared for you, all of you. If you give up, than her suffering means nothing." Uhtred held these words in his heart. "what would she have wanted, what would she have wanted for me". The next day he signed up to become a cadet in the Red Legion. With his resolve to live his life in honor of commander Royce, Uhtred excelled in his class. Once Flint learned Uhtred had joined, he requested Uhtred be his personal bodyguard, a position that had long remained empty. Uhtred spent his nights in the barracks of Castleward. He continued to  regularly visit Commander Royce and would use most of his money to finance the Weeping Anvil once Killroy was let out of the hospital.
 
 Joining the Guard:
 
@@ -228,4 +228,4 @@ Uhtred was resolved to join the guard. He still could not read. He somehow made 
 
 Eight months after Helena's death:
 
-On one occasion Felix and Uhtred bumped into one another at Knox's tavern. Uhtred and his friend Knob had just gotten off after training for the day and decided to share a drink together. Felix had been talking to Knox in a back room, and upon entering the main room, both Felix and Uhtred noticed each other. Felix acknowledged Uhtred in a disdainful tone, "Uhtred". Uhtred responded in turn, "Felix.". Felix: "what are you doing here". Uhtred: "None of your business" siping his ale. Felix notices the cadet uniform: "What's with the armor Uhtred, here for Randy to?". Uhtred: "If Randy did what Helena did, then yes.". Knob: "Are you actually defending that murderous bitch". Felix: "She didn't have to die.". At this Knob explodes in rage, grabbing Felix, slamming him into a table, and proceeds to beat him. Through his tears, Knob screams: "That bitch took my father from me. How dare you defend her.". Uhtred: "Knob, he's not worth your time.". Knox: "Randy, him outside so he can cool off". Randy drags Knob off and outside. Uhtred lays down a couple coins and nods at Knox: "For the trouble." Uhtred to Felix: "Felix you are naive as the day I met you. Keep your nose in books and out of other people's business."
+On one occasion Felix and Uhtred bumped into one another at Knox's tavern. Uhtred and his friend Knob had just gotten off after training for the day and decided to share a drink together. Felix had been talking to Knox in a back room, and upon entering the main room, both Felix and Uhtred noticed each other. Felix acknowledged Uhtred in a disdainful tone, "Uhtred". Uhtred responded in turn, "Felix.". Felix: "what are you doing here". Uhtred: "None of your business" sipping his ale. Felix notices the cadet uniform: "What's with the armor Uhtred, here for Randy to?". Uhtred: "If Randy did what Helena did, then yes.". Knob: "Are you actually defending that murderous bitch". Felix: "She didn't have to die.". At this Knob explodes in rage, grabbing Felix, slamming him into a table, and proceeds to beat him. Through his tears, Knob screams: "That bitch took my father from me. How dare you defend her.". Uhtred: "Knob, he's not worth your time.". Knox: "Randy, him outside so he can cool off". Randy drags Knob off and outside. Uhtred lays down a couple coins and nods at Knox: "For the trouble." Uhtred to Felix: "Felix you are naive as the day I met you. Keep your nose in books and out of other people's business."

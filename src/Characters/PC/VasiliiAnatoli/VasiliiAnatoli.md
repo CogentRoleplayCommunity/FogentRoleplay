@@ -4,51 +4,51 @@
 
 ## Attributes and Core Skills
 
-| STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 4d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 4d6 | Perception      | 0 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 1 | 5d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Willpower         | 0 | 3d6 |
+| STR       |   1   |       | RFX             |   0   |       | INT               |   0   |       |
+| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
+| Athletics |   0   |  4d6  | Acrobatics      |   0   |  3d6  | Communication     |   0   |  3d6  |
+| Climb     |   0   |  4d6  | Perception      |   0   |  3d6  | General Knowledge |   0   |  3d6  |
+| Endurance |   1   |  5d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  3d6  |
+| Lift      |   0   |  4d6  | Stealth         |   0   |  3d6  | Willpower         |   0   |  3d6  |
 
 ## Vocations and Vocational Skills
 
-| Warrior {ALL}    | 2 | 6d6 | Fellkin {ALL}   | 2 | 6d6 |
-| ----------------- | :-: | :-: | --------------- | - | --- |
-| Large Sword {ALL} | 2 | 6d6 | Polycraft {ALL} | 2 | 6d6 |
+| Warrior {ALL}     |   2   |  6d6  | Fellkin {ALL}   | 2   | 6d6 |
+| ----------------- | :---: | :---: | --------------- | --- | --- |
+| Large Sword {ALL} |   2   |  6d6  | Polycraft {ALL} | 2   | 6d6 |
 
 ## Effects:
 
-|             Name             |                                                                           Effect                                                                           | Duration |                                                                   Source                                                                   |
-| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-|    Minor Silver Weakness    |                                                  (+1) to the level of injury received from Silver damage.                                                  |          |                                                               Fellkin blood                                                               |
-|    Physical Defense Level    |                                                                            3.85                                                                            |          |                                                                   Armor                                                                   |
-|         Medium Size         |                                                                   5x5 ft on battle map.                                                                   |          |                                                                                                                                            |
-|      Language: Babelish      |                                                                    Can speak Babelish.                                                                    |          |                                                                                                                                            |
-|       Language: Primal       |                                                                     Can speak Primal.                                                                     |          |                                                                                                                                            |
-| Disabling: Scandalous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                                                                                                            |
-|    Disabling: Alcoholism    |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                                                                                                            |
-|       Inventory Weight       |                                                                           50 lb                                                                           |          |                                                                 Equipment                                                                 |
-|    Humanoid Carry Weight    |                                                                           220 lb                                                                           |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                              |          |                                                          0% - 25% of carry weight                                                          |
-|   Humanoid Movement Speed   |                                                                           30 ft                                                                           |          |                                           30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
-|     Humanoid Swim Speed     |                                                                           20 ft                                                                           |          |                                           15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)                                           |
-|     Humanoid Climb Speed     |                                                                           20 ft                                                                           |          |                                              15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                              |
+|             Name             |                                                                           Effect                                                                           | Duration |                                                                  Source                                                                  |
+| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|    Minor Silver Weakness     |                                                  (+1) to the level of injury received from Silver damage.                                                  |          |                                                              Fellkin blood                                                               |
+|    Physical Defense Level    |                                                                            3.85                                                                            |          |                                                                  Armor                                                                   |
+|         Medium Size          |                                                                   5x5 ft on battle map.                                                                    |          |                                                                                                                                          |
+|      Language: Babelish      |                                                                    Can speak Babelish.                                                                     |          |                                                                                                                                          |
+|       Language: Primal       |                                                                     Can speak Primal.                                                                      |          |                                                                                                                                          |
+| Disabling: Scandalous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                                                                                                          |
+|    Disabling: Alcoholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                                |          |                                                                                                                                          |
+|       Inventory Weight       |                                                                           50 lb                                                                            |          |                                                                Equipment                                                                 |
+|    Humanoid Carry Weight     |                                                                           220 lb                                                                           |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                               |          |                                                         0% - 25% of carry weight                                                         |
+|   Humanoid Movement Speed    |                                                                           30 ft                                                                            |          |                                          30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
+|     Humanoid Swim Speed      |                                                                           20 ft                                                                            |          |                                           15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)                                           |
+|     Humanoid Climb Speed     |                                                                           20 ft                                                                            |          |                                             15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                             |
 
 ## Combat Rolls:
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   |      Damage<br />Types       | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |                    |
-| Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
-|    Polycraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
-|    Polycraft - Ranged    |       7d6       |                |                  |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |      1 (Ichor)      |
-|     Polycraft - Cone     |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |      1 (Ichor)      |
-|    Polycraft - Reach    |       7d6       |                |                  |      2      |  Reach  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |      1 (Ichor)      |
-|   Polycraft - Focused   |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |      1 (Ichor)      |
-|   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |      2 (Ichor)      |
-|  Large Thrusting Sword  | 6d6<br />(+0d6) | 8d6<br />(+2d6) |       None       |      3      |  Melee  |            Pierce            |           Rapid           |        None        |        None        |
-|   Large Slashing Sword   | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None       |      2      |  Melee  |            Slash            |           Rapid           |        None        |        None        |
+| Polycraft - Melee Trick  |       6d6       |                 |                   |      0      |  Melee   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |                     |
+| Polycraft - Ranged Trick |       6d6       |                 |                   |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |                     |
+|    Polycraft - Melee     |       7d6       |                 |                   |      2      |  Melee   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Ichor)      |
+|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |      1 (Ichor)      |
+|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone         |      1 (Ichor)      |
+|    Polycraft - Reach     |       7d6       |                 |                   |      2      |  Reach   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Ichor)      |
+|   Polycraft - Focused    |       7d6       |                 |                   |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                     |      1 (Ichor)      |
+|    Polycraft - Sphere    |       8d6       |                 |                   |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere        |      2 (Ichor)      |
+|  Large Thrusting Sword   | 6d6<br />(+0d6) | 8d6<br />(+2d6) |       None        |      3      |  Melee   |            Pierce            |           Rapid           |        None         |        None         |
+|   Large Slashing Sword   | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None        |      2      |  Melee   |            Slash             |           Rapid           |        None         |        None         |
 
 ## Destiny Points: 1/3
 
@@ -56,30 +56,30 @@
 
 ## Equipment:
 
-| Name                          | # |                    Class                    |   Tier   | Durability | LB |  Value  |
-| ----------------------------- | :-: | :-----------------------------------------: | :-------: | :--------: | :-: | :------: |
-| Gambeson Coat                 | 1 |               Phy. Def. 0.625               |  Mundane  |   12/12   | 5 | 3.13 bc |
-| Gambeson Leggings             | 1 |               Phy. Def. 0.375               |  Mundane  |   12/12   | 3 | 1.87 bc |
-| Chainmail Coif                | 1 |               Phy. Def. 0.38               | Excellent |   21/21   | 6 | 9.57 bc |
-| Leather Cuirass and Pauldrons | 1 |               Phy. Def. 1.00               |  Quality  |   15/15   | 6 | 3.63 bc |
-| Chainmail Sleeves/Mittens     | 1 |   Phy. Def. 0.77, Hand Protection Unarmed   | Excellent |   21/21   | 12 | 19.16 bc |
-| Chainmail Chausses            | 1 |                Phy. Def. 0.7                | Excellent |   21/21   | 11 | 17.55 bc |
-| Clothes, Traveler's           | 1 |                    Misc                    |  Mundane  |            | 4 |   2 bc   |
-| Longsword                     | 1 | Large Thrusting Sword, Large Slashing Sword |  Mundane  |   12/12   | 3 |  15 bc  |
+| Name                          |   #   |                    Class                    |   Tier    | Durability |  LB   |  Value   |
+| ----------------------------- | :---: | :-----------------------------------------: | :-------: | :--------: | :---: | :------: |
+| Gambeson Coat                 |   1   |               Phy. Def. 0.625               |  Mundane  |   12/12    |   5   | 3.13 bc  |
+| Gambeson Leggings             |   1   |               Phy. Def. 0.375               |  Mundane  |   12/12    |   3   | 1.87 bc  |
+| Chainmail Coif                |   1   |               Phy. Def. 0.38                | Excellent |   21/21    |   6   | 9.57 bc  |
+| Leather Cuirass and Pauldrons |   1   |               Phy. Def. 1.00                |  Quality  |   15/15    |   6   | 3.63 bc  |
+| Chainmail Sleeves/Mittens     |   1   |   Phy. Def. 0.77, Hand Protection Unarmed   | Excellent |   21/21    |  12   | 19.16 bc |
+| Chainmail Chausses            |   1   |                Phy. Def. 0.7                | Excellent |   21/21    |  11   | 17.55 bc |
+| Clothes, Traveler's           |   1   |                    Misc                     |  Mundane  |            |   4   |   2 bc   |
+| Longsword                     |   1   | Large Thrusting Sword, Large Slashing Sword |  Mundane  |   12/12    |   3   |  15 bc   |
 
 ## Containers:
 
-| Name                   | # |      Class      |  Tier  | Durability |  LB  | Value |
-| ---------------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3)      | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
-| Waterskin (4/4)        | 1 |      Misc      | Mundane |            |  5  | 20 cc |
-| Rations (1 day)        | 7 |      Misc      | Mundane |            |  2  | 50 cc |
-| Rope, Hempen (50 feet) | 1 |      Misc      | Mundane |            |  10  | 1 bc |
-| Soap                   | 1 |      Misc      | Mundane |            | 0.5 | 2 cc |
-| Piton                  | 10 |      Misc      | Mundane |            | 0.25 | 5 cc |
-| Playing Card Set       | 1 |      Misc      | Mundane |            | 0.2 | 50 cc |
-| Bronze Coin            | 22 |      Misc      | Mundane |            | 0.04 | 2 bc |
-| Copper Coin            | 87 |      Misc      | Mundane |            | 0.56 | 1 cc |
+| Name                   |   #   |      Class      |  Tier   | Durability |  LB   | Value |
+| ---------------------- | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
+| Backpack (1 ft^3)      |   1   | 30 lb container | Mundane |            |   5   | 2 bc  |
+| Waterskin (4/4)        |   1   |      Misc       | Mundane |            |   5   | 20 cc |
+| Rations (1 day)        |   7   |      Misc       | Mundane |            |   2   | 50 cc |
+| Rope, Hempen (50 feet) |   1   |      Misc       | Mundane |            |  10   | 1 bc  |
+| Soap                   |   1   |      Misc       | Mundane |            |  0.5  | 2 cc  |
+| Piton                  |  10   |      Misc       | Mundane |            | 0.25  | 5 cc  |
+| Playing Card Set       |   1   |      Misc       | Mundane |            |  0.2  | 50 cc |
+| Bronze Coin            |  22   |      Misc       | Mundane |            | 0.04  | 2 bc  |
+| Copper Coin            |  87   |      Misc       | Mundane |            | 0.56  | 1 cc  |
 
 ## Notes:
 

@@ -2,14 +2,14 @@
 
 ## Skill Levels
 
-|    Name    | Level |
+|    Name     | Level |
 | :---------: | :---: |
-| Incompetent |  -1  |
-|   Novice   |   0   |
-| Apprentice |   1   |
+| Incompetent |  -1   |
+|   Novice    |   0   |
+| Apprentice  |   1   |
 |    Adept    |   2   |
-|   Expert   |   3   |
-|   Master   |   4   |
+|   Expert    |   3   |
+|   Master    |   4   |
 
 ## Core Skills
 
@@ -85,12 +85,12 @@ Once a dice pool for a given skill check is equal to or greater than 8 you are c
 
 For melee weapons, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap between weapon skills. Starting on with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may access the other side of the table as if it were right beside it.
 
-| Class<br />/Size | Hafted         | Blade        | Spear       |
-| ---------------- | -------------- | ------------ | ----------- |
-| **Small**  | Small Hafted   | Small Blade |             |
-| **Medium** | Medium Hafted | Medium Sword |             |
-| **Large**  | Large Hafted  | Large Sword | Short Spear |
-| **Reach**  | Reach Hafted  | Greatsword   | Long Spear  |
+| Class<br />/Size | Hafted        | Blade        | Spear       |
+| ---------------- | ------------- | ------------ | ----------- |
+| Small            | Small Hafted  | Small Blade  |             |
+| Medium*          | Medium Hafted | Medium Sword |             |
+| Large            | Large Hafted  | Large Sword  | Short Spear |
+| Reach            | Reach Hafted  | Greatsword   | Long Spear  |
 
 ### Bow Combat Skill Transfer
 
@@ -98,9 +98,9 @@ For bows and crossbows, having a proper base, judging the distance, leading your
 
 | Class<br />/Size | Bows      | Crossbows      |
 | ---------------- | --------- | -------------- |
-| **Hand**   |           | Hand Crossbow  |
-| **Light**  | Light Bow | Light Crossbow |
-| **Heavy**  | Heavy Bow | Heavy Crossbow |
+| Hand             |           | Hand Crossbow  |
+| Light            | Light Bow | Light Crossbow |
+| Heavy            | Heavy Bow | Heavy Crossbow |
 
 You cannot go below 0 on a combat vocational skill for either melee or ranged.
 
@@ -112,12 +112,12 @@ For example, a character has just been given a skill point to spend and has a le
 
 ## Multiple Character skill check
 
-Mutiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if mutiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
+Multiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if multiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
 
 ### Example
 
 A character wants to pick up an entire sturdy couch by themselves, and take it up a flight of stairs.
 
-The narrator assings this a Speacialized task (CL 3), not only for the weigh of the couch, but for how cumberson it is for one person. The character get 2 win on their Lift check. They are not able to get the couch up the stairs.
+The narrator assigns this a Specialized task (CL 3), not only for the weigh of the couch, but for how cumbersome it is for one person. The character get 2 win on their Lift check. They are not able to get the couch up the stairs.
 
-In a parallel dimension, 2 characters decide to pick up the couch. The narrator assings this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which is rounded down to 1. They are able to move the couch up the stairs.
+In a parallel dimension, 2 characters decide to pick up the couch. The narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which is rounded down to 1. They are able to move the couch up the stairs.
