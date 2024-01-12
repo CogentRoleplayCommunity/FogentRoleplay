@@ -168,7 +168,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Manacles                            | 1    | Misc               | Mundane |            | 6      | 2 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 | Mirror, Steel                       | 1    | Misc               | Mundane |            | 0.5    | 5 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
 | Pick, Miner's                       | 1    | Large Hafted Point | Mundane | 12/12      | 10     | 2 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
-| Piton                               | 1    | Misc               | Mundane |            | 0.25   | 3 cc   | FALSE         | TRUE         | TRUE         | TRUE           |
+| Piton                               | 1    | Misc               | Mundane |            | 0.25   | 5 cc   | FALSE         | TRUE         | TRUE         | TRUE           |
 | Pot, Iron                           | 1    | Misc               | Mundane |            | 10     | 1 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
 | Spikes, Iron                        | 1    | Misc               | Mundane |            | 5      | 70 cc  | FALSE         | FALSE        | TRUE         | TRUE           |
 | Whetstone                           | 1    | Misc               | Mundane |            | 1      | 1 cc   | FALSE         | TRUE         | TRUE         | TRUE           |
@@ -409,7 +409,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Paper (one sheet)                   | 1  | Misc                                                            | Mundane |            | 0      | 20 cc   | FALSE         | FALSE        | TRUE         | TRUE           |
 | Parchment (one sheet)               | 1  | Misc                                                            | Mundane |            | 0      | 10 cc   | FALSE         | TRUE         | TRUE         | TRUE           |
 | Pick, Miner's                       | 1  | Large Hafted Point                                              | Mundane | 12/12      | 10     | 2 bc    | FALSE         | TRUE         | TRUE         | TRUE           |
-| Piton                               | 1  | Misc                                                            | Mundane |            | 0.25   | 3 cc    | FALSE         | TRUE         | TRUE         | TRUE           |
+| Piton                               | 1  | Misc                                                            | Mundane |            | 0.25   | 5 cc    | FALSE         | TRUE         | TRUE         | TRUE           |
 | Pole (10-foot)                      | 1  | Misc                                                            | Mundane |            | 7      | 5 cc    | FALSE         | TRUE         | TRUE         | TRUE           |
 | Pot, Iron                           | 1  | Misc                                                            | Mundane |            | 10     | 1 bc    | TRUE          | TRUE         | TRUE         | TRUE           |
 | Pouch (1/5 ft^3)                    | 1  | 6 lb container                                                  | Mundane |            | 1      | 50 cc   | TRUE          | TRUE         | TRUE         | TRUE           |
