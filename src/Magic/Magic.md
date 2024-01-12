@@ -210,30 +210,10 @@ When casting magic with additional resource above the level allowed by your Magi
 | 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
 | 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
 
-## Magic Cantrips
-
-Cantrips are uses of Magic that use an insignificant amount of Resource. In general, Cantrips should be small and happen close to the user. Igniting your fingertips to light a cigar, or creating a gentle breeze are all examples of Cantrips. Cantrips attacks are considered the weakest form of offense, only used in dire situations or for utility.
-
-- Unaffected by Magic assists (as no Magic Resource is consumed)
-- Resource Requirement: 0
-
 ## Magic Skills in Combat
 
 - -2d6 to ranged combat rolls engaging in melee combat
 - Character's can't cast magic twice in one round of combat unless specified otherwise
-
-### Ranges
-
-The Range type for non cantrip ranged attacks changes depending on the user's skill level unless specified otherwise.
-
-| Skill level |  Range Type  |
-| :---------: | :----------: |
-|     -1     |    Close    |
-|      0      |    Short    |
-|      1      |    Medium    |
-|      2      |   Extended   |
-|      3      |     Long     |
-|      4      | Sharpshooter |
 
 #### Magic Range adjustment
 
@@ -241,166 +221,45 @@ If a Magic Skill has a range adjustment it is either moved up or down the table 
 
 For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
-### Melee Cantrip
-
-Requires Level -1 in specific Magic skill
-
-- Penetration: 0
-- Effective Range: Melee
-- Engageable Opponents: Rapid
-- Resource Requirement: 0
-- Unaffected by Magic Vocation assists (as no Resource is consumed)
-
-### Ranged Cantrip
-
-Requires Level -1 in specific Magic skill
-
-- Penetration = 0
-- Effective Range = Close
-- Engageable Opponents: Focused
-- Resource Requirement: 0
-- Unaffected by Magic Vocation assists (as no Resource is consumed)
-
-### Melee
-
-Requires Level 0 in specific Magic skill
-
-- Penetration: 2
-- Effective/Max Range: Melee
-- Engageable Opponents: Rapid
-- Resource Requirement: 1 minimum
-
-### Ranged
-
-Requires Level 0 in specific Magic skill
-
-- Penetration = 1
-- Resource Requirement: 1 minimum
-- Engageable Opponents: Standard
-- Effective/Max Range: See Magic Range above
-
-### Reach Melee
-
-Requires Level 1 in specific Magic skill
-
-- Penetration: 2
-- Effective/Max Range: Reach
-- Engageable Opponents: Rapid
-- Resource Requirement: 1 minimum
-
-### Cone
-
-Represents a character unleashing an attack over an area represented by a cone. The table below shows default cones, with the width of the cone at any point equal to the distance from the user. However, any cone that doesn't exceed effective range or the Cone Area for a specified dice roll is acceptable.
-
-Requires Level 1 in specific Magic skill
-
-- Penetration: 2
-- Resource Requirement: 1 minimum
-- Engageable Opponents: Cone
-- Effective/Max Range: Can not exceed effective range
-- Cone Base/Height: Magic Roll * 5 feet
-
-| Magic Roll | Cone Height/Base | Cone Angle |  Cone Area  |
-| :--------: | :--------------: | :---------: | :---------: |
-|   2 dice   |      10 ft      | ~53 degrees |   50 ft^2   |
-|   3 dice   |      15 ft      | ~53 degrees | 112.5 ft^2 |
-|   4 dice   |      20 ft      | ~53 degrees |  200 ft^2  |
-|   5 dice   |      25 ft      | ~53 degrees | 312.5 ft^2 |
-|   6 dice   |      30 ft      | ~53 degrees |  450 ft^2  |
-|   7 dice   |      35 ft      | ~53 degrees | 612.5 ft^2 |
-|   8 dice   |      40 ft      | ~53 degrees |  800 ft^2  |
-|   9 dice   |      45 ft      | ~53 degrees | 1012.5 ft^2 |
-|  10 dice  |      50 ft      | ~53 degrees |  1250 ft^2  |
-|  11 dice  |      55 ft      | ~53 degrees | 1512.5 ft^2 |
-|  12 dice  |      60 ft      | ~53 degrees |  1800 ft^2  |
-
-Here is a handy equation I made for calculating custom Cones. “A” is area, “D” is distance, and theta is the angle closest to the caster. Simply plug in the Area for your dice roll, and either “D” or theta. Whatever you didn’t plugin will be calculated. If none of this makes sense, brush up on your trigonometry or just use the default cones above!
-
-[Cone Calculation Link](https://www.symbolab.com/solver/step-by-step/A%20%3D%20D%5E%7B2%7Dtan%5Cleft(%5Cfrac%7B%5Ctheta%7D%7B2%7D%5Cright)?or=input)
-
-### Focused
-
-Represent a character carefully aiming while still and focusing on a single powerful shot.
-
-Requires Level 1 in specific Magic skill
-
-- Penetration: 2
-- Resource Requirement: 1 minimum
-- Engageable Opponents: Focused
-- +1d6 to Combat Roll
-- No movement for the round
-
-### AOE
-
-Represents a character unleashing an attack over an area centered on a point. If the AOE is centered on the user, they are not caught in their AOE emanating from them.
-
-Requires Level 2 in specific Magic skill
-
-- Penetration: 3
-- Resource Requirement: 2 minimum
-- Engageable Opponents: Sphere
-- Effective/Max Range: Magic Roll Range - Circle Radius
-- AOE Radius: Magic Roll * 2.5 feet
-
-| Magic Roll | Circle Radius |
-| :--------: | :-----------: |
-|   1 dice   |    2.5 ft    |
-|   2 dice   |     5 ft     |
-|   3 dice   |    7.5 ft    |
-|   4 dice   |     10 ft     |
-|   5 dice   |    12.5 ft    |
-|   6 dice   |     15 ft     |
-|   7 dice   |    17.5 ft    |
-|   8 dice   |     20 ft     |
-|   9 dice   |    22.5 ft    |
-|  10 dice  |     25 ft     |
-|  11 dice  |    27.5 ft    |
-|  12 dice  |     30 ft     |
-
 ## Magic Spells
 
 Magic Spells are more complex types of magic that behave in very specific ways. Depending on the magic discipline, your may not contains any spells at all. However it is generally encouraged since they are loved by players and narrators alike.
 
 ### Cantrips
 
-[Blade Barrier](Spells/Cantrip/BladeBarrier.md)
+- [Blade Barrier](Spells/Cantrip/BladeBarrier.md)
+- [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md)
+- [Minor Mirage](Spells/Cantrip/MinorMirage.md)
+- [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md)
+- [Thunder Blade](Spells/Cantrip/ThunderBlade.md)
+- [Wounding Words](Spells/Cantrip/WoundingWords.md)
 
-[Minor Mirage](Spells/Cantrip/MinorMirage.md)
+### Novice Spells
 
-[Thunder Blade](Spells/Cantrip/ThunderBlade.md)
+- [Babel's Clarity](Spells/Novice/Babel'sClarity.md)
+- [Bewitch](Spells/Novice/Bewitch.md)
+- [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
+- [Fling](Spells/Novice/Fling.md)
+- [Hellfire's Retribution](Spells/Novice/Hellfire'sRetribution.md)
+- [Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+- [Leap](Spells/Novice/Leap.md)
+- [Melee Magic](Spells/Novice/MeleeMagic.md)
+- [Mind Reading](Spells/Novice/MindReading.md)
+- [Noiseless Picture](Spells/Novice/NoiselessPicture.md)
+- [Oil Spill](Spells/Novice/OilSpill.md)
+- [Physical Protection](Spells/Novice/PhysicalProtection.md)
+- [Primal Kinship](Spells/Novice/PrimalKinship.md)
+- [Ranged Magic](Spells/Novice/RangedMagic.md)
+- [Slow Fall](Spells/Novice/SlowFall.md)
 
-[Wounding Words](Spells/Cantrip/WoundingWords.md)
+### Apprentice Spells
+- [Cone Magic](Spells/Apprentice/ConeMagic.md)
+- [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
+- [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
 
-### Novice Runes
+### Adept Spells
+- [Sphere Magic](Spells/Adept/SphereMagic.md)
 
-[Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
+### Expert Spells
 
-[Bewitch](Spells/Novice/Bewitch.md)
-
-[Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
-
-[Fling](Spells/Novice/Fling.md)
-
-[Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
-
-[Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
-
-[Mind Reading](Spells/Novice/MindReading.md)
-
-[Leap](Spells/Novice/Leap.md)
-
-[Slow Fall](Spells/Novice/SlowFall.md)
-
-[Oil Spill](Spells/Novice/OilSpill.md)
-
-[Physical Protection](Spells/Novice/PhysicalProtection.md)
-
-[Slow Fall](Spells/Novice/SlowFall.md)
-
-### Apprentice Runes
-
-[Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
-
-### Expert Runes
-
-### Master Rune
+### Master Spells

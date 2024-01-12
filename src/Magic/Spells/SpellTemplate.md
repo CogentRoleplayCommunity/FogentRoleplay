@@ -12,14 +12,16 @@
 
 ## Info
 
-Range:
+**Range:** 
 
-Engageable Opponents:
+**Engageable Opponents:** 
 
-Penetration:
+**Penetration:** 
 
-Magic Resource Required:
+**Magic Resource Required:** 
 
-Magic skills required:
+**Area Of Effect:** None
+
+**Magic skills required:**
 
 - magic (level )
