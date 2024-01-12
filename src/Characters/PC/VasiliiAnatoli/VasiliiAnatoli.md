@@ -22,13 +22,13 @@
 |             Name             |                                                                           Effect                                                                           | Duration |                        Source                        |
 | :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
 |    Minor Silver Weakness    |                                                  (+1) to the level of injury received from Silver damage.                                                  |          |                     Fellkin blood                     |
-|    Physical Defense Level    |                                                                             4                                                                             |          |                         Armor                         |
+|    Physical Defense Level    |                                                                            3.85                                                                            |          |                         Armor                         |
 |         Medium Size         |                                                                   5x5 ft on battle map.                                                                   |          |                                                      |
 |      Language: Babelish      |                                                                    Can speak Babelish.                                                                    |          |                                                      |
 |       Language: Primal       |                                                                     Can speak Primal.                                                                     |          |                                                      |
 | Disabling: Scandalous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                      |
-|     Disabling: Alcoholism     |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
-|       Inventory Weight       |                                                                           55 lb                                                                           |          |                       Equipment                       |
+|    Disabling: Alcoholism    |                                               Extreme addiction, suffers from withdrawals if not satisfied.                                               |          |                                                      |
+|       Inventory Weight       |                                                                           50 lb                                                                           |          |                       Equipment                       |
 |    Humanoid Carry Weight    |                                                                           220 lb                                                                           |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |         Light Weight         |                                                              -0d6 to STR/RFX governed skills                                                              |          |               0% - 25% of carry weight               |
 |   Humanoid Movement Speed   |                                                                           30 ft                                                                           |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
@@ -56,35 +56,34 @@
 
 ## Equipment:
 
-| Name                             | # |                    Class                    |  Tier  | Durability | LB |  Value  |
-| -------------------------------- | :-: | :-----------------------------------------: | :-----: | :--------: | :-: | :-----: |
-| Longsword                        | 1 | Large Thrusting Sword, Large Slashing Sword | Mundane |   12/12   | 3 |  15 bc  |
-| Chainmail Sleeves                | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 11 | 11.2 bc |
-| Chainmail Leggings               | 1 |               Phy. Def. 0.75               | Mundane |   12/12   | 12 | 11.2 bc |
-| Brigandine Cuirass and Pauldrons | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 20 |  60 bc  |
-| Gambeson Leggings                | 1 |                Phy. Def. 0.5                | Mundane |   12/12   | 3 |  1 bc  |
-| Gambeson Coat                    | 1 |                 Phy. Def. 1                 | Mundane |   12/12   | 5 |  2 bc  |
+| Name                          | # |                    Class                    |   Tier   | Durability | LB |  Value  |
+| ----------------------------- | :-: | :-----------------------------------------: | :-------: | :--------: | :-: | :------: |
+| Gambeson Coat                 | 1 |               Phy. Def. 0.625               |  Mundane  |   12/12   | 5 | 3.13 bc |
+| Gambeson Leggings             | 1 |               Phy. Def. 0.375               |  Mundane  |   12/12   | 3 | 1.87 bc |
+| Chainmail Coif                | 1 |               Phy. Def. 0.38               | Excellent |   21/21   | 6 | 9.57 bc |
+| Leather Cuirass and Pauldrons | 1 |               Phy. Def. 1.00               |  Quality  |   15/15   | 6 | 3.63 bc |
+| Chainmail Sleeves/Mittens     | 1 |   Phy. Def. 0.77, Hand Protection Unarmed   | Excellent |   21/21   | 12 | 19.16 bc |
+| Chainmail Chausses            | 1 |                Phy. Def. 0.7                | Excellent |   21/21   | 11 | 17.55 bc |
+| Clothes, Traveler's           | 1 |                    Misc                    |  Mundane  |            | 4 |   2 bc   |
+| Longsword                     | 1 | Large Thrusting Sword, Large Slashing Sword |  Mundane  |   12/12   | 3 |  15 bc  |
 
 ## Containers:
 
-### Satchel
+| Name                   | # |      Class      |  Tier  | Durability |  LB  | Value |
+| ---------------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3)      | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
+| Waterskin (4/4)        | 1 |      Misc      | Mundane |            |  5  | 20 cc |
+| Rations (1 day)        | 7 |      Misc      | Mundane |            |  2  | 50 cc |
+| Rope, Hempen (50 feet) | 1 |      Misc      | Mundane |            |  10  | 1 bc |
+| Soap                   | 1 |      Misc      | Mundane |            | 0.5 | 2 cc |
+| Piton                  | 10 |      Misc      | Mundane |            | 0.25 | 5 cc |
+| Playing Card Set       | 1 |      Misc      | Mundane |            | 0.2 | 50 cc |
+| Bronze Coin            | 22 |      Misc      | Mundane |            | 0.04 | 2 bc |
+| Copper Coin            | 87 |      Misc      | Mundane |            | 0.56 | 1 cc |
 
-| Name                   | # | Class |  Tier  | Durability |  LB  | Value |
-| ---------------------- | :-: | :---: | :-----: | :--------: | :--: | :----: |
-| Waterskin (4/4)        | 1 | Misc | Mundane |            |  5  | 20 cc |
-| Rations (1 day)        | 7 | Misc | Mundane |            |  2  | 350 cc |
-| Rope, Hempen (50 feet) | 1 | Misc | Mundane |            |  10  |  100c  |
-| Soap                   | 1 | Misc | Mundane |            | 0.5 |  2 cc  |
-| Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
-| Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
-| Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
-| Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
-| Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
+## Notes:
 
-| Name              | # |      Class      |  Tier  | Durability | LB | Value |
-| ----------------- | :-: | :-------------: | :-----: | :--------: | :-: | :---: |
-| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
-
+- 
 
 ## Appearance:
 
@@ -117,9 +116,6 @@ Additional Details:
 
 - Tenets of Vengeance
 - Fight the Greater Evil. Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
-- 
-
-## Notes:
 
 ## Backstory:
 
