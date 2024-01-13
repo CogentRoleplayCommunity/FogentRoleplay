@@ -1,6 +1,6 @@
 # Magic
 
-This document provides generalized framework for magic system mechanics for any setting. Whether it be the Force, Bending from Avatar, Cyberpunk technomancy, or tradional fantasy magic, this systems should easily accomidate. All magic systems built using this require the following pieces of information to be determined.
+This document provides generalized framework for magic system mechanics for any setting. Whether it be the Force, Bending from Avatar, Cyberpunk technomancy, or tractional fantasy magic, this systems should easily accommodate. All magic systems built using this require the following pieces of information to be determined.
 
 - Magic Name
 - Magic Vocation Name
@@ -26,7 +26,7 @@ You unlock an amount of Magic Skill depending on your Magic Vocation level. All 
 
 ### Party Trick Tier (Level -1: Incompetent)
 
-Requires an investment of 0 skill point to unlock. Generally acquired during character creatioin or through narrative means. Examples include:
+Requires an investment of 0 skill point to unlock. Generally acquired during character creation or through narrative means. Examples include:
 
 * A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
@@ -194,7 +194,6 @@ When casting magic with additional resource above the level allowed by your Magi
 
 ## Magic Skills in Combat
 
-- -2d6 to ranged combat rolls engaging in melee combat
 - Character's can't cast magic twice in one round of combat unless specified otherwise
 
 #### Magic Range adjustment

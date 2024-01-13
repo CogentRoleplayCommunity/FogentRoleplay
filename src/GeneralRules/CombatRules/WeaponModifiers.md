@@ -8,8 +8,6 @@ Secondary weapon: +1d6 to combat rolls
 
 ## Light Ranged Flexed
 
-- -1d6 in melee combat while attempting ranged attack
-
 |  Description   | 1-Handed Dice | 2-Handed Dice | Penetration |  Range   | Damage | Engageable Opponents | Off-Hand Dice |  AOE  | Resource | Governing Attributes |
 | :------------: | :-----------: | :-----------: | :---------: | :------: | :----: | :------------------: | :-----------: | :---: | :------: | :------------------: |
 | Hand Crossbow  |     +1d6      |     +1d6      |      0      |  Medium  |        |       Standard       |     +1d6      | None  |   Bolt   |     STR,RFX,INT      |
@@ -19,8 +17,6 @@ Secondary weapon: +1d6 to combat rolls
 - Dual Wield Hand Crossbow: The off-handed crossbow can target a separate opponent in a round. Dice are added or subtracted based if main and off hand combat rolls are different, though If both the main hand and offhand attacks are at the same target, gain +1d6 to the combat roll.
 
 ## Heavy Ranged Flexed
-
-- -2d6 in melee combat while attempting ranged attack
 
 |  Description   | 1-Handed Dice | 2-Handed Dice | Penetration |    Range     | Damage | Engageable Opponents | Off-Hand Dice |  AOE  | Resource | Governing Attributes |
 | :------------: | :-----------: | :-----------: | :---------: | :----------: | :----: | :------------------: | :-----------: | :---: | :------: | :------------------: |
