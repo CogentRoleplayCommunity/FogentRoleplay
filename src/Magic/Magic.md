@@ -211,6 +211,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 - [Blade Barrier](Spells/Cantrip/BladeBarrier.md)
 - [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md)
 - [Minor Mirage](Spells/Cantrip/MinorMirage.md)
+- [Night Vision](Spells/Cantrip/NightVision.md)
 - [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md)
 - [Thunder Blade](Spells/Cantrip/ThunderBlade.md)
 - [Wounding Words](Spells/Cantrip/WoundingWords.md)
@@ -236,6 +237,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 ### Apprentice Spells
 
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
+- [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)

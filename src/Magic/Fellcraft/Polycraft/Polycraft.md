@@ -10,20 +10,7 @@ Polycraft users can narratively attempt the following:
 
 Polycraft fundamentally is the ability to enhance, heal, and change one's body. The various races have their own variant of this, leading to unique abilities between them.
 
-#### Transformation
-
-When a character attempts a Polycraft transformation, they make a Polycraft Roll. Depending on the wins achieved, the user can gain benefits associated with that CL and all the benefits below. For every effect they must pay the associated Fellblood cost. If the user attempts to perform another transformation, they must drop their transformed state.
-
-| Effect                                                          | Challenge Level | Duration | Fellblood |
-| --------------------------------------------------------------- | --------------- | -------- | --------- |
-| Dark Vision                                                     | 1               | 24 hr    | 0         |
-| Minor Healing Factor                                            | 2               | 24 hr    | 1         |
-| +1 to 1 physical core skill                                     | 3               | 1 hr     | 1         |
-| +1 STR or RFX                                                   | 4               | 1 hr     | 2         |
-| +1 to 2 physical core skill                                     | 5               | 1 hr     | 1         |
-| +1 STR or RFX (cannot take the same attribute from CL 4 effect) | 6               | 1 hr     | 2         |
-
-## Specialization: The Beast
+#### Specialization: The Beast
 
 The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
 
