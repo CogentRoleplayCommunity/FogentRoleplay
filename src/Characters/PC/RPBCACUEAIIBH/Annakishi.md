@@ -15,16 +15,16 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 | STR       | -1  | Roll  | RFX             |  2  | Roll  | INT               |  0  | Roll  |
 | :-------: | :-: | :---: | :-------------: | :-: | :---: | :---------------: | :-: | :---: |
-| Athletics |  0  |  3d6  | Acrobatics      |  0  |  4d6  | Communication     |  0  |  3d6  |
-| Climb     |  0  |  3d6  | Perception      |  1  |  4d6  | General Knowledge |  0  |  3d6  |
-| Endurance |  0  |  3d6  | Sleight of Hand |  0  |  4d6  | Survival          |  1  |  3d6  |
-| Lift      |  0  |  3d6  | Stealth         |  0  |  4d6  | Willpower         |  1  |  3d6  |
+| Athletics |  0  |  2d6  | Acrobatics      |  0  |  5d6  | Communication     |  0  |  3d6  |
+| Climb     |  0  |  2d6  | Perception      |  1  |  6d6  | General Knowledge |  0  |  3d6  |
+| Endurance |  0  |  2d6  | Sleight of Hand |  0  |  5d6  | Survival          |  1  |  4d6  |
+| Lift      |  0  |  2d6  | Stealth         |  0  |  5d6  | Willpower         |  1  |  4d6  |
 
 (Attr. Points: 2 Attr. and -1 STR; Skill points: 1 skill + 2 from DC)
 
 ## Vocations and Vocational Skills
 
-|   Fellkin {ALL}  |  3  | 7d6 |  Queen alate {ALL}  |  1  | 3d6 |
+|   Fellkin {ALL}  |  3  | 8d6 |  Queen alate {ALL}  |  1  | 5d6 |
 | :--------------: | :-: | :-: | ------------------- | :-: | --- |
 | Mindcraft {ALL}  |  3  | 8d6 | Medium Hafted       |  1  | 6d6 |
 | Polycraft {ALL}  |  1  | 6d6 | Small Bladed        |  0  | 5d6 |
