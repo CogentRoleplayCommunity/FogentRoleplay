@@ -511,7 +511,7 @@ The subsequent sections provide specific details about various locations within 
 ### Bedrock Inn
 
 ```
-At the heart of Tuntin stands a recently constructed roadhouse made of fieldstone and rough-hewn timbers. Inside, the common room buzzes with locals enjoying mugs of ale or cider, their curious eyes following your arrival.
+At the heart of Tuntin stands a recently constructed roadhouse made of bedrock and rough-hewn timbers. Inside, the common room buzzes with locals enjoying mugs of ale or cider, their curious eyes following your arrival.
 ```
 
 This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Bedrock Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
@@ -549,7 +549,7 @@ Daran is a member of the Order of the Gauntlet, an organization dedicated to pro
 
 Daran expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glassmith. Daran discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
 
-**Quest: Old Owl Trouble.** Daran has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Mole Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Daran urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Daran's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Mole Well" section for further details.
+**Quest: Old Mole Trouble.** Daran has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Mole Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Daran urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Daran's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Mole Well" section for further details.
 
 #### Joining the Order of the Gauntlet
 
