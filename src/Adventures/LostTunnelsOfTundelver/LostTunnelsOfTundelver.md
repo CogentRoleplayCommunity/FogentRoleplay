@@ -14,7 +14,7 @@ Following the map or the directions to the lost mine takes the characters to Par
 
 The Black Spider, our shrewd and alluring Spiderkin villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the Forge of Runes within. She has brokered an alliance between the more unscrupulous factions surrounding the town of Tuntin, promising each a share of the power the forge will grant.
 
-She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Reddwall, in exchange for sovereignty over the town. She even asked the Ogrekin bandits of Wyrm Tor to patrol and to keep interlopers out of the region in exchange for a portion of the rune forged weapons once the Forge of Runes is opperational. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
+She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Reddwall, in exchange for sovereignty over the town. She even asked the Ogrekin bandits of Wyrm Tor to patrol and to keep interlopers out of the region in exchange for a portion of the rune forged weapons once the Forge of Runes is operational. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
 
 Now that she has Burrowbard's map, there's no problem, well there's one problem. She needs the players' mysterious puzzle box to appease the Forge of Runes' guardian...
 
@@ -69,7 +69,7 @@ Roleplay a scene set around a table in a Reddwall tavern, where Burrowbard impar
 ```
 Thank you for joining me everyone. I value everyone that sits at this table and I hope you all will become as fast friends. I want to share a secret with, I need you all to retrieve an important trinket critical to a new business venture I have been investigating, which I'd like to bring each of you in on.
 
-There is a mysterious puzzle box in the which is currently being fixed by a young tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon full of mining supplies to Bart at the Stonehill Inn in Tuntin. Each of you will recieve 10 bc upon completeting this task. This is just a taste of the wealth this business venture holds. After that, find me in Tuntin and deliver the puzzle box.
+There is a mysterious puzzle box in the which is currently being fixed by a young tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon full of mining supplies to Bart at the Stonehill Inn in Tuntin. Each of you will receive 10 bc upon completing this task. This is just a taste of the wealth this business venture holds. After that, find me in Tuntin and deliver the puzzle box.
 
 I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own safety.
 ```
@@ -146,7 +146,7 @@ Amidst this eerie scene, concealed within the woods, lie four cunning Feral Verm
 Prepare for what may well become the initial skirmish in a series of battles within this adventure. Here are the guidelines to ensure a smooth encounter:
 
 - Feral Vermkin Stat Block: Refer to the [Feral Vermkin](./../../Characters/Humanoids/FeralVermkin/FeralVermkin.md) character sheet. Make a note of their Stealth skill of 5d6.
-- Determine Surprise: Players could suprise the Feral Vermkin if they were scouting ahead, but the Feral Vermkins may be able to surprise some or all of the characters. Roll a Stealth check for the Vermkins and comparing the result to the characters perception skill checks. Any character whose score is lower than the Vermkins' Stealth check result is surprised and loses their turn during the first round of combat.
+- Determine Surprise: Players could surprise the Feral Vermkin if they were scouting ahead, but the Feral Vermkins may be able to surprise some or all of the characters. Roll a Stealth check for the Vermkins and comparing the result to the characters perception skill checks. Any character whose score is lower than the Vermkins' Stealth check result is surprised and loses their turn during the first round of combat.
 - Initiative: Use the initiative rules from the general rules to determine the order in which all characters and Vermkins act. Keep track of everyone's initiative count in the margins of your adventure book or on a separate piece of paper.
 - Vermkin Actions: When it's the Vermkins' turn to act, two of them should rush forward and make melee attacks, while the other two Vermkins stand about 30 feet away from the party and make ranged attacks taking advantage of the high ground. The Vermkin character sheet contains the necessary information to resolve their combat rolls.
 - Fleeing Vermkin: If three Vermkins are defeated, the last remaining Vermkin may attempt to flee, heading for the Vermkin trail.
@@ -208,7 +208,7 @@ In the event that the characters successfully capture or charm any of the Vermki
 
 - The lair currently houses fewer than twenty Vermkins.
 
-- The leader of the Vermkins is a Ferral Beastkin named Thrak, who answers to King Grom, the chief of the Mountainmaw tribe. King Grom resides in Mountainmaw Castle, located approximately twenty miles northeast of the Mountainmaw hideout within Highmount Wood.
+- The leader of the Vermkins is a Feral Beastkin named Thrak, who answers to King Grom, the chief of the Mountainmaw tribe. King Grom resides in Mountainmaw Castle, located approximately twenty miles northeast of the Mountainmaw hideout within Highmount Wood.
 
 - Thrak received a messenger Vermkin from King Grom a few days ago. The messenger conveyed that an entity known as the Black Spider was compensating the Mountainmaws to monitor and apprehend the molekin Burrowbard Stoneseeker. The orders were to capture Burrowbard along with any possessions and deliver them to King Grom. Thrak adhered to these instructions, resulting in Burrowbard's ambush and subsequent capture, including a map in his possession.
  
@@ -422,13 +422,12 @@ At the end of session 1, describe the following cut away scene.
 ```
 A day and a night back on the road kicking up red dust, listening to Sildar's stories, brings you to an old scarecrow, loose clothes hanging off a cross made from an old pitchfork and pickaxe with a sign nailed to its chest. "Welcome to Tuntin" it reads.
 
-In town, a barkeeper looks into a mirror and washes some blood off his knuckles before applying a saulve to his black eye.
+In town, a barkeeper looks into a mirror and washes some blood off his knuckles before applying a salve to his black eye.
 
-Elsewhere, a cowardly mayor hastly closes the shutters of his office to avoid being seen by thugs in the streets all dressed in purple.
+Elsewhere, a cowardly mayor hastily closes the shutters of his office to avoid being seen by thugs in the streets all dressed in purple.
 
-And all the while, underground, in that deep dark place a creature with a single great green eye cackles quitley to itself as it sorts through it's collection of bones. It sense your arrival, an whispers "Welcome to Tuntin..."
+And all the while, underground, in that deep dark place a creature with a single great green eye cackles quietly to itself as it sorts through it's collection of bones. It sense your arrival, an whispers "Welcome to Tuntin..."
 ```
-
 
 # **Part 2: Tuntin**
 
@@ -544,7 +543,7 @@ Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tha
 
 ### Edermath ogrekinhard
 
-Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple ogrekinhard. He is a robust half-elf, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
+Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-elf, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
 
 Daran is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Daran keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
@@ -578,11 +577,11 @@ The guildmaster is Halia Thornton, a determined and strategic mudblood woman. He
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminnate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
-Should the party successfully eliminnate the Lavender Lancer leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
+Should the party successfully eliminate the Lavender Lancer leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
 
 ### Alderleaf Farm
 
