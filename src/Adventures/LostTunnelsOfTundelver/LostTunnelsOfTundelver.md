@@ -6,15 +6,15 @@ In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route t
 
 Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Lavender Lancers, a gang of outlaws led by the enigmatic figure known as Glassmith. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Lavender Lancers seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Lavender Lancer hideout. Beneath an old manor's, they discover a hidden hideout that Sylas "Glassmith" Alabaster, the Lavender Lancers' shadow leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
-Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Mole Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyrm Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a spiderkin adventurer named Nezznar, and the Mountainmaw Vermkins serve him. spiderkin, for context, are a subterranean chitinkin race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
+Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Mole Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyrm Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Ferralkins. Here, the characters make a startling discovery: the Black Spider is a spiderkin mastermind named Nezznar, and the Mountainmaw Vermkins serve her. Spiderkin, for context, are a subterranean chitinkin race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
-Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
+Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and her loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
 ## Villainous Synopsis
 
 The Black Spider, our shrewd and alluring Spiderkin villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the Forge of Runes within. She has brokered an alliance between the more unscrupulous factions surrounding the town of Tuntin, promising each a share of the power the forge will grant.
 
-She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Reddwall, in exchange for sovereignty over the town. She even asked the Ogrekin bandits of Wyrm Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
+She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Reddwall, in exchange for sovereignty over the town. She even asked the Ogrekin bandits of Wyrm Tor to patrol and to keep interlopers out of the region in exchange for a portion of the rune forged weapons once the Forge of Runes is opperational. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
 
 Now that she has Burrowbard's map, there's no problem, well there's one problem. She needs the players' mysterious puzzle box to appease the Forge of Runes' guardian...
 
@@ -36,19 +36,13 @@ The sections acts as a session 0 to start the campaign on the right foot. This i
 
 If any of your players are brand new to Table Top Role Play Games, than I'd encourage you to steer them towards these pre-generated character sheets:
 
-- Premade 1
-- Premade 2
-- Premade 3
-- Premade 4
-- Premade 5
+- [Grimwald Thornhelm](./../../Characters/PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
+- [Nivix](./../../Characters/PC/Nivix/Nivix.md)
+- [Valkyrie Dreki](./../../Characters/PC/ValkyrieDreki/ValkyrieDreki.md)
+- [Seraphina Roseblood](./../../Characters/PC/SeraphinaRoseblood/SeraphinaRoseblood.md)
+- [Javk Wick](./../../Characters/PC/JavkWick/JavkWick.md)
 
-While writing you and your players come up with your backstories, it is your job to steer your players away from any problematic decisions. Anything that would make the party less cohesive or unproductive to the story.
-
-Javk Wick's 3 rules of character creation:
-
-- No joke characters
-- No anti-social characters
-- You character can start evil
+If you player's do want to make their own characters, take a look at the [Character Creation](./../../GeneralRules/NonCombatRules/CharacterCreation.md) guide.
 
 ## Connections to Burrowbard Stoneseeker
 
@@ -64,8 +58,6 @@ Example of connections to Burrowbard:
 - For magic characters, Burrowbard was at one point an adventurer and steered the player character away from the darker aspects of their magic
 - He was a father figure who helped a character relearn their self worth
 
-``The characters find themselves in the city of Reddwall when their friend and molekin patron, Burrowbard Stoneseeker, contracts them to escort a wagon to Tuntin. Burrowbard, along with a warrior named Ulfric Warwinter, has already headed to Tuntin for business, while the characters are tasked with delivering the wagon's supplies. The owner of Barton's Provisions in Tuntin will pay each character 10 bronze coins upon the safe delivery of the wagon.``
-
 ## Planning for Special player moments
 
 I want you to think about how you can incorporate each players' backstory into the campaign for some special player moments. Every character should have one moment, one opportunity in the story that's specific to their character. If there is an important NPC in their past (you could add them in) or important item, bring it on in. Get creative and plan to give each of your players one big moment!
@@ -77,7 +69,9 @@ Roleplay a scene set around a table in a Reddwall tavern, where Burrowbard impar
 ```
 Thank you for joining me everyone. I value everyone that sits at this table and I hope you all will become as fast friends. I want to share a secret with, I need you all to retrieve an important trinket critical to a new business venture I have been investigating, which I'd like to bring each of you in on.
 
-There is a mysterious puzzle box in the which is currently being fixed by a young tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon ful of mining supplies to Bart at the Stonehill Inn in Tuntin. I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own safety.
+There is a mysterious puzzle box in the which is currently being fixed by a young tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon full of mining supplies to Bart at the Stonehill Inn in Tuntin. Each of you will recieve 10 bc upon completeting this task. This is just a taste of the wealth this business venture holds. After that, find me in Tuntin and deliver the puzzle box.
+
+I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own safety.
 ```
 
 At this point Burrowbard gestures to an older mudblood who has been quietly sitting since the party arrived.
@@ -88,14 +82,16 @@ Accompanying you is my dear old friend Ulfric Warwinter, who has been a faithful
 
 If Ulfric is questioned he mentions in a pompous English accent that he needs to check in on a colleague named Sylas who's gone missing in the area.
 
-The young mudblood tinker Killroy Contained within the puzzle box is an runesmithed blue crystalline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mcguffin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a single player make a CL 3 General Knowledge check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
+After Burrowbard and Ulfric have departed on the road, the young mudblood tinker Killroy will find the players and in a stuttered voice inform them that he was able to get done sooner than expected. He gives the party the lockbox key and number, before wishing them safe travels.
+
+Contained within the puzzle box is an runesmithed blue crystalline key which both Burrowbard and the Black Spider needs to get past the creature that guards the Forge of Runes. The puzzle box acts as a mcguffin and give the Black Spider a reason to harass the party. If any player wants to open the box, let a single player make a CL 3 General Knowledge check whenever they take a long rest as it takes lots of time to solve. Or they could decide to break it open very easily.
 
 At the end of session 0 and the prologue, describe the following scene.
 
 ```
-In the dead of night, light footsteps echo across the vault that you had visited earlier, there is the sound of a scuffle and a guard collapses to the ground in a heap, strangled marks visible around his neck. His silent attacker appears to be one of his compatriots, but the disguised flesh morphs, to reveal a translucent alien-like body. Mouthless, the creature approaches the lock box, opening it easily and notices the mysterious puzzle box is missing.
+ In the dead of night, light footsteps echo across the vault that you had visited earlier, there is the sound of a scuffle and a guard collapses to the ground in a heap, strangled marks visible around his neck. His silent attacker appears to be one of his compatriots, but the disguised flesh morphs, to reveal a translucent alien-like body. Mouthless, the creature approaches the lock box, opening it easily and notices the mysterious puzzle box is missing.
 
-Behind it a cloaked figure with red eyes shakes it's head. In a womanly elegant soft French voice "Well Montheith, it appears that someone has beat us to the punch, we might have to get a little creative after all."
+Behind it a cloaked figure with red eyes shakes it's head. In a womanly elegant soft French voice "Well Montheith, it appears that someone has beat us to the punch aye, we might have to get a little creative after all."
 
 ```
 
@@ -114,7 +110,7 @@ Within the bustling urban sprawl of Reddwall, a stout and bearded molekin by the
 
 Intriguingly, Burrowbard and his warrior companion, Ulfric Warwinter, embarked on their journey ahead of your group, mounted on horses, and claimed they needed to arrive early to "attend to certain matters."
 
-Your expedition has seen you trekking through the past few days, tracing the well-trodden path along the Crimson Road, venturing eastward from Reddwall. As of late, you've taken a turn eastward onto the Trident Trail. Thus far, your journey has been relatively uneventful, though this terrain is notorious for its perils. Bandits and outlaws are known to lurk along these very trails, making vigilance and caution imperative.
+Your expedition has seen you trekking through the past few days, tracing the well-trodden path along the Crimson Road, venturing south-westward from Reddwall. As of late, you've taken a turn westward onto the Trident Trail. Thus far, your journey has been relatively uneventful, though this terrain is notorious for its perils. Bandits and outlaws are known to lurk along these very trails, making vigilance and caution imperative.
 ```
 
 Before delving further into the adventure, take a few moments to engage the players in the following activities:
