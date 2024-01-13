@@ -76,7 +76,7 @@
 
 ### [Doppelganger](Monster/Doppelganger/Doppelganger.md)
 
-### [Leshen](Monster/Leshen/Leshin.md)
+### [Leshen](Monster/Leshen/Leshen.md)
 
 ### [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
 

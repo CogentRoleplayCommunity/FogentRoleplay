@@ -110,7 +110,7 @@ Maggots can be used to prevent infection, because they eat dead tissue.
 Notes:
 KRITARON
 Ask Narrator about Kikimora weakness to Mindcraft
-Approached Reddland on the Dutches with Yavin, Tragar, another guy.
+Approached Reddland on the Dutchess with Yavin, Tragar, another guy.
 \Fanácrio wrote the story of Helena in his notebook, called "The Story Behind the Blood Princess". He treats Helena as the heroine of the tale, The world is against her, and everyone leaves her. He makes up a lot in this story, but he tries to implement everything Uhtred told him.
 Weeping Anvil. Helena’s grave is dug up, 10 big heavy booted figures dragged a 12 year old Brightkin tied up with bloody rope sits next to the grave. No other external injuries. Bloody Angel Spike next to her corpse. A track leads to the right of the grave, and leads to an explosion with 5 dead cult members and multiple guards.
 Uhtred regards the rocks above Helena’s grave as evil.
@@ -119,7 +119,7 @@ Fanácrio, being the only one proficient in mindcraft, is the hub of the group's
 Leodelphian assassins are called “Fangs”
 Uhtred is a street rat. Is an orphan. Byoka was a friend from the orphanage, they were family. Uhtred went to Reddwall (Story of the Blood Princess). Saw Byoka in Reddwall a few days before. Finnan kamikaze during terrorist. {Caught stealing food from a rich man.} Byoka is the one wielding the terrorist,
 Brightkin cant die, but there is a price to be paid or a gift in some due, every time they come back, a part of them dies and is replaced with aspects of the Bright Lord.
-The war is at a standhill, building up reserves at the Crimson Hills. Reddland deployed a new strategy.item, a runecraft mechanical contraption, which resulted in a devastating loss for the empire.
+The war is at a standstill, building up reserves at the Crimson Hills. Reddland deployed a new strategy.item, a runecraft mechanical contraption, which resulted in a devastating loss for the empire.
 Why do you live here in such an awful territory for kikki? I am aiding those who have brought me life. I have loyalty, unlike some kikki who have lost their way.
 Mercenary is over his head, bound by his master. Seaspeak to unlock the collar.
 Cult of amon meeting place
