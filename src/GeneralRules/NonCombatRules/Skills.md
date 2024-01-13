@@ -69,7 +69,7 @@ Represented by a survivalist or street smarts. It is the skill associated with s
 
 #### Will
 
-Measures a character's mental and spiritual control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, will also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
+Measures a character's mental and spiritual control/strength, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, will also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
 
 ## Skill Specialty
 
