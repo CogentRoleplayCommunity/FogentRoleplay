@@ -78,6 +78,10 @@
 | Javelin               |   2   | Short Spear, Thrown Short Spear | Mundane |   12/12    |   3   | 5 bc  |
 | Bronze Coin           |  38   |            Currency             | Mundane |            | 0.02  | 1 bc  |
 | Copper Coin           |  70   |            Currency             | Mundane |            | 0.02  | 1 cc  |
+| Copper Coin                                             | 600 | Misc             | Mundane   |            | 0.02 | 1 cc  |
+| Bronze Coin                                             | 11  | Misc             | Mundane   |            | 0.02 | 1 bc  |
+| Jade statuette of a frog with tiny golden orbs for eyes | 1   | Treasure         | Excellent |            | 1    | 50 bc |
+| Vial of Minor Healing Blood                             | 2   | Misc             | Mundane   |            | 0.25 | 50 bc |
 
 ## Notes
 
