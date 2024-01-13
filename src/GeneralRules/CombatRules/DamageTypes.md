@@ -63,7 +63,7 @@ Damage caused by extreme low temperatures.
 
 ### Radiant
 
-Damage caused specifically by Miracles or sunlight.
+Damage caused specifically by divine power or sunlight.
 
 ### Silver
 

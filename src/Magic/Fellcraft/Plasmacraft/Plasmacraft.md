@@ -9,7 +9,7 @@ Plasmacraft users can narratively attempt the following:
 - Create solar flare-like attacks.
 - Emulate properties of solar energy.
 
-Plasmacraft is the domain of true masters of Fellcraft. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Miracles.
+Plasmacraft is the domain of true masters of Fellcraft. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Brightcraft.
 
 #### Fellcraft Combination: Plasmacraft
 

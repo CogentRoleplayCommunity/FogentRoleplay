@@ -16,4 +16,4 @@ Tier:
 
 ### Light Storage:
 
-Holds 1 Ichor's worth of light. Ichor can be drawn from it for use in Miracles. Can be recharged in Sunlight. Light slowly dissipates from this gem.
+Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem.
