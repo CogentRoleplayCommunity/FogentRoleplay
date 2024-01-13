@@ -41,14 +41,14 @@
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Toxincraft - Melee Trick  |      11d6       |                 |                   |      0      |  Melee   |      Poison       |           Rapid           |                     |        None         |
 | Toxincraft - Ranged Trick |      11d6       |                 |                   |      0      | Extended |      Poison       |         Standard          |                     |        None         |
-|    Toxincraft - Melee     |      12d6       |                 |                   |      2      |  Melee   |      Poison       |           Rapid           |                     |      1 (Ichor)      |
-|    Toxincraft - Ranged    |      12d6       |                 |                   |      1      | Extended |      Poison       |         Standard          |                     |      1 (Ichor)      |
-|     Toxincraft - Cone     |      12d6       |                 |                   |      2      | Extended |      Poison       |          Focused          |        Cone         |      1 (Ichor)      |
-|    Toxincraft - Reach     |      12d6       |                 |                   |      2      |  Reach   |      Poison       |           Rapid           |                     |      1 (Ichor)      |
-|   Toxincraft - Focused    |      13d6       |                 |                   |      2      | Extended |      Poison       |          Focused          |                     |      1 (Ichor)      |
-|    Toxincraft - Sphere    |      13d6       |                 |                   |      3      | Extended |      Poison       |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Toxincraft - Melee     |      12d6       |                 |                   |      2      |  Melee   |      Poison       |           Rapid           |                     |      1 (Fellblood)      |
+|    Toxincraft - Ranged    |      12d6       |                 |                   |      1      | Extended |      Poison       |         Standard          |                     |      1 (Fellblood)      |
+|     Toxincraft - Cone     |      12d6       |                 |                   |      2      | Extended |      Poison       |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Toxincraft - Reach     |      12d6       |                 |                   |      2      |  Reach   |      Poison       |           Rapid           |                     |      1 (Fellblood)      |
+|   Toxincraft - Focused    |      13d6       |                 |                   |      2      | Extended |      Poison       |          Focused          |                     |      1 (Fellblood)      |
+|    Toxincraft - Sphere    |      13d6       |                 |                   |      3      | Extended |      Poison       |          Focused          |       Sphere        |      2 (Fellblood)      |
 
-## Ichor: 10/10
+## Fellblood: 10/10
 
 ## Appearance:
 

@@ -16,10 +16,10 @@ Dragongrowth is legendary in its destructive capabilities. Dragons channel their
 
 Allows the user to dragongrowth from their mouth. In addition, the plant growth the user produces has an odd dark coloring to it. This plant growth has a mind of its own, spreading to everything around it. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Nature
+#### Absorb Fellblood: Nature
 
-Large amounts of plant life can be used to absorb Ichor. This can be done with forests, crop fields, or large gardens.
+Large amounts of plant life can be used to absorb Fellblood. This can be done with forests, crop fields, or large gardens.
 
 #### Bludgeon, Pierce, Slash Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. For each resistance point gained, gain a weakness level to Fire damage. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. For each resistance point gained, gain a weakness level to Fire damage. This effect has a duration of 1 hour.

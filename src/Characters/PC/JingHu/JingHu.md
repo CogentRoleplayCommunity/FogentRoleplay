@@ -45,7 +45,7 @@
 
 ## Destiny Points: 0/3
 
-## Ichor: 0/0
+## Fellblood: 0/0
 
 ## Equipment:
 

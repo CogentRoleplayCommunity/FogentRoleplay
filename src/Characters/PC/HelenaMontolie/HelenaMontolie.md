@@ -42,8 +42,8 @@
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Hemacraft - Melee Trick  |       4d6       |                 |                   |      0      | Melee |       Bleed       |           Rapid           |                     |        None         |
 | Hemacraft - Ranged Trick |       4d6       |                 |                   |      0      | Short |       Bleed       |         Standard          |                     |        None         |
-|    Hemacraft - Melee     |       5d6       |                 |                   |      2      | Melee |       Bleed       |           Rapid           |                     |      1 (Ichor)      |
-|    Hemacraft - Ranged    |       5d6       |                 |                   |      1      | Short |       Bleed       |         Standard          |                     |      1 (Ichor)      |
+|    Hemacraft - Melee     |       5d6       |                 |                   |      2      | Melee |       Bleed       |           Rapid           |                     |      1 (Fellblood)      |
+|    Hemacraft - Ranged    |       5d6       |                 |                   |      1      | Short |       Bleed       |         Standard          |                     |      1 (Fellblood)      |
 |  Small Thrusting Point   | 4d6<br />(+0d6) |      +0d6       |  5d6<br />(+1d6)  |      2      | Melee |      Pierce       |           Rapid           |        None         |        None         |
 |   Small Slashing Blade   | 5d6<br />(+1d6) |      +1d6       |  6d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None         |        None         |
 
@@ -53,7 +53,7 @@
 
 ## Destiny Points: 1/3
 
-## Ichor: 1/1
+## Fellblood: 1/1
 
 ## Equipment:
 

@@ -4,25 +4,25 @@
 
 ![](Polycraft/Polycraft.png)
 
-The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Ichor.
+The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Fellblood.
 
-Due to their monstrous ancestry, Fellkind carries Ichor, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Ichor. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
+Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Fellblood. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
 
 - Magic Name: Fellcraft
 - Magic Vocation Name: Fellkin
 - Magic Vocation Governing Attributes: STR, RFX, INT
-- Magic Resource Name: Ichor
+- Magic Resource Name: Fellblood
 - Cantrip Name: Trick
 - Governing Core Skill: Endurance
 - Spell Name: FellWeave
 
 ### Silverburn
 
-A reaction caused by silver coming into contact with Ichor. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Ichor in their blood.
+A reaction caused by silver coming into contact with Fellblood. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Fellblood in their blood.
 
 If a character has at least a level 1 in the "Fellkin" or equivalent vocation, they gain a Minor weakness to silver damage.
 
-Silverburn damage taken while transformed by Ichor, forces the user to make an Endurance check to maintain their form.
+Silverburn damage taken while transformed by Fellblood, forces the user to make an Endurance check to maintain their form.
 
 * CL of  Endurance check will be level of injury dealt + 1.
 * If the user fails, then they lose all active Fellcraft buffs.

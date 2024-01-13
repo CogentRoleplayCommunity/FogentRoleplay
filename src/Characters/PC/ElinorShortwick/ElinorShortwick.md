@@ -42,18 +42,18 @@
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Polycraft - Melee Trick  |       6d6       |                 |                   |      0      |  Melee   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |                     |
 | Polycraft - Ranged Trick |       6d6       |                 |                   |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |                     |
-|    Polycraft - Melee     |       7d6       |                 |                   |      2      |  Melee   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Ichor)      |
-|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |      1 (Ichor)      |
-|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone         |      1 (Ichor)      |
-|    Polycraft - Reach     |       7d6       |                 |                   |      2      |  Reach   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Ichor)      |
-|   Polycraft - Focused    |       7d6       |                 |                   |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                     |      1 (Ichor)      |
-|    Polycraft - Sphere    |       8d6       |                 |                   |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Polycraft - Melee     |       7d6       |                 |                   |      2      |  Melee   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Fellblood)      |
+|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |      1 (Fellblood)      |
+|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Polycraft - Reach     |       7d6       |                 |                   |      2      |  Reach   | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Fellblood)      |
+|   Polycraft - Focused    |       7d6       |                 |                   |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                     |      1 (Fellblood)      |
+|    Polycraft - Sphere    |       8d6       |                 |                   |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere        |      2 (Fellblood)      |
 |  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |       None        |      2      |  Melee   |            Pierce            |           Rapid           |        None         |        None         |
 |  Medium Slashing Sword   | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None        |      0      |  Melee   |            Slash             |           Rapid           |        None         |        None         |
 
 ## Destiny Points: 3/3
 
-## Ichor: 7/7
+## Fellblood: 7/7
 
 ## Equipment:
 

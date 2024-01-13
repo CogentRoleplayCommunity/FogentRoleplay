@@ -31,10 +31,10 @@ Soulfire is legendary in its destructive capabilities. Soul fire produces cold a
 
 Allows the user to breathe soulfire from their mouth. This energy has a mind of its own, leaping from soul to soul. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Souls
+#### Absorb Fellblood: Souls
 
-Souls can be absorbed and feed on to regain Ichor. Victim can not resist. An extra point of Ichor should be awarded if a Fellkin or Brightkin is consumed.
+Souls can be absorbed and feed on to regain Fellblood. Victim can not resist. An extra point of Fellblood should be awarded if a Fellkin or Brightkin is consumed.
 
 #### Spiritual Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

@@ -23,7 +23,7 @@
 |                     Name                     |                                       Effect                                       | Duration |                        Source                         |
 | :------------------------------------------: | :--------------------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
 |               Incorporeal Form               | Can move through physical objects and creatures as if they were difficult terrain. |          |                                                       |
-|            Medium Silver Weakness            |           (+2) to the level of injury<br />received from Silver damage.            |          |                      Ichor blood                      |
+|            Medium Silver Weakness            |           (+2) to the level of injury<br />received from Silver damage.            |          |                      Fellblood blood                      |
 | Complete Non-Magical/Non-Silvered Resistance |        -5 to victory levels received from Non-Magical/Non-Silvered  damage.        |          |                                                       |
 |            Physical Defense Level            |                                         0                                          |          |                         Armor                         |
 |                 Medium Size                  |                               5x5 ft on battle map.                                |          |                                                       |
@@ -36,17 +36,17 @@
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |  Ghost Magic - Melee Trick  |       7d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
 | Ghost Magic - Ranged Trick  |       7d6       |                 |                   |      0      | Extended |                   |         Standard          |                     |        None         |
-|     Ghost Magic - Melee     |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Ghost Magic - Ranged     |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Ichor)      |
-|     Ghost Magic - Cone      |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|     Ghost Magic - Reach     |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Ghost Magic - Focused    |       9d6       |                 |                   |      2      | Extended |                   |          Focused          |                     |      1 (Ichor)      |
-|    Ghost Magic - Sphere     |       9d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+|     Ghost Magic - Melee     |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Ghost Magic - Ranged     |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Fellblood)      |
+|     Ghost Magic - Cone      |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Ghost Magic - Reach     |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Ghost Magic - Focused    |       9d6       |                 |                   |      2      | Extended |                   |          Focused          |                     |      1 (Fellblood)      |
+|    Ghost Magic - Sphere     |       9d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
 | Shadow Magic - Melee Trick  |       7d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
 | Shadow Magic - Ranged Trick |       7d6       |                 |                   |      0      | Extended |                   |         Standard          |                     |        None         |
-|    Shadow Magic - Melee     |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Shadow Magic - Ranged    |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Ichor)      |
-|     Shadow Magic - Cone     |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|    Shadow Magic - Reach     |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Ichor)      |
-|   Shadow Magic - Focused    |       9d6       |                 |                   |      2      | Extended |                   |          Focused          |                     |      1 (Ichor)      |
-|    Shadow Magic - Sphere    |       9d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Shadow Magic - Melee     |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Shadow Magic - Ranged    |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Fellblood)      |
+|     Shadow Magic - Cone     |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Shadow Magic - Reach     |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Fellblood)      |
+|   Shadow Magic - Focused    |       9d6       |                 |                   |      2      | Extended |                   |          Focused          |                     |      1 (Fellblood)      |
+|    Shadow Magic - Sphere    |       9d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Fellblood)      |

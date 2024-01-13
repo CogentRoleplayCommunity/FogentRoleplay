@@ -52,7 +52,7 @@
 
 ## Magic
 
-### Ichor: 1/1
+### Fellblood: 1/1
 
 ### Fellweaves known:
 

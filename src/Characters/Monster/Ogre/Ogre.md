@@ -45,7 +45,7 @@
 |    Reach Hafted Point    |    5d6<br />(-2)     |   10d6<br />(+3d6)   |       None        |      4      | Reach |            Pierce            |           Rapid           |        None         |        None         |
 |    Reach Hafted Blunt    |    5d6<br />(-2)     |   9d6<br />(+2d6)    |       None        |      5      | Reach |           Bludgeon           |           Rapid           |        None         |        None         |
 
-## Ichor: 1/1
+## Fellblood: 1/1
 
 ## Equipment
 

@@ -44,7 +44,7 @@
 |       Short Spear        | 5d6, 3d4<br />(+2d6) | 6d6, 3d4<br />(+3d6) |      (+1d6)       |      3      | Melee |            Pierce            |        Spear Rapid        |        None         |        None         |
 |    Thrown Short Spear    | 5d6, 3d4<br />(+2d6) | 5d6, 3d4<br />(+2d6) |       None        |      3      | Short |            Pierce            |         Standard          |        None         |        None         |
 
-## Ichor: 1/1
+## Fellblood: 1/1
 
 ## Equipment:
 

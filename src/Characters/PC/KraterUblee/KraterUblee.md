@@ -51,7 +51,7 @@ Unspent Skill Point: 1
 
 ## Destiny Points: 1/3
 
-## Ichor: 2/2
+## Fellblood: 2/2
 
 ## Equipment
 

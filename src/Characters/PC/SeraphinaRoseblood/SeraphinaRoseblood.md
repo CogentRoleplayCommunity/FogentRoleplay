@@ -43,11 +43,11 @@
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Hydrocraft - Ranged Trick |       6d6       |                 |                   |      0      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard          |        None         |        None         |
 | Hydrocraft - Melee Trick  |       6d6       |                 |                   |      0      |  Melee   | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None         |        None         |
-|    Hydrocraft - Ranged    |       7d6       |                 |                   |      1      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard          |        None         |      1 (Ichor)      |
-|    Hydrocraft - Melee     |       7d6       |                 |                   |      2      |  Melee   | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None         |      1 (Ichor)      |
-|     Hydrocraft - Cone     |       7d6       |                 |                   |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        Cone         |      1 (Ichor)      |
-|   Hydrocraft - Focused    |       8d6       |                 |                   |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        None         |      1 (Ichor)      |
-|    Hydrocraft - Sphere    |       8d6       |                 |                   |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Hydrocraft - Ranged    |       7d6       |                 |                   |      1      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard          |        None         |      1 (Fellblood)      |
+|    Hydrocraft - Melee     |       7d6       |                 |                   |      2      |  Melee   | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None         |      1 (Fellblood)      |
+|     Hydrocraft - Cone     |       7d6       |                 |                   |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        Cone         |      1 (Fellblood)      |
+|   Hydrocraft - Focused    |       8d6       |                 |                   |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        None         |      1 (Fellblood)      |
+|    Hydrocraft - Sphere    |       8d6       |                 |                   |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |       Sphere        |      2 (Fellblood)      |
 |        Short Spear        | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None        |      3      |  Melee   |                  Pierce                   |        Spear Rapid        |        None         |        None         |
 |    Thrown Short Spear     | 6d6<br />(+2d6) |     (+2d6)      |       None        |      3      |  Short   |                  Pierce                   |         Standard          |        None         |        None         |
 
@@ -57,7 +57,7 @@
 
 ## Destiny Points: 0/3
 
-## Ichor: 6/6
+## Fellblood: 6/6
 
 ## Equipment:
 

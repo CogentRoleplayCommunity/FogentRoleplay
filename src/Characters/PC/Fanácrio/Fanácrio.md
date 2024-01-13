@@ -44,31 +44,31 @@
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Mindcraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Mindcraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
-|    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Mindcraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Ichor)      |
-|     Mindcraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|     Mindcraft- Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
-|   Mindcraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Ichor)      |
-|    Mindcraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Mindcraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Fellblood)      |
+|     Mindcraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Mindcraft- Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
+|   Mindcraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Fellblood)      |
+|    Mindcraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
 | Sonocraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Sonocraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
-|    Sonocraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Sonocraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Ichor)      |
-|     Sonocraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|    Sonocraft - Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
-|   Sonocraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Ichor)      |
-|    Sonocraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Sonocraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Sonocraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Fellblood)      |
+|     Sonocraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Sonocraft - Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
+|   Sonocraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Fellblood)      |
+|    Sonocraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
 | Polycraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Polycraft - Ranged Trick |       6d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    Polycraft - Melee     |       7d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
-|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|    Polycraft - Reach     |       7d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
-|   Polycraft - Focused    |       8d6       |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Ichor)      |
+|    Polycraft - Melee     |       7d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Fellblood)      |
+|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Polycraft - Reach     |       7d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
+|   Polycraft - Focused    |       8d6       |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Fellblood)      |
 | Galecraft - Melee Trick  |       5d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Galecraft - Ranged Trick |       5d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    Galecraft - Melee     |       6d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    Galecraft - Ranged    |       6d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
+|    Galecraft - Melee     |       6d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    Galecraft - Ranged    |       6d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Fellblood)      |
 |   Medium Hafted Blunt    | 5d6<br />(+0d6) | 6d6<br />(+1d6) |       +1d6        |      4      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
 
 | Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
@@ -77,7 +77,7 @@
 
 ## Destiny Points: 2/3
 
-## Ichor: 10/10
+## Fellblood: 10/10
 
 ## Equipment
 

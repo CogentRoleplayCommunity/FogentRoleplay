@@ -16,9 +16,9 @@ Dragonfire is legendary in its destructive capabilities. Dragons channel their f
 
 Allows the user to breathe fire from their mouth. In addition, the fire the user produces has an odd dark coloring to it. This fire has a mind of its own, leaping from fuel to fuel. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorbing Ichor: Fire
+#### Absorbing Fellblood: Fire
 
-Fire and heat can be used to absorb Ichor. This can be done with large fires, volcanoes, smoldering ash, blazing comets, etc...
+Fire and heat can be used to absorb Fellblood. This can be done with large fires, volcanoes, smoldering ash, blazing comets, etc...
 
 #### [Unfinished] Specialization: The Phoenix
 
@@ -26,4 +26,4 @@ Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire
 
 #### Fire Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

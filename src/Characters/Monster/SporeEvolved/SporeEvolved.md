@@ -35,10 +35,10 @@
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Sporecraft - Melee Trick  |       5d6       |                 |                   |      0      | Melee |     Necrotic      |           Rapid           |                     |        None         |
 | Sporecraft - Ranged Trick |       5d6       |                 |                   |      0      | Close |     Necrotic      |         Standard          |                     |        None         |
-|    Sporecraft - Melee     |       6d6       |                 |                   |      2      | Melee |     Necrotic      |           Rapid           |                     |      1 (Ichor)      |
-|    Sporecraft - Ranged    |       6d6       |                 |                   |      1      | Close |     Necrotic      |         Standard          |                     |      1 (Ichor)      |
-|     Sporecraft - Cone     |       6d6       |                 |                   |      2      | Close |     Necrotic      |          Focused          |        Cone         |      1 (Ichor)      |
-|    Sporecraft - Reach     |       6d6       |                 |                   |      2      | Reach |     Necrotic      |           Rapid           |                     |      1 (Ichor)      |
-|   Sporecraft - Focused    |       7d6       |                 |                   |      2      | Close |     Necrotic      |          Focused          |                     |      1 (Ichor)      |
+|    Sporecraft - Melee     |       6d6       |                 |                   |      2      | Melee |     Necrotic      |           Rapid           |                     |      1 (Fellblood)      |
+|    Sporecraft - Ranged    |       6d6       |                 |                   |      1      | Close |     Necrotic      |         Standard          |                     |      1 (Fellblood)      |
+|     Sporecraft - Cone     |       6d6       |                 |                   |      2      | Close |     Necrotic      |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Sporecraft - Reach     |       6d6       |                 |                   |      2      | Reach |     Necrotic      |           Rapid           |                     |      1 (Fellblood)      |
+|   Sporecraft - Focused    |       7d6       |                 |                   |      2      | Close |     Necrotic      |          Focused          |                     |      1 (Fellblood)      |
 
-## Ichor: 4/4
+## Fellblood: 4/4

@@ -40,10 +40,10 @@
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Sonocraft - Ranged Trick |       6d6       |                 |                   |      0      | Extended |                   |         Standard          |        None         |        None         |
-|    Sonocraft - Ranged    |       7d6       |                 |                   |      1      | Extended |                   |         Standard          |        None         |      1 (Ichor)      |
-|     Sonocraft - Cone     |       7d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|   Sonocraft - Focused    |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        None         |      1 (Ichor)      |
-|    Sonocraft - Sphere    |       8d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Sonocraft - Ranged    |       7d6       |                 |                   |      1      | Extended |                   |         Standard          |        None         |      1 (Fellblood)      |
+|     Sonocraft - Cone     |       7d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|   Sonocraft - Focused    |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        None         |      1 (Fellblood)      |
+|    Sonocraft - Sphere    |       8d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
 |  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  6d6<br />(+1d6)  |      2      |  Melee   |      Pierce       |           Rapid           |        None         |        None         |
 |  Medium Slashing Sword   | 6d6<br />(+2d6) | 7d6<br />(+3d6) |  7d6<br />(+1d6)  |      0      |  Melee   |       Slash       |           Rapid           |        None         |        None         |
 
@@ -53,7 +53,7 @@
 
 ## Destiny Points: 0/3
 
-## Ichor: 6/6
+## Fellblood: 6/6
 
 ## Equipment:
 

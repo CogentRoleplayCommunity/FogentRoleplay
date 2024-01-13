@@ -21,10 +21,10 @@ Dragongale is legendary in its destructive capabilities. Dragons channel their f
 
 Allows the user to breath dragongale from from their mouth. In addition, the dragongale the user produces has an odd smokey coloring to it. Dragongale has a mind of its own, creating small tornadoes. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Gale
+#### Absorb Fellblood: Gale
 
-Gale can be used to absorb Ichor. This can be done near storms, tornadoes, places of great height, ect...
+Gale can be used to absorb Fellblood. This can be done near storms, tornadoes, places of great height, ect...
 
 #### Shockwave Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

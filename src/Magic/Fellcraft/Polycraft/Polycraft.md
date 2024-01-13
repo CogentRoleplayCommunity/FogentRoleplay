@@ -12,9 +12,9 @@ Polycraft fundamentally is the ability to enhance, heal, and change one's body. 
 
 #### Transformation
 
-When a character attempts a Polycraft transformation, they make a Polycraft Roll. Depending on the wins achieved, the user can gain benefits associated with that CL and all the benefits below. For every effect they must pay the associated ichor cost. If the user attempts to perform another transformation, they must drop their transformed state.
+When a character attempts a Polycraft transformation, they make a Polycraft Roll. Depending on the wins achieved, the user can gain benefits associated with that CL and all the benefits below. For every effect they must pay the associated Fellblood cost. If the user attempts to perform another transformation, they must drop their transformed state.
 
-| Effect                                                          | Challenge Level | Duration | Ichor |
+| Effect                                                          | Challenge Level | Duration | Fellblood |
 | --------------------------------------------------------------- | --------------- | -------- | ----- |
 | Dark Vision                                                     | 1               | 24 hr    | 0     |
 | Minor Healing Factor                                            | 2               | 24 hr    | 1     |
@@ -40,9 +40,9 @@ When a character attempts a Polycraft heal, they make a Polycraft Roll (this can
 
 The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
 
-#### Absorbing Ichor: Flesh and Blood
+#### Absorbing Fellblood: Flesh and Blood
 
-Flesh and blood can be consumed to regain Ichor. This generally is done ravenously. An extra point of Ichor should be awarded if a Fellkind of Monster is consumed.
+Flesh and blood can be consumed to regain Fellblood. This generally is done ravenously. An extra point of Fellblood should be awarded if a Fellkind of Monster is consumed.
 
 #### Specialization: The Doppelganger
 
@@ -61,4 +61,4 @@ Doppelgangers are devious shapeshifters that take on the appearance of other hum
 
 #### Slash Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to these damage types equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to these damage types equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

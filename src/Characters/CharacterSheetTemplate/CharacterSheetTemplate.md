@@ -44,12 +44,12 @@
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | - Melee Trick  |                 |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | - Ranged Trick |                 |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    - Melee     |                 |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    - Ranged    |                 |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
-|     - Cone     |                 |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|    - Reach     |                 |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
-|   - Focused    |                 |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Ichor)      |
-|    - Sphere    |                 |                 |                   |      3      | Close |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+|    - Melee     |                 |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
+|    - Ranged    |                 |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Fellblood)      |
+|     - Cone     |                 |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|    - Reach     |                 |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
+|   - Focused    |                 |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Fellblood)      |
+|    - Sphere    |                 |                 |                   |      3      | Close |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
 
 | Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |

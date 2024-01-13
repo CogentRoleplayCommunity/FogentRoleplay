@@ -15,10 +15,10 @@ Dragonfire is legendary in its destructive capabilities. Dragons channel their f
 
 Allows the user to dragonfrost from their mouth. In addition, the frost the user produces has an odd dark coloring to it. This frost has a mind of its own, leaching of everything around it through a form of entropy. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Cold
+#### Absorb Fellblood: Cold
 
-Cold can be used to absorb Ichor. This can be done with blizzards, frigid environments, and large bodies of ice.
+Cold can be used to absorb Fellblood. This can be done with blizzards, frigid environments, and large bodies of ice.
 
 #### Cold Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

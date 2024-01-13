@@ -50,7 +50,7 @@ Through this transformative event, a multitude of beings came into existence. Th
 
 ![img](../Races/Dhampir/Dhampir-Male.png)
 
- Despite assuming humanoid forms, Fellkind retained the ability to tap into the genetic traits inherited from their monstrous origins. Fellkind learned to harness ichor, the potential energy held in the blood of monsters and Fellkind alike. As the gifted and disciplined among them delved deeper into their newfound powers, they shaped and refined these abilities, giving birth to what is now recognized as Fellcraft.
+ Despite assuming humanoid forms, Fellkind retained the ability to tap into the genetic traits inherited from their monstrous origins. Fellkind learned to harness Fellblood, the potential energy held in the blood of monsters and Fellkind alike. As the gifted and disciplined among them delved deeper into their newfound powers, they shaped and refined these abilities, giving birth to what is now recognized as Fellcraft.
 
 ### The First of Brightkind
 

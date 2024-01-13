@@ -44,19 +44,19 @@
 | :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Naturecraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |                     |
 | Naturecraft - Ranged Trick |       6d6       |                 |                   |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |                     |
-|    Naturecraft - Melee     |       7d6       |                 |                   |      2      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Ichor)      |
-|    Naturecraft - Ranged    |       7d6       |                 |                   |      1      | Close | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |      1 (Ichor)      |
-|     Naturecraft - Cone     |       7d6       |                 |                   |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone         |      1 (Ichor)      |
-|    Naturecraft - Reach     |       7d6       |                 |                   |      2      | Reach | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Ichor)      |
-|   Naturecraft - Focused    |       7d6       |                 |                   |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |                     |      1 (Ichor)      |
-|    Naturecraft - Sphere    |       8d6       |                 |                   |      3      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere        |      2 (Ichor)      |
+|    Naturecraft - Melee     |       7d6       |                 |                   |      2      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Fellblood)      |
+|    Naturecraft - Ranged    |       7d6       |                 |                   |      1      | Close | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |      1 (Fellblood)      |
+|     Naturecraft - Cone     |       7d6       |                 |                   |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone         |      1 (Fellblood)      |
+|    Naturecraft - Reach     |       7d6       |                 |                   |      2      | Reach | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |      1 (Fellblood)      |
+|   Naturecraft - Focused    |       7d6       |                 |                   |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |                     |      1 (Fellblood)      |
+|    Naturecraft - Sphere    |       8d6       |                 |                   |      3      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere        |      2 (Fellblood)      |
 |     Thrown Small Point     | 4d6<br />(+0d6) |     (+0d6)      |       None        |      1      | Short |            Pierce            |           Quick           |        None         |        None         |
 |   Small Thrusting Point    | 4d6<br />(+0d6) |     (+0d6)      |      (+1d6)       |      2      | Melee |            Pierce            |           Rapid           |        None         |        None         |
 |    Small Slashing Blade    | 5d6<br />(+1d6) |     (+1d6)      |      (+1d6)       |      0      | Melee |            Slash             |           Rapid           |        None         |        None         |
 
 ## Destiny Points: 0/3
 
-## Ichor: 8/8
+## Fellblood: 8/8
 
 ## Equipment:
 

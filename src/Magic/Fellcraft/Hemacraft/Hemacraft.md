@@ -5,7 +5,7 @@
 Hemacraft users can narratively attempt the following:
 
 - Create and manipulate blood
-- Absorb Ichor from living hosts
+- Absorb Fellblood from living hosts
 - Blood Sense (Heartbeats) to assist Perception Checks
 
 #### Blood Buffing
@@ -36,7 +36,7 @@ When a character attempts a Hemacraft heal, they make a Polycraft Roll (this can
 
 #### Pierce, Slash Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour. Bleed resistance keeps blood in the body.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour. Bleed resistance keeps blood in the body.
 
 #### Specialization: The Healing Blood
 
@@ -53,6 +53,6 @@ By performing the following check below, a character may produce enough healing 
 | [Vial of Supreme Healing Blood](https://docs.google.com/document/d/1AfygcOVMcKjrdrc7rdwvSomWy2GugHqHnHWW1z7xWpE/edit?usp=sharing)  | 5               | 4 hr      |
 | [Vial of Revival Healing Blood](https://docs.google.com/document/d/1tgVnTAvAk-b89AMo1rZc5qA9N3-BmkJiTTzFqW8AU_Y/edit?usp=sharing)  | 6               | 8 hr      |
 
-#### Absorb Ichor: Blood
+#### Absorb Fellblood: Blood
 
-Blood can be consumed to absorb Ichor. Every time a Hemacraft attack is successfully made, you may regain 1 Ichor.  An extra point of Ichor should be awarded if a Fellkind of Monster blood is consumed. The opponent loses 1 Ichor.
+Blood can be consumed to absorb Fellblood. Every time a Hemacraft attack is successfully made, you may regain 1 Fellblood.  An extra point of Fellblood should be awarded if a Fellkind of Monster blood is consumed. The opponent loses 1 Fellblood.
