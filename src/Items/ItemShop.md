@@ -10,7 +10,15 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 | Gold Coin     | 1 | Misc | Mundane |  | 0.02 | 1 gc |
 | Platinum Coin | 1 | Misc | Mundane |  | 0.02 | 1 pc |
 
-**Fallen to DnD exchange Rate:**
+### Conversion between Currency
+
+| Coin   | Equivlent value |
+| ------ | --------------- |
+| 100 cc | 1 bc            |
+| 100 bc | 1 gc            |
+| 100 gc | 1 pc            |
+
+### Fallen to DnD exchange Rate
 
 | Fallen Currency  | DnD 5e Currency     |
 | ---------------- | ------------------- |
@@ -19,8 +27,7 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 | 100 copper coins | 1 gold piece        |
 | 1 bronze coin    | 1 gold piece        |
 | 10 bronze coins  | 1 platinum piece    |
-| 1 gold coin      | 1 platinum piece    |
-| 1 gold coin      | 1 platinum piece    |
+| 1 gold coin      | 10 platinum piece   |
 | 1 platinum coin  | 100 platinum pieces |
 
 ## Out of Game Downtime Bartering Rules
