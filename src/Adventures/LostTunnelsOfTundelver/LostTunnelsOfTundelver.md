@@ -426,7 +426,7 @@ In town, a barkeeper looks into a mirror and washes some blood off his knuckles 
 
 Elsewhere, a cowardly mayor hastly closes the shutters of his office to avoid being seen by thugs in the streets all dressed in purple.
 
-And all the while, underground, in that deep dark place a creature with a single great green eye cackles quitley to itself as it sorts through it's collection of bones. It sense your arrival, an whispers "Welcome to Tuntin...".
+And all the while, underground, in that deep dark place a creature with a single great green eye cackles quitley to itself as it sorts through it's collection of bones. It sense your arrival, an whispers "Welcome to Tuntin..."
 ```
 
 
