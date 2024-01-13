@@ -483,7 +483,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 
 1. **Toblen Bedrock (Innkeeper):** The proprietor of the Bedrock Inn, a central location in Tuntin where adventurers can gather information and secure lodging.
 2. **Elmer Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
-3. **Levi Gemwerth (Order of the Gauntlet Member):** A member of the Order of the Gauntlet who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
+3. **Levi Gemwerth (Brotherhood of Silver Member):** A member of the Brotherhood of Silver who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
 4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
 5. **Halia Thornton (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
@@ -527,7 +527,7 @@ The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Original
 * Pip, Toblen's young son, recounts Carp, Qelline Alderleaf's son, who discovered a secret tunnel in the woods, barely escaping the Lavender Lancers' pursuit.
 * Freda, a weaver, mentions that the Lavender Lancers harass all the businesses in town, except for the Tuntin Miner's Exchange, as they don't want to provoke Halia Thornton, who runs it.
 
-These rumors serve as valuable clues, guiding the characters toward various adventure opportunities in Tuntin. Furthermore, any of the inn's patrons can inform the characters that the Lavender Lancers frequent the Sleeping Giant tap house on the town's eastern end, emphasizing the danger posed by these ruffians.
+These rumors serve as valuable clues, guiding the characters toward various adventure opportunities in Tuntin. Furthermore, any of the inn's patrons can inform the characters that the Lavender Lancers frequent the Napping Giant tap house on the town's eastern end, emphasizing the danger posed by these ruffians.
 
 ### **Barton's Provisions**
 
@@ -535,25 +535,25 @@ Barton's Provisions is the largest trading post in Tuntin, counting as a Rural [
 
 The shop's proprietor is Elmer Barton, a kind and slim mudblood male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
 
-**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 bc to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost tunnels mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
+**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 bc to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost tunnels mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a CL 3 General Knowledge check can provide information found in the first two paragraphs of the "Background" section.
 
 Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tharden, have been camping outside of town. However, he hasn't seen them in the past ten days and anticipates their return to resupply at any moment. Unbeknownst to Barton, Tharden has passed away, and Nundro is held captive within the mine.
 
-**Barton's News.** If the characters inquire about the state of business in Tuntin, Barton mentions that the Lavender Lancers are making life difficult for everyone. They are extorting local businesses and defying the authority of the townmaster. If the characters express a desire to take action, he informs them that the Lavender Lancers are regular patrons at the Sleeping Giant tap house.
+**Barton's News.** If the characters inquire about the state of business in Tuntin, Barton mentions that the Lavender Lancers are making life difficult for everyone. They are extorting local businesses and defying the authority of the townmaster. If the characters express a desire to take action, he informs them that the Lavender Lancers are regular patrons at the Napping Giant tap house.
 
-### Gemwerth orchard
+### Gemwerth Orchard
 
-Levi Gemwerth, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-dhampir crossbreed, over a century old with striking silver hair. Levi served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
+Levi Gemwerth, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust dhampir, over a century old with striking silver hair. Levi served as a Brotherhood of Silver hunter in the Dawn Empire, located far to the west. Upon retiring, he returned to the Reddwall region, his place of origin.
 
-Levi is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Levi keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
+Levi is a ex member of the Brotherhood of Silver, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Levi keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
-Levi expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glassmith. Levi discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
+Levi expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glassmith. Levi discloses to the characters that the Lavender Lancers frequent the Napping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
 
 **Quest: Old Mole Trouble.** Levi has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Mole Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Levi urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Levi's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Mole Well" section for further details.
 
-#### Joining the Order of the Gauntlet
+#### Joining the Brotherhood of Silver
 
-For characters who engage with the Lavender Lancers and explore Old Mole Well, Levi Gemwerth privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Levi bestows the title of Cheval upon them.
+For characters who engage with the Lavender Lancers and explore Old Mole Well, Levi Gemwerth privately approaches certain members of the group, urging them to consider joining the Brotherhood of Silver. He targets those who align with the Brotherhood's values of honor, vigilance, and the extermination of monsters. If a character accepts, Levi bestows the title of initiate upon them.
 
 ### Beastshield Coster
 
@@ -565,7 +565,7 @@ This establishment belongs to the Beastshield's, a merchant company headquartere
 
 The head of the Tuntin post is Linett Graygale, a sharp-tongued mudblood woman in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
 
-In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Sleeping Giant tap house.
+In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Napping Giant tap house.
 
 **Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Mountainmaw hideout (or if they left the goods but revealed their whereabouts), Linett rewards them with 50 bc and pledges her assistance to the adventurers in any way possible.
 
@@ -577,7 +577,7 @@ The guildmaster is Halia Thornton, a determined and strategic mudblood woman. He
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Napping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
@@ -603,7 +603,7 @@ The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent yo
 
 Should the party assist Sister Garaele in uncovering the fate of Bowgentle's spellbook, she privately approaches specific members of the group, encouraging them to consider joining the Harpers. She focuses on individuals who embody the network's values and express a desire to bring about positive change through information and secrecy. If a character chooses to join, Sister Garaele confers upon them the title of Watcher.
 
-### The Sleeping Giant
+### The Napping Giant
 
 This dilapidated tap house is a grimy and perilous watering hole situated at the end of Tuntin's main street. It's a favorite haunt of Lavender Lancer thugs and is managed by a cantankerous female molekin named Grista. If the characters decide to visit this establishment, initiate the "Lavender Lancer Ruffians" encounter.
 
@@ -639,15 +639,15 @@ More fortress than residence, Tresendar Manor stands at the eastern outskirts of
 
 It's almost inevitable that a confrontation with the Lavender Lancers occurs within a day or two of the adventurers' arrival in Tuntin. Several scenarios can trigger this confrontation:
 
-1. If the characters decide to confront the Lavender Lancers at the Sleeping Giant tap house after speaking with several NPCs in town.
+1. If the characters decide to confront the Lavender Lancers at the Napping Giant tap house after speaking with several NPCs in town.
 2. If the characters choose to investigate Tresendar Manor.
 3. If the party shows no interest in the Lavender Lancers, a gang of ruffians seeks them out and provokes a fight in the street, often as they are leaving a location in town.
 
 ### **Confrontation**
 
-If the characters decide to confront the Lavender Lancers at the Sleeping Giant, you can describe the scene as follows:
+If the characters decide to confront the Lavender Lancers at the Napping Giant, you can describe the scene as follows:
 
-"The Sleeping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
+"The Napping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
 
 One of the thugs spits on the ground. "Well, well," he sneers. "Here's a whole bunch of little pups. What's your business here, pups? Did you come to yap at us?"
 
