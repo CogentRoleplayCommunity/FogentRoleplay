@@ -250,6 +250,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 ### Adept Spells
 
+- [Manifest Wings](Spells/Adept/ManifestWings.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 ### Expert Spells

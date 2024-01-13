@@ -17,13 +17,13 @@ Character can gain resistance to damage types depending on the Magic Skill used.
 | ---------------- | ------------------------------------------------------------------------------------------------ |
 | Cold Magic       | Cold                                                                                             |
 | Fire Magic       | Fire                                                                                             |
-| Electricty Magic | Electric                                                                                         |
-| Metal Magic      | All Physical Damage types, gain equivelent weakness to Electric (Could also only Metal weapons) |
+| Electricity Magic | Electric                                                                                         |
+| Metal Magic      | All Physical Damage types, gain equivalent weakness to Electric (Could also only Metal weapons) |
 | Wind Magic       | Shockwave                                                                                        |
 | Blood Magic      | Bleed, Pierce, Slash (Keeps blood in the body)                                                   |
 | Water Magic      | Water based attacks                                                                              |
 | Mind Magic       | Psychic                                                                                          |
-| Nature Magic     | Bludgeon, Pierce, and Slash but gain equivelent weakness to Fire                                 |
+| Nature Magic     | Bludgeon, Pierce, and Slash but gain equivalent weakness to Fire                                 |
 | Body Magic       |                                                                                                  |
 | Dark Magic       | Necrotic                                                                                         |
 | Sound Magic      | Shockwave                                                                                        |
