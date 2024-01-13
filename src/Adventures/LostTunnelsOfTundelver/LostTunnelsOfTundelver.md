@@ -415,7 +415,7 @@ Players might also decide on alternative actions, such as pursuing Mountainmaw C
 
 #### **Awarding Skill & Destiny Points**
 
-The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 2 skill & destiny points.
+The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 1 skill & destiny points.
 
 # **Part 2: Tuntin**
 
