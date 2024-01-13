@@ -15,28 +15,15 @@ Polycraft fundamentally is the ability to enhance, heal, and change one's body. 
 When a character attempts a Polycraft transformation, they make a Polycraft Roll. Depending on the wins achieved, the user can gain benefits associated with that CL and all the benefits below. For every effect they must pay the associated Fellblood cost. If the user attempts to perform another transformation, they must drop their transformed state.
 
 | Effect                                                          | Challenge Level | Duration | Fellblood |
-| --------------------------------------------------------------- | --------------- | -------- | ----- |
-| Dark Vision                                                     | 1               | 24 hr    | 0     |
-| Minor Healing Factor                                            | 2               | 24 hr    | 1     |
-| +1 to 1 physical core skill                                     | 3               | 1 hr     | 1     |
-| +1 STR or RFX                                                   | 4               | 1 hr     | 2     |
-| +1 to 2 physical core skill                                     | 5               | 1 hr     | 1     |
-| +1 STR or RFX (cannot take the same attribute from CL 4 effect) | 6               | 1 hr     | 2     |
+| --------------------------------------------------------------- | --------------- | -------- | --------- |
+| Dark Vision                                                     | 1               | 24 hr    | 0         |
+| Minor Healing Factor                                            | 2               | 24 hr    | 1         |
+| +1 to 1 physical core skill                                     | 3               | 1 hr     | 1         |
+| +1 STR or RFX                                                   | 4               | 1 hr     | 2         |
+| +1 to 2 physical core skill                                     | 5               | 1 hr     | 1         |
+| +1 STR or RFX (cannot take the same attribute from CL 4 effect) | 6               | 1 hr     | 2         |
 
-#### Polycraft Healing
-
-When a character attempts a Polycraft heal, they make a Polycraft Roll (this can be done while in a transformation). Depending on the wins achieved, the user gains one of the following effects.
-
-| Effect               | Challenge Level | Duration |
-| -------------------- | --------------- | -------- |
-| Minor Healing Factor | 2               | 24 hr    |
-| Minor Heal           | 2               | Instant  |
-| Medium Heal          | 3               | Instant  |
-| Serious Heal         | 4               | Instant  |
-| Fatal Heal           | 5               | Instant  |
-| Revival Heal         | 6               | Instant  |
-
-#### Specialization: The Beast
+## Specialization: The Beast
 
 The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
 
@@ -48,16 +35,16 @@ Flesh and blood can be consumed to regain Fellblood. This generally is done rave
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Common practitioners of this are spies, assassins, thiefs, etc… The narrator may give dice bonuses based on the context of the mimicked persona in relation to the creature the user is trying to influence.
 
-| Effect                        | Challenge Level | Duration   |
-| ----------------------------- | --------------- | ---------- |
-| Maintain form                 | 1               | 1 hr       |
-| Mimic similar humanoid        | 2               | 1 hr       |
+| Effect                         | Challenge Level | Duration   |
+| ------------------------------ | --------------- | ---------- |
+| Maintain form                  | 1               | 1 hr       |
+| Mimic similar humanoid         | 2               | 1 hr       |
 | Mimic dissimilar humanoid      | 3               | 1 hr       |
-| Mimic similar sized species   | 4               | 1 hr       |
+| Mimic similar sized species    | 4               | 1 hr       |
 | Mimic dissimilar sized species | 5               | 1 hr       |
-| Set default humanoid form     | 5               | Indefinite |
-| Mimic monster                 | 6               | 1 hr       |
-| Mimic greater monster         | 7               | 1 hr       |
+| Set default humanoid form      | 5               | Indefinite |
+| Mimic monster                  | 6               | 1 hr       |
+| Mimic greater monster          | 7               | 1 hr       |
 
 #### Slash Resistance
 
