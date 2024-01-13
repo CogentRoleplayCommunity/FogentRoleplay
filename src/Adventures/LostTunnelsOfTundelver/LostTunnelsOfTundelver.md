@@ -487,7 +487,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
 5. **Halia Thornton (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
-7. **Sister Garaele (Elf Cleric of Tymora):** An elf cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
+7. **Sister Garaele (dhampir Cleric of Tymora):** An dhampir cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
 8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
 9. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Sylas Alabaster.
 
@@ -543,7 +543,7 @@ Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tha
 
 ### Edermath orchard
 
-Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-elf, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
+Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-dhampir crossbreed, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
 
 Daran is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Daran keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
@@ -595,7 +595,7 @@ Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an a
 
 Tuntin's sole temple is a modest shrine constructed using stones collected from nearby ruins. It is dedicated to Tymora, the goddess of luck and good fortune.
 
-The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young elf who despairs of ever eradicating the Lavender Lancers from Tuntin. Sister Garaele is a member of the Harpers, a widely distributed network of adventurers and spies committed to promoting equality and covertly opposing the abuse of power. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
+The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young dhampir who despairs of ever eradicating the Lavender Lancers from Tuntin. Sister Garaele is a member of the Harpers, a widely distributed network of adventurers and spies committed to promoting equality and covertly opposing the abuse of power. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
 
 **Quest: The Banshee's Bargain.** Sister Garaele was recently assigned a sensitive mission by her superiors. Her task was to persuade a banshee known as Agatha to respond to a question concerning a spellbook. Sister Garaele visited Agatha in her lair, but the banshee refused to appear for her. To facilitate communication, Garaele seeks an intermediary who will offer Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to divulge information about the location of a spellbook that once belonged to a legendary mage named Bowgentle. Sister Garaele believes that a character capable of flattering Agatha's vanity might be able to secure the answer through this trade. She extends the quest to the characters and offers them three potions of healing as compensation for their efforts. If the party decides to undertake this quest, refer to the "Conyberry and Agatha's Lair" section for more details.
 
@@ -1088,7 +1088,7 @@ A semblance of a dwelling is nestled within the branches' dome. It contains spar
 Agatha senses the intrusion of the characters and materializes shortly after they enter her abode.
 
 ```
-The air turns cold, and an intense feeling of dread grips you. A chilly, pale light forms in the air, swiftly assuming the shape of a female elf. Her hair and robes sway in a spectral breeze. Though she might have once been beautiful, a malevolent expression now twists her features. "Foolish mortals," she hisses. "What brings you here? Are you unaware that seeking me out leads to death?"
+The air turns cold, and an intense feeling of dread grips you. A chilly, pale light forms in the air, swiftly assuming the shape of a female dhampir. Her hair and robes sway in a spectral breeze. Though she might have once been beautiful, a malevolent expression now twists her features. "Foolish mortals," she hisses. "What brings you here? Are you unaware that seeking me out leads to death?"
 ```
 
 If the characters behave rudely, show disrespect, or pose threats, Agatha scowls and vanishes. She does not engage in combat or return if the characters call out to her.
@@ -1284,7 +1284,7 @@ Circumventing the webs is made difficult by the dense thickets on the north side
 
 #### Treasure
 
-In the western half of the building, the corpse of an unfortunate adventurer is ensnared in spider silk. The body, a shriveled male elf, is sucked dry and decomposed but still clad in studded leather armor with a shortsword in its scabbard. A thorough search also reveals a potion of healing in a belt pouch, along with 23 gp and 35 sp.
+In the western half of the building, the corpse of an unfortunate adventurer is ensnared in spider silk. The body, a shriveled male dhampir, is sucked dry and decomposed but still clad in studded leather armor with a shortsword in its scabbard. A thorough search also reveals a potion of healing in a belt pouch, along with 23 gp and 35 sp.
 
 Skill & Destiny Points
 
@@ -1588,7 +1588,7 @@ If combat breaks out here, the Vermkins in area 9 cannot be taken by surprise.
 
 #### **Treasure**
 
-The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun elf (worth 100 gp) swathed in crimson fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
+The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun dhampir (worth 100 gp) swathed in crimson fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
 
 A detect magic spell will reveal that the statuette is imbued with divination magic. When held by any non-evil creature, the figurine can be used to ask a question, receiving a telepathic response as though the caster had employed augury (consult the rulebook for this spell's description). Once a creature has asked its question and received a response, the statuette can never be activated again.
 
@@ -1710,7 +1710,7 @@ Provide an additional 200 XP to the party if they successfully rescue Burrowbard
 
 As an additional twist, you can introduce a complication in the form of a hobVermkin war band returning to the castle as the characters are preparing to depart. This war band is composed of three hobVermkins led by Targor Bloodsword, a hobVermkin with 20 hit points. Targor is accompanied by two pet wolves.
 
-These hobVermkins possess no treasure, but 1d4 of them carry bloodied sacks, each containing a severed elf head. These severed heads serve as trophies from the recent triumph of the hobVermkins over an elf hunting party.
+These hobVermkins possess no treasure, but 1d4 of them carry bloodied sacks, each containing a severed dhampir head. These severed heads serve as trophies from the recent triumph of the hobVermkins over an dhampir hunting party.
 
 Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a DC 15 Charisma (Persuasion) check.
 
