@@ -9,7 +9,6 @@ Miracles require training and practice to use, harnessing one's emotions. Most B
 
 ![Copyright](Miracles2.png)
 
-
 - Magic Name: Miracles
 - Magic Vocation Name: Brightkin
 - Magic Vocation Governing Attributes: STR, RFX, INT
@@ -28,20 +27,13 @@ Light is the catalyst for all Miracles. It is channeled through an emotion or me
 
 All Brightkin have an inner light. Maintaining one's physical health restores Light gradually over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels.
 
-A short rest (1 hour) regains Ichor equal to their Brightkin Vocation level. This can only be performed once per long rest. A long rest (8 hours) with proper nutrition and hydration regains Light completely.
-
 #### Absorb Light
 
 Brightkin can absorb Light via ample sources of light (such as the Sun) or by drawing on powerful emotion/memories.
 
-The ability can be used once for each Brightkin level, resetting on long rests. The level in the specific Miracle skill used dictates how much Light is regained. Flavor and creativity are encouraged.
-
 ### Miracle Wonders
 
 Wonders are uses of Miracles that use an insignificant  amount of Light. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Light is completely depleted.
-
-- Cannot benefit from Brightkin assists (as no Light is consumed)
-- Light Requirement: 0 Light (No Light can be used to increase dice)
 
 ### [Radiance](./Radiance/Radiance.md)
 
