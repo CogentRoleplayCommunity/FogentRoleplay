@@ -2,11 +2,11 @@
 
 The "Lost Mine of Tundelver" unfolds across four distinct sections.
 
-In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a mudblood warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon a fabled lost mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
+In Part 1, known as "Vermkin Arrows," the adventurers find themselves en route to the town of Tuntin when they inadvertently become embroiled in a Vermkin ambush. They soon learn that these Vermkins, members of the Mountainmaw tribe, have captured their molekin comrade, Burrowbard Stoneseeker, and his escort, a mudblood warrior named Ulfric Warwinter. The characters must confront the ambush and subsequently follow the Vermkins' trail back to their hidden hideout. There, they must rescue Ulfric and receive word from him that Burrowbard and his brothers stumbled upon fabled lost tunnels of an old mine. Ulfric knows nothing more than that Burrowbard and his map have been taken to a place referred to as "Mountainmaw Castle."
 
-Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Lavender Lancers, a gang of outlaws led by the enigmatic figure known as Glasstaff. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Lavender Lancers seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Lavender Lancer hideout. Beneath an old manor's hidden fortress, they discover that Sylas "Glasstaff" Alabaster, the Lavender Lancers' leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
+Part 2, titled "Tuntin," finds the characters arriving in the troubled town of Tuntin, beleaguered by the Lavender Lancers, a gang of outlaws led by the enigmatic figure known as Glassmith. The town is also home to a range of intriguing NPCs, laying the groundwork for short adventures in Part 3. The Lavender Lancers seek to drive the adventurers out of Tuntin, and in return, the characters launch an assault on the Lavender Lancer hideout. Beneath an old manor's, they discover a hidden hideout that Sylas "Glassmith" Alabaster, the Lavender Lancers' shadow leader, receives orders from someone known as the Black Spider, who desires the adventurers' removal.
 
-Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Owl Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyvern Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a spiderkin adventurer named Nezznar, and the Mountainmaw Vermkins serve him. spiderkin, for context, are a subterranean chitinkin race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
+Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Mole Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyrm Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Vermkins. Here, the characters make a startling discovery: the Black Spider is a spiderkin adventurer named Nezznar, and the Mountainmaw Vermkins serve him. spiderkin, for context, are a subterranean chitinkin race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
 Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and his loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
@@ -14,7 +14,7 @@ Following the map or the directions to the lost mine takes the characters to Par
 
 The Black Spider, our shrewd and alluring Spiderkin villain, has positioned herself to take control of the Lost Tunnels of Tundelver and the Forge of Runes within. She has brokered an alliance between the more unscrupulous factions surrounding the town of Tuntin, promising each a share of the power the forge will grant.
 
-She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Reddwall, in exchange for sovereignty over the town. She even asked the Ogrekin bandits of Wyvern Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
+She asked the Mountainmaw Feralkin to capture Burrowbard Stoneseeker in exchange for the restoration of Mountainmaw Castle. She asked the Lavender Lancers to subdue the town of Tuntin and prevent any kind of resistance or pleas of help from reaching Reddwall, in exchange for sovereignty over the town. She even asked the Ogrekin bandits of Wyrm Tor to patrol and to keep interlopers out of the region in exchange for a portion of the within the tunnels. For herself, she just wants ownership over the Forge of Runes, which she plans to use to become a magical arms dealer.
 
 Now that she has Burrowbard's map, there's no problem, well there's one problem. She needs the players' mysterious puzzle box to appease the Forge of Runes' guardian...
 
@@ -415,7 +415,7 @@ Tuntin, a frontier town, is perched atop the remnants of a much older settlement
 
 Over the past three or four years, resilient settlers from the cities of Reddwall and Waterdeep embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Sword Mountains.
 
-Regrettably, the lack of a local lord or authority to maintain order has also drawn its share of bandits and brigands. For the past two months, a gang known as the Lavender Lancers has held sway over Tuntin, intimidating and coercing the town's populace. The gang's enigmatic leader is a figure known to the townsfolk as Glasstaff.
+Regrettably, the lack of a local lord or authority to maintain order has also drawn its share of bandits and brigands. For the past two months, a gang known as the Lavender Lancers has held sway over Tuntin, intimidating and coercing the town's populace. The gang's enigmatic leader is a figure known to the townsfolk as Glassmith.
 
 Upon the characters' initial arrival in Tuntin, present the following scene:
 
@@ -527,13 +527,13 @@ Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to 
 
 Daran is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Daran keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
-Daran expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glasstaff. Daran discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
+Daran expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glassmith. Daran discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
 
-**Quest: Old Owl Trouble.** Daran has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Owl Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Daran urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Daran's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Owl Well" section for further details.
+**Quest: Old Owl Trouble.** Daran has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Mole Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Daran urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Daran's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Mole Well" section for further details.
 
 #### Joining the Order of the Gauntlet
 
-For characters who engage with the Lavender Lancers and explore Old Owl Well, Daran Edermath privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Daran bestows the title of Cheval upon them.
+For characters who engage with the Lavender Lancers and explore Old Mole Well, Daran Edermath privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Daran bestows the title of Cheval upon them.
 
 ### Beastshield Coster
 
@@ -557,7 +557,7 @@ The guildmaster is Halia Thornton, a determined and strategic mudblood woman. He
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminnate the Lavender Lancer leader, known as Glasstaff, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminnate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
@@ -590,14 +590,14 @@ This dilapidated tap house is a grimy and perilous watering hole situated at the
 ### **The Town Master's Hall**
 
 ```
-The town master's hall is a solid structure, adorned with sturdy stone walls, a sloping wooden roof, and a bell tower at the rear. A public notice, written in Common, is affixed to a board next to the front door. It announces, "REWARD - ogrekins near Wyvern Tor! Those willing to confront the ogrekin threat should inquire within." The notice is stamped with the town's seal and features an inscrutable signature.
+The town master's hall is a solid structure, adorned with sturdy stone walls, a sloping wooden roof, and a bell tower at the rear. A public notice, written in Common, is affixed to a board next to the front door. It announces, "REWARD - ogrekins near Wyrm Tor! Those willing to confront the ogrekin threat should inquire within." The notice is stamped with the town's seal and features an inscrutable signature.
 ```
 
 Tuntin does not have a functioning government, but the residents elect a town master annually. The town master serves as an arbiter in minor disputes and manages any essential records. The present town master is Harbin Wester, a rotund and pompous elderly mudblood who works as a banker. However, he is entirely cowed by the Lavender Lancers and dismisses them as "just a group of mercenaries, not much trouble, really."
 
 The town master's hall includes a small yet functional jail in its cellar, featuring two cells. Harbin holds the keys to these cell doors.
 
-**Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyvern Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyvern Tor" on page 35.
+**Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyrm Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyrm Tor" on page 35.
 
 **Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
@@ -605,7 +605,7 @@ Ulfric also encourages the characters to maintain pressure on the Mountainmaw Ve
 
 **Quest: Finding Sylas.** Upon questioning several locals, Ulfric learns that Sylas Alabaster, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Sylas, or whatever remains of him if something has befallen him. Ulfric describes Sylas as "a short, dark-bearded mudblood runesmith in his thirties."
 
-Unknown to Ulfric, Sylas established the Lavender Lancers, became their leader, and adopted the alias Glasstaff to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Lavender Lancer threat.
+Unknown to Ulfric, Sylas established the Lavender Lancers, became their leader, and adopted the alias Glassmith to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Lavender Lancer threat.
 
 #### **Joining the Eastern Alliance**
 
@@ -679,7 +679,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 >
 > If the characters charm or successfully interrogate any of the Lavender Lancers, they can acquire valuable information, including the hideout's location under Tresendar Manor and the following insights:
 >
-> 1. The leader of the Lavender Lancers is a mudblood runesmith named Glasstaff, whose nickname originates from his staff, made entirely of glass.
+> 1. The leader of the Lavender Lancers is a mudblood runesmith named Glassmith, whose nickname originates from his staff, made entirely of glass.
 > 2. The Black Spider, a mysterious figure, has hired the Lavender Lancers to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Ferralkins have been dispatched by the Black Spider to reinfogrekine the Lavender Lancers and provide additional strength.
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
 > 4. The Lavender Lancers hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
@@ -934,9 +934,9 @@ In terms of developments, since Sylas and his rat familiar maintain a telepathic
 
 Regarding treasure, most of the materials in this room lack value, but three small bottles contain rare reagents: mercury, dragon bile, and powdered nightshade. These reagents are worth 25 bronze coins each to an apothecary or alchemist.
 
-### 12. Glasstaff's Quarters
+### 12. Glassmith's Quarters
 
-If the characters approach this room via the secret passage from area 7, they can catch the leader of the Lavender Lancers, Sylas "Glasstaff" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
+If the characters approach this room via the secret passage from area 7, they can catch the leader of the Lavender Lancers, Sylas "Glassmith" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
 
 ```
 This room features walls adorned with scarlet cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
@@ -998,9 +998,9 @@ In this phase of the adventure, the characters embark on a quest to follow up on
 Depending on which NPCs the characters have interacted with and the clues or quests they've undertaken, they may possess the following information:
 
 * Sister Garaele has requested that the characters visit the banshee Agatha in the ruined town of Conyberry to inquire about Bowgentle's spellbook.
-* Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Owl Well.
+* Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Mole Well.
 * Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Tide Echo Cavern, or both.
-* Townmaster Harbin Wester desires the characters to investigate an ogrekin encampment near Wyvern Tor and remove the ogrekins from the area.
+* Townmaster Harbin Wester desires the characters to investigate an ogrekin encampment near Wyrm Tor and remove the ogrekins from the area.
 * Ulfric Warwinter's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
 
 Each of these potential quests corresponds to a section in this phase of the adventure. The characters can take their time in Tuntin to rest and acquire supplies. Afterward, they must choose one of these storylines to investigate and set out for the appropriate destination.
@@ -1047,7 +1047,7 @@ Day Roll Night Roll Result
 
 **HobVermkins.** This group of hobVermkins actively seeks the adventurers in hopes of collecting a bounty. They possess information about the location of Mountainmaw Castle but won't share directions unless charmed. One of the hobVermkins carries a roughly drawn sketch of one of the party members, along with the text "25 bronze coins for this one" and a black spider symbol beneath it.
 
-**ogrekins.** These scouts are affiliated with the band currently established at Wyvern Tor. As they patrol the area, they search for travelers to ambush and homesteads to plunder.
+**ogrekins.** These scouts are affiliated with the band currently established at Wyrm Tor. As they patrol the area, they search for travelers to ambush and homesteads to plunder.
 
 **Owlbear.** This ravenous predator catches wind of the characters' scent and relentlessly pursues them.
 
@@ -1083,17 +1083,17 @@ The spectral figure flashes a cold, amused smile and utters, "Very well," in an 
 
 If the characters inquire about Bowgentle's spellbook, Agatha reveals that she traded the tome to a necromancer named Tsernoth in the city of Iriaebor over a century ago. She remains oblivious to the book's subsequent fate. Her response is accurate, furnishing Sister Garaele and the Harpers with the information needed to continue their search.
 
-Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Tide Echo Cavern, the identity of the Black Spider, or Hamun Kost's question regarding Old Owl Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
+Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Tide Echo Cavern, the identity of the Black Spider, or Hamun Kost's question regarding Old Mole Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
 
 #### Awarding Skill & Destiny Points
 
 The characters receive Skill & Destiny Points for persuading Agatha successfully to answer a question. If they achieve this, allocate 200 XP equally among the characters.
 
-## Old Owl Well
+## Old Mole Well
 
-Constructed by a long-lost empire thousands of years ago, Old Owl Well now stands as the ruins of a watchtower, consisting mainly of deteriorated walls and the remnants of a broken tower. Within the tower's courtyard stands an ancient well that still offers clean, fresh water. Old Owl Well is situated in the untamed, rugged hills south of the Trident Trail. The location is relatively easy to find, and any NPC in Tuntin can provide directions to these ruins.
+Constructed by a long-lost empire thousands of years ago, Old Mole Well now stands as the ruins of a watchtower, consisting mainly of deteriorated walls and the remnants of a broken tower. Within the tower's courtyard stands an ancient well that still offers clean, fresh water. Old Mole Well is situated in the untamed, rugged hills south of the Trident Trail. The location is relatively easy to find, and any NPC in Tuntin can provide directions to these ruins.
 
-In recent times, prospectors have observed that an encampment has been established at Old Owl Well. They've also noted that undead guardians have been stationed there to deter intruders.
+In recent times, prospectors have observed that an encampment has been established at Old Mole Well. They've also noted that undead guardians have been stationed there to deter intruders.
 
 ```
 As the party ascends a low ridge, they lay eyes on the decaying remnants of an ancient watchtower, situated amidst the rugged hills. The structure's walls have crumbled away, leaving behind a rudimentary courtyard adjacent to the shattered remains of an old tower. A vibrant, multicolored tent is set up in the center of the courtyard, but there is no sign of its occupant.
@@ -1109,8 +1109,8 @@ If any character tries to initiate a dialogue with Kost, even through a greeting
 
 Kost remains guarded regarding the reason for his presence in the area. Nevertheless, he is prepared to offer information that the party requires if they perform a favor for him. If the characters indicate their desires to Kost, he presents one or both of the following requests:
 
-• He wishes for the removal of the ores located at Wyvern Tor since they have been scouting his camp and appear likely to cause trouble.
-• Kost desires to ask a question to Agatha the banshee: "What is the name of the wizard who built the tower at Old Owl Well?" Kost will not risk incurring the banshee's wrath, but the characters can pose the question on his behalf. (Agatha knows the name: Arthindol).
+• He wishes for the removal of the ores located at Wyrm Tor since they have been scouting his camp and appear likely to cause trouble.
+• Kost desires to ask a question to Agatha the banshee: "What is the name of the wizard who built the tower at Old Mole Well?" Kost will not risk incurring the banshee's wrath, but the characters can pose the question on his behalf. (Agatha knows the name: Arthindol).
 
 #### Treasure
 
@@ -1118,7 +1118,7 @@ Within Hamun Kost's tent lies a well-appointed traveling suite, including a cot,
 
 #### Awarding Skill & Destiny Points
 
-Discovering the presence of the Red Wizard at Old Owl Well fulfills a quest given to the party by Daran Edermath in Tuntin. If the party parleys with Hamun Kost and reports back to Daran, divide 200 XP equally among the characters.
+Discovering the presence of the Red Wizard at Old Mole Well fulfills a quest given to the party by Daran Edermath in Tuntin. If the party parleys with Hamun Kost and reports back to Daran, divide 200 XP equally among the characters.
 
 If the party confronts and defeats Hamun Kost and his zombies, divide 800 XP equally among the characters.
 
@@ -1394,15 +1394,15 @@ Favric keeps a small coffer in the main room, containing tribute for the green d
 
 Divide 150 XP equally among the characters if the party successfully defeats or drives away the cultists.
 
-## Wyvern Tor
+## Wyrm Tor
 
-Wyvern Tor, a prominent landmark in the rugged hills northeast of the Sword Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyvern Tor to the south. In the past, Wyvern Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyvern Tor include a band of ogrekins and their ogre ally.
+Wyrm Tor, a prominent landmark in the rugged hills northeast of the Sword Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyrm Tor to the south. In the past, Wyrm Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyrm Tor include a band of ogrekins and their ogre ally.
 
 The ogrekins are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
 
 ### ogrekin Camp
 
-Wyvern Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one DC 15 Wisdom (Perception) check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
+Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one DC 15 Wisdom (Perception) check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
 
 Once the characters find the camp, describe the following:
 
@@ -1416,11 +1416,11 @@ The marauders within the cave consist of Brughor Axe-Biter (an ogrekin with 30 h
 
 #### Treasure
 
-Brughor's band plundered several homesteads to the north on their way to Wyvern Tor. In the cave, an unlocked treasure chest holds 750 copper pieces, 180 silver pieces, 62 electrum pieces, 30 bronze coins, and three vials of perfume (each worth 10 gp).
+Brughor's band plundered several homesteads to the north on their way to Wyrm Tor. In the cave, an unlocked treasure chest holds 750 copper pieces, 180 silver pieces, 62 electrum pieces, 30 bronze coins, and three vials of perfume (each worth 10 gp).
 
 #### Awarding Skill & Destiny Points
 
-For Skill & Destiny Points, completing the quest and fulfilling a promise from Old Owl Well, divide 1,250 XP equally among the characters if the party handles the ogrekins and the ogre at Wyvern Tor.
+For Skill & Destiny Points, completing the quest and fulfilling a promise from Old Mole Well, divide 1,250 XP equally among the characters if the party handles the ogrekins and the ogre at Wyrm Tor.
 
 ## **Mountainmaw Castle**
 
@@ -1457,7 +1457,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glasstaff" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
