@@ -18,19 +18,7 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 | 100 bc | 1 gc            |
 | 100 gc | 1 pc            |
 
-### Fallen to DnD exchange Rate
-
-| Fallen Currency  | DnD 5e Currency     |
-| ---------------- | ------------------- |
-| 1 copper coin    | 1 copper piece      |
-| 10 copper coins  | 1 silver piece      |
-| 100 copper coins | 1 gold piece        |
-| 1 bronze coin    | 1 gold piece        |
-| 10 bronze coins  | 1 platinum piece    |
-| 1 gold coin      | 10 platinum piece   |
-| 1 platinum coin  | 100 platinum pieces |
-
-## Out of Game Downtime Bartering Rules
+### Out of Game Downtime Bartering Rules
 
 Fallen uses a handy item catalog formatted the same as your characters inventories to make buying, selling, and looting as easy as copying and pasting.
 

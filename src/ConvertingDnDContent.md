@@ -1,3 +1,17 @@
+
+
+### Fallen to DnD exchange Rate
+
+| Fallen Currency  | DnD 5e Currency     |
+| ---------------- | ------------------- |
+| 1 copper coin    | 1 copper piece      |
+| 10 copper coins  | 1 silver piece      |
+| 100 copper coins | 1 gold piece        |
+| 1 bronze coin    | 1 gold piece        |
+| 10 bronze coins  | 1 platinum piece    |
+| 1 gold coin      | 10 platinum piece   |
+| 1 platinum coin  | 100 platinum pieces |
+
 DnD ability score to Fallen attribute:
 
 - 1 - 5 -> -2
