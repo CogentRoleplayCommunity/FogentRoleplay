@@ -475,7 +475,7 @@ To initiate, inquire where the players wish to go and what they intend to do in 
 
 **Lavender Lancer Ruffians.** Sooner or later, the adventurers will cross paths with the toughs who dominate Tuntin. Your role is to determine when these ruffians make their appearance. Once the characters have had an opportunity to explore several locations in town and converse with the townsfolk, they may decide to track down the Lavender Lancers. In such an event, you can execute the "Lavender Lancer Ruffians" encounter. Alternatively, if the characters seem hesitant to confront the ruffians, the Lavender Lancers may decide to seek them out at a moment of your choosing.
 
-**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Lavender Lancers, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Warwinter, and Halia Thornton can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
+**Finding Mountainmaw Castle.** The characters may express a desire to locate Mountainmaw Castle to rescue Burrowbard Stoneseeker. The majority of the townsfolk are preoccupied with the Lavender Lancers, and no one in town possesses knowledge of Mountainmaw Castle's whereabouts. Qelline Alderleaf, Ulfric Warwinter, and Helga Wispbrook can provide guidance on how the party might connect with someone who possesses knowledge about the castle's location.
 
 ## Important NPCs
 
@@ -485,7 +485,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 2. **Elmer Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
 3. **Levi Gemwerth (Brotherhood of Silver Member):** A member of the Brotherhood of Silver who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
 4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
-5. **Halia Thornton (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
+5. **Helga Wispbrook (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
 7. **Sister Garaele (dhampir Cleric of Tymora):** An dhampir cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
 8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
@@ -525,7 +525,7 @@ The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Original
 * Lanar, a miner, reports that "Ogrekin raiders have been sighted at the east end of Trident Trail, and the town master is searching for someone to handle the situation."
 * Trilena, the innkeeper's wife, discloses the tragic story of Thel Dendrar, a local woodcarver who confronted the Lavender Lancers and was subsequently murdered. She also reveals that Thel's family has gone missing. Unbeknownst to Trilena and the townsfolk, the Lavender Lancers have taken Thel's wife and children to their hidden hideout.
 * Pip, Toblen's young son, recounts Carp, Qelline Alderleaf's son, who discovered a secret tunnel in the woods, barely escaping the Lavender Lancers' pursuit.
-* Freda, a weaver, mentions that the Lavender Lancers harass all the businesses in town, except for the Tuntin Miner's Exchange, as they don't want to provoke Halia Thornton, who runs it.
+* Freda, a weaver, mentions that the Lavender Lancers harass all the businesses in town, except for the Tuntin Miner's Exchange, as they don't want to provoke Helga Wispbrook, who runs it.
 
 These rumors serve as valuable clues, guiding the characters toward various adventure opportunities in Tuntin. Furthermore, any of the inn's patrons can inform the characters that the Lavender Lancers frequent the Napping Giant tap house on the town's eastern end, emphasizing the danger posed by these ruffians.
 
@@ -573,15 +573,15 @@ In a back room, Linett maintains an inventory of armor and weapons available for
 
 The Miner's Exchange operates as a trading post where local miners have their valuable discoveries weighed, measured, and compensated. In the absence of local governance, the exchange serves as an unofficial records office, recording claims to various streams and excavations throughout the region. While Tuntin isn't experiencing a full-scale gold rush, hidden wealth in nearby streams and valleys supports numerous independent prospectors.
 
-The guildmaster is Halia Thornton, a determined and strategic mudblood woman. Her aspirations extend beyond mere commerce, and she acts as a de facto governing authority within the town. Additionally, Halia is an agent of the Zhentarim, an influential organization aiming to exert clandestine control over the North by means of wealth and influence. Halia works progressively to assert her influence in Tuntin and can become a valuable patron to the characters if they avoid conflicting with her.
+The guildmaster is Helga Wispbrook, a determined and strategic mudblood woman. Her aspirations extend beyond mere commerce, and she acts as a de facto governing authority within the town. Additionally, Halia is an agent of the Zhentarim, an influential organization aiming to exert clandestine control over the North by means of wealth and influence. Halia works progressively to assert her influence in Tuntin and can become a valuable patron to the characters if they avoid conflicting with her.
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Napping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Napping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful CL 3 Communications check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
-Should the party successfully eliminate the Lavender Lancer leader, Halia Thornton takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
+Should the party successfully eliminate the Lavender Lancer leader, Helga Wispbrook takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
 
 ### Alderleaf Farm
 
@@ -882,7 +882,7 @@ A character who listens at this door with a successful DC 10 Perception Skill Ch
 This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful Vermkin who debases itself for their entertainment. The sudden appearance of your party startles the Vermkin to the point of fainting.
 ```
 
-Present in the room are three Ferralkins and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
+Present in the room are three Feralkin and one Vermkin, known as Droop. The sight of your party causes Droop to lose consciousness, although another character can use an action to rouse him. Otherwise, Droop remains incapacitated for 1d10 minutes.
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
@@ -938,7 +938,7 @@ Through either door of this room, faint bubbling and dripping sounds can be disc
 This chamber takes the form of a wizard's workshop, with a rat darting across the floor and finding refuge under a large worktable, adorned with alembics, retorts, distillation coils, and other alchemical devices, all actively bubbling and simmering away. The bookshelves in the room are brimming with piles of parchment and peculiar-looking tomes.
 ```
 
-Sylas has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Sylas as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminnated, it vanishes.
+Sylas has entrusted his rat familiar with the duty of keeping an eye out for intruders. The rat shares a telepathic link with its master, sending a quick alert message to Sylas as soon as it detects intruders. The rat moves at a pace of 20 feet and boasts an AC of 10, possesses 1 hit point, and lacks effective attack abilities. If the rat is eliminated, it vanishes.
 
 If the characters opt to leave the rat unharmed, it will follow them around as if driven by curiosity or hunger. It might even pretend to be affectionate towards a character who feeds it, but its loyalty remains firmly with Sylas.
 
@@ -2092,7 +2092,7 @@ Despite his intentions to eliminnate the characters, Nezznar is intrigued by the
 
 The creatures from Area 18 become aware of combat noises in this room. If they have not already been dealt with, they arrive after 3 rounds and act immediately after Nezznar's giant spiders in the initiative order.
 
-If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the spiderkin is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Halia Thornton (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Tide Echo Cavern. Subsequent events involving Nezznar are at your discretion.
+If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the spiderkin is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Helga Wispbrook (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Zhentarim. The Zhents are eager to learn everything Nezznar knows about Tide Echo Cavern. Subsequent events involving Nezznar are at your discretion.
 
 #### **Treasure**
 
