@@ -132,7 +132,7 @@ When you're prepared, proceed to the next section, "Vermkin Arrows," to initiate
 To initiate the encounter, please read the following text aloud.
 
 ```
-Having journeyed along the Trident Trail for approximately half a day, you round a bend and are confronted by a grim sight. There, about fifty feet ahead, lie two lifeless horses sprawled across the path. Each animal bears the unmistakable mark of several black-feathered arrows embedded in their flesh. The forest presses closely to the trail at this point, flanked by a steep embankment and thickets that seem impenetrable on either side.
+Having journeyed along the Trident Trail for approximately half a day, you round a bend and are confronted by a grim sight. There, about fifty feet ahead, lie two lifeless horses sprawled across the path, each of their legs missing. Each animal bears the unmistakable mark of several black-feathered arrows embedded in their flesh. The forest presses closely to the trail at this point, flanked by a steep embankment and thickets that seem impenetrable on either side.
 ```
 
 For those adventurers using the 'Meet Me in Tuntin' adventure hook, a more detailed examination of the scene yields troubling discoveries. The deceased horses can be identified as the property of Burrowbard Stoneseeker and Ulfric Warwinter. Regrettably, they have been deceased for a day, their demise brought about by the very arrows that now pierce them.
@@ -145,10 +145,10 @@ Amidst this eerie scene, concealed within the woods, lie four cunning Feral Verm
 
 Prepare for what may well become the initial skirmish in a series of battles within this adventure. Here are the guidelines to ensure a smooth encounter:
 
-- Vermkin Stat Block: Refer to the Vermkin character sheet. Make a note of their Stealth skill of 5d6.
-- Determine Surprise: The party cannot surprise the Vermkins, but the Vermkins may be able to surprise some or all of the characters. Roll a Stealth check for the Vermkins and comparing the result to the characters perception skill checks. Any character whose score is lower than the Vermkins' Stealth check result is surprised and loses their turn during the first round of combat.
+- Feral Vermkin Stat Block: Refer to the [Feral Vermkin](./../../Characters/Humanoids/FeralVermkin/FeralVermkin.md) character sheet. Make a note of their Stealth skill of 5d6.
+- Determine Surprise: Players could suprise the Feral Vermkin if they were scouting ahead, but the Feral Vermkins may be able to surprise some or all of the characters. Roll a Stealth check for the Vermkins and comparing the result to the characters perception skill checks. Any character whose score is lower than the Vermkins' Stealth check result is surprised and loses their turn during the first round of combat.
 - Initiative: Use the initiative rules from the general rules to determine the order in which all characters and Vermkins act. Keep track of everyone's initiative count in the margins of your adventure book or on a separate piece of paper.
-- Vermkin Actions: When it's the Vermkins' turn to act, two of them should rush forward and make melee attacks, while the other two Vermkins stand about 30 feet away from the party and make ranged attacks. The Vermkin character sheet contains the necessary information to resolve their combat rolls.
+- Vermkin Actions: When it's the Vermkins' turn to act, two of them should rush forward and make melee attacks, while the other two Vermkins stand about 30 feet away from the party and make ranged attacks taking advantage of the high ground. The Vermkin character sheet contains the necessary information to resolve their combat rolls.
 - Fleeing Vermkin: If three Vermkins are defeated, the last remaining Vermkin may attempt to flee, heading for the Vermkin trail.
 
 #### Developments
@@ -157,7 +157,7 @@ In the unlikely event that the Vermkins manage to defeat the adventurers, they w
 
 Characters may decide to capture one or more Vermkins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconscious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured Vermkin regains consciousness and can be convinced to share what it knows (see "What the Vermkins Know" sidebar). Additionally, the party can persuade the captured Vermkin to lead them to the Mountainmaw hideout while avoiding traps (see "Vermkin Trail" section).
 
-If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Beastshield Coster for more information on the Vermkin attacks.
+If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Beastshield Coster for more information on the Feralkin attacks.
 
 ```
 Resting:
@@ -167,7 +167,7 @@ After the Vermkin ambush, the party may require a rest depending on the outcome 
 
 ### **Vermkin Trail**
 
-If the characters defeat the Vermkins and inspect the area, they will discover signs that the Vermkins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen Vermkins have traveled along this trail, along with signs of two humanoid-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the Vermkins down the trail, which leads five miles northwest to the Mountainmaw hideout.
+If the characters defeat the Feral Vermkins and inspect the area, they will discover signs that the Vermkins have used this location for staging ambushes. A hidden trail behind thickets on the north side of the road leads northwest. A character who succeeds on a CL 2 Survival check can determine that about a dozen Vermkins have traveled along this trail, along with signs of two humanoid-sized bodies being hauled away from the ambush site. The party can guide the wagon off the road and secure the oxen while pursuing the Vermkins down the trail, which leads five miles northwest to the Mountainmaw hideout.
 
 Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The Vermkins have set two traps to hinder pursuers:
 
@@ -175,13 +175,13 @@ Ask the players to determine the party's marching order as they move down the tr
 
 **Pit.** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
 
-### Awarding Skill Points
+### Awarding Destiny Points
 
-Overcoming the Vermkin ambush and finding the Mountainmaw hideout nets each the player's 1 skill point to spend. Each player also gains a destiny point.
+Overcoming the Vermkin ambush and finding the Mountainmaw hideout nets each the player's 1 destiny point.
 
 ## Mountainmaw Hideout
 
-The Feral clan known as the Mountainmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Mountainmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Thrak, a feral beastkin who takes orders from the chief of the Mountainmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Mountainmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him.
+The Feral clan known as the Mountainmaw has established a hidden base strategically positioned to harass and plunder traffic traversing the Trident Trail or the route to Tuntin. The name "Mountainmaw" stems from the tribe's practice of sharpening their teeth, giving them a menacing and jagged appearance. Leading the bandits in this lair is Thrak, a feral beastkin who takes orders from the chief of the Mountainmaws, tasked with plundering any vulnerable caravans or travelers in the area. Recently, a messenger from Mountainmaw Castle delivered new directives: Intercept the molekin Burrowbard Stoneseeker and anyone accompanying him. After completing his task, Thrak and his clan are celebrating their victory with some delecious horse leg meat...
 
 ![NotMyImage](MountainmawHideout.jpg)
 
@@ -195,7 +195,7 @@ The Mountainmaw cave ascends steeply, situated at the base of a substantial hill
 
 **Rubble.** Navigating through areas with crumbling rock and gravel poses a challenge, as they are classified as difficult terrain (refer to "Difficult Terrain").
 
-**Sound.** The ambient sound of water within the cave serves to muffle noises, requiring attentive listening for creatures to detect activity. A Wisdom (Perception) check with a difficulty class of 15 enables creatures to attempt hearing nearby chamber sounds.
+**Sound.** The ambient sound of water within the cave serves to muffle noises, requiring attentive listening for creatures to detect activity. A CL 3 Perception Skill Check enables creatures to attempt hearing nearby chamber sounds.
 
 **Stalagmites.** Upthrust spires of rock, can offer cover as outlined in the general rules "Cover" section.
 
@@ -208,7 +208,7 @@ In the event that the characters successfully capture or charm any of the Vermki
 
 - The lair currently houses fewer than twenty Vermkins.
 
-- The leader of the Vermkins is a Ferralkin named Thrak, who answers to King Grom, the chief of the Mountainmaw tribe. King Grom resides in Mountainmaw Castle, located approximately twenty miles northeast of the Mountainmaw hideout within Highmount Wood.
+- The leader of the Vermkins is a Ferral Beastkin named Thrak, who answers to King Grom, the chief of the Mountainmaw tribe. King Grom resides in Mountainmaw Castle, located approximately twenty miles northeast of the Mountainmaw hideout within Highmount Wood.
 
 - Thrak received a messenger Vermkin from King Grom a few days ago. The messenger conveyed that an entity known as the Black Spider was compensating the Mountainmaws to monitor and apprehend the molekin Burrowbard Stoneseeker. The orders were to capture Burrowbard along with any possessions and deliver them to King Grom. Thrak adhered to these instructions, resulting in Burrowbard's ambush and subsequent capture, including a map in his possession.
  
@@ -667,7 +667,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Ferralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be fogrekinefully broken down with a successful DC 20 Strength check.
 
-**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Wisdom (Perception) check. These secret doors swing open on concealed iron hinges and are not locked.
+**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Perception Skill Check. These secret doors swing open on concealed iron hinges and are not locked.
 
 **Light.** Most areas within the hideout are illuminnated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
@@ -690,7 +690,7 @@ This room is a spacious storage cellar, well-suited to the underhanded activitie
 
 The barrels house supplies like salted pork and beef, flour, sugar, apples, and ale. Vigilantly searching the barrels is a noisy endeavor that could alert the Lavender Lancers in area 2.
 
- **Cistern** : The rectangular cistern holds cold, fresh water, is 10 feet deep, and features a rim 2 feet higher than the surrounding floor. Drain pipes from the manor's roof provide the cistern with water. A waterproof satchel, hidden from plain sight underwater, is attached to a submerged rope along the south cistern wall. It can be discovered with a successful DC 15 Wisdom (Perception) check or by a character probing the cistern with a pole or jumping in. The satchel contains valuable items detailed in the "Treasure" section.
+ **Cistern** : The rectangular cistern holds cold, fresh water, is 10 feet deep, and features a rim 2 feet higher than the surrounding floor. Drain pipes from the manor's roof provide the cistern with water. A waterproof satchel, hidden from plain sight underwater, is attached to a submerged rope along the south cistern wall. It can be discovered with a successful DC 15 Perception Skill Check or by a character probing the cistern with a pole or jumping in. The satchel contains valuable items detailed in the "Treasure" section.
 
  **Secret Door** : A secret door can be found in the southwest corner of the room, as indicated on the Lavender Lancer Hideout map.
 
@@ -732,7 +732,7 @@ This corridor was originally a segment of Tresendar Manor's ancient cellars. The
 A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every ten feet, faux columns decorate the walls, while the double doors at the western end display copper plating that has now turned green with age. These doors feature an intricately carved depiction of a sorrowful angel.
 ```
 
-Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful DC 15 Wisdom (Perception) check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a DC 10 Dexterity (Acrobatics) check.
+Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful DC 15 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a DC 10 Dexterity (Acrobatics) check.
 
 A character who triggers the trap or fails the Dexterity check while attempting to bypass the pit must make a DC 15 Dexterity saving throw to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
 
@@ -852,7 +852,7 @@ In terms of Skill & Destiny Points, divide 450 XP equally among the characters i
 
 ### 9. Guard Barracks
 
-A character who listens at this door with a successful DC 10 Wisdom (Perception) check can discern several gruff voices speaking derogatory commands in the Vermkin tongue, such as "Lick the floor!" and "Roll like a dog!" The Ferralkins in this room are tormenting their Vermkin captive.
+A character who listens at this door with a successful DC 10 Perception Skill Check can discern several gruff voices speaking derogatory commands in the Vermkin tongue, such as "Lick the floor!" and "Roll like a dog!" The Ferralkins in this room are tormenting their Vermkin captive.
 
 ```
 This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful Vermkin who debases itself for their entertainment. The sudden appearance of your party startles the Vermkin to the point of fainting.
@@ -886,7 +886,7 @@ For Skill & Destiny Points, divide 600 XP equally among the characters if the pa
 
 This area functions as the Lavender Lancers' central command and gathering space. When official business isn't in session, it transforms into a common area where the fortress's guards can unwind during their off hours.
 
-If a character listens at the door with a successful DC 10 Wisdom (Perception) check, they can overhear the villains inside immersed in a knucklebones game. This results in a mysterious clinking noise, followed by exclamations, moans, and a sudden chatter of voices as bets are settled. If the party abruptly enters the room, they automatically take the occupants by surprise.
+If a character listens at the door with a successful DC 10 Perception Skill Check, they can overhear the villains inside immersed in a knucklebones game. This results in a mysterious clinking noise, followed by exclamations, moans, and a sudden chatter of voices as bets are settled. If the party abruptly enters the room, they automatically take the occupants by surprise.
 
 ```
 The room features numerous worn tables and chairs, with wooden benches lining the walls adorned with drapes of brown and red. Several kegs of ale are propped up and tapped.
@@ -908,7 +908,7 @@ For Skill & Destiny Points, divide 400 XP equally among the characters if the pa
 
 ### 11. Runesmith's Workshop
 
-Through either door of this room, faint bubbling and dripping sounds can be discerned with a successful DC 15 Wisdom (Perception) check.
+Through either door of this room, faint bubbling and dripping sounds can be discerned with a successful DC 15 Perception Skill Check.
 
 ```
 This chamber takes the form of a wizard's workshop, with a rat darting across the floor and finding refuge under a large worktable, adorned with alembics, retorts, distillation coils, and other alchemical devices, all actively bubbling and simmering away. The bookshelves in the room are brimming with piles of parchment and peculiar-looking tomes.
@@ -1170,13 +1170,13 @@ Wind and weather have taken their toll on these structures, leaving behind very 
 These two ruined cottages, situated side by side, appear as though they might have been the homes of prosperous shop owners or well-to-do farmers in the past. Now, all that remains are crumbling walls and heaps of debris. Several young trees have sprouted amid the ruins.
 ```
 
-Camouflaged among the ordinary foliage, there is a deadly menace - six twig blights. Detecting them necessitates a successful Wisdom (Perception) check contested by the blights' Dexterity (Stealth) check.
+Camouflaged among the ordinary foliage, there is a deadly menace - six twig blights. Detecting them necessitates a successful Perception Skill Check contested by the blights' Dexterity (Stealth) check.
 
 These plant creatures are hungry and will fight until they are destroyed. In the event of an attack, the twig blights in area 1 will join the combat one round later.
 
 #### Treasure
 
-A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Wisdom (Perception) check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 700 copper pieces, 160 silver pieces, and 90 bronze coins.
+A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Perception Skill Check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 700 copper pieces, 160 silver pieces, and 90 bronze coins.
 
 #### Awarding Skill & Destiny Points
 
@@ -1314,7 +1314,7 @@ In the past, this establishment served as an herb and alchemy shop owned by Mirn
 The ruined shop is replete with dilapidated storage shelves and broken furniture. Among the weeds and rubble, you'll spot fragments of glass and pottery, alongside decaying books and casks.
 ```
 
-All the reagents and mixtures have long perished, and the books are now indecipherable masses of decay. However, a small wooden case can be found hidden beneath a compartment beneath the storage shelves. A character conducting a thorough search through the wreckage may uncover the case with a successful DC 15 Wisdom (Perception) check. The check is automatically successful if Mirna dispatched the party to retrieve the heirloom.
+All the reagents and mixtures have long perished, and the books are now indecipherable masses of decay. However, a small wooden case can be found hidden beneath a compartment beneath the storage shelves. A character conducting a thorough search through the wreckage may uncover the case with a successful DC 15 Perception Skill Check. The check is automatically successful if Mirna dispatched the party to retrieve the heirloom.
 
 #### Treasure
 
@@ -1354,7 +1354,7 @@ This fallen cottage serves as a lure for the nearby lairing creatures, attractin
 Large heaps of wreckage are visible within the ruin. In one corner stands a shattered loom.
 ```
 
-Six twig blights skulk in the thicket south of the ruin. Allow each character to attempt a Wisdom (Perception) check, contested by the blights' Dexterity (Stealth) check, to avoid being taken by surprise.
+Six twig blights skulk in the thicket south of the ruin. Allow each character to attempt a Perception Skill Check, contested by the blights' Dexterity (Stealth) check, to avoid being taken by surprise.
 
 Notably, any loud noises in this area will alert the cultists in area 13, who will proceed cautiously to investigate.
 
@@ -1398,7 +1398,7 @@ The ogrekins are scouts from the Many Arrows tribe and are often found prowling 
 
 ### ogrekin Camp
 
-Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one DC 15 Wisdom (Perception) check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
+Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one DC 15 Perception Skill Check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
 
 Once the characters find the camp, describe the following:
 
@@ -1466,7 +1466,7 @@ Doors to the north and south are closed, with a pile of crumbling rubble partial
 
 Should the Vermkin sentries in area 3 have raised the alarm, the Vermkins and hobVermkins in areas 4 and 6 will quickly rush out from the north and south doors simultaneously. They will attempt to attack from both directions, aiming to overwhelm the adventurers and drive them out of the castle.
 
- **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful DC 10 Wisdom (Perception) check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
+ **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful DC 10 Perception Skill Check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
 
 Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a DC 10 Dexterity saving throw or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
 
@@ -1554,7 +1554,7 @@ Even in daylight, this chamber remains shrouded in darkness. The following text 
 This narrow, lofty hall appears to have served as a chapel or shrine long ago. Angelic figures are sculpted into the upper reaches of the room, gazing down upon the floor below. To the north, heavy curtains obscure a pair of matching archways. Between these archways stands a cracked yet ornately carved stone brazier.
 ```
 
-Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Wisdom (Perception) checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
+Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
 Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a DC 10 Intelligence (Religion) check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
 
@@ -1640,7 +1640,7 @@ If the characters open the door and remain out of the owlbear's path, it will fl
 
 #### **Treasure**
 
-All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful DC 15 Wisdom (Perception) check to be spotted. It is unlocked and contains 90 ep, 120 gp, a potion of healing, a scroll of silence, and a scroll of revivify.
+All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful DC 15 Perception Skill Check to be spotted. It is unlocked and contains 90 ep, 120 gp, a potion of healing, a scroll of silence, and a scroll of revivify.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1830,7 +1830,7 @@ Behind the counter, a securely locked iron strongbox can be found, requiring the
 
 ### **6. South Barracks**
 
-This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Cavern between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Wisdom (Perception) check to do so.
+This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Cavern between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Perception Skill Check to do so.
 
 ```
 Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen dwarves and ogrekins, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
@@ -1892,7 +1892,7 @@ The wizard's remains bear two platinum rings (valued at 75 gp each) and clasp a 
 
 ### **11. North Barracks**
 
-The eastern door is barricaded from within, necessitating a DC 20 Strength check to fogrekine it open. A character who listens at either door and passes a DC 10 Wisdom (Perception) check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
+The eastern door is barricaded from within, necessitating a DC 20 Strength check to fogrekine it open. A character who listens at either door and passes a DC 10 Perception Skill Check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
 
 ```
 This chamber houses old stone bunks lining the walls, with a warm glow emanating from a central iron brazier.
@@ -2032,7 +2032,7 @@ If two or more Ferralkins meet their end, the doppelganger endeavors to withdraw
 
 #### **Treasure**
 
-Nezznar's divinations prove accurate. Concealed beneath the weighty debris at the rift's bottom lies the crushed skeleton of a molekin, donning gauntlets of ogre power. The remains remain concealed but can be discovered with a successful DC 20 Wisdom (Perception) check. Each character searching can attempt one check per hour.
+Nezznar's divinations prove accurate. Concealed beneath the weighty debris at the rift's bottom lies the crushed skeleton of a molekin, donning gauntlets of ogre power. The remains remain concealed but can be discovered with a successful DC 20 Perception Skill Check. Each character searching can attempt one check per hour.
 
 ### **19. The Sanctum of Dumathoin**
 
