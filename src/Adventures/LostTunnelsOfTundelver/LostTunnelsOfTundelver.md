@@ -516,7 +516,7 @@ At the heart of Tuntin stands a recently constructed roadhouse made of bedrock a
 
 This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Bedrock Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
 
-The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
+The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Originally from the town of Tridient to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
 
 **Rumors at Bedrock Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Bedrock Inn include:
 
@@ -1027,7 +1027,7 @@ Each of these potential quests corresponds to a section in this phase of the adv
 
 ## Trident Trail
 
-Tuntin is located in a region known as "the Trident Trail," "the Triboar Cutoff," or "the Cony Gap." This expanse of foothills and rolling, sparsely wooded plains lies between the Spine of the World Mountains to the south and Highmount Wood to the north. The name is derived from an ancient trail that extends from the distant town of Triboar to the east, winding westward for about one hundred miles through the abandoned village of Conyberry before heading north of Tuntin and connecting with the Crimson Road along the coast.
+Tuntin is located in a region known as "the Trident Trail," "the Tridient Cutoff," or "the Cony Gap." This expanse of foothills and rolling, sparsely wooded plains lies between the Spine of the World Mountains to the south and Highmount Wood to the north. The name is derived from an ancient trail that extends from the distant town of Tridient to the east, winding westward for about one hundred miles through the abandoned village of Conyberry before heading north of Tuntin and connecting with the Crimson Road along the coast.
 
 Feel free to describe the party's overland journeys as richly as you wish, but ensure the narrative keeps advancing. Statements such as "You travel for several miles and encounter nothing of interest" are far less evocative and memorable compared to more vivid descriptions like, "A light drizzle moistens the rolling plains as you journey north. Around midday, you pause for lunch beneath a solitary tree. There, the rogue discovers a small rock with a grinning visage. Besides this, you observe nothing out of the ordinary."
 
