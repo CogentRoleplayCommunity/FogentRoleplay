@@ -20,10 +20,10 @@ A measure of a character's resistance to affliction. Determines your body's abil
 
 Mental defense is a measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's attack penetration.
 
-- Mental Defense = Willpower Roll
+- Mental Defense = Will Roll
 
 ## Spiritual Defense
 
 Spiritual defense is a measure of a character's bulwark against all spiritual injuries and influence.Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's attack penetration.
 
-- Spiritual Defense = Willpower Roll
+- Spiritual Defense = Will Roll

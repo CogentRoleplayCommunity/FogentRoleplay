@@ -24,10 +24,10 @@ This Fellcraft can only be accessed by users with a specialization in Polycraft 
 
 #### Specialization: The Giant Spider
 
-#### Absorb Ichor: Liquify Prey
+#### Absorb Fellblood: Liquify Prey
 
-Prey can be absorbed to regain Ichor. This can be done by mummifying the prey and injecting a digestive toxin. After some time, the digested prey can be drunk from, resulting in an extra +1 Ichor. Also gain an additional +1 Ichor if the prey is a monster or Fellkin...
+Prey can be absorbed to regain Fellblood. This can be done by mummifying the prey and injecting a digestive toxin. After some time, the digested prey can be drunk from, resulting in an extra +1 Fellblood. Also gain an additional +1 Fellblood if the prey is a monster or Fellkin...
 
 #### Spider Climb
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain the ability to stick to walls like a spider. The user gains automatic wins to climb checks equal to their Spidercraft skill.  This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain the ability to stick to walls like a spider. The user gains automatic wins to climb checks equal to their Spidercraft skill.  This effect has a duration of 1 hour.

@@ -2,14 +2,29 @@
 
 ## Skill Levels
 
-|    Name    | Level |
-| :---------: | :---: |
-| Incompetent |  -1  |
-|   Novice   |   0   |
-| Apprentice |   1   |
-|    Adept    |   2   |
-|   Expert   |   3   |
-|   Master   |   4   |
+### Level -1: Incompetent
+
+Representing an imcompetent level of skill.
+
+### Level 0: Novice
+
+Representing an inexperienced level of skill.
+
+### Level 1: Apprentice
+
+Representing a level of skill where the basics have been learned.
+
+### Level 2: Adept
+
+Skill level where the basics have been fully understood and the more advanced concepts are being learned.
+
+### Level 3: Expert
+
+Skill level where advanced concepts have been fully understood and master level concepts are beginning to be introduced.
+
+### Level 4: Master
+
+Skill level where a master level of proficiency has been achieved.
 
 ## Core Skills
 
@@ -21,11 +36,11 @@ Represented by sprinters, high-jumpers, and swimmers. Covers physical activity r
 
 #### Climb
 
-Represented by rock climbers. Covers all climbing related activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches.
+Represented by rock climbers. Covers all climbing related activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches. Also covers your ability to crawl if prone.
 
 #### Endurance
 
-Represented by ultra marathon runners. Represents your body's ability to process toxins and resist disease. Resisting food poisoning, hot and cold weather and pushing on past exhaustion are all the domain of endurance.
+Represented by ultra marathon runners. Represents your body's ability to process toxins and resist disease. Resisting food poisoning, hot/cold weather, and pushing on past exhaustion are all the domain of endurance.
 
 #### Lift
 
@@ -35,7 +50,7 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 #### Acrobatics
 
-Represented by circus performers or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging things, and avoiding traps or pitfalls.
+Represented by circus performers or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
 
 ##### Dodge
 
@@ -43,7 +58,7 @@ When an attack is made against a character who is not returning fire or attackin
 
 #### Perception
 
-Perception is the art of detecting things through the senses, such as sight sound or scent. It is used as the defense against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. While intellect can be vital in perception, it is the speed at which one notices things that can turn the tide in one's favour. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
+Perception is the art of detecting things through the 5 senses, including sight, sound, scent, touch, and taste. It is used as the defense against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
 
 #### Sleight of Hand
 
@@ -67,9 +82,9 @@ Represented by a historian, bookworm, or detective. General Knowledge is the art
 
 Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments, it can even cover "gut feelings" or intuition. It covers scavenging for food, basic first aid as well as finding safe places to rest, lighting fires, and tracking. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. It might also give you a gut feeling when a criminal deal turns out to be a ambush. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
 
-#### Willpower
+#### Will
 
-Measures a character's mental and spiritual control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, willpower also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
+Measures a character's mental and spiritual control/strength, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, will also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
 
 ## Skill Specialty
 
@@ -87,10 +102,10 @@ For melee weapons, weapon reach, footwork, and the biomechanics of swinging a we
 
 | Class<br />/Size | Hafted         | Blade        | Spear       |
 | ---------------- | -------------- | ------------ | ----------- |
-| **Small**  | Small Hafted   | Small Blade |             |
-| **Medium** | Medium Hafted | Medium Sword |             |
-| **Large**  | Large Hafted  | Large Sword | Short Spear |
-| **Reach**  | Reach Hafted  | Greatsword   | Long Spear  |
+| Small            | Small Hafted   | Small Blade |             |
+| Medium*          | Medium Hafted | Medium Sword |             |
+| Large            | Large Hafted  | Large Sword | Short Spear |
+| Reach            | Reach Hafted  | Greatsword   | Long Spear  |
 
 ### Bow Combat Skill Transfer
 
@@ -98,9 +113,9 @@ For bows and crossbows, having a proper base, judging the distance, leading your
 
 | Class<br />/Size | Bows      | Crossbows      |
 | ---------------- | --------- | -------------- |
-| **Hand**   |           | Hand Crossbow  |
-| **Light**  | Light Bow | Light Crossbow |
-| **Heavy**  | Heavy Bow | Heavy Crossbow |
+| Hand             |           | Hand Crossbow  |
+| Light            | Light Bow | Light Crossbow |
+| Heavy            | Heavy Bow | Heavy Crossbow |
 
 You cannot go below 0 on a combat vocational skill for either melee or ranged.
 
@@ -112,12 +127,12 @@ For example, a character has just been given a skill point to spend and has a le
 
 ## Multiple Character skill check
 
-Mutiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if mutiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
+Multiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if multiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
 
 ### Example
 
 A character wants to pick up an entire sturdy couch by themselves, and take it up a flight of stairs.
 
-The narrator assings this a Speacialized task (CL 3), not only for the weigh of the couch, but for how cumberson it is for one person. The character get 2 win on their Lift check. They are not able to get the couch up the stairs.
+The narrator assigns this a Specialized task (CL 3), not only for the weigh of the couch, but for how cumbersome it is for one person. The character get 2 win on their Lift check. They are not able to get the couch up the stairs.
 
-In a parallel dimension, 2 characters decide to pick up the couch. The narrator assings this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which is rounded down to 1. They are able to move the couch up the stairs.
+In a parallel dimension, 2 characters decide to pick up the couch. The narrator assigns this a Common task (CL 1) since people do this every day. The two characters both roll their Lift check. One gets 2 wins and the other gets 1 win. The average is 1.5, which is rounded down to 1. They are able to move the couch up the stairs.

@@ -29,10 +29,6 @@ Illusions are created by bending light to create a false image.
 - Illusions can move, either under control of the user or set to a loop by the user.
 - Illusions can not produce sound.
 
-#### Absorb Light: Sun Light
+#### Absorb Ichor: Sunlight
 
-Ample sunlight can be used to absorb Light.
-
-#### Radiant Resistance
-
-By achieving a CL 3 check, for the cost of 1 Light a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+Ample sunlight can be used to absorb Ichor.

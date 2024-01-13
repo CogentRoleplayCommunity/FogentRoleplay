@@ -20,10 +20,10 @@ Dragonumbra is legendary in its destructive capabilities. Dragons channel their 
 
 Allows the user to breath dragonumbra from their mouth. Dragonumbra encroaches on all light sources around it, fading them out. Darksight does not work in dragonumbra. Entities will attack and abduct anyone in the darkness. This dragonumbra has a mind of its own. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorb Ichor: Shadow
+#### Absorb Fellblood: Shadow
 
-Shadow can be used to absorb Ichor. This can be done in pitch black environments.
+Shadow can be used to absorb Fellblood. This can be done in pitch black environments.
 
 #### Dark Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

@@ -1,5 +1,9 @@
 # Combat Modifiers
 
+## Ranged vs Melee (Disadvantage)
+
+When a melee combat roll is made towards a character within melee or reach range, the character has disadvantage on ranged combat rolls versus the melee combat roll.
+
 ## Dash (2x Movement Speed)
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement  in combat, doubling their movement speed. They can still Dodge. They may not take the Defensive modifier during a dash.

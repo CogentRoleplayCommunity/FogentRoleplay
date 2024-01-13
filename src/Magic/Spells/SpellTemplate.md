@@ -12,13 +12,15 @@
 
 ## Info
 
-**Range:** 
+**Duration:**
 
-**Engageable Opponents:** 
+**Range:**
 
-**Penetration:** 
+**Engageable Opponents:**
 
-**Magic Resource Required:** 
+**Penetration:**
+
+**Magic Resource Required:**
 
 **Area Of Effect:** None
 
