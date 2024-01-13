@@ -16,12 +16,12 @@ Unarmed Disarming,1,Disarming Unarmed,Mundane,12/12,0,0 bc
 Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",Mundane,12/12,1,2 bc
 Shoddy Shortsword,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",Shoddy,9/9,1.5,7 bc
 Shortsword,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",Mundane,12/12,1.5,10 bc
-Handaxe,1,Small Hafted Blade,Mundane,12/12,2,10 bc
+Handaxe,1,Small Hafted Axe,Mundane,12/12,2,5 bc
 Shoddy Sickle,1,Small Hafted Blade,Shoddy,9/9,2,3 bc
 Sickle,1,Small Hafted Blade,Mundane,12/12,2,5 bc
 Light Hammer,1,Small Hafted Blunt,Mundane,12/12,2,1 bc
-Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",Mundane,12/12,2,2 bc
-Rapier,1,Medium Thrusting Sword,Mundane,12/12,2,12 bc
+Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",Mundane,12/12,2,10 bc
+Rapier,1,Medium Thrusting Sword,Mundane,12/12,2,25 bc
 Scimitar,1,"Medium Thrusting Sword, Medium Slashing Sword",Mundane,12/12,2,25 bc
 Shoddy Scimitar,1,"Medium Thrusting Sword, Medium Slashing Sword",Shoddy,9/9,2,15 bc
 Battleaxe,1,Medium Hafted Axe,Mundane,12/12,3,10 bc
@@ -32,17 +32,17 @@ Mace,1,Medium Hafted Blunt,Mundane,12/12,3,5 bc
 Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",Mundane,12/12,4,9 bc
 Longsword,1,"Large Thrusting Sword, Large Slashing Sword",Mundane,12/12,3,15 bc
 Glaive,1,Large Hafted Blade,Mundane,12/12,6,20 bc
-Dane Axe,1,Large Hafted Blade,Mundane,12/12,4,11 bc
+Dane Axe,1,Large Hafted Axe,Mundane,12/12,4,11 bc
 Maul,1,Large Hafted Blunt,Mundane,12/12,7,10 bc
 Short Spear,1,"Short Spear, Thrown Short Spear",Mundane,12/12,3,1 bc
 Trident,1,"Short Spear, Thrown Short Spear",Mundane,12/12,3,5 bc
-Poleaxe,1,"Large Hafted Blunt, Large Hafted Blade, Short Spear",Mundane,12/12,6,40 bc
+Poleaxe,1,"Large Hafted Blunt, Large Hafted Axe, Short Spear",Mundane,12/12,6,40 bc
 Crude Wooden Javelin,1,"Short Spear, Thrown Short Spear",Compromised,6/6,3,1 bc
 Javelin,1,"Short Spear, Thrown Short Spear",Mundane,12/12,3,5 bc
 Greatsword,1,"Thrusting Greatsword, Slashing Greatsword",Mundane,12/12,6,50 bc
 Swordstaff,1,"Reach Hafted Blade, Longspear",Mundane,12/12,6,50 bc
 Halberd,1,"Reach Hafted Blade, Reach Hafted Point, Longspear",Mundane,12/12,7,20 bc
-Long Poleaxe,1,"Reach Hafted Blunt, Reach Hafted Blade, Longspear",Mundane,12/12,7,41 bc
+Long Poleaxe,1,"Reach Hafted Blunt, Reach Hafted Axe, Longspear",Mundane,12/12,7,41 bc
 Lance,1,Reach Hafted Point,Mundane,12/12,11,10 bc
 Long Spear,1,Longspear,Mundane,12/12,5,2 bc
 Pike,1,Longspear,Mundane,12/12,5,5 bc
@@ -85,8 +85,8 @@ Fine Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",Fine,18/18,2
 Net,1,Medium Sword,Mundane,12/12,3,1 bc
 Bodkin Knife,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",Mundane,12/12,1,2 bc
 Quality Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",Quality,15/15,4,?
-Quality War Axe,1,Large Hafted Blade,Quality,15/15,5,5 bc
-War Axe,1,Large Hafted Blade,Mundane,12/12,5,5 bc
+Quality War Axe,1,Large Hafted Axe,Quality,15/15,5,5 bc
+War Axe,1,Large Hafted Axe,Mundane,12/12,5,5 bc
 Asher’s Arms Bollock Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",Superior,24/24,1,10 bc
 Spencer's Arms Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",Superior,24/24,2,20 bc
 Dragon Torch,1,"Medium Torch, Blazecraft Conduit",Artifact,48/48,3,9999 bc
