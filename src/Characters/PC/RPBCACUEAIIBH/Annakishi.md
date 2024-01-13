@@ -6,7 +6,7 @@
 
 - The problem I have is that:
 
-A) Her having a very intense royal training and whole hartedly taking advantage of that before even starting her advanture, doesn't make sense at Initiate tier. She's bred and trained Kikki royalty just like Fanacrio but trained to become a queen (slightly different purpose in the hive), and she is about the same age, not an untrained worker having to find out everthing on her own. She is not a rebel either, she didn't ran away so she would lack training. She is completely in line with the hive's goals, and at the end of her training she had to make a choice to stay and compete with physically larger and stronger peers, whom she couldn't reliably subdue with her magic no matter how hard she tried or leave peacefully and build her own empire. She simply chose the peaceful departure when she felt that she was becoming a drain on the hive's resources. Therefore making her magically any less capable then Fanacrio, doesn't make any sense to me. The hive wouldn't let her go without giving her the training, weapon, and food she can carry to survive and build a new hive. (It's basic hive minded behavior: survival of the hive comes first, survival of the species second, both of which are valid honorable goals that the hive spends resources on.)
+A) Her having a very intense royal training and whole hartedly taking advantage of that before even starting her advanture, doesn't make sense at Initiate tier. She's bred and trained Kiki royalty just like Fanacrio but trained to become a queen (slightly different purpose in the hive), and she is about the same age, not an untrained worker having to find out everthing on her own. She is not a rebel either, she didn't ran away so she would lack training. She is completely in line with the hive's goals, and at the end of her training she had to make a choice to stay and compete with physically larger and stronger peers, whom she couldn't reliably subdue with her magic no matter how hard she tried or leave peacefully and build her own empire. She simply chose the peaceful departure when she felt that she was becoming a drain on the hive's resources. Therefore making her magically any less capable then Fanacrio, doesn't make any sense to me. The hive wouldn't let her go without giving her the training, weapon, and food she can carry to survive and build a new hive. (It's basic hive minded behavior: survival of the hive comes first, survival of the species second, both of which are valid honorable goals that the hive spends resources on.)
 
 B) Her story doens't make sense at Initiate tier with each fellcraft starting at -1, even if I spent all her skill points on it (which I shouldn't cause her having been trained suggests that she has at least has basic survial abilities and potentially other physical skills too), she just wouldn be able to get far, compelling common people to give her resoucres or help her out as her story says with Initiate tier.
 
@@ -23,36 +23,32 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Endurance |  0  |  2d6  | Sleight of Hand |  0  |  5d6  | Survival          |  1  |  4d6  |
 | Lift      |  0  |  2d6  | Stealth         |  0  |  5d6  | Willpower         |  1  |  4d6  |
 
-(Attr. Points: 2 Attr. and -1 STR; Skill points: 1 skill + 2 from DC)
-
 ## Vocations and Vocational Skills
 
-|   Fellkin {ALL}  |  3  | 8d6 |  Queen alate {ALL}  |  1  | 5d6 |
+| Fellkin {ALL}    |  3  | 8d6 | Queen alate {ALL}   |  1  | 5d6 |
 | :--------------: | :-: | :-: | ------------------- | :-: | --- |
 | Mindcraft {ALL}  |  3  | 8d6 | Medium Hafted       |  1  | 6d6 |
 | Polycraft {ALL}  |  1  | 6d6 | Small Bladed        |  0  | 5d6 |
 | Toxincraft {ALL} |  0  | 5d6 |                     |     |     |
 | Terracraft {ALL} |  0  | 5d6 |                     |     |     |
 
-(Points: 2 Voc + 11 Skill. Fellcraft skills start at -1)
-
 ## Effects
 
-|          Name           |                            Effect                             | Duration |                                                    Source                                                    |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                Fellkin blood                                                |
-| Physical Defense Level  |                               0                               |          |                                                    Armor                                                    |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                              |
-|   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                              |
-|        Language:        |                         Can speak Kikishi                     |          |                                                                                                              |
-|   Disabling: Feelbe     |   She is shorter, lighter and weaker then other royal kiki.   |          |                                       She lost on the genetic lottery.                                       |
-| Disabling: Drug addict. |       A light dose of Mirage keeps her from depression.       |          |                                                                                                              |
-|    Inventory Weight     |                             0 lb                              |          |                                                  Equipment                                                  |
-|  Humanoid Carry Weight  |                            120 lb                             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|      Light Weight       |                -0d6 to STR/RFX governed skills                |          |                                           0% - 25% of carry weight                                           |
-| Humanoid Movement Speed |                             30 ft                             |          |                            50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|   Humanoid Swim Speed   |                             15 ft                             |          |                          15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                          |
-|  Humanoid Climb Speed   |                             15 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                             |
+| Name                    | Effect                                                        | Duration | Source                                                                                                                                   |
+| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| Minor Silver Weakness   | (+1) to the level of injury<br />received from Silver damage. |          | Fellkin blood                                                                                                                            |
+| Physical Defense Level  | 0                                                             |          | Armor                                                                                                                                    |
+| Medium Size             | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
+| Language: Babelish      | Can speak Babelish.                                           |          |                                                                                                                                          |
+| Language:               | Can speak Kikishi                                             |          |                                                                                                                                          |
+| Disabling: Feelbe       | She is shorter, lighter and weaker then other royal kiki.     |          | She lost on the genetic lottery.                                                                                                         |
+| Disabling: Drug addict. | A light dose of Mirage keeps her from depression.             |          |                                                                                                                                          |
+| Inventory Weight        | 0 lb                                                          |          | Equipment                                                                                                                                |
+| Humanoid Carry Weight   | 70 lb                                                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+| Light Weight            | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
+| Humanoid Movement Speed | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
+| Humanoid Swim Speed     | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
+| Humanoid Climb Speed    | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
 ## Combat Rolls
 
@@ -98,7 +94,7 @@ Her name: Annakishi :D
 
 Age: 19
 
-Race: Kikki (Chitinkin)
+Race: Kiki (Chitinkin)
 
 Height: 4' 9" ...not counting a poir of foot long antennae waving from the top of her head the top few inches slightly bent.
 
