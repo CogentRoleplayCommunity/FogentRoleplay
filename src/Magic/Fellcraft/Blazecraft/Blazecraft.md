@@ -23,7 +23,3 @@ Fire and heat can be used to absorb Fellblood. This can be done with large fires
 #### [Unfinished] Specialization: The Phoenix
 
 Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire, a process similar to the Silverburn reaction. Phoenix solved this issue by evolving ways to channel magic into regenerating flesh as fast as they burn it. This produces an immense amount of heat and flame, though it is quite taxing on the user. That being said this isn't a safe process, and can end up backfiring on new users of this Fellcraft.
-
-#### Fire Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

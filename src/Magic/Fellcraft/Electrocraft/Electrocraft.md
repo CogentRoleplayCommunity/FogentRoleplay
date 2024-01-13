@@ -22,7 +22,3 @@ Allows the user to breath dragonlightning from from their mouth. In addition, th
 #### Absorb Fellblood: Electricity
 
 Electricity can be used to absorb Fellblood. This can be done with lighting storms, electrite containing electricity, etc...
-
-#### Electric Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

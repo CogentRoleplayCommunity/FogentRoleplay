@@ -24,7 +24,3 @@ Allows the user to breath dragongale from from their mouth. In addition, the dra
 #### Absorb Fellblood: Gale
 
 Gale can be used to absorb Fellblood. This can be done near storms, tornadoes, places of great height, ect...
-
-#### Shockwave Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

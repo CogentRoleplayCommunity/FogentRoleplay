@@ -10,13 +10,13 @@ Polycraft users can narratively attempt the following:
 
 Polycraft fundamentally is the ability to enhance, heal, and change one's body. The various races have their own variant of this, leading to unique abilities between them.
 
-#### Specialization: The Beast
-
-The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
-
 #### Absorbing Fellblood: Flesh and Blood
 
 Flesh and blood can be consumed to regain Fellblood. This generally is done ravenously. An extra point of Fellblood should be awarded if a Fellkind of Monster is consumed.
+
+#### Specialization: The Beast
+
+The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
 
 #### Specialization: The Doppelganger
 

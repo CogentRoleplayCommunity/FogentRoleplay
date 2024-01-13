@@ -34,7 +34,3 @@ Allows the user to breathe soulfire from their mouth. This energy has a mind of 
 #### Absorb Fellblood: Souls
 
 Souls can be absorbed and feed on to regain Fellblood. Victim can not resist. An extra point of Fellblood should be awarded if a Fellkin or Brightkin is consumed.
-
-#### Spiritual Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

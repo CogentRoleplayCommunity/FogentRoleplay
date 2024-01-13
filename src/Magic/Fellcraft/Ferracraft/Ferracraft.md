@@ -18,7 +18,3 @@ Allows the user to produce dragonsteel from their bodies. In addition, the plant
 #### Absorb Fellblood: Magnetism
 
 Large amounts of magnetic waves can be used to absorb Fellblood. This can be done with near sources of large magnetic energy.
-
-#### Physical Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. And for each resistance point gained, gain a weakness level to Electric damage. This effect has a duration of 1 hour.

@@ -28,7 +28,3 @@ Allows the user to breath dragontide from from their mouth. Dragontide the user 
 #### Absorbing Fellblood: Water
 
 Water can be used to absorb Fellblood. This can be done by submerging oneself in water or meditating near a large body of water.
-
-#### Water Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

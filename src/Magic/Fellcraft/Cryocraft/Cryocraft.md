@@ -18,7 +18,3 @@ Allows the user to dragonfrost from their mouth. In addition, the frost the user
 #### Absorb Fellblood: Cold
 
 Cold can be used to absorb Fellblood. This can be done with blizzards, frigid environments, and large bodies of ice.
-
-#### Cold Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.

@@ -21,6 +21,7 @@ Creatures can be resistant to certain sources of damage.
 |            Description            |                          Effect                          |
 | :-------------------------------: | :------------------------------------------------------: |
 |  Minor (damage-type) Resistance  | -1 to victory levels received from (damage type) damage. |
+|                                  |                                                          |
 |   Med. (damage-type) Resistance   | -2 to victory levels received from (damage type) damage. |
 |  Major (damage-type) Resistance  | -3 to victory levels received from (damage type) damage. |
 | Extreme (damage-type) Resistance | -4 to victory levels received from (damage type) damage. |

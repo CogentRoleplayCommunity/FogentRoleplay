@@ -34,10 +34,6 @@ When a character attempts a Hemacraft heal, they make a Polycraft Roll (this can
 | Fatal Heal           | 5               | Instant  |
 | Revival Heal         | 6               | Instant  |
 
-#### Pierce, Slash Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour. Bleed resistance keeps blood in the body.
-
 #### Specialization: The Healing Blood
 
 This technique was discovered when Byrgenwerth Scholars found a dark truth deep within the Siren ruins that now lay under Reddwall. Protected fervently by House Reddington and the scholars at Byrgenwerth. Healing blood is shelf stable, has antifungal and antibacterial properties.
