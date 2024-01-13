@@ -9,7 +9,7 @@
 | Athletics | 1   | 4d6 | Acrobatics      | 1   | 5d6 | Communication     | 1   | 5d6 |
 | Climb     | 0   | 3d6 | Perception      | 2   | 6d6 | General Knowledge | 0   | 4d6 |
 | Endurance | 0   | 4d6 | Sleight of Hand | 1   | 5d6 | Survival          | 0   | 3d6 |
-| Lift      | 0   | 3d6 | Stealth         | 3   | 7d6 | Will         | 1   | 5d6 |
+| Lift      | 0   | 3d6 | Stealth         | 3   | 7d6 | Will              | 1   | 5d6 |
 
 ## Vocations and Vocational Skills
 
@@ -20,18 +20,18 @@
 
 ## Info:
 
-|                  Name                   |                               Effect                                | Duration |                        Source                         |
-| :-------------------------------------: | :-----------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|               Medium Size               |                        5x5 ft on battle map.                        |          |                                                       |
-|           Language: Babelish            |                         Can speak Babelish.                         |          |                                                       |
-|            Language: Demonic            |                         Can speak Demonic.                          |          |                                                       |
-| Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                        Injury                         |
-|            Inventory Weight             |                             20.0075 lb                              |          |                       Equipment                       |
-|          Humanoid Carry Weight          |                               120 lb                                |          |  120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0)  |
-|              Light Weight               |                   -0d6 to STR/RFX governed skills                   |          |               0% - 25% of carry weight                |
-|         Humanoid Movement Speed         |                                45 ft                                |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|           Humanoid Swim Speed           |                                20 ft                                |          | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)  |
-|          Humanoid Climb Speed           |                                15 ft                                |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
+|                  Name                   |                               Effect                                | Duration |                                                      Source                                                      |
+| :-------------------------------------: | :-----------------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+|               Medium Size               |                        5x5 ft on battle map.                        |          |                                                                                                                  |
+|           Language: Babelish            |                         Can speak Babelish.                         |          |                                                                                                                  |
+|            Language: Demonic            |                         Can speak Demonic.                          |          |                                                                                                                  |
+| Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                                                      Injury                                                      |
+|            Inventory Weight             |                             20.0075 lb                              |          |                                                    Equipment                                                     |
+|          Humanoid Carry Weight          |                               120 lb                                |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|              Light Weight               |                   -0d6 to STR/RFX governed skills                   |          |                                             0% - 25% of carry weight                                             |
+|         Humanoid Movement Speed         |                                45 ft                                |          |                              30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                               |
+|           Humanoid Swim Speed           |                                20 ft                                |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)                               |
+|          Humanoid Climb Speed           |                                15 ft                                |          |                                 15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                 |
 
 ## Combat Rolls:
 

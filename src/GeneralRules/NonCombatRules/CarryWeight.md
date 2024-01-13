@@ -4,8 +4,8 @@ Carry weight represents a character's ability to haul weight while still being a
 
 |      Description      |                                                               Calculation                                                                |
 | :-------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| Humanoid Carry Weight | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-| 4-Legged Carry Weight | 120 lb (Base), +200 lb (per STR above 0),<br />-50 lb (per STR below 0), + 80 lb (per Lift above),<br />- 40 lb (per Lift above/below 0) |
+| Humanoid Carry Weight | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+| 4-Legged Carry Weight | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
 
 ## Weight Classes
 
