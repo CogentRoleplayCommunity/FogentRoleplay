@@ -2,14 +2,14 @@
 
 ## Skill Levels
 
-|    Name     | Level |
+|    Name    | Level |
 | :---------: | :---: |
-| Incompetent |  -1   |
-|   Novice    |   0   |
-| Apprentice  |   1   |
+| Incompetent |  -1  |
+|   Novice   |   0   |
+| Apprentice |   1   |
 |    Adept    |   2   |
-|   Expert    |   3   |
-|   Master    |   4   |
+|   Expert   |   3   |
+|   Master   |   4   |
 
 ## Core Skills
 
@@ -21,11 +21,11 @@ Represented by sprinters, high-jumpers, and swimmers. Covers physical activity r
 
 #### Climb
 
-Represented by rock climbers. Covers all climbing related activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches.
+Represented by rock climbers. Covers all climbing related activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches. Also covers your ability to crawl if prone.
 
 #### Endurance
 
-Represented by ultra marathon runners. Represents your body's ability to process toxins and resist disease. Resisting food poisoning, hot and cold weather and pushing on past exhaustion are all the domain of endurance.
+Represented by ultra marathon runners. Represents your body's ability to process toxins and resist disease. Resisting food poisoning, hot/cold weather, and pushing on past exhaustion are all the domain of endurance.
 
 #### Lift
 
@@ -35,7 +35,7 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 #### Acrobatics
 
-Represented by circus performers or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging things, and avoiding traps or pitfalls.
+Represented by circus performers or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
 
 ##### Dodge
 
@@ -43,7 +43,7 @@ When an attack is made against a character who is not returning fire or attackin
 
 #### Perception
 
-Perception is the art of detecting things through the senses, such as sight sound or scent. It is used as the defense against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. While intellect can be vital in perception, it is the speed at which one notices things that can turn the tide in one's favour. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
+Perception is the art of detecting things through the 5 senses, including sight, sound, scent, touch, and taste. It is used as the defense against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
 
 #### Sleight of Hand
 
@@ -85,11 +85,11 @@ Once a dice pool for a given skill check is equal to or greater than 8 you are c
 
 For melee weapons, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap between weapon skills. Starting on with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may access the other side of the table as if it were right beside it.
 
-| Class<br />/Size | Hafted        | Blade        | Spear       |
-| ---------------- | ------------- | ------------ | ----------- |
-| Small            | Small Hafted  | Small Blade  |             |
+| Class<br />/Size | Hafted         | Blade        | Spear       |
+| ---------------- | -------------- | ------------ | ----------- |
+| Small            | Small Hafted   | Small Blade |             |
 | Medium*          | Medium Hafted | Medium Sword |             |
-| Large            | Large Hafted  | Large Sword  | Short Spear |
+| Large            | Large Hafted  | Large Sword | Short Spear |
 | Reach            | Reach Hafted  | Greatsword   | Long Spear  |
 
 ### Bow Combat Skill Transfer
