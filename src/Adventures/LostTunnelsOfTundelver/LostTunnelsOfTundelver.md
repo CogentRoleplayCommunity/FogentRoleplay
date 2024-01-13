@@ -417,6 +417,19 @@ Players might also decide on alternative actions, such as pursuing Mountainmaw C
 
 The exploration of the Mountainmaw hideout, along with the defeat of Thrak and his allies, marks a significant story milestone. Each character is granted 1 skill & destiny points.
 
+At the end of session 1, describe the following cut away scene.
+
+```
+A day and a night back on the road kicking up red dust, listening to Sildar's stories, brings you to an old scarecrow, loose clothes hanging off a cross made from an old pitchfork and pickaxe with a sign nailed to its chest. "Welcome to Tuntin" it reads.
+
+In town, a barkeeper looks into a mirror and washes some blood off his knuckles before applying a saulve to his black eye.
+
+Elsewhere, a cowardly mayor hastly closes the shutters of his office to avoid being seen by thugs in the streets all dressed in purple.
+
+And all the while, underground, in that deep dark place a creature with a single great green eye cackles quitley to itself as it sorts through it's collection of bones. It sense your arrival, an whispers "Welcome to Tuntin...".
+```
+
+
 # **Part 2: Tuntin**
 
 Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling mudblood town, firmly allied with the dwarves and gnomes of the Tundelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
