@@ -70,8 +70,6 @@
 | Broadhead Arrow               |  17   |              Standard Arrow              | Mundane |            | 0.05  |  1 bc   |
 | Morning Star                  |   1   | Medium Hafted Blunt, Medium Hafted Point | Mundane |   12/12    |   4   |  15 bc  |
 
-need Thrax Morningstar
-
 ## Containers
 
 | Name              |   #   |      Class      |  Tier   | Durability |  LB   | Value |

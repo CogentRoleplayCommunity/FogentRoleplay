@@ -1,6 +1,6 @@
-# Fanacrio
+# Fanácrio
 
-![alt_text](Fanacrio.png)
+![alt_text](Fanácrio.png)
 
 ## Attributes and Core Skills
 
@@ -111,7 +111,7 @@ Notes:
 KRITARON
 Ask Narrator about Kikimora weakness to Mindcraft
 Approached Reddland on the Dutches with Yavin, Tragar, another guy.
-\Fanacrio wrote the story of Helena in his notebook, called "The Story Behind the Blood Princess". He treats Helena as the heroine of the tale, The world is against her, and everyone leaves her. He makes up a lot in this story, but he tries to implement everything Uhtred told him.
+\Fanácrio wrote the story of Helena in his notebook, called "The Story Behind the Blood Princess". He treats Helena as the heroine of the tale, The world is against her, and everyone leaves her. He makes up a lot in this story, but he tries to implement everything Uhtred told him.
 Weeping Anvil. Helena’s grave is dug up, 10 big heavy booted figures dragged a 12 year old Angelkin tied up with bloody rope sits next to the grave. No other external injuries. Bloody Angel Spike next to her corpse. A track leads to the right of the grave, and leads to an explosion with 5 dead cult members and multiple guards.
 Uhtred regards the rocks above Helena’s grave as evil.
 Fanácrio has been getting his mind repaired over the gap between season 2 & 3. His gentle nice personality is coming back, but during situations of high stress or combat, his cold calculated self comes back.
@@ -119,19 +119,19 @@ Fanácrio, being the only one proficient in mindcraft, is the hub of the group's
 Leodelphian assassins are called “Fangs”
 Uhtred is a street rat. Is an orphan. Byoka was a friend from the orphanage, they were family. Uhtred went to Reddwall (Story of the Blood Princess). Saw Byoka in Reddwall a few days before. Finnan kamikaze during terrorist. {Caught stealing food from a rich man.} Byoka is the one wielding the terrorist,
 Brightkin cant die, but there is a price to be paid or a gift in some due, every time they come back, a part of them dies and is replaced with aspects of the brightlord.
-The war is at a standhill, buildiung up reserves at the Crimson Hills. Reddland deployed a new strategy.item, a runecraft mechanical contraption, which resulted in a devastating loss for the empire.
+The war is at a standhill, building up reserves at the Crimson Hills. Reddland deployed a new strategy.item, a runecraft mechanical contraption, which resulted in a devastating loss for the empire.
 Why do you live here in such an awful territory for kikki? I am aiding those who have brought me life. I have loyalty, unlike some kikki who have lost their way.
 Mercenary is over his head, bound by his master. Seaspeak to unlock the collar.
 Cult of amon meeting place
 If a humanoid/monster who does not have Kikimora blood wields the Mask of Ah-lat, the wielder must make a level 5 willpower check. If failed, the mask breaks into their mind, dealing a level 3 mental injury. If the wielder failed the first willpower check, they then must make another level 5 willpower check. If they fail, the mask severs the bonds holding their mind together, leaving them a husk of what they were. Finally, the mask dominates the wielder’s body . The mask breaks, tears, and rearranges the wielder's body, to form that of a kikimora worker.
 
-Fanacrio needs to keep the group together. A tactical advantage to keep a bigger group then lose people. Frame everything, as the group.
+Fanácrio needs to keep the group together. A tactical advantage to keep a bigger group then lose people. Frame everything, as the group.
 
 ## Appearance
 
 Age: 17
 
-Race: Chititinkin
+Race: Chitinkin
 
 Height: 5'11''
 
@@ -157,9 +157,9 @@ Even though his people treated Fanácrio terrible, he still can't shake the need
 
 ## Additional Art
 
-![](Fanacrio1.png)
-![](Fanacrio2.png)
-![](Fanacrio3.png)
+![](Fanácrio1.png)
+![](Fanácrio2.png)
+![](Fanácrio3.png)
 
 ## Backstory
 

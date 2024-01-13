@@ -94,7 +94,7 @@
 The singing ring(in the crypt).
 
 Session 25:
-Lady red guard is dead, lord rose blood is dead, vex died and came back to life, Luc saw me and vex come to life and is confused, Uhtred is now Aglekin, the staff was stolen by the cult of Amon. AKA Uskal.
+Lady red guard is dead, lord rose blood is dead, vex died and came back to life, Luc saw me and vex come to life and is confused, Uhtred is now Brightkin, the staff was stolen by the cult of Amon. AKA Uskal.
 Helena was resurrected: Uhtred does not know
 Uhtred got his mother necklace from commander Royce
 Uhtred does not have his sword- dream sword may be bad that the dream sword is gone.
@@ -104,7 +104,7 @@ Uhtred is outside the hospital after meeting commander Royce.
 Beocca has the spear of destiny
 Party gathers things and leaves Reddwall
 Vex has a mental break down
-Party attacked by mercs that want to kill carma
+Party attacked by mercenaries that want to kill carma
 
 Session 27:
 Carma and Vex left the party
@@ -112,9 +112,9 @@ The tavern Exploded
 Uhtred sacrifice himself for dipper
 
 Session 28:
-Met Destin Shafer and the group hired his sword
+Met Destin Shaffer and the group hired his sword
 Got into a fight with wraiths( The town we are heading towards might have a lot of death)
-Sirus and Uhtred made a deal with the masked man he agreed to help the party protect vex
+Sirius and Uhtred made a deal with the masked man he agreed to help the party protect vex
 Masked man told us that Vex had the mark of Amon.
 
 Session 29:
@@ -123,9 +123,9 @@ Talked to the sheriff
 We got contracted to fight the lancers
 
 Session 30:
-It came out that Uhtres’s friends perpetrated the terrorist attack
+It came out that Uhtred's friends perpetrated the terrorist attack
 Killroy tried to kill him
-Fanacrio almost died in killroy’s dream
+Fanácrio almost died in killroy’s dream
 
 Session 31:
 The lancers killed some girl
@@ -141,14 +141,14 @@ Session 33&34
 The party left tuntin and Luc joined them, they tried to help the suffering people there
 The party has been traveling and talking to the masked man, winter fast approaches and they are no closer to finding Vex.
 The party is lost in a forest in the middle of a winter storm, they are hungry and freezing to death
-They encounter werewolves and Finacrio and Sirus almost die.
+They encounter werewolves and Finacrio and Sirius almost die.
 
 Session 35:
 The party made it away from the werewolves and continued to trek the frozen tundra injured and broken.
 They come across Vengward who is an assassin kiki that lives apart of the hive.
 They talk and get rest and food.
 Luc tells Uhtred that they are brothers in some way and that Uhtred will always have his protection
-Sirus talks to Luc and Luc draws his sword on him
+Sirius talks to Luc and Luc draws his sword on him
 Uhtred sees sirius’s notebook and its the same phrase written in it over and over again.
 Luc leaves the party in the charge of Vengward and they are about to take out a lancer camp and hunker down for the winter.
 
@@ -190,7 +190,7 @@ Won't let the innocent suffer due to his negligence, there is always a choice.
 ## Goals/Aspirations
 
 - To find and protect Vex'halia Reddington
-- Find out more about what it means to be Brightkinkin and find out more about his mother.
+- Find out more about what it means to be Brightkin and find out more about his mother.
 - To live his life to make those who have passed proud, and to fix the mistakes that he made.
 
 Things I want to do with Uhtred:
@@ -212,7 +212,7 @@ After having worked in these conditions for 5 years, the boys finally decided th
 
 Uhtred lived in the orphanage till the age of 14. Even though “the Spore”  had been slowed in Crossroads, this was not the case for the poor districts, including the orphanage. One night, Uhtred heard a blood curdling scream coming from within the Orphanage. They ran downstairs to see Mary fending off a Spore stricken creature at the front door, with a young 4 year old girl standing behind her.
 
-Uhtred quickly armed himself with a chair, reading to hit the creature to break its grasp on Mary. Before he could strike, the creature pulled Marry outside into a swarm of Spore creatures. He looked upon the scene with horror as the creatures began to feest on her. He told Finan and Beocca to take all the children out the back while he gave them time to escape. Uhtred managed to lure and lock the creatures inside the orphanage common room. Though he was trapped, he was content as he saw the children of the Orphanage escape. As he sat down to catch his breath he heard the noise of the city guard arriving, armor clattering and slashing swords. They closed in and one by one began to kill the Spore creatures. After the creatures were all killed a guardsman retrieved Uhtred. Uhtred recognized the guard that took him out of the orphanage, as it was the same guard that had taken him there 7 years ago.
+Uhtred quickly armed himself with a chair, reading to hit the creature to break its grasp on Mary. Before he could strike, the creature pulled Marry outside into a swarm of Spore creatures. He looked upon the scene with horror as the creatures began to feast on her. He told Finan and Beocca to take all the children out the back while he gave them time to escape. Uhtred managed to lure and lock the creatures inside the orphanage common room. Though he was trapped, he was content as he saw the children of the Orphanage escape. As he sat down to catch his breath he heard the noise of the city guard arriving, armor clattering and slashing swords. They closed in and one by one began to kill the Spore creatures. After the creatures were all killed a guardsman retrieved Uhtred. Uhtred recognized the guard that took him out of the orphanage, as it was the same guard that had taken him there 7 years ago.
 
  Uhtred was taken to a medical facility for testing. After the testing was complete it was determined that Uhtred had been infected with the Spore. He would perish in 2 months if left untreated. The government decided that Uhtred was to be sent away to Reddwall to receive treatment.
 
@@ -220,11 +220,11 @@ Uhtred quickly armed himself with a chair, reading to hit the creature to break 
 
  Following the death of Helena by Uhtred's hand, Sirius disappeared without a trace. Tensions between Uhtred and Felix rose leading to Uhtred leaving the Weeping Anvil. Knox and Randy went to run the tavern, and Felix was still looking for a way to attend medical school.
 
- Uhtred returned to his life on the streets resorting to petty theft and squatting to survive. Uhtred took it upon himself to care for Commander Royce in whatever way he could. He spent much of his time with Commander Royce at the Hospital in the Medical district, when he was not on the streets stealing food and items to sell. Both Flint and Vex Reddington would frequently visit Royce and Killroy, and ensured both were well taken care of. This gave Uhtred, Vex, and Flint time to grow close over their shared grief. Uhtred tried to discuss what had transpired with the Masked man. It quickly became clear that Vex had no recollection of what had transpired. Trying to openly discuss anything relating to the Singing Ring or Masked man would give Uhtred the feeling of a heart attack and a quiet, scratchy voice gently whispered "No no no, a deal is a deal".  Despite this, Uhtred and Vex would confide in one another. However, Uhtred did not tell Vex he returned to his street life. Uhtred shared his troubled life and the guilt he felt over what had transpired with Helena. Vex shared the suffocating burden and expectations she needed to live up to, as one day she is to be Empress. Uhtred's guilt continued to consume him and he crept further and further into his pain. After six months of living on the streets, Vex confronted Uhtred. By this time Uhtred's clothes were little more than rags, he appeared gaunt, and in ill health. Vex pushed until Uhtred broke down and was distraught to find he had taken up his old life. Uhred told Vex that no matter how hard he tried, he always failed to protect those he loved. At this Vex slapped Uhtred, looking him dead in the eyes. "There is always a choice." As tears welled in her eyes' Vex placed her hand on Commander Royce, "Ask yourself what she would've wanted. Ask yourself what she would've wanted for YOU. She cared for you, all of you. If you give up, than her suffering means nothing." Uhtred held these words in his heart. "what would she have wanted, what would she have wanted for me". The next day he signed up to become a cadet in the Red Legion. With his resolve to live his life in honor of commander Royce, Uhtred excelled in his class. Once Flint learned Uhtred had joined, he requested Uhtred be his personal bodyguard, a position that had long remained empty. Uhtred spent his nights in the barracks of Castleward. He continued to  regularly visit Commander Royce and would use most of his money to finance the Weeping Anvil once Killroy was let out of the hospital.
+ Uhtred returned to his life on the streets resorting to petty theft and squatting to survive. Uhtred took it upon himself to care for Commander Royce in whatever way he could. He spent much of his time with Commander Royce at the Hospital in the Medical district, when he was not on the streets stealing food and items to sell. Both Flint and Vex Reddington would frequently visit Royce and Killroy, and ensured both were well taken care of. This gave Uhtred, Vex, and Flint time to grow close over their shared grief. Uhtred tried to discuss what had transpired with the Masked man. It quickly became clear that Vex had no recollection of what had transpired. Trying to openly discuss anything relating to the Singing Ring or Masked man would give Uhtred the feeling of a heart attack and a quiet, scratchy voice gently whispered "No no no, a deal is a deal".  Despite this, Uhtred and Vex would confide in one another. However, Uhtred did not tell Vex he returned to his street life. Uhtred shared his troubled life and the guilt he felt over what had transpired with Helena. Vex shared the suffocating burden and expectations she needed to live up to, as one day she is to be Empress. Uhtred's guilt continued to consume him and he crept further and further into his pain. After six months of living on the streets, Vex confronted Uhtred. By this time Uhtred's clothes were little more than rags, he appeared gaunt, and in ill health. Vex pushed until Uhtred broke down and was distraught to find he had taken up his old life. Uhtred told Vex that no matter how hard he tried, he always failed to protect those he loved. At this Vex slapped Uhtred, looking him dead in the eyes. "There is always a choice." As tears welled in her eyes' Vex placed her hand on Commander Royce, "Ask yourself what she would've wanted. Ask yourself what she would've wanted for YOU. She cared for you, all of you. If you give up, than her suffering means nothing." Uhtred held these words in his heart. "what would she have wanted, what would she have wanted for me". The next day he signed up to become a cadet in the Red Legion. With his resolve to live his life in honor of commander Royce, Uhtred excelled in his class. Once Flint learned Uhtred had joined, he requested Uhtred be his personal bodyguard, a position that had long remained empty. Uhtred spent his nights in the barracks of Castleward. He continued to  regularly visit Commander Royce and would use most of his money to finance the Weeping Anvil once Killroy was let out of the hospital.
 
 Joining the Guard:
 
-Uhtred was resolved to join the guard. He still could not read. He somehow made it past the entrance exam. Once in Uhtred excelled at all of the physical activities. However, he failed anything that related to reading and writing. One fellow cadet noticed this. This cadet was Sgt Knob's son. Knob' s son had been raised to go to Berganworth. He excelled at all of the book learning in the academy but struggled with all of the physical activities. Uhtred and Knob had been paired up on multiple training events. They both began to help each other. Uhtred helped cadet knob with the physical aspect of the guard and Knob helped uhtred learn to read and write. Uhtred can now read very simple things. Its enough to get him to start passing the exams.
+Uhtred was resolved to join the guard. He still could not read. He somehow made it past the entrance exam. Once in Uhtred excelled at all of the physical activities. However, he failed anything that related to reading and writing. One fellow cadet noticed this. This cadet was Sgt Knob's son. Knob' s son had been raised to go to Byrgenwerth. He excelled at all of the book learning in the academy but struggled with all of the physical activities. Uhtred and Knob had been paired up on multiple training events. They both began to help each other. Uhtred helped cadet knob with the physical aspect of the guard and Knob helped uhtred learn to read and write. Uhtred can now read very simple things. Its enough to get him to start passing the exams.
 
 Eight months after Helena's death:
 

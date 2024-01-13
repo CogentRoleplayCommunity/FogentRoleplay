@@ -10,7 +10,7 @@
 
 ### [Elowyn Lovelace](PC/ElowynLovelace/ElowynLovelace.md)
 
-### [Fanacrio](PC/Fanacrio/Fanacrio.md)
+### [Fanácrio](PC/Fanácrio/Fanácrio.md)
 
 ### [Grimwald Thornhelm](PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
 
