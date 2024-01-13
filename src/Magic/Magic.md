@@ -221,6 +221,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 - [Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
 - [Bewitch](Spells/Novice/Bewitch.md)
 - [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
+- [Disguise Flesh](Spells/Novice/DisguiseFlesh.md)
 - [Fling](Spells/Novice/Fling.md)
 - [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
@@ -241,6 +242,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
+- [Shape Shift](Spells/Apprentice/Shapeshift.md)
 
 ### Adept Spells
 
