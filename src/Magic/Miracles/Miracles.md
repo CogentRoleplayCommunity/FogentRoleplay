@@ -2,14 +2,21 @@
 
 Miracles are the manifestations of a divine entities power on Terra. Those that are devoted to divine entity can barrow a fraction of their gods power for their own use. Miracles consider the laws of nature a mere suggestion.
 
-
-
 When the Bright Lord gave onto the first loyal women of Fellkind his children, the resulting offspring were the first Brightkin of Terra. Brightkin have the ability to use the power of the Bright Lord, known as Miracles. To perform a Miracle, Light is channeled through specific strong emotion or memories to receive a desired effect.
 Miracles require training and practice to use, harnessing one's emotions. Most Brightkin don't devote themselves to mastering Miracles, though they enjoy the benefits of near immortality.
 
 ![Copyright](Miracles.png)
 
 ![Copyright](Miracles2.png)
+
+
+- Magic Name: Miracles
+- Magic Vocation Name: Brightkin
+- Magic Vocation Governing Attributes: STR, RFX, INT
+- Magic Resource Name: Light
+- Cantrip Name: Wonder
+- Governing Core Skill: Will
+- Spell Name: Hymn
 
 ### Light
 

@@ -8,13 +8,13 @@ The monsters of Terra are known for their terrifying speed, strength, and elemen
 
 Due to their monstrous ancestry, Fellkind carries Ichor, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Ichor. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
 
-- Magic Resource: Ichor
-- Magic Vocation: Fellkin
-- Magic Skills: Blazecraft, Mindcraft, Electrocraft, ect...
-- Cantrip: Trick
-- Vocation Attributes: STR, RFX, INT
+- Magic Name: Fellcraft
+- Magic Vocation Name: Fellkin
+- Magic Vocation Governing Attributes: STR, RFX, INT
+- Magic Resource Name: Ichor
+- Cantrip Name: Trick
 - Governing Core Skill: Endurance
-- Spell: Fellweave
+- Spell Name: FellWeave
 
 ### Silverburn
 
