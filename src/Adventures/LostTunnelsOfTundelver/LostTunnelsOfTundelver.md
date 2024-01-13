@@ -363,7 +363,7 @@ Guidelines for NPC Party Members:
 
 ### 7. Twin Pools Cave
 
-This cavern, altered by the Vermkins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. Character's who pay attention to the pools can attempt a CL 3 Perception check to notice a clam under the water, which contains a Pearl (100 bc). 
+This cavern, altered by the Vermkins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. Character's who pay attention to the pools can attempt a CL 3 Perception check to notice a clam under the water, which contains a Pearl (100 bc).
 
 An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three Vermkins stand guard. If the Vermkin in area 5 has alerted the Vermkins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one Vermkin hastens to area 8 to warn Thrak.
 
@@ -391,11 +391,17 @@ If the wolf is slain, Thrak attempts to descend the chimney to area 3 and flee t
 
 #### Treasure
 
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company. 
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company.
 
-Additionally, Thrak's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
+Additionally, Thrak's treasure chest holds:
 
-
+| Name                                                    | #   | Class            | Tier      | Durability | LB   | Value |
+| ------------------------------------------------------- | --- | ---------------- | --------- | ---------- | ---- | ----- |
+| Chest (12 ft^3)                                         | 1   | 300 lb container | Mundane   |            | 25   | 5 bc  |
+| Copper Coin                                             | 600 | Misc             | Mundane   |            | 0.02 | 1 cc  |
+| Bronze Coin                                             | 11  | Misc             | Mundane   |            | 0.02 | 1 bc  |
+| Jade statuette of a frog with tiny golden orbs for eyes | 1   | Treasure         | Excellent |            | 1    | 50 bc |
+| Vial of Minor Healing Blood                             | 2   | Misc             | Mundane   |            | 0.25 | 50 bc |
 
 ### What Comes Next?
 
