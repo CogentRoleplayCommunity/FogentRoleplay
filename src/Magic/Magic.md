@@ -237,6 +237,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 ### Apprentice Spells
 
+- [Blood Buffing](Spells/Apprentice/BloodBuffing.md)
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
 - [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)

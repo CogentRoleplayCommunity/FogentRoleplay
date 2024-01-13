@@ -8,19 +8,6 @@ Hemacraft users can narratively attempt the following:
 - Absorb Fellblood from living hosts
 - Blood Sense (Heartbeats) to assist Perception Checks
 
-#### Blood Buffing
-
-When a character attempts a Blood Buff, they make a Hemacraft Roll. Depending on the wins achieved, the user gains that benefit associated with that CL and all the benefits below. If the user attempts to perform another transformation, they must drop their transformed state.
-
-| Effect                                                                | Challenge Level | Duration |
-| --------------------------------------------------------------------- | --------------- | -------- |
-| Dark Vision                                                           | 1               | 24 hr    |
-| Minor Healing Factor                                                  | 2               | 24 hr    |
-| +1 to 1 skill                                                         | 3               | 1 hr     |
-| +1 STR or RFX                                                         | 4               | 1 hr     |
-| +1 to 2 Physical core skill                                           | 5               | 1 hr     |
-| +1 STR or RFX or INT(cannot take the same attribute from CL 4 effect) | 6               | 1 hr     |
-
 #### Healing Hemacraft
 
 When a character attempts a Hemacraft heal, they make a Polycraft Roll (this can be done while in a transformation). Depending on the wins achieved, the user gains one of the following effects.

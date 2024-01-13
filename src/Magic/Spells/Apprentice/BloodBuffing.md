@@ -1,6 +1,6 @@
-# Bodily Transformation
+# Blood Buffing
 
-When a character attempts a transformation, they make a Bodily Magic Roll. Depending on the wins achieved, the user can gain benefits associated with that CL and all the benefits below. For every effect they must pay the associated Fellblood cost.
+Depending on the wins achieved, the user can this is cast on gains benefits associated with that CL and all the benefits below. For every effect they must pay the associated Fellblood cost.
 
 | Effect                                                          | Challenge Level | Fellblood |
 | --------------------------------------------------------------- | --------------- | --------- |
@@ -13,7 +13,7 @@ When a character attempts a transformation, they make a Bodily Magic Roll. Depen
 
 **Duration:** Concentration, 1 hour
 
-**Range:** Self
+**Range:** Melee
 
 **Engageable Opponents:** Focused
 
@@ -25,4 +25,4 @@ When a character attempts a transformation, they make a Bodily Magic Roll. Depen
 
 **Magic skills required:**
 
-- Bodily magic (level 1)
+- Hemacraft magic (level 1)
