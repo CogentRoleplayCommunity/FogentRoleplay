@@ -10,20 +10,15 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 | Gold Coin     | 1   | Misc | Mundane |     | 0.02 | 1 gc |
 | Platinum Coin | 1   | Misc | Mundane |     | 0.02 | 1 pc |
 
-**Fallen to DnD exchange Rate:**
+### Conversion between Currency
 
-| Fallen Currency  | DnD 5e Currency     |
-| ---------------- | ------------------- |
-| 1 copper coin    | 1 copper piece      |
-| 10 copper coins  | 1 silver piece      |
-| 100 copper coins | 1 gold piece        |
-| 1 bronze coin    | 1 gold piece        |
-| 100 bronze coins | 1 platinum piece    |
-| 1 gold coin      | 1 platinum piece    |
-| 1 gold coin      | 1 platinum piece    |
-| 1 platinum coin  | 100 platinum pieces |
+| Coin   | Equivlent value |
+| ------ | --------------- |
+| 100 cc | 1 bc            |
+| 100 bc | 1 gc            |
+| 100 gc | 1 pc            |
 
-## Out of Game Downtime Bartering Rules
+### Out of Game Downtime Bartering Rules
 
 Fallen uses a handy item catalog formatted the same as your characters inventories to make buying, selling, and looting as easy as copying and pasting.
 
@@ -291,52 +286,52 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/GeneralStore.png) General Store
 
-| Name                           | #   | Type                | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| ------------------------------ | --- | ------------------- | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
-| Abacus                         | 1   | Misc                | Mundane |            | 2      | 2 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Barrel                         | 1   | Misc                | Mundane |            | 70     | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Blanket                        | 1   | Misc                | Mundane |            | 3      | 50 cc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Bottle, glass                  | 1   | Misc                | Mundane |            | 2      | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Bucket                         | 1   | Misc                | Mundane |            | 2      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Candle                         | 1   | Misc                | Mundane |            | 0.1    | 1 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Chest (12 ft^3)                | 1   | 300 lb container    | Mundane |            | 25     | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Clothes, Common                | 1   | Misc                | Mundane |            | 3      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Clothes, Fine                  | 1   | Misc                | Mundane |            | 6      | 15 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Flask or Tankard               | 1   | Misc                | Mundane |            | 1      | 2 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Ink (1 ounce bottle)           | 1   | Misc                | Mundane |            | 0.1    | 10 bc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Ink Pen (Fountain)             | 1   | Misc                | Mundane |            | 0.05   | 3 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Journal, Soft Bound, 25 Sheets | 1   | Misc                | Mundane |            | 1      | 7 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Jug or PitcherJug or Pitcher   | 1   | Misc                | Mundane |            | 4      | 2 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Ladder (10-foot)               | 1   | Misc                | Mundane |            | 25     | 10 cc | FALSE         | TRUE         | TRUE         | TRUE           |
-| String (10 feet)               | 1   | Misc                | Mundane |            | 0      | 1 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Lantern, Hooded                | 1   | Misc                | Mundane |            | 2      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Lamp                           | 1   | Misc                | Mundane |            | 1      | 50 cc | FALSE         | TRUE         | TRUE         | TRUE           |
-| Lock                           | 1   | Misc                | Mundane |            | 1      | 10 bc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Mess Kit                       | 1   | Misc                | Mundane |            | 1      | 20 cc | FALSE         | TRUE         | TRUE         | TRUE           |
-| Mirror, Steel                  | 1   | Misc                | Mundane |            | 0.5    | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Paper (one sheet)              | 1   | Misc                | Mundane |            | 0      | 20 cc | FALSE         | FALSE        | TRUE         | TRUE           |
-| Parchment (one sheet)          | 1   | Misc                | Mundane |            | 0      | 10 cc | TRUE          | TRUE         | TRUE         | TRUE           |
-| Pick, Miner's                  | 1   | Large Hafted Point  | Mundane | 12/12      | 10     | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Pot, Iron                      | 1   | Misc                | Mundane |            | 10     | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Pouch (1/5 ft^3)               | 1   | 6 lb container      | Mundane |            | 1      | 50 cc | FALSE         | TRUE         | TRUE         | TRUE           |
-| Rope, Hempen (50 feet)         | 1   | Misc                | Mundane |            | 10     | 1 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Rope, Silk (50 feet)           | 1   | Misc                | Mundane |            | 5      | 10 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Sack                           | 1   | Misc                | Mundane |            | 0.5    | 1 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Scale, Merchant's              | 1   | Misc                | Mundane |            | 3      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Shovel                         | 1   | Medium Hafted Blunt | Shoddy  | 9/9        | 5      | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Signet Ring                    | 1   | Misc                | Mundane |            | 0.2    | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Soap                           | 1   | Misc                | Mundane |            | 0.5    | 2 cc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Vial                           | 1   | Misc                | Mundane |            | 0.1    | 1 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Carpenter's Tools              | 1   | Misc                | Mundane |            | 6      | 6 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Cobbler's Tools                | 1   | Misc                | Mundane |            | 5      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Cook's Utensils                | 1   | Misc                | Mundane |            | 8      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Glassblower's Tools            | 1   | Misc                | Mundane |            | 7      | 30 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leatherworker's Tools          | 1   | Misc                | Mundane |            | 10     | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
-| Mason's Tools                  | 1   | Misc                | Mundane |            | 8      | 7 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Potter's Tools                 | 1   | Misc                | Mundane |            | 3      | 10 bc | FALSE         | TRUE         | TRUE         | TRUE           |
-| Smith's Tools                  | 1   | Misc                | Mundane |            | 8      | 20 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Weaver's Tools                 | 1   | Misc                | Mundane |            | 5      | 1 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
-| Woodcarver's Tools             | 1   | Misc                | Mundane |            | 5      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Name                           | #   | Type               | Tier    | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| ------------------------------ | --- | ------------------ | ------- | ---------- | ------ | ----- | ------------- | ------------ | ------------ | -------------- |
+| Abacus                         | 1   | Misc               | Mundane |            | 2      | 2 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Barrel                         | 1   | Misc               | Mundane |            | 70     | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Blanket                        | 1   | Misc               | Mundane |            | 3      | 50 cc | TRUE          | TRUE         | TRUE         | TRUE           |
+| Bottle, glass                  | 1   | Misc               | Mundane |            | 2      | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Bucket                         | 1   | Misc               | Mundane |            | 2      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Candle                         | 1   | Misc               | Mundane |            | 0.1    | 1 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Chest (12 ft^3)                | 1   | 300 lb container   | Mundane |            | 25     | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Clothes, Common                | 1   | Misc               | Mundane |            | 3      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Clothes, Fine                  | 1   | Misc               | Mundane |            | 6      | 15 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Flask or Tankard               | 1   | Misc               | Mundane |            | 1      | 2 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Ink (1 ounce bottle)           | 1   | Misc               | Mundane |            | 0.1    | 10 bc | TRUE          | TRUE         | TRUE         | TRUE           |
+| Ink Pen (Fountain)             | 1   | Misc               | Mundane |            | 0.05   | 3 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Journal, Soft Bound, 25 Sheets | 1   | Misc               | Mundane |            | 1      | 7 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Jug or PitcherJug or Pitcher   | 1   | Misc               | Mundane |            | 4      | 2 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Ladder (10-foot)               | 1   | Misc               | Mundane |            | 25     | 10 cc | FALSE         | TRUE         | TRUE         | TRUE           |
+| String (10 feet)               | 1   | Misc               | Mundane |            | 0      | 1 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Lantern, Hooded                | 1   | Misc               | Mundane |            | 2      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Lamp                           | 1   | Misc               | Mundane |            | 1      | 50 cc | FALSE         | TRUE         | TRUE         | TRUE           |
+| Lock                           | 1   | Misc               | Mundane |            | 1      | 10 bc | FALSE         | FALSE        | TRUE         | TRUE           |
+| Mess Kit                       | 1   | Misc               | Mundane |            | 1      | 20 cc | FALSE         | TRUE         | TRUE         | TRUE           |
+| Mirror, Steel                  | 1   | Misc               | Mundane |            | 0.5    | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Paper (one sheet)              | 1   | Misc               | Mundane |            | 0      | 20 cc | FALSE         | FALSE        | TRUE         | TRUE           |
+| Parchment (one sheet)          | 1   | Misc               | Mundane |            | 0      | 10 cc | TRUE          | TRUE         | TRUE         | TRUE           |
+| Pick, Miner's                  | 1   | Large Hafted Point | Mundane | 12/12      | 10     | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Pot, Iron                      | 1   | Misc               | Mundane |            | 10     | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Pouch (1/5 ft^3)               | 1   | 6 lb container     | Mundane |            | 1      | 50 cc | FALSE         | TRUE         | TRUE         | TRUE           |
+| Rope, Hempen (50 feet)         | 1   | Misc               | Mundane |            | 10     | 1 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Rope, Silk (50 feet)           | 1   | Misc               | Mundane |            | 5      | 10 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Sack                           | 1   | Misc               | Mundane |            | 0.5    | 1 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Scale, Merchant's              | 1   | Misc               | Mundane |            | 3      | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Shovel                         | 1   | Large Hafted Blunt | Shoddy  | 9/9        | 5      | 2 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Signet Ring                    | 1   | Misc               | Mundane |            | 0.2    | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Soap                           | 1   | Misc               | Mundane |            | 0.5    | 2 cc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Vial                           | 1   | Misc               | Mundane |            | 0.1    | 1 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Carpenter's Tools              | 1   | Misc               | Mundane |            | 6      | 6 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Cobbler's Tools                | 1   | Misc               | Mundane |            | 5      | 5 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Cook's Utensils                | 1   | Misc               | Mundane |            | 8      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Glassblower's Tools            | 1   | Misc               | Mundane |            | 7      | 30 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leatherworker's Tools          | 1   | Misc               | Mundane |            | 10     | 5 bc  | FALSE         | FALSE        | TRUE         | TRUE           |
+| Mason's Tools                  | 1   | Misc               | Mundane |            | 8      | 7 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
+| Potter's Tools                 | 1   | Misc               | Mundane |            | 3      | 10 bc | FALSE         | TRUE         | TRUE         | TRUE           |
+| Smith's Tools                  | 1   | Misc               | Mundane |            | 8      | 20 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Weaver's Tools                 | 1   | Misc               | Mundane |            | 5      | 1 bc  | FALSE         | TRUE         | TRUE         | TRUE           |
+| Woodcarver's Tools             | 1   | Misc               | Mundane |            | 5      | 1 bc  | TRUE          | TRUE         | TRUE         | TRUE           |
 
 ### ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
 
@@ -418,7 +413,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Rope, Hempen (50 feet)              | 1   | Misc                                                            | Mundane |            | 10     | 1 bc    | FALSE         | TRUE         | TRUE         | TRUE           |
 | Rope, Silk (50 feet)                | 1   | Misc                                                            | Mundane |            | 5      | 10 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 | Sack                                | 1   | Misc                                                            | Mundane |            | 0.5    | 1 cc    | TRUE          | TRUE         | TRUE         | TRUE           |
-| Shovel                              | 1   | Medium Hafted Blunt                                             | Shoddy  | 9/9        | 5      | 2 bc    | FALSE         | TRUE         | TRUE         | TRUE           |
+| Shovel                              | 1   | Large Hafted Blunt                                              | Shoddy  | 9/9        | 5      | 2 bc    | FALSE         | TRUE         | TRUE         | TRUE           |
 | Signal Whistle                      | 1   | Misc                                                            | Mundane |            | 0.1    | 5 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
 | Signet Ring                         | 1   | Misc                                                            | Mundane |            | 0.2    | 5 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
 | Spy Glass                           | 1   | Misc                                                            | Mundane |            | 0      | 1000 bc | FALSE         | FALSE        | TRUE         | TRUE           |
