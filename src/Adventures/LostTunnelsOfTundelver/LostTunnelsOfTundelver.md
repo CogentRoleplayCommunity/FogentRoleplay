@@ -1,4 +1,4 @@
-## **Overview**
+## **uffOverview**
 
 The "Lost Mine of Tundelver" unfolds across four distinct sections.
 
@@ -157,7 +157,7 @@ In the unlikely event that the Vermkins manage to defeat the adventurers, they w
 
 Characters may decide to capture one or more Vermkins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconscious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured Vermkin regains consciousness and can be convinced to share what it knows (see "What the Vermkins Know" sidebar). Additionally, the party can persuade the captured Vermkin to lead them to the Mountainmaw hideout while avoiding traps (see "Vermkin Trail" section).
 
-If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Beastshield Coster for more information on the Feralkin attacks.
+If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Tigershield Coster for more information on the Feralkin attacks.
 
 ```
 Resting:
@@ -379,7 +379,7 @@ To the south end of this expansive cave, sacks and crates brimming with pilfered
 
 **Natural Chimney.** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
 
-**Supplies.** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Beastshield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
+**Supplies.** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Tigershield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
 
 #### **Developments**
 
@@ -391,7 +391,7 @@ If the wolf is slain, Thrak attempts to descend the chimney to area 3 and flee t
 
 #### Treasure
 
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company.
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Tigershield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company.
 
 Additionally, Thrak's treasure chest holds:
 
@@ -461,7 +461,7 @@ Among the places the characters should consider visiting are:
 
 **Barton's Provisions.** If the characters bear the wagonload of supplies from the "Meet Me in Tuntin" adventure hook, they are directed to deliver it to this establishment.
 
-**Beastshield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
+**Tigershield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
 
 **Bedrock Inn.** If Ulfric Warwinter accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Bedrock Inn offers the best available options.
 
@@ -555,17 +555,17 @@ Levi expresses concern regarding the Lavender Lancers and yearns for a group of 
 
 For characters who engage with the Lavender Lancers and explore Old Mole Well, Levi Gemwerth privately approaches certain members of the group, urging them to consider joining the Brotherhood of Silver. He targets those who align with the Brotherhood's values of honor, vigilance, and the extermination of monsters. If a character accepts, Levi bestows the title of initiate upon them.
 
-### Beastshield Coster
+### Tigershield Coster
 
 ```
-A wooden shield bearing a painted blue lion emblem hangs above the entrance of this unpretentious trading post.
+A wooden shield bearing a painted red tiger emblem hangs above the entrance of this unpretentious trading post.
 ```
 
-This establishment belongs to the Beastshield's, a merchant company headquartered in Yartar, over one hundred miles to the east. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Beastshield caravan, destined for Tuntin, was waylaid and its cargo captured by Mountainmaw Vermkins.
+This establishment belongs to the Tigershield's, a merchant company headquartered in Oasis, on the other side of the Continent. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Tigershield caravan, destined for Tuntin, was waylaid and its cargo captured by Mountainmaw Vermkins.
 
-The head of the Tuntin post is Linett Graygale, a sharp-tongued mudblood woman in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
+The head of the Tuntin post is Linett Graygale, a sharp-tongued gray Leodelphian felinekin in her mid-thirties. Linett is aware of the banditry affecting Tigershield caravans but remains uncertain about the responsible parties.
 
-In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Napping Giant tap house.
+In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. This shop is a rural [Armory](./../../Items/ItemShop.md#armory), [Weaponsmith](./../../Items/ItemShop.md#weaponsmith), and [Adventuring Supplies](./../../Items/ItemShop.md#adventuring-supplies) store. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Napping Giant tap house.
 
 **Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Mountainmaw hideout (or if they left the goods but revealed their whereabouts), Linett rewards them with 50 bc and pledges her assistance to the adventurers in any way possible.
 
