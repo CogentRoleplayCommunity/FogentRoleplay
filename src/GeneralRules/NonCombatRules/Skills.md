@@ -67,9 +67,9 @@ Represented by a historian, bookworm, or detective. General Knowledge is the art
 
 Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments, it can even cover "gut feelings" or intuition. It covers scavenging for food, basic first aid as well as finding safe places to rest, lighting fires, and tracking. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. It might also give you a gut feeling when a criminal deal turns out to be a ambush. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
 
-#### Willpower
+#### Will
 
-Measures a character's mental and spiritual control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, willpower also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
+Measures a character's mental and spiritual control, exerted to do something or restrain impulses. This could be to do something gross but necessary, resist being verbally, mentally, or spiritually manipulated/attacked, resist being seduced and hold your cool in a scary situation. In setting with super natural, will also effects your ability to force oneself to see what is actually beyond the mere mundane where the mind is generally most comfortable.
 
 ## Skill Specialty
 

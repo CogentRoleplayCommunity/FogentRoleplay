@@ -11,7 +11,7 @@ DnD ability score to Fallen attribute:
 - Strength and Constitution average -> STR
 - Dexterity -> RFX
 - Intelligence -> INT
-- Wisdom -> Willpower
+- Wisdom -> Will
 - Charisma -> Communication
 
 Skill conversion:

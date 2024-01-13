@@ -6,7 +6,7 @@ This document provides generalized rules for magic system mechanics built to int
 - Magic Vocation = Fellkin/Brightkin/Runesmith
 - Magic Resource = Ichor/Light/Focus
 - Cantrip = Trick/Wonder/Sign
-- Governing Core Skill = Endurance/Communication/Willpower
+- Governing Core Skill = Endurance/Communication/Will
 - Spell = Fellweave/DivineTale/CompoundRune
 
 ## Fallen Magic Systems
@@ -105,7 +105,7 @@ Another avenue to explore are magic how these magics could be combined.
 A governing core skill is used for instances when a character over exerts themselves with their magic too far, is trying to rapidly regain Magic Resource, or maintain a concentration on already cast magic.
 
 * Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
-* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Willpower as their governing core skill.
+* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Will as their governing core skill.
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together.
 * Magic that relies upon ones connection with nature could use Survival.
 

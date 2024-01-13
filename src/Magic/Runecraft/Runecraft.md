@@ -17,7 +17,7 @@ Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged ite
 - Magic Skills: Fire Rune, Shadow Rune, Oil Spill Rune
 - Cantrip: Sign
 - Vocation Attributes: INT
-- Governing Core Skill: Willpower
+- Governing Core Skill: Will
 
 ## Crafting a Rune
 

@@ -9,7 +9,7 @@
 | Athletics |   0   |  3d6  | Acrobatics      |   0   |  3d6  | Communication     |   2   |  7d6  |
 | Climb     |   0   |  3d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  7d6  |
 | Endurance |   1   |  4d6  | Sleight of Hand |   0   |  3d6  | Survival          |   1   |  6d6  |
-| Lift      |   0   |  3d6  | Stealth         |   0   |  3d6  | Willpower         |  -1   |  4d6  |
+| Lift      |   0   |  3d6  | Stealth         |   0   |  3d6  | Will         |  -1   |  4d6  |
 
 ## Vocations and Vocational Skills
 
@@ -123,7 +123,7 @@ The war is at a standstill, building up reserves at the Crimson Hills. Reddland 
 Why do you live here in such an awful territory for kikki? I am aiding those who have brought me life. I have loyalty, unlike some kikki who have lost their way.
 Mercenary is over his head, bound by his master. Deep-speak to unlock the collar.
 Cult of amon meeting place
-If a humanoid/monster who does not have Kikimora blood wields the Mask of Ah-lat, the wielder must make a level 5 willpower check. If failed, the mask breaks into their mind, dealing a level 3 mental injury. If the wielder failed the first willpower check, they then must make another level 5 willpower check. If they fail, the mask severs the bonds holding their mind together, leaving them a husk of what they were. Finally, the mask dominates the wielder’s body . The mask breaks, tears, and rearranges the wielder's body, to form that of a kikimora worker.
+If a humanoid/monster who does not have Kikimora blood wields the Mask of Ah-lat, the wielder must make a level 5 will check. If failed, the mask breaks into their mind, dealing a level 3 mental injury. If the wielder failed the first will check, they then must make another level 5 will check. If they fail, the mask severs the bonds holding their mind together, leaving them a husk of what they were. Finally, the mask dominates the wielder’s body . The mask breaks, tears, and rearranges the wielder's body, to form that of a kikimora worker.
 
 Fanácrio needs to keep the group together. A tactical advantage to keep a bigger group then lose people. Frame everything, as the group.
 

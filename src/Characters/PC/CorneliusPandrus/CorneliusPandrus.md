@@ -9,7 +9,7 @@
 | Athletics |   0   |  2d6  | Acrobatics      |   0   |  3d6  | Communication     |   0   |  4d6  |
 | Climb     |   0   |  2d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  6d6  |
 | Endurance |   0   |  2d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  4d6  |
-| Lift      |   0   |  2d6  | Stealth         |   0   |  3d6  | Willpower         |   2   |  6d6  |
+| Lift      |   0   |  2d6  | Stealth         |   0   |  3d6  | Will         |   2   |  6d6  |
 
 ## Vocations and Vocational Skills
 
