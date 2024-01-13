@@ -141,7 +141,7 @@ Session 33&34
 The party left tuntin and Luc joined them, they tried to help the suffering people there
 The party has been traveling and talking to the masked man, winter fast approaches and they are no closer to finding Vex.
 The party is lost in a forest in the middle of a winter storm, they are hungry and freezing to death
-They encounter werewolves and Finacrio and Sirius almost die.
+They encounter werewolves and Fanácrio and Sirius almost die.
 
 Session 35:
 The party made it away from the werewolves and continued to trek the frozen tundra injured and broken.

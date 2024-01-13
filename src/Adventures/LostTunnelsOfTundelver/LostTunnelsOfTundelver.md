@@ -659,7 +659,7 @@ Each character is awarded a skill point upon their successful defeat of the ruff
 >
 > However, if the players express a preference for pursuing alternative leads in the region, it's acceptable to proceed to part 3 of the adventure and allow the ruffians to remain a pending matter. Upon the characters' return to Tuntin, ensure it's evident that the Lavender Lancers are creating escalating issues, underscoring the urgency of dealing with them.
 
-## Lavendar Lancer Hideout
+## Lavender Lancer Hideout
 
 The Lavender Lancers' headquarters in Tuntin occupies an underground complex beneath the now-dilapidated Tresendar Manor. Originally, the manor's cellars were designed for the safe storage of provisions, including food and water, in case the estate came under attack. Adjacent to the cellars was a crypt intended for interring deceased members of the Tresendar family. The Lavender Lancers, however, have substantially expanded the cellars to serve their own needs, modifying them to accommodate slave pens, workshops, and barracks. Should the characters initiate their search from Tresendar Manor, their entry point into the dungeon is in area 1. Alternatively, if they opt to follow Carp Alderleaf through the secret tunnel he discovered, they gain access to the dungeon via area 8.
 

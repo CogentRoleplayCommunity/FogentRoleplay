@@ -1,6 +1,6 @@
 # Lavender Lancer Ruffian
 
-![alt_text](LavendarLancerRuffian.png)
+![alt_text](LavenderLancerRuffian.png)
 
 ## Attributes and Core Skills
 

@@ -54,7 +54,7 @@
 
 ### [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
 
-### [Vex&#39;halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
+### [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 
@@ -70,7 +70,7 @@
 
 ### [Knight](Humanoids/Knight/Knight.md)
 
-### [Lavendar Lancer Ruffian](Enemies/LavendarLancerRuffian/LavendarLancerRuffian.md)
+### [Lavender Lancer Ruffian](Enemies/LavenderLancerRuffian/LavenderLancerRuffian.md)
 
 ## Monsters
 
