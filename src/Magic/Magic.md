@@ -1,15 +1,18 @@
 # Magic
 
-This document provides generalized rules for magic system mechanics built to integrate with Cogent Roleplay. Once understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor. If you are playing Fallen, you will probably just use the pre-made magic systems. But if you were wanting to make your own magic system for your own world, the generalized magic system mechanics are a great scaffolding.
+This document provides generalized framework for magic system mechanics for any setting. Whether it be the Force, Bending from Avatar, Cyberpunk technomancy, or tradional fantasy magic, this systems should easily accomidate. All magic systems built using this require the following pieces of information to be determined.
 
-- Magic Name = Fellcraft/Miracles/Runecraft
-- Magic Vocation = Fellkin/Brightkin/Runesmith
-- Magic Resource = Ichor/Light/Focus
-- Cantrip = Trick/Wonder/Sign
-- Governing Core Skill = Endurance/Communication/Will
-- Spell = Fellweave/DivineTale/CompoundRune
+- Magic Name
+- Magic Vocation Name
+- Magic Vocation Governing Attributes
+- Magic Resource Name
+- Cantrip Name
+- Governing Core Skill
+- Spell Name
 
 ## Fallen Magic Systems
+
+Fallen's pre-made magic systems are great examples of how to make your own system on this framework. Once the framework is understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor.
 
 ### [Fellcraft](Fellcraft/Fellcraft.md)
 
@@ -17,11 +20,13 @@ This document provides generalized rules for magic system mechanics built to int
 
 ### [Runecraft](Runecraft/Runecraft.md)
 
-## Magic Skill Levels
+## Unlocking Magic
 
-### Level -1: Incompetent (Party Trick)
+You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompetent).
 
-Requires an investment of 0 skill point to unlock. Generally acquired through narrative means. Examples include:
+### Party Trick Tier (Level -1: Incompetent)
+
+Requires an investment of 0 skill point to unlock. Generally acquired during character creatioin or through narrative means. Examples include:
 
 * A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
@@ -30,30 +35,6 @@ Requires an investment of 0 skill point to unlock. Generally acquired through na
 * A part of nature foreign to your place of origin. (Druid)
 
 This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
-
-### Level 0: Novice
-
-Representing an inexperienced level of skill.
-
-### Level 1: Apprentice
-
-Representing a level of skill where the basics have been learned.
-
-### Level 2: Adept
-
-Skill level where the basics have been fully understood and the more advanced concepts are being learned.
-
-### Level 3: Expert
-
-Skill level where advanced concepts have been fully understood and master level concepts are beginning to be introduced.
-
-### Level 4: Master
-
-Skill level where a master level of proficiency has been achieved.
-
-## Unlocking Magic
-
-You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompetent).
 
 | Magic Vocation Level | Magic Vocational Skills known |
 | -------------------- | ----------------------------- |
@@ -66,9 +47,9 @@ You unlock an amount of Magic Skill depending on your Magic Vocation level. All 
 
 ## Magic Skills
 
-These magic skills represent every generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
+These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
 
-If you are making a magic system, these will probably have different names in your system. For instance, in Fellcraft, the Heat magic skill is called Blazecraft. Your system might even leave out some of these magic skills to fine tune it for only specific uses. Lastly, this is not an exhaustive list, feel free to add your own. Happy casting. :)
+If you are making a magic system, these will probably have different names in your system. This is not an exhaustive list, feel free to add your own.
 
 - Bodily Magic (Flesh, Web, Bone, ect...)
 - Heat Magic
@@ -106,8 +87,22 @@ A governing core skill is used for instances when a character over exerts themse
 
 * Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
 * Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Will as their governing core skill.
+* Magic that relies upon a belief in a divine higher power might use Will as their governing core skill.
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together.
 * Magic that relies upon ones connection with nature could use Survival.
+
+### Magic Concentration
+
+Certain magic demand your concentration to keep their effects active. If you lose this concentration, the spell's magic ends.
+
+If a spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
+
+Regular activities, like moving or attacking, don't disturb your concentration. However, the following factors can disrupt your concentration:
+
+* Casting another spell that requires concentration. If you cast a spell that needs concentration while you're focusing on a different spell, you lose concentration on the first spell. You can't concentrate on two spells simultaneously.
+* Suffering damage. If you take damage while focusing on a spell, you must make a governing core skill roll to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
+* Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
+* The Narrator might also decide that certain environmental phenomena, such as a wave washing over you while you're on a storm-tossed ship, require you to succeed on a Challenge level 2 governing core skill check.
 
 ## Magic Resource
 
@@ -122,7 +117,7 @@ Depending on your magic system, maintaining one's physical health can restore Ma
 
 #### Short Resting
 
-A short rest takes roughly 1 hour does nothing demanding. Durning this time they can tend to wounds, eat, drink, or relax.
+A short rest takes roughly 1 hour where the character does nothing demanding. Durning this time they can tend to wounds, eat, drink, or relax.
 
 Once per day, characters can regain Magic Resource equal to the wins from their Governing Core Skill roll (remember you can assist with your Magic Vocation).
 
@@ -132,20 +127,7 @@ This can be done by maintaining adequate nutrition, hydration, sleep, and stress
 
 ### Absorbing Magic Resource
 
-Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Magic Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
-
-## Magic Concentration
-
-Certain magic demand your concentration to keep their effects active. If you lose this concentration, the spell's magic ends.
-
-If a spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
-
-Regular activities, like moving or attacking, don't disturb your concentration. However, the following factors can disrupt your concentration:
-
-* Casting another spell that requires concentration. If you cast a spell that needs concentration while you're focusing on a different spell, you lose concentration on the first spell. You can't concentrate on two spells simultaneously.
-* Suffering damage. If you take damage while focusing on a spell, you must make a governing core skill roll to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
-* Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
-* The Narrator might also decide that certain environmental phenomena, such as a wave washing over you while you're on a storm-tossed ship, require you to succeed on a Challenge level 2 governing core skill check.
+Depending on your magic system, Magic users can absorb and feed on an ample source of primal elements/magic/power to regain Magic Resource using a Magic skill. This ability can be used once per day for each Magic Vocation point, resetting on long rests. The magic skill used dictates how much Magic Resource is regained determined by your skill level. If negative or zero, none is regained. Absorbing or meditating near a large source of the elements/magic/power are acceptable. Flavor and creativity are encouraged.
 
 ## Magic Conduit
 
@@ -157,29 +139,29 @@ Example Conduit:
 | ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
 | Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           | 0                     |                                   | None                      | None                | None                | Blazecraft                 |
 
-One Handed: Dice bonus given by wielding the conduit in one hand.
+- One Handed: Dice bonus given by wielding the conduit in one hand.
 
-Two Handed: Dice Bonus given by wielding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
+- Two Handed: Dice Bonus given by wielding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
 
-Dual Wielded: Dice bonus given when wielding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual wielding fire magic wands.
+- Dual Wielded: Dice bonus given when wielding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual wielding fire magic wands.
 
-Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
+- Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
 
-Range Adjustment: Increase or decrease range calculation for magic skill (see Magic Range Adjustment below).
+- Range Adjustment: Increase or decrease range calculation for magic skill (see Magic Range Adjustment below).
 
-Additional Damage Types: Extra damage types to be added onto combat rolls made with this conduit.
+- Additional Damage Types: Extra damage types to be added onto combat rolls made with this conduit.
 
-Engageable Opponents: Changes engageable opponent type when making a combat roll. This could be a fast shooting wand or a slow shooting staff that pacts a large wallop.
+- Engageable Opponents: Changes engageable opponent type when making a combat roll. This could be a fast shooting wand or a slow shooting staff that pacts a large wallop.
 
-Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
+- Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
 
-Resource Class: Additional resource consumed by the conduit when used.
+- Resource Class: Additional resource consumed by the conduit when used.
 
-Effected Magic Skills: Which Magic skill the conduit can be used with.
+- Effected Magic Skills: Which Magic skill the conduit can be used with.
 
 ## Magic Roll
 
-This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user's Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Resource consumed.
+This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user's Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Magic Resource consumed.
 
 - Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level) + Xd6 (Conduit Dice Modification)
 
@@ -236,12 +218,12 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 
 ### Novice Spells
 
-- [Babel's Clarity](Spells/Novice/Babel'sClarity.md)
+- [Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
 - [Bewitch](Spells/Novice/Bewitch.md)
 - [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
 - [Fling](Spells/Novice/Fling.md)
-- [Hellfire's Retribution](Spells/Novice/Hellfire'sRetribution.md)
-- [Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+- [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
+- [Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
 - [Leap](Spells/Novice/Leap.md)
 - [Melee Magic](Spells/Novice/MeleeMagic.md)
 - [Mind Reading](Spells/Novice/MindReading.md)
@@ -253,11 +235,13 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 - [Slow Fall](Spells/Novice/SlowFall.md)
 
 ### Apprentice Spells
+
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
 
 ### Adept Spells
+
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 ### Expert Spells
