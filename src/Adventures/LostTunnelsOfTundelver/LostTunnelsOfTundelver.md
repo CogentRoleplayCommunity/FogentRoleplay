@@ -24,7 +24,7 @@ She has a Doppler ally named Monteith, who acts as his mistresses butler and per
 
 ## **THE FORGOTTEN REALMS**
 
-Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerer's to a post-apocalyptic fantasy realm inhabited by elves and dwarves who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, dhampir cities, molekin mines, and formidable monsters.
+Much like a setting in a fantasy novel or movie, an adventure unfolds within a larger world, limited only by the imagination of the Narrator and the players. The setting can range from a primitive swords-and-sorcery world where barbarians clash with malevolent sorcerer's to a post-apocalyptic fantasy realm inhabited by elves and molekin who wield magic among the ruins of a technologically advanced civilization. Most D&D settings typically fall somewhere between these two extremes, portraying medieval high fantasy worlds featuring knights, castles, dhampir cities, molekin mines, and formidable monsters.
 
 The adventure detailed here unfolds in the world of the Forgotten Realms, a prime example of the latter type of setting. In the Realms, knights venture into the crypts of the long-fallen molekin kings of Delzoun in search of glory and treasure. Rogues navigate the dimly lit alleyways of bustling cities like Reddwall and Baldur's Gate. Clerics, devout servants of the gods, wield both mace and spell to combat the ominous threats that plague the land. Wizards delve into the ruins of the collapsed Netherese empire, exploring secrets that exist in the shadows. Within dungeons, caverns, ancient cities, and vast untamed wilderness, dragons, giants, demons, and other horrifying monstrosities lie in
 
@@ -431,9 +431,9 @@ And all the while, underground, in that deep dark place a creature with a single
 
 # **Part 2: Tuntin**
 
-Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling mudblood town, firmly allied with the dwarves and gnomes of the Tundelver's Pact. However, the same horde of marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
+Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling mudblood town, firmly allied with the molekin and gnomes of the Tundelver's Pact. However, the same horde of ogrekin marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
 
-Over the past three or four years, resilient settlers from the cities of Reddwall and Waterdeep embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Sword Mountains.
+Over the past three or four years, resilient settlers from the cities of Reddwall and Emerald Falls embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Spine of the World Mountains.
 
 Regrettably, the lack of a local lord or authority to maintain order has also drawn its share of bandits and brigands. For the past two months, a gang known as the Lavender Lancers has held sway over Tuntin, intimidating and coercing the town's populace. The gang's enigmatic leader is a figure known to the townsfolk as Glassmith.
 
@@ -944,7 +944,7 @@ If the characters opt to leave the rat unharmed, it will follow them around as i
 
 **Books and Notes.** Within the room, you'll find books and notes scattered about, as Sylas is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Sylas's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
 
-Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and dwarves from Tundelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
+Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with gnomes and molekin from Tundelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
 
 #### Developments
 
@@ -986,7 +986,7 @@ If questioned while in captivity, Sylas provides the following information, all 
 
 * The Black Spider is a spiderkin.
 * The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Lavender Lancers have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
-* The Black Spider is searching Tide Echo Cavern for the Forge of Runes. Dwarves and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
+* The Black Spider is searching Tide Echo Cavern for the Forge of Runes. molekin and gnomes of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
 ### Develoments
@@ -996,7 +996,7 @@ In terms of developments, various papers and notes are neatly stacked on the des
 ```
 Lord Alabaster,
 
-Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the dwarves. If possible, apprehend them. If necessary, eliminnate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
+Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the molekin. If possible, apprehend them. If necessary, eliminnate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
 ```
 
 In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Sylas faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
@@ -1027,7 +1027,7 @@ Each of these potential quests corresponds to a section in this phase of the adv
 
 ## Trident Trail
 
-Tuntin is located in a region known as "the Trident Trail," "the Triboar Cutoff," or "the Cony Gap." This expanse of foothills and rolling, sparsely wooded plains lies between the Sword Mountains to the south and Highmount Wood to the north. The name is derived from an ancient trail that extends from the distant town of Triboar to the east, winding westward for about one hundred miles through the abandoned village of Conyberry before heading north of Tuntin and connecting with the Crimson Road along the coast.
+Tuntin is located in a region known as "the Trident Trail," "the Triboar Cutoff," or "the Cony Gap." This expanse of foothills and rolling, sparsely wooded plains lies between the Spine of the World Mountains to the south and Highmount Wood to the north. The name is derived from an ancient trail that extends from the distant town of Triboar to the east, winding westward for about one hundred miles through the abandoned village of Conyberry before heading north of Tuntin and connecting with the Crimson Road along the coast.
 
 Feel free to describe the party's overland journeys as richly as you wish, but ensure the narrative keeps advancing. Statements such as "You travel for several miles and encounter nothing of interest" are far less evocative and memorable compared to more vivid descriptions like, "A light drizzle moistens the rolling plains as you journey north. Around midday, you pause for lunch beneath a solitary tree. There, the rogue discovers a small rock with a grinning visage. Besides this, you observe nothing out of the ordinary."
 
@@ -1416,7 +1416,7 @@ Divide 150 XP equally among the characters if the party successfully defeats or 
 
 ## Wyrm Tor
 
-Wyrm Tor, a prominent landmark in the rugged hills northeast of the Sword Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyrm Tor to the south. In the past, Wyrm Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyrm Tor include a band of ogrekins and their ogre ally.
+Wyrm Tor, a prominent landmark in the rugged hills northeast of the Spine of the World Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyrm Tor to the south. In the past, Wyrm Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyrm Tor include a band of ogrekins and their ogre ally.
 
 The ogrekins are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
 
@@ -1726,7 +1726,7 @@ With the revelation of the location of Tide Echo Cavern, the characters are now 
 
 ## **Part 4: Tide Echo Cavern**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Sword Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminnate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Spine of the World Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminnate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
 
 Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and gnome contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, fogrekining him to proceed with extreme caution.
 
@@ -1768,7 +1768,7 @@ The mine is characterized by its cold, damp atmosphere and surprising drafts. A 
 
 ***Ceilings.*** Tunnels generally feature 10-foot-high ceilings unless otherwise noted. Rooms possess 20-foot-high ceilings, while natural caverns are endowed with 30-foot-high ceilings adorned with stalactites.
 
-***Doors.*** With the exception of specific notes, doors are 6 feet tall, 4 feet wide, and constructed from six-inch-thick stone slabs with iron handles and hinges. These doors are low and wide, ideal for dwarves.
+***Doors.*** With the exception of specific notes, doors are 6 feet tall, 4 feet wide, and constructed from six-inch-thick stone slabs with iron handles and hinges. These doors are low and wide, ideal for molekin.
 
 ***Walls.*** The walls are constructed from hewn stone. In certain areas (14, 15, 19, and 20), they are adorned with well-fitted stone blocks.
 
@@ -1792,7 +1792,7 @@ While Tide Echo Cavern is far from the ocean, a water-filled cavern deep within 
 
 **1. CAVE ENTRANCE**
 
-Whether the characters are following Burrowbard's map or have received directions to Tide Echo Cavern from another source, their initial approach leads them to a narrow tunnel concealed within the Sword Mountain foothills.
+Whether the characters are following Burrowbard's map or have received directions to Tide Echo Cavern from another source, their initial approach leads them to a narrow tunnel concealed within the Spine of the World Mountain foothills.
 
 ```
 The entrance tunnel opens into a large cavern supported by a natural rock pillar and containing three stalagmites. Behind the rock column in the western part of the cave are three bedrolls and an assortment of everyday supplies such as sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other equipment. Amidst these supplies lies the body of a deceased molekin miner, who has been lifeless for at least a week.
@@ -1800,7 +1800,7 @@ The entrance tunnel opens into a large cavern supported by a natural rock pillar
 The northeastern section of the cavern has collapsed, creating a ten-foot-wide, twenty-foot-deep pit. A sturdy hemp rope is tethered around a nearby stalagmite, hanging down the side of the pit. At the pit's base, a rough-hewn tunnel stretches northwest and east.
 ```
 
-This area used to serve as the campsite for the Stoneseeker brothers. The deceased molekin is Tharden, Burrowbard's brother, who was killed by the Black Spider. Burrowbard's other brother, Nundro, was also here and is now a prisoner of the Black Spider in area 20. While the dwarves' supplies may be potentially useful, they aren't particularly valuable.
+This area used to serve as the campsite for the Stoneseeker brothers. The deceased molekin is Tharden, Burrowbard's brother, who was killed by the Black Spider. Burrowbard's other brother, Nundro, was also here and is now a prisoner of the Black Spider in area 20. While the molekin' supplies may be potentially useful, they aren't particularly valuable.
 
 ***Open Pit.*** Climbing up or down the pit's wall without a rope necessitates a successful DC 15 Strength (Athletics) check. A character who fails this check by a margin of 5 or more will fall, taking 1d6 bludgeoning damage per 10 feet fallen and ending up prone at the pit's bottom. The tunnel at the pit's base leads northwest towards area 2 and east towards area 3.
 
@@ -1823,7 +1823,7 @@ These dead-end passages mark areas where the miners abandoned their efforts, opt
 The southern tunnel once served as the original entrance to Tide Echo Cavern but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when ogrekins laid siege to the mines. The fallen still lie where they perished.
 
 ```
-In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and gnome miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of dwarves and others ogrekins, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
+In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and gnome miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of molekin and others ogrekins, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
 ```
 
 Clutching the ceiling like bats are ten stirges. These creatures find little living prey in the mines and are ravenous. If the characters are looking down at the skeletons on the floor, the stirges are likely to catch them by surprise. Characters not watching the ceiling will be surprised, unless their passive Wisdom (Perception) score exceeds the total of the stirges' Dexterity (Stealth) check (roll once for all of them). Characters who avoid surprise will hear a flapping noise as the stirges descend to attack.
@@ -1835,7 +1835,7 @@ The lanterns and carvings of miners at work were originally meant to welcome new
 This chamber once functioned as a guardroom protecting the nearby mine entrance, but it was overrun early in the fighting when the ores launched their attack.
 
 ```
-The room is now filled with shattered stone benches and heaps of rubble from a partially collapsed ceiling. Among the rubble are the bones of several dwarves and ogrekins.
+The room is now filled with shattered stone benches and heaps of rubble from a partially collapsed ceiling. Among the rubble are the bones of several molekin and ogrekins.
 ```
 
 The round after any living creature enters this chamber, the bones begin to stir and reassemble, forming nine skeletons. They will fight until destroyed.
@@ -1857,7 +1857,7 @@ Behind the counter, a securely locked iron strongbox can be found, requiring the
 This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Cavern between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Perception Skill Check to do so.
 
 ```
-Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen dwarves and ogrekins, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
+Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen molekin and ogrekins, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
 ```
 
 Three ghouls from the pack in area 9 are present, cracking and gnawing at the ancient bones in the hopes of finding some remaining morsels of marrow. Eager for a fresh meal, the ghouls attack immediately.
@@ -1889,7 +1889,7 @@ For the most part, the fungi is innocuous. Interestingly, the green-glowing fung
 This expansive chamber once functioned as the miners' communal area, serving as both a banquet hall and meeting place where they'd unwind after a hard day's labor.
 
 ```
-The cavern is divided into three distinct sections: elevated ledges at either end, and a central lower area. Stone stairs are carved into the sides, leading up to the ledges. In the middle section, you'll find two substantial tables accompanied by old braziers. There's a smaller table on the eastern ledge. A somber display of skeletal remains sprawled across the floor bears witness to the intense conflicts that transpired here, involving dwarves, gnomes, ogrekins, and ogres.
+The cavern is divided into three distinct sections: elevated ledges at either end, and a central lower area. Stone stairs are carved into the sides, leading up to the ledges. In the middle section, you'll find two substantial tables accompanied by old braziers. There's a smaller table on the eastern ledge. A somber display of skeletal remains sprawled across the floor bears witness to the intense conflicts that transpired here, involving molekin, gnomes, ogrekins, and ogres.
 ```
 
 In the shadows on the western ledge, seven ghouls hide, vigilant for any light or sound elsewhere in the cave. When alerted, they swiftly descend to engage their prey, their ravenous hunger driving them to battle until they are vanquished.
@@ -1941,12 +1941,12 @@ Similar to area 8, this cavern represents a significant hindrance for Nezznar's 
 ```
 The cavern boasts a massive blast furnace accompanied by a mechanical bellows, powered by a dry waterwheel. The furnace currently stands dormant and devoid of light. The room is filled with piles of coal and carts loaded with unprocessed ore. Two passages extend west and south, while another set of stairs climbs to the east. The dry channel leading out of the cave exits to the north and east.
 
-Numerous lifeless corpses of dwarves and ogrekins, still adorned in tattered armor, are scattered throughout the room. Hovering over them is a skull, enshrouded in an eerie green flame.
+Numerous lifeless corpses of molekin and ogrekins, still adorned in tattered armor, are scattered throughout the room. Hovering over them is a skull, enshrouded in an eerie green flame.
 ```
 
-Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the mudblood runesmith allied with the Tundelver dwarves and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
+Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the mudblood runesmith allied with the Tundelver molekin and gnomes, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
 
-This impressive chamber previously served as the hub of Tide Echo Cavern's mining operation. Here, dwarves smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the dwarves diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
+This impressive chamber previously served as the hub of Tide Echo Cavern's mining operation. Here, molekin smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the molekin diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
 
 ### 13. Starry Cavern
 
@@ -1992,7 +1992,7 @@ Several magically preserved tomes remain on the shelves, primarily historical in
 
 ### Runecraft Forge
 
-In this chamber, the collaboration between the wizards allied with the dwarves and gnomes of Tundelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful DC 15 Strength check. The western double doors have suffered similar damage but stand slightly ajar.
+In this chamber, the collaboration between the wizards allied with the molekin and gnomes of Tundelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful DC 15 Strength check. The western double doors have suffered similar damage but stand slightly ajar.
 
 ```
 This expansive workshop has been marred by the remnants of an ancient spell battle that ravaged the mine. Scogrekinhed worktables occupy two corners of the room, and the plaster has been seared off the stone walls. In the room's center, a stone pedestal cradles a small brazier, from which an eerie green flame dances and crackles. Strangely, the brazier and its pedestal have remained untouched by the destructive fogrekines that swept through this area.
@@ -2036,7 +2036,7 @@ The stream that previously flowed from Area 10 to Area 18 once continued its jou
 This passage barely reaches a height of four feet and is cluttered with rounded boulders and pebbles. In its time, it might have served as a streambed, though no water courses through it today.
 ```
 
-The dwarves diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the ogrekin invasion rocked Tide Echo Cavern, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
+The molekin diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the ogrekin invasion rocked Tide Echo Cavern, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
 
 ### 18. Collapsed Cavern
 
