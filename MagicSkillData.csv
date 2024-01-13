@@ -1,6 +1,6 @@
 desc,damageTypes,rangeAdjustment,meleeCapable,magicResourceClass
-Radiance,Radiant,0,TRUE,Light
-Blessing,Radiant,0,TRUE,Light
+Radiance,Radiant,0,TRUE,Ichor
+Blessing,Radiant,0,TRUE,Ichor
 Polycraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Fellblood
 Blazecraft,Fire,0,TRUE,Fellblood
 Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",0,TRUE,Fellblood
