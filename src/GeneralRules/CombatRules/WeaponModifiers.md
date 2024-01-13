@@ -97,10 +97,10 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 |    Description    | 1-Handed Dice | 2-Handed Dice | Penetration | Range |  Damage  | Engageable Opponents | Off-Hand Dice |  AOE  | Resource | Governing Attributes |
 | :---------------: | :-----------: | :-----------: | :---------: | :---: | :------: | :------------------: | :-----------: | :---: | :------: | :------------------: |
-|  Med. Hafted Axe  |     +1d6      |     +2d6      |      2      | Melee |   Hew    |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
-| Med. Hafted Blade |     +2d6      |     +3d6      |      0      | Melee |  Slash   |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
-| Med. Hafted Point |     +1d6      |     +2d6      |      2      | Melee |  Pierce  |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
-| Med. Hafted Blunt |     +0d6      |     +1d6      |      4      | Melee | Bludgeon |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
+|  Medium Hafted Axe  |     +1d6      |     +2d6      |      2      | Melee |   Hew    |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
+| Medium Hafted Blade |     +2d6      |     +3d6      |      0      | Melee |  Slash   |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
+| Medium Hafted Point |     +1d6      |     +2d6      |      2      | Melee |  Pierce  |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
+| Medium Hafted Blunt |     +0d6      |     +1d6      |      4      | Melee | Bludgeon |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
 
 ### Medium sword
 
@@ -108,8 +108,8 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 |     Description      | 1-Handed Dice | 2-Handed Dice | Penetration | Range | Damage | Engageable Opponents | Off-Hand Dice |  AOE  | Resource | Governing Attributes |
 | :------------------: | :-----------: | :-----------: | :---------: | :---: | :----: | :------------------: | :-----------: | :---: | :------: | :------------------: |
-| Med. Thrusting Sword |     +1d6      |     +2d6      |      2      | Melee | Pierce |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
-| Med. Slashing Sword  |     +2d6      |     +3d6      |      0      | Melee | Slash  |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
+| Medium Thrusting Sword |     +1d6      |     +2d6      |      2      | Melee | Pierce |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
+| Medium Slashing Sword  |     +2d6      |     +3d6      |      0      | Melee | Slash  |        Rapid         |     +1d6      | None  |   None   |     STR,RFX,INT      |
 
 ## Large weapons
 

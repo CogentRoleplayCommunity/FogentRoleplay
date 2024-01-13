@@ -15,7 +15,7 @@
 
 | Brute {STR}       |   1   |  5d6  |
 | ----------------- | :---: | :---: |
-| Med. Hafted {ALL} |   1   |  5d6  |
+| Medium Hafted {ALL} |   1   |  5d6  |
 
 ## Effects:
 

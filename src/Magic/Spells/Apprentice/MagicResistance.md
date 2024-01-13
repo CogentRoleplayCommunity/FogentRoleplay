@@ -7,7 +7,7 @@ Depending on the level in the Magic Skill used, the character gain a resistance.
 |  Magic Skill Level  |        Resistance Type        | Magic Resource Cost |
 | :------------------: | :----------------------------: | :-----------------: |
 | Apprentice (Level 1) | Minor (damage-type) Resistance |          1          |
-|   Adept (Level 2)   | Med. (damage-type) Resistance |          2          |
+|   Adept (Level 2)   | Medium (damage-type) Resistance |          2          |
 |   Expert (Level 3)   | Major (damage-type) Resistance |          3          |
 |   Master (Level 4)   | Extreme (damage-type) Weakness |          4          |
 
