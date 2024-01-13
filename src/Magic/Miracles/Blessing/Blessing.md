@@ -11,9 +11,8 @@ When the user is under the effect of a Blessing they will begin to glow with wis
 
 #### Specialization: Bright's Heritage
 
-With sufficient Ichor, Brightkin can resurrect upon death. The Brightkin's body will begin to glow brightly, damaged tissue pulled back together or is  regrown.
+With sufficient Ichor, Brightkin can resurrect upon death. The Brightkin's body will begin to glow brightly, damaged tissue pulled back together or is regrown.
 
-- Requires
 - Must succeed a check starting at CL 6, decreasing each round of combat or every 10 seconds outside of combat.
 - If the user does not have enough Ichor, they can absorb Ichor given they are exposed to sunlight.
 - Resurrection restores the user to peak health. This includes regrowing limbs.

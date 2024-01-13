@@ -32,7 +32,3 @@ Illusions are created by bending light to create a false image.
 #### Absorb Ichor: Sunlight
 
 Ample sunlight can be used to absorb Ichor.
-
-#### Radiant Resistance
-
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
