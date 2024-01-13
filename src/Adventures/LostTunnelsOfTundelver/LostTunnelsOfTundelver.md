@@ -69,7 +69,7 @@ Roleplay a scene set around a table in a Reddwall tavern, where Burrowbard impar
 ```
 Thank you for joining me everyone. I value everyone that sits at this table and I hope you all will become as fast friends. I want to share a secret with, I need you all to retrieve an important trinket critical to a new business venture I have been investigating, which I'd like to bring each of you in on.
 
-There is a mysterious puzzle box in the which is currently being fixed by a young tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon full of mining supplies to Bart at the Stonehill Inn in Tuntin. Each of you will receive 10 bc upon completing this task. This is just a taste of the wealth this business venture holds. After that, find me in Tuntin and deliver the puzzle box.
+There is a mysterious puzzle box in the which is currently being fixed by a young tinker named Killroy, who should have it done in the next 1-2 days. He will deposit within a safety deposit box at the local bank, were you will retrieve it. Once acquired, I need you to bring it along with the a wagon full of mining supplies to Bart at the Bedrock Inn in Tuntin. Each of you will receive 10 bc upon completing this task. This is just a taste of the wealth this business venture holds. After that, find me in Tuntin and deliver the puzzle box.
 
 I must hurry on ahead to meet my two brothers, Tharden and Nundro, in Tuntin as time is of the essence and have complete trust in all of you to accomplish this. It pains me to have to be so tight lipped about the whole thing, but it is for our own safety.
 ```
@@ -453,7 +453,7 @@ Ulfric appears visibly more relaxed.
 "My friends," he comments, "let's secure lodgings. I hear the local inn is quite charming."
 ```
 
-Ulfric's intention is to obtain some rest at the Stonehill Inn and subsequently launch an investigation throughout Tuntin in search of the missing wizard, Sylas Alabaster. When his inquiry reaches an impasse, he organizes a meeting with Townmaster Harbin Wester (see the "Townmaster's Hall" section).
+Ulfric's intention is to obtain some rest at the Bedrock Inn and subsequently launch an investigation throughout Tuntin in search of the missing wizard, Sylas Alabaster. When his inquiry reaches an impasse, he organizes a meeting with Townmaster Harbin Wester (see the "Townmaster's Hall" section).
 
 Throughout this phase of the adventure, the characters have the liberty to explore various locations in Tuntin and engage with the NPCs they encounter (see the "Town Description" section for more information). The town is small enough that one can traverse its length within a few minutes. However, given that the characters arrive late in the day, they won't have enough time to visit more than one or two locations before they must seek accommodations for the night.
 
@@ -463,7 +463,7 @@ Among the places the characters should consider visiting are:
 
 **Beastshield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
 
-**Stonehill Inn.** If Ulfric Warwinter accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Stonehill Inn offers the best available options.
+**Bedrock Inn.** If Ulfric Warwinter accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Bedrock Inn offers the best available options.
 
 ## Encounters in Tuntin
 
@@ -471,7 +471,7 @@ As the characters explore the town of Tuntin, you don't need to meticulously acc
 
 To initiate, inquire where the players wish to go and what they intend to do in town. You might say, "There's an inn, a town hall, a shrine, general stores, and trading posts, along with a few other residences and businesses. Where would you like to visit?" Once the players have selected a location, reference the description in the following section, introduce the NPCs present, and initiate the interaction.
 
-**The Stonehill Inn.** If the players are unsure about their characters' next steps, encourage them to commence at the Stonehill Inn. The NPCs here serve as guides, steering the characters towards various adventure opportunities and essential rumors accessible in other parts of the town. By patronizing the inn, the characters gain insight into other places they should explore.
+**The Bedrock Inn.** If the players are unsure about their characters' next steps, encourage them to commence at the Bedrock Inn. The NPCs here serve as guides, steering the characters towards various adventure opportunities and essential rumors accessible in other parts of the town. By patronizing the inn, the characters gain insight into other places they should explore.
 
 **Lavender Lancer Ruffians.** Sooner or later, the adventurers will cross paths with the toughs who dominate Tuntin. Your role is to determine when these ruffians make their appearance. Once the characters have had an opportunity to explore several locations in town and converse with the townsfolk, they may decide to track down the Lavender Lancers. In such an event, you can execute the "Lavender Lancer Ruffians" encounter. Alternatively, if the characters seem hesitant to confront the ruffians, the Lavender Lancers may decide to seek them out at a moment of your choosing.
 
@@ -481,7 +481,7 @@ To initiate, inquire where the players wish to go and what they intend to do in 
 
 Here is a brief summary of the most important NPCs in Tuntin and their relevance to the adventure:
 
-1. **Toblen Stonehill (Innkeeper):** The proprietor of the Stonehill Inn, a central location in Tuntin where adventurers can gather information and secure lodging.
+1. **Toblen Bedrock (Innkeeper):** The proprietor of the Bedrock Inn, a central location in Tuntin where adventurers can gather information and secure lodging.
 2. **Elmer Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
 3. **Daran Edermath (Order of the Gauntlet Member):** A member of the Order of the Gauntlet who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
 4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
@@ -508,17 +508,17 @@ Tuntin is a small town, which means the characters can explore various locations
 
 The subsequent sections provide specific details about various locations within the town.
 
-### Stonehill Inn
+### Bedrock Inn
 
 ```
 At the heart of Tuntin stands a recently constructed roadhouse made of fieldstone and rough-hewn timbers. Inside, the common room buzzes with locals enjoying mugs of ale or cider, their curious eyes following your arrival.
 ```
 
-This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Stonehill Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
+This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Bedrock Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
 
-The innkeeper is a friendly, short young mudblood named Toblen Stonehill. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
+The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Originally from the town of Triboar to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
 
-**Rumors at Stonehill Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Stonehill Inn include:
+**Rumors at Bedrock Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Bedrock Inn include:
 
 * Narth, an elderly farmer, shares that "Sister Garaele, the overseer of the Shrine of Luck, recently returned to town, injured and fatigued."
 * Elsa, a talkative barmaid, reveals that "Daran Edermath, the ogrekin innkeeper, is a former adventurer."
@@ -585,7 +585,7 @@ Should the party successfully eliminate the Lavender Lancer leader, Halia Thornt
 
 ### Alderleaf Farm
 
-Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an astute farmer who seems to be privy to all the town's ongoings. She provides hospitable accommodation, offering the characters the option to stay in her hayloft if they prefer not to lodge at the Stonehill Inn.
+Qelline Alderleaf, a wise and practical female halfling aged forty-five, is an astute farmer who seems to be privy to all the town's ongoings. She provides hospitable accommodation, offering the characters the option to stay in her hayloft if they prefer not to lodge at the Bedrock Inn.
 
 **Carp's Tale.** Qelline's ten-year-old son, Carp, is a spirited and curious young halfling. Carp is captivated by the idea of becoming an adventurer and shares a fascinating story. He mentions that while he was playing in the woods near Tresendar Manor, he stumbled upon a concealed tunnel in a thicket. During his discovery, a couple of "big, menacing bandits" emerged from the tunnel, engaging with Lavender Lancers in the vicinity. Thankfully, Carp managed to remain concealed from their view, but the situation was precarious. Carp believes that the bandits maintain a hidden lair beneath the old manor house. He can either guide the characters to the tunnel's entrance or provide them with directions. This tunnel leads directly to area 8 in the Lavender Lancer hideout.
 
@@ -619,7 +619,7 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 **Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyrm Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyrm Tor" on page 35.
 
-**Quest: Finding Mountainmaw Castle.** After resting at the Stonehill Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
+**Quest: Finding Mountainmaw Castle.** After resting at the Bedrock Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
 Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
