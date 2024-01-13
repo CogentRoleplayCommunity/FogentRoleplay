@@ -140,23 +140,14 @@ Example Conduit:
 | Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           | 0                     |                                   | None                      | None                | None                | Blazecraft                 |
 
 - One Handed: Dice bonus given by wielding the conduit in one hand.
-
 - Two Handed: Dice Bonus given by wielding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
-
 - Dual Wielded: Dice bonus given when wielding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual wielding fire magic wands.
-
 - Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
-
 - Range Adjustment: Increase or decrease range calculation for magic skill (see Magic Range Adjustment below).
-
 - Additional Damage Types: Extra damage types to be added onto combat rolls made with this conduit.
-
 - Engageable Opponents: Changes engageable opponent type when making a combat roll. This could be a fast shooting wand or a slow shooting staff that pacts a large wallop.
-
 - Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
-
 - Resource Class: Additional resource consumed by the conduit when used.
-
 - Effected Magic Skills: Which Magic skill the conduit can be used with.
 
 ## Magic Roll
@@ -165,34 +156,7 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 
 - Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level) + Xd6 (Conduit Dice Modification)
 
-### Overcharging Magic
-
-When casting magic with additional resource above the level allowed by your Magic Vocation level, the magic can have erratic behavior. Roll a d20 to determine the nature of the behavior.
-
-| d20 | Runecraft Malfunction table                                                                                                                                                                                                                                                             |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense. |
-| 2   | You become petrified for 1d10 rounds.                                                                                                                                                                                                                                                   |
-| 3   | A clone of the caster appears, desperately claiming to be the original.                                                                                                                                                                                                                 |
-| 4   | The one who activated the rune fall asleep                                                                                                                                                                                                                                              |
-| 5   | All doors and windows within 60' of the caster fly open.                                                                                                                                                                                                                                |
-| 6   | You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.                                                                                                                                                            |
-| 7   | The spell's target becomes overwhelmed by a desire to eat the caster.                                                                                                                                                                                                                   |
-| 8   | The caster and target are flung 10' in opposite directions.                                                                                                                                                                                                                             |
-| 9   | The caster and target are both whisked to the Astral Plane for the next minute.                                                                                                                                                                                                         |
-| 10  | A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.                                                                            |
-| 11  | Rune converts to Shockwave effect                                                                                                                                                                                                                                                       |
-| 12  | Rune converts to Water effect                                                                                                                                                                                                                                                           |
-| 13  | Rune converts to Bleed effect                                                                                                                                                                                                                                                           |
-| 14  | Rune converts to Electric effect                                                                                                                                                                                                                                                        |
-| 15  | Rune converts to Cold effect                                                                                                                                                                                                                                                            |
-| 16  | Rune converts to Dark effect                                                                                                                                                                                                                                                            |
-| 17  | Rune converts to Mental effect                                                                                                                                                                                                                                                          |
-| 18  | Rune converts to Spiritual effect                                                                                                                                                                                                                                                       |
-| 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
-| 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
-
-## Magic Skills in Combat
+### Magic Skills in Combat
 
 - Character's can't cast magic twice in one round of combat unless specified otherwise
 
