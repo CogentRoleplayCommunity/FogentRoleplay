@@ -62,7 +62,7 @@
 
 ## Destiny Points: 2/3
 
-## Light: 6/6
+## Ichor: 6/6
 
 ## Equipment
 
