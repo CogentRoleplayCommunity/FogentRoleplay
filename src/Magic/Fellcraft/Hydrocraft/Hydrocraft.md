@@ -25,10 +25,6 @@ Dragons channel their from the elemental scales that cover their bodies.
 
 Allows the user to breath dragontide from from their mouth. Dragontide the user produces has an odd dark coloring to it. Dragontide has a mind of its own, leaping from thrashing and drowning anything around it. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-#### Absorbing Ichor: Water
+#### Absorbing Fellblood: Water
 
-Water can be used to absorb Ichor. This can be done by submerging oneself in water or meditating near a large body of water.
-
-#### Water Resistance
-
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+Water can be used to absorb Fellblood. This can be done by submerging oneself in water or meditating near a large body of water.

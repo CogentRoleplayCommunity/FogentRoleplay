@@ -12,12 +12,13 @@ Secondly, the user must deeply understand the rune's concept they are trying to 
 
 Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
 
-- Magic Resource: Focus
-- Magic Vocation: Runesmith
-- Magic Skills: Fire Rune, Shadow Rune, Oil Spill Rune
-- Cantrip: Sign
-- Vocation Attributes: INT
-- Governing Core Skill: Willpower
+- Magic Name: Runcraft
+- Magic Vocation Name: Runesmith
+- Magic Vocation Governing Attributes: INT
+- Magic Resource Name: Focus
+- Cantrip Name: Sign
+- Governing Core Skill: Will
+- Spell Name: Compound Runes
 
 ## Crafting a Rune
 
@@ -34,6 +35,33 @@ If an insufficiently intelligent  person tried to simply draw the shape of the R
 Most Runesmith use scrolls for simple one time use runes, as they are affordable and easy to write runes on. Usually, the object the rune is located on physically receives damage up to the activation of the rune. Some Runesmith will create staves of other conduits inscribed with runes. These are made in a particular way to resist the toll of the rune, though they will eventually need to be repaired.
 
 It is known that the body can be a vessel for runes, though the effect often leads to a reduced life span, bad health, or madness. Though due to the immense power that can be gained, many take on the risk.
+
+## Overcharging Runes
+
+When casting magic with additional resource above the level allowed by your Magic Vocation level, the magic can have erratic behavior. Roll a d20 to determine the nature of the behavior.
+
+| d20 | Runecraft Malfunction table                                                                                                                                                                                                                                                             |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | You suddenly realize that you are nothing more than a fictional character in a game played by other creatures in another plane of existence, which causes you to be stunned. This existential crisis lasts until the start of your next turn, after which you shake it off as nonsense. |
+| 2   | You become petrified for 1d10 rounds.                                                                                                                                                                                                                                                   |
+| 3   | A clone of the caster appears, desperately claiming to be the original.                                                                                                                                                                                                                 |
+| 4   | The one who activated the rune fall asleep                                                                                                                                                                                                                                              |
+| 5   | All doors and windows within 60' of the caster fly open.                                                                                                                                                                                                                                |
+| 6   | You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse.                                                                                                                                                            |
+| 7   | The spell's target becomes overwhelmed by a desire to eat the caster.                                                                                                                                                                                                                   |
+| 8   | The caster and target are flung 10' in opposite directions.                                                                                                                                                                                                                             |
+| 9   | The caster and target are both whisked to the Astral Plane for the next minute.                                                                                                                                                                                                         |
+| 10  | A small songbird pops into existence in mid-flight 10 feet above the caster. Roll a d20. On a 1, the bird poops and it lands on the caster. On a 20, the bird poops and it lands on the target of the spell.                                                                            |
+| 11  | Rune converts to Shockwave effect                                                                                                                                                                                                                                                       |
+| 12  | Rune converts to Water effect                                                                                                                                                                                                                                                           |
+| 13  | Rune converts to Bleed effect                                                                                                                                                                                                                                                           |
+| 14  | Rune converts to Electric effect                                                                                                                                                                                                                                                        |
+| 15  | Rune converts to Cold effect                                                                                                                                                                                                                                                            |
+| 16  | Rune converts to Dark effect                                                                                                                                                                                                                                                            |
+| 17  | Rune converts to Mental effect                                                                                                                                                                                                                                                          |
+| 18  | Rune converts to Spiritual effect                                                                                                                                                                                                                                                       |
+| 19  | Rune converts to Fire effect                                                                                                                                                                                                                                                            |
+| 20  | The world slows down around the caster. The caster gets to take an additional action.                                                                                                                                                                                                   |
 
 ## Pure Runes
 

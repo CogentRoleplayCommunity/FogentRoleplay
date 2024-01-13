@@ -4,23 +4,23 @@ Attributes represent the physical abilities of your character. An attribute can 
 
 | Attribute Level | Narrative Meaning                                           |
 | :-------------: | ----------------------------------------------------------- |
-|       -2       | Painfully lacking in the attribute.                        |
-|       -1       | Below an average person in our world.                       |
+|       -2        | Painfully lacking in the attribute.                         |
+|       -1        | Below an average person in our world.                       |
 |        0        | An average person in our world.                             |
 |        1        | Professional or naturally gifted.                           |
 |        2        | Elite or 'world-class'. Peak of real world human potential. |
 |        3        | Meta-human or genetic anomaly                               |
-|        4        | Demigod like                                               |
+|        4        | Demigod like                                                |
 |        5        | Peak achievable or god like.                                |
 
 ## Strength (STR)
 
 Represent your characters innate muscle strength, bone density, tendon strength, ect...
 
-| Attribute Level |            Narrative Meaning            |
+| Attribute Level |            Narrative Meaning             |
 | :-------------: | :--------------------------------------: |
-|       -2       |                 A squirrel               |
-|       -1       |   Below an average person in our world   |
+|       -2        |                A squirrel                |
+|       -1        |   Below an average person in our world   |
 |        0        |      An average person in our world      |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
@@ -42,12 +42,12 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 
 | Attribute Level |              Narrative Meaning              |
 | :-------------: | :-----------------------------------------: |
-|       -2       |                A sea cucumber                |
-|       -1       |    Below an average person in our world    |
-|        0        |       An average person in our world       |
-|        1        |    Professional thief or circus acrobat    |
+|       -2        |               A sea cucumber                |
+|       -1        |    Below an average person in our world     |
+|        0        |       An average person in our world        |
+|        1        |    Professional thief or circus acrobat     |
 |        2        | Gold medal gymnast or master martial artist |
-|        3        |                  Legolas                  |
+|        3        |                   Legolas                   |
 |        4        |                  Spiderman                  |
 |        5        |             The Flash or Hermes             |
 
@@ -63,13 +63,13 @@ Represents your raw mental horse power and IQ.
 
 | Attribute Level |                           Narrative Meaning                           |
 | :-------------: | :-------------------------------------------------------------------: |
-|       -2       |                               A zombie                               |
-|       -1       |                 Below an average person in our world                 |
-|        0        |                    An average person in our world                    |
+|       -2        |                               A zombie                                |
+|       -1        |                 Below an average person in our world                  |
+|        0        |                    An average person in our world                     |
 |        1        |           University science professor or career politician           |
 |        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
-|        3        |                              Tony Stark                              |
-|        4        |                           Ultron or Skynet                           |
+|        3        |                              Tony Stark                               |
+|        4        |                           Ultron or Skynet                            |
 |        5        |                        Dr. Manhattan or Athena                        |
 
 INT has the following effects:

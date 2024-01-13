@@ -9,7 +9,7 @@
 | Athletics | 0 | 2d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 2d6 | Perception      | 0 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 2d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 2d6 | Stealth         | 1 | 5d6 | Willpower         | 0 | 3d6 |
+| Lift      | 0 | 2d6 | Stealth         | 1 | 5d6 | Will         | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -29,10 +29,10 @@
 |     Minor Silver Weakness     |                                  (+1) to the level of injury received from Silver damage.                                  |          |                                                Fellkin blood                                                |
 |          Dark Vision          | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                             Feral Fellkin Blood                                             |
 |       Inventory Weight       |                                                          14.05 lb                                                          |          |                                                  Equipment                                                  |
-|     Humanoid Carry Weight     |                                                            70 lb                                                            |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), +/- 20 lb (per Lift above/below 0) |
+|     Humanoid Carry Weight     |                                                            70 lb                                                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight         |                                               -0d6 to STR/RFX governed skills                                               |          |                                           0% - 25% of carry weight                                           |
 | Small Humanoid Movement Speed |                                                            35 ft                                                            |          |                            25 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                            |
-|      Humanoid Swim Speed      |                                                            15 ft                                                            |          |                            15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)                            |
+|      Humanoid Swim Speed      |                                                            15 ft                                                            |          |                            15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)                            |
 |     Humanoid Climb Speed     |                                                            15 ft                                                            |          |                               15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                               |
 
 ## Combat Rolls:

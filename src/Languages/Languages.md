@@ -32,6 +32,10 @@ A very rare and ancient language that has existed since before creation. Since D
 
 Spoken by Giants, Ogres, and Ogrekin.
 
+### Sky-tongue
+
+Spoken by Harpy or Phoenixkin.
+
 ### Demonic
 
 Said to be spoken by demons, no record exists of it, only myths.
