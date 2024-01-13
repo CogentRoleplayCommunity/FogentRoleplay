@@ -395,6 +395,8 @@ The captured stores are voluminous, requiring a wagon for transportation. Return
 
 Additionally, Thrak's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
 
+
+
 ### What Comes Next?
 
 The following leg of the journey unfolds in Tuntin, offering the adventurers several compelling reasons to visit the town:
