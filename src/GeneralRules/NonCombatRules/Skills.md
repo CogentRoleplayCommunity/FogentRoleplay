@@ -2,14 +2,29 @@
 
 ## Skill Levels
 
-|    Name    | Level |
-| :---------: | :---: |
-| Incompetent |  -1  |
-|   Novice   |   0   |
-| Apprentice |   1   |
-|    Adept    |   2   |
-|   Expert   |   3   |
-|   Master   |   4   |
+### Level -1: Incompetent
+
+Representing an imcompetent level of skill.
+
+### Level 0: Novice
+
+Representing an inexperienced level of skill.
+
+### Level 1: Apprentice
+
+Representing a level of skill where the basics have been learned.
+
+### Level 2: Adept
+
+Skill level where the basics have been fully understood and the more advanced concepts are being learned.
+
+### Level 3: Expert
+
+Skill level where advanced concepts have been fully understood and master level concepts are beginning to be introduced.
+
+### Level 4: Master
+
+Skill level where a master level of proficiency has been achieved.
 
 ## Core Skills
 
