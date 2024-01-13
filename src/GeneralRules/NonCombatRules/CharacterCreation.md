@@ -169,18 +169,18 @@ Your starting wealth is determined narratively by you position in life as define
 
 |              Name              | Starting Wealth | Average Wealth |
 | :----------------------------: | :-------------: | :------------: |
-|            Made up            |     5d4 bc     |     13 bc     |
-|            Made up            |   1d4 x 10 bc   |     25 bc     |
-|        Barbarian, Druid        |   2d4 x 10 bc   |     50 bc     |
-|            Sorcerer            |   3d4 x 10 bc   |     75 bc     |
+|            Made up             |     5d4 bc      |     13 bc      |
+|            Made up             |   1d4 x 10 bc   |     25 bc      |
+|        Barbarian, Druid        |   2d4 x 10 bc   |     50 bc      |
+|            Sorcerer            |   3d4 x 10 bc   |     75 bc      |
 |     Rogue, Warlock, Wizard     |   4d4 x 10 bc   |     100 bc     |
 | Fighter, Paladin, Ranger, Bard |   5d4 x 10 bc   |     125 bc     |
 
-|                       Socioeconomic status                       | Starting Wealth | Average Wealth |
-| :--------------------------------------------------------------: | :-------------: | :------------: |
-|                               Poor                               |     5d4 bc     |     13 bc     |
-|                   Manual Labor ( Farm hand )                   |   1d4 x 10 bc   |     25 bc     |
-|              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc     |
-|             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc     |
+|                      Socioeconomic status                       | Starting Wealth | Average Wealth |
+| :-------------------------------------------------------------: | :-------------: | :------------: |
+|                              Poor                               |     5d4 bc      |     13 bc      |
+|                   Manual Labor ( Farm hand )                    |   1d4 x 10 bc   |     25 bc      |
+|              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc      |
+|             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc      |
 | High Skilled Labor ( Accomplished thief, educated professions ) |   4d4 x 10 bc   |     100 bc     |
-|                     Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |
+|                    Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |

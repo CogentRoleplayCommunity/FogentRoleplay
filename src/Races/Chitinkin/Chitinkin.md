@@ -34,3 +34,4 @@ The largest of these Colonies in the Hive is located in Caurus. The Chitinkin th
 - Sonocraft
 - Toxincraft
 - Terracraft
+- Galecraft

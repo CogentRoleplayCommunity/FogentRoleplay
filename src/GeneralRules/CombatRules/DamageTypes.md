@@ -9,7 +9,7 @@ Creatures can be susceptible to certain sources of damage.
 |          Description          |                            Effect                            |
 | :----------------------------: | :-----------------------------------------------------------: |
 |  Minor (damage-type) Weakness  | +1 to the level of injury received from (damage type) damage. |
-|  Med. (damage-type) Weakness  | +2 to the level of injury received from (damage type) damage. |
+|  Medium (damage-type) Weakness  | +2 to the level of injury received from (damage type) damage. |
 |  Major (damage-type) Weakness  | +3 to the level of injury received from (damage type) damage. |
 | Extreme (damage-type) Weakness | +4 to the level of injury received from (damage type) damage. |
 | Mortal (damage-type) Weakness | +5 to the level of injury received from (damage type) damage. |
@@ -21,7 +21,8 @@ Creatures can be resistant to certain sources of damage.
 |            Description            |                          Effect                          |
 | :-------------------------------: | :------------------------------------------------------: |
 |  Minor (damage-type) Resistance  | -1 to victory levels received from (damage type) damage. |
-|   Med. (damage-type) Resistance   | -2 to victory levels received from (damage type) damage. |
+|                                  |                                                          |
+|   Medium (damage-type) Resistance   | -2 to victory levels received from (damage type) damage. |
 |  Major (damage-type) Resistance  | -3 to victory levels received from (damage type) damage. |
 | Extreme (damage-type) Resistance | -4 to victory levels received from (damage type) damage. |
 | Complete (damage-type) Resistance | -5 to victory levels received from (damage type) damage. |
@@ -62,7 +63,7 @@ Damage caused by extreme low temperatures.
 
 ### Radiant
 
-Damage caused specifically by Miracles or sunlight.
+Damage caused specifically by divine power or sunlight.
 
 ### Silver
 
@@ -78,7 +79,7 @@ Damage caused by rot, decay, and undeath.
 
 ### Bleed
 
-Damage caused by the loss of blood. A character loses equivalent ichor to the level of injury dealt.
+Damage caused by the loss of blood. A character loses equivalent Fellblood to the level of injury dealt.
 
 ### Acid
 

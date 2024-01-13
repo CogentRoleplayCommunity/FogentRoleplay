@@ -26,11 +26,11 @@ I add the "Small Blade" combat skill which has the governing attributes STR, RFX
 
 I try and add the "Longspear" combat skill. I realized using a longspear is not something that a chef would do, so this will not work.
 
-| Chef {RFX, INT}           | 2 | 7d6 |
-| -------------------------- | :-: | :-: |
-| Wine Knowledge {RFX, INT} | 2 | 7d6 |
-| ~~Chopping Food {RFX}~~   |  |    |
-| Small Blade                | 1 | 7d6 |
-| ~~Long Spear~~            |  |    |
+| Chef {RFX, INT}           |   2   |  7d6  |
+| ------------------------- | :---: | :---: |
+| Wine Knowledge {RFX, INT} |   2   |  7d6  |
+| ~~Chopping Food {RFX}~~   |       |       |
+| Small Blade               |   1   |  7d6  |
+| ~~Long Spear~~            |       |       |
 
 You may still assist any other roll with your vocation if it makes narrative sense aside from vocational skills.

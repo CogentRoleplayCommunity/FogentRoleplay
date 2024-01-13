@@ -26,7 +26,7 @@ This weapon can only be picked up by those who sing (out loud or in their head) 
 
 ### Blessing of the Moon:
 
-+2 INT while the weapon is bound. User gains level 4 in General Knowledge, Spiritual, and Willpower skills while bound to this weapon. User gains Fellkin level 4 vocation and Mooncraft, Hydrocraft, Hemacraft, and Shadowcraft level 4 while bound to this weapon.
++2 INT while the weapon is bound. User gains level 4 in General Knowledge, Spiritual, and Will skills while bound to this weapon. User gains Fellkin level 4 vocation and Mooncraft, Hydrocraft, Hemacraft, and Shadowcraft level 4 while bound to this weapon.
 
 ### Whispers of the Moon:
 

@@ -14,6 +14,6 @@ Tier: Flawless (+6)
 
 ## Effects
 
-### Med. Lightning Resistance
+### Medium Lightning Resistance
 
 -2 to victory levels received from Electric damage.

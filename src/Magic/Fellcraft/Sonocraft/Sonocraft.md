@@ -12,10 +12,10 @@ Sonocraft users can narratively attempt the following:
 
 #### Specialization: The Dragon
 
-#### Absorb Ichor: Sonic Sounds
+#### Absorb Fellblood: Sonic Sounds
 
-Large sonic cracks can be absorbed to regain Ichor. This can be done with explosions, objects breaking the sound barrier, etc...
+Large sonic cracks can be absorbed to regain Fellblood. This can be done with explosions, objects breaking the sound barrier, etc...
 
 #### Shockwave Resistance
 
-By achieving a CL 3 check, for the cost of 1 Ichor a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
