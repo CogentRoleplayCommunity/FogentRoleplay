@@ -483,7 +483,7 @@ Here is a brief summary of the most important NPCs in Tuntin and their relevance
 
 1. **Toblen Bedrock (Innkeeper):** The proprietor of the Bedrock Inn, a central location in Tuntin where adventurers can gather information and secure lodging.
 2. **Elmer Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
-3. **Daran Edermath (Order of the Gauntlet Member):** A member of the Order of the Gauntlet who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
+3. **Levi Gemwerth (Order of the Gauntlet Member):** A member of the Order of the Gauntlet who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
 4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
 5. **Halia Thornton (Zhentarim Member):** A member of the Zhentarim with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
 6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted halfling farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
@@ -514,15 +514,15 @@ The subsequent sections provide specific details about various locations within 
 At the heart of Tuntin stands a recently constructed roadhouse made of bedrock and rough-hewn timbers. Inside, the common room buzzes with locals enjoying mugs of ale or cider, their curious eyes following your arrival.
 ```
 
-This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Bedrock Inn, you can reference the "Food, Drink, and Lodging" section in the rulebook for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Daran Edermath or Qelline Alderleaf.
+This unassuming inn provides six rooms for rent, with one already occupied by Ulfric Warwinter. If the characters opt to stay at the Bedrock Inn, you can reference the [Inns](./../../Items/ItemShop.md#inns) section in item shop for pricing. Alternatively, they could camp outside of town or attempt to secure lodgings with farmers like Levi Gemwerth or Qelline Alderleaf.
 
-The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Originally from the town of Trident to the east, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
+The innkeeper is a friendly, short young mudblood named Toblen Bedrock. Originally from the town of Emerald Falls to the west, he came to Tuntin seeking mining opportunities. However, he soon discovered his true calling was innkeeping. Toblen holds mixed feelings about the Lavender Lancers' reign of terror in the town and the lack of action from the townmaster, Harbin Wester. Despite his concerns, he refrains from stirring up trouble to protect his wife and children from potential Lavender Lancer retaliation.
 
 **Rumors at Bedrock Inn.** In the common room of the inn, characters can gather several useful leads by mingling with the townspeople and striking up conversations. The rumors circulating within the Bedrock Inn include:
 
 * Narth, an elderly farmer, shares that "Sister Garaele, the overseer of the Shrine of Luck, recently returned to town, injured and fatigued."
-* Elsa, a talkative barmaid, reveals that "Daran Edermath, the ogrekin innkeeper, is a former adventurer."
-* Lanar, a miner, reports that "Ore raiders have been sighted at the east end of Trident Trail, and the town master is searching for someone to handle the situation."
+* Elsa, a talkative barmaid, reveals that "Levi Gemwerth, the ogrekin innkeeper, is a former adventurer."
+* Lanar, a miner, reports that "Ogrekin raiders have been sighted at the east end of Trident Trail, and the town master is searching for someone to handle the situation."
 * Trilena, the innkeeper's wife, discloses the tragic story of Thel Dendrar, a local woodcarver who confronted the Lavender Lancers and was subsequently murdered. She also reveals that Thel's family has gone missing. Unbeknownst to Trilena and the townsfolk, the Lavender Lancers have taken Thel's wife and children to their hidden hideout.
 * Pip, Toblen's young son, recounts Carp, Qelline Alderleaf's son, who discovered a secret tunnel in the woods, barely escaping the Lavender Lancers' pursuit.
 * Freda, a weaver, mentions that the Lavender Lancers harass all the businesses in town, except for the Tuntin Miner's Exchange, as they don't want to provoke Halia Thornton, who runs it.
@@ -531,29 +531,29 @@ These rumors serve as valuable clues, guiding the characters toward various adve
 
 ### **Barton's Provisions**
 
-Barton's Provisions is the largest trading post in Tuntin. Its shelves are stocked with a wide range of everyday goods and supplies, including backpacks, bedrolls, rope, and rations. The store is open from sunrise to sunset and does not carry weapons or armor, but adventurers can find other essential gear here, provided the items cost less than 25 gp. When it comes to pricing, you can refer to the "Adventuring Gear" section in the rulebook.
+Barton's Provisions is the largest trading post in Tuntin, counting as a Rural [General Store](./../../Items/ItemShop.md#general-store). Its shelves are stocked with a wide range of everyday goods and supplies, including backpacks, bedrolls, rope, and rations. The store is open from sunrise to sunset and does not carry weapons or armor, but adventurers can find other essential gear here.
 
 The shop's proprietor is Elmer Barton, a kind and slim mudblood male shopkeeper who is around fifty years old. He employs two young clerks, Ander and Thistle, who assist with loading and unloading wagons and attending to customers when Barton is absent.
 
-**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 gp to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost mine mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
+**Delivering the Supplies.** If the characters initiated the adventure with the "Meet Me in Tuntin" hook, their task is to deliver a wagon filled with supplies to Barton's. Upon arrival, Barton pays the agreed-upon amount of 10 bc to each character and takes possession of the wagon and its supplies. Informed of Burrowbard Stoneseeker's abduction, Barton is deeply saddened and encourages the party to rescue the molekin. He views Burrowbard as a friend and was enthusiastic about the prospect of uncovering the lost mine mentioned in the introduction. If the characters haven't already learned about the mine from Ulfric Warwinter, a character who passes a DC 15 Intelligence (History) check can provide information found in the first two paragraphs of the "Background" section.
 
 Additionally, Barton mentions that two more Stoneseeker brothers, Nundro and Tharden, have been camping outside of town. However, he hasn't seen them in the past ten days and anticipates their return to resupply at any moment. Unbeknownst to Barton, Tharden has passed away, and Nundro is held captive within the mine.
 
 **Barton's News.** If the characters inquire about the state of business in Tuntin, Barton mentions that the Lavender Lancers are making life difficult for everyone. They are extorting local businesses and defying the authority of the townmaster. If the characters express a desire to take action, he informs them that the Lavender Lancers are regular patrons at the Sleeping Giant tap house.
 
-### Edermath orchard
+### Gemwerth orchard
 
-Daran Edermath, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-dhampir crossbreed, over a century old with striking silver hair. Daran served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
+Levi Gemwerth, a retired adventurer, resides in a charming cottage adjacent to an apple orchard. He is a robust half-dhampir crossbreed, over a century old with striking silver hair. Levi served as a marshal and herald in the lands of the Dragon Coast, located far to the southeast. Upon retiring, he returned to the Reddwall region, his place of origin.
 
-Daran is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Daran keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
+Levi is a member of the Order of the Gauntlet, an organization dedicated to protecting others from the wrongdoings of evildoers. The Order is committed to maintaining vigilance, upholding justice, and ensuring retribution against those who seek to oppress or harm the innocent. Although he no longer actively serves the Order, Levi keeps a watchful eye on Tuntin's happenings. He readily exchanges information with fellow adventurers, particularly those who embody these virtues.
 
-Daran expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glassmith. Daran discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
+Levi expresses concern regarding the Lavender Lancers and yearns for a group of adventurers to confront them. He believes it is time to challenge the Lavender Lancers' leader, Glassmith. Levi discloses to the characters that the Lavender Lancers frequent the Sleeping Giant tap house but also reveals that their primary safe house is beneath Tresendar Manor on the town's eastern fringe.
 
-**Quest: Old Mole Trouble.** Daran has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Mole Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Daran urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Daran's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Mole Well" section for further details.
+**Quest: Old Mole Trouble.** Levi has learned through the stories of prospectors in the hills northeast of Tuntin that someone is excavating the ruins known as Old Mole Well. Even more disconcerting, several prospectors have reported being chased away by undead entities in the area. Levi urges the characters to visit the ruins, which are a couple of days' march to the northeast of Tuntin. Their task is to determine who is behind this activity and their intentions. Levi's concern lies with the ruins, an ancient watchtower of the Netheril magical empire, and the potential danger dormant within. If the party decides to pursue this quest, consult the "Old Mole Well" section for further details.
 
 #### Joining the Order of the Gauntlet
 
-For characters who engage with the Lavender Lancers and explore Old Mole Well, Daran Edermath privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Daran bestows the title of Cheval upon them.
+For characters who engage with the Lavender Lancers and explore Old Mole Well, Levi Gemwerth privately approaches certain members of the group, urging them to consider joining the Order of the Gauntlet. He targets those who align with the Order's values of honor and vigilance. If a character accepts, Levi bestows the title of Cheval upon them.
 
 ### Beastshield Coster
 
@@ -567,7 +567,7 @@ The head of the Tuntin post is Linett Graygale, a sharp-tongued mudblood woman i
 
 In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. Prices are detailed in the "Adventuring Gear" section in the rulebook. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Sleeping Giant tap house.
 
-**Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Mountainmaw hideout (or if they left the goods but revealed their whereabouts), Linett rewards them with 50 gp and pledges her assistance to the adventurers in any way possible.
+**Recovered Goods.** If the characters successfully recover the stolen goods located in area 8 of the Mountainmaw hideout (or if they left the goods but revealed their whereabouts), Linett rewards them with 50 bc and pledges her assistance to the adventurers in any way possible.
 
 ### Tuntin Miner's Exchange
 
@@ -577,7 +577,7 @@ The guildmaster is Halia Thornton, a determined and strategic mudblood woman. He
 
 Halia is unaware of Mountainmaw Castle's location but has heard rumors that the Lavender Lancers employ a Vermkin minion. She suggests the Vermkin might hold information about the castle's whereabouts. She leverages this information to persuade the characters to help her deal with the Lavender Lancers.
 
-**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 gp to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
+**Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Sleeping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful DC 15 Wisdom (Insight) check reveals her ulterior motives.
 
 #### Joining the Zhentarim
 
@@ -617,15 +617,15 @@ Tuntin does not have a functioning government, but the residents elect a town ma
 
 The town master's hall includes a small yet functional jail in its cellar, featuring two cells. Harbin holds the keys to these cell doors.
 
-**Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyrm Tor. He offers a 100 gp reward to any party capable of resolving the problem. For further details about this quest, consult "Wyrm Tor" on page 35.
+**Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyrm Tor. He offers a 100 bc reward to any party capable of resolving the problem. For further details about this quest, consult "Wyrm Tor" on page 35.
 
 **Quest: Finding Mountainmaw Castle.** After resting at the Bedrock Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
-Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 gp reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
+Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 bc reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
 **Quest: Finding Sylas.** Upon questioning several locals, Ulfric learns that Sylas Alabaster, another member of the Eastern Alliance, vanished while exploring the area around Tresendar Manor approximately two months ago, shortly after arriving in Tuntin. Ulfric enlists the characters' help in investigating the manor and its surroundings to locate and retrieve Sylas, or whatever remains of him if something has befallen him. Ulfric describes Sylas as "a short, dark-bearded mudblood runesmith in his thirties."
 
-Unknown to Ulfric, Sylas established the Lavender Lancers, became their leader, and adopted the alias Glassmith to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 gp for eliminating the Lavender Lancer threat.
+Unknown to Ulfric, Sylas established the Lavender Lancers, became their leader, and adopted the alias Glassmith to conceal his true identity (a moniker earned due to his glass staff). Upon discovering the truth about Sylas, Ulfric expresses a desire to have the wizard apprehended and transported to Reddwall to face judgment by higher authorities. Regardless of Sylas's fate, Ulfric rewards the party with 200 bc for eliminating the Lavender Lancer threat.
 
 #### **Joining the Eastern Alliance**
 
@@ -726,7 +726,7 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 **Treasure**
 
-The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
+The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
 ### 2. Barracks
 
@@ -742,7 +742,7 @@ The barrels in this area contain similar supplies to those found in area 1.
 
 #### Treasure
 
-All three Lavender Lancers possess belt pouches containing various treasures. The first holds 16 silver pieces and 7 bronze coins; the second, 12 silver pieces and 5 bronze coins; and the third, 15 electrum pieces and two garnets, each valued at 10 bronze coins. Furthermore, three worn, scarlet cloaks hang from the bunks.
+All three Lavender Lancers possess belt pouches containing various treasures. The first holds 160 copper coins and 7 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, scarlet cloaks hang from the bunks.
 
 #### Awarding Skill & Destiny Points
 
@@ -782,7 +782,7 @@ Combat in this chamber will serve as a warning to the Lavender Lancers in area 5
 
 #### Treasure
 
-Within the remnants of each sarcophagus, a platinum signet ring (50 gp) can be found among the bones.
+Within the remnants of each sarcophagus, a jeweled signet ring (50 bc) can be found among the bones.
 
 #### Awarding Skill & Destiny Points
 
@@ -866,7 +866,7 @@ Notably, the bottom of the crevasse has an eerie chill. When viewed with a detec
 
 #### Treasure
 
-As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 160 silver pieces, 120 bronze coins, five malachite gems, each worth 15 bronze coins, two potions of healing, and a scroll of augury.
+As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 1600 copper coins, 120 bronze coins, five malachite gems, each worth 15 bronze coins, two potions of healing, and a scroll of augury.
 
 Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Tresendar, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an ogrekin assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
 
@@ -900,7 +900,7 @@ Regarding developments, the Ferralkins are the only individuals in the Lavender 
 
 #### Treasure
 
-In terms of treasure, Mosk carries a belt pouch containing 33 silver pieces and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 bronze coins). He also possesses an iron key capable of locking and unlocking all doors in the Lavender Lancer hideout.
+In terms of treasure, Mosk carries a belt pouch containing 330 copper coins and wears an eye patch fashioned from black leather and adorned with semiprecious stones (worth 50 bronze coins). He also possesses an iron key capable of locking and unlocking all doors in the Lavender Lancer hideout.
 
 #### Awarding Skill & Destiny Points
 
@@ -924,7 +924,7 @@ Upon the party's entrance, the Lavender Lancers instantly identify any character
 
 #### Treasure
 
-As for treasure, all the wealth on the table has been wagered in the game. (Knocking over the table or mixing up their loot is an effective way to momentarily distract them.) The total value includes 75 copper pieces, 55 silver pieces, 22 electrum pieces, 15 bronze coins, and a gold earring adorned with a small ruby (worth 30 bronze coins).
+As for treasure, all the wealth on the table has been wagered in the game. (Knocking over the table or mixing up their loot is an effective way to momentarily distract them.) The total value includes 625 copper coins, 26 bronze coins, and a gold earring adorned with a small ruby (worth 30 bronze coins).
 
 #### Awarding Skill & Destiny Points
 
@@ -1003,7 +1003,7 @@ In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have 
 
 #### Treasure
 
-Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Lavender Lancers over the last two months, including 180 silver pieces, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
+Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Lavender Lancers over the last two months, including 1800 copper coins, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
 For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminnates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
@@ -1018,7 +1018,7 @@ In this phase of the adventure, the characters embark on a quest to follow up on
 Depending on which NPCs the characters have interacted with and the clues or quests they've undertaken, they may possess the following information:
 
 * Sister Garaele has requested that the characters visit the banshee Agatha in the ruined town of Conyberry to inquire about Bowgentle's spellbook.
-* Daran Edermath has expressed interest in discovering who lurks near the ruins at Old Mole Well.
+* Levi Gemwerth has expressed interest in discovering who lurks near the ruins at Old Mole Well.
 * Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Tide Echo Cavern, or both.
 * Townmaster Harbin Wester desires the characters to investigate an ogrekin encampment near Wyrm Tor and remove the ogrekins from the area.
 * Ulfric Warwinter's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
@@ -1063,7 +1063,7 @@ Day Roll Night Roll Result
 
 **Ogre.** The ogre is searching for an easy meal and is too dimwitted to flee once combat commences.
 
-**Vermkins.** The Vermkins hold knowledge of Mountainmaw Castle and can provide directions if they are captured and confronted. Each Vermkin carries a pouch containing 1d10 copper pieces.
+**Vermkins.** The Vermkins hold knowledge of Mountainmaw Castle and can provide directions if they are captured and confronted. Each Vermkin carries a pouch containing 1d10 copper coins.
 
 **HobVermkins.** This group of hobVermkins actively seeks the adventurers in hopes of collecting a bounty. They possess information about the location of Mountainmaw Castle but won't share directions unless charmed. One of the hobVermkins carries a roughly drawn sketch of one of the party members, along with the text "25 bronze coins for this one" and a black spider symbol beneath it.
 
@@ -1134,11 +1134,11 @@ Kost remains guarded regarding the reason for his presence in the area. Neverthe
 
 #### Treasure
 
-Within Hamun Kost's tent lies a well-appointed traveling suite, including a cot, a chair, a writing desk with supplies, and a clothing chest. Inside the chest, there is a leather bag containing 35 silver pieces, 20 electrum pieces, 20 bronze coins, 5 platinum pieces, one pearl (100 bronze coins), a potion of healing, a scroll of darkness enclosed in a bone tube, and a small jeweled box (valued at 25 bronze coins) containing an ancient Netheril ring of protection—the Red Wizard's most intriguing discovery thus far.
+Within Hamun Kost's tent lies a well-appointed traveling suite, including a cot, a chair, a writing desk with supplies, and a clothing chest. Inside the chest, there is a leather bag containing 500 copper coins, 83 bronze coins, one pearl (100 bronze coins), a potion of healing, a scroll of darkness enclosed in a bone tube, and a small jeweled box (valued at 25 bronze coins) containing an ancient Netheril ring of protection—the Red Wizard's most intriguing discovery thus far.
 
 #### Awarding Skill & Destiny Points
 
-Discovering the presence of the Red Wizard at Old Mole Well fulfills a quest given to the party by Daran Edermath in Tuntin. If the party parleys with Hamun Kost and reports back to Daran, divide 200 XP equally among the characters.
+Discovering the presence of the Red Wizard at Old Mole Well fulfills a quest given to the party by Levi Gemwerth in Tuntin. If the party parleys with Hamun Kost and reports back to Levi, divide 200 XP equally among the characters.
 
 If the party confronts and defeats Hamun Kost and his zombies, divide 800 XP equally among the characters.
 
@@ -1200,7 +1200,7 @@ These plant creatures are hungry and will fight until they are destroyed. In the
 
 #### Treasure
 
-A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Perception Skill Check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 700 copper pieces, 160 silver pieces, and 90 bronze coins.
+A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Perception Skill Check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 2300 copper coins, and 90 bronze coins.
 
 #### Awarding Skill & Destiny Points
 
@@ -1284,7 +1284,7 @@ Circumventing the webs is made difficult by the dense thickets on the north side
 
 #### Treasure
 
-In the western half of the building, the corpse of an unfortunate adventurer is ensnared in spider silk. The body, a shriveled male dhampir, is sucked dry and decomposed but still clad in studded leather armor with a shortsword in its scabbard. A thorough search also reveals a potion of healing in a belt pouch, along with 23 gp and 35 sp.
+In the western half of the building, the corpse of an unfortunate adventurer is ensnared in spider silk. The body, a shriveled male dhampir, is sucked dry and decomposed but still clad in studded leather armor with a shortsword in its scabbard. A thorough search also reveals a potion of healing in a belt pouch, along with 26 bc and 50 cc.
 
 Skill & Destiny Points
 
@@ -1308,7 +1308,7 @@ In the tower, a youthful green dragon named Venomfang recently claimed dominion.
 
 #### Treasure
 
-An aged wooden chest, its lid broken open and resting on the tower floor, safeguards the last remnants of a deceased wizard's wealth. The chest contains 800 sp, 150 gp, four silver goblets adorned with moonstones (valued at 60 gp each), a scroll of misty step, and a scroll of lightning bolt. Venomfang takes great delight in surveying its hoard.
+An aged wooden chest, its lid broken open and resting on the tower floor, safeguards the last remnants of a deceased wizard's wealth. The chest contains 230 bc, four silver goblets adorned with moonstones (valued at 60 bc each), a scroll of misty step, and a scroll of lightning bolt. Venomfang takes great delight in surveying its hoard.
 
 Remarkably, the most intriguing item in the hoard is often overlooked by the dragon. Beneath the coins lies a rustic battleaxe of molekin craftsmanship. Dwarvish runes on the axe head read "Hew," and the rust obscures its true nature. Hew is a +1 battleaxe that deals maximum damage when used against plant creatures or wooden objects. The axe's creator, a molekin smith, had a long-standing feud with the forest's dryads, from whom he gathered firewood. Anyone wielding this axe feels discomfort while traversing a forest.
 
@@ -1342,7 +1342,7 @@ All the reagents and mixtures have long perished, and the books are now indeciph
 
 #### Treasure
 
-As for the treasure, the case itself has no value but safeguards a gold necklace with an exquisite emerald pendant, valued at 200 gp.
+As for the treasure, the case itself has no value but safeguards a gold necklace with an exquisite emerald pendant, valued at 200 bc.
 
 ### **10. The Town Square**
 
@@ -1408,7 +1408,7 @@ If the characters decide to converse with the cultists, Favric explains that the
 
 #### Treasure
 
-Favric keeps a small coffer in the main room, containing tribute for the green dragon: three diamonds (valued at 100 gp each). He also carries a potion of flying in a stoppered vial around his neck.
+Favric keeps a small coffer in the main room, containing tribute for the green dragon: three diamonds (valued at 100 bc each). He also carries a potion of flying in a stoppered vial around his neck.
 
 #### Awarding Skill & Destiny Points
 
@@ -1436,7 +1436,7 @@ The marauders within the cave consist of Brughor Axe-Biter (an ogrekin with 30 h
 
 #### Treasure
 
-Brughor's band plundered several homesteads to the north on their way to Wyrm Tor. In the cave, an unlocked treasure chest holds 750 copper pieces, 180 silver pieces, 62 electrum pieces, 30 bronze coins, and three vials of perfume (each worth 10 gp).
+Brughor's band plundered several homesteads to the north on their way to Wyrm Tor. In the cave, an unlocked treasure chest holds 2550 copper coins, 61 bronze coins, and three vials of perfume (each worth 10 bc).
 
 #### Awarding Skill & Destiny Points
 
@@ -1550,7 +1550,7 @@ This room accommodates four hobVermkins who, due to the constant brawls among th
 
 #### **Treasure**
 
-Mounted on the walls are five spears, four longswords, three morningstars, two greatswords, and a finely crafted quarterstaff. The quarterstaff is engraved with stylized feathers, surprisingly light (11 pounds), and valued at 10 gp.
+Mounted on the walls are five spears, four longswords, three morningstars, two greatswords, and a finely crafted quarterstaff. The quarterstaff is engraved with stylized feathers, surprisingly light (11 pounds), and valued at 10 bc.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1588,7 +1588,7 @@ If combat breaks out here, the Vermkins in area 9 cannot be taken by surprise.
 
 #### **Treasure**
 
-The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun dhampir (worth 100 gp) swathed in crimson fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
+The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun dhampir (worth 100 bc) swathed in crimson fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
 
 A detect magic spell will reveal that the statuette is imbued with divination magic. When held by any non-evil creature, the figurine can be used to ask a question, receiving a telepathic response as though the caster had employed augury (consult the rulebook for this spell's description). Once a creature has asked its question and received a response, the statuette can never be activated again.
 
@@ -1610,7 +1610,7 @@ The bloodstained cloth fully envelops the stone altar, with engravings of the sa
 
 #### **Treasure**
 
-The golden chalice, knife, and censer are mudblood-crafted art objects worth 150 gp, 60 gp, and 120 gp, respectively.
+The golden chalice, knife, and censer are mudblood-crafted art objects worth 150 bc, 60 bc, and 120 bc, respectively.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1664,7 +1664,7 @@ If the characters open the door and remain out of the owlbear's path, it will fl
 
 #### **Treasure**
 
-All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful DC 15 Perception Skill Check to be spotted. It is unlocked and contains 90 ep, 120 gp, a potion of healing, a scroll of silence, and a scroll of revivify.
+All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful DC 15 Perception Skill Check to be spotted. It is unlocked and contains 165 bc, a potion of healing, a scroll of silence, and a scroll of revivify.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1698,7 +1698,7 @@ Should Burrowbard regain consciousness, he expresses his gratitude to the party 
 
 #### **Treasure**
 
-Concealed beneath Grom's bed mattress is a sewn leather sack containing 220 sp, 160 ep, three potions of healing, and Burrowbard's map to Tide Echo Cavern.
+Concealed beneath Grom's bed mattress is a sewn leather sack containing 20 cc, 82 bc, three potions of healing, and Burrowbard's map to Tide Echo Cavern.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1720,7 +1720,7 @@ Divide 500 XP equally among the characters if they conquer the hobVermkin war ba
 
 ### **What's Next?**
 
-Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider ogrekinhestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 gp each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
+Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider ogrekinhestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 bc each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
 With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient molekin mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
 
@@ -1850,7 +1850,7 @@ The paper within the cubbyholes, ancient and brittle, disintegrates upon contact
 
 #### **Treasure**
 
-Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Dexterity check. This pay chest, overlooked during the turmoil of past battles, houses 600 copper pieces, 180 silver pieces, 90 electrum pieces, and 60 bronze coins.
+Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Dexterity check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
 
 ### **6. South Barracks**
 
@@ -1912,7 +1912,7 @@ Upon examining the pool's depths, an adventurous character stumbles upon the wel
 
 #### Treasure
 
-The wizard's remains bear two platinum rings (valued at 75 gp each) and clasp a wand of magic missiles in its bony grasp.
+The wizard's remains bear two platinum rings (valued at 75 bc each) and clasp a wand of magic missiles in its bony grasp.
 
 ### **11. North Barracks**
 
@@ -1932,7 +1932,7 @@ Five Ferralkins inhabit this room, faithfully serving Nezznar. This room marks t
 
 #### Treasure
 
-The most sizeable Ferralkin carries a pouch containing 15 cp, 13 ep, and a potion of vitality.
+The most sizeable Ferralkin carries a pouch containing 15 cc, 7 bc, and a potion of vitality.
 
 **12. Smelter Cavern**
 
@@ -1986,7 +1986,7 @@ However, the wraith will never relinquish the wooden pipe from the scogrekinhed 
 
 #### Treasure
 
-The scogrekinhed chest is unlocked and contains 1,100 copper pieces, 160 silver pieces, 50 electrum pieces, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
+The scogrekinhed chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
 Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 Intelligence (Investigation) check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
@@ -2096,7 +2096,7 @@ If the characters capture Nezznar and deliver him to the town master's hall in T
 
 #### **Treasure**
 
-Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 190 electrum pieces (ep), 130 bronze coins (gp), 15 platinum pieces (pp), nine small gemstones (each valued at 10 gp), and a molekin ale mug crafted from hammered electrum (valued at 100 gp).
+Nezznar possesses a potion of healing and a spider staff. Additionally, he carries an iron key featuring an anvil-shaped head that unlocks the door to Area 20. Nezznar's explorations have yielded treasure, which is stored in the sack on the wooden table. The sack contains 35 bronze coins (bc), 2 bc gold coins (gc), nine small gemstones (each valued at 10 bc), and a molekin ale mug crafted from hammered electrum (valued at 1 gc).
 
 #### **Awarding Skill & Destiny Points**
 
