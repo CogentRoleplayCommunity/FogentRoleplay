@@ -195,7 +195,7 @@ The Mountainmaw cave ascends steeply, situated at the base of a substantial hill
 
 **Rubble.** Navigating through areas with crumbling rock and gravel poses a challenge, as they are classified as difficult terrain (refer to "Difficult Terrain").
 
-**Sound.** The ambient sound of water within the cave serves to muffle noises, requiring attentive listening for creatures to detect activity. A CL 3 Perception Skill Check enables creatures to attempt hearing nearby chamber sounds.
+**Sound.** The ambient sound of water within the cave serves to muffle noises, requiring attentive listening for creatures to detect activity. A CL 3 Perception Check enables creatures to attempt hearing nearby chamber sounds.
 
 **Stalagmites.** Upthrust spires of rock, can offer cover as outlined in the general rules "Cover" section.
 
@@ -315,7 +315,7 @@ A Vermkin, currently hiding, stands watch on the bridge. Characters can spot it 
 
 If the Vermkin detects the adventurers, it signals the Vermkins in area 7 to initiate a flood (refer to the "Flood!" section) and then hurls arrows down at the characters.
 
-**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Acrobatics Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
+**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb Check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Acrobatics Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
 
 Flood Alert! The large pools in area 7 have collapsible walls that can be dislodged to release a surge of water down the main passage. In the round after the Vermkins in area 7 receive the signal from the lookout in area 5, they begin removing supports. On the Vermkins' initiative count in the subsequent round, a water surge rushes from area 7 down to area 1.
 
@@ -343,7 +343,7 @@ Should the characters refuse to parley, Yeek forcefully shoves Ulfric over the e
 
 Ulfric Warwinter, a kindhearted mudblood male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Eastern Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Cavern, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
-Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a shortsword taken from a defeated Vermkin or provided by a character.
+Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a weapon taken from a defeated Vermkin or provided by a character.
 
 Yeek carries a pouch with three small bronze teeth (1 bc each) and 150 cc. The gear of Ulfric and Burrowbard Stoneseeker is located at Mountainmaw Castle. For guidance on running NPC party members, refer to the "NPC Party Members" sidebar.
 
@@ -363,7 +363,9 @@ Guidelines for NPC Party Members:
 
 ### 7. Twin Pools Cave
 
-This cavern, altered by the Vermkins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three Vermkins stand guard. If the Vermkin in area 5 has alerted the Vermkins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one Vermkin hastens to area 8 to warn Thrak.
+This cavern, altered by the Vermkins' actions, now features two large pools of water occupying half its space. A narrow waterfall descends from the eastern wall, feeding one pool, while the other drains out through the western end, forming the stream that exits the cave mouth below. Low fieldstone walls act as dams, controlling the water levels. Character's who pay attention to the pools can attempt a CL 3 Perception check to notice a clam under the water, which contains a Pearl (100 bc). 
+
+An expansive exit lies to the south, and two smaller passages lead west. The constant noise of the waterfall reverberates, creating challenges for auditory perception. In this chamber, three Vermkins stand guard. If the Vermkin in area 5 has alerted the Vermkins here to the characters' presence, they are prepared for potential conflict. The waterfall's sound isolates this area from the adjacent one (area 8), preventing them from hearing each other. Thus, if combat erupts here, one Vermkin hastens to area 8 to warn Thrak.
 
 **Rock Dams.** The Vermkins ingeniously constructed simple dams to manipulate the water flow through the heart of their complex. Should the Vermkin sentry in area 5 signal for the release of a flood, one or both pools may be nearly empty, allowing the stream to flow unimpeded.
 
@@ -389,7 +391,9 @@ If the wolf is slain, Thrak attempts to descend the chimney to area 3 and flee t
 
 #### Treasure
 
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company. Additionally, Thrak's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company. 
+
+Additionally, Thrak's treasure chest holds 600 cc, 11 bc, two vials of minor healing blood, and a jade statuette of a frog with tiny golden orbs for eyes (40 bc). The small statuette can easily fit into a pocket or pouch.**
 
 ### What Comes Next?
 
