@@ -244,6 +244,7 @@ Magic Spells are more complex types of magic that behave in very specific ways. 
 - [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
+- [Ranged Healing](Spells/Apprentice/RangedHealing.md)
 - [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
 - [Shape Shift](Spells/Apprentice/Shapeshift.md)
 

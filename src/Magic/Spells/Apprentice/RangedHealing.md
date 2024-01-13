@@ -1,6 +1,6 @@
-# Bodily Healing
+# Ranged Healing
 
-Depending on the wins achieved, the user gains one of the following effects.
+Depending on the wins achieved, the user can cast one of the following effects.
 
 |                                   Effect                                   | Challenge Level | Magic Resource Cost |
 | :-------------------------------------------------------------------------: | :-------------: | :-----------------: |
@@ -13,7 +13,7 @@ Depending on the wins achieved, the user gains one of the following effects.
 
 ## Info
 
-**Range:** Self
+**Range:** equivlent to Ranged Magic
 
 **Engageable Opponents:** Focused
 
@@ -25,4 +25,6 @@ Depending on the wins achieved, the user gains one of the following effects.
 
 **Magic skills required:**
 
-- Body magic (level 1)
+- Blood magic (level 1)
+- Blessing magic (level 1)
+- Nature magic (level 1)
