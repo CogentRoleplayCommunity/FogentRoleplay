@@ -9,7 +9,7 @@
 | Athletics |   2   |  6d6  | Acrobatics      |   0   |  3d6  | Communication     |   0   |  3d6  |
 | Climb     |   0   |  4d6  | Perception      |   1   |  4d6  | General Knowledge |   0   |  3d6  |
 | Endurance |   0   |  4d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  3d6  |
-| Lift      |   0   |  4d6  | Stealth         |   1   |  3d6  | Will         |   0   |  3d6  |
+| Lift      |   0   |  4d6  | Stealth         |   1   |  3d6  | Will              |   0   |  3d6  |
 
 ## Vocations and Vocational Skills
 
@@ -21,20 +21,20 @@
 
 ## Effects
 
-|             Name              |                            Effect                             | Duration |                                                                  Source                                                                  |
-| :---------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|     Minor Silver Weakness     | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
-|    Physical Defense Level     |                               3                               |          |                                                                  Armor                                                                   |
-|          Medium Size          |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
-|      Language: Babelish       |                      Can speak Babelish.                      |          |                                                                                                                                          |
-|       Language: Primal        |                       Can speak Primal.                       |          |                                                                                                                                          |
-| Disabling: Incapable of Lying |          His people do not lie and neither does he.           |          |                                                                                                                                          |
-|       Inventory Weight        |                           39.85 lb                            |          |                                                                Equipment                                                                 |
+|             Name              |                            Effect                             | Duration |                                                      Source                                                      |
+| :---------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+|     Minor Silver Weakness     | (+1) to the level of injury<br />received from Silver damage. |          |                                                  Fellkin blood                                                   |
+|    Physical Defense Level     |                               3                               |          |                                                      Armor                                                       |
+|          Medium Size          |                     5x5 ft on battle map.                     |          |                                                                                                                  |
+|      Language: Babelish       |                      Can speak Babelish.                      |          |                                                                                                                  |
+|       Language: Primal        |                       Can speak Primal.                       |          |                                                                                                                  |
+| Disabling: Incapable of Lying |          His people do not lie and neither does he.           |          |                                                                                                                  |
+|       Inventory Weight        |                           39.85 lb                            |          |                                                    Equipment                                                     |
 |     Humanoid Carry Weight     |                            220 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|         Light Weight          |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
-|    Humanoid Movement Speed    |                             40 ft                             |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
-|      Humanoid Swim Speed      |                             35 ft                             |          |                                        15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                                         |
-|     Humanoid Climb Speed      |                             25 ft                             |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
+|         Light Weight          |                -0d6 to STR/RFX governed skills                |          |                                             0% - 25% of carry weight                                             |
+|    Humanoid Movement Speed    |                             40 ft                             |          |                            30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                             |
+|      Humanoid Swim Speed      |                             35 ft                             |          |                            15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                             |
+|     Humanoid Climb Speed      |                             25 ft                             |          |                               15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                               |
 
 ## Combat Rolls
 
@@ -43,7 +43,7 @@
 | Cryocraft - Melee Trick  |       3d6       |                 |                   |      0      |    Melee     |       Cold        |           Rapid           |                     |        None         |
 | Cryocraft - Ranged Trick |       3d6       |                 |                   |      0      |    Close     |       Cold        |         Standard          |                     |        None         |
 |        Heavy Bow         |      None       | 8d6<br />(+2d6) |       None        |      2      | Sharpshooter |                   |         Standard          |        None         |        Arrow        |
-|    Large Hafted Blade    | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None        |      2      |    Melee     |       Slash       |           Rapid           |        None         |        None         |
+|     Large Hafted Axe     | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None        |      2      |    Melee     |        Hew        |           Rapid           |        None         |        None         |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
@@ -64,7 +64,7 @@
 | Leather Cuisses and Greaves   |   1   |              Phy. Def. 0.33              | Quality |   15/15    |   2   | 2.73 bc |
 | Leather Vambrace              |   1   |              Phy. Def. 0.33              | Quality |   15/15    |   2   | 1.82 bc |
 | Clothes, Traveler's           |   1   |                   Misc                   | Mundane |            |   4   |  2 bc   |
-| Dane Axe                      |   1   |            Large Hafted Blade            | Mundane |   12/12    |   4   |  11 bc  |
+| Dane Axe                      |   1   |             Large Hafted Axe             | Mundane |   12/12    |   4   |  11 bc  |
 | Longbow                       |   1   |                Heavy Bow                 | Mundane |   12/12    |   4   |  50 bc  |
 | Quiver (capacity: 20)         |   1   |                   Misc                   | Mundane |            |   1   |  1 bc   |
 | Broadhead Arrow               |  17   |              Standard Arrow              | Mundane |            | 0.05  |  1 bc   |
