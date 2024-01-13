@@ -1,6 +1,6 @@
 # Magic
 
-This document provides generalized rules for magic system mechanics built to integrate with Cogent Roleplay. Once understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor. If you are playing Fallen, you will probably just use the premade magic systems. But if you were wanting to make your own magic system for your own world, the generalized magic system mechanics are a great scaffolding.
+This document provides generalized rules for magic system mechanics built to integrate with Cogent Roleplay. Once understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor. If you are playing Fallen, you will probably just use the pre-made magic systems. But if you were wanting to make your own magic system for your own world, the generalized magic system mechanics are a great scaffolding.
 
 - Magic Name = Fellcraft/Miracles/Runecraft
 - Magic Vocation = Fellkin/Brightkin/Runesmith
