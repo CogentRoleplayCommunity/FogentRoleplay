@@ -31,7 +31,7 @@ All Brightkin have an inner light. Maintaining one's physical health restores Li
 
 Brightkin can absorb Light via ample sources of light (such as the Sun) or by drawing on powerful emotion/memories.
 
-### Miracle Wonders
+### Wonders
 
 Wonders are uses of Miracles that use an insignificant  amount of Light. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Light is completely depleted.
 
