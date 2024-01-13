@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        |   3   |  8d6  | Brightkin {ALL} | 2   | 7d6 |
+| Guard {RFX}        |   3   |  8d6  | Brightsmith {ALL} | 2   | 7d6 |
 | ------------------ | :---: | :---: | --------------- | --- | --- |
 | Medium Sword {ALL} |   3   |  8d6  | Radiance {ALL}  | 2   | 7d6 |
 |                    |   0   |  3d6  | Blessing {ALL}  | -1  | 4d6 |

@@ -19,7 +19,7 @@ Priests act as divine conduits via their belief, devotion and/or relationship wi
 - Spell Name: Hymn
 
 If power is from divine heritage:
-- Magic Vocation Name: Brightkin
+- Magic Vocation Name: Brightsmith
 - Magic Vocation Governing Attributes: STR, RFX, INT
 - Magic Resource Name: Ichor
 
