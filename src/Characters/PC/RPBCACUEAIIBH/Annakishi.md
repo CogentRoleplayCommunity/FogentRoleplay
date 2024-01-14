@@ -82,6 +82,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Silver dagger (Stolen, Hidden) |  5  | Small Thrusting Point, Thrown Small Point | Fine        |    18/18   |  0.5  | ?? bc | She stole it and keeps it hidden aware of it's potential to hurt fellkin...                                                                                                                    |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D***
+
 **Carapace mechanic:**
 - Can not be sold or repaired, nor does it count as additional weight, it can only be shed and re-grown using polycraft for 1 ichor and CL2 in during rest.
 - Shedded carapace can not be reused by others, it becomes brittle in the process. (Otherwise it would be far too easy to armor up the whole team at little cost.)
