@@ -91,27 +91,26 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 - Her name: Annakishi :D
 
 ## Appearance
-
 ### Age:
-- 19
+19
 
 ### Race:
-- Kiki (Chitinkin)
+Kiki (Chitinkin)
 
 ### Height:
-- 4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
+4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
 
 ### Weight:
-- ~ 92 lb
+~ 92 lb
 
 ### Body:
-- Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
+Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
 
 ### Hair:
-- She wears her long wavy brown hair loose.
+She wears her long wavy brown hair loose.
 
 ### Eyes:
-- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
 
 ### Additional Details:
 **Bug eye Advantages:**
@@ -134,7 +133,7 @@ Her eyes don't normally glow, she can only see in complete darkness by means of 
 - She has a good sense of smell (having both human nose and antennae), and feromones bugs use to communicate.
 
 **Extra arms and wings:**
-I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so her kind does, even if she's basically a mix of several different bugs. ;)
+- I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so her kind does, even if she's basically a mix of several different bugs. ;)
 She is not strong enough to fly far without polycrat to boost her strength, but she can jump really big, or glide and also maneuver swiftly in flight.
 Her wings buzz loudly on a low pitch like large bugs.
 
