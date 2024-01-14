@@ -2,6 +2,8 @@
 
 ![](GailHoldlaw.jpg)
 
+Unspent Skillpoint: 1
+
 ## Attributes and Core Skills
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
@@ -24,7 +26,7 @@
 
 |              Name              |                             Effect                             | Duration |                        Source                        |
 | :----------------------------: | :------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|     Physical Defense Level     |                              3.33                              |          |                         Armor                         |
+|     Physical Defense Level     |                              3.00                              |          |                         Armor                         |
 |          Medium Size          |                     5x5 ft on battle map.                     |          |                                                      |
 |       Language: Babelish       |                      Can speak Babelish.                      |          |                                                      |
 |     Disabling: Hemaphobia     |             Irrational fear of blood and viscera.             |          |                                                      |
