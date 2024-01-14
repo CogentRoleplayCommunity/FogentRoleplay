@@ -579,9 +579,9 @@ Halia is unaware of Mountainmaw Castle's location but has heard rumors that the 
 
 **Quest: Halia's Job Offer.** In the event that characters she deems controllable approach her, Halia discloses the Lavender Lancers' disruptive influence in town. She explains that the ruffians frequently loiter at the Napping Giant tap house and have an operational base underneath Tresendar Manor on the town's eastern border. She offers the characters 100 bc to eliminate the Lavender Lancer leader, known as Glassmith, and to secure any correspondence discovered in his quarters. Halia keeps her true intentions hidden, as she aims to take over the Lavender Lancer operation herself. A successful CL 3 Communications check reveals her ulterior motives.
 
-#### Joining the Zhentarim
+#### Joining the Bargainers
 
-Should the party successfully eliminate the Lavender Lancer leader, Helga Wispbrook takes the opportunity to approach specific members of the group and encourages them to consider joining the Zhentarim. She engages with those who share the Zhentarim's ambitions, which revolve around the pursuit of wealth and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Fang.
+Should the party successfully eliminate the Lavender Lancer leader, Helga Wispbrook takes the opportunity to approach specific members of the group and encourages them to consider joining the Bargainers. She engages with those who share the Bargainers' ambitions, which revolve around the pursuit of wealth, secrets, and power. Even if the party completely dismantles the Lavender Lancer gang, Halia may still make this offer with the intention of fostering allies and informants within the party. If a character agrees to join, Halia bestows upon them the title of Ear.
 
 ### Alderleaf Farm
 
