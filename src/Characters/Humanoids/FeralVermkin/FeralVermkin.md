@@ -51,7 +51,7 @@
 
 | Name                          |   #   |                     Class                     |  Tier   | Durability |  LB   |  Value  |
 | ----------------------------- | :---: | :-------------------------------------------: | :-----: | :--------: | :---: | :-----: |
-| Leather Cuirass and Pauldrons |   1   |                Phy. Def. 1.00                 | Quality |   15/15    |   6   | 3.63 bc |
+| Leather Cuirass and Pauldrons |   1   |                Phy. Def. 1.00                 | Quality |   15/15    |   6   | 5 bc |
 | Buckler Shield                |   1   |                  Phy. Def. 1                  | Mundane |   12/12    |   4   |  2 bc   |
 | Shoddy Scimitar               |   1   | Medium Thrusting Sword, Medium Slashing Sword | Shoddy  |    9/9     |   2   |  15 bc  |
 | Shoddy Shortbow               |   1   |                   Light Bow                   | Shoddy  |    9/9     |   2   |  15 bc  |

@@ -7,10 +7,10 @@
 | Gambeson Leggings                    |   1   |             Phy. Def. 0.375             |   Mundane   |   12/12    |   3   |  1.87 bc  |
 |                                      |       |                                         |             |            |       |           |
 | Leather Armor                        |   1   |               Phy. Def. 2               |   Quality   |   15/15    |  12   |   10 bc   |
-| Leather Helmet                       |   1   |             Phy. Def. 0.34              |   Quality   |   15/15    |   2   |  1.82 bc  |
-| Leather Cuirass and Pauldrons        |   1   |             Phy. Def. 1.00              |   Quality   |   15/15    |   6   |  3.63 bc  |
-| Leather Cuisses and Greaves          |   1   |             Phy. Def. 0.33              |   Quality   |   15/15    |   2   |  2.73 bc  |
-| Leather Vambrace                     |   1   |             Phy. Def. 0.33              |   Quality   |   15/15    |   2   |  1.82 bc  |
+| Leather Helmet                       |   1   |             Phy. Def. 0.34              |   Quality   |   15/15    |   2   |  1.67 bc  |
+| Leather Cuirass and Pauldrons        |   1   |             Phy. Def. 1.00              |   Quality   |   15/15    |   6   |  5 bc  |
+| Leather Cuisses and Greaves          |   1   |             Phy. Def. 0.33              |   Quality   |   15/15    |   2   |  1.67 bc  |
+| Leather Vambrace                     |   1   |             Phy. Def. 0.33              |   Quality   |   15/15    |   2   |  1.66 bc  |
 |                                      |       |                                         |             |            |       |           |
 | Chainmail Armor                      |   1   |               Phy. Def. 3               |  Excellent  |   21/21    |  47   |   75 bp   |
 | Chainmail Coif                       |   1   |             Phy. Def. 0.38              |  Excellent  |   21/21    |   6   |  9.57 bc  |

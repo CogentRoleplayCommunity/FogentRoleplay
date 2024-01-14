@@ -43,8 +43,8 @@
 
 | Name                          |   #   |                              Class                              |  Tier   | Durability |  LB   |  Value  |
 | ----------------------------- | :---: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :-----: |
-| Leather Cuirass and Pauldrons |   1   |                         Phy. Def. 1.00                          | Quality |   15/15    |   6   | 3.63 bc |
-| Leather Vambrace              |   1   |                         Phy. Def. 0.33                          | Quality |   15/15    |   2   | 1.82 bc |
+| Leather Cuirass and Pauldrons |   1   |                         Phy. Def. 1.00                          | Quality |   15/15    |   6   | 5 bc |
+| Leather Vambrace              |   1   |                         Phy. Def. 0.33                          | Quality |   15/15    |   2   | 1.66 bc |
 | Gambeson Armor                |   1   |                         Phy. Def. 1.00                          | Mundane |   12/12    |   8   |  5 bc   |
 | Shortsword                    |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |  1.5  |  10 bc  |
 

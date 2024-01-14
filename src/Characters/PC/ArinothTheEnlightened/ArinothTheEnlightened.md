@@ -57,7 +57,7 @@
 
 | Name                          |   #   |                                                  Class                                                  |   Tier    | Durability |  LB   |  Value  |
 | ----------------------------- | :---: | :-----------------------------------------------------------------------------------------------------: | :-------: | :--------: | :---: | :-----: |
-| Leather Cuirass and Pauldrons |   1   |                                             Phy. Def. 1.00                                              |  Quality  |   15/15    |   6   | 3.63 bc |
+| Leather Cuirass and Pauldrons |   1   |                                             Phy. Def. 1.00                                              |  Quality  |   15/15    |   6   | 5 bc |
 | Clothes, Traveler             |   1   |                                                  Misc                                                   |  Mundane  |            |   4   |  5 bc   |
 | Monkey Staff                  |   1   | Extendable Weapon, Small Hafted Blunt, Medium Hafted Blunt,<br />Large Hafted Blunt, Reach Hafted Blunt | Excellent |   21/21    |   4   |    ?    |
 
