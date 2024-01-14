@@ -24,13 +24,13 @@
 |              Name              |                             Effect                             | Duration |                        Source                        |
 | :----------------------------: | :------------------------------------------------------------: | :------: | :---------------------------------------------------: |
 |     Minor Silver Weakness     |    (+1) to the level of injury received from Silver damage.    |          |                     Fellkin blood                     |
-|     Physical Defense Level     |                               3                               |          |                         Armor                         |
+|     Physical Defense Level     |                               4                               |          |                         Armor                         |
 |          Medium Size          |                     5x5 ft on battle map.                     |          |                                                      |
 |       Language: Babelish       |                      Can speak Babelish.                      |          |                                                      |
 |           Language:           |                          Can speak .                          |          |                                                      |
 |     Disabling: Hemaphobia     |             Irrational fear of blood and viscera.             |          |                                                      |
 | Disabling: Extreme Entitlement | Constantly assumes he's of high import, no matter where he is. |          |                                                      |
-|        Inventory Weight        |                           29.75 lb                           |          |                       Equipment                       |
+|        Inventory Weight        |                             26 lb                             |          |                       Equipment                       |
 |     Humanoid Carry Weight     |                             120 lb                             |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |          Light Weight          |                -0d6 to STR/RFX governed skills                |          |               0% - 25% of carry weight               |
 |    Humanoid Movement Speed    |                             30 ft                             |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
@@ -58,16 +58,17 @@
 
 ## Equipment:
 
-| Name                          | # |                     Class                     |  Tier  | Durability | LB |  Value  |
-| ----------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :-: | :-----: |
-| Gambeson Coat                 | 1 |                  Phy. Def. 1                  | Mundane |   12/12   | 5 |  2 bc  |
-| Gambeson Leggings             | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 3 |  1 bc  |
-| Leather Cuirass and Pauldrons | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 4 |  3 bc  |
-| Leather Cuisses and Greaves   | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 3 |        |
-| Leather Vambrace              | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   | 2 | 1.5 bc |
-| Half Helm                     | 1 |                  Phy. Def. 1                  | Mundane |   12/12   | 5 | 22.5 bc |
-| "Cold Judgement"              | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   | 2 |  2 bc  |
-| Satchel (2/5 ft^3)            | 1 |                12 lb container                | Mundane |            | 2 |  1 bc  |
+| Name                          | # |                     Class                     |   Tier   | Durability | LB |  Value  |
+| ----------------------------- | :-: | :-------------------------------------------: | :-------: | :--------: | :-: | :-----: |
+| Gambeson Coat                 | 1 |                Phy. Def. 0.625                |  Mundane  |   12/12   | 5 | 3.13 bc |
+| Gambeson Leggings             | 1 |                Phy. Def. 0.375                |  Mundane  |   12/12   | 3 | 1.87 bc |
+| Leather Helmet                | 1 |                Phy. Def. 0.34                |  Quality  |   15/15   | 2 | 1.82 bc |
+| Leather Cuirass and Pauldrons | 1 |                Phy. Def. 1.00                |  Quality  |   15/15   | 6 | 3.63 bc |
+| Leather Cuisses and Greaves   | 1 |                Phy. Def. 0.33                |  Quality  |   15/15   | 2 | 2.73 bc |
+| Leather Vambrace              | 1 |                Phy. Def. 0.33                |  Quality  |   15/15   | 2 | 1.82 bc |
+| Buckler Shield                | 1 |                  Phy. Def. 1                  |  Mundane  |   12/12   | 4 |  2 bc  |
+| "Cold Judgement"              | 1 | Medium Thrusting Sword, Medium Slashing Sword | Excellent |   24/24   | 2 |  25 bc  |
+| Satchel (2/5 ft^3)            | 1 |                12 lb container                |  Mundane  |            | 2 |  1 bc  |
 
 ## Containers:
 
@@ -79,11 +80,9 @@
 | Rations (1 day)        | 7 | Misc | Mundane |            |  2  | 350 cc |
 | Rope, Hempen (50 feet) | 1 | Misc | Mundane |            |  10  |  100c  |
 | Soap                   | 1 | Misc | Mundane |            | 0.5 |  2 cc  |
-| Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
-| Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
-| Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
-| Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
-| Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
+| Clothes, Fine          | 1 | Misc | Mundane |            |  4  | 15 bc |
+| Runebook               | 10 | Misc | Mundane |            | 0.25 | 50 bc |
+| Bronze Coin            | 17 | Misc | Mundane |            | 1.68 | 28 cc |
 
 ## Appearance:
 
@@ -108,22 +107,24 @@ Additional Details:
 
 ## Beliefs/Morality:
 
-* Myself over most.
-* If I can take it, it belongs to me.
-* Some things are worth dying over.
-* Treasure what you have, and take care of it.
-* Friends are rare, let those that you have lean on you.
+* I deserve to be safe and lauded.
+* Hard work is for those of less prestigious stock.
+* Generally people dying is not good, save who can be saved.
+* Heroic ideals are my ideals, when they make sense to me.
+* Turning the other cheek is for those that don't have the will to strike back.
 
 ## Goals/Aspirations:
 
-* Earn enough money to send back to his family to get them out of debt.
-* Destroy the loan baron that tricked his family.
-* Steal Vasilii's money.
+* Become a lauded hero across the land.
+* Become a master runesmith to show up all those that doubted him.
+* Reclaim his families rightful glory and prestige as nobility.
 
 ## Notes:
 
 ## Backstory:
 
-Born to a poor family in Reddland, William lives much of his life on the street, growing up amongst a tough crowd that taught him how to steal his bread, and provide for his family in a small way. During this time he became a proficient pickpocket and padfoot, and began to learn that taking from others felt good. However during these times, to save his sister from the Spore, his family had to take out a large loan to be able to purchase Healing Blood, being scammed by the loan baron that tricked them into the egregious loan. Now unable to support themselves thanks to the extreme conditions of the loan, William decides to take up a job as a mercenary at the age of 18, in order to send money back to his family in hopes of one day clearing them of their debt.
+Gail Holdlaw of the Holdlaw family is many things. A brilliant student, a skilled speaker, a man of status, a son of a Magistrate. But there is one thing he is not. An adventurer.
 
-During this time, William met a man named Burrowbard Stoneseeker and began to work for him, and after a time Burrowbard found out that William's family was desperately in debt due to his family being scammed by a loan baron, and he was only working as a mercenary in order to pay it off. This made him sympathize with William and buy his family's debt out, charging no interest on the condition that William worked for him exclusively from then on. William enthusiastically agreed and began to work under him as his private mercenary.
+Born to the Holdlaw family, Gail lived in the lap of luxury during his upbringing. His family line, once teeming with the fellblood of Birdkin, now dilluted enough to be meer mudbloods, still held great power and import, his father being the magistrate of the town of - and the only male offspring he had, Gail was groomed at an early age to be his business partner and eventual successor, and was sent to attend the prestigious Bergenwerth Academy to forwards that goal. During his time at the academy, he excelled in most fields with a natural keenness and curiosity, but one in particular always caught his eye, Runesmithing. The precision needed for each rune, the incredible effects it could produce, the subtle details and movements evolving into power and grandiosity of such scale- in it he saw something. A chance to recapture the respect and prestige his family once had when their blood was still strong, to show up those that called his father a 'pawn' of other more noble powers. And as such, he set his sight on mastering the art.
+
+Then came a dreadful day and a dreadful letter. His father's handwriting telling him that he would no longer be able to attend the Academy any longer, that funds were low and none could be moved around to make ends meet. He would have to return home and continue his studies in a more practical sense, working alongside his father. To Gail, who had been putting his entire effort into his studies and advancement, found this unacceptable. With the money he still had and the knowledge he possessed, he decided that he would strike out on his own, to find his own glory on his own terms. However- 'adventuring' in the romantic sense turned out to be quite costly, and he soon found himself lacking for funds. Though reluctant to do so, he contacted an old friend of his father, Burrowbard Stoneseeker, asking for support. Instead of monetary support, he was given a job, which would pay upon completion. With little other options, in spite of his haughtiness, he agreed to this task.
