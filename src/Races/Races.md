@@ -30,6 +30,7 @@ Fellkin vary wildly, but all share the innate risk of going feral. This occurs w
 - Foxkin
 - Yetikin
 - Chimpkin
+- Mousekin
 
 ### [Brightkin](Brightkin/Brightkin.md)
 
