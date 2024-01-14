@@ -591,17 +591,17 @@ Qelline Alderleaf, a wise and practical female mousekin aged forty-five, is an a
 
 **Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Tide Echo Cavern, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
 
-### Shrine of Luck
+### Shrine of the Moon
 
-Tuntin's sole temple is a modest shrine constructed using stones collected from nearby ruins. It is dedicated to Tymora, the goddess of luck and good fortune.
+Tuntin's sole temple is a modest shrine constructed using stones collected from nearby ruins. It is dedicated to the Younger, the good of fortune and protection.
 
-The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young dhampir who despairs of ever eradicating the Lavender Lancers from Tuntin. Sister Garaele is a member of the Harpers, a widely distributed network of adventurers and spies committed to promoting equality and covertly opposing the abuse of power. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
+The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young dhampir who despairs of ever eradicating the Lavender Lancers from Tuntin. Sister Garaele is a member of the Silver Watchers, adventurers and spies committed to promoting equality and covertly opposing the abuse of power. They have close ties to the Brotherhood of Silver, acting as their eyes and ears. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
 
-**Quest: The Banshee's Bargain.** Sister Garaele was recently assigned a sensitive mission by her superiors. Her task was to persuade a banshee known as Agatha to respond to a question concerning a spellbook. Sister Garaele visited Agatha in her lair, but the banshee refused to appear for her. To facilitate communication, Garaele seeks an intermediary who will offer Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to divulge information about the location of a spellbook that once belonged to a legendary mage named Bowgentle. Sister Garaele believes that a character capable of flattering Agatha's vanity might be able to secure the answer through this trade. She extends the quest to the characters and offers them three potions of healing as compensation for their efforts. If the party decides to undertake this quest, refer to the "Conyberry and Agatha's Lair" section for more details.
+**Quest: The Banshee's Bargain.** Sister Garaele was recently assigned a sensitive mission by her superiors. Her task was to persuade a banshee known as Agatha to respond to a question concerning a runebook. Sister Garaele visited Agatha in her lair, but the banshee refused to appear for her. To facilitate communication, Garaele seeks an intermediary who will offer Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to divulge information about the location of a runebook that once belonged to a legendary runesmith named Bowgentle. Sister Garaele believes that a character capable of flattering Agatha's vanity might be able to secure the answer through this trade. She extends the quest to the characters and offers them three potions of minor healing blood as compensation for their efforts. If the party decides to undertake this quest, refer to the "Conyberry and Agatha's Lair" section for more details.
 
-#### Joining the Harpers
+#### Joining the Silver Watchers
 
-Should the party assist Sister Garaele in uncovering the fate of Bowgentle's spellbook, she privately approaches specific members of the group, encouraging them to consider joining the Harpers. She focuses on individuals who embody the network's values and express a desire to bring about positive change through information and secrecy. If a character chooses to join, Sister Garaele confers upon them the title of Watcher.
+Should the party assist Sister Garaele in uncovering the fate of Bowgentle's runebook, she privately approaches specific members of the group, encouraging them to consider joining the Harpers. She focuses on individuals who embody the network's values and express a desire to bring about positive change through information and secrecy. If a character chooses to join, Sister Garaele confers upon them the title of Watcher.
 
 ### The Napping Giant
 
@@ -948,7 +948,7 @@ Among the books, there's a tome penned in Dwarvish. It's the journal of an adven
 
 #### Developments
 
-In terms of developments, since Sylas and his rat familiar maintain a telepathic bond, the mage (in area 12) becomes aware that the characters are approaching and thus has time to make preparations.
+In terms of developments, since Sylas and his rat familiar maintain a telepathic bond, the runesmith (in area 12) becomes aware that the characters are approaching and thus has time to make preparations.
 
 #### Treasure
 
@@ -968,7 +968,7 @@ If Sylas is taken by surprise, include the following paragraph:
 Sitting at the desk is a short, dark-bearded mudblood male dressed in robes, engrossed in the study of a tome. He sports an ermine-trimmed princely mantle and keeps a splendid glass staff leaning against his chair, within easy reach.
 ```
 
-However, if the rat in area 11 alerts him to the approaching danger, Sylas, the malevolent mage, swiftly retrieves his staff of defense (see the appendix) and the scrolls from his chest (see the "Treasure" section) before making his escape through the secret door in the northeast corner of the room. In his rush, Sylas inadvertently leaves a letter from the Black Spider behind (see the "Developments" section), and fails to secure the secret door completely. Characters gain an advantage on ability checks when trying to locate the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For additional information on secret doors, refer to the "General Features" section (page 20).
+However, if the rat in area 11 alerts him to the approaching danger, Sylas, the malevolent runesmith, swiftly retrieves his staff of defense (see the appendix) and the scrolls from his chest (see the "Treasure" section) before making his escape through the secret door in the northeast corner of the room. In his rush, Sylas inadvertently leaves a letter from the Black Spider behind (see the "Developments" section), and fails to secure the secret door completely. Characters gain an advantage on ability checks when trying to locate the slightly ajar secret door (see "Advantage and Disadvantage" in the rulebook). For additional information on secret doors, refer to the "General Features" section (page 20).
 
 If he successfully escapes, Sylas flees to area 1 (through areas 7 and 8) and retrieves the satchel hidden in the cistern there. If the nothic in area 8 is still alive, Sylas instructs it to waylay any pursuers. If the characters manage to catch up to him, Sylas drinks the potion of invisibility from the satchel and makes a hasty exit from the hideout. Depending on your discretion, he may reappear later in the adventure.
 
@@ -978,7 +978,7 @@ In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized t
 
 Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Lavender Lancer outlaws.
 
-If he feels threatened, Sylas uses his staff of defense to cast mage armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Sylas employs the shield power of his staff for extra protection.
+If he feels threatened, Sylas uses his staff of defense to cast runesmith armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Sylas employs the shield power of his staff for extra protection.
 
 Should he be reduced to 8 or fewer hit points with no means of escape, Sylas surrenders, valuing his life above all else, hoping that his model behavior as a prisoner might lead the Black Spider to secure his release.
 
@@ -1119,11 +1119,11 @@ In recent times, prospectors have observed that an encampment has been establish
 As the party ascends a low ridge, they lay eyes on the decaying remnants of an ancient watchtower, situated amidst the rugged hills. The structure's walls have crumbled away, leaving behind a rudimentary courtyard adjacent to the shattered remains of an old tower. A vibrant, multicolored tent is set up in the center of the courtyard, but there is no sign of its occupant.
 ```
 
-The camp is currently occupied by a mage who is fervently exploring the site, hoping to discover ancient arcane knowledge left behind by its creators. The characters have various options to access the site, either by following old trails or ascending the slope to find an opening in the encircling walls of rubble.
+The camp is currently occupied by a runesmith who is fervently exploring the site, hoping to discover ancient arcane knowledge left behind by its creators. The characters have various options to access the site, either by following old trails or ascending the slope to find an opening in the encircling walls of rubble.
 
 There are twelve zombies concealed within the shattered shell of the former watchtower, unseen from the outside. However, any character with a passive Wisdom (Perception) score of 10 or higher detects a putrid scent wafting from the direction of the tower. When the characters approach the tower or the tent, the zombies emerge from within the structure.
 
-If a conflict arises, Hamun Kost, the malevolent mage, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a DC 10 Intelligence (Arcana) check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 Intelligence (History) check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
+If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a DC 10 Intelligence (Arcana) check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 Intelligence (History) check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
 
 If any character tries to initiate a dialogue with Kost, even through a greeting or by responding to his questions during combat, he momentarily halts his zombies. The Red Wizard is not overtly aggressive and is willing to negotiate a deal that serves both his interests and the party's.
 
@@ -1970,7 +1970,7 @@ The entrance doors to this room exhibit visible signs of wear, with their iron h
 Within, the room bears the marks of destruction, evident in the ash, dust, fire-blackened walls, and heaps of debris under the sagging ceiling. The furnishings, including tables, chairs, bookshelves, and beds, have been charred or shattered, but they remain surprisingly intact. An iron chest, scogrekinhed by the flames, rests near the base of one of the beds.
 ```
 
-The spirit of Mormesk, the last wizard to perish in this room, still haunts the area. Initially unseen, Mormesk materializes when a living being enters the room. Once a formidable mage, his existence was snuffed out during the climactic battle that devastated the mines. Centuries of resentment have warped his soul into a malevolent apparition.
+The spirit of Mormesk, the last wizard to perish in this room, still haunts the area. Initially unseen, Mormesk materializes when a living being enters the room. Once a formidable runesmith, his existence was snuffed out during the climactic battle that devastated the mines. Centuries of resentment have warped his soul into a malevolent apparition.
 
 Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scogrekinhed chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
 

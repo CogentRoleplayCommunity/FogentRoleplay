@@ -7,6 +7,7 @@
 - Calm Seas
 - Lakes
 - Child Birth
+- Good Fortune
 
 ## Lore
 
