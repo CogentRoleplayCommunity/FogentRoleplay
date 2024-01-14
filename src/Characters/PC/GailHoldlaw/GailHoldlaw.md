@@ -18,9 +18,9 @@ Unspent Skillpoint: 1
 | Rune Scholar {INT} | 2 | 6d6 |
 | ------------------- | :-: | :-: |
 | Air Rune {INT}    | 2 | 6d6 |
-| Cold Rune {INT}     | 1 | 5d6 |
+| Cold Rune {INT}     | 2 | 6d6 |
 | Time Rune {INT}     | -1 | 3d6 |
-| ??? Rune {INT}      | -1 | 3d6 |
+| Blood Rune {INT}   | -1 | 3d6 |
 
 ## Effects:
 
@@ -55,12 +55,11 @@ Unspent Skillpoint: 1
 |       Cold Rune -[Ranged](./../../../Magic/Spells/Novice/RangedMagic.md)       |         7d6         |                      |                      |      1      |  Medium  |                  |         Standard         |                    |      1 (Focus)      |
 |        Cold Rune -[Cone](./../../../MagicSpells/Apprentice/ConeMagic.md)        |         7d6         |                      |                      |      2      |  Medium  |                  |          Focused          |        Cone        |      1 (Focus)      |
 | Cold Rune -[Reach Melee](./../../../Magic/Spells/Apprentice/ReachMeleeMagic.md) |         7d6         |                      |                      |      2      |  Reach  |                  |           Rapid           |                    |      1 (Focus)      |
-|    Cold Rune -[Melee Sign](./../../../Magic/Spells/Cantrip/MeleeCantrip.md)    |         6d6         |                      |                      |      0      |  Melee  |                  |           Rapid           |                    |        None        |
-|   Cold Rune -[Range Trick](./../../../Magic/Spells/Cantrip/RangedCantrip.md)   |         6d6         |                      |                      |      0      |  Close  |                  |         Standard         |                    |        None        |
+|       Cold Rune -[Sphere](./../../../Magic/Spells/Adept/SphereMagic.md)       |         8d6         |                      |                      |      0      |  Close  |                  |         Standard         |                    |        None        |
 |    Time Rune -[Melee Sign](./../../../Magic/Spells/Cantrip/MeleeCantrip.md)    |         6d6         |                      |                      |      0      |  Melee  |                  |           Rapid           |                    |        None        |
 |   Time Rune -[Range Trick](./../../../Magic/Spells/Cantrip/RangedCantrip.md)   |         6d6         |                      |                      |      0      |  Close  |                  |         Standard         |                    |        None        |
-|     ??? Rune -[Melee Sign](./../../../Magic/Spells/Cantrip/MeleeCantrip.md)     |         6d6         |                      |                      |      0      |  Melee  |                  |           Rapid           |                    |        None        |
-|   ??? Rune -[Range Trick](./../../../Magic/Spells/Cantrip/RangedCantrip.md)   |         6d6         |                      |                      |      0      |  Close  |                  |         Standard         |                    |        None        |
+|    Blood Rune -[Melee Sign](./../../../Magic/Spells/Cantrip/MeleeCantrip.md)    |         6d6         |                      |                      |      0      |  Melee  |                  |           Rapid           |                    |        None        |
+|  Blood Rune -[Range Trick](./../../../Magic/Spells/Cantrip/RangedCantrip.md)  |         6d6         |                      |                      |      0      |  Close  |                  |         Standard         |                    |        None        |
 |                   "Frozen Needle" - Medium Thrusting Sword                   | 3d8,2d6<br />(+1d6) | 3d8, 3d6<br />(+2d6) | 3d8, 3d6<br />(+1d6) |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
 |                   "Frozen Needle" - Medium Slashing Sword                   | 3d8, 3d6<br />(+2d6) | 3d8, 4d6<br />(+3d6) | 3d8, 4d6<br />(+1d6) |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 
