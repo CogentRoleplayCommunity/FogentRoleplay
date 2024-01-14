@@ -92,23 +92,23 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 ## Appearance
 
-Age: 19
+**Age: 19**
 
-Race: Kiki (Chitinkin)
+**Race: Kiki (Chitinkin)**
 
-Height: 4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
+**Height: 4' 9"** ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
 
-Weight: ~ 92 lb
+**Weight: ~ 92 lb**
 
-Body: Slender, humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
+**Body: Slender**, humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
 
-Hair: She wears her long wavy brown hair loose.
+**Hair:** She wears her **long wavy brown hair loose**.
 
-Eyes: That's a long story... :D She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+**Eyes:** That's a long story... :D She has **big black compound eyes (multi lens bug eyes)**, with it's natural advantages and disadvantages.
 
-Additional Details:
+**Additional Details:**
 
-Bug eye Advantages:
+**Bug eye Advantages:**
 - Wider then average visual range (180°).
 - High sensitivity. (She can see at starlight at night, or distant campfire lit by the enemy she's scouting, or faintly glowing flora in caves, since her kind live in underground hives.)
 - Light polarisation (Her eyes don't need to adjust to brightness or dimmness.)
@@ -117,17 +117,17 @@ Bug eye Advantages:
 (Realistically she should be able to catch an arrow at CL2, or dodge a normal blow at CL1, but it's far easier to just size the challange level to humans, because that's what we are and spend her attribute points on reflex.
 Her eyes meant to help her avoid obstacles and catch prey in flight, but her kind live most of their lives underground, their vision being complemented by their antennae for tunnel navigation by use of feromones.)
 
-Bug eye Disadvanages:
+**Bug eye Disadvanages:**
 - Unable to see small detail (She can't solve puzzles, can't appreciate intricate detail and never learnt to read, cause she sees regular hand written characters in about 4x4 pixel resolution.)
 - She can see a moving humanoid figure far away, she can even see the form raising a weapon to shoot, and react in time, but she can only identify a perspon or object from about 30 foot or closer by sight. (10 meters or closer)
 
 (The closest analog to her vision are low resolution high framerate cameras with fisheye lenses, and automatic IR filter, but no active IR for night vision, just highly sensitive passive IR.
 Her eyes don't normally glow, she can only see in complete darkness by means of polycraft transformation.)
 
-Antennae:
+**Antennae:**
 - She has a good sense of smell (having both human nose and antennae), and feromones bugs use to communicate.
 
-Extra arms and wings:
+**Extra arms and wings:**
 I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so her kind does, even if she's basically a mix of several different bugs. ;)
 She is not strong enough to fly far without polycrat to boost her strength, but she can jump really big, or glide and also maneuver swiftly in flight.
 Her wings buzz loudly on a low pitch like large bugs.
