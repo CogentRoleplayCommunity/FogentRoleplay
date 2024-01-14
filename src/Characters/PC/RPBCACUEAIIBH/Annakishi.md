@@ -32,7 +32,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Toxincraft {ALL} |  0  | 5d6 |                     |     |     |
 | Terracraft {ALL} |  0  | 5d6 |                     |     |     |
 
-## Effects
+## Effects (UNFINISHED)
 
 | Name                    | Effect                                                        | Duration | Source                                                                                                                                   |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
@@ -50,7 +50,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Humanoid Swim Speed     | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
 | Humanoid Climb Speed    | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
-## Combat Rolls
+## Combat Rolls (UNFINISHED)
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -67,11 +67,11 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                     |                    |             |       |                   |                     |
 
-## Destiny Points: 0/3
+## Destiny Points: 0/3 (UNFINISHED)
 
-## Magic Resource: 0/3
+## Magic Resource: 0/3 (UNFINISHED)
 
-## Equipment
+## Equipment (UNFINISHED)
 
 |              Name              |  #  |                   Class                   |     Tier    | Durability |  LB   | Value |                                                 Note                                               |
 | :----------------------------: | :-: | :---------------------------------------: | :---------: | :--------: | :---: | :---: | :------------------------------------------------------------------------------------------------: |
@@ -79,7 +79,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Silver dagger (Stolen, Hidden) |  2  | Small Thrusting Point, Thrown Small Point |     Fine    |    18/18   |  0.5  | ?? bc | She stole it and keeps it hidden aware of it's potential to hurt fellkin...                        |
 |                                |     |                                           |             |            |       |       |                                                                                                    |
 
-## Containers
+## Containers (UNFINISHED)
 
 | Name |  #  | Class | Tier | Durability | LB  | Value |
 | :--: | :-: | :---: | :--: | :--------: | :-: | :---: |
