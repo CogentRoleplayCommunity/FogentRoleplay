@@ -28,7 +28,7 @@ During the Awakening, The Bargainer bestowed upon Fellkind the insatiable desire
 
 Depicted often as a figure seated at a desk or throne, surrounded by symbols of clandestine knowledge and abundant riches, The Bargainer is revered by merchants, scholars, rogues, mercenaries, and spies.
 
-Priests and priestesses devoted to The Bargainer hold positions of influence within the realms of merchants, scholars, and covert operatives. Membership in their ranks resembles a secret society, accessible only to those who actively seek wealth, possess hidden knowledge, or wield significant power.
+Priests and priestesses devoted to The Bargainer hold positions of influence within the realms of merchants, scholars, and covert operatives. This group known as "The Bargainers" resembles a secret society, accessible only to those who actively seek wealth, possess hidden knowledge, or wield significant power.
 
 ## Relics
 
