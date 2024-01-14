@@ -54,18 +54,18 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-| - Ranged Trick |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|    - Melee    |                |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Ichor)      |
-|    - Ranged    |                |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Ichor)      |
-|     - Cone     |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Ichor)      |
-|    - Reach    |                |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Ichor)      |
-|   - Focused   |                |                |                  |      2      | Close |                  |          Focused          |                    |      1 (Ichor)      |
-|    - Sphere    |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |      2 (Ichor)      |
+| - Melee Trick  |                 |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
+| - Ranged Trick |                 |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
+|    - Melee     |                 |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
+|    - Ranged    |                 |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
+|     - Cone     |                 |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Ichor)      |
+|    - Reach     |                 |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
+|   - Focused    |                 |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Ichor)      |
+|    - Sphere    |                 |                 |                   |      3      | Close |                   |          Focused          |       Sphere        |      2 (Ichor)      |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|      |                     |                    |             |       |                   |                     |
 
 ## Destiny Points: 0/3
 
@@ -77,12 +77,13 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | :----------------------------: | :-: | :---------------------------------------: | :---------: | :--------: | :---: | :---: | :------------------------------------------------------------------------------------------------: |
 |     Royal Kiki Quarterstaff    |  1  |           Medium Hafter Blunt             | Mastercraft |    33/33   |   2   | ?? bc | Given to her as a parting gift when she left the hive. (It's precious to her whatever it's value.) |
 | Silver dagger (Stolen, Hidden) |  2  | Small Thrusting Point, Thrown Small Point |     Fine    |    18/18   |  0.5  | ?? bc | She stole it and keeps it hidden aware of it's potential to hurt fellkin...                        |
+|                                |     |                                           |             |            |       |       |                                                                                                    |
 
 ## Containers
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+| Name |  #  | Class | Tier | Durability | LB  | Value |
+| :--: | :-: | :---: | :--: | :--------: | :-: | :---: |
+|      |     |       |      |            |     |       |
 
 ## Notes
 ### For those who struggle with naming(like I do):
@@ -92,25 +93,25 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 ## Appearance
 ### Age:
-19
+- 19
 
 ### Race:
-Kiki (Chitinkin)
+- Kiki (Chitinkin)
 
 ### Height:
-4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
+- 4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
 
 ### Weight:
-~ 92 lb
+- ~ 92 lb
 
 ### Body:
-Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
+- Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
 
 ### Hair:
-She wears her long wavy brown hair loose.
+- She wears her long wavy brown hair loose.
 
 ### Eyes:
-She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
 
 ### Additional Details:
 **Bug eye Advantages:**
@@ -119,7 +120,7 @@ She has big black compound eyes (multi lens bug eyes), with it's natural advanta
 - Light polarisation (Her eyes don't need to adjust to brightness or dimmness.)
 - This enables her to react about 5x faster then humans.
 
-(Realistically she should be able to catch an arrow at CL2, or dodge a normal blow at CL1, but it's far easier to just size the challange level to humans, because that's what we are and spend her attribute points on reflex.
+(Realistically she should be able to catch an arrow at CL2, or dodge a normal blow at CL1 if challenge level is sized to her species specifically, but assigning a challenge level characteristic to each character's natural features is a bit overkill. No sane GM gonna do that. It's far easier to just size the challange level to humans capabilities and spend character attribute points on attributes where the character is above/below human level. That's why I put 2 attribute points into RFX. (I guess that's exactly why every race was granted the birght lord's form, so that challenge level can be sized to humans.)
 Her eyes meant to help her avoid obstacles and catch prey in flight, but her kind live most of their lives underground, their vision being complemented by their antennae for tunnel navigation by use of feromones.)
 
 **Bug eye Disadvanages:**
