@@ -92,22 +92,28 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 ## Appearance
 
-**Age: 19**
+### Age:
+- 19
 
-**Race: Kiki (Chitinkin)**
+### Race:
+- Kiki (Chitinkin)
 
-**Height: 4' 9"** ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
+### Height:
+- 4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
 
-**Weight: ~ 92 lb**
+### Weight:
+- ~ 92 lb
 
-**Body: Slender**, humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
+### Body:
+- Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
 
-**Hair:** She wears her **long wavy brown hair loose**.
+### Hair:
+- She wears her long wavy brown hair loose.
 
-**Eyes:** That's a long story... :D She has **big black compound eyes (multi lens bug eyes)**, with it's natural advantages and disadvantages.
+### Eyes:
+- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
 
-**Additional Details:**
-
+### Additional Details:
 **Bug eye Advantages:**
 - Wider then average visual range (180°).
 - High sensitivity. (She can see at starlight at night, or distant campfire lit by the enemy she's scouting, or faintly glowing flora in caves, since her kind live in underground hives.)
