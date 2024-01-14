@@ -131,7 +131,7 @@ She got hooked on Mirage during her journey through the great emptiness, compell
 - ~ 92 lb
 
 ### Body:
-- Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
+- Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer but narrower then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
 
 ### Hair:
 - She wears her long wavy brown hair loose.
@@ -163,6 +163,10 @@ Her eyes don't normally glow, she can only see in complete darkness by means of 
 - I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so her kind does, even if she's basically a mix of several different bugs. ;)
 She is not strong enough to fly far without polycrat to boost her strength, but she can jump really big, or glide and also maneuver swiftly in flight.
 Her wings buzz loudly on a low pitch like large bugs.
+
+**About her appearance in general:**
+- She is unlike anyhting I've seen in fantasy. I kinda looked for bugs to combine, and made her unique. The eyes and 4 wings come from dragonly, but she can fold them in on her back like winged ants. The chelae come from scorpion, the antennae and behavior from ants, and I also gave her some carapace for protection. The general idea I had for this character is a tiny adorable woman with cute antennae, and kind of a hive mind edition drama queen behavior.
+- I also didn't look for an existing character class, whether or not she fits any. I had a story and a character idea first, and I simply assigned her attribute and skill points to whatever made sense for her specifically.
 
 ## Notes (I'll probably use someting else for character notes... This is far too basic for me.)
 ### For those who struggle with naming(like I do):
