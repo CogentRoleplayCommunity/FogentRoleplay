@@ -1,6 +1,6 @@
 # Fanácrio
 
-![alt_text](Fanacrio.png)
+![alt_text](Fanácrio.png)
 
 ## Attributes and Core Skills
 
@@ -157,9 +157,9 @@ Even though his people treated Fanácrio terrible, he still can't shake the need
 
 ## Additional Art
 
-![](Fanacrio1.png)
-![](Fanacrio2.png)
-![](Fanacrio3.png)
+![](Fanácrio1.png)
+![](Fanácrio2.png)
+![](Fanácrio3.png)
 
 ## Backstory
 

@@ -85,10 +85,10 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 |      |  |      |      |            |    |      |
 
 ## Notes
-For those who struggle with naming(like I do):
-Pick a name eg. Ana on another language eg. Hungarian(my native language): Anna
-Apply a naming formula eg: {Non-English name} + aki/iki + shi; If {Non-English name} ends in "a" or "i" remove one.
-Her name: Annakishi :D
+### For those who struggle with naming(like I do):
+- Pick a name eg. Ana on another language eg. Hungarian(my native language): Anna
+- Apply a naming formula eg: {Non-English name} + aki/iki + shi; If {Non-English name} ends in "a" or "i" remove one.
+- Her name: Annakishi :D
 
 ## Appearance
 
@@ -96,7 +96,7 @@ Age: 19
 
 Race: Kiki (Chitinkin)
 
-Height: 4' 9" ...not counting a poir of foot long antennae waving from the top of her head the top few inches slightly bent.
+Height: 4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
 
 Weight: ~ 92 lb
 
