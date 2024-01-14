@@ -75,17 +75,18 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 |              Name              |  #  |                   Class                   |     Tier    | Durability |  LB   | Value |                                                 Note                                                                                                                                           |
 | :----------------------------: | :-: | :---------------------------------------: | :---------: | :--------: | :---: | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons |  1  | Natural Armor                             | Mundane     |    12/12   |   0   | 0 bc  | Equivalent of mundane leather cuirass and pauldrons (0.5)                                                                                                                                      |
-| Carapace Cuisses and Greaves   |  2  | Natural Armor                             | Mundane     |    12/12   |   0   | 0 bc  | Equivalent of mundane leather cuisses and greaves (0.5)                                                                                                                                        |
-| Carapace Vambrace              |  3  | Natural Armor                             | Mundane     |    12/12   |   0   | 0 bc  | Equivalent of mundane leather vambrace (0.5)                                                                                                                                                   |
+| Carapace Cuirass and Pauldrons |  1  | Natural Armor                             | Mundane     |    12/12   |   0   | 0 bc  | Equivalent of mundane leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                             |
+| Carapace Cuisses and Greaves   |  2  | Natural Armor                             | Mundane     |    12/12   |   0   | 0 bc  | Equivalent of mundane leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                               |
+| Carapace Vambrace              |  3  | Natural Armor                             | Mundane     |    12/12   |   0   | 0 bc  | Equivalent of mundane leather vambrace (Phy.Def. 0.5)                                                                                                                                          |
 | Royal Kiki Quarterstaff        |  4  | Medium Hafter Blunt                       | Mastercraft |    33/33   |   2   | ?? bc | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
 | Silver dagger (Stolen, Hidden) |  5  | Small Thrusting Point, Thrown Small Point | Fine        |    18/18   |  0.5  | ?? bc | She stole it and keeps it hidden aware of it's potential to hurt fellkin...                                                                                                                    |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D***
 
 **Carapace mechanic:**
-- Can not be sold or repaired, nor does it count as additional weight, it can only be shed and re-grown using polycraft for 1 ichor and CL2 in during rest.
+- Can not be sold or repaired, nor does it count as additional weight, it can only be shed and re-grown using polycraft for 1 ichor and CL2 during rest.
 - Shedded carapace can not be reused by others, it becomes brittle in the process. (Otherwise it would be far too easy to armor up the whole team at little cost.)
+- Carapace can not be upgraded. (Otherwise a character with natural carapace would not have much incentive to wear other types of armor.)
 - Characters born with carapace won't loose it when taking silver damage, as it is their natural form.
 - Characters not born with carapace may grow one with polycraft at the cost of 1 ichor at CL3 for 1 day, but they may loose it when taking silver damage depending on their endurance check.
 - To differentiate, carapace grown with polycraft may be classified as "Fellkin Armor", while carapace that the character is born with can be "Natural Armor".
