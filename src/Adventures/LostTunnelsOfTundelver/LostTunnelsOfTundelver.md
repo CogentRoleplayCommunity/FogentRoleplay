@@ -1,4 +1,4 @@
-## **uffOverview**
+## **Overview**
 
 The "Lost Mine of Tundelver" unfolds across four distinct sections.
 
@@ -157,7 +157,7 @@ In the unlikely event that the Vermkins manage to defeat the adventurers, they w
 
 Characters may decide to capture one or more Vermkins by knocking them unconscious rather than killing them. To do so, a character can use the "Render Unconscious" combat manuever or sum up 5d6 worth of injury. After a few minutes, a captured Vermkin regains consciousness and can be convinced to share what it knows (see "What the Vermkins Know" sidebar). Additionally, the party can persuade the captured Vermkin to lead them to the Mountainmaw hideout while avoiding traps (see "Vermkin Trail" section).
 
-If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graygale of the Tigershield Coster for more information on the Feralkin attacks.
+If the characters don't find the Vermkin trail or choose to continue to Tuntin, you can skip ahead to Part 2, "Tuntin." There, Elmer Barton, the owner of Barton's Provisions, will inform the characters that Burrowbard Stoneseeker never arrived in Tuntin and suggest they return to the ambush site to investigate further after resting. Barton can also point the party to Linett Graymane of the Beastshield Coster for more information on the Feralkin attacks.
 
 ```
 Resting:
@@ -379,7 +379,7 @@ To the south end of this expansive cave, sacks and crates brimming with pilfered
 
 **Natural Chimney.** A niche in the western wall marks the top of a shaft descending 30 feet to area 3. Refer to that section for details on climbing the natural chimney.
 
-**Supplies.** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Tigershield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
+**Supplies.** Piles of sacks and crates offer partial cover to creatures using them for fighting or hiding. Most bear the symbol of a blue lion, representing the Beastshield Coster, a merchant company in Tuntin. Among the supplies, a hidden, unlocked treasure chest belonging to Thrak can be found (see the "Treasure" section). Characters searching the supplies will discover the chest.
 
 #### **Developments**
 
@@ -391,7 +391,7 @@ If the wolf is slain, Thrak attempts to descend the chimney to area 3 and flee t
 
 #### Treasure
 
-The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Tigershield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company.
+The captured stores are voluminous, requiring a wagon for transportation. Returning the supplies to the Beastshield Coster in Tuntin (see part 2, "Tuntin") results in a reward of 50 bc and the friendship of Linett and her company.
 
 Additionally, Thrak's treasure chest holds:
 
@@ -461,7 +461,7 @@ Among the places the characters should consider visiting are:
 
 **Barton's Provisions.** If the characters bear the wagonload of supplies from the "Meet Me in Tuntin" adventure hook, they are directed to deliver it to this establishment.
 
-**Tigershield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
+**Beastshield Coster.** If the characters have retrieved the stolen goods from the Mountainmaw hideout, they may wish to return them to their rightful owner.
 
 **Bedrock Inn.** If Ulfric Warwinter accompanies the party, he recommends heading to this inn to secure lodgings. If the characters are in search of a place to dine and rest, they will find that the Bedrock Inn offers the best available options.
 
@@ -481,15 +481,14 @@ To initiate, inquire where the players wish to go and what they intend to do in 
 
 Here is a brief summary of the most important NPCs in Tuntin and their relevance to the adventure:
 
-1. **Toblen Bedrock (Innkeeper):** The proprietor of the Bedrock Inn, a central location in Tuntin where adventurers can gather information and secure lodging.
-2. **Elmer Barton (Trading Post Owner):** Operates a trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
-3. **Levi Gemwerth (Brotherhood of Silver Member):** A member of the Brotherhood of Silver who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
-4. **Linett Graygale (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
-5. **Helga Wispbrook (Bargainers Member):** A member of the Bargainers with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
-6. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted mousekin farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
-7. **Sister Garaele (dhampir Cleric of Tymora):** An dhampir cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
-8. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
-9. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Sylas Alabaster.
+1. **Toblen Bedrock (Innkeeper):** The proprietor of the Bedrock Inn, a central location in Tuntin where adventurers can gather information and secure lodging.Operates Bedrock Provisions trading post and owes money to the party if you are using the "Meet Me in Tuntin" adventure hook.
+2. **Levi Gemwerth (Brotherhood of Silver Member):** A member of the Brotherhood of Silver who has a quest for the party, providing an opportunity for adventurers to become involved in the order's activities.
+3. **Linett Graymane (Trader):** Operates a trading post and offers a reward for retrieving her stolen supplies, motivating the party to engage with the town's troubles.
+4. **Helga Wispbrook (Bargainers Member):** A member of the Bargainers with a quest for the party, introducing intrigue and opportunities to work with or against this faction.
+5. **Qelline Alderleaf (Helpful Halfling Farmer):** A kind-hearted mousekin farmer whose son, Carp, possesses knowledge of a secret entrance into the Lavender Lancers' hideout, potentially aiding the party's efforts to deal with this troublesome gang.
+6. **Sister Garaele (dhampir Cleric of Tymora):** An dhampir cleric of Tymora and Harper agent with a quest for the party, furthering the adventurers' involvement with the Harper organization.
+7. **Harbin Wester (Townmaster of Tuntin):** The townmaster of Tuntin who provides a quest for the party, prompting them to engage in town governance and security.
+8. **Ulfric Warwinter (Eastern Alliance Member):** A member of the Eastern Alliance who offers two quests for the party, linking them with this influential faction and the search for the missing wizard, Sylas Alabaster.
 
 ### Roleplaying Tuntin NPCs
 
@@ -555,15 +554,15 @@ Levi expresses concern regarding the Lavender Lancers and yearns for a group of 
 
 For characters who engage with the Lavender Lancers and explore Old Mole Well, Levi Gemwerth privately approaches certain members of the group, urging them to consider joining the Brotherhood of Silver. He targets those who align with the Brotherhood's values of honor, vigilance, and the extermination of monsters. If a character accepts, Levi bestows the title of initiate upon them.
 
-### Tigershield Coster
+### Beastshield Coster
 
 ```
 A wooden shield bearing a painted red tiger emblem hangs above the entrance of this unpretentious trading post.
 ```
 
-This establishment belongs to the Tigershield's, a merchant company headquartered in Oasis, on the other side of the Continent. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Tigershield caravan, destined for Tuntin, was waylaid and its cargo captured by Mountainmaw Vermkins.
+This establishment belongs to the Beastshield's, a merchant company headquartered in Oasis, on the other side of the Continent. They supply finished goods to Tuntin and other smaller settlements in the region. Unfortunately, this particular outpost has suffered from bandit attacks. The most recent Beastshield caravan, destined for Tuntin, was waylaid and its cargo captured by Mountainmaw Vermkins.
 
-The head of the Tuntin post is Linett Graygale, a sharp-tongued gray Leodelphian felinekin in her mid-thirties. Linett is aware of the banditry affecting Tigershield caravans but remains uncertain about the responsible parties.
+The head of the Tuntin post is Linett Graymane, a sharp-tongued gray Leodelphian felinekin in her mid-thirties. Linett is aware of the banditry affecting Beastshield caravans but remains uncertain about the responsible parties.
 
 In a back room, Linett maintains an inventory of armor and weapons available for sale to interested customers. This shop is a rural [Armory](./../../Items/ItemShop.md#armory), [Weaponsmith](./../../Items/ItemShop.md#weaponsmith), and [Adventuring Supplies](./../../Items/ItemShop.md#adventuring-supplies) store. However, Linett has her principles and refuses to sell weapons to those she believes could threaten the town, including the Lavender Lancers. She advises the characters to steer clear of the Napping Giant tap house.
 
@@ -647,14 +646,14 @@ It's almost inevitable that a confrontation with the Lavender Lancers occurs wit
 
 If the characters decide to confront the Lavender Lancers at the Napping Giant, you can describe the scene as follows:
 
-"The Napping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy crimson cloaks, and their scowling gazes are fixed on you as you approach.
+"The Napping Giant is a dilapidated tavern at the eastern end of town. Four surly mudblood ruffians loiter on the covered porch, sitting on empty ale barrels or leaning against the wall. They are all adorned in grimy lavender cloaks, and their scowling gazes are fixed on you as you approach.
 
 One of the thugs spits on the ground. "Well, well," he sneers. "Here's a whole bunch of little pups. What's your business here, pups? Did you come to yap at us?"
 
 If the Lavender Lancers confront the characters in the street, describe it as follows:
 
 ```
-As you step back into the street, you notice four armed ruffians waiting for you. They are all mudbloods dressed in filthy red cloaks, their hands on their weapons as they observe you.
+As you step back into the street, you notice four armed ruffians waiting for you. They are all mudbloods dressed in filthy lavender cloaks, their hands on their weapons as they observe you.
 
 One of the ruffians spits on the ground. "It's time to clear out, strangers. Hand over your belongings and be on your way."
 ```
@@ -1588,7 +1587,7 @@ If combat breaks out here, the Vermkins in area 9 cannot be taken by surprise.
 
 #### **Treasure**
 
-The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun dhampir (worth 100 bc) swathed in crimson fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
+The stone brazier conceals a mound of coal, beneath which rests a gold statuette of a sun dhampir (worth 100 bc) swathed in lavender fabric. A Vermkin concealed the figurine here in the hope that their fellow Vermkins would not pilfer it.
 
 A detect magic spell will reveal that the statuette is imbued with divination magic. When held by any non-evil creature, the figurine can be used to ask a question, receiving a telepathic response as though the caster had employed augury (consult the rulebook for this spell's description). Once a creature has asked its question and received a response, the statuette can never be activated again.
 
