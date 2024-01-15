@@ -215,13 +215,13 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 
 ### Novice Spells
 
-- [Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
+- [Babel's Clarity](Spells/Novice/Babel'sClarity.md)
 - [Bewitch](Spells/Novice/Bewitch.md)
 - [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
 - [Disguise Flesh](Spells/Novice/DisguiseFlesh.md)
 - [Fling](Spells/Novice/Fling.md)
-- [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
-- [Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+- [Hellfire's Retribution](Spells/Novice/Hellfire'sRetribution.md)
+- [Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
 - [Leap](Spells/Novice/Leap.md)
 - [Melee Magic](Spells/Novice/MeleeMagic.md)
 - [Mind Reading](Spells/Novice/MindReading.md)
