@@ -1,17 +1,15 @@
 # Name
 
-![img]()
+![Copyright]()
 
 ## Desc
 
 ## Info
 
-Item Type:
-
-Tier:
+| Name | # | Class | Effects | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :-----: | :--: | :--------: | :-: | :---: |
 
 ## Effects
 
-| Name | Effect | Duration | Source |
-| :--- | :----: | :------: | :----: |
-|      |        |          |        |
+| Name | Effect | Duration | Effect Slots |
+| :--- | :----: | :------: | :----------: |
