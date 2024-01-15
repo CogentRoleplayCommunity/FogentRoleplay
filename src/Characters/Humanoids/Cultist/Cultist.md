@@ -42,9 +42,9 @@
 
 | Name                          |   #   |                              Class                              |  Tier   | Durability |  LB   |  Value  |
 | ----------------------------- | :---: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :-----: |
-| Leather Cuirass and Pauldrons |   1   |                         Phy. Def. 1.00                          | Quality |   15/15    |   6   | 3.63 bc |
-| Leather Vambrace              |   1   |                         Phy. Def. 0.33                          | Quality |   15/15    |   2   | 1.82 bc |
-| Leather Cuisses and Greaves   |   1   |                         Phy. Def. 0.33                          | Quality |   15/15    |   2   | 1.82 bc |
+| Leather Cuirass and Pauldrons |   1   |                         Phy. Def. 1.00                          | Quality |   15/15    |   6   | 5 bc |
+| Leather Vambrace              |   1   |                         Phy. Def. 0.33                          | Quality |   15/15    |   2   | 1.66 bc |
+| Leather Cuisses and Greaves   |   1   |                         Phy. Def. 0.33                          | Quality |   15/15    |   2   | 1.67 bc |
 | Clothes, Fine                 |   1   |                              Misc                               | Mundane |            |   6   |  15 bc  |
 | Shortsword                    |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |  1.5  |  10 bc  |
 

@@ -61,7 +61,7 @@
 | Gambeson Coat                 |   1   |               Phy. Def. 0.625               |  Mundane  |   12/12    |   5   | 3.13 bc  |
 | Gambeson Leggings             |   1   |               Phy. Def. 0.375               |  Mundane  |   12/12    |   3   | 1.87 bc  |
 | Chainmail Coif                |   1   |               Phy. Def. 0.38                | Excellent |   21/21    |   6   | 9.57 bc  |
-| Leather Cuirass and Pauldrons |   1   |               Phy. Def. 1.00                |  Quality  |   15/15    |   6   | 3.63 bc  |
+| Leather Cuirass and Pauldrons |   1   |               Phy. Def. 1.00                |  Quality  |   15/15    |   6   | 5 bc  |
 | Chainmail Sleeves/Mittens     |   1   |   Phy. Def. 0.77, Hand Protection Unarmed   | Excellent |   21/21    |  12   | 19.16 bc |
 | Chainmail Chausses            |   1   |                Phy. Def. 0.7                | Excellent |   21/21    |  11   | 17.55 bc |
 | Clothes, Traveler's           |   1   |                    Misc                     |  Mundane  |            |   4   |   2 bc   |

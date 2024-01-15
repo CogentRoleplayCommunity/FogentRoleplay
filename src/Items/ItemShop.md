@@ -12,11 +12,11 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 
 ### Conversion between Currency
 
-| Coin   | Equivlent value |
-| ------ | --------------- |
-| 100 cc | 1 bc            |
-| 100 bc | 1 gc            |
-| 100 gc | 1 pc            |
+| Coin   | Equivalent value |
+| ------ | ---------------- |
+| 100 cc | 1 bc             |
+| 100 bc | 1 gc             |
+| 100 gc | 1 pc             |
 
 ### Out of Game Downtime Bartering Rules
 
@@ -73,10 +73,10 @@ Cheap shops will charge 50% the value for any item on this list.
 | Gambeson Leggings                 | 1   | Phy. Def. 0.375                         | Mundane     | 12/12      | 3      | 1.87 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 |                                   |     |                                         |             |            |        |           |               |              |              |                |
 | Leather Armor                     | 1   | Phy. Def. 2                             | Quality     | 15/15      | 12     | 10 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Helmet                    | 1   | Phy. Def. 0.34                          | Quality     | 15/15      | 2      | 1.82 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons     | 1   | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 3.63 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuisses and Greaves       | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 2.73 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Vambrace                  | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.82 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Helmet                    | 1   | Phy. Def. 0.34                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons     | 1   | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 5 bc      | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuisses and Greaves       | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Vambrace                  | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.66 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 |                                   |     |                                         |             |            |        |           |               |              |              |                |
 | Chainmail Armor                   | 1   | Phy. Def. 3                             | Excellent   | 21/21      | 47     | 75 bp     | TRUE          | TRUE         | TRUE         | TRUE           |
 | Chainmail Coif                    | 1   | Phy. Def. 0.38                          | Excellent   | 21/21      | 6      | 9.57 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
@@ -342,10 +342,10 @@ Cheap shops will charge 50% the value for any item on this list.
 | Gambeson Coat                       | 1   | Phy. Def. 0.625                                                 | Mundane | 12/12      | 5      | 3.13 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | Gambeson Leggings                   | 1   | Phy. Def. 0.375                                                 | Mundane | 12/12      | 3      | 1.87 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Armor                       | 1   | Phy. Def. 2                                                     | Quality | 15/15      | 12     | 10 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Helmet                      | 1   | Phy. Def. 0.34                                                  | Quality | 15/15      | 2      | 1.82 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons       | 1   | Phy. Def. 1.00                                                  | Quality | 15/15      | 6      | 3.63 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuisses and Greaves         | 1   | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 2.73 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Vambrace                    | 1   | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 1.82 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Helmet                      | 1   | Phy. Def. 0.34                                                  | Quality | 15/15      | 2      | 1.67 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons       | 1   | Phy. Def. 1.00                                                  | Quality | 15/15      | 6      | 5 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuisses and Greaves         | 1   | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 1.67 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Vambrace                    | 1   | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 1.66 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | -[Weapons]-                         |     |                                                                 |         |            |        |         |               |              |              |                |
 | Dagger                              | 1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane | 12/12      | 1      | 2 bc    | TRUE          | TRUE         | TRUE         | TRUE           |
 | Handaxe                             | 1   | Small Hafted Blade                                              | Mundane | 12/12      | 2      | 10 bc   | TRUE          | TRUE         | TRUE         | TRUE           |

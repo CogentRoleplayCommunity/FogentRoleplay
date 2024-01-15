@@ -59,10 +59,10 @@
 | ------------------------------ | :---: | :-----------------------------: | :-----: | :--------: | :---: | :-----: |
 | Gambeson Coat                  |   1   |         Phy. Def. 0.625         | Mundane |   12/12    |   5   | 3.13 bc |
 | Gambeson Leggings              |   1   |         Phy. Def. 0.375         | Mundane |   12/12    |   3   | 1.87 bc |
-| Leather Helmet                 |   1   |         Phy. Def. 0.34          | Quality |   15/15    |   2   | 1.82 bc |
-| Leather Cuirass and Pauldrons  |   1   |         Phy. Def. 1.00          | Quality |   15/15    |   6   | 3.63 bc |
-| Leather Cuisses and Greaves    |   1   |         Phy. Def. 0.33          | Quality |   15/15    |   2   | 2.73 bc |
-| Leather Vambrace               |   1   |         Phy. Def. 0.33          | Quality |   15/15    |   2   | 1.82 bc |
+| Leather Helmet                 |   1   |         Phy. Def. 0.34          | Quality |   15/15    |   2   | 1.67 bc |
+| Leather Cuirass and Pauldrons  |   1   |         Phy. Def. 1.00          | Quality |   15/15    |   6   | 5 bc |
+| Leather Cuisses and Greaves    |   1   |         Phy. Def. 0.33          | Quality |   15/15    |   2   | 1.67 bc |
+| Leather Vambrace               |   1   |         Phy. Def. 0.33          | Quality |   15/15    |   2   | 1.66 bc |
 | Clothes, Traveler              |   1   |              Misc               | Mundane |            |   4   |  5 bc   |
 | Quarterstaff with Hidden Spear |   1   | Large Hafted Blunt, Short Spear | Mundane |   12/12    |   4   |  2 bc   |
 
