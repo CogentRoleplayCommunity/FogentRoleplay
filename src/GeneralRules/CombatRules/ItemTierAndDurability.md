@@ -50,7 +50,7 @@ On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a
 
 ### Modification Slots
 
-Modification slots allow players and narrators to make custom items with unique effects. In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle.
+Modification slots allow players and narrators to make custom items with unique effects. In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle. Each modification has an associated modification slots it take up on an item. Items with higher tier have a greater amount of modification slots allowing for more powerful and/or numerous modifications.
 
 ## Item Durability (Optional)
 
