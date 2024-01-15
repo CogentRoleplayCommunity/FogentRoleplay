@@ -37,13 +37,13 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Name                    | Effect                                                        | Duration | Source                                                                                                                                   |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | Minor Silver Weakness   | (+1) to the level of injury<br />received from Silver damage. |          | Fellkin blood                                                                                                                            |
-| Physical Defense Level  | 0                                                             |          | Armor                                                                                                                                    |
+| Physical Defense Level  | Phy. Def. 1.5                                                 |          | Carapace                                                                                                                                 |
 | Medium Size             | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
 | Language: Babelish      | Can speak Babelish.                                           |          |                                                                                                                                          |
 | Language:               | Can speak Kikishi                                             |          |                                                                                                                                          |
 | Disabling: Feelbe       | She is shorter, lighter and weaker then other royal kiki.     |          | She lost on the genetic lottery.                                                                                                         |
 | Disabling: Drug addict. | A light dose of Mirage keeps her from depression.             |          |                                                                                                                                          |
-| Inventory Weight        | 0 lb                                                          |          | Equipment                                                                                                                                |
+| Inventory Weight        | 40.66 LB                                                      |          | Equipment                                                                                                                                |
 | Humanoid Carry Weight   | 70 lb                                                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 | Light Weight            | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
 | Humanoid Movement Speed | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
@@ -67,23 +67,57 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                     |                    |             |       |                   |                     |
 
-## Destiny Points: 0/3 (UNFINISHED)
+## Destiny Points: 3/3
 
-## Magic Resource: 0/3 (UNFINISHED)
+## Fellblood: 10/10
 
-## Equipment (UNFINISHED)
+## Equipment
 
-|              Name              |  #  |                   Class                   |     Tier    | Durability |  LB   | Value |                                                 Note                                               |
-| :----------------------------: | :-: | :---------------------------------------: | :---------: | :--------: | :---: | :---: | :------------------------------------------------------------------------------------------------: |
-|     Royal Kiki Quarterstaff    |  1  |           Medium Hafter Blunt             | Mastercraft |    33/33   |   2   | ?? bc | Given to her as a parting gift when she left the hive. (It's precious to her whatever it's value.) |
-| Silver dagger (Stolen, Hidden) |  2  | Small Thrusting Point, Thrown Small Point |     Fine    |    18/18   |  0.5  | ?? bc | She stole it and keeps it hidden aware of it's potential to hurt fellkin...                        |
-|                                |     |                                           |             |            |       |       |                                                                                                    |
+| Name                           |  #  | Class                                         | Tier        | Durability | LB  | Value  | Note                                                                                                                                                                                           |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :-: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons | 1   | Natural Armor                                 | Mundane     | 12/12      | 4   | 0 bc   | Equivalent of mundane leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                             |
+| Carapace Cuisses and Greaves   | 1   | Natural Armor                                 | Mundane     | 12/12      | 3   | 0 bc   | Equivalent of mundane leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                               |
+| Carapace Vambrace              | 1   | Natural Armor                                 | Mundane     | 12/12      | 2   | 0 bc   | Equivalent of mundane leather vambrace (Phy.Def. 0.5)                                                                                                                                          |
+| Clothes, Traveler's            | 1   | Misc                                          | Mundane     | 12/12      | 4   | 2 bc   | Simple Gown                                                                                                                                                                                    |
+| Cloak, Canvas                  | 1   | Misc                                          | Mundane     | 12/12      | 5   | 0.7 bc | Simple Warm Ruana Cloak                                                                                                                                                                        |
+| Boots                          | 1   | Misc                                          | Mundane     | 12/12      | 1   | 4 bc   |                                                                                                                                                                                                |
+| Pouch (1/5 ft^3)               | 1   | Misc                                          | Mundane     | 12/12      | 1   | 0.5 bc |                                                                                                                                                                                                |
+| Satchel (2/5 ft^3)             | 1   | Misc                                          | Mundane     | 12/12      | 2   | 1 bc   |                                                                                                                                                                                                |
+| Waterskin (4/4)                | 1   | Misc                                          | Mundane     | 12/12      | 5   | 20 bc  |                                                                                                                                                                                                |
+| Royal Kiki Quarterstaff        | 1   | Medium Hafter Blunt                           | Mastercraft | 33/33      | 4   | ?? bc  | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
+|                                | 0   |                                               | Mundane     | 12/12      | 0   | 0 bc   |                                                                                                                                                                                                |
 
-## Containers (UNFINISHED)
 
-| Name |  #  | Class | Tier | Durability | LB  | Value |
-| :--: | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |     |       |      |            |     |       |
+***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D***
+
+**Carapace mechanic:**
+- Can not be sold or repaired, nor does it count as additional weight, it can only be shed and re-grown using polycraft for 1 ichor and CL2 during rest.
+- Shedded carapace can not be reused by others, it becomes brittle in the process. (Otherwise it would be far too easy to armor up the whole team at little cost.)
+- Carapace can not be upgraded. (Otherwise a character with natural carapace would not have much incentive to wear other types of armor.)
+- Characters born with carapace won't loose it when taking silver damage, as it is their natural form.
+- Characters not born with carapace may grow one with polycraft at the cost of 1 ichor at CL3 for 1 day, but they may loose it when taking silver damage depending on their endurance check.
+- To differentiate, carapace grown with polycraft may be classified as "Fellkin Armor", while carapace that the character is born with can be "Natural Armor".
+
+
+
+## Containers
+
+**Pouch (1/5 ft^3) - Max 6 LB**
+| Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
+| Silver dagger (Stolen, Hidden) | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1    | ? bc   | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
+| Perfume (vial)                 | 1   | Misc                                          | Mundane     | 12/12      | 0.1  | 5 bc   |                                                                             |
+| Mirror, Steel                  | 1   | Misc                                          | Mundane     | 12/12      | 0.5  | 5 bc   |                                                                             |
+| Coin Purse                     | 1   | Misc                                          | Mundane     | 12/12      | 0.06 | 1 bc   |                                                                             |
+| Rations (1 day)                | 1   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
+|                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
+
+
+**Satchel (2/5 ft^3) - Max 12 LB**
+| Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
+| Rations (1 day)                | 3   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
+|                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
 
 ## Disposition
 

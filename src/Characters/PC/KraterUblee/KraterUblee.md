@@ -2,6 +2,8 @@
 
 ![NotMyImage](./KraterUblee.jpg)
 
+Unspent Skill Point: 1
+
 ## Attributes and Core Skills
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
@@ -47,7 +49,7 @@
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-## Destiny Points: 1/3
+## Destiny Points: 3/3
 
 ## Fellblood: 2/2
 
@@ -66,8 +68,8 @@
 | Name              | # |      Class      |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 1 |    Currency    | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 37 |    Currency    | Mundane |            | 0.02 | 1 cc |
+| Bronze Coin       | 23 |    Currency    | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 87 |    Currency    | Mundane |            | 0.02 | 1 cc |
 
 ## Notes
 
