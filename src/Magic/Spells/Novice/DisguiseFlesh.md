@@ -23,6 +23,6 @@ Depending on the wins achieved, a user achieve one of the followling effects by 
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Bodily magic (level 0)

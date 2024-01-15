@@ -44,6 +44,6 @@ Character can gain resistance to damage types depending on the Magic Skill used.
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level 1)

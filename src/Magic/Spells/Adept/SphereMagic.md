@@ -40,6 +40,6 @@ Sphere Radius: Magic Roll * 2.5 feet
 
 **Area Of Effect:** Sphere
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level 2)

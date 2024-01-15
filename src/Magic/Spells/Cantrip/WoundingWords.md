@@ -12,7 +12,7 @@ Penetration: 0
 
 Magic Resource Required: 0
 
-Magic skills required:
+Skills required:
 
 - Mind Magic (lvl -1)
 - Sound Magic (lvl -1)

@@ -14,6 +14,6 @@ Use of ranged cantrips in combat is genrally only reserved for dealing with mino
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level -1)

@@ -22,6 +22,6 @@ Engageable Opponents: Rapid
 
 Magic Resource Required: 0
 
-Magic skills required:
+Skills required:
 
 - Rune Magic (lvl -1)

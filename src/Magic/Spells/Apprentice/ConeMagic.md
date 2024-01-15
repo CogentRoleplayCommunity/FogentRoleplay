@@ -43,6 +43,6 @@ Here is a handy equation I made for calculating custom Cones. “A” is area, �
 
 **Area Of Effect:** Cone
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level 1)
