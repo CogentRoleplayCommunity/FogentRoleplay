@@ -1,5 +1,5 @@
 Name,Effect,Duration,ModifcationSlots
-Ending,Creatures killed with this weapon are instantly decapitated.,Indefinite,1
+Ending,Creatures killed with this weapon are instantly decapitated.,Instantaneous,1
 Splinter,"Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.",,2
 Extentable Weapon,"This weapon can shrink to the size of a small weapon, extend up to reach weapon, aswell as any size inbetween. The force of the weapon extending can be used in a variety of way.",,1
 Fire Repair and Enhancement,"Weapons repairs in intense fires. If fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.",,2
@@ -24,7 +24,7 @@ Dragon Sense,The bearer of this armor gets an uneasy feeling when there are drac
 Minor Draconic Element Resistance,"Minor Resitance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)",,
 Retractable Shield,The user can deploy or retract the medium shield at will.,,1
 ,,,
-,,,
+Light Bound,"This weapon is physical light, and can be absorbed and summoned by a those with the Radiance magic skill.",Instantaneous,2
 ,,,
 ,,,
 ,,,
