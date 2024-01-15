@@ -72,7 +72,9 @@ Swordbreakers, often wielded offhand to a main hand sword. They are designed to 
 Talon - Practice,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Blade",,Quality,15/15,1.5,?,
 Fang - Practice,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,Quality,15/15,1,?,
 Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2,?,
-Monkey Staff,1,"Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",,Excellent,21/21,4,?,
+Monkey Staff,1,"Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extentable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+
+A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
 Hew,1,Medium Hafted Axe,Splinter,Excellent,21/21,4,?,"""When you chop wood, splinters fly.""  - Anonymous
 
 An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
