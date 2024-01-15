@@ -38,7 +38,7 @@
 
 ### [Engageable Opponents](CombatRules/EngageableOpponents.md)
 
-### [Item Tier And Durability](CombatRules/ItemTierAndDurability.md)
+### [Item Tier And Durability](CombatRules/ItemTierAndEffectsAndDurability.md)
 
 ### [Range](CombatRules/Range.md)
 
