@@ -2,10 +2,6 @@
 
 ![Copyright](Epilogue.jpg)
 
-![Copyright](Epilogue2.jpg)
-
-![Copyright](Epilogue3.jpg)
-
 ## Desc
 
 "There is no real ending. It's just a place where you stop the story."
@@ -20,12 +16,12 @@ Killing with this weapon seems to mysteriously decapitate the victim's head from
 
 ## Info
 
-Item Type: Medium Sword
-
-Tier: Excellent (+3)
+|   Name   | # |                     Class                     | Effects |   Tier   | Durability | LB | Value |
+| :------: | :-: | :-------------------------------------------: | :-----: | :-------: | :--------: | :-: | :---: |
+| Epilogue | 1 | Medium Thrusting Sword, Medium Slashing Sword | Ending | Excellent |   21/21   | 2 |   ?   |
 
 ## Effects
 
-### Ending
-
-Creatures killed with this weapon are instantly decapitated.
+| Name   |                            Effect                            |   Duration   | Effect Slots |
+| :----- | :----------------------------------------------------------: | :-----------: | :----------: |
+| Ending | Creatures killed with this weapon are instantly decapitated. | Instantaneous |      1      |
