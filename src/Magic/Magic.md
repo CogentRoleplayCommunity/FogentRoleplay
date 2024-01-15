@@ -8,7 +8,6 @@ This document provides generalized framework for magic system mechanics for any 
 - Magic Resource Name
 - Cantrip Name
 - Governing Core Skill
-- Spell Name
 
 
 ## Magic Skills
