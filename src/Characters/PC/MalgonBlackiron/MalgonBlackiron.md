@@ -51,7 +51,7 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  9d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-## Destiny Points: 2/3
+## Destiny Points: 3/3
 
 ## Fellblood: 0/0
 
