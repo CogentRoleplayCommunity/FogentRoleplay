@@ -25,7 +25,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}    |  3  | 8d6 | Queen alate {ALL}   |  1  | 5d6 |
+| Fellweaver {ALL}    |  3  | 8d6 | Queen alate {ALL}   |  1  | 5d6 |
 | :--------------: | :-: | :-: | ------------------- | :-: | --- |
 | Mindcraft {ALL}  |  3  | 8d6 | Medium Hafted       |  1  | 6d6 |
 | Polycraft {ALL}  |  1  | 6d6 | Small Bladed        |  0  | 5d6 |

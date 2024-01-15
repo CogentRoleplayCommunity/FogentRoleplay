@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Warrior {STR}     | 2 | 6d6 | Fellkin {ALL} | 0  | 4d6 |
+| Warrior {STR}     | 2 | 6d6 | Fellweaver {ALL} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ------------- | -- | --- |
 | Large Hafted {ALL} | 2 | 6d6 | Cryocraft     | -1 | 3d6 |
 | Heavy Bow {ALL}    | 2 | 6d6 |               |    |     |

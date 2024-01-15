@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Bandit {RFX}        | 1 | 4d6 | Fellkin {ALL}   | 0  | 3d6 |
+| Bandit {RFX}        | 1 | 4d6 | Fellweaver {ALL}   | 0  | 3d6 |
 | ------------------- | :-: | :-: | --------------- | -- | --- |
 | Medium Sword {ALL} | 0 | 3d6 | Polycraft {ALL} | -1 | 2d6 |
 | Light Bow {ALL}     | 0 | 3d6 |                 |    |     |

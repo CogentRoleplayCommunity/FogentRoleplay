@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 2 | 6d6 | Fellkin {ALL}   | 0 | 4d6 |
+| Monk {RFX}         | 2 | 6d6 | Fellweaver {ALL}   | 0 | 4d6 |
 | ------------------- | :-: | :-: | --------------- | - | --- |
 | Large Hafted {ALL} | 2 | 5d6 | Sonocraft {ALL} | 0 | 3d6 |
 
