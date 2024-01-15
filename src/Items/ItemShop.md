@@ -206,10 +206,11 @@ Cheap shops will charge 50% the value for any item on this list.
 | Name                          | #   | Type          | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ----------------------------- | --- | ------------- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
 | -[Armor]-                     |     |               |         |            |        |        |               |              |              |                |
-| Leather Helmet                | 1   | Phy. Def. 0.5 | Mundane | 12/12      | 2      | 0.5 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons | 1   | Phy. Def. 0.5 | Mundane | 12/12      | 4      | 3 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuisses and Greaves   | 1   | Phy. Def. 0.5 | Mundane | 12/12      | 3      | 2 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Vambrace              | 1   | Phy. Def. 0.5 | Mundane | 12/12      | 2      | 1.5 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Armor                     | 1   | Phy. Def. 2                             | Quality     | 15/15      | 12     | 10 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Helmet                    | 1   | Phy. Def. 0.34                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons     | 1   | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 5 bc      | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuisses and Greaves       | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Vambrace                  | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.66 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 | -[Weapon]-                    |     |               |         |            |        |        |               |              |              |                |
 | Sling                         | 1   | Sling         | Mundane | 12/12      | 0.5    | 20 cc  | TRUE          | TRUE         | FALSE        | FALSE          |
 | -[Misc]-                      |     |               |         |            |        |        |               |              |              |                |
