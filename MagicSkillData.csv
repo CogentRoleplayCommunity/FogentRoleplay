@@ -1,45 +1,45 @@
-desc,damageTypes,rangeAdjustment,meleeCapable,magicResourceClass
-Radiance,Radiant,0,TRUE,Ichor
-Blessing,Radiant,0,TRUE,Ichor
-Polycraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Fellblood
-Blazecraft,Fire,0,TRUE,Fellblood
-Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",0,TRUE,Fellblood
-Electrocraft,Electric,0,TRUE,Fellblood
-Terracraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Fellblood
-Galecraft,"Slash, Bludgeon, Shockwave",0,TRUE,Fellblood
-Cryocraft,Cold,0,TRUE,Fellblood
-Naturecraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Fellblood
-Toxincraft,Poison,0,TRUE,Fellblood
-Soulcraft,Spiritual,0,TRUE,Fellblood
-Shadowcraft,Necrotic,0,TRUE,Fellblood
-Mindcraft,Psychic,0,FALSE,Fellblood
-Ferracraft,"Slash, Bludgeon, Hew, Pierce",0,TRUE,Fellblood
-Sonocraft,Shockwave,0,FALSE,Fellblood
-Hemacraft,Bleed,0,TRUE,Fellblood
-Spidercraft,"Suffocation, Bludgeon",0,TRUE,Fellblood
-Plasmacraft,Fire,0,TRUE,Fellblood
-Stormcraft,"Electric, Shockwave",0,TRUE,Fellblood
-Magmacraft,"Fire, Bludgeon",0,TRUE,Fellblood
-Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",0,TRUE,Fellblood
-Fire Rune,Fire,0,FALSE,Focus
-Earth Rune,"Slash, Bludgeon, Hew, Pierce",0,FALSE,Focus
-Water Rune,"Suffocation, Slash, Bludgeon, Pierce",0,FALSE,Focus
-Air Rune,"Slash, Bludgeon, Shockwave",0,FALSE,Focus
-Electricity Rune,Electric,0,FALSE,Focus
-Cold Rune,Cold,0,FALSE,Focus
-Poison Rune,Poison,0,FALSE,Focus
-Blood Rune,Bleed,0,FALSE,Focus
-Light Rune,Radiant,0,FALSE,Focus
-Dark Rune,Necrotic,0,FALSE,Focus
-Sound Rune,Shockwave,0,FALSE,Focus
-Body Rune,,0,FALSE,Focus
-Mind Rune,Psychic,0,FALSE,Focus
-Soul Rune,Spiritual,0,FALSE,Focus
-Time Rune,,0,FALSE,Focus
-Strength Rune,,0,FALSE,Focus
-Gravity Rune,"Slash, Bludgeon, Hew, Pierce",0,FALSE,Focus
-Nature Rune,"Slash, Bludgeon, Pierce",0,FALSE,Focus
-Acid Rune,Acid,0,FALSE,Focus
-Shadow Magic,Necrotic,0,TRUE,Fellblood
-Soul Magic,Spiritual,0,TRUE,Fellblood
-Sporecraft,Necrotic,0,TRUE,Fellblood
+desc,damageTypes,meleeCapable,magicResourceClass
+Radiance,Radiant,TRUE,Ichor
+Blessing,Radiant,TRUE,Ichor
+Polycraft,"Slash, Bludgeon, Hew, Pierce",TRUE,Fellblood
+Blazecraft,Fire,TRUE,Fellblood
+Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",TRUE,Fellblood
+Electrocraft,Electric,TRUE,Fellblood
+Terracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,Fellblood
+Galecraft,"Slash, Bludgeon, Shockwave",TRUE,Fellblood
+Cryocraft,Cold,TRUE,Fellblood
+Naturecraft,"Slash, Bludgeon, Hew, Pierce",TRUE,Fellblood
+Toxincraft,Poison,TRUE,Fellblood
+Soulcraft,Spiritual,TRUE,Fellblood
+Shadowcraft,Necrotic,TRUE,Fellblood
+Mindcraft,Psychic,FALSE,Fellblood
+Ferracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,Fellblood
+Sonocraft,Shockwave,FALSE,Fellblood
+Hemacraft,Bleed,TRUE,Fellblood
+Spidercraft,"Suffocation, Bludgeon",TRUE,Fellblood
+Plasmacraft,Fire,TRUE,Fellblood
+Stormcraft,"Electric, Shockwave",TRUE,Fellblood
+Magmacraft,"Fire, Bludgeon",TRUE,Fellblood
+Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",TRUE,Fellblood
+Fire Rune,Fire,FALSE,Focus
+Earth Rune,"Slash, Bludgeon, Hew, Pierce",FALSE,Focus
+Water Rune,"Suffocation, Slash, Bludgeon, Pierce",FALSE,Focus
+Air Rune,"Slash, Bludgeon, Shockwave",FALSE,Focus
+Electricity Rune,Electric,FALSE,Focus
+Cold Rune,Cold,FALSE,Focus
+Poison Rune,Poison,FALSE,Focus
+Blood Rune,Bleed,FALSE,Focus
+Light Rune,Radiant,FALSE,Focus
+Dark Rune,Necrotic,FALSE,Focus
+Sound Rune,Shockwave,FALSE,Focus
+Body Rune,,FALSE,Focus
+Mind Rune,Psychic,FALSE,Focus
+Soul Rune,Spiritual,FALSE,Focus
+Time Rune,,FALSE,Focus
+Strength Rune,,FALSE,Focus
+Gravity Rune,"Slash, Bludgeon, Hew, Pierce",FALSE,Focus
+Nature Rune,"Slash, Bludgeon, Pierce",FALSE,Focus
+Acid Rune,Acid,FALSE,Focus
+Shadow Magic,Necrotic,TRUE,Fellblood
+Soul Magic,Spiritual,TRUE,Fellblood
+Sporecraft,Necrotic,TRUE,Fellblood
