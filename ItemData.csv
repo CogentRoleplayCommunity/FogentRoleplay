@@ -103,7 +103,15 @@ Killing with this weapon seems to mysteriously decapitate the victim's head from
 Echo,1,"Medium Thrusting Sword, Medium Slashing Sword",,Superior,24/24,2,?,
 Asclepius,1,"Short Spear, Whip","Metal Feeding, Command Asclepius",Mastercraft,33/33,3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 Soot and Ash,1,"Medium Thrusting Sword, Medium Slashing Sword, Small Thrusting Point, Small Slashing Blade",,Epic,39/39,0.2,?,
-The Spear of Destiny,1,"Reach Hafted Blade, Longspear",,Artifact,48/48,14,?,
+The Spear of Destiny,1,"Reach Hafted Blade, Longspear, Air Magic Conduit, Cold Magic Conduit, Eletric Magic Conduit","Destiny Chosen, Destiny Strength/Reflex, Indestructible, ",Artifact,48/48,14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
+
+The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
+
+Eventually the Spear would end up in the possession of the Royal Family of the Dawn Empire, passed down to a sibling of the current Emperor. The siblings would wield the Spear as Amon did for their new emperor. For it is said that whoever wields the spear of Destiny influences the destiny of the world.
+
+Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
+
+The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…"
 Dancing Moonlight,1,"Large Thrusting Sword, Large Slashing Sword, Light Magic Conduit, Water Magic Conduit, Shadow Magic Conduit, Blood Magic Conduit","Moonlight Greatsword, Indestructible, Blessing of the Moon",Artifact,48/48,3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
 
 A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
