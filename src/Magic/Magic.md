@@ -170,15 +170,14 @@ All magic needs a conduit to be cast through wether a wizards staff, a druids fo
 
 Example Conduit:
 
-| Name               | One<br />Handed | Two<br />Handed | Dual<br /> Wielded | Additional<br />Penetration | Range<br />Adjustment | Additional<br />Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Effected<br />Magic Skills |
-| ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
-| Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           | 0                     |                                   | None                      | None                | None                | Blazecraft                 |
+| Name               | One<br />Handed | Two<br />Handed | Dual<br /> Wielded | Additional<br />Penetration | Additional<br />Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Effected<br />Magic Skills |
+| ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
+| Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           |                                   | None                      | None                | None                | Blazecraft                 |
 
 - One Handed: Dice bonus given by wielding the conduit in one hand.
 - Two Handed: Dice Bonus given by wielding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
 - Dual Wielded: Dice bonus given when wielding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual wielding fire magic wands.
 - Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
-- Range Adjustment: Increase or decrease range calculation for magic skill (see Magic Range Adjustment below).
 - Additional Damage Types: Extra damage types to be added onto combat rolls made with this conduit.
 - Engageable Opponents: Changes engageable opponent type when making a combat roll. This could be a fast shooting wand or a slow shooting staff that pacts a large wallop.
 - Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
@@ -215,13 +214,13 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 
 ### Novice Spells
 
-- [Babel's Clarity](Spells/Novice/Babel'sClarity.md)
+- [Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
 - [Bewitch](Spells/Novice/Bewitch.md)
 - [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
 - [Disguise Flesh](Spells/Novice/DisguiseFlesh.md)
 - [Fling](Spells/Novice/Fling.md)
-- [Hellfire's Retribution](Spells/Novice/Hellfire'sRetribution.md)
-- [Iggilywiggly's Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
+- [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
+- [Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
 - [Leap](Spells/Novice/Leap.md)
 - [Melee Magic](Spells/Novice/MeleeMagic.md)
 - [Mind Reading](Spells/Novice/MindReading.md)
