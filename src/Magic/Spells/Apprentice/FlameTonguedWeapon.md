@@ -19,4 +19,4 @@ Additional Skills required:
 
 - Weapon Smithing Skill (lvl 1)
 
-Rune Slots required: 3
+Modification Slots required: 3
