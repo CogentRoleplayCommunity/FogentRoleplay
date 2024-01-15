@@ -12,11 +12,11 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 
 ### Conversion between Currency
 
-| Coin   | Equivlent value |
-| ------ | --------------- |
-| 100 cc | 1 bc            |
-| 100 bc | 1 gc            |
-| 100 gc | 1 pc            |
+| Coin   | Equivalent value |
+| ------ | ---------------- |
+| 100 cc | 1 bc             |
+| 100 bc | 1 gc             |
+| 100 gc | 1 pc             |
 
 ### Out of Game Downtime Bartering Rules
 
@@ -74,7 +74,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                                   |     |                                         |             |            |        |           |               |              |              |                |
 | Leather Armor                     | 1   | Phy. Def. 2                             | Quality     | 15/15      | 12     | 10 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Helmet                    | 1   | Phy. Def. 0.34                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons     | 1   | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 5 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons     | 1   | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 5 bc      | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Cuisses and Greaves       | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Vambrace                  | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.66 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 |                                   |     |                                         |             |            |        |           |               |              |              |                |
@@ -343,7 +343,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Gambeson Leggings                   | 1   | Phy. Def. 0.375                                                 | Mundane | 12/12      | 3      | 1.87 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Armor                       | 1   | Phy. Def. 2                                                     | Quality | 15/15      | 12     | 10 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Helmet                      | 1   | Phy. Def. 0.34                                                  | Quality | 15/15      | 2      | 1.67 bc | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons       | 1   | Phy. Def. 1.00                                                  | Quality | 15/15      | 6      | 5 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons       | 1   | Phy. Def. 1.00                                                  | Quality | 15/15      | 6      | 5 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Cuisses and Greaves         | 1   | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 1.67 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | Leather Vambrace                    | 1   | Phy. Def. 0.33                                                  | Quality | 15/15      | 2      | 1.66 bc | FALSE         | FALSE        | FALSE        | TRUE           |
 | -[Weapons]-                         |     |                                                                 |         |            |        |         |               |              |              |                |
