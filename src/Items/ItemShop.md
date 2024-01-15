@@ -203,24 +203,24 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Leatherworker.png) Leatherworker
 
-| Name                          | #   | Type          | Tier    | Durability | Weight | Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| ----------------------------- | --- | ------------- | ------- | ---------- | ------ | ------ | ------------- | ------------ | ------------ | -------------- |
-| -[Armor]-                     |     |               |         |            |        |        |               |              |              |                |
-| Leather Armor                     | 1   | Phy. Def. 2                             | Quality     | 15/15      | 12     | 10 bc     | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Helmet                    | 1   | Phy. Def. 0.34                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuirass and Pauldrons     | 1   | Phy. Def. 1.00                          | Quality     | 15/15      | 6      | 5 bc      | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Cuisses and Greaves       | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.67 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| Leather Vambrace                  | 1   | Phy. Def. 0.33                          | Quality     | 15/15      | 2      | 1.66 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
-| -[Weapon]-                    |     |               |         |            |        |        |               |              |              |                |
-| Sling                         | 1   | Sling         | Mundane | 12/12      | 0.5    | 20 cc  | TRUE          | TRUE         | FALSE        | FALSE          |
-| -[Misc]-                      |     |               |         |            |        |        |               |              |              |                |
-| Waterskin (0/4)               | 1   | Misc          | Mundane |            | 1      | 20 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Waterskin (4/4)               | 1   | Misc          | Mundane |            | 5      | 20 cc  | TRUE          | TRUE         | TRUE         | TRUE           |
-| Cobbler's Tools               | 1   | Misc          | Mundane |            | 5      | 5 bc   | FALSE         | TRUE         | TRUE         | TRUE           |
-| Leatherworker's Tools         | 1   | Misc          | Mundane |            | 10     | 5 bc   | TRUE          | TRUE         | TRUE         | TRUE           |
-| Bagpipes                      | 1   | Misc          | Mundane |            | 6      | 30 bc  | FALSE         | FALSE        | FALSE        | TRUE           |
-| Drum                          | 1   | Misc          | Mundane |            | 3      | 6 bc   | FALSE         | FALSE        | TRUE         | TRUE           |
-|                               |     |               |         |            |        |        |               |              |              |                |
+| Name                          | #   | Type           | Tier    | Durability | Weight | Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| ----------------------------- | --- | -------------- | ------- | ---------- | ------ | ------- | ------------- | ------------ | ------------ | -------------- |
+| -[Armor]-                     |     |                |         |            |        |         |               |              |              |                |
+| Leather Armor                 | 1   | Phy. Def. 2    | Quality | 15/15      | 12     | 10 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Helmet                | 1   | Phy. Def. 0.34 | Quality | 15/15      | 2      | 1.67 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuirass and Pauldrons | 1   | Phy. Def. 1.00 | Quality | 15/15      | 6      | 5 bc    | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Cuisses and Greaves   | 1   | Phy. Def. 0.33 | Quality | 15/15      | 2      | 1.67 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| Leather Vambrace              | 1   | Phy. Def. 0.33 | Quality | 15/15      | 2      | 1.66 bc | FALSE         | FALSE        | FALSE        | TRUE           |
+| -[Weapon]-                    |     |                |         |            |        |         |               |              |              |                |
+| Sling                         | 1   | Sling          | Mundane | 12/12      | 0.5    | 20 cc   | TRUE          | TRUE         | FALSE        | FALSE          |
+| -[Misc]-                      |     |                |         |            |        |         |               |              |              |                |
+| Waterskin (0/4)               | 1   | Misc           | Mundane |            | 1      | 20 cc   | TRUE          | TRUE         | TRUE         | TRUE           |
+| Waterskin (4/4)               | 1   | Misc           | Mundane |            | 5      | 20 cc   | TRUE          | TRUE         | TRUE         | TRUE           |
+| Cobbler's Tools               | 1   | Misc           | Mundane |            | 5      | 5 bc    | FALSE         | TRUE         | TRUE         | TRUE           |
+| Leatherworker's Tools         | 1   | Misc           | Mundane |            | 10     | 5 bc    | TRUE          | TRUE         | TRUE         | TRUE           |
+| Bagpipes                      | 1   | Misc           | Mundane |            | 6      | 30 bc   | FALSE         | FALSE        | FALSE        | TRUE           |
+| Drum                          | 1   | Misc           | Mundane |            | 3      | 6 bc    | FALSE         | FALSE        | TRUE         | TRUE           |
+|                               |     |                |         |            |        |         |               |              |              |                |
 
 ### ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
