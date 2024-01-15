@@ -104,7 +104,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 **Pouch (1/5 ft^3) - Max 6 LB**
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
-| :----------------------------: | :-: | :---------------------------------------- --: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
 | Silver dagger (Stolen, Hidden) | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1    | ? bc   | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
 | Perfume (vial)                 | 1   | Misc                                          | Mundane     | 12/12      | 0.1  | 5 bc   |                                                                             |
 | Mirror, Steel                  | 1   | Misc                                          | Mundane     | 12/12      | 0.5  | 5 bc   |                                                                             |
