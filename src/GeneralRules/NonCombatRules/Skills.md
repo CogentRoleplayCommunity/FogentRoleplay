@@ -4,7 +4,7 @@
 
 ### Level -1: Incompetent
 
-Representing an imcompetent level of skill.
+Representing an incompetent level of skill.
 
 ### Level 0: Novice
 
