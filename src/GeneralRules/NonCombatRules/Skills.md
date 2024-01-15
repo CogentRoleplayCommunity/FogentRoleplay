@@ -103,7 +103,7 @@ For melee weapons, weapon reach, footwork, and the biomechanics of swinging a we
 | Class<br />/Size | Hafted         | Blade        | Spear       |
 | ---------------- | -------------- | ------------ | ----------- |
 | Small            | Small Hafted   | Small Blade |             |
-| Medium*          | Medium Hafted | Medium Sword |             |
+| Medium           | Medium Hafted | Medium Sword |             |
 | Large            | Large Hafted  | Large Sword | Short Spear |
 | Reach            | Reach Hafted  | Greatsword   | Long Spear  |
 
