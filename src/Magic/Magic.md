@@ -9,7 +9,6 @@ This document provides generalized framework for magic system mechanics for any 
 - Cantrip Name
 - Governing Core Skill
 
-
 ## Magic Skills
 
 These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
@@ -195,12 +194,6 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 ### Magic Skills in Combat
 
 - Character's can't cast magic twice in one round of combat unless specified otherwise
-
-#### Magic Range adjustment
-
-If a Magic Skill has a range adjustment it is either moved up or down the table above. Ranged attacks can not fall below Close Range.
-
-For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
 ## Magic Spells
 
