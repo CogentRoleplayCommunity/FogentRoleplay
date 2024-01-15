@@ -87,6 +87,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Royal Kiki Quarterstaff        | 1   | Medium Hafter Blunt                           | Mastercraft | 33/33      | 4   | ?? bc  | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
 |                                | 0   |                                               | Mundane     | 12/12      | 0   | 0 bc   |                                                                                                                                                                                                |
 
+
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D***
 
 **Carapace mechanic:**
@@ -97,8 +98,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 - Characters not born with carapace may grow one with polycraft at the cost of 1 ichor at CL3 for 1 day, but they may loose it when taking silver damage depending on their endurance check.
 - To differentiate, carapace grown with polycraft may be classified as "Fellkin Armor", while carapace that the character is born with can be "Natural Armor".
 
-<!-- This should not be visible. -->
-<!--- This should not be visible either. --->
+
 
 ## Containers
 
@@ -111,6 +111,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Coin Purse                     | 1   | Misc                                          | Mundane     | 12/12      | 0.06 | 1 bc   |                                                                             |
 | Rations (1 day)                | 1   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
 |                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
+
 
 **Satchel (2/5 ft^3) - Max 12 LB**
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
