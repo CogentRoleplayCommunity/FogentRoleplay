@@ -25,14 +25,14 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 ## Vocations and Vocational Skills
 
-| Fellweaver {ALL}    |  3  | 8d6 | Queen alate {ALL}   |  1  | 5d6 |
+| Fellweaver {ALL} |  3  | 8d6 | Queen alate {ALL}   |  1  | 6d6 |
 | :--------------: | :-: | :-: | ------------------- | :-: | --- |
-| Mindcraft {ALL}  |  3  | 8d6 | Medium Hafted       |  1  | 6d6 |
+| Mindcraft {ALL}  |  3  | 8d6 | Large Hafted        |  1  | 6d6 |
 | Polycraft {ALL}  |  1  | 6d6 | Small Bladed        |  0  | 5d6 |
-| Toxincraft {ALL} |  0  | 5d6 |                     |     |     |
+| Toxincraft {ALL} |  0  | 5d6 | Unarmed             |  0  | 5d6 |
 | Terracraft {ALL} |  0  | 5d6 |                     |     |     |
 
-## Effects (UNFINISHED)
+## Effects
 
 | Name                    | Effect                                                        | Duration | Source                                                                                                                                   |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
@@ -43,7 +43,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Language:               | Can speak Kikishi                                             |          |                                                                                                                                          |
 | Disabling: Feelbe       | She is shorter, lighter and weaker then other royal kiki.     |          | She lost on the genetic lottery.                                                                                                         |
 | Disabling: Drug addict. | A light dose of Mirage keeps her from depression.             |          |                                                                                                                                          |
-| Inventory Weight        | 40.66 LB                                                      |          | Equipment                                                                                                                                |
+| Inventory Weight        | 41.66 LB                                                      |          | Equipment                                                                                                                                |
 | Humanoid Carry Weight   | 70 lb                                                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 | Light Weight            | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
 | Humanoid Movement Speed | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
@@ -51,17 +51,51 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Humanoid Climb Speed    | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
 ## Combat Rolls (UNFINISHED)
+### Physical Melee
+***Physical Melee***
+| Name                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Unarmed                           | 4d6<br />(-1d6) | 4d6<br />(-1d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Hand Protection Unarmed           | 5d6<br />(+0d6) | 5d6<br />(+0d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Disarming Unarmed                 | 8d6<br />(+3d6) | 8d6<br />(+3d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Large Hafted Blunt                | 5d6<br />(-1d6) | 7d6<br />(+1d6) | (None)            | 5           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Small Thrusting Point             | 5d6<br />(+0d6) | 5d6<br />(+0d6) | +1d6              | 2           | Melee | Pierce            | Rapid                     | None                | None                |
+| Small Slashing Blade              | 6d6<br />(+1d6) | 6d6<br />(+1d6) | +1d6              | 0           | Melee | Slash             | Rapid                     | None                | None                |
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick  |                 |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
-| - Ranged Trick |                 |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    - Melee     |                 |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    - Ranged    |                 |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
-|     - Cone     |                 |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|    - Reach     |                 |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
-|   - Focused    |                 |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Ichor)      |
-|    - Sphere    |                 |                 |                   |      3      | Close |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+***Fellcraft Melee***
+| Name                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick   | 8d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Mindcraft - Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Polycraft - Melee Trick   | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Polycraft- Melee          | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Toxincraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Toxincraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Terracraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Terracraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+
+### Physical Ranged
+***Physical Ranged***
+| Name                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Thrown Small Point  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                   | 1           | Melee | Pierce            | Rapid                     | None                | None                |
+
+***Fellcraft Ranged***
+| Name                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick   | 8d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Mindcraft - Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Polycraft - Melee Trick   | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Polycraft- Melee          | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Toxincraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Toxincraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Terracraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Terracraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+
+
+
+
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
@@ -85,6 +119,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Satchel (2/5 ft^3)             | 1   | Misc                                          | Mundane     | 12/12      | 2   | 1 bc   |                                                                                                                                                                                                |
 | Waterskin (4/4)                | 1   | Misc                                          | Mundane     | 12/12      | 5   | 20 bc  |                                                                                                                                                                                                |
 | Royal Kiki Quarterstaff        | 1   | Medium Hafter Blunt                           | Mastercraft | 33/33      | 4   | ?? bc  | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
+| Dagger                         | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1   | 2 bc   | Just a normal dagger as a secondary weapon from a friendly mercenary who found her intriguing.                                                                                                 |
 |                                | 0   |                                               | Mundane     | 12/12      | 0   | 0 bc   |                                                                                                                                                                                                |
 
 
@@ -101,8 +136,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 
 ## Containers
-
-**Pouch (1/5 ft^3) - Max 6 LB**
+### Pouch (1/5 ft^3) - Max 6 LB
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
 | Silver dagger (Stolen, Hidden) | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1    | ? bc   | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
@@ -112,8 +146,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Rations (1 day)                | 1   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
 |                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
 
-
-**Satchel (2/5 ft^3) - Max 12 LB**
+### Satchel (2/5 ft^3) - Max 12 LB
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
 | Rations (1 day)                | 3   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
