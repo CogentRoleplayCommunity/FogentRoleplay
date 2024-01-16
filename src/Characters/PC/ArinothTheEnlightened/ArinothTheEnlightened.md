@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 2 | 6d6 | Fellweaver {ALL}   | 0 | 4d6 |
-| ------------------- | :-: | :-: | --------------- | - | --- |
-| Large Hafted {ALL} | 2 | 5d6 | Sonocraft {ALL} | 0 | 3d6 |
+| Monk {RFX}         | 2 | 6d6 | Fellweaver {ALL} | 0 | 4d6 |
+| ------------------- | :-: | :-: | ---------------- | - | --- |
+| Large Hafted {ALL} | 2 | 5d6 | Sonocraft {ALL}  | 0 | 3d6 |
 
 ## Effects
 
@@ -55,19 +55,19 @@
 
 ## Equipment:
 
-| Name                          | # |                                                  Class                                                  |   Tier   | Durability | LB | Value |
-| ----------------------------- | :-: | :-----------------------------------------------------------------------------------------------------: | :-------: | :--------: | :-: | :---: |
-| Leather Cuirass and Pauldrons | 1 |                                             Phy. Def. 1.00                                             |  Quality  |   15/15   | 6 | 5 bc |
-| Clothes, Traveler             | 1 |                                                  Misc                                                  |  Mundane  |            | 4 | 5 bc |
-| Monkey Staff                  | 1 | Extendable Weapon, Small Hafted Blunt, Medium Hafted Blunt,<br />Large Hafted Blunt, Reach Hafted Blunt | Excellent |   21/21   | 4 |   ?   |
+| Name                          | # |       Class       | Effects           |   Tier   | Durability | LB | Value |
+| ----------------------------- | :-: | :----------------: | ----------------- | :-------: | :--------: | :-: | :---: |
+| Leather Cuirass and Pauldrons | 1 |   Phy. Def. 1.00   |                   |  Quality  |   15/15   | 6 | 5 bc |
+| Clothes, Traveler             | 1 |        Misc        |                   |  Mundane  |            | 4 | 5 bc |
+| Monkey Staff                  | 1 | Small Hafted Blunt | Extentable Weapon | Excellent |   21/21   | 4 |   ?   |
 
 ## Containers
 
-| Name              | # |      Class      |  Tier  | Durability |  LB  | Value |
-| ----------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 24 |    Currency    | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 83 |    Currency    | Mundane |            | 0.02 | 1 cc |
+| Name              | # |      Class      | Effects |  Tier  | Durability |  LB  | Value |
+| ----------------- | :-: | :-------------: | ------- | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container |         | Mundane |            |  5  | 2 bc |
+| Bronze Coin       | 24 |    Currency    |         | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 83 |    Currency    |         | Mundane |            | 0.02 | 1 cc |
 
 ## Notes
 
@@ -93,7 +93,7 @@ Hair Color: (brown)
 
 Eyes Color: (brown)
 
-Additional Details: 
+Additional Details:
 
 ## Disposition
 
