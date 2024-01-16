@@ -2,7 +2,7 @@
 
 ![](GailHoldlaw.jpg)
 
-Unspent Skillpoint: 1
+Earned Skillpoint: 2
 
 ## Attributes and Core Skills
 
@@ -19,8 +19,9 @@ Unspent Skillpoint: 1
 | ------------------- | :-: | :-: |
 | Air Rune {INT}    | 2 | 6d6 |
 | Cold Rune {INT}     | 2 | 6d6 |
-| Time Rune {INT}     | -1 | 3d6 |
+| Time Rune {INT}     | -1 | 4d6 |
 | Blood Rune {INT}   | -1 | 3d6 |
+| Medium Sword {ALL}  | 1 | 5d6 |
 
 ## Effects:
 
@@ -44,7 +45,7 @@ Unspent Skillpoint: 1
 | :--------------------------------------------------------------------------: | :------------------: | :------------------: | :------------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |     Air Rune -[Melee Sign](./../../../Magic/Spells/Cantrip/MeleeCantrip.md)     |         6d6         |                      |                      |      0      |  Melee  |                  |           Rapid           |                    |        None        |
 |   Air Rune -[Ranged Trick](./../../../Magic/Spells/Cantrip/RangedCantrip.md)   |         6d6         |                      |                      |      0      |  Close  |                  |         Standard         |                    |        None        |
-|         Air Rune -[Melee](./../../../Magic/Spells/Novice/MeleeMagic.md)         |         7d6         |                      |                      |      2      |  Melee  |                  |           Rapid           |                    |      1 (Focus)      |
+|         Air Rune -[Melee](./../../../Magic/Spells/Novice/MeleeMagic.md)         |         7d6         |                      |                      |      2      |  Melee  |                  |          Rapide          |                    |      1 (Focus)      |
 |        Air Rune -[Ranged](./../../../Magic/Spells/Novice/RangedMagic.md)        |         7d6         |                      |                      |      1      | Extended |                  |         Standard         |                    |      1 (Focus)      |
 |        Air Rune -[Cone](./../../../MagicSpells/Apprentice/ConeMagic.md)        |         7d6         |                      |                      |      2      | Extended |                  |          Focused          |        Cone        |      1 (Focus)      |
 | Air Rune -[Reach Melee](./../../../Magic/Spells/Apprentice/ReachMeleeMagic.md) |         7d6         |                      |                      |      2      |  Reach  |                  |           Rapid           |                    |      1 (Focus)      |
@@ -63,9 +64,9 @@ Unspent Skillpoint: 1
 |                   "Frozen Needle" - Medium Thrusting Sword                   | 3d8,2d6<br />(+1d6) | 3d8, 3d6<br />(+2d6) | 3d8, 3d6<br />(+1d6) |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
 |                   "Frozen Needle" - Medium Slashing Sword                   | 3d8, 3d6<br />(+2d6) | 3d8, 4d6<br />(+3d6) | 3d8, 4d6<br />(+1d6) |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 
-## Destiny Points: 1/3
+## Destiny Points: 2/3
 
-## Focus: 8/8
+## Focus: 6/8
 
 ## Equipment:
 
