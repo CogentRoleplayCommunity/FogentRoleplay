@@ -70,37 +70,28 @@ Earned Skillpoint: 2
 
 ## Equipment:
 
-| Name                          | # |                     Class                     |   Tier   | Durability |  LB  |  Value  |
-| ----------------------------- | :-: | :-------------------------------------------: | :-------: | :--------: | :--: | :-----: |
-| Gambeson Coat                 | 1 |                Phy. Def. 0.625                |  Mundane  |   12/12   |  5  | 3.13 bc |
-| Gambeson Leggings             | 1 |                Phy. Def. 0.375                |  Mundane  |   12/12   |  3  | 1.87 bc |
-| Leather Cuirass and Pauldrons | 1 |                Phy. Def. 1.00                |  Quality  |   15/15   |  6  |  5 bc  |
-| Clothes, Fine                 | 1 |                     Misc                     |  Mundane  |            |  4  |  15 bc  |
-| Buckler Shield                | 1 |                  Phy. Def. 1                  |  Mundane  |   12/12   |  4  |  2 bc  |
-| "Frozen Needle"               | 1 | Medium Thrusting Sword, Medium Slashing Sword | Excellent |   24/24   |  2  |  25 bc  |
-| Runebook                      | 1 |                     Misc                     |  Mundane  |            |  3  |  50 bc  |
-| Ink (1 ounce bottle)          | 1 |                     Misc                     |  Mundane  |            | 0.1 |  10 bc  |
-| Ink Pen (Fountain)            | 1 |                     Misc                     |  Mundane  |            | 0.05 |  3 bc  |
+| Name                          | # |                     Class                     | Effect          |   Tier   | Durability |  LB  |  Value  |
+| ----------------------------- | :-: | :-------------------------------------------: | --------------- | :-------: | :--------: | :--: | :-----: |
+| Gambeson Coat                 | 1 |             Body Armor, Arm Armor             | Phy. Def. 0.625 |  Mundane  |   12/12   |  5  | 3.13 bc |
+| Gambeson Leggings             | 1 |                   Leg Armor                   | Phy. Def. 0.375 |  Mundane  |   12/12   |  3  | 1.87 bc |
+| Leather Cuirass and Pauldrons | 1 |                  Body Armor                  | Phy. Def. 1.00  |  Quality  |   15/15   |  6  |  5 bc  |
+| Clothes, Fine                 | 1 |                                              |                 |  Mundane  |            |  4  |  15 bc  |
+| Buckler Shield                | 1 |                    Shield                    | Phy. Def. 1.00  |  Mundane  |   12/12   |  4  |  2 bc  |
+| "Frozen Needle"               | 1 | Medium Thrusting Sword, Medium Slashing Sword |                 | Excellent |   24/24   |  2  |  25 bc  |
+| Runebook                      | 1 |                                              |                 |  Mundane  |            |  3  |  50 bc  |
+| Ink (1 ounce bottle)          | 1 |                                              |                 |  Mundane  |            | 0.1 |  10 bc  |
+| Ink Pen (Fountain)            | 1 |                                              |                 |  Mundane  |            | 0.05 |  3 bc  |
 
 ## Containers:
 
-| Name               | # |      Class      |  Tier  | Durability |  LB  | Value |
-| ------------------ | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
-| Satchel (2/5 ft^3) | 1 | 12 lb container | Mundane |            |  2  | 1 bc |
-| Waterskin (4/4)    | 1 |      Misc      | Mundane |            |  5  | 20 cc |
-| Rations (1 day)    | 2 |      Misc      | Mundane |            |  2  | 50 cc |
-| Soap               | 1 |      Misc      | Mundane |            | 0.5 | 2 cc |
-| Bronze Coin        | 8 |      Misc      | Mundane |            | 0.02 | 1 bc |
-| Copper Coin        | 28 |      Misc      | Mundane |            | 0.02 | 1 cc |
-
-### Remove from inventory
-
-| Name                        | # |     Class     |  Tier  | Durability | LB |  Value  |
-| --------------------------- | :-: | :------------: | :-----: | :--------: | :-: | :-----: |
-| Leather Helmet              | 1 | Phy. Def. 0.34 | Quality |   15/15   | 2 | 1.67 bc |
-| Rope, Hempen (50 feet)      | 1 |      Misc      | Mundane |            | 10 |  1 bc  |
-| Leather Cuisses and Greaves | 1 | Phy. Def. 0.33 | Quality |   15/15   | 2 | 1.67 bc |
-| Leather Vambrace            | 1 | Phy. Def. 0.33 | Quality |   15/15   | 2 | 1.66 bc |
+| Name               | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ------------------ | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Satchel (2/5 ft^3) | 1 | 12 lb container |        | Mundane |            |  2  | 1 bc |
+| Waterskin (4/4)    | 1 |                |        | Mundane |            |  5  | 20 cc |
+| Rations (1 day)    | 2 |                |        | Mundane |            |  2  | 50 cc |
+| Soap               | 1 |                |        | Mundane |            | 0.5 | 2 cc |
+| Bronze Coin        | 8 |                |        | Mundane |            | 0.02 | 1 bc |
+| Copper Coin        | 28 |                |        | Mundane |            | 0.02 | 1 cc |
 
 ## Appearance:
 
