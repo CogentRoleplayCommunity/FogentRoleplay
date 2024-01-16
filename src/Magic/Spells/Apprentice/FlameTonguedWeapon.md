@@ -10,7 +10,7 @@ The blade can only be ignited as long as it is above 3 durability. The sword can
 
 Magic Resource Required: 2
 
-Magic skills required:
+Skills required:
 
 - Fire magic Skill (lvl 2)
 - Sound magic (lvl 1)
@@ -19,4 +19,4 @@ Additional Skills required:
 
 - Weapon Smithing Skill (lvl 1)
 
-Rune Slots required: 3
+Modification Slots required: 3

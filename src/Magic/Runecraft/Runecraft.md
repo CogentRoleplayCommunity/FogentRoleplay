@@ -12,13 +12,12 @@ Secondly, the user must deeply understand the rune's concept they are trying to 
 
 Runes can be used to make all kinds of marvels. Scrolls, Potions, Runeforged items are applications of Runecraft. Scrolls are very common due to their ease of creation and affordability.
 
-- Magic Name: Runcraft
+- Magic Name: Runecraft
 - Magic Vocation Name: Runesmith
 - Magic Vocation Governing Attributes: INT
 - Magic Resource Name: Focus
 - Cantrip Name: Sign
 - Governing Core Skill: Will
-- Spell Name: Compound Runes
 
 ## Crafting a Rune
 

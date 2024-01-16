@@ -24,7 +24,7 @@ Penetration: 3
 
 Magic ResourceRequired: 1
 
-Magic skills required:
+Skills required:
 
 - Gravity Magic (lvl 0)
 - Strength Magic (lvl 0)

@@ -20,7 +20,7 @@ Character grows wings and gains the Flight Speed effect.
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Wind magic (level 2)
 - Blessing Magic (level 2) or Body Magic (level 2)

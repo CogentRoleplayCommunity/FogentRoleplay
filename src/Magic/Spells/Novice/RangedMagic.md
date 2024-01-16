@@ -21,6 +21,6 @@
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level 0)

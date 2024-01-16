@@ -24,7 +24,7 @@ Engageable Opponents: Focused
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Earth magic (lvl 0)
 - Friction magic (lvl 0)

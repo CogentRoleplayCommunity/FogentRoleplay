@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Brute {STR}        |   2   |  7d6  | Fellkin {ALL} | 0   | 4d6 |
+| Brute {STR}        |   2   |  7d6  | Fellweaver {ALL} | 0   | 4d6 |
 | ------------------ | :---: | :---: | ------------- | --- | --- |
 | Large Hafted {ALL} |   2   |  6d6  | Polycraft     | -1  | 3d6 |
 | Short Spear {ALL}  |   2   |  6d6  |               |     |     |
@@ -22,7 +22,7 @@
 
 |          Name           |                            Effect                             | Duration |                                                                  Source                                                                  |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
+|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellblood blood                                                               |
 | Physical Defense Level  |                               2                               |          |                                                                  Armor                                                                   |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
 |   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                                          |

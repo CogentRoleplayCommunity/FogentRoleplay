@@ -16,7 +16,6 @@ Priests act as divine conduits via their belief, devotion and/or relationship wi
 - Magic Name: Brightcraft
 - Cantrip Name: Wonder
 - Governing Core Skill: Will
-- Spell Name: Hymn
 
 If power is from divine heritage:
 - Magic Vocation Name: Brightsmith

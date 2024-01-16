@@ -14,6 +14,8 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 - As an afterthought: I thing it would be a good idea to test whether I like playing the game with a character that can actually do something impressive, in maybe a few sessions before I fully commit to a potentially long series starting with an Initiate tier character. I don't wanna potentially ruin the game for others by abruptly leaving in case I don't like it. Her goal is to settle, so finding her nesting place is a graceful way to retire her.
 
+
+
 ## Attributes and Core Skills
 
 | STR       | -1  | Roll  | RFX             |  2  | Roll  | INT               |  0  | Roll  |
@@ -23,67 +25,149 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 | Endurance |  0  |  2d6  | Sleight of Hand |  0  |  5d6  | Survival          |  1  |  4d6  |
 | Lift      |  0  |  2d6  | Stealth         |  0  |  5d6  | Willpower         |  1  |  4d6  |
 
+
+
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}    |  3  | 8d6 | Queen alate {ALL}   |  1  | 5d6 |
+| Fellweaver {ALL} |  3  | 8d6 | Queen alate {ALL}   |  1  | 6d6 |
 | :--------------: | :-: | :-: | ------------------- | :-: | --- |
-| Mindcraft {ALL}  |  3  | 8d6 | Medium Hafted       |  1  | 6d6 |
+| Mindcraft {ALL}  |  3  | 8d6 | Large Hafted        |  1  | 6d6 |
 | Polycraft {ALL}  |  1  | 6d6 | Small Bladed        |  0  | 5d6 |
-| Toxincraft {ALL} |  0  | 5d6 |                     |     |     |
+| Toxincraft {ALL} |  0  | 5d6 | Unarmed             |  0  | 5d6 |
 | Terracraft {ALL} |  0  | 5d6 |                     |     |     |
 
-## Effects (UNFINISHED)
+
+
+## Effects
 
 | Name                    | Effect                                                        | Duration | Source                                                                                                                                   |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | Minor Silver Weakness   | (+1) to the level of injury<br />received from Silver damage. |          | Fellkin blood                                                                                                                            |
-| Physical Defense Level  | 0                                                             |          | Armor                                                                                                                                    |
+| Physical Defense Level  | Phy. Def. 1.66                                                |          | Carapace                                                                                                                                 |
 | Medium Size             | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
 | Language: Babelish      | Can speak Babelish.                                           |          |                                                                                                                                          |
 | Language:               | Can speak Kikishi                                             |          |                                                                                                                                          |
 | Disabling: Feelbe       | She is shorter, lighter and weaker then other royal kiki.     |          | She lost on the genetic lottery.                                                                                                         |
 | Disabling: Drug addict. | A light dose of Mirage keeps her from depression.             |          |                                                                                                                                          |
-| Inventory Weight        | 0 lb                                                          |          | Equipment                                                                                                                                |
+| Inventory Weight        | 41.66 LB                                                      |          | Equipment                                                                                                                                |
 | Humanoid Carry Weight   | 70 lb                                                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 | Light Weight            | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
 | Humanoid Movement Speed | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
 | Humanoid Swim Speed     | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
 | Humanoid Climb Speed    | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
-## Combat Rolls (UNFINISHED)
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| - Melee Trick  |                 |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
-| - Ranged Trick |                 |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    - Melee     |                 |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Ichor)      |
-|    - Ranged    |                 |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Ichor)      |
-|     - Cone     |                 |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Ichor)      |
-|    - Reach     |                 |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Ichor)      |
-|   - Focused    |                 |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Ichor)      |
-|    - Sphere    |                 |                 |                   |      3      | Close |                   |          Focused          |       Sphere        |      2 (Ichor)      |
+
+## Combat Rolls (UNFINISHED)
+### Melee Options
+***Physical Melee***
+| Name                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Unarmed                           | 4d6<br />(-1d6) | 4d6<br />(-1d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Hand Protection Unarmed           | 5d6<br />(+0d6) | 5d6<br />(+0d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Disarming Unarmed                 | 8d6<br />(+3d6) | 8d6<br />(+3d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Large Hafted Blunt                | 5d6<br />(-1d6) | 7d6<br />(+1d6) | (None)            | 5           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Small Thrusting Point             | 5d6<br />(+0d6) | 5d6<br />(+0d6) | +1d6              | 2           | Melee | Pierce            | Rapid                     | None                | None                |
+| Small Slashing Blade              | 6d6<br />(+1d6) | 6d6<br />(+1d6) | +1d6              | 0           | Melee | Slash             | Rapid                     | None                | None                |
+
+
+***Fellcraft Melee***
+| Name                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick   | 8d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Mindcraft - Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Polycraft - Melee Trick   | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Polycraft- Melee          | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Toxincraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Toxincraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Terracraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Terracraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+
+
+### Ranged Options
+***Physical Ranged***
+| Name                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Thrown Small Point  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                   | 1           | Melee | Pierce            | Rapid                     | None                | None                |
+
+
+***Fellcraft Ranged***
+| Name                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mindcraft - Melee Trick   | 8d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Mindcraft - Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Polycraft - Melee Trick   | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Polycraft- Melee          | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Toxincraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Toxincraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+| Terracraft - Melee Trick  | 6d6             |                 |                   | 0           | Melee |                   | Rapid                     |                     | None                |
+| Terracraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
+
+
+
+
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                     |                    |             |       |                   |                     |
 
-## Destiny Points: 0/3 (UNFINISHED)
 
-## Magic Resource: 0/3 (UNFINISHED)
 
-## Equipment (UNFINISHED)
+## Destiny Points: 3/3
 
-|              Name              |  #  |                   Class                   |     Tier    | Durability |  LB   | Value |                                                 Note                                               |
-| :----------------------------: | :-: | :---------------------------------------: | :---------: | :--------: | :---: | :---: | :------------------------------------------------------------------------------------------------: |
-|     Royal Kiki Quarterstaff    |  1  |           Medium Hafter Blunt             | Mastercraft |    33/33   |   2   | ?? bc | Given to her as a parting gift when she left the hive. (It's precious to her whatever it's value.) |
-| Silver dagger (Stolen, Hidden) |  2  | Small Thrusting Point, Thrown Small Point |     Fine    |    18/18   |  0.5  | ?? bc | She stole it and keeps it hidden aware of it's potential to hurt fellkin...                        |
-|                                |     |                                           |             |            |       |       |                                                                                                    |
+## Fellblood: 10/10
 
-## Containers (UNFINISHED)
 
-| Name |  #  | Class | Tier | Durability | LB  | Value |
-| :--: | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |     |       |      |            |     |       |
+
+## Equipment
+
+| Name                           |  #  | Class                                         | Tier        | Durability | LB  | Value  | Note                                                                                                                                                                                           |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :-: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons | 1   | Natural Armor                                 | Quality     | 15/15      | 6   | 0 bc   | Equivalent of mundane leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                             |
+| Carapace Cuisses and Greaves   | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of mundane leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                               |
+| Carapace Vambrace              | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of mundane leather vambrace (Phy.Def. 0.5)                                                                                                                                          |
+| Clothes, Traveler's            | 1   | Misc                                          | Mundane     | 12/12      | 4   | 2 bc   | Simple Gown                                                                                                                                                                                    |
+| Cloak, Canvas                  | 1   | Misc                                          | Mundane     | 12/12      | 5   | 0.7 bc | Simple Warm Ruana Cloak                                                                                                                                                                        |
+| Boots                          | 1   | Misc                                          | Mundane     | 12/12      | 1   | 4 bc   |                                                                                                                                                                                                |
+| Pouch (1/5 ft^3)               | 1   | Misc                                          | Mundane     | 12/12      | 1   | 0.5 bc |                                                                                                                                                                                                |
+| Satchel (2/5 ft^3)             | 1   | Misc                                          | Mundane     | 12/12      | 2   | 1 bc   |                                                                                                                                                                                                |
+| Waterskin (4/4)                | 1   | Misc                                          | Mundane     | 12/12      | 5   | 20 bc  |                                                                                                                                                                                                |
+| Royal Kiki Quarterstaff        | 1   | Medium Hafter Blunt                           | Mastercraft | 33/33      | 4   | ?? bc  | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
+| Dagger                         | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1   | 2 bc   | Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                                                                             |
+|                                | 0   |                                               | Mundane     | 12/12      | 0   | 0 bc   |                                                                                                                                                                                                |
+
+
+***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D***
+
+**Carapace mechanic:**
+- Can not be sold or repaired, nor does it count as additional weight, it can only be shed and re-grown using polycraft for 1 ichor and CL2 during rest.
+- Shedded carapace can not be reused by others, it becomes brittle in the process. (Otherwise it would be far too easy to armor up the whole team at little cost.)
+- Carapace can not be upgraded. (Otherwise a character with natural carapace would not have much incentive to wear other types of armor.)
+- Characters born with carapace won't loose it when taking silver damage, as it is their natural form.
+- Characters not born with carapace may grow one with polycraft at the cost of 1 ichor at CL3 for 1 day, but they may loose it when taking silver damage depending on their endurance check.
+- To differentiate, carapace grown with polycraft may be classified as "Fellkin Armor", while carapace that the character is born with can be "Natural Armor".
+
+
+
+## Containers
+### Pouch (1/5 ft^3) - Max 6 LB
+| Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
+| Silver dagger (Stolen, Hidden) | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1    | ? bc   | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
+| Perfume (vial)                 | 1   | Misc                                          | Mundane     | 12/12      | 0.1  | 5 bc   |                                                                             |
+| Mirror, Steel                  | 1   | Misc                                          | Mundane     | 12/12      | 0.5  | 5 bc   |                                                                             |
+| Coin Purse                     | 1   | Misc                                          | Mundane     | 12/12      | 0.06 | 1 bc   |                                                                             |
+| Rations (1 day)                | 1   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
+|                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
+
+### Satchel (2/5 ft^3) - Max 12 LB
+| Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
+| Rations (1 day)                | 3   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
+|                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
+
+
 
 ## Disposition
 
@@ -116,6 +200,8 @@ She's not entirely helpless though, her physical inferiority forced her to becom
 She also has a silver degger that she keeps hidden even from her team. That is her secret weapon, which she may use it in mortal danger. (She stole that from her own hive, knowing that once she left, she can not return, and any sane queen would take the opportunity to do the same.)
 
 She got hooked on Mirage during her journey through the great emptiness, compelling a few traders on her way to give her what she needed, including food, transport, and copious amount of Mirage. She is a functional addict, taking very small doses, just enough to keep her going, but she does get depressed if and when she runs out and realizes that she left more then a year ago, and traveled far but still doesn't have a hive or even a "suitable" a place to settle...
+
+
 
 ## Appearance
 ### Age:
@@ -167,6 +253,8 @@ Her wings buzz loudly on a low pitch like large bugs.
 **About her appearance in general:**
 - She is unlike anyhting I've seen in fantasy. I kinda looked for bugs to combine, and made her unique. The eyes and 4 wings come from dragonly, but she can fold them in on her back like winged ants. The chelae come from scorpion, the antennae and behavior from ants, and I also gave her some carapace for protection. The general idea I had for this character is a tiny adorable woman with cute antennae, and kind of a hive mind edition drama queen behavior.
 - I also didn't look for an existing character class, whether or not she fits any. I had a story and a character idea first, and I simply assigned her attribute and skill points to whatever made sense for her specifically.
+
+
 
 ## Notes (I'll probably use someting else for character notes... This is far too basic for me.)
 ### For those who struggle with naming(like I do):

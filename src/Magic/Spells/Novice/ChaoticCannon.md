@@ -35,7 +35,7 @@ Magic Combat Type: Focused
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 Must know 4 of the following Magics.
 

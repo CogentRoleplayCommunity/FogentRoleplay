@@ -18,7 +18,7 @@ Range Type: Melee
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Nature magic (lvl 0)
 - Mind magic (lvl 0)

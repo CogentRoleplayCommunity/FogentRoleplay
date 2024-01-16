@@ -20,6 +20,6 @@ Range: Extended
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Gravity magic (lvl 0)

@@ -16,7 +16,7 @@ Engageable Opponents: Focused
 
 Magic Resource Required: 0
 
-Magic skills required:
+Skills required:
 
 - Sound Magic (lvl -1)
 - Light Magic (lvl -1) or Mind Magic (lvl -1)

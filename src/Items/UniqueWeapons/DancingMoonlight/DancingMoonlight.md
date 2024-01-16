@@ -28,8 +28,6 @@ This weapon can only be picked up by those who sing (out loud or in their head) 
 
 +2 INT while the weapon is bound. User gains level 4 in General Knowledge, Spiritual, and Will skills while bound to this weapon. User gains Fellkin level 4 vocation and Mooncraft, Hydrocraft, Hemacraft, and Shadowcraft level 4 while bound to this weapon.
 
-### Whispers of the Moon:
-
 While bound to this weapon, gain the following disabling: "I hear the sword whispering its secrets to me, and I must know them"
 
 ### Indestructible:
@@ -38,9 +36,4 @@ This item can't lose durability.
 
 ### Moonlight Greatsword:
 
-Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. This weapon now behaves as a conduit to the Fellcraft listed below.
-
-- Mooncraft
-- Hydrocraft
-- Hemacraft
-- Shadowcraft
+Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it's weapon class becomes a greatsword and now additionally deals radiant damage.

@@ -18,7 +18,7 @@ Range Type: Melee
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Gravity magic (lvl 0)
 - Body magic (lvl 0)

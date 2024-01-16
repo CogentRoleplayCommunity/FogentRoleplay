@@ -24,6 +24,6 @@
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - magic (level )
