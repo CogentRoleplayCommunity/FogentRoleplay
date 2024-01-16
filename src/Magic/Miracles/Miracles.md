@@ -18,34 +18,36 @@ Priests act as divine conduits via their belief, devotion and/or relationship wi
 - Governing Core Skill: Will
 
 If power is from divine heritage:
-- Magic Vocation Name: Brightsmith
+- Magic Vocation Name: Divine Catalyst
 - Magic Vocation Governing Attributes: STR, RFX, INT
 - Magic Resource Name: Ichor
 
 If power is from a divine entity:
 - Magic Vocation Name: Divine Conduit
 - Magic Vocation Governing Attributes: INT
-- Magic Resource Name: Focus
+- Magic Resource Name: Faith
 
-### Ichor/Focus
+### Ichor/Faith
 
-Ichor is the catalyst for all Miracles.
+Ichor is the magic resource for Divine Catalysts.
 
-- +3 Ichor per Brightkin/Divine Conduit Vocation
+Faith is the magic resource for Divine Conduits.
 
-#### Generate Ichor/Focus
+- +3 Ichor/Faith per Vocation level.
 
-Maintaining one's physical health restores Ichor/Focus gradually over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels.
+#### Generate Ichor/Faith
 
-#### Absorb Ichor/Focus
+Maintaining one's physical health restores Ichor/Faith gradually over time. This can be done by maintaining adequate nutrition, hydration, sleep, and stress levels.
+
+#### Absorb Ichor/Faith
 
 Brightkin can absorb Ichor via ample sources of light (such as the Sun) or by drawing on powerful emotion/memories. They can also regain ichor if mortals worship them.
 
-Divine Conduits can absorb focus from ample sources of their deity's domain.
+Divine Conduits can absorb Faith from ample sources of their deity's domain.
 
 ### Wonders
 
-Wonders are uses of Miracles that use an insignificant amount of Ichor/Focus. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Ichor is completely depleted.
+Wonders are uses of Miracles that use an insignificant amount of Ichor/Faith. In general, Wonders should be small and happen close to the user. Making your hand a flashlight, making your eyes grow faintly, or making small illusions are examples of Wonders. Wonders can be used even if the user's Ichor is completely depleted.
 
 ### [Radiance](./Radiance/Radiance.md)
 
