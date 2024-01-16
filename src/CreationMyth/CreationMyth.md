@@ -58,7 +58,7 @@ With a divine touch, the Bright Lord bestowed the blessing upon the most devoted
 
 ![img](../Races/Brightkin/Brightkin.png)
 
-The Bright Lord proclaimed their rightful dominion over Terra and Fellkind to his offspring, though they would have to seize their claim through their own endeavors. Unlike their Fellkind brethren, Brightkind bore no trace of monstrous traits. They possessed the extraordinary ability to perform Brightcraft, akin to the Bright Lord himself. While Fellcraft adhered to the natural laws of the world, Brightcraft appeared to regard them as mere suggestions, perplexing scholars to this very day. Immortality coursed through the veins of Brightkin, much like their celestial progenitor, rendering them virtually impervious to permanent demise.
+The Bright Lord proclaimed their rightful dominion over Terra and Fellkind to his offspring, though they would have to seize their claim through their own endeavors. Unlike their Fellkind brethren, Brightkind bore no trace of monstrous traits. They possessed the extraordinary ability to perform Miracles, akin to the Bright Lord himself. While Fellcraft adhered to the natural laws of the world, Miracles appeared to regard them as mere suggestions, perplexing scholars to this very day. Immortality coursed through the veins of Brightkin, much like their celestial progenitor, rendering them virtually impervious to permanent demise.
 
 ### Brightinism
 

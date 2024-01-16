@@ -90,7 +90,7 @@
 
 ## Notes
 
-1 in Brightcraft, 1 in blessing
+1 in Miracles, 1 in blessing
 The singing ring(in the crypt).
 
 Session 25:
