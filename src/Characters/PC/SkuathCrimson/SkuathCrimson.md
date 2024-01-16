@@ -55,7 +55,7 @@
 
 ## Equipment:
 
-| Name                           | # |                        Class                        | Effects         |  Tier  | Durability | LB |  Value  |
+| Name                           | # |                        Class                        | Effect          |  Tier  | Durability | LB |  Value  |
 | ------------------------------ | :-: | :-------------------------------------------------: | --------------- | :-----: | :--------: | :-: | :-----: |
 | Gambeson Coat                  | 1 |                Body Armor, Arm Armor                | Phy. Def. 0.625 | Mundane |   12/12   | 5 | 3.13 bc |
 | Gambeson Leggings              | 1 |                      Leg Armor                      | Phy. Def. 0.375 | Mundane |   12/12   | 3 | 1.87 bc |
@@ -68,20 +68,20 @@
 
 ## Containers
 
-| Name                                                    |  #  |              Class              | Effects |   Tier   | Durability |  LB  | Value |
-| ------------------------------------------------------- | :-: | :-----------------------------: | ------- | :-------: | :--------: | :--: | :---: |
-| Backpack (1 ft^3)                                       |  1  |         30 lb container         |         |  Mundane  |            |  5  | 2 bc |
-| Shortbow                                                |  1  |            Light Bow            |         |  Mundane  |   12/12   |  2  | 25 bc |
-| Quiver (capacity: 20)                                   |  1  |                                |         |  Mundane  |            |  1  | 1 bc |
-| Broadhead Arrow                                         | 20 |         Standard Arrow         |         |  Mundane  |            | 0.05 | 1 bc |
-| Ring, Mundane                                           |  1  |                                |         |  Mundane  |            | 0.2 | 30 cc |
-| Javelin                                                 |  2  | Short Spear, Thrown Short Spear |         |  Mundane  |   12/12   |  3  | 5 bc |
-| Bronze Coin                                             | 38 |                                |         |  Mundane  |            | 0.02 | 1 bc |
-| Copper Coin                                             | 70 |                                |         |  Mundane  |            | 0.02 | 1 cc |
-| Copper Coin                                             | 600 |                                |         |  Mundane  |            | 0.02 | 1 cc |
-| Bronze Coin                                             | 11 |                                |         |  Mundane  |            | 0.02 | 1 bc |
-| Jade statuette of a frog with tiny golden orbs for eyes |  1  |                                |         | Excellent |            |  1  | 50 bc |
-| Vial of Minor Healing Blood                             |  2  |                                |         |  Mundane  |            | 0.25 | 50 bc |
+| Name                                                    |  #  |              Class              | Effect |   Tier   | Durability |  LB  | Value |
+| ------------------------------------------------------- | :-: | :-----------------------------: | ------ | :-------: | :--------: | :--: | :---: |
+| Backpack (1 ft^3)                                       |  1  |         30 lb container         |        |  Mundane  |            |  5  | 2 bc |
+| Shortbow                                                |  1  |            Light Bow            |        |  Mundane  |   12/12   |  2  | 25 bc |
+| Quiver (capacity: 20)                                   |  1  |                                |        |  Mundane  |            |  1  | 1 bc |
+| Broadhead Arrow                                         | 20 |         Standard Arrow         |        |  Mundane  |            | 0.05 | 1 bc |
+| Ring, Mundane                                           |  1  |                                |        |  Mundane  |            | 0.2 | 30 cc |
+| Javelin                                                 |  2  | Short Spear, Thrown Short Spear |        |  Mundane  |   12/12   |  3  | 5 bc |
+| Bronze Coin                                             | 38 |                                |        |  Mundane  |            | 0.02 | 1 bc |
+| Copper Coin                                             | 70 |                                |        |  Mundane  |            | 0.02 | 1 cc |
+| Copper Coin                                             | 600 |                                |        |  Mundane  |            | 0.02 | 1 cc |
+| Bronze Coin                                             | 11 |                                |        |  Mundane  |            | 0.02 | 1 bc |
+| Jade statuette of a frog with tiny golden orbs for eyes |  1  |                                |        | Excellent |            |  1  | 50 bc |
+| Vial of Minor Healing Blood                             |  2  |                                |        |  Mundane  |            | 0.25 | 50 bc |
 
 ## Notes
 

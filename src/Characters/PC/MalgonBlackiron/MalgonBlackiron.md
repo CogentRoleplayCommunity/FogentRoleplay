@@ -57,7 +57,7 @@
 
 ## Equipment:
 
-| Name                          | # |                  Class                  | Effects         |  Tier  | Durability |  LB  |  Value  |
+| Name                          | # |                  Class                  | Effect          |  Tier  | Durability |  LB  |  Value  |
 | ----------------------------- | :-: | :--------------------------------------: | --------------- | :-----: | :--------: | :--: | :-----: |
 | Gambeson Coat                 | 1 |          Body Armor, Arm Armor          | Phy. Def. 0.625 | Mundane |   12/12   |  5  | 3.13 bc |
 | Gambeson Leggings             | 1 |                Leg Armor                | Phy. Def. 0.375 | Mundane |   12/12   |  3  | 1.87 bc |
@@ -74,12 +74,13 @@
 
 ## Containers
 
-| Name              | # |      Class      | Effects |  Tier  | Durability |  LB  | Value |
-| ----------------- | :-: | :-------------: | ------- | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3) | 1 | 30 lb container |         | Mundane |            |  5  | 2 bc |
-| Dice Set          | 1 |                |         | Mundane |            | 0.2 | 10 cc |
-| Ring, Exquisite   | 2 |                |         | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 5 |                |         | Mundane |            | 0.02 | 1 bc |
+| Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
+| Dice Set          | 1 |                |        | Mundane |            | 0.2 | 10 cc |
+| Ring, Exquisite   | 2 |                |        | Mundane |            | 0.2 | 3 bc |
+| Bronze Coin       | 27 |                |        | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 50 |                |        | Mundane |            | 0.02 | 1 cc |
 
 ## Notes
 
