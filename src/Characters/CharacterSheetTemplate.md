@@ -60,9 +60,9 @@
 
 ## Equipment
 
-| Name | # | Class | Efffect | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | ------- | :--: | :--------: | :-: | :---: |
-|      |  |      |         |      |            |    |      |
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
+|      |  |      |        |      |            |    |      |
 
 ## Containers
 
