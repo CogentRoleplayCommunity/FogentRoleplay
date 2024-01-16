@@ -4,43 +4,43 @@
 
 Items are created with carious levels of quality. Depending on an individual items tiers, it will have the following stats associated with it.
 
-|    Name    | Level | Effect Slots | Base Dice | Durability Max |
+|    Name     | Level | Effect Slots | Base Dice  | Durability Max |
 | :---------: | :---: | :----------: | :--------: | :------------: |
-|   Broken   |  -4  |      0      |    0d6    |       0       |
-| Compromised |  -3  |      0      |    3d4    |       3       |
-|   Damaged   |  -2  |      0      |  2d4, 1d6  |       6       |
-|   Shoddy   |  -1  |      0      |  1d4, 2d6  |       9       |
-|   Mundane   |   0   |      0      |    3d6    |       12       |
-|   Quality   |   1   |      1      |  2d6, 1d8  |       15       |
-|    Fine    |   2   |      2      |  1d6, 2d8  |       18       |
-|  Excellent  |   3   |      3      |    3d8    |       21       |
-|  Superior  |   4   |      4      | 2d8, 1d10 |       24       |
-|  Exquisite  |   5   |      5      | 1d8, 2d10 |       27       |
-|  Flawless  |   6   |      6      |    3d10    |       30       |
-| Mastercraft |   7   |      7      | 2d10, 1d12 |       33       |
-|   Fabled   |   8   |      8      | 1d10, 2d12 |       36       |
-|    Epic    |   9   |      9      |    3d12    |       39       |
-|  Legendary  |  10  |      10      | 2d12, 1d20 |       42       |
-|   Mythic   |  11  |      11      | 1d12, 2d20 |       45       |
-|  Artifact  |  12  |      12      |    3d20    |       48       |
+|   Broken    |  -4   |      0       |    0d6     |       0        |
+| Compromised |  -3   |      0       |    3d4     |       3        |
+|   Damaged   |  -2   |      0       |  2d4, 1d6  |       6        |
+|   Shoddy    |  -1   |      0       |  1d4, 2d6  |       9        |
+|   Mundane   |   0   |      0       |    3d6     |       12       |
+|   Quality   |   1   |      1       |  2d6, 1d8  |       15       |
+|    Fine     |   2   |      2       |  1d6, 2d8  |       18       |
+|  Excellent  |   3   |      3       |    3d8     |       21       |
+|  Superior   |   4   |      4       | 2d8, 1d10  |       24       |
+|  Exquisite  |   5   |      5       | 1d8, 2d10  |       27       |
+|  Flawless   |   6   |      6       |    3d10    |       30       |
+| Mastercraft |   7   |      7       | 2d10, 1d12 |       33       |
+|   Fabled    |   8   |      8       | 1d10, 2d12 |       36       |
+|    Epic     |   9   |      9       |    3d12    |       39       |
+|  Legendary  |  10   |      10      | 2d12, 1d20 |       42       |
+|   Mythic    |  11   |      11      | 1d12, 2d20 |       45       |
+|  Artifact   |  12   |      12      |    3d20    |       48       |
 
 ### Upgrade Materials
 
-| Required Material               | Starting Tier    | Resulting Tier   |
-| ------------------------------- | ---------------- | ---------------- |
-| Smithing Stone Fragment x 1     | Shoddy (-1)      | Mundane (+0)     |
-| Smithing Stone Fragment x 2     | Mundane (+0)     | Quality (+1)     |
-| Smithing Stone Fragment x 3     | Quality (+1)     | Fine (+2)        |
-| Smithing Stone Shard x 1        | Fine (+2)        | Excellent (+3)   |
-| Smithing Stone Shard x 2        | Excellent (+3)   | Superior (+4)    |
-| Smithing Stone Shard x 3        | Superior (+4)    | Exquisite (+5)   |
+| Required Material              | Starting Tier    | Resulting Tier   |
+| ------------------------------ | ---------------- | ---------------- |
+| Smithing Stone Fragment x 1    | Shoddy (-1)      | Mundane (+0)     |
+| Smithing Stone Fragment x 2    | Mundane (+0)     | Quality (+1)     |
+| Smithing Stone Fragment x 3    | Quality (+1)     | Fine (+2)        |
+| Smithing Stone Shard x 1       | Fine (+2)        | Excellent (+3)   |
+| Smithing Stone Shard x 2       | Excellent (+3)   | Superior (+4)    |
+| Smithing Stone Shard x 3       | Superior (+4)    | Exquisite (+5)   |
 | Large Smithing Stone Shard x 1 | Exquisite (+5)   | Flawless (+6)    |
 | Large Smithing Stone Shard x 2 | Flawless (+6)    | Mastercraft (+7) |
 | Large Smithing Stone Shard x 3 | Mastercraft (+7) | Fabled (+8)      |
-| Smithing Stone Chunk x 1        | Fabled (+8)      | Epic (+9)        |
-| Smithing Stone Chunk x 2        | Epic (+9)        | Legendary (+10)  |
-| Smithing Stone Chunk x 3        | Legendary (+10)  | Mythic (+11)     |
-| Smithing Stone Slab             | Mythic (+11)     | Legendary (+12)  |
+| Smithing Stone Chunk x 1       | Fabled (+8)      | Epic (+9)        |
+| Smithing Stone Chunk x 2       | Epic (+9)        | Legendary (+10)  |
+| Smithing Stone Chunk x 3       | Legendary (+10)  | Mythic (+11)     |
+| Smithing Stone Slab            | Mythic (+11)     | Legendary (+12)  |
 
 ### Base Dice Modification
 
