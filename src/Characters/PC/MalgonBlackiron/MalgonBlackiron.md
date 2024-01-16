@@ -77,9 +77,9 @@
 | Name              | # |      Class      | Effects |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | ------- | :-----: | :--------: | :--: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container |         | Mundane |            |  5  | 2 bc |
-| Dice Set          | 1 |      Misc      |         | Mundane |            | 0.2 | 10 cc |
-| Ring, Exquisite   | 2 |      Misc      |         | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 5 |      Misc      |         | Mundane |            | 0.02 | 1 bc |
+| Dice Set          | 1 |                |         | Mundane |            | 0.2 | 10 cc |
+| Ring, Exquisite   | 2 |                |         | Mundane |            | 0.2 | 3 bc |
+| Bronze Coin       | 5 |                |         | Mundane |            | 0.02 | 1 bc |
 
 ## Notes
 
