@@ -1,22 +1,50 @@
-Name," Skill"," Dice Mod",RuneSlot
-Minor Enhanced Endurance,"Endurance","+1d6",2
-Enhanced Endurance,"Endurance","+2d6",4
-Greatly Enhanced Endurance,"Endurance","+3d6",6
-Enhanced Blazecraft,"Blazecraft","+1d6",
-Enhanced Knighthood,"Knight","+1d6",
-Minor Enhanced Lift,"Lift","+1d6",2
-Enhanced Lift,"Lift","+2d6",4
-Greatly Enhanced Lift,"Lift","+3d6",6
-Minor Enhanced Stealth,"Stealth","+1d6",
-Minor Enhanced Toxincraft,"Toxincraft","+1d6",3
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+Name,Description,Duration,RequiredTier," Dice Mod"," Skill"
+Enhanced Blazecraft,,Indefinite,,"+1d6","Blazecraft"
+Enhanced Knighthood,,Indefinite,,"+1d6","Knight"
+Minor Enhanced Toxincraft,+1d6 to Toxincraft.,Indefinite,3,"+1d6","Toxincraft"
+,,,,,
+Minor Enhanced Athletics,+1d6 to Athletics.,Indefinite,2,"+1d6","Athletics"
+Enhanced Athletics,+2d6 to Athletics.,Indefinite,4,"+2d6","Athletics"
+Greatly Enhanced Athletics,+3d6 to Athletics.,Indefinite,6,"+3d6","Athletics"
+Minor Enhanced Climb,+1d6 to Climb.,Indefinite,2,"+1d6","Climb"
+Enhanced Climb,+2d6 to Climb.,Indefinite,4,"+2d6","Climb"
+Greatly Enhanced Climb,+3d6 to Climb.,Indefinite,6,"+3d6","Climb"
+Minor Enhanced Endurance,+1d6 to Endurance.,Indefinite,2,"+1d6","Endurance"
+Enhanced Endurance,+2d6 to Endurance.,Indefinite,4,"+2d6","Endurance"
+Greatly Enhanced Endurance,+3d6 to Endurance.,Indefinite,6,"+3d6","Endurance"
+Minor Enhanced Lift,+1d6 to Lift.,Indefinite,2,"+1d6","Lift"
+Enhanced Lift,+2d6 to Lift.,Indefinite,4,"+2d6","Lift"
+Greatly Enhanced Lift,+3d6 to Lift.,Indefinite,6,"+3d6","Lift"
+Minor Enhanced Acrobatics,+1d6 to Acrobatics.,Indefinite,2,"+1d6","Acrobatics"
+Enhanced Acrobatics,+2d6 to Acrobatics.,Indefinite,4,"+2d6","Acrobatics"
+Greatly Enhanced Acrobatics,+3d6 to Acrobatics.,Indefinite,6,"+3d6","Acrobatics"
+Minor Enhanced Perception,+1d6 to Perception.,Indefinite,2,"+1d6","Perception"
+Enhanced Perception,+2d6 to Perception.,Indefinite,4,"+2d6","Perception"
+Greatly Enhanced Perception,+3d6 to Perception.,Indefinite,6,"+3d6","Perception"
+Minor Enhanced Sleight of Hand,+1d6 to Sleight of Hand.,Indefinite,2,"+1d6","Sleight of Hand"
+Enhanced Sleight of Hand,+2d6 to Sleight of Hand.,Indefinite,4,"+2d6","Sleight of Hand"
+Greatly Enhanced Sleight of Hand,+3d6 to Sleight of Hand.,Indefinite,6,"+3d6","Sleight of Hand"
+Minor Enhanced Stealth,+1d6 to Stealth.,Indefinite,2,"+1d6","Stealth"
+Enhanced Stealth,+2d6 to Stealth.,Indefinite,4,"+2d6","Stealth"
+Greatly Enhanced Stealth,+3d6 to Stealth.,Indefinite,6,"+3d6","Stealth"
+Minor Enhanced Communication,+1d6 to Communication.,Indefinite,2,"+1d6","Communication"
+Enhanced Communication,+2d6 to Communication.,Indefinite,4,"+2d6","Communication"
+Greatly Enhanced Communication,+3d6 to Communication.,Indefinite,6,"+3d6","Communication"
+Minor Enhanced General Knowledge,+1d6 to General Knowledge.,Indefinite,2,"+1d6","General Knowledge"
+Enhanced General Knowledge,+2d6 to General Knowledge.,Indefinite,4,"+2d6","General Knowledge"
+Greatly Enhanced General Knowledge,+3d6 to General Knowledge.,Indefinite,6,"+3d6","General Knowledge"
+Minor Enhanced Survival,+1d6 to Survival.,Indefinite,2,"+1d6","Survival"
+Enhanced Survival,+2d6 to Survival.,Indefinite,4,"+2d6","Survival"
+Greatly Enhanced Survival,+3d6 to Survival.,Indefinite,6,"+3d6","Survival"
+Minor Enhanced Will,+1d6 to Will.,Indefinite,2,"+1d6","Will"
+Enhanced Will,+2d6 to Will.,Indefinite,4,"+2d6","Will"
+Greatly Enhanced Will,+3d6 to Will.,Indefinite,6,"+3d6","Will"
+Minor Enhanced ?,+1d6 to ?.,Indefinite,2,"+1d6","?"
+Enhanced ?,+2d6 to ?.,Indefinite,4,"+2d6","?"
+Greatly Enhanced ?,+3d6 to ?.,Indefinite,6,"+3d6","?"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
