@@ -8,16 +8,6 @@
 | 5th - 6th         | Expert (level 3)                           |
 | 7th - 9th         | Master (level 4)                           |
 
-
-| DnD Spell Level | Fallen Skill Level     |
-| --------------- | ---------------------- |
-| Cantrip         | Incompetent (level -1) |
-| 1st Level       | Novice (level 0)       |
-| 2nd - 3rd Level | Apprentice (level 1)  |
-| 4th - 5th       | Adept (level 2)        |
-| 6th - 7th       | Expert (level 3)       |
-| 8th - 9th       | Master (level 4)       |
-
 ### Fallen to DnD exchange Rate
 
 | Fallen Currency  | DnD 5e Currency     |
