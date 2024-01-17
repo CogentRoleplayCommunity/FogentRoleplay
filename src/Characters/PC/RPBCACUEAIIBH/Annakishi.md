@@ -12,6 +12,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 - I'm happy to play an Initiate tier character if it make sense, but I'm not thrilled to play a character who's story doesn't make sense at any tier (I just can't get into character.), which is why I don't roll for disabling characteristics and spend 2 days thinking on it. Nor do I wanna spend extra few days to come up with another killer character idea just to fit in with other initiate tier characters, right now. Spending points is easy, creating another interesing character isn't(at least not for me). At worst I will patiently wait for an open spot on a team of adept characters. (I'm not in a rush, I have my own game and other open source projects to develop while I'm waiting, and I can still enjoy watching others play as I did for years. So no pressure.)
 
+- As an afterthought: I thing it would be a good idea to test whether I like playing the game with a character that can actually do something impressive, in maybe a few sessions before I fully commit to a potentially long series starting with an Initiate tier character. I don't wanna potentially ruin the game for others by abruptly leaving in case I don't like it. Her goal is to settle, so finding her nesting place is a graceful way to retire her.
 
 ## Attributes and Core Skills
 
@@ -208,10 +209,10 @@ She got hooked on Mirage during her journey through the great emptiness, compell
 - Kiki (Chitinkin)
 
 ### Height:
-- 4' 9" ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
+- 4' 9" (145 cm) ...not counting a pair of foot long antennae waving from the top of her head the top few inches slightly bent.
 
 ### Weight:
-- ~ 92 lb
+- ~ 92 lb (42 kg)
 
 ### Body:
 - Slender humanoid with obvious feminin curves. She has 4 arms sprouting laterally from the top of her torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. She has slightly bulging wing muscles on the top of her back and 4 translucent wings neatly tucked on her back, the top 2 being somewhat longer but narrower then the bottom 2, and purple accented natural carapace protecting the outsid of her limbs and torso.
@@ -229,7 +230,7 @@ She got hooked on Mirage during her journey through the great emptiness, compell
 - Light polarisation (Her eyes don't need to adjust to brightness or dimmness.)
 - This enables her to react about 5x faster then humans.
 
-(Realistically she should be able to catch an arrow at CL2, or dodge a normal blow at CL1 if challenge level is sized to her species specifically, but assigning a challenge level characteristic to each character's natural features is a bit overkill. No sane GM gonna do that. It's far easier to just size the challange level to humans capabilities and spend character attribute points on attributes where the character is above/below human level. That's why I put 2 attribute points into RFX. (I guess that's exactly why every race was granted the birght lord's form, so that challenge level can be sized to humans.)
+(Realistically she should be able to catch an arrow at CL2, or dodge a normal blow at CL1 if challenge level is sized to her species specifically, but assigning a challenge level characteristic to each character's natural features is a bit overkill. No sane GM gonna do that. It's far easier to just size the challange level to human capabilities and spend character attribute points on attributes where the character is above/below human level. That's why I put 2 attribute points into RFX. (I guess that's exactly why every race was granted the birght lord's form, so that challenge level can be sized to humans.)
 Her eyes meant to help her avoid obstacles and catch prey in flight, but her kind live most of their lives underground, their vision being complemented by their antennae for tunnel navigation by use of feromones.)
 
 **Bug eye Disadvanages:**
