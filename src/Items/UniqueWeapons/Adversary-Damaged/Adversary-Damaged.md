@@ -12,23 +12,14 @@ Sword of Luc Lightbringer. The hilt acts as a Miracles focus, allowing for devas
 
 This sword was used in the execution of Helena by Uhtred Storm at Luc's order, though it was only used to subdue her and did not deal the final blow.
 
-
 ## Info
 
-Item Type: Radiance Conduit
-
-Tier: Fine (+2)
-
+|        Name         |   #   |      Class       |   Effect    | Tier  | Durability |  LB   | Value |
+| :-----------------: | :---: | :--------------: | :---------: | :---: | :--------: | :---: | :---: |
+| Adversary - Damaged |   1   | Radiance Conduit | Light Bound | Fine  |   18/18    |   1   |   ?   |
 
 ## Effects
 
-### Light Bound
-
-This weapon is physical light, and can be absorbed and summoned by a those with the Radiance magic skill.
-
-### Hilt Gem
-
-The hilt gem of this radiance conduit is missing. Any gem capable of storing light installed for additional light reserves.
-
-### Radiance Conduit
-Acts as a Radiance focus, meaning it can be used to modify the base dice of all Radiance rolls.
+| Name        |                                                  Effect                                                   |   Duration    | Tier Required |
+| :---------- | :-------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+| Light Bound | This weapon is physical light, and can be absorbed and summoned by a those with the Radiance magic skill. | Instantaneous |       2       |
