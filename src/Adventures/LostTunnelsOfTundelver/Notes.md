@@ -1,7 +1,6 @@
 ## Notes for game
 
 - let them go back to cave for supplies if they want, clam
-
 - Ulfric can tell them about the lost Tunnels they are searching for
 
 Read intro text
@@ -48,3 +47,9 @@ SIster Grelana can't use her magic to speak to the dead as their is a powerful s
 
 - When the party meets her, trying to talk to dead lancer. Intruded by the banshee
 - Wants the Lancers gone
+
+## Ideas
+
+- Arinoth dad is old Arinoth, hence why he was mistaken for his father and why his father's spirit is interacting with him.
+- Blackspider kills a lancer spies and offers to trade with the party
+-
