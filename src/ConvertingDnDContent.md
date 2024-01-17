@@ -1,5 +1,14 @@
 ## DnD Spells to Fallen Spells
 
+| DnD Spell Level   | Fallen Skill Level                         |
+| ----------------- | ------------------------------------------ |
+| Cantrip           | Incompetent (level -1) or Novice (level 0) |
+| 1st - 2nd Level | Apprentice (level 1)                      |
+| 3rd - 4th        | Adept (level 2)                            |
+| 5th - 6th         | Expert (level 3)                           |
+| 7th - 9th         | Master (level 4)                           |
+
+
 | DnD Spell Level | Fallen Skill Level     |
 | --------------- | ---------------------- |
 | Cantrip         | Incompetent (level -1) |
