@@ -225,9 +225,15 @@ Boosts maximum equipment load.
 This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance.",,,,,
 Assassin's Azulian Talisman,1,,Magic Resource Leech,Excellent,21/21,0.2,?,"An assassin's dagger, misshapen and stained in azul.",,,,,
 Assassin's Crimson Talisman,1,,Life Leech,Excellent,21/21,0.2,?,"An assassin's dagger, misshapen and stained in crimson.",,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+Azulian Talisman,1,,Minor Enhanced Magic Resource,Excellent,21/21,0.2,?,"A medallion with azul inlaid.
+
+Minorly boosts maximum magic resource.",,,,,
+Azulian Talisman +1,1,,Enhanced Magic Resource,Exquisite,27/27,0.2,?,"A medallion with azul inlaid.
+
+Boosts maximum magic resource.",,,,,
+Azulian Talisman +2,1,,Greatly Enhanced Magic Resource,Mastercraft,33/33,0.2,?,"A medallion with azul inlaid.
+
+Greatly boosts maximum magic resource.",,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 Blessed Dew Talisman,1,,,Superior,24/24,0.2,?,,,,,,
