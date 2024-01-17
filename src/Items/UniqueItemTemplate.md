@@ -6,10 +6,10 @@
 
 ## Info
 
-| Name | # | Class | Effects | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :-----: | :--: | :--------: | :-: | :---: |
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
 
 ## Effects
 
-| Name | Effect | Duration | Effect Slots |
-| :--- | :----: | :------: | :----------: |
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
