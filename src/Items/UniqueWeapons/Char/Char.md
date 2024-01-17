@@ -18,12 +18,12 @@ Shattered and broken, Destin continues to carry this blade.
 
 ## Info
 
-Item Type: Greatsword
-
-Tier: Mundane (+0)
+| Name | # |                   Class                   |           Effect           |  Tier  | Durability | LB | Value |
+| :--: | :-: | :---------------------------------------: | :-------------------------: | :-----: | :--------: | :-: | :---: |
+| Char | 1 | Thrusting Greatsword, Slashing Greatsword | Fire Repair and Enhancement | Damaged |    6/6    | 6 |   ?   |
 
 ## Effects
 
-### Fire Repair and Enhancement
-
-Weapons repairs in intense fires. If fully repaired and is exposed to increasingly intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.
+| Name                        |                                                                                                  Effect                                                                                                  | Duration | Tier Required |
+| :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Fire Repair and Enhancement | Weapons repairs in intense fires. If fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it. |          |      -3      |
