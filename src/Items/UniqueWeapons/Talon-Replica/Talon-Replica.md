@@ -8,18 +8,9 @@ Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made 
 
 ## Info
 
-Item Type: Small Bladed
-
-Tier: Quality (+1)
-
-## Effects
-
-None
-
-## Info
-
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Talon - Replica | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Blade |  | Quality | 15/15 | 1.5 | ? |
 
 ## Effects
 
