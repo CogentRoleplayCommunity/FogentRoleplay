@@ -71,9 +71,23 @@ These archetypes can of course depends on the setting you are playing in, though
 
 Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at initiate tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play. Once you've gained 6 skill points, you move up to the next tier of play.
 
-### Initiate Tier (D&D Level 1-2)
+### Apprentice Tier (D&D Level 1-2)
 
 This tier represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
+
+Skill/Vocation Level Cap: 1
+
+Given Vocation Points: 1
+
+Max Skill Points from Disabling Characteristics: 2
+
+Starting Attribute Points: 1
+
+Starting Skill Points: 3
+
+### Adept Tier (D&D Level 3-4)
+
+This tier represent a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
 Skill/Vocation Level Cap: 2
 
@@ -85,13 +99,13 @@ Starting Attribute Points: 1
 
 Starting Skill Points: 6
 
-### Adept Tier (D&D Level 3-4)
+### Expert Tier (D&D Level 5-6)
 
-This tier represent a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
+This tier represent a group of veteran characters who made a name for themselves in their larger region.
 
 Skill/Vocation Level Cap: 3
 
-Given Vocation Points: 2
+Given Vocation Points: 3
 
 Max Skill Points from Disabling Characteristics: 3
 
@@ -99,7 +113,7 @@ Starting Attribute Points: 2
 
 Starting Skill Points: 12
 
-### Veteran Tier (D&D Level 5-6)
+### Master Tier (D&D Level 5-6)
 
 This tier represent a group of veteran characters who made a name for themselves in their larger region.
 
@@ -111,7 +125,7 @@ Max Skill Points from Disabling Characteristics: 3
 
 Starting Attribute Points: 3
 
-Starting Skill Points: 18
+Starting Skill Points: 21
 
 ## Step 3: Write a rough Backstory
 
@@ -169,18 +183,18 @@ Your starting wealth is determined narratively by you position in life as define
 
 |              Name              | Starting Wealth | Average Wealth |
 | :----------------------------: | :-------------: | :------------: |
-|            Made up             |     5d4 bc      |     13 bc      |
-|            Made up             |   1d4 x 10 bc   |     25 bc      |
-|        Barbarian, Druid        |   2d4 x 10 bc   |     50 bc      |
-|            Sorcerer            |   3d4 x 10 bc   |     75 bc      |
+|            Made up            |     5d4 bc     |     13 bc     |
+|            Made up            |   1d4 x 10 bc   |     25 bc     |
+|        Barbarian, Druid        |   2d4 x 10 bc   |     50 bc     |
+|            Sorcerer            |   3d4 x 10 bc   |     75 bc     |
 |     Rogue, Warlock, Wizard     |   4d4 x 10 bc   |     100 bc     |
 | Fighter, Paladin, Ranger, Bard |   5d4 x 10 bc   |     125 bc     |
 
-|                      Socioeconomic status                       | Starting Wealth | Average Wealth |
-| :-------------------------------------------------------------: | :-------------: | :------------: |
-|                              Poor                               |     5d4 bc      |     13 bc      |
-|                   Manual Labor ( Farm hand )                    |   1d4 x 10 bc   |     25 bc      |
-|              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc      |
-|             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc      |
+|                       Socioeconomic status                       | Starting Wealth | Average Wealth |
+| :--------------------------------------------------------------: | :-------------: | :------------: |
+|                               Poor                               |     5d4 bc     |     13 bc     |
+|                   Manual Labor ( Farm hand )                   |   1d4 x 10 bc   |     25 bc     |
+|              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc     |
+|             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc     |
 | High Skilled Labor ( Accomplished thief, educated professions ) |   4d4 x 10 bc   |     100 bc     |
-|                    Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |
+|                     Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |
