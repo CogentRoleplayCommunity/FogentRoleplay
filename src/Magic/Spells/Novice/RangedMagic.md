@@ -6,12 +6,11 @@
 
 | Skill level |  Range Type  |
 | :---------: | :----------: |
-|     -1     |    Close    |
-|      0      |    Short    |
-|      1      |    Medium    |
-|      2      |   Extended   |
-|      3      |     Long     |
-|      4      | Sharpshooter |
+|      0      |    Medium    |
+|      1      |   Extended   |
+|      2      |     Long     |
+|      3      | Sharpshooter |
+|      4      |   Extreme   |
 
 **Engageable Opponents:** Standard
 
