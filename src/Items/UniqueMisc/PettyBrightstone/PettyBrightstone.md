@@ -8,23 +8,12 @@ Brightstone is a rare gem that can hold light. The only place it can be found is
 
 ## Info
 
-Item Type:
-
-Tier:
-
-## Effects
-
-### Light Storage:
-
-Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem.
-
-
-## Info
-
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Petty Brightstone | 1 |  | Light Storage | Excellent |  | 0.1 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Light Storage | Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem. |  | 3 |
