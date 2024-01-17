@@ -48,7 +48,7 @@ Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce
 Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it. Can be used to reattach limbs as long as the limb is not completely destroyed.",Instantaneous,6
 Fatal Heal,Removes a Fatal or lesser injury. Can be used to regrow limbs and body parts.,Instantaneous,8
 Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance.",Instantaneous,10
-,,,
+Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.,Instantaneous,3
 ,,,
 ,,,
 ,,,
