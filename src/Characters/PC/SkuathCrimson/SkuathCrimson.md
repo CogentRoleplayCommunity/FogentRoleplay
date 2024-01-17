@@ -6,16 +6,16 @@
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 5d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
-| Climb     | 1 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        | 2 | 6d6 | Fellweaver {ALL} | 0  | 4d6 |
+| Guard {RFX}        | 1 | 5d6 | Fellweaver {ALL} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Short Spear {ALL} | 2 | 6d6 | Galecraft {ALL}  | -1 | 3d6 |
+| Short Spear {ALL} | 1 | 5d6 | Galecraft {ALL}  | -1 | 3d6 |
 
 ## Effects
 
@@ -30,7 +30,7 @@
 |    Inventory Weight    |                           28.25 lb                           |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                             50 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+| Humanoid Movement Speed |                             45 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
 |   Humanoid Swim Speed   |                             25 ft                             |          |                              15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                              |
 |  Humanoid Climb Speed  |                             15 ft                             |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
@@ -40,9 +40,9 @@
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Galecraft - Melee Trick |       3d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Shockwave |           Rapid           |                    |        None        |
 | Galecraft - Ranged Trick |       3d6       |                |                  |      0      |  Close  | Slash, Bludgeon, Shockwave |         Standard         |                    |        None        |
-|       Short Spear       | 8d6<br />(+2d6) | 9d6<br />(+3d6) |       None       |      3      |  Melee  |           Pierce           |        Spear Rapid        |        None        |        None        |
-|    Thrown Short Spear    | 8d6<br />(+2d6) | 8d6<br />(+2d6) |       None       |      3      |  Short  |           Pierce           |         Standard         |        None        |        None        |
-|    Large Hafted Blunt    |  4d6<br />(-1)  | 6d6<br />(+1d6) |       None       |      5      |  Melee  |          Bludgeon          |           Rapid           |        None        |        None        |
+|       Short Spear       | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      3      |  Melee  |           Pierce           |        Spear Rapid        |        None        |        None        |
+|    Thrown Short Spear    | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      |  Short  |           Pierce           |         Standard         |        None        |        None        |
+|    Large Hafted Blunt    |  3d6<br />(-1)  | 5d6<br />(+1d6) |       None       |      5      |  Melee  |          Bludgeon          |           Rapid           |        None        |        None        |
 |        Light Bow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                            |           Quick           |        None        |        Arrow        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
