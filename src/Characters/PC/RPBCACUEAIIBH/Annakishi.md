@@ -12,9 +12,6 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 - I'm happy to play an Initiate tier character if it make sense, but I'm not thrilled to play a character who's story doesn't make sense at any tier (I just can't get into character.), which is why I don't roll for disabling characteristics and spend 2 days thinking on it. Nor do I wanna spend extra few days to come up with another killer character idea just to fit in with other initiate tier characters, right now. Spending points is easy, creating another interesing character isn't(at least not for me). At worst I will patiently wait for an open spot on a team of adept characters. (I'm not in a rush, I have my own game and other open source projects to develop while I'm waiting, and I can still enjoy watching others play as I did for years. So no pressure.)
 
-- As an afterthought: I thing it would be a good idea to test whether I like playing the game with a character that can actually do something impressive, in maybe a few sessions before I fully commit to a potentially long series starting with an Initiate tier character. I don't wanna potentially ruin the game for others by abruptly leaving in case I don't like it. Her goal is to settle, so finding her nesting place is a graceful way to retire her.
-
-
 
 ## Attributes and Core Skills
 
@@ -124,9 +121,9 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 
 | Name                           |  #  | Class                                         | Tier        | Durability | LB  | Value  | Note                                                                                                                                                                                           |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :-: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons | 1   | Natural Armor                                 | Quality     | 15/15      | 6   | 0 bc   | Equivalent of mundane leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                             |
-| Carapace Cuisses and Greaves   | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of mundane leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                               |
-| Carapace Vambrace              | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of mundane leather vambrace (Phy.Def. 0.5)                                                                                                                                          |
+| Carapace Cuirass and Pauldrons | 1   | Natural Armor                                 | Quality     | 15/15      | 6   | 0 bc   | Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                             |
+| Carapace Cuisses and Greaves   | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                               |
+| Carapace Vambrace              | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of leather vambrace (Phy.Def. 0.5)                                                                                                                                          |
 | Clothes, Traveler's            | 1   | Misc                                          | Mundane     | 12/12      | 4   | 2 bc   | Simple Gown                                                                                                                                                                                    |
 | Cloak, Canvas                  | 1   | Misc                                          | Mundane     | 12/12      | 5   | 0.7 bc | Simple Warm Ruana Cloak                                                                                                                                                                        |
 | Boots                          | 1   | Misc                                          | Mundane     | 12/12      | 1   | 4 bc   |                                                                                                                                                                                                |
@@ -138,7 +135,7 @@ B) Her story doens't make sense at Initiate tier with each fellcraft starting at
 |                                | 0   |                                               | Mundane     | 12/12      | 0   | 0 bc   |                                                                                                                                                                                                |
 
 
-***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D***
+***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
 **Carapace mechanic:**
 - Can not be sold or repaired, nor does it count as additional weight, it can only be shed and re-grown using polycraft for 1 ichor and CL2 during rest.
