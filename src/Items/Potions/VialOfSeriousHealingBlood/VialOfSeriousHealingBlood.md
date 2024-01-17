@@ -1,6 +1,6 @@
 # Vial of Serious Healing Blood
 
-![Copyright](VialOfHealingBlood.png)
+![Copyright](./../VialOfMinorHealingBlood/VialOfHealingBlood.png)
 
 ## Desc
 
