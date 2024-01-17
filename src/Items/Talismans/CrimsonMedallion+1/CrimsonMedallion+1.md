@@ -19,3 +19,15 @@ Tier: Epic (+9)
 ### Enhanced Vitality
 
 Reduce up to 2d6 of total injury penalty dice.
+
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

@@ -21,3 +21,14 @@ Tier: Epic (+9)
 ### Enhanced Lift
 
 +3 to Lift Skill.
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

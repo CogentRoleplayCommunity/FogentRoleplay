@@ -15,3 +15,14 @@ Tier: Flawless (+6)
 ## Effects
 
 ### [Gradual Healing](../../../GeneralRules/NonCombatRules/Healing.md#gradual-heal)
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

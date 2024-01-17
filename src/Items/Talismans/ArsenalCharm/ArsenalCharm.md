@@ -21,3 +21,13 @@ Tier: Excellent (+3)
 ### Enhanced Lift
 
 +1 to Lift Skill.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

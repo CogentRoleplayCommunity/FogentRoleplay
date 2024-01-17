@@ -17,3 +17,13 @@ Tier: Superior (+4)
 ### Retractable Shield:
 
 The user can deploy or retract the medium shield at will.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

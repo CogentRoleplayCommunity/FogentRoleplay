@@ -37,3 +37,13 @@ Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gai
 ### Indestructible
 
 This item can't lose durability.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

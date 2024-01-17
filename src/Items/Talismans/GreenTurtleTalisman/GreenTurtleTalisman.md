@@ -23,3 +23,13 @@ Tier: Excellent (+3)
 ### Enhanced Endurance
 
 +1 to Endurance skill.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

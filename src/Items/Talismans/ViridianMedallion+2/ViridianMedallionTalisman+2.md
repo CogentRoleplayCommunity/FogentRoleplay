@@ -19,3 +19,13 @@ Tier: Epic (+9)
 ### Enhanced Endurance
 
 +3 to Endurance skill.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

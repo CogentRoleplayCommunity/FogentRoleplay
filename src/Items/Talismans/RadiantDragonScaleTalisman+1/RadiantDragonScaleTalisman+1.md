@@ -15,3 +15,13 @@ Tier: Flawless (+6)
 ### Medium Radiant Resistance
 
 -2 to victory levels received from Radiant damage.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

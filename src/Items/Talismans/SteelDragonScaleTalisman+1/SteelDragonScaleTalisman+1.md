@@ -17,3 +17,13 @@ Tier: Flawless (+6)
 ### Medium Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
 
 -2 to victory levels received from Hew, Slash, Pierce, Bludgeon and Shockwave damage.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

@@ -19,3 +19,14 @@ Tier: Epic (+9)
 ### Enhanced Magic Resource
 
 +6 to magic Resource capacity.
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

@@ -21,3 +21,14 @@ Tier: Flawless (+6)
 ### Enhanced Lift
 
 +2 to Lift Skill.
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

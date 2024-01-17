@@ -21,3 +21,13 @@ Tier: Flawless (+6)
 ### Enhanced Critical
 
 +1 automatic win to sneak attacks and incapacitated opponents.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

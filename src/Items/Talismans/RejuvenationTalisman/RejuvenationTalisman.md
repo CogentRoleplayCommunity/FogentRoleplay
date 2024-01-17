@@ -17,3 +17,13 @@ Tier: Epic (+9)
 ### Enhanced Healing
 
 Any healing acts as the tier above.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

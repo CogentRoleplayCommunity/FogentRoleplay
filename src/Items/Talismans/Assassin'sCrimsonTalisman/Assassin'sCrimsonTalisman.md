@@ -17,3 +17,13 @@ Tier: Excellent (+3)
 ### Life Leech
 
 Sneak attacks trigger an Minor Heal to self.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

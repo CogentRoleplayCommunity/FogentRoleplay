@@ -17,3 +17,14 @@ Tier: Excellent (+3)
 ### Magic Resource Leech
 
 Sneak attack regain 1 Magic Resource of the user's choice.
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

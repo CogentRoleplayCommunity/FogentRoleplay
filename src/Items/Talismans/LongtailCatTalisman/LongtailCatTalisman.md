@@ -19,3 +19,13 @@ Tier: Flawless (+6)
 ### Enhanced Acrobatics
 
 +1 to Acrobatic Skill.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

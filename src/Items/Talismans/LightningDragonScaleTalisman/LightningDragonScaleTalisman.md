@@ -17,3 +17,13 @@ Tier: Excellent (+3)
 ### Minor Electric Resistance
 
 -1 to victory levels received from Electric damage.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

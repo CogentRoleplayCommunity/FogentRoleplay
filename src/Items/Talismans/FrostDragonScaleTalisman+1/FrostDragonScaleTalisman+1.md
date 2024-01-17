@@ -15,3 +15,13 @@ Tier: Flawless (+6)
 ### Medium Cold Resistance
 
 -2 to victory levels received from Frost damage.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

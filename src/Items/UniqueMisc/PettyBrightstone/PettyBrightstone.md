@@ -17,3 +17,14 @@ Tier:
 ### Light Storage:
 
 Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem.
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

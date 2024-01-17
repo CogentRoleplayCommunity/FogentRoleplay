@@ -19,3 +19,14 @@ Tier: Legendary  (+10)
 ### Enhanced Vitality
 
 Reduce up to 3d6 of total injury penalty dice.
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

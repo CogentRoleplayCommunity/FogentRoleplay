@@ -19,3 +19,13 @@ Tier: Epic (+9)
 ### Major Psychic Resistance
 
 -3 to victory levels received from Psychic damage.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

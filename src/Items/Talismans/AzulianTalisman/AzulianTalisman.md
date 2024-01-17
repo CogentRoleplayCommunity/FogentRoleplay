@@ -19,3 +19,13 @@ Tier: Excellent (+3)
 ### Minor Enhanced Magic Resource
 
 +2 to magic Resource capacity.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
