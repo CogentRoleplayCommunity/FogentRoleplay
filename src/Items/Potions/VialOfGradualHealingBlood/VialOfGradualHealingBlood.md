@@ -17,3 +17,14 @@ Tier: Quality (+1)
 ## Effects
 
 [Gradual Heal](../../../GeneralRules/NonCombatRules/Healing.md#gradual-heal)
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

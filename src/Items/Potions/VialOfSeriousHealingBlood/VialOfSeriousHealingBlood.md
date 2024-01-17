@@ -17,3 +17,14 @@ Tier: Flawless (+6)
 ## Effects
 
 [Serious Heal](../../../GeneralRules/NonCombatRules/Healing.md#serious-heal)
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

@@ -17,3 +17,14 @@ Tier: Fabled (+8)
 ## Effects
 
 [Fatal Healing](../../../GeneralRules/NonCombatRules/Healing.md#fatal-heal)
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

@@ -17,3 +17,14 @@ Tier: Legendary (+10)
 ## Effects
 
 [Revival Heal](../../../GeneralRules/NonCombatRules/Healing.md#revival-heal)
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
