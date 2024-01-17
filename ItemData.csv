@@ -45,7 +45,7 @@ Lance,1,Reach Hafted Point,,Mundane,12/12,11,10 bc,
 Long Spear,1,Longspear,,Mundane,12/12,5,2 bc,
 Pike,1,Longspear,,Mundane,12/12,5,5 bc,
 Man Catcher,1,Man Catcher,,Mundane,12/12,8,5 bc,
-Swordbreaker,1,Small Slashing Blade,,Mundane,12/12,1,25 bc,
+Swordbreaker,1,Small Slashing Blade,Swordbreaker Blade Catch,Mundane,12/12,1,25 bc,
 Crowbar,1,Small Hafted Blunt,,Mundane,12/12,5,2 bc,
 Hammer,1,Small Hafted Blunt,,Mundane,12/12,3,1 bc,
 "Hammer, Sledge",1,Large Hafted Blunt,,Mundane,12/12,10,2 bc,
@@ -64,7 +64,7 @@ Great Club,1,Large Hafted Blunt,,Mundane,12/12,10,20 cc,
 Whip,1,Whip,,Mundane,12/12,3,2 bc,
 Plumbata/Dart,1,Thrown Small Point,,Mundane,12/12,5,5 cc,
 Blowgun,1,Blowgun,,Mundane,12/12,1,10 bc,
-Asher’s Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+Asher's Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
 Talon - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Blade",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
