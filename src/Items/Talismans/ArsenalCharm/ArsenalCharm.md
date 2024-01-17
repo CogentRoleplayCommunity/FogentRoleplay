@@ -12,22 +12,12 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Excellent (+3)
-
-## Effects
-
-### Enhanced Lift
-
-+1 to Lift Skill.
-
-## Info
-
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Arsenal Charm | 1 |  | Enhanced Lift | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Minor Enhanced Lift | +1d6 to Lift. | Indefinite | 2 |
