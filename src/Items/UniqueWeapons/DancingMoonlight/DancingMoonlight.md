@@ -14,41 +14,15 @@ Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland 
 
 ## Info
 
-Item Type: Greatsword, Hemacraft conduit, Mooncraft conduit, Shadowcraft conduit, Hydrocraft conduit
-
-Tier: Artifact (+12)
-
-## Effects
-
-### Binding of the Moon:
-
-This weapon can only be picked up by those who sing (out loud or in their head) the Lullaby of the Moon. If the weapon is held for a fortnight, the weapon is bound to the users, severing the bond with the previous bearer. The bearer can now dismiss and summon the blade at will.
-
-### Blessing of the Moon:
-
-+2 INT while the weapon is bound. User gains level 4 in General Knowledge, Spiritual, and Will skills while bound to this weapon. User gains Fellkin level 4 vocation and Mooncraft, Hydrocraft, Hemacraft, and Shadowcraft level 4 while bound to this weapon.
-
-While bound to this weapon, gain the following disabling: "I hear the sword whispering its secrets to me, and I must know them"
-
-### Indestructible:
-
-This item can't lose durability.
-
-### Moonlight Greatsword:
-
-Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it's weapon class becomes a greatsword and now additionally deals radiant damage.
-
-## Info
-
 |       Name       | # |                                                              Class                                                              |                           Effect                           |   Tier   | Durability | LB | Value |
 | :---------------: | :-: | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :------: | :--------: | :-: | :---: |
 | Dancing Moonlight | 1 | Large Thrusting Sword, Large Slashing Sword, Light Magic Conduit, Water Magic Conduit, Shadow Magic Conduit, Blood Magic Conduit | Moonlight Greatsword, Indestructible, Blessing of the Moon | Artifact |   48/48   | 3 |   ?   |
 
 ## Effects
 
-| Name                 |                                                                                                 Effect                                                                                                 | Duration | Tier Required |
-| :------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
-| Moonlight Greatsword | Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it's weapon class becomes a greatsword and now additionally deals radiant damage. |          |       2       |
-| Indestructible       |                                                                                    This item can't lose durability.                                                                                    |          |       1       |
-| Blessing of the Moon |                   +2 INT while the weapon is bound. While bound to this weapon, gain the following disabling: "I hear the sword whispering its secrets to me, and I must know them"                   |          |       8       |
-| Binding of the Moon | This weapon can only be picked up by those who sing (out loud or in their head) the Lullaby of the Moon. If the weapon is held for a fortnight, the weapon is bound to the users, severing the bond with the previous bearer. The bearer can now dismiss and summon the blade at will. |  | 8 |
+| Name                 |                                                                                                                                         Effect                                                                                                                                         | Duration | Tier Required |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Moonlight Greatsword |                                        Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it's weapon class becomes a greatsword and now additionally deals radiant damage.                                        |          |       2       |
+| Indestructible       |                                                                                                                            This item can't lose durability.                                                                                                                            |          |       1       |
+| Blessing of the Moon |                                                           +2 INT while the weapon is bound. While bound to this weapon, gain the following disabling: "I hear the sword whispering its secrets to me, and I must know them"                                                           |          |       8       |
+| Binding of the Moon  | This weapon can only be picked up by those who sing (out loud or in their head) the Lullaby of the Moon. If the weapon is held for a fortnight, the weapon is bound to the users, severing the bond with the previous bearer. The bearer can now dismiss and summon the blade at will. |          |       8       |
