@@ -6,27 +6,16 @@
 
 A medallion with azul inlaid.
 
-Vastly  boosts maximum magic resource.
-
-## Info
-
-Item Type: Talisman
-
-Tier: Epic (+9)
-
-## Effects
-
-### Enhanced Magic Resource
-
-+6 to magic Resource capacity.
-
+Greatly boosts maximum magic resource.
 
 ## Info
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Azulian Talisman +2 | 1 |  | Greatly Enhanced Magic Resource | Mastercraft | 33/33 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Greatly Enhanced Magic Resource | +6 to magic Resource capacity. | Indefinite | 7 |
