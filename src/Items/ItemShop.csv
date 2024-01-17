@@ -160,12 +160,12 @@
 "Paper (one sheet)",1,Misc,Mundane,,0,20 cc,FALSE,FALSE,FALSE,TRUE
 "Parchment (one sheet)",1,Misc,Mundane,,0,10 cc,FALSE,FALSE,TRUE,TRUE
 "Perfume (vial)",1,Misc,Mundane,,0.1,5 bc,FALSE,FALSE,FALSE,TRUE
-"Vial of Gradual Healing Blood",1,Misc,Mundane,,0.25,40 bc,TRUE,TRUE,TRUE,TRUE
+"Vial of Gradual Healing Blood",1,Misc,Mundane,,0.25,50 bc,TRUE,TRUE,TRUE,TRUE
 "Vial of Minor Healing Blood",1,Misc,Mundane,,0.25,50 bc,TRUE,TRUE,TRUE,TRUE
-"Vial of Medium Healing Blood",1,Misc,Mundane,,0.25,100 bc,FALSE,TRUE,TRUE,TRUE
-"Vial of Serious Healing Blood",1,Misc,Mundane,,0.25,500 bc,FALSE,TRUE,TRUE,TRUE
-"Vial of Fatal Healing Blood",1,Misc,Mundane,,0.25,1350 bc,FALSE,FALSE,TRUE,TRUE
-"Vial of Revival Healing Blood",1,Misc,Mundane,,0.25,500 bc,FALSE,FALSE,FALSE,TRUE
+"Vial of Medium Healing Blood",1,Misc,Mundane,,0.25,250 bc,FALSE,TRUE,TRUE,TRUE
+"Vial of Serious Healing Blood",1,Misc,Mundane,,0.25,2500 bc,FALSE,TRUE,TRUE,TRUE
+"Vial of Fatal Healing Blood",1,Misc,Mundane,,0.25,12500 bc,FALSE,FALSE,TRUE,TRUE
+"Vial of Revival Healing Blood",1,Misc,Mundane,,0.25,62500 bc,FALSE,FALSE,FALSE,TRUE
 "Rations (1 day)",1,Misc,Mundane,,2,50 cc,FALSE,TRUE,TRUE,TRUE
 "Torch",1,Torch,Shoddy,9/9,1,1 cc,TRUE,TRUE,TRUE,TRUE
 "Vial",1,Misc,Mundane,,0.1,1 bc,TRUE,TRUE,TRUE,TRUE
