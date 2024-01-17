@@ -283,7 +283,9 @@ Paper (one sheet),1,,,Mundane,,0,20 cc,
 Parchment (one sheet),1,,,Mundane,,0,10 cc,
 Perfume (vial),1,,,Mundane,,0.1,5 bc,
 Vial of Gradual Healing Blood,1,,,Mundane,,0.25,40 bc,
-Vial of Minor Healing Blood,1,,,Mundane,,0.25,50 bc,
+Vial of Minor Healing Blood,1,,,Mundane,,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+
+The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington."
 Vial of Medium Healing Blood,1,,,Mundane,,0.25,100 bc,
 Vial of Serious Healing Blood,1,,,Mundane,,0.25,500 bc,
 Vial of Fatal Healing Blood,1,,,Mundane,,0.25,1350 bc,
