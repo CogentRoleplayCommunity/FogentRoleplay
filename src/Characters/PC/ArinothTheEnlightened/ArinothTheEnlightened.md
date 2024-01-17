@@ -6,16 +6,16 @@
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | -1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 2 | 6d6 | Communication     | 0 | 2d6 |
+| Athletics | 0 | 3d6 | Acrobatics      | 1 | 5d6 | Communication     | 0 | 2d6 |
 | Climb     | 1 | 4d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 2d6 |
 | Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 2d6 |
 | Lift      | 0 | 4d6 | Stealth         | 1 | 5d6 | Will              | 0 | 2d6 |
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 2 | 6d6 | Fellweaver {ALL} | 0 | 4d6 |
-| ------------------- | :-: | :-: | ---------------- | - | --- |
-| Large Hafted {ALL} | 2 | 5d6 | Sonocraft {ALL}  | 0 | 3d6 |
+| Monk {RFX}         | 1 | 5d6 | Fellweaver {ALL} | 0  | 3d6 |
+| ------------------- | :-: | :-: | ---------------- | -- | --- |
+| Large Hafted {ALL} | 1 | 4d6 | Sonocraft {ALL}  | -1 | 2d6 |
 
 ## Effects
 
@@ -38,12 +38,12 @@
 
 |           Name           |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Sonocraft - Melee Trick |         3d6         |                      |                  |      0      | Melee |     Shockwave     |           Rapid           |                    |        None        |
-| Sonocraft - Ranged Trick |         3d6         |                      |                  |      0      | Close |     Shockwave     |         Standard         |                    |        None        |
-|    Small Hafted Blunt    | 3d8, 2d6<br />(+0d6) |     <br />(+0d6)     |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|   Medium Hafted Blunt   | 3d8, 2d6<br />(+0d6) | 3d8, 3d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Large Hafted Blunt    |  3d8, 1d6<br />(-1)  | 3d8, 3d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Reach Hafted Blunt    |    3d8<br />(-2)    | 3d8, 4d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
+| Sonocraft - Melee Trick |         2d6         |                      |                  |      0      | Melee |     Shockwave     |           Rapid           |                    |        None        |
+| Sonocraft - Ranged Trick |         2d6         |                      |                  |      0      | Close |     Shockwave     |         Standard         |                    |        None        |
+|    Small Hafted Blunt    | 3d8, 1d6<br />(+0d6) |     <br />(+0d6)     |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|   Medium Hafted Blunt   | 3d8, 1d6<br />(+0d6) | 3d8, 2d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|    Large Hafted Blunt    |  3d8, 0d6<br />(-1)  | 3d8, 2d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|    Reach Hafted Blunt    |  2d8, 0d6<br />(-2)  | 3d8, 3d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
