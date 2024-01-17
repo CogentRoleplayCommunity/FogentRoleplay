@@ -6,7 +6,7 @@
 
 "What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…" - Lord Maxwell Reddington
 
-The superior arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone in a long forgotten cache by Dipper Despereaux.
+The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
 
 Lord Maxwell Reddington was heir to House Reddington and to the Kingdom of Reddland. Maxwell was an academic of Byrgenwerth, like his sister Veronica, and was fascinated by the ancient culture of the Siren’s who used to call Reddwall their own. He spent much of his time and dowry funding expeditions into the ancient Siren catacombs that Reddwall stand up today. On one of these expeditions with his younger sister Lady Veronica Reddington, they discovered something deep within the catacombs. Maxwell returned with this sword and Veronica shortly after invented the first healing bloods of Reddwall.
 
@@ -20,9 +20,9 @@ Veronica and Flint tried for children many times, but tragedy struck every time.
 
 ## Info
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Echo | 1 | Medium Thrusting Sword, Medium Slashing Sword |  | Superior | 24/24 | 2 | ? |
+| Name | # |                     Class                     | Effect |   Tier   | Durability | LB | Value |
+| :--: | :-: | :-------------------------------------------: | :----: | :------: | :--------: | :-: | :---: |
+| Echo | 1 | Medium Thrusting Sword, Medium Slashing Sword |        | Superior |   24/24   | 2 |   ?   |
 
 ## Effects
 
