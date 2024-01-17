@@ -16,30 +16,6 @@ The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol 
 
 ## Info
 
-Item Type: Reach Hafted Blade, Long Spear
-
-Tier: Artifact (+12)
-
-## Effects
-
-### Destiny Strength/Reflex
-
-Strength and reflex are set to level 3.
-
-### Weather Manipulation Conduit
-
-Character gains level 4 in Galecraft, Electrocraft, and Cryocraft. This weapon acts as a conduit for Galecraft, Electrocraft, and Cryocraft.
-
-### Destiny Chosen
-
-Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.
-
-### Indestructible
-
-This item can't lose durability.
-
-## Info
-
 |         Name         | # |                                            Class                                            |                          Effect                          |   Tier   | Durability | LB | Value |
 | :------------------: | :-: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------: | :--------: | :-: | :---: |
 | The Spear of Destiny | 1 | Reach Hafted Blade, Longspear, Air Magic Conduit, Cold Magic Conduit, Eletric Magic Conduit | Destiny Chosen, Destiny Strength/Reflex, Indestructible, | Artifact |   48/48   | 14 |   ?   |
