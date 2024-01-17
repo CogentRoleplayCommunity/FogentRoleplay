@@ -42,12 +42,12 @@ Light Storage,Holds 1 Magic Resource worth of light. Can be recharged in Sunligh
 Dragon Threat Sense,The bearer of this armor gets an uneasy feeling when there are draconic creatures near.,While equipped,3
 Dragon Breath Resistance,"Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect).",While equipped,5
 Retractable Shield,The user can deploy or retract the medium shield at will.,While equiped,4
-Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,,2
-Minor Heal,"Removes a minor or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it.",,2
-Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing  has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.",,
-Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it. Can be used to reattach limbs as long as the limb is not completely destroyed.",,
-Fatal Heal,Removes a Fatal or lesser injury. Can be used to regrow limbs and body parts.,,
-Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance.",,
+Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,2
+Minor Heal,"Removes a minor or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it.",Instantaneous,2
+Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing  has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.",Instantaneous,4
+Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it. Can be used to reattach limbs as long as the limb is not completely destroyed.",Instantaneous,
+Fatal Heal,Removes a Fatal or lesser injury. Can be used to regrow limbs and body parts.,Instantaneous,
+Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance.",Instantaneous,
 ,,,
 ,,,
 ,,,
