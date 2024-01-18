@@ -6,29 +6,16 @@
 
 A charm that resembles a great jar overflowing with weaponry.
 
-Vastly boosts maximum equipment load.
-
-The great jar grants this talisman to their warriors. Carry as much as you can - grow big and strong.
-
-## Info
-
-Item Type: Talisman
-
-Tier: Epic (+9)
-
-## Effects
-
-### Enhanced Lift
-
-+3 to Lift Skill.
-
+Greatly boosts maximum equipment load.
 
 ## Info
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Great Arsenal Talisman | 1 |  | Greatly Enhanced Lift | Epic | 39/39 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Greatly Enhanced Lift | +3d6 to Lift. | Indefinite | 6 | +3d6 | Lift |
