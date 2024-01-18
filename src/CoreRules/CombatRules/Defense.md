@@ -10,6 +10,10 @@ If a combat roll has a physical damage type and a damage type that would require
 
 - Physical Defense level = sum of all armor's defense levels rounded down
 
+### Physical Defense from Shields
+
+Character's not actively using their shield as part of their combat roll/ dodge roll do not benefit from the additional defense. Character's are flanked or being attack from while unaware also do not benefit from the shield's defense.
+
 ## Bodily Defense
 
 A measure of a character's resistance to affliction. Determines your body's ability to handle resisting poisoning, blood clotting, freezing, etc. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's attack penetration.
