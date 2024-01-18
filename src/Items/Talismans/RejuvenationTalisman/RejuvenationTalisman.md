@@ -22,8 +22,10 @@ Any healing acts as the tier above.
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Rejuvenation Talisman | 1 |  | Enhanced Healing | Epic | 39/39 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Enhanced Healing | Any healing acts as the tier above. | While equipped | 9 |
