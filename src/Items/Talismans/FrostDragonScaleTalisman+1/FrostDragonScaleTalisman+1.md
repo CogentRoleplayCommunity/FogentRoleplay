@@ -6,22 +6,12 @@
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Flawless (+6)
-
-## Effects
-
-### Medium Cold Resistance
-
--2 to victory levels received from Frost damage.
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+|              Name              | # | Class |         Effect         |   Tier   | Durability | LB | Value |
+| :----------------------------: | :-: | :---: | :---------------------: | :-------: | :--------: | :-: | :---: |
+| Frost Dragon Scale Talisman +1 | 1 |      | Medium Frost Resistance | Exquisite |   27/27   | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
+| Name                 |                         Effect                         |    Duration    | Tier Required |
+| :------------------- | :----------------------------------------------------: | :------------: | :-----------: |
+| Medium Cold Weakness | (+2) to the level of injury received from Cold damage. | While equipped |       5       |

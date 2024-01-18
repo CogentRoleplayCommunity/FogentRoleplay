@@ -6,23 +6,12 @@
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Excellent (+3)
-
-## Effects
-
-### Minor Cold Resistance
-
--1 to victory levels received from Frost damage.
-
-
-## Info
-
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Frost Dragon Scale Talisman | 1 |  | Minor Frost Resistance | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Minor Cold Weakness | (+1) to the level of injury received from Cold damage. | While equipped | 3 |
