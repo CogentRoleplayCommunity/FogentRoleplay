@@ -1,14 +1,14 @@
 # Victory Levels
 
 - Victory levels from physical attacks can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of physical injury is increased by 1.
-- Victory levels from non-physical (i.e. mental or spiritual) attacks can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of mental/spiritual injury is increased by 1.
+- Victory levels from mental or spiritual attacks can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of mental/spiritual injury is increased by 1.
 - Injuries can be reduced by physical/mental/spiritual defense.
 - A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
 ## Dice Removal
 
-Whenever you are removing dice from a dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+Whenever you are removing dice from an already rolled dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
 ### Keep your Combat Rolls!
 
@@ -40,6 +40,8 @@ As part of entering into close quarters combat or already being in close quarter
 
 Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 5 feet. For each size category the opponent is smaller than you, double the move distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
+If your character is required to move during the move, you can not exceed your normal amount of movement for that round.
+
 ### Shove
 
 Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
@@ -66,7 +68,7 @@ Opponent is rendered prone. The opponent has disadvantage on rolls until they ge
 
 A character can declare they are attempting to get up on a round they start prone. While getting up, the opponents movement speed is 0. They are able to regain their footing and remove the prone effect at the end of the round they were getting up. The opponent can not benefit from the Defensive modifier while getting up as they can't fully focus on defending themselves.
 
-Instead of getting up, a character can remain prone. They use their climb speed instead of their movement speed.
+Instead of getting up, a character can remain prone. They use their climb speed to crawl instead of their movement speed.
 
 ## Level 4 Victory
 
