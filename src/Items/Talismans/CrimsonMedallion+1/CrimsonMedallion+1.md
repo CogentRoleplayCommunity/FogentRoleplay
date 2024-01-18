@@ -10,24 +10,12 @@ Boosts maximum vitality.
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Epic (+9)
-
-## Effects
-
-### Enhanced Vitality
-
-Reduce up to 2d6 of total injury penalty dice.
-
-
-
-## Info
-
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Crimson Medallion +1 | 1 |  | Enhanced Vitality | Epic | 39/39 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Enhanced Vitality | Reduce up to 2d6 of total injury penalty dice. |  | 6 |
