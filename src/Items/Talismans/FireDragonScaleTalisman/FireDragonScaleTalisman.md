@@ -4,24 +4,15 @@
 
 ## Desc
 
-A metal talisman with a symbol evoking the image of fire on it. This cheap Runecrafted item provides resistance to heat and fire to those that wear it.
-
-## Info
-
-Item Type: Talisman
-
-Tier: Excellent (+3)
-
-## Effects
-
-### Minor Fire Resistance
-
--1 to victory levels received from Fire damage.
+A metal talisman with a symbol evoking the image of fire on it. This Runecrafted item provides resistance to heat and fire to those that wear it.
 
 ## Info
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+| Fire Dragon Scale Talisman | 1 |  | Minor Fire Resistance | Excellent | 21/21 | 0.2 | ? |
+| -------------------------- | - | - | --------------------- | --------- | ----- | --- | - |
 
 ## Effects
 
