@@ -282,9 +282,9 @@ Radiant Dragon Scale Talisman,1,,Minor Radiant Resistance,Excellent,21/21,0.2,?,
 Radiant Dragon Scale Talisman +1,1,,Medium Radiant Resistance,Exquisite,27/27,0.2,?,
 Radiant Dragon Scale Talisman +2,1,,Major Radiant Resistance,Mastercraft,33/33,0.2,?,
 Rejuvenation Talisman,1,,Enhanced Healing,Epic,39/39,0.2,?,A talisman made to enhance the healing process. A precious possession of doctors and healers.
-Steel Dragon Scale Talisman,1,,Minor & Resistance,Excellent,21/21,0.2,?,
-Steel Dragon Scale Talisman +1,1,,Medium & Resistance,Exquisite,27/27,0.2,?,
-Steel Dragon Scale Talisman +2,1,,Major & Resistance,Mastercraft,33/33,0.2,?,
+Steel Dragon Scale Talisman,1,,"Minor Hew Resistance, Minor Slash Resistance, Minor Bludgeon Resistance, Minor Shockwave Resistance",Excellent,21/21,0.2,?,"A wrought iron talisman made with the visage of a mighty Steel Dragon. While quite common among defensive Runecrafted items, it is still a boon to any common soldier or mercenary."
+Steel Dragon Scale Talisman +1,1,,"Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance",Exquisite,27/27,0.2,?,
+Steel Dragon Scale Talisman +2,1,,"Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance",Mastercraft,33/33,0.2,?,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
