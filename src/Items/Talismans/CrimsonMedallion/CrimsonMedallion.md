@@ -12,10 +12,10 @@ Minorly boosts maximum vitality.
 
 |       Name       | # | Class |         Effect         |   Tier   | Durability | LB | Value |
 | :---------------: | :-: | :---: | :---------------------: | :------: | :--------: | :-: | :---: |
-| Crimson Medallion | 1 |      | Minor Enhanced Vitality | Flawless |   21/21   | 0.2 |   ?   |
+| Crimson Medallion | 1 |      | Minor Enhanced Vitality | Flawless |   30/30   | 0.2 |   ?   |
 
 ## Effects
 
-| Name                    |                     Effect                     |  Duration  | Tier Required |
-| :---------------------- | :--------------------------------------------: | :--------: | :-----------: |
-| Minor Enhanced Vitality | Reduce up to 1d6 of total injury penalty dice. | Indefinite |       4       |
+| Name                      |                     Effect                     |    Duration    | Tier Required |
+| :------------------------ | :--------------------------------------------: | :------------: | :-----------: |
+| Minorly Enhanced Vitality | Reduce up to 1d6 of total injury penalty dice. | While equipped |       4       |
