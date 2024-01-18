@@ -264,6 +264,13 @@ Great Arsenal Talisman,1,,Greatly Enhanced Lift,Epic,39/39,0.2,?,"A charm that r
 
 Greatly boosts maximum equipment load."
 Great Steel Dragon Scale Talisman,1,,"Extreme Hew Resistance, Extreme Slash Resistance, Extreme Bludgeon Resistance, Extreme Shockwave Resistance",Legendary,42/42,0.2,?,"A larger wrought iron talisman in the shape of a greatshield with an imposing Steel Dragon emblazoned on its face. These talismans are extremely rare and expensive to make, meaning that only the upper echelons of society have access to them. Often worn by extremely wealthy merchants, royalty and even the Emperor, these powerful Runecrafted items often never see the battlefield they were intended for."
+Green Turtle Talisman,1,,Minorly Enhanced Endurance,Excellent,21/21,0.2,?,"A talisman in the shape of a green turtle.
+
+Minorly raises stamina recovery speed.
+
+Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
+
+However, those who hold turtles to be wise creatures consider the practice of eating their meat to be barbarous."
 Lightning Dragon Scale Talisman,1,,Minor Lightning Resistance,Excellent,21/21,0.2,?,
 Lightning Dragon Scale Talisman +1,1,,Medium Lightning Resistance,Exquisite,27/27,0.2,?,
 Lightning Dragon Scale Talisman +2,1,,Major Lightning Resistance,Mastercraft,33/33,0.2,?,
@@ -737,7 +744,6 @@ Scroll of Slow Fall - CL 1,1,,,Excellent,,1,50-100,
 Scroll of Oil Spill - CL 1,1,,,Excellent,,1,50-100,
 Scroll of Noiseless Picture - CL 1,1,,,Excellent,,1,50-100,
 "Drug, Mirage",1,,,Mundane,,0.1,5 bc,
-Green Turtle Talisman,1,,Enhanced Endurance,Excellent,,0.1,?,
 Amulet of Strength,1,,Enhanced STR,Excellent,,0.1,?,
 Amulet of Blazecraft,1,,Enhanced Blazecraft,Excellent,,0.1,?,
 Amulet of Knighthood,1,,Enhanced Knighthood,Excellent,,0.1,?,
