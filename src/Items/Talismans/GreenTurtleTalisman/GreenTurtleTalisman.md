@@ -6,7 +6,7 @@
 
 A talisman in the shape of a green turtle.
 
-Raises stamina recovery speed.
+Minorly raises stamina recovery speed.
 
 Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
 
