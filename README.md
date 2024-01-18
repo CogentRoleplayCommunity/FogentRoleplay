@@ -27,18 +27,21 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 - [Dice Pools And Challenge Levels](./src/CoreRules/GeneralRules/DicePools.md)
 - [Attributes](./src/CoreRules/GeneralRules/Attributes.md)
+- [Skills](./src/CoreRules/GeneralRules/Skills.md)
+- [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
+- [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
+- [!Assists](./src/CoreRules/GeneralRules/Assists.md)
+- [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
+- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
 
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
 - [Challenge Levels](./src/CoreRules/GeneralRules/ChallengeLevels.md)
 - [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
-- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 - [Healing](./src/CoreRules/GeneralRules/Healing.md)
 - [Perks](./src/CoreRules/GeneralRules/Perks.md)
-- [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Vision and Light](./src/CoreRules/GeneralRules/LightAndVision.md)
-- [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
 
 ### Combat Rules
 

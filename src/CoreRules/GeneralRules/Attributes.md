@@ -54,7 +54,7 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 
 RFX has the following effects:
 
-- RFX is factored into all RFX governed skills (Acrobatics, Perception, Slieght of Hand, ect...).
+- RFX is factored into all RFX governed skills (Acrobatics, Perception, Sleight of Hand, ect...).
 - As combat is conducted in a round by round format, the player with the highest reflex gets **priority** in that round.
 - RFX increases walking/running movement speed in combat.
 

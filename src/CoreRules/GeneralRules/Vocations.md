@@ -1,18 +1,18 @@
 # Vocations
 
-Vocations represent your character's job, class, or life path. You should check with your narrator to make sure that you exists in the world. Some traditional fantasy example vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other example include Vagrant, Chef, or Sailor. Each vocation has one or many governing attributes that logically would govern it.
+Vocations represent your character's job, class, or life path. You should check with your narrator to make sure that your vocation exists in the setting. Some traditional fantasy example vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other example include Vagrant, Chef, or Sailor. Each vocation has one or many governing attributes that logically would govern it.
 
-Vocational skills are skills that would logically fall under the vocation. All skills under a vocation have their levels are capped by their vocation level. For instance, if a character had level a 2 vocation, any skill under it couldn't increase above 2, until it's vocation increased. Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes.
+All skills under a vocation have their levels are capped by their vocation level. For instance, if a character had level a 2 vocation, any skill under it couldn't increase above 2, until it's vocation increased. Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes.
 
-There are two kinds of vocational skills, combat and non-combat vocational skills.
+There are two kind of skills under a vocation, vocational and combat skills.
 
 ## Vocational Skills
 
-Vocational skills logically fall under the vocation and is not covered already by another core skill. Player's can make as many of these skills as they want on the fly with approval from the narrator, though this would mainly be as a reminder to have on the sheet. These skills have the same level as the vocation which they fall under. Skill points are not spent on these skills. You can not assist these skills with the vocation they are fall under.
+Vocational skills logically fall under the vocation and is not covered already by another core skill. Player's can make as many of these skills as they want on the fly with approval from the narrator, though this would mainly be as a reminder to have on the sheet. These skills share the same level as the vocation which they fall under. Skill points are not spent on these skills. You can not assist these skills with the vocation they are fall under.
 
 ## Combat Skills
 
-Combat vocational skill include all weapon skill such as "Small Blade", "Medium Sword", "Shortspear", ect... They also include magic skills such as Fallen's "Blazecraft", "Sonocraft", "Polycraft", ect... These skills require skill point to be increased.
+Combat vocational skills include all weapon skills such as "Small Blade", "Medium Sword", "Shortspear", ect... They also include magic skills such as Fallen's "Blazecraft", "Sonocraft", "Polycraft", ect... These skills require skill point to be increased.
 
 ## Example Vocation
 
@@ -26,11 +26,11 @@ I add the "Small Blade" combat skill which has the governing attributes STR, RFX
 
 I try and add the "Longspear" combat skill. I realized using a longspear is not something that a chef would do, so this will not work.
 
-| Chef {RFX, INT}           |   2   |  7d6  |
-| ------------------------- | :---: | :---: |
-| Wine Knowledge {RFX, INT} |   2   |  7d6  |
-| ~~Chopping Food {RFX}~~   |       |       |
-| Small Blade               |   1   |  7d6  |
-| ~~Long Spear~~            |       |       |
+| Chef {RFX, INT}           | 2 | 7d6 |
+| -------------------------- | :-: | :-: |
+| Wine Knowledge {RFX, INT} | 2 | 7d6 |
+| ~~Chopping Food {RFX}~~   |  |    |
+| Small Blade                | 1 | 7d6 |
+| ~~Long Spear~~            |  |    |
 
 You may still assist any other roll with your vocation if it makes narrative sense aside from vocational skills.
