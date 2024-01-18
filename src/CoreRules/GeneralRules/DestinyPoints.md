@@ -2,7 +2,7 @@
 
 A Destiny Point represents a character's ability to tip the scale of fate in their favor through their very will.
 
-## Premptive Destiny Point
+## Preemptive Destiny Point
 
 A player can spend one destiny point before rolling a dice poll to gain advantage on the resulting roll.
 
@@ -16,7 +16,7 @@ Destiny points are awarded when players perform actions that the narrator wants 
 
 - Players showing up to the game on time
 - Exceptional roleplay
-- Accomplishing a major milestone (defeating a boss or completeing a quest)
+- Accomplishing a major milestone (defeating a boss or completing a quest)
 - Crazy high dice rolls
 - Doing something in line with their character's personality even if at the detriment to wealth or progress
 

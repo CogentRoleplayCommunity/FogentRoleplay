@@ -6,15 +6,15 @@ When a melee combat roll is made towards a character within melee or reach range
 
 ## Dash (2x Movement Speed)
 
-Instead of engaging in a combat roll, a player can choose to focus purely on their movement  in combat, doubling their movement speed. They can still Dodge. They may not take the Defensive modifier during a dash.
+Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge. They may not take the Defensive modifier during a dash.
 
 ## Charge (+1d6)
 
 If there is 15 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
 
-## Focused (+1d6)
+## Focused Shot (+1d6)
 
-While making a ranged attack, remain still and  focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot.
+While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have disadvantage to Dodging. If the character is forced to Dodge before their combat roll, they do not benefit from focused.
 
 ## Brace (+2 wins versus charge)
 
