@@ -6,25 +6,25 @@ In the context of role-playing games, the ability of a character to see is cruci
 
 There are different levels of obscurity that a given area can have, ranging from light to heavy. An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a disadvantage on (Perception) checks that rely on sight.
 
-On the other hand, an area is heavily obscured when it has darkness, opaque fog, or dense foliage. In these areas, vision is entirely blocked. Any creature trying to see something in a heavily obscured area effectively suffers from the blinded condition.
+On the other hand, an area is heavily obscured when it has darkness, opaque fog, or dense foliage. In these areas, vision is entirely blocked. Any creature trying to see something in a heavily obscured area is effectively blinded.
 
 The illumination of an environment is categorized into three types: bright light, dim light, and darkness.
 
 ### Bright Light
 
-Most creatures can see normally in bright light. This light can come from various sources such as torches, lanterns, fires, or even gloomy days, and it illuminates within a specific radius.
+Most creatures, including humans, can see normally in bright light. This light can come from various sources such as torches, lanterns, fires, or even gloomy days, and it illuminates within a specific radius.
 
 ### Dim Light
 
 Also referred to as shadows, creates a lightly obscured area. This area is typically a boundary between a source of bright light, like a torch, and the surrounding darkness. The soft light of twilight and dawn, or even a particularly brilliant full moon, also counts as dim light.
 
-Character's attempting to perform any task in Dim Light have Disadvantage (-2d6). To counteract this, Character's can assist with a Perception Assist.
+Character's attempting to perform any task in Dim Light that relies on sight have Disadvantage. To counteract this, Character's can assist with a Perception Assist.
 
 ### Darkness
 
 Darkness, on the other hand, creates a heavily obscured area. Characters encounter darkness outdoors at night (excluding moonlight nights), inside an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
-Creatures attempting to perform any task reliant on sight in Darkness have Major Disadvantage (-4d6). To counteract this, Character's can assist with a Perception Assist.
+Creatures attempting to perform any task reliant on sight in Darkness have Super DisadvantageF. To counteract this, Character's can assist with a Perception Assist.
 
 ## Vision
 
