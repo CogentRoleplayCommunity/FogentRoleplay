@@ -8,22 +8,16 @@ A wrought iron talisman made with the visage of twin Steel Dragons. More rare an
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Flawless (+6)
-
-## Effects
-
-### Medium Hew, Slash, Pierce, Bludgeon and Shockwave Resistance
-
--2 to victory levels received from Hew, Slash, Pierce, Bludgeon and Shockwave damage.
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+|              Name              | # | Class |                                                 Effect                                                 |   Tier   | Durability | LB | Value |
+| :----------------------------: | :-: | :---: | :-----------------------------------------------------------------------------------------------------: | :-------: | :--------: | :-: | :---: |
+| Steel Dragon Scale Talisman +1 | 1 |      | Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance | Exquisite |   27/27   | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
+| Name                        |                        Effect                        |    Duration    | Tier Required |
+| :-------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
+| Medium Hew Resistance       |    -2 to victory levels received from Hew damage.    | While equipped |       5       |
+| Medium Slash Resistance     |   -2 to victory levels received from Slash damage.   | While equipped |       5       |
+| Medium Pierce Resistance    |  -2 to victory levels received from Pierce damage.  | While equipped |       5       |
+| Medium Bludgeon Resistance  | -2 to victory levels received from Bludgeon damage. | While equipped |       5       |
+| Medium Shockwave Resistance | -2 to victory levels received from Shockwave damage. | While equipped |       5       |
