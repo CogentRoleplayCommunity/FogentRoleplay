@@ -1,34 +1,34 @@
 # Battlemap Combat
 
+In Fogent, combat takes places on grided battle maps, with each square representing a 5 ft by 5 ft square.
+
 ## Movement
 
-Each grid of the battle map represents a 5x5 ft square.
+Different creatures get different movements speeds in combat.
 
 |          Description          |                      Calculation                      |
 | :---------------------------: | :---------------------------------------------------: |
 | Small Humanoid Movement Speed | 25 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
 |    Humanoid Movement Speed    | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|      Humanoid Swim Speed      | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)  |
-|     Humanoid Climb Speed      |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
+|      Humanoid Swim Speed      | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics) |
+|     Humanoid Climb Speed     |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)   |
 |    4-Legged Movement Speed    | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|      4-Legged Swim Speed      | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)  |
-|     4-Legged Climb Speed      |    0 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
-| Fast 4-Legged Movement Speed  | 65 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
-|         Flight Speed          | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
+|     4-Legged Swim Speed     | 15 ft (Base), +5 ft (per STR), +5 ft (per Athletics) |
+|     4-Legged Climb Speed     |    0 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
+| Fast 4-Legged Movement Speed | 65 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|         Flight Speed         | 70 ft (Base), +20 ft (per RFX),+10 ft (per Athletics) |
 
 - If a creature has a negative in the governing attribute, remove the indicated distance instead.
-- If a creature has a negative in the governing skill, remove the indicated distance instead. This includes dice modifications such as from carry weight attribute governed skill modifications (i.e. light, medium, or heavy weight).
+- If a creature has a negative in the governing skill, remove the indicated distance instead. This includes dice modifications such as from attribute governed skill modifications (i.e. carry weight penalties or injuries).
 
 ## Size
 
-If there is a difference in size between two creatures who have contested checks where size would be an advantage or disadvantage, the narrator should adapt accordingly.
-
-|   Description   |          Effect           |
+|   Description   |          Effect          |
 | :-------------: | :-----------------------: |
 |    Tiny Size    | 2.5x2.5 ft on battle map. |
-|   Small Size    |   5x5 ft on battle map.   |
+|   Small Size   |   5x5 ft on battle map.   |
 |   Medium Size   |   5x5 ft on battle map.   |
-|   Large Size    |  10x10 ft on battle map.  |
+|   Large Size   |  10x10 ft on battle map.  |
 |    Huge Size    |  15x15 ft on battle map.  |
 | Gargantuan Size |  20x20 ft on battle map.  |
 
