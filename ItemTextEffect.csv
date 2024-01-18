@@ -50,7 +50,7 @@ Fatal Heal,Removes a Fatal or lesser injury. Can be used to regrow limbs and bod
 Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance.",Instantaneous,10
 Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.Sneak attacks trigger an Minor Heal to self.,Instantaneous,3
 Life Leech,Sneak attacks trigger an Minor Heal to self.,Instantaneous,3
-Continous Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,2
+Continous Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,6
 ,,,
 ,,,
 ,,,
