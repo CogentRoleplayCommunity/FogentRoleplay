@@ -6,26 +6,14 @@
 
 A brooch depicting a long-tailed cat.
 
-Enhances acrobatic skill.
-
-## Info
-
-Item Type: Talisman
-
-Tier: Flawless (+6)
-
-## Effects
-
-### Enhanced Acrobatics
-
-+1 to Acrobatic Skill.
-
 ## Info
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Longtail Cat Talisman | 1 |  | Minorly Enhanced Acrobatics | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Minor Enhanced Acrobatics | +1d6 to Acrobatics. | Indefinite | 2 |
