@@ -24,8 +24,10 @@ Tier: Epic (+9)
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Pearl Dragon Scale Talisman +2 | 1 |  | Major Psychic Resistance | Mastercraft | 33/33 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Major Psychic Weakness | (+3) to the level of injury received from Psychic damage. | While equipped | 7 |

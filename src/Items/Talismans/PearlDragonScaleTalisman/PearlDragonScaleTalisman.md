@@ -22,8 +22,10 @@ Tier: Excellent (+3)
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Pearl Dragon Scale Talisman | 1 |  | Minor Psychic Resistance | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Minor Psychic Weakness | (+1) to the level of injury received from Psychic damage. | While equipped | 3 |
