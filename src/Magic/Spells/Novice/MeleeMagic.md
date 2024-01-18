@@ -12,6 +12,6 @@
 
 **Area Of Effect:** None
 
-**Magic skills required:** 
+**Skills required:** 
 
 - Any magic capable of effect the material world (level 0)

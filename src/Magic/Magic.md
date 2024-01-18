@@ -8,8 +8,6 @@ This document provides generalized framework for magic system mechanics for any 
 - Magic Resource Name
 - Cantrip Name
 - Governing Core Skill
-- Spell Name
-
 
 ## Magic Skills
 
@@ -53,7 +51,7 @@ Fallen's pre-made magic systems are great examples of how to make your own syste
 
 ### [Fellcraft](Fellcraft/Fellcraft.md)
 
-### [Brightcraft](Brightcraft/Brightcraft.md)
+### [Miracles](Miracles/Miracles.md)
 
 ### [Runecraft](Runecraft/Runecraft.md)
 
@@ -123,7 +121,7 @@ This level of proficiency with magic might be a fun party trick or for convenien
 A governing core skill is used for instances when a character over exerts themselves with their magic too far, is trying to rapidly regain Magic Resource, or maintain a concentration on already cast magic.
 
 * Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
-* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Brightcraft) use Will as their governing core skill.
+* Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Will as their governing core skill.
 * Magic that relies upon a belief in a divine higher power might use Will as their governing core skill.
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together.
 * Magic that relies upon ones connection with nature could use Survival.
@@ -172,15 +170,14 @@ All magic needs a conduit to be cast through wether a wizards staff, a druids fo
 
 Example Conduit:
 
-| Name               | One<br />Handed | Two<br />Handed | Dual<br /> Wielded | Additional<br />Penetration | Range<br />Adjustment | Additional<br />Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Effected<br />Magic Skills |
-| ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
-| Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           | 0                     |                                   | None                      | None                | None                | Blazecraft                 |
+| Name               | One<br />Handed | Two<br />Handed | Dual<br /> Wielded | Additional<br />Penetration | Additional<br />Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Effected<br />Magic Skills |
+| ------------------ | --------------- | --------------- | ------------------ | --------------------------- | --------------------------------- | ------------------------- | ------------------- | ------------------- | -------------------------- |
+| Blazecraft Conduit | +1d6            | +1d6            | None               | 0                           |                                   | None                      | None                | None                | Blazecraft                 |
 
 - One Handed: Dice bonus given by wielding the conduit in one hand.
 - Two Handed: Dice Bonus given by wielding the conduit in two hand. Narratively this could be requiring the character to channel magic through both hands for greater effect.
 - Dual Wielded: Dice bonus given when wielding two conduits that are both capable of being dual wielded that effect the same magic skill. Think dual wielding fire magic wands.
 - Additional Penetration: Extra penetration added to combat rolls made with this conduit, added to the normal penetration.
-- Range Adjustment: Increase or decrease range calculation for magic skill (see Magic Range Adjustment below).
 - Additional Damage Types: Extra damage types to be added onto combat rolls made with this conduit.
 - Engageable Opponents: Changes engageable opponent type when making a combat roll. This could be a fast shooting wand or a slow shooting staff that pacts a large wallop.
 - Area Of Effect: Adds an innate area of effect to every combat roll made with the conduit. This is very powerful.
@@ -196,12 +193,6 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 ### Magic Skills in Combat
 
 - Character's can't cast magic twice in one round of combat unless specified otherwise
-
-#### Magic Range adjustment
-
-If a Magic Skill has a range adjustment it is either moved up or down the table above. Ranged attacks can not fall below Close Range.
-
-For instance if I have a level 3 Magic skill with a -1 Magic Range adjustment, my magic skill has an Extended Range Type.
 
 ## Magic Spells
 

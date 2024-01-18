@@ -16,24 +16,15 @@ The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol 
 
 ## Info
 
-Item Type: Reach Hafted Blade, Long Spear
-
-Tier: Artifact (+12)
+|         Name         | # |                                            Class                                            |                          Effect                          |   Tier   | Durability | LB | Value |
+| :------------------: | :-: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------: | :--------: | :-: | :---: |
+| The Spear of Destiny | 1 | Reach Hafted Blade, Longspear, Air Magic Conduit, Cold Magic Conduit, Electric Magic Conduit | Destiny Chosen, Destiny Strength/Reflex, Indestructible, | Artifact |   48/48   | 14 |   ?   |
 
 ## Effects
 
-### Destiny Strength/Reflex
-
-Strength and reflex are set to level 3.
-
-### Weather Manipulation Conduit
-
-Character gains level 4 in Galecraft, Electrocraft, and Cryocraft. This weapon acts as a conduit for Galecraft, Electrocraft, and Cryocraft.
-
-### Destiny Chosen
-
-Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.
-
-### Indestructible
-
-This item can't lose durability.
+| Name                    |                                                                                                                                         Effect                                                                                                                                         | Duration | Tier Required |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Destiny Strength/Reflex |                                                                                                                        Strength and reflex are set to level 4.                                                                                                                        |          |      12      |
+| Destiny Chosen          |                                                                      Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                      |          |      12      |
+| Binding of the Moon     | This weapon can only be picked up by those who sing (out loud or in their head) the Lullaby of the Moon. If the weapon is held for a fortnight, the weapon is bound to the users, severing the bond with the previous bearer. The bearer can now dismiss and summon the blade at will. |          |       8       |
+| Indestructible          |                                                                                                                            This item can't lose durability.                                                                                                                            |          |      10      |

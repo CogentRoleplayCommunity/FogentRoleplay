@@ -17,3 +17,14 @@ The bearer of this armor gets an uneasy feeling when there are draconic creature
 ### Dragon Element Resistance:
 
 +1 Defense vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)
+
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

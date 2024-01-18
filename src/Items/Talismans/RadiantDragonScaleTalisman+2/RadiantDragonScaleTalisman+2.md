@@ -6,12 +6,12 @@
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Epic (+9)
+|               Name               | # | Class |          Effect          |    Tier    | Durability | LB | Value |
+| :------------------------------: | :-: | :---: | :----------------------: | :---------: | :--------: | :-: | :---: |
+| Radiant Dragon Scale Talisman +2 | 1 |      | Major Radiant Resistance | Mastercraft |   33/33   | 0.2 |   ?   |
 
 ## Effects
 
-### Major Radiant Resistance
-
--3 to victory levels received from Radiant damage.
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Major Radiant Resistance | -3 to victory levels received from Radiant damage. | While equipped | 7 |

@@ -8,10 +8,12 @@ It is the common knowledge that the dew of the morning has special healing prope
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Flawless (+6)
+|         Name         | # | Class |     Effect     |   Tier   | Durability | LB | Value |
+| :------------------: | :-: | :---: | :-------------: | :------: | :--------: | :-: | :---: |
+| Blessed Dew Talisman | 1 |      | Gradual Healing | Superior |   24/24   | 0.2 |   ?   |
 
 ## Effects
 
-### [Gradual Healing](../../../GeneralRules/NonCombatRules/Healing.md#gradual-heal)
+| Name                    |                                                                                   Effect                                                                                   |  Duration  | Tier Required |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------: |
+| Continuous Gradual Heal | Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries. | Indefinite |       6       |

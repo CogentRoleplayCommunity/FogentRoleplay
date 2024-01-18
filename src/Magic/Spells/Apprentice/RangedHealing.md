@@ -23,7 +23,7 @@ Depending on the wins achieved, the user can cast one of the following effects.
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Blood magic (level 1)
 - Blessing magic (level 1)

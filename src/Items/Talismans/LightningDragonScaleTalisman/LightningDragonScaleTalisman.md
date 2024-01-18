@@ -4,16 +4,16 @@
 
 ## Desc
 
-A metal talisman with a symbol evoking the image of lightning on it. This cheap Runecrafted item provides some resistance to electricity and shocks to those that wear it.
+A metal talisman with a symbol evoking the image of lightning on it. This Runecrafted item provides some resistance to electricity and shocks to those that wear it.
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Excellent (+3)
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Lightning Dragon Scale Talisman | 1 |  | Minor Lightning Resistance | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
-### Minor Electric Resistance
-
--1 to victory levels received from Electric damage.
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Minor Electric Resistance | -1 to victory levels received from Electric damage. | While equipped | 3 |

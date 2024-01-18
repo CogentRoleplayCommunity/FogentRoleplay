@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Ranger {STR}    |   2   |  6d6  | Fellkin {ALL} | 0   | 4d6 |
+| Ranger {STR}    |   2   |  6d6  | Fellweaver {ALL} | 0   | 4d6 |
 | --------------- | :---: | :---: | ------------- | --- | --- |
 | Heavy Bow {ALL} |   2   |  6d6  | Hemacraft     | -1  | 3d6 |
 
@@ -31,7 +31,7 @@
 |    Humanoid Carry Weight     |                                 220 lb                                 |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight         |                    -0d6 to STR/RFX governed skills                     |          |                                                         0% - 25% of carry weight                                                         |
 |   Humanoid Movement Speed    |                                 35 ft                                  |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
-|     Humanoid Swim Speed      |                                 20 ft                                  |          |                                        15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                                         |
+|     Humanoid Swim Speed      |                                 20 ft                                  |          |                                        15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
 |     Humanoid Climb Speed     |                                 20 ft                                  |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
 
 ## Combat Rolls

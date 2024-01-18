@@ -1,6 +1,6 @@
 # Vial of Revival Healing Blood
 
-![Copyright](VialOfHealingBlood.png)
+![Copyright](./../VialOfMinorHealingBlood/VialOfHealingBlood.png)
 
 ## Desc
 
@@ -8,12 +8,14 @@ Special blood invented by Veronica Reddington. Heals wounds and can cure a spore
 
 The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington.
 
-## Info
+# Info
 
-Item Type: Potion
-
-Tier: Legendary (+10)
+|             Name             | # | Class |    Effect    |   Tier   | Durability |  LB  |  Value  |
+| :---------------------------: | :-: | :---: | :----------: | :-------: | :--------: | :--: | :------: |
+| Vial of Revival Healing Blood | 1 |      | Revival Heal | Legendary |            | 0.25 | 62500 bc |
 
 ## Effects
 
-[Revival Heal](../../../GeneralRules/NonCombatRules/Healing.md#revival-heal)
+| Name         |                                                                                                 Effect                                                                                                 |   Duration   | Tier Required |
+| :----------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+| Revival Heal | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance. | Instantaneous |      10      |

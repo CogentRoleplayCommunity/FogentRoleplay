@@ -10,7 +10,7 @@ Engageable Opponents: Focused
 
 Magic Resource Required: 0
 
-Magic skills required:
+Skills required:
 
 - Gravity Magic (lvl -1)
 - Body Magic (lvl -1)

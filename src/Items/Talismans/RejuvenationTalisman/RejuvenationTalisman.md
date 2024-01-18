@@ -8,12 +8,12 @@ A talisman made to enhance the healing process. A precious possession of doctors
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Epic (+9)
+|         Name         | # | Class |      Effect      | Tier | Durability | LB | Value |
+| :-------------------: | :-: | :---: | :--------------: | :--: | :--------: | :-: | :---: |
+| Rejuvenation Talisman | 1 |      | Enhanced Healing | Epic |   39/39   | 0.2 |   ?   |
 
 ## Effects
 
-### Enhanced Healing
-
-Any healing acts as the tier above.
+| Name             |               Effect               |    Duration    | Tier Required |
+| :--------------- | :---------------------------------: | :------------: | :-----------: |
+| Enhanced Healing | Any healing acts as the tier above. | While equipped |       9       |

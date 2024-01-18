@@ -10,6 +10,6 @@ Engageable Opponents: Focused
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Acid Magic (lvl 1)

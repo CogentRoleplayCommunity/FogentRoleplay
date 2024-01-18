@@ -25,12 +25,9 @@ Sphere Radius: Magic Roll * 2.5 feet
 
 | Skill level |  Range Type  |
 | :---------: | :----------: |
-|     -1     |    Close    |
-|      0      |    Short    |
-|      1      |    Medium    |
-|      2      |   Extended   |
-|      3      |     Long     |
-|      4      | Sharpshooter |
+|      2      |     Long     |
+|      3      | Sharpshooter |
+|      4      |   Extreme   |
 
 **Engageable Opponents:** Focused
 
@@ -40,6 +37,6 @@ Sphere Radius: Magic Roll * 2.5 feet
 
 **Area Of Effect:** Sphere
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level 2)

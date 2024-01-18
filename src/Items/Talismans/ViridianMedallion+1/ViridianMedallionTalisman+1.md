@@ -6,16 +6,14 @@
 
 A medallion with viridian inlaid.
 
-Greatly boosts maximum stamina.
-
 ## Info
 
-Item Type: Talisman
-
-Tier: Flawless (+6)
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Viridian Medallion Talisman +1 | 1 |  | Enhanced Endurance         | Flawless  | 30/30 | 0.2 | ? |
 
 ## Effects
 
-### Enhanced Endurance
-
-+2 to Endurance skill.
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Enhanced Endurance         | +2d6 to Endurance. | Indefinite | 4 |

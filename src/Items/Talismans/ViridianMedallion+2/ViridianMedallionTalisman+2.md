@@ -6,16 +6,14 @@
 
 A medallion with viridian inlaid.
 
-Vastly  boosts maximum stamina.
-
 ## Info
 
-Item Type: Talisman
-
-Tier: Epic (+9)
+|              Name              | # | Class |           Effect           | Tier | Durability | LB | Value |
+| :----------------------------: | :-: | :---: | :------------------------: | :--: | :--------: | :-: | :---: |
+| Viridian Medallion Talisman +2 | 1 |      | Greatly Enhanced Endurance | Epic |   39/39   | 0.2 |   ?   |
 
 ## Effects
 
-### Enhanced Endurance
-
-+3 to Endurance skill.
+| Name                       |       Effect       |  Duration  | Tier Required |
+| :------------------------- | :----------------: | :--------: | :-----------: |
+| Greatly Enhanced Endurance | +3d6 to Endurance. | Indefinite |       6       |

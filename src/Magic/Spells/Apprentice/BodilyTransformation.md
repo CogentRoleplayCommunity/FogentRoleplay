@@ -23,6 +23,6 @@ When a character attempts a transformation, they make a Bodily Magic Roll. Depen
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Bodily magic (level 1)

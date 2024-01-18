@@ -6,18 +6,18 @@
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
+| Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 4d6 | Stealth         | 1 | 3d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Warrior {STR}     | 2 | 6d6 | Fellkin {ALL} | 0  | 4d6 |
-| ------------------ | :-: | :-: | ------------- | -- | --- |
-| Large Hafted {ALL} | 2 | 6d6 | Cryocraft     | -1 | 3d6 |
-| Heavy Bow {ALL}    | 2 | 6d6 |               |    |     |
-| War Knowledge      |  | 5d6 |               |    |     |
+| Warrior {STR}          | 1 | 5d6 | Fellweaver {ALL} | 0  | 4d6 |
+| ----------------------- | :-: | :-: | ---------------- | -- | --- |
+| Large Hafted {ALL}      | 1 | 5d6 | Cryocraft        | -1 | 3d6 |
+| Heavy Bow {ALL}         | 1 | 5d6 |                  |    |     |
+| Warrior Knowledge {INT} |  | 4d6 |                  |    |     |
 
 ## Effects
 
@@ -32,9 +32,9 @@
 |       Inventory Weight       |                           39.85 lb                           |          |                                                      Equipment                                                      |
 |     Humanoid Carry Weight     |                            220 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight         |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
-|    Humanoid Movement Speed    |                             40 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|      Humanoid Swim Speed      |                             35 ft                             |          |                              15 ft (Base), +/-10 ft (per STR), +/-5 ft (per Athletics)                              |
-|     Humanoid Climb Speed     |                             25 ft                             |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|    Humanoid Movement Speed    |                             35 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|      Humanoid Swim Speed      |                             25 ft                             |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|     Humanoid Climb Speed     |                             20 ft                             |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls
 
@@ -42,14 +42,14 @@
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Cryocraft - Melee Trick |       3d6       |                |                  |      0      |    Melee    |       Cold       |           Rapid           |                    |        None        |
 | Cryocraft - Ranged Trick |       3d6       |                |                  |      0      |    Close    |       Cold       |         Standard         |                    |        None        |
-|        Heavy Bow        |      None      | 8d6<br />(+2d6) |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
-|     Large Hafted Axe     | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None       |      2      |    Melee    |        Hew        |           Rapid           |        None        |        None        |
-|   Medium Hafted Point   | 6d6<br />(+1d6) | 7d6<br />(+2d6) |  7d6<br />(+1d6)  |      2      |    Melee    |      Pierce      |           Rapid           |        None        |        None        |
-|   Medium Hafted Blunt   | 5d6<br />(+0d6) | 6d6<br />(+1d6) |  6d6<br />(+1d6)  |      4      |    Melee    |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Heavy Bow        |      None      | 7d6<br />(+2d6) |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
+|     Large Hafted Axe     | 5d6<br />(+0d6) | 8d6<br />(+3d6) |       None       |      2      |    Melee    |        Hew        |           Rapid           |        None        |        None        |
+|   Medium Hafted Point   | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  7d6<br />(+1d6)  |      2      |    Melee    |      Pierce      |           Rapid           |        None        |        None        |
+|   Medium Hafted Blunt   | 4d6<br />(+0d6) | 5d6<br />(+1d6) |  6d6<br />(+1d6)  |      4      |    Melee    |     Bludgeon     |           Rapid           |        None        |        None        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Standard Arrow |        Arrow        |  9d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
+| Standard Arrow |        Arrow        |  8d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
 ## Destiny Points: 3/3
 
@@ -57,29 +57,30 @@
 
 ## Equipment:
 
-| Name                          | # |                  Class                  |  Tier  | Durability |  LB  |  Value  |
-| ----------------------------- | :-: | :--------------------------------------: | :-----: | :--------: | :--: | :-----: |
-| Gambeson Coat                 | 1 |             Phy. Def. 0.625             | Mundane |   12/12   |  5  | 3.13 bc |
-| Gambeson Leggings             | 1 |             Phy. Def. 0.375             | Mundane |   12/12   |  3  | 1.87 bc |
-| Leather Helmet                | 1 |              Phy. Def. 0.34              | Quality |   15/15   |  2  | 1.67 bc |
-| Leather Cuirass and Pauldrons | 1 |              Phy. Def. 1.00              | Quality |   15/15   |  6  |  5 bc  |
-| Leather Cuisses and Greaves   | 1 |              Phy. Def. 0.33              | Quality |   15/15   |  2  | 1.67 bc |
-| Leather Vambrace              | 1 |              Phy. Def. 0.33              | Quality |   15/15   |  2  | 1.66 bc |
-| Clothes, Traveler's           | 1 |                   Misc                   | Mundane |            |  4  |  2 bc  |
-| Dane Axe                      | 1 |             Large Hafted Axe             | Mundane |   12/12   |  4  |  11 bc  |
-| Longbow                       | 1 |                Heavy Bow                | Mundane |   12/12   |  4  |  50 bc  |
-| Quiver (capacity: 20)         | 1 |                   Misc                   | Mundane |            |  1  |  1 bc  |
-| Broadhead Arrow               | 17 |              Standard Arrow              | Mundane |            | 0.05 |  1 bc  |
-| Morning Star                  | 1 | Medium Hafted Blunt, Medium Hafted Point | Mundane |   12/12   |  4  |  15 bc  |
+| Name                          | # |                  Class                  | Effect          |  Tier  | Durability |  LB  |  Value  |
+| ----------------------------- | :-: | :--------------------------------------: | --------------- | :-----: | :--------: | :--: | :-----: |
+| Gambeson Coat                 | 1 |          Body Armor, Arm Armor          | Phy. Def. 0.625 | Mundane |   12/12   |  5  | 3.13 bc |
+| Gambeson Leggings             | 1 |                Leg Armor                | Phy. Def. 0.375 | Mundane |   12/12   |  3  | 1.87 bc |
+| Leather Helmet                | 1 |                Head Armor                | Phy. Def. 0.34  | Quality |   15/15   |  2  | 1.67 bc |
+| Leather Cuirass and Pauldrons | 1 |                Body Armor                | Phy. Def. 1.00  | Quality |   15/15   |  6  |  5 bc  |
+| Leather Cuisses and Greaves   | 1 |                Leg Armor                | Phy. Def. 0.33  | Quality |   15/15   |  2  | 1.67 bc |
+| Leather Vambrace              | 1 |                Arm Armor                | Phy. Def. 0.33  | Quality |   15/15   |  2  | 1.66 bc |
+| Clothes, Traveler's           | 1 |                                          |                 | Mundane |            |  4  |  2 bc  |
+| Dane Axe                      | 1 |             Large Hafted Axe             |                 | Mundane |   12/12   |  4  |  11 bc  |
+| Longbow                       | 1 |                Heavy Bow                |                 | Mundane |   12/12   |  4  |  50 bc  |
+| Quiver (capacity: 20)         | 1 |                                          |                 | Mundane |            |  1  |  1 bc  |
+| Broadhead Arrow               | 17 |              Standard Arrow              |                 | Mundane |            | 0.05 |  1 bc  |
+| Morning Star                  | 1 | Medium Hafted Blunt, Medium Hafted Point |                 | Mundane |   12/12   |  4  |  15 bc  |
 
 ## Containers
 
-| Name              | # |      Class      |  Tier  | Durability |  LB  | Value |
-| ----------------- | :-: | :-------------: | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3) | 1 | 30 lb container | Mundane |            |  5  | 2 bc |
-| Dice Set          | 1 |      Misc      | Mundane |            | 0.2 | 10 cc |
-| Ring, Exquisite   | 2 |      Misc      | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 5 |      Misc      | Mundane |            | 0.02 | 1 bc |
+| Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
+| Dice Set          | 1 |                |        | Mundane |            | 0.2 | 10 cc |
+| Ring, Exquisite   | 2 |                |        | Mundane |            | 0.2 | 3 bc |
+| Bronze Coin       | 27 |                |        | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 50 |                |        | Mundane |            | 0.02 | 1 cc |
 
 ## Notes
 

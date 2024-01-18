@@ -10,12 +10,12 @@ Boosts maximum magic resource.
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Excellent (+3)
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Azulian Talisman | 1 |  | Minor Enhanced Magic Resource | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
-### Minor Enhanced Magic Resource
-
-+2 to magic Resource capacity.
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Minor Enhanced Magic Resource | +2 to magic Resource capacity. |  | 2 |

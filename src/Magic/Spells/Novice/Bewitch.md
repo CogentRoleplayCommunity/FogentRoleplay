@@ -26,7 +26,7 @@ Engageable Opponents: Focused
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Soul Magic (lvl 0)
 - Body Magic (lvl 0)

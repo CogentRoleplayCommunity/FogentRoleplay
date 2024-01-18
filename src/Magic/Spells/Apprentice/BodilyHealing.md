@@ -23,6 +23,6 @@ Depending on the wins achieved, the user gains one of the following effects.
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Body magic (level 1)

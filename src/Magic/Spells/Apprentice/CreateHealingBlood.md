@@ -25,6 +25,6 @@ By performing the following check below, a character may produce enough healing 
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Blood magic (level 1)

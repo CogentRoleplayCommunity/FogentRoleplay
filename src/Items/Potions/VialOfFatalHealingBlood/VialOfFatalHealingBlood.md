@@ -1,6 +1,6 @@
 # Vial of Fatal Healing Blood
 
-![Copyright](VialOfHealingBlood.png)
+![Copyright](./../VialOfMinorHealingBlood/VialOfHealingBlood.png)
 
 ## Desc
 
@@ -10,10 +10,12 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Info
 
-Item Type: Potion
-
-Tier: Fabled (+8)
+|            Name            | # | Class |   Effect   |  Tier  | Durability |  LB  |  Value  |
+| :-------------------------: | :-: | :---: | :--------: | :-----: | :--------: | :--: | :------: |
+| Vial of Fatal Healing Blood | 1 |      | Fatal Heal | Mundane |            | 0.25 | 12500 bc |
 
 ## Effects
 
-[Fatal Healing](../../../GeneralRules/NonCombatRules/Healing.md#fatal-heal)
+| Name       |                                    Effect                                    |   Duration   | Tier Required |
+| :--------- | :---------------------------------------------------------------------------: | :-----------: | :-----------: |
+| Fatal Heal | Removes a Fatal or lesser injury. Can be used to regrow limbs and body parts. | Instantaneous |       8       |

@@ -10,10 +10,12 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Info
 
-Item Type: Potion
-
-Tier: Fine (+2)
+|            Name            | # | Class | Effect |  Tier  | Durability |  LB  | Value |
+| :-------------------------: | :-: | :---: | :----: | :-----: | :--------: | :--: | :---: |
+| Vial of Minor Healing Blood | 1 |      |        | Mundane |            | 0.25 | 50 bc |
 
 ## Effects
 
-[Minor Heal](../../../GeneralRules/NonCombatRules/Healing.md#minor-heal)
+| Name       |                                                                                                                               Effect                                                                                                                               | Duration | Tier Required |
+| :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Minor Heal | Removes a minor or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it. |          |       2       |

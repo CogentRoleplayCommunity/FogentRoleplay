@@ -23,6 +23,6 @@ Depending on the wins achieved, the user can this is cast on gains benefits asso
 
 **Area Of Effect:** None
 
-**Magic skills required:**
+**Skills required:**
 
 - Hemacraft magic (level 1)

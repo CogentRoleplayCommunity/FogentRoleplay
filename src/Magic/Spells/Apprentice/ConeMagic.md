@@ -28,12 +28,10 @@ Here is a handy equation I made for calculating custom Cones. “A” is area, �
 
 | Skill level |  Range Type  |
 | :---------: | :----------: |
-|     -1     |    Close    |
-|      0      |    Short    |
-|      1      |    Medium    |
-|      2      |   Extended   |
-|      3      |     Long     |
-|      4      | Sharpshooter |
+|      1      |   Extended   |
+|      2      |     Long     |
+|      3      | Sharpshooter |
+|      4      |   Extreme   |
 
 **Engageable Opponents:** Focused
 
@@ -43,6 +41,6 @@ Here is a handy equation I made for calculating custom Cones. “A” is area, �
 
 **Area Of Effect:** Cone
 
-**Magic skills required:**
+**Skills required:**
 
 - Any magic (level 1)

@@ -1,6 +1,6 @@
 # Vial of Gradual Healing Blood
 
-![Copyright](VialOfHealingBlood.png)
+![Copyright](./../VialOfMinorHealingBlood/VialOfHealingBlood.png)
 
 ## Desc
 
@@ -10,10 +10,12 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Info
 
-Item Type: Potion
-
-Tier: Quality (+1)
+|             Name             | # | Class |    Effect    | Tier | Durability |  LB  | Value |
+| :---------------------------: | :-: | :---: | :----------: | :--: | :--------: | :--: | :---: |
+| Vial of Gradual Healing Blood | 1 |      | Gradual Heal | Fine |            | 0.25 | 50 bc |
 
 ## Effects
 
-[Gradual Heal](../../../GeneralRules/NonCombatRules/Healing.md#gradual-heal)
+| Name         |                                                                                   Effect                                                                                   | Duration | Tier Required |
+| :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Gradual Heal | Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries. |          |       2       |

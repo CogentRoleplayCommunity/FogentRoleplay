@@ -8,10 +8,11 @@ Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. M
 
 ## Info
 
-Item Type: Small Bladed
-
-Tier: Quality (+1)
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Talon - Replica | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Blade |  | Quality | 15/15 | 1.5 | ? |
 
 ## Effects
 
-None
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

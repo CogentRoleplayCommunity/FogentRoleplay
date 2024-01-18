@@ -18,6 +18,6 @@ Engageable Opponents: Focused
 
 Magic Resource Required: 1
 
-Magic skills required:
+Skills required:
 
 - Mind magic (level 0)

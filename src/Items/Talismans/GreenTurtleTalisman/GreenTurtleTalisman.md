@@ -6,7 +6,7 @@
 
 A talisman in the shape of a green turtle.
 
-Raises stamina recovery speed.
+Minorly raises stamina recovery speed.
 
 Turtles are known as a nutritious ingredient, symbolic of inexhaustible power.
 
@@ -23,3 +23,13 @@ Tier: Excellent (+3)
 ### Enhanced Endurance
 
 +1 to Endurance skill.
+
+## Info
+
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+
+## Effects
+
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |

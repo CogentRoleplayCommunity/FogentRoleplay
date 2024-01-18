@@ -12,12 +12,12 @@ A common talisman of assassins.
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Flawless (+6)
+| Name | # | Class | Effect | Tier | Durability | LB | Value |
+| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Concealing Veil | 1 |  | Minor Enhanced Stealth | Flawless | 21/21 | 0.2 | ? |
 
 ## Effects
 
-### Enhanced Stealth
-
-+1 to Stealth Skill.
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Minor Enhanced Stealth | +1d6 to Stealth. | Indefinite | 2 |
