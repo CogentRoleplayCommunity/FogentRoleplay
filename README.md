@@ -44,7 +44,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
-- [Item Tier And Durability](./src/CoreRules/CombatRules/ItemTierAndEffectsAndDurability.md)
+- [Item Tier, Effects, and Durability](./src/CoreRules/CombatRules/ItemTierAndEffectsAndDurability.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weapon Modifiers](./src/CoreRules/CombatRules/WeaponModifiers.md)
