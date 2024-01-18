@@ -218,7 +218,7 @@ Arsenal Charm,1,,Minor Enhanced Lift,Excellent,21/21,0.2,?,"An iron charm that r
 Minorly oosts maximum equipment load.
 
 This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance.",,,,,
-Arsenal Charm +1,1,,Enhanced Lift,Flawless,21/21,0.2,?,"An iron charm that resembles a mass of weaponry.
+Arsenal Charm +1,1,,Enhanced Lift,Flawless,30/30,0.2,?,"An iron charm that resembles a mass of weaponry.
 
 Boosts maximum equipment load.
 
@@ -235,16 +235,18 @@ Azulian Talisman +2,1,,Greatly Enhanced Magic Resource,Mastercraft,33/33,0.2,?,"
 
 Greatly boosts maximum magic resource.",,,,,
 Blessed Dew Talisman,1,,Gradual Healing,Superior,24/24,0.2,?,"It is the common knowledge that the dew of the morning has special healing properties. This amulet is crafted with condensed morning dew, allowing it to provide subtle mending properties to those that wear it. A favorite of explorers and travelers.",,,,,
-Claw Talisman,1,,Ariel Assassin,Flawless,21/21,0.2,?,A talisman depicting claws and an assassin.,,,,,
-Concealing Viel,1,,Minor Enhanced Stealth,Flawless,21/21,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
+Claw Talisman,1,,Ariel Assassin,Flawless,30/30,0.2,?,A talisman depicting claws and an assassin.,,,,,
+Concealing Viel,1,,Minor Enhanced Stealth,Flawless,30/30,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
 
 Conceals the wearer's presence, becoming slightly transparent at will.
 
 A common talisman of assassins.",,,,,
-Crimson Medallion,1,,Minor Enhanced Vitality,Flawless,21/21,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
+Crimson Medallion,1,,Minor Enhanced Vitality,Flawless,30/30,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
 
 Minorly boosts maximum vitality.",,,,,
-,,,,,,,,,,,,,
+Crimson Medallion +1,1,,Enhanced Vitality,Epic,39/39,0.2,?,"A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
+
+Boosts maximum vitality.",,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 Cracked Brightstone Ring,1,,,Excellent,21/21,0,?,,,,,,
