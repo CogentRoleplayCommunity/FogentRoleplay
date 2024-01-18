@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                    |                          Effect                          |    Duration    | Tier Required |
-| :---------------------- | :-------------------------------------------------------: | :------------: | :-----------: |
-| Medium Radiant Weakness | (+2) to the level of injury received from Radiant damage. | While equipped |       5       |
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Medium Radiant Resistance | -2 to victory levels received from Radiant damage. | While equipped | 5 |

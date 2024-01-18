@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                   |                          Effect                          |    Duration    | Tier Required |
-| :--------------------- | :-------------------------------------------------------: | :------------: | :-----------: |
-| Minor Radiant Weakness | (+1) to the level of injury received from Radiant damage. | While equipped |       3       |
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
+| Minor Radiant Resistance | -1 to victory levels received from Radiant damage. | While equipped | 3 |

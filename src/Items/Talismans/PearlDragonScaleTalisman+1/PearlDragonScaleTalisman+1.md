@@ -14,6 +14,6 @@ Talisman depicting a pearlescent ancient dragon.
 
 ## Effects
 
-| Name                    |                          Effect                          |    Duration    | Tier Required |
-| :---------------------- | :-------------------------------------------------------: | :------------: | :-----------: |
+| Name | Effect | Duration | Tier Required |
+| :--- | :----: | :------: | :-----------: |
 | Medium Psychic Resistance | -2 to victory levels received from Psychic damage. | While equipped | 5 |
