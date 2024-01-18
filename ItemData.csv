@@ -263,6 +263,7 @@ Frost Dragon Scale Talisman +2,1,,Major Cold Resistance,Mastercraft,33/33,0.2,?,
 Great Arsenal Talisman,1,,Greatly Enhanced Lift,Epic,39/39,0.2,?,"A charm that resembles a great jar overflowing with weaponry.
 
 Greatly boosts maximum equipment load."
+Great Steel Dragon Scale Talisman,1,,"Extreme Hew Resistance, Extreme Slash Resistance, Extreme Bludgeon Resistance, Extreme Shockwave Resistance",Legendary,42/42,0.2,?,"A larger wrought iron talisman in the shape of a greatshield with an imposing Steel Dragon emblazoned on its face. These talismans are extremely rare and expensive to make, meaning that only the upper echelons of society have access to them. Often worn by extremely wealthy merchants, royalty and even the Emperor, these powerful Runecrafted items often never see the battlefield they were intended for."
 Lightning Dragon Scale Talisman,1,,Minor Lightning Resistance,Excellent,21/21,0.2,?,
 Lightning Dragon Scale Talisman +1,1,,Medium Lightning Resistance,Exquisite,27/27,0.2,?,
 Lightning Dragon Scale Talisman +2,1,,Major Lightning Resistance,Mastercraft,33/33,0.2,?,
@@ -275,7 +276,7 @@ Radiant Dragon Scale Talisman +2,1,,Major Radiant Resistance,Mastercraft,33/33,0
 Steel Dragon Scale Talisman,1,,Minor & Resistance,Excellent,21/21,0.2,?,
 Steel Dragon Scale Talisman +1,1,,Medium & Resistance,Exquisite,27/27,0.2,?,
 Steel Dragon Scale Talisman +2,1,,Major & Resistance,Mastercraft,33/33,0.2,?,
-,,,,,,,,
+Great Steel Dragon Scale Talisman,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
