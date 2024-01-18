@@ -52,7 +52,7 @@ Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.S
 Life Leech,Sneak attacks trigger an Minor Heal to self.,Instantaneous,3
 Continous Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,6
 Enhanced Critical,+1 automatic win to sneak attacks and incapacitated opponents.,While equipped,6
-,,,
+Enhanced Healing,Any healing acts as the tier above.,While equipped,9
 ,,,
 ,,,
 ,,,
