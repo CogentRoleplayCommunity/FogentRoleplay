@@ -8,22 +8,12 @@ A metal talisman with twin symbols evoking the image of fire on it. This more po
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Flawless (+6)
-
-## Effects
-
-### Medium Fire Resistance
-
--2 to victory levels received from Fire damage.
-
-## Info
-
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Fire Dragon Scale Talisman +1 | 1 |  | Medium Fire Resistance | Exquisite | 27/27 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
+| Medium Fire Weakness | (+2) to the level of injury received from Fire damage. | While equipped | 5 |
