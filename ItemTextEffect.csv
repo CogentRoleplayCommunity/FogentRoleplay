@@ -41,7 +41,7 @@ Forbidden Whispers,"When one squeezes the Heart, it whispers secrets directly in
 Light Storage,Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem.,,3
 Dragon Threat Sense,The bearer of this armor gets an uneasy feeling when there are draconic creatures near.,While equipped,3
 Dragon Breath Resistance,"Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect).",While equipped,5
-Retractable Shield,The user can deploy or retract the medium shield at will.,While equiped,4
+Retractable Shield,The user can deploy or retract the medium shield at will.,While equippped,4
 Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,2
 Minor Heal,"Removes a minor or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. The higher tier injury requires the appropriate heal tier to completely remove it.",Instantaneous,2
 Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing  has no effect. The higher tier injury requires the appropriate heal tier to completely remove it.",Instantaneous,4
@@ -51,6 +51,6 @@ Revival Heal,"Return a dead character to life with a serious injury. Can only be
 Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.Sneak attacks trigger an Minor Heal to self.,Instantaneous,3
 Life Leech,Sneak attacks trigger an Minor Heal to self.,Instantaneous,3
 Continous Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,6
-,,,
+Enhanced Critical,+1 automatic win to sneak attacks and incapacitated opponents.,While equipped,6
 ,,,
 ,,,
