@@ -1,6 +1,6 @@
 # Advantage and Disadvantage
 
-Advantage/disadvantage/super advantage/super disadvantage only applies to a single dice pool, not additional dice pools such as from assists. For example, if I have advantage on a stealth check and decide to assist with my "Rogue" vocation, than the advantage only applies on the stealth dice pool and not on the "Rogue" dice pool. However, I could preemptively use a destiny point to gain advantage on the "Rogue" assist dice pool.
+Advantage/disadvantage only applies to a single dice pool, not additional dice pools such as from assists. For example, if I have advantage on a stealth check and decide to assist with my "Rogue" vocation, than the advantage only applies on the stealth dice pool and not on the "Rogue" dice pool. However, I could preemptively use a destiny point to gain advantage on the "Rogue" assist dice pool.
 
 ## Advantage
 

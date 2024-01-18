@@ -21,15 +21,19 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ## Core Rules
 
+The Core Rules are the foundation of the game. The rules have been listed in the order of importance to someone learning the game for the first time.
+
 ### General Rules
 
-- [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
+- [Dice Pools And Challenge Levels](./src/CoreRules/GeneralRules/DicePools.md)
 - [Attributes](./src/CoreRules/GeneralRules/Attributes.md)
+
+
+- [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
 - [Challenge Levels](./src/CoreRules/GeneralRules/ChallengeLevels.md)
 - [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
-- [Dice Pools](./src/CoreRules/GeneralRules/DicePools.md)
 - [Healing](./src/CoreRules/GeneralRules/Healing.md)
 - [Perks](./src/CoreRules/GeneralRules/Perks.md)
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
