@@ -8,7 +8,7 @@
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Frost Dragon Scale Talisman | 1 |  | Minor Frost Resistance | Excellent | 21/21 | 0.2 | ? |
+| Frost Dragon Scale Talisman | 1 |  | Minor Cold Resistance | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 

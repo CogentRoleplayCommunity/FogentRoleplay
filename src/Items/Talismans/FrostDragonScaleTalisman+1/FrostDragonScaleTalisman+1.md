@@ -8,7 +8,7 @@
 
 |              Name              | # | Class |         Effect         |   Tier   | Durability | LB | Value |
 | :----------------------------: | :-: | :---: | :---------------------: | :-------: | :--------: | :-: | :---: |
-| Frost Dragon Scale Talisman +1 | 1 |      | Medium Frost Resistance | Exquisite |   27/27   | 0.2 |   ?   |
+| Frost Dragon Scale Talisman +1 | 1 |      | Medium Cold Resistance | Exquisite |   27/27   | 0.2 |   ?   |
 
 ## Effects
 
