@@ -10,24 +10,12 @@ Vastly boosts psychic damage resistance.
 
 ## Info
 
-Item Type: Talisman
-
-Tier: Epic (+9)
-
-## Effects
-
-### Major Psychic Resistance
-
--3 to victory levels received from Psychic damage.
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Pearl Dragon Scale Talisman +2 | 1 |  | Major Psychic Resistance | Mastercraft | 33/33 | 0.2 | ? |
+|              Name              | # | Class |          Effect          |    Tier    | Durability | LB | Value |
+| :----------------------------: | :-: | :---: | :----------------------: | :---------: | :--------: | :-: | :---: |
+| Pearl Dragon Scale Talisman +2 | 1 |      | Major Psychic Resistance | Mastercraft |   33/33   | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Major Psychic Weakness | (+3) to the level of injury received from Psychic damage. | While equipped | 7 |
+| Name                     |                       Effect                       |    Duration    | Tier Required |
+| :----------------------- | :-------------------------------------------------: | :------------: | :-----------: |
+| Major Psychic Resistance | -3 to victory levels received from Psychic damage. | While equipped |       7       |
