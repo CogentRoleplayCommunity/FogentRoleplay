@@ -16,9 +16,9 @@ Greatly Enhanced Magic Resource,+6 to magic Resource capacity.,Indefinite,7
 ,,,
 Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,,4
 Ariel Assassin,"While performing an aerial attack, gain a +1 to your victory level.",,3
-Minor Enhanced Vitality,Reduce up to 1d6 of total injury penalty dice.,Indefinite,4
-Enhanced Vitality,Reduce up to 2d6 of total injury penalty dice.,,6
-Greatly Enhanced Vitality,Reduce up to 3d6 of total injury penalty dice.,,8
+Minorly Enhanced Vitality,Reduce up to 1d6 of total injury penalty dice.,While equipped,4
+Enhanced Vitality,Reduce up to 2d6 of total injury penalty dice.,While equipped,6
+Greatly Enhanced Vitality,Reduce up to 3d6 of total injury penalty dice.,While equipped,8
 Enhaned Criticals,+1 to victory level to melee sneak attacks and melee attacks on incapacitated opponents.,,4
 Dragon Sense,The bearer of this armor gets an uneasy feeling when there are draconic creatures near.,,1
 Minor Draconic Element Resistance,"Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)",,
