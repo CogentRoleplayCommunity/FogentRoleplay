@@ -9,6 +9,14 @@ This document provides generalized framework for magic system mechanics for any 
 - Cantrip Name
 - Governing Core Skill
 
+## Fallen Magic Systems
+
+Fallen's pre-made magic systems are great examples of how to make your own system on this framework. Once the framework is understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor.
+
+- [Fellcraft](./../Settings/Fallen/Magic/Fellcraft/Fellcraft.md)
+- [Miracles](./../Settings/Fallen/Magic/Miracles/Miracles.md)
+- [Runecraft](./../Settings/Fallen/Magic/Runecraft/Runecraft.md)
+
 ## Magic Skills
 
 These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
@@ -44,16 +52,6 @@ Another avenue to explore are magic how these magics could be combined.
 - Storm Magic = Air Magic + Electricity Magic + Water Magic
 - Magma Magic = Earth Magic + Heat Magic
 - Blizzard Magic = Cold Magic + Air Magic
-
-## Fallen Magic Systems
-
-Fallen's pre-made magic systems are great examples of how to make your own system on this framework. Once the framework is understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor.
-
-- [Fellcraft](./../Settings/Fallen/Magic/Fellcraft/Fellcraft.md)
-
-- [Miracles](./../Settings/Fallen/Magic/Miracles/Miracles.md)
-
-- [Runecraft](./../Settings/Fallen/Magic/Runecraft/Runecraft.md)
 
 ## Magic Skills
 
