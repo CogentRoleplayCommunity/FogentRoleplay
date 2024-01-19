@@ -53,42 +53,6 @@ Another avenue to explore are magic how these magics could be combined.
 - Magma Magic = Earth Magic + Heat Magic
 - Blizzard Magic = Cold Magic + Air Magic
 
-## Magic Skills
-
-These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
-
-If you are making a magic system, these will probably have different names in your system. This is not an exhaustive list, feel free to add your own.
-
-- Bodily Magic (Flesh, Web, Bone, ect...)
-- Heat Magic
-- Water Magic
-- Electricity Magic
-- Earth Magic
-- Air Magic
-- Cold Magic
-- Plant Magic
-- Poison Magic
-- Soul Magic
-- Light Magic
-- Shadow Magic
-- Mind Magic
-- Metal Magic
-- Sound Magic
-- Blood Magic
-- Acid Magic
-- Time Magic
-- Space Magic
-- Gravity Magic
-
-### Combo Magic Skill
-
-Another avenue to explore are magic how these magics could be combined.
-
-- Plasma Magic = Heat Magic + Air Magic
-- Storm Magic = Air Magic + Electricity Magic + Water Magic
-- Magma Magic = Earth Magic + Heat Magic
-- Blizzard Magic = Cold Magic + Air Magic
-
 ## Unlocking Magic
 
 You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompetent).
