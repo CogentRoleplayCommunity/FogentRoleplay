@@ -160,6 +160,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 ### Cantrips
 
 - [Blade Barrier](Spells/Cantrip/BladeBarrier.md)
+- [Illuminate](Spells/Cantrip/Illuminate.md)
 - [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md)
 - [Minor Mirage](Spells/Cantrip/MinorMirage.md)
 - [Night Vision](Spells/Cantrip/NightVision.md)
