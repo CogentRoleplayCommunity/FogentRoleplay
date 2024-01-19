@@ -36,6 +36,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
 - [Healing](./src/CoreRules/GeneralRules/Healing.md)
 - [Vision and Light](./src/CoreRules/GeneralRules/LightAndVision.md)
+- [Magic](./src/CoreRules/MagicRules/Magic.md)
 
 ### Combat Rules
 
