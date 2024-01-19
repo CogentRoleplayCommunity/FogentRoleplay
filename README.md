@@ -25,7 +25,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### General Rules
 
-- [Dice Pools And Challenge Levels](./src/CoreRules/GeneralRules/DicePools.md)
+- [Dice Pools And Challenge Levels](./src/CoreRules/GeneralRules/DicePoolsAndChallengeLevel.md)
 - [Attributes](./src/CoreRules/GeneralRules/Attributes.md)
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
@@ -40,6 +40,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 ### Combat Rules
 
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
+- [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
@@ -48,5 +49,4 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weapon Modifiers](./src/CoreRules/CombatRules/WeaponModifiers.md)
-
 - [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
