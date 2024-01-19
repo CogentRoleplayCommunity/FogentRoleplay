@@ -4,58 +4,57 @@
 
 ## Attributes and Core Skills
 
-| STR       |   0   |       | RFX             |   1   |       | INT               |   0   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   1   |  4d6  | Acrobatics      |   0   |  4d6  | Communication     |   1   |  4d6  |
-| Climb     |   0   |  3d6  | Perception      |   1   |  5d6  | General Knowledge |   0   |  3d6  |
-| Endurance |   0   |  3d6  | Sleight of Hand |   1   |  5d6  | Survival          |   2   |  5d6  |
-| Lift      |   0   |  3d6  | Stealth         |   1   |  5d6  | Will         |   0   |  3d6  |
+| STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 1 | 4d6 | Acrobatics      | 0 | 4d6 | Communication     | 1 | 4d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 5d6 | Survival          | 2 | 5d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Criminal {RFX}    |   2   |  6d6  |
-| ----------------- | :---: | :---: |
-| Small Blade {ALL} |   1   |  5d6  |
+| Criminal {RFX}   | 2 | 6d6 |
+| ----------------- | :-: | :-: |
+| Small Blade {ALL} | 1 | 5d6 |
 
 ## Effects:
 
-|              Name              |                              Effect                               | Duration |                                                                  Source                                                                  |
-| :----------------------------: | :---------------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|          Medium Size           |                       5x5 ft on battle map.                       |          |                                                                                                                                          |
-|       Language: Babelish       |                        Can speak Babelish.                        |          |                                                                                                                                          |
-|     Disabling: Illiterate      |                       Can't read or write.                        |          |                                                                  Injury                                                                  |
-| Disabling: Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                                                                                                          |
-|        Inventory Weight        |                              9.8 lb                               |          |                                                                Equipment                                                                 |
-|     Humanoid Carry Weight      |                              120 lb                               |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|          Light Weight          |                  -0d6 to STR/RFX governed skills                  |          |                                                         0% - 25% of carry weight                                                         |
-|    Humanoid Movement Speed     |                               45 ft                               |          |                                          30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
-|      Humanoid Swim Speed       |                               20 ft                               |          |                                           15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)                                           |
-|      Humanoid Climb Speed      |                               15 ft                               |          |                                             15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                             |
+|              Name              |                              Effect                              | Duration |                                                       Source                                                       |
+| :----------------------------: | :---------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|          Medium Size          |                       5x5 ft on battle map.                       |          |                                                                                                                    |
+|       Language: Babelish       |                        Can speak Babelish.                        |          |                                                                                                                    |
+|     Disabling: Illiterate     |                       Can't read or write.                       |          |                                                       Injury                                                       |
+| Disabling: Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                                                                                    |
+|        Inventory Weight        |                              9.8 lb                              |          |                                                      Equipment                                                      |
+|     Humanoid Carry Weight     |                              120 lb                              |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|          Light Weight          |                  -0d6 to STR/RFX governed skills                  |          |                                              0% - 25% of carry weight                                              |
+|    Humanoid Movement Speed    |                               45 ft                               |          |                                30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                |
+|      Humanoid Swim Speed      |                               20 ft                               |          |                                15 ft (Base), +5 ft (per STR), +5 ft (per Athletics)                                |
+|      Humanoid Climb Speed      |                               15 ft                               |          |                                  15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                  |
 
 ## Combat Rolls:
 
-|         Name         |   One<br />Handed    | Two<br />Handed |  Dual<br />Wielded   | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|         Name         |   One<br />Handed   | Two<br />Handed |  Dual<br />Wielded  | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------------: | :------------------: | :-------------: | :------------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Slashing Blade | 5d6, 1d4<br />(+1d6) |     (+1d6)      | 6d6, 1d4<br />(+1d6) |      0      | Melee |       Slash       |           Rapid           |        None         |        None         |
-|       Unarmed        |          -1          |       -1        |         None         |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|  Disarming Unarmed   |         +3d6         |      +3d6       |         None         |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
+| Small Slashing Blade | 5d6, 1d4<br />(+1d6) |     (+1d6)     | 6d6, 1d4<br />(+1d6) |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|       Unarmed       |          -1          |       -1       |         None         |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
-| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|       |                     |                    |             |       |                   |                     |
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
 
 ## Destiny Points: 0/3
 
 ## Equipment:
 
-|        On         | Name  |          #           |  Class  | Tier  | Durability |  LB   | Value |
-| :---------------: | :---: | :------------------: | :-----: | :---: | :--------: | :---: | :---: |
-|  Clothes, Common  |   1   |         Misc         | Mundane |       |     3      | 5 bc  |       |
-| Mother's Necklace |   1   |         Misc         | Mundane |       |    0.1     |   ?   |       |
-|  Waterskin (4/4)  |   1   |         Misc         | Mundane |       |     5      | 20 cc |       |
-|     Sharp Cap     |   1   | Small Slashing Blade | Shoddy  |  9/9  |    0.5     | 2 bc  |       |
-|  Thieves' Tools   |   1   |         Misc         | Mundane |       |     1      | 25 bc |       |
-|     Dice Set      |   1   |         Misc         | Mundane |       |    0.2     | 10 cc |       |
+|        On        | Name |          #          |  Class  | Tier | Durability |  LB  | Value |
+| :---------------: | :--: | :------------------: | :-----: | :--: | :--------: | :---: | :---: |
+|  Clothes, Common  |  1  |         Misc         | Mundane |      |     3     | 5 bc |      |
+| Mother's Necklace |  1  |         Misc         | Mundane |      |    0.1    |   ?   |      |
+|  Waterskin (4/4)  |  1  |         Misc         | Mundane |      |     5     | 20 cc |      |
+|     Sharp Cap     |  1  | Small Slashing Blade | Shoddy | 9/9 |    0.5    | 2 bc |      |
+|  Thieves' Tools  |  1  |         Misc         | Mundane |      |     1     | 25 bc |      |
+|     Dice Set     |  1  |         Misc         | Mundane |      |    0.2    | 10 cc |      |
 
 ## Appearance:
 
