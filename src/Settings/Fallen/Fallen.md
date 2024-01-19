@@ -18,8 +18,6 @@
 
 - [Diseases](Diseases/Diseases.md)
 
-- [General Rules](GeneralRules/GeneralRules.md)
-
 - [Magic](Magic/Magic.md)
 
 - [Items](Items/Items.md)
