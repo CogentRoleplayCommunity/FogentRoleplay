@@ -50,5 +50,5 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Item Tier, Effects, and Durability](./src/CoreRules/CombatRules/ItemTierAndEffectsAndDurability.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Weapon Modifiers](./src/CoreRules/CombatRules/WeaponModifiers.md)
+- [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)

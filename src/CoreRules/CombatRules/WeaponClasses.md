@@ -1,4 +1,4 @@
-# Weapon Modifiers
+# Weapon Classes
 
 ## Dual wielding
 
