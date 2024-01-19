@@ -132,9 +132,9 @@ Secondary weapon: +1d6 to combat rolls
 ### Short spear
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
 |    Short Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
-| Thrown Short Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        | {STR,RFX,INT}             |
+| Thrown Short Spear |      +2d6      |      +2d6      |       None       |      3      | Medium |      Pierce      |         Standard         |        None        |        None        | {STR,RFX,INT}             |
 
 ## Reach Weapons
 

@@ -37,11 +37,11 @@
 ## Combat Rolls:
 
 |        Name        |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Medium Hafted Point |   6d6<br />(+1d6)   |   7d6<br />(+2d6)   |  7d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Medium Hafted Blunt |   5d6<br />(+0d6)   |   6d6<br />(+1d6)   |  6d6<br />(+1d6)  |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 |     Short Spear     | 3d6, 3d4<br />(+2d6) | 4d6, 3d4<br />(+3d6) |      (+1d6)      |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear | 3d6, 3d4<br />(+2d6) | 3d6, 3d4<br />(+2d6) |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        |
+| Thrown Short Spear | 3d6, 3d4<br />(+2d6) | 3d6, 3d4<br />(+2d6) |       None       |      3      | Medium |      Pierce      |         Standard         |        None        |        None        |
 
 ## Equipment:
 

@@ -37,12 +37,12 @@
 ## Combat Rolls
 
 |           Name           |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Polycraft - Melee Trick |         3d6         |                      |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |        None        |
 | Polycraft - Ranged Trick |         3d6         |                      |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |        None        |
 |     Large Hafted Axe     |   6d6<br />(+0d6)   |   9d6<br />(+3d6)   |       None       |      2      | Melee |             Hew             |           Rapid           |        None        |        None        |
 |       Short Spear       | 5d6, 3d4<br />(+2d6) | 6d6, 3d4<br />(+3d6) |      (+1d6)      |      3      | Melee |            Pierce            |        Spear Rapid        |        None        |        None        |
-|    Thrown Short Spear    | 5d6, 3d4<br />(+2d6) | 5d6, 3d4<br />(+2d6) |       None       |      3      | Short |            Pierce            |         Standard         |        None        |        None        |
+|    Thrown Short Spear    | 5d6, 3d4<br />(+2d6) | 5d6, 3d4<br />(+2d6) |       None       |      3      | Medium |            Pierce            |         Standard         |        None        |        None        |
 
 ## Fellblood: 1/1
 

@@ -41,7 +41,7 @@
 | Galecraft - Melee Trick |       3d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Shockwave |           Rapid           |                    |        None        |
 | Galecraft - Ranged Trick |       3d6       |                |                  |      0      |  Close  | Slash, Bludgeon, Shockwave |         Standard         |                    |        None        |
 |       Short Spear       | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      3      |  Melee  |           Pierce           |        Spear Rapid        |        None        |        None        |
-|    Thrown Short Spear    | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      |  Short  |           Pierce           |         Standard         |        None        |        None        |
+|    Thrown Short Spear    | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      |  Medium  |           Pierce           |         Standard         |        None        |        None        |
 |    Large Hafted Blunt    |  3d6<br />(-1)  | 5d6<br />(+1d6) |       None       |      5      |  Melee  |          Bludgeon          |           Rapid           |        None        |        None        |
 |        Light Bow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                            |           Quick           |        None        |        Arrow        |
 

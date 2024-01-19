@@ -34,9 +34,9 @@
 ## Combat Rolls
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |    Short Spear    | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear | 6d6<br />(+2d6) | 6d6<br />(+2d6) |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        |
+| Thrown Short Spear | 6d6<br />(+2d6) | 6d6<br />(+2d6) |       None       |      3      | Medium |      Pierce      |         Standard         |        None        |        None        |
 
 ## Equipment:
 

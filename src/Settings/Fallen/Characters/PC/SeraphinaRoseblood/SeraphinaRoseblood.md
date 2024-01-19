@@ -4,56 +4,56 @@
 
 ## Attributes and Core Skills
 
-| STR       |   0   |       | RFX             |   1   |       | INT               |   0   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   1   |  4d6  | Acrobatics      |   2   |  6d6  | Communication     |   0   |  3d6  |
-| Climb     |   0   |  3d6  | Perception      |   1   |  5d6  | General Knowledge |   0   |  3d6  |
-| Endurance |   0   |  3d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  3d6  |
-| Lift      |   0   |  3d6  | Stealth         |   1   |  5d6  | Will         |   0   |  3d6  |
+| STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 1 | 4d6 | Acrobatics      | 2 | 6d6 | Communication     | 0 | 3d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Noble {ALL}       |   0   |  4d6  | Fellweaver {RFX}      | 2   | 6d6 |
-| ----------------- | :---: | :---: | ------------------ | --- | --- |
-| Short Spear {ALL} |   0   |  4d6  | Hydrocraft {ALL}   | 2   | 6d6 |
-|                   |       |       | Polycraft {ALL}    | -1  | 3d6 |
-|                   |       |       | Electrocraft {ALL} | -1  | 3d6 |
+| Noble {ALL}        | 0 | 4d6 | Fellweaver {RFX}   | 2  | 6d6 |
+| ------------------ | :-: | :-: | ------------------ | -- | --- |
+| Short Spear {ALL} | 0 | 4d6 | Hydrocraft {ALL}   | 2  | 6d6 |
+|                    |  |    | Polycraft {ALL}    | -1 | 3d6 |
+|                    |  |    | Electrocraft {ALL} | -1 | 3d6 |
 
 ## Effects
 
-|           Name            |                                 Effect                                 | Duration |                                                                  Source                                                                  |
-| :-----------------------: | :--------------------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|   Minor Silver Weakness   |     (+1) to the level of injury<br />received from Silver damage.      |          |                                                              Fellkin blood                                                               |
-|  Physical Defense Level   |                                   3                                    |          |                                                                  Armor                                                                   |
-|        Medium Size        |                         5x5 ft on battle map.                          |          |                                                                                                                                          |
-|    Language: Babelish     |                          Can speak Babelish.                           |          |                                                                                                                                          |
-|   Language: Deep-speak    |                         Can speak Deep-speak.                          |          |                                                                                                                                          |
-| Disabling: People Pleaser | Always try to make other people<br />happy, even at their own expense. |          |                                                                                                                                          |
-|    Disabling: Delusion    |        Believes that her family<br />will flourish once again.         |          |                                                                                                                                          |
-|     Inventory Weight      |                                 23 lb                                  |          |                                                                Equipment                                                                 |
+|           Name           |                                 Effect                                 | Duration |                                                       Source                                                       |
+| :-----------------------: | :--------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|   Minor Silver Weakness   |     (+1) to the level of injury<br />received from Silver damage.     |          |                                                    Fellkin blood                                                    |
+|  Physical Defense Level  |                                   3                                   |          |                                                        Armor                                                        |
+|        Medium Size        |                         5x5 ft on battle map.                         |          |                                                                                                                    |
+|    Language: Babelish    |                          Can speak Babelish.                          |          |                                                                                                                    |
+|   Language: Deep-speak   |                         Can speak Deep-speak.                         |          |                                                                                                                    |
+| Disabling: People Pleaser | Always try to make other people<br />happy, even at their own expense. |          |                                                                                                                    |
+|    Disabling: Delusion    |        Believes that her family<br />will flourish once again.        |          |                                                                                                                    |
+|     Inventory Weight     |                                 23 lb                                 |          |                                                      Equipment                                                      |
 |   Humanoid Carry Weight   |                                 120 lb                                 |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|       Light Weight        |                    -0d6 to STR/RFX governed skills                     |          |                                                         0% - 25% of carry weight                                                         |
-|  Humanoid Movement Speed  |                                 35 ft                                  |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
-|    Humanoid Swim Speed    |                                 20 ft                                  |          |                                        15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
-|   Humanoid Climb Speed    |                                 15 ft                                  |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
+|       Light Weight       |                    -0d6 to STR/RFX governed skills                    |          |                                              0% - 25% of carry weight                                              |
+|  Humanoid Movement Speed  |                                 35 ft                                 |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|    Humanoid Swim Speed    |                                 20 ft                                 |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|   Humanoid Climb Speed   |                                 15 ft                                 |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls:
 
-|           Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   |             Damage<br />Types             | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |             Damage<br />Types             | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Hydrocraft - Ranged Trick |       6d6       |                 |                   |      0      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard          |        None         |        None         |
-| Hydrocraft - Melee Trick  |       6d6       |                 |                   |      0      |  Melee   | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None         |        None         |
-|    Hydrocraft - Ranged    |       7d6       |                 |                   |      1      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard          |        None         |      1 (Fellblood)      |
-|    Hydrocraft - Melee     |       7d6       |                 |                   |      2      |  Melee   | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None         |      1 (Fellblood)      |
-|     Hydrocraft - Cone     |       7d6       |                 |                   |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        Cone         |      1 (Fellblood)      |
-|   Hydrocraft - Focused    |       8d6       |                 |                   |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        None         |      1 (Fellblood)      |
-|    Hydrocraft - Sphere    |       8d6       |                 |                   |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |       Sphere        |      2 (Fellblood)      |
-|        Short Spear        | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None        |      3      |  Melee   |                  Pierce                   |        Spear Rapid        |        None         |        None         |
-|    Thrown Short Spear     | 6d6<br />(+2d6) |     (+2d6)      |       None        |      3      |  Short   |                  Pierce                   |         Standard          |        None         |        None         |
+| Hydrocraft - Ranged Trick |       6d6       |                |                  |      0      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard         |        None        |        None        |
+| Hydrocraft - Melee Trick |       6d6       |                |                  |      0      |  Melee  | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None        |        None        |
+|    Hydrocraft - Ranged    |       7d6       |                |                  |      1      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard         |        None        |    1 (Fellblood)    |
+|    Hydrocraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None        |    1 (Fellblood)    |
+|     Hydrocraft - Cone     |       7d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        Cone        |    1 (Fellblood)    |
+|   Hydrocraft - Focused   |       8d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        None        |    1 (Fellblood)    |
+|    Hydrocraft - Sphere    |       8d6       |                |                  |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |       Sphere       |    2 (Fellblood)    |
+|        Short Spear        | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None       |      3      |  Melee  |                  Pierce                  |        Spear Rapid        |        None        |        None        |
+|    Thrown Short Spear    | 6d6<br />(+2d6) |     (+2d6)     |       None       |      3      |  Medium  |                  Pierce                  |         Standard         |        None        |        None        |
 
-| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|       |                     |                    |             |       |                   |                     |
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
 
 ## Destiny Points: 0/3
 
@@ -61,25 +61,25 @@
 
 ## Equipment:
 
-| Name                         |   #   |              Class              |  Tier   | Durability |  LB   | Value  |
-| ---------------------------- | :---: | :-----------------------------: | :-----: | :--------: | :---: | :----: |
-| Gambeson Coat                |   1   |           Phy. Def. 1           | Mundane |   12/12    |   5   |  2 bc  |
-| Gambeson Leggings            |   1   |          Phy. Def. 0.5          | Mundane |   12/12    |   3   |  1 bc  |
-| Leather Cuirass and Pauldron |   1   |          Phy. Def. 0.5          | Mundane |   12/12    |   4   |  3 bc  |
-| Leather Cuisses and Greaves  |   1   |          Phy. Def. 0.5          | Mundane |   12/12    |   3   |  2 bc  |
-| Leather Vambrace             |   1   |          Phy. Def. 0.5          | Mundane |   12/12    |   2   | 1.5 bc |
-| Clothes, Common              |   1   |              Misc               | Mundane |            |   3   |  5 bc  |
-| Trident                      |   1   | Short Spear, Thrown Short Spear | Mundane |   12/12    |   3   |  5 bc  |
-| Signet Ring                  |   1   |              Misc               | Mundane |            |  0.2  |  5 bc  |
-| Copper Coin                  |  70   |              Misc               | Mundane |            | 0.02  |  1 cc  |
+| Name                         | # |              Class              |  Tier  | Durability |  LB  | Value |
+| ---------------------------- | :-: | :-----------------------------: | :-----: | :--------: | :--: | :----: |
+| Gambeson Coat                | 1 |           Phy. Def. 1           | Mundane |   12/12   |  5  |  2 bc  |
+| Gambeson Leggings            | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  3  |  1 bc  |
+| Leather Cuirass and Pauldron | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  4  |  3 bc  |
+| Leather Cuisses and Greaves  | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  3  |  2 bc  |
+| Leather Vambrace             | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  2  | 1.5 bc |
+| Clothes, Common              | 1 |              Misc              | Mundane |            |  3  |  5 bc  |
+| Trident                      | 1 | Short Spear, Thrown Short Spear | Mundane |   12/12   |  3  |  5 bc  |
+| Signet Ring                  | 1 |              Misc              | Mundane |            | 0.2 |  5 bc  |
+| Copper Coin                  | 70 |              Misc              | Mundane |            | 0.02 |  1 cc  |
 
 ## Containers
 
 ### Container Name
 
-| Name |   #   | Class | Tier  | Durability |  LB   | Value |
-| ---- | :---: | :---: | :---: | :--------: | :---: | :---: |
-|      |       |       |       |            |       |       |
+| Name | # | Class | Tier | Durability | LB | Value |
+| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|      |  |      |      |            |    |      |
 
 ## Notes
 
