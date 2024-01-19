@@ -4,78 +4,78 @@
 
 ## Attributes and Core Skills
 
-| STR       | 0 |    | RFX             | 1 |    | INT               | 1 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 4d6 | Communication     | 0 | 4d6 |
-| Climb     | 0 | 3d6 | Perception      | 0 | 4d6 | General Knowledge | 1 | 5d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 4d6 |
-| Lift      | 0 | 3d6 | Stealth         | 0 | 4d6 | Will              | 1 | 5d6 |
+| STR       |   0   |       | RFX             |   1   |       | INT               |   1   |       |
+| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
+| Athletics |   0   |  3d6  | Acrobatics      |   0   |  4d6  | Communication     |   0   |  4d6  |
+| Climb     |   0   |  3d6  | Perception      |   0   |  4d6  | General Knowledge |   1   |  5d6  |
+| Endurance |   0   |  3d6  | Sleight of Hand |   0   |  4d6  | Survival          |   0   |  4d6  |
+| Lift      |   0   |  3d6  | Stealth         |   0   |  4d6  | Will              |   1   |  5d6  |
 
 ## Vocations and Vocational Skills
 
-| Runesmith {RFX, INT}        | 2 | 7d6 |
-| --------------------------- | :-: | :-: |
-| Electricity Rune {RFX, INT} | 1 | 6d6 |
-| Mind Rune {RFX, INT}       | 1 | 6d6 |
-| Space Rune {RFX, INT}       | 1 | 6d6 |
-| Light Rune {RFX, INT}       | -1 | 4d6 |
+| Runesmith {RFX, INT}        |   2   |  7d6  |
+| --------------------------- | :---: | :---: |
+| Electricity Rune {RFX, INT} |   1   |  6d6  |
+| Mind Rune {RFX, INT}        |   1   |  6d6  |
+| Space Rune {RFX, INT}       |   1   |  6d6  |
+| Light Rune {RFX, INT}       |  -1   |  4d6  |
 
 ## Effects
 
-|          Name          |             Effect             | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                0                |          |                                                        Armor                                                        |
-|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
-|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
-|    Language: Pirish    |       Can speak Pirish.       |          |                                                                                                                    |
-| Language: Tunnel Tongue |                                |          |                                                                                                                    |
-|    Inventory Weight    |              0 lb              |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |              30 ft              |          |                                50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                |
-|   Humanoid Swim Speed   |              15 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |              15 ft              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|          Name           |             Effect              | Duration |                                                      Source                                                      |
+| :---------------------: | :-----------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
+| Physical Defense Level  |                0                |          |                                                      Armor                                                       |
+|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                  |
+|   Language: Babelish    |       Can speak Babelish.       |          |                                                                                                                  |
+|    Language: Pirish     |        Can speak Pirish.        |          |                                                                                                                  |
+| Language: Tunnel Tongue |                                 |          |                                                                                                                  |
+|    Inventory Weight     |              0 lb               |          |                                                    Equipment                                                     |
+|  Humanoid Carry Weight  |             120 lb              |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|      Light Weight       | -0d6 to STR/RFX governed skills |          |                                             0% - 25% of carry weight                                             |
+| Humanoid Movement Speed |              30 ft              |          |                              50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                               |
+|   Humanoid Swim Speed   |              15 ft              |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                             |
+|  Humanoid Climb Speed   |              15 ft              |          |                               15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                               |
 
 ## Combat Rolls
 
-|                                       Name                                       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|    Electricity Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)    |       7d6       |                |                  |      0      | Melee |     Electric     |           Rapid           |                    |        None        |
-|        Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)        |       7d6       |                |                  |      0      | Close |     Electric     |         Standard         |                    |        None        |
-|        Electricity Rune -[Melee](./../../Magic/Spells/Novice/MeleeMagic.md)        |       8d6       |                |                  |      2      | Melee |     Electric     |           Rapid           |                    |      1 (Focus)      |
-|       Electricity Rune -[Ranged](./../../Magic/Spells/Novice/RangedMagic.md)       |       8d6       |                |                  |      1      | Close |     Electric     |         Standard         |                    |      1 (Focus)      |
-|       Electricity Rune -[Cone](./../../Magic/Spells/Apprentice/ConeMagic.md)       |       8d6       |                |                  |      2      | Close |     Electric     |          Focused          |        Cone        |      1 (Focus)      |
-| Electricity Rune -[Reach Melee](./../../Magic/Spells/Apprentice/ReachMeleeMagic.md) |       8d6       |                |                  |      2      | Reach |     Electric     |           Rapid           |                    |      1 (Focus)      |
-|                                                                                  |                |                |                  |            |      |                  |                          |                    |                    |
-|       Mind Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)       |       7d6       |                |                  |      0      | Melee |      Psychic      |           Rapid           |                    |        None        |
-|        Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)        |       7d6       |                |                  |      0      | Close |      Psychic      |         Standard         |                    |        None        |
-|            Mind Rune -[Melee](./../../Magic/Spells/Novice/MeleeMagic.md)            |       8d6       |                |                  |      2      | Melee |      Psychic      |           Rapid           |                    |      1 (Focus)      |
-|           Mind Rune -[Ranged](./../../Magic/Spells/Novice/RangedMagic.md)           |       8d6       |                |                  |      1      | Close |      Psychic      |         Standard         |                    |      1 (Focus)      |
-|           Mind Rune -[Cone](./../../Magic/Spells/Apprentice/ConeMagic.md)           |       8d6       |                |                  |      2      | Close |      Psychic      |          Focused          |        Cone        |      1 (Focus)      |
-|    Mind Rune -[Reach Melee](./../../Magic/Spells/Apprentice/ReachMeleeMagic.md)    |       8d6       |                |                  |      2      | Reach |      Psychic      |           Rapid           |                    |      1 (Focus)      |
-|                                                                                  |                |                |                  |            |      |                  |                          |                    |                    |
-|       Space Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)       |       7d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|        Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)        |       7d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
-|           Space Rune -[Melee](./../../Magic/Spells/Novice/MeleeMagic.md)           |       8d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |      1 (Focus)      |
-|          Space Rune -[Ranged](./../../Magic/Spells/Novice/RangedMagic.md)          |       8d6       |                |                  |      1      | Close |                  |         Standard         |                    |      1 (Focus)      |
-|          Space Rune -[Cone](./../../Magic/Spells/Apprentice/ConeMagic.md)          |       8d6       |                |                  |      2      | Close |                  |          Focused          |        Cone        |      1 (Focus)      |
-|    Space Rune -[Reach Melee](./../../Magic/Spells/Apprentice/ReachMeleeMagic.md)    |       8d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |      1 (Focus)      |
-|                                                                                  |                |                |                  |            |      |                  |                          |                    |                    |
-|       Space Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)       |       5d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|        Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)        |       5d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
+|                                        Name                                         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|    Electricity Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)    |       7d6       |                 |                   |      0      |  Melee   |     Electric      |           Rapid           |                     |        None         |
+|         Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)         |       7d6       |                 |                   |      0      |  Medium  |     Electric      |         Standard          |                     |        None         |
+|        Electricity Rune -[Melee](./../../Magic/Spells/Novice/MeleeMagic.md)         |       8d6       |                 |                   |      2      |  Melee   |     Electric      |           Rapid           |                     |      1 (Focus)      |
+|       Electricity Rune -[Ranged](./../../Magic/Spells/Novice/RangedMagic.md)        |       8d6       |                 |                   |      1      | Extended |     Electric      |         Standard          |                     |      1 (Focus)      |
+|       Electricity Rune -[Cone](./../../Magic/Spells/Apprentice/ConeMagic.md)        |       8d6       |                 |                   |      2      | Extended |     Electric      |          Focused          |        Cone         |      1 (Focus)      |
+| Electricity Rune -[Reach Melee](./../../Magic/Spells/Apprentice/ReachMeleeMagic.md) |       8d6       |                 |                   |      2      |  Reach   |     Electric      |           Rapid           |                     |      1 (Focus)      |
+|                                                                                     |                 |                 |                   |             |          |                   |                           |                     |                     |
+|       Mind Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)        |       7d6       |                 |                   |      0      |  Melee   |      Psychic      |           Rapid           |                     |        None         |
+|         Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)         |       7d6       |                 |                   |      0      |  Medium  |      Psychic      |         Standard          |                     |        None         |
+|            Mind Rune -[Melee](./../../Magic/Spells/Novice/MeleeMagic.md)            |       8d6       |                 |                   |      2      |  Melee   |      Psychic      |           Rapid           |                     |      1 (Focus)      |
+|           Mind Rune -[Ranged](./../../Magic/Spells/Novice/RangedMagic.md)           |       8d6       |                 |                   |      1      | Extended |      Psychic      |         Standard          |                     |      1 (Focus)      |
+|           Mind Rune -[Cone](./../../Magic/Spells/Apprentice/ConeMagic.md)           |       8d6       |                 |                   |      2      | Extended |      Psychic      |          Focused          |        Cone         |      1 (Focus)      |
+|    Mind Rune -[Reach Melee](./../../Magic/Spells/Apprentice/ReachMeleeMagic.md)     |       8d6       |                 |                   |      2      |  Reach   |      Psychic      |           Rapid           |                     |      1 (Focus)      |
+|                                                                                     |                 |                 |                   |             |          |                   |                           |                     |                     |
+|       Space Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)       |       7d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
+|      Space Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)      |       7d6       |                 |                   |      0      |  Medium  |                   |         Standard          |                     |        None         |
+|           Space Rune -[Melee](./../../Magic/Spells/Novice/MeleeMagic.md)            |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Focus)      |
+|          Space Rune -[Ranged](./../../Magic/Spells/Novice/RangedMagic.md)           |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Focus)      |
+|          Space Rune -[Cone](./../../Magic/Spells/Apprentice/ConeMagic.md)           |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Focus)      |
+|    Space Rune -[Reach Melee](./../../Magic/Spells/Apprentice/ReachMeleeMagic.md)    |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Focus)      |
+|                                                                                     |                 |                 |                   |             |          |                   |                           |                     |                     |
+|       Space Rune -[Melee Trick](./../../Magic/Spells/Cantrip/MeleeCantrip.md)       |       5d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
+|         Rune -[Ranged Trick](./../../Magic/Spells/Cantrip/RangedCantrip.md)         |       5d6       |                 |                   |      0      |  Close   |                   |         Standard          |                     |        None         |
 
 ## Focus: 7/7
 
 ## Equipment
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
+| Name |   #   | Class | Effect | Tier  | Durability |  LB   | Value |
+| ---- | :---: | :---: | ------ | :---: | :--------: | :---: | :---: |
 
 ## Containers
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
-|      |  |      |        |      |            |    |      |
+| Name |   #   | Class | Effect | Tier  | Durability |  LB   | Value |
+| ---- | :---: | :---: | ------ | :---: | :--------: | :---: | :---: |
+|      |       |       |        |       |            |       |       |
 
 ## Notes
 
