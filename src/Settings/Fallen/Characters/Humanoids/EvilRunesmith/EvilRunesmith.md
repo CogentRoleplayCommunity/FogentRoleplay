@@ -18,6 +18,7 @@
 | Electricity Rune {RFX, INT} | 1 | 6d6 |
 | Mind Rune {RFX, INT}       | 1 | 6d6 |
 | Space Rune {RFX, INT}       | 1 | 6d6 |
+| Gravity Rune {RFX, INT}     | 1 | 6d6 |
 | Light Rune {RFX, INT}       | -1 | 4d6 |
 
 ## Effects
@@ -63,6 +64,14 @@
 |    Space Rune_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md)    |       8d6       |                |                  |      2      | Extended |                  |          Focused          |                    |      1 (Focus)      |
 |                 Space Rune_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)                 |       8d6       |                |                  |      2      | Extended |                  |          Focused          |        Cone        |      1 (Focus)      |
 |           Space Rune_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)           |       8d6       |                |                  |      2      |  Reach  |                  |           Rapid           |                    |      1 (Focus)      |
+|                                                                                                                            |                |                |                  |            |          |                  |                          |                    |                    |
+|               Gravity Rune_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)               |       7d6       |                |                  |      0      |  Melee  |     Bludgeon     |           Rapid           |                    |        None        |
+|              Gravity Rune_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)              |       7d6       |                |                  |      0      |  Medium  |     Bludgeon     |         Standard         |                    |        None        |
+|                 Gravity Rune_[Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)                 |       8d6       |                |                  |      2      |  Melee  |     Bludgeon     |           Rapid           |                    |      1 (Focus)      |
+|             Gravity Rune_[Quick Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)             |       8d6       |                |                  |      1      | Extended |     Bludgeon     |           Quick           |                    |      1 (Focus)      |
+|   Gravity Rune_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md)   |       8d6       |                |                  |      2      | Extended |     Bludgeon     |          Focused          |                    |      1 (Focus)      |
+|                Gravity Rune_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)                |       8d6       |                |                  |      2      | Extended |     Bludgeon     |          Focused          |        Cone        |      1 (Focus)      |
+|          Gravity Rune_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)          |       8d6       |                |                  |      2      |  Reach  |     Bludgeon     |           Rapid           |                    |      1 (Focus)      |
 |                                                                                                                            |                |                |                  |            |          |                  |                          |                    |                    |
 |                Light Rune_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)                |       5d6       |                |                  |      0      |  Melee  |      Radiant      |           Rapid           |                    |        None        |
 |               Light Rune_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)               |       5d6       |                |                  |      0      |  Close  |      Radiant      |         Standard         |                    |        None        |
