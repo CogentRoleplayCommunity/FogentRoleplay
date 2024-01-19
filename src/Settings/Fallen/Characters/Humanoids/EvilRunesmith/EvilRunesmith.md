@@ -64,8 +64,8 @@
 |                 Space Rune_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)                 |       8d6       |                |                  |      2      | Extended |                  |          Focused          |        Cone        |      1 (Focus)      |
 |           Space Rune_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)           |       8d6       |                |                  |      2      |  Reach  |                  |           Rapid           |                    |      1 (Focus)      |
 |                                                                                                                            |                |                |                  |            |          |                  |                          |                    |                    |
-|                Light Rune_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)                |       5d6       |                |                  |      0      |  Melee  |                  |           Rapid           |                    |        None        |
-|               Light Rune_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)               |       5d6       |                |                  |      0      |  Close  |                  |         Standard         |                    |        None        |
+|                Light Rune_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)                |       5d6       |                |                  |      0      |  Melee  |      Radiant      |           Rapid           |                    |        None        |
+|               Light Rune_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)               |       5d6       |                |                  |      0      |  Close  |      Radiant      |         Standard         |                    |        None        |
 
 ## Focus: 7/7
 
