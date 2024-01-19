@@ -1,4 +1,4 @@
-# Ranged Magic
+# Quick Ranged Magic
 
 ## Info
 
@@ -12,7 +12,7 @@
 |      3      | Sharpshooter |
 |      4      |   Extreme   |
 
-**Engageable Opponents:** Standard
+**Engageable Opponents:** Quick
 
 **Penetration:** 1
 

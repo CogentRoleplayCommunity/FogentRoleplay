@@ -153,7 +153,7 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 
 Magic Spells are define how you can use your magic.
 
-To encourage player creativity [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md), [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md), [Melee Magic](Spells/Novice/MeleeMagic.md), [Ranged Magic](Spells/Novice/RangedMagic.md), [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md), [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md), [Cone Magic](Spells/Apprentice/ConeMagic.md), and [Sphere Magic](Spells/Adept/SphereMagic.md) are intentionally left open ended. This spells are really only limited by the character's stats and their own creativity. For instance, there is no need for a Fire Ball spell as Sphere Magic covers it easily.
+To encourage player creativity [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md), [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md), [Melee Magic](Spells/Novice/MeleeMagic.md), [Quick Ranged Magic](Spells/Novice/QuickRangedMagic.md), [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md), [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md), [Cone Magic](Spells/Apprentice/ConeMagic.md), and [Sphere Magic](Spells/Adept/SphereMagic.md) are intentionally left open ended. This spells are really only limited by the character's stats and their own creativity. For instance, there is no need for a Fire Ball spell as Sphere Magic covers it easily.
 
 Each spell has magic skill requirements in order to perform. You must satisfy these requirements in order to perform the spell.
 
@@ -183,7 +183,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 - [Oil Spill](Spells/Novice/OilSpill.md)
 - [Physical Protection](Spells/Novice/PhysicalProtection.md)
 - [Primal Kinship](Spells/Novice/PrimalKinship.md)
-- [Ranged Magic](Spells/Novice/RangedMagic.md)
+- [Quick Ranged Magic](Spells/Novice/QuickRangedMagic.md)
 - [Slow Fall](Spells/Novice/SlowFall.md)
 
 ### Apprentice Spells
