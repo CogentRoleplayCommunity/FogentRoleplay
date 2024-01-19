@@ -4,7 +4,16 @@ A short ranged minor spell, which has such a small effect it requires no magic r
 
 Use of ranged cantrips in combat is genrally only reserved for dealing with minor threats to save magic resource or as a desperate last resort after all magic resources are depleted.
 
-**Range:** Short
+**Range:**
+
+| Skill Level |    Range    |
+| :---------: | :----------: |
+|     -1     |    Close    |
+|      0      |    Short    |
+|      1      |    Medium    |
+|      2      |   Extended   |
+|      3      |     Long     |
+|      4      | Sharpshooter |
 
 **Engageable Opponents:**  Focused
 
