@@ -45,19 +45,20 @@ Silver Plating, while highly effective, is still soft and is easily tarnished. A
 
 ### Unique Weapons
 
-- [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
 - [Adversary - Damaged](UniqueWeapons/Adversary-Damaged/Adversary-Damaged.md)
 - [Asclepius](UniqueWeapons/Asclepius/Asclepius.md)
 - [Asher&#39;s Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
 - [Char](UniqueWeapons/Char/Char.md)
 - [Dancing Moonlight](UniqueWeapons/DancingMoonlight/DancingMoonlight.md)
-- [The Spear of Destiny](UniqueWeapons/TheSpearOfDestiny/TheSpearOfDestiny.md)
+- [Echo](UniqueWeapons/Echo/Echo.md)
+- [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
+- [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)
 - [Hew](UniqueWeapons/Hew/Hew.md)
 - [Monkey Staff](UniqueWeapons/MonkeyStaff/MonkeyStaff.md)
-- [Talon - Replica](UniqueWeapons/Talon-Replica/Talon-Replica.md)
-- [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)
 - [Sirius&#39;s Sword](UniqueWeapons/Siruis'sSword/Siruis'sSword.md)
-- [Echo](UniqueWeapons/Echo/Echo.md)
+- [Staff of Defense](UniqueWeapons/StaffOfDefense/StaffOfDefense.md)
+- [Talon - Replica](UniqueWeapons/Talon-Replica/Talon-Replica.md)
+- [The Spear of Destiny](UniqueWeapons/TheSpearOfDestiny/TheSpearOfDestiny.md)
 
 ### Unique Armor
 
