@@ -71,12 +71,11 @@ This level of proficiency with magic might be a fun party trick or for convenien
 
 | Magic Vocation Level | Magic Vocational Skills known |
 | -------------------- | ----------------------------- |
-| -1                   | 1                             |
-| 0                    | 2                             |
+| 0                    | 1                             |
 | 1                    | 3                             |
-| 2                    | 4                             |
-| 3                    | 5                             |
-| 4                    | 6                             |
+| 2                    | 5                             |
+| 3                    | 7                             |
+| 4                    | 9                             |
 
 ## Governing Core Skill
 
