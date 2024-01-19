@@ -22,4 +22,4 @@ Thoughts can be used to absorb Fellblood. The victim must not be resisting. This
 
 #### Mental Resistance
 
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
+By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellweave. This effect has a duration of 1 hour.

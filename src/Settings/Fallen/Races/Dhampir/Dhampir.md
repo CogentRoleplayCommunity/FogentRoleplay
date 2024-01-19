@@ -27,7 +27,7 @@ Reddland has become a powerful political player as during the Spore pandemic tha
 
 3000 - 5000 years
 
-## Fellcraft Predisposition
+## Fellweave Predisposition
 
 - Hemacraft
 - Polycraft

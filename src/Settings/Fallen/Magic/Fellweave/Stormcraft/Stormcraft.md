@@ -8,9 +8,9 @@ Stormcraft users can narratively attempt the following:
 - Manipulate storms.
 - Control the weather
 
-#### Fellcraft Combination: Stormcraft
+#### Fellweave Combination: Stormcraft
 
-This Fellcraft can only be accessed by users with a specialization in Galecraft, Hydrocraft, and Electrocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+This Fellweave can only be accessed by users with a specialization in Galecraft, Hydrocraft, and Electrocraft. The lowest dice total of the required Fellweave will be used for this Fellweave.
 
 #### Specialization: The Storm Dragon
 

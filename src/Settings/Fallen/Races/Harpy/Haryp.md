@@ -18,7 +18,7 @@ From an early age, Harpies begin mastering the use of Galecraft, as flight is a 
 - Bird like feet
 - Bird talon like hands
 
-## Fellcraft Predispositions
+## Fellweave Predispositions
 
 - Galecraft
 - Polycraft

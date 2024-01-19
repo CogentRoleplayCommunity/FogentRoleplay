@@ -13,7 +13,7 @@ This document provides generalized framework for magic system mechanics for any 
 
 Fallen's pre-made magic systems are great examples of how to make your own system on this framework. Once the framework is understood, all three of Fallen's magic systems are quite easy to understand, acting as roleplay considerations or flavor.
 
-- [Fellcraft](./../Settings/Fallen/Magic/Fellcraft/Fellcraft.md)
+- [Fellweave](./../Settings/Fallen/Magic/Fellweave/Fellweave.md)
 - [Miracles](./../Settings/Fallen/Magic/Miracles/Miracles.md)
 - [Runecraft](./../Settings/Fallen/Magic/Runecraft/Runecraft.md)
 
@@ -82,7 +82,7 @@ This level of proficiency with magic might be a fun party trick or for convenien
 
 A governing core skill is used for instances when a character over exerts themselves with their magic too far, is trying to rapidly regain Magic Resource, or maintain a concentration on already cast magic.
 
-* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellcraft) use Endurance as their governing core skill.
+* Magic that rely on the body to produce Magic Resource (such as Fallen's Fellweave) use Endurance as their governing core skill.
 * Magic that relies on the mind or spirit to produce Magic Resource (such as Fallen's Runecraft or Miracles) use Will as their governing core skill.
 * Magic that relies upon a belief in a divine higher power might use Will as their governing core skill.
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together.

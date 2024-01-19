@@ -9,11 +9,11 @@ Plasmacraft users can narratively attempt the following:
 - Create solar flare-like attacks.
 - Emulate properties of solar energy.
 
-Plasmacraft is the domain of true masters of Fellcraft. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Miracles.
+Plasmacraft is the domain of true masters of Fellweave. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Miracles.
 
-#### Fellcraft Combination: Plasmacraft
+#### Fellweave Combination: Plasmacraft
 
-This Fellcraft can only be accessed by users with a specialization in Blazecraft and Galecraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+This Fellweave can only be accessed by users with a specialization in Blazecraft and Galecraft. The lowest dice total of the required Fellweave will be used for this Fellweave.
 
 #### Specialization: The Ancient Dragon
 

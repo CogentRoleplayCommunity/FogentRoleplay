@@ -9,9 +9,9 @@ Magmacraft users can narratively attempt the following:
 - Melt rock.
 - Influence tectonic plates
 
-#### Fellcraft Combination: Magmacraft
+#### Fellweave Combination: Magmacraft
 
-This Fellcraft can only be accessed by users with a specialization in Blazecraft and Terracraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+This Fellweave can only be accessed by users with a specialization in Blazecraft and Terracraft. The lowest dice total of the required Fellweave will be used for this Fellweave.
 
 #### Specialization: The Magma Dragon
 
