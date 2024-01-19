@@ -22,6 +22,6 @@ Mudbloods make up a large percentage of the population of Terra. Due to their im
 
 50 - 100 years
 
-## Fellweave Predispositions
+## Fellcraft Predispositions
 
 - None

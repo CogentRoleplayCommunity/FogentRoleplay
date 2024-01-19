@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 2 | 6d6 | Fellweaver {ALL} | 0  | 4d6 |
+| Monk {RFX}         | 2 | 6d6 | Fellcaster {ALL} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
 | Large Hafted {ALL} | 2 | 6d6 | Polycraft {ALL}  | -1 | 3d6 |
 

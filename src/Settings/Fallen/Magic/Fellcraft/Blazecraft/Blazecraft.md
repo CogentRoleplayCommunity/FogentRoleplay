@@ -8,7 +8,7 @@ Blazecraft users can narratively attempt the following:
 - Resist fire and heat.
 - Raise core body heat to resist disease and hypothermia.
 
-Blazecraft is one of the most common Fellweave learned, owing to its utility and combat effectiveness. It allows the user to create and manipulate fire. While all expressions of Blazecraft come from the same root gene, the most widely taught and used is derived from the Phoenix immolation or Dragonfire.
+Blazecraft is one of the most common Fellcraft learned, owing to its utility and combat effectiveness. It allows the user to create and manipulate fire. While all expressions of Blazecraft come from the same root gene, the most widely taught and used is derived from the Phoenix immolation or Dragonfire.
 
 #### Specialization: The Fire Dragon
 
@@ -22,4 +22,4 @@ Fire and heat can be used to absorb Fellblood. This can be done with large fires
 
 #### [Unfinished] Specialization: The Phoenix
 
-Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire, a process similar to the Silverburn reaction. Phoenix solved this issue by evolving ways to channel magic into regenerating flesh as fast as they burn it. This produces an immense amount of heat and flame, though it is quite taxing on the user. That being said this isn't a safe process, and can end up backfiring on new users of this Fellweave.
+Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire, a process similar to the Silverburn reaction. Phoenix solved this issue by evolving ways to channel magic into regenerating flesh as fast as they burn it. This produces an immense amount of heat and flame, though it is quite taxing on the user. That being said this isn't a safe process, and can end up backfiring on new users of this Fellcraft.

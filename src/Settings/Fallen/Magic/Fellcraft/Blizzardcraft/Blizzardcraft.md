@@ -7,9 +7,9 @@ Blizzardcraft users can narratively attempt the following:
 - Create blizzards.
 - Manipulate blizzards.
 
-#### Fellweave Combination: Blizzardcraft
+#### Fellcraft Combination: Blizzardcraft
 
-This Fellweave can only be accessed by users with a specialization in Galecraft and Cryocraft. The lowest dice total of the required Fellweave will be used for this Fellweave.
+This Fellcraft can only be accessed by users with a specialization in Galecraft and Cryocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
 #### Specialization: The Blizzard Dragon
 

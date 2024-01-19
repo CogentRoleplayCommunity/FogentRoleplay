@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Warrior {ALL}     |   2   |  6d6  | Fellweaver {ALL}   | 2   | 6d6 |
+| Warrior {ALL}     |   2   |  6d6  | Fellcaster {ALL}   | 2   | 6d6 |
 | ----------------- | :---: | :---: | --------------- | --- | --- |
 | Large Sword {ALL} |   2   |  6d6  | Polycraft {ALL} | 2   | 6d6 |
 

@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Fellweaver {ALL}   |   3   |  8d6  | Royal Morraki {INT} | 0   | 5d6 |
+| Fellcaster {ALL}   |   3   |  8d6  | Royal Morraki {INT} | 0   | 5d6 |
 | --------------- | :---: | :---: | ------------------- | --- | --- |
 | Mindcraft {ALL} |   3   |  8d6  | Medium Hafted       | 0   | 5d6 |
 | Sonocraft {ALL} |   3   |  8d6  |                     |     |     |

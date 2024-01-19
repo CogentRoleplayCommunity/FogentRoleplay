@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Fellweaver {ALL}    |   2   |  6d6  |
+| Fellcaster {ALL}    |   2   |  6d6  |
 | ---------------- | :---: | :---: |
 | Blazecraft {ALL} |   2   |  6d6  |
 | Mindcraft {ALL}  |   2   |  6d6  |

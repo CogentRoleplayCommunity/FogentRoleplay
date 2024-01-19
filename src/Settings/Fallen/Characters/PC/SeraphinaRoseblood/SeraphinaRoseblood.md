@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Noble {ALL}        | 0 | 4d6 | Fellweaver {RFX}   | 2  | 6d6 |
+| Noble {ALL}        | 0 | 4d6 | Fellcaster {RFX}   | 2  | 6d6 |
 | ------------------ | :-: | :-: | ------------------ | -- | --- |
 | Short Spear {ALL} | 0 | 4d6 | Hydrocraft {ALL}   | 2  | 6d6 |
 |                    |  |    | Polycraft {ALL}    | -1 | 3d6 |

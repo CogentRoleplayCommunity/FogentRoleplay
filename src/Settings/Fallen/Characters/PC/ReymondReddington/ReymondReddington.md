@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Fellweaver {ALL}   |   2   |  6d6  | Entrepreneur {INT} | 1   | 5d6 |
+| Fellcaster {ALL}   |   2   |  6d6  | Entrepreneur {INT} | 1   | 5d6 |
 | --------------- | :---: | :---: | ------------------ | --- | --- |
 | Sonocraft {ALL} |   2   |  6d6  |                    |     |     |
 

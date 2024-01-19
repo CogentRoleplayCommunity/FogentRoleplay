@@ -25,7 +25,7 @@ The Isles of Crest are mainly inhabited by canine beastkin. They are a tribal pe
 
 150 - 200 years
 
-## Fellweave Predispositions
+## Fellcraft Predispositions
 
 - Polycraft
 - Sonocraft

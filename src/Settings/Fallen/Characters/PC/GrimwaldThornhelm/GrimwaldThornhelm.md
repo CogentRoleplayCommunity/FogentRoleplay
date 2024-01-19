@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Knight {STR}      |   2   |  6d6  | Fellweaver {ALL} | 0   | 4d6 |
+| Knight {STR}      |   2   |  6d6  | Fellcaster {ALL} | 0   | 4d6 |
 | ----------------- | :---: | :---: | ------------- | --- | --- |
 | Large Sword {ALL} |   2   |  6d6  | Polycraft     | -1  | 3d6 |
 

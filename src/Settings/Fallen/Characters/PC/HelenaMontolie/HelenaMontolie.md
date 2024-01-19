@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Student {INT}      |   1   |  5d6  | Fellweaver {ALL} | 0   | 4d6 |
+| Student {INT}      |   1   |  5d6  | Fellcaster {ALL} | 0   | 4d6 |
 | ------------------ | :---: | :---: | ------------- | --- | --- |
 | Homesteading {INT} |   1   |  5d6  | Hemacraft     | 0   | 4d6 |
 | Performance {INT}  |   1   |  5d6  |               |     |     |

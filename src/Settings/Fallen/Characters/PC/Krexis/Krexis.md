@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Fighter {STR}       |   2   |  6d6  | Fellweaver {ALL}   | 1   | 5d6 |
+| Fighter {STR}       |   2   |  6d6  | Fellcaster {ALL}   | 1   | 5d6 |
 | ------------------- | :---: | :---: | --------------- | --- | --- |
 | Medium Hafted {ALL} |   2   |  6d6  | Soulcraft {ALL} | 1   | 5d6 |
 

@@ -33,7 +33,7 @@ Many Dragonkin worship the Great Leviathan, as it is said that all dragons came 
 
 Dragonkin, much like Brightkin, appear to have an indefinite lifespan. This appears to be related to the scales across their bodies as upon their removal they begin to age and eventually perish.
 
-## Fellweave Predispositions
+## Fellcraft Predispositions
 
 - Sonocraft
 - Polycraft

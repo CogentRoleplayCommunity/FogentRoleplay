@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Detective {INT}    |   1   |  5d6  | Fellweaver {ALL} | 2   | 6d6 |
+| Detective {INT}    |   1   |  5d6  | Fellcaster {ALL} | 2   | 6d6 |
 | ------------------ | :---: | :---: | ------------- | --- | --- |
 | Medium Sword {ALL} |   0   |  4d6  | Polycraft     | 2   | 6d6 |
 

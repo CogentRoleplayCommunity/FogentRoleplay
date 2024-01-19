@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Smith {STR}         |   1   |  5d6  | Fellweaver {ALL}    | 0   |     |
+| Smith {STR}         |   1   |  5d6  | Fellcaster {ALL}    | 0   |     |
 | ------------------- | :---: | :---: | ---------------- | --- | --- |
 | Medium Hafted {ALL} |   1   |  5d6  | Ferracraft {ALL} | 0   | 4d6 |
 | Unarmed {ALL}       |   1   |  5d6  |                  |     |     |
@@ -54,7 +54,7 @@
 
 ### Fellblood: 1/1
 
-### Fellweaves known:
+### Fellcrafts known:
 
 ## Equipment:
 

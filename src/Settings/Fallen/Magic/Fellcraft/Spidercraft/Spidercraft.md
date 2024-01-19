@@ -18,9 +18,9 @@ Webs cannot inflict damage. Instead follow the table below.
 | Supreme Binding (Lvl 4 Victory) | Target is incapacitated within the binding                                           |
 | Fatal Binding (Lvl 5 Victory)   | Target is incapacitated withing binding and begins to suffocate.                     |
 
-#### Fellweave Combination
+#### Fellcraft Combination
 
-This Fellweave can only be accessed by users with a specialization in Polycraft and Toxicant. The lowest dice total of the required Fellweave will be used for this Fellweave.
+This Fellcraft can only be accessed by users with a specialization in Polycraft and Toxicant. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
 
 #### Specialization: The Giant Spider
 

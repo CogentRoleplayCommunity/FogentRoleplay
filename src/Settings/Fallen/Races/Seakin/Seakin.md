@@ -25,7 +25,7 @@ Sirens worship different gods than the pantheon of the Brights, though they shar
 
 150 - 200 years
 
-## Fellweave Predispositions
+## Fellcraft Predispositions
 
 - Polycraft
 - Hydrocraft

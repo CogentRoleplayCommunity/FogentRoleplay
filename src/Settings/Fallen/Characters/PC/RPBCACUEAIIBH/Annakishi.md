@@ -8,7 +8,7 @@
 
 A) Her having a very intense royal training and whole hartedly taking advantage of that before even starting her advanture, doesn't make sense at Initiate tier. She's bred and trained Kiki royalty just like Fanacrio but trained to become a queen (slightly different purpose in the hive), and she is about the same age, not an untrained worker having to find out everthing on her own. She is not a rebel either, she didn't ran away so she would lack training. She is completely in line with the hive's goals, and at the end of her training she had to make a choice to stay and compete with physically larger and stronger peers, whom she couldn't reliably subdue with her magic no matter how hard she tried or leave peacefully and build her own empire. She simply chose the peaceful departure when she felt that she was becoming a drain on the hive's resources. Therefore making her magically any less capable then Fanacrio, doesn't make any sense to me. The hive wouldn't let her go without giving her the training, weapon, and food she can carry to survive and build a new hive. (It's basic hive minded behavior: survival of the hive comes first, survival of the species second, both of which are valid honorable goals that the hive spends resources on.)
 
-B) Her story doens't make sense at Initiate tier with each Fellweave starting at -1, even if I spent all her skill points on it (which I shouldn't cause her having been trained suggests that she has at least has basic survial abilities and potentially other physical skills too), she just wouldn be able to get far, compelling common people to give her resoucres or help her out as her story says with Initiate tier.
+B) Her story doens't make sense at Initiate tier with each Fellcraft starting at -1, even if I spent all her skill points on it (which I shouldn't cause her having been trained suggests that she has at least has basic survial abilities and potentially other physical skills too), she just wouldn be able to get far, compelling common people to give her resoucres or help her out as her story says with Initiate tier.
 
 - I'm happy to play an Initiate tier character if it make sense, but I'm not thrilled to play a character who's story doesn't make sense at any tier (I just can't get into character.), which is why I don't roll for disabling characteristics and spend 2 days thinking on it. Nor do I wanna spend extra few days to come up with another killer character idea just to fit in with other initiate tier characters, right now. Spending points is easy, creating another interesing character isn't(at least not for me). At worst I will patiently wait for an open spot on a team of adept characters. (I'm not in a rush, I have my own game and other open source projects to develop while I'm waiting, and I can still enjoy watching others play as I did for years. So no pressure.)
 - As an afterthought: I thing it would be a good idea to test whether I like playing the game with a character that can actually do something impressive, in maybe a few sessions before I fully commit to a potentially long series starting with an Initiate tier character. I don't wanna potentially ruin the game for others by abruptly leaving in case I don't like it. Her goal is to settle, so finding her nesting place is a graceful way to retire her.
@@ -24,7 +24,7 @@ B) Her story doens't make sense at Initiate tier with each Fellweave starting at
 
 ## Vocations and Vocational Skills
 
-| Fellweaver {ALL} | 3 | 8d6 | Queen alate {ALL} | 1 | 6d6 |
+| Fellcaster {ALL} | 3 | 8d6 | Queen alate {ALL} | 1 | 6d6 |
 | :--------------: | :-: | :-: | ----------------- | :-: | --- |
 | Mindcraft {ALL} | 3 | 8d6 | Large Hafted      | 1 | 6d6 |
 | Polycraft {ALL} | 1 | 6d6 | Small Bladed      | 0 | 5d6 |
@@ -63,7 +63,7 @@ B) Her story doens't make sense at Initiate tier with each Fellweave starting at
 |  Small Thrusting Point  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 |  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
-***Fellweave Melee***
+***Fellcraft Melee***
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -84,7 +84,7 @@ B) Her story doens't make sense at Initiate tier with each Fellweave starting at
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Thrown Small Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 
-***Fellweave Ranged***
+***Fellcraft Ranged***
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -179,7 +179,7 @@ Just like a Morraki queen should be. ;)
 She is a young queen alate (with no servants yet), from a Morraki hive. She is less experienced, and not as tough as she thinks she is. ;) (Her perception of her abilities and future is inflated by Mirage)
 
 She was the shortest and physically weakest among her rivals for the throne so she left the hive willingly to establish her own hive. As customary, she was expected to survice on her own and would never be allowed to return. She was sent out with the blessing of the current queen, a short staff weapon she was trained with, and can also use as a walking aid, as well as basic survival equipment, and food she could cary.
-She's not entirely helpless though, her physical inferiority forced her to become adept at her Fellweave, which she uses frequently and shamelessly to her advantage.
+She's not entirely helpless though, her physical inferiority forced her to become adept at her Fellcraft, which she uses frequently and shamelessly to her advantage.
 
 She also has a silver degger that she keeps hidden even from her team. That is her secret weapon, which she may use it in mortal danger. (She stole that from her own hive, knowing that once she left, she can not return, and any sane queen would take the opportunity to do the same.)
 
