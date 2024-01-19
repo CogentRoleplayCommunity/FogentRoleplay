@@ -84,6 +84,7 @@
 
 ### Spells Know
 
+- [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md)
 - [Short Teleport](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ShortTeleport.md)
 - [Restrain Person](./../../../../../CoreRules/MagicRules/Spells/Apprentice/RestrainPerson.md)
 
