@@ -163,6 +163,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 - [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md)
 - [Minor Mirage](Spells/Cantrip/MinorMirage.md)
 - [Night Vision](Spells/Cantrip/NightVision.md)
+- [Phantom Appendage](Spells/Cantrip/PhantomAppendage.md)
 - [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md)
 - [Thunder Blade](Spells/Cantrip/ThunderBlade.md)
 - [Wounding Words](Spells/Cantrip/WoundingWords.md)
