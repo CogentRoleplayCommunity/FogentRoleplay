@@ -4,68 +4,68 @@
 
 ## Attributes and Core Skills
 
-| STR       |  -1   |       | RFX             |   0   |       | INT               |   1   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   0   |  2d6  | Acrobatics      |   0   |  3d6  | Communication     |   0   |  4d6  |
-| Climb     |   0   |  2d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  6d6  |
-| Endurance |   0   |  2d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  4d6  |
-| Lift      |   0   |  2d6  | Stealth         |   0   |  3d6  | Will         |   2   |  6d6  |
+| STR       | -1 |    | RFX             | 0 |    | INT               | 1 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 0 | 2d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 4d6 |
+| Climb     | 0 | 2d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 6d6 |
+| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Lift      | 0 | 2d6 | Stealth         | 0 | 3d6 | Will              | 2 | 6d6 |
 
 ## Vocations and Vocational Skills
 
-| Runesmith {INT}     |   2   |  6d6  | Fellweaver {ALL}   | 0   | 2d6 |
-| ------------------- | :---: | :---: | --------------- | --- | --- |
-| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {ALL} | -1  | 2d6 |
-| Rune of Earth {INT} |   0   |  4d6  |                 |     |     |
-| Rune of Air {INT}   |   0   |  4d6  |                 |     |     |
-| Rune of Water {INT} |   0   |  4d6  |                 |     |     |
+| Runesmith {INT}     | 2 | 6d6 | Fellweaver {ALL} | 0  | 2d6 |
+| ------------------- | :-: | :-: | ---------------- | -- | --- |
+| Rune of Fire {INT} | 1 | 4d6 | Hemacraft {ALL}  | -1 | 2d6 |
+| Rune of Earth {INT} | 0 | 4d6 |                  |    |     |
+| Rune of Air {INT}   | 0 | 4d6 |                  |    |     |
+| Rune of Water {INT} | 0 | 4d6 |                  |    |     |
 
 ## Effects:
 
-|          Name           |                            Effect                             | Duration |                                                                  Source                                                                  |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
-| Physical Defense Level  |                               0                               |          |                                                                  Armor                                                                   |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
-|   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                                          |
-|    Language: Pirish     |                       Can speak Pirish.                       |          |                                                                                                                                          |
-|    Disabling: Feeble    |                            -1 STR                             |          |                                                                                                                                          |
-|    Inventory Weight     |                            16.5 lb                            |          |                                                                Equipment                                                                 |
+|          Name          |                            Effect                            | Duration |                                                       Source                                                       |
+| :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                    Fellkin blood                                                    |
+| Physical Defense Level |                               0                               |          |                                                        Armor                                                        |
+|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
+|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
+|    Language: Pirish    |                       Can speak Pirish.                       |          |                                                                                                                    |
+|    Disabling: Feeble    |                            -1 STR                            |          |                                                                                                                    |
+|    Inventory Weight    |                            16.5 lb                            |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                             70 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight       |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
-| Humanoid Movement Speed |                             30 ft                             |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
-|   Humanoid Swim Speed   |                             10 ft                             |          |                                        15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
-|  Humanoid Climb Speed   |                             10 ft                             |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
+|      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
+| Humanoid Movement Speed |                             30 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   Humanoid Swim Speed   |                             10 ft                             |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|  Humanoid Climb Speed  |                             10 ft                             |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls:
 
-|             Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types           | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  Rune of Fire - Melee Trick   |       5d6       |                 |                   |      0      | Melee |                 Fire                 |           Rapid           |                     |        None         |
-|  Rune of Fire- Ranged Trick   |       5d6       |                 |                   |      0      | Close |                 Fire                 |         Standard          |                     |        None         |
-|     Rune of Fire - Melee      |       6d6       |                 |                   |      2      | Melee |                 Fire                 |           Rapid           |                     |      1 (Fellblood)      |
-|     Rune of Fire- Ranged      |       6d6       |                 |                   |      1      | Close |                 Fire                 |         Standard          |                     |      1 (Fellblood)      |
-|      Rune of Fire - Cone      |       6d6       |                 |                   |      2      | Close |                 Fire                 |          Focused          |        Cone         |      1 (Fellblood)      |
-|     Rune of Fire - Reach      |       6d6       |                 |                   |      2      | Reach |                 Fire                 |           Rapid           |                     |      1 (Fellblood)      |
-|    Rune of Fire - Focused     |       7d6       |                 |                   |      2      | Close |                 Fire                 |          Focused          |                     |      1 (Fellblood)      |
-| Rune of Earth  - Melee Trick  |       4d6       |                 |                   |      0      | Melee |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                     |        None         |
-| Rune of Earth  - Ranged Trick |       4d6       |                 |                   |      0      | Short |     Slash, Bludgeon, Hew, Pierce     |         Standard          |                     |        None         |
-|    Rune of Earth  - Melee     |       5d6       |                 |                   |      2      | Melee |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                     |      1 (Fellblood)      |
-|    Rune of Earth - Ranged     |       5d6       |                 |                   |      1      | Short |     Slash, Bludgeon, Hew, Pierce     |         Standard          |                     |      1 (Fellblood)      |
-|   Rune of Air - Melee Trick   |       4d6       |                 |                   |      0      | Melee |      Slash, Bludgeon, Shockwave      |           Rapid           |                     |        None         |
-|  Rune of Air - Ranged Trick   |       4d6       |                 |                   |      0      | Short |      Slash, Bludgeon, Shockwave      |         Standard          |                     |        None         |
-|      Rune of Air - Melee      |       5d6       |                 |                   |      2      | Melee |      Slash, Bludgeon, Shockwave      |           Rapid           |                     |      1 (Fellblood)      |
-|     Rune of Air - Ranged      |       5d6       |                 |                   |      1      | Short |      Slash, Bludgeon, Shockwave      |         Standard          |                     |      1 (Fellblood)      |
-|  Rune of Water - Melee Trick  |       4d6       |                 |                   |      0      | Melee | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |        None         |
-| Rune of Water - Ranged Trick  |       4d6       |                 |                   |      0      | Short | Suffocation, Slash, Bludgeon, Pierce |         Standard          |                     |        None         |
-|     Rune of Water - Melee     |       5d6       |                 |                   |      2      | Melee | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |      1 (Fellblood)      |
-|    Rune of Water - Ranged     |       5d6       |                 |                   |      1      | Short | Suffocation, Slash, Bludgeon, Pierce |         Standard          |                     |      1 (Fellblood)      |
-|    Hemacraft - Melee Trick    |       2d6       |                 |                   |      0      | Melee |                Bleed                 |           Rapid           |                     |        None         |
-|   Hemacraft - Ranged Trick    |       2d6       |                 |                   |      0      | Short |                Bleed                 |         Standard          |                     |        None         |
+|              Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   Rune of Fire - Melee Trick   |       5d6       |                |                  |      0      | Melee |                 Fire                 |           Rapid           |                    |        None        |
+|   Rune of Fire- Ranged Trick   |       5d6       |                |                  |      0      | Close |                 Fire                 |         Standard         |                    |        None        |
+|      Rune of Fire - Melee      |       6d6       |                |                  |      2      | Melee |                 Fire                 |           Rapid           |                    |    1 (Fellblood)    |
+|      Rune of Fire- Ranged      |       6d6       |                |                  |      1      | Close |                 Fire                 |         Standard         |                    |    1 (Fellblood)    |
+|      Rune of Fire - Cone      |       6d6       |                |                  |      2      | Close |                 Fire                 |          Focused          |        Cone        |    1 (Fellblood)    |
+|      Rune of Fire - Reach      |       6d6       |                |                  |      2      | Reach |                 Fire                 |           Rapid           |                    |    1 (Fellblood)    |
+|    Rune of Fire - Focused    |       7d6       |                |                  |      2      | Close |                 Fire                 |          Focused          |                    |    1 (Fellblood)    |
+| Rune of Earth  - Melee Trick |       4d6       |                |                  |      0      | Melee |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                    |        None        |
+| Rune of Earth  - Ranged Trick |       4d6       |                |                  |      0      | Short |     Slash, Bludgeon, Hew, Pierce     |         Standard         |                    |        None        |
+|    Rune of Earth  - Melee    |       5d6       |                |                  |      2      | Melee |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                    |    1 (Fellblood)    |
+|    Rune of Earth - Ranged    |       5d6       |                |                  |      1      | Short |     Slash, Bludgeon, Hew, Pierce     |         Standard         |                    |    1 (Fellblood)    |
+|   Rune of Air - Melee Trick   |       4d6       |                |                  |      0      | Melee |      Slash, Bludgeon, Shockwave      |           Rapid           |                    |        None        |
+|   Rune of Air - Ranged Trick   |       4d6       |                |                  |      0      | Short |      Slash, Bludgeon, Shockwave      |         Standard         |                    |        None        |
+|      Rune of Air - Melee      |       5d6       |                |                  |      2      | Melee |      Slash, Bludgeon, Shockwave      |           Rapid           |                    |    1 (Fellblood)    |
+|      Rune of Air - Ranged      |       5d6       |                |                  |      1      | Short |      Slash, Bludgeon, Shockwave      |         Standard         |                    |    1 (Fellblood)    |
+|  Rune of Water - Melee Trick  |       4d6       |                |                  |      0      | Melee | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                    |        None        |
+|  Rune of Water - Ranged Trick  |       4d6       |                |                  |      0      | Short | Suffocation, Slash, Bludgeon, Pierce |         Standard         |                    |        None        |
+|     Rune of Water - Melee     |       5d6       |                |                  |      2      | Melee | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                    |    1 (Fellblood)    |
+|     Rune of Water - Ranged     |       5d6       |                |                  |      1      | Short | Suffocation, Slash, Bludgeon, Pierce |         Standard         |                    |    1 (Fellblood)    |
+|    Hemacraft - Melee Trick    |       2d6       |                |                  |      0      | Melee |                Bleed                |           Rapid           |                    |        None        |
+|    Hemacraft - Ranged Trick    |       2d6       |                |                  |      0      | Short |                Bleed                |         Standard         |                    |        None        |
 
-| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|       |                     |                    |             |       |                   |                     |
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
 
 ## Destiny Points: 0/3
 
@@ -73,22 +73,22 @@
 
 ## Equipment:
 
-| Name                       |   #   |      Class      |  Tier   | Durability |  LB   | Value |
-| -------------------------- | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
-| Component Pouch (2/5 ft^3) |   1   | 12 lb container | Mundane |            |   2   | 25 bc |
-| Clothes, Common            |   1   |      Misc       | Mundane |            |   3   | 5 bc  |
-| Spell Components           |   1   |      Misc       | Mundane |            |  0.5  |  ??   |
+| Name                       | # |      Class      |  Tier  | Durability | LB | Value |
+| -------------------------- | :-: | :-------------: | :-----: | :--------: | :-: | :---: |
+| Component Pouch (2/5 ft^3) | 1 | 12 lb container | Mundane |            |  2  | 25 bc |
+| Clothes, Common            | 1 |                | Mundane |            |  3  | 5 bc |
+| Spell Components           | 1 |                | Mundane |            | 0.5 |  ??  |
 
 ## Containers:
 
-| Name                           |   #   |      Class      |  Tier   | Durability |  LB   | Value |
-| ------------------------------ | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
-| Component Pouch (2/5 ft^3)     |   1   | 12 lb container | Mundane |            |   2   | 25 bc |
-| Spellbook                      |   1   |      Misc       | Mundane |            |   3   | 50 bc |
-| Journal, Soft Bound, 25 Sheets |   1   |      Misc       | Mundane |            |   1   | 7 bc  |
-| Calligrapher's Supplies        |   1   |      Misc       | Mundane |            |   5   | 10 bc |
-| Common Book, Soft Bound        |   1   |      Misc       | Mundane |            |   1   | 5 bc  |
-| Common Book, Hard Bound        |   1   |      Misc       | Mundane |            |   1   | 2 bc  |
+| Name                           | # |       Class       | Effect |   Tier   | Durability | LB | Value |
+| ------------------------------ | :-: | :----------------: | :----: | :-------: | :--------: | :-: | :---: |
+| Component Pouch (2/5 ft^3)     | 1 |  12 lb container  |        |  Mundane  |            | 2 | 25 bc |
+| Runebook                       | 1 | Runcecraft Conduit |        | Exquisite |            | 3 | 50 bc |
+| Journal, Soft Bound, 25 Sheets | 1 |                    |        |  Mundane  |            | 1 | 7 bc |
+| Calligrapher's Supplies        | 1 |                    |        |  Mundane  |            | 5 | 10 bc |
+| Common Book, Soft Bound        | 1 |                    |        |  Mundane  |            | 1 | 5 bc |
+| Common Book, Hard Bound        | 1 |                    |        |  Mundane  |            | 1 | 2 bc |
 
 ## Appearance
 
