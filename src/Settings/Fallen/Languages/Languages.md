@@ -36,6 +36,10 @@ Spoken by Giants, Ogres, and Ogrekin.
 
 Spoken by Harpy or Phoenixkin.
 
+### Tunnel-tongue
+
+Spoken by Molekin.
+
 ### Demonic
 
 Said to be spoken by demons, no record exists of it, only myths.
