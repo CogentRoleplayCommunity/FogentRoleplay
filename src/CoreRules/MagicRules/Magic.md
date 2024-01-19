@@ -196,6 +196,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)
 - [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
+- [Mage Shield](Spells/Apprentice/MageShield.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
 - [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
