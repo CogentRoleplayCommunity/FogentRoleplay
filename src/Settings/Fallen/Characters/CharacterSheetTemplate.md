@@ -40,15 +40,15 @@
 
 ## Combat Rolls
 
-|                              Name                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|                                          Name                                          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |    [Melee Trick](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)    |                |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
 |   [Ranged Trick](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)   |                |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
 |        [Melee](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)        |                |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
 |       [Ranged](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)       |                |                |                  |      1      | Close |                  |         Standard         |                    |    1 (Fellblood)    |
 |       [Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)       |                |                |                  |      2      | Close |                  |          Focused          |        Cone        |    1 (Fellblood)    |
 | [Reach Melee](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md) |                |                |                  |      2      | Reach |                  |           Rapid           |                    |    1 (Fellblood)    |
-|        -[Sphere](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)        |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |    2 (Fellblood)    |
+|        [Sphere](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)        |                |                |                  |      3      | Close |                  |          Focused          |       Sphere       |    2 (Fellblood)    |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
