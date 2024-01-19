@@ -17,7 +17,6 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 ## Settings
 
 - [Fallen](./src/Settings/Fallen/Fallen.md) (Dark Fantasy)
-- Fracture (Post-apocalypse Survival) (Under development)
 
 ## Core Rules
 
