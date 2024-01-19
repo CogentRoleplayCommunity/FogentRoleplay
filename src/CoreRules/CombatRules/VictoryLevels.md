@@ -66,7 +66,7 @@ Opponent loses their weapon.
 
 ### Serious injury
 
-– 3 dice to all physical based dice checks and the character will die in time if the wound is untreated.
+–3 dice to all physical based dice checks and the character will die in time if the wound is untreated.
 
 ### Trip
 
@@ -80,7 +80,7 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 ### Fatal injury
 
-– 4 dice to all physical based dice checks, incapacitated, and will die very soon if untreated.
+–4 dice to all physical based dice checks, incapacitated, and will die very soon if untreated.
 
 ### Dismember
 
