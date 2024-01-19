@@ -52,4 +52,4 @@ SIster Grelana can't use her magic to speak to the dead as their is a powerful s
 
 - Arinoth dad is old Arinoth, hence why he was mistaken for his father and why his father's spirit is interacting with him.
 - Blackspider kills a lancer spies and offers to trade with the party
--
+- Glassmith has runecrafted his flesh to glass
