@@ -42,6 +42,12 @@ Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gain
 
 If your character is required to move during the move, you can not exceed your normal amount of movement for that round.
 
+#### Disarming
+
+Can be used in close combat and receives bonus in disarming actions. A player must be in close combat to disarm another player while being unarmed.
+
+Once in close combat, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their attack roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+
 ### Shove
 
 Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
