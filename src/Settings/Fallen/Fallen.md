@@ -2,24 +2,25 @@
 
 - [Adventures](Adventures/Adventures.md)
 
-- [Creation Myth](CreationMyth/CreationMyth.md)
-
-- [History](History/History.md)
-
-- [Gods](Gods/Gods.md)
-
-- [Terra](Terra/Terra.md)
+- [Characters](Characters/Characters.md)
 
 - [Countries](Countries/Countries.md)
 
-- [Races](Races/Races.md)
-
-- [Languages](Languages/Languages.md)
+- [Creation Myth](CreationMyth/CreationMyth.md)
 
 - [Diseases](Diseases/Diseases.md)
 
-- [Magic](Magic/Magic.md)
+- [Gods](Gods/Gods.md)
+
+- [History](History/History.md)
 
 - [Items](Items/Items.md)
 
-- [Characters](Characters/Characters.md)
+- [Languages](Languages/Languages.md)
+
+- [Magic](Magic/Magic.md)
+
+- [Races](Races/Races.md)
+
+- [Terra](Terra/Terra.md)
+
