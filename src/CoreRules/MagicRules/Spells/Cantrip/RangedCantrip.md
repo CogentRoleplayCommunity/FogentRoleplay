@@ -15,7 +15,7 @@ Use of ranged cantrips in combat is genrally only reserved for dealing with mino
 |      3      |     Long     |
 |      4      | Sharpshooter |
 
-**Engageable Opponents:**  Focused
+**Engageable Opponents:**  Standard
 
 **Penetration:** 0
 
