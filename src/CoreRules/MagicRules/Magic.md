@@ -196,6 +196,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
 - [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
 - [Shape Shift](Spells/Apprentice/Shapeshift.md)
+- [Short Teleport](Spells/Apprentice/ShortTeleport.md)
 
 ### Adept Spells
 
