@@ -145,7 +145,9 @@ This roll represents your abilities with a specific type of Magic skill. A minim
 
 ### Magic Skills in Combat
 
-- Character's can't cast magic twice in one round of combat unless specified otherwise
+- Character can cast 1 spell per round that uses magic resource.
+- Character can cast 1 spell per round that does not use magic resource.
+- Character's can only cast 1 spell per turn as part of their combat roll.
 
 ## Magic Spells
 
