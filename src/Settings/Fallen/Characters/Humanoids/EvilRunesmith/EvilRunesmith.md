@@ -25,12 +25,12 @@
 
 |          Name          |             Effect             | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                0                |          |                                                        Armor                                                        |
+| Physical Defense Level |                3                |          |          [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md)          |
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
 |    Language: Pirish    |       Can speak Pirish.       |          |                                                                                                                    |
 | Language: Tunnel Tongue |                                |          |                                                                                                                    |
-|    Inventory Weight    |              0 lb              |          |                                                      Equipment                                                      |
+|    Inventory Weight    |              13 lb              |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |              30 ft              |          |                                50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                |
@@ -75,17 +75,17 @@
 |                                                                                                                            |                |                |                  |            |          |                  |                          |                    |                    |
 |                Light Rune_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)                |       5d6       |                |                  |      0      |  Melee  |      Radiant      |           Rapid           |                    |        None        |
 |               Light Rune_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)               |       5d6       |                |                  |      0      |  Close  |      Radiant      |         Standard         |                    |        None        |
+|                                                     Large Hafted Blunt                                                     |  4d6<br />(-1)  | 6d6<br />(+1d6) |       None       |      5      |  Melee  |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ## Focus: 7/7
 
 ## Equipment
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
-| Clothes, Fine | 1 |  |  | Mundane |  | 6 | 15 bc |
-| Runebook | 1 | Runecraft Conduit |  | Exquisite |  | 3 | 50 bc |
-| Conduit - Staff | 1 | Runecraft Conduit, Large Hafted Blunt |  | Mundane |  | 4 | 5 bc |
-
+| Name            | # |                 Class                 | Effect |   Tier   | Durability | LB | Value |
+| --------------- | :-: | :-----------------------------------: | ------ | :-------: | :--------: | :-: | :---: |
+| Clothes, Fine   | 1 |                                      |        |  Mundane  |            | 6 | 15 bc |
+| Runebook        | 1 |           Runecraft Conduit           |        | Exquisite |            | 3 | 50 bc |
+| Conduit - Staff | 1 | Runecraft Conduit, Large Hafted Blunt |        |  Mundane  |            | 4 | 5 bc |
 
 ## Notes
 
@@ -93,6 +93,7 @@
 
 - [Phantom Appendage](./../../../../../CoreRules/MagicRules/Spells/Cantrip/PhantomAppendage.md)
 - [Illuminate](./../../../../../CoreRules/MagicRules/Spells/Cantrip/Illuminate.md)
+- [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md)
 - [Short Teleport](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ShortTeleport.md)
 - [Restrain Person](./../../../../../CoreRules/MagicRules/Spells/Apprentice/RestrainPerson.md)
 
