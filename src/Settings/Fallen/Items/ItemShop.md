@@ -464,11 +464,11 @@ Cheap shops will charge 50% the value for any item on this list.
 
 |             Name              |   #   |       Class       | Effect |  Tier   | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :---------------------------: | :---: | :---------------: | :----: | :-----: | :--------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
-|    Arcane Focus - Crystal     |   1   |                   |        | Mundane |            |   1    |  10 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|      Arcane Focus - Orb       |   1   |                   |        | Mundane |            |   3    |  20 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|      Arcane Focus - Rod       |   1   |                   |        | Mundane |            |   2    |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Arcane Focus - Staff      |   1   |                   |        | Mundane |            |   4    |  5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|      Arcane Focus - Wand      |   1   |                   |        | Mundane |            |   1    |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|    Conduit - Crystal     |   1   |                   |        | Mundane |            |   1    |  10 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Conduit - Orb       |   1   |                   |        | Mundane |            |   3    |  20 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|      Conduit - Rod       |   1   |                   |        | Mundane |            |   2    |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|     Conduit - Staff      |   1   |                   |        | Mundane |            |   4    |  5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|      Conduit - Wand      |   1   |                   |        | Mundane |            |   1    |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |  Component Pouch (2/5 ft^3)   |   1   |  12 lb container  |        | Mundane |            |   2    |  25 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |           Spellbook           |   1   |                   |        | Mundane |            |   3    |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Runebook            |   1   | Runecraft Conduit |        | Mundane |            |   3    |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -579,8 +579,8 @@ Cheap shops will charge 50% the value for any item on this list.
 | :------------------------------: | :---: | :---: | :----: | :-----: | :--------: | :----------: | :-----: | :-----------: | :----------: | :----------: | :------------: |
 |    Amulet/Necklace, Exquisite    |   1   |       |        | Mundane |            |     0.2      |  5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |     Amulet/Necklace, Mundane     |   1   |       |        | Mundane |            |     0.2      |  50 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|      Arcane Focus - Crystal      |   1   |       |        | Mundane |            |      1       |  10 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|        Arcane Focus - Orb        |   1   |       |        | Mundane |            |      3       |  20 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Conduit - Crystal      |   1   |       |        | Mundane |            |      1       |  10 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|        Conduit - Orb        |   1   |       |        | Mundane |            |      3       |  20 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
 |       Earrings, Exquisite        |   1   |       |        | Mundane |            |     0.1      |  4 bc   |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 |        Earrings, Mundane         |   1   |       |        | Mundane |            |     0.1      |  40 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |      Jewelry (+ Gem value)       |   1   |       |        | Mundane |            |     0.2      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
@@ -698,11 +698,11 @@ Cheap shops will charge 50% the value for any item on this list.
 
 |                Name                |   #   |       Class       | Effect |  Tier   | Durability | Weight  | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :--------------------------------: | :---: | :---------------: | :----: | :-----: | :--------: | :-----: | :---: | :-----------: | :----------: | :----------: | :------------: |
-|       Arcane Focus - Crystal       |   1   |                   |        | Mundane |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|         Arcane Focus - Orb         |   1   |                   |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|         Arcane Focus - Rod         |   1   |                   |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Arcane Focus - Staff        |   1   |                   |        | Mundane |            |    4    | 5 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|        Arcane Focus - Wand         |   1   |                   |        | Mundane |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|       Conduit - Crystal       |   1   |                   |        | Mundane |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Conduit - Orb         |   1   |                   |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         Conduit - Rod         |   1   |                   |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Staff        |   1   |                   |        | Mundane |            |    4    | 5 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Wand         |   1   |                   |        | Mundane |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |           Bottle, glass            |   1   |                   |        | Mundane |            |    2    | 2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |               Candle               |   1   |                   |        | Mundane |            |   0.1   | 1 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |        Case, Map or Scroll         |   1   |                   |        | Mundane |            |    1    | 1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
