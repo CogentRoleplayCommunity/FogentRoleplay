@@ -20,7 +20,7 @@ Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as curren
 
 ### Approximate Real World Value
 
-While this is by no means extremely accurate, this gives a rough idea of value that players can use as a reference. This factors in inflation and the scarsity of goods.
+While this is by no means extremely accurate, this gives a rough idea of value that players can use as a reference. This factors in inflation and the scarcity of goods.
 
 | Fallen Coins | US Currency |
 | :----------: | :---------: |
