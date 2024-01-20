@@ -82,12 +82,10 @@
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
+| Clothes, Fine | 1 |  |  | Mundane |  | 6 | 15 bc |
+| Runebook | 1 | Runecraft Conduit |  | Exquisite |  | 3 | 50 bc |
+| Conduit - Staff | 1 | Runecraft Conduit, Large Hafted Blunt |  | Mundane |  | 4 | 5 bc |
 
-## Containers
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
-|      |  |      |        |      |            |    |      |
 
 ## Notes
 
