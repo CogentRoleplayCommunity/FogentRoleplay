@@ -29,7 +29,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
 - [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
-- [!Assists](./src/CoreRules/GeneralRules/Assists.md)
+- [Assists](https://cogentroleplay.com/rules/) (Base Cogent Rules, see Chapter 3, Part 5 - Assists)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 - [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
