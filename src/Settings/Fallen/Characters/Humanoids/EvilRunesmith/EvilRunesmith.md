@@ -29,7 +29,7 @@
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
 |    Language: Pirish    |       Can speak Pirish.       |          |                                                                                                                    |
-| Language: Tunnel Tongue |                                |          |                                                                                                                    |
+| Language: Tunnel-tongue |    Can speak Tunnel-tongue.    |          |                                                                                                                    |
 |    Inventory Weight    |              13 lb              |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
