@@ -590,14 +590,6 @@ Qelline Alderleaf, a wise and practical female mousekin aged forty-five, is an a
 
 **Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Tide Echo Tunnels, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
 
-### Shrine of the Moon
-
-Tuntin's sole temple is a modest shrine constructed using stones collected from nearby ruins. It is dedicated to the Younger, the good of fortune and protection.
-
-The shrine is overseen by a scholarly acolyte named Sister Garaele, a fervent young dhampir who despairs of ever eradicating the Lavender Lancers from Tuntin. Sister Garaele is a member of the Silver Watchers, adventurers and spies committed to promoting equality and covertly opposing the abuse of power. They have close ties to the Brotherhood of Silver, acting as their eyes and ears. The Harpers gather information throughout the land with the goal of thwarting tyrants and any faction, government, or group that amasses excessive power. They come to the aid of the weak, the poor, and the oppressed, always advocating for their well-being. Sister Garaele regularly reports on local events to her superiors.
-
-**Quest: The Banshee's Bargain.** Sister Garaele was recently assigned a sensitive mission by her superiors. Her task was to persuade a banshee known as Agatha to respond to a question concerning a runebook. Sister Garaele visited Agatha in her lair, but the banshee refused to appear for her. To facilitate communication, Garaele seeks an intermediary who will offer Agatha a suitable gift—a jeweled silver comb—and persuade the banshee to divulge information about the location of a runebook that once belonged to a legendary runesmith named Bowgentle. Sister Garaele believes that a character capable of flattering Agatha's vanity might be able to secure the answer through this trade. She extends the quest to the characters and offers them three potions of minor healing blood as compensation for their efforts. If the party decides to undertake this quest, refer to the "Conyberry and Agatha's Lair" section for more details.
-
 #### Joining the Silver Watchers
 
 Should the party assist Sister Garaele in uncovering the fate of Bowgentle's runebook, she privately approaches specific members of the group, encouraging them to consider joining the Harpers. She focuses on individuals who embody the network's values and express a desire to bring about positive change through information and secrecy. If a character chooses to join, Sister Garaele confers upon them the title of Watcher.
@@ -676,7 +668,7 @@ Each character is awarded a skill point upon their successful defeat of the ruff
 >
 > Following the "Lavender Lancer Ruffians" encounter, the players should sense the necessity of addressing the remaining gang. If it appears the characters are uncertain about their next course of action, one of the NPCs they've previously encountered in town should take the initiative. This NPC can explicitly suggest investigating the Lavender Lancer hideout and direct them toward Rozen Manor.
 >
-> However, if the players express a preference for pursuing alternative leads in the region, it's acceptable to proceed to part 3 of the adventure and allow the ruffians to remain a pending matter. Upon the characters' return to Tuntin, ensure it's evident that the Lavender Lancers are creating escalating issues, underscoring the urgency of dealing with them.
+> However, if the players express a preference for pursuing alternative leads wain the region, it's acceptable to proceed to part 3 of the adventure and allow the ruffians to remain a pending matter. Upon the characters' return to Tuntin, ensure it's evident that the Lavender Lancers are creating escalating issues, underscoring the urgency of dealing with them.
 
 ## Lavender Lancer Hideout
 
@@ -859,7 +851,7 @@ The nothic lurks close to the western ends of the two bridges. Upon noticing int
 
 The nothic communicates telepathically, favoring negotiation over aggression, and is willing to betray the Lavender Lancers if the right incentive is offered, such as food. When role-playing the nothic, adopt a whispering tone with sporadic fits of mad cackles and incoherent mutterings. It doesn't actually speak but rather implants its unsettling thoughts and demands in the characters' minds. The nothic possesses all the knowledge the Lavender Lancers have; refer to the "What the Lavender Lancers Know" sidebar on page 20.
 
-As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful Communication Skill General Knowledge check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
+As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful CL 3 General Knowledge check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
 
 The crevasse itself is steep-sided, measuring 5 to 10 feet in width and 20 feet in depth. Its rugged walls can be easily climbed without requiring an ability check. A character unfortunate enough to fall into the crevasse sustains 2d6 bludgeoning damage and lands prone amid a mass of rubble, which becomes difficult terrain.
 
@@ -979,9 +971,9 @@ In terms of roleplaying, a former member of the Eastern Alliance, Sylas seized t
 
 Sylas tries to maintain an air of gentility and courtesy, addressing his ruffians as "my good gentlemen," and referring to deplorable acts such as kidnapping or arson as "that unpleasant little business" or "those unfortunate events." He calls the characters "guests" and expresses regret that he can't offer proper entertainment for their visit. However, beneath this façade, Sylas is just as thuggish and arrogant as any Lavender Lancer outlaws.
 
-If he feels threatened, Sylas uses his staff of defense to cast runesmith armor on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Sylas employs the shield power of his staff for extra protection.
+If he feels threatened, Sylas uses his staff of defense to cast physical protection on himself and proceeds to cast offensive spells at enemies he can see. His stat block includes a list of the spells he has prepared. For descriptions of those spells and their effects, refer to the rulebook. Sylas employs the shield power of his staff for extra protection.
 
-Should he be reduced to 8 or fewer hit points with no means of escape, Sylas surrenders, valuing his life above all else, hoping that his model behavior as a prisoner might lead the Black Spider to secure his release.
+Should he take 3 injury dice with no means of escape, Sylas surrenders, valuing his life above all else, hoping that his model behavior as a prisoner might lead the Black Spider to secure his release.
 
 If questioned while in captivity, Sylas provides the following information, all of which is accurate:
 
