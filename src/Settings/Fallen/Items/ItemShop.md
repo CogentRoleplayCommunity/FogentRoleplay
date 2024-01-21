@@ -128,7 +128,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Sickle     | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   |  5 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Light Hammer  | 1 |                       Small Hafted Blunt                       |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|     Rapier     | 1 |                     Medium Thrusting Sword                     |        | Mundane |   12/12   |   2   | 12 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|     Rapier     | 1 |                     Medium Thrusting Sword                     |        | Quality |   12/12   |   2   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Scimitar    | 1 |                      Medium Slashing Sword                      |        | Mundane |   12/12   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Battleaxe   | 1 |                        Medium Hafted Axe                        |        | Mundane |   12/12   |   4   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Flail     | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
