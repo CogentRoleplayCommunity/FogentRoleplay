@@ -4,62 +4,62 @@
 
 ## Attributes and Core Skills
 
-| STR       |   0   |       | RFX             |   1   |       | INT               |  -1   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   0   |  3d6  | Acrobatics      |   0   |  4d6  | Communication     |  -1   |  1d6  |
-| Climb     |   0   |  3d6  | Perception      |  -1   |  3d6  | General Knowledge |  -1   |  1d6  |
-| Endurance |   2   |  5d6  | Sleight of Hand |   0   |  4d6  | Survival          |  -1   |  1d6  |
-| Lift      |   0   |  3d6  | Stealth         |   0   |  4d6  | Will         |  -1   |  1d6  |
+| STR       | 0 |    | RFX             | 1 |    | INT               | -1 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 4d6 | Communication     | -1 | 1d6 |
+| Climb     | 0 | 3d6 | Perception      | -1 | 3d6 | General Knowledge | -1 | 1d6 |
+| Endurance | 2 | 5d6 | Sleight of Hand | 0 | 4d6 | Survival          | -1 | 1d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 4d6 | Will              | -1 | 1d6 |
 
 ## Vocations and Vocational Skills
 
-| Fighter {RFX}      |   1   |  5d6  |
-| ------------------ | :---: | :---: |
-| Medium Sword {ALL} |   1   |  4d6  |
-| Light Bow {ALL}    |   1   |  4d6  |
+| Fighter {RFX}      | 1 | 5d6 |
+| ------------------- | :-: | :-: |
+| Medium Sword {ALL} | 1 | 4d6 |
+| Light Bow {ALL}     | 1 | 4d6 |
 
 ## Effects:
 
-|            Name            |                           Effect                            | Duration |                                                                  Source                                                                  |
-| :------------------------: | :---------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|   Physical Defense Level   |                              1                              |          |                                                                  Armor                                                                   |
-|        Medium Size         |                    5x5 ft on battle map.                    |          |                                                                                                                                          |
-|      Inventory Weight      |                           9.5 lb                            |          |                                                                Equipment                                                                 |
-|   Humanoid Carry Weight    |                           120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|        Light Weight        |               -0d6 to STR/RFX governed skills               |          |                                                         0% - 25% of carry weight                                                         |
-|  Humanoid Movement Speed   |                            40 ft                            |          |                                          30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
-|    Humanoid Swim Speed     |                            0 ft                             |          |                                                            Bone's don't float                                                            |
-|    Humanoid Climb Speed    |                            15 ft                            |          |                                             15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                             |
-|        Dark Vision         |                            60 ft                            |          |                                                                  Innate                                                                  |
-|   Medium Bludgeon Weakness   | (+2) to the level of injury received from Bludgeon damage.  |          |                                                                  Innate                                                                  |
-|   Medium Radiant Weakness    |  (+2) to the level of injury received from Radiant damage.  |          |                                                                  Innate                                                                  |
-|  Medium Spiritual Weakness   | (+2) to the level of injury received from Spiritual damage. |          |                                                                  Innate                                                                  |
-|   Minor Silver Weakness    |  (+1) to the level of injury received from Silver damage.   |          |                                                                  Innate                                                                  |
-|   Minor Slash Resistance   |      -1 to victory levels received from Slash damage.       |          |                                                                  Innate                                                                  |
-|  Major Pierce Resistance   |      -3 to victory levels received from Pierce damage.      |          |                                                                  Innate                                                                  |
-| Complete Poison Resistance |      -5 to victory levels received from Poison damage.      |          |                                                                  Innate                                                                  |
+|            Name            |                           Effect                           | Duration |                                                       Source                                                       |
+| :------------------------: | :---------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|   Physical Defense Level   |                              1                              |          |                                                        Armor                                                        |
+|        Medium Size        |                    5x5 ft on battle map.                    |          |                                                                                                                    |
+|      Inventory Weight      |                           9.5 lb                           |          |                                                      Equipment                                                      |
+|   Humanoid Carry Weight   |                           120 lb                           |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|        Light Weight        |               -0d6 to STR/RFX governed skills               |          |                                              0% - 25% of carry weight                                              |
+|  Humanoid Movement Speed  |                            40 ft                            |          |                                30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                |
+|    Humanoid Swim Speed    |                            0 ft                            |          |                                                 Bone's don't float                                                 |
+|    Humanoid Climb Speed    |                            15 ft                            |          |                                  15 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                  |
+|        Dark Vision        |                            60 ft                            |          |                                                       Innate                                                       |
+|  Medium Bludgeon Weakness  | (+2) to the level of injury received from Bludgeon damage. |          |                                                       Innate                                                       |
+|  Medium Radiant Weakness  |  (+2) to the level of injury received from Radiant damage.  |          |                                                       Innate                                                       |
+| Medium Spiritual Weakness | (+2) to the level of injury received from Spiritual damage. |          |                                                       Innate                                                       |
+|   Minor Silver Weakness   |  (+1) to the level of injury received from Silver damage.  |          |                                                       Innate                                                       |
+|   Minor Slash Resistance   |      -1 to victory levels received from Slash damage.      |          |                                                       Innate                                                       |
+|  Major Pierce Resistance  |      -3 to victory levels received from Pierce damage.      |          |                                                       Innate                                                       |
+| Complete Poison Resistance |      -5 to victory levels received from Poison damage.      |          |                                                       Innate                                                       |
 
 ## Combat Rolls:
 
-|          Name          |   One<br />Handed    |   Two<br />Handed    | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|          Name          |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|       Light Bow        |         None         | 4d6, 1d4<br />(+1d6) |       None        |      1      | Ranged |      Pierce       |           Quick           |        None         |        None         |
-| Medium Thrusting Sword | 4d6, 1d4<br />(+1d6) | 5d6, 1d4<br />(+2d6) |      (+1d6)       |      2      | Melee  |      Pierce       |           Rapid           |        None         |        None         |
-| Medium Slashing Sword  | 5d6, 1d4<br />(+2d6) | 6d6, 1d4<br />(+3d6) |      (+1d6)       |      0      | Melee  |       Slash       |           Rapid           |        None         |        None         |
+|       Light Bow       |         None         | 4d6, 1d4<br />(+1d6) |       None       |      1      | Ranged |      Pierce      |           Quick           |        None        |        None        |
+| Medium Thrusting Sword | 4d6, 1d4<br />(+1d6) | 5d6, 1d4<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword | 5d6, 1d4<br />(+2d6) | 6d6, 1d4<br />(+3d6) |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
 |     Name     | Resource<br />Class |  Resource<br />Dice  | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :----------: | :-----------------: | :------------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Shoddy Arrow |        Arrow        | 4d6, 2d4<br />(+1d4) |      1      | None  |      Pierce       |        None         |
+| Shoddy Arrow |        Arrow        | 4d6, 2d4<br />(+1d4) |      1      | None |      Pierce      |        None        |
 
 ## Equipment:
 
-| Name                   |   #   |                     Class                     |  Tier   | Durability |  LB   | Value |
-| ---------------------- | :---: | :-------------------------------------------: | :-----: | :--------: | :---: | :---: |
-| Buckler Shield         |   1   |                  Phy. Def. 1                  | Mundane |   12/12    |   4   | 2 bc  |
-| Shoddy Scimitar        |   1   | Medium Thrusting Sword, Medium Slashing Sword | Shoddy  |    9/9     |   2   | 15 bc |
-| Shoddy Shortbow        |   1   |                   Light Bow                   | Shoddy  |    9/9     |   2   | 15 bc |
-| Rusted Broadhead Arrow |  20   |                 Shoddy Arrow                  | Shoddy  |     -      |  0.5  | 1 bc  |
-| Quiver (capacity: 20)  |   1   |                     Misc                      | Mundane |            |   1   | 1 bc  |
+| Name                   | # |                     Class                     |  Tier  | Durability | LB | Value |
+| ---------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :-: | :---: |
+| Buckler Shield         | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  4  | 2 bc |
+| Shoddy Scimitar        | 1 | Medium Thrusting Sword, Medium Slashing Sword | Shoddy |    9/9    |  2  | 5 bc |
+| Shoddy Shortbow        | 1 |                   Light Bow                   | Shoddy |    9/9    |  2  | 15 bc |
+| Rusted Broadhead Arrow | 20 |                 Shoddy Arrow                 | Shoddy |     -     | 0.5 | 1 bc |
+| Quiver (capacity: 20)  | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
 
 ## Backstory
 

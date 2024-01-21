@@ -53,7 +53,7 @@
 | ----------------------------- | :-: | :-------------------------------------------: | :------------: | :-----: | :--------: | :--: | :---: |
 | Leather Cuirass and Pauldrons | 1 |                  Body Armor                  | Phy. Def. 1.00 | Quality |   15/15   |  6  | 5 bc |
 | Buckler Shield                | 1 |                    Shield                    | Phy. Def. 1.00 | Mundane |   12/12   |  4  | 2 bc |
-| Shoddy Scimitar               | 1 | Medium Thrusting Sword, Medium Slashing Sword |                | Shoddy |    9/9    |  2  | 15 bc |
+| Shoddy Scimitar               | 1 | Medium Thrusting Sword, Medium Slashing Sword |                | Shoddy |    9/9    |  2  | 5 bc |
 | Shoddy Shortbow               | 1 |                   Light Bow                   |                | Shoddy |    9/9    |  2  | 15 bc |
 | Wood Tipped Arrow             | 20 |                 Shoddy Arrow                 |                | Mundane |     -     | 0.05 | 50 cc |
 | Quiver (capacity: 20)         | 1 |                                              |                | Mundane |            |  1  | 1 bc |
