@@ -53,3 +53,14 @@ SIster Grelana can't use her magic to speak to the dead as their is a powerful s
 - Arinoth dad is old Arinoth, hence why he was mistaken for his father and why his father's spirit is interacting with him.
 - Blackspider kills a lancer spies and offers to trade with the party
 - Glassmith has runecrafted his flesh to glass
+- The Townmaster is going to change his mind about Killing the lancer's, instead he wants the party to turn themselves over to them so the town isn't destroyed.
+
+## Redbrand Hideout session
+
+The session will start with the player's gearing up to go take on the Lavendar Lancer hideout.
+
+Ulfric will find the party and encourage them to removed the Lancer threat from the good people of Tuntin. Ulfric will reveal that he joined this job partially to help Burrowbard, but also to search for his friend Sylas Alabaster. As young men, Sylas, Burrowbard, and Ulfric were adventures. Ulfric speculates that the Lancers must have imprisoned or killed Sylas along with the town sheriff who has gone missing as his dear old friend would never put up with this lawless chaos.
+
+As they gear up, a Lancer spy will be spying on them about to leave to inform Glassmith of this new party who's killed his men. The Black Spider, disguised, will slit the spies throat. She introduces herself as Nezzarna. She imply she has been keeping an eye on the party since they've entered town and her employer is aware that the party has the puzzle box in their possesion. Her employer wants to trade the party for it. She wants to trade for the puzzle box as she "I wanted to purpose a trade for something in your possesion, and if it were to fall into the Lancer's possession, well, they are not the most honarable business partners". She will offer them anything for the puzzle box "I am very well connected in the area, I could arrange for you to have almost anything or anyone delieverd to you...". Why does she want the puzzle box "I think our reasons are very much the same".
+
+She let's the party know that she will have a letter delivered to them about where they can come and negotiate in the coming days.
