@@ -1,6 +1,6 @@
 # Assists
 
-Core Skills, Vocational Skills, Combat Skills and Vocations can all be used to perform assist rolls. An assist roll is a roll players can make to (potentially) gain additional dice to aid their primary action/objective. Assist rolls are made before the action which the player wishes to receive the assist. Assists may be applied to any logically applicable roll – and the player must first ask the Narrator if the assist roll is appropriate.
+Core Skills, Vocational Skills, Combat Skills and Vocations can all be used to perform assist rolls. An assist roll is a roll players can make to (potentially) gain or give additional dice to aid themselves/others on a primary action/objective. Assist rolls are made before the action which the player wishes to receive the assist. Assists may be applied to any logically applicable roll – and the player must first ask the Narrator if the assist roll is appropriate.
 
 If the player is in a position where a skill they possess would logically assist or grant an advantage to another skill or combat roll the Narrator can assign a Challenge Level ( **CL** ) based on the difficulty of the assist.
 
