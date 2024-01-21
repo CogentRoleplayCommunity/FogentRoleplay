@@ -1,4 +1,10 @@
-## What is Fogent?
+## What the heck is a Fogent?
+
+Howdy y'all,
+
+I'm Javk Wick and welcome to Fogent.
+
+Fogent is a generalizable Roleplay system that is intended to remove unneeded complexity while not sacrifice emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, and sweet loot of D&D, than you are in the right place. 
 
 ## Cogent Roleplay Open License
 
