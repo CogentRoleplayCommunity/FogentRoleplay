@@ -59,7 +59,7 @@
 | ----------------------------- | :-: | :-----------------------------------------------------------------------------: | ----------------- | :-------: | :--------: | :-: | :---: |
 | Leather Cuirass and Pauldrons | 1 |                                   Body Armor                                   | Phy. Def. 1.00    |  Quality  |   15/15   | 6 | 5 bc |
 | Clothes, Traveler             | 1 |                                                                                |                   |  Mundane  |            | 4 | 5 bc |
-| Monkey Staff                  | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extentable Weapon | Excellent |   21/21   | 4 |   ?   |
+| Monkey Staff                  | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   | 4 |   ?   |
 
 ## Containers
 
