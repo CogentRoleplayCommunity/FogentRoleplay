@@ -755,7 +755,7 @@ This corridor was originally a segment of Rozen Manor's ancient cellars. The Lav
 A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every ten feet, faux columns decorate the walls, while the double doors at the western end display copper plating that has now turned green with age. These doors feature an intricately carved depiction of a sorrowful angel.
 ```
 
-Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a DC 10 Dexterity (Acrobatics) check.
+Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a CL 2 Acrobatics Skill check.
 
 A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
 
@@ -801,7 +801,7 @@ Two Lavender Lancer ruffians donned in Lavendar cloaks serve as guards in this p
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful DC 10 Slieght Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Lift Skill check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Lift Skill check.
 
 #### Captives
 
@@ -877,7 +877,7 @@ In terms of Skill & Destiny Points, divide 450 XP equally among the characters i
 
 ### 9. Guard Barracks
 
-A character who listens at this door with a successful DC 10 Perception Skill Check can discern several gruff voices speaking derogatory commands in the Vermkin tongue, such as "Lick the floor!" and "Roll like a dog!" The Ferralkins in this room are tormenting their Vermkin captive.
+A character who listens at this door with a successful CL 2 Perception Skill Check can discern several gruff voices speaking derogatory commands in the Vermkin tongue, such as "Lick the floor!" and "Roll like a dog!" The Ferralkins in this room are tormenting their Vermkin captive.
 
 ```
 This chamber serves as a barracks, furnished with four rudimentary wooden bunks, topped with rumpled blankets, and littered with soiled dishes. An unpleasant odor of unwashed bodies and decaying food permeates the air. Among the chaos, three tall, furry humanoids lounge, sadistically issuing orders to a pitiful Vermkin who debases itself for their entertainment. The sudden appearance of your party startles the Vermkin to the point of fainting.
@@ -911,7 +911,7 @@ For Skill & Destiny Points, divide 600 XP equally among the characters if the pa
 
 This area functions as the Lavender Lancers' central command and gathering space. When official business isn't in session, it transforms into a common area where the fortress's guards can unwind during their off hours.
 
-If a character listens at the door with a successful DC 10 Perception Skill Check, they can overhear the villains inside immersed in a knucklebones game. This results in a mysterious clinking noise, followed by exclamations, moans, and a sudden chatter of voices as bets are settled. If the party abruptly enters the room, they automatically take the occupants by surprise.
+If a character listens at the door with a successful CL 2 Perception Skill Check, they can overhear the villains inside immersed in a knucklebones game. This results in a mysterious clinking noise, followed by exclamations, moans, and a sudden chatter of voices as bets are settled. If the party abruptly enters the room, they automatically take the occupants by surprise.
 
 ```
 The room features numerous worn tables and chairs, with wooden benches lining the walls adorned with drapes of brown and red. Several kegs of ale are propped up and tapped.
@@ -921,7 +921,7 @@ Four burly mudblood warriors, donned in Lavendar cloaks, have gathered around on
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
 
-Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavendar cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a DC 10 Communication Skill check to hoodwink the Lavender Lancers.
+Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavendar cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Communication Skill check to hoodwink the Lavender Lancers.
 
 #### Treasure
 
@@ -1124,7 +1124,7 @@ The camp is currently occupied by a runesmith who is fervently exploring the sit
 
 There are twelve zombies concealed within the shattered shell of the former watchtower, unseen from the outside. However, any character with a passive Wisdom (Perception) score of 10 or higher detects a putrid scent wafting from the direction of the tower. When the characters approach the tower or the tent, the zombies emerge from within the structure.
 
-If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a DC 10 General Knowledge skill check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 General Knowledge Skill check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
+If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a CL 2 General Knowledge skill check recognizes Kost's tattoo as a necromantic symbol. A successful CL 2 General Knowledge Skill check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
 
 If any character tries to initiate a dialogue with Kost, even through a greeting or by responding to his questions during combat, he momentarily halts his zombies. The Red Wizard is not overtly aggressive and is willing to negotiate a deal that serves both his interests and the party's.
 
@@ -1167,7 +1167,7 @@ Lumgrove's structures have largely crumbled or are gradually being reclaimed by 
 
 Ruined buildings consist of empty stone shells with walls ranging from 5 to 8 feet high. Their roofs have long vanished, leaving behind piles of debris within the walls. The debris makes movement challenging, as per "Difficult Terrain" rules in the rulebook.
 
-Intact buildings are deteriorated, makeshift stone cottages that remain standing. Their wooden doors are swollen, requiring a successful DC 10 Lift Skill check to fogrekine open. These buildings feature narrow windows covered by wooden shutters containing 6-inch wide arrow slits, providing three-quarters cover to creatures on one side against attacks from the other side (as per "Cover" in the rulebook). Dusty furnishings, such as simple wooden chairs and tables, are present in most intact buildings.
+Intact buildings are deteriorated, makeshift stone cottages that remain standing. Their wooden doors are swollen, requiring a successful CL 2 Lift Skill check to fogrekine open. These buildings feature narrow windows covered by wooden shutters containing 6-inch wide arrow slits, providing three-quarters cover to creatures on one side against attacks from the other side (as per "Cover" in the rulebook). Dusty furnishings, such as simple wooden chairs and tables, are present in most intact buildings.
 
 **Trees and Brush.** Trees reach an average height of 30 to 40 feet and offer cover. Brush consists of large bushes that create difficult terrain.
 
@@ -1201,7 +1201,7 @@ These plant creatures are hungry and will fight until they are destroyed. In the
 
 #### Treasure
 
-A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful DC 10 Perception Skill Check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 2300 copper coins, and 90 bronze coins.
+A former resident, who used to live here, had stashed a chest filled with coins beneath the flagstone floor of his residence. A comprehensive search of the interior of the eastern cottage and a successful CL 2 Perception Skill Check will reveal the old chest nestled amid the roots of a tree growing through the house. The chest holds 2300 copper coins, and 90 bronze coins.
 
 #### Awarding Skill & Destiny Points
 
@@ -1228,7 +1228,7 @@ ASH ZOMBIES
 
 These abominations were born from the magical calamity caused by Mount Hotenow's eruption three decades ago. They share the same characteristics as standard zombies but possess an additional trait as follows:
 
-Ash Puff: When a zombie sustains damage for the first time, any living creature within 5 feet of the zombie must make a DC 10 Constitution saving throw. Failing the saving throw results in disadvantage on attack rolls, saving throws, and ability checks for one minute. The affected creature can repeat the saving throw at the end of each of its turns to end this effect prematurely with a successful save.
+Ash Puff: When a zombie sustains damage for the first time, any living creature within 5 feet of the zombie must make a CL 2 Endurance Skill check. Failing the saving throw results in disadvantage on attack rolls, saving throws, and ability checks for one minute. The affected creature can repeat the saving throw at the end of each of its turns to end this effect prematurely with a successful save.
 ```
 
 ### **4. Druid Watch**
@@ -1279,7 +1279,7 @@ At the crossroads near the center of the village, a narrow lane ascends the stee
 
 Inside this ruined building, two giant spiders lie in wait on the inner walls, concealed from view outside. The spiders utilize trailing lines from the webs spanning the lane, allowing them to sense the movement of potential prey. They nimbly scuttle over the walls and launch a surprise attack against any character with a passive Wisdom (Perception) score below 17.
 
-The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a DC 10 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a DC 12 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a DC 12 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 Circumventing the webs is made difficult by the dense thickets on the north side of the road. Bypassing the ruined building to the south will lead to the twig blights in area 5.
 
@@ -1353,7 +1353,7 @@ The square remains free from encroaching underbrush.
 At the eastern side of the town, a lane expands, creating a modest square. The southern edge of the square is encircled by several dilapidated buildings, while to the north, a larger, well-preserved structure resembling a barracks stands. Three paths diverge: one leads southeast, another curves southwest around the central hill, and a third meanders north. At the square's center, slightly leaning, a time-worn wooden statue of a warrior gripping a spear and shield catches the eye.
 ```
 
-This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful CL 3 General Knowledge Skill check. If one wishes, the statue can be toppled with a successful DC 20 Lift Skill check.
+This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful CL 3 General Knowledge Skill check. If one wishes, the statue can be toppled with a successful CL 4 Lift Skill check.
 
 ### **11. The Old Garrison**
 
@@ -1395,7 +1395,7 @@ A faction known as the Cult of the Dragon seeks to forge alliances with the migh
 Initially, this small farmhouse may appear as another uninhabited dwelling. However, all doors are shut, and windows remain shuttered.
 ```
 
-The cottage's doors are securely barred from the inside, demanding a successful DC 20 Lift Skill check to fogrekinibly open. Similarly, the shutters are barred from within, and they can be fogrekined open with a successful CL 3 Lift Skill check.
+The cottage's doors are securely barred from the inside, demanding a successful CL 4 Lift Skill check to fogrekinibly open. Similarly, the shutters are barred from within, and they can be fogrekined open with a successful CL 3 Lift Skill check.
 
 Inside the house, six mudblood cultists are hidden. Four of them stand guard, with two in each room, while the rest rest in the larger chamber. These cultists wear black cloaks fashioned to resemble dragon wings and don black leather masks with stylized dragon horns. They are fluent in Common as well as Draconic.
 
@@ -1423,7 +1423,7 @@ The ogrekins are scouts from the Many Arrows tribe and are often found prowling 
 
 ### ogrekin Camp
 
-Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one CL 3 Perception Skill Check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
+Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one CL 3 Perception Skill Check or CL 2 Survival Skill check per hour to find the camp, led by the character taking the lead.
 
 Once the characters find the camp, describe the following:
 
@@ -1491,9 +1491,9 @@ Doors to the north and south are closed, with a pile of crumbling rubble partial
 
 Should the Vermkin sentries in area 3 have raised the alarm, the Vermkins and hobVermkins in areas 4 and 6 will quickly rush out from the north and south doors simultaneously. They will attempt to attack from both directions, aiming to overwhelm the adventurers and drive them out of the castle.
 
- **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful DC 10 Perception Skill Check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
+ **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful CL 2 Perception Skill Check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
 
-Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a DC 10 Acrobatics Skill Check or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
+Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a CL 2 Acrobatics Skill Check or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
 
  **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters if the party detects or survives the trap.
 
@@ -1581,7 +1581,7 @@ This narrow, lofty hall appears to have served as a chapel or shrine long ago. A
 
 Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
-Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a DC 10 Intelligence (Religion) check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
+Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a CL 2 General Knowledge check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
 
 #### **Developments**
 
@@ -1625,7 +1625,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Slieght Of Hand Skill check, or simply fogrekined open with a successful DC 25 Lift Skill check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful DC 25 Lift Skill check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1851,11 +1851,11 @@ The paper within the cubbyholes, ancient and brittle, disintegrates upon contact
 
 #### **Treasure**
 
-Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Slieght Of Hand Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
+Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a CL 4 Sleight Of Hand Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
 
 ### **6. South Barracks**
 
-This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Tunnels between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Perception Skill Check to do so.
+This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Tunnels between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a CL 2 Perception Skill Check to do so.
 
 ```
 Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen molekin and ogrekins, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
@@ -1883,7 +1883,7 @@ The cavern floor is blanketed by an expanse of peculiar fungi, covering extensiv
 
 For the most part, the fungi is innocuous. Interestingly, the green-glowing fungi provide adequate illumination throughout the entire cavern, making the use of darkvision or light sources unnecessary.
 
-**Poison Gas:** However, when any entity attempts to traverse this cavern, the fungal carpets carpeting the floor unleash toxic gases into the air. Each creature present in the cavern must succeed in a DC 11 Constitution saving throw to avoid suffering 3d6 poison damage and being afflicted with the poisoned condition for a duration of 10 minutes (for more details on the poisoned condition, please refer to the rulebook). The poison gas dissipates within a minute. Until that occurs, any living creature concluding its turn within the cavern must reattempt the saving throw.
+**Poison Gas:** However, when any entity attempts to traverse this cavern, the fungal carpets carpeting the floor unleash toxic gases into the air. Each creature present in the cavern must succeed in a DC 11 Endurance Skill check to avoid suffering 3d6 poison damage and being afflicted with the poisoned condition for a duration of 10 minutes (for more details on the poisoned condition, please refer to the rulebook). The poison gas dissipates within a minute. Until that occurs, any living creature concluding its turn within the cavern must reattempt the saving throw.
 
 ### **9. Great Cavern**
 
@@ -1917,7 +1917,7 @@ The wizard's remains bear two platinum rings (valued at 75 bc each) and clasp a 
 
 ### **11. North Barracks**
 
-The eastern door is barricaded from within, necessitating a DC 20 Lift Skill check to fogrekine it open. A character who listens at either door and passes a DC 10 Perception Skill Check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
+The eastern door is barricaded from within, necessitating a CL 4 Lift Skill check to fogrekine it open. A character who listens at either door and passes a CL 2 Perception Skill Check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
 
 ```
 This chamber houses old stone bunks lining the walls, with a warm glow emanating from a central iron brazier.
@@ -1981,7 +1981,7 @@ This building formerly served as guest quarters for visiting wizards collaborati
 
 Mormesk speaks in somber, whispering tones. Upon rising from the floor, the wraith utters, "Your presence is offensive to me, your life forfeit. My treasures are mine alone, not yours to plunder!" If the characters make no effort to negotiate, the wraith will attack.
 
-If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a DC 10 Communication Check check to convince the wraith of its value.
+If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a CL 2 Communication Check check to convince the wraith of its value.
 
 However, the wraith will never relinquish the wooden pipe from the scogrekinhed chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Runes (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
 
@@ -2049,7 +2049,7 @@ A wide rift occupies the eastern half of this cavern. A stream emerges from the 
 
 Three Ferralkins are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male spiderkin named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two Ferralkins in the rift ascend the ropes to join the skirmish.
 
-**Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful DC 10 Climb Skill check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
+**Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful CL 2 Climb Skill check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
 
 #### **Developments**
 
@@ -2057,7 +2057,7 @@ If two or more Ferralkins meet their end, the doppelganger endeavors to withdraw
 
 #### **Treasure**
 
-Nezznar's divinations prove accurate. Concealed beneath the weighty debris at the rift's bottom lies the crushed skeleton of a molekin, donning gauntlets of ogre power. The remains remain concealed but can be discovered with a successful DC 20 Perception Skill Check. Each character searching can attempt one check per hour.
+Nezznar's divinations prove accurate. Concealed beneath the weighty debris at the rift's bottom lies the crushed skeleton of a molekin, donning gauntlets of ogre power. The remains remain concealed but can be discovered with a successful CL 4 Perception Skill Check. Each character searching can attempt one check per hour.
 
 ### **19. The Sanctum of Dumathoin**
 
@@ -2081,7 +2081,7 @@ Nezznar the Black Spider is accompanied by four formidable giant spiders who def
 
 Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the spiderkin does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the spiderkin villain.
 
-**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 General Knowledge check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Acrobatics Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
+**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 General Knowledge check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful CL 2 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Acrobatics Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
 **Table.** The table is strewn with notes and maps, showcasing Nezznar's exploration efforts within the mine. Amid the paperwork lies a black leather sack containing treasure (see the "Treasure" section).
 
@@ -2105,7 +2105,7 @@ If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster W
 
 ### **20. Quarters of the Priests**
 
-The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Slieght Of Hand Skill check to open. Nezznar (from Area 19) possesses the key.
+The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Sleight Of Hand Skill check to open. Nezznar (from Area 19) possesses the key.
 
 Unless the characters are maintaining a stealthy approach, any activity at the door catches the attention of Nezznar and his comrades in Area 19, prompting the spiderkin to dispatch his giant spiders to investigate.
 
