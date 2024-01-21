@@ -24,13 +24,13 @@ Unspent Skill Points: 0
 |          Name          |                                Effect                                | Duration |                                                       Source                                                       |
 | :---------------------: | :------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
 |  Minor Silver Weakness  |    (+1) to the level of injury<br />received from Silver damage.    |          |                                                    Fellkin blood                                                    |
-| Physical Defense Level |                                  2                                  |          |                                                        Armor                                                        |
+| Physical Defense Level |                                  4                                  |          |                                                        Armor                                                        |
 |       Medium Size       |                        5x5 ft on battle map.                        |          |                                                                                                                    |
 |   Language: Babelish   |                         Can speak Babelish.                         |          |                                                                                                                    |
 |     Language: Jotun     |                           Can speak Jotun.                           |          |                                                                                                                    |
 |   Disabling: Delusion   |  Sees his father all the time though doesn't think his is material.  |          |                                                                                                                    |
 |   Disabling: Stubborn   | If he doesn't get his way he will rage out and become uncooperative. |          |                                                                                                                    |
-|    Inventory Weight    |                                22 lb                                |          |                                                      Equipment                                                      |
+|    Inventory Weight    |                                63 lb                                |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                                260 lb                                |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |                   -0d6 to STR/RFX governed skills                   |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |                                35 ft                                |          |                                30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                |
@@ -42,6 +42,7 @@ Unspent Skill Points: 0
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 |      Large Hafted Axe      | 5d6<br />(+0d6) | 8d6<br />(+3d6) |       None       |      2      | Melee |             Hew             |           Rapid           |        None        |        None        |
+|     Large Hafted Blunt     | 4d6<br />(-1d6) | 6d6<br />(+1d6) |       None       |      5      | Melee |           Bludgeon           |           Rapid           |        None        |        None        |
 | Naturecraft - Melee Trick |       3d6       |                |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |                    |
 | Naturecraft - Ranged Trick |       3d6       |                |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
 
@@ -49,27 +50,31 @@ Unspent Skill Points: 0
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-## Destiny Points: 3/3
+## Destiny Points: 2/3
 
 ## Fellblood: 1/1
 
 ## Equipment
 
-| Name                          | # |         Class         | Effect          |  Tier  | Durability | LB |  Value  |
-| ----------------------------- | :-: | :-------------------: | --------------- | :-----: | :--------: | :-: | :-----: |
-| Gambeson Coat                 | 1 | Body Armor, Arm Armor | Phy. Def. 0.625 | Mundane |   12/12   | 5 | 3.13 bc |
-| Gambeson Leggings             | 1 |       Leg Armor       | Phy. Def. 0.375 | Mundane |   12/12   | 3 | 1.87 bc |
-| Leather Cuirass and Pauldrons | 1 |      Body Armor      | Phy. Def. 1.00  | Quality |   15/15   | 6 |  5 bc  |
-| Clothes, Traveler's           | 1 |                      |                 | Mundane |            | 4 |  2 bc  |
-| Dane Axe                      | 1 |   Large Hafted Axe   |                 | Mundane |   12/12   | 4 |  11 bc  |
+| Name                            | # |                Class                | Effect          |   Tier   | Durability | LB |  Value  |
+| ------------------------------- | :-: | :----------------------------------: | --------------- | :-------: | :--------: | :-: | :------: |
+| Gambeson Coat                   | 1 |        Body Armor, Arm Armor        | Phy. Def. 0.625 |  Mundane  |   12/12   |  5  | 3.13 bc |
+| Gambeson Leggings               | 1 |              Leg Armor              | Phy. Def. 0.375 |  Mundane  |   12/12   |  3  | 1.87 bc |
+| Chainmail Coif                  | 1 |              Head Armor              | Phy. Def. 0.38  | Excellent |   21/21   |  6  | 9.57 bc |
+| Chainmail Short-sleeved Hauberk | 1 |              Body Armor              | Phy. Def. 1.15  | Excellent |   21/21   | 18 | 28.72 bc |
+| Chainmail Sleeves/Mitten        | 1 | Arm Armors, Hand Protection Unarmed | Phy. Def. 0.77  | Excellent |   21/21   | 12 | 19.16 bc |
+| Chainmail Chausses              | 1 |              Leg Armor              | Phy. Def. 0.7   | Excellent |   21/21   | 11 | 17.55 bc |
+| Clothes, Traveler's             | 1 |                                      |                 |  Mundane  |            |  4  |   2 bc   |
+| Dane Axe                        | 1 |           Large Hafted Axe           |                 |  Mundane  |   12/12   |  4  |  11 bc  |
+| Great Club                      | 1 |          Large Hafted Blunt          |                 | Mundane  |   12/12    | 10  |  20 cc   |
 
 ## Containers
 
 | Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 23 |                |        | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 87 |                |        | Mundane |            | 0.02 | 1 cc |
+| Bronze Coin       | 2 |                |        | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 67 |                |        | Mundane |            | 0.02 | 1 cc |
 
 ## Notes
 
