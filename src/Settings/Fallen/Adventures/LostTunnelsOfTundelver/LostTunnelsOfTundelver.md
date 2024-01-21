@@ -945,7 +945,7 @@ If the characters opt to leave the rat unharmed, it will follow them around as i
 
 **Books and Notes.** Within the room, you'll find books and notes scattered about, as Sylas is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Sylas's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
 
-Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with serpentkins and molekin from Tundelver's Pact. This mace went missing when Tide Echo Tunnels and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Tunnels.")
+Among the books, there's a tome penned in Tunnel-tongue. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with serpentkins and molekin from Tundelver's Pact. This mace went missing when Tide Echo Tunnels and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Tunnels.")
 
 #### Developments
 
@@ -1311,7 +1311,7 @@ In the tower, a youthful green dragon named Venomfang recently claimed dominion.
 
 An aged wooden chest, its lid broken open and resting on the tower floor, safeguards the last remnants of a deceased wizard's wealth. The chest contains 230 bc, four silver goblets adorned with moonstones (valued at 60 bc each), a scroll of misty step, and a scroll of lightning bolt. Venomfang takes great delight in surveying its hoard.
 
-Remarkably, the most intriguing item in the hoard is often overlooked by the dragon. Beneath the coins lies a rustic battleaxe of molekin craftsmanship. Dwarvish runes on the axe head read "Hew," and the rust obscures its true nature. Hew is a +1 battleaxe that deals maximum damage when used against plant creatures or wooden objects. The axe's creator, a molekin smith, had a long-standing feud with the forest's dryads, from whom he gathered firewood. Anyone wielding this axe feels discomfort while traversing a forest.
+Remarkably, the most intriguing item in the hoard is often overlooked by the dragon. Beneath the coins lies a rustic battleaxe of molekin craftsmanship. Runes on the axe head read "Hew," and the rust obscures its true nature. Hew is a +1 battleaxe that deals maximum damage when used against plant creatures or wooden objects. The axe's creator, a molekin smith, had a long-standing feud with the forest's dryads, from whom he gathered firewood. Anyone wielding this axe feels discomfort while traversing a forest.
 
 #### Awarding Skill & Destiny Points
 
@@ -1847,7 +1847,7 @@ This room, formerly the domain of the mine's assayers, was once a hub for weighi
 
 Within this chamber, the remnants of its past purpose are evident. A substantial stone counter divides the room, adorned with three dusty iron balance scales. On the north wall, cubbyholes have been carved out, filled with aged, dusty paper scraps. Several lifeless bodies, serpentkins and ores from the looks of them, lie sprawled across the floor.
 
-The paper within the cubbyholes, ancient and brittle, disintegrates upon contact. However, a character well-versed in Dwarvish can discern faint markings on a few surviving scraps, which record weigh-ins and disbursements.
+The paper within the cubbyholes, ancient and brittle, disintegrates upon contact. However, a character well-versed in Tunnel-tongue can discern faint markings on a few surviving scraps, which record weigh-ins and disbursements.
 
 #### **Treasure**
 
