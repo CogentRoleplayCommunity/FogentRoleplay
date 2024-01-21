@@ -203,6 +203,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 - [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md)
 - [Shape Shift](Spells/Apprentice/Shapeshift.md)
 - [Short Teleport](Spells/Apprentice/ShortTeleport.md)
+- [Weird Insight](Spells/Apprentice/WeirdInsight.md)
 
 ### Adept Spells
 
