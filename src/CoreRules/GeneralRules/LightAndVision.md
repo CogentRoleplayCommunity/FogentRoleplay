@@ -35,3 +35,7 @@ Blindsight allows a creature to perceive its environment without the need for si
 ### Darkvision
 
 A special ability that many creatures in fantasy realms, particularly those that live underground, possess. This ability allows a creature to see in dim light as if it were bright light, and see in darkness as if it were dim light up to a certain distance. However, the trade-off is that they can't distinguish colors in the dark, only different shades of gray.
+
+### Truesight
+
+A being possessing truesight can, within a designated range, perceive both in regular and magical darkness, observe invisible entities and objects, effortlessly discern visual illusions, succeed on skill checks against them, and discern the true form of a shapechanger or a creature altered by magic. Additionally, this creature has the ability to see into the Ethereal Plane.
