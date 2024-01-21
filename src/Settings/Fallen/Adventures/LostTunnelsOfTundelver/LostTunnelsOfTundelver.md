@@ -8,7 +8,7 @@ Part 2, titled "Tuntin," finds the characters arriving in the troubled town of T
 
 Part 3, aptly titled "The Spider's Web," presents the characters with several short adventures within the vicinity of Tuntin. These quests revolve around acquiring additional information concerning the Black Spider and the lost molekin mine. The clues the characters gather in Tuntin lead them to spying on a mysterious wizard at the Old Mole Well ruins, seeking advice from a perilous banshee, confronting a band of ogrekins lurking at Wyrm Tor, and investigating the ruins of Lumgrove town. Several of these leads guide them towards Mountainmaw Castle, the stronghold of King Grom, leader of the Mountainmaw Feralkin. Here, the characters make a startling discovery: the Black Spider is a spiderkin mastermind named Nezznar, and the Mountainmaw Vermkins serve her. Spiderkin, for context, are a subterranean chitinkin race. Most importantly, the characters either retrieve Burrowbard Stoneseeker's map to the lost mine or uncover the mine's location through one of the leads from Part 3.
 
-Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Cavern." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and her loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
+Following the map or the directions to the lost mine takes the characters to Part 4, "Tide Echo Tunnels." This once-forgotten subterranean complex is now overrun by undead and bizarre creatures. Nezznar the Black Spider and her loyal followers are present, exploring the mines and hunting for the legendary Forge of Runes. The adventurers have the opportunity to avenge Burrowbard Stoneseeker, secure the prosperity and safety of Tuntin by clearing the valuable mine of its menacing inhabitants, and put an end to the Black Spider's troublemaking - if they can survive the perils of the "Lost Mine of Tundelver."
 
 ## Villainous Synopsis
 
@@ -341,7 +341,7 @@ The Vermkin leader, Yeek, holds the second-in-command position in the hideout. I
 
 Should the characters refuse to parley, Yeek forcefully shoves Ulfric over the edge and proceeds with the fight. Ulfric sustains a bludgeon Minor Injury from the fall, rendering him unconscious. Quick-thinking characters can try to stabilize him before he succumbs to death.
 
-Ulfric Warwinter, a kindhearted mudblood male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Eastern Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Cavern, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
+Ulfric Warwinter, a kindhearted mudblood male with a place of honor in Reddwall's famed cavalry, is nearly fifty years old. As a member of the Eastern Alliance, he is dedicated to ensuring the safety of cities and settlements. Accompanying Burrowbard Stoneseeker to Tuntin, Ulfric seeks to investigate the disappearance of Sylas Alabaster, a fellow Alliance member. He provides valuable information to the characters, including details about the Stoneseeker brothers' discovery of Tide Echo Tunnels, Thrak's orders to waylay Burrowbard, and the missing map indicating the secret location of the cave.
 
 Additionally, Ulfric reveals that Burrowbard's gear, along with his own, was taken to Mountainmaw Castle. As an NPC party member, Ulfric, if rescued and healed, remains with the party with the goal of reaching Tuntin as swiftly as possible. Although he lacks weapons or armor, he can wield a weapon taken from a defeated Vermkin or provided by a character.
 
@@ -431,7 +431,7 @@ And all the while, underground, in that deep dark place a creature with a single
 
 # **Part 2: Tuntin**
 
-Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling mudblood town, firmly allied with the molekin and serpentkins of the Tundelver's Pact. However, the same horde of ogrekin marauders who plundered the mines at Tide Echo Cavern razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
+Tuntin, a frontier town, is perched atop the remnants of a much older settlement. Centuries ago, the former Tuntin thrived as a bustling mudblood town, firmly allied with the molekin and serpentkins of the Tundelver's Pact. However, the same horde of ogrekin marauders who plundered the mines at Tide Echo Tunnels razed the settlement, causing Tuntin to be abandoned and left in ruins for ages.
 
 Over the past three or four years, resilient settlers from the cities of Reddwall and Emerald Falls embarked on the challenging mission of resurrecting the Tuntin of old. Out of these efforts, a thriving frontier town now stands, attracting a diverse array of inhabitants such as farmers, woodcutters, fur traders, and prospectors, all enticed by tales of gold and platinum hidden within the nearby foothills of the Spine of the World Mountains.
 
@@ -588,7 +588,7 @@ Qelline Alderleaf, a wise and practical female mousekin aged forty-five, is an a
 
 **Carp's Tale.** Qelline's ten-year-old son, Carp, is a spirited and curious young mousekin. Carp is captivated by the idea of becoming an adventurer and shares a fascinating story. He mentions that while he was playing in the woods near Rozen Manor, he stumbled upon a concealed tunnel in a thicket. During his discovery, a couple of "big, menacing bandits" emerged from the tunnel, engaging with Lavender Lancers in the vicinity. Thankfully, Carp managed to remain concealed from their view, but the situation was precarious. Carp believes that the bandits maintain a hidden lair beneath the old manor house. He can either guide the characters to the tunnel's entrance or provide them with directions. This tunnel leads directly to area 8 in the Lavender Lancer hideout.
 
-**Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Tide Echo Cavern, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
+**Quest: Reidoth the Druid.** Qelline and Reidoth, a druid, share a longstanding friendship. If Qelline deduces that the characters are in search of specific locations such as Mountainmaw Castle or Tide Echo Tunnels, she suggests they visit Reidoth for assistance since he possesses extensive knowledge of the land. Qelline informs the characters that Reidoth recently embarked on a journey to the Lumgrove ruins, located just west of the Highmount Wood. These ruins are situated approximately fifty miles northwest of Tuntin. She provides detailed directions to help the characters locate this place. If the party pursues this quest, refer to the "Ruins of Lumgrove" section for further information.
 
 ### Shrine of the Moon
 
@@ -618,7 +618,7 @@ The town master's hall includes a small yet functional jail in its cellar, featu
 
 **Quest: Ore Trouble.** Harbin seeks a group willing to venture east on the Trident Trail, as travelers have reported issues with a band of ogrekins near Wyrm Tor. He offers a 100 bc reward to any party capable of resolving the problem. For further details about this quest, consult "Wyrm Tor" on page 35.
 
-**Quest: Finding Mountainmaw Castle.** After resting at the Bedrock Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Cavern and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
+**Quest: Finding Mountainmaw Castle.** After resting at the Bedrock Inn, Ulfric Warwinter takes up residence at the town master's hall. In his role as a representative of the Eastern Alliance, his aim is to restore law and order to Tuntin. He intends to locate the lost mine of Tide Echo Tunnels and assist the Stoneseeker brothers in bringing it back into operation, believing that this would foster prosperity in the region and civilize the town.
 
 Ulfric also encourages the characters to maintain pressure on the Mountainmaw Vermkins. He offers a 500 bc reward to the party if they can locate Mountainmaw Castle and defeat or expel the tribe's chieftain. Ulfric suggests that the party could find the castle by scouting the lands surrounding the Trident Trail for further raiding parties (refer to "Wilderness Encounters" in the "Trident Trail" section of part 3).
 
@@ -688,9 +688,9 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Ceilings.** The height of passages and chambers is typically 10 feet, unless otherwise specified.
 
-**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful DC 10 Dexterity check, and doors can be forcefully broken down with a successful DC 20 Strength check.
+**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Sleight of Hand check, and doors can be forcefully broken down with a successful CL 4 Lift check.
 
-**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Wisdom (Perception) score of 15 or higher. A character who actively searches the wall can uncover the secret door with a successful DC 10 Perception Skill Check. These secret doors swing open on concealed iron hinges and are not locked.
+**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Perception score of at least 3 (6 dice in perception dice poll). A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
 
 **Light.** Most areas within the hideout are illuminated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
@@ -698,7 +698,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 >
 > If the characters charm or successfully interrogate any of the Lavender Lancers, they can acquire valuable information, including the hideout's location under Rozen Manor and the following insights:
 >
-> 1. The leader of the Lavender Lancers is a mudblood runesmith named Glassmith, whose nickname originates from his staff, made entirely of glass.
+> 1. The leader of the Lavender Lancers here in Tuntin is a mudblood runesmith named Glassmith, whose nickname originates from his staff, made entirely of glass.
 > 2. The Black Spider, a mysterious figure, has hired the Lavender Lancers to deter adventurers and intimidate the local population. The reasons behind these actions remain unknown. Feralkin have been dispatched by the Black Spider to reinforce the Lavender Lancers and provide additional strength.
 > 3. The lower section of the complex is guarded by a grotesque "eye monster."
 > 4. The Lavender Lancers hold several captives in a location "near the old crypts," which are safeguarded by skeletons.
@@ -895,7 +895,7 @@ Droop possesses knowledge of the general layout of the Lavender Lancer hideout, 
 
 #### Developments
 
-Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Cavern. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
+Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Tunnels. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
 
 #### Treasure
 
@@ -943,7 +943,7 @@ If the characters opt to leave the rat unharmed, it will follow them around as i
 
 **Books and Notes.** Within the room, you'll find books and notes scattered about, as Sylas is striving to master the art of brewing potions and creating alchemical mixtures. These books and notes primarily consist of basic texts on alchemy. Any character with proficiency in Arcana can observe that Sylas's setup seems to be geared toward crafting potions of invisibility, although he has yet to achieve success.
 
-Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with serpentkins and molekin from Tundelver's Pact. This mace went missing when Tide Echo Cavern and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Cavern.")
+Among the books, there's a tome penned in Dwarvish. It's the journal of an adventurer named Urmon, detailing the history of the Lost Mine of Tundelver and the Forge of Runes (Information in the first and second paragraphs of the "Background" section). In addition, Urmon's journal recounts that a magical mace named Lightbringer was commissioned by Lathander, the god of dawn, from the mages collaborating with serpentkins and molekin from Tundelver's Pact. This mace went missing when Tide Echo Tunnels and its mine vanished from history. (Characters might find the mace in part 4, "Tide Echo Tunnels.")
 
 #### Developments
 
@@ -984,8 +984,8 @@ Should he be reduced to 8 or fewer hit points with no means of escape, Sylas sur
 If questioned while in captivity, Sylas provides the following information, all of which is accurate:
 
 * The Black Spider is a spiderkin.
-* The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Lavender Lancers have managed without them. The Ferralkins know the way to Tide Echo Cavern, but Sylas does not.
-* The Black Spider is searching Tide Echo Cavern for the Forge of Runes. molekin and serpentkins of the Tundelver's Pact used the magical forge to create powerful magic items.
+* The Black Spider sent three Ferralkins to assist Sylas in controlling the population of Tuntin, but the Lavender Lancers have managed without them. The Ferralkins know the way to Tide Echo Tunnels, but Sylas does not.
+* The Black Spider is searching Tide Echo Tunnels for the Forge of Runes. molekin and serpentkins of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
 ### Develoments
@@ -1018,7 +1018,7 @@ Depending on which NPCs the characters have interacted with and the clues or que
 
 * Sister Garaele has requested that the characters visit the banshee Agatha in the ruined town of Conyberry to inquire about Bowgentle's spellbook.
 * Levi Gemwerth has expressed interest in discovering who lurks near the ruins at Old Mole Well.
-* Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Tide Echo Cavern, or both.
+* Qelline Alderleaf has suggested that the characters journey to the dilapidated town of Lumgrove and consult with the druid Reidoth, who might possess knowledge regarding the whereabouts of Mountainmaw Castle, Tide Echo Tunnels, or both.
 * Townmaster Harbin Wester desires the characters to investigate an ogrekin encampment near Wyrm Tor and remove the ogrekins from the area.
 * Ulfric Warwinter's mission is to locate Mountainmaw Castle, search for Burrowbard Stoneseeker, rescue the molekin, and recover his map.
 
@@ -1102,7 +1102,7 @@ The spectral figure flashes a cold, amused smile and utters, "Very well," in an 
 
 If the characters inquire about Bowgentle's spellbook, Agatha reveals that she traded the tome to a necromancer named Tsernoth in the city of Iriaebor over a century ago. She remains oblivious to the book's subsequent fate. Her response is accurate, furnishing Sister Garaele and the Harpers with the information needed to continue their search.
 
-Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Tide Echo Cavern, the identity of the Black Spider, or Hamun Kost's question regarding Old Mole Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
+Alternatively, the characters may choose to inquire about another matter, such as the whereabouts of Mountainmaw Castle, Tide Echo Tunnels, the identity of the Black Spider, or Hamun Kost's question regarding Old Mole Well (refer to that section). Agatha is well-informed and skilled in divination, enabling her to address almost any single question pertaining to the adventure that the characters decide to pose. However, the banshee will answer only one question, compelling the characters to select their query carefully.
 
 #### Awarding Skill & Destiny Points
 
@@ -1245,7 +1245,7 @@ Reidoth excels at avoiding the ash zombies that now inhabit the village and navi
 
 If the characters inquire about Mountainmaw Castle, Reidoth readily offers directions. As a member of the Emerald Enclave, a widely-spread organization of wilderness survivalists dedicated to preserving the natural balance and addressing threats to it, he is well-aware of the need to protect this equilibrium. The Enclave strives to maintain harmony between the elemental fogrekines of the world, prevent the excesses of civilization and wilderness from clashing, and support those facing the dangers of the wilds. Reidoth considers the Vermkins as a perilous threat to this delicate balance.
 
-Regarding Tide Echo Cavern, Reidoth refuses to disclose its location but offers to guide the party there in exchange for a favor. His request is for them to confront the dragon in area 7. If they succeed in this daunting task, Reidoth will uphold his end of the bargain but will not accompany the party inside the mine.
+Regarding Tide Echo Tunnels, Reidoth refuses to disclose its location but offers to guide the party there in exchange for a favor. His request is for them to confront the dragon in area 7. If they succeed in this daunting task, Reidoth will uphold his end of the bargain but will not accompany the party inside the mine.
 
 Should the characters turn hostile and attack him for any reason, Reidoth takes the form of a gray squirrel and darts out of the cottage through a crack in the wall, disappearing into the woods. His watch post contains nothing of material value.
 
@@ -1417,7 +1417,7 @@ Divide 150 XP equally among the characters if the party successfully defeats or 
 
 Wyrm Tor, a prominent landmark in the rugged hills northeast of the Spine of the World Mountains, is visible from up to twenty miles away. Travelers along the Trident Trail near Conyberry catch glimpses of Wyrm Tor to the south. In the past, Wyrm Tor was home to a formidable nest of wyverns, but years ago, a brave group of adventurers eradicated the creatures. While the wyverns have never returned, other creatures occasionally take up residence here. The current occupants of Wyrm Tor include a band of ogrekins and their ogre ally.
 
-The ogrekins are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brughor Axe-Biter, a savage brute more inclined toward murder and looting than scouting.
+The ogrekins are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brugore Axe-Catcher, a savage brute more inclined toward murder and looting than scouting.
 
 ### ogrekin Camp
 
@@ -1431,11 +1431,11 @@ As you ascend a rugged ridge on the lower slopes of the hill, a faint smell of s
 
 If the characters can quietly and efficiently eliminnate the lone ogrekin, they have the chance to surprise the ogrekins inside the cave. If the sentry spots the characters sneaking up or is not silenced during the surprise round, the ogrekin will retreat back into the cave to warn the others.
 
-The marauders within the cave consist of Brughor Axe-Biter (an ogrekin with 30 hit points), six ordinary ogrekins, and a filthy ogre named Gog. Gog fights until slain, while the ogrekins fight until Brughor is killed, at which point any remaining ogrekins will flee.
+The marauders within the cave consist of Brugore Axe-Catcher (an ogrekin with 30 hit points), six ordinary ogrekins, and a filthy ogre named Gog. Gog fights until slain, while the ogrekins fight until Brugore is killed, at which point any remaining ogrekins will flee.
 
 #### Treasure
 
-Brughor's band plundered several homesteads to the north on their way to Wyrm Tor. In the cave, an unlocked treasure chest holds 2550 copper coins, 61 bronze coins, and three vials of perfume (each worth 10 bc).
+Brugore's band plundered several homesteads to the north on their way to Wyrm Tor. In the cave, an unlocked treasure chest holds 2550 copper coins, 61 bronze coins, and three vials of perfume (each worth 10 bc).
 
 #### Awarding Skill & Destiny Points
 
@@ -1679,7 +1679,7 @@ This chamber has been crudely arranged as a living space, with thick furs servin
 
 King Grom, an elderly yet formidable Ferralkin with 45 hit points, presides over the Mountainmaws through sheer fogrekine and intimidation. Though age has bent his shoulders and stooped his back, his agility and strength are still impressive. Grom is relentless and unforgiving, and none of the Mountainmaw tribe dare cross him.
 
-Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female spiderkin. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Cavern from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the spiderkin. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminnate the molekin and destroy the map.
+Grom is accompanied by Snarl, a wolf with 18 hit points, and a doppelganger posing as a female spiderkin. This doppelganger, Vyerith, serves as a messenger from the Black Spider and has come to obtain Burrowbard Stoneseeker and the map to Tide Echo Tunnels from King Grom. However, Grom is more inclined to sell the map rather than hand it over, leading to negotiations between him and the spiderkin. Vyerith initially wishes to question Burrowbard to ascertain if anyone else possesses knowledge of the mine's location before planning to eliminnate the molekin and destroy the map.
 
 In the event that the villains have been forewarned of an impending attack, Vyerith conceals herself behind the northeastern door, leaving it slightly ajar in anticipation of ambushing intruders from behind. King Grom holds Burrowbard as a hostage and is prepared to execute the molekin if the characters don't withdraw.
 
@@ -1697,7 +1697,7 @@ Should Burrowbard regain consciousness, he expresses his gratitude to the party 
 
 #### **Treasure**
 
-Concealed beneath Grom's bed mattress is a sewn leather sack containing 20 cc, 82 bc, three potions of healing, and Burrowbard's map to Tide Echo Cavern.
+Concealed beneath Grom's bed mattress is a sewn leather sack containing 20 cc, 82 bc, three potions of healing, and Burrowbard's map to Tide Echo Tunnels.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1719,15 +1719,15 @@ Divide 500 XP equally among the characters if they conquer the hobVermkin war ba
 
 ### **What's Next?**
 
-Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Cavern to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider ogrekinhestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 bc each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
+Should Burrowbard Stoneseeker survive his ordeal in Mountainmaw Castle, he expresses his gratitude to the party and requests that they accompany him back to Tuntin. He further urges the characters to embark on a quest to Tide Echo Tunnels to determine the fate of his brothers, Nundro and Tharden. Burrowbard is aware that an individual known as the Black Spider ogrekinhestrated his capture and hopes that the adventurers will thwart the antagonist's plans. Upon their return to Tuntin, Burrowbard rewards the characters with 25 bc each for their assistance and promises them a 10 percent share of the mine's wealth once his operation there is operational.
 
-With the revelation of the location of Tide Echo Cavern, the characters are now prepared to set forth in search of the ancient molekin mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
+With the revelation of the location of Tide Echo Tunnels, the characters are now prepared to set forth in search of the ancient molekin mine. Their objective is to uncover the identity of the Black Spider and ascertain the reasons behind the villain's intense interest in the Lost Mine of Tundelver
 
-## **Part 4: Tide Echo Cavern**
+## **Part 4: Tide Echo Tunnels**
 
-Situated fifteen miles to the east of Tuntin, in the deep valleys of the Spine of the World Mountains, Tide Echo Cavern hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminnate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Cavern.
+Situated fifteen miles to the east of Tuntin, in the deep valleys of the Spine of the World Mountains, Tide Echo Tunnels hides the rich mine of Tundelver's Pact, which was lost five centuries ago during ogrekin invasions that ravaged this part of the North. Over the centuries, numerous prospectors and adventurers have sought the mine, but none succeeded until the Stoneseeker brothers found its entrance just a month ago. However, they were unaware they were trailed by spies in the service of Nezznar, the Black Spider, who followed them to their discovery. The spiderkin villain dealt with the two Stoneseeker guardians, arranged for Burrowbard's ambush, and upon learning of the adventurers' association with Burrowbard and their exploits in Tuntin, the Black Spider has given orders to eliminnate the characters. Meanwhile, Nezznar commences his exploration of Tide Echo Tunnels.
 
-Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and serpentkin contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Cavern, fogrekining him to proceed with extreme caution.
+Nezznar seeks the Forge of Runes, where runesmiths from old Tuntin enchanted molekin weapons and serpentkin contraptions. However, Nezznar's progress has been impeded by restless undead and perilous monsters within Tide Echo Tunnels, fogrekining him to proceed with extreme caution.
 
 The adventurers now have an opportunity to assist Burrowbard, avenge his kin, and thwart the Black Spider's sinister plans. Furthermore, the rumored hoard of potent magic hidden within the mines promises a valuable prize.
 
@@ -1779,19 +1779,19 @@ The mine is characterized by its cold, damp atmosphere and surprising drafts. A 
 
 ## Keyed Encounters
 
-All the encounters in this part of the adventure correspond to the map of Tide Echo Cavern.
+All the encounters in this part of the adventure correspond to the map of Tide Echo Tunnels.
 
 ```
 BOOMING WAVES
 
-Every exceptional dungeon has distinguishing features that make it unique, and Tide Echo Cavern is no exception. Throughout the mine, there is a rhythmic sound of thunderous waves that reverberates, causing the very ground beneath to shudder. These waves come roughly every two minutes, intensifying as one moves northeast.
+Every exceptional dungeon has distinguishing features that make it unique, and Tide Echo Tunnels is no exception. Throughout the mine, there is a rhythmic sound of thunderous waves that reverberates, causing the very ground beneath to shudder. These waves come roughly every two minutes, intensifying as one moves northeast.
 
-While Tide Echo Cavern is far from the ocean, a water-filled cavern deep within the mine is connected to an underground hot spring. This spring continuously overflows, creating a surge that slams into a narrow funnel, producing a noise resembling crashing waves. On occasion, you should describe this sound to the players. It will pique their curiosity and draw them towards its source, naturally enticing them to venture deeper into the mine.
+While Tide Echo Tunnels is far from the ocean, a water-filled cavern deep within the mine is connected to an underground hot spring. This spring continuously overflows, creating a surge that slams into a narrow funnel, producing a noise resembling crashing waves. On occasion, you should describe this sound to the players. It will pique their curiosity and draw them towards its source, naturally enticing them to venture deeper into the mine.
 ```
 
 **1. CAVE ENTRANCE**
 
-Whether the characters are following Burrowbard's map or have received directions to Tide Echo Cavern from another source, their initial approach leads them to a narrow tunnel concealed within the Spine of the World Mountain foothills.
+Whether the characters are following Burrowbard's map or have received directions to Tide Echo Tunnels from another source, their initial approach leads them to a narrow tunnel concealed within the Spine of the World Mountain foothills.
 
 ```
 The entrance tunnel opens into a large cavern supported by a natural rock pillar and containing three stalagmites. Behind the rock column in the western part of the cave are three bedrolls and an assortment of everyday supplies such as sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other equipment. Amidst these supplies lies the body of a deceased molekin miner, who has been lifeless for at least a week.
@@ -1805,11 +1805,11 @@ This area used to serve as the campsite for the Stoneseeker brothers. The deceas
 
 #### **Treasure**
 
-Tharden wears a pair of boots of striding and springing. In his hurry to explore the rest of Tide Echo Cavern, Nezznar missed them.
+Tharden wears a pair of boots of striding and springing. In his hurry to explore the rest of Tide Echo Tunnels, Nezznar missed them.
 
 ### **2. Mine Tunnels**
 
-This intricate network of passages constitutes an old section of the original Tide Echo Cavern mine.
+This intricate network of passages constitutes an old section of the original Tide Echo Tunnels mine.
 
 ```
 This area is characterized by multiple intersecting passageways with ceilings that are only six feet high, and some of these passages lead to partially excavated rock faces.
@@ -1819,7 +1819,7 @@ These dead-end passages mark areas where the miners abandoned their efforts, opt
 
 ### **3. Old Entrance**
 
-The southern tunnel once served as the original entrance to Tide Echo Cavern but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when ogrekins laid siege to the mines. The fallen still lie where they perished.
+The southern tunnel once served as the original entrance to Tide Echo Tunnels but was buried during the destruction that shook the mines centuries ago. This was the site of a fierce battle when ogrekins laid siege to the mines. The fallen still lie where they perished.
 
 ```
 In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and serpentkin miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of molekin and others ogrekins, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
@@ -1853,7 +1853,7 @@ Behind the counter, a securely locked iron strongbox can be found, requiring the
 
 ### **6. South Barracks**
 
-This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Cavern between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Perception Skill Check to do so.
+This room served as a miners' barracks, providing rest for the skilled delvers working within Tide Echo Tunnels between their shifts. Anyone who listens at the partially open door can faintly discern crunching and splintering sounds, making a DC 10 Perception Skill Check to do so.
 
 ```
 Inside this chamber, old stone bunks are neatly arranged along the walls, while a corroded iron brazier filled with cold coals sits near the room's center. The floor is strewn with the bones of half a dozen molekin and ogrekins, all adorned with fragments of their armor. Amongst the remains, three gray, hunched figures squat, pawing at the scraps and gnawing on the bones.
@@ -1927,7 +1927,7 @@ If the party enters from the west, an additional description is needed:
 On the opposite side of the room, there is another door, obstructed by a makeshift barricade constructed from the remnants of a wooden table.
 ```
 
-Five Ferralkins inhabit this room, faithfully serving Nezznar. This room marks the front line in the Black Spider's assault on Tide Echo Cavern, and the Ferralkins are tasked with deterring any ghouls, zombies, or other undead from disturbing their master in his lair (area 19). Like area 6, this chamber was once a miner's barracks. Nezznar's Ferralkins removed the corpses they found and constructed the barricade.
+Five Ferralkins inhabit this room, faithfully serving Nezznar. This room marks the front line in the Black Spider's assault on Tide Echo Tunnels, and the Ferralkins are tasked with deterring any ghouls, zombies, or other undead from disturbing their master in his lair (area 19). Like area 6, this chamber was once a miner's barracks. Nezznar's Ferralkins removed the corpses they found and constructed the barricade.
 
 #### Treasure
 
@@ -1945,7 +1945,7 @@ Numerous lifeless corpses of molekin and ogrekins, still adorned in tattered arm
 
 Among the fallen molekin warriors, eight of them become reanimated as zombies, emerging to pursue any living intruders within the room. However, they do not venture beyond this area for more than one round. In addition to these, a more intelligent undead entity, a flameskull, stands guard over this location. This entity was originally a servant of the mudblood runesmith allied with the Tundelver molekin and serpentkins, and it continues to act upon ancient directives aimed at obstructing any unauthorized passage.
 
-This impressive chamber previously served as the hub of Tide Echo Cavern's mining operation. Here, molekin smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the molekin diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
+This impressive chamber previously served as the hub of Tide Echo Tunnels's mining operation. Here, molekin smelted ore to yield silver, gold, and platinum ingots. The dry channel is where the molekin diverted the stream from area 18 to power the waterwheel located here, in turn, operating the bellows responsible for feeding the furnace. The channel's bottom lies 5 feet below the floor level, and no specific skill checks are required to enter or exit it. Characters inside the channel can follow it to the north or east, although the ceiling drops to a mere 5 feet in height after leaving this chamber.
 
 ### 13. Starry Cavern
 
@@ -1971,7 +1971,7 @@ Within, the room bears the marks of destruction, evident in the ash, dust, fire-
 
 The spirit of Mormesk, the last wizard to perish in this room, still haunts the area. Initially unseen, Mormesk materializes when a living being enters the room. Once a formidable runesmith, his existence was snuffed out during the climactic battle that devastated the mines. Centuries of resentment have warped his soul into a malevolent apparition.
 
-Mormesk presides over the undead that haunt Tide Echo Cavern. He lingers here because his wealth from life resides within the scogrekinhed chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
+Mormesk presides over the undead that haunt Tide Echo Tunnels. He lingers here because his wealth from life resides within the scogrekinhed chest (see the "Treasure" section). Lacking a physical form, he is unable to touch or possess the riches he cherished while alive.
 
 This building formerly served as guest quarters for visiting wizards collaborating in the Forge of Runes (area 15), most of whom were mudblood. The furnishings reflect their mudblood-sized proportions.
 
@@ -2003,7 +2003,7 @@ Hovering behind the brazier with its green flame is a spherical entity, roughly 
 
 The wraith in Area 14 is determined to drive off or eliminnate the spectator, but thus far, the creature has easily fended off the assaults of Mormesk's zombies and ghouls, seemingly oblivious to the undead roaming the mine. Should the party attempt to remove anything from this area, the spectator will attack. If somehow blinded, the creature retreats to its home plane, convinced that it can no longer fulfill the purpose for which it was summoned.
 
-By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Cavern, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
+By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Tunnels, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
 
 **The Brazier of Green Flame.** A successful DC 15 Intelligence (Arcana) check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
 
@@ -2019,7 +2019,7 @@ On the worktable in the southeast corner of the room, you find the last items th
 
 ### 16. Booming Cavern
 
-The unmistakable sound of pounding surf, which has christened Tide Echo Cavern, finds its origins in this water-filled cavern.
+The unmistakable sound of pounding surf, which has christened Tide Echo Tunnels, finds its origins in this water-filled cavern.
 
 ```
 A narrow ledge affords a view of the expansive chamber, wherein a turbulent and frothing body of water resides. The rhythmic thunders that resonate throughout the mines reach their crescendo here. Periodically, a fresh surge of water rushes into this chamber, crashing against the wall just beneath the ledge. The echoes suggest that this cavern may be one arm of a much grander chamber to the northeast.
@@ -2035,7 +2035,7 @@ The stream that previously flowed from Area 10 to Area 18 once continued its jou
 This passage barely reaches a height of four feet and is cluttered with rounded boulders and pebbles. In its time, it might have served as a streambed, though no water courses through it today.
 ```
 
-The molekin diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the ogrekin invasion rocked Tide Echo Cavern, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
+The molekin diverted the stream into the channel leading to Area 12 to power the waterwheel in the smelter. Subsequently, the earthquakes during the final spell battle of the ogrekin invasion rocked Tide Echo Tunnels, causing the floor in Area 18 to collapse, re-routing the stream once more. The old streambed endures as a viable passage that circumvents the undead lurking in Area 12, although Nezznar remains unaware of this alternate route.
 
 ### 18. Collapsed Cavern
 
@@ -2085,13 +2085,13 @@ Should the doppelganger from Area 18 have retreated to this location, it assumes
 
 #### Roleplaying Nezznar
 
-Despite his intentions to eliminnate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Lavender Lancers to maintain Tide Echo Cavern's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
+Despite his intentions to eliminnate the characters, Nezznar is intrigued by them. If given the opportunity, he engages in extensive conversations with the characters to learn about their identities, allegiances, interests, and goals. He retains this information in his memory in the hopes of using it to his advantage in the future. Nezznar acknowledges being the Black Spider and confesses to using the Mountainmaw Vermkins and the Lavender Lancers to maintain Tide Echo Tunnels's secrecy. He will employ any means necessary to put the characters at ease, including making promises of surrender or proposing cooperation against the threats hindering his progress toward the Forge of Runes. However, he betrays the characters once they outlive their usefulness.
 
 #### **Developments**
 
 The creatures from Area 18 become aware of combat noises in this room. If they have not already been dealt with, they arrive after 3 rounds and act immediately after Nezznar's giant spiders in the initiative order.
 
-If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the spiderkin is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Helga Wispbrook (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Bargainers. The Zhents are eager to learn everything Nezznar knows about Tide Echo Cavern. Subsequent events involving Nezznar are at your discretion.
+If the characters capture Nezznar and deliver him to the town master's hall in Tuntin, the spiderkin is imprisoned until Ulfric Warwinter or another representative of the Eastern Alliance can escort him to Reddwall for justice and interrogation. However, unless the characters assign guards outside Nezznar's cell, Helga Wispbrook (see page 17) frees him from captivity, smuggles him out of Tuntin, and delivers him to the waiting hands of the Bargainers. The Zhents are eager to learn everything Nezznar knows about Tide Echo Tunnels. Subsequent events involving Nezznar are at your discretion.
 
 #### **Treasure**
 
@@ -2115,7 +2115,7 @@ This chamber once belonged to the priest responsible for Dumathoin's temple (fro
 
 **Developments**
 
-If the adventurers successfully rescue Nundro, he expresses his gratitude and offers to accompany them during their stay in Tide Echo Cavern. However, Nundro possesses limited knowledge of the mine's layout and can provide little useful information. Refer to the "NPC Party Members" sidebar (page 11) for guidance on role-playing Nundro.
+If the adventurers successfully rescue Nundro, he expresses his gratitude and offers to accompany them during their stay in Tide Echo Tunnels. However, Nundro possesses limited knowledge of the mine's layout and can provide little useful information. Refer to the "NPC Party Members" sidebar (page 11) for guidance on role-playing Nundro.
 
 Should the characters deal with Nezznar and his allies, this area provides a secure and comfortable place for them to rest before continuing their explorations within the mine.
 
@@ -2125,8 +2125,8 @@ If Nundro is rescued and survives the adventure, distribute 200 XP equally among
 
 ## **Conclusion**
 
-Through their tireless efforts and a touch of luck, the adventurers have vanquished the Black Spider, thwarted his malevolent schemes, rid Tuntin of the threats posed by the ruffians, and reclaimed the long-lost mine of Tide Echo Cavern. Their valorous deeds will be enshrined in the annals of this corner of the Sword Coast. In the years to come, the revitalized mines of the Tundelver's Pact will bring substantial wealth to Tuntin, fostering peace and prosperity in the region.
+Through their tireless efforts and a touch of luck, the adventurers have vanquished the Black Spider, thwarted his malevolent schemes, rid Tuntin of the threats posed by the ruffians, and reclaimed the long-lost mine of Tide Echo Tunnels. Their valorous deeds will be enshrined in the annals of this corner of the Sword Coast. In the years to come, the revitalized mines of the Tundelver's Pact will bring substantial wealth to Tuntin, fostering peace and prosperity in the region.
 
 Burrowbard and Nundro Stoneseeker take charge of the new mine's management. In gratitude for the adventurers' service to their family, they generously reward the party with a 10 percent share of the mine's profits. Whether the characters opt to settle in Tuntin, restore Rozen Manor, or seek new adventures elsewhere, the local populace welcomes them with open arms.
 
-By the culmination of this adventure, the characters should have reached the 5th level. If your players wish to continue with their characters, you can utilize the contents of this set to craft your adventures. The mysterious map found in Area 14 of Tide Echo Cavern offers a potential adventure hook, but feel free to explore alternative ideas by leveraging the monsters, magic items, and locales within this adventure. If you intend to devise adventures for characters beyond the 5th level, you will require the basic rules online or the advanced rulebooks: the Player's Handbook, Narrator's Guide, and Monster Manual.
+By the culmination of this adventure, the characters should have reached the 5th level. If your players wish to continue with their characters, you can utilize the contents of this set to craft your adventures. The mysterious map found in Area 14 of Tide Echo Tunnels offers a potential adventure hook, but feel free to explore alternative ideas by leveraging the monsters, magic items, and locales within this adventure. If you intend to devise adventures for characters beyond the 5th level, you will require the basic rules online or the advanced rulebooks: the Player's Handbook, Narrator's Guide, and Monster Manual.
