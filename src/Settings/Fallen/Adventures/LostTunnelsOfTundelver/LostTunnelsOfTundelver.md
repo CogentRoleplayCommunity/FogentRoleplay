@@ -713,15 +713,15 @@ This room is a spacious storage cellar, well-suited to the underhanded activitie
 
 The barrels house supplies like salted pork and beef, flour, sugar, apples, and ale. Vigilantly searching the barrels is a noisy endeavor that could alert the Lavender Lancers in area 2.
 
- **Cistern** : The rectangular cistern holds cold, fresh water, is 10 feet deep, and features a rim 2 feet higher than the surrounding floor. Drain pipes from the manor's roof provide the cistern with water. A waterproof satchel, hidden from plain sight underwater, is attached to a submerged rope along the south cistern wall. It can be discovered with a successful DC 15 Perception Skill Check or by a character probing the cistern with a pole or jumping in. The satchel contains valuable items detailed in the "Treasure" section.
+ **Cistern** : The rectangular cistern holds cold, fresh water, is 10 feet deep, and features a rim 2 feet higher than the surrounding floor. Drain pipes from the manor's roof provide the cistern with water. A waterproof satchel, hidden from plain sight underwater, is attached to a submerged rope along the south cistern wall. It can be discovered with a successful CL 3 Perception Skill Check or by a character probing the cistern with a pole or jumping in. The satchel contains valuable items detailed in the "Treasure" section.
 
  **Secret Door** : A secret door can be found in the southwest corner of the room, as indicated on the Lavender Lancer Hideout map.
 
 **Developments**
 
-This area does not feature any monsters or villains. However, the ruffians in area 2 will become aware of any excessive noise here. They may sneak into the room, gaining the element of surprise if the characters are unaware of their presence.
+This area does not feature any monsters or villains. However, the ruffians in area 2 will become aware of any excessive noise here. They may sneak into the room, gaining the element of surprise if the characters are unaware of their presence. If the player take to long in this room or make to much noise, the three ruffians come out of area 2. Pointing at the players "You townies need to learn your place. We're gonna have to chuck you in the cage with that other fella."
 
-If a confrontation occurs in this area, and two of the ruffians are defeated, the last ruffian may reveal the secret door as they flee in that direction.
+If a confrontation occurs in this area, and two of the ruffians are defeated, the last ruffian may reveal the secret door as they flee in that direction. If he escapes into room 8, the party hear a yelp as the Nothic kills and drags the ruffian into the pit.
 
 **Treasure**
 
@@ -745,7 +745,7 @@ All three Lavender Lancers possess belt pouches containing various treasures. Th
 
 #### Awarding Skill & Destiny Points
 
-Distribute 300 XP equally among the characters if the party overcomes the ruffians.
+Award each of the player's 1 destiny point for defeating the ruffians.
 
 ### 3. Trapped Hall
 
@@ -755,9 +755,9 @@ This corridor was originally a segment of Rozen Manor's ancient cellars. The Lav
 A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every ten feet, faux columns decorate the walls, while the double doors at the western end display copper plating that has now turned green with age. These doors feature an intricately carved depiction of a sorrowful angel.
 ```
 
-Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful DC 15 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a DC 10 Dexterity (Acrobatics) check.
+Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a DC 10 Dexterity (Acrobatics) check.
 
-A character who triggers the trap or fails the Dexterity check while attempting to bypass the pit must make a DC 15 Dexterity saving throw to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
+A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
 
 AWARDING Skill & Destiny Points
 
@@ -801,7 +801,7 @@ Two Lavender Lancer ruffians donned in scarlet cloaks serve as guards in this pl
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful DC 10 Dexterity check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Strength check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful DC 10 Slieght Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Lift Skill check.
 
 #### Captives
 
@@ -857,7 +857,7 @@ The nothic lurks close to the western ends of the two bridges. Upon noticing int
 
 The nothic communicates telepathically, favoring negotiation over aggression, and is willing to betray the Lavender Lancers if the right incentive is offered, such as food. When role-playing the nothic, adopt a whispering tone with sporadic fits of mad cackles and incoherent mutterings. It doesn't actually speak but rather implants its unsettling thoughts and demands in the characters' minds. The nothic possesses all the knowledge the Lavender Lancers have; refer to the "What the Lavender Lancers Know" sidebar on page 20.
 
-As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful DC 15 Intelligence (Investigation) check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
+As for the bridges, they consist of wooden planks without any railing. The southern one is intentionally designed to collapse when a creature weighing over 50 pounds moves across it. Any character next to the bridge can recognize its subpar construction with a successful Communication Skill General Knowledge check. Additionally, any creature can use an action to dislodge one end of either bridge, causing it to plunge into the crevasse.
 
 The crevasse itself is steep-sided, measuring 5 to 10 feet in width and 20 feet in depth. Its rugged walls can be easily climbed without requiring an ability check. A character unfortunate enough to fall into the crevasse sustains 2d6 bludgeoning damage and lands prone amid a mass of rubble, which becomes difficult terrain.
 
@@ -867,7 +867,7 @@ Notably, the bottom of the crevasse has an eerie chill. When viewed with a detec
 
 As for the treasure, the nothic safeguards its riches in a battered wooden chest secreted in a niche beneath the north bridge, at the crevasse's bottom. The chest remains out of sight when observed from the crevasse's edge, but any character descending into the chasm can readily spot it. The chest contains 1600 copper coins, 120 bronze coins, five malachite gems, each worth 15 bronze coins, two potions of healing, and a scroll of augury.
 
-Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Rozen, who was known as the Black Hawk. Any character who succeeds on a DC 15 Intelligence (History) check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an ogrekin assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
+Additionally, the chest houses a +1 longsword enclosed within a silver-chased scabbard. The sword bears the inscription "Talon," and its hilt takes on the form of a bird of prey with its wings outstretched. It once belonged to a renowned knight named Aldith Rozen, who was known as the Black Hawk. Any character who succeeds on a CL 3 General Knowledge Skill check can identify the sword's significance and recollect this historical lore. Sir Aldith lost his life defending against an ogrekin assault through the concealed caverns below his manor, and his prized blade, Talon, was left behind until it was found by the nothic.
 
 ### Awarding Skill & Destiny Points
 
@@ -885,7 +885,7 @@ Present in the room are three Feralkin and one Vermkin, known as Droop. The sigh
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a DC 15 Charisma (Deception) check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in scarlet cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Communication Skill Communication Skill check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
@@ -895,7 +895,7 @@ Droop possesses knowledge of the general layout of the Lavender Lancer hideout, 
 
 #### Developments
 
-Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Tunnels. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a DC 15 Charisma (Intimidation) check.
+Regarding developments, the Ferralkins are the only individuals in the Lavender Lancer hideout who are privy to the location of Tide Echo Tunnels. They won't voluntarily divulge this information due to their greater fear of the Black Spider than of your characters. Additionally, the Ferralkins know the whereabouts of Mountainmaw Castle but won't readily share this knowledge either. To extract this information from a captured Ferralkin, a character must succeed in a CL 3 Communication Skill check.
 
 #### Treasure
 
@@ -919,7 +919,7 @@ Four burly mudblood warriors, donned in scarlet cloaks, have gathered around one
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
 
-Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing scarlet cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a DC 10 Charisma (Deception) check to hoodwink the Lavender Lancers.
+Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing scarlet cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a DC 10 Communication Skill check to hoodwink the Lavender Lancers.
 
 #### Treasure
 
@@ -931,7 +931,7 @@ For Skill & Destiny Points, divide 400 XP equally among the characters if the pa
 
 ### 11. Runesmith's Workshop
 
-Through either door of this room, faint bubbling and dripping sounds can be discerned with a successful DC 15 Perception Skill Check.
+Through either door of this room, faint bubbling and dripping sounds can be discerned with a successful CL 3 Perception Skill Check.
 
 ```
 This chamber takes the form of a wizard's workshop, with a rat darting across the floor and finding refuge under a large worktable, adorned with alembics, retorts, distillation coils, and other alchemical devices, all actively bubbling and simmering away. The bookshelves in the room are brimming with piles of parchment and peculiar-looking tomes.
@@ -1094,7 +1094,7 @@ If the characters behave rudely, show disrespect, or pose threats, Agatha scowls
 
 ### Dealing with Agatha
 
-In the event that the characters maintain respect and politeness, Agatha can be convinced to assist them with a successful DC 15 Charisma (Persuasion) check. The player leading the conversation with the banshee makes the check, with the potential for advantage if the role-playing of the encounter is particularly well done. Should any character possess Sister Garaele's silver comb and offer it as a gift to Agatha, the check automatically succeeds.
+In the event that the characters maintain respect and politeness, Agatha can be convinced to assist them with a successful CL 3 Communication Check check. The player leading the conversation with the banshee makes the check, with the potential for advantage if the role-playing of the encounter is particularly well done. Should any character possess Sister Garaele's silver comb and offer it as a gift to Agatha, the check automatically succeeds.
 
 ```
 The spectral figure flashes a cold, amused smile and utters, "Very well," in an ethereal tone. "I sense your multifaceted quests. Pose one query to me, and I shall impart my answer."
@@ -1122,7 +1122,7 @@ The camp is currently occupied by a runesmith who is fervently exploring the sit
 
 There are twelve zombies concealed within the shattered shell of the former watchtower, unseen from the outside. However, any character with a passive Wisdom (Perception) score of 10 or higher detects a putrid scent wafting from the direction of the tower. When the characters approach the tower or the tent, the zombies emerge from within the structure.
 
-If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a DC 10 Intelligence (Arcana) check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 Intelligence (History) check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
+If a conflict arises, Hamun Kost, the malevolent runesmith, emerges from his tent and inquires, "What is the meaning of this?" Kost is a robust figure clad in red robes, sporting pallid skin, a shaven scalp, and a black tattoo on his forehead. A character who successfully passes a DC 10 General Knowledge skill check recognizes Kost's tattoo as a necromantic symbol. A successful DC 10 General Knowledge Skill check confirms that the attire is typical of Thay, a far-eastern land where wizards adorn their flesh with tattoos. The tattoo on Kost's forehead denotes his school of magic as necromancy.
 
 If any character tries to initiate a dialogue with Kost, even through a greeting or by responding to his questions during combat, he momentarily halts his zombies. The Red Wizard is not overtly aggressive and is willing to negotiate a deal that serves both his interests and the party's.
 
@@ -1165,7 +1165,7 @@ Lumgrove's structures have largely crumbled or are gradually being reclaimed by 
 
 Ruined buildings consist of empty stone shells with walls ranging from 5 to 8 feet high. Their roofs have long vanished, leaving behind piles of debris within the walls. The debris makes movement challenging, as per "Difficult Terrain" rules in the rulebook.
 
-Intact buildings are deteriorated, makeshift stone cottages that remain standing. Their wooden doors are swollen, requiring a successful DC 10 Strength check to fogrekine open. These buildings feature narrow windows covered by wooden shutters containing 6-inch wide arrow slits, providing three-quarters cover to creatures on one side against attacks from the other side (as per "Cover" in the rulebook). Dusty furnishings, such as simple wooden chairs and tables, are present in most intact buildings.
+Intact buildings are deteriorated, makeshift stone cottages that remain standing. Their wooden doors are swollen, requiring a successful DC 10 Lift Skill check to fogrekine open. These buildings feature narrow windows covered by wooden shutters containing 6-inch wide arrow slits, providing three-quarters cover to creatures on one side against attacks from the other side (as per "Cover" in the rulebook). Dusty furnishings, such as simple wooden chairs and tables, are present in most intact buildings.
 
 **Trees and Brush.** Trees reach an average height of 30 to 40 feet and offer cover. Brush consists of large bushes that create difficult terrain.
 
@@ -1277,7 +1277,7 @@ At the crossroads near the center of the village, a narrow lane ascends the stee
 
 Inside this ruined building, two giant spiders lie in wait on the inner walls, concealed from view outside. The spiders utilize trailing lines from the webs spanning the lane, allowing them to sense the movement of potential prey. They nimbly scuttle over the walls and launch a surprise attack against any character with a passive Wisdom (Perception) score below 17.
 
-The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a DC 10 Strength (Athletics) check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a DC 12 Strength check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a DC 10 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a DC 12 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 Circumventing the webs is made difficult by the dense thickets on the north side of the road. Bypassing the ruined building to the south will lead to the twig blights in area 5.
 
@@ -1337,7 +1337,7 @@ In the past, this establishment served as an herb and alchemy shop owned by Mirn
 The ruined shop is replete with dilapidated storage shelves and broken furniture. Among the weeds and rubble, you'll spot fragments of glass and pottery, alongside decaying books and casks.
 ```
 
-All the reagents and mixtures have long perished, and the books are now indecipherable masses of decay. However, a small wooden case can be found hidden beneath a compartment beneath the storage shelves. A character conducting a thorough search through the wreckage may uncover the case with a successful DC 15 Perception Skill Check. The check is automatically successful if Mirna dispatched the party to retrieve the heirloom.
+All the reagents and mixtures have long perished, and the books are now indecipherable masses of decay. However, a small wooden case can be found hidden beneath a compartment beneath the storage shelves. A character conducting a thorough search through the wreckage may uncover the case with a successful CL 3 Perception Skill Check. The check is automatically successful if Mirna dispatched the party to retrieve the heirloom.
 
 #### Treasure
 
@@ -1351,7 +1351,7 @@ The square remains free from encroaching underbrush.
 At the eastern side of the town, a lane expands, creating a modest square. The southern edge of the square is encircled by several dilapidated buildings, while to the north, a larger, well-preserved structure resembling a barracks stands. Three paths diverge: one leads southeast, another curves southwest around the central hill, and a third meanders north. At the square's center, slightly leaning, a time-worn wooden statue of a warrior gripping a spear and shield catches the eye.
 ```
 
-This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful DC 15 Intelligence (History) check. If one wishes, the statue can be toppled with a successful DC 20 Strength check.
+This ten-foot-tall, base included, statue honors an old Reddwall hero named Palien, who, as legends tell, vanquished numerous creatures in Highmount Wood during Lumgrove's earliest days. A character who studies the statue can identify the depiction with a successful CL 3 General Knowledge Skill check. If one wishes, the statue can be toppled with a successful DC 20 Lift Skill check.
 
 ### **11. The Old Garrison**
 
@@ -1393,7 +1393,7 @@ A faction known as the Cult of the Dragon seeks to forge alliances with the migh
 Initially, this small farmhouse may appear as another uninhabited dwelling. However, all doors are shut, and windows remain shuttered.
 ```
 
-The cottage's doors are securely barred from the inside, demanding a successful DC 20 Strength check to fogrekinibly open. Similarly, the shutters are barred from within, and they can be fogrekined open with a successful DC 15 Strength check.
+The cottage's doors are securely barred from the inside, demanding a successful DC 20 Lift Skill check to fogrekinibly open. Similarly, the shutters are barred from within, and they can be fogrekined open with a successful CL 3 Lift Skill check.
 
 Inside the house, six mudblood cultists are hidden. Four of them stand guard, with two in each room, while the rest rest in the larger chamber. These cultists wear black cloaks fashioned to resemble dragon wings and don black leather masks with stylized dragon horns. They are fluent in Common as well as Draconic.
 
@@ -1421,7 +1421,7 @@ The ogrekins are scouts from the Many Arrows tribe and are often found prowling 
 
 ### ogrekin Camp
 
-Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one DC 15 Perception Skill Check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
+Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one CL 3 Perception Skill Check or DC 10 Wisdom (Survival) check per hour to find the camp, led by the character taking the lead.
 
 Once the characters find the camp, describe the following:
 
@@ -1452,7 +1452,7 @@ Mountainmaw Castle is not the work of Vermkins, nor is that its original name. C
 The centuries have not treated Mountainmaw Castle kindly. The Vermkins have attempted to fortify the weakest areas beneath its collapsing towers with crude timbers, but it's merely a matter of time before the entire structure collapses.
 
 * **Ceilings.** Ceilings are 15 feet high unless otherwise noted.
-* **Doors.** Interior doors consist of wood reinfogrekined with iron bands and lack locks or keyholes. A successful DC 15 Strength check is needed to fogrekine open a door barricaded shut.
+* **Doors.** Interior doors consist of wood reinfogrekined with iron bands and lack locks or keyholes. A successful CL 3 Lift Skill check is needed to fogrekine open a door barricaded shut.
 * **Floors.** Cracked and uneven flagstones conceal a dirt floor underneath.
 
  **Light.**  A minimal amount of natural light filters through the arrow slits around the castle, providing dim light in most areas during the day. At night, all areas are dark.
@@ -1476,7 +1476,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Charisma (Deception) check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don scarlet cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Communication Skill check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
@@ -1491,7 +1491,7 @@ Should the Vermkin sentries in area 3 have raised the alarm, the Vermkins and ho
 
  **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful DC 10 Perception Skill Check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
 
-Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a DC 10 Dexterity saving throw or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
+Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a DC 10 Acrobatics Skill Check or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
 
  **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters if the party detects or survives the trap.
 
@@ -1623,7 +1623,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful DC 15 Dexterity check, or simply fogrekined open with a successful DC 25 Strength check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Slieght Of Hand Skill check, or simply fogrekined open with a successful DC 25 Lift Skill check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1663,7 +1663,7 @@ If the characters open the door and remain out of the owlbear's path, it will fl
 
 #### **Treasure**
 
-All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful DC 15 Perception Skill Check to be spotted. It is unlocked and contains 165 bc, a potion of healing, a scroll of silence, and a scroll of revivify.
+All that remains of the tower's second level is a jagged ledge, on which rests a battered wooden chest. The chest is inconspicuous from the floor and requires a successful CL 3 Perception Skill Check to be spotted. It is unlocked and contains 165 bc, a potion of healing, a scroll of silence, and a scroll of revivify.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1711,7 +1711,7 @@ As an additional twist, you can introduce a complication in the form of a hobVer
 
 These hobVermkins possess no treasure, but 1d4 of them carry bloodied sacks, each containing a severed dhampir head. These severed heads serve as trophies from the recent triumph of the hobVermkins over an dhampir hunting party.
 
-Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a DC 15 Charisma (Persuasion) check.
+Clever characters might attempt to reason with Targor by encouraging him to regard himself as Grom's successor rather than his avenger. Targor has long aspired to lead the Mountainmaw tribe, and thus, he may refrain from killing the adventurers, provided one or more characters can achieve a CL 3 Communication Check check.
 
 #### **Awarding Skill & Destiny Points**
 
@@ -1801,7 +1801,7 @@ The northeastern section of the cavern has collapsed, creating a ten-foot-wide, 
 
 This area used to serve as the campsite for the Stoneseeker brothers. The deceased molekin is Tharden, Burrowbard's brother, who was killed by the Black Spider. Burrowbard's other brother, Nundro, was also here and is now a prisoner of the Black Spider in area 20. While the molekin' supplies may be potentially useful, they aren't particularly valuable.
 
-***Open Pit.*** Climbing up or down the pit's wall without a rope necessitates a successful DC 15 Strength (Athletics) check. A character who fails this check by a margin of 5 or more will fall, taking 1d6 bludgeoning damage per 10 feet fallen and ending up prone at the pit's bottom. The tunnel at the pit's base leads northwest towards area 2 and east towards area 3.
+***Open Pit.*** Climbing up or down the pit's wall without a rope necessitates a successful CL 3 Climb Skill check. A character who fails this check by a margin of 5 or more will fall, taking 1d6 bludgeoning damage per 10 feet fallen and ending up prone at the pit's bottom. The tunnel at the pit's base leads northwest towards area 2 and east towards area 3.
 
 #### **Treasure**
 
@@ -1849,7 +1849,7 @@ The paper within the cubbyholes, ancient and brittle, disintegrates upon contact
 
 #### **Treasure**
 
-Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Dexterity check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
+Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a DC 20 Slieght Of Hand Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
 
 ### **6. South Barracks**
 
@@ -1893,7 +1893,7 @@ The cavern is divided into three distinct sections: elevated ledges at either en
 
 In the shadows on the western ledge, seven ghouls hide, vigilant for any light or sound elsewhere in the cave. When alerted, they swiftly descend to engage their prey, their ravenous hunger driving them to battle until they are vanquished.
 
-The 10-foot-high escarpments require a successful DC 12 Strength (Athletics) check to climb. A fall or fogrekineful push from the top results in 1d6 bludgeoning damage, with the unfortunate individual landing in a prone position.
+The 10-foot-high escarpments require a successful DC 12 Climb Skill check to climb. A fall or fogrekineful push from the top results in 1d6 bludgeoning damage, with the unfortunate individual landing in a prone position.
 
 ### **10. Dark Pool**
 
@@ -1915,7 +1915,7 @@ The wizard's remains bear two platinum rings (valued at 75 bc each) and clasp a 
 
 ### **11. North Barracks**
 
-The eastern door is barricaded from within, necessitating a DC 20 Strength check to fogrekine it open. A character who listens at either door and passes a DC 10 Perception Skill Check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
+The eastern door is barricaded from within, necessitating a DC 20 Lift Skill check to fogrekine it open. A character who listens at either door and passes a DC 10 Perception Skill Check can hear gruff voices engaged in a conversation conducted in the Vermkin language, expressing their growing hunger.
 
 ```
 This chamber houses old stone bunks lining the walls, with a warm glow emanating from a central iron brazier.
@@ -1963,7 +1963,7 @@ Characters proficient in Arcana may sense a subtle undercurrent of magic in the 
 
 ### 14. Wizard's Quarters
 
-The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them fogrekinefully requires a Strength check with a DC of 15.
+The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them fogrekinefully requires a Lift Skill check with a DC of 15.
 
 ```
 Within, the room bears the marks of destruction, evident in the ash, dust, fire-blackened walls, and heaps of debris under the sagging ceiling. The furnishings, including tables, chairs, bookshelves, and beds, have been charred or shattered, but they remain surprisingly intact. An iron chest, scogrekinhed by the flames, rests near the base of one of the beds.
@@ -1979,7 +1979,7 @@ This building formerly served as guest quarters for visiting wizards collaborati
 
 Mormesk speaks in somber, whispering tones. Upon rising from the floor, the wraith utters, "Your presence is offensive to me, your life forfeit. My treasures are mine alone, not yours to plunder!" If the characters make no effort to negotiate, the wraith will attack.
 
-If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a DC 10 Charisma (Persuasion) check to convince the wraith of its value.
+If the characters attempt to reason with the wraith, it will listen, provided they haven't harmed it or taken any of its possessions. The wraith is inherently malevolent, so the only way to stay its spectral hand is to offer something it considers valuable in exchange for their lives. Mormesk prizes magic items, particularly scrolls, spellbooks, and arcane knowledge. Regardless of the offering, a character must succeed in a DC 10 Communication Check check to convince the wraith of its value.
 
 However, the wraith will never relinquish the wooden pipe from the scogrekinhed chest. It will, though, part with the coins and gems in exchange for the characters slaying the spectator in the Forge of Runes (area 15). The wraith doesn't provide details about what a spectator is but simply points in the direction of area 15. Once the wraith receives its desired gift, it allows the characters to peruse its books and retain the secret map found in one of them (refer to the "Treasure" section).
 
@@ -1987,11 +1987,11 @@ However, the wraith will never relinquish the wooden pipe from the scogrekinhed 
 
 The scogrekinhed chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
-Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 Intelligence (Investigation) check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
+Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 General Knowledge check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
 ### Runecraft Forge
 
-In this chamber, the collaboration between the wizards allied with the molekin and serpentkins of Tundelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful DC 15 Strength check. The western double doors have suffered similar damage but stand slightly ajar.
+In this chamber, the collaboration between the wizards allied with the molekin and serpentkins of Tundelver's Pact allowed them to harness the mystical energies found within these caverns. The northernmost door bears the scars of intense heat, its iron hinges partially melted; opening it requires a successful CL 3 Lift Skill check. The western double doors have suffered similar damage but stand slightly ajar.
 
 ```
 This expansive workshop has been marred by the remnants of an ancient spell battle that ravaged the mine. Scogrekinhed worktables occupy two corners of the room, and the plaster has been seared off the stone walls. In the room's center, a stone pedestal cradles a small brazier, from which an eerie green flame dances and crackles. Strangely, the brazier and its pedestal have remained untouched by the destructive fogrekines that swept through this area.
@@ -2003,9 +2003,9 @@ Hovering behind the brazier with its green flame is a spherical entity, roughly 
 
 The wraith in Area 14 is determined to drive off or eliminnate the spectator, but thus far, the creature has easily fended off the assaults of Mormesk's zombies and ghouls, seemingly oblivious to the undead roaming the mine. Should the party attempt to remove anything from this area, the spectator will attack. If somehow blinded, the creature retreats to its home plane, convinced that it can no longer fulfill the purpose for which it was summoned.
 
-By succeeding in a DC 15 Charisma (Deception) check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Tunnels, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
+By succeeding in a CL 3 Communication Skill check, a character can trick the spectator into believing that one or more party members are wizards or miners employed by the overseers of Tide Echo Tunnels, dispatched to terminnate the spectator's service. If the deception is convincing, the spectator will believe it is free from its obligations, vanishing and returning to its home plane.
 
-**The Brazier of Green Flame.** A successful DC 15 Intelligence (Arcana) check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
+**The Brazier of Green Flame.** A successful CL 3 General Knowledge skill check identifies the brazier as the source of the magic permeating the surrounding caverns. This magic has waned over the years, rendering it unable to permanently enchant magical items. However, any nonmagical weapon or armor immersed in the green flame for at least 1 minute temporarily becomes a +1 weapon or +1 armor, respectively, for 1d12 hours (see appendix A). The brazier cannot be removed from the Forge of Enchantment.
 
 **The Northern Chamber.** This small, separate workspace was utilized for the final touches on items being prepared for enchantment, including polishing, lacquering, and other finishing touches. Like the primary workshop, it has sustained severe damage.
 
@@ -2047,7 +2047,7 @@ A wide rift occupies the eastern half of this cavern. A stream emerges from the 
 
 Three Ferralkins are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male spiderkin named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two Ferralkins in the rift ascend the ropes to join the skirmish.
 
-**Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful DC 10 Strength (Athletics) check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
+**Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful DC 10 Climb Skill check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
 
 #### **Developments**
 
@@ -2079,7 +2079,7 @@ Nezznar the Black Spider is accompanied by four formidable giant spiders who def
 
 Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the spiderkin does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the spiderkin villain.
 
-**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful DC 15 Intelligence (Investigation) check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Strength check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a DC 15 Dexterity saving throw. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
+**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 General Knowledge check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful DC 10 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Acrobatics Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
 **Table.** The table is strewn with notes and maps, showcasing Nezznar's exploration efforts within the mine. Amid the paperwork lies a black leather sack containing treasure (see the "Treasure" section).
 
@@ -2103,7 +2103,7 @@ If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster W
 
 ### **20. Quarters of the Priests**
 
-The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful DC 15 Dexterity check to open. Nezznar (from Area 19) possesses the key.
+The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Slieght Of Hand Skill check to open. Nezznar (from Area 19) possesses the key.
 
 Unless the characters are maintaining a stealthy approach, any activity at the door catches the attention of Nezznar and his comrades in Area 19, prompting the spiderkin to dispatch his giant spiders to investigate.
 
