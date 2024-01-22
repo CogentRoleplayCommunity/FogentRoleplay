@@ -4,11 +4,11 @@ Contested check occur when two characters are in conflict. The most obvious exam
 
 ### Tied Contested Checks
 
-Often time, Contested Checks result in ties. If ties occur when within combat, ties result in neither side making progress and the contested check is a stalemate. This is because dice rolls in combat stand for the entire round and should not be rerolled. Otherwise, ties in any other contested check outside of combat can just be rerolled to establish a clear winner.
+Often times, Contested Checks result in ties. If ties occur when within combat, ties result in neither side making progress and the contested check is a stalemate. This is because dice rolls in combat stand for the entire round and should not be rerolled. Otherwise, ties in any other contested check outside of combat can just be rerolled to establish a clear winner.
 
 Combat example 1:
 
-Two characters are in combat and roll their dice pools versus one another. Each of them gets 2 wins on thier combat roll. They clash but aren't able to injury eachother.
+Two characters are in combat and roll their dice pools versus one another. Each of them gets 2 wins on their combat roll. They clash but aren't able to injury each other.
 
 Combat example 2:
 
