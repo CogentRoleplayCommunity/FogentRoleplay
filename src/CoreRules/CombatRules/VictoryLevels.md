@@ -16,7 +16,7 @@ Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during comb
 
 ### Removing Dice to an already rolled Dice Pool
 
-Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just straighten out the dice and begin removing in that order.
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 ## Level 1 victory
 
