@@ -37,6 +37,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
 - [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
+- [Contested Checks](./src/CoreRules/GeneralRules/ContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
