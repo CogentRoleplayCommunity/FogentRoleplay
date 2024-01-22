@@ -26,7 +26,7 @@ Whenever losing dice of the same kind, always remove dice from left to right. Th
 
 ### Stagger
 
-Opponent gains the staggered combat modifier. This could be sand thrown in a character face, being shoulder checked, or losing their footing. The opponent has disadvantage rolls until the end of the next round. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered as they can't fully focus on defending themselves.
+Opponent gains the Staggered combat modifier. This could be sand thrown in a character face, being shoulder checked, or losing their footing. The opponent has disadvantage on rolls until the end of the next round. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered as they can't fully focus on defending themselves.
 
 ### Close Combat
 
