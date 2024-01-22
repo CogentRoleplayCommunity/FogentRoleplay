@@ -41,7 +41,6 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
 - [Healing](./src/CoreRules/GeneralRules/Healing.md)
 - [Vision and Light](./src/CoreRules/GeneralRules/LightAndVision.md)
-- [Magic](./src/CoreRules/MagicRules/Magic.md)
 
 ### Combat Rules
 
@@ -58,4 +57,12 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+- [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
+
+### Magic Rules
+
+- [Magic](./src/CoreRules/MagicRules/Magic.md)
+
+### Character Creation Rules
+
 - [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
