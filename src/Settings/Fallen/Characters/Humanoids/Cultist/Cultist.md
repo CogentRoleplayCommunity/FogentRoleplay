@@ -40,7 +40,7 @@
 
 ## Equipment:
 
-| Name                          | # |                              Class                              |                |  Tier  | Durability | LB |  Value  |
+| Name                          | # |                              Class                              |     Effect     |  Tier  | Durability | LB |  Value  |
 | ----------------------------- | :-: | :-------------------------------------------------------------: | :------------: | :-----: | :--------: | :-: | :-----: |
 | Leather Cuirass and Pauldrons | 1 |                           Body Armor                           | Phy. Def. 1.00 | Quality |   15/15   |  6  |  5 bc  |
 | Leather Vambrace              | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.66 bc |
