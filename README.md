@@ -50,7 +50,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [WeaknessAndResistances](./src/CoreRules/CombatRules/WeaknessAndResistances.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
-- [Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
+- [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
