@@ -1,8 +1,10 @@
 # Skills
 
+Skills represent certain task a character can perform.
+
 ## Skill Levels
 
-Skills represent certain task a character can perform. Skill level measure how good a character is at the specific skill. Skill Level ranges form level -1 to level 4.
+Skill level measure how good a character is at the specific skill. Skill Level ranges form level -1 to level 4.
 
 | Level | Narrative Meaning |                                              Description                                              |
 | :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
