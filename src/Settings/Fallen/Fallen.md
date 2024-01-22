@@ -3,7 +3,6 @@
 On a dead world at the end of time life began once again...
 
 ## World Info
-- [Adventures](Adventures/Adventures.md)
 - [Characters](Characters/Characters.md)
 - [Countries](Countries/Countries.md)
 - [Creation Myth](CreationMyth/CreationMyth.md)
