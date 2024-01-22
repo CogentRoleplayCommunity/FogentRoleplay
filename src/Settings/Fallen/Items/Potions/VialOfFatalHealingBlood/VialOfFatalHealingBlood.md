@@ -16,6 +16,6 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Effects
 
-| Name       |                                    Effect                                    |   Duration   | Tier Required |
-| :--------- | :---------------------------------------------------------------------------: | :-----------: | :-----------: |
-| Fatal Heal | Removes a Fatal or lesser injury. Can be used to regrow limbs and body parts. | Instantaneous |       8       |
+| Name       |                                                      Effect                                                      |   Duration   | Tier Required |
+| :--------- | :--------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+| Fatal Heal | Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not completely destroyed. | Instantaneous |       8       |
