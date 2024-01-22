@@ -46,7 +46,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 ### Combat Rules
 
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
-- !Combat Roll
+- [Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
