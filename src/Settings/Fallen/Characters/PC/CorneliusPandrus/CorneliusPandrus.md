@@ -76,19 +76,19 @@
 | Name                       |   #   |      Class      |  Tier   | Durability |  LB   | Value |
 | -------------------------- | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
 | Component Pouch (2/5 ft^3) |   1   | 12 lb container | Mundane |            |   2   | 25 bc |
-| Clothes, Common            |   1   |      Misc       | Mundane |            |   3   | 5 bc  |
-| Spell Components           |   1   |      Misc       | Mundane |            |  0.5  |  ??   |
+| Clothes, Common            |   1   |             | Mundane |            |   3   | 5 bc  |
+| Spell Components           |   1   |             | Mundane |            |  0.5  |  ??   |
 
 ## Containers:
 
 | Name                           |   #   |      Class      |  Tier   | Durability |  LB   | Value |
 | ------------------------------ | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
 | Component Pouch (2/5 ft^3)     |   1   | 12 lb container | Mundane |            |   2   | 25 bc |
-| Spellbook                      |   1   |      Misc       | Mundane |            |   3   | 50 bc |
-| Journal, Soft Bound, 25 Sheets |   1   |      Misc       | Mundane |            |   1   | 7 bc  |
-| Calligrapher's Supplies        |   1   |      Misc       | Mundane |            |   5   | 10 bc |
-| Common Book, Soft Bound        |   1   |      Misc       | Mundane |            |   1   | 5 bc  |
-| Common Book, Hard Bound        |   1   |      Misc       | Mundane |            |   1   | 2 bc  |
+| Spellbook                      |   1   |             | Mundane |            |   3   | 50 bc |
+| Journal, Soft Bound, 25 Sheets |   1   |             | Mundane |            |   1   | 7 bc  |
+| Calligrapher's Supplies        |   1   |             | Mundane |            |   5   | 10 bc |
+| Common Book, Soft Bound        |   1   |             | Mundane |            |   1   | 5 bc  |
+| Common Book, Hard Bound        |   1   |             | Mundane |            |   1   | 2 bc  |
 
 ## Appearance
 

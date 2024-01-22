@@ -70,4 +70,6 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### Character Creation Rules
 
-- [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
+- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
+- [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
+- [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)

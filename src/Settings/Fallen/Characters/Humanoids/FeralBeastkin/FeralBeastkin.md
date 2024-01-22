@@ -13,7 +13,7 @@
 
 ## Vocations and Vocational Skills
 
-| Brute {STR}         | 1 | 5d6 |
+| Warrior {ALL}       | 1 | 5d6 |
 | ------------------- | :-: | :-: |
 | Medium Hafted {ALL} | 1 | 5d6 |
 

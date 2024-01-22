@@ -73,11 +73,11 @@
 | Superior Leather Helmet              |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   2   | 0.5 bc |
 | Superior Leather Cuisses and Greaves |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   3   |  2 bc  |
 | Superior Leather Vambrace            |   1   |                          Phy. Def. 0.5                          | Superior |   24/24    |   2   | 1.5 bc |
-| Clothes, Fine                        |   1   |                              Misc                               | Mundane  |            |   6   | 15 bc  |
+| Clothes, Fine                        |   1   |                                                             | Mundane  |            |   6   | 15 bc  |
 | Asher's Arms Swordbreaker            |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Blade |   Fine   |   18/18    |   1   |   ?    |
 | Spencer's Arms Arming Sword          |   1   |          Medium Thrusting Sword, Medium Slashing Sword          | Superior |   24/24    |   2   | 20 bc  |
 | Adversary - Damaged                  |   1   |                        Radiance Conduit                         |   Fine   |   18/18    |   1   |   ?    |
-| Mother's Necklace                    |   1   |                              Misc                               | Mundane  |            |  0.1  |   ?    |
+| Mother's Necklace                    |   1   |                                                             | Mundane  |            |  0.1  |   ?    |
 
 ## Containers
 
@@ -86,7 +86,7 @@
 | Backpack (1 ft^3)                      |   1   | 30 lb container |  Mundane  |            |   5   | 2 bc  |
 | Kite Shield (Dawn Emp. Crest)          |   1   |   Phy. Def. 2   | Superior  |   24/24    |   8   | 30 bc |
 | Superior Leather Cuirass and Pauldrons |   1   |  Phy. Def. 0.5  | Superior  |   24/24    |   4   | 3 bc  |
-| 30 lb of gold and gems                 |   1   |      Misc       | Exquisite |     -      |  30   |   ?   |
+| 30 lb of gold and gems                 |   1   |             | Exquisite |     -      |  30   |   ?   |
 
 ## Notes
 

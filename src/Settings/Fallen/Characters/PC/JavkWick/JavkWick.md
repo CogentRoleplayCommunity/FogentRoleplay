@@ -52,7 +52,7 @@
 | Epilogue                            | 1  | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?      |
 | Light Crossbow                      | 1  | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc  |
 | Barbed Broadhead Bolt               | 20 | Wounding Bolt                                 | Mundane   | -          | 0.075 | 1.4 bc |
-| Case, Crossbow Bolts (capacity: 20) | 1  | Misc                                          | Mundane   |            | 1     | 1 bc   |
+| Case, Crossbow Bolts (capacity: 20) | 1  |                                           | Mundane   |            | 1     | 1 bc   |
 |                                     |    |                                               |           |            |       |        |
 | Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc   |
 | Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc   |

@@ -60,7 +60,7 @@
 | Shoddy Scimitar                      | 1 | Medium Thrusting Sword, Medium Slashing Sword | Shoddy |    9/9    |  2  | 5 bc |
 | Shoddy Shortbow                      | 1 |                   Light Bow                   | Shoddy |    9/9    |  2  | 15 bc |
 | Rusted Broadhead Arrow               | 20 |                 Shoddy Arrow                 | Shoddy |     -     | 0.5 | 1 bc |
-| Quiver (capacity: 20)                | 1 |                     Misc                     | Mundane |            |  1  | 1 bc |
+| Quiver (capacity: 20)                | 1 |                                          | Mundane |            |  1  | 1 bc |
 
 ## Backstory
 

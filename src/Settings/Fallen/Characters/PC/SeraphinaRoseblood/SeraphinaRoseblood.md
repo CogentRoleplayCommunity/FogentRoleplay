@@ -68,10 +68,10 @@
 | Leather Cuirass and Pauldron | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  4  |  3 bc  |
 | Leather Cuisses and Greaves  | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  3  |  2 bc  |
 | Leather Vambrace             | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  2  | 1.5 bc |
-| Clothes, Common              | 1 |              Misc              | Mundane |            |  3  |  5 bc  |
+| Clothes, Common              | 1 |                            | Mundane |            |  3  |  5 bc  |
 | Trident                      | 1 | Short Spear, Thrown Short Spear | Mundane |   12/12   |  3  |  5 bc  |
-| Signet Ring                  | 1 |              Misc              | Mundane |            | 0.2 |  5 bc  |
-| Copper Coin                  | 70 |              Misc              | Mundane |            | 0.02 |  1 cc  |
+| Signet Ring                  | 1 |                            | Mundane |            | 0.2 |  5 bc  |
+| Copper Coin                  | 70 |                            | Mundane |            | 0.02 |  1 cc  |
 
 ## Containers
 

@@ -49,12 +49,12 @@
 
 |        On        | Name |          #          |  Class  | Tier | Durability |  LB  | Value |
 | :---------------: | :--: | :------------------: | :-----: | :--: | :--------: | :---: | :---: |
-|  Clothes, Common  |  1  |         Misc         | Mundane |      |     3     | 5 bc |      |
-| Mother's Necklace |  1  |         Misc         | Mundane |      |    0.1    |   ?   |      |
-|  Waterskin (4/4)  |  1  |         Misc         | Mundane |      |     5     | 20 cc |      |
+|  Clothes, Common  |  1  |                  | Mundane |      |     3     | 5 bc |      |
+| Mother's Necklace |  1  |                  | Mundane |      |    0.1    |   ?   |      |
+|  Waterskin (4/4)  |  1  |                  | Mundane |      |     5     | 20 cc |      |
 |     Sharp Cap     |  1  | Small Slashing Blade | Shoddy | 9/9 |    0.5    | 2 bc |      |
-|  Thieves' Tools  |  1  |         Misc         | Mundane |      |     1     | 25 bc |      |
-|     Dice Set     |  1  |         Misc         | Mundane |      |    0.2    | 10 cc |      |
+|  Thieves' Tools  |  1  |                  | Mundane |      |     1     | 25 bc |      |
+|     Dice Set     |  1  |                  | Mundane |      |    0.2    | 10 cc |      |
 
 ## Appearance:
 

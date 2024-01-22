@@ -42,7 +42,7 @@
 
 | Name            |   #   | Class |  Tier   | Durability |  LB   | Value |
 | --------------- | :---: | :---: | :-----: | :--------: | :---: | :---: |
-| Saddle - Riding |   1   | Misc  | Mundane |            |  25   | 10 bc |
+| Saddle - Riding |   1   |   | Mundane |            |  25   | 10 bc |
 
 ## Disposition
 
