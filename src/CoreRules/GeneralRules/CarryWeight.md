@@ -9,7 +9,7 @@ Carry weight represents a character's ability to haul weight while still being a
 
 ## Weight Classes
 
-Weight Classes represent the effects of carrying equipment and gear. Some characters will purposfully be in a higher weight class to gain the benifits of heavier armor and weapons, making up for their Carry weight penalty with better gear. It should be noted that the penalties to STR/RFX skills also effect any calculation where the effected skill level is used (i.e. Athletics for Combat Movement Speed, Swim for Combat Swim Speed, ect...).
+Weight Classes represent the effects of carrying equipment and gear. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear. It should be noted that the penalties to STR/RFX skills also effect any calculation where the effected skill level is used (i.e. Athletics for Combat Movement Speed, Swim for Combat Swim Speed, ect...).
 
 |   Description   |             Effect             | Source                         |
 | :-------------: | :-----------------------------: | ------------------------------ |
