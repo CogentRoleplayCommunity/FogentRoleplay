@@ -4,29 +4,14 @@
 
 Skills represent certain task a character can perform. Skill level measure how good a character is at the specific skill. Skill Level ranges form level -1 to level 4.
 
-### Level -1: Incompetent
-
-Representing an incompetent level of skill.
-
-### Level 0: Novice
-
-Representing an inexperienced level of skill.
-
-### Level 1: Apprentice
-
-Representing a level of skill where the basics have been learned.
-
-### Level 2: Adept
-
-Skill level where the basics have been fully understood and the more advanced concepts are being learned.
-
-### Level 3: Expert
-
-Skill level where advanced concepts have been fully understood and master level concepts are beginning to be introduced.
-
-### Level 4: Master
-
-Skill level where a master level of proficiency has been achieved.
+| Level | Narrative Meaning |                                              Description                                              |
+| :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
+|  -1  |    Incompetent    |                                      Incompetent level of skill.                                      |
+|   0   |      Novice      |                                     Inexperienced level of skill.                                     |
+|   1   |    Apprentice    |                                     The basics have been learned.                                     |
+|   2   |       Adept       |        The basics have been fully understood and the more advanced concepts are being learned.        |
+|   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
+|   4   |      Master      |                             Master level of proficiency has been achieved.                             |
 
 ## Skill Specialty
 
