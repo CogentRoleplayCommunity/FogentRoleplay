@@ -41,9 +41,6 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
-- [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
-- [Healing](./src/CoreRules/GeneralRules/Healing.md)
-- [Vision and Light](./src/CoreRules/GeneralRules/LightAndVision.md)
 
 ### Combat Rules
 
@@ -60,6 +57,12 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+
+### Advanced Rules
+
+- [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
+- [Healing](./src/CoreRules/AdvancedRules/Healing.md)
+- [LightAndVision](./src/CoreRules/AdvancedRules/LightAndVision.md)
 
 ### Magic Rules
 
