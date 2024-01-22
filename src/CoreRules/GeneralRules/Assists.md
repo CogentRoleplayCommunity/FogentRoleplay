@@ -1,6 +1,6 @@
 # Assists
 
-All Skills and Vocations can all be used to perform Assists. With Assists, players can make to give additional wins (or if rolled poorly, losses) to themselves/others dice pools. Assists can never use the same skill as the skill of the Dice Pool being assisted. Assists may be applied to any logically applicable Dice Pool that would benifit, but the player must first ask the Narrator if it is appropriate and what the Challenge Level of the Assist will be.
+All Skills and Vocations can all be used to perform Assists. With Assists, players can make to give additional wins (or if rolled poorly, losses) to themselves/others dice pools. Assists can never use the same skill as the skill of the Dice Pool being assisted. Assists may be applied to any logically applicable Dice Pool that would benefit, but the player must first ask the Narrator if it is appropriate and what the Challenge Level of the Assist will be.
 
 **The CL for assists starts at three and should never be lower than that.** However, it is up to the narrator to decide if it should be higher than three. In general, most assist roles, unless extremely unlikely to aid the current situation, will be made at **CL** three.
 
@@ -16,7 +16,7 @@ Having said this, if you are acting as the Narrator you will find that players w
 
 Example 1:
 
-Thrak the barbarian is trying to lift a big rock. Clarance the bard decides he is going to play some motivational music on his guitar to Assist Thrak. The narrator agrees and sets a CL 3 Performance Check for the assists. Clarance rolls his Performance Vocational skill and gets 4 wins, resulting in +1 wins to Thraks Lift Check. In an paralell reality, Clarance only gets 3 wins, and his song doesn't really help Thrak. In another paralell reality Clarance only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in -1 wins to Thraks Lift Check.
+Thrak the barbarian is trying to lift a big rock. Bob the bard decides he is going to play some motivational music on his guitar to Assist Thrak. The narrator agrees and sets a CL 3 Performance Check for the assists. Bob rolls his Performance Vocational skill and gets 4 wins, resulting in +1 wins to Thrak's Lift Check. In an parallel reality, Bob only gets 3 wins, and his song doesn't really help Thrak. In another parallel reality Bob only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in -1 wins to Thrak's Lift Check.
 
 Example 2:
 
