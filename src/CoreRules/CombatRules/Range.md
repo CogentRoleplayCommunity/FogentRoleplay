@@ -1,6 +1,6 @@
 # Range
 
-Effective Range is the range up to which you are accurate, scaling with the size of the corresponding dice pool. Max Range is the maximum range an attack reach, though not without consequences. If effective range is exceeded with a ranged attack, apply the Effective Range Exceeded combat modifier.
+Effective Range is the range up to which you are accurate, scaling with the size of the corresponding dice pool. Max Range is the maximum range an attack reach, though not without consequences.
 
 |  Range Type  |        Effective Range        | Max Range |
 | :----------: | :---------------------------: | :-------: |
@@ -13,3 +13,15 @@ Effective Range is the range up to which you are accurate, scaling with the size
 |     Long     |       +15 feet per dice       |  400 ft  |
 | Sharpshooter |       +20 feet per dice       |  600 ft  |
 |   Extreme   |       +25 feet per dice       |  700 ft  |
+
+## Effective Range Exceeded
+
+Conditions to apply when attacking beyond effective range.
+
+### Within 2x Effective Range (Disadvantage):
+
+If a ranged shot is made within 2 times it's effective range.
+
+### Exceeding 2x Effective Range (Super Disadvantage):
+
+If a ranged shot is made greater than 2 times it's effective range.

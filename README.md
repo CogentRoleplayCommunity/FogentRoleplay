@@ -45,16 +45,16 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### Combat Rules
 
+- [Range](./src/CoreRules/CombatRules/Range.md)
+- [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
+- [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
-- [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
-- [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Item Tier, Effects, and Durability](./src/CoreRules/CombatRules/ItemTierAndEffectsAndDurability.md)
-- [Range](./src/CoreRules/CombatRules/Range.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)

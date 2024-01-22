@@ -32,18 +32,6 @@ Bonus received when attacking an opponent actively engaged in something else, IE
 
 This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Evasion Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, Prone, Flanked, etc.)
 
-## Effective Range Exceeded
-
-Conditions to apply when attacking beyond effective range.
-
-### Within 2x Effective Range (Disadvantage):
-
-If a ranged shot is made within 2 times it's effective range.
-
-### Exceeding 2x Effective Range (Super Disadvantage):
-
-If a ranged shot is made greater than 2 times it's effective range.
-
 ## Off guard (CL in lieu of defense roll)
 
 CL determined by Narrator IE, attacking a soldier from behind may require a successful Stealth check, then the attack (which they cannot defend against) will be a CL assigned by the Narrator, which the player will roll against with a normal combat roll (without a flanking bonus). Any wins achieved over the CL counts towards the level of victory. Failing the CL commences the next round of combat, where the opponent is then engaged.
