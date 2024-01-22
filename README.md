@@ -32,7 +32,8 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### General Rules
 
-- [Dice Pools And Challenge Levels](./src/CoreRules/GeneralRules/DicePoolsAndChallengeLevel.md)
+- [Dice Pools](./src/CoreRules/GeneralRules/DicePools.md)
+- [Challenge Levels](./src/CoreRules/GeneralRules/ChallengeLevels.md)
 - [Attributes](./src/CoreRules/GeneralRules/Attributes.md)
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
