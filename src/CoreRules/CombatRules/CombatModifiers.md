@@ -14,7 +14,7 @@ Instead of engaging in a combat roll, a player can choose to focus purely on the
 
 ## Charge (+1d6)
 
-If there is 15 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
+If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
 
 ## Focused Shot (+1d6)
 
@@ -22,7 +22,7 @@ While making a ranged attack, remain still and focus on a single shot. Your Enga
 
 ## Brace (+2 wins versus charge)
 
-A brace is a move purely to counter a charge. No movement can be used while bracing. Bracing uses the opponent’s momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+A brace is a move purely to counter a charge. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
 ## High ground (Advantage)
 
