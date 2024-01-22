@@ -63,6 +63,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [LightAndVision](./src/CoreRules/AdvancedRules/LightAndVision.md)
+- [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
 
 ### Magic Rules
 
