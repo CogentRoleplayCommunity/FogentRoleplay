@@ -36,66 +36,27 @@ When a new tier of play is unlocked, character can gain their new attribute poin
 
 ## Tiers of Play
 
+|                                                 | Apprentice | Adpet | Expert |    Master    |
+| ----------------------------------------------- | :--------: | :---: | :----: | :----------: |
+| Skill/Vocation Level Cap                        |     1     |   2   |   3   |      4      |
+| Given Vocation Point                            |     1     |   1   |   1   |      1      |
+| Max Disabling Characteristics<br />Skill Points |     2     |   2   |   3   |      3      |
+| Starting Attribute Points                       |     1     |   1   |   2   |      3      |
+| Starting Skill Points                           |     3     |   6   |   12   |      21      |
+| Skill points till next Tier                     |     3     |   6   |   9   | Undetermined |
+
 ### Apprentice Tier (D&D Level 1)
 
 This tier represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
-
-Skill/Vocation Level Cap: 1
-
-Given Vocation Point: 1
-
-Max Skill Points from Disabling Characteristics: 2
-
-Starting Attribute Points: 1
-
-Starting Skill Points: 3
-
-Skill points till next Tier of Play: 3
 
 ### Adept Tier (D&D Level 2-3)
 
 This tier represent a group of adept characters who have already made a name for themselves in their local region. They likely have a reputation and are more likely to be treated with respect.
 
-Skill/Vocation Level Cap: 2
-
-Given Vocation Point: 1
-
-Max Skill Points from Disabling Characteristics: 2
-
-Starting Attribute Points: 1
-
-Starting Skill Points: 6
-
-Skill points till next Tier of Play: 6
-
 ### Expert Tier (D&D Level 4-5)
 
 This tier represent a group of veteran characters who made a name for themselves in their larger region.
 
-Skill/Vocation Level Cap: 3
-
-Given Vocation Point: 1
-
-Max Skill Points from Disabling Characteristics: 3
-
-Starting Attribute Points: 2
-
-Starting Skill Points: 12
-
-Skill points till next Tier of Play: 9
-
 ### Master Tier (D&D Level 6-7)
 
 This tier represent a group of veteran characters who made a name for themselves in their larger region.
-
-Skill/Vocation Level Cap: 4
-
-Given Vocation Point: 1
-
-Max Skill Points from Disabling Characteristics: 3
-
-Starting Attribute Points: 3
-
-Starting Skill Points: 21
-
-Skill points till next Tier of Play: Undetermined
