@@ -66,7 +66,7 @@
 | Dagger                        | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  |  2 bc  |
 | Shortbow                      | 1 |                            Light Bow                            | Mundane |   12/12   |  2  | 25 bc |
 | Broadhead Arrow               | 20 |                         Standard Arrow                         | Mundane |     -     | 0.5 |  1 bc  |
-| Quiver (capacity: 20)         | 1 |                              Misc                              | Mundane |            |  1  |  1 bc  |
+| Quiver (capacity: 20)         | 1 |                                                            | Mundane |            |  1  |  1 bc  |
 | Satchel (2/5 ft^3)            | 1 |                         12 lb container                         | Mundane |            |  2  |  1 bc  |
 
 ## Containers:
@@ -75,15 +75,15 @@
 
 | Name                   | # | Class |  Tier  | Durability |  LB  | Value |
 | ---------------------- | :-: | :---: | :-----: | :--------: | :--: | :----: |
-| Waterskin (4/4)        | 1 | Misc | Mundane |            |  5  | 20 cc |
-| Rations (1 day)        | 7 | Misc | Mundane |            |  2  | 350 cc |
-| Rope, Hempen (50 feet) | 1 | Misc | Mundane |            |  10  |  100c  |
-| Soap                   | 1 | Misc | Mundane |            | 0.5 |  2 cc  |
-| Clothes, Traveler's    | 1 | Misc | Mundane |            |  4  | 200 cc |
-| Piton                  | 10 | Misc | Mundane |            | 0.25 | 50 cc |
-| Playing Card Set       | 1 | Misc | Mundane |            | 0.2 | 50 cc |
-| Bronze Coin            | 2 | Misc | Mundane |            | 0.04 |  2 bc  |
-| Copper Coin            | 28 | Misc | Mundane |            | 0.56 | 28 cc |
+| Waterskin (4/4)        | 1 |  | Mundane |            |  5  | 20 cc |
+| Rations (1 day)        | 7 |  | Mundane |            |  2  | 350 cc |
+| Rope, Hempen (50 feet) | 1 |  | Mundane |            |  10  |  100c  |
+| Soap                   | 1 |  | Mundane |            | 0.5 |  2 cc  |
+| Clothes, Traveler's    | 1 |  | Mundane |            |  4  | 200 cc |
+| Piton                  | 10 |  | Mundane |            | 0.25 | 50 cc |
+| Playing Card Set       | 1 |  | Mundane |            | 0.2 | 50 cc |
+| Bronze Coin            | 2 |  | Mundane |            | 0.04 |  2 bc  |
+| Copper Coin            | 28 |  | Mundane |            | 0.56 | 28 cc |
 
 ## Appearance:
 

@@ -64,7 +64,7 @@
 | Leather Cuirass and Pauldrons |   1   |               Phy. Def. 1.00                |  Quality  |   15/15    |   6   | 5 bc  |
 | Chainmail Sleeves/Mittens     |   1   |   Phy. Def. 0.77, Hand Protection Unarmed   | Excellent |   21/21    |  12   | 19.16 bc |
 | Chainmail Chausses            |   1   |                Phy. Def. 0.7                | Excellent |   21/21    |  11   | 17.55 bc |
-| Clothes, Traveler's           |   1   |                    Misc                     |  Mundane  |            |   4   |   2 bc   |
+| Clothes, Traveler's           |   1   |                                         |  Mundane  |            |   4   |   2 bc   |
 | Longsword                     |   1   | Large Thrusting Sword, Large Slashing Sword |  Mundane  |   12/12    |   3   |  15 bc   |
 
 ## Containers:
@@ -72,14 +72,14 @@
 | Name                   |   #   |      Class      |  Tier   | Durability |  LB   | Value |
 | ---------------------- | :---: | :-------------: | :-----: | :--------: | :---: | :---: |
 | Backpack (1 ft^3)      |   1   | 30 lb container | Mundane |            |   5   | 2 bc  |
-| Waterskin (4/4)        |   1   |      Misc       | Mundane |            |   5   | 20 cc |
-| Rations (1 day)        |   7   |      Misc       | Mundane |            |   2   | 50 cc |
-| Rope, Hempen (50 feet) |   1   |      Misc       | Mundane |            |  10   | 1 bc  |
-| Soap                   |   1   |      Misc       | Mundane |            |  0.5  | 2 cc  |
-| Piton                  |  10   |      Misc       | Mundane |            | 0.25  | 5 cc  |
-| Playing Card Set       |   1   |      Misc       | Mundane |            |  0.2  | 50 cc |
-| Bronze Coin            |  22   |      Misc       | Mundane |            | 0.04  | 2 bc  |
-| Copper Coin            |  87   |      Misc       | Mundane |            | 0.56  | 1 cc  |
+| Waterskin (4/4)        |   1   |             | Mundane |            |   5   | 20 cc |
+| Rations (1 day)        |   7   |             | Mundane |            |   2   | 50 cc |
+| Rope, Hempen (50 feet) |   1   |             | Mundane |            |  10   | 1 bc  |
+| Soap                   |   1   |             | Mundane |            |  0.5  | 2 cc  |
+| Piton                  |  10   |             | Mundane |            | 0.25  | 5 cc  |
+| Playing Card Set       |   1   |             | Mundane |            |  0.2  | 50 cc |
+| Bronze Coin            |  22   |             | Mundane |            | 0.04  | 2 bc  |
+| Copper Coin            |  87   |             | Mundane |            | 0.56  | 1 cc  |
 
 ## Notes:
 

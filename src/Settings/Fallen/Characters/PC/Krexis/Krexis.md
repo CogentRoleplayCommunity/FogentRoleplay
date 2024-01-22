@@ -72,7 +72,7 @@
 | Leather Cuirass and Pauldrons |   1   |   Phy. Def. 0.5   | Mundane  |   12/12    |   4   |  3 bc   |
 | Gambeson Leggings             |   1   |   Phy. Def. 0.5   | Mundane  |   12/12    |   3   |  1 bc   |
 | Gambeson Coat                 |   1   |    Phy. Def. 1    | Mundane  |   12/12    |   5   |  2 bc   |
-| Clothes, Traveler's           |   1   |       Misc        | Mundane  |            |   4   |  2 bc   |
+| Clothes, Traveler's           |   1   |               | Mundane  |            |   4   |  2 bc   |
 | Heater Shield                 |   1   |    Phy. Def. 2    | Mundane  |   12/12    |   8   |  7 bc   |
 | Battleaxe                     |   1   | Medium Hafted Axe | Mundane  |   12/12    |   4   |  10 bc  |
 

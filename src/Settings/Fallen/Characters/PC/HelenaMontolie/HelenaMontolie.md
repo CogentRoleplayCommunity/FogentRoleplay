@@ -59,13 +59,13 @@
 
 | Name                           |   #   |                              Class                              |  Tier   | Durability |  LB   | Value |
 | ------------------------------ | :---: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :---: |
-| Clothes, Common                |   1   |                              Misc                               | Mundane |            |   3   | 5 bc  |
-| Waterskin (4/4)                |   1   |                              Misc                               | Mundane |            |   5   | 20 cc |
-| Common Book, Soft Bound        |   1   |                              Misc                               | Mundane |            |   1   | 5 bc  |
-| Journal, Soft Bound, 25 Sheets |   1   |                              Misc                               | Mundane |            |   1   | 7 bc  |
-| Ink (1 ounce bottle)           |   1   |                              Misc                               | Mundane |            |  0.1  | 10 bc |
-| Ink Pen (Fountain)             |   1   |                              Misc                               | Mundane |            | 0.05  | 3 bc  |
-| Mother's Jeweled Braclet       |   1   |                              Misc                               | Mundane |            |  0.1  |   ?   |
+| Clothes, Common                |   1   |                                                             | Mundane |            |   3   | 5 bc  |
+| Waterskin (4/4)                |   1   |                                                             | Mundane |            |   5   | 20 cc |
+| Common Book, Soft Bound        |   1   |                                                             | Mundane |            |   1   | 5 bc  |
+| Journal, Soft Bound, 25 Sheets |   1   |                                                             | Mundane |            |   1   | 7 bc  |
+| Ink (1 ounce bottle)           |   1   |                                                             | Mundane |            |  0.1  | 10 bc |
+| Ink Pen (Fountain)             |   1   |                                                             | Mundane |            | 0.05  | 3 bc  |
+| Mother's Jeweled Braclet       |   1   |                                                             | Mundane |            |  0.1  |   ?   |
 | Dagger                         |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   | 2 bc  |
 | Pouch (1/5 ft^3)               |   1   |                         6 lb container                          | Mundane |            |   1   | 50 cc |
 
@@ -74,13 +74,13 @@
 | Name            |   #   |      Class       |  Tier   | Durability |  LB   | Value |
 | --------------- | :---: | :--------------: | :-----: | :--------: | :---: | :---: |
 | Chest (12 ft^3) |   1   | 300 lb container | Mundane |            |  25   | 5 bc  |
-| Mirror, Steel   |   1   |       Misc       | Mundane |            |  0.5  | 5 bc  |
-| Pot, Iron       |   1   |       Misc       | Mundane |            |  10   | 2 bc  |
-| Soap            |   1   |       Misc       | Mundane |            |  0.5  | 2 cc  |
-| Hourglass       |   1   |       Misc       | Mundane |            |   1   | 25 bc |
-| Lamp            |   1   |       Misc       | Mundane |            |   1   | 50 cc |
-| Cook's Utensils |   1   |       Misc       | Mundane |            |   8   | 1 bc  |
-| Lock            |   1   |       Misc       | Mundane |            |   1   | 10 bc |
+| Mirror, Steel   |   1   |              | Mundane |            |  0.5  | 5 bc  |
+| Pot, Iron       |   1   |              | Mundane |            |  10   | 2 bc  |
+| Soap            |   1   |              | Mundane |            |  0.5  | 2 cc  |
+| Hourglass       |   1   |              | Mundane |            |   1   | 25 bc |
+| Lamp            |   1   |              | Mundane |            |   1   | 50 cc |
+| Cook's Utensils |   1   |              | Mundane |            |   8   | 1 bc  |
+| Lock            |   1   |              | Mundane |            |   1   | 10 bc |
 
 | Name             |   #   |     Class      |  Tier   | Durability |  LB   | Value |
 | ---------------- | :---: | :------------: | :-----: | :--------: | :---: | :---: |

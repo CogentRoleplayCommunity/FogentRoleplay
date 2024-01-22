@@ -398,10 +398,10 @@ Additionally, Thrak's treasure chest holds:
 | Name                                                    | #   | Class            | Tier      | Durability | LB   | Value |
 | ------------------------------------------------------- | --- | ---------------- | --------- | ---------- | ---- | ----- |
 | Chest (12 ft^3)                                         | 1   | 300 lb container | Mundane   |            | 25   | 5 bc  |
-| Copper Coin                                             | 600 | Misc             | Mundane   |            | 0.02 | 1 cc  |
-| Bronze Coin                                             | 11  | Misc             | Mundane   |            | 0.02 | 1 bc  |
+| Copper Coin                                             | 600 |              | Mundane   |            | 0.02 | 1 cc  |
+| Bronze Coin                                             | 11  |              | Mundane   |            | 0.02 | 1 bc  |
 | Jade statuette of a frog with tiny golden orbs for eyes | 1   | Treasure         | Excellent |            | 1    | 50 bc |
-| Vial of Minor Healing Blood                             | 2   | Misc             | Mundane   |            | 0.25 | 50 bc |
+| Vial of Minor Healing Blood                             | 2   |              | Mundane   |            | 0.25 | 50 bc |
 
 ### What Comes Next?
 

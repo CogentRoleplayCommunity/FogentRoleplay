@@ -62,10 +62,10 @@
 | :--------------------------: | --- | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :----: |
 |             Club             | 1   |                       Medium Hafted Blunt                       | Mundane |   12/12    |   2   | 10 cc  |
 |            Dagger            | 1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
-|       Clothes, Common        | 1   |                              Misc                               | Mundane |            |   3   |  5 bc  |
-|       Waterskin (4/4)        | 1   |                              Misc                               | Mundane |            |   5   | 20 cc  |
-| Vial of Medium Healing Blood | 1   |                              Misc                               | Mundane |            | 0.25  | 100 bc |
-|        Clothes, Fine         | 1   |                              Misc                               | Mundane |            |   6   | 15 bc  |
+|       Clothes, Common        | 1   |                                                             | Mundane |            |   3   |  5 bc  |
+|       Waterskin (4/4)        | 1   |                                                             | Mundane |            |   5   | 20 cc  |
+| Vial of Medium Healing Blood | 1   |                                                             | Mundane |            | 0.25  | 100 bc |
+|        Clothes, Fine         | 1   |                                                             | Mundane |            |   6   | 15 bc  |
 |      Satchel (2/5 ft^3)      | 1   |                         12 lb container                         | Mundane |            |   2   |  1 bc  |
 
 ## Containers:
@@ -74,24 +74,24 @@
 
 |   Name    | #   |       Class        |  Tier   | Durability |  LB   | Value |
 | :-------: | --- | :----------------: | :-----: | :--------: | :---: | :---: |
-| Whetstone | 1   |        Misc        | Mundane |            |   1   | 1 cc  |
+| Whetstone | 1   |                | Mundane |            |   1   | 1 cc  |
 |  Hammer   | 1   | Small Hafted Blunt | Mundane |   12/12    |   3   | 1 bc  |
-| Dice Set  | 1   |        Misc        | Mundane |            |  0.2  | 10 cc |
+| Dice Set  | 1   |                | Mundane |            |  0.2  | 10 cc |
 
 ## Chest
 
 |       Name        | #   |                   Class                   |  Tier   | Durability |  LB   | Value |
 | :---------------: | --- | :---------------------------------------: | :-----: | :--------: | :---: | :---: |
-|     Whetstone     | 1   |                   Misc                    | Mundane |            |   1   | 1 cc  |
+|     Whetstone     | 1   |                                       | Mundane |            |   1   | 1 cc  |
 |      Hammer       | 1   |            Small Hafted Blunt             | Mundane |   12/12    |   3   | 1 bc  |
-|     Dice Set      | 1   |                   Misc                    | Mundane |            |  0.2  | 10 cc |
+|     Dice Set      | 1   |                                       | Mundane |            |  0.2  | 10 cc |
 |       Char        | 1   | Thrusting Greatsword, Slashing Greatsword | Mundane |   12/12    |   6   |   ?   |
-|   Smith's Tools   | 1   |                   Misc                    | Mundane |            |   8   | 20 bc |
-|  Book, Scripture  | 1   |                   Misc                    | Mundane |            |  0.5  | 25 bc |
-| Incense (1 block) | 1   |                   Misc                    | Mundane |            |  0.1  | 1 cc  |
-|      Blanket      | 1   |                   Misc                    | Mundane |            |   3   | 50 cc |
-|      Candle       | 1   |                   Misc                    | Mundane |            |  0.1  | 1 cc  |
-|   Drug, Mirage    | 1   |                   Misc                    | Mundane |            |  0.1  | 5 bc  |
+|   Smith's Tools   | 1   |                                       | Mundane |            |   8   | 20 bc |
+|  Book, Scripture  | 1   |                                       | Mundane |            |  0.5  | 25 bc |
+| Incense (1 block) | 1   |                                       | Mundane |            |  0.1  | 1 cc  |
+|      Blanket      | 1   |                                       | Mundane |            |   3   | 50 cc |
+|      Candle       | 1   |                                       | Mundane |            |  0.1  | 1 cc  |
+|   Drug, Mirage    | 1   |                                       | Mundane |            |  0.1  | 5 bc  |
 
 ## Appearance:
 

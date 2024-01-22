@@ -88,7 +88,7 @@
 | Superior Leather Helmet              |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   2   | 0.5 bc |
 | Superior Leather Cuisses and Greaves |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   3   |  2 bc  |
 | Superior Leather Vambrace            |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   2   | 1.5 bc |
-| Shoddy Morraki Attire/Cloak          |   1   |                   Misc                   | Mundane  |            |   4   | 15 bc  |
+| Shoddy Morraki Attire/Cloak          |   1   |                                      | Mundane  |            |   4   | 15 bc  |
 | Buckler Shield                       |   1   |               Phy. Def. 1                | Mundane  |   12/12    |   4   |  2 bc  |
 | Morning Star                         |   1   | Medium Hafted Blunt, Medium Hafted Point | Mundane  |   12/12    |   4   | 15 bc  |
 
@@ -99,7 +99,7 @@
 | Backpack (1 ft^3)                      |   1   | 30 lb container |  Mundane  |            |   5   | 2 bc  |
 | Kite Shield (Dawn Emp. Crest)          |   1   |   Phy. Def. 2   | Superior  |   24/24    |   8   | 30 bc |
 | Superior Leather Cuirass and Pauldrons |   1   |  Phy. Def. 0.5  | Superior  |   24/24    |   4   | 3 bc  |
-| 30 lb of gold and gems                 |   1   |      Misc       | Exquisite |     -      |  30   |   ?   |
+| 30 lb of gold and gems                 |   1   |             | Exquisite |     -      |  30   |   ?   |
 
 ## Notes
 

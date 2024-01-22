@@ -77,10 +77,10 @@
 | Leather Cuirass and Pauldron |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   4   |  3 bc  |
 | Leather Cuisses and Greaves  |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   3   |  2 bc  |
 | Leather Vambrace             |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   2   | 1.5 bc |
-| Clothes, Traveler            |   1   |                              Misc                               | Mundane |            |   4   |  5 bc  |
+| Clothes, Traveler            |   1   |                                                             | Mundane |            |   4   |  5 bc  |
 | Dagger                       |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
 | Torch                        |   2   |                              Torch                              | Shoddy  |    9/9     |   1   |  1 cc  |
-| Ring, Mundane                |   1   |                              Misc                               | Mundane |            |  0.2  | 30 cc  |
+| Ring, Mundane                |   1   |                                                             | Mundane |            |  0.2  | 30 cc  |
 
 ## Containers
 
