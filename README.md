@@ -62,6 +62,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 ### Magic Rules
 
 - [Magic](./src/CoreRules/MagicRules/Magic.md)
+- [Magic Roll](./src/CoreRules/MagicRules/MagicRoll.md)
 - [Magic Spells](./src/CoreRules/MagicRules/MagicSpells.md)
 
 ### Character Creation Rules
