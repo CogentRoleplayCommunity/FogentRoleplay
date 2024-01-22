@@ -69,7 +69,7 @@ These archetypes can of course depends on the setting you are playing in, though
 
 ## Step 2: Understand what tier of play you're playing
 
-Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at initiate tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
+Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the apperntice tier of play. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
 
 ## Step 3: Write a rough Backstory
 
@@ -90,54 +90,39 @@ Here are some important questions to ask about your character:
 - What are their beliefs/morality?
 - What are their goals/aspirations?
 - Do they have friends/family?
+- Do they have romatic interests/exes.
 
-## Step 4: Spend your Vocation Points
+## Step 4: Pick your Vocation, spend your Vocation Point
 
-Regardless of the tier of play, you'll have vocation points to spend. These are points you get to spend on your vocation, whatever your character's life path/job has been. If you have multiple vocation points to spend, then you could put them all into one vocation or into multiple vocations. Each vocation point allows you to increase the level of said vocation by 1.
-
-Luckily, if you already picked an archetype that you are going for, you've probably already have your vocation. For instance, if I wanted to play a Rogue archetype, than my vocation could just be Rogue.
+Regardless of the tier of play, you'll have a vocation point to spend. This is a point you get to spend to unlock your first vocation, whatever your character's life path/job has been. Luckily, if you already picked an archetype that you are going for, you've probably already have your vocation. For instance, if I wanted to play a Rogue archetype, than my vocation could just be Rogue.
 
 ## Step 5: Choose Disabling Characteristics
 
 Disabling characteristics represent flaws your character has. This is an essential part of every character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the narrators approval. It is highly encouraged to take disablings as they make characters far more interesting.
 
-Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
-
+Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Disabling Characteristics Skill Points" governed by your tier of play.
 
 ## Step 6: Spend your Attribute Points
 
 Attribute represent the core characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, ect...).
 
-[Attributes in depth](./Attributes.md)
-
 ## Step 7: Spend your Skill Points
 
-Each Skill Point can be used to increase one core skill, vocation, or combat vocational skill level by 1. It should be noted that no skill can increase above the "Skill/Vocation Level Cap" as defined by your tier of play.
+Each Skill Point can be used to increase one core skill, vocation, or combat skill level by 1. It should be noted that no skill can increased above the "Skill/Vocation Level Cap" as defined by your tier of play.
 
-[Core Skills](./Skills.md#core-skills)
+If you are playing with the Fogent Magic Rules, a magic vocation will have unlocked some magic skills. So don't miss out.
 
-[Vocation](./Vocations.md#vocations)
-
-[Combat Vocational Skills](./Vocations.md#combat-vocational-skills)
-
-## Step 8: Determine starting wealth and buy equipment
+## Step 8: Determine starting wealth
 
 Your starting wealth is determined narratively by you position in life as defined in your backstory. Your narrator will assign your socioeconomic status. Then you choose whether to roll for your wealth or take the average.
-
-|              Name              | Starting Wealth | Average Wealth |
-| :----------------------------: | :-------------: | :------------: |
-|            Made up            |     5d4 bc     |     13 bc     |
-|            Made up            |   1d4 x 10 bc   |     25 bc     |
-|        Barbarian, Druid        |   2d4 x 10 bc   |     50 bc     |
-|            Sorcerer            |   3d4 x 10 bc   |     75 bc     |
-|     Rogue, Warlock, Wizard     |   4d4 x 10 bc   |     100 bc     |
-| Fighter, Paladin, Ranger, Bard |   5d4 x 10 bc   |     125 bc     |
 
 |                       Socioeconomic status                       | Starting Wealth | Average Wealth |
 | :--------------------------------------------------------------: | :-------------: | :------------: |
 |                               Poor                               |     5d4 bc     |     13 bc     |
-|                   Manual Labor ( Farm hand )                   |   1d4 x 10 bc   |     25 bc     |
+|                  Unskilled Labor ( Farm hand )                  |   1d4 x 10 bc   |     25 bc     |
 |              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc     |
 |             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc     |
 | High Skilled Labor ( Accomplished thief, educated professions ) |   4d4 x 10 bc   |     100 bc     |
 |                     Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |
+
+## Step 9: Buy your equipment
