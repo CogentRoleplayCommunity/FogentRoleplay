@@ -2,10 +2,6 @@
 
 Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the narrators approval. It is highly encouraged to take disablings as they make characters far more interesting.
 
-## Take a Disabling Characteristic, gain a skill point
-
-Skill points can be gained by choosing a disabling characteristic at character creation or when you move into a new tier of play. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
-
 ## Disabling Characteristic Examples
 
 | Name                                         |                               Effect                               |

@@ -103,7 +103,6 @@ Disabling characteristics represent flaws your character has. This is an essenti
 
 Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Skill Points from Disabling Characteristics" governed by your tier of play.
 
-[Disabling Characteristic List](https://github.com/JackDanna/FallenCharacterSheet/blob/main/src/Server/FallenData/CharacterEffectForDisplayData.csv#L19)
 
 ## Step 6: Spend your Attribute Points
 
