@@ -12,7 +12,7 @@ Vocational skills logically fall under the vocation and is not covered already b
 
 ## Combat Skills
 
-Combat vocational skills include all weapon skills such as "Small Blade", "Medium Sword", "Shortspear", ect... They also include magic skills such as Fallen's "Blazecraft", "Sonocraft", "Polycraft", ect... These skills require skill point to be increased.
+Combat skills include all weapon skills such as "Small Blade", "Medium Sword", "Shortspear", ect... They also include magic skills such as Fallen's "Blazecraft", "Sonocraft", "Polycraft", ect... These skills require skill point to be increased.
 
 ### Melee Combat Skill Transfer
 
@@ -35,7 +35,7 @@ For bows and crossbows, having a proper base, judging the distance, leading your
 | Light            | Light Bow | Light Crossbow |
 | Heavy            | Heavy Bow | Heavy Crossbow |
 
-You cannot go below 0 on a combat vocational skill for either melee or ranged.
+You cannot go below 0 on a combat skill for either melee or ranged.
 
 ### Respecing Combat Skills
 
@@ -55,9 +55,9 @@ I add the "Small Blade" combat skill which has the governing attributes STR, RFX
 
 I try and add the "Longspear" combat skill. I realized using a longspear is not something that a chef would do, so this will not work.
 
-| Chef {RFX, INT}           | 2 | 7d6 |
-| -------------------------- | :-: | :-: |
-| Wine Knowledge {RFX, INT} | 2 | 7d6 |
-| ~~Chopping Food {RFX}~~   |  |    |
-| Small Blade                | 1 | 7d6 |
-| ~~Long Spear~~            |  |    |
+| Chef {RFX, INT}                | 2 | 7d6 |
+| ------------------------------- | :-: | :-: |
+| Wine Knowledge {RFX, INT}      | 2 | 7d6 |
+| ~~Chopping Food {RFX}~~        |  |    |
+| Small Blade {STR, RFX, INT}     | 1 | 7d6 |
+| ~~Long Spear {STR, RFX, INT}~~ |  |    |
