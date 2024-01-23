@@ -58,6 +58,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 
 ### Advanced Rules
 

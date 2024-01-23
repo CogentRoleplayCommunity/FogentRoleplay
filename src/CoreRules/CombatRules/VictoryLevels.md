@@ -6,22 +6,6 @@
 - A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
-## Dice Removal
-
-Whenever you are removing dice from an already rolled dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
-
-### Keep your Combat Rolls and Dodge Rolls!
-
-Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage in that round which turn, which will be taken out of your already rolled dice pool.
-
-### Removing Dice to an already rolled Dice Pool
-
-Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
-
-## Applying Disadvantage/Advantage to an already rolled Combat Roll or Dodge Roll
-
-If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage after you've already rolled a dice pool that round (combat roll dice pool, dodge dice pool, ect...), you will retroactively apply said disadvantage/advantage to your current dice pool. This could turn some dice that were wins into fails and vice versa.
-
 ## Level 1 victory
 
 ### Minor Injury
@@ -100,8 +84,18 @@ Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent rec
 
 An instant kill.
 
-## Status Effects
+## Dice Removal
 
-In Fallen, typical status effects such as being poisoned, frostbitten, bleeding, madness, ect... are just handle elegantly though the injury system. For instance, if you were dealt a Serious injury by mild poison mist, than narratively explain it as a getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, than narratively it would be explained as only getting a small whiff.
+Whenever you are removing dice from an already rolled dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
 
-The resulting dice penalty act as your status effect debuffing your character until they are resolved. For instance, anti venom might be able to remove the poison injury or warming up by a fire might reduce frostbite from cold damage.
+### Keep your Combat Rolls and Dodge Rolls!
+
+Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage in that round which turn, which will be taken out of your already rolled dice pool.
+
+### Removing Dice to an already rolled Dice Pool
+
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+
+## Applying Disadvantage/Advantage to an already rolled Dice pool
+
+If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage after you've already rolled a dice pool that round (combat roll dice pool, dodge dice pool, ect...), you will retroactively apply said disadvantage/advantage to your current dice pool. This could turn some dice that were wins into fails and vice versa.
