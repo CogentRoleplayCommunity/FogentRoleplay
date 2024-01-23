@@ -2,8 +2,6 @@
 
 A short ranged minor spell, which has such a small effect it requires no magic resource. This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. For Fire Magic, this could be used to light a candle across a room. For Water Magic, this could be useful for levitating you ale into your mouth.
 
-Use of ranged cantrips in combat is genrally only reserved for dealing with minor threats to save magic resource or as a desperate last resort after all magic resources are depleted.
-
 **Range:** Close
 
 **Engageable Opponents:**  Focused
