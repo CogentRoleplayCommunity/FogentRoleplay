@@ -6,7 +6,6 @@
 
 | Skill level |  Range Type  |
 | :---------: | :----------: |
-|      0      |    Medium    |
 |      1      |   Extended   |
 |      2      |     Long     |
 |      3      | Sharpshooter |
