@@ -12,7 +12,7 @@ Vocational skills logically fall under the vocation and is not covered already b
 
 ## Combat Skills
 
-Combat skills include all weapon skills such as "Small Blade", "Medium Sword", "Shortspear", ect... They also include magic skills such as Fallen's "Blazecraft", "Sonocraft", "Polycraft", ect... These skills require skill point to be increased.
+Combat skills include all weapon skills and magic skills. These skills require skill point to be increased.
 
 ## Example Vocation
 
