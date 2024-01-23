@@ -30,21 +30,31 @@ Damage caused by intense heat or combustion.
 
 Damage caused by lighting or other sources of electricity.
 
-### Cold
-
-Damage caused by extreme low temperatures.
-
 ### Radiant
 
 Damage caused specifically by divine power or sunlight.
 
-### Silver
+### Acid
 
-Damage caused by a Silvered weapon.
+Damage caused by corrosive substances.
+
+## Bodily Damage Types
+
+### Cold
+
+Damage caused by extreme low temperatures.
 
 ### Poison
 
 Damage caused by poisons or toxins.
+
+### Suffocation
+
+Damage caused by coming from the lack of breathable air such drowning.
+
+### Silver
+
+Damage caused by a Silvered weapon.
 
 ### Necrotic
 
@@ -53,14 +63,6 @@ Damage caused by rot, decay, and undeath.
 ### Bleed
 
 Damage caused by the loss of blood.
-
-### Acid
-
-Damage caused by corrosive substances.
-
-### Suffocation
-
-Damage caused by coming from the lack of breathable air such drowning.
 
 ## Mental Damage Types
 
