@@ -37,7 +37,6 @@ Generic Spells:
 - [Melee Magic](Spells/Apprentice/MeleeMagic.md)
 - [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md)
 - [Quick Ranged Magic](Spells/Apprentice/QuickRangedMagic.md)
-- [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
 
 Specific Spells:
 
@@ -70,7 +69,7 @@ Specific Spells:
 ### Adept Spells
 
 Generic Spells:
-
+- [Reach Melee Magic](Spells/Adept/ReachMeleeMagic.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 Specific Spells:
