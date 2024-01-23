@@ -4,11 +4,11 @@ Vocations represent your character's job, class, or life path. You should check 
 
 All skills under a vocation have their levels are capped by their vocation level. For instance, if a character had level a 2 vocation, any skill under it couldn't increase above 2, until it's vocation increased. Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes.
 
-You may still assist any other roll with your vocation if it makes narrative sense aside from vocational skills.
-
 ## Vocational Skills
 
-Vocational skills logically fall under the vocation and is not covered already by another core skill. Player's can make as many of these skills as they want on the fly with approval from the narrator, though this would mainly be as a reminder to have on the sheet. These skills share the same level as the vocation which they fall under. Skill points are not spent on these skills. You can not assist these skills with the vocation they are fall under. You may not assist vocational skills with your vocation as they are essentially relying of the same skill point investment.
+Vocational skills are skills that your vocation would logically give you. For instance, a Baker would logically have a Baking skill. Player's can make vocational skills at any point with approval from the narrator for applicable skill checks. It in smart to write under your vocation as a reminder to have on the character sheet. 
+
+Voctional skills share the same level as their vocation. Vocational skills can have different governing attributes compared to the vocation they fall under. You can not assist vocational skills with the vocation they are fall under, as they are essentially relying on the same shared skill point investment.
 
 ## Combat Skills
 
