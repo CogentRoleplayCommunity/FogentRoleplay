@@ -18,16 +18,16 @@ Character's not actively using their shield as part of their combat roll/ dodge 
 
 A measure of a character's resistance to affliction. Determines your body's ability to handle resisting poisoning, blood clotting, freezing, etc. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
-- Bodily Defense = Endurance Roll
+- Bodily Defense = Endurance Roll or Endurance roll average wins, player's choice
 
 ## Mental Defense
 
 Mental defense is a measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
-- Mental Defense = Will Roll
+- Mental Defense = Will Roll or Will Roll average wins, players choice
 
 ## Soul Defense
 
 Soul defense is a measure of a character's bulwark against all spiritual injuries and influence.Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
-- Spiritual Defense = Will Roll
+- Spiritual Defense = Will Roll or Will Roll average wins, players choice
