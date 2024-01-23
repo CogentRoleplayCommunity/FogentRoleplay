@@ -1,6 +1,6 @@
 # Ranged Cantrip
 
-Use of ranged cantrips in combat is genrally only reserved for dealing with minor threats to save magic resource or as a desperate last resort after all magic resources are depleted.
+Use of ranged cantrips in combat is generally only reserved for dealing with minor threats to save magic resource or as a desperate last resort after all magic resources are depleted.
 
 **Range:**
 
