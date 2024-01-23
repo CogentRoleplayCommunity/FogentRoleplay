@@ -12,7 +12,7 @@ Two characters are in combat and roll their dice pools versus one another. Each 
 
 Combat example 2:
 
-A rogue and a knight are fight each other in combat. The rogue wants to use the dim light of the room to get around the night and sneak attack him. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The contested check is a stalemate and the rogue is not able to enter into stealth. Looks like he'll have to fight him without the aid of the shadows this round.
+A rogue and a knight are fighting each other in combat. The rogue wants to use the dim light of the room to get around the knight and sneak attack him. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The contested check is a stalemate and the rogue is not able to enter into stealth. Looks like he'll have to fight him without the aid of the shadows this round.
 
 Combat example 3:
 

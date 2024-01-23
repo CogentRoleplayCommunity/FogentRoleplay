@@ -10,7 +10,7 @@ Each skill under a vocation has one or many governing attributes that logically 
 
 Vocational skills are skills that your vocation would logically give you. For instance, a Baker would logically have a Baking skill. Player's can make vocational skills at any point with approval from the narrator for applicable skill checks. It in smart to write under your vocation as a reminder to have on the character sheet. 
 
-Voctional skills share the same level as their vocation. You can not assist vocational skills with the vocation they are fall under, as they are essentially relying on the same shared skill point investment.
+Vocational skills share the same level as their vocation. You can not assist vocational skills with the vocation they are fall under, as they are essentially relying on the same shared skill point investment.
 
 ## Combat Skills
 
