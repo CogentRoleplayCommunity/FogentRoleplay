@@ -52,7 +52,7 @@ Damage caused by rot, decay, and undeath.
 
 ### Bleed
 
-Damage caused by the loss of blood. A character loses equivalent Fellblood to the level of injury dealt.
+Damage caused by the loss of blood.
 
 ### Acid
 
