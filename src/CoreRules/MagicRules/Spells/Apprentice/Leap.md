@@ -22,4 +22,4 @@ Magic Resource Required:  1
 
 Skills required:
 
-- Body magic (lvl 0) or Air magic (lvl 0)
+- Body magic (lvl 1) or Air magic (lvl 1)

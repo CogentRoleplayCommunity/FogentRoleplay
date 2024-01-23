@@ -22,4 +22,4 @@ Magic Resource Required: 1
 
 Skills required:
 
-- Gravity magic (lvl 0)
+- Gravity magic (lvl 1)

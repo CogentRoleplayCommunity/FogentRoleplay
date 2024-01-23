@@ -39,11 +39,11 @@ Skills required:
 
 Must know 4 of the following Magics.
 
-- Earth Magic (lvl 0)
-- Mind Magic (lvl 0)
-- Poison Magic (lvl 0)
-- Electric Magic (lvl 0)
-- Air Magic (lvl 0)
-- Fire Magic (lvl 0)
-- Cold Magic (lvl 0)
-- Acid Magic (lvl 0)
+- Earth Magic (lvl 1)
+- Mind Magic (lvl 1)
+- Poison Magic (lvl 1)
+- Electric Magic (lvl 1)
+- Air Magic (lvl 1)
+- Fire Magic (lvl 1)
+- Cold Magic (lvl 1)
+- Acid Magic (lvl 1)

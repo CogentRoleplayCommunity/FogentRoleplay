@@ -20,5 +20,5 @@ Magic Resource Required: 1
 
 Skills required:
 
-- Nature magic (lvl 0)
-- Mind magic (lvl 0)
+- Nature magic (lvl 1)
+- Mind magic (lvl 1)

@@ -28,4 +28,4 @@ Magic Resource Required: 1
 
 Skills required:
 
-- Mind magic or Light Magic (lvl 0)
+- Mind magic or Light Magic (lvl 1)
