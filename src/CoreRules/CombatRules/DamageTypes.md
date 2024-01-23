@@ -72,4 +72,4 @@ Damage caused by mental trauma.
 
 ### Spiritual
 
-Damage caused by an astral plane source.
+Damage caused by spiritual sources such as from ghost or divine entities.
