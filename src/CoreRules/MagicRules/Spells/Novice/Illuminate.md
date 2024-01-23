@@ -16,4 +16,4 @@ In the event that you target an object held or worn by a hostile creature, that 
 
 **Skills required:**
 
-- Light magic (level -1)
+- Light magic (level 0)

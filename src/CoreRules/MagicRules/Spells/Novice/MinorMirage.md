@@ -18,5 +18,5 @@ Magic Resource Required: 0
 
 Skills required:
 
-- Sound Magic (lvl -1)
-- Light Magic (lvl -1) or Mind Magic (lvl -1)
+- Sound Magic (lvl 0)
+- Light Magic (lvl 0) or Mind Magic (lvl 0)

@@ -8,7 +8,6 @@ Use of ranged cantrips in combat is genrally only reserved for dealing with mino
 
 | Skill Level |    Range    |
 | :---------: | :----------: |
-|     -1     |    Close    |
 |      0      |    Short    |
 |      1      |    Medium    |
 |      2      |   Extended   |
@@ -25,4 +24,4 @@ Use of ranged cantrips in combat is genrally only reserved for dealing with mino
 
 **Skills required:**
 
-- Any magic (level -1)
+- Any magic (level 0)

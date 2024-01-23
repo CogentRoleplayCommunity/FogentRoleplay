@@ -24,4 +24,4 @@ Magic Resource Required: 0
 
 Skills required:
 
-- Rune Magic (lvl -1)
+- Rune Magic (lvl 0)
