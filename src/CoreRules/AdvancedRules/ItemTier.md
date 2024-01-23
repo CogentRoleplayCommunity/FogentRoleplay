@@ -24,6 +24,12 @@ Items are created with carious levels of quality. Depending on an individual ite
 |   Mythic   |  11  | 1d12, 2d20 |       45       |
 |  Artifact  |  12  |    3d20    |       48       |
 
+### Base Dice Modification
+
+Base Dice are a reflection of a higher/lower quality of an item when used. Replace the typical 3d6 base dice with the corresponding dice on the item tier table. For instance, a mundane dagger for a character rolls 4d6. With a Mythic dagger they would roll 1d6, 1d12, and 2d20. This also applies to Conduits, tools used in skill rolls (high quality grappling hook for Climb), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability and upgrade slots.
+
+On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a destiny point is used preemptively to turn 3's into successes).
+
 ### Upgrade Materials
 
 | Required Material               | Starting Tier    | Resulting Tier   |
@@ -41,17 +47,3 @@ Items are created with carious levels of quality. Depending on an individual ite
 | Smithing Stone Chunk x 2        | Epic (+9)        | Legendary (+10)  |
 | Smithing Stone Chunk x 3        | Legendary (+10)  | Mythic (+11)     |
 | Smithing Stone Slab             | Mythic (+11)     | Legendary (+12)  |
-
-### Base Dice Modification
-
-Base Dice are a reflection of a higher/lower quality of an item when used. Replace the typical 3d6 base dice with the corresponding dice on the item tier table. For instance, a mundane dagger for a character rolls 4d6. With a Mythic dagger they would roll 1d6, 1d12, and 2d20. This also applies to Conduits, tools used in skill rolls (high quality grappling hook for Climb), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability and upgrade slots.
-
-On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a destiny point is used preemptively to turn 3's into successes).
-
-### Effects on Items
-
-Effects can be put on items that augment them or add new buffs/debuffs. In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle. In order to put an effect on an item, the item must satisfy the item tier requirement for that effect. For instance, it would be impossible to put a legendary enchantment effect onto a broken dagger.
-
-You can put multiple effects on a single item, within reason. For instance, putting a fire and ice enchantment on a sword would sort of be ridiculous. Or in a modern setting, you couldn't put two scopes on your rifle, unless you had a canted sight attachment. Players will be restrained by the associated cost and rarity of said effects. Narrators should be cautious about throwing to many effects on an item unless that is the point.
-
-If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
