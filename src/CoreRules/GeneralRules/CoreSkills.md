@@ -46,7 +46,7 @@ Represented by politicians or con men. It is a measure of your verbal and non-ve
 
 #### General Knowledge
 
-Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. It also It aids in many tasks while being very specifically only usable on non-specialized tasks.
+Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. It aids in many tasks while being very specifically only usable on non-specialized tasks.
 
 #### Survival
 

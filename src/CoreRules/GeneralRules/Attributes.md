@@ -78,7 +78,7 @@ INT has the following effects:
 - INT is factored into all INT governed skills.
 - For every point in intelligence the player receives 3 additional skill points to spend.
 - INT is a characters spiritual/mental durability.
-- For every point in INT the character can a reduce a non-physical victory level achieved against them in combat once every combat encounter.
+- For every point in INT the character can a reduce a spiritual/mental victory level achieved against them in combat once every combat encounter.
 - For every point in INT the character can reduce a spiritual/mental injury against them outside of combat.
 
 ## Common Questions

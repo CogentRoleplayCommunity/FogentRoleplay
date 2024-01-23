@@ -1,14 +1,14 @@
 # Destiny Points
 
-A Destiny Point represents a character's ability to tip the scale of fate in their favor through their very will.
+A Destiny Point represents a character's ability to tip the scale of fate in their favor through their very will. Characters can hold up to a maximum of 3 destiny points.
 
 ## Preemptive Destiny Point
 
-A player can spend one destiny point before rolling a dice poll to gain advantage on the resulting roll.
+A player can spend one destiny point before rolling a dice pool to gain advantage on the resulting roll.
 
 ## Post Roll Destiny Points
 
-A character may spend a Destiny Point after any d6 based roll to add a single win in addition to what they achieved. They may do this multiple times on any roll or separate rolls, for as many Destiny Points they have.
+A character may spend a Destiny Point after any dice pool roll to add a single win in addition to what they achieved. They may do this multiple times on any roll or separate rolls, for as many Destiny Points they have.
 
 ## Awarding Destiny Points
 

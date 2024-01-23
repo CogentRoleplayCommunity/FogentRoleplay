@@ -24,7 +24,7 @@ Character's attempting to perform any task in Dim Light that relies on sight hav
 
 Darkness, on the other hand, creates a heavily obscured area. Characters encounter darkness outdoors at night (excluding moonlight nights), inside an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
-Creatures attempting to perform any task reliant on sight in Darkness have Super DisadvantageF. To counteract this, Character's can assist with a Perception Assist.
+Creatures attempting to perform any task reliant on sight in Darkness have Super Disadvantage. To counteract this, Character's can assist with a Perception Assist.
 
 ## Vision
 

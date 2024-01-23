@@ -1,16 +1,20 @@
 # Combat Modifiers
 
+## Defensive (Advantage) (no victory levels)
+
+This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, Prone, Flanked, Dashing, etc.)
+
 ## Ranged vs Melee (Disadvantage)
 
 When a melee combat roll is made towards a character within melee or reach range, the character has disadvantage on ranged combat rolls versus the melee combat roll.
 
 ## Dash (2x Movement Speed)
 
-Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge. They may not take the Defensive modifier during a dash.
+Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
 ## Charge (+1d6)
 
-If there is 15 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
+If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
 
 ## Focused Shot (+1d6)
 
@@ -18,7 +22,7 @@ While making a ranged attack, remain still and focus on a single shot. Your Enga
 
 ## Brace (+2 wins versus charge)
 
-A brace is a move purely to counter a charge. No movement can be used while bracing. Bracing uses the opponent’s momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+A brace is a move purely to counter a charge. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
 ## High ground (Advantage)
 
@@ -27,10 +31,6 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 ## Flank (Advantage)
 
 Bonus received when attacking an opponent actively engaged in something else, IE exhausting an opponent 's Engageable Opponents within a single round, picking a lock, dashing away, etc.
-
-## Defensive (Advantage) (no victory levels)
-
-This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Evasion Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, Prone, Flanked, etc.)
 
 ## Off guard (CL in lieu of defense roll)
 

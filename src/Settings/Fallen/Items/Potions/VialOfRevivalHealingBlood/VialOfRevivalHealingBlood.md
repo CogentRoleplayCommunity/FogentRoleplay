@@ -16,6 +16,6 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Effects
 
-| Name         |                                                                                                 Effect                                                                                                 |   Duration   | Tier Required |
-| :----------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
-| Revival Heal | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, returning the body to peak performance. | Instantaneous |      10      |
+| Name         |                                                                                                            Effect                                                                                                            |   Duration   | Tier Required |
+| :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+| Revival Heal | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, returning the body to peak performance. | Instantaneous |      10      |

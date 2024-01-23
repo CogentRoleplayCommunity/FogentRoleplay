@@ -4,6 +4,8 @@ Howdy y'all,
 
 I'm Javk Wick and welcome to Fogent.
 
+Fogent is a heavily modified version of Cogent Roleplay that was originally made for my first setting "Fallen".  Fallen + Cogent = Fogent.
+
 Fogent is a generalizable Roleplay system that is intended to remove unneeded complexity while not sacrifice emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, and sweet loot of D&D, than you are in the right place.
 
 ## Cogent Roleplay Open License
@@ -30,23 +32,22 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### General Rules
 
-- [Dice Pools And Challenge Levels](./src/CoreRules/GeneralRules/DicePoolsAndChallengeLevel.md)
+- [Dice Pools](./src/CoreRules/GeneralRules/DicePools.md)
+- [Challenge Levels](./src/CoreRules/GeneralRules/ChallengeLevels.md)
 - [Attributes](./src/CoreRules/GeneralRules/Attributes.md)
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
 - [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
+- [Contested Checks](./src/CoreRules/GeneralRules/ContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
-- [Carry Weight](./src/CoreRules/GeneralRules/CarryWeight.md)
-- [Healing](./src/CoreRules/GeneralRules/Healing.md)
-- [Vision and Light](./src/CoreRules/GeneralRules/LightAndVision.md)
 
 ### Combat Rules
 
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [WeaknessAndResistances](./src/CoreRules/CombatRules/WeaknessAndResistances.md)
+- [Weakness And Resistances](./src/CoreRules/CombatRules/WeaknessAndResistances.md)
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
@@ -57,7 +58,13 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Character Creation](./src/CoreRules/GeneralRules/CharacterCreation.md)
+
+### Advanced Rules
+
+- [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
+- [Healing](./src/CoreRules/AdvancedRules/Healing.md)
+- [LightAndVision](./src/CoreRules/AdvancedRules/LightAndVision.md)
+- [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
 
 ### Magic Rules
 
