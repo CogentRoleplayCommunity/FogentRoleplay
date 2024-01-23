@@ -51,7 +51,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
-- [Item Tier, Effects, and Durability](./src/CoreRules/CombatRules/ItemTierAndEffectsAndDurability.md)
+- [Item Tier and Effects](./src/CoreRules/CombatRules/ItemTierAndEffects.md)
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
@@ -66,6 +66,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Light And Vision](./src/CoreRules/AdvancedRules/LightAndVision.md)
 - [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
+- [Item Durability](./src/CoreRules/AdvancedRules/ItemDurability.md)
 
 ### Magic Rules
 
