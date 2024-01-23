@@ -18,6 +18,10 @@ Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during comb
 
 Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
+## Applying Disadvantage/Advantage to an already rolled Combat Roll or Dodge Roll
+
+If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage after you've already rolled a dice pool that round (combat roll dice pool, dodge dice pool, ect...), you will retroactively apply said disadvantage/advantage to your current dice pool. This could turn some dice that were wins into fails and vice versa.
+
 ## Level 1 victory
 
 ### Minor Injury
