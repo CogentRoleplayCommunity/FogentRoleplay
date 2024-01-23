@@ -23,3 +23,15 @@ This means that characters with highest Reflex can see or react to what their op
 ### Performance Phase
 
 Once all characters have declared their action, the order reverse starting with person with the highest reflex acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, the character with higher reflex will always win.
+
+## Keep your Combat Rolls, Dodge Rolls, and Assist Rolls!
+
+Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage in that round which turn, which will be taken out of your already rolled dice pool.
+
+### Removing Dice to an already rolled Dice Pool
+
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+
+### Applying Disadvantage/Advantage to an already rolled Dice pool
+
+If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage after you've already rolled a dice pool that round (combat roll dice pool, dodge dice pool, ect...), you will retroactively apply said disadvantage/advantage to your current dice pool. This could turn some dice that were wins into fails and vice versa.

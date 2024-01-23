@@ -7,6 +7,7 @@ Weapon combat roll are dice pool that represent all of your characters ability w
 - +/- 1d6 per STR, RFX, or INT
 - +/- Weapon Class Dice (Hand Crossbow, Short Spear, ect...)
 - +Weapon Resource Dice (Arrow, Ammunition, ect...)
+- 
 
 Example 1:
 
