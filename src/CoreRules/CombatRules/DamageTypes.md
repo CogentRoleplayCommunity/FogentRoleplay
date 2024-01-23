@@ -40,7 +40,7 @@ Damage caused specifically by divine power or sunlight.
 
 ### Silver
 
-Damage caused by a Silvered weapon. Cause Silverburn to monsters and Fellkin. Silver wounds can't be healed via Hemacraft or Polycraft.
+Damage caused by a Silvered weapon.
 
 ### Poison
 
