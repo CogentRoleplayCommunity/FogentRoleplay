@@ -84,10 +84,6 @@ Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent rec
 
 An instant kill.
 
-## Dice Removal
-
-Whenever you are removing dice from an already rolled dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
-
 ### Keep your Combat Rolls and Dodge Rolls!
 
 Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage in that round which turn, which will be taken out of your already rolled dice pool.
