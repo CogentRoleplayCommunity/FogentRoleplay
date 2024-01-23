@@ -22,7 +22,7 @@ I add the "Wine Knowledge" vocational skill and give it the governing attribute 
 
 I try to make the "Chopping Food" vocational skill and give it the governing attribute RFX. RFX makes sense as they'd have to use fine motor control of their hands to chop quickly. Then remember that the "Sleight of Hand" core skill already exists and that this vocational skill isn't needed.
 
-I add the "Small Blade" combat skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more deadly with a knife. I spend 1 skill point on it, bringing it to level 1.
+I add the "Small Blade" combat skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more deadly with a knife. It also makes sense that a Chef would know how to use a knife. I spend 1 skill point on it, bringing it to level 1.
 
 I try and add the "Longspear" combat skill. I realized using a longspear is not something that a chef would do, so this will not work.
 
