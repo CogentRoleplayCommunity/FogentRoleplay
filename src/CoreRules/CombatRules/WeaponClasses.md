@@ -2,7 +2,7 @@
 
 ## Dual Wielded
 
-Grants an additional dice bonus depending on the weapons class of the second weapon being used. To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Your non off-handed weapon must be a small or medium weapon.
+To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Grants additional dice bonus depending on the Dual Wielded dice of the off-handed weapon being used. Your primary weapon must be a small or medium weapon.
 
 ## Crossbow
 
