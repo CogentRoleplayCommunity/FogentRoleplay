@@ -1,28 +1,16 @@
 # Victory Levels
 
-- Victory levels from physical attacks can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of physical injury is increased by 1.
-- Victory levels from mental or spiritual attacks can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of mental/spiritual injury is increased by 1.
-- Injuries can be reduced by physical/mental/spiritual defense.
+- Victory levels from physical attacks can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory can be increased by 1.
+- Victory levels from mental or spiritual attacks can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory is increased by 1.
+- Injuries can be reduced by physical/bodily/mental/spiritual defense.
 - A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
-
-## Dice Removal
-
-Whenever you are removing dice from an already rolled dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
-
-### Keep your Combat Rolls and Dodge Rolls!
-
-Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage in that round which turn, which will be taken out of your already rolled dice pool.
-
-### Removing Dice to an already rolled Dice Pool
-
-Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or benefits their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
 ## Level 1 victory
 
 ### Minor Injury
 
-–1 dice to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
+–1 dice to all dice checks but will naturally heal over the next few days, or faster if treated actively.
 
 ### Stagger
 
@@ -56,17 +44,17 @@ Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR
 
 ### Medium injury
 
--2 dice to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
+-2 dice to all dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
 
 ### Disarm
 
-Opponent loses their weapon.
+Opponent loses their weapon. If an opponent is dual wielding, they will only lose one of their weapons.
 
 ## Level 3 victory
 
 ### Serious injury
 
-–3 dice to all physical based dice checks and the character will die in time if the wound is untreated.
+–3 dice to all dice checks and the character will die in time if the wound is untreated.
 
 ### Trip
 
@@ -80,11 +68,11 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 ### Fatal injury
 
-–4 dice to all physical based dice checks, incapacitated, and will die very soon if untreated.
+–4 dice to all dice checks, incapacitated, and will die very soon if untreated.
 
 ### Dismember
 
-Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless magic or explosive projectiles are involved.
+Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless thier is a narrative explanation how a ranged attack could dismemeber (magic, explosive projectiles, ect...).
 
 ### Render Unconscious
 
@@ -95,9 +83,3 @@ Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent rec
 ### Death blow
 
 An instant kill.
-
-## Status Effects
-
-In Fallen, typical status effects such as being poisoned, frostbitten, bleeding, madness, ect... are just handle elegantly though the injury system. For instance, if you were dealt a Serious injury by mild poison mist, than narratively explain it as a getting a large breath full. If the character instead was dealt a Serious injury by an extremely lethal poison mist, than narratively it would be explained as only getting a small whiff.
-
-The resulting dice penalty act as your status effect debuffing your character until they are resolved. For instance, anti venom might be able to remove the poison injury or warming up by a fire might reduce frostbite from cold damage.

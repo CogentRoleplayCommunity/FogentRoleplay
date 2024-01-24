@@ -6,12 +6,12 @@
 
 **Engageable Opponents:** Rapid
 
-**Penetration:** 2
+**Penetration:** 3
 
-**Magic Resource Required:** 1
+**Magic Resource Required:** 2
 
 **Area Of Effect:** None
 
 **Skills required:**
 
-- Any magic capable of effect the material world (level 1)
+- Any magic capable of effect the material world (level 2)

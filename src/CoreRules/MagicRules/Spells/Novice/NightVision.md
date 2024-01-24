@@ -18,4 +18,4 @@ Character gains the Night Vision effect. Within 60 feet, sees dim light as if it
 
 **Skills required:**
 
-- Bodily magic (level -1)
+- Bodily magic (level 0)

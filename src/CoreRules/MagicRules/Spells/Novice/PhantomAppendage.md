@@ -14,5 +14,5 @@ You have the ability command the hand. Its functions include manipulating object
 
 **Skills required:**
 
-- Gravity magic (level -1)
-- Soul Magic (level -1)
+- Gravity magic (level 0)
+- Soul Magic (level 0)

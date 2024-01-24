@@ -28,5 +28,5 @@ Magic Resource Required: 1
 
 Skills required:
 
-- Soul Magic (lvl 0)
-- Body Magic (lvl 0)
+- Soul Magic (lvl 1)
+- Body Magic (lvl 1)

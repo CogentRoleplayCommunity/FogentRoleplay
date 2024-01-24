@@ -2,63 +2,88 @@
 
 Magic Spells are define how you can use your magic.
 
-To encourage player creativity [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md), [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md), [Melee Magic](Spells/Novice/MeleeMagic.md), [Quick Ranged Magic](Spells/Novice/QuickRangedMagic.md), [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md), [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md), [Cone Magic](Spells/Apprentice/ConeMagic.md), and [Sphere Magic](Spells/Adept/SphereMagic.md) are intentionally left open ended. This spells are really only limited by the character's stats and their own creativity. For instance, there is no need for a Fire Ball spell as Sphere Magic covers it easily.
+Generic spells are intentionally left open ended. These spells are really only limited by the character's stats and their own creativity. For instance, there is no need for a Fire Ball spell as Sphere Magic covers it easily.
+
+Specific Spells are intentionally very specific in what they can accomplish. You should really think about these as cool ways someone has figured out they to use their type of magic.
 
 Each spell has magic skill requirements in order to perform. You must satisfy these requirements in order to perform the spell.
 
-### Cantrips
+### Party Tricks
 
-- [Blade Barrier](Spells/Cantrip/BladeBarrier.md)
-- [Illuminate](Spells/Cantrip/Illuminate.md)
-- [Melee Cantrip](Spells/Cantrip/MeleeCantrip.md)
-- [Minor Mirage](Spells/Cantrip/MinorMirage.md)
-- [Night Vision](Spells/Cantrip/NightVision.md)
-- [Phantom Appendage](Spells/Cantrip/PhantomAppendage.md)
-- [Ranged Cantrip](Spells/Cantrip/RangedCantrip.md)
-- [Thunder Blade](Spells/Cantrip/ThunderBlade.md)
-- [Wounding Words](Spells/Cantrip/WoundingWords.md)
+- [Party Trick](Spells/PartyTricks/PartyTrick.md)
 
-### Novice Spells
+### Novice Spells (Cantrips)
 
-- [Babel&#39;s Clarity](Spells/Novice/Babel'sClarity.md)
-- [Bewitch](Spells/Novice/Bewitch.md)
-- [Chaotic Cannon](Spells/Novice/ChaoticCannon.md)
-- [Disguise Flesh](Spells/Novice/DisguiseFlesh.md)
-- [Fling](Spells/Novice/Fling.md)
-- [Hellfire&#39;s Retribution](Spells/Novice/Hellfire'sRetribution.md)
-- [Iggilywiggly&#39;s Acidic Eruption](Spells/Novice/Iggilywiggly'sAcidicEruption.md)
-- [Leap](Spells/Novice/Leap.md)
-- [Melee Magic](Spells/Novice/MeleeMagic.md)
-- [Mind Reading](Spells/Novice/MindReading.md)
-- [Noiseless Picture](Spells/Novice/NoiselessPicture.md)
-- [Oil Spill](Spells/Novice/OilSpill.md)
-- [Physical Protection](Spells/Novice/PhysicalProtection.md)
-- [Primal Kinship](Spells/Novice/PrimalKinship.md)
-- [Quick Ranged Magic](Spells/Novice/QuickRangedMagic.md)
-- [Slow Fall](Spells/Novice/SlowFall.md)
+Generic Spells:
+
+- [Melee Cantrip](Spells/Novice/MeleeCantrip.md)
+- [Ranged Cantrip](Spells/Novice/RangedCantrip.md)
+
+Specific Spells:
+
+- [Blade Barrier](Spells/Novice/BladeBarrier.md)
+- [Illuminate](Spells/Novice/Illuminate.md)
+- [Minor Mirage](Spells/Novice/MinorMirage.md)
+- [Night Vision](Spells/Novice/NightVision.md)
+- [Phantom Appendage](Spells/Novice/PhantomAppendage.md)
+- [Thunder Blade](Spells/Novice/ThunderBlade.md)
+- [Wounding Words](Spells/Novice/WoundingWords.md)
 
 ### Apprentice Spells
 
+Generic Spells:
+
+- [Cone Magic](Spells/Apprentice/ConeMagic.md)
+- [Melee Magic](Spells/Apprentice/MeleeMagic.md)
+- [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md)
+- [Quick Ranged Magic](Spells/Apprentice/QuickRangedMagic.md)
+
+Specific Spells:
+
+- [Babel&#39;s Clarity](Spells/Apprentice/Babel'sClarity.md)
+- [Bewitch](Spells/Apprentice/Bewitch.md)
 - [Blood Buffing](Spells/Apprentice/BloodBuffing.md)
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
 - [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
-- [Cone Magic](Spells/Apprentice/ConeMagic.md)
+- [Chaotic Cannon](Spells/Apprentice/ChaoticCannon.md)
 - [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
+- [Disguise Flesh](Spells/Apprentice/DisguiseFlesh.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
+- [Fling](Spells/Apprentice/Fling.md)
+- [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
+- [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
+- [Leap](Spells/Apprentice/Leap.md)
 - [Mage Shield](Spells/Apprentice/MageShield.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
+- [Mind Reading](Spells/Apprentice/MindReading.md)
+- [Noiseless Picture](Spells/Apprentice/NoiselessPicture.md)
+- [Oil Spill](Spells/Apprentice/OilSpill.md)
+- [Physical Protection](Spells/Apprentice/PhysicalProtection.md)
+- [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
-- [Reach Melee Magic](Spells/Apprentice/ReachMeleeMagic.md)
-- [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md)
 - [Shape Shift](Spells/Apprentice/Shapeshift.md)
 - [Short Teleport](Spells/Apprentice/ShortTeleport.md)
+- [Slow Fall](Spells/Apprentice/SlowFall.md)
 - [Weird Insight](Spells/Apprentice/WeirdInsight.md)
 
 ### Adept Spells
 
-- [Manifest Wings](Spells/Adept/ManifestWings.md)
+Generic Spells:
+- [Reach Melee Magic](Spells/Adept/ReachMeleeMagic.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
+
+Specific Spells:
+
+- [Manifest Wings](Spells/Adept/ManifestWings.md)
 
 ### Expert Spells
 
+Generic Spells:
+
+Specific Spells:
+
 ### Master Spells
+
+Generic Spells:
+
+Specific Spells:

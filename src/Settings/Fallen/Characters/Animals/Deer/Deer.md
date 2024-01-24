@@ -25,7 +25,7 @@
 | Physical Defense Level  |           0           |          |                           Armor                           |
 |       Medium Size       | 5x5 ft on battle map. |          |                                                           |
 |    Language: Primal     |   Can speak Primal.   |          |                                                           |
-| 4-Legged Movement Speed |         75 ft         |          |   50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)   |
+| 4-Legged Movement Speed |         75 ft         |          |   50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)   |
 |   4-Legged Swim Speed   |         30 ft         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
 |  4-Legged Climb Speed   |         0 ft          |          |    0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
 

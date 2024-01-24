@@ -51,20 +51,23 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
-- [Item Tier, Effects, and Durability](./src/CoreRules/CombatRules/ItemTierAndEffectsAndDurability.md)
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 
 ### Advanced Rules
 
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
-- [LightAndVision](./src/CoreRules/AdvancedRules/LightAndVision.md)
+- [Light And Vision](./src/CoreRules/AdvancedRules/LightAndVision.md)
 - [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
+- [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
+- [Item Durability](./src/CoreRules/AdvancedRules/ItemDurability.md)
+- [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
 
 ### Magic Rules
 

@@ -19,10 +19,10 @@ Depending on the wins achieved, a user achieve one of the followling effects by 
 
 **Penetration:** None
 
-**Magic Resource Required:** 
+**Magic Resource Required:** See Table
 
 **Area Of Effect:** None
 
 **Skills required:**
 
-- Bodily magic (level 0)
+- Bodily magic (level 1)

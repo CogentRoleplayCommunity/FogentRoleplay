@@ -11,13 +11,13 @@ Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energ
 - Magic Name: Fellcraft
 - Magic Vocation Name: Fellcaster
 - Magic Vocation Governing Attributes: STR, RFX, INT
-- Magic Resource Name: Fellblood
+- Magic Resource Name: Fellblood (A character loses equivalent Fellblood to the level of injury dealt by bleed Damgage)
 - Cantrip Name: Trick
 - Governing Core Skill: Endurance
 
 ### Silverburn
 
-A reaction caused by silver coming into contact with Fellblood. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Fellblood in their blood.
+A reaction caused by silver coming into contact with Fellblood. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Fellblood in their blood. Silver wounds can't be healed via Hemacraft or Polycraft.
 
 If a character has at least a level 1 in the "Fellkin" or equivalent vocation, they gain a Minor weakness to silver damage.
 
@@ -42,41 +42,22 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 ### Fellcraft List
 
 - [Polycraft](Polycraft/Polycraft.md)
-
 - [Blazecraft](Blazecraft/Blazecraft.md)
-
 - [Hydrocraft](Hydrocraft/Hydrocraft.md)
-
 - [Electrocraft](Electrocraft/Electrocraft.md)
-
 - [Terracraft](Terracraft/Terracraft.md)
-
 - [Galecraft](Galecraft/Galecraft.md)
-
 - [Cryocraft](Cryocraft/Cryocraft.md)
-
 - [Naturecraft](Naturecraft/Naturecraft.md)
-
 - [Toxincraft](Toxincraft/Toxincraft.md)
-
 - [Soulcraft](Soulcraft/Soulcraft.md)
-
 - [Shadowcraft](Shadowcraft/Shadowcraft.md)
-
 - [Mindcraft](Mindcraft/Mindcraft.md)
-
 - [Ferracraft](Ferracraft/Ferracraft.md)
-
 - [Sonocraft](Sonocraft/Sonocraft.md)
-
 - [Hemacraft](Hemacraft/Hemacraft.md)
-
 - [Spidercraft](Spidercraft/Spidercraft.md)
-
 - [Plasmacraft](Plasmacraft/Plasmacraft.md)
-
 - [Stormcraft](Stormcraft/Stormcraft.md)
-
 - [Magmacraft](Magmacraft/Magmacraft.md)
-
 - [Blizzardcraft](Blizzardcraft/Blizzardcraft.md)

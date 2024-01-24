@@ -30,21 +30,31 @@ Damage caused by intense heat or combustion.
 
 Damage caused by lighting or other sources of electricity.
 
-### Cold
-
-Damage caused by extreme low temperatures.
-
 ### Radiant
 
 Damage caused specifically by divine power or sunlight.
 
-### Silver
+### Acid
 
-Damage caused by a Silvered weapon. Cause Silverburn to monsters and Fellkin. Silver wounds can't be healed via Hemacraft or Polycraft.
+Damage caused by corrosive substances.
+
+## Bodily Damage Types
+
+### Cold
+
+Damage caused by extreme low temperatures.
 
 ### Poison
 
 Damage caused by poisons or toxins.
+
+### Suffocation
+
+Damage caused by the lack of breathable air such drowning.
+
+### Silver
+
+Damage caused by a Silvered weapon.
 
 ### Necrotic
 
@@ -52,15 +62,7 @@ Damage caused by rot, decay, and undeath.
 
 ### Bleed
 
-Damage caused by the loss of blood. A character loses equivalent Fellblood to the level of injury dealt.
-
-### Acid
-
-Damage caused by corrosive substances.
-
-### Suffocation
-
-Damage caused by coming from the lack of breathable air such drowning.
+Damage caused by the loss of blood.
 
 ## Mental Damage Types
 
@@ -72,4 +74,4 @@ Damage caused by mental trauma.
 
 ### Spiritual
 
-Damage caused by an astral plane source.
+Damage caused by spiritual sources such as from ghost or divine entities.

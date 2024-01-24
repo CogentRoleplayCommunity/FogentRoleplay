@@ -17,7 +17,7 @@ Character focuses their magic on a single penetrating attack.
 
 **Engageable Opponents:** Focused
 
-**Penetration:** 2
+**Penetration:** 3
 
 **Magic Resource Required:** 1
 

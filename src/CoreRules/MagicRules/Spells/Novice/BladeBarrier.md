@@ -12,5 +12,5 @@ Magic Resource Required: 0
 
 Skills required:
 
-- Gravity Magic (lvl -1)
-- Body Magic (lvl -1)
+- Gravity Magic (lvl 0)
+- Body Magic (lvl 0)

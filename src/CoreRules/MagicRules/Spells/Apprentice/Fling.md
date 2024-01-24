@@ -26,5 +26,5 @@ Magic ResourceRequired: 1
 
 Skills required:
 
-- Gravity Magic (lvl 0)
-- Strength Magic (lvl 0)
+- Gravity Magic (lvl 1)
+- Strength Magic (lvl 1)

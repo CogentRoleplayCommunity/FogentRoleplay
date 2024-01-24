@@ -12,14 +12,26 @@ To make sense of this potential 'chaos', there is a declaration phase and a perf
 
 ### Declaration Phase
 
-The Character with lowest reflex declares what they are doing first. That might seem odd as you could think characters with higher REF should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same REF, they each roll 1D6 (though d20 work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
+The Character with lowest reflex declares what they are doing first. That might seem odd as you could think characters with higher REF should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same REF, they each roll a D6 (though d20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
 
-Players who declare LATER hold an ADVANTAGE in combat.
+Players who declare LATER hold the upper hand in combat.
 
 Once a player has declared what they are going to perform, they cannot change their mind. They are locked into performing that action in this round. The players who declare after another can chose an action that counters or complements the declared action of another character.
 
 This means that characters with highest Reflex can see or react to what their opponents are going to do.
 
-### Performance Phase
+### Action Phase
 
 Once all characters have declared their action, the order reverse starting with person with the highest reflex acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, the character with higher reflex will always win.
+
+## Keep your Combat Rolls, Dodge Rolls, and Assist Rolls!
+
+Combat Rolls, Dodge Rolls, Assists Rolls, etc... should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage/advantage in that round, which will effect the already rolled dice pool.
+
+### Removing Dice to an already rolled Dice Pool
+
+Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if they dice they lost that round punishes or is indifferent to their combat roll for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
+
+### Applying Disadvantage/Advantage to an already rolled Dice Pool
+
+If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a dice pool that round (combat roll dice pool, dodge dice pool, ect...), you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.

@@ -14,4 +14,4 @@ Magic Resource Required: 1
 
 Skills required:
 
-- Fire Magic (lvl 0)
+- Fire Magic (lvl 1)

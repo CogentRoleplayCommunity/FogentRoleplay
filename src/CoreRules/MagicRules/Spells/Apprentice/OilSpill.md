@@ -26,5 +26,5 @@ Magic Resource Required: 1
 
 Skills required:
 
-- Earth magic (lvl 0)
-- Friction magic (lvl 0)
+- Earth magic (lvl 1)
+- Friction magic (lvl 1)
