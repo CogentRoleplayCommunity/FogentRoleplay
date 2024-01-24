@@ -10,7 +10,7 @@
 
 ### Minor Injury
 
-–1 dice to all physical based dice checks but will naturally heal over the next few days, or faster if treated actively.
+–1 dice to all dice checks but will naturally heal over the next few days, or faster if treated actively.
 
 ### Stagger
 
@@ -44,7 +44,7 @@ Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR
 
 ### Medium injury
 
--2 dice to all physical based dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
+-2 dice to all dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
 
 ### Disarm
 
@@ -54,7 +54,7 @@ Opponent loses their weapon. If an opponent is dual wielding, they will only los
 
 ### Serious injury
 
-–3 dice to all physical based dice checks and the character will die in time if the wound is untreated.
+–3 dice to all dice checks and the character will die in time if the wound is untreated.
 
 ### Trip
 
@@ -68,7 +68,7 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 ### Fatal injury
 
-–4 dice to all physical based dice checks, incapacitated, and will die very soon if untreated.
+–4 dice to all dice checks, incapacitated, and will die very soon if untreated.
 
 ### Dismember
 
