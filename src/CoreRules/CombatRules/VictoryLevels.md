@@ -1,8 +1,7 @@
 # Victory Levels
 
 - Victory levels from physical attacks can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory can be increased by 1.
-- Victory levels from mental or spiritual attacks can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory is increased by 1.
-- Injuries can be reduced by physical/bodily/mental/spiritual defense.
+- Victory levels from mental or soul damage can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory is increased by 1.
 - A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
