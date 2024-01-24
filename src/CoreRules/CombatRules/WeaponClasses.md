@@ -1,10 +1,8 @@
 # Weapon Classes
 
-## Dual wielding
+## Dual Wielded
 
 Grants an additional dice bonus depending on the weapons class of the second weapon being used. To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Your non off-handed weapon must be a small or medium weapon.
-
-Secondary weapon: +1d6 to combat rolls
 
 ## Crossbow
 
@@ -14,7 +12,7 @@ Secondary weapon: +1d6 to combat rolls
 | Light Crossbow |      None      |      +1d6      |       None       |      1      | Extended |                  |          Loading          |        None        |        Bolt        | {STR,RFX,INT}             |
 | Heavy Crossbow |      None      |      +2d6      |       None       |      2      |   Long   |                  |      Complex Loading      |        None        |        Bolt        | {STR,RFX,INT}             |
 
-- Dual Wield Hand Crossbow: Dual wielding hand crossbows uses up two bolts for every shot.
+- Dual Wielded Hand Crossbows: Dual wielding hand crossbows uses up two bolts for every shot.
 
 ## Bow
 
@@ -140,7 +138,7 @@ Secondary weapon: +1d6 to combat rolls
 
 Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn't work as effectively due to narrow confines such as an alleyway or hallway.
 
-### Reach hafted axe/blade/point
+### Reach Hafted
 
 (Poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, two handed mace, war hammer, maul, short poleaxe hammerhead)
 
