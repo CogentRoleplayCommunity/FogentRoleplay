@@ -8,7 +8,7 @@ Actions in combat rounds are not solely movements and attacks. A combat action c
 
 Every action within Round by Round conflicts happen almost at the same time or in direct succession of one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together.
 
-To make sense of this potential 'chaos', there is a declaration phase and a performance phase.
+To make sense of this potential 'chaos', there is a declaration phase and a action phase.
 
 ### Declaration Phase
 
