@@ -12,20 +12,20 @@ Example 1:
 
 Javk Wick the rogue has a Medium Thrusting Sword dual wielded with a dagger. He has level 2 in Medium Sword and level 1 in Small Blade. He has Level 1 RFX.
 
-- +1d8, 2d6 (Quality Base Dice)
+- +3d6 (Base Dice)
 - +2d6 (Level 2 Medium Sword Skill)
 - +1d6 (Level 1 RFX)
 - +1d6 (Medium Thrusting Sword One Handed)
 - +1d6 (Dual-Wielding)
 - +0d6 (Weapon Resource Dice)
 
-Based on the dice above, Javk using his sword and dagger for thrusting rolls 1d8, 7d6.
+Based on the dice above, Javk using his sword and dagger for thrusting rolls 8d6.
 
 Example 2:
 
 Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a level 1 with Light Crossbows. He has level 1 in RFX
 
-- +3d6 (Mundane Base Dice)
+- +3d6 (Base Dice)
 - +1d6 (Level 2 Light Crossbow Skill)
 - +1d6 (Level 1 RFX)
 - +1d6 (Light Crossbow Two Handed)
