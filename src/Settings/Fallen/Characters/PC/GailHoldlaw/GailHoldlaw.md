@@ -34,9 +34,9 @@ Earned Skill point: 2
 |        Inventory Weight        |                            27.15 lb                            |          |                       Equipment                       |
 |     Humanoid Carry Weight      |                             120 lb                             |          |  120 lb (Base), +100 lb (per STR), +20 lb (per Lift)  |
 |          Light Weight          |                -0d6 to STR/RFX governed skills                 |          |               0% - 25% of carry weight                |
-|    Humanoid Movement Speed     |                             30 ft                              |          | 30 ft (Base), +10 ft (per RFX), +5 ft (per Athletics) |
+|    Humanoid Movement Speed     |                             30 ft                              |          | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
 |      Humanoid Swim Speed       |                             15 ft                              |          | 15 ft (Base), +10 ft (per STR), +5 ft (per Athletics) |
-|      Humanoid Climb Speed      |                             15 ft                              |          |   15 ft (Base), +5 ft (per STR), +5 ft (per Climb)    |
+|      Humanoid Climb Speed      |                             15 ft                              |          |   15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
 
 ## Combat Rolls:
 
