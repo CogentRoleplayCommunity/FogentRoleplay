@@ -4,7 +4,9 @@
 
 To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Grants additional dice bonus depending on the Dual Wielded dice of the off-handed weapon being used. Your primary weapon must be a small or medium weapon.
 
-## Crossbow
+## Ranged Weapons
+
+### Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
@@ -14,7 +16,7 @@ To duel wield the character must have at least one proficiency point in both of 
 
 - Dual Wielded Hand Crossbows: Dual wielding hand crossbows uses up two bolts for every shot.
 
-## Bow
+### Bow
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
@@ -31,7 +33,7 @@ To duel wield the character must have at least one proficiency point in both of 
 | Blowgun |      +0d6      |      +1d6      |       None       |      0      | Medium |                  |           Slow           |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
 |  Sling  |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |           Slow           |        None        |    Sling Bullet    | {STR,RFX,INT}             |
 
-## Weapon Resources
+## Ranged Weapon Resources
 
 |      Description      | Resource Class | Resource Dice | Penetration | Range Adjustment |    Damage    | AOE |
 | :--------------------: | :------------: | :-----------: | :---------: | :--------------: | :-----------: | :--: |
