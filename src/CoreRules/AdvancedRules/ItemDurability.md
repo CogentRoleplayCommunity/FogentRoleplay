@@ -1,6 +1,6 @@
 ## Item Durability (Optional)
 
-Using item durability is a great way to increase immersion (having to go to blacksmith or learn to repair their gear) and challenge for your players.However, for players that want a more casual experience, item durability can be disregarded. This is my (Javk Wick here) preferred way to play.
+Using item durability is a great way to increase immersion (having to go to blacksmith or learn to repair their gear) and challenge for your players. However, for players that want a more casual experience, item durability can be disregarded.
 
 ### Weapon Durability
 
