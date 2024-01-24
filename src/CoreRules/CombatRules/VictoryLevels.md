@@ -48,7 +48,7 @@ Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR
 
 ### Disarm
 
-Opponent loses their weapon.
+Opponent loses their weapon. If an opponent is dual weilding, they will only lose one of their weapons.
 
 ## Level 3 victory
 
