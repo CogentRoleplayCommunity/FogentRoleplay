@@ -109,7 +109,7 @@ Grants an additional dice bonus depending on the weapons class of the second wea
 
 ### Large Hafted
 
-(two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd)
+(two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd, short poleaxe hammerhead, two handed mace, maul)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
@@ -140,7 +140,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 ### Reach Hafted
 
-(Poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, two handed mace, war hammer, maul, short poleaxe hammerhead)
+(Poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, poleaxe hammerhead)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
