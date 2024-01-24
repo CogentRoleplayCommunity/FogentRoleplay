@@ -168,7 +168,6 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 ### Exotic Reach
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
-| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-|    Whip    |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Man Catcher |       -1       |      +1d6      |       None       |      2      | Reach |     Bludgeon     |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+| Whip |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
