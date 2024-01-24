@@ -47,7 +47,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Defense](./src/CoreRules/CombatRules/Defense.md)
+- [Defense And Penetration](./src/CoreRules/CombatRules/Defense.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)

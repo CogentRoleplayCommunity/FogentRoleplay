@@ -1,4 +1,4 @@
-# Defense
+# Defense And Penetration
 
 Depending on the damage type, different types of defense can be used to reduce injuries. A character can then reduce a injury level by the equivalent amount of defense they have to that damage type. The only way to injure an opponent with a specific defense is to exceed, or bypass it.
 
@@ -23,3 +23,5 @@ A measure of a character's bulwark against all mental injuries and influence. Wi
 ## Soul Defense
 
 A measure of a character's bulwark against all spiritual injuries and influence. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+
+## Penetration
