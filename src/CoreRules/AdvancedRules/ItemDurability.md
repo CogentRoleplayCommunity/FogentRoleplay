@@ -16,13 +16,13 @@ If an injury is fully negated by armor, then the defender can decide which piece
 
 An armors durability decreases by level of injury inflicted plus the attacks defense penetration.
 
-- Armor damage = (level of injury inflicted) + (attack's armor penetration)
+- Armor damage = (level of injury inflicted) + (combat roll penetration)
 
 If an injury is not fully negated by the defender's armor, then all pieces of armor take armor damage.
 
 ### Normal Play Durability Rules
 
-When an item's durability falls, it's base dice remain unchanged until the weapon reaches 9 durability (or Shoddy) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Compromised.
+When an item's durability falls, it's base dice remain unchanged until the weapon reaches 6 durability (or Damaged) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Compromised.
 
 ### Hardcore Durability Rules
 
