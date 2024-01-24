@@ -45,12 +45,12 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### Combat Rules
 
+- [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Defense And Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
 - [Weakness And Resistances](./src/CoreRules/CombatRules/WeaknessAndResistances.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
-- [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
