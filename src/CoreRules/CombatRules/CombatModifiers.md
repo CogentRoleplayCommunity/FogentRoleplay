@@ -2,7 +2,7 @@
 
 ## Defensive (Advantage) (no victory levels)
 
-This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, Prone, Flanked, Dashing, etc.)
+This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, getting up from being Prone, Flanked, Dashing, etc.)
 
 ## Ranged vs Melee (Disadvantage)
 
