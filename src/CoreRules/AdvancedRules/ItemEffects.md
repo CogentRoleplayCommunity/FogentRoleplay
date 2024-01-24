@@ -1,4 +1,4 @@
-# Effects on Items
+# Items Effects
 
 Effects can be put on items that augment them or add new buffs/debuffs. In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle. In order to put an effect on an item, the item must satisfy the item tier requirement for that effect. For instance, it would be impossible to put a legendary enchantment effect onto a broken dagger.
 
