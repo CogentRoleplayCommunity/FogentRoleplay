@@ -4,30 +4,22 @@ Depending on the damage type, different types of defense can be used to resist i
 
 ## Physical Defense
 
-A measure of a character's resistance to all physical injuries. A character can wear two pieces of armor in the same category, such as wearing a gambeson under chain mail or a breastplate, which was most certainly done in history. In these circumstances the most efficient ways of defeating a person in armor is grappling them or tripping them and holding them down, just like in real life.
+A measure of a character's resistance to all physical injuries. Calculated by summing all a character's physical defenses and rounding down. A character can wear two pieces of armor in the same category, such as wearing a gambeson under chain mail or a breastplate, which was most certainly done in history. In these circumstances the most efficient ways of defeating a person in armor is grappling them or tripping them and holding them down, just like in real life.
 
-If a combat roll has a physical damage type and a damage type that would require an Bodily, Mental, or Spiritual defense roll, than since it is combine with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
-
-- Physical Defense level = sum of all armor's defense levels rounded down
+If a combat roll has a physical damage type and a damage type that would require an Bodily, Mental, or Spiritual defense roll, than since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
 
 ### Physical Defense from Shields
 
-Character's not actively using their shield as part of their combat roll/ dodge roll do not benefit from the additional defense. Character's are flanked or being attack from while unaware also do not benefit from the shield's defense.
+Character's not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Character's are flanked or being attack from while unaware also do not benefit from the shield's defense.
 
 ## Bodily Defense
 
-A measure of a character's resistance to affliction. Determines your body's ability to handle resisting poisoning, blood clotting, freezing, etc. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's combat roll penetration.
-
-- Bodily Defense = Endurance Roll or Endurance roll average wins, player's choice
+A measure of a character's resistance to affliction. Determines your body's ability to resist poisoning, bleeding, freezing, etc. Wins determined by an Endurance skill check act as your defense against injury. The character may also abstain from rolling, and take the average number of wins given the size of the dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
 ## Mental Defense
 
-Mental defense is a measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's combat roll penetration.
-
-- Mental Defense = Will Roll or Will Roll average wins, players choice
+A measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll act as your defense against injury. The character may also abstain from the rolling, and take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
 ## Soul Defense
 
-Soul defense is a measure of a character's bulwark against all spiritual injuries and influence.Wins determined by the roll below act as your defense against injury. The wins achieved by this are reduced by an attacker's combat roll penetration.
-
-- Spiritual Defense = Will Roll or Will Roll average wins, players choice
+A measure of a character's bulwark against all spiritual injuries and influence. Wins determined by the roll act as your defense against injury. The character may also abstain from rolling, and just take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
