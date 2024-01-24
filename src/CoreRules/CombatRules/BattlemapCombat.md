@@ -1,4 +1,4 @@
-# Battlemap Combat
+# Battle Map Combat
 
 Combat takes places on grided battle maps, with each square representing a 5 ft by 5 ft square.
 
