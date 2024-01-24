@@ -7,11 +7,10 @@ Weapon combat roll are dice pool that represent all of your characters ability w
 - +/- 1d6 per STR, RFX, or INT
 - +/- Weapon Class Dice (Hand Crossbow, Short Spear, ect...)
 - +Weapon Resource Dice (Arrow, Ammunition, ect...)
-- 
 
 Example 1:
 
-Javk Wick the rogue has a Quality arming sword dual wielded with a dagger. He has level 2 in Medium Sword and level 1 in Small Blade. He has Level 1 RFX.
+Javk Wick the rogue has a Medium Thrusting Sword dual wielded with a dagger. He has level 2 in Medium Sword and level 1 in Small Blade. He has Level 1 RFX.
 
 - +1d8, 2d6 (Quality Base Dice)
 - +2d6 (Level 2 Medium Sword Skill)
@@ -24,7 +23,7 @@ Based on the dice above, Javk using his sword and dagger for thrusting rolls 1d8
 
 Example 2:
 
-Javk Wick the rogue has a Mundane Light Crossbow and Standard Bolts. He has a level 1 with Light Crossbows. He has level 1 in RFX
+Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a level 1 with Light Crossbows. He has level 1 in RFX
 
 - +3d6 (Mundane Base Dice)
 - +1d6 (Level 2 Light Crossbow Skill)
