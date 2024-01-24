@@ -71,7 +71,7 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 ### Dismember
 
-Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless thier is a narrative explanation how a ranged attack could dismemeber (magic, explosive projectiles, ect...).
+Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless their is a narrative explanation how a ranged attack could dismember (magic, explosive projectiles, ect...).
 
 ### Render Unconscious
 
