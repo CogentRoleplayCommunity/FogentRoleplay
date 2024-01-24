@@ -47,11 +47,11 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
+- [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Defense And Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
 - [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
-- [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
