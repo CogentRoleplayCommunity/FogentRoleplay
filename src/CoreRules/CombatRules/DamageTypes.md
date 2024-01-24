@@ -50,7 +50,7 @@ Damage caused by poisons or toxins.
 
 ### Suffocation
 
-Damage caused by coming from the lack of breathable air such drowning.
+Damage caused by the lack of breathable air such drowning.
 
 ### Silver
 
