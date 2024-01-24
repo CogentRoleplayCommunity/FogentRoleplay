@@ -2,8 +2,11 @@
 
 Character's can gain a skill in the following weapon combat skills.
 
-- Crossbow
-- Bow
+- Hand Crossbow
+- Light Crossbow
+- Heavy Crossbow
+- Light Bow
+- Heavy Bow
 - Small Blade
 - Small Hafted
 - Medium Sword
