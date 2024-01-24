@@ -1,6 +1,6 @@
 # Defense
 
-Depending on the damage type, different types of defense can be used to resist injuries. A character can then reduce a physical injury level by the equivalent amount of defense they have to that damage type. The only way to injure an opponent with a specific defense is to exceed, or bypass it.
+Depending on the damage type, different types of defense can be used to reduce injuries. A character can then reduce a injury level by the equivalent amount of defense they have to that damage type. The only way to injure an opponent with a specific defense is to exceed, or bypass it.
 
 ## Physical Defense
 
