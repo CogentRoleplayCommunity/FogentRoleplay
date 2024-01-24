@@ -9,11 +9,6 @@ Life Leech,Sneak attacks trigger an Minor Heal to self.,,2
 Minor Enhanced Magic Resource,+2 to magic Resource capacity.,Indefinite,3
 Enhanced Magic Resource,+4 to magic Resource capacity.,Indefinite,5
 Greatly Enhanced Magic Resource,+6 to magic Resource capacity.,Indefinite,7
-,,,
-,,,
-,,,
-,,,
-,,,
 Indefinite Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,4
 Ariel Assassin,"While performing an aerial attack, gain a +1 to your victory level.",,3
 Minorly Enhanced Vitality,Reduce up to 1d6 of total injury penalty dice.,While equipped,4
@@ -56,15 +51,6 @@ Enhanced Healing,Any healing acts as the tier above.,While equipped,9
 Defense Spells,"The staff is endowed with 10 charges, serving as the fuel for the enclosed spells. When holding the staff, you can use your action to cast one of the following spells from it, provided you have a vocation that can unlock the magic required for these spells: Physical Protection (1 charge) or Mage Shield (2 charges). No components are necessary.
 
 At the break of dawn, the staff regains 1d6 + 4 expended charges. Should the staff exhaust its charges entirely, roll a d20. If the result is 1, the staff shatters and meets its destruction.",While Equipped,5
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
 ,,,
 Minor Hew Weakness,(+1) to the level of injury received from Hew damage.,While equipped,3
 Medium Hew Weakness,(+2) to the level of injury received from Hew damage.,While equipped,5
