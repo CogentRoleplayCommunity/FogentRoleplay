@@ -38,7 +38,7 @@ CL determined by Narrator IE, attacking a soldier from behind may require a succ
 
 ## Incapacitated (Super Advantage)
 
-If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily. The CL a character must exceed to obtain ANY victory level against them is CL1.
+If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily.
 
 ## Cover
 
