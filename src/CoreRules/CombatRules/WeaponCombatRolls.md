@@ -26,7 +26,7 @@ Example 2:
 Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a level 1 with Light Crossbows. He has level 1 in RFX
 
 - +3d6 (Base Dice)
-- +1d6 (Level 2 Light Crossbow Skill)
+- +1d6 (Level 1 Light Crossbow Skill)
 - +1d6 (Level 1 RFX)
 - +1d6 (Light Crossbow Two Handed)
 - +1d6 (Standard Bolts as Weapon Resource Dice)
