@@ -14,7 +14,7 @@ Greatly Enhanced Magic Resource,+6 to magic Resource capacity.,Indefinite,7
 ,,,
 ,,,
 ,,,
-Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,,4
+Indefinite Gradual Heal,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,4
 Ariel Assassin,"While performing an aerial attack, gain a +1 to your victory level.",,3
 Minorly Enhanced Vitality,Reduce up to 1d6 of total injury penalty dice.,While equipped,4
 Enhanced Vitality,Reduce up to 2d6 of total injury penalty dice.,While equipped,6
