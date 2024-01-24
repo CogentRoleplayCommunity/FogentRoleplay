@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 div.shell {
-  width: 1000px;
+  width: auto;
 }
 
 code {
@@ -12,7 +12,7 @@ code {
 }
 
 header, footer {
-  max-width: 1000px;
+  max-width: auto;
   background: none;
 }
 
