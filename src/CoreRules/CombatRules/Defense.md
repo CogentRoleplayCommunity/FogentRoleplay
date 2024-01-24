@@ -14,12 +14,12 @@ Character's not actively using their shield as part of their combat/dodge roll d
 
 ## Bodily Defense
 
-A measure of a character's resistance to affliction. Determines your body's ability to resist poisoning, bleeding, freezing, etc. Wins determined by an Endurance skill check act as your defense against injury. The character may also abstain from rolling, and take the average number of wins given the size of the dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+A measure of a character's resistance to affliction. Determines your body's ability to resist poisoning, bleeding, freezing, etc. Wins determined by an Endurance skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of the dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
 ## Mental Defense
 
-A measure of a character's bulwark against all mental injuries and influence. Wins determined by the roll act as your defense against injury. The character may also abstain from the rolling, and take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+A measure of a character's bulwark against all mental injuries and influence. Wins determined by an Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
 ## Soul Defense
 
-A measure of a character's bulwark against all spiritual injuries and influence. Wins determined by the roll act as your defense against injury. The character may also abstain from rolling, and just take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+A measure of a character's bulwark against all spiritual injuries and influence. Wins determined by an Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
