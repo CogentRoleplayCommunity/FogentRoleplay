@@ -17,4 +17,4 @@ D6s have a 50% chance of rolling a success, as 4, 5, and 6 on the dice count as 
 
 ## Removing Dice from a Dice Pool
 
-Whenever you are removing dice from an already rolled dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
+Whenever you are removing dice from a dice pool (often done after taking an injury), always remove the lowest sided dice first. For instance, d4 dice are always removed first, then d6, and so on.
