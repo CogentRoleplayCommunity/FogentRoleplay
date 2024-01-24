@@ -18,8 +18,8 @@ A measure of a character's resistance to affliction. Determines your body's abil
 
 ## Mental Defense
 
-A measure of a character's bulwark against all mental injuries and influence. Wins determined by an Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+A measure of a character's bulwark against all mental injuries and influence. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
 
 ## Soul Defense
 
-A measure of a character's bulwark against all spiritual injuries and influence. Wins determined by an Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
+A measure of a character's bulwark against all spiritual injuries and influence. Wins determined by a Will skill check act as your defense against injury. The character may also abstain from rolling, choosing to take the average number of wins given the size of their dice pool. This can be calculated by dividing the amount of dice rolled by 2 than rounding down. The wins achieved by this are reduced by an attacker's combat roll penetration.
