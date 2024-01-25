@@ -1,8 +1,10 @@
 ## Magic Roll
 
-This roll represents your abilities with a specific type of Magic skill. A minimum of one Resource is required to make a non-Cantrip Magic Roll. Resources up to the level in the user's Magic vocation can be consumed, adding an additional d6 to the Magic Roll for each Magic Resource consumed.
+This roll represents your abilities with a specific type of Magic skill.
 
-- Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Vocation Attributes) + Xd6 (Resource consumed capped by Magic Vocation level) + Xd6 (Conduit Dice Modification)
+- Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Magic Skill Governing Attributes) + Xd6 (Spell Dice Modifier)+ Xd6 (Conduit Dice Modification) + Xd6 (Extra Magic Resource)
+
+Extra Magic Resource up to the character's Magic Vocation can be consumed on a spell, which includes the spells required magic resource. Adds additional d6s to the Magic Roll for each Extra Magic Resource consumed.
 
 ### Magic Skills in Combat
 
