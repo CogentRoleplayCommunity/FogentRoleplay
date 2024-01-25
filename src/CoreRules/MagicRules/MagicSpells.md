@@ -67,7 +67,7 @@ Specific Spells:
 
 Generic Spells:
 
-- [Generic Adept Magic](Spells/Adept/GenericAdeptSpell.md)
+- [Generic Adept Spell](Spells/Adept/GenericAdeptSpell.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 Specific Spells:
