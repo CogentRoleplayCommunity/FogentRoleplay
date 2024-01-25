@@ -1,6 +1,6 @@
 # Generic Apprentice Spell
 
-Apprentice magic spell that can be used for generic creative uses of magic. Outside of combat
+Apprentice magic spell that can be used for generic creative uses of magic. 
 
 As a part of a combat roll, a character can choose one of the following options below of how they would like to use their magic for that round, which effectively acts as their weapon class for that round. Damage type is determined by the damage type of the magic skill used.
 
