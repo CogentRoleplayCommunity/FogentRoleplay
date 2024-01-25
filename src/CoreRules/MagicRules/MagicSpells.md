@@ -10,7 +10,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 
 ### Party Tricks
 
-- [Party Trick](Spells/PartyTricks/PartyTrick.md)
+- [Generic Party Trick](Spells/PartyTricks/GenericPartyTrick.md)
 
 ### Novice Spells (Cantrips)
 
