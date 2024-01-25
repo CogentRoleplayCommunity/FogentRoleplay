@@ -17,7 +17,7 @@ As a part of a combat roll, a character can choose one of the following options 
 
 **Duration:** 1 round
 
-**Magic Resource Required:** 2
+**Magic Resource Required:** 1
 
 **Skills required:**
 
