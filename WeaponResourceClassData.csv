@@ -9,7 +9,7 @@ Wounding Bolt,Bolt,+1d6,1,None,"Pierce, Bleed",None
 Anti-armor Bolt,Bolt,+1d6,2,None,Pierce,None
 Survival Bolt,Bolt,+1d4,0,None,Pierce,None
 Shoddy Bolt,Bolt,+1d4,1,None,Pierce,None
-Standard Sling Bullets,Sling Bullet,+1d6,0,None,Bludgeon,None
+Standard Sling Bullets,Sling Bullet,+1d6,1,None,Bludgeon,None
 Poison Needles,Blowgun Dart,+1d6,0,None,Poison,None
 ,,,,,,
 9mm FMJ Ammo,9mm Ammo,+1d6,4,None,Pierce,None
