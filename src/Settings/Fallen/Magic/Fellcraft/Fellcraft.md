@@ -11,7 +11,7 @@ Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energ
 - Magic Name: Fellcraft
 - Magic Vocation Name: Fellcaster
 - Magic Vocation Governing Attributes: STR, RFX, INT
-- Magic Resource Name: Fellblood (A character loses equivalent Fellblood to the level of injury dealt by bleed Damgage)
+- Magic Resource Name: Fellblood (A character loses equivalent Fellblood to the level of injury dealt by bleed Damage)
 - Cantrip Name: Trick
 - Governing Core Skill: Endurance
 
