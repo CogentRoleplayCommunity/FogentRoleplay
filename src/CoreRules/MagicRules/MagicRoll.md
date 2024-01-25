@@ -6,6 +6,8 @@ For magic skill rolls, Magic Resource can be added up to the character's Magic V
 
 Magic Skill Roll = 3d6 (base) + Xd6 (Magic Skill) + Xd6 (Magic Skill Governing Attributes) + Xd6 (Conduit Dice Modification) + Xd6 (Magic Resource)
 
+Magic Skill rolls fall under the Generic Spells unless otherwise stated. This allows for maximum creativity. The range for a magic skill roll is specified by the Generic Spell used.
+
 ### Magic Combat Roll
 
 This roll represents your abilities with a specific type of Magic skill.
