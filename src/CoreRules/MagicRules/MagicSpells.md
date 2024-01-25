@@ -32,8 +32,8 @@ Specific Spells:
 
 Generic Spells:
 
-- [Cone Magic](Spells/Apprentice/ConeMagic.md)
 - [Generic Apprentice Spell](Spells/Apprentice/GenericApprenticeSpell.md)
+- [Cone Magic](Spells/Apprentice/ConeMagic.md)
 
 Specific Spells:
 
