@@ -16,8 +16,7 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 
 Generic Spells:
 
-- [Melee Cantrip](Spells/Novice/MeleeCantrip.md)
-- [Ranged Cantrip](Spells/Novice/RangedCantrip.md)
+- [Generic Novice Spell](Spells/Novice/GenericNoviceSpell.md)
 
 Specific Spells:
 
@@ -34,9 +33,7 @@ Specific Spells:
 Generic Spells:
 
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)
-- [Melee Magic](Spells/Apprentice/MeleeMagic.md)
-- [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md)
-- [Quick Ranged Magic](Spells/Apprentice/QuickRangedMagic.md)
+- [Generic Apprentice Spell](Spells/Apprentice/GenericApprenticeSpell.md)
 
 Specific Spells:
 
@@ -69,6 +66,7 @@ Specific Spells:
 ### Adept Spells
 
 Generic Spells:
+
 - [Reach Melee Magic](Spells/Adept/ReachMeleeMagic.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
