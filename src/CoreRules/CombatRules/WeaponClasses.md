@@ -7,6 +7,8 @@ Character's can gain a skill in the following weapon combat skills.
 - Heavy Crossbow
 - Light Bow
 - Heavy Bow
+- Exotic Ranged
+- Unarmed
 - Small Blade
 - Small Hafted
 - Medium Sword
@@ -17,6 +19,7 @@ Character's can gain a skill in the following weapon combat skills.
 - Greatsword
 - Reach Hafted
 - Longspear
+- Whip
 
 ## Dual Wielded
 
