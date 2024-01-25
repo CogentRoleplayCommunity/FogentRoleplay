@@ -1,5 +1,3 @@
-# Item Tier, Effects, and Durability
-
 ## Item Tier
 
 Items are created with carious levels of quality. Depending on an individual items tiers, it will have the following stats associated with it.
@@ -24,7 +22,7 @@ Items are created with carious levels of quality. Depending on an individual ite
 |   Mythic   |  11  | 1d12, 2d20 |       45       |
 |  Artifact  |  12  |    3d20    |       48       |
 
-### Base Dice Modification
+## Base Dice Modification
 
 Base Dice are a reflection of a higher/lower quality of an item when used. Replace the typical 3d6 base dice with the corresponding dice on the item tier table. For instance, a mundane dagger for a character rolls 4d6. With a Mythic dagger they would roll 1d6, 1d12, and 2d20. This also applies to Conduits, tools used in skill rolls (high quality grappling hook for Climb), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability and upgrade slots.
 

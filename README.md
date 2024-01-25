@@ -45,25 +45,25 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 
 ### Combat Rules
 
-- [Range](./src/CoreRules/CombatRules/Range.md)
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Weakness And Resistances](./src/CoreRules/CombatRules/WeaknessAndResistances.md)
-- [Defense](./src/CoreRules/CombatRules/Defense.md)
-- [Battlemap Combat](./src/CoreRules/CombatRules/BattlemapCombat.md)
+- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
+- [Defense and Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
+- [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
+- [Range](./src/CoreRules/CombatRules/Range.md)
+- [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
+- [Battle Map Combat](./src/CoreRules/CombatRules/BattleMapCombat.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
-- [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
-- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 
 ### Advanced Rules
 
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
-- [Light And Vision](./src/CoreRules/AdvancedRules/LightAndVision.md)
+- [Light and Vision](./src/CoreRules/AdvancedRules/LightAndVision.md)
 - [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
 - [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
 - [Item Durability](./src/CoreRules/AdvancedRules/ItemDurability.md)

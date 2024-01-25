@@ -10,14 +10,13 @@ Each spell has magic skill requirements in order to perform. You must satisfy th
 
 ### Party Tricks
 
-- [Party Trick](Spells/PartyTricks/PartyTrick.md)
+- [Generic Party Trick](Spells/PartyTricks/GenericPartyTrick.md)
 
 ### Novice Spells (Cantrips)
 
 Generic Spells:
 
-- [Melee Cantrip](Spells/Novice/MeleeCantrip.md)
-- [Ranged Cantrip](Spells/Novice/RangedCantrip.md)
+- [Generic Novice Spell](Spells/Novice/GenericNoviceSpell.md)
 
 Specific Spells:
 
@@ -33,10 +32,8 @@ Specific Spells:
 
 Generic Spells:
 
+- [Generic Apprentice Spell](Spells/Apprentice/GenericApprenticeSpell.md)
 - [Cone Magic](Spells/Apprentice/ConeMagic.md)
-- [Melee Magic](Spells/Apprentice/MeleeMagic.md)
-- [Penetrating Ranged Magic](Spells/Apprentice/PenetratingRangedMagic.md)
-- [Quick Ranged Magic](Spells/Apprentice/QuickRangedMagic.md)
 
 Specific Spells:
 
@@ -69,7 +66,8 @@ Specific Spells:
 ### Adept Spells
 
 Generic Spells:
-- [Reach Melee Magic](Spells/Adept/ReachMeleeMagic.md)
+
+- [Generic Adept Spell](Spells/Adept/GenericAdeptSpell.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 Specific Spells:
@@ -79,6 +77,8 @@ Specific Spells:
 ### Expert Spells
 
 Generic Spells:
+
+- [Generic Expert Spell](./Spells/Expert/GenericExpertSpell.md)
 
 Specific Spells:
 

@@ -12,17 +12,17 @@ When a melee combat roll is made towards a character within melee or reach range
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
-## Charge (+1d6)
-
-If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
-
-## Focused Shot (+1d6)
+## Focused Shot (Advantage)
 
 While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have disadvantage to Dodging. If the character is forced to Dodge before their combat roll, they do not benefit from focused.
 
-## Brace (+2 wins versus charge)
+## Charge (Advantage)
 
-A brace is a move purely to counter a charge. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
+
+## Brace (Advantage versus Charge)
+
+A brace is a move purely to counter a charge. Character gains advantage versus charging opponents and charging opponents lose their advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
 ## High ground (Advantage)
 
@@ -38,7 +38,7 @@ CL determined by Narrator IE, attacking a soldier from behind may require a succ
 
 ## Incapacitated (Super Advantage)
 
-If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily. The CL a character must exceed to obtain ANY victory level against them is CL1.
+If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily.
 
 ## Cover
 

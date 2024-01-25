@@ -1,8 +1,7 @@
 # Victory Levels
 
-- Victory levels from physical attacks can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory can be increased by 1.
-- Victory levels from mental or spiritual attacks can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory is increased by 1.
-- Injuries can be reduced by physical/bodily/mental/spiritual defense.
+- Victory levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory can be increased by 1.
+- Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory is increased by 1.
 - A character is rendered Incapacitated once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
@@ -72,7 +71,7 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 ### Dismember
 
-Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless thier is a narrative explanation how a ranged attack could dismemeber (magic, explosive projectiles, ect...).
+Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless their is a narrative explanation how a ranged attack could dismember (magic, explosive projectiles, ect...).
 
 ### Render Unconscious
 

@@ -1,6 +1,6 @@
 # Combat Rounds
 
-Combat is run in a Round by Round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows) with liberties in regard to the narrative flow of the game. For instance it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
+Combat is run in a Round by Round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties in regard to the narrative flow of the game. For instance it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
 
 Actions in combat rounds are not solely movements and attacks. A combat action can really be anything a person could do within a few seconds, such as turning over a table with there weapon, swinging from a chandelier, or dropping a boulder onto an enemy. The Narrative flow you develop while playing will guide you in what the players can do in game, and how long it will take to do it.
 
@@ -8,11 +8,11 @@ Actions in combat rounds are not solely movements and attacks. A combat action c
 
 Every action within Round by Round conflicts happen almost at the same time or in direct succession of one another. This means that one character's action is NOT explicitly followed by another character's action. It should be considered as everything happening together.
 
-To make sense of this potential 'chaos', there is a declaration phase and a performance phase.
+To make sense of this potential 'chaos', there is a declaration phase and a action phase.
 
 ### Declaration Phase
 
-The Character with lowest reflex declares what they are doing first. That might seem odd as you could think characters with higher REF should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same REF, they each roll a D6 (though d20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
+The character with lowest reflex declares what they are doing first. That might seem odd as you could think characters with higher REF should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same REF, they each roll a D6 (though D20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
 
 Players who declare LATER hold the upper hand in combat.
 
@@ -34,4 +34,4 @@ Whenever losing dice of the same kind, always remove dice from left to right. Th
 
 ### Applying Disadvantage/Advantage to an already rolled Dice Pool
 
-If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a dice pool that round (combat roll dice pool, dodge dice pool, ect...), you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
+If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.

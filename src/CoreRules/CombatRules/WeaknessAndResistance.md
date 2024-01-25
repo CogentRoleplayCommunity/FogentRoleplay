@@ -1,6 +1,6 @@
-# Weaknesses and Resistances
+# Weakness and Resistance
 
-## Weaknesses
+## Weakness
 
 Creatures can be susceptible to certain sources of damage.
 
@@ -12,7 +12,7 @@ Creatures can be susceptible to certain sources of damage.
 | Extreme (damage-type) Weakness | +4 to the level of injury received from (damage type) damage. |
 | Mortal (damage-type) Weakness | +5 to the level of injury received from (damage type) damage. |
 
-## Resistances
+## Resistance
 
 Creatures can be resistant to certain sources of damage.
 

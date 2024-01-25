@@ -36,11 +36,21 @@ Another avenue to explore are magic how these magics could be combined.
 
 ### Unlocking Magic
 
-You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the level -1 (incompetent).
+You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the Party Trick Tier (level -1: incompetent).
+
+| Magic Vocation Level | Magic Vocational Skills known |
+| :------------------: | :---------------------------: |
+|          0          |               1               |
+|          1          |               3               |
+|          2          |               5               |
+|          3          |               7               |
+|          4          |               9               |
 
 #### Party Trick Tier (Level -1: Incompetent)
 
-Requires an investment of 0 skill point to unlock. Generally acquired during character creation or through narrative means. Examples include:
+Requires an investment of 0 skill point to unlock. Generally acquired during character creation, increasing your vocation level or through narrative means. 
+
+Examples include:
 
 * A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
@@ -49,11 +59,3 @@ Requires an investment of 0 skill point to unlock. Generally acquired during cha
 * A part of nature foreign to your place of origin. (Druid)
 
 This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
-
-| Magic Vocation Level | Magic Vocational Skills known |
-| -------------------- | ----------------------------- |
-| 0                    | 1                             |
-| 1                    | 3                             |
-| 2                    | 5                             |
-| 3                    | 7                             |
-| 4                    | 9                             |
