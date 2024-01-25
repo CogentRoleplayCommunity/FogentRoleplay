@@ -78,6 +78,8 @@ Specific Spells:
 
 Generic Spells:
 
+- [Generic Expert Spell](./Spells/Expert/GenericExpertSpell.md)
+
 Specific Spells:
 
 ### Master Spells
