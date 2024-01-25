@@ -67,7 +67,7 @@ Specific Spells:
 
 Generic Spells:
 
-- [Reach Melee Magic](Spells/Adept/ReachMeleeMagic.md)
+- [Generic Adept Magic](Spells/Adept/GenericAdeptSpell.md)
 - [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 Specific Spells:
