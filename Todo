@@ -1,7 +1,5 @@
 Fogent To dos:
 
-Remove level 5 resistances since they are death blows
-
 Add guns to Fogent
 
 Added Net with 5/15 range
@@ -19,8 +17,6 @@ Shove for mental damage magic
 Possible dedicated 1 handed swords
 
 Cover might need to be a resistance instead of AC
-
-INvestigate lvl 5 only victory levels to avoid overcoming complete resistance
 
 Decouple items and Item shop from fallen
 
