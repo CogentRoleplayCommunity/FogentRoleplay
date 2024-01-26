@@ -4,6 +4,8 @@ Adept magic spell that can be used for generic creative uses of magic. For a mag
 
 As a part of a combat roll, a character can choose one of the following options below of how they would like to use their magic for that round, which effectively acts as their weapon class for that round. Damage type is determined by the damage type of the magic skill used.
 
+Melee attacks from this spell are considered large melee weapons.
+
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Magic Slash |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |  1 Magic Resource  |
