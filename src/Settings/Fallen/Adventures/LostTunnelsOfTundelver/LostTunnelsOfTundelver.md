@@ -684,7 +684,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Sleight of Hand check, and doors can be forcefully broken down with a successful CL 4 Lift check.
 
-**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. If a character is within 10 feet, the narrator should promt a enviromental CL 3 Perception Skill check to detect the secret door. A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
+**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. If a character is within 10 feet, the narrator should promt a environmental CL 3 Perception Skill check to detect the secret door. A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
 
 **Light.** Most areas within the hideout are illuminated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
@@ -990,14 +990,14 @@ If questioned while in captivity, Sylas provides the following information, all 
 * The Black Spider is searching Tide Echo Tunnels for the Forge of Runes. molekin and serpentkins of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
-### Develoments
+### Developments
 
 In terms of developments, various papers and notes are neatly stacked on the desk, primarily consisting of Sylas's written orders to apothecaries and alchemists in nearby settlements for additional materials for his workshop. Among these documents, the characters also discover a letter marked with the Black Spider's symbol.
 
 ```
 Lord Alabaster,
 
-Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the molekin. If possible, apprehend them. If necessary, eliminnate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
+Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the molekin. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
 ```
 
 In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Sylas faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
@@ -1006,9 +1006,9 @@ In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have 
 
 Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Lavender Lancers over the last two months, including 1800 copper coins, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
-For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminnates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
+For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
-#### Awarding Experinece
+#### Awarding Experience
 
 In terms of what's next, the adventure proceeds to the next phase, part 3, titled "The Spider's Web." During this segment, the characters engage in several short adventures that propel the storyline forward. It is likely that at some point in part 2, the characters will reach 3rd level, so it's important for players to keep track of their XP.
 
