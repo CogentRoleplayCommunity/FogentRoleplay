@@ -76,7 +76,7 @@ Fang - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Poin
 Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
-Staff of Defense,1,"Large Hafted Blunt, Runecraft Conduit","Defense Spells, Physical Defense 1.00",Superior,24/24,3,?,
+Staff of Defense,1,"Large Hafted Blunt, Magic Conduit","Defense Spells, Physical Defense 1.00",Superior,24/24,3,?,
 Monkey Staff,1,"Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
@@ -457,15 +457,15 @@ Dice Set,1,,,Mundane,,0.2,10 cc,
 Playing Card Set,1,,,Mundane,,0.2,50 cc,
 Poisoner's Kit,1,,,Mundane,,2,50 bc,
 Thieves' Tools,1,,,Mundane,,1,25 bc,
-Conduit - Crystal,1,Runecraft Conduit,,Mundane,,1,10 bc,
-Conduit - Orb,1,Runecraft Conduit,,Mundane,,3,20 bc,
-Conduit - Rod,1,Runecraft Conduit,,Mundane,,2,10 bc,
-Conduit - Staff,1,"Runecraft Conduit, Large Hafted Blunt",,Mundane,,4,5 bc,
-Conduit - Wand,1,Runecraft Conduit,,Mundane,,1,10 bc,
+Conduit - Crystal,1,Magic Conduit,,Mundane,,1,10 bc,
+Conduit - Orb,1,Magic Conduit,,Mundane,,3,20 bc,
+Conduit - Rod,1,Magic Conduit,,Mundane,,2,10 bc,
+Conduit - Staff,1,"Magic Conduit, Large Hafted Blunt",,Mundane,,4,5 bc,
+Conduit - Wand,1,Magic Conduit,,Mundane,,1,10 bc,
 Satchel (2/5 ft^3),1,12 lb container,,Mundane,,2,1 bc,
 Component Pouch (2/5 ft^3),1,12 lb container,,Mundane,,2,25 bc,
-Spellbook,1,Runecraft Conduit,,Exquisite,,3,50 bc,
-Runebook,1,Runecraft Conduit,,Exquisite,,3,50 bc,
+Spellbook,1,Magic Conduit,,Exquisite,,3,50 bc,
+Runebook,1,Magic Conduit,,Exquisite,,3,50 bc,
 Fishing Tackle,1,,,Mundane,,4,1 bc,
 1lb of Fishing Bait,1,,,Mundane,,1,5 cc,
 Painter's Supplies,1,,,Mundane,,3,10 bc,
