@@ -57,7 +57,7 @@
 |    Sonocraft_[Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
 |    Sonocraft_[Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
 |     Sonocraft_[Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
-|    Sonocraft_[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +2d6      |      +2d6      |       None       |      1      | Medium |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
+|    Sonocraft_[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
 
 ## Destiny Points: 1/3
 

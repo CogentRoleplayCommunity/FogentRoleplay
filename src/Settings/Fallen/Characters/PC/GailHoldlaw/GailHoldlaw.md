@@ -59,7 +59,7 @@ Earned Skill point: 2
 |    _[Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 |    _[Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
 |     _[Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
-|    _[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +2d6      |      +2d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |
+|    _[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |
 
 ### Apprentice Spells
 

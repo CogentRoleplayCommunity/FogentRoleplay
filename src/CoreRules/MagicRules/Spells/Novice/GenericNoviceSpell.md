@@ -14,7 +14,7 @@ Melee attacks from this spell are considered small melee weapons.
 |    Cantrip Slash    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 |    Cantrip Throw    |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
 |     Cantrip Dart     |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
-|    Cantrip Sling    |      +2d6      |      +2d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |
+|    Cantrip Sling    |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |
 
 ## Info
 
