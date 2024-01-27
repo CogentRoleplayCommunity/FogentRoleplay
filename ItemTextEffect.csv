@@ -51,6 +51,7 @@ Enhanced Healing,Any healing acts as the tier above.,While equipped,9
 Defense Spells,"The staff is endowed with 10 charges, serving as the fuel for the enclosed spells. When holding the staff, you can use your action to cast one of the following spells from it, provided you have a vocation that can unlock the magic required for these spells: Physical Protection (1 charge) or Mage Shield (2 charges). No components are necessary.
 
 At the break of dawn, the staff regains 1d6 + 4 expended charges. Should the staff exhaust its charges entirely, roll a d20. If the result is 1, the staff shatters and meets its destruction.",While Equipped,5
+Single-use Invisibility,Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process.,1 hour,3
 ,,,
 Minor Hew Weakness,(+1) to the level of injury received from Hew damage.,While equipped,3
 Medium Hew Weakness,(+2) to the level of injury received from Hew damage.,While equipped,5
