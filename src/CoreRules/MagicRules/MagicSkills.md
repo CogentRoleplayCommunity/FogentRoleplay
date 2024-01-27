@@ -2,7 +2,7 @@
 
 These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the element/concept.
 
-If you are making a magic system, these will magic skills could have different names in your system for flavor. You'll wanna determine what types of damage the magic skill will be capable of causing.  You'll want to determine if this magic skill could be used for melee combat, a good rule of thumb is if it can't create something physical that could block a sword, than it probably isn't melee capable. You'll also want to determine if it is range capable, which determines if a magic can make ranged attacks.
+If you are making a magic system, these will magic skills could have different names in your system for flavor. You need to determine what damage types each magic skill will be capable of causing.  Next, you'll need to determine if this magic skill could be used for melee combat, a good rule of thumb is if it can't create something physical that could block a sword, than it probably isn't melee capable. Finally, you'll need to determine if it is range capable, which determines if a magic can make ranged attacks.
 
  This is not an exhaustive list, feel free to add your own.
 
