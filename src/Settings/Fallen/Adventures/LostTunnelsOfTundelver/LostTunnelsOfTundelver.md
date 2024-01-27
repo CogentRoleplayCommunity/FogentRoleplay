@@ -398,10 +398,10 @@ Additionally, Thrak's treasure chest holds:
 | Name                                                    | #   | Class            | Tier      | Durability | LB   | Value |
 | ------------------------------------------------------- | --- | ---------------- | --------- | ---------- | ---- | ----- |
 | Chest (12 ft^3)                                         | 1   | 300 lb container | Mundane   |            | 25   | 5 bc  |
-| Copper Coin                                             | 600 |              | Mundane   |            | 0.02 | 1 cc  |
-| Bronze Coin                                             | 11  |              | Mundane   |            | 0.02 | 1 bc  |
+| Copper Coin                                             | 600 |                  | Mundane   |            | 0.02 | 1 cc  |
+| Bronze Coin                                             | 11  |                  | Mundane   |            | 0.02 | 1 bc  |
 | Jade statuette of a frog with tiny golden orbs for eyes | 1   | Treasure         | Excellent |            | 1    | 50 bc |
-| Vial of Minor Healing Blood                             | 2   |              | Mundane   |            | 0.25 | 50 bc |
+| Vial of Minor Healing Blood                             | 2   |                  | Mundane   |            | 0.25 | 50 bc |
 
 ### What Comes Next?
 
@@ -674,6 +674,8 @@ Each character is awarded a skill point upon their successful defeat of the ruff
 
 The Lavender Lancers' headquarters in Tuntin occupies an underground complex beneath the now-dilapidated Rozen Manor. Originally, the manor's cellars were designed for the safe storage of provisions, including food and water, in case the estate came under attack. Adjacent to the cellars was a crypt intended for interring deceased members of the Rozen family. The Lavender Lancers, however, have substantially expanded the cellars to serve their own needs, modifying them to accommodate slave pens, workshops, and barracks. Should the characters initiate their search from Rozen Manor, their entry point into the dungeon is in area 1. Alternatively, if they opt to follow Carp Alderleaf through the secret tunnel he discovered, they gain access to the dungeon via area 8.
 
+![Copyright](./LavanderLancerHideout.png)
+
 ### **General Features**
 
 The hideout boasts well-constructed dungeon chambers featuring flagstone floors and walls made of dressed stone blocks. The western end of the complex is situated at a lower level than the eastern end, and staircases guide the characters as they explore.
@@ -682,7 +684,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Sleight of Hand check, and doors can be forcefully broken down with a successful CL 4 Lift check.
 
-**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Perception score of at least 3 (6 dice in perception dice poll). A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
+**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. If a character is within 10 feet, the narrator should promt a enviromental CL 3 Perception Skill check to detect the secret door. A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
 
 **Light.** Most areas within the hideout are illuminated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
