@@ -4,16 +4,17 @@ Skills represent certain task a character can perform.
 
 ## Skill Levels
 
-Skill level measure how good a character is at the specific skill. Skill Level ranges form level -1 to level 4.
+Skill level measure how good a character is at the specific skill. Skill Level ranges form level -1 to level 5.
 
-| Level | Narrative Meaning |                                              Description                                              |
-| :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
-|  -1  |    Incompetent    |                                      Incompetent level of skill.                                      |
-|   0   |      Novice      |                                     Inexperienced level of skill.                                     |
-|   1   |    Apprentice    |                                     The basics have been learned.                                     |
-|   2   |       Adept       |        The basics have been fully understood and the more advanced concepts are being learned.        |
-|   3   |      Expert      | Advanced concepts have been fully understood and master level concepts are beginning to be introduced. |
-|   4   |      Master      |                             Master level of proficiency has been achieved.                             |
+| Level | Narrative Meaning |                                                 Description                                                 |
+| :---: | :---------------: | :----------------------------------------------------------------------------------------------------------: |
+|  -1  |    Incompetent    |                                         Incompetent level of skill.                                         |
+|   0   |      Novice      |                                        Inexperienced level of skill.                                        |
+|   1   |    Apprentice    |                                        The basics have been learned.                                        |
+|   2   |       Adept       |           The basics have been fully understood and the more advanced concepts are being learned.           |
+|   3   |      Expert      |    Advanced concepts have been fully understood and master level concepts are beginning to be introduced.    |
+|   4   |      Master      | Master level of proficiency has been achieved. Character would be well know in local region for their skill. |
+|   5   |     Legendary     |    Legendary level of proficiency has been achieved. Character would be a living legend for their skill.    |
 
 ## Skill Specialty
 
