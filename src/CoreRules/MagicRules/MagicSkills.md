@@ -1,29 +1,33 @@
 ## Magic Skills
 
-These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the concept.
+These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the element/concept.
 
-If you are making a magic system, these will probably have different names in your system. This is not an exhaustive list, feel free to add your own.
+If you are making a magic system, these will magic skills could have different names in your system for flavor. You'll wanna determine what types of damage the magic skill will be capable of causing.  You'll want to determine if this magic skill could be used for melee combat, a good rule of thumb is if it can't create something physical that could block a sword, than it probably isn't melee capable. You'll also want to determine if it is range capable, which determines if a magic can make ranged attacks.
 
-- Bodily Magic (Flesh, Web, Bone, ect...)
-- Heat Magic
-- Water Magic
-- Electricity Magic
-- Earth Magic
-- Air Magic
-- Cold Magic
-- Plant Magic
-- Poison Magic
-- Soul Magic
-- Light Magic
-- Shadow Magic
-- Mind Magic
-- Metal Magic
-- Sound Magic
-- Blood Magic
-- Acid Magic
-- Time Magic
-- Space Magic
-- Gravity Magic
+ This is not an exhaustive list, feel free to add your own.
+
+|                  Name                  |             Damage Type             | Melee Capable | Range Capable |
+| :-------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
+| Bodily Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|           Fire or Heat Magic           |                 Fire                 |     TRUE     |     TRUE     |
+|               Water Magic               | Suffocation, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
+|            Electricity Magic            |               Electric               |     TRUE     |     TRUE     |
+|               Earth Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|                Air Magic                |      Slash, Bludgeon, Shockwave      |     TRUE     |     TRUE     |
+|               Cold Magic               |                 Cold                 |     TRUE     |     TRUE     |
+|          Nature or Plant Magic          |       Slash, Bludgeon, Pierce       |     TRUE     |     TRUE     |
+|              Poison Magic              |                Poison                |     TRUE     |     TRUE     |
+|               Soul Magic               |              Spiritual              |     FALSE     |     TRUE     |
+|               Light Magic               |               Radiant               |     TRUE     |     TRUE     |
+|              Shadow Magic              |               Necrotic               |     TRUE     |     TRUE     |
+|               Mind Magic               |               Psychic               |     FALSE     |     TRUE     |
+|               Metal Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|               Sound Magic               |              Shockwave              |     FALSE     |     TRUE     |
+|               Blood Magic               |                Bleed                |     TRUE     |     TRUE     |
+|               Acid Magic               |                 Acid                 |     TRUE     |     TRUE     |
+|               Time Magic               |                                      |     FALSE     |     TRUE     |
+|         Teleport or Space Magic         |                                      |     FALSE     |     TRUE     |
+|         Force or Gravity Magic         |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
 
 ### Combo Magic Skill
 
@@ -33,6 +37,7 @@ Another avenue to explore are magic how these magics could be combined.
 - Storm Magic = Air Magic + Electricity Magic + Water Magic
 - Magma Magic = Earth Magic + Heat Magic
 - Blizzard Magic = Cold Magic + Air Magic
+- Frost Magic = Water Magic + Cold Magic
 
 ### Unlocking Magic
 
@@ -48,7 +53,7 @@ You unlock an amount of Magic Skill depending on your Magic Vocation level. All 
 
 #### Party Trick Tier (Level -1: Incompetent)
 
-Requires an investment of 0 skill point to unlock. Generally acquired during character creation, increasing your vocation level or through narrative means. 
+Requires an investment of 0 skill point to unlock. Generally acquired during character creation, increasing your vocation level or through narrative means.
 
 Examples include:
 
