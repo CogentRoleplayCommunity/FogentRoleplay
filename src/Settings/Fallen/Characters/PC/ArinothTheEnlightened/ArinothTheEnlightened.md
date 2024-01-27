@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 1 | 5d6 | Fellcaster {ALL} | 0  | 3d6 |
-| ------------------- | :-: | :-: | ---------------- | -- | --- |
-| Large Hafted {ALL} | 1 | 4d6 | Sonocraft {ALL}  | -1 | 2d6 |
+| Monk {RFX}         | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 3d6 |
+| ------------------- | :-: | :-: | -------------------------- | -- | --- |
+| Large Hafted {ALL} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | -1 | 2d6 |
 
 ## Effects
 
@@ -49,15 +49,21 @@
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
+### Party Trick Magic
+
+|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Short |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
+
 ### Novice Spells
 
-|                                                   Name                                                   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Sonocraft_[Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
-|    Sonocraft_[Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
-|    Sonocraft_[Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
-|     Sonocraft_[Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
-|    Sonocraft_[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
+|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
+|    [Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
+|    [Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
+|     [Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
+|    [Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
 
 ## Destiny Points: 1/3
 

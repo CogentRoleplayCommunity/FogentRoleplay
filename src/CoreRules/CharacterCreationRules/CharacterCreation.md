@@ -69,7 +69,7 @@ These archetypes can of course depends on the setting you are playing in, though
 
 ## Step 2: Understand what tier of play you're playing
 
-Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the apperntice tier of play. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
+Tiers of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a master wizard only to have them start in the apprentice tier of play. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
 
 ## Step 3: Write a rough Backstory
 
@@ -90,7 +90,7 @@ Here are some important questions to ask about your character:
 - What are their beliefs/morality?
 - What are their goals/aspirations?
 - Do they have friends/family?
-- Do they have romatic interests/exes.
+- Do they have romantic interests/exes.
 
 ## Step 4: Pick your Vocation, spend your Vocation Point
 

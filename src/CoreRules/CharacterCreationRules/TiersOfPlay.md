@@ -1,8 +1,8 @@
 # Tier of Play
 
-Tier of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. The purpose of which is balance player against eachother and the challenges the Narrator has envisioned.
+Tier of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. The purpose of which is balance player against each other and the challenges the Narrator has envisioned.
 
-Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at Appertice Tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
+Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at Apprentice Tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
 
 ## Tier of Play Breakdown
 
@@ -18,7 +18,7 @@ This is a free Vocation point every character can spend to unlock their first vo
 
 Skill points can be gained by choosing a disabling characteristic at character creation or when a disabling is gained mid-campaign. For each disabling characteristics, the character gains a skill point to spend up to the max value determined by the Tier of Play. 
 
-If Disabling Characteristics are gained mid-campaign, it should make intuative sense for that character. It is not allowed to force a disabling just so a character can gain a skill point, it should feel natural. Maybe they picked up an addiction, got their heart broken, or lost an arm. Regardless, this should be a negotiation between the player and narrator.
+If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. It is not allowed to force a disabling just so a character can gain a skill point, it should feel natural. Maybe they picked up an addiction, got their heart broken, or lost an arm. Regardless, this should be a negotiation between the player and narrator.
 
 ### Starting Attribute Points
 
@@ -30,13 +30,13 @@ The number of skill points you get to spend on Core Skills, Vocations, and Comba
 
 ### Skill points till next Tier of Play
 
-Skill points till the next tier of play is unlocked. In many ways, skill points function as experience points from other games. It should be noted that upon recieving the skill point that if spent would unlock the next tier of play, you still need to spend it first to unlock the next tier of play.
+Skill points till the next tier of play is unlocked. In many ways, skill points function as experience points from other games. It should be noted that upon receiving the skill point that if spent would unlock the next tier of play, you still need to spend it first to unlock the next tier of play.
 
 When a new tier of play is unlocked, character can gain their new attribute points or skill points from disablings on the spot.
 
 ## Tiers of Play
 
-|                                                 | Apprentice | Adpet | Expert |    Master    |
+|                                                 | Apprentice | Adept | Expert |    Master    |
 | ----------------------------------------------- | :--------: | :---: | :----: | :----------: |
 | Skill/Vocation Level Cap                        |     1     |   2   |   3   |      4      |
 | Given Vocation Point                            |     1     |   1   |   1   |      1      |

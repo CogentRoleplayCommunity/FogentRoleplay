@@ -1,6 +1,8 @@
 # Generic Expert Spell
 
-Adept magic spell that can be used for generic creative uses of magic. For a magic skill roll, this spell has Sharpshooter range.
+Adept magic spell that can be used for generic creative uses of magic.
+
+For a Magic Skill roll, this spell has can have the ranges of any of the below option on the magic combat roll table below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of this magic with a Range of Close, Short, Medium, Extended, Long, Sharpshooter, or Extreme range is unavailable.
 
 As a part of a combat roll, a character can choose one of the following options below of how they would like to use their magic for that round, which effectively acts as their weapon class for that round. Damage type is determined by the damage type of the magic skill used.
 
