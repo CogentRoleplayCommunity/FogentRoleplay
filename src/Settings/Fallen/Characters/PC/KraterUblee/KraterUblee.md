@@ -33,11 +33,13 @@ Unspent Skill Points: 0
 |    Inventory Weight    |                                63 lb                                |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                                260 lb                                |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |                   -0d6 to STR/RFX governed skills                   |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                                35 ft                                |          |                                30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                |
+| Humanoid Movement Speed |                                35 ft                                |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
 |   Humanoid Swim Speed   |                                25 ft                                |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
 |  Humanoid Climb Speed  |                                20 ft                                |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls
+
+### Weapons
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -50,6 +52,12 @@ Unspent Skill Points: 0
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
+### Party Trick Magic
+
+|                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |    Damage<br />Types    | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close | Slash, Bludgeon, Pierce |          Focused          |        None        |  0 Magic Resource  |
+
 ## Destiny Points: 2/3
 
 ## Fellblood: 1/1
@@ -58,15 +66,15 @@ Unspent Skill Points: 0
 
 | Name                            | # |                Class                | Effect          |   Tier   | Durability | LB |  Value  |
 | ------------------------------- | :-: | :----------------------------------: | --------------- | :-------: | :--------: | :-: | :------: |
-| Gambeson Coat                   | 1 |        Body Armor, Arm Armor        | Phy. Def. 0.625 |  Mundane  |   12/12   |  5  | 3.13 bc |
-| Gambeson Leggings               | 1 |              Leg Armor              | Phy. Def. 0.375 |  Mundane  |   12/12   |  3  | 1.87 bc |
-| Chainmail Coif                  | 1 |              Head Armor              | Phy. Def. 0.38  | Excellent |   21/21   |  6  | 9.57 bc |
+| Gambeson Coat                   | 1 |        Body Armor, Arm Armor        | Phy. Def. 0.625 |  Mundane  |   12/12   | 5 | 3.13 bc |
+| Gambeson Leggings               | 1 |              Leg Armor              | Phy. Def. 0.375 |  Mundane  |   12/12   | 3 | 1.87 bc |
+| Chainmail Coif                  | 1 |              Head Armor              | Phy. Def. 0.38  | Excellent |   21/21   | 6 | 9.57 bc |
 | Chainmail Short-sleeved Hauberk | 1 |              Body Armor              | Phy. Def. 1.15  | Excellent |   21/21   | 18 | 28.72 bc |
 | Chainmail Sleeves/Mitten        | 1 | Arm Armors, Hand Protection Unarmed | Phy. Def. 0.77  | Excellent |   21/21   | 12 | 19.16 bc |
 | Chainmail Chausses              | 1 |              Leg Armor              | Phy. Def. 0.7   | Excellent |   21/21   | 11 | 17.55 bc |
-| Clothes, Traveler's             | 1 |                                      |                 |  Mundane  |            |  4  |   2 bc   |
-| Dane Axe                        | 1 |           Large Hafted Axe           |                 |  Mundane  |   12/12   |  4  |  11 bc  |
-| Great Club                      | 1 |          Large Hafted Blunt          |                 | Mundane  |   12/12    | 10  |  20 cc   |
+| Clothes, Traveler's             | 1 |                                      |                 |  Mundane  |            | 4 |   2 bc   |
+| Dane Axe                        | 1 |           Large Hafted Axe           |                 |  Mundane  |   12/12   | 4 |  11 bc  |
+| Great Club                      | 1 |          Large Hafted Blunt          |                 |  Mundane  |   12/12   | 10 |  20 cc  |
 
 ## Containers
 
