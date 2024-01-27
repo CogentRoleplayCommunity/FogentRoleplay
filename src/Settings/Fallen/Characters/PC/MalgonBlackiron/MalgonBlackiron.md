@@ -38,6 +38,8 @@
 
 ## Combat Rolls
 
+### Weapons
+
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Cryocraft - Melee Trick |       3d6       |                |                  |      0      |    Melee    |       Cold       |           Rapid           |                    |        None        |
@@ -50,6 +52,13 @@
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  8d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
+
+### Party Trick Magic
+
+|                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close |       Cold       |          Focused          |        None        |  0 Magic Resource  |
+
 
 ## Destiny Points: 3/3
 
