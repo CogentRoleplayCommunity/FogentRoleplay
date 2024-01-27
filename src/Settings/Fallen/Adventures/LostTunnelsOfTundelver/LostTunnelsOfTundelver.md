@@ -793,7 +793,7 @@ Two Lavender Lancer ruffians donned in Lavendar cloaks serve as guards in this p
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Lift Skill check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful CL 4 Lift Skill check.
 
 #### Captives
 
@@ -1271,7 +1271,7 @@ At the crossroads near the center of the village, a narrow lane ascends the stee
 
 Inside this ruined building, two giant spiders lie in wait on the inner walls, concealed from view outside. The spiders utilize trailing lines from the webs spanning the lane, allowing them to sense the movement of potential prey. They nimbly scuttle over the walls and launch a surprise attack against any character with a passive Wisdom (Perception) score below 17.
 
-The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a DC 12 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a CL 2 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 Circumventing the webs is made difficult by the dense thickets on the north side of the road. Bypassing the ruined building to the south will lead to the twig blights in area 5.
 
@@ -1461,7 +1461,7 @@ The primary gates that separate areas 1 and 2 are constructed of bronze-covered 
 The castle comprises seven deteriorating towers of varying sizes and heights, with the upper stories in various states of collapse. A brief flight of steps leads to a terrace before the main entrance. Beyond the remains of two broken doors lies a dimly lit hall. Round towers loom over the entrance, boasting dark arrow slits that oversee the terrace.
 ```
 
-No monsters currently occupy this area, although Vermkin sentries in area 3 are tasked with keeping watch. However, they peer out of the arrow slits only occasionally, so characters who move stealthily might have the opportunity to slip past them. Each character should make a Dexterity (Stealth) check, with the lowest check representing the DC for the Vermkins' Wisdom checks to notice the party.
+No monsters currently occupy this area, although Vermkin sentries in area 3 are tasked with keeping watch. However, they peer out of the arrow slits only occasionally, so characters who move stealthily might have the opportunity to slip past them. Each character should make a Stealth Skill check, with the lowest check representing the CL for the Vermkins' Perception Skill checks to notice the party.
 
 #### **Developments**
 
@@ -1617,7 +1617,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful DC 25 Lift Skill check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful CL 5 Lift Skill check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1875,7 +1875,7 @@ The cavern floor is blanketed by an expanse of peculiar fungi, covering extensiv
 
 For the most part, the fungi is innocuous. Interestingly, the green-glowing fungi provide adequate illumination throughout the entire cavern, making the use of darkvision or light sources unnecessary.
 
-**Poison Gas:** However, when any entity attempts to traverse this cavern, the fungal carpets carpeting the floor unleash toxic gases into the air. Each creature present in the cavern must succeed in a DC 11 Endurance Skill check to avoid suffering 3d6 poison damage and being afflicted with the poisoned condition for a duration of 10 minutes (for more details on the poisoned condition, please refer to the rulebook). The poison gas dissipates within a minute. Until that occurs, any living creature concluding its turn within the cavern must reattempt the saving throw.
+**Poison Gas:** However, when any entity attempts to traverse this cavern, the fungal carpets carpeting the floor unleash toxic gases into the air. Each creature present in the cavern must succeed in a CL 2 Endurance Skill check to avoid suffering a poison injury, with every level the check was missed by representing a higher level injury starting at a minor injury. The poison gas dissipates within a minute. Until that occurs, any living creature concluding its turn within the cavern must reattempt the Endurance Skill check.
 
 ### **9. Great Cavern**
 
@@ -1887,7 +1887,7 @@ The cavern is divided into three distinct sections: elevated ledges at either en
 
 In the shadows on the western ledge, seven ghouls hide, vigilant for any light or sound elsewhere in the cave. When alerted, they swiftly descend to engage their prey, their ravenous hunger driving them to battle until they are vanquished.
 
-The 10-foot-high escarpments require a successful DC 12 Climb Skill check to climb. A fall or fogrekineful push from the top results in 1d6 bludgeoning damage, with the unfortunate individual landing in a prone position.
+The 10-foot-high escarpments require a successful CL 2 Climb Skill check to climb. A fall or fogrekineful push from the top results in minor bludgeoning injury, with the unfortunate individual landing in a prone position.
 
 ### **10. Dark Pool**
 
@@ -1957,7 +1957,7 @@ Characters proficient in Arcana may sense a subtle undercurrent of magic in the 
 
 ### 14. Wizard's Quarters
 
-The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them fogrekinefully requires a Lift Skill check with a DC of 15.
+The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them forcefully requires a CL 3 Lift Skill check.
 
 ```
 Within, the room bears the marks of destruction, evident in the ash, dust, fire-blackened walls, and heaps of debris under the sagging ceiling. The furnishings, including tables, chairs, bookshelves, and beds, have been charred or shattered, but they remain surprisingly intact. An iron chest, scogrekinhed by the flames, rests near the base of one of the beds.
@@ -1979,9 +1979,9 @@ However, the wraith will never relinquish the wooden pipe from the scogrekinhed 
 
 #### Treasure
 
-The scogrekinhed chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
+The scorched chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
-Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 General Knowledge check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
+Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful CL 2 General Knowledge check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
 ### Runecraft Forge
 
