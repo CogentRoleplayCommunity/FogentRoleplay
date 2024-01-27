@@ -19,7 +19,7 @@ Earned Skill point: 2
 | ----------------------------- | :-: | :-: |
 | Air Rune {RFX, INT}         | 1 | 5d6 |
 | Cold Rune {RFX, INT}          | 1 | 5d6 |
-| Time Rune {RFX, INT}}         | -1 | 3d6 |
+| Time Rune {RFX, INT}          | -1 | 3d6 |
 | Medium Sword {STR, RFX, INT}  | 1 | 5d6 |
 
 ## Effects:
@@ -47,31 +47,31 @@ Earned Skill point: 2
 
 ### Party Trick Magic
 
-|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close |                  |          Focused          |        None        |  0 Magic Resource  |
+|                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close | Slash, Bludgeon, Shockwave<br />Cold |          Focused          |        None        |  0 Magic Resource  |
 
 ### Novice Spells
 
-|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
-|    _[Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
-|    _[Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
-|     _[Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
-|    _[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |
+|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  0 Magic Resource  |
+|    [Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  0 Magic Resource  |
+|    [Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  0 Magic Resource  |
+|     [Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  0 Magic Resource  |
+|    [Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  0 Magic Resource  |
 
 ### Apprentice Spells
 
-|                                                Name                                                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|   _[Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +3d6      |       +1d6       |      0      |  Melee  |                  |           Rapid           |        None        |  1 Magic Resource  |
-|  _[Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +1d6      |      +2d6      |       +1d6       |      2      |  Melee  |                  |           Rapid           |        None        |  1 Magic Resource  |
-|   _[Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +0d6      |      +1d6      |       +1d6       |      4      |  Melee  |                  |           Rapid           |        None        |  1 Magic Resource  |
-|   _[Magic Whip](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +1d6      |      +2d6      |       +1d6       |      0      |  Reach  |                  |           Rapid           |        None        |  1 Magic Resource  |
-| _[Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  |                  |         Standard         |        None        |  1 Magic Resource  |
-|   _[Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended |                  |          Loading          |        None        |  1 Magic Resource  |
-|   _[Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended |                  |           Quick           |        None        |  1 Magic Resource  |
+|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   [Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +3d6      |       +1d6       |      0      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|  [Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +1d6      |      +2d6      |       +1d6       |      2      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|   [Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +0d6      |      +1d6      |       +1d6       |      4      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|   [Magic Whip](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +1d6      |      +2d6      |       +1d6       |      0      |  Reach  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+| [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  1 Magic Resource  |
+|   [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended | Slash, Bludgeon, Shockwave<br />Cold |          Loading          |        None        |  1 Magic Resource  |
+|   [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  1 Magic Resource  |
 
 ## Destiny Points: 2/3
 
