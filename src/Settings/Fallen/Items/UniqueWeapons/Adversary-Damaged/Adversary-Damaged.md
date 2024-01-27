@@ -16,7 +16,7 @@ This sword was used in the execution of Helena by Uhtred Storm at Luc's order, t
 
 |        Name         |   #   |      Class       |   Effect    | Tier  | Durability |  LB   | Value |
 | :-----------------: | :---: | :--------------: | :---------: | :---: | :--------: | :---: | :---: |
-| Adversary - Damaged |   1   | Radiance Conduit | Light Bound | Fine  |   18/18    |   1   |   ?   |
+| Adversary - Damaged |   1   | Magic Conduit | Light Bound | Fine  |   18/18    |   1   |   ?   |
 
 ## Effects
 
