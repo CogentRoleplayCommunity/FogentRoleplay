@@ -721,10 +721,11 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
-| Name                        | # | Class | Effect     |  Tier  | Durability |  LB  | Value |
-| --------------------------- | :-: | :---: | ---------- | :-----: | :--------: | :--: | :---: |
-| Bronze Coin                 | 11 |      |            | Mundane |            | 0.02 | 1 bc |
-| Vial of Minor Healing Blood | 1 |      | Minor Heal | Mundane |            | 0.25 | 50 bc |
+| Name                        |   #   | Class | Effect     |  Tier   | Durability |  LB   | Value |
+| --------------------------- | :---: | :---: | ---------- | :-----: | :--------: | :---: | :---: |
+| Bronze Coin                 |  11   |       |            | Mundane |            | 0.02  | 1 bc  |
+| Vial of Minor Healing Blood |   1   |       | Minor Heal | Mundane |            | 0.25  | 50 bc |
+| Clothes, Traveler's         |   1   |       |            | Mundane |            |   4   | 2 bc  |
 
 ### 2. Barracks
 
