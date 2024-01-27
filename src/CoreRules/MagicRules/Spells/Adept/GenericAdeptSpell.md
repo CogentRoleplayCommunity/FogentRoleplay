@@ -13,7 +13,7 @@ Melee attacks from this spell are considered large melee weapons.
 | Large Magic Smash |       -1d       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |  1 Magic Resource  |
 |    Magic Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Spear Rapid        |        None        |  1 Magic Resource  |
 |   Magic Javelin   |      +2d6      |      +2d6      |       None       |      3      | Medium |                  |         Standard         |        None        |  1 Magic Resource  |
-|  Magic Heavy Bolt  |      None      |      +2d6      |       None       |      2      |  Long  |                  |      Complex Loading      |        None        |  1 Magic Resource  |
+|  Magic Heavy Bolt  |      None      |      +3d6      |       None       |      2      |  Long  |                  |      Complex Loading      |        None        |  1 Magic Resource  |
 
 ## Info
 
