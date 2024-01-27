@@ -88,3 +88,9 @@ Specific Spells:
 Generic Spells:
 
 Specific Spells:
+
+### Legendary Spells
+
+Generic Spells:
+
+Specific Spells:
