@@ -38,6 +38,8 @@ More Ammunition Types
 
 Billhook
 
+Denumont (Javk Dagger)
+
 #### Phoenix Tears
 
 It is quite common knowledge that Phoenix tears carry powerful healing properties. These healing effects can be instantaneous or require one to two days to take effect. Tears must be applied to the wounded area or ingested for toxins.
@@ -86,7 +88,6 @@ First Watch
 
 ![Copyright](FirstWatch.png)
 
-
-This is a magic shield that gives the user a +2 to perception. 
+This is a magic shield that gives the user a +2 to perception.
 
 Moonshadow

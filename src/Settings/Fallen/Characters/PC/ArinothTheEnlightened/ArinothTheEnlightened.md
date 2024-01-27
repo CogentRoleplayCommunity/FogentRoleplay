@@ -36,18 +36,28 @@
 
 ## Combat Rolls
 
-|           Name           |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Sonocraft - Melee Trick |         2d6         |                      |                  |      0      | Melee |     Shockwave     |           Rapid           |                    |        None        |
-| Sonocraft - Ranged Trick |         2d6         |                      |                  |      0      | Close |     Shockwave     |         Standard         |                    |        None        |
-|    Small Hafted Blunt    | 3d8, 1d6<br />(+0d6) |     <br />(+0d6)     |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|   Medium Hafted Blunt   | 3d8, 1d6<br />(+0d6) | 3d8, 2d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Large Hafted Blunt    |  3d8, 0d6<br />(-1)  | 3d8, 2d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Reach Hafted Blunt    |  2d8, 0d6<br />(-2)  | 3d8, 3d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
+### Weapons
+
+|        Name        |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Small Hafted Blunt | 3d8, 1d6<br />(+0d6) |        (+0d6)        |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Medium Hafted Blunt | 3d8, 1d6<br />(+0d6) | 3d8, 2d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Large Hafted Blunt |  3d8, 0d6<br />(-1)  | 3d8, 2d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Reach Hafted Blunt |  2d8, 0d6<br />(-2)  | 3d8, 3d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
+
+### Novice Spells
+
+|                                                   Name                                                   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Sonocraft_[Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
+|    Sonocraft_[Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
+|    Sonocraft_[Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
+|     Sonocraft_[Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
+|    Sonocraft_[Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
 
 ## Destiny Points: 1/3
 

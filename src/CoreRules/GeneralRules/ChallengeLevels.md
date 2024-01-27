@@ -12,3 +12,5 @@ Challenge level represent the difficulty of a task set by the narrator proportio
 |     Unrealistic Task     |      CL 6      |
 | Virtually Impossible Task |      CL 7      |
 |    Inconceivable Task    |      CL 8      |
+
+For example, Javk Wick the Rogue wants to move a stone blocking low opening in a wall. The narrator purposes "Since the rock weighs roughly 100 lbs and is pretty slick, but your only trying to shift it over, that will be a Uncommon Task (CL 2) using the Lift Skill".

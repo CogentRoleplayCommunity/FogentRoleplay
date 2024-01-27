@@ -51,8 +51,8 @@ To duel wield the character must have at least one proficiency point in both of 
 
 |  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Blowgun |      +0d6      |      +1d6      |       None       |      0      | Medium |                  |           Slow           |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
-|  Sling  |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |           Slow           |        None        |    Sling Bullet    | {STR,RFX,INT}             |
+| Blowgun |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |          Loading          |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
+|  Sling  |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |         Standard         |        None        |    Sling Bullet    | {STR,RFX,INT}             |
 
 ## Ranged Weapon Resources
 
@@ -68,7 +68,7 @@ To duel wield the character must have at least one proficiency point in both of 
 |    Anti-armor Bolt    |      Bolt      |     +1d6     |      2      |       None       |    Pierce    | None |
 |     Survival Bolt     |      Bolt      |     +1d4     |      0      |       None       |    Pierce    | None |
 |      Shoddy Bolt      |      Bolt      |     +1d4     |      1      |       None       |    Pierce    | None |
-| Standard Sling Bullets |  Sling Bullet  |     +1d6     |      0      |       None       |   Bludgeon   | None |
+| Standard Sling Bullets |  Sling Bullet  |     +1d6     |      1      |       None       |   Bludgeon   | None |
 |     Poison Needles     |  Blowgun Dart  |     +1d6     |      0      |       None       |    Poison    | None |
 
 ## Unarmed
