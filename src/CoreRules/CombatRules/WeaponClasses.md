@@ -51,7 +51,7 @@ To duel wield the character must have at least one proficiency point in both of 
 
 |  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Blowgun |      +0d6      |      +1d6      |       None       |      0      | Medium |                  |          Loading          |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
+| Blowgun |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |          Loading          |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
 |  Sling  |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |         Standard         |        None        |    Sling Bullet    | {STR,RFX,INT}             |
 
 ## Ranged Weapon Resources
