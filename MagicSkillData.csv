@@ -51,19 +51,19 @@ Water Magic,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
 Electricity Magic,Electric,TRUE,TRUE,Magic Resource
 Earth Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
 Air Magic,"Slash, Bludgeon, Shockwave",TRUE,TRUE,Magic Resource
-Cold Magic,Cold,,TRUE,Magic Resource
+Cold Magic,Cold,FALSE,TRUE,Magic Resource
 Nature or Plant Magic,"Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
 Poison Magic,Poison,TRUE,TRUE,Magic Resource
-Soul Magic,Spiritual,,TRUE,Magic Resource
+Soul Magic,Spiritual,FALSE,TRUE,Magic Resource
 Light Magic,Radiant,TRUE,TRUE,Magic Resource
 Shadow Magic,Necrotic,TRUE,TRUE,Magic Resource
-Mind Magic,Psychic,,TRUE,Magic Resource
+Mind Magic,Psychic,FALSE,TRUE,Magic Resource
 Metal Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
-Sound Magic,Shockwave,,TRUE,Magic Resource
+Sound Magic,Shockwave,FALSE,TRUE,Magic Resource
 Blood Magic,Bleed,TRUE,TRUE,Magic Resource
 Acid Magic,Acid,TRUE,TRUE,Magic Resource
-Time Magic,,,TRUE,Magic Resource
-Teleport or Space Magic,,,TRUE,Magic Resource
+Time Magic,,FALSE,TRUE,Magic Resource
+Teleport or Space Magic,,FALSE,TRUE,Magic Resource
 Force or Gravity Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
 ,,,,
 ,,,,
