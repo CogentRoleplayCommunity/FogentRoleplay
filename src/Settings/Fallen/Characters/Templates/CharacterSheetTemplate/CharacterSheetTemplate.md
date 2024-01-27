@@ -42,15 +42,16 @@
 
 ### Weapons
 
-|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close |                  |          Focused          |        None        |  0 Magic Resource  |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|      |                |                |                  |            |      |                  |                          |                    |                    |
 
 ### Party Trick Magic
 
-|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close |                  |          Focused          |        None        |  0 Magic Resource  |
+|                                                Name                                                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|  _[Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)  |      +0d6      |      +0d6      |       None       |      0      | Short |                  |         Standard         |        None        |  0 Magic Resource  |
+| _[Party Trick Unarmed](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 
 ### Novice Spells
 

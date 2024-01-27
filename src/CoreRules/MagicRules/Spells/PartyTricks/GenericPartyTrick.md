@@ -9,7 +9,7 @@ Party Trick Unarmed can be used for unarmed disarming.
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |  Party Trick Puff  |      +0d6      |      +0d6      |       None       |      0      | Short |                  |         Standard         |        None        |  0 Magic Resource  |
-| Party Trick Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |  0 Magic Resource  |
+| Party Trick Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 
 ## Info
 
