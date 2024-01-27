@@ -52,9 +52,10 @@ Unspent Skill Points: 0
 
 ### Party Trick Magic
 
-|                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |    Damage<br />Types    | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close | Slash, Bludgeon, Pierce |          Focused          |        None        |  0 Magic Resource  |
+|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |    Damage<br />Types    | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------------: | :-----------------------: | :-----------------: | :-----------------: |
+|  [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)  |      +0d6      |      +0d6      |       None       |      0      | Short | Slash, Bludgeon, Pierce |         Standard         |        None        |  0 Magic Resource  |
+| [Party Trick Unarmed](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Melee | Slash, Bludgeon, Pierce |           Rapid           |        None        |  0 Magic Resource  |
 
 ## Destiny Points: 2/3
 
