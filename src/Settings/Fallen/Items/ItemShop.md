@@ -462,23 +462,23 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|             Name             | # |       Class       | Effect |  Tier  | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :---------------------------: | :-: | :---------------: | :----: | :-----: | :--------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
-|       Conduit - Crystal       | 1 | Magic Conduit |        | Mundane |            |   1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|         Conduit - Orb         | 1 | Magic Conduit |        | Mundane |            |   3   |  20 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|         Conduit - Rod         | 1 | Magic Conduit |        | Mundane |            |   2   |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Staff        | 1 | Magic Conduit |        | Mundane |            |   4   |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Wand        | 1 | Magic Conduit |        | Mundane |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Component Pouch (2/5 ft^3)  | 1 |  12 lb container  |        | Mundane |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Spellbook           | 1 |                  |        | Mundane |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Runebook           | 1 | Magic Conduit |        | Mundane |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Gradual Healing Blood | 1 |                  |        | Mundane |            |  0.25  |  40 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Minor Healing Blood  | 1 |                  |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Medium Healing Blood | 1 |                  |        | Mundane |            |  0.25  | 100 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Serious Healing Blood | 1 |                  |        | Mundane |            |  0.25  | 500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Fatal Healing Blood  | 1 |                  |        | Mundane |            |  0.25  | 1350 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-| Vial of Revival Healing Blood | 1 |                  |        | Mundane |            |  0.25  | 500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|                              |  |                  |        |        |            |        |        |              |              |              |                |
+|             Name             | # |      Class      | Effect |  Tier  | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :---------------------------: | :-: | :-------------: | :----: | :-----: | :--------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
+|       Conduit - Crystal       | 1 |  Magic Conduit  |        | Mundane |            |   1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|         Conduit - Orb         | 1 |  Magic Conduit  |        | Mundane |            |   3   |  20 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|         Conduit - Rod         | 1 |  Magic Conduit  |        | Mundane |            |   2   |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Staff        | 1 |  Magic Conduit  |        | Mundane |            |   4   |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Wand        | 1 |  Magic Conduit  |        | Mundane |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Component Pouch (2/5 ft^3)  | 1 | 12 lb container |        | Mundane |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Spellbook           | 1 |                |        | Mundane |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Runebook           | 1 |  Magic Conduit  |        | Mundane |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Gradual Healing Blood | 1 |                |        | Mundane |            |  0.25  |  40 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Minor Healing Blood  | 1 |                |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Medium Healing Blood | 1 |                |        | Mundane |            |  0.25  | 100 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Serious Healing Blood | 1 |                |        | Mundane |            |  0.25  | 500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Fatal Healing Blood  | 1 |                |        | Mundane |            |  0.25  | 1350 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+| Vial of Revival Healing Blood | 1 |                |        | Mundane |            |  0.25  | 500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|                              |  |                |        |        |            |        |        |              |              |              |                |
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
@@ -696,43 +696,43 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
-|                Name                | # |       Class       | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :--------------------------------: | :-: | :---------------: | :----: | :-----: | :--------: | :-----: | :---: | :-----------: | :----------: | :----------: | :------------: |
-|         Conduit - Crystal         | 1 | Magic Conduit |        | Mundane |            |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Conduit - Orb           | 1 | Magic Conduit |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|           Conduit - Rod           | 1 | Magic Conduit |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|          Conduit - Staff          | 1 | Magic Conduit |        | Mundane |            |    4    | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Conduit - Wand           | 1 | Magic Conduit |        | Mundane |            |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Bottle, glass           | 1 |                  |        | Mundane |            |    2    | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Candle               | 1 |                  |        | Mundane |            |   0.1   | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Case, Map or Scroll        | 1 |                  |        | Mundane |            |    1    | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Component Pouch (2/5 ft^3)     | 1 |  12 lb container  |        | Mundane |            |    2    | 25 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Druidic Focus - Sprig of Mistletoe | 1 |                  |        | Mundane |            |   0.5   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Druidic Focus - Totem       | 1 |                  |        | Mundane |            |    1    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|    Druidic Focus - Wooden Staff    | 1 |                  |        | Mundane |            |    4    | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|      Druidic Focus - Yew Wand      | 1 |                  |        | Mundane |            |    1    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|             Hourglass             | 1 |                  |        | Mundane |            |    1    | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|        Ink (1 ounce bottle)        | 1 |                  |        | Mundane |            |   0.1   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|         Ink Pen (Fountain)         | 1 |                  |        | Mundane |            |  0.05  | 3 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|         Paper (one sheet)         | 1 |                  |        | Mundane |            |    0    | 20 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|       Parchment (one sheet)       | 1 |                  |        | Mundane |            |    0    | 10 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|          Pouch (1/5 ft^3)          | 1 |  6 lb container  |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Robes               | 1 |                  |        | Mundane |            |    4    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Spellbook             | 1 |                  |        | Mundane |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Runebook              | 1 | Magic Conduit |        | Mundane |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|                Vial                | 1 |                  |        | Mundane |            |   0.1   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Alchemist's Supplies        | 1 |                  |        | Mundane |            |    8    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|      Calligrapher's Supplies      | 1 |                  |        | Mundane |            |    5    | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|                Lute                | 1 |                  |        | Mundane |            |    2    | 35 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|                Lyre                | 1 |                  |        | Mundane |            |    2    | 30 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|            -[Services]-            |  |                  |        |        |            |        |      |              |              |              |                |
-|     Magic Appraisal (Identify)     |  |                  |        |        |            | 100 bc |      |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|          Common (Cantrip)          |  |                  |        |        |            |  50 bc  |      |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|          Common (Level 1)          |  |                  |        |        |            | 100 bc |      |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|         Uncommon (Level 2)         |  |                  |        |        |            | 250 bc |      |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|         Uncommon (Level 3)         |  |                  |        |        |            | 500 bc |      |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|           Rare (Level 4)           |  |                  |        |        |            | 2500 bc |      |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|           Rare (Level 5)           |  |                  |        |        |            | 5000 bc |      |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|                Name                | # |      Class      | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :--------------------------------: | :-: | :-------------: | :----: | :-----: | :--------: | :-----: | :---: | :-----------: | :----------: | :----------: | :------------: |
+|         Conduit - Crystal         | 1 |  Magic Conduit  |        | Mundane |            |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Conduit - Orb           | 1 |  Magic Conduit  |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|           Conduit - Rod           | 1 |  Magic Conduit  |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|          Conduit - Staff          | 1 |  Magic Conduit  |        | Mundane |            |    4    | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Conduit - Wand           | 1 |  Magic Conduit  |        | Mundane |            |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Bottle, glass           | 1 |                |        | Mundane |            |    2    | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|               Candle               | 1 |                |        | Mundane |            |   0.1   | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Case, Map or Scroll        | 1 |                |        | Mundane |            |    1    | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|     Component Pouch (2/5 ft^3)     | 1 | 12 lb container |        | Mundane |            |    2    | 25 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Druidic Focus - Sprig of Mistletoe | 1 |  Magic Conduit  |        | Mundane |            |   0.5   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Druidic Focus - Totem       | 1 |  Magic Conduit  |        | Mundane |            |    1    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|    Druidic Focus - Wooden Staff    | 1 |  Magic Conduit  |        | Mundane |            |    4    | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|      Druidic Focus - Yew Wand      | 1 |  Magic Conduit  |        | Mundane |            |    1    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Hourglass             | 1 |                |        | Mundane |            |    1    | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|        Ink (1 ounce bottle)        | 1 |                |        | Mundane |            |   0.1   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|         Ink Pen (Fountain)         | 1 |                |        | Mundane |            |  0.05  | 3 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|         Paper (one sheet)         | 1 |                |        | Mundane |            |    0    | 20 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|       Parchment (one sheet)       | 1 |                |        | Mundane |            |    0    | 10 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|          Pouch (1/5 ft^3)          | 1 | 6 lb container |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|               Robes               | 1 |                |        | Mundane |            |    4    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|             Spellbook             | 1 |  Magic Conduit  |        | Mundane |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|              Runebook              | 1 |  Magic Conduit  |        | Mundane |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|                Vial                | 1 |                |        | Mundane |            |   0.1   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Alchemist's Supplies        | 1 |                |        | Mundane |            |    8    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|      Calligrapher's Supplies      | 1 |                |        | Mundane |            |    5    | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|                Lute                | 1 |                |        | Mundane |            |    2    | 35 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|                Lyre                | 1 |                |        | Mundane |            |    2    | 30 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|            -[Services]-            |  |                |        |        |            |        |      |              |              |              |                |
+|     Magic Appraisal (Identify)     |  |                |        |        |            | 100 bc |      |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|          Common (Cantrip)          |  |                |        |        |            |  50 bc  |      |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|          Common (Level 1)          |  |                |        |        |            | 100 bc |      |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|         Uncommon (Level 2)         |  |                |        |        |            | 250 bc |      |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|         Uncommon (Level 3)         |  |                |        |        |            | 500 bc |      |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|           Rare (Level 4)           |  |                |        |        |            | 2500 bc |      |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|           Rare (Level 5)           |  |                |        |        |            | 5000 bc |      |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 
 ### Inns
 
