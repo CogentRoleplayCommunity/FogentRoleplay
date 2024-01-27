@@ -36,18 +36,24 @@
 
 ## Combat Rolls
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |     Damage<br />Types     | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Galecraft - Melee Trick |       3d6       |                |                  |      0      |  Melee  | Slash, Bludgeon, Shockwave |           Rapid           |                    |        None        |
-| Galecraft - Ranged Trick |       3d6       |                |                  |      0      |  Close  | Slash, Bludgeon, Shockwave |         Standard         |                    |        None        |
-|       Short Spear       | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      3      |  Melee  |           Pierce           |        Spear Rapid        |        None        |        None        |
-|    Thrown Short Spear    | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      |  Medium  |           Pierce           |         Standard         |        None        |        None        |
-|    Large Hafted Blunt    |  3d6<br />(-1)  | 5d6<br />(+1d6) |       None       |      5      |  Melee  |          Bludgeon          |           Rapid           |        None        |        None        |
-|        Light Bow        |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                            |           Quick           |        None        |        Arrow        |
+### Weapons
+
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|    Short Spear    | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      3      |  Melee  |      Pierce      |        Spear Rapid        |        None        |        None        |
+| Thrown Short Spear | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      |  Medium  |      Pierce      |         Standard         |        None        |        None        |
+| Large Hafted Blunt |  3d6<br />(-1)  | 5d6<br />(+1d6) |       None       |      5      |  Melee  |     Bludgeon     |           Rapid           |        None        |        None        |
+|     Light Bow     |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                  |           Quick           |        None        |        Arrow        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  6d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
+
+### Party Trick Magic
+
+|                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |     Damage<br />Types     | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close | Slash, Bludgeon, Shockwave |          Focused          |        None        |  0 Magic Resource  |
 
 ## Destiny Points: 2/3
 
