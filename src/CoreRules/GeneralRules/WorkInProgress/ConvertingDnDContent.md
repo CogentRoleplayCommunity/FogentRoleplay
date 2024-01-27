@@ -1,12 +1,22 @@
-## DnD Spells to Fallen Spells
+## DnD Spells to Fogent Spells
 
-| DnD Spell Level   | Fallen Skill Level                         |
+| DnD Spell Level   | Fogent Skill Level                        |
 | ----------------- | ------------------------------------------ |
 | Cantrip           | Incompetent (level -1) or Novice (level 0) |
 | 1st - 2nd Level | Apprentice (level 1)                      |
 | 3rd - 4th        | Adept (level 2)                            |
 | 5th - 6th         | Expert (level 3)                           |
 | 7th - 9th         | Master (level 4)                           |
+
+### DnD rarity to Fogent Item Tier
+
+| DnD Rarity | Fogent Item Tier                                                    |
+| ---------- | ------------------------------------------------------------------- |
+| Common     | Level -4 to Level 0 (Broken, Compromised, Damaged, Shoddy, Mundane) |
+| Uncommon   | Level 1 to Level 3 (Quality, Fine, Excellent)                       |
+| Rare       | Level 4 to Level 6 (Superior, Exquisite, Flawless)                  |
+| Very Rare  | Level 7 to Level 9 (Mastercraft, Fabled, Epic)                      |
+| Legendary  | Level 10 to Level 12 (Legendary, Mythic, Artifact)                  |
 
 ### Fallen to DnD exchange Rate
 
@@ -20,7 +30,7 @@
 | 1 gold coin      | 10 platinum piece   |
 | 1 platinum coin  | 100 platinum pieces |
 
-DnD ability score to Fallen attribute:
+### DnD ability score to Fogent attribute
 
 - 1 - 5 -> -2
 - 6 - 9 -> -1
@@ -36,7 +46,7 @@ DnD ability score to Fallen attribute:
 - Wisdom -> Will
 - Charisma -> Communication
 
-Skill conversion:
+### DnD Skill to Fogent Skill conversion
 
 - Athletics -> Athletics, Lift, Climb
 - Acrobatics -> Acrobatics
@@ -46,7 +56,7 @@ Skill conversion:
 - Animal Handling, Survival -> Survival
 - Deception, Intimidation, Performance, Persuasion, Insight -> Communication
 
-DnD skill Modifier to Fallen Skill Level:
+### DnD skill Modifier to Fogent Skill Level:
 
     Remember to removed Ability score modifier benefits from the skill before converting
 
@@ -57,10 +67,11 @@ DnD skill Modifier to Fallen Skill Level:
 - 7 - 9 -> 3 (Expert)
 - 10 -> 12 -> (Master)
 
-DnD Armor Class to Fallen Defense Level:
-	Remember to remove DnD dexterity modifier from AC be for converting.
+### DnD Armor Class to Fogent Physical Defense Level:
 
-    You may also slightly reduce the defense level and give better acrobatics if the creature is harder to hit because it is quick, agile, or small.
+Remember to remove DnD dexterity modifier from AC be for converting.
+
+You may also slightly reduce the defense level and give better acrobatics if the creature is harder to hit because it is quick, agile, or small.
 
 - 10 AC -> 0 Defense Level
 - 11 AC -> 1 Defense Level
