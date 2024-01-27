@@ -4,9 +4,10 @@ A short ranged minor spell, which has such a small effect it requires no magic r
 
 As a part of a combat roll, a character can choose one of the following options below of how they would like to use their magic for that round, which effectively acts as their weapon class for that round. Damage type is determined by the damage type of the magic skill used.
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Party Trick |      +0d6      |      +0d6      |       None       |      0      | Close |                  |          Focused          |        None        |  0 Magic Resource  |
+|          Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|       Party Trick       |      +0d6       |      +0d6       |       None        |      0      | Short |                   |          Focused          |        None         |  0 Magic Resource   |
+| Hand Protection Unarmed |      +0d6       |      +0d6       |       None        |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
 
 ## Info
 
