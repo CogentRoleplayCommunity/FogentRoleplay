@@ -1,6 +1,6 @@
 # Disguise Flesh
 
-Depending on the wins achieved, a user achieve one of the followling effects by morphing their own flesh. Addiontal stats are not gained as this is merely a disguise. Damage taken in this form persists when returning to the character's original form.
+Depending on the wins achieved, a user achieve one of the following effects by morphing their own flesh. Additional stats are not gained as this is merely a disguise. Damage taken in this form persists when returning to the character's original form.
 
 |          Effect          | Challenge Level | Magic Resource Cost |  Duration  |
 | :-----------------------: | :-------------: | :-----------------: | :--------: |
