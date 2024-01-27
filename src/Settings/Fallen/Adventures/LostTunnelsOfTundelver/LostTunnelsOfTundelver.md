@@ -395,13 +395,13 @@ The captured stores are voluminous, requiring a wagon for transportation. Return
 
 Additionally, Thrak's treasure chest holds:
 
-| Name                                                    | #   | Class            | Tier      | Durability | LB   | Value |
-| ------------------------------------------------------- | --- | ---------------- | --------- | ---------- | ---- | ----- |
-| Chest (12 ft^3)                                         | 1   | 300 lb container | Mundane   |            | 25   | 5 bc  |
-| Copper Coin                                             | 600 |                  | Mundane   |            | 0.02 | 1 cc  |
-| Bronze Coin                                             | 11  |                  | Mundane   |            | 0.02 | 1 bc  |
-| Jade statuette of a frog with tiny golden orbs for eyes | 1   | Treasure         | Excellent |            | 1    | 50 bc |
-| Vial of Minor Healing Blood                             | 2   |                  | Mundane   |            | 0.25 | 50 bc |
+| Name                                                    | #   | Class            | Effect     | Tier      | Durability | LB   | Value |
+| ------------------------------------------------------- | --- | ---------------- | ---------- | --------- | ---------- | ---- | ----- |
+| Chest (12 ft^3)                                         | 1   | 300 lb container |            | Mundane   |            | 25   | 5 bc  |
+| Copper Coin                                             | 600 |                  |            | Mundane   |            | 0.02 | 1 cc  |
+| Bronze Coin                                             | 11  |                  |            | Mundane   |            | 0.02 | 1 bc  |
+| Jade statuette of a frog with tiny golden orbs for eyes | 1   |                  |            | Excellent |            | 1    | 50 bc |
+| Vial of Minor Healing Blood                             | 2   |                  | Minor Heal | Fine      |            | 0.25 | 50 bc |
 
 ### What Comes Next?
 
@@ -720,6 +720,11 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 **Treasure**
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
+
+| Name                        | # | Class | Effect     |  Tier  | Durability |  LB  | Value |
+| --------------------------- | :-: | :---: | ---------- | :-----: | :--------: | :--: | :---: |
+| Bronze Coin                 | 11 |      |            | Mundane |            | 0.02 | 1 bc |
+| Vial of Minor Healing Blood | 1 |      | Minor Heal | Mundane |            | 0.25 | 50 bc |
 
 ### 2. Barracks
 

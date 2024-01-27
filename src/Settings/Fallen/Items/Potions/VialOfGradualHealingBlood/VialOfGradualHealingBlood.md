@@ -10,9 +10,9 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Info
 
-|             Name             | # | Class |    Effect    | Tier | Durability |  LB  | Value |
-| :---------------------------: | :-: | :---: | :----------: | :--: | :--------: | :--: | :---: |
-| Vial of Gradual Healing Blood | 1 |      | Gradual Heal | Fine |            | 0.25 | 50 bc |
+|             Name             | # | Class |    Effect    |  Tier  | Durability |  LB  | Value |
+| :---------------------------: | :-: | :---: | :----------: | :-----: | :--------: | :--: | :---: |
+| Vial of Gradual Healing Blood | 1 |      | Gradual Heal | Mundane |            | 0.25 | 50 bc |
 
 ## Effects
 

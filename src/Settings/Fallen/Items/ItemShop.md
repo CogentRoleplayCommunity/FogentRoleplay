@@ -234,54 +234,54 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
-|             Name             | # | Class | Effect |  Tier  | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :---------------------------: | :-: | :---: | ------ | :-----: | :--------: | :-----: | :------: | :-----------: | :----------: | :----------: | :------------: |
-|           Alms Box           | 1 |      |        | Mundane |            |    1    |   5 bc   |     FALSE     |      O      |      O      |       O       |
-|             Bell             | 1 |      |        | Mundane |            |   0.1   |  70 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|            Blanket            | 1 |      |        | Mundane |            |    3    |  50 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Book, Scripture        | 1 |      |        | Mundane |            |   0.5   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|            Candle            | 1 |      |        | Mundane |            |   0.1   |   1 cc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|      Case, Map or Scroll      | 1 |      |        | Mundane |            |    1    |   1 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|            Censer            | 1 |      |        | Mundane |            |    1    |   5 bc   |     FALSE     |      O      |      O      |       O       |
-|        Chalk (1 piece)        | 1 |      |        | Mundane |            |   0.1   |   1 cc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|             Flask             | 1 |      |        | Mundane |            |    1    |   2 cc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|         Healer's Kit         | 1 |      |        | Mundane |            |    3    |   5 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|     Amulet - Holy Symbol     | 1 |      |        | Mundane |            |    1    |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|            Emblem            | 1 |      |        | Mundane |            |   0.1   |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Reliquary           | 1 |      |        | Mundane |            |    2    |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|     Blessed Water (flask)     | 1 |      |        | Mundane |            |    1    |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Incense (1 block)       | 1 |      |        | Mundane |            |   0.1   |   1 cc   |     FALSE     |      O      |      O      |       O       |
-|     Ink (1 ounce bottle)     | 1 |      |        | Mundane |            |   0.1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|      Ink Pen (Fountain)      | 1 |      |        | Mundane |            |  0.05  |   3 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Lamp             | 1 |      |        | Mundane |            |    1    |  50 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Lantern, Hooded        | 1 |      |        | Mundane |            |    2    |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|          Oil (flask)          | 1 |      |        | Mundane |            |    1    |  10 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Paper (one sheet)       | 1 |      |        | Mundane |            |    0    |  20 cc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|     Parchment (one sheet)     | 1 |      |        | Mundane |            |    0    |  10 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|        Perfume (vial)        | 1 |      |        | Mundane |            |   0.1   |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-| Vial of Gradual Healing Blood | 1 |      |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Minor Healing Blood  | 1 |      |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Medium Healing Blood | 1 |      |        | Mundane |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Serious Healing Blood | 1 |      |        | Mundane |            |  0.25  | 2500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Fatal Healing Blood  | 1 |      |        | Mundane |            |  0.25  | 12500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-| Vial of Revival Healing Blood | 1 |      |        | Mundane |            |  0.25  | 62500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|        Rations (1 day)        | 1 |      |        | Mundane |            |    2    |  50 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|             Torch             | 1 | Torch |        | Shoddy |    9/9    |    1    |   1 cc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|             Vial             | 1 |      |        | Mundane |            |   0.1   |   1 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Waterskin (0/4)        | 1 |      |        | Mundane |            |    1    |  20 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Waterskin (4/4)        | 1 |      |        | Mundane |            |    5    |  20 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|    Calligrapher's Supplies    | 1 |      |        | Mundane |            |    5    |  10 bc  |     FALSE     |    FALSE    |      O      |       O       |
-|         Herbalism Kit         | 1 |      |        | Mundane |            |    3    |   5 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Flute             | 1 |      |        | Mundane |            |    2    |   2 bc   |     FALSE     |    FALSE    |    FALSE    |       O       |
-|             Lyre             | 1 |      |        | Mundane |            |    2    |  30 bc  |     FALSE     |    FALSE    |    FALSE    |       O       |
-|             Horn             | 1 |      |        | Mundane |            |    2    |   3 bc   |     FALSE     |    FALSE    |    FALSE    |       O       |
-|         -[Services]-         |  |      |        |        |            |        |          |              |              |              |                |
-|        Lvl 1 Blessing        |  |      |        |        |            |  10 bc  |          |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Lvl 2 Blessing        |  |      |        |        |            |  50 bc  |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Lvl 3 Blessing        |  |      |        |        |            |  50 bc  |          |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Lvl 4 Blessing        |  |      |        |        |            | 100 bc |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Lvl 5 Blessing        |  |      |        |        |            | 400 bc |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Lvl 6 Blessing        |  |      |        |        |            | 1000 bc |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Name             | # | Class | Effect |   Tier   | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :---------------------------: | :-: | :---: | ------ | :-------: | :--------: | :-----: | :------: | :-----------: | :----------: | :----------: | :------------: |
+|           Alms Box           | 1 |      |        |  Mundane  |            |    1    |   5 bc   |     FALSE     |      O      |      O      |       O       |
+|             Bell             | 1 |      |        |  Mundane  |            |   0.1   |  70 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Blanket            | 1 |      |        |  Mundane  |            |    3    |  50 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Book, Scripture        | 1 |      |        |  Mundane  |            |   0.5   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|            Candle            | 1 |      |        |  Mundane  |            |   0.1   |   1 cc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|      Case, Map or Scroll      | 1 |      |        |  Mundane  |            |    1    |   1 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Censer            | 1 |      |        |  Mundane  |            |    1    |   5 bc   |     FALSE     |      O      |      O      |       O       |
+|        Chalk (1 piece)        | 1 |      |        |  Mundane  |            |   0.1   |   1 cc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Flask             | 1 |      |        |  Mundane  |            |    1    |   2 cc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|         Healer's Kit         | 1 |      |        |  Mundane  |            |    3    |   5 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|     Amulet - Holy Symbol     | 1 |      |        |  Mundane  |            |    1    |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|            Emblem            | 1 |      |        |  Mundane  |            |   0.1   |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Reliquary           | 1 |      |        |  Mundane  |            |    2    |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Blessed Water (flask)     | 1 |      |        |  Mundane  |            |    1    |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Incense (1 block)       | 1 |      |        |  Mundane  |            |   0.1   |   1 cc   |     FALSE     |      O      |      O      |       O       |
+|     Ink (1 ounce bottle)     | 1 |      |        |  Mundane  |            |   0.1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|      Ink Pen (Fountain)      | 1 |      |        |  Mundane  |            |  0.05  |   3 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|             Lamp             | 1 |      |        |  Mundane  |            |    1    |  50 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Lantern, Hooded        | 1 |      |        |  Mundane  |            |    2    |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|          Oil (flask)          | 1 |      |        |  Mundane  |            |    1    |  10 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Paper (one sheet)       | 1 |      |        |  Mundane  |            |    0    |  20 cc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|     Parchment (one sheet)     | 1 |      |        |  Mundane  |            |    0    |  10 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|        Perfume (vial)        | 1 |      |        |  Mundane  |            |   0.1   |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+| Vial of Gradual Healing Blood | 1 |      |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Minor Healing Blood  | 1 |      |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Medium Healing Blood | 1 |      |        | Excellent |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Serious Healing Blood | 1 |      |        | Flawless |            |  0.25  | 2500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Fatal Healing Blood  | 1 |      |        |   Epic   |            |  0.25  | 12500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+| Vial of Revival Healing Blood | 1 |      |        | Legendary |            |  0.25  | 62500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|        Rations (1 day)        | 1 |      |        |  Mundane  |            |    2    |  50 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Torch             | 1 | Torch |        |  Shoddy  |    9/9    |    1    |   1 cc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|             Vial             | 1 |      |        |  Mundane  |            |   0.1   |   1 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Waterskin (0/4)        | 1 |      |        |  Mundane  |            |    1    |  20 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Waterskin (4/4)        | 1 |      |        |  Mundane  |            |    5    |  20 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|    Calligrapher's Supplies    | 1 |      |        |  Mundane  |            |    5    |  10 bc  |     FALSE     |    FALSE    |      O      |       O       |
+|         Herbalism Kit         | 1 |      |        |  Mundane  |            |    3    |   5 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|             Flute             | 1 |      |        |  Mundane  |            |    2    |   2 bc   |     FALSE     |    FALSE    |    FALSE    |       O       |
+|             Lyre             | 1 |      |        |  Mundane  |            |    2    |  30 bc  |     FALSE     |    FALSE    |    FALSE    |       O       |
+|             Horn             | 1 |      |        |  Mundane  |            |    2    |   3 bc   |     FALSE     |    FALSE    |    FALSE    |       O       |
+|         -[Services]-         |  |      |        |          |            |        |          |              |              |              |                |
+|        Lvl 1 Blessing        |  |      |        |          |            |  10 bc  |          |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Lvl 2 Blessing        |  |      |        |          |            |  50 bc  |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Lvl 3 Blessing        |  |      |        |          |            |  50 bc  |          |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Lvl 4 Blessing        |  |      |        |          |            | 100 bc |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Lvl 5 Blessing        |  |      |        |          |            | 400 bc |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Lvl 6 Blessing        |  |      |        |          |            | 1000 bc |          |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
 
@@ -462,23 +462,22 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|             Name             | # |      Class      | Effect |  Tier  | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :---------------------------: | :-: | :-------------: | :----: | :-----: | :--------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
-|       Conduit - Crystal       | 1 |  Magic Conduit  |        | Mundane |            |   1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|         Conduit - Orb         | 1 |  Magic Conduit  |        | Mundane |            |   3   |  20 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|         Conduit - Rod         | 1 |  Magic Conduit  |        | Mundane |            |   2   |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Staff        | 1 |  Magic Conduit  |        | Mundane |            |   4   |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Wand        | 1 |  Magic Conduit  |        | Mundane |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Component Pouch (2/5 ft^3)  | 1 | 12 lb container |        | Mundane |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Spellbook           | 1 |                |        | Mundane |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Runebook           | 1 |  Magic Conduit  |        | Mundane |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Gradual Healing Blood | 1 |                |        | Mundane |            |  0.25  |  40 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Minor Healing Blood  | 1 |                |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Medium Healing Blood | 1 |                |        | Mundane |            |  0.25  | 100 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Serious Healing Blood | 1 |                |        | Mundane |            |  0.25  | 500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Fatal Healing Blood  | 1 |                |        | Mundane |            |  0.25  | 1350 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-| Vial of Revival Healing Blood | 1 |                |        | Mundane |            |  0.25  | 500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|                              |  |                |        |        |            |        |        |              |              |              |                |
+|             Name             | # |      Class      | Effect |   Tier   | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :---------------------------: | :-: | :-------------: | :----: | :-------: | :--------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
+|       Conduit - Crystal       | 1 |  Magic Conduit  |        |  Mundane  |            |   1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|         Conduit - Orb         | 1 |  Magic Conduit  |        |  Mundane  |            |   3   |  20 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|         Conduit - Rod         | 1 |  Magic Conduit  |        |  Mundane  |            |   2   |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Staff        | 1 |  Magic Conduit  |        |  Mundane  |            |   4   |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Wand        | 1 |  Magic Conduit  |        |  Mundane  |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Component Pouch (2/5 ft^3)  | 1 | 12 lb container |        |  Mundane  |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Spellbook           | 1 |                |        |  Mundane  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Runebook           | 1 |  Magic Conduit  |        |  Mundane  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Gradual Healing Blood | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Minor Healing Blood  | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Medium Healing Blood | 1 |                |        | Excellent |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Serious Healing Blood | 1 |                |        | Flawless |            |  0.25  | 2500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Fatal Healing Blood  | 1 |                |        |   Epic   |            |  0.25  | 12500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+| Vial of Revival Healing Blood | 1 |                |        | Legendary |            |  0.25  | 62500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
@@ -664,35 +663,35 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/PotionShop.png) Potion Shop
 
-|              Name              | # |      Class      | Effect |  Tier  | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :----------------------------: | :-: | :-------------: | :----: | :-----: | :--------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
-|          Acid (vial)          | 1 |                |        | Mundane |            |  0.5  |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|    Alchemist's Fire (flask)    | 1 |                |        | Mundane |            |   1   |  50 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|        Antitoxin (vial)        | 1 |                |        | Mundane |            |  0.5  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|   Component Pouch (2/5 ft^3)   | 1 | 12 lb container |        | Mundane |            |   2   |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|          Oil (flask)          | 1 |                |        | Mundane |            |   1   |  10 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|         Perfume (vial)         | 1 |                |        | Mundane |            |  0.1  |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|      Poison, Basic (vial)      | 1 |                |        | Mundane |            |  0.5  |  100 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Gradual Healing Blood | 1 |                |        | Mundane |            |  0.25  |  40 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Minor Healing Blood  | 1 |                |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Medium Healing Blood  | 1 |                |        | Mundane |            |  0.25  |  100 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Serious Healing Blood | 1 |                |        | Mundane |            |  0.25  |  500 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Fatal Healing Blood  | 1 |                |        | Mundane |            |  0.25  | 1350 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-| Vial of Revival Healing Blood | 1 |                |        | Mundane |            |  0.25  |  500 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|              Vial              | 1 |                |        | Mundane |            |  0.1  |   1 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Alchemy Ingredient - Uncommon | 1 |                |        | Mundane |            |  0.5  |   1 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|   Alchemy Ingredient - Rare   | 1 |                |        | Mundane |            |  0.5  |  10 bc  |     TRUE     |    FALSE    |     TRUE     |      TRUE      |
-| Alchemy Ingredient - Very Rare | 1 |                |        | Mundane |            |  0.5  |  30 bc  |     TRUE     |    FALSE    |    FALSE    |      TRUE      |
-|      Alchemist's Supplies      | 1 |                |        | Mundane |            |   8   |  50 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|       Brewer's Supplies       | 1 |                |        | Mundane |            |   9   |  20 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Cook's Utensils        | 1 |                |        | Mundane |            |   8   |   1 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|         Poisoner's Kit         | 1 |                |        | Mundane |            |   2   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Potion - Common        | 1 |                |        | Mundane |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Potion - Uncommon       | 1 |                |        | Mundane |            |  0.25  |  250 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|         Potion - Rare         | 1 |                |        | Mundane |            |  0.25  | 2500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|       Potion - Very Rare       | 1 |                |        | Mundane |            |  0.25  | 12500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|       Potion - Legendary       | 1 |                |        | Mundane |            |  0.25  | 62500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|        Spell Components        | 1 |                |        | Mundane |            |  0.5  |    ??    |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|              Name              | # |      Class      | Effect |   Tier   | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :----------------------------: | :-: | :-------------: | :----: | :-------: | :--------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
+|          Acid (vial)          | 1 |                |        |  Mundane  |            |  0.5  |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|    Alchemist's Fire (flask)    | 1 |                |        |  Mundane  |            |   1   |  50 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|        Antitoxin (vial)        | 1 |                |        |  Mundane  |            |  0.5  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|   Component Pouch (2/5 ft^3)   | 1 | 12 lb container |        |  Mundane  |            |   2   |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|          Oil (flask)          | 1 |                |        |  Mundane  |            |   1   |  10 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|         Perfume (vial)         | 1 |                |        |  Mundane  |            |  0.1  |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|      Poison, Basic (vial)      | 1 |                |        |  Mundane  |            |  0.5  |  100 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Gradual Healing Blood | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Minor Healing Blood  | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Medium Healing Blood  | 1 |                |        | Excellent |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Serious Healing Blood | 1 |                |        | Flawless |            |  0.25  | 2500 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Fatal Healing Blood  | 1 |                |        |   Epic   |            |  0.25  | 12500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+| Vial of Revival Healing Blood | 1 |                |        | Legendary |            |  0.25  | 62500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|              Vial              | 1 |                |        |  Mundane  |            |  0.1  |   1 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Alchemy Ingredient - Uncommon | 1 |                |        |  Mundane  |            |  0.5  |   1 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|   Alchemy Ingredient - Rare   | 1 |                |        |  Mundane  |            |  0.5  |  10 bc  |     TRUE     |    FALSE    |     TRUE     |      TRUE      |
+| Alchemy Ingredient - Very Rare | 1 |                |        |  Mundane  |            |  0.5  |  30 bc  |     TRUE     |    FALSE    |    FALSE    |      TRUE      |
+|      Alchemist's Supplies      | 1 |                |        |  Mundane  |            |   8   |  50 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|       Brewer's Supplies       | 1 |                |        |  Mundane  |            |   9   |  20 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Cook's Utensils        | 1 |                |        |  Mundane  |            |   8   |   1 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|         Poisoner's Kit         | 1 |                |        |  Mundane  |            |   2   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Potion - Common        | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Potion - Uncommon       | 1 |                |        |  Mundane  |            |  0.25  |  250 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|         Potion - Rare         | 1 |                |        |  Mundane  |            |  0.25  | 2500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|       Potion - Very Rare       | 1 |                |        |  Mundane  |            |  0.25  | 12500 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|       Potion - Legendary       | 1 |                |        |  Mundane  |            |  0.25  | 62500 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|        Spell Components        | 1 |                |        |  Mundane  |            |  0.5  |    ??    |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
