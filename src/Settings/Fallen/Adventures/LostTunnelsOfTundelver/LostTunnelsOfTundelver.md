@@ -742,9 +742,9 @@ The barrels in this area contain similar supplies to those found in area 1.
 
 #### Treasure
 
-All three Lavender Lancers possess belt pouches containing various treasures. The first holds 160 copper coins and 7 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, Lavendar cloaks hang from the bunks.
+All three Lavender Lancers possess belt pouches containing various treasures. The first holds 160 copper coins and 7 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, Lavender cloaks hang from the bunks.
 
-#### Awarding Skill & Destiny Points
+#### Awarding Destiny Points
 
 Award each of the player's 1 destiny point for defeating the ruffians.
 
@@ -758,11 +758,11 @@ A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every
 
 Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a CL 2 Acrobatics Skill check.
 
-A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
+A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring a minor bludgeoning injury and landing prone.
 
-AWARDING Skill & Destiny Points
+#### Awarding Destiny Points
 
-Distribute 100 XP equally among the characters if the party successfully avoids or survives the pit trap.
+Award each of the player's 1 destiny point for defeating the ruffians.
 
 ### 4. Rozen Crypts
 
@@ -772,7 +772,7 @@ The mausoleum was the final resting place of the long-forgotten Rozen family eld
 Within the dimly lit crypt, three substantial stone sarcophagi occupy the space, their surfaces veiled in layers of dust. Resting against each sarcophagus are skeletons garbed in fragments of corroded mail. The chamber's walls feature faux columns carved to resemble expansive oak trees, and the double doors in the southeastern corner are covered with aged copper plates.
 ```
 
-When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct Lavendar cloak of the Lavender Lancers or utters the password "Illefam," which references an ancient dhampir realm that once spanned a significant part of the Sword Coast.
+When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct Lavender cloak of the Lavender Lancers or utters the password "Illefam," which references an ancient dhampir realm that once spanned a significant part of the Sword Coast.
 
 The stone lids of each sarcophagus bear carvings of the individuals interred within—two noble male dhampir and one noble female dhampir. Should the tombs be opened, they reveal mostly decayed bones and remnants of clothing, detailed in the "Treasure" section.
 
@@ -798,7 +798,7 @@ This elongated chamber is sectioned into three parts, featuring iron bars that p
 
 A pile of discarded clothing is carelessly strewn against the far wall.
 
-Two Lavender Lancer ruffians donned in Lavendar cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
+Two Lavender Lancer ruffians donned in Lavender cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
@@ -888,7 +888,7 @@ Present in the room are three Feralkin and one Vermkin, known as Droop. The sigh
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in Lavendar cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Communication Skill Communication Skill check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in Lavender cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Communication Skill Communication Skill check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
@@ -917,12 +917,12 @@ If a character listens at the door with a successful CL 2 Perception Skill Check
 ```
 The room features numerous worn tables and chairs, with wooden benches lining the walls adorned with drapes of brown and red. Several kegs of ale are propped up and tapped.
 
-Four burly mudblood warriors, donned in Lavendar cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
+Four burly mudblood warriors, donned in Lavender cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
 ```
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
 
-Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavendar cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Communication Skill check to hoodwink the Lavender Lancers.
+Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavender cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Communication Skill check to hoodwink the Lavender Lancers.
 
 #### Treasure
 
@@ -961,7 +961,7 @@ Regarding treasure, most of the materials in this room lack value, but three sma
 If the characters approach this room via the secret passage from area 7, they can catch the leader of the Lavender Lancers, Sylas "Glassmith" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
 
 ```
-This room features walls adorned with Lavendar cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
+This room features walls adorned with Lavender cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
 ```
 
 If Sylas is taken by surprise, include the following paragraph:
@@ -1479,7 +1479,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don Lavendar cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Communication Skill check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don Lavender cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Communication Skill check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
