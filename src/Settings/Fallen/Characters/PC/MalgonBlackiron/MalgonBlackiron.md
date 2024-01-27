@@ -40,14 +40,12 @@
 
 ### Weapons
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Cryocraft - Melee Trick |       3d6       |                |                  |      0      |    Melee    |       Cold       |           Rapid           |                    |        None        |
-| Cryocraft - Ranged Trick |       3d6       |                |                  |      0      |    Close    |       Cold       |         Standard         |                    |        None        |
-|        Heavy Bow        |      None      | 7d6<br />(+2d6) |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
-|     Large Hafted Axe     | 5d6<br />(+0d6) | 8d6<br />(+3d6) |       None       |      2      |    Melee    |        Hew        |           Rapid           |        None        |        None        |
-|   Medium Hafted Point   | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  7d6<br />(+1d6)  |      2      |    Melee    |      Pierce      |           Rapid           |        None        |        None        |
-|   Medium Hafted Blunt   | 4d6<br />(+0d6) | 5d6<br />(+1d6) |  6d6<br />(+1d6)  |      4      |    Melee    |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|      Heavy Bow      |      None      | 7d6<br />(+2d6) |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
+|  Large Hafted Axe  | 5d6<br />(+0d6) | 8d6<br />(+3d6) |       None       |      2      |    Melee    |        Hew        |           Rapid           |        None        |        None        |
+| Medium Hafted Point | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  7d6<br />(+1d6)  |      2      |    Melee    |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Hafted Blunt | 4d6<br />(+0d6) | 5d6<br />(+1d6) |  6d6<br />(+1d6)  |      4      |    Melee    |     Bludgeon     |           Rapid           |        None        |        None        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
