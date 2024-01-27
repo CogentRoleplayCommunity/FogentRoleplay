@@ -23,7 +23,7 @@ Different creatures get different movements speeds in combat.
 
 ### Using multiple Movement Speeds on the same round
 
-Whenever a character needs to use multiple movement speeds in a round,  we can calculate what percentage of our total movement we've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
+Whenever a character needs to use multiple movement speeds in a round,  calculate what percentage of our total movement they've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
 
 For example, character has 30 feet of "Humanoid Movement Speed" and 15 feet of "Humanoid Climb Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
 
