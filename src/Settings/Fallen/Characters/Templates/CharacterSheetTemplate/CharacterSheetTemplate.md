@@ -40,6 +40,12 @@
 
 ## Combat Rolls
 
+### Weapons
+
+|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| _[Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Close |                  |          Focused          |        None        |  0 Magic Resource  |
+
 ### Party Trick Magic
 
 |                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
@@ -88,10 +94,6 @@
 | _[Reach Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  1 Magic Resource  |
 | _[Reach Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  1 Magic Resource  |
 | _[Heavy Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  1 Magic Resource  |
-
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
 
 ## Destiny Points: 0/3
 
