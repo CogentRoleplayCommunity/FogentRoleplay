@@ -721,12 +721,12 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
-| Name                        |   #   | Class |         Effect          |   Tier    | Durability |  LB   | Value  |
-| --------------------------- | :---: | :---: | :---------------------: | :-------: | :--------: | :---: | :----: |
-| Bronze Coin                 |  11   |       |                         |  Mundane  |            | 0.02  |  1 bc  |
-| Vial of Minor Healing Blood |   1   |       |       Minor Heal        |  Mundane  |            | 0.25  | 50 bc  |
-| Clothes, Traveler's         |   1   |       |                         |  Mundane  |            |   4   |  2 bc  |
-| Potion of Invisibility      |   1   |       | Single-use Invisibility | Excellent |            | 0.25  | 250 bc |
+| Name                        | # | Class |         Effect         |   Tier   | Durability |  LB  | Value |
+| --------------------------- | :-: | :---: | :---------------------: | :-------: | :--------: | :--: | :----: |
+| Bronze Coin                 | 11 |      |                        |  Mundane  |            | 0.02 |  1 bc  |
+| Vial of Minor Healing Blood | 1 |      |       Minor Heal       |  Mundane  |            | 0.25 | 50 bc |
+| Clothes, Traveler's         | 1 |      |                        |  Mundane  |            |  4  |  2 bc  |
+| Potion of Invisibility      | 1 |      | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
 
 ### 2. Barracks
 
@@ -742,7 +742,7 @@ The barrels in this area contain similar supplies to those found in area 1.
 
 #### Treasure
 
-All three Lavender Lancers possess belt pouches containing various treasures. The first holds 160 copper coins and 7 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, Lavender cloaks hang from the bunks.
+All three Lavender Lancers possess belt pouches containing various treasures. The first holds 60 copper coins and 8 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, Lavender cloaks hang from the bunks.
 
 #### Awarding Destiny Points
 
