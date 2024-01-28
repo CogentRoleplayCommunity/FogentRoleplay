@@ -6,28 +6,28 @@ If you are making a magic system, these will magic skills could have different n
 
  This is not an exhaustive list, feel free to add your own.
 
-|                  Name                  |             Damage Type             | Melee Capable | Range Capable |
+|                  Name                   |             Damage Type              | Melee Capable | Range Capable |
 | :-------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
-| Bodily Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
-|           Fire or Heat Magic           |                 Fire                 |     TRUE     |     TRUE     |
-|               Water Magic               | Suffocation, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
-|            Electricity Magic            |               Electric               |     TRUE     |     TRUE     |
-|               Earth Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
-|                Air Magic                |      Slash, Bludgeon, Shockwave      |     TRUE     |     TRUE     |
-|               Cold Magic               |                 Cold                 |     TRUE     |     TRUE     |
-|          Nature or Plant Magic          |       Slash, Bludgeon, Pierce       |     TRUE     |     TRUE     |
-|              Poison Magic              |                Poison                |     TRUE     |     TRUE     |
-|               Soul Magic               |              Spiritual              |     FALSE     |     TRUE     |
-|               Light Magic               |               Radiant               |     TRUE     |     TRUE     |
-|              Shadow Magic              |               Necrotic               |     TRUE     |     TRUE     |
-|               Mind Magic               |               Psychic               |     FALSE     |     TRUE     |
-|               Metal Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
-|               Sound Magic               |              Shockwave              |     FALSE     |     TRUE     |
-|               Blood Magic               |                Bleed                |     TRUE     |     TRUE     |
-|               Acid Magic               |                 Acid                 |     TRUE     |     TRUE     |
-|               Time Magic               |                                      |     FALSE     |     TRUE     |
-|         Teleport or Space Magic         |                                      |     FALSE     |     TRUE     |
-|         Force or Gravity Magic         |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+| Bodily Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
+|           Fire or Heat Magic            |                 Fire                 |     TRUE      |     TRUE      |
+|               Water Magic               | Suffocation, Slash, Bludgeon, Pierce |     TRUE      |     TRUE      |
+|            Electricity Magic            |               Electric               |     TRUE      |     TRUE      |
+|               Earth Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
+|                Air Magic                |      Slash, Bludgeon, Shockwave      |     TRUE      |     TRUE      |
+|               Cold Magic                |                 Cold                 |     TRUE      |     TRUE      |
+|          Nature or Plant Magic          |       Slash, Bludgeon, Pierce        |     TRUE      |     TRUE      |
+|              Poison Magic               |                Poison                |     TRUE      |     TRUE      |
+|               Soul Magic                |              Spiritual               |     FALSE     |     TRUE      |
+|               Light Magic               |               Radiant                |     TRUE      |     TRUE      |
+|              Shadow Magic               |               Necrotic               |     TRUE      |     TRUE      |
+|               Mind Magic                |               Psychic                |     FALSE     |     TRUE      |
+|               Metal Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
+|               Sound Magic               |              Shockwave               |     FALSE     |     TRUE      |
+|               Blood Magic               |                Bleed                 |     TRUE      |     TRUE      |
+|               Acid Magic                |                 Acid                 |     TRUE      |     TRUE      |
+|               Time Magic                |                                      |     FALSE     |     TRUE      |
+|         Teleport or Space Magic         |                                      |     FALSE     |     TRUE      |
+|         Force or Gravity Magic          |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
 
 ### Combo Magic Skill
 
@@ -45,11 +45,11 @@ You unlock an amount of Magic Skill depending on your Magic Vocation level. All 
 
 | Magic Vocation Level | Magic Vocational Skills known |
 | :------------------: | :---------------------------: |
-|          0          |               1               |
-|          1          |               3               |
-|          2          |               5               |
-|          3          |               7               |
-|          4          |               9               |
+|          0           |               1               |
+|          1           |               3               |
+|          2           |               5               |
+|          3           |               7               |
+|          4           |               9               |
 
 #### Party Trick Tier (Level -1: Incompetent)
 
