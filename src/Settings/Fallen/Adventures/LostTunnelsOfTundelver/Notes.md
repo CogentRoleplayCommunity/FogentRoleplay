@@ -54,6 +54,7 @@ SIster Grelana can't use her magic to speak to the dead as their is a powerful s
 - Blackspider kills a lancer spies and offers to trade with the party
 - Glassmith has runecrafted his flesh to glass
 - The Townmaster is going to change his mind about Killing the lancer's, instead he wants the party to turn themselves over to them so the town isn't destroyed.
+- Play upon character's disablings
 
 ## Redbrand Hideout session
 
