@@ -10,13 +10,13 @@ Represent the pool of magic resource your character has to fuel their magic. Dep
 
 | Vocation/Magic Governing Core Skill Level | Vocation Amount | Magic Governing Core Skill Amount |
 | :---------------------------------------: | :-------------: | :-------------------------------: |
-|             Incompetent (-1)             |      None      |                 0                 |
-|                Novice (0)                |        0        |                 0                 |
-|              Apprentice (1)              |        4        |                 1                 |
-|                 Adept (2)                 |       10       |                 4                 |
-|                Expert (3)                |       17       |                 8                 |
-|                Master (4)                |       22       |                10                |
-|               Legendary (5)               |       30       |                15                |
+|             Incompetent (-1)              |      None       |                 0                 |
+|                Novice (0)                 |        0        |                 0                 |
+|              Apprentice (1)               |        4        |                 1                 |
+|                 Adept (2)                 |       10        |                 4                 |
+|                Expert (3)                 |       17        |                 8                 |
+|                Master (4)                 |       22        |                10                 |
+|               Legendary (5)               |       30        |                15                 |
 
 ### Regaining Magic Resource
 
