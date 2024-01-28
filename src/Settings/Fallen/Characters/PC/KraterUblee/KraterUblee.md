@@ -79,8 +79,8 @@ Unspent Skill Points: 0
 
 | Name              |   #   |       Class        | Effect |  Tier   | Durability |  LB   | Value |
 | ----------------- | :---: | :----------------: | ------ | :-----: | :--------: | :---: | :---: |
-| Great Club        |   1   | Large Hafted Blunt |        | Mundane |   12/12    |  10   | 20 cc |
 | Backpack (1 ft^3) |   1   |  30 lb container   |        | Mundane |            |   5   | 2 bc  |
+| Great Club        |   1   | Large Hafted Blunt |        | Mundane |   12/12    |  10   | 20 cc |
 | Bronze Coin       |   2   |                    |        | Mundane |            | 0.02  | 1 bc  |
 | Copper Coin       |  67   |                    |        | Mundane |            | 0.02  | 1 cc  |
 
