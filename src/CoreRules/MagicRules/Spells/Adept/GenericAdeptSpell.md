@@ -6,22 +6,19 @@ For a Magic Skill roll, this spell has can have the ranges of any of the below o
 
 As a part of a combat roll, a character can choose one of the following options below of how they would like to use their magic for that round, which effectively acts as their weapon class for that round. Damage type is determined by the damage type of the magic skill used.
 
-Melee attacks from this spell are considered large melee weapons.
+Melee attacks from this spell are considered reach melee weapons.
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Magic Slash  |      +0d6       |      +3d6       |       None        |      2      | Melee  |                   |           Rapid           |        None         |  1 Magic Resource   |
-| Large Magic Thrust |      +0d6       |      +2d6       |       None        |      3      | Melee  |                   |           Rapid           |        None         |  1 Magic Resource   |
-| Large Magic Smash  |       -1d       |      +1d6       |       None        |      5      | Melee  |                   |           Rapid           |        None         |  1 Magic Resource   |
-|    Magic Spear     |      +2d6       |      +3d6       |       None        |      3      | Melee  |                   |        Spear Rapid        |        None         |  1 Magic Resource   |
-|   Magic Javelin    |      +2d6       |      +2d6       |       None        |      3      | Medium |                   |         Standard          |        None         |  1 Magic Resource   |
-|  Magic Heavy Bolt  |      None       |      +3d6       |       None        |      2      |  Long  |                   |      Complex Loading      |        None         |  1 Magic Resource   |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Reach Magic Slash |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| Reach Magic Thrust |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| Reach Magic Smash |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| Reach Magic Spear |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
+| Heavy Magic Arrow |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
 
 ## Info
 
 **Duration:** 1 round
-
-**Magic Resource Required:** 1
 
 **Skills required:**
 
