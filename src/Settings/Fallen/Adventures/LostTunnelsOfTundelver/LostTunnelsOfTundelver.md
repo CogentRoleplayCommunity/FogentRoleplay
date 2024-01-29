@@ -395,13 +395,13 @@ The captured stores are voluminous, requiring a wagon for transportation. Return
 
 Additionally, Thrak's treasure chest holds:
 
-| Name                                                    | #   | Class            | Tier      | Durability | LB   | Value |
-| ------------------------------------------------------- | --- | ---------------- | --------- | ---------- | ---- | ----- |
-| Chest (12 ft^3)                                         | 1   | 300 lb container | Mundane   |            | 25   | 5 bc  |
-| Copper Coin                                             | 600 |              | Mundane   |            | 0.02 | 1 cc  |
-| Bronze Coin                                             | 11  |              | Mundane   |            | 0.02 | 1 bc  |
-| Jade statuette of a frog with tiny golden orbs for eyes | 1   | Treasure         | Excellent |            | 1    | 50 bc |
-| Vial of Minor Healing Blood                             | 2   |              | Mundane   |            | 0.25 | 50 bc |
+| Name                                                    | #   | Class            | Effect     | Tier      | Durability | LB   | Value |
+| ------------------------------------------------------- | --- | ---------------- | ---------- | --------- | ---------- | ---- | ----- |
+| Chest (12 ft^3)                                         | 1   | 300 lb container |            | Mundane   |            | 25   | 5 bc  |
+| Copper Coin                                             | 600 |                  |            | Mundane   |            | 0.02 | 1 cc  |
+| Bronze Coin                                             | 11  |                  |            | Mundane   |            | 0.02 | 1 bc  |
+| Jade statuette of a frog with tiny golden orbs for eyes | 1   |                  |            | Excellent |            | 1    | 50 bc |
+| Vial of Minor Healing Blood                             | 2   |                  | Minor Heal | Fine      |            | 0.25 | 50 bc |
 
 ### What Comes Next?
 
@@ -674,6 +674,8 @@ Each character is awarded a skill point upon their successful defeat of the ruff
 
 The Lavender Lancers' headquarters in Tuntin occupies an underground complex beneath the now-dilapidated Rozen Manor. Originally, the manor's cellars were designed for the safe storage of provisions, including food and water, in case the estate came under attack. Adjacent to the cellars was a crypt intended for interring deceased members of the Rozen family. The Lavender Lancers, however, have substantially expanded the cellars to serve their own needs, modifying them to accommodate slave pens, workshops, and barracks. Should the characters initiate their search from Rozen Manor, their entry point into the dungeon is in area 1. Alternatively, if they opt to follow Carp Alderleaf through the secret tunnel he discovered, they gain access to the dungeon via area 8.
 
+![Copyright](./LavanderLancerHideout.png)
+
 ### **General Features**
 
 The hideout boasts well-constructed dungeon chambers featuring flagstone floors and walls made of dressed stone blocks. The western end of the complex is situated at a lower level than the eastern end, and staircases guide the characters as they explore.
@@ -682,7 +684,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Sleight of Hand check, and doors can be forcefully broken down with a successful CL 4 Lift check.
 
-**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. Detecting a secret door from a distance of up to 10 feet without actively searching for it requires a passive Perception score of at least 3 (6 dice in perception dice poll). A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
+**Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. If a character is within 10 feet, the narrator should promt a environmental CL 3 Perception Skill check to detect the secret door. A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
 
 **Light.** Most areas within the hideout are illuminated by oil lamps affixed to wall sconces, which are refilled every few hours as necessary.
 
@@ -719,6 +721,13 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
+| Name                        | # | Class |         Effect         |   Tier   | Durability |  LB  | Value |
+| --------------------------- | :-: | :---: | :---------------------: | :-------: | :--------: | :--: | :----: |
+| Bronze Coin                 | 11 |      |                        |  Mundane  |            | 0.02 |  1 bc  |
+| Vial of Minor Healing Blood | 1 |      |       Minor Heal       |  Mundane  |            | 0.25 | 50 bc |
+| Clothes, Traveler's         | 1 |      |                        |  Mundane  |            |  4  |  2 bc  |
+| Potion of Invisibility      | 1 |      | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
+
 ### 2. Barracks
 
 The Lavender Lancers in Tuntin have their lodgings scattered throughout the town. These quarters serve as a hideaway, ideal for taking refuge after intimidating the local miners and fur traders.
@@ -733,9 +742,9 @@ The barrels in this area contain similar supplies to those found in area 1.
 
 #### Treasure
 
-All three Lavender Lancers possess belt pouches containing various treasures. The first holds 160 copper coins and 7 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, Lavendar cloaks hang from the bunks.
+All three Lavender Lancers possess belt pouches containing various treasures. The first holds 60 copper coins and 8 bronze coins; the second, 120 copper coins and 5 bronze coins; and the third, 50 copper coins, 7 bronze coins and two garnets, each valued at 10 bronze coins. Furthermore, three worn, Lavender cloaks hang from the bunks.
 
-#### Awarding Skill & Destiny Points
+#### Awarding Destiny Points
 
 Award each of the player's 1 destiny point for defeating the ruffians.
 
@@ -749,11 +758,11 @@ A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every
 
 Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a CL 2 Acrobatics Skill check.
 
-A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring 2d6 bludgeoning damage and landing prone.
+A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring a minor bludgeoning injury and landing prone.
 
-AWARDING Skill & Destiny Points
+#### Awarding Destiny Points
 
-Distribute 100 XP equally among the characters if the party successfully avoids or survives the pit trap.
+Award each of the player's 1 destiny point for defeating the ruffians.
 
 ### 4. Rozen Crypts
 
@@ -763,7 +772,7 @@ The mausoleum was the final resting place of the long-forgotten Rozen family eld
 Within the dimly lit crypt, three substantial stone sarcophagi occupy the space, their surfaces veiled in layers of dust. Resting against each sarcophagus are skeletons garbed in fragments of corroded mail. The chamber's walls feature faux columns carved to resemble expansive oak trees, and the double doors in the southeastern corner are covered with aged copper plates.
 ```
 
-When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct Lavendar cloak of the Lavender Lancers or utters the password "Illefam," which references an ancient dhampir realm that once spanned a significant part of the Sword Coast.
+When any creature approaches within 10 feet of the door leading to area 5 or the door leading to area 6, the three skeletons animate, instinctively attacking unless the intruder wears the distinct Lavender cloak of the Lavender Lancers or utters the password "Illefam," which references an ancient dhampir realm that once spanned a significant part of the Sword Coast.
 
 The stone lids of each sarcophagus bear carvings of the individuals interred within—two noble male dhampir and one noble female dhampir. Should the tombs be opened, they reveal mostly decayed bones and remnants of clothing, detailed in the "Treasure" section.
 
@@ -789,11 +798,11 @@ This elongated chamber is sectioned into three parts, featuring iron bars that p
 
 A pile of discarded clothing is carelessly strewn against the far wall.
 
-Two Lavender Lancer ruffians donned in Lavendar cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
+Two Lavender Lancer ruffians donned in Lavender cloaks serve as guards in this place. However, they mostly occupy their time by mocking the hapless prisoners, as detailed in the "Captives" section. If they hear commotion originating from area 5, they position themselves against the wall near the door and attempt to catch intruders by surprise. The captives, plagued by fear, remain too cowed to issue warnings or seek assistance.
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful DC 22 Lift Skill check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful CL 4 Lift Skill check.
 
 #### Captives
 
@@ -879,7 +888,7 @@ Present in the room are three Feralkin and one Vermkin, known as Droop. The sigh
 
 These Ferralkins work under the command of the Black Spider and were dispatched here to assist Sylas in maintaining control over both the Lavender Lancers and Tuntin's citizens. The Ferralkin leader, Mosk, peculiarly sports a jeweled eye patch, despite having both his eyes intact. He wears it purely because he finds it to be a fancy and distinctive accessory.
 
-The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in Lavendar cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Communication Skill Communication Skill check to convince the Ferralkins to comply with the party's wishes.
+The Ferralkins steer clear of the mudblood members of the Lavender Lancers. If your characters are adorned in Lavender cloaks taken from elsewhere, the Ferralkins will assume they serve Sylas. Resourceful characters may even manage to persuade the Ferralkins to assist in dealing with supposed "traitors" or "impostors" elsewhere in the dungeon. If you feel the players' deception role-play could be improved, have the primary spokesperson make a Communication Skill Communication Skill check to convince the Ferralkins to comply with the party's wishes.
 
 #### Roleplaying Droop
 
@@ -908,12 +917,12 @@ If a character listens at the door with a successful CL 2 Perception Skill Check
 ```
 The room features numerous worn tables and chairs, with wooden benches lining the walls adorned with drapes of brown and red. Several kegs of ale are propped up and tapped.
 
-Four burly mudblood warriors, donned in Lavendar cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
+Four burly mudblood warriors, donned in Lavender cloaks, have gathered around one of the tables. A stack of coins and trinkets is piled on the tabletop among them.
 ```
 
 They're engaged in drinking and playing knucklebones, and the game is on the verge of turning heated, as most games do. The dice are rigged, with the ruffian who owns them naturally winning. All four have been consuming copious amounts of alcohol, leaving them poisoned (refer to the rulebook's appendix for the effects of being poisoned).
 
-Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavendar cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Communication Skill check to hoodwink the Lavender Lancers.
+Upon the party's entrance, the Lavender Lancers instantly identify any characters wearing Lavender cloaks as impostors. Nonetheless, articulate characters might still attempt to pass themselves off as "new recruits," particularly if they express interest in joining the game. If you feel the players' deception role-play could be enhanced, have the primary spokesperson make a CL 2 Communication Skill check to hoodwink the Lavender Lancers.
 
 #### Treasure
 
@@ -952,7 +961,7 @@ Regarding treasure, most of the materials in this room lack value, but three sma
 If the characters approach this room via the secret passage from area 7, they can catch the leader of the Lavender Lancers, Sylas "Glassmith" Alabaster, off guard. Otherwise, if they approach through area 11, his rat familiar alerts him to their presence, and he hastily flees before they arrive.
 
 ```
-This room features walls adorned with Lavendar cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
+This room features walls adorned with Lavender cloth drapes, and its furnishings include a small writing desk with a matching chair, a comfortable-looking bed, and a wooden chest located at the bed's foot.
 ```
 
 If Sylas is taken by surprise, include the following paragraph:
@@ -982,14 +991,14 @@ If questioned while in captivity, Sylas provides the following information, all 
 * The Black Spider is searching Tide Echo Tunnels for the Forge of Runes. molekin and serpentkins of the Tundelver's Pact used the magical forge to create powerful magic items.
 * No other members of the Eastern Alliance are aware of Sylas's betrayal.
 
-### Develoments
+### Developments
 
 In terms of developments, various papers and notes are neatly stacked on the desk, primarily consisting of Sylas's written orders to apothecaries and alchemists in nearby settlements for additional materials for his workshop. Among these documents, the characters also discover a letter marked with the Black Spider's symbol.
 
 ```
 Lord Alabaster,
 
-Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the molekin. If possible, apprehend them. If necessary, eliminnate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
+Reports from my sources in Reddwall indicate that unknown individuals are en route to Tuntin. These individuals may be in the employ of the molekin. If possible, apprehend them. If necessary, eliminate them, but do not permit them to disrupt our operations. Ensure that any molekin maps within their possession are swiftly delivered to me. I am relying on you, Sylas. Do not let me down.
 ```
 
 In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have the wizard confined within the townmaster's hall until safe transportation back to Reddwall can be arranged. The question of whether Sylas faces a trial for his crimes falls outside the scope of this adventure. The Black Spider is too engrossed in his own concerns to interfere with the wizard's fate.
@@ -998,9 +1007,9 @@ In the event that Sylas is apprehended, Ulfric Warwinter takes measures to have 
 
 Positioned at the foot of Sylas's bed is an unlocked and robust wooden chest. It contains the most valuable items amassed by the Lavender Lancers over the last two months, including 1800 copper coins, 130 bronze coins, and a silk pouch containing five carnelians (valued at 10 bronze coins each), two peridots (each worth 15 bronze coins), and one pearl (with an estimated worth of 100 bronze coins). The chest also contains two magical items brought to Tuntin by Sylas from Reddwall: a scroll of charm person and a scroll of fireball. Additionally, Sylas wields a staff of defense (refer to appendix A).
 
-For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminnates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
+For Skill & Destiny Points, distribute 200 XP evenly among the characters if the party eliminates Sylas Alabaster. Double the XP award if they successfully capture Sylas and deliver him to Ulfric Warwinter in Tuntin.
 
-#### Awarding Experinece
+#### Awarding Experience
 
 In terms of what's next, the adventure proceeds to the next phase, part 3, titled "The Spider's Web." During this segment, the characters engage in several short adventures that propel the storyline forward. It is likely that at some point in part 2, the characters will reach 3rd level, so it's important for players to keep track of their XP.
 
@@ -1271,7 +1280,7 @@ At the crossroads near the center of the village, a narrow lane ascends the stee
 
 Inside this ruined building, two giant spiders lie in wait on the inner walls, concealed from view outside. The spiders utilize trailing lines from the webs spanning the lane, allowing them to sense the movement of potential prey. They nimbly scuttle over the walls and launch a surprise attack against any character with a passive Wisdom (Perception) score below 17.
 
-The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a DC 12 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a CL 2 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 Circumventing the webs is made difficult by the dense thickets on the north side of the road. Bypassing the ruined building to the south will lead to the twig blights in area 5.
 
@@ -1461,7 +1470,7 @@ The primary gates that separate areas 1 and 2 are constructed of bronze-covered 
 The castle comprises seven deteriorating towers of varying sizes and heights, with the upper stories in various states of collapse. A brief flight of steps leads to a terrace before the main entrance. Beyond the remains of two broken doors lies a dimly lit hall. Round towers loom over the entrance, boasting dark arrow slits that oversee the terrace.
 ```
 
-No monsters currently occupy this area, although Vermkin sentries in area 3 are tasked with keeping watch. However, they peer out of the arrow slits only occasionally, so characters who move stealthily might have the opportunity to slip past them. Each character should make a Dexterity (Stealth) check, with the lowest check representing the DC for the Vermkins' Wisdom checks to notice the party.
+No monsters currently occupy this area, although Vermkin sentries in area 3 are tasked with keeping watch. However, they peer out of the arrow slits only occasionally, so characters who move stealthily might have the opportunity to slip past them. Each character should make a Stealth Skill check, with the lowest check representing the CL for the Vermkins' Perception Skill checks to notice the party.
 
 #### **Developments**
 
@@ -1470,7 +1479,7 @@ If the Vermkins spot the characters (or if the characters approach openly), the 
 ```
 **Disguised Characters**
 
-Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don Lavendar cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Communication Skill check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
+Instead of assaulting Mountainmaw Castle, clever characters might attempt to gain entry through diplomacy. For example, they could don Lavender cloaks resembling those of the Lavender Lancers and claim to be emissaries sent by Sylas "Glassmith" Alabaster, the Lavender Lancer leader, to meet with King Grom. The Narrator may reward this sort of cunning with an opportunity for success. It is acceptable if the characters bypass combat by talking their way past the castle defenders, as both the Mountainmaw tribe and the Lavender Lancers work for the Black Spider, making it unlikely that the Beastkins will attack the party if they assert that they are acting in the Black Spider's interest. If the characters attempt to deceive the monsters as a group, have each character make a Communication Skill check contested by the monsters' Wisdom (Insight) checks. Award XP for any monsters deceived by the ruse. Additional checks may be required as the party proceeds deeper into the castle.
 ```
 
 ### **2. Trapped Hall**
@@ -1617,7 +1626,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful DC 25 Lift Skill check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful CL 5 Lift Skill check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1875,7 +1884,7 @@ The cavern floor is blanketed by an expanse of peculiar fungi, covering extensiv
 
 For the most part, the fungi is innocuous. Interestingly, the green-glowing fungi provide adequate illumination throughout the entire cavern, making the use of darkvision or light sources unnecessary.
 
-**Poison Gas:** However, when any entity attempts to traverse this cavern, the fungal carpets carpeting the floor unleash toxic gases into the air. Each creature present in the cavern must succeed in a DC 11 Endurance Skill check to avoid suffering 3d6 poison damage and being afflicted with the poisoned condition for a duration of 10 minutes (for more details on the poisoned condition, please refer to the rulebook). The poison gas dissipates within a minute. Until that occurs, any living creature concluding its turn within the cavern must reattempt the saving throw.
+**Poison Gas:** However, when any entity attempts to traverse this cavern, the fungal carpets carpeting the floor unleash toxic gases into the air. Each creature present in the cavern must succeed in a CL 2 Endurance Skill check to avoid suffering a poison injury, with every level the check was missed by representing a higher level injury starting at a minor injury. The poison gas dissipates within a minute. Until that occurs, any living creature concluding its turn within the cavern must reattempt the Endurance Skill check.
 
 ### **9. Great Cavern**
 
@@ -1887,7 +1896,7 @@ The cavern is divided into three distinct sections: elevated ledges at either en
 
 In the shadows on the western ledge, seven ghouls hide, vigilant for any light or sound elsewhere in the cave. When alerted, they swiftly descend to engage their prey, their ravenous hunger driving them to battle until they are vanquished.
 
-The 10-foot-high escarpments require a successful DC 12 Climb Skill check to climb. A fall or fogrekineful push from the top results in 1d6 bludgeoning damage, with the unfortunate individual landing in a prone position.
+The 10-foot-high escarpments require a successful CL 2 Climb Skill check to climb. A fall or fogrekineful push from the top results in minor bludgeoning injury, with the unfortunate individual landing in a prone position.
 
 ### **10. Dark Pool**
 
@@ -1957,7 +1966,7 @@ Characters proficient in Arcana may sense a subtle undercurrent of magic in the 
 
 ### 14. Wizard's Quarters
 
-The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them fogrekinefully requires a Lift Skill check with a DC of 15.
+The entrance doors to this room exhibit visible signs of wear, with their iron hinges partially melted. Opening them forcefully requires a CL 3 Lift Skill check.
 
 ```
 Within, the room bears the marks of destruction, evident in the ash, dust, fire-blackened walls, and heaps of debris under the sagging ceiling. The furnishings, including tables, chairs, bookshelves, and beds, have been charred or shattered, but they remain surprisingly intact. An iron chest, scogrekinhed by the flames, rests near the base of one of the beds.
@@ -1979,9 +1988,9 @@ However, the wraith will never relinquish the wooden pipe from the scogrekinhed 
 
 #### Treasure
 
-The scogrekinhed chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
+The scorched chest is unlocked and contains 2700 copper coins, 25 bronze coins, three diamonds (each worth 100 bronze coins), and a wooden pipe adorned with platinum filigree (valued at 150 bronze coins).
 
-Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful DC 12 General Knowledge check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
+Several magically preserved tomes remain on the shelves, primarily historical in nature, but one conceals a map sewn into its cover. The presence of the map can be detected with a successful CL 2 General Knowledge check. The map indicates the location of a custom dungeon, offering a lead to the characters' next adventure upon completion of their explorations.
 
 ### Runecraft Forge
 

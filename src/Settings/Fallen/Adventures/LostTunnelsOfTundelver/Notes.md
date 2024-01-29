@@ -54,10 +54,11 @@ SIster Grelana can't use her magic to speak to the dead as their is a powerful s
 - Blackspider kills a lancer spies and offers to trade with the party
 - Glassmith has runecrafted his flesh to glass
 - The Townmaster is going to change his mind about Killing the lancer's, instead he wants the party to turn themselves over to them so the town isn't destroyed.
+- Play upon character's disablings
 
 ## Redbrand Hideout session
 
-The session will start with the player's gearing up to go take on the Lavendar Lancer hideout.
+The session will start with the player's gearing up to go take on the Lavender Lancer hideout.
 
 Ulfric will find the party and encourage them to removed the Lancer threat from the good people of Tuntin. Ulfric will reveal that he joined this job partially to help Burrowbard, but also to search for his friend Sylas Alabaster. As young men, Sylas, Burrowbard, and Ulfric were adventures. Ulfric speculates that the Lancers must have imprisoned or killed Sylas along with the town sheriff who has gone missing as his dear old friend would never put up with this lawless chaos.
 

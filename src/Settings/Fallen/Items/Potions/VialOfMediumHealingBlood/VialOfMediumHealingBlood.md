@@ -11,8 +11,8 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 ## Info
 
 |             Name             | # | Class |   Effect   |   Tier   | Durability |  LB  | Value |
-| :--------------------------: | :-: | :---: | :---------: | :------: | :--------: | :--: | :----: |
-| Vial of Medium Healing Blood | 1 |      | Medium Heal | Superior |            | 0.25 | 250 bc |
+| :--------------------------: | :-: | :---: | :---------: | :-------: | :--------: | :--: | :----: |
+| Vial of Medium Healing Blood | 1 |      | Medium Heal | Excellent |            | 0.25 | 250 bc |
 
 ## Effects
 

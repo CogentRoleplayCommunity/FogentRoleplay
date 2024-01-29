@@ -8,13 +8,13 @@ As a part of a combat roll, a character can choose one of the following options 
 
 Melee attacks from this spell are considered small melee weapons.
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Cantrip Smash/Thrust |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
-|    Cantrip Slash    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
-|    Cantrip Throw    |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
-|     Cantrip Dart     |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
-|    Cantrip Sling    |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |
+| Cantrip Smash/Thrust |      +0d6       |      +0d6       |       +1d6        |      2      | Melee  |                   |           Rapid           |        None         |  0 Magic Resource   |
+|    Cantrip Slash     |      +1d6       |      +1d6       |       +1d6        |      0      | Melee  |                   |           Rapid           |        None         |  0 Magic Resource   |
+|    Cantrip Throw     |      +1d6       |      +1d6       |       None        |      0      | Short  |                   |           Quick           |        None         |  0 Magic Resource   |
+|     Cantrip Dart     |      +0d6       |      +0d6       |       None        |      1      | Short  |                   |           Quick           |        None         |  0 Magic Resource   |
+|    Cantrip Sling     |      +1d6       |      +1d6       |       None        |      1      | Medium |                   |         Standard          |        None         |  0 Magic Resource   |
 
 ## Info
 

@@ -46,6 +46,12 @@
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |      |                |                |                  |            |      |                  |                          |                    |                    |
 
+### Weapon Resources
+
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
+
 ### Party Trick Magic
 
 |                                                Name                                                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
@@ -75,26 +81,24 @@
 |   _[Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended |                  |          Loading          |        None        |  1 Magic Resource  |
 |   _[Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended |                  |           Quick           |        None        |  1 Magic Resource  |
 
+|                                                 Name                                                 | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| _[Large Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |  2 Magic Resource  |
+| _[Large Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |  2 Magic Resource  |
+| _[Large Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |       -1d       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |  2 Magic Resource  |
+|    _[Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Spear Rapid        |        None        |  2 Magic Resource  |
+|   _[Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium |                  |         Standard         |        None        |  2 Magic Resource  |
+|  _[Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      2      |  Long  |                  |      Complex Loading      |        None        |  2 Magic Resource  |
+
 ### Adept Spells
 
-|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Large Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |  1 Magic Resource  |
-| _[Large Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |  1 Magic Resource  |
-| _[Large Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -1d       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |  1 Magic Resource  |
-|    _[Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Spear Rapid        |        None        |  1 Magic Resource  |
-|   _[Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium |                  |         Standard         |        None        |  1 Magic Resource  |
-|  _[Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)  |      None      |      +3d6      |       None       |      2      |  Long  |                  |      Complex Loading      |        None        |  1 Magic Resource  |
-
-### Expert Spells
-
-|                                             Name                                             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Reach Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  1 Magic Resource  |
-| _[Reach Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  1 Magic Resource  |
-| _[Reach Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  1 Magic Resource  |
-| _[Reach Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  1 Magic Resource  |
-| _[Heavy Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Expert/GenericExpertSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  1 Magic Resource  |
+|                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| _[Reach Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| _[Reach Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| _[Reach Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| _[Reach Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
+| _[Heavy Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
 
 ## Destiny Points: 0/3
 
