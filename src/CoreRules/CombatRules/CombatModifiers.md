@@ -2,7 +2,7 @@
 
 ## Defensive (Advantage) (no victory levels)
 
-This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, getting up from being Prone, Off Guard, Dashing, etc.)
+This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, getting up from being Prone, Off Guard, Dashing, etc.)
 
 ## Ranged vs Melee (Disadvantage)
 
@@ -12,7 +12,7 @@ When a melee combat roll is made towards a character within melee or reach range
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
-## Focused Shot (Advantage) (Disadvatage to Dodge Rolls)
+## Focused Shot (Advantage) (Disadvantage to Dodge Rolls)
 
 While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 (Focused) for the turn. You can not move while making a focused shot and have disadvantage to Dodging.
 
