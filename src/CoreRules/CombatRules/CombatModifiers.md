@@ -2,7 +2,7 @@
 
 ## Defensive (Advantage) (no victory levels)
 
-This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, getting up from being Prone, Flanked, Dashing, etc.)
+This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls, and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, getting up from being Prone, Off Guard, Dashing, etc.)
 
 ## Ranged vs Melee (Disadvantage)
 
@@ -28,7 +28,7 @@ A brace is a move purely to counter a charge. Character gains advantage versus c
 
 Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground.
 
-## Flanked (Disadvantage)
+## Off Guard (Disadvantage)
 
 Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE exhausting thier Engageable Opponents, picking a lock, dashing away, being distracted, etc.
 
