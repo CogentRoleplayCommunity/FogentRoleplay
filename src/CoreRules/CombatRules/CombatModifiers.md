@@ -12,9 +12,9 @@ When a melee combat roll is made towards a character within melee or reach range
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
-## Focused Shot (Advantage)
+## Focused Shot (Advantage) (Disadvatage to Dodge Rolls)
 
-While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have disadvantage to Dodging. If the character is forced to Dodge before their combat roll, they do not benefit from focused.
+While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 (Focused) for the turn. You can not move while making a focused shot and have disadvantage to Dodging.
 
 ## Charge (Advantage)
 
