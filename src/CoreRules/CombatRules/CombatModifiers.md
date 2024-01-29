@@ -32,9 +32,9 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE exhausting thier Engageable Opponents, picking a lock, dashing away, being distracted, etc.
 
-## Off guard (CL in lieu of defense roll)
+## Sneak Attack (CL in lieu of defense roll)
 
-CL determined by Narrator IE, attacking a soldier from behind may require a successful Stealth check, then the attack (which they cannot defend against) will be a CL assigned by the Narrator, which the player will roll against with a normal combat roll. Any wins achieved over the CL counts towards the level of victory. Failing the CL commences the next round of combat, where the opponent is then engaged.
+An attack which can't be defended against made by a character while they hidden to an opponent. This attack is usually proceeded by a Stealth Skill Check versus a Perception skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone throat with a dagger is a CL 1, however doing the same with a great sword would be far more difficult. Any wins achieved over the CL counts towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
 
 ## Incapacitated (Super Advantage)
 
