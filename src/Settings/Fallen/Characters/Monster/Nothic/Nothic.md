@@ -6,9 +6,9 @@
 
 | STR       | 1 |    | RFX             | 1 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 5d6 |
+| Athletics | 0 | 4d6 | Acrobatics      | 0 | 4d6 | Communication     | 2 | 5d6 |
 | Climb     | 2 | 6d6 | Perception      | 1 | 5d6 | General Knowledge | 1 | 4d6 |
-| Endurance | 2 | 6d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 4d6 |
+| Endurance | 2 | 6d6 | Sleight of Hand | 0 | 4d6 | Survival          | 1 | 4d6 |
 | Lift      | 2 | 6d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
@@ -49,22 +49,25 @@
 
 ### Apprentice Spells
 
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  |                  |         Standard         |        None        |  1 Magic Resource  |
-|   [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended |                  |          Loading          |        None        |  1 Magic Resource  |
-|   [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended |                  |           Quick           |        None        |  1 Magic Resource  |
+|                                                Name                                                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|  [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  |                  |         Standard         |        None        |  1 Magic Resource  |
+|    [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      None      |      +2d6      |       None       |      2      | Extended |                  |          Loading          |        None        |  1 Magic Resource  |
+|    [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      None      |      +2d6      |       None       |      1      | Extended |                  |           Quick           |        None        |  1 Magic Resource  |
+| [Magic Short Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      |  Short  |                  |          Focused          |  Cone Calculation  |  1 Magic Resource  |
 
 |                                                Name                                                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +2d6      |      +2d6      |       None       |      3      | Medium |                  |         Standard         |        None        |  2 Magic Resource  |
+| :-------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium |                  |         Standard         |        None        |  2 Magic Resource  |
 | [Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +3d6      |       None       |      2      |  Long  |                  |      Complex Loading      |        None        |  2 Magic Resource  |
+| [Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium |                  |          Focused          |  Cone Calculation  |  1 Magic Resource  |
 
 ### Adept Spells
 
 |                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | [Magic Heavy Arrow](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
+|   [Magic Sphere](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |          Focused          | Sphere Calculation |  3 Magic Resource  |
 
 ## Fellblood: 10/10
 
