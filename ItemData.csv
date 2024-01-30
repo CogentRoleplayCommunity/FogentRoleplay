@@ -227,7 +227,7 @@ Boosts maximum equipment load.
 This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance."
 Assassin's Azulian Talisman,1,,Magic Resource Leech,Excellent,21/21,0.2,?,"An assassin's dagger, misshapen and stained in azul."
 Assassin's Crimson Talisman,1,,Life Leech,Excellent,21/21,0.2,?,"An assassin's dagger, misshapen and stained in crimson."
-Azulian Talisman,1,,Minor Enhanced Magic Resource,Excellent,21/21,0.2,?,"A medallion with azul inlaid.
+Azulian Talisman,1,,Minorly Enhanced Magic Resource,Excellent,21/21,0.2,?,"A medallion with azul inlaid.
 
 Minorly boosts maximum magic resource."
 Azulian Talisman +1,1,,Enhanced Magic Resource,Exquisite,27/27,0.2,?,"A medallion with azul inlaid.
@@ -238,7 +238,7 @@ Azulian Talisman +2,1,,Greatly Enhanced Magic Resource,Mastercraft,33/33,0.2,?,"
 Greatly boosts maximum magic resource."
 Blessed Dew Talisman,1,,Gradual Healing,Superior,24/24,0.2,?,"It is the common knowledge that the dew of the morning has special healing properties. This amulet is crafted with condensed morning dew, allowing it to provide subtle mending properties to those that wear it. A favorite of explorers and travelers."
 Claw Talisman,1,,Ariel Assassin,Flawless,30/30,0.2,?,A talisman depicting claws and an assassin.
-Concealing Viel,1,,Minor Enhanced Stealth,Flawless,30/30,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
+Concealing Viel,1,,Minorly Enhanced Stealth,Flawless,30/30,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
 
 Conceals the wearer's presence, becoming slightly transparent at will.
 
@@ -288,7 +288,7 @@ Rejuvenation Talisman,1,,Enhanced Healing,Epic,39/39,0.2,?,A talisman made to en
 Steel Dragon Scale Talisman,1,,"Minor Hew Resistance, Minor Slash Resistance, Minor Bludgeon Resistance, Minor Shockwave Resistance",Excellent,21/21,0.2,?,"A wrought iron talisman made with the visage of a mighty Steel Dragon. While quite common among defensive Runecrafted items, it is still a boon to any common soldier or mercenary."
 Steel Dragon Scale Talisman +1,1,,"Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance",Exquisite,27/27,0.2,?,
 Steel Dragon Scale Talisman +2,1,,"Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance",Mastercraft,33/33,0.2,?,
-Viridian Medallion Talisman,1,,Minor Enhanced Lift,Excellent,21/21,0.2,?,A medallion with viridian inlaid.
+Viridian Medallion Talisman,1,,Minorly Enhanced Lift,Excellent,21/21,0.2,?,A medallion with viridian inlaid.
 Viridian Medallion Talisman +1,1,,Enhanced Endurance,Flawless,30/30,0.2,?,A medallion with viridian inlaid.
 Viridian Medallion Talisman +2,1,,Greatly Enhanced Endurance,Epic,39/39,0.2,?,A medallion with viridian inlaid.
 ,,,,,,,,
