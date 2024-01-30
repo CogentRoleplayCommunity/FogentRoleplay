@@ -30,7 +30,7 @@ Represents an area of effect that is unchanged by the Dice Pool associated with 
 
 ## Area Of Effect Calculation
 
-Unlike Set Area Of Effects which do not change, Area Of Effect Calculations scale with the size of the Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficency with their magic.
+Unlike Set Area Of Effects which do not change, Area Of Effect Calculations scale with the size of the Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
 ### Sphere Calculation
 
