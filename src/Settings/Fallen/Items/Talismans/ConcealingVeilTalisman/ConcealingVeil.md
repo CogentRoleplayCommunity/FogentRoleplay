@@ -14,10 +14,10 @@ A common talisman of assassins.
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Concealing Veil | 1 |  | Minor Enhanced Stealth | Flawless | 21/21 | 0.2 | ? |
+| Concealing Veil | 1 |  | Minorly Enhanced Stealth | Flawless | 21/21 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
-| Minor Enhanced Stealth | +1d6 to Stealth. | Indefinite | 2 |
+| Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite | 2 |
