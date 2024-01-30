@@ -15,7 +15,7 @@
 
 | Beast {RFX} |   1   |  5d6  |
 | ----------- | :---: | :---: |
-| Bite {ALL}  |   1   |  4d6  |
+| Bite {STR, RFX, INT}  |   1   |  4d6  |
 
 ## Effects:
 

@@ -24,12 +24,12 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {ALL} | 3 | 8d6 | Queen alate {ALL} | 1 | 6d6 |
+| Fellcaster {STR, RFX, INT} | 3 | 8d6 | Queen alate {STR, RFX, INT} | 1 | 6d6 |
 | :--------------: | :-: | :-: | ----------------- | :-: | --- |
-| Mindcraft {ALL} | 3 | 8d6 | Large Hafted      | 1 | 6d6 |
-| Polycraft {ALL} | 1 | 6d6 | Small Bladed      | 0 | 5d6 |
-| Toxincraft {ALL} | 0 | 5d6 | Unarmed           | 0 | 5d6 |
-| Terracraft {ALL} | 0 | 5d6 |                   |  |     |
+| Mindcraft {STR, RFX, INT} | 3 | 8d6 | Large Hafted      | 1 | 6d6 |
+| Polycraft {STR, RFX, INT} | 1 | 6d6 | Small Bladed      | 0 | 5d6 |
+| Toxincraft {STR, RFX, INT} | 0 | 5d6 | Unarmed           | 0 | 5d6 |
+| Terracraft {STR, RFX, INT} | 0 | 5d6 |                   |  |     |
 
 ## Effects
 

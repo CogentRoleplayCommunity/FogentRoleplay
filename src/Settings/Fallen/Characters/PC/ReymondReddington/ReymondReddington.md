@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {ALL}   |   2   |  6d6  | Entrepreneur {INT} | 1   | 5d6 |
+| Fellcaster {STR, RFX, INT}   |   2   |  6d6  | Entrepreneur {INT} | 1   | 5d6 |
 | --------------- | :---: | :---: | ------------------ | --- | --- |
-| Sonocraft {ALL} |   2   |  6d6  |                    |     |     |
+| Sonocraft {STR, RFX, INT} |   2   |  6d6  |                    |     |     |
 
 ## Effects:
 

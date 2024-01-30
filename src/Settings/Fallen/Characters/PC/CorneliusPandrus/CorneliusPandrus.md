@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Runesmith {INT}     |   2   |  6d6  | Fellcaster {ALL} | 0   | 2d6 |
+| Runesmith {INT}     |   2   |  6d6  | Fellcaster {STR, RFX, INT} | 0   | 2d6 |
 | ------------------- | :---: | :---: | ---------------- | --- | --- |
-| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {ALL}  | -1  | 2d6 |
+| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {STR, RFX, INT}  | -1  | 2d6 |
 | Rune of Earth {INT} |   0   |  4d6  |                  |     |     |
 | Rune of Air {INT}   |   0   |  4d6  |                  |     |     |
 | Rune of Water {INT} |   0   |  4d6  |                  |     |     |

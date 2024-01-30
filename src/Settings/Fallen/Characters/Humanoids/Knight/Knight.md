@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Knight {ALL}       | 2 | 6d6 |
+| Knight {STR, RFX, INT}       | 2 | 6d6 |
 | ------------------ | :-: | :-: |
-| Large Sword {ALL} | 2 | 6d6 |
+| Large Sword {STR, RFX, INT} | 2 | 6d6 |
 
 ## Effects
 

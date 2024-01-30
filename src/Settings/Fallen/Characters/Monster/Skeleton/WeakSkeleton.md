@@ -15,8 +15,8 @@
 
 | Fighter {RFX}      | 0 | 4d6 |
 | ------------------- | :-: | :-: |
-| Medium Sword {ALL} | 0 | 3d6 |
-| Light Bow {ALL}     | 0 | 3d6 |
+| Medium Sword {STR, RFX, INT} | 0 | 3d6 |
+| Light Bow {STR, RFX, INT}     | 0 | 3d6 |
 
 ## Effects:
 

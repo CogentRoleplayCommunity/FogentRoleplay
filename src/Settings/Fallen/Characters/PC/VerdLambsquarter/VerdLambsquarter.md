@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Fellkin {ALL}     |   2   |  6d6  | Student {INT} | 1   | 5d6 |
+| Fellkin {STR, RFX, INT}     |   2   |  6d6  | Student {INT} | 1   | 5d6 |
 | ----------------- | :---: | :---: | ------------- | --- | --- |
-| Naturecraft {ALL} |   2   |  6d6  |               |     |     |
+| Naturecraft {STR, RFX, INT} |   2   |  6d6  |               |     |     |
 |                   |   0   |  3d6  |               |     |     |
 |                   |   0   |  3d6  |               |     |     |
 |                   |   0   |  3d6  |               |     |     |

@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Warrior {ALL}       | 1 | 5d6 |
+| Warrior {STR, RFX, INT}       | 1 | 5d6 |
 | ------------------- | :-: | :-: |
-| Medium Hafted {ALL} | 1 | 5d6 |
+| Medium Hafted {STR, RFX, INT} | 1 | 5d6 |
 
 ## Effects:
 

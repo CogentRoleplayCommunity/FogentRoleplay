@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Scout {RFX, INT}    | 2 | 6d6 | Fellkin {ALL}     | 0  | 4d6 |
+| Scout {RFX, INT}    | 2 | 6d6 | Fellkin {STR, RFX, INT}     | 0  | 4d6 |
 | ------------------- | :-: | :-: | ----------------- | -- | --- |
-| Medium Sword {ALL} | 2 | 6d6 | Shadowcraft {ALL} | -1 | 3d6 |
+| Medium Sword {STR, RFX, INT} | 2 | 6d6 | Shadowcraft {STR, RFX, INT} | -1 | 3d6 |
 
 ## Effects:
 

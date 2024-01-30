@@ -15,8 +15,8 @@
 
 | Zombie {STR}     | 2 | 6d6 |
 | ---------------- | :-: | :-: |
-| Unarmed {ALL}    | 2 | 3d6 |
-| Small Bite {ALL} | 2 | 3d6 |
+| Unarmed {STR, RFX, INT}    | 2 | 3d6 |
+| Small Bite {STR, RFX, INT} | 2 | 3d6 |
 
 ## Effects
 

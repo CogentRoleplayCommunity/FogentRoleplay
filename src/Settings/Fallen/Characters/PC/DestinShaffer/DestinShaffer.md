@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Smith {STR}         |   1   |  5d6  | Fellcaster {ALL}    | 0   |     |
+| Smith {STR}         |   1   |  5d6  | Fellcaster {STR, RFX, INT}    | 0   |     |
 | ------------------- | :---: | :---: | ---------------- | --- | --- |
-| Medium Hafted {ALL} |   1   |  5d6  | Ferracraft {ALL} | 0   | 4d6 |
-| Unarmed {ALL}       |   1   |  5d6  |                  |     |     |
+| Medium Hafted {STR, RFX, INT} |   1   |  5d6  | Ferracraft {STR, RFX, INT} | 0   | 4d6 |
+| Unarmed {STR, RFX, INT}       |   1   |  5d6  |                  |     |     |
 
 ## Info:
 

@@ -8,25 +8,25 @@
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 6d6 | Acrobatics      | 1 | 4d6 | Communication     | 1 | 5d6 |
 | Climb     | 0 | 6d6 | Perception      | 2 | 5d6 | General Knowledge | 0 | 4d6 |
-| Endurance | 2 | 8d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Endurance | 1 | 7d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
 | Lift      | 0 | 6d6 | Stealth         | 1 | 4d6 | Will              | 1 | 5d6 |
 
 ## Vocations and Vocational Skills
 
-| Dragon {ALL}     | 1 | 8d6 |
+| Dragon {STR, RFX, INT}     | 1 | 8d6 |
 | ---------------- | :-: | :-: |
-| Toxincraft {ALL} | 1 | 8d6 |
+| Toxincraft {STR, RFX, INT} | 1 | 8d6 |
 
 ## Effects:
 
 |            Name            |                                                            Effect                                                            | Duration |                           Source                           |
 | :------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :------: | :--------------------------------------------------------: |
-|   Medium Silver Weakness   |                                   +2 to the level of injury received from Silver damage.                                   |          |                         Silverburn                         |
+|   Medium Silver Weakness   |                                    +2 to the level of injury received from Silver damage.                                    |          |                         Silverburn                         |
 |         Large Size         |                                                    10x10 ft on battle map.                                                    |          |                                                            |
 |     Language: Babelish     |                                                      Can speak Babelish.                                                      |          |                                                            |
 |    Language: Draconic    |                                                     Can speak Draconic.                                                     |          |                                                            |
 |   Physical Defense Level   |                                                               7                                                               |          |                           Armor                           |
-| Complete Poison Resistance |                                       Negate victory levels received from  Poison damage.                                       |          |                     Draconic bloodline                     |
+| Complete Poison Resistance |                                      Negate victory levels received from  Poison damage.                                      |          |                     Draconic bloodline                     |
 |        Dark Vision        | Within 120 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                     Draconic bloodline                     |
 |         Blindsight         |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                                                            |
 |  4-Legged Movement Speed  |                                                             55 ft                                                             |          | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |

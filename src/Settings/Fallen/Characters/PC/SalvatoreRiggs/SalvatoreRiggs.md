@@ -15,7 +15,7 @@
 
 | Criminal {INT}      |   2   |  6d6  |
 | ------------------- | :---: | :---: |
-| Hand Crossbow {ALL} |   2   |  6d6  |
+| Hand Crossbow {STR, RFX, INT} |   2   |  6d6  |
 
 ## Effects:
 
