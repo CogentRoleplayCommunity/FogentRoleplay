@@ -13,10 +13,10 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 | STR       |  0  | Roll  | RFX             |  1  | Roll  | INT               |  0  | Roll  |
 | :-------: | :-: | :---: | :-------------: | :-: | :---: | :---------------: | :-: | :---: |
-| Athletics |  0  |  2d6  | Acrobatics      |  0  |  5d6  | Communication     |  0  |  3d6  |
-| Climb     |  0  |  2d6  | Perception      |  0  |  6d6  | General Knowledge |  0  |  3d6  |
-| Endurance |  0  |  2d6  | Sleight of Hand |  0  |  5d6  | Survival          |  0  |  4d6  |
-| Lift      |  0  |  2d6  | Stealth         |  0  |  5d6  | Willpower         | -1  |  4d6  |
+| Athletics |  0  |  3d6  | Acrobatics      |  0  |  4d6  | Communication     |  0  |  3d6  |
+| Climb     |  0  |  3d6  | Perception      |  0  |  4d6  | General Knowledge |  0  |  3d6  |
+| Endurance |  1  |  4d6  | Sleight of Hand |  0  |  4d6  | Survival          |  0  |  3d6  |
+| Lift      |  1  |  4d6  | Stealth         |  0  |  4d6  | Willpower         | -1  |  2d6  |
 
 <!-- Leave RFX 1 and Willpower -1 -->
 
@@ -24,12 +24,12 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Vocations and Vocational Skills (UNFINISHED)
 
-| Fellweaver {ALL} |  1  | 4d6 | Blacksmith / Silversmith {ALL} |  1  | 4d6 |
-| :--------------: | :-: | :-: | ------------------------------ | :-: | --- |
-| Polycraft {ALL}  |  0  | 4d6 |                                |  0  | 4d6 |
-| Toxincraft {ALL} | -1  | 3d6 |                                |  0  | 4d6 |
-| Terracraft {ALL} | -1  | 3d6 |                                |  0  | 4d6 |
-| Galecraft {ALL}  | -1  | 3d6 |                                |  0  | 4d6 |
+| Fellweaver {ALL} |  0  | 4d6 | Blacksmith / Silversmith {ALL}           |  1  | 4d6 |
+| :--------------: | :-: | :-: | ---------------------------------------- | :-: | --- |
+| Polycraft {ALL}  |  0  | 4d6 | Metallurgy                               |  1  | 5d6 |
+| Toxincraft {ALL} | -1  | 3d6 | Tool making / repair                     |  1  | 4d6 |
+| Terracraft {ALL} | -1  | 3d6 | Silverplating                            |  0  | 4d6 |
+| Galecraft {ALL}  | -1  | 3d6 | Medium Hafted Blunt, Medium Hafted Point |  0  | 4d6 |
 
 <!-- Blacksmithing must be at least 1. Leave 1 for polycraft for an advantage at healing. -->
 
@@ -37,21 +37,21 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Effects (UNFINISHED)
 
-| Name                    | Effect                                                        | Duration | Source                                                                                                                                   |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| Minor Silver Weakness   | (+1) to the level of injury<br />received from Silver damage. |          | Fellkin blood                                                                                                                            |
-| Physical Defense Level  | Phy. Def. 1.66                                                |          | Carapace                                                                                                                                 |
-| Medium Size             | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
-| Language: Babelish      | Can speak Babelish.                                           |          |                                                                                                                                          |
-| Language:               | Can speak Kikishi                                             |          |                                                                                                                                          |
-| Disabling: Feelbe       |                                                               |          | She lost on the genetic lottery.                                                                                                         |
-| Disabling: Drug addict. |                                                               |          |                                                                                                                                          |
-| Inventory Weight        | ??.?? LB                                                      |          | Equipment                                                                                                                                |
-| Humanoid Carry Weight   | 120 lb                                                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-| Light Weight            | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
-| Humanoid Movement Speed | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
-| Humanoid Swim Speed     | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
-| Humanoid Climb Speed    | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
+| Name                          | Effect                                                        | Duration | Source                                                                                                                                   |
+| :---------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| Minor Silver Weakness         | (+1) to the level of injury<br />received from Silver damage. |          | Fellkin blood                                                                                                                            |
+| Physical Defense Level        | Phy. Def. 1.66                                                |          | Carapace                                                                                                                                 |
+| Medium Size                   | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
+| Language: Babelish            | Can speak Babelish.                                           |          |                                                                                                                                          |
+| Language: Kikishi             | Can speak Kikishi                                             |          |                                                                                                                                          |
+| Disabling: Incapable of Lying |                                                               |          | As a worker of his kind, he can't lie to royal kiki. (He knows that royals can easily compell him to tell the truth anyway.)             |
+| Disabling: Anaphia            |                                                               |          | Unable to make touch based perception checks. (He's a blacksmith, his hands are extremely callous due to hard work.)                     |
+| Inventory Weight              | 47.06 LB                                                      |          | Equipment                                                                                                                                |
+| Humanoid Carry Weight         | 160 lb                                                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+| Light Weight                  | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
+| Humanoid Movement Speed       | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
+| Humanoid Swim Speed           | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
+| Humanoid Climb Speed          | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
 
 
@@ -64,7 +64,8 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Hand Protection Unarmed           | 5d6<br />(+0d6) | 5d6<br />(+0d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
 | Disarming Unarmed                 | 8d6<br />(+3d6) | 8d6<br />(+3d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
 | Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) | (None)            | 0           | Melee | Bludgeon          | Rapid                     | None                | None                |
-| Large Hafted Blunt                | 5d6<br />(-1d6) | 7d6<br />(+1d6) | (None)            | 5           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Medium Hafted Blunt               | 5d6<br />(-1d6) | 7d6<br />(+1d6) | (None)            | 5           | Melee | Bludgeon          | Rapid                     | None                | None                |
+| Medium Hafted Point               | 5d6<br />(-1d6) | 7d6<br />(+1d6) | (None)            | 5           | Melee | Bludgeon          | Rapid                     | None                | None                |
 | Small Thrusting Point             | 5d6<br />(+0d6) | 5d6<br />(+0d6) | +1d6              | 2           | Melee | Pierce            | Rapid                     | None                | None                |
 | Small Slashing Blade              | 6d6<br />(+1d6) | 6d6<br />(+1d6) | +1d6              | 0           | Melee | Slash             | Rapid                     | None                | None                |
 
@@ -119,20 +120,20 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Equipment (UNFINISHED)
 
-| Name                           |  #  | Class                                         | Tier        | Durability | LB  | Value  | Note                                                                                                                                                                                           |
-| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :-: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons | 1   | Natural Armor                                 | Quality     | 15/15      | 6   | 0 bc   | Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                             |
-| Carapace Cuisses and Greaves   | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                               |
-| Carapace Vambrace              | 1   | Natural Armor                                 | Quality     | 15/15      | 2   | 0 bc   | Equivalent of leather vambrace (Phy.Def. 0.5)                                                                                                                                          |
-| Clothes, Traveler's            | 1   | Misc                                          | Mundane     | 12/12      | 4   | 2 bc   | Simple Gown                                                                                                                                                                                    |
-| Cloak, Canvas                  | 1   | Misc                                          | Mundane     | 12/12      | 5   | 0.7 bc | Simple Warm Ruana Cloak                                                                                                                                                                        |
-| Boots                          | 1   | Misc                                          | Mundane     | 12/12      | 1   | 4 bc   |                                                                                                                                                                                                |
-| Pouch (1/5 ft^3)               | 1   | Misc                                          | Mundane     | 12/12      | 1   | 0.5 bc |                                                                                                                                                                                                |
-| Satchel (2/5 ft^3)             | 1   | Misc                                          | Mundane     | 12/12      | 2   | 1 bc   |                                                                                                                                                                                                |
-| Waterskin (4/4)                | 1   | Misc                                          | Mundane     | 12/12      | 5   | 20 bc  |                                                                                                                                                                                                |
-| Royal Kiki Quarterstaff        | 1   | Medium Hafter Blunt                           | Mastercraft | 33/33      | 4   | ?? bc  | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
-| Dagger                         | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1   | 2 bc   | Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                                                                             |
-|                                | 0   |                                               | Mundane     | 12/12      | 0   | 0 bc   |                                                                                                                                                                                                |
+| Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                                                                                                                                           |
+| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons | 1   | Natural Armor                                 | Quality     | 15/15      | 6    | 0 bc   | Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                                                                                                     |
+| Carapace Cuisses and Greaves   | 1   | Natural Armor                                 | Quality     | 15/15      | 2    | 0 bc   | Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                                                                                       |
+| Carapace Vambrace              | 1   | Natural Armor                                 | Quality     | 15/15      | 2    | 0 bc   | Equivalent of leather vambrace (Phy.Def. 0.5)                                                                                                                                                  |
+| Clothes, Traveler's            | 1   | Misc                                          | Mundane     | 12/12      | 4    | 2 bc   |                                                                                                                                                                                                |
+| Cloak, Canvas                  | 1   | Misc                                          | Mundane     | 12/12      | 5    | 0.7 bc | Simple Warm Ruana Cloak                                                                                                                                                                        |
+| Boots                          | 1   | Misc                                          | Mundane     | 12/12      | 1    | 4 bc   |                                                                                                                                                                                                |
+| Pouch (1/5 ft^3)               | 1   | Misc                                          | Mundane     | 12/12      | 1    | 0.5 bc |                                                                                                                                                                                                |
+| Satchel (2/5 ft^3)             | 1   | Misc                                          | Mundane     | 12/12      | 2    | 1 bc   |                                                                                                                                                                                                |
+| Waterskin (4/4)                | 1   | Misc                                          | Mundane     | 12/12      | 5    | 20 bc  |                                                                                                                                                                                                |
+| Warhammer                      | 1   | Medium Hafted Blunt<br />Medium Hafted Point  | Mundane     | 12/12      | 4    | 9 bc   | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool.         |
+| Dagger                         | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1    | 2 bc   | Just a normal dagger for survival.                                                                                                                                                             |
+| Coin Purse                     | 1   | Misc                                          | Mundane     | 12/12      | 0.06 | 1 bc   |                                                                                                                                                                                                |
 
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
@@ -151,18 +152,15 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 ### Pouch (1/5 ft^3) - Max 6 LB
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
-| Silver dagger (Stolen, Hidden) | 1   | Small Thrusting Point<br />Thrown Small Point | Mundane     | 12/12      | 1    | ? bc   | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
-| Perfume (vial)                 | 1   | Misc                                          | Mundane     | 12/12      | 0.1  | 5 bc   |                                                                             |
-| Mirror, Steel                  | 1   | Misc                                          | Mundane     | 12/12      | 0.5  | 5 bc   |                                                                             |
-| Coin Purse                     | 1   | Misc                                          | Mundane     | 12/12      | 0.06 | 1 bc   |                                                                             |
-| Rations (1 day)                | 1   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
+| Rations (1 day)                | 3   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
 |                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
 
 ### Satchel (2/5 ft^3) - Max 12 LB
-| Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
-| :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
-| Rations (1 day)                | 3   | Misc                                          | Mundane     | 12/12      | 2    | 0.5 bc |                                                                             |
-|                                | 0   |                                               | Mundane     | 12/12      | 0    | 0 bc   |                                                                             |
+
+|      Name     |  #  | Class |  Tier   | Durability | LB  | Value  | Note |
+| :-----------: | :-: | :---: | :-----: | :--------: | :-: | :----: | :--: |
+| Smith's Tools |  1  |       | Mundane |   12/12    |  8  | 20 bc  |      |
+|               |  0  |       | Mundane |   12/12    |  0  |  0 bc  |      |
 
 
 
@@ -189,7 +187,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Backstory
 
-A silversmith was captured on his hive's territory, and brought to the queen. The queen didn't found him guilty in anything but trasspassing, so she released him with fresh suppliy of food and water provided that he trains one of the hive's blacksmith in silversmithing. Huniki was one of the hive's qurious blackshmiths brave enough to work with silver, and volunteered for this task. He learnt the basics of silversmithing from the captured silversmith, and the silversmith sent him out with his written recomendation to find an Order of Silver representative and acquire his own silver plating equipment. Huniki went out with the queen's permission and support.
+A silversmith was captured on his hive's territory, and brought to the queen. The queen didn't found him guilty in anything but trasspassing, so she released him with fresh suppliy of food and water provided that he trains one of the hive's blacksmith in silversmithing. Huniki was one of the hive's qurious blackshmiths brave enough to work with silver, and volunteered for this task. He learnt the basics of silversmithing from the captured silversmith, and the silversmith sent him out with his written recomendation to find an Order of Silver representative called Burrowbard Stoneseeker and acquire his own silver plating equipment. Huniki went out with the queen's permission and support.
 
 
 
