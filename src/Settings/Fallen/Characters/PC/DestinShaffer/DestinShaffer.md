@@ -22,13 +22,13 @@
 
 |          Name           |                            Effect                             | Duration |                        Source                         |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|  Minor Silver Weakness  |   (+1) to the level of injury received from Silver damage.    |          |                     Fellkin blood                     |
+|  Minor Silver Weakness  |   +1 to the level of injury received from Silver damage.    |          |                     Fellkin blood                     |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                        Genetic                        |
 |   Language: Babelish    |                      Can speak Babelish.                      |          |                                                       |
 |  Disabling: Addiction   | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                       |
 | Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                     Daddy Issues                      |
 |    Inventory Weight     |                           23.45 lb                            |          |                       Equipment                       |
-|  Minor Silver Weakness  |   (+1) to the level of injury received from Silver damage.    |          |                        Fellkin                        |
+|  Minor Silver Weakness  |   +1 to the level of injury received from Silver damage.    |          |                        Fellkin                        |
 |  Humanoid Carry Weight  |                            260 lb                             |          |  120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift  |
 |      Light Weight       |                -0d6 to STR/RFX governed skills                |          |               0% - 25% of carry weight                |
 | Humanoid Movement Speed |                             40 ft                             |          | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
