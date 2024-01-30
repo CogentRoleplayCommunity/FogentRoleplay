@@ -62,7 +62,7 @@ Minor Hew Resistance,-1 to victory levels received from Hew damage.,While equipp
 Medium Hew Resistance,-2 to victory levels received from Hew damage.,While equipped,5
 Major Hew Resistance,-3 to victory levels received from Hew damage.,While equipped,7
 Extreme Hew Resistance,-4 to victory levels received from Hew damage.,While equipped,9
-Complete Hew Resistance,-5 to victory levels received from Hew damage.,While equipped,11
+Complete Hew Resistance,Negate victory levels received from  Hew damage.,While equipped,11
 Minor Slash Weakness,(+1) to the level of injury received from Slash damage.,While equipped,3
 Medium Slash Weakness,(+2) to the level of injury received from Slash damage.,While equipped,5
 Major Slash Weakness,(+3) to the level of injury received from Slash damage.,While equipped,7
@@ -72,7 +72,7 @@ Minor Slash Resistance,-1 to victory levels received from Slash damage.,While eq
 Medium Slash Resistance,-2 to victory levels received from Slash damage.,While equipped,5
 Major Slash Resistance,-3 to victory levels received from Slash damage.,While equipped,7
 Extreme Slash Resistance,-4 to victory levels received from Slash damage.,While equipped,9
-Complete Slash Resistance,-5 to victory levels received from Slash damage.,While equipped,11
+Complete Slash Resistance,Negate victory levels received from  Slash damage.,While equipped,11
 Minor Pierce Weakness,(+1) to the level of injury received from Pierce damage.,While equipped,3
 Medium Pierce Weakness,(+2) to the level of injury received from Pierce damage.,While equipped,5
 Major Pierce Weakness,(+3) to the level of injury received from Pierce damage.,While equipped,7
@@ -82,7 +82,7 @@ Minor Pierce Resistance,-1 to victory levels received from Pierce damage.,While 
 Medium Pierce Resistance,-2 to victory levels received from Pierce damage.,While equipped,5
 Major Pierce Resistance,-3 to victory levels received from Pierce damage.,While equipped,7
 Extreme Pierce Resistance,-4 to victory levels received from Pierce damage.,While equipped,9
-Complete Pierce Resistance,-5 to victory levels received from Pierce damage.,While equipped,11
+Complete Pierce Resistance,Negate victory levels received from  Pierce damage.,While equipped,11
 Minor Bludgeon Weakness,(+1) to the level of injury received from Bludgeon damage.,While equipped,3
 Medium Bludgeon Weakness,(+2) to the level of injury received from Bludgeon damage.,While equipped,5
 Major Bludgeon Weakness,(+3) to the level of injury received from Bludgeon damage.,While equipped,7
@@ -92,7 +92,7 @@ Minor Bludgeon Resistance,-1 to victory levels received from Bludgeon damage.,Wh
 Medium Bludgeon Resistance,-2 to victory levels received from Bludgeon damage.,While equipped,5
 Major Bludgeon Resistance,-3 to victory levels received from Bludgeon damage.,While equipped,7
 Extreme Bludgeon Resistance,-4 to victory levels received from Bludgeon damage.,While equipped,9
-Complete Bludgeon Resistance,-5 to victory levels received from Bludgeon damage.,While equipped,11
+Complete Bludgeon Resistance,Negate victory levels received from  Bludgeon damage.,While equipped,11
 Minor Shockwave Weakness,(+1) to the level of injury received from Shockwave damage.,While equipped,3
 Medium Shockwave Weakness,(+2) to the level of injury received from Shockwave damage.,While equipped,5
 Major Shockwave Weakness,(+3) to the level of injury received from Shockwave damage.,While equipped,7
@@ -102,7 +102,7 @@ Minor Shockwave Resistance,-1 to victory levels received from Shockwave damage.,
 Medium Shockwave Resistance,-2 to victory levels received from Shockwave damage.,While equipped,5
 Major Shockwave Resistance,-3 to victory levels received from Shockwave damage.,While equipped,7
 Extreme Shockwave Resistance,-4 to victory levels received from Shockwave damage.,While equipped,9
-Complete Shockwave Resistance,-5 to victory levels received from Shockwave damage.,While equipped,11
+Complete Shockwave Resistance,Negate victory levels received from  Shockwave damage.,While equipped,11
 Minor Fire Weakness,(+1) to the level of injury received from Fire damage.,While equipped,3
 Medium Fire Weakness,(+2) to the level of injury received from Fire damage.,While equipped,5
 Major Fire Weakness,(+3) to the level of injury received from Fire damage.,While equipped,7
@@ -112,7 +112,7 @@ Minor Fire Resistance,-1 to victory levels received from Fire damage.,While equi
 Medium Fire Resistance,-2 to victory levels received from Fire damage.,While equipped,5
 Major Fire Resistance,-3 to victory levels received from Fire damage.,While equipped,7
 Extreme Fire Resistance,-4 to victory levels received from Fire damage.,While equipped,9
-Complete Fire Resistance,-5 to victory levels received from Fire damage.,While equipped,11
+Complete Fire Resistance,Negate victory levels received from  Fire damage.,While equipped,11
 Minor Water Weakness,(+1) to the level of injury received from Water damage.,While equipped,3
 Medium Water Weakness,(+2) to the level of injury received from Water damage.,While equipped,5
 Major Water Weakness,(+3) to the level of injury received from Water damage.,While equipped,7
@@ -122,7 +122,7 @@ Minor Water Resistance,-1 to victory levels received from Water damage.,While eq
 Medium Water Resistance,-2 to victory levels received from Water damage.,While equipped,5
 Major Water Resistance,-3 to victory levels received from Water damage.,While equipped,7
 Extreme Water Resistance,-4 to victory levels received from Water damage.,While equipped,9
-Complete Water Resistance,-5 to victory levels received from Water damage.,While equipped,11
+Complete Water Resistance,Negate victory levels received from  Water damage.,While equipped,11
 Minor Electric Weakness,(+1) to the level of injury received from Electric damage.,While equipped,3
 Medium Electric Weakness,(+2) to the level of injury received from Electric damage.,While equipped,5
 Major Electric Weakness,(+3) to the level of injury received from Electric damage.,While equipped,7
@@ -132,7 +132,7 @@ Minor Electric Resistance,-1 to victory levels received from Electric damage.,Wh
 Medium Electric Resistance,-2 to victory levels received from Electric damage.,While equipped,5
 Major Electric Resistance,-3 to victory levels received from Electric damage.,While equipped,7
 Extreme Electric Resistance,-4 to victory levels received from Electric damage.,While equipped,9
-Complete Electric Resistance,-5 to victory levels received from Electric damage.,While equipped,11
+Complete Electric Resistance,Negate victory levels received from  Electric damage.,While equipped,11
 Minor Cold Weakness,(+1) to the level of injury received from Cold damage.,While equipped,3
 Medium Cold Weakness,(+2) to the level of injury received from Cold damage.,While equipped,5
 Major Cold Weakness,(+3) to the level of injury received from Cold damage.,While equipped,7
@@ -142,7 +142,7 @@ Minor Cold Resistance,-1 to victory levels received from Cold damage.,While equi
 Medium Cold Resistance,-2 to victory levels received from Cold damage.,While equipped,5
 Major Cold Resistance,-3 to victory levels received from Cold damage.,While equipped,7
 Extreme Cold Resistance,-4 to victory levels received from Cold damage.,While equipped,9
-Complete Cold Resistance,-5 to victory levels received from Cold damage.,While equipped,11
+Complete Cold Resistance,Negate victory levels received from  Cold damage.,While equipped,11
 Minor Radiant Weakness,(+1) to the level of injury received from Radiant damage.,While equipped,3
 Medium Radiant Weakness,(+2) to the level of injury received from Radiant damage.,While equipped,5
 Major Radiant Weakness,(+3) to the level of injury received from Radiant damage.,While equipped,7
@@ -152,7 +152,7 @@ Minor Radiant Resistance,-1 to victory levels received from Radiant damage.,Whil
 Medium Radiant Resistance,-2 to victory levels received from Radiant damage.,While equipped,5
 Major Radiant Resistance,-3 to victory levels received from Radiant damage.,While equipped,7
 Extreme Radiant Resistance,-4 to victory levels received from Radiant damage.,While equipped,9
-Complete Radiant Resistance,-5 to victory levels received from Radiant damage.,While equipped,11
+Complete Radiant Resistance,Negate victory levels received from  Radiant damage.,While equipped,11
 Minor Silver Weakness,(+1) to the level of injury received from Silver damage.,While equipped,3
 Medium Silver Weakness,(+2) to the level of injury received from Silver damage.,While equipped,5
 Major Silver Weakness,(+3) to the level of injury received from Silver damage.,While equipped,7
@@ -162,7 +162,7 @@ Minor Silver Resistance,-1 to victory levels received from Silver damage.,While 
 Medium Silver Resistance,-2 to victory levels received from Silver damage.,While equipped,5
 Major Silver Resistance,-3 to victory levels received from Silver damage.,While equipped,7
 Extreme Silver Resistance,-4 to victory levels received from Silver damage.,While equipped,9
-Complete Silver Resistance,-5 to victory levels received from Silver damage.,While equipped,11
+Complete Silver Resistance,Negate victory levels received from  Silver damage.,While equipped,11
 Minor Poison Weakness,(+1) to the level of injury received from Poison damage.,While equipped,3
 Medium Poison Weakness,(+2) to the level of injury received from Poison damage.,While equipped,5
 Major Poison Weakness,(+3) to the level of injury received from Poison damage.,While equipped,7
@@ -172,7 +172,7 @@ Minor Poison Resistance,-1 to victory levels received from Poison damage.,While 
 Medium Poison Resistance,-2 to victory levels received from Poison damage.,While equipped,5
 Major Poison Resistance,-3 to victory levels received from Poison damage.,While equipped,7
 Extreme Poison Resistance,-4 to victory levels received from Poison damage.,While equipped,9
-Complete Poison Resistance,-5 to victory levels received from Poison damage.,While equipped,11
+Complete Poison Resistance,Negate victory levels received from  Poison damage.,While equipped,11
 Minor Necrotic Weakness,(+1) to the level of injury received from Necrotic damage.,While equipped,3
 Medium Necrotic Weakness,(+2) to the level of injury received from Necrotic damage.,While equipped,5
 Major Necrotic Weakness,(+3) to the level of injury received from Necrotic damage.,While equipped,7
@@ -182,7 +182,7 @@ Minor Necrotic Resistance,-1 to victory levels received from Necrotic damage.,Wh
 Medium Necrotic Resistance,-2 to victory levels received from Necrotic damage.,While equipped,5
 Major Necrotic Resistance,-3 to victory levels received from Necrotic damage.,While equipped,7
 Extreme Necrotic Resistance,-4 to victory levels received from Necrotic damage.,While equipped,9
-Complete Necrotic Resistance,-5 to victory levels received from Necrotic damage.,While equipped,11
+Complete Necrotic Resistance,Negate victory levels received from  Necrotic damage.,While equipped,11
 Minor Bleed Weakness,(+1) to the level of injury received from Bleed damage.,While equipped,3
 Medium Bleed Weakness,(+2) to the level of injury received from Bleed damage.,While equipped,5
 Major Bleed Weakness,(+3) to the level of injury received from Bleed damage.,While equipped,7
@@ -192,7 +192,7 @@ Minor Bleed Resistance,-1 to victory levels received from Bleed damage.,While eq
 Medium Bleed Resistance,-2 to victory levels received from Bleed damage.,While equipped,5
 Major Bleed Resistance,-3 to victory levels received from Bleed damage.,While equipped,7
 Extreme Bleed Resistance,-4 to victory levels received from Bleed damage.,While equipped,9
-Complete Bleed Resistance,-5 to victory levels received from Bleed damage.,While equipped,11
+Complete Bleed Resistance,Negate victory levels received from  Bleed damage.,While equipped,11
 Minor Psychic Weakness,(+1) to the level of injury received from Psychic damage.,While equipped,3
 Medium Psychic Weakness,(+2) to the level of injury received from Psychic damage.,While equipped,5
 Major Psychic Weakness,(+3) to the level of injury received from Psychic damage.,While equipped,7
@@ -202,7 +202,7 @@ Minor Psychic Resistance,-1 to victory levels received from Psychic damage.,Whil
 Medium Psychic Resistance,-2 to victory levels received from Psychic damage.,While equipped,5
 Major Psychic Resistance,-3 to victory levels received from Psychic damage.,While equipped,7
 Extreme Psychic Resistance,-4 to victory levels received from Psychic damage.,While equipped,9
-Complete Psychic Resistance,-5 to victory levels received from Psychic damage.,While equipped,11
+Complete Psychic Resistance,Negate victory levels received from  Psychic damage.,While equipped,11
 Minor Spiritual Weakness,(+1) to the level of injury received from Spiritual damage.,While equipped,3
 Medium Spiritual Weakness,(+2) to the level of injury received from Spiritual damage.,While equipped,5
 Major Spiritual Weakness,(+3) to the level of injury received from Spiritual damage.,While equipped,7
@@ -212,4 +212,4 @@ Minor Spiritual Resistance,-1 to victory levels received from Spiritual damage.,
 Medium Spiritual Resistance,-2 to victory levels received from Spiritual damage.,While equipped,5
 Major Spiritual Resistance,-3 to victory levels received from Spiritual damage.,While equipped,7
 Extreme Spiritual Resistance,-4 to victory levels received from Spiritual damage.,While equipped,9
-Complete Spiritual Resistance,-5 to victory levels received from Spiritual damage.,While equipped,11
+Complete Spiritual Resistance,Negate victory levels received from  Spiritual damage.,While equipped,11
