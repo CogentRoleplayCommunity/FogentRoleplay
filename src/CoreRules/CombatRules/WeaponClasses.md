@@ -194,3 +194,24 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
 | Whip |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+
+## Ballistics
+
+### Firearms
+
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+|       9mm Pistol       |      +2d6      |      +2d6      |       +1d6       |      0      |    Medium    |                  |           Quick           |        None        |      9mm Ammo      | {STR,RFX,INT}             |
+|       5.56 Rifle       |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |                  |           Quick           |        None        |      5.56 Ammo      | {STR,RFX,INT}             |
+| Bolt Action .308 Rifle |      +1d6      |      +4d6      |       None       |      0      |   Extreme   |                  |         Standard         |        None        |      .308 Ammo      | {STR,RFX,INT}             |
+|      RPG Launcher      |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |          Loading          |        None        |      RPG Ammo      | {STR,RFX,INT}             |
+|    5.56 Machine Gun    |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |           Rapid           |        None        |      5.56 Ammo      | {STR,RFX,INT}             |
+
+### Ammunition
+
+|  Description  | Resource Class | Resource Dice | Penetration | Range Adjustment |     Damage     |     AOE     |
+| :-----------: | :------------: | :-----------: | :---------: | :--------------: | :-------------: | :---------: |
+| 9mm FMJ Ammo |    9mm Ammo    |     +1d6     |      4      |       None       |     Pierce     |    None    |
+| 5.56 FMJ Ammo |   5.56 Ammo   |     +1d6     |      6      |       None       |     Pierce     |    None    |
+| .308 FMJ Ammo |   .308 Ammo   |     +1d6     |      8      |       None       |     Pierce     |    None    |
+|   RPG Ammo   |    RPG Ammo    |     +1d6     |     10     |       None       | Fire, Shockwave | 30ft Sphere |

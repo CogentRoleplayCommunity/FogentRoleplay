@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Ranger {STR}    |   2   |  6d6  | Fellcaster {ALL} | 0   | 4d6 |
+| Ranger {STR}    |   2   |  6d6  | Fellcaster {STR, RFX, INT} | 0   | 4d6 |
 | --------------- | :---: | :---: | ------------- | --- | --- |
-| Heavy Bow {ALL} |   2   |  6d6  | Hemacraft     | -1  | 3d6 |
+| Heavy Bow {STR, RFX, INT} |   2   |  6d6  | Hemacraft     | -1  | 3d6 |
 
 ## Effects
 

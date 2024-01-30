@@ -13,15 +13,15 @@
 
 ## Vocations and Vocational Skills
 
-| Warrior {ALL}     |   2   |  6d6  | Fellcaster {ALL}   | 2   | 6d6 |
+| Warrior {STR, RFX, INT}     |   2   |  6d6  | Fellcaster {STR, RFX, INT}   | 2   | 6d6 |
 | ----------------- | :---: | :---: | --------------- | --- | --- |
-| Large Sword {ALL} |   2   |  6d6  | Polycraft {ALL} | 2   | 6d6 |
+| Large Sword {STR, RFX, INT} |   2   |  6d6  | Polycraft {STR, RFX, INT} | 2   | 6d6 |
 
 ## Effects:
 
 |             Name             |                                                                           Effect                                                                           | Duration |                                                                  Source                                                                  |
 | :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|    Minor Silver Weakness     |                                                  (+1) to the level of injury received from Silver damage.                                                  |          |                                                              Fellkin blood                                                               |
+|    Minor Silver Weakness     |                                                  +1 to the level of injury received from Silver damage.                                                  |          |                                                              Fellkin blood                                                               |
 |    Physical Defense Level    |                                                                            3.85                                                                            |          |                                                                  Armor                                                                   |
 |         Medium Size          |                                                                   5x5 ft on battle map.                                                                    |          |                                                                                                                                          |
 |      Language: Babelish      |                                                                    Can speak Babelish.                                                                     |          |                                                                                                                                          |

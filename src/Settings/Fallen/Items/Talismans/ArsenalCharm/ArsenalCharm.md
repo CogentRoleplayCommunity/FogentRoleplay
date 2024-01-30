@@ -20,4 +20,4 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
-| Minor Enhanced Lift | +1d6 to Lift. | Indefinite | 2 |
+| Minorly Enhanced Lift | +1d6 to Lift. | Indefinite | 2 |

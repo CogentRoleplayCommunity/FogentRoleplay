@@ -15,8 +15,8 @@
 
 | Beast {STR, RFX} |   1   |  5d6  |
 | ---------------- | :---: | :---: |
-| Small Bite {ALL} |   0   |  3d6  |
-| Horn {ALL}       |   1   |  4d6  |
+| Small Bite {STR, RFX, INT} |   0   |  3d6  |
+| Horn {STR, RFX, INT}       |   1   |  4d6  |
 
 ## Effects
 

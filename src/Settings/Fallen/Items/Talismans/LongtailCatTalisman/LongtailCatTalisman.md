@@ -16,4 +16,4 @@ A brooch depicting a long-tailed cat.
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
-| Minor Enhanced Acrobatics | +1d6 to Acrobatics. | Indefinite | 2 |
+| Minorly Enhanced Acrobatics | +1d6 to Acrobatics. | Indefinite | 2 |

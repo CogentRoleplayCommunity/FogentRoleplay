@@ -10,10 +10,10 @@ A medallion with viridian inlaid.
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Viridian Medallion Talisman    | 1 |  | Minor Enhanced Lift        | Excellent | 21/21 | 0.2 | ? |
+| Viridian Medallion Talisman    | 1 |  | Minorly Enhanced Lift        | Excellent | 21/21 | 0.2 | ? |
 
 ## Effects
 
 | Name | Effect | Duration | Tier Required |
 | :--- | :----: | :------: | :-----------: |
-| Minor Enhanced Endurance   | +1d6 to Endurance. | Indefinite | 2 |
+| Minorly Enhanced Endurance   | +1d6 to Endurance. | Indefinite | 2 |

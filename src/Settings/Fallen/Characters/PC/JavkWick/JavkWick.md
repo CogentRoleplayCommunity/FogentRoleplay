@@ -15,8 +15,8 @@
 
 | Rogue {RFX, INT}     | 3 | 7d6 |
 | -------------------- | - | --- |
-| Medium Sword {ALL}   | 3 | 8d6 |
-| Light Crossbow {ALL} | 2 | 7d6 |
+| Medium Sword {STR, RFX, INT}   | 3 | 8d6 |
+| Light Crossbow {STR, RFX, INT} | 2 | 7d6 |
 
 ## Info:
 

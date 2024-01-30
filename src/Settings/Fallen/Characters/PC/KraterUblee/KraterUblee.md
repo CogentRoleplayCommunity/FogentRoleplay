@@ -15,9 +15,9 @@ Unspent Skill Points: 0
 
 ## Vocations and Vocational Skills
 
-| Woodsman {STR, RFX, INT} |   1   |  5d6  | Fellcaster {ALL}  | 0   | 4d6 |
+| Woodsman {STR, RFX, INT} |   1   |  5d6  | Fellcaster {STR, RFX, INT}  | 0   | 4d6 |
 | ------------------------ | :---: | :---: | ----------------- | --- | --- |
-| Large Hafted {ALL}       |   1   |  5d6  | Naturecraft {ALL} | -1  | 3d6 |
+| Large Hafted {STR, RFX, INT}       |   1   |  5d6  | Naturecraft {STR, RFX, INT} | -1  | 3d6 |
 
 ## Effects
 

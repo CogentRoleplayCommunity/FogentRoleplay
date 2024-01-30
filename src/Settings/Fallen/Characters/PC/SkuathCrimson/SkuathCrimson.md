@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        | 1 | 5d6 | Fellcaster {ALL} | 0  | 4d6 |
+| Guard {RFX}        | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Short Spear {ALL} | 1 | 5d6 | Galecraft {ALL}  | -1 | 3d6 |
+| Short Spear {STR, RFX, INT} | 1 | 5d6 | Galecraft {STR, RFX, INT}  | -1 | 3d6 |
 
 ## Effects
 

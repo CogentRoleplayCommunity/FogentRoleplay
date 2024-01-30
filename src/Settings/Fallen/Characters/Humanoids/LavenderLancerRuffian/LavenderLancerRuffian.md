@@ -15,7 +15,7 @@
 
 | Bandit {RFX}      | 1 | 5d6 |
 | ----------------- | :-: | :-: |
-| Small Blade {ALL} | 1 | 4d6 |
+| Small Blade {STR, RFX, INT} | 1 | 4d6 |
 
 ## Effects:
 

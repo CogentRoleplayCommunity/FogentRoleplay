@@ -14,5 +14,5 @@
 
 |                         Effect                         |    Duration    | Tier Required |
 | :----------------------------------------------------: | :------------: | :-----------: |
-| (+2) to the level of injury received from Cold damage. | While equipped |       5       |
+| +2 to the level of injury received from Cold damage. | While equipped |       5       |
 | Medium Cold Resistance | -2 to victory levels received from Cold damage. | While equipped | 5 |

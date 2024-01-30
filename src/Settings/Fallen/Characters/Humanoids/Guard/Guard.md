@@ -15,7 +15,7 @@
 
 | Guard {RFX}        | 1 | 4d6 |
 | ------------------ | :-: | :-: |
-| Short Spear {ALL} | 1 | 4d6 |
+| Short Spear {STR, RFX, INT} | 1 | 4d6 |
 
 ## Effects
 
