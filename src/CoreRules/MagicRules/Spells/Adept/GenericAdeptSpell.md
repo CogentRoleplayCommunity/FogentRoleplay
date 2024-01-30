@@ -15,6 +15,8 @@ Melee attacks from this spell are considered reach melee weapons.
 | Magic Reach Smash |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
 | Magic Reach Spear |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
 | Magic Heavy Arrow |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
+|   Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |          Focused          | Sphere Calculation |  3 Magic Resource  |
+
 
 ## Info
 
