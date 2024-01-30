@@ -37,7 +37,7 @@
 |   Minor Silver Weakness   |  (+1) to the level of injury received from Silver damage.  |          |                                                       Innate                                                       |
 |   Minor Slash Resistance   |      -1 to victory levels received from Slash damage.      |          |                                                       Innate                                                       |
 |  Major Pierce Resistance  |      -3 to victory levels received from Pierce damage.      |          |                                                       Innate                                                       |
-| Complete Poison Resistance |      -5 to victory levels received from Poison damage.      |          |                                                       Innate                                                       |
+| Complete Poison Resistance |      Negate victory levels received from  Poison damage.      |          |                                                       Innate                                                       |
 
 ## Combat Rolls:
 
