@@ -15,4 +15,4 @@ Poison Needles,Blowgun Dart,+1d6,0,None,Poison,None
 9mm FMJ Ammo,9mm Ammo,+1d6,4,None,Pierce,None
 5.56 FMJ Ammo,5.56 Ammo,+1d6,6,None,Pierce,None
 .308 FMJ Ammo,.308 Ammo,+1d6,8,None,Pierce,None
-RPG Ammo,RPG Ammo,+1d6,10,None,"Fire, Shockwave",None
+RPG Ammo,RPG Ammo,+1d6,10,None,"Fire, Shockwave",30ft Sphere
