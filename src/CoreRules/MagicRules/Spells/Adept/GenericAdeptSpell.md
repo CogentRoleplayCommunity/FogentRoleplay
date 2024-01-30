@@ -10,11 +10,11 @@ Melee attacks from this spell are considered reach melee weapons.
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Reach Magic Slash |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| Reach Magic Thrust |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| Reach Magic Smash |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| Reach Magic Spear |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
-| Heavy Magic Arrow |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
+| Magic Reach Slash |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| Magic Reach Thrust |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| Magic Reach Smash |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| Magic Reach Spear |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
+| Magic Heavy Arrow |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
 
 ## Info
 

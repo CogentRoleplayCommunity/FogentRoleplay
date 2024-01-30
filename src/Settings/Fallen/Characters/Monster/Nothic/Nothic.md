@@ -64,7 +64,7 @@
 
 |                                           Name                                           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Heavy Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
+| [Magic Heavy Arrow](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
 
 ## Fellblood: 10/10
 

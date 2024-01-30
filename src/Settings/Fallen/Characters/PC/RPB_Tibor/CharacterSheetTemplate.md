@@ -100,11 +100,11 @@
 
 |                                            Name                                            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-----------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| _[Reach Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| _[Reach Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| _[Reach Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| _[Reach Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
-| _[Heavy Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
+| _[Magic Reach Slash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| _[Magic Reach Thrust](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| _[Magic Reach Smash](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
+| _[Magic Reach Spear](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
+| _[Magic Heavy Arrow](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md) |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
 
 ## Destiny Points: 0/3
 
