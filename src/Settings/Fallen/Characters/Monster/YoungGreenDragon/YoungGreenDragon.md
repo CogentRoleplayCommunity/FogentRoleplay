@@ -13,9 +13,11 @@
 
 ## Vocations and Vocational Skills
 
-| Dragon {STR, RFX, INT}     | 1 | 8d6 |
-| ---------------- | :-: | :-: |
+|   Dragon {STR, RFX, INT}   | 1 | 8d6 |
+| :-------------------------: | :-: | :-: |
 | Toxincraft {STR, RFX, INT} | 1 | 8d6 |
+| Large Claws {STR, RFX, INT} | 1 | 8d6 |
+| Large Bite {STR, RFX, INT} | 1 | 8d6 |
 
 ## Effects:
 
@@ -25,15 +27,22 @@
 |         Large Size         |                                                    10x10 ft on battle map.                                                    |          |                                                            |
 |     Language: Babelish     |                                                      Can speak Babelish.                                                      |          |                                                            |
 |    Language: Draconic    |                                                     Can speak Draconic.                                                     |          |                                                            |
-|   Physical Defense Level   |                                                               7                                                               |          |                           Armor                           |
+|   Physical Defense Level   |                                                               6                                                               |          |                           Armor                           |
 | Complete Poison Resistance |                                      Negate victory levels received from  Poison damage.                                      |          |                     Draconic bloodline                     |
 |        Dark Vision        | Within 120 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                     Draconic bloodline                     |
-|         Blindsight         |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                                                            |
+|         Blindsight         |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                     Draconic bloodline                     |
 |  4-Legged Movement Speed  |                                                             55 ft                                                             |          | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
 |    4-Legged Swim Speed    |                                                             35 ft                                                             |          |  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)  |
 |        Flight Speed        |                                                             80 ft                                                             |          | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
 
 ## Combat Rolls:
+
+### Weapons
+
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Large Claws |      +2d6      |      None      |       +1d6       |      2      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
+| Large Bite |      +2d6      |      +2d6      |       None       |      4      | Melee | Pierce, Bludgeon |          Focused          |        None        |        None        |
 
 ### Novice Spells
 
@@ -66,7 +75,7 @@
 |    [Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Poison      |        Spear Rapid        |        None        |  2 Magic Resource  |
 |   [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium |      Poison      |         Standard         |        None        |  2 Magic Resource  |
 |  [Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      3      |  Long  |      Poison      |      Complex Loading      |        None        |  2 Magic Resource  |
-| [Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium |      Poison      |          Focused          |  Cone Calculation  |  1 Magic Resource  |
+| [Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium |      Poison      |          Focused          |  Cone Calculation  |  2 Magic Resource  |
 
 ## Fellblood: 10/10
 

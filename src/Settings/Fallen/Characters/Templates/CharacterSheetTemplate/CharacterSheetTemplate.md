@@ -96,7 +96,7 @@
 |    _[Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Spear Rapid        |        None        |  2 Magic Resource  |
 |   _[Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium |                  |         Standard         |        None        |  2 Magic Resource  |
 |  _[Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      3      |  Long  |                  |      Complex Loading      |        None        |  2 Magic Resource  |
-| _[Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium |                  |          Focused          |  Cone Calculation  |  1 Magic Resource  |
+| _[Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium |                  |          Focused          |  Cone Calculation  |  2 Magic Resource  |
 
 ### Adept Spells
 

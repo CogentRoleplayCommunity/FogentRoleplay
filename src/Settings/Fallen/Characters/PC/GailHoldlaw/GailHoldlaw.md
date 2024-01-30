@@ -83,7 +83,7 @@ Earned Skill point: 2
 |    [Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee | Slash, Bludgeon, Shockwave<br />Cold |        Spear Rapid        |        None        |  2 Magic Resource  |
 |   [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  2 Magic Resource  |
 |  [Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      3      |  Long  | Slash, Bludgeon, Shockwave<br />Cold |      Complex Loading      |        None        |  2 Magic Resource  |
-| [Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium | Slash, Bludgeon, Shockwave<br />Cold |          Focused          |  Cone Calculation  |  1 Magic Resource  |
+| [Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium | Slash, Bludgeon, Shockwave<br />Cold |          Focused          |  Cone Calculation  |  2 Magic Resource  |
 
 ## Destiny Points: 2/3
 
