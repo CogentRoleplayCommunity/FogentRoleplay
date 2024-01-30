@@ -30,7 +30,7 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 ## Off Guard (Disadvantage)
 
-Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE exhausting thier Engageable Opponents, picking a lock, dashing away, being distracted, etc.
+Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE exhausting their Engageable Opponents, picking a lock, dashing away, being distracted, etc.
 
 ## Sneak Attack (CL in lieu of defense roll)
 
