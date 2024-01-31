@@ -21,7 +21,7 @@ Shortsword,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,
 Handaxe,1,"Small Hafted Axe, Thrown Small Axe",,Mundane,12/12,2,5 bc,
 Shoddy Sickle,1,Small Hafted Blade,,Shoddy,9/9,2,3 bc,
 Sickle,1,Small Hafted Blade,,Mundane,12/12,2,5 bc,
-Light Hammer,1,Small Hafted Blunt,,Mundane,12/12,2,1 bc,
+Light Hammer,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,2,1 bc,
 Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Mundane,12/12,2,10 bc,
 Rapier,1,"Medium Thrusting Sword, Medium Slashing Sword",,Quality,15/15,2,25 bc,
 Scimitar,1,"Medium Thrusting Sword, Medium Slashing Sword",,Quality,15/15,2,25 bc,
@@ -50,8 +50,8 @@ Long Spear,1,Longspear,,Mundane,12/12,5,2 bc,
 Pike,1,Longspear,,Mundane,12/12,5,5 bc,
 Man Catcher,1,Man Catcher,,Mundane,12/12,8,5 bc,
 Swordbreaker,1,"Small Slashing Blade, Thrown Small Blade",Swordbreaker Blade Catch,Mundane,12/12,1,25 bc,
-Crowbar,1,Small Hafted Blunt,,Mundane,12/12,5,2 bc,
-Hammer,1,Small Hafted Blunt,,Mundane,12/12,3,1 bc,
+Crowbar,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,5,2 bc,
+Hammer,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,3,1 bc,
 "Hammer, Sledge",1,Large Hafted Blunt,,Mundane,12/12,10,2 bc,
 "Pick, Miner's",1,Large Hafted Point,,Mundane,12/12,10,2 bc,
 Light Crossbow,1,Light Crossbow,,Mundane,12/12,5,25 bc,
@@ -80,7 +80,7 @@ Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
 Staff of Defense,1,"Large Hafted Blunt, Magic Conduit","Defense Spells, Physical Defense 1.00",Superior,24/24,3,?,
-Monkey Staff,1,"Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+Monkey Staff,1,"Small Hafted Blunt, Thrown Small Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
 Hew,1,Medium Hafted Axe,Splinter,Excellent,21/21,4,?,"""When you chop wood, splinters fly.""  - Anonymous
