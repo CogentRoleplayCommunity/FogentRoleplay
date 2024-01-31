@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Brute {STR}        | 2 | 8d6 | Fellcaster {ALL} | 0  | 4d6 |
+| Brute {STR}        | 2 | 8d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Reach Hafted {ALL} | 2 | 7d6 | Polycraft {ALL}  | -1 | 4d6 |
-| Short Spear {ALL}  | 2 | 7d6 |                  |    |     |
+| Reach Hafted {STR, RFX, INT} | 2 | 7d6 | Polycraft {STR, RFX, INT}  | -1 | 4d6 |
+| Short Spear {STR, RFX, INT}  | 2 | 7d6 |                  |    |     |
 
 ## Effects
 

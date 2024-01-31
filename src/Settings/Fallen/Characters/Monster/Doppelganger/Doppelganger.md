@@ -13,11 +13,11 @@
 
 ## Vocations and Vocational Skills
 
-| Monster {ALL}   | 3 | 8d6 |
+| Monster {STR, RFX, INT}   | 3 | 8d6 |
 | --------------- | :-: | :-: |
-| Polycraft {ALL} | 2 | 7d6 |
-| Mindcraft {ALL} |  |    |
-| Unarmed {ALL}   | 3 | 8d6 |
+| Polycraft {STR, RFX, INT} | 2 | 7d6 |
+| Mindcraft {STR, RFX, INT} |  |    |
+| Unarmed {STR, RFX, INT}   | 3 | 8d6 |
 
 ## Effects
 

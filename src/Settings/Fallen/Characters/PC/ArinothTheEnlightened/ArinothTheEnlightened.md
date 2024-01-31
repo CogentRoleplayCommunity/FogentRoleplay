@@ -15,7 +15,7 @@
 
 | Monk {RFX}         | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 3d6 |
 | ------------------- | :-: | :-: | -------------------------- | -- | --- |
-| Large Hafted {ALL} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | -1 | 2d6 |
+| Large Hafted {STR, RFX, INT} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | -1 | 2d6 |
 
 ## Effects
 

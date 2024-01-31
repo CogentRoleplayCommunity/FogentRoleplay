@@ -1,8 +1,14 @@
 # Area Of Effect
 
-
 ## Calculated Area Of Effect
 
+### Calculated Sphere
+
+|    Name    | Radius (ft) |
+| :---------: | :---------: |
+| 30ft Sphere |     30     |
+
+### Calculated Cone
 
 ## Area Of Effect Calculation
 

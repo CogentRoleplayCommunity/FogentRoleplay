@@ -15,8 +15,8 @@
 
 | Zombie {STR}     | 2 | 6d6 |
 | ---------------- | :-: | :-: |
-| Unarmed {ALL}    | 2 | 3d6 |
-| Small Bite {ALL} | 2 | 3d6 |
+| Unarmed {STR, RFX, INT}    | 2 | 3d6 |
+| Small Bite {STR, RFX, INT} | 2 | 3d6 |
 
 ## Effects
 
@@ -26,7 +26,7 @@
 |       Spore Follower       |          Without the presence of a spore evolved, this creature will behave as a brain dead monster. But under direction will follow orders and use weapons.          |          |                                                                                                                    |
 |    Minor Silver Weakness    |                                                     (+1) to the level of injury<br />received from Silver damage.                                                     |          |                                                    Fellkin blood                                                    |
 |  Minor Physical Resistance  |                                                         -1 to victory levels received from physical damage.                                                         |          |                                                                                                                    |
-| Complete Psychic Resistance |                                                          -5 to victory levels received from Psychic damage.                                                          |          |                                                                                                                    |
+| Complete Psychic Resistance |                                                          Negate victory levels received from  Psychic damage.                                                          |          |                                                                                                                    |
 |   Physical Defense Level   |                                                                                   0                                                                                   |          |                                                        Armor                                                        |
 |         Medium Size         |                                                                         5x5 ft on battle map.                                                                         |          |                                                                                                                    |
 |      Inventory Weight      |                                                                                 3 lb                                                                                 |          |                                                      Equipment                                                      |

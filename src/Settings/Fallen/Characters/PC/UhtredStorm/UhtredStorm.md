@@ -15,7 +15,7 @@
 
 | Criminal {RFX}   | 2 | 6d6 |
 | ----------------- | :-: | :-: |
-| Small Blade {ALL} | 1 | 5d6 |
+| Small Blade {STR, RFX, INT} | 1 | 5d6 |
 
 ## Effects:
 

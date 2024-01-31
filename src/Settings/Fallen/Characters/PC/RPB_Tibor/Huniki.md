@@ -24,12 +24,12 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Vocations and Vocational Skills (UNFINISHED)
 
-| Fellweaver {ALL} |  0  | 4d6 | Blacksmith / Silversmith {ALL}           |  1  | 4d6 |
-| :--------------: | :-: | :-: | ---------------------------------------- | :-: | --- |
-| Polycraft {ALL}  |  0  | 4d6 | Metallurgy                               |  1  | 5d6 |
-| Toxincraft {ALL} | -1  | 3d6 | Tool making / repair                     |  1  | 4d6 |
-| Terracraft {ALL} | -1  | 3d6 | Silverplating                            |  0  | 4d6 |
-| Galecraft {ALL}  | -1  | 3d6 | Medium Hafted Blunt, Medium Hafted Point |  0  | 4d6 |
+| Fellweaver {STR, RFX, INT} |  0  | 4d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |  1  | 4d6 |
+| :--------------: | :-: | :-: | ------------------------------------------------------------------ | :-: | --- |
+| Polycraft {STR, RFX, INT}  |  0  | 4d6 | Metallurgy {INT}                                         |  1  | 4d6 |
+| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     |  1  | 5d6 |
+| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            |  0  | 4d6 |
+| Galecraft {STR, RFX, INT}  | -1  | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |  0  | 4d6 |
 
 <!-- Blacksmithing must be at least 1. Leave 1 for polycraft for an advantage at healing. -->
 

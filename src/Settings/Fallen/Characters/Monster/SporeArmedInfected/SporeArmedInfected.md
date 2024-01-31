@@ -15,7 +15,7 @@
 
 | Zombie {STR}  | 1 | 5d6 |
 | ------------- | :-: | :-: |
-| Unarmed {ALL} | 1 | 3d6 |
+| Unarmed {STR, RFX, INT} | 1 | 3d6 |
 
 ## Effects
 
