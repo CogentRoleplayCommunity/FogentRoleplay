@@ -10,8 +10,9 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     Unarmed     |       -1d       |       -1d       |       None       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 | Party Trick Puff |       -1d       |       -1d       |       None       |      0      | Near |                  |         Standard         |        None        |  0 Magic Resource  |
+|                  |                |                |                  |            |      |                  |                          |                    |                    |
+|     Unarmed     |       -1d       |       -1d       |       None       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 
 ## Info
 

@@ -10,9 +10,10 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |  0 Magic Resource  |
 |  Small Thrusting Point  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
 |  Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |  0 Magic Resource  |
+|                        |                |                |                  |            |        |                  |                          |                    |                    |
 |   Thrown Small Blade   |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
 |   Thrown Small Point   |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |  0 Magic Resource  |
 |          Sling          |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |  0 Magic Resource  |

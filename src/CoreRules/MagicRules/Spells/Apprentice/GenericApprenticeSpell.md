@@ -15,15 +15,18 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 | Medium Hafted Blunt |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |                  |           Rapid           |        None        |  1 Magic Resource  |
 |        Whip        |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |                  |           Rapid           |        None        |  1 Magic Resource  |
 |     Short Spear     |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |                  |        Spear Rapid        |        None        |  1 Magic Resource  |
+|                    |                |                |                  |            |        |                  |                          |                    |                    |
 | Thrown Short Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |                  |         Standard         |        None        |  1 Magic Resource  |
 |    Hand Crossbow    |      +2d6      |      +2d6      |       +1d6       |      1      | Medium |                  |         Standard         |        None        |  1 Magic Resource  |
 |   Light Crossbow   |      None      |      +2d6      |       None       |      2      |  Far  |                  |          Loading          |        None        |  1 Magic Resource  |
 |      Light Bow      |      None      |      +2d6      |       None       |      1      |  Far  |                  |           Quick           |        None        |  1 Magic Resource  |
 |     Magic Cone     |      None      |      +2d6      |       None       |      3      | Close |                  |          Focused          |  Cone Calculation  |  1 Magic Resource  |
+|                    |                |                |                  |            |        |                  |                          |                    |                    |
 | Large Hafted Blade |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |  2 Magic Resource  |
 | Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |  2 Magic Resource  |
 | Large Hafted Blunt |       -1d       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |  2 Magic Resource  |
 |        Spear        |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Spear Rapid        |        None        |  2 Magic Resource  |
+|                    |                |                |                  |            |        |                  |                          |                    |                    |
 |    Thrown Spear    |      +2d6      |      +2d6      |       None       |      3      | Short |                  |         Standard         |        None        |  2 Magic Resource  |
 |   Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |  Long  |                  |      Complex Loading      |        None        |  2 Magic Resource  |
 |     Magic Cone     |      None      |      +2d6      |       None       |      3      | Medium |                  |          Focused          |  Cone Calculation  |  2 Magic Resource  |
