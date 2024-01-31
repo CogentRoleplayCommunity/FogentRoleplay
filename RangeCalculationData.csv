@@ -1,5 +1,6 @@
 desc,numDicePerEffectiveRangeUnit,ftPerEffectiveRangeUnit,roundEffectiveRangeUp,maxRange
-Close,3,5,FALSE,15
+Near,3,5,FALSE,15
+Close,2,5,TRUE,30
 Short,3,10,TRUE,60
 Mediocre,1,5,FALSE,100
 Medium,2,10,TRUE,120
