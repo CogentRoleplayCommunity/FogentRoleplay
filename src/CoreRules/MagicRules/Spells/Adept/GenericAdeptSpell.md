@@ -4,18 +4,22 @@ Adept magic spell that can be used for generic creative uses of magic.
 
 For a Magic Skill roll, this spell has can have the ranges of any of the below option on the magic combat roll table below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of this magic with a Range of Close, Short, Medium, Extended, Long, Sharpshooter, or Extreme range is unavailable.
 
-As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for that round. These attacks are intended to be flavored by the character. For instance, a fire magic arrow doesn't actually have to be an arrow made of fire (though it could if the character wanted it to). If both hands are available, as part of the same spell each both hands can be used to benefit for Two Handed or Dual Wielded. Damage type is determined by the damage type of the magic skill used.
+As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for that round. Magic Weapons allows a character create a magic attack using the stats of weapons and are intended to be flavored by the character. If both hands are available, as part of the same spell each both hands can be used to benefit for Two Handed or Dual Wielded. Damage type is determined by the damage type of the magic skill used.
 
-Melee attacks from this spell are considered reach melee weapons.
+## Adept Magic Weapons
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Magic Reach Slash |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| Magic Reach Thrust |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| Magic Reach Smash |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |  3 Magic Resource  |
-| Magic Reach Spear |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
-| Magic Heavy Arrow |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
-|   Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |          Focused          | Sphere Calculation |  3 Magic Resource  |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect |          Resource<br />Class           |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------------------------: |
+| Reach Hafted Blade |       -2d       |      +4d6       |       None        |      3      |    Reach     |       Slash       |           Rapid           |        None         |            3 Magic Resource            |
+| Reach Hafted Point |       -2d       |      +3d6       |       None        |      4      |    Reach     |      Pierce       |           Rapid           |        None         |            3 Magic Resource            |
+| Reach Hafted Blunt |       -2d       |      +2d6       |       None        |      5      |    Reach     |     Bludgeon      |           Rapid           |        None         |            3 Magic Resource            |
+|     Longspear      |       -2d       |      +4d6       |       None        |      4      |    Reach     |      Pierce       |        Spear Rapid        |        None         |            3 Magic Resource            |
+|     Heavy Bow      |      None       |      +2d6       |       None        |      2      | Sharpshooter |                   |         Standard          |        None         | 3 Magic Resource<br />(Standard Arrow) |
+|    Magic Sphere    |      None       |      +3d6       |       None        |      3      | Sharpshooter |                   |          Focused          | Sphere Calculation  |            3 Magic Resource            |
+
+|  Description   | Resource Class | Resource Dice | Penetration | Range | Damage |  AOE  |
+| :------------: | :------------: | :-----------: | :---------: | :---: | :----: | :---: |
+| Standard Arrow |     Arrow      |     +1d6      |      1      | None  |        | None  |
 
 ## Info
 
