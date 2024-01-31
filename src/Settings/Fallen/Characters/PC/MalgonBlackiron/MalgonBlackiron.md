@@ -13,11 +13,11 @@
 
 ## Vocations and Vocational Skills
 
-| Warrior {STR}          | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
-| ----------------------- | :-: | :-: | ---------------- | -- | --- |
-| Large Hafted {STR, RFX, INT}      | 1 | 5d6 | Cryocraft        | -1 | 3d6 |
-| Heavy Bow {STR, RFX, INT}         | 1 | 5d6 |                  |    |     |
-| Warrior Knowledge {INT} |  | 4d6 |                  |    |     |
+| Warrior {STR}               | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
+| ---------------------------- | :-: | :-: | -------------------------- | -- | --- |
+| Large Hafted {STR, RFX, INT} | 1 | 5d6 | Cryocraft                  | -1 | 3d6 |
+| Heavy Bow {STR, RFX, INT}    | 1 | 5d6 |                            |    |     |
+| Warrior Knowledge {INT}      |  | 4d6 |                            |    |     |
 
 ## Effects
 
@@ -51,12 +51,14 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  8d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-### Party Trick Magic
+### Combat Spells
 
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)  |      +0d6      |      +0d6      |       None       |      0      | Short |       Cold       |         Standard         |        None        |  0 Magic Resource  |
-| [Party Trick Unarmed](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Melee |       Cold       |           Rapid           |        None        |  0 Magic Resource  |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     |       Cold       |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |       Cold       |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |       Cold       |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |       Cold       |                          |                    | 3 - 4 Magic Resource |
 
 ## Destiny Points: 3/3
 
