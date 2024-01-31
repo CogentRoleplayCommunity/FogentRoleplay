@@ -33,11 +33,11 @@ To duel wield the character must have at least one proficiency point in both of 
 
 ### Crossbow
 
-|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Hand Crossbow |      +1d6      |      +1d6      |       +1d6       |      0      |  Medium  |                  |         Standard         |        None        |        Bolt        | {STR,RFX,INT}             |
-| Light Crossbow |      None      |      +1d6      |       None       |      1      | Extended |                  |          Loading          |        None        |        Bolt        | {STR,RFX,INT}             |
-| Heavy Crossbow |      None      |      +2d6      |       None       |      2      |   Long   |                  |      Complex Loading      |        None        |        Bolt        | {STR,RFX,INT}             |
+|      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+| Hand Crossbow |      +1d6      |      +1d6      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |        Bolt        | {STR,RFX,INT}             |
+| Light Crossbow |      None      |      +1d6      |       None       |      1      |  Far  |                  |          Loading          |        None        |        Bolt        | {STR,RFX,INT}             |
+| Heavy Crossbow |      None      |      +2d6      |       None       |      2      |  Long  |                  |      Complex Loading      |        None        |        Bolt        | {STR,RFX,INT}             |
 
 - Dual Wielded Hand Crossbows: Dual wielding hand crossbows uses up two bolts for every shot.
 
@@ -45,7 +45,7 @@ To duel wield the character must have at least one proficiency point in both of 
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Light Bow |      None      |      +1d6      |       None       |      0      |   Extended   |                  |           Quick           |        None        |        Arrow        | {STR,RFX,INT}             |
+| Light Bow |      None      |      +1d6      |       None       |      0      |     Far     |                  |           Quick           |        None        |        Arrow        | {STR,RFX,INT}             |
 | Heavy Bow |      None      |      +2d6      |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        | {STR,RFX,INT}             |
 
 - Heavy Bow Required Attribute to use: 1 STR
@@ -53,10 +53,10 @@ To duel wield the character must have at least one proficiency point in both of 
 
 ### Exotic
 
-|  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
-| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Blowgun |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |          Loading          |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
-|  Sling  |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |         Standard         |        None        |    Sling Bullet    | {STR,RFX,INT}             |
+|  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+| Blowgun |      +0d6      |      +0d6      |       None       |      0      | Mediocre |                  |          Loading          |        None        |    Blowgun Dart    | {STR,RFX,INT}             |
+|  Sling  |      +0d6      |      +0d6      |       None       |      0      |  Medium  |                  |         Standard         |        None        |    Sling Bullet    | {STR,RFX,INT}             |
 
 ### Ballistics
 
@@ -177,10 +177,10 @@ To duel wield the character must have at least one proficiency point in both of 
 
 ### Spear
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-|       Spear       |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
-| Thrown Short Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        | {STR,RFX,INT}             |
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+|     Spear     |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
+| Thrown Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        | {STR,RFX,INT}             |
 
 ## Reach Weapons
 
