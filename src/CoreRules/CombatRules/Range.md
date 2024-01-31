@@ -6,7 +6,8 @@ Effective Range is the range up to which you are accurate, scaling with the size
 | :----------: | :-----------------------------: | :-------------------------------: | :------------: |
 |    Melee    |              5 ft              |                 5                 |       5       |
 |    Reach    |              10 ft              |                10                |       10       |
-|    Close    | +5 feet per 3 dice rounded down |                 5                 |       15       |
+|     Near     | +5 feet per 3 dice rounded down |                 5                 |       15       |
+|    Close    |  +5 feet per 2 dice rounded up  |                15                |       30       |
 |    Short    | +10 feet per 3 dice rounded up |                20                |       60       |
 |   Mediocre   |        +5 feet per dice        |                25                |      100      |
 |    Medium    | +10 feet per 2 dice rounded up |                30                |      120      |
