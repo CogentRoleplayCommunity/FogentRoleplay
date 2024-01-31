@@ -15,8 +15,8 @@
 
 | Beast {STR, RFX} |   2   |  9d6  |
 | ---------------- | :---: | :---: |
-| Large Claw {ALL} |   2   |  8d6  |
-| Large Bite {ALL} |   2   |  8d6  |
+| Large Claw {STR, RFX, INT} |   2   |  8d6  |
+| Large Bite {STR, RFX, INT} |   2   |  8d6  |
 
 ## Effects
 

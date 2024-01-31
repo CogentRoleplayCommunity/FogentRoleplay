@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Runesmith {INT}     |   2   |  6d6  | Fellcaster {ALL} | 0   | 2d6 |
+| Runesmith {INT}     |   2   |  6d6  | Fellcaster {STR, RFX, INT} | 0   | 2d6 |
 | ------------------- | :---: | :---: | ---------------- | --- | --- |
-| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {ALL}  | -1  | 2d6 |
+| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {STR, RFX, INT}  | -1  | 2d6 |
 | Rune of Earth {INT} |   0   |  4d6  |                  |     |     |
 | Rune of Air {INT}   |   0   |  4d6  |                  |     |     |
 | Rune of Water {INT} |   0   |  4d6  |                  |     |     |
@@ -108,7 +108,7 @@
 | Name                           |   #   |       Class       | Effect |  Tier   | Durability |  LB   | Value |
 | ------------------------------ | :---: | :---------------: | ------ | :-----: | :--------: | :---: | :---: |
 | Component Pouch (2/5 ft^3)     |   1   |  12 lb container  |        | Mundane |            |   2   | 25 bc |
-| Runebook                       |   1   | Runecraft Conduit |        | Mundane |            |   3   | 50 bc |
+| Runebook                       |   1   | Magic Conduit |        | Mundane |            |   3   | 50 bc |
 | Journal, Soft Bound, 25 Sheets |   1   |                   |        | Mundane |            |   1   | 7 bc  |
 | Calligrapher's Supplies        |   1   |                   |        | Mundane |            |   5   | 10 bc |
 | Common Book, Soft Bound        |   1   |                   |        | Mundane |            |   1   | 5 bc  |

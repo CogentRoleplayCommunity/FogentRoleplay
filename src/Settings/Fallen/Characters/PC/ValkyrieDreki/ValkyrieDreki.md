@@ -13,11 +13,11 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {ALL}     |   2   |  6d6  |
+| Fellcaster {STR, RFX, INT}     |   2   |  6d6  |
 | ----------------- | :---: | :---: |
-| Naturecraft {ALL} |   2   |  6d6  |
-| Polycraft {ALL}   |  -1   |  3d6  |
-| Toxincraft {ALL}  |  -1   |  3d6  |
+| Naturecraft {STR, RFX, INT} |   2   |  6d6  |
+| Polycraft {STR, RFX, INT}   |  -1   |  3d6  |
+| Toxincraft {STR, RFX, INT}  |  -1   |  3d6  |
 
 ## Effects
 

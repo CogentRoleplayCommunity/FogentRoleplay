@@ -33,7 +33,6 @@ Specific Spells:
 Generic Spells:
 
 - [Generic Apprentice Spell](Spells/Apprentice/GenericApprenticeSpell.md)
-- [Cone Magic](Spells/Apprentice/ConeMagic.md)
 
 Specific Spells:
 
@@ -49,6 +48,7 @@ Specific Spells:
 - [Fling](Spells/Apprentice/Fling.md)
 - [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
+- [Invisibility](Spells/Apprentice/Invisibility.md)
 - [Leap](Spells/Apprentice/Leap.md)
 - [Mage Shield](Spells/Apprentice/MageShield.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
@@ -68,7 +68,6 @@ Specific Spells:
 Generic Spells:
 
 - [Generic Adept Spell](Spells/Adept/GenericAdeptSpell.md)
-- [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 Specific Spells:
 
@@ -83,6 +82,12 @@ Generic Spells:
 Specific Spells:
 
 ### Master Spells
+
+Generic Spells:
+
+Specific Spells:
+
+### Legendary Spells
 
 Generic Spells:
 

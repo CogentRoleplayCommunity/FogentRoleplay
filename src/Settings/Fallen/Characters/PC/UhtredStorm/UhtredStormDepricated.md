@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        |   3   |  8d6  | Brightsmith {ALL} | 2   | 7d6 |
+| Guard {RFX}        |   3   |  8d6  | Brightsmith {STR, RFX, INT} | 2   | 7d6 |
 | ------------------ | :---: | :---: | --------------- | --- | --- |
-| Medium Sword {ALL} |   3   |  8d6  | Radiance {ALL}  | 2   | 7d6 |
-|                    |   0   |  3d6  | Blessing {ALL}  | -1  | 4d6 |
+| Medium Sword {STR, RFX, INT} |   3   |  8d6  | Radiance {STR, RFX, INT}  | 2   | 7d6 |
+|                    |   0   |  3d6  | Blessing {STR, RFX, INT}  | -1  | 4d6 |
 |                    |   0   |  3d6  | Additional Trick | -1  | 4d6 |
 
 ## Effects
@@ -76,7 +76,7 @@
 | Clothes, Fine                        |   1   |                                                             | Mundane  |            |   6   | 15 bc  |
 | Asher's Arms Swordbreaker            |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Blade |   Fine   |   18/18    |   1   |   ?    |
 | Spencer's Arms Arming Sword          |   1   |          Medium Thrusting Sword, Medium Slashing Sword          | Superior |   24/24    |   2   | 20 bc  |
-| Adversary - Damaged                  |   1   |                        Radiance Conduit                         |   Fine   |   18/18    |   1   |   ?    |
+| Adversary - Damaged                  |   1   |                        Magic Conduit                         |   Fine   |   18/18    |   1   |   ?    |
 | Mother's Necklace                    |   1   |                                                             | Mundane  |            |  0.1  |   ?    |
 
 ## Containers

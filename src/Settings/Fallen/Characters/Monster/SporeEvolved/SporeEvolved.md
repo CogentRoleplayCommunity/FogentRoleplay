@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Monster {ALL}    |   1   |  5d6  |
+| Monster {STR, RFX, INT}    |   1   |  5d6  |
 | ---------------- | :---: | :---: |
-| Sporecraft {ALL} |   1   |  5d6  |
+| Sporecraft {STR, RFX, INT} |   1   |  5d6  |
 
 ## Effects
 

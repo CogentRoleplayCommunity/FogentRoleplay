@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        | 1 | 5d6 | Fellcaster {ALL} | 0  | 4d6 |
+| Guard {RFX}        | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Short Spear {ALL} | 1 | 5d6 | Galecraft {ALL}  | -1 | 3d6 |
+| Short Spear {STR, RFX, INT} | 1 | 5d6 | Galecraft {STR, RFX, INT}  | -1 | 3d6 |
 
 ## Effects
 
@@ -27,7 +27,7 @@
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
 |        Language:        |                         Can speak .                         |          |                                                                                                                    |
 |  Disabling: Acrophobia  |                 Debilitating fear of heights.                 |          |                                                                                                                    |
-|    Inventory Weight    |                           28.25 lb                           |          |                                                      Equipment                                                      |
+|    Inventory Weight    |                           28.5 lb                           |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |                             45 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
@@ -64,31 +64,32 @@
 
 | Name                           | # |                        Class                        | Effect          |  Tier  | Durability | LB |  Value  |
 | ------------------------------ | :-: | :-------------------------------------------------: | --------------- | :-----: | :--------: | :-: | :-----: |
-| Gambeson Coat                  | 1 |                Body Armor, Arm Armor                | Phy. Def. 0.625 | Mundane |   12/12   | 5 | 3.13 bc |
-| Gambeson Leggings              | 1 |                      Leg Armor                      | Phy. Def. 0.375 | Mundane |   12/12   | 3 | 1.87 bc |
-| Leather Helmet                 | 1 |                     Head Armor                     | Phy. Def. 0.34  | Quality |   15/15   | 2 | 1.67 bc |
-| Leather Cuirass and Pauldrons  | 1 |                     Body Armor                     | Phy. Def. 1.00  | Quality |   15/15   | 6 |  5 bc  |
-| Leather Cuisses and Greaves    | 1 |                      Leg Armor                      | Phy. Def. 0.33  | Quality |   15/15   | 2 | 1.67 bc |
-| Leather Vambrace               | 1 |                      Arm Armor                      | Phy. Def. 0.33  | Quality |   15/15   | 2 | 1.66 bc |
-| Clothes, Traveler              | 1 |                                                    |                 | Mundane |            | 4 |  5 bc  |
-| Quarterstaff with Hidden Spear | 1 | Large Hafted Blunt, Short Spear, Thrown Short Spear |                 | Mundane |   12/12   | 4 |  2 bc  |
+| Gambeson Coat                  | 1 |                Body Armor, Arm Armor                | Phy. Def. 0.625 | Mundane |   12/12   |  5  | 3.13 bc |
+| Gambeson Leggings              | 1 |                      Leg Armor                      | Phy. Def. 0.375 | Mundane |   12/12   |  3  | 1.87 bc |
+| Leather Helmet                 | 1 |                     Head Armor                     | Phy. Def. 0.34  | Quality |   15/15   |  2  | 1.67 bc |
+| Leather Cuirass and Pauldrons  | 1 |                     Body Armor                     | Phy. Def. 1.00  | Quality |   15/15   |  6  |  5 bc  |
+| Leather Cuisses and Greaves    | 1 |                      Leg Armor                      | Phy. Def. 0.33  | Quality |   15/15   |  2  | 1.67 bc |
+| Leather Vambrace               | 1 |                      Arm Armor                      | Phy. Def. 0.33  | Quality |   15/15   |  2  | 1.66 bc |
+| Clothes, Traveler              | 1 |                                                    |                 | Mundane |            |  4  |  5 bc  |
+| Quarterstaff with Hidden Spear | 1 | Large Hafted Blunt, Short Spear, Thrown Short Spear |                 | Mundane |   12/12   |  4  |  2 bc  |
+| Lavender Lancer Scarf          | 1 |                                                    |                 | Mundane |            | 0.5 |  50 cc  |
 
 ## Containers
 
-| Name                                                    |  #  |              Class              | Effect |   Tier   | Durability |  LB  | Value |
-| ------------------------------------------------------- | :-: | :-----------------------------: | ------ | :-------: | :--------: | :--: | :---: |
-| Backpack (1 ft^3)                                       |  1  |         30 lb container         |        |  Mundane  |            |  5  | 2 bc |
-| Shortbow                                                |  1  |            Light Bow            |        |  Mundane  |   12/12   |  2  | 25 bc |
-| Quiver (capacity: 20)                                   |  1  |                                |        |  Mundane  |            |  1  | 1 bc |
-| Broadhead Arrow                                         | 20 |         Standard Arrow         |        |  Mundane  |            | 0.05 | 1 bc |
-| Ring, Mundane                                           |  1  |                                |        |  Mundane  |            | 0.2 | 30 cc |
-| Javelin                                                 |  2  | Short Spear, Thrown Short Spear |        |  Mundane  |   12/12   |  3  | 5 bc |
-| Bronze Coin                                             | 38 |                                |        |  Mundane  |            | 0.02 | 1 bc |
-| Copper Coin                                             | 70 |                                |        |  Mundane  |            | 0.02 | 1 cc |
-| Copper Coin                                             | 600 |                                |        |  Mundane  |            | 0.02 | 1 cc |
-| Bronze Coin                                             | 11 |                                |        |  Mundane  |            | 0.02 | 1 bc |
-| Jade statuette of a frog with tiny golden orbs for eyes |  1  |                                |        | Excellent |            |  1  | 50 bc |
-| Vial of Minor Healing Blood                             |  2  |                                |        |  Mundane  |            | 0.25 | 50 bc |
+| Name                                                    |  #  |              Class              | Effect        |   Tier   | Durability |  LB  | Value |
+| ------------------------------------------------------- | :-: | :-----------------------------: | ------------- | :-------: | :--------: | :--: | :---: |
+| Backpack (1 ft^3)                                       |  1  |         30 lb container         |               |  Mundane  |            |  5  | 2 bc |
+| Shortbow                                                |  1  |            Light Bow            |               |  Mundane  |   12/12   |  2  | 25 bc |
+| Quiver (capacity: 20)                                   |  1  |                                |               |  Mundane  |            |  1  | 1 bc |
+| Broadhead Arrow                                         | 20 |         Standard Arrow         |               |  Mundane  |            | 0.05 | 1 bc |
+| Ring, Mundane                                           |  1  |                                |               |  Mundane  |            | 0.2 | 30 cc |
+| Javelin                                                 |  2  | Short Spear, Thrown Short Spear |               |  Mundane  |   12/12   |  3  | 5 bc |
+| Bronze Coin                                             | 38 |                                |               |  Mundane  |            | 0.02 | 1 bc |
+| Copper Coin                                             | 70 |                                |               |  Mundane  |            | 0.02 | 1 cc |
+| Copper Coin                                             | 600 |                                |               |  Mundane  |            | 0.02 | 1 cc |
+| Bronze Coin                                             | 11 |                                |               |  Mundane  |            | 0.02 | 1 bc |
+| Jade statuette of a frog with tiny golden orbs for eyes |  1  |                                |               | Excellent |            |  1  | 50 bc |
+| Vial of Minor Healing Blood                             |  2  |                                | Minor Healing |  Mundane  |            | 0.25 | 50 bc |
 
 ## Notes
 

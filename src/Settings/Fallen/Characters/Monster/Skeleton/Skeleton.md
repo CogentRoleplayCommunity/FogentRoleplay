@@ -15,8 +15,8 @@
 
 | Fighter {RFX}      | 1 | 5d6 |
 | ------------------- | :-: | :-: |
-| Medium Sword {ALL} | 1 | 4d6 |
-| Light Bow {ALL}     | 1 | 4d6 |
+| Medium Sword {STR, RFX, INT} | 1 | 4d6 |
+| Light Bow {STR, RFX, INT}     | 1 | 4d6 |
 
 ## Effects:
 
@@ -31,13 +31,13 @@
 |    Humanoid Swim Speed    |                            0 ft                            |          |                                                 Bone's don't float                                                 |
 |    Humanoid Climb Speed    |                            15 ft                            |          |                                  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                  |
 |        Dark Vision        |                            60 ft                            |          |                                                       Innate                                                       |
-|  Medium Bludgeon Weakness  | (+2) to the level of injury received from Bludgeon damage. |          |                                                       Innate                                                       |
-|  Medium Radiant Weakness  |  (+2) to the level of injury received from Radiant damage.  |          |                                                       Innate                                                       |
-| Medium Spiritual Weakness | (+2) to the level of injury received from Spiritual damage. |          |                                                       Innate                                                       |
-|   Minor Silver Weakness   |  (+1) to the level of injury received from Silver damage.  |          |                                                       Innate                                                       |
+|  Medium Bludgeon Weakness  | +2 to the level of injury received from Bludgeon damage. |          |                                                       Innate                                                       |
+|  Medium Radiant Weakness  |  +2 to the level of injury received from Radiant damage.  |          |                                                       Innate                                                       |
+| Medium Spiritual Weakness | +2 to the level of injury received from Spiritual damage. |          |                                                       Innate                                                       |
+|   Minor Silver Weakness   |  +1 to the level of injury received from Silver damage.  |          |                                                       Innate                                                       |
 |   Minor Slash Resistance   |      -1 to victory levels received from Slash damage.      |          |                                                       Innate                                                       |
 |  Major Pierce Resistance  |      -3 to victory levels received from Pierce damage.      |          |                                                       Innate                                                       |
-| Complete Poison Resistance |      -5 to victory levels received from Poison damage.      |          |                                                       Innate                                                       |
+| Complete Poison Resistance |      Negate victory levels received from  Poison damage.      |          |                                                       Innate                                                       |
 
 ## Combat Rolls:
 

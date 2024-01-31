@@ -15,8 +15,8 @@
 
 | Beast {STR, RFX}  |   2   |  8d6  |
 | ----------------- | :---: | :---: |
-| Large Stomp {ALL} |   2   |  8d6  |
-| Bite {ALL}        |   0   |  6d6  |
+| Large Stomp {STR, RFX, INT} |   2   |  8d6  |
+| Bite {STR, RFX, INT}        |   0   |  6d6  |
 
 ## Effects
 

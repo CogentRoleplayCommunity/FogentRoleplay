@@ -10,9 +10,9 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Info
 
-|            Name            | # | Class |   Effect   |  Tier  | Durability |  LB  |  Value  |
-| :-------------------------: | :-: | :---: | :--------: | :-----: | :--------: | :--: | :------: |
-| Vial of Fatal Healing Blood | 1 |      | Fatal Heal | Mundane |            | 0.25 | 12500 bc |
+|            Name            | # | Class |   Effect   | Tier | Durability |  LB  |  Value  |
+| :-------------------------: | :-: | :---: | :--------: | :--: | :--------: | :--: | :------: |
+| Vial of Fatal Healing Blood | 1 |      | Fatal Heal | Epic |            | 0.25 | 12500 bc |
 
 ## Effects
 

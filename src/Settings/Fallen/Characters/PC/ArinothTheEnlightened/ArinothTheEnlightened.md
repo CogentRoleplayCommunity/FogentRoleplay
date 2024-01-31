@@ -15,7 +15,7 @@
 
 | Monk {RFX}         | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 3d6 |
 | ------------------- | :-: | :-: | -------------------------- | -- | --- |
-| Large Hafted {ALL} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | -1 | 2d6 |
+| Large Hafted {STR, RFX, INT} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | -1 | 2d6 |
 
 ## Effects
 
@@ -27,7 +27,7 @@
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
 |    Language: Primal    |                       Can speak Primal.                       |          |                                                                                                                    |
 |  Disabling: Dim-witted  |                            -1 INT                            |          |                                                                                                                    |
-|    Inventory Weight    |                             14 lb                             |          |                                                      Equipment                                                      |
+|    Inventory Weight    |                            14.5 lb                            |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |                             40 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
@@ -73,9 +73,10 @@
 
 | Name                          | # |                                      Class                                      | Effect            |   Tier   | Durability | LB | Value |
 | ----------------------------- | :-: | :-----------------------------------------------------------------------------: | ----------------- | :-------: | :--------: | :-: | :---: |
-| Leather Cuirass and Pauldrons | 1 |                                   Body Armor                                   | Phy. Def. 1.00    |  Quality  |   15/15   | 6 | 5 bc |
-| Clothes, Traveler             | 1 |                                                                                |                   |  Mundane  |            | 4 | 5 bc |
-| Monkey Staff                  | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   | 4 |   ?   |
+| Leather Cuirass and Pauldrons | 1 |                                   Body Armor                                   | Phy. Def. 1.00    |  Quality  |   15/15   |  6  | 5 bc |
+| Clothes, Traveler             | 1 |                                                                                |                   |  Mundane  |            |  4  | 5 bc |
+| Monkey Staff                  | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   |  4  |   ?   |
+| Lavender Lancer Scarf         | 1 |                                                                                |                   |  Mundane  |            | 0.5 | 50 cc |
 
 ## Containers
 

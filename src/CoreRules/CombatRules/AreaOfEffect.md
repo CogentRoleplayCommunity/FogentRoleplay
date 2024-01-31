@@ -1,8 +1,39 @@
-# Cone Magic
+# Area Of Effect
 
-## Dice Pool Size Effect
+## Calculated Area Of Effect
 
-Cone Base/Height: Magic Roll * 5 feet
+### Calculated Sphere
+
+|    Name    | Radius (ft) |
+| :---------: | :---------: |
+| 30ft Sphere |     30     |
+
+### Calculated Cone
+
+## Area Of Effect Calculation
+
+### Sphere Calculation
+
+Sphere Radius: Magic Combat Roll * 2.5 feet
+
+| Magic Roll | Sphere Radius |
+| :--------: | :-----------: |
+|   1 dice   |    2.5 ft    |
+|   2 dice   |     5 ft     |
+|   3 dice   |    7.5 ft    |
+|   4 dice   |     10 ft     |
+|   5 dice   |    12.5 ft    |
+|   6 dice   |     15 ft     |
+|   7 dice   |    17.5 ft    |
+|   8 dice   |     20 ft     |
+|   9 dice   |    22.5 ft    |
+|  10 dice  |     25 ft     |
+|  11 dice  |    27.5 ft    |
+|  12 dice  |     30 ft     |
+
+### Cone Calculation
+
+Cone Base/Height: Magic Combat Roll * 5 feet
 
 | Magic Roll | Cone Height/Base | Cone Angle |  Cone Area  |
 | :--------: | :--------------: | :---------: | :---------: |
@@ -21,26 +52,3 @@ Cone Base/Height: Magic Roll * 5 feet
 Here is a handy equation I made for calculating custom Cones. “A” is area, “D” is distance, and theta is the angle closest to the caster. Simply plug in the Area for your dice roll, and either “D” or theta. Whatever you didn’t plugin will be calculated. If none of this makes sense, brush up on your trigonometry or just use the default cones above!
 
 [Cone Calculation Link](https://www.symbolab.com/solver/step-by-step/A%20%3D%20D%5E%7B2%7Dtan%5Cleft(%5Cfrac%7B%5Ctheta%7D%7B2%7D%5Cright)?or=input)
-
-## Info
-
-**Range:**
-
-| Skill level |  Range Type  |
-| :---------: | :----------: |
-|      1      |   Extended   |
-|      2      |     Long     |
-|      3      | Sharpshooter |
-|      4      |   Extreme   |
-
-**Engageable Opponents:** Focused
-
-**Penetration:** 2
-
-**Magic Resource Required:** 1
-
-**Area Of Effect:** Cone
-
-**Skills required:**
-
-- Any magic (level 1)

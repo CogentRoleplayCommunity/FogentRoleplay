@@ -31,7 +31,7 @@ Earned Skill point: 2
 |       Language: Babelish       |                      Can speak Babelish.                      |          |                                                          |
 |     Disabling: Hemaphobia     |             Irrational fear of blood and viscera.             |          |                                                          |
 | Disabling: Extreme Entitlement | Constantly assumes he's of high import, no matter where he is. |          |                                                          |
-|        Inventory Weight        |                           27.15 lb                           |          |                         Equipment                         |
+|        Inventory Weight        |                           27.65 lb                           |          |                         Equipment                         |
 |     Humanoid Carry Weight     |                             120 lb                             |          |    120 lb (Base), +100 lb (per STR), +20 lb (per Lift)    |
 |          Light Weight          |                -0d6 to STR/RFX governed skills                |          |                 0% - 25% of carry weight                 |
 |    Humanoid Movement Speed    |                             30 ft                             |          | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
@@ -64,33 +64,45 @@ Earned Skill point: 2
 
 ### Apprentice Spells
 
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|   [Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +3d6      |       +1d6       |      0      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-|  [Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +1d6      |      +2d6      |       +1d6       |      2      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-|   [Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +0d6      |      +1d6      |       +1d6       |      4      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-|   [Magic Whip](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +1d6      |      +2d6      |       +1d6       |      0      |  Reach  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-| [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  1 Magic Resource  |
-|   [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended | Slash, Bludgeon, Shockwave<br />Cold |          Loading          |        None        |  1 Magic Resource  |
-|   [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  1 Magic Resource  |
+|                                                Name                                                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+|    [Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       +1d6       |      0      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|   [Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +1d6      |      +2d6      |       +1d6       |      2      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|    [Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +0d6      |      +1d6      |       +1d6       |      4      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|    [Magic Whip](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +1d6      |      +2d6      |       +1d6       |      0      |  Reach  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
+|  [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  1 Magic Resource  |
+|    [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      None      |      +2d6      |       None       |      2      | Extended | Slash, Bludgeon, Shockwave<br />Cold |          Loading          |        None        |  1 Magic Resource  |
+|    [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      None      |      +2d6      |       None       |      1      | Extended | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  1 Magic Resource  |
+| [Magic Short Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      |  Short  | Slash, Bludgeon, Shockwave<br />Cold |          Focused          |  Cone Calculation  |  1 Magic Resource  |
+
+|                                                 Name                                                 | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
+| [Magic Large Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +3d6      |       None       |      2      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  2 Magic Resource  |
+| [Magic Large Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +2d6      |       None       |      3      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  2 Magic Resource  |
+| [Magic Large Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |       -1d       |      +1d6      |       None       |      5      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  2 Magic Resource  |
+|    [Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee | Slash, Bludgeon, Shockwave<br />Cold |        Spear Rapid        |        None        |  2 Magic Resource  |
+|   [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  2 Magic Resource  |
+|  [Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      3      |  Long  | Slash, Bludgeon, Shockwave<br />Cold |      Complex Loading      |        None        |  2 Magic Resource  |
+| [Magic Medium Cone](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      None      |      +2d6      |       None       |      3      | Medium | Slash, Bludgeon, Shockwave<br />Cold |          Focused          |  Cone Calculation  |  2 Magic Resource  |
 
 ## Destiny Points: 2/3
 
-## Focus: 2/4
+## Focus: 3/5
 
 ## Equipment:
 
-| Name                          | # |                     Class                     | Effect          |   Tier   | Durability |  LB  |  Value  |
-| ----------------------------- | :-: | :-------------------------------------------: | --------------- | :-------: | :--------: | :--: | :-----: |
-| Gambeson Coat                 | 1 |             Body Armor, Arm Armor             | Phy. Def. 0.625 |  Mundane  |   12/12   |  5  | 3.13 bc |
-| Gambeson Leggings             | 1 |                   Leg Armor                   | Phy. Def. 0.375 |  Mundane  |   12/12   |  3  | 1.87 bc |
-| Leather Cuirass and Pauldrons | 1 |                  Body Armor                  | Phy. Def. 1.00  |  Quality  |   15/15   |  6  |  5 bc  |
-| Clothes, Fine                 | 1 |                                              |                 |  Mundane  |            |  4  |  15 bc  |
-| Buckler Shield                | 1 |                    Shield                    | Phy. Def. 1.00  |  Mundane  |   12/12   |  4  |  2 bc  |
-| "Frozen Needle"               | 1 | Medium Thrusting Sword, Medium Slashing Sword |                 | Excellent |   24/24   |  2  |  25 bc  |
-| Runebook                      | 1 |               Runecraft Conduit               |                 |  Mundane  |            |  3  |  50 bc  |
-| Ink (1 ounce bottle)          | 1 |                                              |                 |  Mundane  |            | 0.1 |  10 bc  |
-| Ink Pen (Fountain)            | 1 |                                              |                 |  Mundane  |            | 0.05 |  3 bc  |
+| Name                          | # |                     Class                     | Effect          |  Tier  | Durability |  LB  |  Value  |
+| ----------------------------- | :-: | :-------------------------------------------: | --------------- | :-----: | :--------: | :--: | :-----: |
+| Gambeson Coat                 | 1 |             Body Armor, Arm Armor             | Phy. Def. 0.625 | Mundane |   12/12   |  5  | 3.13 bc |
+| Gambeson Leggings             | 1 |                   Leg Armor                   | Phy. Def. 0.375 | Mundane |   12/12   |  3  | 1.87 bc |
+| Leather Cuirass and Pauldrons | 1 |                  Body Armor                  | Phy. Def. 1.00  | Quality |   15/15   |  6  |  5 bc  |
+| Clothes, Fine                 | 1 |                                              |                 | Mundane |            |  4  |  15 bc  |
+| Buckler Shield                | 1 |                    Shield                    | Phy. Def. 1.00  | Mundane |   12/12   |  4  |  2 bc  |
+| "Frozen Needle"               | 1 | Medium Thrusting Sword, Medium Slashing Sword |                 | Quality |   24/24   |  2  |  25 bc  |
+| Runebook                      | 1 |                 Magic Conduit                 |                 | Mundane |            |  3  |  50 bc  |
+| Ink (1 ounce bottle)          | 1 |                                              |                 | Mundane |            | 0.1 |  10 bc  |
+| Ink Pen (Fountain)            | 1 |                                              |                 | Mundane |            | 0.05 |  3 bc  |
+| Lavender Lancer Scarf         | 1 |                                              |                 | Mundane |            | 0.5 |  50 cc  |
 
 ## Containers:
 

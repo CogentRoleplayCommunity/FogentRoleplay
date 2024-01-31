@@ -14,6 +14,21 @@ Effective Range is the range up to which you are accurate, scaling with the size
 | Sharpshooter |       +20 feet per dice       |  600 ft  |
 |   Extreme   |       +25 feet per dice       |  700 ft  |
 
+|   Range Type   |         Effective Range         | Max Range |
+| :-------------: | :-----------------------------: | :-------: |
+|      Melee      |              5 ft              |   5 ft   |
+|      Reach      |              10 ft              |   10 ft   |
+|      Close      | +5 feet per 3 dice rounded down |   15 ft   |
+|      Short      | +5 feet per 2 dice rounded down |   60 ft   |
+|     Medium     |        +5 feet per dice        |  100 ft  |
+| Extended Medium | +10 feet per 2 dice rounded up |  120 ft  |
+|    Extended    |        +10 feet per dice        |  220 ft  |
+|      Long      |        +15 feet per dice        |  320 ft  |
+|       Far       |        +20 feet per dice        |  400 ft  |
+|     Extreme     |        +25 feet per dice        |  500 ft  |
+|  Sharpshooter  |        +30 feet per dice        |  600 ft  |
+|     Distant     |        +35 feet per dice        |  700 ft  |
+
 ## Effective Range Exceeded
 
 Conditions to apply when attacking beyond effective range.

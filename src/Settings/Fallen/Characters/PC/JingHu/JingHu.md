@@ -13,15 +13,15 @@
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 2 | 6d6 | Fellcaster {ALL} | 0  | 4d6 |
+| Monk {RFX}         | 2 | 6d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Large Hafted {ALL} | 2 | 6d6 | Polycraft {ALL}  | -1 | 3d6 |
+| Large Hafted {STR, RFX, INT} | 2 | 6d6 | Polycraft {STR, RFX, INT}  | -1 | 3d6 |
 
 ## Effects:
 
 |                    Name                    |                            Effect                            | Duration |                                                       Source                                                       |
 | :----------------------------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|           Minor Silver Weakness           |   (+1) to the level of injury received from Silver damage.   |          |                                                    Fellkin blood                                                    |
+|           Minor Silver Weakness           |   +1 to the level of injury received from Silver damage.   |          |                                                    Fellkin blood                                                    |
 |           Physical Defense Level           |                               3                               |          |                                                        Armor                                                        |
 |                Medium Size                |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |             Language: Babelish             |                 Can speak and write Babelish.                 |          |                                                                                                                    |
