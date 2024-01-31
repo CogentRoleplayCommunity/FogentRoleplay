@@ -1,6 +1,10 @@
 # Area Of Effect
 
-## Calculated Area Of Effect
+Certain attacks, spells, etc. have an effect over an area, such as a grenade explosion.
+
+## Set Area Of Effect
+
+Represents an area of effect that is unchanged by the Dice Pool associated with it. For example, whatever the size of a Dice Pool, a Combat Roll with a grenade will always have the same area of effect.
 
 ### Calculated Sphere
 
@@ -10,7 +14,23 @@
 
 ### Calculated Cone
 
+|   Name   | Cone Height/Base | Cone Angle |  Cone Area  |
+| :-------: | :--------------: | :---------: | :---------: |
+| 10ft Cone |      10 ft      | ~53 degrees |   50 ft^2   |
+| 15ft Cone |      15 ft      | ~53 degrees | 112.5 ft^2 |
+| 20ft Cone |      20 ft      | ~53 degrees |  200 ft^2  |
+| 25ft Cone |      25 ft      | ~53 degrees | 312.5 ft^2 |
+| 30ft Cone |      30 ft      | ~53 degrees |  450 ft^2  |
+| 35ft Cone |      35 ft      | ~53 degrees | 612.5 ft^2 |
+| 40ft Cone |      40 ft      | ~53 degrees |  800 ft^2  |
+| 45ft Cone |      45 ft      | ~53 degrees | 1012.5 ft^2 |
+| 50ft Cone |      50 ft      | ~53 degrees |  1250 ft^2  |
+| 55ft Cone |      55 ft      | ~53 degrees | 1512.5 ft^2 |
+| 60ft Cone |      60 ft      | ~53 degrees |  1800 ft^2  |
+
 ## Area Of Effect Calculation
+
+Unlike Set Area Of Effects which do not change, Area Of Effect Calculations scale with the size of the Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
 ### Sphere Calculation
 
