@@ -10,9 +10,9 @@ This spear can be used as a Air Magic Conduit.
 
 ## Info
 
-|      Name      | # |                     Class                     | Effect |   Tier   | Durability | LB | Value |
-| :------------: | :-: | :--------------------------------------------: | :----: | :-------: | :--------: | :-: | :---: |
-| Draupnir Spear | 1 | Short Spear, Thrown Short Spear, Magic Conduit |        | Excellent |   21/21   | 3 | ? bc |
+|      Name      | # |                                      Class                                      |  Effect  |   Tier   | Durability | LB | Value |
+| :------------: | :-: | :------------------------------------------------------------------------------: | :------: | :-------: | :--------: | :-: | :---: |
+| Draupnir Spear | 1 | Short Spear, Thrown Short Spear, Spear, Thrown Spear, Long Spear, Magic Conduit | Draupnir | Excellent |   21/21   | 3 | ? bc |
 
 ## Effects
 
