@@ -8,18 +8,14 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 ## Adept Magic Weapons
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect |          Resource<br />Class           |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------------------------: |
-| Reach Hafted Blade |       -2d       |      +4d6       |       None        |      3      |    Reach     |       Slash       |           Rapid           |        None         |            3 Magic Resource            |
-| Reach Hafted Point |       -2d       |      +3d6       |       None        |      4      |    Reach     |      Pierce       |           Rapid           |        None         |            3 Magic Resource            |
-| Reach Hafted Blunt |       -2d       |      +2d6       |       None        |      5      |    Reach     |     Bludgeon      |           Rapid           |        None         |            3 Magic Resource            |
-|     Longspear      |       -2d       |      +4d6       |       None        |      4      |    Reach     |      Pierce       |        Spear Rapid        |        None         |            3 Magic Resource            |
-|     Heavy Bow      |      None       |      +2d6       |       None        |      2      | Sharpshooter |                   |         Standard          |        None         | 3 Magic Resource<br />(Standard Arrow) |
-|    Magic Sphere    |      None       |      +3d6       |       None        |      3      | Sharpshooter |                   |          Focused          | Sphere Calculation  |            3 Magic Resource            |
-
-|  Description   | Resource Class | Resource Dice | Penetration | Range | Damage |  AOE  |
-| :------------: | :------------: | :-----------: | :---------: | :---: | :----: | :---: |
-| Standard Arrow |     Arrow      |     +1d6      |      1      | None  |        | None  |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Reach Hafted Blade |       -2d       |      +4d6      |       None       |      3      |    Reach    |       Slash       |           Rapid           |        None        |  3 Magic Resource  |
+| Reach Hafted Point |       -2d       |      +3d6      |       None       |      4      |    Reach    |      Pierce      |           Rapid           |        None        |  3 Magic Resource  |
+| Reach Hafted Blunt |       -2d       |      +2d6      |       None       |      5      |    Reach    |     Bludgeon     |           Rapid           |        None        |  3 Magic Resource  |
+|     Longspear     |       -2d       |      +4d6      |       None       |      4      |    Reach    |      Pierce      |        Spear Rapid        |        None        |  3 Magic Resource  |
+|     Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
+|   Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |          Focused          | Sphere Calculation |  3 Magic Resource  |
 
 ## Info
 
