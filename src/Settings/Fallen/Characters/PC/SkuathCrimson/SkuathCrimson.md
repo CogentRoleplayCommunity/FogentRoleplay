@@ -13,15 +13,15 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
-| ------------------ | :-: | :-: | ---------------- | -- | --- |
+| Guard {RFX}                  | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
+| ---------------------------- | :-: | :-: | -------------------------- | -- | --- |
 | Short Spear {STR, RFX, INT} | 1 | 5d6 | Galecraft {STR, RFX, INT}  | -1 | 3d6 |
 
 ## Effects
 
 |          Name          |                            Effect                            | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                    Fellkin blood                                                    |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
 | Physical Defense Level |                               3                               |          |                                                        Armor                                                        |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
@@ -49,12 +49,14 @@
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 | Standard Arrow |        Arrow        |  6d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
 
-### Party Trick Magic
+### Combat Spells
 
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |     Damage<br />Types     | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)  |      +0d6      |      +0d6      |       None       |      0      | Short | Slash, Bludgeon, Shockwave |         Standard         |        None        |  0 Magic Resource  |
-| [Party Trick Unarmed](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Melee | Slash, Bludgeon, Shockwave |           Rapid           |        None        |  0 Magic Resource  |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    |     Damage<br />Types     | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :------------------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     | Slash, Bludgeon, Shockwave |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    | Slash, Bludgeon, Shockwave |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  | Slash, Bludgeon, Shockwave |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter | Slash, Bludgeon, Shockwave |                          |                    | 3 - 4 Magic Resource |
 
 ## Destiny Points: 2/3
 

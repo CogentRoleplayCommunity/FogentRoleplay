@@ -21,8 +21,8 @@
 
 |          Name          |                            Effect                            | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                                                                                    |
-|   Minor Fire Weakness   | (+1) to the level of injury<br />received from Fire damage. |          |                                                                                                                    |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                                                                                    |
+|   Minor Fire Weakness   | +1 to the level of injury<br />received from Fire damage. |          |                                                                                                                    |
 | Physical Defense Level |                               0                               |          |                                                        Armor                                                        |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |    Inventory Weight    |                             3 lb                             |          |                                                      Equipment                                                      |

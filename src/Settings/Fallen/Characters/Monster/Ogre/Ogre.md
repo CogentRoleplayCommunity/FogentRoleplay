@@ -22,7 +22,7 @@
 
 |          Name          |                            Effect                            | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                    Fellkin blood                                                    |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
 | Physical Defense Level |                               1                               |          |                                                        Armor                                                        |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
@@ -52,5 +52,5 @@
 | Name                  | # |                 Class                 |    Tier    | Durability | LB | Value |
 | --------------------- | :-: | :------------------------------------: | :---------: | :--------: | :-: | :---: |
 | Natural Armor Level 1 | 1 |              Phy. Def. 1              |   Mundane   |            | 0 | None |
-| Crude Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
+| Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
 | Ogre's Spiked Club    | 1 | Reach Hafted Blunt, Reach Hafted Point |   Mundane   |   12/12   | 14 | 41 cc |
