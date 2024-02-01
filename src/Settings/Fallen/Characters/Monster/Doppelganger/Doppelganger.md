@@ -1,4 +1,4 @@
-# Name
+# Doppelganger
 
 ![img]()
 
@@ -13,11 +13,11 @@
 
 ## Vocations and Vocational Skills
 
-| Monster {STR, RFX, INT}   | 3 | 8d6 |
+| Monster {STR, RFX, INT}   | 1 | 7d6 |
 | ------------------------- | :-: | :-: |
 | Polycraft {STR, RFX, INT} | 2 | 7d6 |
-| Mindcraft {STR, RFX, INT} |  |    |
-| Unarmed {STR, RFX, INT}   | 3 | 8d6 |
+| Mindcraft {STR, RFX, INT} | 1 | 6d6 |
+| Unarmed {STR, RFX, INT}   | 2 | 7d6 |
 
 ## Effects
 
@@ -34,19 +34,26 @@
 
 ## Combat Rolls
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Polycraft - Melee Trick |       7d6       |                |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |        None        |
-| Polycraft - Ranged Trick |       7d6       |                |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |        None        |
-|    Polycraft - Melee    |       8d6       |                |                  |      2      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |    1 (Fellblood)    |
-|    Polycraft - Ranged    |       8d6       |                |                  |      1      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |    1 (Fellblood)    |
-|     Polycraft - Cone     |       8d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |    1 (Fellblood)    |
-|    Polycraft - Reach    |       8d6       |                |                  |      2      | Reach | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |    1 (Fellblood)    |
-|   Polycraft - Focused   |       9d6       |                |                  |      2      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |    1 (Fellblood)    |
-|    Polycraft - Sphere    |       9d6       |                |                  |      3      | Close | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |    2 (Fellblood)    |
-|         Unarmed         |  7d6<br />(-1)  |       -1       |       None       |      0      | Melee |           Bludgeon           |           Rapid           |        None        |        None        |
+|  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Unarmed |  6d6<br />(-1)  |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
-## Magic Resource: 10/10
+### Combat Spells
+
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    |             Damage<br />Types             | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------------------------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     | Slash, Bludgeon, Hew, Pierce<br />Psychic |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    | Slash, Bludgeon, Hew, Pierce<br />Psychic |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  | Slash, Bludgeon, Hew, Pierce<br />Psychic |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter | Slash, Bludgeon, Hew, Pierce<br />Psychic |                          |                    | 3 - 4 Magic Resource |
+
+## Magic Resource: 11/11
+
+## Note
+
+### Known Spells:
+
+- St
 
 ## Backstory
 
