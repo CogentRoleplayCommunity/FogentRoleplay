@@ -1,3 +1,7 @@
+poison scabbard
+
+cane sword
+
 Flaming tomahawk
 
 Dawnshard
