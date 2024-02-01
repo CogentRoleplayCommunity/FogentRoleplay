@@ -1,3 +1,5 @@
+any wound delt heals you
+
 poison scabbard
 
 cane sword
