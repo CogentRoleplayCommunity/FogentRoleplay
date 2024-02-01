@@ -2,8 +2,6 @@
 
 ![NotMyImage](./KraterUblee.jpg)
 
-Unspent Skill Points: 1
-
 ## Attributes and Core Skills
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
