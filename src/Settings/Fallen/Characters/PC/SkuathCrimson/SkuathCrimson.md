@@ -2,6 +2,8 @@
 
 ![alt_text](SkuathCrimson.png)
 
+Unspent Skill Point: 1
+
 ## Attributes and Core Skills
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
@@ -13,37 +15,37 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}                  | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
-| ---------------------------- | :-: | :-: | -------------------------- | -- | --- |
-| Short Spear {STR, RFX, INT} | 1 | 5d6 | Galecraft {STR, RFX, INT}  | -1 | 3d6 |
+| Guard {RFX}            | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
+| ---------------------- | :-: | :-: | -------------------------- | -- | --- |
+| Spear {STR, RFX, INT} | 1 | 5d6 | Galecraft {STR, RFX, INT}  | -1 | 3d6 |
 
 ## Effects
 
-|          Name          |                            Effect                            | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|          Name          |                         Effect                         | Duration |                                                       Source                                                       |
+| :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
 |  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
-| Physical Defense Level |                               3                               |          |                                                        Armor                                                        |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
-|        Language:        |                         Can speak .                         |          |                                                                                                                    |
-|  Disabling: Acrophobia  |                 Debilitating fear of heights.                 |          |                                                                                                                    |
-|    Inventory Weight    |                           28.5 lb                           |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                             45 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |                             20 ft                             |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |                             15 ft                             |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+| Physical Defense Level |                           3                           |          |                                                        Armor                                                        |
+|       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
+|    Language: Pirish    |                   Can speak Pirish.                   |          |                                                                                                                    |
+|  Disabling: Acrophobia  |             Debilitating fear of heights.             |          |                                                                                                                    |
+|    Inventory Weight    |                        28.5 lb                        |          |                                                      Equipment                                                      |
+|  Humanoid Carry Weight  |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+| Humanoid Movement Speed |                         45 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   Humanoid Swim Speed   |                         20 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|  Humanoid Climb Speed  |                         15 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls
 
 ### Weapons
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|    Short Spear    | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      3      |  Melee  |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      |  Medium  |      Pierce      |         Standard         |        None        |        None        |
-| Large Hafted Blunt |  3d6<br />(-1)  | 5d6<br />(+1d6) |       None       |      5      |  Melee  |     Bludgeon     |           Rapid           |        None        |        None        |
-|     Light Bow     |      None      | 5d6<br />(+1d6) |       None       |      0      | Extended |                  |           Quick           |        None        |        Arrow        |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|       Spear       | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
+|    Thrown Spear    | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      | Short |      Pierce      |         Standard         |        None        |        None        |
+| Large Hafted Blunt |  3d6<br />(-1)  | 5d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|     Light Bow     |      None      | 5d6<br />(+1d6) |       None       |      0      |  Far  |                  |           Quick           |        None        |        Arrow        |
 
 |      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |

@@ -2,6 +2,8 @@
 
 ![NotMyImage](MalgonBlackriron.png)
 
+Unspent Skill Point: 1
+
 ## Attributes and Core Skills
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
@@ -15,26 +17,26 @@
 
 | Warrior {STR}               | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ---------------------------- | :-: | :-: | -------------------------- | -- | --- |
-| Large Hafted {STR, RFX, INT} | 1 | 5d6 | Cryocraft                  | -1 | 3d6 |
+| Large Hafted {STR, RFX, INT} | 1 | 5d6 | Cryocraft {STR, RFX, INT} | -1 | 3d6 |
 | Heavy Bow {STR, RFX, INT}    | 1 | 5d6 |                            |    |     |
 | Warrior Knowledge {INT}      |  | 4d6 |                            |    |     |
 
 ## Effects
 
-|             Name             |                            Effect                            | Duration |                                                      Source                                                      |
-| :---------------------------: | :-----------------------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------------------: |
+|             Name             |                         Effect                         | Duration |                                                      Source                                                      |
+| :---------------------------: | :----------------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------------------: |
 |     Minor Silver Weakness     | +1 to the level of injury received from Silver damage. |          |                                                   Fellkin blood                                                   |
-|    Physical Defense Level    |                               3                               |          |                                                       Armor                                                       |
-|          Medium Size          |                     5x5 ft on battle map.                     |          |                                                                                                                  |
-|      Language: Babelish      |                      Can speak Babelish.                      |          |                                                                                                                  |
-|       Language: Primal       |                       Can speak Primal.                       |          |                                                                                                                  |
-| Disabling: Incapable of Lying |          His people do not lie and neither does he.          |          |                                                                                                                  |
-|       Inventory Weight       |                           34.35 lb                           |          |                                                     Equipment                                                     |
-|     Humanoid Carry Weight     |                            220 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, +40 lb positive Lift,<br />- 20 lb negative Lift |
-|         Light Weight         |                -0d6 to STR/RFX governed skills                |          |                                             0% - 25% of carry weight                                             |
-|    Humanoid Movement Speed    |                             35 ft                             |          |                             30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                             |
-|      Humanoid Swim Speed      |                             25 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                             |
-|     Humanoid Climb Speed     |                             20 ft                             |          |                               15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                               |
+|    Physical Defense Level    |                           3                           |          |                                                       Armor                                                       |
+|          Medium Size          |                 5x5 ft on battle map.                 |          |                                                                                                                  |
+|      Language: Babelish      |                  Can speak Babelish.                  |          |                                                                                                                  |
+|       Language: Primal       |                   Can speak Primal.                   |          |                                                                                                                  |
+| Disabling: Incapable of Lying |       His people do not lie and neither does he.       |          |                                                                                                                  |
+|       Inventory Weight       |                       34.35 lb                       |          |                                                     Equipment                                                     |
+|     Humanoid Carry Weight     |                         220 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, +40 lb positive Lift,<br />- 20 lb negative Lift |
+|         Light Weight         |            -0d6 to STR/RFX governed skills            |          |                                             0% - 25% of carry weight                                             |
+|    Humanoid Movement Speed    |                         35 ft                         |          |                             30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                             |
+|      Humanoid Swim Speed      |                         25 ft                         |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                             |
+|     Humanoid Climb Speed     |                         20 ft                         |          |                               15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                               |
 
 ## Combat Rolls
 
