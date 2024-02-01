@@ -26,17 +26,17 @@
 |    Inventory Weight    |             17.5 lb             |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |              30 ft              |          |                                30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                |
-|   Humanoid Swim Speed   |              15 ft              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                |
-|  Humanoid Climb Speed  |              15 ft              |          |                                  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                  |
+| Humanoid Movement Speed |              30 ft              |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   Humanoid Swim Speed   |              15 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|  Humanoid Climb Speed  |              15 ft              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls:
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Thrusting Point | 4d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Small Slashing Blade | 5d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|  Thrown Small Point  | 4d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+|         Name         |   One<br />Handed   | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------------------: | :------------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Small Thrusting Point | 1d8, 3d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Small Slashing Blade | 1d8, 4d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|  Thrown Small Point  | 1d8, 3d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
 
 ## Equipment:
 
@@ -46,7 +46,7 @@
 | Leather Vambrace              | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.66 bc |
 | Leather Cuisses and Greaves   | 1 |                            Leg Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.67 bc |
 | Clothes, Fine                 | 1 |                                                                |                | Mundane |            |  6  |  15 bc  |
-| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   | 1.5 |  10 bc  |
+| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Quality |   15/15   | 1.5 |  10 bc  |
 
 ## Backstory
 
