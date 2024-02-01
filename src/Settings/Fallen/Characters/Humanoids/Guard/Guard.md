@@ -6,22 +6,22 @@
 
 | STR       | 0 |    | RFX             | 0 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Will              | 0 | 3d6 |
+| Athletics | 0 | 2d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
+| Climb     | 0 | 2d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 2d6 | Survival          | 0 | 3d6 |
+| Lift      | 0 | 2d6 | Stealth         | 0 | 2d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        | 1 | 4d6 |
-| ------------------ | :-: | :-: |
-| Short Spear {STR, RFX, INT} | 1 | 4d6 |
+| Guard {STR, RFX, INT}        | 1 | 3d6 |
+| ---------------------------- | :-: | :-: |
+| Short Spear {STR, RFX, INT} | 1 | 3d6 |
 
 ## Effects
 
 |          Name          |             Effect             | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                5                |          |                                                        Armor                                                        |
+| Physical Defense Level |                6                |          |                                                        Armor                                                        |
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
 |    Inventory Weight    |              55 lb              |          |                                                      Equipment                                                      |
@@ -33,21 +33,19 @@
 
 ## Combat Rolls
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|    Short Spear    | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear | 6d6<br />(+2d6) | 6d6<br />(+2d6) |       None       |      3      | Medium |      Pierce      |         Standard         |        None        |        None        |
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|    Spear    | 5d6<br />(+2d6) | 6d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
+| Thrown Spear | 5d6<br />(+2d6) | 5d6<br />(+2d6) |       None       |    Short    | Short |      Pierce      |         Standard         |        None        |        None        |
 
 ## Equipment:
 
-|              Name              | # |               Class               |     Effect     |   Tier   | Durability | LB |  Value  |
-| :-----------------------------: | :-: | :--------------------------------: | :------------: | :-------: | :--------: | :-: | :------: |
-|         Gambeson Armor         | 1 |  Body Armor, Arm Armor, Leg Armor  | Phy. Def. 1.00 |  Mundane  |   12/12   | 8 |   5 bc   |
-|         Chainmail Coif         | 1 |             Head Armor             | Phy. Def. 0.38 | Excellent |   21/21   | 6 | 9.57 bc |
-| Chainmail Short-sleeved Hauberk | 1 |             Body Armor             | Phy. Def. 1.15 | Excellent |   21/21   | 18 | 28.72 bc |
-|    Chainmail Sleeves/Mittens    | 1 | Arm Armor, Hand Protection Unarmed | Phy. Def. 0.77 | Excellent |   21/21   | 12 | 19.16 bc |
-|          Heater Shield          | 1 |               Shield               |  Phy. Def. 2  |  Mundane  |   12/12   | 8 |   7 bc   |
-|           Short Spear           | 1 |  Short Spear, Thrown Short Spear  |                |  Mundane  |   12/12   | 3 |   1 bc   |
+|      Name      | # |                    Class                    |     Effect     |   Tier   | Durability | LB | Value |
+| :-------------: | :-: | :------------------------------------------: | :------------: | :-------: | :--------: | :-: | :---: |
+| Gambeson Armor | 1 |       Body Armor, Arm Armor, Leg Armor       | Phy. Def. 1.00 |  Mundane  |   12/12   | 8 | 5 bc |
+| Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 3  | Excellent |   21/21   | 47 | 75 bp |
+|  Heater Shield  | 1 |                    Shield                    |  Phy. Def. 2  |  Mundane  |   12/12   | 8 | 7 bc |
+|      Spear      | 1 |             Spear, Thrown Spear             |                |  Mundane  |   12/12   | 3 | 1 bc |
 
 ## Containers
 
