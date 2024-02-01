@@ -4,51 +4,51 @@
 
 ## Attributes and Core Skills
 
-| STR       |   0   |       | RFX             |   0   |       | INT               |   0   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   1   |  3d6  | Acrobatics      |   1   |  3d6  | Communication     |   0   |  3d6  |
-| Climb     |   1   |  3d6  | Perception      |   1   |  3d6  | General Knowledge |   0   |  3d6  |
-| Endurance |   0   |  3d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  4d6  |
-| Lift      |   0   |  3d6  | Stealth         |   1   |  5d6  | Will         |   0   |  3d6  |
+| STR       | 0 |    | RFX             | 0 |    | INT               | 0 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 1 | 3d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
+| Climb     | 1 | 3d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
-| Ranger {STR}    |   2   |  6d6  | Fellcaster {STR, RFX, INT} | 0   | 4d6 |
-| --------------- | :---: | :---: | ------------- | --- | --- |
-| Heavy Bow {STR, RFX, INT} |   2   |  6d6  | Hemacraft     | -1  | 3d6 |
+| Ranger {STR}              | 2 | 6d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
+| ------------------------- | :-: | :-: | -------------------------- | -- | --- |
+| Heavy Bow {STR, RFX, INT} | 2 | 6d6 | Hemacraft                  | -1 | 3d6 |
 
 ## Effects
 
-|             Name             |                                 Effect                                 | Duration |                                                                  Source                                                                  |
-| :--------------------------: | :--------------------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|    Minor Silver Weakness     |     +1 to the level of injury received from Silver damage.      |          |                                                              Fellkin blood                                                               |
-|    Physical Defense Level    |                                   3                                    |          |                                                                  Armor                                                                   |
-|         Medium Size          |                         5x5 ft on battle map.                          |          |                                                                                                                                          |
-|      Language: Babelish      |                          Can speak Babelish.                           |          |                                                                                                                                          |
-|       Language: Pirish       |                           Can speak Pirish.                            |          |                                                                                                                                          |
-| Disabling: Extreme Prejudice | Overwhelming hatred/disgust<br />of Brightkin and Dawn Empire members. |          |                                                                                                                                          |
-|       Inventory Weight       |                                 30 lb                                  |          |                                                                Equipment                                                                 |
-|    Humanoid Carry Weight     |                                 220 lb                                 |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|         Light Weight         |                    -0d6 to STR/RFX governed skills                     |          |                                                         0% - 25% of carry weight                                                         |
-|   Humanoid Movement Speed    |                                 35 ft                                  |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
-|     Humanoid Swim Speed      |                                 20 ft                                  |          |                                        15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
-|     Humanoid Climb Speed     |                                 20 ft                                  |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
+|             Name             |                                 Effect                                 | Duration |                                                       Source                                                       |
+| :--------------------------: | :--------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|    Minor Silver Weakness    |         +1 to the level of injury received from Silver damage.         |          |                                                    Fellkin blood                                                    |
+|    Physical Defense Level    |                                   3                                   |          |                                                        Armor                                                        |
+|         Medium Size         |                         5x5 ft on battle map.                         |          |                                                                                                                    |
+|      Language: Babelish      |                          Can speak Babelish.                          |          |                                                                                                                    |
+|       Language: Pirish       |                           Can speak Pirish.                           |          |                                                                                                                    |
+| Disabling: Extreme Prejudice | Overwhelming hatred/disgust<br />of Brightkin and Dawn Empire members. |          |                                                                                                                    |
+|       Inventory Weight       |                                 30 lb                                 |          |                                                      Equipment                                                      |
+|    Humanoid Carry Weight    |                                 220 lb                                 |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|         Light Weight         |                    -0d6 to STR/RFX governed skills                    |          |                                              0% - 25% of carry weight                                              |
+|   Humanoid Movement Speed   |                                 35 ft                                 |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|     Humanoid Swim Speed     |                                 20 ft                                 |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|     Humanoid Climb Speed     |                                 20 ft                                 |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Hemacraft - Melee Trick  |       3d6       |                 |                   |      0      |    Melee     |       Bleed       |           Rapid           |                     |        None         |
-| Hemacraft - Ranged Trick |       3d6       |                 |                   |      0      |    Close     |       Bleed       |         Standard          |                     |        None         |
-|        Heavy Bow         |      None       | 8d6<br />(+2d6) |       None        |      2      | Sharpshooter |                   |         Standard          |        None         |        Arrow        |
-|  Medium Thrusting Sword  | 4d6<br />(+1d6) | 5d6<br />(+2d6) |  5d6<br />(+1d6)  |      2      |    Melee     |      Pierce       |           Rapid           |        None         |        None         |
-|  Medium Slashing Sword   | 5d6<br />(+2d6) | 6d6<br />(+3d6) |  6d6<br />(+1d6)  |      0      |    Melee     |       Slash       |           Rapid           |        None         |        None         |
+| Hemacraft - Melee Trick |       3d6       |                |                  |      0      |    Melee    |       Bleed       |           Rapid           |                    |        None        |
+| Hemacraft - Ranged Trick |       3d6       |                |                  |      0      |    Close    |       Bleed       |         Standard         |                    |        None        |
+|        Heavy Bow        |      None      | 8d6<br />(+2d6) |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
+|  Medium Thrusting Sword  | 4d6<br />(+1d6) | 5d6<br />(+2d6) |  5d6<br />(+1d6)  |      2      |    Melee    |      Pierce      |           Rapid           |        None        |        None        |
+|  Medium Slashing Sword  | 5d6<br />(+2d6) | 6d6<br />(+3d6) |  6d6<br />(+1d6)  |      0      |    Melee    |       Slash       |           Rapid           |        None        |        None        |
 
 |       Name       | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|  Standard Arrow  |        Arrow        |        +1d6        |      1      | None  |      Pierce       |        None         |
-|  Wounding Arrow  |        Arrow        |        +1d6        |      1      | None  |   Pierce, Bleed   |        None         |
-| Anti-armor Arrow |        Arrow        |        +1d6        |      2      | None  |      Pierce       |        None         |
+|  Standard Arrow  |        Arrow        |        +1d6        |      1      | None |      Pierce      |        None        |
+|  Wounding Arrow  |        Arrow        |        +1d6        |      1      | None |   Pierce, Bleed   |        None        |
+| Anti-armor Arrow |        Arrow        |        +1d6        |      2      | None |      Pierce      |        None        |
 
 ## Destiny Points: 1/3
 
@@ -56,28 +56,28 @@
 
 ## Equipment:
 
-| Name                         |   #   |                     Class                     |  Tier   | Durability |  LB   | Value  |
-| ---------------------------- | :---: | :-------------------------------------------: | :-----: | :--------: | :---: | :----: |
-| Gambeson Coat                |   1   |                  Phy. Def. 1                  | Mundane |   12/12    |   5   |  2 bc  |
-| Gambeson Leggings            |   1   |                 Phy. Def. 0.5                 | Mundane |   12/12    |   3   |  1 bc  |
-| Leather Cuirass and Pauldron |   1   |                 Phy. Def. 0.5                 | Mundane |   12/12    |   4   |  3 bc  |
-| Leather Cuisses and Greaves  |   1   |                 Phy. Def. 0.5                 | Mundane |   12/12    |   3   |  2 bc  |
-| Leather Vambrace             |   1   |                 Phy. Def. 0.5                 | Mundane |   12/12    |   2   | 1.5 bc |
-| Clothes, Common              |   1   |                                           | Mundane |            |   3   |  5 bc  |
-| Longbow                      |   1   |                   Heavy Bow                   | Mundane |   12/12    |   4   | 50 bc  |
-| Quiver (capacity: 20)        |   1   |                                           | Mundane |            |   1   |  1 bc  |
-| Broadhead Arrow              |  20   |                Standard Arrow                 | Mundane |     -      | 0.05  |  1 bc  |
-| Barbed Broadhead Arrow       |  20   |                Wounding Arrow                 | Mundane |     -      | 0.05  | 1.4 bc |
-| Bodkin Arrow                 |  20   |               Anti-armor Arrow                | Mundane |     -      | 0.05  |  2 bc  |
-| Arming Sword                 |   1   | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12    |   2   |  2 bc  |
+| Name                         | # |                     Class                     |  Tier  | Durability |  LB  | Value |
+| ---------------------------- | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :----: |
+| Gambeson Coat                | 1 |                  Phy. Def. 1                  | Mundane |   12/12   |  5  |  2 bc  |
+| Gambeson Leggings            | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  |  1 bc  |
+| Leather Cuirass and Pauldron | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  4  |  3 bc  |
+| Leather Cuisses and Greaves  | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  |  2 bc  |
+| Leather Vambrace             | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  2  | 1.5 bc |
+| Clothes, Common              | 1 |                                              | Mundane |            |  3  |  5 bc  |
+| Longbow                      | 1 |                   Heavy Bow                   | Mundane |   12/12   |  4  | 50 bc |
+| Quiver (capacity: 20)        | 1 |                                              | Mundane |            |  1  |  1 bc  |
+| Broadhead Arrow              | 20 |                Standard Arrow                | Mundane |     -     | 0.05 |  1 bc  |
+| Barbed Broadhead Arrow       | 20 |                Wounding Arrow                | Mundane |     -     | 0.05 | 1.4 bc |
+| Bodkin Arrow                 | 20 |               Anti-armor Arrow               | Mundane |     -     | 0.05 |  2 bc  |
+| Arming Sword                 | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   |  2  | 10 bc |
 
 ## Containers
 
 ### Container Name
 
-| Name |   #   | Class | Tier  | Durability |  LB   | Value |
-| ---- | :---: | :---: | :---: | :--------: | :---: | :---: |
-|      |       |       |       |            |       |       |
+| Name | # | Class | Tier | Durability | LB | Value |
+| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
+|      |  |      |      |            |    |      |
 
 ## Notes
 
