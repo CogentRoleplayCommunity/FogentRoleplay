@@ -59,5 +59,5 @@
 | Name                 | # |                    Class                    |   Effect   |  Tier  | Durability | LB | Value |
 | -------------------- | :-: | :------------------------------------------: | :---------: | :-----: | :--------: | :-: | :---: |
 | Leather Armor        | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2 | Quality |   15/15   | 12 | 10 bc |
-| Crude Wooden Javelin | 3 |       Short Spear, Thrown Short Spear       |   Shoddy   |        |    9/9    | 2 | 50 cc |
+| Wooden Javelin | 3 |       Short Spear, Thrown Short Spear       |   Shoddy   |        |    9/9    | 2 | 50 cc |
 | Dane Axe             | 1 |               Large Hafted Axe               |            | Mundane |   12/12   | 4 | 11 bc |
