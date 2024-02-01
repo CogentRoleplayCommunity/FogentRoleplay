@@ -34,7 +34,7 @@ Executioner swords
 
 Early Muskets and Gun swords
 
-Epilogue is a bipolar sword, can switch between rapier, sidesword, and bastard sword.
+Epilogue is a bipolar sword, can switch between rapier, sidesword, and bastard sword. Any opponent cut sword head falls off.
 
 Push Dagger
 
