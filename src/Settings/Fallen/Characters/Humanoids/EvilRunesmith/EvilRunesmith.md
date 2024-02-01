@@ -13,13 +13,14 @@
 
 ## Vocations and Vocational Skills
 
-| Runesmith {RFX, INT}        | 2 | 7d6 |
-| --------------------------- | :-: | :-: |
-| Electricity Rune {RFX, INT} | 1 | 6d6 |
-| Mind Rune {RFX, INT}       | 1 | 6d6 |
-| Space Rune {RFX, INT}       | 1 | 6d6 |
-| Gravity Rune {RFX, INT}     | 1 | 6d6 |
-| Light Rune {RFX, INT}       | -1 | 4d6 |
+| Runesmith {RFX, INT}               | 2 | 7d6 |
+| ---------------------------------- | :-: | :-: |
+| Electricity Rune {RFX, INT}        | 1 | 6d6 |
+| Mind Rune {RFX, INT}              | 1 | 6d6 |
+| Space Rune {RFX, INT}              | 1 | 6d6 |
+| Gravity Rune {RFX, INT}            | 1 | 6d6 |
+| Light Rune {RFX, INT}              | -1 | 4d6 |
+| Large Hafted Blunt {STR, RFX, INT} | 0 | 5d6 |
 
 ## Effects
 
@@ -39,20 +40,21 @@
 
 ## Combat Rolls
 
+### Weapons
+
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Hafted Blunt |  4d6<br />(-1)  | 6d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ### Combat Spells
 
-|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    |           Damage<br />Types           | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------------------: | :-----------------------: | :-----------------: | :------------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     | Electric, Psychic, Bludgeon, Radiant |                          |                    |   0 Magic Resource   |
-|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |     Electric, Psychic, Bludgeon     |                          |                    |  0 Magic Resource  |
-| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |     Electric, Psychic, Bludgeon     |                          |                    | 1 - 2 Magic Resource |
-|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |     Electric, Psychic, Bludgeon     |                          |                    | 3 - 4 Magic Resource |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |   Range   |           Damage<br />Types           | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :--------: | :-----------------------------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |    Near    | Electric, Psychic, Bludgeon, Radiant |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |   Medium   |     Electric, Psychic, Bludgeon     |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            | Far - Long |     Electric, Psychic, Bludgeon     |                          |                    | 1 - 2 Magic Resource |
 
-## Focus: 11/11
+## Focus: 14/14
 
 ## Equipment
 
