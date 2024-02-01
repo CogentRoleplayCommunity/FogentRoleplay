@@ -33,7 +33,6 @@ Specific Spells:
 Generic Spells:
 
 - [Generic Apprentice Spell](Spells/Apprentice/GenericApprenticeSpell.md)
-- [Cone Magic](Spells/Apprentice/ConeMagic.md)
 
 Specific Spells:
 
@@ -69,7 +68,6 @@ Specific Spells:
 Generic Spells:
 
 - [Generic Adept Spell](Spells/Adept/GenericAdeptSpell.md)
-- [Sphere Magic](Spells/Adept/SphereMagic.md)
 
 Specific Spells:
 

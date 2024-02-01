@@ -50,6 +50,7 @@ Silver Plating, while highly effective, is still soft and is easily tarnished. A
 - [Asher&#39;s Arms Swordbreaker](UniqueWeapons/Asher'sArmsSwordbreaker/Asher'sArmsSwordbreaker.md)
 - [Char](UniqueWeapons/Char/Char.md)
 - [Dancing Moonlight](UniqueWeapons/DancingMoonlight/DancingMoonlight.md)
+- [Draupnir Spear](./UniqueWeapons/DraupnirSpear/DraupnirSpear.md)
 - [Echo](UniqueWeapons/Echo/Echo.md)
 - [Epilogue](UniqueWeapons/Epilogue/Epilogue.md)
 - [Fang - Replica](UniqueWeapons/Fang-Replica/Fang-Replica.md)

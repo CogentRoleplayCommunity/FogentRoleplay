@@ -13,57 +13,51 @@
 
 ## Vocations and Vocational Skills
 
-| Monk {RFX}         | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 3d6 |
-| ------------------- | :-: | :-: | -------------------------- | -- | --- |
-| Large Hafted {ALL} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | -1 | 2d6 |
+| Monk {RFX}                   | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0 | 3d6 |
+| ----------------------------- | :-: | :-: | -------------------------- | - | --- |
+| Large Hafted {STR, RFX, INT} | 1 | 4d6 | Sonocraft {STR, RFX, INT}  | 0 | 3d6 |
 
 ## Effects
 
-|          Name          |                            Effect                            | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                    Fellkin blood                                                    |
-| Physical Defense Level |                               1                               |          |                                                        Armor                                                        |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
-|    Language: Primal    |                       Can speak Primal.                       |          |                                                                                                                    |
-|  Disabling: Dim-witted  |                            -1 INT                            |          |                                                                                                                    |
-|    Inventory Weight    |                            14.5 lb                            |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                             40 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |                             15 ft                             |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |                             20 ft                             |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|          Name          |                         Effect                         | Duration |                                                       Source                                                       |
+| :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+| Physical Defense Level |                           3                           |          |                                                        Armor                                                        |
+|       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
+|    Language: Primal    |                   Can speak Primal.                   |          |                                                                                                                    |
+|  Disabling: Dim-witted  |                         -1 INT                         |          |                                                                                                                    |
+|    Inventory Weight    |                        14.5 lb                        |          |                                                      Equipment                                                      |
+|  Humanoid Carry Weight  |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+| Humanoid Movement Speed |                         40 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   Humanoid Swim Speed   |                         15 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|  Humanoid Climb Speed  |                         20 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls
 
 ### Weapons
 
-|        Name        |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Hafted Blunt | 3d8, 1d6<br />(+0d6) |        (+0d6)        |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Medium Hafted Blunt | 3d8, 1d6<br />(+0d6) | 3d8, 2d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Large Hafted Blunt |  3d8, 0d6<br />(-1)  | 3d8, 2d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Reach Hafted Blunt |  2d8, 0d6<br />(-2)  | 3d8, 3d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Name        |   One<br />Handed   |    Two<br />Handed    | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------: | :------------------: | :-------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Small Hafted Blunt | 1d6, 3d8<br />(+0d6) |        (+0d6)        |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Thrown Small Blunt | 1d6, 3d8<br />(+0d6) |        (+0d6)        |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+| Medium Hafted Blunt | 1d6, 3d8<br />(+0d6) | 2d6, 3d8<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Large Hafted Blunt |  0d6, 3d8<br />(-1)  | 2d6, 3d8<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Reach Hafted Blunt |  0d6, 2d8<br />(-2)  | 3d6, 3d8<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
 |      |                    |                    |            |      |                  |                    |
 
-### Party Trick Magic
+### Combat Spells
 
-|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Short |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
-
-### Novice Spells
-
-|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
-|    [Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |     Shockwave     |           Rapid           |        None        |  0 Magic Resource  |
-|    [Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
-|     [Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short |     Shockwave     |           Quick           |        None        |  0 Magic Resource  |
-|    [Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium |     Shockwave     |         Standard         |        None        |  0 Magic Resource  |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     |     Shockwave     |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |     Shockwave     |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |     Shockwave     |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |     Shockwave     |                          |                    | 3 - 4 Magic Resource |
 
 ## Destiny Points: 1/3
 
@@ -71,19 +65,20 @@
 
 ## Equipment:
 
-| Name                          | # |                                      Class                                      | Effect            |   Tier   | Durability | LB | Value |
-| ----------------------------- | :-: | :-----------------------------------------------------------------------------: | ----------------- | :-------: | :--------: | :-: | :---: |
-| Leather Cuirass and Pauldrons | 1 |                                   Body Armor                                   | Phy. Def. 1.00    |  Quality  |   15/15   |  6  | 5 bc |
-| Clothes, Traveler             | 1 |                                                                                |                   |  Mundane  |            |  4  | 5 bc |
-| Monkey Staff                  | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   |  4  |   ?   |
-| Lavender Lancer Scarf         | 1 |                                                                                |                   |  Mundane  |            | 0.5 | 50 cc |
+| Name                  | # |                                      Class                                      |      Effect      |   Tier   | Durability | LB | Value |
+| --------------------- | :-: | :-----------------------------------------------------------------------------: | :---------------: | :-------: | :--------: | :-: | :---: |
+| Gambeson Armor        | 1 |                        Body Armor, Arm Armor, Leg Armor                        |  Phy. Def. 1.00  |  Mundane  |   12/12   |  8  | 5 bc |
+| Leather Armor         | 1 |                  Head Armor, Body Armor, Arm Armor, Leg Armor                  |    Phy. Def. 2    |  Quality  |   15/15   | 12 | 5 bc |
+| Clothes, Traveler     | 1 |                                                                                |                  |  Mundane  |            |  4  | 5 bc |
+| Monkey Staff          | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   |  4  |   ?   |
+| Lavender Lancer Scarf | 1 |                                                                                |                  |  Mundane  |            | 0.5 | 50 cc |
 
 ## Containers
 
 | Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 24 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Coin       | 19 |                |        | Mundane |            | 0.02 | 1 bc |
 | Copper Coin       | 83 |                |        | Mundane |            | 0.02 | 1 cc |
 
 ## Notes

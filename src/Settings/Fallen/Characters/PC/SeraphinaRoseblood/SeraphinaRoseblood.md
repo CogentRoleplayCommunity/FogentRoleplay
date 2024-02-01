@@ -13,17 +13,17 @@
 
 ## Vocations and Vocational Skills
 
-| Noble {ALL}        | 0 | 4d6 | Fellcaster {RFX}   | 2  | 6d6 |
+| Noble {STR, RFX, INT}        | 0 | 4d6 | Fellcaster {RFX}   | 2  | 6d6 |
 | ------------------ | :-: | :-: | ------------------ | -- | --- |
-| Short Spear {ALL} | 0 | 4d6 | Hydrocraft {ALL}   | 2  | 6d6 |
-|                    |  |    | Polycraft {ALL}    | -1 | 3d6 |
-|                    |  |    | Electrocraft {ALL} | -1 | 3d6 |
+| Short Spear {STR, RFX, INT} | 0 | 4d6 | Hydrocraft {STR, RFX, INT}   | 2  | 6d6 |
+|                    |  |    | Polycraft {STR, RFX, INT}    | -1 | 3d6 |
+|                    |  |    | Electrocraft {STR, RFX, INT} | -1 | 3d6 |
 
 ## Effects
 
 |           Name           |                                 Effect                                 | Duration |                                                       Source                                                       |
 | :-----------------------: | :--------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|   Minor Silver Weakness   |     (+1) to the level of injury<br />received from Silver damage.     |          |                                                    Fellkin blood                                                    |
+|   Minor Silver Weakness   |     +1 to the level of injury received from Silver damage.     |          |                                                    Fellkin blood                                                    |
 |  Physical Defense Level  |                                   3                                   |          |                                                        Armor                                                        |
 |        Medium Size        |                         5x5 ft on battle map.                         |          |                                                                                                                    |
 |    Language: Babelish    |                          Can speak Babelish.                          |          |                                                                                                                    |

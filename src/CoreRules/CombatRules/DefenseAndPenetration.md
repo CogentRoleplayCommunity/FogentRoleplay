@@ -10,7 +10,7 @@ If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual d
 
 ### Physical Defense from Shields
 
-Character's not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Character's that are flanked or being attack from while unaware also do not benefit from the shield's defense.
+Character's not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Character's that are Off Guard or being attack from while unaware also do not benefit from the shield's defense.
 
 ## Bodily Defense
 

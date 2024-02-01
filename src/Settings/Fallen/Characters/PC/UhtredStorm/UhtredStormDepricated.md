@@ -13,17 +13,17 @@
 
 ## Vocations and Vocational Skills
 
-| Guard {RFX}        |   3   |  8d6  | Brightsmith {ALL} | 2   | 7d6 |
+| Guard {RFX}        |   3   |  8d6  | Brightsmith {STR, RFX, INT} | 2   | 7d6 |
 | ------------------ | :---: | :---: | --------------- | --- | --- |
-| Medium Sword {ALL} |   3   |  8d6  | Radiance {ALL}  | 2   | 7d6 |
-|                    |   0   |  3d6  | Blessing {ALL}  | -1  | 4d6 |
+| Medium Sword {STR, RFX, INT} |   3   |  8d6  | Radiance {STR, RFX, INT}  | 2   | 7d6 |
+|                    |   0   |  3d6  | Blessing {STR, RFX, INT}  | -1  | 4d6 |
 |                    |   0   |  3d6  | Additional Trick | -1  | 4d6 |
 
 ## Effects
 
 |                Name                |                            Effect                             | Duration |                                                                  Source                                                                  |
 | :--------------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|       Minor Silver Weakness        | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
+|       Minor Silver Weakness        | +1 to the level of injury received from Silver damage. |          |                                                              Fellkin blood                                                               |
 |       Physical Defense Level       |                               3                               |          |                                                                  Armor                                                                   |
 |            Medium Size             |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
 |         Language: Babelish         |                      Can speak Babelish.                      |          |                                                                                                                                          |

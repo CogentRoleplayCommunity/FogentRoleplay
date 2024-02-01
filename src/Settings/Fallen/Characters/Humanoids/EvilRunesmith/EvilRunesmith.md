@@ -13,13 +13,14 @@
 
 ## Vocations and Vocational Skills
 
-| Runesmith {RFX, INT}        | 2 | 7d6 |
-| --------------------------- | :-: | :-: |
-| Electricity Rune {RFX, INT} | 1 | 6d6 |
-| Mind Rune {RFX, INT}       | 1 | 6d6 |
-| Space Rune {RFX, INT}       | 1 | 6d6 |
-| Gravity Rune {RFX, INT}     | 1 | 6d6 |
-| Light Rune {RFX, INT}       | -1 | 4d6 |
+| Runesmith {RFX, INT}               | 2 | 7d6 |
+| ---------------------------------- | :-: | :-: |
+| Electricity Rune {RFX, INT}        | 1 | 6d6 |
+| Mind Rune {RFX, INT}              | 1 | 6d6 |
+| Space Rune {RFX, INT}              | 1 | 6d6 |
+| Gravity Rune {RFX, INT}            | 1 | 6d6 |
+| Light Rune {RFX, INT}              | -1 | 4d6 |
+| Large Hafted Blunt {STR, RFX, INT} | 0 | 5d6 |
 
 ## Effects
 
@@ -39,49 +40,21 @@
 
 ## Combat Rolls
 
+### Weapons
+
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Hafted Blunt |  4d6<br />(-1)  | 6d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
-### Party Trick Magic
+### Combat Spells
 
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |           Damage<br />Types           | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)  |      +0d6      |      +0d6      |       None       |      0      | Short | Electric, Psychic, Bludgeon, Radiant |         Standard         |        None        |  0 Magic Resource  |
-| [Party Trick Unarmed](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Melee |     Electric, Bludgeon, Radiant     |           Rapid           |        None        |  0 Magic Resource  |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |   Range   |           Damage<br />Types           | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :--------: | :-----------------------------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |    Near    | Electric, Psychic, Bludgeon, Radiant |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |   Medium   |     Electric, Psychic, Bludgeon     |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            | Far - Long |     Electric, Psychic, Bludgeon     |                          |                    | 1 - 2 Magic Resource |
 
-### Novice Spells
-
-|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Electric, Bludgeon      |           Rapid           |        None        |  0 Magic Resource  |
-|    [Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |      Electric, Bludgeon      |           Rapid           |        None        |  0 Magic Resource  |
-|    [Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short | Electric, Psychic, Bludgeon |           Quick           |        None        |  0 Magic Resource  |
-|     [Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short | Electric, Psychic, Bludgeon |           Quick           |        None        |  0 Magic Resource  |
-|    [Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium | Electric, Psychic, Bludgeon |         Standard         |        None        |  0 Magic Resource  |
-
-### Apprentice Spells
-
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|   [Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +3d6      |       +1d6       |      0      |  Melee  |      Electric, Bludgeon      |           Rapid           |        None        |  1 Magic Resource  |
-|  [Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +1d6      |      +2d6      |       +1d6       |      2      |  Melee  |     Electric, Bludgeon     |           Rapid           |        None        |  1 Magic Resource  |
-|   [Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +0d6      |      +1d6      |       +1d6       |      4      |  Melee  |     Electric,, Bludgeon     |           Rapid           |        None        |  1 Magic Resource  |
-|   [Magic Whip](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +1d6      |      +2d6      |       +1d6       |      0      |  Reach  |      Electric, Bludgeon      |           Rapid           |        None        |  1 Magic Resource  |
-| [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  | Electric, Psychic, Bludgeon |         Standard         |        None        |  1 Magic Resource  |
-|   [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended | Electric, Psychic, Bludgeon |          Loading          |        None        |  1 Magic Resource  |
-|   [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended | Electric, Psychic, Bludgeon |           Quick           |        None        |  1 Magic Resource  |
-
-|                                                 Name                                                 | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Large Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +3d6      |       None       |      2      | Melee |     Electric, Bludgeon     |           Rapid           |        None        |  2 Magic Resource  |
-| [Large Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +2d6      |       None       |      3      | Melee |      Electric, Bludgeon      |           Rapid           |        None        |  2 Magic Resource  |
-| [Large Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |       -1d       |      +1d6      |       None       |      5      | Melee |      Electric, Bludgeon      |           Rapid           |        None        |  2 Magic Resource  |
-|    [Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Electric, Bludgeon      |        Spear Rapid        |        None        |  2 Magic Resource  |
-|   [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium | Electric, Psychic, Bludgeon |         Standard         |        None        |  2 Magic Resource  |
-|  [Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      2      |  Long  | Electric, Psychic, Bludgeon |      Complex Loading      |        None        |  2 Magic Resource  |
-
-## Focus: 11/11
+## Focus: 14/14
 
 ## Equipment
 

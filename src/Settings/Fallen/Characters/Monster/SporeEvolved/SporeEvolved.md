@@ -13,16 +13,16 @@
 
 ## Vocations and Vocational Skills
 
-| Monster {ALL}    |   1   |  5d6  |
+| Monster {STR, RFX, INT}    |   1   |  5d6  |
 | ---------------- | :---: | :---: |
-| Sporecraft {ALL} |   1   |  5d6  |
+| Sporecraft {STR, RFX, INT} |   1   |  5d6  |
 
 ## Effects
 
 |          Name           |                            Effect                             | Duration |                          Source                          |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                          |
-|   Minor Fire Weakness   |  (+1) to the level of injury<br />received from Fire damage.  |          |                                                          |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                          |
+|   Minor Fire Weakness   |  +1 to the level of injury<br />received from Fire damage.  |          |                                                          |
 | Physical Defense Level  |                               0                               |          |                          Armor                           |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                          |
 | Humanoid Movement Speed |                             35 ft                             |          |  30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)   |

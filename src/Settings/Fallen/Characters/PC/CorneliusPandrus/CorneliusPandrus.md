@@ -13,9 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Runesmith {INT}     |   2   |  6d6  | Fellcaster {ALL} | 0   | 2d6 |
+| Runesmith {INT}     |   2   |  6d6  | Fellcaster {STR, RFX, INT} | 0   | 2d6 |
 | ------------------- | :---: | :---: | ---------------- | --- | --- |
-| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {ALL}  | -1  | 2d6 |
+| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {STR, RFX, INT}  | -1  | 2d6 |
 | Rune of Earth {INT} |   0   |  4d6  |                  |     |     |
 | Rune of Air {INT}   |   0   |  4d6  |                  |     |     |
 | Rune of Water {INT} |   0   |  4d6  |                  |     |     |
@@ -24,7 +24,7 @@
 
 |          Name           |                            Effect                             | Duration |                                                      Source                                                      |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                  Fellkin blood                                                   |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                  Fellkin blood                                                   |
 | Physical Defense Level  |                               0                               |          |                                                      Armor                                                       |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                  |
 |   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                  |

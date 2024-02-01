@@ -13,16 +13,16 @@
 
 ## Vocations and Vocational Skills
 
-| Brute {STR}        | 2 | 8d6 | Fellcaster {ALL} | 0  | 4d6 |
+| Brute {STR}        | 2 | 8d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Reach Hafted {ALL} | 2 | 7d6 | Polycraft {ALL}  | -1 | 4d6 |
-| Short Spear {ALL}  | 2 | 7d6 |                  |    |     |
+| Reach Hafted {STR, RFX, INT} | 2 | 7d6 | Polycraft {STR, RFX, INT}  | -1 | 4d6 |
+| Short Spear {STR, RFX, INT}  | 2 | 7d6 |                  |    |     |
 
 ## Effects
 
 |          Name          |                            Effect                            | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                    Fellkin blood                                                    |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
 | Physical Defense Level |                               1                               |          |                                                        Armor                                                        |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
@@ -52,5 +52,5 @@
 | Name                  | # |                 Class                 |    Tier    | Durability | LB | Value |
 | --------------------- | :-: | :------------------------------------: | :---------: | :--------: | :-: | :---: |
 | Natural Armor Level 1 | 1 |              Phy. Def. 1              |   Mundane   |            | 0 | None |
-| Crude Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
+| Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
 | Ogre's Spiked Club    | 1 | Reach Hafted Blunt, Reach Hafted Point |   Mundane   |   12/12   | 14 | 41 cc |

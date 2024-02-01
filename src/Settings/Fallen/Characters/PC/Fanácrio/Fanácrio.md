@@ -13,18 +13,18 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {ALL}   |   3   |  8d6  | Royal Morraki {INT} | 0   | 5d6 |
+| Fellcaster {STR, RFX, INT}   |   3   |  8d6  | Royal Morraki {INT} | 0   | 5d6 |
 | --------------- | :---: | :---: | ------------------- | --- | --- |
-| Mindcraft {ALL} |   3   |  8d6  | Medium Hafted       | 0   | 5d6 |
-| Sonocraft {ALL} |   3   |  8d6  |                     |     |     |
-| Polycraft {ALL} |   1   |  6d6  |                     |     |     |
-| Galecraft {ALL} |   0   |  5d6  |                     |     |     |
+| Mindcraft {STR, RFX, INT} |   3   |  8d6  | Medium Hafted       | 0   | 5d6 |
+| Sonocraft {STR, RFX, INT} |   3   |  8d6  |                     |     |     |
+| Polycraft {STR, RFX, INT} |   1   |  6d6  |                     |     |     |
+| Galecraft {STR, RFX, INT} |   0   |  5d6  |                     |     |     |
 
 ## Effects
 
 |          Name           |                            Effect                             | Duration |                                                                  Source                                                                  |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | (+1) to the level of injury<br />received from Silver damage. |          |                                                              Fellkin blood                                                               |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                              Fellkin blood                                                               |
 | Physical Defense Level  |                               4                               |          |                                                                  Armor                                                                   |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
 |   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                                          |

@@ -40,48 +40,21 @@ Earned Skill point: 2
 
 ## Combat Rolls:
 
+### Weapons
+
 |                   Name                   |   One<br />Handed   |   Two<br />Handed   |  Dual<br />Wielded  | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------------------------------: | :------------------: | :------------------: | :------------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | "Frozen Needle" - Medium Thrusting Sword | 1d8,5d6<br />(+1d6) | 1d8, 6d6<br />(+2d6) | 1d8, 6d6<br />(+1d6) |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | "Frozen Needle" - Medium Slashing Sword | 1d8, 6d6<br />(+2d6) | 1d8,7d6<br />(+3d6) | 1d8, 7d6<br />(+1d6) |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
-### Party Trick Magic
+### Combat Spells
 
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  [Party Trick Puff](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)  |      +0d6      |      +0d6      |       None       |      0      | Short | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  0 Magic Resource  |
-| [Party Trick Unarmed](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |      +0d6      |      +0d6      |       None       |      0      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  0 Magic Resource  |
-
-### Novice Spells
-
-|                                              Name                                              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Cantrip Smash/Thrust](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) |      +0d6      |      +0d6      |       +1d6       |      2      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  0 Magic Resource  |
-|    [Cantrip Slash](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  0 Magic Resource  |
-|    [Cantrip Throw](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      0      | Short | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  0 Magic Resource  |
-|     [Cantrip Dart](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)     |      +0d6      |      +0d6      |       None       |      1      | Short | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  0 Magic Resource  |
-|    [Cantrip Sling](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)    |      +1d6      |      +1d6      |       None       |      1      | Medium | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  0 Magic Resource  |
-
-### Apprentice Spells
-
-|                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|   [Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +3d6      |       +1d6       |      0      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-|  [Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      +1d6      |      +2d6      |       +1d6       |      2      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-|   [Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +0d6      |      +1d6      |       +1d6       |      4      |  Melee  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-|   [Magic Whip](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +1d6      |      +2d6      |       +1d6       |      0      |  Reach  | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  1 Magic Resource  |
-| [Magic Hand Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +2d6      |      +2d6      |       +1d6       |      1      |  Medium  | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  1 Magic Resource  |
-|   [Magic Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      2      | Extended | Slash, Bludgeon, Shockwave<br />Cold |          Loading          |        None        |  1 Magic Resource  |
-|   [Magic Arrow](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      None      |      +2d6      |       None       |      1      | Extended | Slash, Bludgeon, Shockwave<br />Cold |           Quick           |        None        |  1 Magic Resource  |
-
-|                                                 Name                                                 | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |          Damage<br />Types          | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Large Magic Slash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +3d6      |       None       |      2      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  2 Magic Resource  |
-| [Large Magic Thrust](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |      +0d6      |      +2d6      |       None       |      3      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  2 Magic Resource  |
-| [Large Magic Smash](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |       -1d       |      +1d6      |       None       |      5      | Melee | Slash, Bludgeon, Shockwave<br />Cold |           Rapid           |        None        |  2 Magic Resource  |
-|    [Magic Spear](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)    |      +2d6      |      +3d6      |       None       |      3      | Melee | Slash, Bludgeon, Shockwave<br />Cold |        Spear Rapid        |        None        |  2 Magic Resource  |
-|   [Magic Javelin](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)   |      +2d6      |      +2d6      |       None       |      3      | Medium | Slash, Bludgeon, Shockwave<br />Cold |         Standard         |        None        |  2 Magic Resource  |
-|  [Magic Heavy Bolt](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md)  |      None      |      +3d6      |       None       |      2      |  Long  | Slash, Bludgeon, Shockwave<br />Cold |      Complex Loading      |        None        |  2 Magic Resource  |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     |       Cold       |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |       Cold       |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |       Cold       |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |       Cold       |                          |                    | 3 - 4 Magic Resource |
 
 ## Destiny Points: 2/3
 
