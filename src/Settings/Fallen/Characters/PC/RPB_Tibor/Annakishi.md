@@ -35,7 +35,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 |          Name          |                            Effect                            | Duration |                                                                   Source                                                                   |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury<br />received from Silver damage. |          |                                                               Fellkin blood                                                               |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                               Fellkin blood                                                               |
 | Physical Defense Level |                        Phy. Def. 1.66                        |          |                                                                  Carapace                                                                  |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                            |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                                            |
