@@ -23,7 +23,7 @@
 |                     Name                     |                                       Effect                                       | Duration |                        Source                         |
 | :------------------------------------------: | :--------------------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
 |               Incorporeal Form               | Can move through physical objects and creatures as if they were difficult terrain. |          |                                                       |
-|            Medium Silver Weakness            |           +2 to the level of injury<br />received from Silver damage.            |          |                      Fellblood blood                      |
+|            Medium Silver Weakness            |           +2 to the level of injury received from Silver damage.            |          |                      Fellblood blood                      |
 | Complete Non-Magical/Non-Silvered Resistance |        Negate victory levels received from  Non-Magical/Non-Silvered  damage.        |          |                                                       |
 |            Physical Defense Level            |                                         0                                          |          |                         Armor                         |
 |                 Medium Size                  |                               5x5 ft on battle map.                                |          |                                                       |
