@@ -47,7 +47,7 @@
 | Leather Cuirass and Pauldrons | 1 |                           Body Armor                           | Phy. Def. 1.00 | Quality |   15/15   |  6  |  5 bc  |
 | Leather Vambrace              | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.66 bc |
 | Gambeson Armor                | 1 |                Body Armor, Arm Armor, Leg Armor                | Phy. Def. 0.33 | Mundane |   12/12   |  8  |  5 bc  |
-| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   | 1.5 |  10 bc  |
+| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   | 1.5 |  5 bc  |
 | Dagger                        | 3 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Quality |   15/15   |  1  |  2 bc  |
 
 ## Backstory
