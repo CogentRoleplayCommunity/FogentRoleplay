@@ -1,4 +1,4 @@
-# Annakishi
+# Huniki
 
 ![Sorry, no art yet to display!]()
 
@@ -9,7 +9,7 @@ I had a character idea (for Annakishi) and I've been told to make her Initiate t
 I made him a hive minded kiki of the same breed as Annakishi to avoid confusing myself if it comes to playing both at any point. :)
 
 
-## Attributes and Core Skills (UNFINISHED)
+## Attributes and Core Skills
 
 | STR       |  0  | Roll  | RFX             |  1  | Roll  | INT               |  0  | Roll  |
 | :-------: | :-: | :---: | :-------------: | :-: | :---: | :---------------: | :-: | :---: |
@@ -22,14 +22,14 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 
 
-## Vocations and Vocational Skills (UNFINISHED)
+## Vocations and Vocational Skills
 
-| Fellweaver {STR, RFX, INT} |  0  | 4d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |  1  | 4d6 |
-| :--------------: | :-: | :-: | ------------------------------------------------------------------ | :-: | --- |
-| Polycraft {STR, RFX, INT}  |  0  | 4d6 | Metallurgy {INT}                                         |  1  | 4d6 |
-| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     |  1  | 5d6 |
-| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            |  0  | 4d6 |
-| Galecraft {STR, RFX, INT}  | -1  | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |  0  | 4d6 |
+| Fellweaver {STR, RFX, INT} |  1  | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |  1  | 4d6 |
+| :------------------------: | :-: | :-: | -------------------------------------------------------- | :-: | --- |
+| Polycraft {STR, RFX, INT}  |  1  | 5d6 | Metallurgy {INT}                                         |     | 4d6 |
+| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     |     | 4d6 |
+| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            |     | 4d6 |
+|                            |     | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |  0  | 4d6 |
 
 <!-- Blacksmithing must be at least 1. Leave 1 for polycraft for an advantage at healing. -->
 
@@ -112,9 +112,9 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 
 
-## Destiny Points: 3/3
+## Destiny Points: 3/1
 
-## Fellblood: 10/10 (UNFINISHED)
+## Fellblood: 5/5
 
 
 
