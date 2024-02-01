@@ -146,8 +146,8 @@ Cheap shops will charge 50% the value for any item on this list.
 |      Pike      | 1 |                            Longspear                            |        | Mundane |   12/12   |   5   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Rapier     | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Scimitar    | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Trident    | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 | Warhammer/pick | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   2   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
