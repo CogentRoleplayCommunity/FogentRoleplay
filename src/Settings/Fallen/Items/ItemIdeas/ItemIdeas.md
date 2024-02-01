@@ -18,13 +18,19 @@ Honorable Intentions
 
 electric Rapier
 
+Noose magic item
+
+Demon coins, 30 pieces of silver
+
  magic javk eye
 
-magic arm
+Javk magic arm, thorn, Wooden Arm made of dark bron wooden thorns
 
 Executioner swords
 
 Early Muskets and Gun swords
+
+Epilogue is a bipolar sword, can switch between rapier, sidesword, and bastard sword.
 
 Push Dagger
 
@@ -38,7 +44,7 @@ More Ammunition Types
 
 Billhook
 
-Denumont (Javk Dagger)
+Denumont (Javk Dagger) Misericord
 
 #### Phoenix Tears
 
