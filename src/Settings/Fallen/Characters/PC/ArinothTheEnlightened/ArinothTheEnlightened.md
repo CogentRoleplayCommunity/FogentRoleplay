@@ -22,7 +22,7 @@
 |          Name          |                         Effect                         | Duration |                                                       Source                                                       |
 | :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
 |  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
-| Physical Defense Level |                           1                           |          |                                                        Armor                                                        |
+| Physical Defense Level |                           3                           |          |                                                        Armor                                                        |
 |       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
 |   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
 |    Language: Primal    |                   Can speak Primal.                   |          |                                                                                                                    |
@@ -38,12 +38,13 @@
 
 ### Weapons
 
-|        Name        |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Hafted Blunt | 3d8, 1d6<br />(+0d6) |        (+0d6)        |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Medium Hafted Blunt | 3d8, 1d6<br />(+0d6) | 3d8, 2d6<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Large Hafted Blunt |  3d8, 0d6<br />(-1)  | 3d8, 2d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Reach Hafted Blunt |  2d8, 0d6<br />(-2)  | 3d8, 3d6<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Name        |   One<br />Handed   |    Two<br />Handed    | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------: | :------------------: | :-------------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Small Hafted Blunt | 1d6, 3d8<br />(+0d6) |        (+0d6)        |      (+1d6)      |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Thrown Small Blunt | 1d6, 3d8<br />(+0d6) |        (+0d6)        |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+| Medium Hafted Blunt | 1d6, 3d8<br />(+0d6) | 2d6, 3d8<br />(+1d6) |      (+1d6)      |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Large Hafted Blunt |  0d6, 3d8<br />(-1)  | 2d6, 3d8<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Reach Hafted Blunt |  0d6, 2d8<br />(-2)  | 3d6, 3d8<br />(+2d6) |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
@@ -64,19 +65,20 @@
 
 ## Equipment:
 
-| Name                          | # |                                      Class                                      | Effect            |   Tier   | Durability | LB | Value |
-| ----------------------------- | :-: | :-----------------------------------------------------------------------------: | ----------------- | :-------: | :--------: | :-: | :---: |
-| Leather Cuirass and Pauldrons | 1 |                                   Body Armor                                   | Phy. Def. 1.00    |  Quality  |   15/15   |  6  | 5 bc |
-| Clothes, Traveler             | 1 |                                                                                |                   |  Mundane  |            |  4  | 5 bc |
-| Monkey Staff                  | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   |  4  |   ?   |
-| Lavender Lancer Scarf         | 1 |                                                                                |                   |  Mundane  |            | 0.5 | 50 cc |
+| Name                  | # |                                      Class                                      |      Effect      |   Tier   | Durability | LB | Value |
+| --------------------- | :-: | :-----------------------------------------------------------------------------: | :---------------: | :-------: | :--------: | :-: | :---: |
+| Gambeson Armor        | 1 |                        Body Armor, Arm Armor, Leg Armor                        |  Phy. Def. 1.00  |  Mundane  |   12/12   |  8  | 5 bc |
+| Leather Armor         | 1 |                  Head Armor, Body Armor, Arm Armor, Leg Armor                  |    Phy. Def. 2    |  Quality  |   15/15   | 12 | 5 bc |
+| Clothes, Traveler     | 1 |                                                                                |                  |  Mundane  |            |  4  | 5 bc |
+| Monkey Staff          | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   |  4  |   ?   |
+| Lavender Lancer Scarf | 1 |                                                                                |                  |  Mundane  |            | 0.5 | 50 cc |
 
 ## Containers
 
 | Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 24 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Coin       | 19 |                |        | Mundane |            | 0.02 | 1 bc |
 | Copper Coin       | 83 |                |        | Mundane |            | 0.02 | 1 cc |
 
 ## Notes
