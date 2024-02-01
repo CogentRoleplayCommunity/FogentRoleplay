@@ -19,7 +19,7 @@ Earned Skill point: 2
 | ----------------------------- | :-: | :-: |
 | Air Rune {RFX, INT}         | 1 | 5d6 |
 | Cold Rune {RFX, INT}          | 1 | 5d6 |
-| Time Rune {RFX, INT}          | -1 | 4d6 |
+| Time Rune {RFX, INT}          | 0 | 4d6 |
 | Medium Sword {STR, RFX, INT}  | 1 | 5d6 |
 
 ## Effects:
