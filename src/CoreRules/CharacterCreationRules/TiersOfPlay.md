@@ -16,7 +16,7 @@ This is a free Vocation point every character can spend to unlock their first vo
 
 ### Max Skill Points from Disabling Characteristics
 
-Skill points can be gained by choosing a disabling characteristic at character creation or when a disabling is gained mid-campaign. For each disabling characteristics, the character gains a skill point to spend up to the max value determined by the Tier of Play. 
+Skill points can be gained by choosing a disabling characteristic at character creation or when a disabling is gained mid-campaign. For each disabling characteristics, the character gains a skill point to spend up to the max value determined by the Tier of Play.
 
 If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. It is not allowed to force a disabling just so a character can gain a skill point, it should feel natural. Maybe they picked up an addiction, got their heart broken, or lost an arm. Regardless, this should be a negotiation between the player and narrator.
 
@@ -40,7 +40,7 @@ When a new tier of play is unlocked, character can gain their new attribute poin
 | ----------------------------------------------- | :--------: | :---: | :----: | :----------: |
 | Skill/Vocation Level Cap                        |     1     |   2   |   3   |      4      |
 | Given Vocation Point                            |     1     |   1   |   1   |      1      |
-| Max Disabling Characteristics<br />Skill Points |     2     |   2   |   3   |      3      |
+| Max Disabling Characteristics<br />Skill Points |     1     |   2   |   3   |      4      |
 | Starting Attribute Points                       |     1     |   1   |   2   |      3      |
 | Starting Skill Points                           |     3     |   6   |   12   |      21      |
 | Skill points till next Tier                     |     3     |   6   |   9   | Undetermined |
