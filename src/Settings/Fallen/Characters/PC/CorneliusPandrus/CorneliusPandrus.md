@@ -4,115 +4,89 @@
 
 ## Attributes and Core Skills
 
-| STR       |  -1   |       | RFX             |   0   |       | INT               |   1   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   0   |  2d6  | Acrobatics      |   0   |  3d6  | Communication     |   0   |  4d6  |
-| Climb     |   0   |  2d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  6d6  |
-| Endurance |   0   |  2d6  | Sleight of Hand |   0   |  3d6  | Survival          |   0   |  4d6  |
-| Lift      |   0   |  2d6  | Stealth         |   0   |  3d6  | Will              |   2   |  6d6  |
+| STR       | -1 |    | RFX             | 0 |    | INT               | 1 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 0 | 2d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 4d6 |
+| Climb     | 0 | 2d6 | Perception      | 1 | 4d6 | General Knowledge | 1 | 6d6 |
+| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Lift      | 0 | 2d6 | Stealth         | 0 | 3d6 | Will              | 1 | 6d6 |
 
 ## Vocations and Vocational Skills
 
-| Runesmith {INT}     |   2   |  6d6  | Fellcaster {STR, RFX, INT} | 0   | 2d6 |
-| ------------------- | :---: | :---: | ---------------- | --- | --- |
-| Rune of Fire {INT}  |   1   |  4d6  | Hemacraft {STR, RFX, INT}  | -1  | 2d6 |
-| Rune of Earth {INT} |   0   |  4d6  |                  |     |     |
-| Rune of Air {INT}   |   0   |  4d6  |                  |     |     |
-| Rune of Water {INT} |   0   |  4d6  |                  |     |     |
+| Runesmith {RFX, INT}           | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 3d6 |
+| ------------------------------ | :-: | :-: | -------------------------- | -- | --- |
+| Rune of Fire {RFX, INT}       | 1 | 5d6 | Hemacraft {STR, RFX, INT}  | -1 | 2d6 |
+| Rune of Earth {RFX, INT}       | 0 | 4d6 |                            |    |     |
+| Rune of Air {RFX, INT}         | 0 | 4d6 |                            |    |     |
+| Runesmith Knowledge {RFX, INT} |  | 5d6 |                            |    |     |
 
 ## Effects:
 
-|          Name           |                            Effect                             | Duration |                                                      Source                                                      |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                  Fellkin blood                                                   |
-| Physical Defense Level  |                               0                               |          |                                                      Armor                                                       |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                  |
-|   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                  |
-|    Language: Pirish     |                       Can speak Pirish.                       |          |                                                                                                                  |
-|    Disabling: Feeble    |                            -1 STR                             |          |                                                                                                                  |
-|    Inventory Weight     |                            16.5 lb                            |          |                                                    Equipment                                                     |
-|  Humanoid Carry Weight  |                             70 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight       |                -0d6 to STR/RFX governed skills                |          |                                             0% - 25% of carry weight                                             |
-| Humanoid Movement Speed |                             30 ft                             |          |                            30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                             |
-|   Humanoid Swim Speed   |                             10 ft                             |          |                             15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                             |
-|  Humanoid Climb Speed   |                             10 ft                             |          |                               15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                               |
+|          Name          |                         Effect                         | Duration |                                                       Source                                                       |
+| :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+| Physical Defense Level |                           0                           |          |                                                        Armor                                                        |
+|       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
+|    Language: Pirish    |                   Can speak Pirish.                   |          |                                                                                                                    |
+|    Disabling: Feeble    |                         -1 STR                         |          |                                                                                                                    |
+|    Inventory Weight    |                        16.5 lb                        |          |                                                      Equipment                                                      |
+|  Humanoid Carry Weight  |                         70 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+| Humanoid Movement Speed |                         30 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   Humanoid Swim Speed   |                         10 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|  Humanoid Climb Speed  |                         10 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls:
 
-|                                                            Name                                                             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   |          Damage<br />Types           | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :----------------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-|             Rune of Fire_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)              |                 |                 |                   |      0      |  Melee   |                 Fire                 |           Rapid           |                     |        None         |
-|            Rune of Fire_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)             |                 |                 |                   |      0      |  Close   |                 Fire                 |         Standard          |                     |        None         |
-|                Rune of Fire_[Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)                |                 |                 |                   |      2      |  Melee   |                 Fire                 |           Rapid           |                     |      1 (Focus)      |
-|            Rune of Fire_[Quick Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)            |                 |                 |                   |      1      |  Medium  |                 Fire                 |           Quick           |                     |      1 (Focus)      |
-| Rune of Fire_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md)  |                 |                 |                   |      2      | Extended |                 Fire                 |          Focused          |                     |      1 (Focus)      |
-|               Rune of Fire_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)               |                 |                 |                   |      2      | Extended |                 Fire                 |          Focused          |        Cone         |      1 (Focus)      |
-|        Rune of Fire_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)         |                 |                 |                   |      2      |  Reach   |                 Fire                 |           Rapid           |                     |      1 (Focus)      |
-|               Rune of Fire_[Sphere Magic](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)                |    (Locked)     |                 |                   |      3      |   Long   |                 Fire                 |          Focused          |       Sphere        |      2 (Focus)      |
-|                                                                                                                             |                 |                 |                   |             |          |                                      |                           |                     |                     |
-|             Rune of Earth_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)             |                 |                 |                   |      0      |  Melee   |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                     |        None         |
-|            Rune of Earth_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)            |                 |                 |                   |      0      |  Close   |     Slash, Bludgeon, Hew, Pierce     |         Standard          |                     |        None         |
-|               Rune of Earth_[Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)                |                 |                 |                   |      2      |  Melee   |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                     |      1 (Focus)      |
-|           Rune of Earth_[Quick Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)            |                 |                 |                   |      1      |  Medium  |     Slash, Bludgeon, Hew, Pierce     |           Quick           |                     |      1 (Focus)      |
-| Rune of Earth_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md) |    (Locked)     |                 |                   |      2      | Extended |     Slash, Bludgeon, Hew, Pierce     |          Focused          |                     |      1 (Focus)      |
-|              Rune of Earth_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)               |    (Locked)     |                 |                   |      2      | Extended |     Slash, Bludgeon, Hew, Pierce     |          Focused          |        Cone         |      1 (Focus)      |
-|        Rune of Earth_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)        |    (Locked)     |                 |                   |      2      |  Reach   |     Slash, Bludgeon, Hew, Pierce     |           Rapid           |                     |      1 (Focus)      |
-|               Rune of Earth_[Sphere Magic](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)               |    (Locked)     |                 |                   |      3      |   Long   |     Slash, Bludgeon, Hew, Pierce     |          Focused          |       Sphere        |      2 (Focus)      |
-|                                                                                                                             |                 |                 |                   |             |          |                                      |                           |                     |                     |
-|              Rune of Air_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)              |                 |                 |                   |      0      |  Melee   |      Slash, Bludgeon, Shockwave      |           Rapid           |                     |        None         |
-|             Rune of Air_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)             |                 |                 |                   |      0      |  Close   |      Slash, Bludgeon, Shockwave      |         Standard          |                     |        None         |
-|                Rune of Air_[Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)                 |                 |                 |                   |      2      |  Melee   |      Slash, Bludgeon, Shockwave      |           Rapid           |                     |      1 (Focus)      |
-|            Rune of Air_[Quick Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)             |                 |                 |                   |      1      |  Medium  |      Slash, Bludgeon, Shockwave      |           Quick           |                     |      1 (Focus)      |
-|  Rune of Air_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md)  |    (Locked)     |                 |                   |      2      | Extended |      Slash, Bludgeon, Shockwave      |          Focused          |                     |      1 (Focus)      |
-|               Rune of Air_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)                |    (Locked)     |                 |                   |      2      | Extended |      Slash, Bludgeon, Shockwave      |          Focused          |        Cone         |      1 (Focus)      |
-|         Rune of Air_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)         |    (Locked)     |                 |                   |      2      |  Reach   |      Slash, Bludgeon, Shockwave      |           Rapid           |                     |      1 (Focus)      |
-|                Rune of Air_[Sphere Magic](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)                |    (Locked)     |                 |                   |      3      |   Long   |      Slash, Bludgeon, Shockwave      |          Focused          |       Sphere        |      2 (Focus)      |
-|                                                                                                                             |                 |                 |                   |             |          |                                      |                           |                     |                     |
-|             Rune of Water_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)             |                 |                 |                   |      0      |  Melee   | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |        None         |
-|            Rune of Water_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)            |                 |                 |                   |      0      |  Close   | Suffocation, Slash, Bludgeon, Pierce |         Standard          |                     |        None         |
-|               Rune of Water_[Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)                |                 |                 |                   |      2      |  Melee   | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |      1 (Focus)      |
-|           Rune of Water_[Quick Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)            |                 |                 |                   |      1      |  Medium  | Suffocation, Slash, Bludgeon, Pierce |           Quick           |                     |      1 (Focus)      |
-| Rune of Water_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md) |    (Locked)     |                 |                   |      2      | Extended | Suffocation, Slash, Bludgeon, Pierce |          Focused          |                     |      1 (Focus)      |
-|              Rune of Water_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)               |    (Locked)     |                 |                   |      2      | Extended | Suffocation, Slash, Bludgeon, Pierce |          Focused          |        Cone         |      1 (Focus)      |
-|        Rune of Water_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)        |    (Locked)     |                 |                   |      2      |  Reach   | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |      1 (Focus)      |
-|               Rune of Water_[Sphere Magic](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)               |    (Locked)     |                 |                   |      3      |   Long   | Suffocation, Slash, Bludgeon, Pierce |          Focused          |       Sphere        |      2 (Focus)      |
-|                                                                                                                             |                 |                 |                   |             |          |                                      |                           |                     |                     |
-|               Hemacraft_[Melee Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/MeleeCantrip.md)               |                 |                 |                   |      0      |  Melee   | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |        None         |
-|              Hemacraft_[Ranged Cantrip](./../../../../../CoreRules/MagicRules/Spells/Cantrip/RangedCantrip.md)              |                 |                 |                   |      0      |  Close   | Suffocation, Slash, Bludgeon, Pierce |         Standard          |                     |        None         |
-|                 Hemacraft_[Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/MeleeMagic.md)                  |    (Locked)     |                 |                   |      2      |  Melee   | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |      1 (Focus)      |
-|             Hemacraft_[Quick Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Novice/RangedMagic.md)              |    (Locked)     |                 |                   |      1      |  Medium  | Suffocation, Slash, Bludgeon, Pierce |           Quick           |                     |      1 (Focus)      |
-|   Hemacraft_[Penetrating Ranged Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PenetratingRangedMagic.md)   |    (Locked)     |                 |                   |      2      | Extended | Suffocation, Slash, Bludgeon, Pierce |          Focused          |                     |      1 (Focus)      |
-|                Hemacraft_[Cone Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ConeMagic.md)                 |    (Locked)     |                 |                   |      2      | Extended | Suffocation, Slash, Bludgeon, Pierce |          Focused          |        Cone         |      1 (Focus)      |
-|          Hemacraft_[Reach Melee Magic](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ReachMeleeMagic.md)          |    (Locked)     |                 |                   |      2      |  Reach   | Suffocation, Slash, Bludgeon, Pierce |           Rapid           |                     |      1 (Focus)      |
-|                 Hemacraft_[Sphere Magic](./../../../../../CoreRules/MagicRules/Spells/Adept/SphereMagic.md)                 |    (Locked)     |                 |                   |      3      |   Long   | Suffocation, Slash, Bludgeon, Pierce |          Focused          |       Sphere        |      2 (Focus)      |
-|                                                                                                                             |                 |                 |                   |             |          |                                      |                           |                     |                     |
+### Innate
 
-| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|       |                     |                    |             |       |                   |                     |
+|  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Unarmed |       -1d       |       -1d       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+
+### Weapons
+
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|      |                |                |                  |            |      |                  |                          |                    |                    |
+
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
+
+### Combat Spells
+
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    |                                            Damage<br />Types                                            | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     | Fire Rune: Fire<br />Earth Rune: Slash, Bludgeon, Hew, Pierce<br />Air Rune: Slash, Bludgeon, Shockwave |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |                                                                                                        |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |                                                                                                        |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |                                                                                                        |                          |                    | 3 - 4 Magic Resource |
 
 ## Destiny Points: 0/3
 
-## Focus: 8/8
+## Focus: 5/5
 
 ## Equipment:
 
-| Name                       |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value |
-| -------------------------- | :---: | :-------------: | ------ | :-----: | :--------: | :---: | :---: |
-| Component Pouch (2/5 ft^3) |   1   | 12 lb container |        | Mundane |            |   2   | 25 bc |
-| Clothes, Common            |   1   |                 |        | Mundane |            |   3   | 5 bc  |
-| Spell Components           |   1   |                 |        | Mundane |            |  0.5  |  ??   |
+| Name                | # |     Class     | Effect |  Tier  | Durability | LB | Value |
+| ------------------- | :-: | :------------: | ------ | :-----: | :--------: | :-: | :---: |
+| Clothes, Traveler's | 1 |                |        | Mundane |            |  4  | 2 bc |
+| Pouch (1/5 ft^3)    | 1 | 6 lb container |        | Mundane |            |  1  | 50 cc |
+| Cuneiform Tablets   | 30 | Magic Conduit |        | Mundane |            | 0.1 | 1 cc |
+| Potter's Tools      | 1 |                |        | Mundane |            |  3  | 10 bc |
 
 ## Containers:
 
-| Name                           |   #   |       Class       | Effect |  Tier   | Durability |  LB   | Value |
-| ------------------------------ | :---: | :---------------: | ------ | :-----: | :--------: | :---: | :---: |
-| Component Pouch (2/5 ft^3)     |   1   |  12 lb container  |        | Mundane |            |   2   | 25 bc |
-| Runebook                       |   1   | Magic Conduit |        | Mundane |            |   3   | 50 bc |
-| Journal, Soft Bound, 25 Sheets |   1   |                   |        | Mundane |            |   1   | 7 bc  |
-| Calligrapher's Supplies        |   1   |                   |        | Mundane |            |   5   | 10 bc |
-| Common Book, Soft Bound        |   1   |                   |        | Mundane |            |   1   | 5 bc  |
-| Common Book, Hard Bound        |   1   |                   |        | Mundane |            |   1   | 2 bc  |
+| Name                           | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ------------------------------ | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Satchel (2/5 ft^3)             | 1 | 12 lb container |        | Mundane |            |  2  | 1 bc |
+| Journal, Soft Bound, 25 Sheets | 1 |                |        | Mundane |            |  1  | 7 bc |
+| Common Book, Hard Bound        | 1 |                |        | Mundane |            |  1  | 2 bc |
+| Calligrapher's Supplies        | 1 |                |        | Mundane |            |  5  | 10 bc |
+| Copper Coin                    | 0 |                |        | Mundane |            | 0.02 | 1 cc |
+| Bronze Coin                    | 28 |                |        | Mundane |            | 0.02 | 1 bc |
 
 ## Appearance
 
