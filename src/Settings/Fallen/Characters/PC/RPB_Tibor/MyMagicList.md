@@ -4,6 +4,9 @@ Using specific magic should be a priority if not already overused(because of the
 - Regular = Generic
 - *Unavailable*
 
+$~~~$
+
+$~~~$
 
 # Available for Huniki
 ## Party Tricks - Level -1
@@ -31,7 +34,7 @@ Using specific magic should be a priority if not already overused(because of the
 - **Shapeshift - [Shapeshift](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Shapeshift.md) - Polycraft - 1-6 Fellblood**
 
 $~~~$
-$~~~$
+
 $~~~$
 
 # Selected for Annakishi (Incomplete)
