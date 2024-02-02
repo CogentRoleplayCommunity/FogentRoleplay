@@ -27,7 +27,7 @@
 |        Language: Babelish        |                       Can speak Babelish.                       |          |                                                                                                                                          |
 |         Language: Primal         |                        Can speak Primal.                        |          |                                                                                                                                          |
 | Disabling: Superstition Paranoia | Extreme belief in common<br />superstition and old wives tales. |          |                                                                                                                                          |
-|         Inventory Weight         |                              64 lb                              |          |                                                                Equipment                                                                 |
+|         Equipment Weight         |                              64 lb                              |          |                                                                Equipment                                                                 |
 |      Humanoid Carry Weight       |                             300 lb                              |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |           Light Weight           |                 -0d6 to STR/RFX governed skills                 |          |                                                         0% - 25% of carry weight                                                         |
 |     Humanoid Movement Speed      |                              40 ft                              |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
@@ -61,7 +61,7 @@
 | Chainmail Shirt       |   1   |               Phy. Def. 0.75                | Mundane  |   12/12    |  20   | 22.4 bc |
 | Chainmail Leggings    |   1   |               Phy. Def. 0.75                | Mundane  |   12/12    |  12   | 11.2 bc |
 | Chainmail Sleeves     |   1   |               Phy. Def. 0.75                | Mundane  |   12/12    |  11   | 11.2 bc |
-| Clothes, Common       |   1   |                                         | Mundane  |            |   3   |  5 bc   |
+| Clothes, Common       |   1   |                                         | Mundane  |            |   3   |  50 cc   |
 | Longbow               |   1   |                  Heavy Bow                  | Mundane  |   12/12    |   4   |  50 bc  |
 | Quiver (capacity: 20) |   1   |                                         | Mundane  |            |   1   |  1 bc   |
 | Broadhead Arrow       |  20   |               Standard Arrow                | Mundane  |     -      | 0.05  |  1 bc   |

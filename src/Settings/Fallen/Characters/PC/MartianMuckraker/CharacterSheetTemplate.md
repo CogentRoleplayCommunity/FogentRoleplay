@@ -38,7 +38,7 @@
 |        Language:        |                         Can speak .                          |          |                                                              |
 |       Disabling:        |                                                              |          |                                                              |
 |       Disabling:        |                                                              |          |                                                              |
-|    Inventory Weight     |                             0 lb                             |          |                          Equipment                           |
+|    Equipment Weight     |                             0 lb                             |          |                          Equipment                           |
 |  Humanoid Carry Weight  |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight       |               -0d6 to STR/RFX governed skills                |          |                   0% - 25% of carry weight                   |
 | Humanoid Movement Speed |                            30 ft                             |          |  30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)   |

@@ -30,7 +30,7 @@
 |   Language: Deep-speak   |                         Can speak Deep-speak.                         |          |                                                                                                                    |
 | Disabling: People Pleaser | Always try to make other people<br />happy, even at their own expense. |          |                                                                                                                    |
 |    Disabling: Delusion    |        Believes that her family<br />will flourish once again.        |          |                                                                                                                    |
-|     Inventory Weight     |                                 23 lb                                 |          |                                                      Equipment                                                      |
+|     Equipment Weight     |                                 23 lb                                 |          |                                                      Equipment                                                      |
 |   Humanoid Carry Weight   |                                 120 lb                                 |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |       Light Weight       |                    -0d6 to STR/RFX governed skills                    |          |                                              0% - 25% of carry weight                                              |
 |  Humanoid Movement Speed  |                                 35 ft                                 |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
@@ -68,7 +68,7 @@
 | Leather Cuirass and Pauldron | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  4  |  3 bc  |
 | Leather Cuisses and Greaves  | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  3  |  2 bc  |
 | Leather Vambrace             | 1 |          Phy. Def. 0.5          | Mundane |   12/12   |  2  | 1.5 bc |
-| Clothes, Common              | 1 |                            | Mundane |            |  3  |  5 bc  |
+| Clothes, Common              | 1 |                            | Mundane |            |  3  |  50 cc  |
 | Trident                      | 1 | Short Spear, Thrown Short Spear | Mundane |   12/12   |  3  |  5 bc  |
 | Signet Ring                  | 1 |                            | Mundane |            | 0.2 |  5 bc  |
 | Copper Coin                  | 70 |                            | Mundane |            | 0.02 |  1 cc  |

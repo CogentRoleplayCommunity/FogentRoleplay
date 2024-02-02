@@ -24,7 +24,7 @@
 | Physical Defense Level |                2                |          |                                                        Armor                                                        |
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
-|    Inventory Weight    |             20.5 lb             |          |                                                      Equipment                                                      |
+|    Equipment Weight    |             20.5 lb             |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |              40 ft              |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
@@ -47,7 +47,7 @@
 | Leather Cuirass and Pauldrons | 1 |                           Body Armor                           | Phy. Def. 1.00 | Quality |   15/15   |  6  |  5 bc  |
 | Leather Vambrace              | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.66 bc |
 | Gambeson Armor                | 1 |                Body Armor, Arm Armor, Leg Armor                | Phy. Def. 0.33 | Mundane |   12/12   |  8  |  5 bc  |
-| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   | 1.5 |  10 bc  |
+| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   | 1.5 |  5 bc  |
 | Dagger                        | 3 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Quality |   15/15   |  1  |  2 bc  |
 
 ## Backstory

@@ -31,7 +31,7 @@ Earned Skill point: 2
 |       Language: Babelish       |                      Can speak Babelish.                      |          |                                                          |
 |     Disabling: Hemaphobia     |             Irrational fear of blood and viscera.             |          |                                                          |
 | Disabling: Extreme Entitlement | Constantly assumes he's of high import, no matter where he is. |          |                                                          |
-|        Inventory Weight        |                           27.65 lb                           |          |                         Equipment                         |
+|        Equipment Weight        |                           27.65 lb                           |          |                         Equipment                         |
 |     Humanoid Carry Weight     |                             120 lb                             |          |    120 lb (Base), +100 lb (per STR), +20 lb (per Lift)    |
 |          Light Weight          |                -0d6 to STR/RFX governed skills                |          |                 0% - 25% of carry weight                 |
 |    Humanoid Movement Speed    |                             30 ft                             |          | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
@@ -70,7 +70,7 @@ Earned Skill point: 2
 | Clothes, Fine                 | 1 |                                              |                 | Mundane |            |  4  |  15 bc  |
 | Buckler Shield                | 1 |                    Shield                    | Phy. Def. 1.00  | Mundane |   12/12   |  4  |  2 bc  |
 | "Frozen Needle"               | 1 | Medium Thrusting Sword, Medium Slashing Sword |                 | Quality |   24/24   |  2  |  25 bc  |
-| Runebook                      | 1 |                 Magic Conduit                 |                 | Mundane |            |  3  |  50 bc  |
+| Runebook                      | 1 |                 Magic Conduit                 |                 | Quality |            |  3  |  50 bc  |
 | Ink (1 ounce bottle)          | 1 |                                              |                 | Mundane |            | 0.1 |  10 bc  |
 | Ink Pen (Fountain)            | 1 |                                              |                 | Mundane |            | 0.05 |  3 bc  |
 | Lavender Lancer Scarf         | 1 |                                              |                 | Mundane |            | 0.5 |  50 cc  |
