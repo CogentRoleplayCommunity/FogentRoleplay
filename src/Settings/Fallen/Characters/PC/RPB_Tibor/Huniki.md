@@ -41,7 +41,6 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Language: Babelish            | Can speak Babelish.                                           |          |                                                                                                                                          |
 | Language: Kikishi             | Can speak Kikishi                                             |          |                                                                                                                                          |
 | Disabling: Incapable of Lying |                                                               |          | As a worker of his kind, he can't lie to royal kiki. (He knows that royals can easily compell him to tell the truth anyway.)             |
-<!--| Disabling: Anaphia            |                                                               |          | Unable to make touch based perception checks. (He's a blacksmith, his hands are extremely callous due to hard work.)                     | This was added for extra skill point I felt necessary.-->
 | Inventory Weight              | 47.06 LB                                                      |          | Equipment                                                                                                                                |
 | Humanoid Carry Weight         | 160 lb                                                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 | Light Weight                  | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
@@ -49,6 +48,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Humanoid Swim Speed           | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
 | Humanoid Climb Speed          | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
+<!--| Disabling: Anaphia            |                                                               |          | Unable to make touch based perception checks. (He's a blacksmith, his hands are extremely callous due to hard work.)                     | This was added for extra skill point I felt necessary.-->
 
 
 ## Combat Rolls (UNFINISHED)
