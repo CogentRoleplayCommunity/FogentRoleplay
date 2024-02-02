@@ -18,20 +18,16 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Endurance |  1  |  4d6  | Sleight of Hand |  0  |  4d6  | Survival          |  0  |  3d6  |
 | Lift      |  1  |  4d6  | Stealth         |  0  |  4d6  | Willpower         | -1  |  2d6  |
 
-<!-- Leave RFX 1 and Willpower -1 -->
-
-
+<!-- 3 skill points + 1 from narrative DC (Incapable of lying) + 1 redistribuited from -1 will (Easily compelled) -->
 
 ## Vocations and Vocational Skills
 
-| Fellweaver {STR, RFX, INT} |  1  | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |  1  | 4d6 |
-| :------------------------: | :-: | :-: | -------------------------------------------------------- | :-: | --- |
-| Polycraft {STR, RFX, INT}  |  1  | 5d6 | Metallurgy {INT}                                         |     | 4d6 |
-| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     |     | 4d6 |
-| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            |     | 4d6 |
-|                            |     | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |  0  | 4d6 |
-
-<!-- Blacksmithing must be at least 1. Leave 1 for polycraft for an advantage at healing. -->
+| Fellweaver {STR, RFX, INT} |  1  | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |    1    | 4d6 |
+| :------------------------: | :-: | :-: | -------------------------------------------------------- | :-----: | --- |
+| Polycraft {STR, RFX, INT}  |  1  | 5d6 | Metallurgy {INT}                                         | Voc.Lvl | 4d6 |
+| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     | Voc.Lvl | 4d6 |
+| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            | Voc.Lvl | 4d6 |
+|                            |     | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |    0    | 4d6 |
 
 
 
@@ -39,13 +35,13 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 | Name                          | Effect                                                        | Duration | Source                                                                                                                                   |
 | :---------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| Minor Silver Weakness         | +1 to the level of injury received from Silver damage. |          | Fellkin blood                                                                                                                            |
+| Minor Silver Weakness         | +1 to the level of injury received from Silver damage.        |          | Fellkin blood                                                                                                                            |
 | Physical Defense Level        | Phy. Def. 1.66                                                |          | Carapace                                                                                                                                 |
 | Medium Size                   | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
 | Language: Babelish            | Can speak Babelish.                                           |          |                                                                                                                                          |
 | Language: Kikishi             | Can speak Kikishi                                             |          |                                                                                                                                          |
 | Disabling: Incapable of Lying |                                                               |          | As a worker of his kind, he can't lie to royal kiki. (He knows that royals can easily compell him to tell the truth anyway.)             |
-| Disabling: Anaphia            |                                                               |          | Unable to make touch based perception checks. (He's a blacksmith, his hands are extremely callous due to hard work.)                     |
+<!--| Disabling: Anaphia            |                                                               |          | Unable to make touch based perception checks. (He's a blacksmith, his hands are extremely callous due to hard work.)                     | This was added for extra skill point I felt necessary.-->
 | Inventory Weight              | 47.06 LB                                                      |          | Equipment                                                                                                                                |
 | Humanoid Carry Weight         | 160 lb                                                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 | Light Weight                  | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
@@ -112,7 +108,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 
 
-## Destiny Points: 3/1
+## Destiny Points: 1/3
 
 ## Fellblood: 5/5
 
@@ -180,7 +176,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Goals/Aspirations
 
-- Find an Order of Silver representative and acquire his own silver plating equipment.
+- Help out a friend of the hive called Burrowbard Stoneseeker. (Queen's orders of course. :D)
 - Get back to his hive.
 
 
