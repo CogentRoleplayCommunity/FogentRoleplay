@@ -74,7 +74,7 @@
 | Leather Cuirass and Pauldron |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   4   |  3 bc  |
 | Leather Cuisses and Greaves  |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   3   |  2 bc  |
 | Leather Vambrace             |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   2   | 1.5 bc |
-| Clothes, Common              |   1   |                                                             | Mundane |            |   3   |  5 bc  |
+| Clothes, Common              |   1   |                                                             | Mundane |            |   3   |  50 cc  |
 | Dagger                       |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
 | Pouch (1/5 ft^3)             |   1   |                         6 lb container                          | Mundane |            |   1   | 50 cc  |
 

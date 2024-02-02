@@ -304,7 +304,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |             Bucket             | 1 |                    |        | Mundane |            |   2   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |             Candle             | 1 |                    |        | Mundane |            |  0.1  | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Chest (12 ft^3)        | 1 |  300 lb container  |        | Mundane |            |   25   | 5 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|        Clothes, Common        | 1 |                    |        | Mundane |            |   3   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Clothes, Common        | 1 |                    |        | Mundane |            |   3   | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |         Clothes, Fine         | 1 |                    |        | Mundane |            |   6   | 15 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |        Flask or Tankard        | 1 |                    |        | Mundane |            |   1   | 2 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |      Ink (1 ounce bottle)      | 1 |                    |        | Mundane |            |  0.1  | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -522,7 +522,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |      Cloak, Canvas      | 1 |                |        | Mundane |            |   5   | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Cloak, Leather     | 1 |                |        | Mundane |            |   5   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |  Cloak, Leather, Lined  | 1 |                |        | Mundane |            |   5   | 4 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Clothes, Common     | 1 |                |        | Mundane |            |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Clothes, Common     | 1 |                |        | Mundane |            |   3   | 50 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Clothes, Costume    | 1 |                |        | Mundane |            |   4   | 5 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |      Clothes, Fine      | 1 |                |        | Mundane |            |   6   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Clothes, Traveler's   | 1 |                |        | Mundane |            |   4   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |

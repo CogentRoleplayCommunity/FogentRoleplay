@@ -62,7 +62,7 @@
 | :--------------------------: | --- | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :----: |
 |             Club             | 1   |                       Medium Hafted Blunt                       | Mundane |   12/12    |   2   | 10 cc  |
 |            Dagger            | 1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
-|       Clothes, Common        | 1   |                                                             | Mundane |            |   3   |  5 bc  |
+|       Clothes, Common        | 1   |                                                             | Mundane |            |   3   |  50 cc  |
 |       Waterskin (4/4)        | 1   |                                                             | Mundane |            |   5   | 20 cc  |
 | Vial of Medium Healing Blood | 1   |                                                             | Mundane |            | 0.25  | 100 bc |
 |        Clothes, Fine         | 1   |                                                             | Mundane |            |   6   | 15 bc  |

@@ -63,7 +63,7 @@
 | Leather Cuirass and Pauldron | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  4  |  3 bc  |
 | Leather Cuisses and Greaves  | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  |  2 bc  |
 | Leather Vambrace             | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  2  | 1.5 bc |
-| Clothes, Common              | 1 |                                              | Mundane |            |  3  |  5 bc  |
+| Clothes, Common              | 1 |                                              | Mundane |            |  3  |  50 cc  |
 | Longbow                      | 1 |                   Heavy Bow                   | Mundane |   12/12   |  4  | 50 bc |
 | Quiver (capacity: 20)        | 1 |                                              | Mundane |            |  1  |  1 bc  |
 | Broadhead Arrow              | 20 |                Standard Arrow                | Mundane |     -     | 0.05 |  1 bc  |

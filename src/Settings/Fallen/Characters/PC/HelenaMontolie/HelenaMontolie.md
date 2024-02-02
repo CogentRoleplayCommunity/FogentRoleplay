@@ -59,7 +59,7 @@
 
 | Name                           |   #   |                              Class                              |  Tier   | Durability |  LB   | Value |
 | ------------------------------ | :---: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :---: |
-| Clothes, Common                |   1   |                                                             | Mundane |            |   3   | 5 bc  |
+| Clothes, Common                |   1   |                                                             | Mundane |            |   3   | 50 cc  |
 | Waterskin (4/4)                |   1   |                                                             | Mundane |            |   5   | 20 cc |
 | Common Book, Soft Bound        |   1   |                                                             | Mundane |            |   1   | 5 bc  |
 | Journal, Soft Bound, 25 Sheets |   1   |                                                             | Mundane |            |   1   | 7 bc  |

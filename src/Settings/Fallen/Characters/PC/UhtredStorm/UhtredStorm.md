@@ -49,7 +49,7 @@
 
 |        On        | Name |          #          |  Class  | Tier | Durability |  LB  | Value |
 | :---------------: | :--: | :------------------: | :-----: | :--: | :--------: | :---: | :---: |
-|  Clothes, Common  |  1  |                  | Mundane |      |     3     | 5 bc |      |
+|  Clothes, Common  |  1  |                  | Mundane |      |     3     | 50 cc |      |
 | Mother's Necklace |  1  |                  | Mundane |      |    0.1    |   ?   |      |
 |  Waterskin (4/4)  |  1  |                  | Mundane |      |     5     | 20 cc |      |
 |     Sharp Cap     |  1  | Small Slashing Blade | Shoddy | 9/9 |    0.5    | 2 bc |      |

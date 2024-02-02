@@ -47,4 +47,4 @@
 
 | Name            | # | Class |  Tier  | Durability | LB | Value |
 | --------------- | :-: | :---: | :-----: | :--------: | :-: | :---: |
-| Clothes, Common | 1 |  | Mundane |            | 3 | 5 bc |
+| Clothes, Common | 1 |  | Mundane |            | 3 | 50 cc |

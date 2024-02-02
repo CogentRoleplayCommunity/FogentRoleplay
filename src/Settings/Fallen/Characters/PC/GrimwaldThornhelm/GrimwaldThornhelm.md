@@ -61,7 +61,7 @@
 | Chainmail Shirt       |   1   |               Phy. Def. 0.75                | Mundane  |   12/12    |  20   | 22.4 bc |
 | Chainmail Leggings    |   1   |               Phy. Def. 0.75                | Mundane  |   12/12    |  12   | 11.2 bc |
 | Chainmail Sleeves     |   1   |               Phy. Def. 0.75                | Mundane  |   12/12    |  11   | 11.2 bc |
-| Clothes, Common       |   1   |                                         | Mundane  |            |   3   |  5 bc   |
+| Clothes, Common       |   1   |                                         | Mundane  |            |   3   |  50 cc   |
 | Longbow               |   1   |                  Heavy Bow                  | Mundane  |   12/12    |   4   |  50 bc  |
 | Quiver (capacity: 20) |   1   |                                         | Mundane  |            |   1   |  1 bc   |
 | Broadhead Arrow       |  20   |               Standard Arrow                | Mundane  |     -      | 0.05  |  1 bc   |
