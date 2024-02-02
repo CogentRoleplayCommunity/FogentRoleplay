@@ -30,7 +30,7 @@
 |   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
 |    Language: Pirish    |                   Can speak Pirish.                   |          |                                                                                                                    |
 |    Disabling: Feeble    |                         -1 STR                         |          |                                                                                                                    |
-|    Inventory Weight    |                        16.5 lb                        |          |                                                      Equipment                                                      |
+|    Inventory Weight    |                         11 lb                         |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                         70 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |                         30 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
@@ -79,14 +79,14 @@
 
 ## Containers:
 
-| Name                           | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
-| ------------------------------ | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
-| Satchel (2/5 ft^3)             | 1 | 12 lb container |        | Mundane |            |  2  | 1 bc |
-| Journal, Soft Bound, 25 Sheets | 1 |                |        | Mundane |            |  1  | 7 bc |
-| Common Book, Hard Bound        | 1 |                |        | Mundane |            |  1  | 2 bc |
-| Calligrapher's Supplies        | 1 |                |        | Mundane |            |  5  | 10 bc |
-| Copper Coin                    | 0 |                |        | Mundane |            | 0.02 | 1 cc |
-| Bronze Coin                    | 28 |                |        | Mundane |            | 0.02 | 1 bc |
+| Name                           |  #  |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ------------------------------ | :--: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Satchel (2/5 ft^3)             |  1  | 12 lb container |        | Mundane |            |  2  | 1 bc |
+| Journal, Soft Bound, 25 Sheets |  1  |                |        | Mundane |            |  1  | 7 bc |
+| Common Book, Hard Bound        |  1  |                |        | Mundane |            |  1  | 2 bc |
+| Calligrapher's Supplies        |  1  |                |        | Mundane |            |  5  | 10 bc |
+| Copper Coin                    |  0  |                |        | Mundane |            | 0.02 | 1 cc |
+| Bronze Coin                    | 54.5 |                |        | Mundane |            | 0.02 | 1 bc |
 
 ## Appearance
 
