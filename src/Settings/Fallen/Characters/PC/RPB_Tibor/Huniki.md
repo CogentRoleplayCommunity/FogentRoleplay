@@ -2,12 +2,7 @@
 
 ![Sorry, no art yet to display!]()
 
-## UNFINISHED... Read but don't publish yet!
-
-I had a character idea (for Annakishi) and I've been told to make her Initiate tier, however her story didn't make sense with her royal training and no rebelliousness at Initiate tier. At first I didn't wanna spend extra time meakeing a new character, but reading more and more about Fallen gave me ideas, so I had an idea for a blacksmith advancing to silversmith which does make sense at Initiate tier character.
-
-I made him a hive minded kiki of the same breed as Annakishi to avoid confusing myself if it comes to playing both at any point. :)
-
+- UNFINISHED! - Combat rolls not calculated yet!
 
 ## Attributes and Core Skills
 
@@ -31,7 +26,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 
 
-## Effects (UNFINISHED)
+## Effects
 
 | Name                                                                                     | Effect                                                 | Duration | Source                                                                                                                                   |
 | :--------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |

@@ -8,6 +8,7 @@
 - [Fanácrio](PC/Fanácrio/Fanácrio.md)
 - [Grimwald Thornhelm](PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
 - [Helena Montolie](PC/HelenaMontolie/HelenaMontolie.md)
+- [Huniki](PC/RPB_Tibor/Huniki.md)
 - [Javk Wick](PC/JavkWick/JavkWick.md)
 - [Jing Hu](PC/JingHu/JingHu.md)
 - [Krater Ublee](./PC/KraterUblee/KraterUblee.md)
