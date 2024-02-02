@@ -28,7 +28,7 @@
 |      Language: Pirish      |                   Can speak Pirish.                   |          |                                                                                                                    |
 |      Disabling: Greedy      |                  Obsessed with money.                  |          |                                                                                                                    |
 | Disabling: Authority Issues |  Can't stand being talked down to or ordered around.  |          |                                                                                                                    |
-|      Inventory Weight      |                         19 lb                         |          |                                                      Equipment                                                      |
+|      Equipment Weight      |                         19 lb                         |          |                                                      Equipment                                                      |
 |    Humanoid Carry Weight    |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |        Light Weight        |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
 |   Humanoid Movement Speed   |                         35 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |

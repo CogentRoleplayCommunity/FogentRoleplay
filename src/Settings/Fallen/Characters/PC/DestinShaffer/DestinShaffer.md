@@ -27,7 +27,7 @@
 |   Language: Babelish    |                      Can speak Babelish.                      |          |                                                       |
 |  Disabling: Addiction   | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                       |
 | Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                     Daddy Issues                      |
-|    Inventory Weight     |                           23.45 lb                            |          |                       Equipment                       |
+|    Equipment Weight     |                           23.45 lb                            |          |                       Equipment                       |
 |  Minor Silver Weakness  |   +1 to the level of injury received from Silver damage.    |          |                        Fellkin                        |
 |  Humanoid Carry Weight  |                            260 lb                             |          |  120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift  |
 |      Light Weight       |                -0d6 to STR/RFX governed skills                |          |               0% - 25% of carry weight                |

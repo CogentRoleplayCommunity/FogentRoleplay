@@ -31,7 +31,7 @@ Unspent Skill Point: 1
 |      Language: Babelish      |                  Can speak Babelish.                  |          |                                                                                                                  |
 |       Language: Primal       |                   Can speak Primal.                   |          |                                                                                                                  |
 | Disabling: Incapable of Lying |       His people do not lie and neither does he.       |          |                                                                                                                  |
-|       Inventory Weight       |                       34.35 lb                       |          |                                                     Equipment                                                     |
+|       Equipment Weight       |                       34.35 lb                       |          |                                                     Equipment                                                     |
 |     Humanoid Carry Weight     |                         220 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, +40 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight         |            -0d6 to STR/RFX governed skills            |          |                                             0% - 25% of carry weight                                             |
 |    Humanoid Movement Speed    |                         35 ft                         |          |                             30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                             |
