@@ -35,6 +35,6 @@
 - (Mind Reading - [Weird Insight](./../../../../../CoreRules/MagicRules/Spells/Apprentice/WeirdInsight.md) - Mindcraft - 1 Fellblood)
 - (Beast Control (INT < 1) - [Primal Kinship](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PrimalKinship.md) - Mindcraft - 1 Fellblood)
 - (Trap - [Oil Spill](./../../../../../CoreRules/MagicRules/Spells/Apprentice/OilSpill.md) - Terracraft - 1 Fellblood)
-- (Language Translation - [Babel’s Clarity](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Babel’sClarity.md) - Mindcraft - 1 Fellblood)
+- (Language Translation - [Babel’s Clarity](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Babel'sClarity.md) - Mindcraft - 1 Fellblood)
 - (Mind Reading - [Mind Reading](./../../../../../CoreRules/MagicRules/Spells/Apprentice/MindReading.md) - Mindcraft - 1 Fellblood)
 - (Attack - [Chaotic Cannon](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ChaoticCannon.md) - All of Mind-Toxin-Terra-Gale-crafts - 1 Fellblood)
