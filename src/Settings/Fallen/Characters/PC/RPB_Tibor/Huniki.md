@@ -99,22 +99,14 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Terracraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
 
 
-
-
-
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                     |                    |             |       |                   |                     |
-
-
-
 ## Destiny Points: 1/3
 
 ## Fellblood: 5/5
 
+[Magic Quicklist](./MyMagicList.md)
 
 
-## Equipment (UNFINISHED)
+## Equipment
 
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                                                                                                                                           |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -144,7 +136,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 
 
-## Containers (UNFINISHED)
+## Containers
 ### Pouch (1/5 ft^3) - Max 6 LB
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
@@ -208,7 +200,7 @@ A silversmith was captured on his hive's territory, and brought to the queen. Th
 - Short brown.
 
 ### Eyes:
-- He has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+- He has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.html).
 
 ### Additional Details (Logic behind her appearance only for those who like to read...):
 **Bug eye Advantages:**

@@ -97,13 +97,11 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
 |    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
-
 ## Destiny Points: 3/3
 
 ## Fellblood: 10/10
+
+[Magic Quicklist](./MyMagicList.md)
 
 ## Equipment
 
@@ -213,7 +211,7 @@ She got hooked on Mirage during her journey through the great emptiness, compell
 
 ### Eyes:
 
-- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.html).
 
 ### Additional Details (Logic behind her appearance only for those who like to read...):
 
