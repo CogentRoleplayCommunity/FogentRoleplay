@@ -82,15 +82,17 @@ A target with total cover can't be targeted directly by an attack, although some
 
 - Can't move, unless through Grapple Move.
 - Disadvantage on Combat Rolls, except against grappler.
-- Disadvantage on Dodge Rolls, except against grappler.
+- Disadvantage on any checks that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
 - Ends if grappler is incapacitated.
-- Ends if effect removed from grapplers grapple range, such as being hurled away by a powerful gust of wind.
 
 ## Incapacitated
 
 - Character can't take any actions or move.
 
 ## Invisible
+
+- Impossible to see unless aided by magic or special senses. Character is considered Heavily Obscured. Character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
+- 
 
 ## Paralyzed
 
