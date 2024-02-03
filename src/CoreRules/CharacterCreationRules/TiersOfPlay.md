@@ -42,7 +42,7 @@ When a new tier of play is unlocked, character can gain their new attribute poin
 | Given Vocation Point                            |     1     |   2   |   3   |      4      |     5     |
 | Max Disabling Characteristics<br />Skill Points |     1     |   2   |   3   |      4      |     5     |
 | Starting Attribute Points                       |     1     |   2   |   3   |      4      |     5     |
-| Starting Skill Points                           |     3     |   7   |   12   |      21      |    33    |
+| Starting Skill Points                           |     3     |   6   |   12   |      21      |    33    |
 | Skill points till next Tier                     |     4     |   6   |   9   | Undetermined |          |
 
 ### Apprentice Tier (D&D Level 1 - 4)
