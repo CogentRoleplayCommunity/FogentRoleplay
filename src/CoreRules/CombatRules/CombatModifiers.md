@@ -36,10 +36,6 @@ Penalty to combat rolls and dodge rolls received when a character is actively en
 
 An attack which can't be defended against made by a character while they hidden to an opponent. This attack is usually proceeded by a Stealth Skill Check versus a Perception skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone throat with a dagger is a CL 1, however doing the same with a great sword would be far more difficult. Any wins achieved over the CL counts towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
 
-## Incapacitated (Super Advantage)
-
-If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily.
-
 ## Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
