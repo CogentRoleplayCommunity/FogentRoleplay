@@ -1,32 +1,40 @@
-# Light and Vision
-
-## Light
+# Vision and Light
 
 In the context of role-playing games, the ability of a character to see is crucial for various tasks. These tasks include identifying threats, locating hidden items, attacking enemies, and directing spells, among others. The character's visibility can be significantly impaired by darkness or any other factors that obscure vision.
 
-There are different levels of obscurity that a given area can have, ranging from light to heavy. An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a disadvantage on (Perception) checks that rely on sight.
+There are different levels of obscurity that a given area can have, ranging from light to heavy.
 
-On the other hand, an area is heavily obscured when it has darkness, opaque fog, or dense foliage. In these areas, vision is entirely blocked. Any creature trying to see something in a heavily obscured area is effectively blinded.
+## Vision Obscurement
+
+### Unobscured
+
+An area is considered unobscured if their is no impetement to a characters vision. In such areas, characers roll normal Perception checks that rely on sight.
+
+### Lightly Obscured
+
+An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a Disadvantage on Perception checks that rely on sight.
+
+### Heavily Obscured
+
+An area is heavily obscured when it has darkness, opaque fog, or dense foliage. In these areas, vision is entirely blocked. Any creature trying to see something in a heavily obscured area is effectively blinded.
+
+## Light
 
 The illumination of an environment is categorized into three types: bright light, dim light, and darkness.
 
-### Bright Light
+### Bright Light (Unobscured)
 
 Most creatures, including humans, can see normally in bright light. This light can come from various sources such as torches, lanterns, fires, or even gloomy days, and it illuminates within a specific radius.
 
-### Dim Light
+### Dim Light (Lightly Obscured)
 
 Also referred to as shadows, creates a lightly obscured area. This area is typically a boundary between a source of bright light, like a torch, and the surrounding darkness. The soft light of twilight and dawn, or even a particularly brilliant full moon, also counts as dim light.
 
-Character's attempting to perform any task in Dim Light that relies on sight have Disadvantage. To counteract this, Character's can assist with a Perception Assist.
-
-### Darkness
+### Darkness (Heavily Obscured)
 
 Darkness, on the other hand, creates a heavily obscured area. Characters encounter darkness outdoors at night (excluding moonlight nights), inside an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
-Creatures attempting to perform any task reliant on sight in Darkness have Super Disadvantage. To counteract this, Character's can assist with a Perception Assist.
-
-## Vision
+## Vision Types
 
 ### Blindsight
 
