@@ -30,7 +30,7 @@
 |       Language: Primal        |                       Can speak Primal.                        |          |                                                                                                                                          |
 |    Disabling: Loose Canon     |        Overwhelming predisposition towards rage/anger.         |          |                                                                                                                                          |
 | Disabling: Incapable of Lying | Can't speak any untruth, but can still mislead due to culture. |          |                                                                                                                                          |
-|       Inventory Weight        |                            23.42 lb                            |          |                                                                Equipment                                                                 |
+|       Equipment Weight        |                            23.42 lb                            |          |                                                                Equipment                                                                 |
 |     Humanoid Carry Weight     |                             120 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight          |                -0d6 to STR/RFX governed skills                 |          |                                                         0% - 25% of carry weight                                                         |
 |    Humanoid Movement Speed    |                             30 ft                              |          |                                        30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                         |
@@ -74,7 +74,7 @@
 | Leather Cuirass and Pauldron |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   4   |  3 bc  |
 | Leather Cuisses and Greaves  |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   3   |  2 bc  |
 | Leather Vambrace             |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   2   | 1.5 bc |
-| Clothes, Common              |   1   |                                                             | Mundane |            |   3   |  5 bc  |
+| Clothes, Common              |   1   |                                                             | Mundane |            |   3   |  50 cc  |
 | Dagger                       |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
 | Pouch (1/5 ft^3)             |   1   |                         6 lb container                          | Mundane |            |   1   | 50 cc  |
 

@@ -25,7 +25,7 @@
 |       Language: Babelish       |                        Can speak Babelish.                        |          |                                                                                                                    |
 |     Disabling: Illiterate     |                       Can't read or write.                       |          |                                                       Injury                                                       |
 | Disabling: Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                                                                                    |
-|        Inventory Weight        |                              9.8 lb                              |          |                                                      Equipment                                                      |
+|        Equipment Weight        |                              9.8 lb                              |          |                                                      Equipment                                                      |
 |     Humanoid Carry Weight     |                              120 lb                              |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |          Light Weight          |                  -0d6 to STR/RFX governed skills                  |          |                                              0% - 25% of carry weight                                              |
 |    Humanoid Movement Speed    |                               45 ft                               |          |                                30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                |
@@ -49,7 +49,7 @@
 
 |        On        | Name |          #          |  Class  | Tier | Durability |  LB  | Value |
 | :---------------: | :--: | :------------------: | :-----: | :--: | :--------: | :---: | :---: |
-|  Clothes, Common  |  1  |                  | Mundane |      |     3     | 5 bc |      |
+|  Clothes, Common  |  1  |                  | Mundane |      |     3     | 50 cc |      |
 | Mother's Necklace |  1  |                  | Mundane |      |    0.1    |   ?   |      |
 |  Waterskin (4/4)  |  1  |                  | Mundane |      |     5     | 20 cc |      |
 |     Sharp Cap     |  1  | Small Slashing Blade | Shoddy | 9/9 |    0.5    | 2 bc |      |

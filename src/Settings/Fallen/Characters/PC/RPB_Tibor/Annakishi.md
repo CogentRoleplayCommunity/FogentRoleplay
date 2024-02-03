@@ -33,21 +33,26 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ## Effects
 
-|          Name          |                            Effect                            | Duration |                                                                   Source                                                                   |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                               Fellkin blood                                                               |
-| Physical Defense Level |                        Phy. Def. 1.66                        |          |                                                                  Carapace                                                                  |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                            |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                                            |
-|        Language:        |                      Can speak Kikishi                      |          |                                                                                                                                            |
-|    Disabling: Feelbe    |   She is shorter, lighter and weaker then other royal kiki.   |          |                                                      She lost on the genetic lottery.                                                      |
-| Disabling: Drug addict. |       A light dose of Mirage keeps her from depression.       |          |                                                                                                                                            |
-|    Inventory Weight    |                           41.66 LB                           |          |                                                                 Equipment                                                                 |
-|  Humanoid Carry Weight  |                             70 lb                             |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|      Light Weight      |                -0d6 to STR/RFX governed skills                |          |                                                          0% - 25% of carry weight                                                          |
-| Humanoid Movement Speed |                             30 ft                             |          |                                           30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                           |
-|   Humanoid Swim Speed   |                             15 ft                             |          |                                         15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
-|  Humanoid Climb Speed  |                             15 ft                             |          |                                            15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                            |
+| Name                                                                                     | Effect                                                        | Duration    | Source                                                                                                                                   |
+| :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| Minor Silver Weakness                                                                    | +1 to the level of injury received from Silver damage.        |             | Fellkin blood                                                                                                                            |
+| Physical Defense Level                                                                   | Phy. Def. 1.66                                                |             | Carapace                                                                                                                                 |
+| Medium Size                                                                              | 5x5 ft on battle map.                                         |             |                                                                                                                                          |
+| Language: Babelish                                                                       | Can speak Babelish.                                           |             |                                                                                                                                          |
+| Language:                                                                                | Can speak Kikishi                                             |             |                                                                                                                                          |
+| Disabling: Feelbe                                                                        | She is shorter, lighter and weaker then other royal kiki.     |             | She lost on the genetic lottery.                                                                                                         |
+| Disabling: Drug addict.                                                                  | A light dose of Mirage keeps her from depression.             |             |                                                                                                                                          |
+| Disabling: Can't read or solve fine puzzles.                                             | Sees fine detail in large pixels.                             |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
+| Racial feature: [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) | Sees well in dimm light.                                      |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
+| Racial feature: 2 Extra arms                                                             | Cool factor. :D                                               |             | Have you ever seen a healthy bug with only 4 limbs?! ;)                                                                                  |
+| Racial feature: 4 Extra wings                                                            | Short flight.                                                 | Alate Phase | Queen alate status in the hive.                                                                                                          |
+| Racial feature: Antennae                                                                 | Good sense of smell and pheromone.                            |             | Underground hive dweller species.                                                                                                        |
+| Inventory Weight                                                                         | 41.66 LB                                                      |             | Equipment                                                                                                                                |
+| Humanoid Carry Weight                                                                    | 70 lb                                                         |             | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+| Light Weight                                                                             | -0d6 to STR/RFX governed skills                               |             | 0% - 25% of carry weight                                                                                                                 |
+| Humanoid Movement Speed                                                                  | 30 ft                                                         |             | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                                                                |
+| Humanoid Swim Speed                                                                      | 15 ft                                                         |             | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
+| Humanoid Climb Speed                                                                     | 15 ft                                                         |             | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
 ## Combat Rolls (UNFINISHED)
 
@@ -97,13 +102,11 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
 |    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
-
 ## Destiny Points: 3/3
 
 ## Fellblood: 10/10
+
+[Magic Quicklist](./MyMagicList.md)
 
 ## Equipment
 
@@ -213,7 +216,7 @@ She got hooked on Mirage during her journey through the great emptiness, compell
 
 ### Eyes:
 
-- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.html).
 
 ### Additional Details (Logic behind her appearance only for those who like to read...):
 

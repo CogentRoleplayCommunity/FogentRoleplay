@@ -13,27 +13,27 @@
 
 ## Vocations and Vocational Skills
 
-| Scout {RFX, INT}    | 2 | 6d6 | Fellkin {STR, RFX, INT}     | 0  | 4d6 |
-| ------------------- | :-: | :-: | ----------------- | -- | --- |
+| Scout {RFX, INT}              | 2 | 6d6 | Fellkin {STR, RFX, INT}     | 0  | 4d6 |
+| ----------------------------- | :-: | :-: | --------------------------- | -- | --- |
 | Medium Sword {STR, RFX, INT} | 2 | 6d6 | Shadowcraft {STR, RFX, INT} | -1 | 3d6 |
 
 ## Effects:
 
 |           Name           |                             Effect                             | Duration |                                                       Source                                                       |
 | :----------------------: | :-------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  |    +1 to the level of injury received from Silver damage.    |          |                                                    Fellkin blood                                                    |
+|  Minor Silver Weakness  |     +1 to the level of injury received from Silver damage.     |          |                                                    Fellkin blood                                                    |
 |  Physical Defense Level  |                                3                                |          |                                                        Armor                                                        |
 |       Medium Size       |                      5x5 ft on battle map.                      |          |                                                                                                                    |
 |    Language: Babelish    |                       Can speak Babelish.                       |          |                                                                                                                    |
 |        Language:        |                          Can speak .                          |          |                                                                                                                    |
 | Disabling: Exposure Fear | Irrationally afraid of being found to be a Red Legion Deserter. |          |                                                                                                                    |
 |  Disabling: Kleptomania  |        Desire to steal most things regardless of value.        |          |                                                                                                                    |
-|     Inventory Weight     |                            29.75 lb                            |          |                                                      Equipment                                                      |
+|     Equipment Weight     |                            29.75 lb                            |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                             120 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |       Light Weight       |                 -0d6 to STR/RFX governed skills                 |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                             40 ft                             |          |                                30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                |
-|   Humanoid Swim Speed   |                              15 ft                              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                |
-|   Humanoid Climb Speed   |                              15 ft                              |          |                                  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                  |
+| Humanoid Movement Speed |                             40 ft                             |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   Humanoid Swim Speed   |                              15 ft                              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|   Humanoid Climb Speed   |                              15 ft                              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls:
 
@@ -62,11 +62,11 @@
 | Leather Cuirass and Pauldrons | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  4  |  3 bc  |
 | Leather Cuisses and Greaves   | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  3  |        |
 | Leather Vambrace              | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  2  | 1.5 bc |
-| Arming Sword                  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Mundane |   12/12   |  2  |  2 bc  |
+| Arming Sword                  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Mundane |   12/12   |  2  | 10 bc |
 | Dagger                        | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  |  2 bc  |
 | Shortbow                      | 1 |                            Light Bow                            | Mundane |   12/12   |  2  | 25 bc |
 | Broadhead Arrow               | 20 |                         Standard Arrow                         | Mundane |     -     | 0.5 |  1 bc  |
-| Quiver (capacity: 20)         | 1 |                                                            | Mundane |            |  1  |  1 bc  |
+| Quiver (capacity: 20)         | 1 |                                                                | Mundane |            |  1  |  1 bc  |
 | Satchel (2/5 ft^3)            | 1 |                         12 lb container                         | Mundane |            |  2  |  1 bc  |
 
 ## Containers:
@@ -75,15 +75,15 @@
 
 | Name                   | # | Class |  Tier  | Durability |  LB  | Value |
 | ---------------------- | :-: | :---: | :-----: | :--------: | :--: | :----: |
-| Waterskin (4/4)        | 1 |  | Mundane |            |  5  | 20 cc |
-| Rations (1 day)        | 7 |  | Mundane |            |  2  | 350 cc |
-| Rope, Hempen (50 feet) | 1 |  | Mundane |            |  10  |  100c  |
-| Soap                   | 1 |  | Mundane |            | 0.5 |  2 cc  |
-| Clothes, Traveler's    | 1 |  | Mundane |            |  4  | 200 cc |
-| Piton                  | 10 |  | Mundane |            | 0.25 | 50 cc |
-| Playing Card Set       | 1 |  | Mundane |            | 0.2 | 50 cc |
-| Bronze Coin            | 2 |  | Mundane |            | 0.04 |  2 bc  |
-| Copper Coin            | 28 |  | Mundane |            | 0.56 | 28 cc |
+| Waterskin (4/4)        | 1 |      | Mundane |            |  5  | 20 cc |
+| Rations (1 day)        | 7 |      | Mundane |            |  2  | 350 cc |
+| Rope, Hempen (50 feet) | 1 |      | Mundane |            |  10  |  100c  |
+| Soap                   | 1 |      | Mundane |            | 0.5 |  2 cc  |
+| Clothes, Traveler's    | 1 |      | Mundane |            |  4  | 200 cc |
+| Piton                  | 10 |      | Mundane |            | 0.25 | 50 cc |
+| Playing Card Set       | 1 |      | Mundane |            | 0.2 | 50 cc |
+| Bronze Coin            | 2 |      | Mundane |            | 0.04 |  2 bc  |
+| Copper Coin            | 28 |      | Mundane |            | 0.56 | 28 cc |
 
 ## Appearance:
 

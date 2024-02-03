@@ -43,13 +43,13 @@ Another avenue to explore are magic how these magics could be combined.
 
 You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the Party Trick Tier (level -1: incompetent).
 
-| Magic Vocation Level | Magic Vocational Skills known |
-| :------------------: | :---------------------------: |
-|          0           |               1               |
-|          1           |               3               |
-|          2           |               5               |
-|          3           |               7               |
-|          4           |               9               |
+| Magic Vocation Level | Magic Skills known |
+| :------------------: | :----------------: |
+|          0           |         1          |
+|          1           |         3          |
+|          2           |         5          |
+|          3           |         7          |
+|          4           |         9          |
 
 #### Party Trick Tier (Level -1: Incompetent)
 

@@ -10,6 +10,24 @@ Silversmiths generally travel with all the materials needed to plate a weapon in
 
 Silver Plating, while highly effective, is still soft and is easily tarnished. A weapon's silver plating has 6 durability, after which all of the silver has fully been worn off.
 
+### Upgrade Materials
+
+| Required Material               | Starting Tier    | Resulting Tier   |
+| ------------------------------- | ---------------- | ---------------- |
+| Smithing Stone Fragment x 1     | Shoddy (-1)      | Mundane (+0)     |
+| Smithing Stone Fragment x 2     | Mundane (+0)     | Quality (+1)     |
+| Smithing Stone Fragment x 3     | Quality (+1)     | Fine (+2)        |
+| Smithing Stone Shard x 1        | Fine (+2)        | Excellent (+3)   |
+| Smithing Stone Shard x 2        | Excellent (+3)   | Superior (+4)    |
+| Smithing Stone Shard x 3        | Superior (+4)    | Exquisite (+5)   |
+| Large Smithing Stone Shard x 1 | Exquisite (+5)   | Flawless (+6)    |
+| Large Smithing Stone Shard x 2 | Flawless (+6)    | Mastercraft (+7) |
+| Large Smithing Stone Shard x 3 | Mastercraft (+7) | Fabled (+8)      |
+| Smithing Stone Chunk x 1        | Fabled (+8)      | Epic (+9)        |
+| Smithing Stone Chunk x 2        | Epic (+9)        | Legendary (+10)  |
+| Smithing Stone Chunk x 3        | Legendary (+10)  | Mythic (+11)     |
+| Smithing Stone Slab             | Mythic (+11)     | Legendary (+12)  |
+
 ## Shops Rules
 
 - [Currency](ItemShop.md#currency)

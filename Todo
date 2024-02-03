@@ -1,57 +1,43 @@
-Fogent Todo:
+## Fogent Todo:
+- Fix Gun Ranges
+- make videos about character making
+- rethink eo for dodge
+-Add entangle spell and restrained, charmed, and fix incapacitated.
+- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
 
-Fix Gun Ranges
+## Fogent Maybe To Dos:
+- maybe double Magic Resource
+- maybe Hold person just works with Magic Skill versus willpower roll. Save happens initially during the action round, with each save happening during declaration phase.
+- Possible -1d6 nerf to all ranged weapons
+- Possible dedicated 1 handed swords
+- Hew sword for Falchion
+- Added Net with 5/15 range
+- Investigate reverse turn order
+- Shove for mental damage magic
+- Item Creation - Apprentice -> 1-3 Adept -> 4-6 Expert -> 7-9 Master -> 10-12
 
-Fix player characters Spears and magic ranges
+## Fallen To dos:
+- Fix player characters Spears and magic ranges and monsters
+- Remove NotMyImage and Copyright tags
+- Make Asclepius stat block, probably just a snake
+- Be super clear which races start with which Fellcraft
+- Figure out cost of upgrading weapons with smithing stones
+- Runecraft tattoo stuff and enemies
+- Add brotherhood of silver lore
+- Remove Fellkin in general. Gives the races more uniqueness. The group name could be "the Fallen".
+- Grass lord one shot
+- Write the Beast Of Reddwall
 
-Fallen To dos:
-
-Remove NotMyImage and Copyright tags
-
-Make Asclepius stat block, probably just a snake
-
-Fix Characters Items and Tier of play
-
-Be super clear which races start with which Fellcraft
-
-Fun Ideas:
-
-Runecraft tattoo stuff and enemies
-
-Item Creation - Apprentice -> 1-3 Adept -> 4-6 Expert -> 7-9 Master -> 10-12
-
-Add javk magic arm item
-
-Add Javk Misericord
-
-Add brotherhood of silver lore
-
-Remove Fellkin in general. Gives the races more uniqueness. The group name could be "the Fallen".
-
-Grass lord one shot
-
-make videos about character making
-
-Write the Beast Of Reddwall
-
-Investigate reverse turn order
-
-Epilogue is a bipolar sword, can switch between rapier, sidesword, and bastard sword.
-
-Added Net with 5/15 range
-
-Hew sword for Falchion
-
-Shove for mental damage magic
-
-Possible dedicated 1 handed swords
-
-Possible -1d6 nerf to all ranged weapons
-
-Demon coins, 30 pieces of silver
-
-Figure out cost of upgrading weapons with smithing stones
-
-maybe Hold person just works with Magic Skill versus willpower roll
-
-maybe double Magic Resource
+## Things that have changed since Fogent Explanation 2.2 video:
+- Legendary level of skill, level 5
+- Added spear rapid EO
+- Removed level 5 weakness since it made no sense
+- Made complete resistance just completely negate that source of damage
+- Added AOE rules
+- Using Multiple Movement speeds in a round
+- Added EO for dodge rolls
+- Flank has become off guard
+- Old off guard has become sneak attack
+- Cover now give you resistance instead of defense
+- Added Short spears and spears
+- Ranges now only scale of Weapon/Magic Skill roll

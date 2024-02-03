@@ -125,9 +125,9 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Dagger     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Handaxe    | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Javelin    | 1 |                 Short Spear, Thrown Short Spear                 |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|  Light Hammer  | 1 |             Small Hafted Blunt, Small Thrown Blunt             |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|  Light Hammer  | 1 |             Small Hafted Blunt, Small Thrown Blunt             |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Mace      | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Sickle     | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   |  5 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|     Sickle     | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Spear     | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |   Battleaxe   | 1 |                        Medium Hafted Axe                        |        | Mundane |   12/12   |   4   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Flail     | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -146,10 +146,10 @@ Cheap shops will charge 50% the value for any item on this list.
 |      Pike      | 1 |                            Longspear                            |        | Mundane |   12/12   |   5   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Rapier     | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Scimitar    | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Trident    | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-| Warhammer/pick | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   4   |  9 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+| Warhammer/pick | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   2   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
 
@@ -221,7 +221,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |  Leather Cuisses and Greaves  | 1 |                  Leg Armor                  | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.67 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |       Leather Vambrace       | 1 |                  Arm Armor                  | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.66 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |          -[Weapon]-          |  |                                              |                |        |            |        |        |              |              |              |                |
-|             Sling             | 1 |                    Sling                    |                | Mundane |   12/12   |  0.5  |  20 cc  |     TRUE     |     TRUE     |    FALSE    |     FALSE     |
+|             Sling             | 1 |                    Sling                    |                | Mundane |   12/12   |  0.5  |  10 cc  |     TRUE     |     TRUE     |    FALSE    |     FALSE     |
 |                              |  |                                              |                |        |            |        |        |              |              |              |                |
 |        Waterskin (0/4)        | 1 |                                              |                | Mundane |            |   1   |  20 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Waterskin (4/4)        | 1 |                                              |                | Mundane |            |   5   |  20 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -304,7 +304,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |             Bucket             | 1 |                    |        | Mundane |            |   2   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |             Candle             | 1 |                    |        | Mundane |            |  0.1  | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Chest (12 ft^3)        | 1 |  300 lb container  |        | Mundane |            |   25   | 5 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|        Clothes, Common        | 1 |                    |        | Mundane |            |   3   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Clothes, Common        | 1 |                    |        | Mundane |            |   3   | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |         Clothes, Fine         | 1 |                    |        | Mundane |            |   6   | 15 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |        Flask or Tankard        | 1 |                    |        | Mundane |            |   1   | 2 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |      Ink (1 ounce bottle)      | 1 |                    |        | Mundane |            |  0.1  | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -358,13 +358,13 @@ Cheap shops will charge 50% the value for any item on this list.
 |             -[Weapons]-             |    |                                                                |                |        |            |        |        |              |              |              |                |
 |               Dagger               | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Handaxe               | 1 |                       Small Hafted Blade                       |                | Mundane |   12/12   |   2   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|            Light Hammer            | 1 |             Small Hafted Blunt, Small Thrown Blunt             |                | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Light Hammer            | 1 |             Small Hafted Blunt, Small Thrown Blunt             |                | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |            Quarterstaff            | 1 |                       Large Hafted Blunt                       |                | Mundane |   12/12   |   4   |  20 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |                Club                | 1 |                       Medium Hafted Blunt                       |                | Mundane |   12/12   |   2   |  10 cc  |     FALSE     |     TRUE     |    FALSE    |     FALSE     |
 |             Great Club             | 1 |                       Large Hafted Blunt                       |                | Mundane |   12/12   |   10   |  20 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
 |                Whip                | 1 |                              Whip                              |                | Mundane |   12/12   |   3   |  2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |            Plumbata/Dart            | 1 |                       Thrown Small Point                       |                | Mundane |   12/12   |   5   |  5 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|                Sling                | 1 |                              Sling                              |                | Mundane |   12/12   |  0.5  |  20 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
+|                Sling                | 1 |                              Sling                              |                | Mundane |   12/12   |  0.5  |  10 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
 |            Hand Crossbow            | 1 |                          Hand Crossbow                          |                | Mundane |   12/12   |   3   |  75 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |           Light Crossbow           | 1 |                         Light Crossbow                         |                | Mundane |   12/12   |   5   |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              Shortbow              | 1 |                            Light Bow                            |                | Mundane |   12/12   |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -468,8 +468,8 @@ Cheap shops will charge 50% the value for any item on this list.
 |        Conduit - Staff        | 1 |  Magic Conduit  |        |  Mundane  |            |   4   |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Conduit - Wand        | 1 |  Magic Conduit  |        |  Mundane  |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |  Component Pouch (2/5 ft^3)  | 1 | 12 lb container |        |  Mundane  |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Spellbook           | 1 |                |        |  Mundane  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Runebook           | 1 |  Magic Conduit  |        |  Mundane  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Spellbook           | 1 |                |        |  Quality  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Runebook           | 1 |  Magic Conduit  |        |  Quality  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 | Vial of Gradual Healing Blood | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |  Vial of Minor Healing Blood  | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 | Vial of Medium Healing Blood | 1 |                |        | Excellent |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -522,7 +522,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |      Cloak, Canvas      | 1 |                |        | Mundane |            |   5   | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Cloak, Leather     | 1 |                |        | Mundane |            |   5   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |  Cloak, Leather, Lined  | 1 |                |        | Mundane |            |   5   | 4 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Clothes, Common     | 1 |                |        | Mundane |            |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Clothes, Common     | 1 |                |        | Mundane |            |   3   | 50 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Clothes, Costume    | 1 |                |        | Mundane |            |   4   | 5 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |      Clothes, Fine      | 1 |                |        | Mundane |            |   6   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Clothes, Traveler's   | 1 |                |        | Mundane |            |   4   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -717,8 +717,8 @@ Cheap shops will charge 50% the value for any item on this list.
 |       Parchment (one sheet)       | 1 |                |        | Mundane |            |    0    | 10 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Pouch (1/5 ft^3)          | 1 | 6 lb container |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |               Robes               | 1 |                |        | Mundane |            |    4    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Spellbook             | 1 |  Magic Conduit  |        | Mundane |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Runebook              | 1 |  Magic Conduit  |        | Mundane |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Spellbook             | 1 |  Magic Conduit  |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|              Runebook              | 1 |  Magic Conduit  |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Vial                | 1 |                |        | Mundane |            |   0.1   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |        Alchemist's Supplies        | 1 |                |        | Mundane |            |    8    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |      Calligrapher's Supplies      | 1 |                |        | Mundane |            |    5    | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |

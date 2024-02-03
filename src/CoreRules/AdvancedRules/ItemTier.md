@@ -27,21 +27,3 @@ Items are created with carious levels of quality. Depending on an individual ite
 Base Dice are a reflection of a higher/lower quality of an item when used. Replace the typical 3d6 base dice with the corresponding dice on the item tier table. For instance, a mundane dagger for a character rolls 4d6. With a Mythic dagger they would roll 1d6, 1d12, and 2d20. This also applies to Conduits, tools used in skill rolls (high quality grappling hook for Climb), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability and upgrade slots.
 
 On any dice, 1, 2 and 3 are failures. Anything above is a success (except when a destiny point is used preemptively to turn 3's into successes).
-
-### Upgrade Materials
-
-| Required Material               | Starting Tier    | Resulting Tier   |
-| ------------------------------- | ---------------- | ---------------- |
-| Smithing Stone Fragment x 1     | Shoddy (-1)      | Mundane (+0)     |
-| Smithing Stone Fragment x 2     | Mundane (+0)     | Quality (+1)     |
-| Smithing Stone Fragment x 3     | Quality (+1)     | Fine (+2)        |
-| Smithing Stone Shard x 1        | Fine (+2)        | Excellent (+3)   |
-| Smithing Stone Shard x 2        | Excellent (+3)   | Superior (+4)    |
-| Smithing Stone Shard x 3        | Superior (+4)    | Exquisite (+5)   |
-| Large Smithing Stone Shard x 1 | Exquisite (+5)   | Flawless (+6)    |
-| Large Smithing Stone Shard x 2 | Flawless (+6)    | Mastercraft (+7) |
-| Large Smithing Stone Shard x 3 | Mastercraft (+7) | Fabled (+8)      |
-| Smithing Stone Chunk x 1        | Fabled (+8)      | Epic (+9)        |
-| Smithing Stone Chunk x 2        | Epic (+9)        | Legendary (+10)  |
-| Smithing Stone Chunk x 3        | Legendary (+10)  | Mythic (+11)     |
-| Smithing Stone Slab             | Mythic (+11)     | Legendary (+12)  |

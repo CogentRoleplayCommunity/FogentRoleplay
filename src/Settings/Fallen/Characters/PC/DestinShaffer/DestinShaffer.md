@@ -27,7 +27,7 @@
 |   Language: Babelish    |                      Can speak Babelish.                      |          |                                                       |
 |  Disabling: Addiction   | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                       |
 | Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                     Daddy Issues                      |
-|    Inventory Weight     |                           23.45 lb                            |          |                       Equipment                       |
+|    Equipment Weight     |                           23.45 lb                            |          |                       Equipment                       |
 |  Minor Silver Weakness  |   +1 to the level of injury received from Silver damage.    |          |                        Fellkin                        |
 |  Humanoid Carry Weight  |                            260 lb                             |          |  120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift  |
 |      Light Weight       |                -0d6 to STR/RFX governed skills                |          |               0% - 25% of carry weight                |
@@ -62,7 +62,7 @@
 | :--------------------------: | --- | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :----: |
 |             Club             | 1   |                       Medium Hafted Blunt                       | Mundane |   12/12    |   2   | 10 cc  |
 |            Dagger            | 1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
-|       Clothes, Common        | 1   |                                                             | Mundane |            |   3   |  5 bc  |
+|       Clothes, Common        | 1   |                                                             | Mundane |            |   3   |  50 cc  |
 |       Waterskin (4/4)        | 1   |                                                             | Mundane |            |   5   | 20 cc  |
 | Vial of Medium Healing Blood | 1   |                                                             | Mundane |            | 0.25  | 100 bc |
 |        Clothes, Fine         | 1   |                                                             | Mundane |            |   6   | 15 bc  |
