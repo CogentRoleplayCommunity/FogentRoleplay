@@ -82,7 +82,7 @@ A target with total cover can't be targeted directly by an attack, although some
 
 - Can't move, unless through Grapple Move.
 - Disadvantage on Combat Rolls, except against grappler.
-- Disadvantage on any checks that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+- Disadvantage on any checks that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
 - Ends if grappler is incapacitated.
 
 ## Incapacitated
@@ -91,8 +91,8 @@ A target with total cover can't be targeted directly by an attack, although some
 
 ## Invisible
 
-- Impossible to see unless aided by magic or special senses. Character is considered Heavily Obscured. Character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
-- 
+- Impossible to see via traditional sight. Character is considered Heavily Obscured. Character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
+- Combat rolls have disadvantage against the character that rely on sight.
 
 ## Paralyzed
 
@@ -102,13 +102,8 @@ A target with total cover can't be targeted directly by an attack, although some
 
 - Only able to crawl.
 - Disadvantage on combat rolls.
-- Combat Rolls made against a prone character within 5 feet have advantage. Otherwise the roll has Disadvantage.
-
-Opponent is rendered prone. The opponent has disadvantage on rolls until they get up. Melee attacks made against the downed opponent are at advantage.
-
-A character can declare they are attempting to get up on a round they start prone. While getting up, the opponents movement speed is 0. They are able to regain their footing and remove the prone effect at the end of the round they were getting up. The opponent can not benefit from the Defensive modifier while getting up as they can't fully focus on defending themselves.
-
-Instead of getting up, a character can remain prone. They use their climb speed to crawl instead of their movement speed.
+- Disadvantage on any check that generally assumes a character is standing (i.e. Acrobatics Checks, ect.. )
+- Melee Combat Rolls (Melee or Reach Ranges) made against a prone character have advantage.
 
 ## Restrained
 
@@ -120,7 +115,7 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 
 * Incapacitated (see the condition).
 * Can't coherently speak.
-* Automatically fails all STR/RFX governed checks.
+* Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
 * Disadvantage on combat rolls, STR/RFX governed check.
 
 ## Unconscious
@@ -129,5 +124,5 @@ Instead of getting up, a character can remain prone. They use their climb speed 
 - Can't speak.
 - Unaware of surroundings.
 - Character drops whatever they were holding and falls prone (see the condition).
-- Automatically fails all STR/RFX governed checks.
+- Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
 - Combat Rolls made within 5 feet have Super Advantage.
