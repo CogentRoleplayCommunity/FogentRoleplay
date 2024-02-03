@@ -39,11 +39,11 @@ When a new tier of play is unlocked, character can gain their new attribute poin
 |                                                 | Apprentice | Adept | Expert |    Master    | Legendary |
 | ----------------------------------------------- | :--------: | :---: | :----: | :----------: | :-------: |
 | Skill/Vocation Level Cap                        |     1     |   2   |   3   |      4      |     5     |
-| Given Vocation Point                            |     1     |   1   |   1   |      1      |          |
-| Max Disabling Characteristics<br />Skill Points |     1     |   2   |   3   |      4      |          |
-| Starting Attribute Points                       |     1     |   1   |   2   |      3      |          |
-| Starting Skill Points                           |     3     |   6   |   12   |      21      |          |
-| Skill points till next Tier                     |     3     |   6   |   9   | Undetermined |          |
+| Given Vocation Point                            |     1     |   2   |   3   |      4      |     5     |
+| Max Disabling Characteristics<br />Skill Points |     1     |   2   |   3   |      4      |     5     |
+| Starting Attribute Points                       |     1     |   2   |   3   |      4      |     5     |
+| Starting Skill Points                           |     3     |   7   |   12   |      21      |    33    |
+| Skill points till next Tier                     |     4     |   6   |   9   | Undetermined |          |
 
 ### Apprentice Tier (D&D Level 1 - 4)
 
@@ -59,6 +59,8 @@ This tier represent a group of veteran characters who made a name for themselves
 
 ### Master Tier (D&D Level 13-16)
 
-This tier represent a group of veteran characters who made a name for themselves in their larger region.
+This tier represent a group of characters known between countries that are regarded for their mastery of their respective strengths.
 
 ### Legendary Tier (D&D Level 17 - 20)
+
+This tier of play is represented by a group of legendary characters who have made their mark on history.
