@@ -2,6 +2,10 @@
 
 Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the narrators approval. It is highly encouraged to take disablings as they make characters far more interesting.
 
+### Gaining Disabling Characteristics mid campaign
+
+If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. It is not allowed to force a disabling, it should feel natural. Maybe they picked up an addiction, got their heart broken, or lost an arm. Regardless, this should be a negotiation between the player and narrator.
+
 ## Disabling Characteristic Examples
 
 | Name                                         |                               Effect                               |
