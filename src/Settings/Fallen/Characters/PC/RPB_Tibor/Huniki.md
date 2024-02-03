@@ -1,15 +1,10 @@
-# Annakishi
+# Huniki
 
 ![Sorry, no art yet to display!]()
 
-## UNFINISHED... Read but don't publish yet!
+- UNFINISHED! - Combat rolls not calculated yet!
 
-I had a character idea (for Annakishi) and I've been told to make her Initiate tier, however her story didn't make sense with her royal training and no rebelliousness at Initiate tier. At first I didn't wanna spend extra time meakeing a new character, but reading more and more about Fallen gave me ideas, so I had an idea for a blacksmith advancing to silversmith which does make sense at Initiate tier character.
-
-I made him a hive minded kiki of the same breed as Annakishi to avoid confusing myself if it comes to playing both at any point. :)
-
-
-## Attributes and Core Skills (UNFINISHED)
+## Attributes and Core Skills
 
 | STR       |  0  | Roll  | RFX             |  1  | Roll  | INT               |  0  | Roll  |
 | :-------: | :-: | :---: | :-------------: | :-: | :---: | :---------------: | :-: | :---: |
@@ -18,40 +13,39 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Endurance |  1  |  4d6  | Sleight of Hand |  0  |  4d6  | Survival          |  0  |  3d6  |
 | Lift      |  1  |  4d6  | Stealth         |  0  |  4d6  | Willpower         | -1  |  2d6  |
 
-<!-- Leave RFX 1 and Willpower -1 -->
+<!-- 3 skill points + 1 from narrative DC (Incapable of lying) + 1 redistribuited from -1 will (Easily compelled) -->
+
+## Vocations and Vocational Skills
+
+| Fellweaver {STR, RFX, INT} |  1  | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |    1    | 4d6 |
+| :------------------------: | :-: | :-: | -------------------------------------------------------- | :-----: | --- |
+| Polycraft {STR, RFX, INT}  |  1  | 5d6 | Metallurgy {INT}                                         | Voc.Lvl | 4d6 |
+| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     | Voc.Lvl | 4d6 |
+| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            | Voc.Lvl | 4d6 |
+|                            |     | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |    0    | 4d6 |
 
 
 
-## Vocations and Vocational Skills (UNFINISHED)
+## Effects
 
-| Fellweaver {STR, RFX, INT} |  0  | 4d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |  1  | 4d6 |
-| :--------------: | :-: | :-: | ------------------------------------------------------------------ | :-: | --- |
-| Polycraft {STR, RFX, INT}  |  0  | 4d6 | Metallurgy {INT}                                         |  1  | 4d6 |
-| Toxincraft {STR, RFX, INT} | -1  | 3d6 | Tool making / repair {STR, RFX, INT}                     |  1  | 5d6 |
-| Terracraft {STR, RFX, INT} | -1  | 3d6 | Silverplating {STR, RFX, INT}                            |  0  | 4d6 |
-| Galecraft {STR, RFX, INT}  | -1  | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |  0  | 4d6 |
-
-<!-- Blacksmithing must be at least 1. Leave 1 for polycraft for an advantage at healing. -->
-
-
-
-## Effects (UNFINISHED)
-
-| Name                          | Effect                                                        | Duration | Source                                                                                                                                   |
-| :---------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| Minor Silver Weakness         | +1 to the level of injury received from Silver damage. |          | Fellkin blood                                                                                                                            |
-| Physical Defense Level        | Phy. Def. 1.66                                                |          | Carapace                                                                                                                                 |
-| Medium Size                   | 5x5 ft on battle map.                                         |          |                                                                                                                                          |
-| Language: Babelish            | Can speak Babelish.                                           |          |                                                                                                                                          |
-| Language: Kikishi             | Can speak Kikishi                                             |          |                                                                                                                                          |
-| Disabling: Incapable of Lying |                                                               |          | As a worker of his kind, he can't lie to royal kiki. (He knows that royals can easily compell him to tell the truth anyway.)             |
-| Disabling: Anaphia            |                                                               |          | Unable to make touch based perception checks. (He's a blacksmith, his hands are extremely callous due to hard work.)                     |
-| Equipment Weight              | 47.06 LB                                                      |          | Equipment                                                                                                                                |
-| Humanoid Carry Weight         | 160 lb                                                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-| Light Weight                  | -0d6 to STR/RFX governed skills                               |          | 0% - 25% of carry weight                                                                                                                 |
-| Humanoid Movement Speed       | 30 ft                                                         |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
-| Humanoid Swim Speed           | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
-| Humanoid Climb Speed          | 15 ft                                                         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
+| Name                                                                                     | Effect                                                 | Duration | Source                                                                                                                                   |
+| :--------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| Minor Silver Weakness                                                                    | +1 to the level of injury received from Silver damage. |          | Fellkin blood                                                                                                                            |
+| Physical Defense Level                                                                   | Phy. Def. 1.66                                         |          | Carapace                                                                                                                                 |
+| Medium Size                                                                              | 5x5 ft on battle map.                                  |          |                                                                                                                                          |
+| Language: Babelish                                                                       | Can speak Babelish.                                    |          |                                                                                                                                          |
+| Language: Kikishi                                                                        | Can speak Kikishi                                      |          |                                                                                                                                          |
+| Disabling: Incapable of Lying                                                            | Can't lie to royal kiki.                               |          | Worker status in the hive. (He knows that royals can easily compell him to tell the truth anyway.)                                       |
+| Disabling: Can't read or solve fine puzzles.                                             | Sees fine detail in large pixels.                      |          | Compound eyes (Multi lense bug eyes).                                                                                                    |
+| Racial feature: [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) | Sees well in dimm light.                               |          | Underground hive dweller species, compound eyes.                                                                                         |
+| Racial feature: 2 Extra arms                                                             | Cool factor. :D                                        |          | Have you ever seen a healthy bug with only 4 limbs?! ;)                                                                                  |
+| Racial feature: Antennae                                                                 | Good sense of smell and pheromone.                     |          | Underground hive dweller species.                                                                                                        |
+| Inventory Weight                                                                         | 47.06 LB                                               |          | Equipment                                                                                                                                |
+| Humanoid Carry Weight                                                                    | 160 lb                                                 |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+| Light Weight                                                                             | -0d6 to STR/RFX governed skills                        |          | 0% - 25% of carry weight                                                                                                                 |
+| Humanoid Movement Speed                                                                  | 30 ft                                                  |          | 50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                                                                    |
+| Humanoid Swim Speed                                                                      | 15 ft                                                  |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                                                                 |
+| Humanoid Climb Speed                                                                     | 15 ft                                                  |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                                                                     |
 
 
 
@@ -103,22 +97,14 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 | Terracraft- Melee         | 9d6             |                 |                   | 2           | Melee |                   | Rapid                     |                     | 1 (Fellblood)       |
 
 
+## Destiny Points: 1/3
+
+## Fellblood: 5/5
+
+[Magic Quicklist](./MyMagicList.md)
 
 
-
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                     |                    |             |       |                   |                     |
-
-
-
-## Destiny Points: 3/3
-
-## Fellblood: 10/10 (UNFINISHED)
-
-
-
-## Equipment (UNFINISHED)
+## Equipment
 
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                                                                                                                                           |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -148,7 +134,7 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 
 
-## Containers (UNFINISHED)
+## Containers
 ### Pouch (1/5 ft^3) - Max 6 LB
 | Name                           |  #  | Class                                         | Tier        | Durability | LB   | Value  | Note                                                                        |
 | :----------------------------: | :-: | :-------------------------------------------: | :---------: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
@@ -180,14 +166,14 @@ I made him a hive minded kiki of the same breed as Annakishi to avoid confusing 
 
 ## Goals/Aspirations
 
-- Find an Order of Silver representative and acquire his own silver plating equipment.
+- Help out a friend of the hive called Burrowbard Stoneseeker. (Queen's orders of course. :D)
 - Get back to his hive.
 
 
 
 ## Backstory
 
-A silversmith was captured on his hive's territory, and brought to the queen. The queen didn't found him guilty in anything but trasspassing, so she released him with fresh suppliy of food and water provided that he trains one of the hive's blacksmith in silversmithing. Huniki was one of the hive's qurious blackshmiths brave enough to work with silver, and volunteered for this task. He learnt the basics of silversmithing from the captured silversmith, and the silversmith sent him out with his written recomendation to find an Order of Silver representative called Burrowbard Stoneseeker and acquire his own silver plating equipment. Huniki went out with the queen's permission and support.
+A silversmith was captured on his hive's territory, and brought to the queen. The queen didn't found him guilty in anything but trasspassing, so she released him with fresh suppliy of food and water provided that he trains one of the hive's blacksmith in silversmithing. Huniki was one of the hive's qurious blackshmiths brave enough to work with silver, and volunteered for this task. He learnt the basics of silversmithing from the captured silversmith, and the silversmith sent him out with his written recomendation to find an Order of Silver representative and acquire his own silver plating equipment. Huniki went out with the queen's permission and support, and aquired his silversmith equipment, but on his way back to the hive the queen herself imprinted a new objective into his mind by means of her pwerful mindcraft from a great distance to help out a friend of the hive called Burrowbard Stoneseeker, who helped the queen find her nesting place and countless lucrative ventures for the queen's brave servants. He is once again in urgent need of the queen's brave servants and Huniki happens to travel close to Burrowbard's current position.
 
 
 
@@ -212,7 +198,7 @@ A silversmith was captured on his hive's territory, and brought to the queen. Th
 - Short brown.
 
 ### Eyes:
-- He has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages.
+- He has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md).
 
 ### Additional Details (Logic behind her appearance only for those who like to read...):
 **Bug eye Advantages:**
@@ -238,7 +224,7 @@ His eyes don't normally glow, he can only see in complete darkness by means of p
 - I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so his kind does, even if he's basically a mix of several different bugs. ;)
 Workers of his kind do not have wings, only royals. (Kind like ants.)
 
-**About her appearance in general:**
+**About his appearance in general:**
 - He is unlike anyhting I've seen in fantasy. I kinda looked for bugs to combine, and made him unique. Hi eyes come from dragonly. The chelae come from scorpion, the antennae and behavior from ants, and I also gave him some carapace for protection. I made Annakishi first, and they are like ants, so royals have wings, warriors have carapace helmet but no wings, workers have no wings or helmet. Both workers, and warriors should have -1 willpower unlike royals who have 0 and queens who should have +1.
 - I didn't look for an existing character class again, Annakishi was my template for him.
 

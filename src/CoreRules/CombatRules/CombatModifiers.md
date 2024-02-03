@@ -36,10 +36,6 @@ Penalty to combat rolls and dodge rolls received when a character is actively en
 
 An attack which can't be defended against made by a character while they hidden to an opponent. This attack is usually proceeded by a Stealth Skill Check versus a Perception skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone throat with a dagger is a CL 1, however doing the same with a great sword would be far more difficult. Any wins achieved over the CL counts towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
 
-## Incapacitated (Super Advantage)
-
-If a character is incapacitated, they are held in place, tied up, or unconscious and therefore cannot fight back or defend themselves. Armor levels are disregarded if the attackers can narratively get around the armor easily.
-
 ## Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
@@ -56,3 +52,73 @@ A target has three-quarters cover if about three-quarters of it is covered by an
 ### Full Cover: Complete Resistance
 
 A target with total cover can't be targeted directly by an attack, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+
+# Conditions
+
+## Blinded
+
+- Automatically fails any check that requires sight.
+- Disadvantage on checks that partially rely on sight (i.e. Combat Rolls)
+
+## Charmed
+
+- Can't cause harm to charmer.
+- Charmer has advantage on Communication Checks on charmed character.
+
+## Deafened
+
+- Automatically fails any check that requires hearing.
+
+## Frightened
+
+- Disadvantage while source of the fear is within line of sight.
+- Can't willing move closer to source of fear.
+
+## Grappled
+
+- Can't move, unless through Grapple Move.
+- Disadvantage on Combat Rolls, except against grappler.
+- Disadvantage on any checks that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
+- Ends if grappler is incapacitated.
+
+## Incapacitated
+
+- Character can't take any actions or move.
+
+## Invisible
+
+- Impossible to see via traditional sight. Character is considered Heavily Obscured. Character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
+- Combat rolls have disadvantage against the character that rely on sight.
+
+## Paralyzed
+
+## Petrified
+
+## Prone
+
+- Only able to crawl.
+- Disadvantage on combat rolls.
+- Disadvantage on any check that generally assumes a character is standing (i.e. Acrobatics Checks, ect.. )
+- Melee Combat Rolls (Melee or Reach Ranges) made against a prone character have advantage.
+
+## Restrained
+
+- Can't move.
+- Disadvantage on Combat Rolls.
+- Disadvantage on Dodge Rolls.
+
+## Stunned
+
+* Incapacitated (see the condition).
+* Can't coherently speak.
+* Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+* Disadvantage on combat rolls, STR/RFX governed check.
+
+## Unconscious
+
+- Incapacitated (see the condition).
+- Can't speak.
+- Unaware of surroundings.
+- Character drops whatever they were holding and falls prone (see the condition).
+- Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+- Combat Rolls made within 5 feet have Super Advantage.
