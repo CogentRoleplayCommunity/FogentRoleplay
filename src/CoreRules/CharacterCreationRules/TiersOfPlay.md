@@ -1,6 +1,6 @@
 # Tier of Play
 
-Tier of play (which are commonly called levels in TTRPG) narratively describe the stakes of the campaign. The purpose of which is balance player against each other and the challenges the Narrator has envisioned.
+Tier of play narratively describe the stakes of the campaign. The purpose of which is balance player against each other and the challenges the Narrator has envisioned.
 
 Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at Apprentice Tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
 
@@ -10,29 +10,17 @@ Your narrator should let you know your tier of play and you should factor this i
 
 This is the maximum you can take any skill or vocation level to in the tier of play.
 
-### Given Vocation Point
+### Vocation Point
 
-This is a free Vocation point every character can spend to unlock their first vocation.
+Points that can only be spent to unlock or upgrade Vocations.
 
-### Max Skill Points from Disabling Characteristics
+### Attribute Points
 
-Skill points can be gained by choosing a disabling characteristic at character creation or when a disabling is gained mid-campaign. For each disabling characteristics, the character gains a skill point to spend up to the max value determined by the Tier of Play.
+The number of points you can spend on attributes.
 
-If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. It is not allowed to force a disabling just so a character can gain a skill point, it should feel natural. Maybe they picked up an addiction, got their heart broken, or lost an arm. Regardless, this should be a negotiation between the player and narrator.
+### Skill Points
 
-### Starting Attribute Points
-
-The number of attribute points you get to spend.
-
-### Starting Skill Points
-
-The number of skill points you get to spend on Core Skills, Vocations, and Combat Skills.
-
-### Skill points till next Tier of Play
-
-Skill points till the next tier of play is unlocked. In many ways, skill points function as experience points from other games. It should be noted that upon receiving the skill point that if spent would unlock the next tier of play, you still need to spend it first to unlock the next tier of play.
-
-When a new tier of play is unlocked, character can gain their new attribute points or skill points from disablings on the spot.
+The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
 
 ## Tiers of Play
 
@@ -40,13 +28,13 @@ When a new tier of play is unlocked, character can gain their new attribute poin
 
 This tier represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level |                                              Reward Gained                                              | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Cap |
-| :---: | :------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------: |
-|   1   | Vocation/Skill Cap set to 1<br />+1 Attribute Point<br />+4 Skill Point<br />+1 Disabling Characteristic |                1                |              4              |                1                |            1            |
-|   2   |                                              +1 Skill Point                                              |                1                |              5              |                1                |            1            |
-|   3   |                                              +1 Skill Point                                              |                1                |              6              |                1                |            1            |
-|   4   |                                              +1 Skill Point                                              |                1                |              7              |                1                |            1            |
-|   5   |                                            +1 Attribute Point                                            |                1                |              7              |                2                |            1            |
+| Level |                                              Reward Gained                                              | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Level Cap |
+| :---: | :------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------------: |
+|   1   | Vocation/Skill Cap set to 1<br />+1 Attribute Point<br />+4 Skill Point<br />+1 Disabling Characteristic |                1                |              4              |                1                |               1               |
+|   2   |                                              +1 Skill Point                                              |                1                |              5              |                1                |               1               |
+|   3   |                                              +1 Skill Point                                              |                1                |              6              |                1                |               1               |
+|   4   |                                              +1 Skill Point                                              |                1                |              7              |                1                |               1               |
+|   5   |                                            +1 Attribute Point                                            |                1                |              7              |                2                |               1               |
 
 ### Adept Tier (D&D Level 5 - 8)
 
