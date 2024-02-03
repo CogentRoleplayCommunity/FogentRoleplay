@@ -56,3 +56,76 @@ A target has three-quarters cover if about three-quarters of it is covered by an
 ### Full Cover: Complete Resistance
 
 A target with total cover can't be targeted directly by an attack, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+
+# Conditions
+
+## Blinded
+
+- Automatically fails any check that requires sight.
+- Disadvantage on checks that partially rely on sight (i.e. Combat Rolls)
+
+## Charmed
+
+- Can't cause harm to charmer.
+- Charmer has advantage on Communication Checks on charmed character.
+
+## Deafened
+
+- Automatically fails any check that requires hearing.
+
+## Frightened
+
+- Disadvantage while source of the fear is within line of sight.
+- Can't willing move closer to source of fear.
+
+## Grappled
+
+- Can't move, unless through Grapple Move.
+- Disadvantage on Combat Rolls, except against grappler.
+- Disadvantage on Dodge Rolls, except against grappler.
+- Ends if grappler is incapacitated.
+- Ends if effect removed from grapplers grapple range, such as being hurled away by a powerful gust of wind.
+
+## Incapacitated
+
+- Character can't take any actions or move.
+
+## Invisible
+
+## Paralyzed
+
+## Petrified
+
+## Prone
+
+- Only able to crawl.
+- Disadvantage on combat rolls.
+- Combat Rolls made against a prone character within 5 feet have advantage. Otherwise the roll has Disadvantage.
+
+Opponent is rendered prone. The opponent has disadvantage on rolls until they get up. Melee attacks made against the downed opponent are at advantage.
+
+A character can declare they are attempting to get up on a round they start prone. While getting up, the opponents movement speed is 0. They are able to regain their footing and remove the prone effect at the end of the round they were getting up. The opponent can not benefit from the Defensive modifier while getting up as they can't fully focus on defending themselves.
+
+Instead of getting up, a character can remain prone. They use their climb speed to crawl instead of their movement speed.
+
+## Restrained
+
+- Can't move.
+- Disadvantage on Combat Rolls.
+- Disadvantage on Dodge Rolls.
+
+## Stunned
+
+* Incapacitated (see the condition).
+* Can't coherently speak.
+* Automatically fails all STR/RFX governed checks.
+* Disadvantage on combat rolls, STR/RFX governed check.
+
+## Unconscious
+
+- Incapacitated (see the condition).
+- Can't speak.
+- Unaware of surroundings.
+- Character drops whatever they were holding and falls prone (see the condition).
+- Automatically fails all STR/RFX governed checks.
+- Combat Rolls made within 5 feet have Super Advantage.
