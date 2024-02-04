@@ -95,6 +95,7 @@ Unspent Skill Point: 1
 
 | Name                        | # | Class |         Effect         |   Tier   | Durability |  LB  | Value |
 | --------------------------- | :-: | :---: | :---------------------: | :-------: | :--------: | :--: | :----: |
+| Satchel (2/5 ft^3) | 1 | 12 lb container |        | Mundane |            |  2  | 1 bc |
 | Bronze Coin                 | 11 |      |                        |  Mundane  |            | 0.02 |  1 bc  |
 | Vial of Minor Healing Blood | 1 |      |       Minor Heal       |  Mundane  |            | 0.25 | 50 bc |
 | Clothes, Traveler's         | 1 |      |                        |  Mundane  |            |  4  |  2 bc  |
