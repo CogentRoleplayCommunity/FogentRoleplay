@@ -2,8 +2,6 @@
 
 ![NotMyImage](MalgonBlackriron.png)
 
-Unspent Skill Point: 1
-
 ## Attributes and Core Skills
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
@@ -82,6 +80,7 @@ Unspent Skill Point: 1
 | Quiver (capacity: 20)         | 1 |                      |                 | Mundane |            |  1  |  1 bc  |
 | Broadhead Arrow               | 17 |    Standard Arrow    |                 | Mundane |            | 0.05 |  1 bc  |
 | Lavender Lancer Scarf         | 1 |                      |                 | Mundane |            | 0.5 |  50 cc  |
+| Hew                           |    |                      |                 |        |            |      |        |
 
 ## Containers
 
@@ -90,16 +89,14 @@ Unspent Skill Point: 1
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
 | Dice Set          | 1 |                |        | Mundane |            | 0.2 | 10 cc |
 | Ring, Exquisite   | 2 |                |        | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 27 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Coin       | 42 |                |        | Mundane |            | 0.02 | 1 bc |
 | Copper Coin       | 50 |                |        | Mundane |            | 0.02 | 1 cc |
 
-| Name                        | # | Class |         Effect         |   Tier   | Durability |  LB  | Value |
-| --------------------------- | :-: | :---: | :---------------------: | :-------: | :--------: | :--: | :----: |
-| Satchel (2/5 ft^3) | 1 | 12 lb container |        | Mundane |            |  2  | 1 bc |
-| Bronze Coin                 | 11 |      |                        |  Mundane  |            | 0.02 |  1 bc  |
-| Vial of Minor Healing Blood | 1 |      |       Minor Heal       |  Mundane  |            | 0.25 | 50 bc |
-| Clothes, Traveler's         | 1 |      |                        |  Mundane  |            |  4  |  2 bc  |
-| Potion of Invisibility      | 1 |      | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
+| Name                   | # |      Class      |         Effect         |   Tier   | Durability |  LB  | Value |
+| ---------------------- | :-: | :-------------: | :---------------------: | :-------: | :--------: | :--: | :----: |
+| Satchel (2/5 ft^3)     | 1 | 12 lb container |                        |  Mundane  |            |  2  |  1 bc  |
+| Bronze Coin            | 11 |                |                        |  Mundane  |            | 0.02 |  1 bc  |
+| Potion of Invisibility | 1 |                | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
 
 ## Notes
 
