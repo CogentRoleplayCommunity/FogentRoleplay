@@ -22,8 +22,6 @@ Fellkin vary wildly, but all share the innate risk of going feral. This occurs w
 - Wraithkin
 - Griffinkin
 - Serpentskin
-- Griffinkin
-- Wraithkin
 - Spiderkin
 - Molekin
 - Leshenkin
