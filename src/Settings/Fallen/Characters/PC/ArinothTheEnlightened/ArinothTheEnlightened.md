@@ -1,4 +1,4 @@
-# Arinoth The Enlightened
+# Arinoth The Enlightened (Level 3)
 
 ![NotMyImage](ArinothTheEnlightened.png)
 

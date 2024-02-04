@@ -1,4 +1,4 @@
-# Malgon Blackiron
+# Malgon Blackiron (Level 3)
 
 ![NotMyImage](MalgonBlackriron.png)
 

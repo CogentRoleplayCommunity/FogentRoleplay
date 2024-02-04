@@ -1,4 +1,4 @@
-# Skuath Crimson
+# Skuath Crimson (Level 3)
 
 ![alt_text](SkuathCrimson.png)
 

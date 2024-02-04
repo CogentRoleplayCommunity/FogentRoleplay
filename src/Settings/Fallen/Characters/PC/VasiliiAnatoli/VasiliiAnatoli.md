@@ -1,4 +1,4 @@
-# Vasilii "The Bear Knight" Anatoli
+# Vasilii "The Bear Knight" Anatoli (Level 3)
 
 ![NotMyImage](VasiliiAnatoli.png)
 
