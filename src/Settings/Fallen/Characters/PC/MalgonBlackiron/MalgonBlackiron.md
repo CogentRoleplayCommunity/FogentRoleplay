@@ -93,6 +93,13 @@ Unspent Skill Point: 1
 | Bronze Coin       | 27 |                |        | Mundane |            | 0.02 | 1 bc |
 | Copper Coin       | 50 |                |        | Mundane |            | 0.02 | 1 cc |
 
+| Name                        | # | Class |         Effect         |   Tier   | Durability |  LB  | Value |
+| --------------------------- | :-: | :---: | :---------------------: | :-------: | :--------: | :--: | :----: |
+| Bronze Coin                 | 11 |      |                        |  Mundane  |            | 0.02 |  1 bc  |
+| Vial of Minor Healing Blood | 1 |      |       Minor Heal       |  Mundane  |            | 0.25 | 50 bc |
+| Clothes, Traveler's         | 1 |      |                        |  Mundane  |            |  4  |  2 bc  |
+| Potion of Invisibility      | 1 |      | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
+
 ## Notes
 
 ## Appearance
