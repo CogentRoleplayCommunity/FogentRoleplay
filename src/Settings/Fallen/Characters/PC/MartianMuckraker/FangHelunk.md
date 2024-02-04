@@ -2,14 +2,6 @@
 
 ![img]()
 
-## Burrowbard
-
-- Briefly took me in when paretns arrested.
-- Arranged for me to have home among the Orcs
-- When I returend to human civilization helped me find my footing
-- Has occassionally helped my cause for justice
-- I now serve as an Urban Robin Hood of sorts.
-
 ## Attributes and Core Skills
 
 | STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
@@ -135,3 +127,12 @@ Additional Details:
 - To avenge those who locked up his parents
 
 ## Backstory
+
+
+### Burrowbard
+
+- Briefly took me in when paretns arrested.
+- Arranged for me to have home among the Orcs
+- When I returend to human civilization helped me find my footing
+- Has occassionally helped my cause for justice
+- I now serve as an Urban Robin Hood of sorts.
