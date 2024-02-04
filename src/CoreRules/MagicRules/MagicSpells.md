@@ -48,6 +48,7 @@ Specific Spells:
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Fling](Spells/Apprentice/Fling.md)
 - [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
+- [Hold Humanoid](./Spells/Apprentice/HoldHumanoid.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
 - [Invisibility](Spells/Apprentice/Invisibility.md)
 - [Leap](Spells/Apprentice/Leap.md)
