@@ -1,7 +1,6 @@
 ## Fogent Todo:
 - Fix Gun Ranges
 - make videos about character making
-- Add entangle spell
 - Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
 - Maybe have magic resource scale off level
 - Moved STagger under off guard
@@ -28,6 +27,7 @@
 - Remove Fellkin in general. Gives the races more uniqueness. The group name could be "the Fallen".
 - Grass lord one shot
 - Write the Beast Of Reddwall
+- Add entangle spell
 
 ## Things that have changed since Fogent Explanation 2.2 video:
 - Legendary level of skill, level 5
