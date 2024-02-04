@@ -1,7 +1,7 @@
 ## Fogent Todo:
 - Fix Gun Ranges
 - make videos about character making
--Add entangle spell and restrained, charmed, and fix incapacitated.
+- Add entangle spell
 - Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
 - Maybe have magic resource scale off level
 - Moved STagger under off guard
