@@ -58,7 +58,7 @@
 | [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  | Slash, Bludgeon, Hew, Pierce |                          |                    |   1 - 2 Fellblood   |
 |        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter | Slash, Bludgeon, Hew, Pierce |                          |                    |   3 - 4 Fellblood   |
 
-## Destiny Points: 1/3
+## Destiny Points: 2/3
 
 ## Fellblood: 5/5
 
