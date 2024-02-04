@@ -19,6 +19,7 @@
 | Polycraft {STR, RFX, INT}      | -1 | 3d6 |
 | Sonocrat {STR, RFX, INT}       | -1 | 3d6 |
 | Hand Crossbow {STR, RFX, INT} | 1 | 5d6 |
+| Medium Sword {STR, RFX, INT}  | 0 | 4d6 |
 
 ## Effects
 
@@ -30,7 +31,7 @@
 |   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
 |    Language: Jotun    |                   Can speak Jotun.                   |          |                                                                                                                    |
 | Disabling: Kleptomaniac |    Desire to steal most things regardless of value.    |          |                                                                                                                    |
-|    Equipment Weight    |                         29 lb                         |          |                                                      Equipment                                                      |
+|    Equipment Weight    |                        27.5 lb                        |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
 | Humanoid Movement Speed |                         40 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
@@ -47,10 +48,11 @@
 
 ### Weapons
 
-|              Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|          Hand Crossbow          |      +1d6      |      +1d6      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |        Bolt        |
-| Medium Thrusting Sword (Rapier) |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|     Hand Crossbow     |      +1d6      |      +1d6      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |        Bolt        |
+| Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
 ### Weapon Resources
 
@@ -73,24 +75,25 @@
 
 ## Equipment
 
-| Name                          | # |                     Class                     |     Effect     |  Tier  | Durability | LB |  Value  |
-| ----------------------------- | :-: | :-------------------------------------------: | :-------------: | :-----: | :--------: | :-: | :-----: |
-| Gambeson Coat                 | 1 |             Body Armor, Arm Armor             | Phy. Def. 0.625 | Mundane |   12/12   | 5 | 3.13 bc |
-| Gambeson Leggings             | 1 |                   Leg Armor                   | Phy. Def. 0.375 | Mundane |   12/12   | 3 | 1.87 bc |
-| Leather Helmet                | 1 |                  Head Armor                  | Phy. Def. 0.34 | Quality |   15/15   | 2 | 1.67 bc |
-| Leather Cuirass and Pauldrons | 1 |                  Body Armor                  | Phy. Def. 1.00 | Quality |   15/15   | 6 |  5 bc  |
-| Leather Cuisses and Greaves   | 1 |                   Leg Armor                   | Phy. Def. 0.33 | Quality |   15/15   | 2 | 1.67 bc |
-| Leather Vambrace              | 1 |                   Arm Armor                   | Phy. Def. 0.33 | Quality |   15/15   | 2 | 1.66 bc |
-| Hand Crossbow                 | 1 |                 Hand Crossbow                 |                | Mundane |   12/12   | 3 |  75 bc  |
-| Buckler Shield                | 1 |                    Shield                    |   Phy. Def. 1   | Mundane |   12/12   | 4 |  2 bc  |
-| Rapier                        | 1 | Medium Thrusting Sword, Medium Slashing Sword |                | Quality |   15/15   | 2 |  25 bc  |
+| Name                                | # |                     Class                     |     Effect     |  Tier  | Durability |  LB  |  Value  |
+| ----------------------------------- | :-: | :-------------------------------------------: | :-------------: | :-----: | :--------: | :---: | :-----: |
+| Gambeson Coat                       | 1 |             Body Armor, Arm Armor             | Phy. Def. 0.625 | Mundane |   12/12   |   5   | 3.13 bc |
+| Gambeson Leggings                   | 1 |                   Leg Armor                   | Phy. Def. 0.375 | Mundane |   12/12   |   3   | 1.87 bc |
+| Leather Helmet                      | 1 |                  Head Armor                  | Phy. Def. 0.34 | Quality |   15/15   |   2   | 1.67 bc |
+| Leather Cuirass and Pauldrons       | 1 |                  Body Armor                  | Phy. Def. 1.00 | Quality |   15/15   |   6   |  5 bc  |
+| Leather Cuisses and Greaves         | 1 |                   Leg Armor                   | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.67 bc |
+| Leather Vambrace                    | 1 |                   Arm Armor                   | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.66 bc |
+| Hand Crossbow                       | 1 |                 Hand Crossbow                 |                | Mundane |   12/12   |   3   |  75 bc  |
+| Rapier                              | 1 | Medium Thrusting Sword, Medium Slashing Sword |                | Quality |   15/15   |   2   |  25 bc  |
+| Bodkin Bolt                         | 20 |                Anti-armor Bolt                |                | Mundane |            | 0.075 |  2 bc  |
+| Case, Crossbow Bolts (capacity: 20) | 1 |                                              |                | Mundane |            |   1   |  1 bc  |
 
 ## Containers
 
 | Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 31 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Coin       | 6 |                |        | Mundane |            | 0.02 | 1 bc |
 
 ## Notes
 
@@ -127,7 +130,6 @@ Additional Details:
 - To avenge those who locked up his parents
 
 ## Backstory
-
 
 ### Burrowbard
 
