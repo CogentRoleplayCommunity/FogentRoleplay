@@ -34,6 +34,7 @@
 
 ## Humanoids
 
+- [Apprentice Runesmith](./Humanoids/ApprenticeRunesmith/ApprenticeRunesmith.md)
 - [Cultist](Humanoids/Cultist/Cultist.md)
 - [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 - [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
