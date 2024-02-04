@@ -37,6 +37,10 @@
 
 ## Paralyzed
 
+- Incapacitated
+- Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+- Combat Rolls made within 5 feet have Super Advantage.
+
 ## Petrified
 
 ## Prone
