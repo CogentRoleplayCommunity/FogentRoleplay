@@ -42,6 +42,7 @@ Specific Spells:
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
 - [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
 - [Chaotic Cannon](Spells/Apprentice/ChaoticCannon.md)
+- [Charm Humanoid](./Spells/Apprentice/CharmHumaniod.md)
 - [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
 - [Disguise Flesh](Spells/Apprentice/DisguiseFlesh.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
