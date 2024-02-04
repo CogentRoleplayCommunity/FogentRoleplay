@@ -43,6 +43,13 @@
 
 ## Petrified
 
+* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+* Incapacitated (see the condition).
+* Can't speak.
+* Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+* Serious Resistance to all damage.
+* Complete Resistance to poison, necrotic, and disease,  although a poison, rot, or disease already in its system is suspended, not neutralized.
+
 ## Prone
 
 - Only able to crawl.
