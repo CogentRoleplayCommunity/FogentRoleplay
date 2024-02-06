@@ -15,3 +15,7 @@ Magic CL Saving Throw = (magic skill dice pool size / 2) rounded down
 | CL 6                  | 12-13                      |
 | CL 7                  | 14-15                      |
 | CL 8                  | 16+                        |
+
+## (Optional) Magic Saving Throw Roll off
+
+Magic Skill Roll sets the level of the CL.
