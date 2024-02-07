@@ -18,7 +18,7 @@ Thrak the barbarian is trying to lift a big rock. Bob the bard decides he is goi
 
 ## Example 2:
 
-Javk Wick the rogue is sneaking up on a guard. Javk's player asks the narrator if he could assist his stealth check to sneak up with his Rogue Vocation. The Narrator agrees and Javk get +2 wins from his Assists, making the following stealth check far more easy.
+Javk Wick the rogue is sneaking up on a guard. Javk's player asks the narrator if he could assist his stealth check to sneak up with his Rogue Vocation. The Narrator agrees and Javk get +2 wins from his Assist, making the following stealth check far more easy.
 
 ## Example 3:
 
