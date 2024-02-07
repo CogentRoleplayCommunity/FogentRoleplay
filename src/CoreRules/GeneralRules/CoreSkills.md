@@ -6,7 +6,7 @@ Core Skills are skills that cover the majority of what most creatures can perfor
 
 ### Athletics
 
-Represented by sprinters, high-jumpers, and swimmers. Covers physical activity related to raw speed and jump height. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit or throwing a ball.
+Represented by sprinters, high-jumpers, and swimmers. Covers physical activity related to raw running speed and jump height. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit, swimming in turbulent water or throwing a ball.
 
 ### Climb
 
@@ -14,7 +14,7 @@ Represented by rock climbers. Covers all climbing related activities. Examples i
 
 ### Endurance
 
-Represented by ultra marathon runners. Represents your body's ability to process toxins and resist disease. Resisting food poisoning, hot/cold weather, and pushing on past exhaustion are all the domain of endurance.
+Represented by ultra marathon runners. Represents your body's ability to process toxins and resist disease. Examples include resisting food poisoning, enduring hot/cold weather, and pushing on past exhaustion are all the domain of endurance.
 
 ### Lift
 
@@ -24,11 +24,11 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 ### Acrobatics
 
-Represented by circus performers or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
+Represented by circus performers, parkourists or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
 
 ### Perception
 
-Perception is the art of detecting things through the 5 senses, including sight, sound, scent, touch, and taste. It is used as the defense against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places. It is important to note many types of skills may commonly be used to assist with perception, especially vocational ones.
+Perception is the art of detecting things through the 5 senses, including sight, sound, scent, touch, and taste. It is used as the defense against stealth; it will be common for the Narrator to require players make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places.
 
 ### Sleight of Hand
 
