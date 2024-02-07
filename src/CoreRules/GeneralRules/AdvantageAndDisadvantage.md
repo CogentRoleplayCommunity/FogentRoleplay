@@ -6,19 +6,19 @@ Advantage and disadvantage only apply to a single dice pool, not additional dice
 
 ## Advantage
 
-Advantage is gained when circumstance favors a character. For any dice rolled, 3's count as a success for that roll.
+Advantage is gained when circumstance favors a character. For any dice rolled, 3's count as a wins for that roll.
 
 ## Disadvantage
 
-Disadvantage is gained when circumstance disfavors a character. For any dice rolled, 4's count as a failure for that roll.
+Disadvantage is gained when circumstance disfavors a character. For any dice rolled, 4's count as failures for that roll.
 
 ## Super Advantage
 
-Gained under very specific conditions when the stars have aligned for your character. For any dice rolled, 3s and 2s count as a success for that roll.
+Gained under very specific conditions when the stars have aligned for your character. For any dice rolled, 3s and 2s count as wins for that roll.
 
 ## Super Disadvantage
 
-Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as a failure for that roll.
+Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as failures for that roll.
 
 ## Super Advantage/Disadvantage overriding Advantage/Disadvantage
 
