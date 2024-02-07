@@ -6,7 +6,7 @@ Advantage and disadvantage only apply to a single dice pool, not additional dice
 
 ## Advantage
 
-Advantage is gained when circumstance favors a character. For any dice rolled, 3's count as a wins for that roll.
+Advantage is gained when circumstance favors a character. For any dice rolled, 3's count as wins for that roll.
 
 ## Disadvantage
 
