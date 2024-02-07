@@ -39,11 +39,10 @@
 
 - Incapacitated
 - Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-- Combat Rolls made within 5 feet have Super Advantage.
 
 ## Petrified
 
-* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+* A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 * Incapacitated (see the condition).
 * Can't speak.
 * Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
@@ -77,4 +76,3 @@
 - Unaware of surroundings.
 - Character drops whatever they were holding and falls prone (see the condition).
 - Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-- Combat Rolls made within 5 feet have Super Advantage.
