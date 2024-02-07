@@ -113,7 +113,7 @@ To duel wield the character must have at least one proficiency point in both of 
 |  Thrown Small Axe  |      +1d6      |      +1d6      |       None       |      0      | Short |        Hew        |           Quick           |        None        |        None        | {STR,RFX,INT}             |
 | Thrown Small Blunt |      +0d6      |      +0d6      |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        | {STR,RFX,INT}             |
 
-### Small bladed
+### Small Blade
 
 (Dagger, shortsword)
 
