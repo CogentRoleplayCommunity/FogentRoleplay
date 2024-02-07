@@ -8,7 +8,7 @@ If the assist check was successful, additional wins are added to the result of t
 
 Each player can only attempt 1 assist per Dice Pool. This means that if a player has 2 skills that could logically assist another dice pool they must choose between those 2 skills.
 
-The number of wins gained or losses subtracted from an assist can never be greater than the challenge level of the assist. For instance, you can only ever receive an additional 3 wins or losses to a dice pool that you're trying to assist if the assist check was **CL 3** . Likewise, you can only ever receive an additional **4 wins** or losses to a dice pool that you're trying to assist if the assist check was **CL 4**.
+The number of wins gained or losses subtracted from an assist can never be greater than the challenge level of the assist. For instance, you can only ever receive an additional 3 wins or losses to a dice pool that you're trying to assist if the assist check was **CL 3** .
 
 It's up to the players and Narrator to negotiate how these assists can be logically applied to different circumstances.
 
