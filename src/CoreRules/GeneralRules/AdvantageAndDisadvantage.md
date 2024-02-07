@@ -6,7 +6,7 @@ Advantage and disadvantage only apply to a single dice pool, not additional dice
 
 ## Advantage
 
-Advantage is gained when you circumstance favors a character. For any dice rolled, 3's count as a success for that roll.
+Advantage is gained when circumstance favors a character. For any dice rolled, 3's count as a success for that roll.
 
 ## Disadvantage
 
@@ -22,4 +22,4 @@ Gained under very specific conditions when your character has drawn the short st
 
 ## Advantage and Disadvantage cancelling out
 
-If on a roll you had both advantage and disadvantage, than the two effects cancel out leaving you with only a normal roll. If you had two sources giving you advantage, than you would still only have advantage. However, if you had two sources of advantage and one source of disadvantage, than one advantage would cancel out with the only disadvantage, leaving you with advantage.
+If on a roll a character had both advantage and disadvantage, than the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you advantage, than you would still only have advantage. However, if the character had two sources of advantage and one source of disadvantage, than one advantage would cancel out with the only disadvantage, leaving you with advantage.
