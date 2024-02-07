@@ -1,4 +1,4 @@
-## Dice Pools
+# Dice Pools
 
 Fogent is primarily a D6 dice based game, though D4, D8, D10, D12, and D20 are also used.
 
