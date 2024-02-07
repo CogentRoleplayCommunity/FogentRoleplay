@@ -15,7 +15,7 @@ Attributes represent the innate characteristics of a character. An attribute can
 
 ## Strength (STR)
 
-Represent your characters innate muscle strength, bone density, tendon strength, ect...
+Represent your characters innate muscle strength, bone density, tendon strength, physical durability, ect...
 
 | Attribute Level |            Narrative Meaning            |
 | :-------------: | :--------------------------------------: |
@@ -25,7 +25,7 @@ Represent your characters innate muscle strength, bone density, tendon strength,
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
 |        3        |     Bear, Ogre, or Captain America     |
-|        4        |             Thor or Hercules             |
+|        4        |                 Hercules                 |
 |        5        |                 Superman                 |
 
 STR has the following effects:
@@ -41,16 +41,16 @@ STR has the following effects:
 
 Represents your reflexes, reaction speed, nervous system, fine motor control, dexterity, agility, quickness...
 
-| Attribute Level |              Narrative Meaning              |
-| :-------------: | :-----------------------------------------: |
-|       -2       |               A sea cucumber               |
-|       -1       |    Below an average person in our world    |
-|        0        |       An average person in our world       |
-|        1        |    Professional thief or circus acrobat    |
-|        2        | Gold medal gymnast or master martial artist |
-|        3        |                   Legolas                   |
-|        4        |                  Spiderman                  |
-|        5        |             The Flash or Hermes             |
+| Attribute Level |                 Narrative Meaning                 |
+| :-------------: | :-----------------------------------------------: |
+|       -2       |                  A sea cucumber                  |
+|       -1       |       Below an average person in our world       |
+|        0        |          An average person in our world          |
+|        1        | Professional thief, parkourist, or circus acrobat |
+|        2        |    Gold medal gymnast or master martial artist    |
+|        3        |                      Legolas                      |
+|        4        |                     Spiderman                     |
+|        5        |                The Flash or Hermes                |
 
 RFX has the following effects:
 
@@ -60,7 +60,7 @@ RFX has the following effects:
 
 ## Intelligence (INT)
 
-Represents your raw mental horse power and IQ.
+Represents your raw mental horse power, IQ, and mental/spiritual durability.
 
 | Attribute Level |                           Narrative Meaning                           |
 | :-------------: | :-------------------------------------------------------------------: |
