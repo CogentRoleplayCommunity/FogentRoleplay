@@ -37,9 +37,8 @@
 
 ## Paralyzed
 
-- Incapacitated
+- Incapacitated(see the condition).
 - Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-- Combat Rolls made within 5 feet have Super Advantage.
 
 ## Petrified
 
@@ -77,4 +76,3 @@
 - Unaware of surroundings.
 - Character drops whatever they were holding and falls prone (see the condition).
 - Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-- Combat Rolls made within 5 feet have Super Advantage.

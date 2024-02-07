@@ -12,14 +12,6 @@ Advantage is gained when circumstance favors a character. For any dice rolled, 3
 
 Disadvantage is gained when circumstance disfavors a character. For any dice rolled, 4's count as a failure for that roll.
 
-## Super Advantage
-
-Gained under very specific conditions when the stars have aligned for your character. For any dice rolled, 3s and 2s count as a success for that roll.
-
-## Super Disadvantage
-
-Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as a failure for that roll.
-
 ## Advantage and Disadvantage cancelling out
 
 If on a roll a character had both advantage and disadvantage, than the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you advantage, than you would still only have advantage. However, if the character had two sources of advantage and one source of disadvantage, than one advantage would cancel out with the only disadvantage, leaving you with advantage.
