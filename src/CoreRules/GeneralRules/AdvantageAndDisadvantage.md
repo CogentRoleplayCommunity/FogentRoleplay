@@ -20,6 +20,12 @@ Gained under very specific conditions when the stars have aligned for your chara
 
 Gained under very specific conditions when your character has drawn the short straw. For any dice rolled, 4's and 5's count as a failure for that roll.
 
+## Super Advantage/Disadvantage overriding Advantage/Disadvantage
+
+Super Advantage/Disadvantage completely override advantage and disadvantage on any roll.
+
 ## Advantage and Disadvantage cancelling out
 
 If on a roll a character had both advantage and disadvantage, than the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you advantage, than you would still only have advantage. However, if the character had two sources of advantage and one source of disadvantage, than one advantage would cancel out with the only disadvantage, leaving you with advantage.
+
+In the extreme case that a character has super advantage and super disadvantage, they cancel out the same way advantage and disadvantage do.
