@@ -16,8 +16,8 @@ A rogue and a knight are fighting each other in combat. The rogue wants to use t
 
 Combat example 3:
 
-A rogue and a knight are fight each other in combat. The rogue has already used the dim light of the room to successfully hide behind some crates last round. The knight declares he is trying to find the rogue on his turn and attack him. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The contest check is a stalemate and the rogue remains hidden. The rogue uses his stealth to sneak attack the knight.
+A rogue and a knight are fighting each other in combat. The rogue has already used the dim light of the room to successfully hide behind some crates last round. The knight declares he is trying to find the rogue on his turn and attack him. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. The contest check is a stalemate and the rogue remains hidden. The rogue uses his stealth to sneak attack the knight.
 
-Non-combat example 4:
+Non-combat example:
 
 Outside of combat, a rogue is trying to sneak up on a knight. The rogue rolls stealth and the knight rolls perception. They both get 2 wins. They reroll to determine a clear winner.
