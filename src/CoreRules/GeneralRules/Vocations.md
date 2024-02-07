@@ -4,7 +4,7 @@ Vocations represent your character's job, class, or life path. You should check 
 
 All skills under a vocation have their levels capped by their vocation level. For instance, if a character had level a 2 vocation, any skill under it couldn't increase above 2, until it's vocation increased.
 
-Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes. There are two kinds of skill that fall under a vocation, Vocational Skill and Combat Skills.
+Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes. There are two kinds of skill that fall under a vocation, Vocational Skills and Combat Skills.
 
 ## Vocational Skills
 
