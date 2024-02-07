@@ -26,7 +26,7 @@ Once a dice pool for a given skill check is equal to or greater than 8 you are c
 
 ## Multiple Character skill check
 
-Multiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if multiple characters where performing it. All characters make their skill check, from which the average is taken. The average will then determine success or failure.
+Multiple characters may contribute to the same skill check. The narrator should than evaluate the challenge level in the context of if multiple characters where performing it. All characters make their skill check, from which the average is taken, always rounding down to the nearest whole number. The average will then determine success or failure.
 
 ### Example
 
