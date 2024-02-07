@@ -54,7 +54,7 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 
 RFX has the following effects:
 
-- RFX is factored into all RFX governed skills (Acrobatics, Perception, Sleight of Hand, ect...).
+- RFX is factored into all RFX governed skills (Acrobatics, Perception, Sleight of Hand, Stealth, ect...).
 - As combat is conducted in a round by round format, the player with the highest reflex gets **priority** in that round.
 - RFX increases walking/running movement speed in combat.
 
@@ -75,7 +75,7 @@ Represents your raw mental horse power and IQ.
 
 INT has the following effects:
 
-- INT is factored into all INT governed skills.
+- INT is factored into all INT governed skills (General Knowledge, Survival, Willpower, Communication, etc...).
 - For every point in intelligence the player receives 3 additional skill points to spend.
 - INT is a characters spiritual/mental durability.
 - For every point in INT the character can a reduce a spiritual/mental victory level achieved against them in combat once every combat encounter.
