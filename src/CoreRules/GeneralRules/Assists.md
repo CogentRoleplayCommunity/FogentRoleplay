@@ -4,7 +4,7 @@ All Skills and Vocations can all be used to perform Assists. With Assists, playe
 
 **The CL for assists starts at three and should never be lower than that.** However, it is up to the narrator to decide if it should be higher than three. In general, most assist roles, unless extremely unlikely to aid the current situation, will be made at **CL** three.
 
-If the assist check was successful, additional wins are added to the result of the assisted skill check or combat roll equal to the number of wins achieved OVER the Assist **CL**. If the assist check was unsuccessful, wins are subtracted equal to how much BELOW the CL was missed.
+If the assist check was successful, additional wins are added to the result of the assisted skill check or combat roll equal to the number of wins achieved OVER the Assist **CL**. If the assist check was unsuccessful, wins are subtracted equal to how far BELOW the CL was missed.
 
 Each player can only attempt 1 assist per Dice Pool. This means that if a player has 2 skills that could logically assist another skill check or combat roll they must choose between those 2 skills.
 
