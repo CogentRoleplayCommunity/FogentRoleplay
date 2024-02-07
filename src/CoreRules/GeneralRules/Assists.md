@@ -4,11 +4,11 @@ All Skills and Vocations can all be used to perform Assists. With Assists, playe
 
 **The CL for assists starts at three and should never be lower than that.** However, it is up to the narrator to decide if it should be higher than three. In general, most assist roles, unless extremely unlikely to aid the current situation, will be made at **CL** three.
 
-If the assist check was successful, additional wins are added to the result of the skill check or combat roll assisted equivalent to the number of wins achieved OVER the Assist **CL** in the assist check. If the assist check was unsuccessful, wins are subtracted equal to how much BELOW the assist check missed the CL.
+If the assist check was successful, additional wins are added to the result of the assisted skill check or combat roll equal to the number of wins achieved OVER the Assist **CL**. If the assist check was unsuccessful, wins are subtracted equal to how much BELOW the CL was missed.
 
 Each player can only attempt 1 assist per Dice Pool. This means that if a player has 2 skills that could logically assist another skill check or combat roll they must choose between those 2 skills.
 
-The number of wins gained or losses subtracted from an assist can never be greater than the challenge level of the assist. For instance, you can only ever receive an additional 3 wins or losses to a skill check or combat roll that you're trying to assist if the assist check had was  **CL3** . Likewise, an assist check with a **CL4**  will add a cap at max 4 wins or losses depending on the outcome of the assist check.
+The number of wins gained or losses subtracted from an assist can never be greater than the challenge level of the assist. For instance, you can only ever receive an additional 3 wins or losses to a skill check or combat roll that you're trying to assist if the assist check was **CL3** . Likewise, an assist check with a **CL4**  will add a cap at max 4 wins or losses depending on the outcome of the assist check.
 
 It's up to the players and Narrator to negotiate how these assists can be logically applied to different circumstances.
 
