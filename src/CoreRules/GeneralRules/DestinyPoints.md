@@ -1,6 +1,6 @@
 # Destiny Points
 
-A Destiny Point represents a character's ability to tip the scale of fate in their favor through their very will. Characters can hold up to a maximum of 3 destiny points.
+A Destiny Point represents a players ability to tip the scales of fate in favor of their character. Characters can hold up to a maximum of 3 destiny points.
 
 ## Preemptive Destiny Point
 
