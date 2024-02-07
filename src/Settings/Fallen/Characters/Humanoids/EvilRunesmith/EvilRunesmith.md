@@ -70,9 +70,10 @@
 
 - [Phantom Appendage](./../../../../../CoreRules/MagicRules/Spells/Cantrip/PhantomAppendage.md)
 - [Illuminate](./../../../../../CoreRules/MagicRules/Spells/Cantrip/Illuminate.md)
+- [Charm Humanoid](./../../../../../CoreRules/MagicRules/Spells/Apprentice/CharmHumanoid.md)
 - [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md)
 - [Short Teleport](./../../../../../CoreRules/MagicRules/Spells/Apprentice/ShortTeleport.md)
-- [Restrain Person](./../../../../../CoreRules/MagicRules/Spells/Apprentice/RestrainPerson.md)
+- [Hold Humanoid](./../../../../../CoreRules/MagicRules/Spells/Apprentice/HoldHumanoid.md)
 
 ## Appearance
 

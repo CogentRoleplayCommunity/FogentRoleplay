@@ -13,8 +13,8 @@
 
 ## Vocations and Vocational Skills
 
-| Rogue {RFX, INT}     | 3 | 7d6 |
-| -------------------- | - | --- |
+| Rogue {RFX, INT}               | 3 | 7d6 |
+| ------------------------------ | - | --- |
 | Medium Sword {STR, RFX, INT}   | 3 | 8d6 |
 | Light Crossbow {STR, RFX, INT} | 2 | 7d6 |
 
@@ -29,9 +29,9 @@
 |            Equipment Weight            |                             20.0075 lb                             |          |                                                      Equipment                                                      |
 |          Humanoid Carry Weight          |                                120 lb                                |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |              Light Weight              |                   -0d6 to STR/RFX governed skills                   |          |                                              0% - 25% of carry weight                                              |
-|         Humanoid Movement Speed         |                                45 ft                                |          |                                30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                |
-|           Humanoid Swim Speed           |                                20 ft                                |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                |
-|          Humanoid Climb Speed          |                                15 ft                                |          |                                  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                  |
+|         Humanoid Movement Speed         |                                45 ft                                |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|           Humanoid Swim Speed           |                                20 ft                                |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|          Humanoid Climb Speed          |                                15 ft                                |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
 ## Combat Rolls:
 
@@ -52,7 +52,7 @@
 | Epilogue                            | 1  | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?      |
 | Light Crossbow                      | 1  | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc  |
 | Barbed Broadhead Bolt               | 20 | Wounding Bolt                                 | Mundane   | -          | 0.075 | 1.4 bc |
-| Case, Crossbow Bolts (capacity: 20) | 1  |                                           | Mundane   |            | 1     | 1 bc   |
+| Case, Crossbow Bolts (capacity: 20) | 1  |                                               | Mundane   |            | 1     | 1 bc   |
 |                                     |    |                                               |           |            |       |        |
 | Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc   |
 | Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc   |
@@ -138,6 +138,8 @@ Who carries the load (Boat)
 “Because fighting fair is for losers.”
 “No man gets to walk out of their own story…”
 “Then be a hero”
+
+"The only thing nessecary for evil to triumph is for good men to do nothing"
 “”It's not about you, it's about them
 https://youtube.com/shorts/KxKjt2-Z7ts?feature=share
 

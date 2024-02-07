@@ -58,6 +58,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
+- [Conditions](./src/CoreRules/CombatRules/Conditions.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 
 ### Advanced Rules
@@ -76,6 +77,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Magic Governing Core Skill](./src/CoreRules/MagicRules/MagicGoverningCoreSkill.md)
 - [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
 - [Magic Roll](./src/CoreRules/MagicRules/MagicRoll.md)
+- [Magic Saving Throw](./src/CoreRules/MagicRules/MagicSavingThrow.md)
 - [Magic Spells](./src/CoreRules/MagicRules/MagicSpells.md)
 - [Creating Magic Systems](./src/CoreRules/MagicRules/CreatingMagicSystems.md)
 

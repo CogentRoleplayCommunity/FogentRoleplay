@@ -15,6 +15,10 @@
 
 Opponent gains the Staggered combat modifier. This could be sand thrown in a character face, being shoulder checked, or losing their footing. The opponent has disadvantage on rolls until the end of the next round. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered as they can't fully focus on defending themselves.
 
+### Shove
+
+Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+
 ### Close Combat
 
 Enter/exit close combat. The fight is so close in physical proximity that the character's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
@@ -34,10 +38,6 @@ If your character is required to move during the move, you can not exceed your n
 Can be used in close combat and receives bonus in disarming actions. A player must be in close combat to disarm another player while being unarmed.
 
 Once in close combat, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their attack roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
-
-### Shove
-
-Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 

@@ -1,9 +1,8 @@
 ## Fogent Todo:
 - Fix Gun Ranges
-- make videos about character making
--Add entangle spell and restrained, charmed, and fix incapacitated.
 - Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
 - Maybe have magic resource scale off level
+- Moved STagger under off guard
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
@@ -27,17 +26,5 @@
 - Remove Fellkin in general. Gives the races more uniqueness. The group name could be "the Fallen".
 - Grass lord one shot
 - Write the Beast Of Reddwall
-
-## Things that have changed since Fogent Explanation 2.2 video:
-- Legendary level of skill, level 5
-- Added spear rapid EO
-- Removed level 5 weakness since it made no sense
-- Made complete resistance just completely negate that source of damage
-- Added AOE rules
-- Using Multiple Movement speeds in a round
-- Added EO for dodge rolls
-- Flank has become off guard
-- Old off guard has become sneak attack
-- Cover now give you resistance instead of defense
-- Added Short spears and spears
-- Ranges now only scale of Weapon/Magic Skill roll
+- Add entangle spell
+- make videos about character making

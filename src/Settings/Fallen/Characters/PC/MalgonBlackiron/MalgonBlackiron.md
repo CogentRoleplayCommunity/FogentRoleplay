@@ -1,8 +1,6 @@
-# Malgon Blackiron
+# Malgon Blackiron (Level 3)
 
 ![NotMyImage](MalgonBlackriron.png)
-
-Unspent Skill Point: 1
 
 ## Attributes and Core Skills
 
@@ -11,7 +9,7 @@ Unspent Skill Point: 1
 | Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 4d6 | Stealth         | 1 | 3d6 | Will              | 0 | 3d6 |
+| Lift      | 1 | 5d6 | Stealth         | 1 | 3d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -82,6 +80,7 @@ Unspent Skill Point: 1
 | Quiver (capacity: 20)         | 1 |                      |                 | Mundane |            |  1  |  1 bc  |
 | Broadhead Arrow               | 17 |    Standard Arrow    |                 | Mundane |            | 0.05 |  1 bc  |
 | Lavender Lancer Scarf         | 1 |                      |                 | Mundane |            | 0.5 |  50 cc  |
+| Hew                           |    |                      |                 |        |            |      |        |
 
 ## Containers
 
@@ -90,8 +89,14 @@ Unspent Skill Point: 1
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
 | Dice Set          | 1 |                |        | Mundane |            | 0.2 | 10 cc |
 | Ring, Exquisite   | 2 |                |        | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 27 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Coin       | 42 |                |        | Mundane |            | 0.02 | 1 bc |
 | Copper Coin       | 50 |                |        | Mundane |            | 0.02 | 1 cc |
+
+| Name                   | # |      Class      |         Effect         |   Tier   | Durability |  LB  | Value |
+| ---------------------- | :-: | :-------------: | :---------------------: | :-------: | :--------: | :--: | :----: |
+| Satchel (2/5 ft^3)     | 1 | 12 lb container |                        |  Mundane  |            |  2  |  1 bc  |
+| Bronze Coin            | 11 |                |                        |  Mundane  |            | 0.02 |  1 bc  |
+| Potion of Invisibility | 1 |                | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
 
 ## Notes
 
