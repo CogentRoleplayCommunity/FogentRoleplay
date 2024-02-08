@@ -23,7 +23,7 @@ Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR
 
 ### Grapple
 
-Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent.
+Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
 
 #### Grapple Move
 
