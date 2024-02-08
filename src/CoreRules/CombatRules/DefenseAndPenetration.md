@@ -26,7 +26,7 @@ A measure of a character's defense to injury from Soul damage types. Wins determ
 
 ## Penetration
 
-Penetration represents an combat rolls ability to mitigate the opponents defense. While dealing an injury, you may reduce your opponents Defense level by your combat rolls penetration before calculating injury.
+Penetration represents a combat rolls ability to mitigate the opponents defense. While dealing an injury, you may reduce your opponents Defense level by your combat rolls penetration before calculating injury.
 
 For penetration versus Physical Defense, primarily being armor, weapons with strong penetration include bludgeoning weapons such as a mace or war hammer, which historically were one of the primary way of defeating heavy armor. To a lesser extent, thrusting weapons such as dagger or spears also have decent penetration versus physical defense, as they can be used to thrust into weak point in armor. Slashing swords would have some of the worst penetration, as it is highly unlikely to be able to slice through the armor.
 
