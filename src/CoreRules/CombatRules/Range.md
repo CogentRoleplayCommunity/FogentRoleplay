@@ -2,21 +2,23 @@
 
 Effective Range is the range up to which you are accurate, scaling with the size of the corresponding Weapon/Magic Skill Dice Pool. Max Range is the maximum range that can be reached, though not without consequences.
 
-|  Range Type  |         Effective Range         | Max Range (ft) |
-| :----------: | :-----------------------------: | :------------: |
-|    Melee    |              5 ft              |       5       |
-|    Reach    |              10 ft              |       10       |
-|     Near     | +5 feet per 3 dice rounded down |       15       |
-|    Close    |  +5 feet per 2 dice rounded up  |       30       |
-|    Short    | +10 feet per 3 dice rounded up |       60       |
-|   Mediocre   |        +5 feet per dice        |      100      |
-|    Medium    | +10 feet per 2 dice rounded up |      120      |
-|   Extended   |        +10 feet per dice        |      220      |
-|     Far     |        +15 feet per dice        |      320      |
-|     Long     |        +20 feet per dice        |      400      |
-|   Distant   |        +25 feet per dice        |      500      |
-| Sharpshooter |        +30 feet per dice        |      600      |
-|   Extreme   |        +35 feet per dice        |      700      |
+|  Range Type  |         Effective Range         |     Max Range (ft)     |
+| :----------: | :-----------------------------: | :---------------------: |
+|    Melee    |              5 ft              |            5            |
+|    Reach    |              10 ft              |           10           |
+|     Near     | +5 feet per 3 dice rounded down |           15           |
+|    Close    |  +5 feet per 2 dice rounded up  |           30           |
+|    Short    | +10 feet per 3 dice rounded up |           60           |
+|   Mediocre   |        +5 feet per dice        |           100           |
+|    Medium    | +10 feet per 2 dice rounded up |           120           |
+|   Extended   |        +10 feet per dice        |           220           |
+|     Far     |        +15 feet per dice        |           320           |
+|     Long     |        +20 feet per dice        |           400           |
+|   Distant   |        +25 feet per dice        |           500           |
+| Sharpshooter |        +30 feet per dice        |           600           |
+|   Extreme   |        +35 feet per dice        |           700           |
+|  Close Cone  |  +5 feet per 2 dice rounded up  | Same as Effective Range |
+| Medium Cone | +10 feet per 2 dice rounded up | Same as Effective Range |
 
 ## Effective Range by Skill Dice Pool Size
 
