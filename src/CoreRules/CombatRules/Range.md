@@ -1,6 +1,6 @@
 # Range
 
-Effective Range is the range up to which you are accurate, scaling with the size of the corresponding Weapon/Magic Skill Dice Pool. Max Range is the maximum range an attack reach, though not without consequences.
+Effective Range is the range up to which you are accurate, scaling with the size of the corresponding Weapon/Magic Skill Dice Pool. Max Range is the maximum range an attack can reach, though not without consequences.
 
 |  Range Type  |         Effective Range         | Max Range (ft) |
 | :----------: | :-----------------------------: | :------------: |
@@ -18,7 +18,7 @@ Effective Range is the range up to which you are accurate, scaling with the size
 | Sharpshooter |        +30 feet per dice        |      600      |
 |   Extreme   |        +35 feet per dice        |      700      |
 
-## Effective Range by Dice Pool Size
+## Effective Range by Skill Dice Pool Size
 
 |  Range Type  | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :----------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
