@@ -30,7 +30,7 @@ Area Of Effect Calculations scale with the size of the Skill Dice Pool they are 
 
 ### Sphere Calculation
 
-Sphere Radius: Magic Combat Roll * 2.5 feet
+Sphere Radius: Skill Dice Pool Size * 2.5 feet
 
 | Magic Roll | Sphere Radius |
 | :--------: | :-----------: |
@@ -49,7 +49,7 @@ Sphere Radius: Magic Combat Roll * 2.5 feet
 
 ### Cone Calculation
 
-Cone Base/Height: Magic Combat Roll * 5 feet
+Cone Base/Height: Skill Dice Pool Size  5 feet
 
 | Magic Roll | Cone Height/Base | Cone Angle |  Cone Area  |
 | :--------: | :--------------: | :---------: | :---------: |
