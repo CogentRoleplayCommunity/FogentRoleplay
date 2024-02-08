@@ -19,7 +19,7 @@ This could be sand thrown in a character face, being shoulder checked, or losing
 
 ### Shove
 
-Shove an enemy in a desired direction. 
+Shove an enemy in a desired direction.
 
 The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
@@ -72,6 +72,8 @@ Instead of getting up, a character can remain prone and crawl. They use their cl
 Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless their is a narrative explanation how a ranged attack could dismember (magic, explosive projectiles, ect...).
 
 ### Render Unconscious
+
+Opponent gains the [Unconscious](./Conditions.md#unconscious) condition.
 
 Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent receives a Medium Injury.
 
