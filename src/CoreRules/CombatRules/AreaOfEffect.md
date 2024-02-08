@@ -8,25 +8,25 @@ Represents an area of effect that is unchanged by the Dice Pool associated with 
 
 ### Calculated Sphere
 
-|    Name    | Radius (ft) |
-| :---------: | :---------: |
-| 30ft Sphere |     30     |
+|     Name     | Radius (ft) |
+| :----------: | :---------: |
+| 30 ft Sphere |     30     |
 
 ### Calculated Cone
 
-|   Name   | Cone Height/Base | Cone Angle |  Cone Area  |
-| :-------: | :--------------: | :---------: | :---------: |
-| 10ft Cone |      10 ft      | ~53 degrees |   50 ft^2   |
-| 15ft Cone |      15 ft      | ~53 degrees | 112.5 ft^2 |
-| 20ft Cone |      20 ft      | ~53 degrees |  200 ft^2  |
-| 25ft Cone |      25 ft      | ~53 degrees | 312.5 ft^2 |
-| 30ft Cone |      30 ft      | ~53 degrees |  450 ft^2  |
-| 35ft Cone |      35 ft      | ~53 degrees | 612.5 ft^2 |
-| 40ft Cone |      40 ft      | ~53 degrees |  800 ft^2  |
-| 45ft Cone |      45 ft      | ~53 degrees | 1012.5 ft^2 |
-| 50ft Cone |      50 ft      | ~53 degrees |  1250 ft^2  |
-| 55ft Cone |      55 ft      | ~53 degrees | 1512.5 ft^2 |
-| 60ft Cone |      60 ft      | ~53 degrees |  1800 ft^2  |
+|    Name    | Cone Height/Base | Cone Angle |  Cone Area  |
+| :--------: | :--------------: | :---------: | :---------: |
+| 10 ft Cone |      10 ft      | ~53 degrees |   50 ft^2   |
+| 15 ft Cone |      15 ft      | ~53 degrees | 112.5 ft^2 |
+| 20 ft Cone |      20 ft      | ~53 degrees |  200 ft^2  |
+| 25 ft Cone |      25 ft      | ~53 degrees | 312.5 ft^2 |
+| 30 ft Cone |      30 ft      | ~53 degrees |  450 ft^2  |
+| 35 ft Cone |      35 ft      | ~53 degrees | 612.5 ft^2 |
+| 40 ft Cone |      40 ft      | ~53 degrees |  800 ft^2  |
+| 45 ft Cone |      45 ft      | ~53 degrees | 1012.5 ft^2 |
+| 50 ft Cone |      50 ft      | ~53 degrees |  1250 ft^2  |
+| 55 ft Cone |      55 ft      | ~53 degrees | 1512.5 ft^2 |
+| 60 ft Cone |      60 ft      | ~53 degrees |  1800 ft^2  |
 
 ## Area Of Effect Calculation
 
