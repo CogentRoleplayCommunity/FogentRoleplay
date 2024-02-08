@@ -46,8 +46,6 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 ### Combat Rules
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Defense and Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
@@ -59,6 +57,8 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
+- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 
 ### Advanced Rules
