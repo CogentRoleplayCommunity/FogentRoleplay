@@ -33,12 +33,6 @@ Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gain
 
 If your character is required to move during the move, you can not exceed your normal amount of movement for that round.
 
-#### Grapple Disarm
-
-Can be used in a Grapple and receives bonus in disarming actions. A character must be in a Grapple to disarm another character while being unarmed.
-
-Once in a Grapple, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their unarmed combat roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
-
 ## Level 2 victory
 
 ### Medium injury
@@ -48,6 +42,10 @@ Once in a Grapple, if declaring to attempt a disarm before the round begins, the
 ### Disarm
 
 Opponent loses their weapon. If an opponent is dual wielding, they will only lose one of their weapons.
+
+#### Grapple Disarm
+
+Once already in a Grapple, a character as part of their declaration phase can declare they are attempting a Grapple Disarm to disarm thier opponent. The character attempting the Grapple Disarm must be unarmed, but gains a +4d6 to their unarmed combat roll versus an armed grappled opponent. They may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ## Level 3 victory
 
