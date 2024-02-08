@@ -1,5 +1,10 @@
 # Conditions
 
+## Staggered
+
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... )
+- Movement speed is halved.
+
 ## Blinded
 
 - Automatically fails any check that requires sight.
@@ -23,7 +28,7 @@
 
 - Can't move, unless through Grapple Move.
 - Disadvantage on Combat Rolls, except against grappler.
-- Disadvantage on any checks that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
 - Ends if grappler is incapacitated.
 
 ## Incapacitated
