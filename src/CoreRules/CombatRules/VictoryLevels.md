@@ -19,7 +19,9 @@ This could be sand thrown in a character face, being shoulder checked, or losing
 
 ### Shove
 
-Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+Shove an enemy in a desired direction. 
+
+The distance of the Shove is dependant off the shoving character's Lift. The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ### Grapple
 
@@ -29,9 +31,7 @@ Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditi
 
 As part of entering into a Grapple or achieving a level 1 victory while already being in a Grapple, you can move your opponent.
 
-Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 5 feet. For each size category the opponent is smaller than you, double the move distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
-
-If your character is required to move during the move, you can not exceed your normal amount of movement for that round.
+The distance of the Grapple Move is dependant off the character's Lift. The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can Move a creature 10 feet. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 
