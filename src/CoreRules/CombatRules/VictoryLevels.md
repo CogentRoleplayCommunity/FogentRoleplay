@@ -15,21 +15,19 @@
 
 Opponent gains the [Staggered](./Conditions.md#staggered) condition until the end of the next round.
 
-This could be sand thrown in a character face, being shoulder checked, or losing their footing. 
+This could be sand thrown in a character face, being shoulder checked, or losing their footing.
 
 ### Shove
 
 Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
-### Close Combat
+### Grapple
 
-Enter/exit close combat. The fight is so close in physical proximity that the character's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
-
-The initiator of close combat can release the grapple at any time. Not available to ranged combat rolls.
+Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent.
 
 #### Move
 
-As part of entering into close quarters combat or already being in close quarters combat, you can move your opponent. The Narrator will give a challenge level given their size and weight.
+As part of entering into a Grapple or achieving a level 1 victory already in Grapple, you can move your opponent.
 
 Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 5 feet. For each size category the opponent is smaller than you, double the move distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
@@ -37,9 +35,9 @@ If your character is required to move during the move, you can not exceed your n
 
 #### Disarming
 
-Can be used in close combat and receives bonus in disarming actions. A player must be in close combat to disarm another player while being unarmed.
+Can be used in a Grapple and receives bonus in disarming actions. A character must be in a Grapple to disarm another character while being unarmed.
 
-Once in close combat, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their attack roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+Once in close combat, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their unarmed combat roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ## Level 2 victory
 
