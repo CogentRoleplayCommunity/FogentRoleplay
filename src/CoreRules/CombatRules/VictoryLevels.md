@@ -65,7 +65,7 @@ Instead of getting up, a character can remain prone and crawl. They use their cl
 
 ### Fatal injury
 
-–4 dice to all dice checks, incapacitated, and will die very soon if untreated.
+–4 dice to all dice checks, gains [Incapacitated](./Conditions.md#incapacitated) condition, and will die very soon if untreated.
 
 ### Dismember
 
