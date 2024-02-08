@@ -69,6 +69,4 @@ Cone Base/Height: Magic Combat Roll * 5 feet
 |  11 dice  |      55 ft      | ~53 degrees | 1512.5 ft^2 |
 |  12 dice  |      60 ft      | ~53 degrees |  1800 ft^2  |
 
-Here is a handy equation I made for calculating custom Cones. “A” is area, “D” is distance, and theta is the angle closest to the caster. Simply plug in the Area for your dice roll, and either “D” or theta. Whatever you didn’t plugin will be calculated. If none of this makes sense, brush up on your trigonometry or just use the default cones above!
-
-[Cone Calculation Link](https://www.symbolab.com/solver/step-by-step/A%20%3D%20D%5E%7B2%7Dtan%5Cleft(%5Cfrac%7B%5Ctheta%7D%7B2%7D%5Cright)?or=input)
+Cones Calculations can be customized to have larger angles and height/bases, but must always cover the same area.
