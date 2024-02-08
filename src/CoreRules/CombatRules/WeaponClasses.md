@@ -97,7 +97,7 @@ To duel wield the character must have at least one proficiency point in both of 
 
 ## Small Weapons
 
-- Can be used in close combat
+- Can be used in a Grapple
 
 ### Small Hafted
 
