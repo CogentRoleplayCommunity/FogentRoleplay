@@ -26,7 +26,7 @@ A brace is a move purely to counter a charge. Character gains advantage versus c
 
 ## High ground (Advantage)
 
-Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground.
+Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground. High ground can also be achieved for ranged attacks, though the height differential must be significantly greater than for melee attack, such as shooting from a climbed tree or atop a castle wall.
 
 ## Off Guard (Disadvantage)
 
