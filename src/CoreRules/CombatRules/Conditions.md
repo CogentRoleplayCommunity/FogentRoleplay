@@ -27,10 +27,10 @@
 ## Grappled
 
 - Can't move, unless through Grapple Move.
-- A character using a medium or larger weapon is considered unarmed against grappler. Medium weapons can be used in a grapple against reach weapons.
+- A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
 - Injury reduction from armor is not applicable while in a Grapple.
 - Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
-- Ends if one of the grapplers is incapacitated.
+- Ends if one of the grapplers is Incapacitated.
 
 ## Incapacitated
 
