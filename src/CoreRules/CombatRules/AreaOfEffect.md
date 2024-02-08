@@ -4,7 +4,7 @@ Certain attacks, spells, etc. have an effect over an area, such as a grenade exp
 
 ## Set Area Of Effect
 
-Represents an area of effect that is unchanged by the Dice Pool associated with it. For example, whatever the size of a Dice Pool, a Combat Roll with a grenade will always have the same area of effect.
+Represents a set area of effect.
 
 ### Calculated Sphere
 
@@ -30,7 +30,7 @@ Represents an area of effect that is unchanged by the Dice Pool associated with 
 
 ## Area Of Effect Calculation
 
-Unlike Set Area Of Effects which do not change, Area Of Effect Calculations scale with the size of the Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
+Area Of Effect Calculations scale with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
 ### Sphere Calculation
 
@@ -38,18 +38,18 @@ Sphere Radius: Magic Combat Roll * 2.5 feet
 
 | Magic Roll | Sphere Radius |
 | :--------: | :-----------: |
-|   1 dice   |    2.5 ft    |
-|   2 dice   |     5 ft     |
-|   3 dice   |    7.5 ft    |
-|   4 dice   |     10 ft     |
-|   5 dice   |    12.5 ft    |
-|   6 dice   |     15 ft     |
-|   7 dice   |    17.5 ft    |
-|   8 dice   |     20 ft     |
-|   9 dice   |    22.5 ft    |
-|  10 dice  |     25 ft     |
-|  11 dice  |    27.5 ft    |
-|  12 dice  |     30 ft     |
+|   1 dice   |     5 ft     |
+|   2 dice   |    7.5 ft    |
+|   3 dice   |     10 ft     |
+|   4 dice   |    12.5 ft    |
+|   5 dice   |     15 ft     |
+|   6 dice   |    17.5 ft    |
+|   7 dice   |     20 ft     |
+|   8 dice   |    22.5 ft    |
+|   9 dice   |     25 ft     |
+|  10 dice  |    27.5 ft    |
+|  11 dice  |     30 ft     |
+|  12 dice  |     35 ft     |
 
 ### Cone Calculation
 
