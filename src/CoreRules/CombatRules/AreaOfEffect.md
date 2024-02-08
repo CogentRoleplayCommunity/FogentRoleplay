@@ -2,17 +2,13 @@
 
 Certain attacks, spells, etc. have an effect over an area, such as a grenade explosion.
 
-## Set Area Of Effect
-
-Represents a set area of effect.
-
-### Calculated Sphere
+## Sphere
 
 |     Name     | Radius (ft) |
 | :----------: | :---------: |
 | 30 ft Sphere |     30     |
 
-### Calculated Cone
+## Cone
 
 |    Name    | Cone Height/Base | Cone Angle |  Cone Area  |
 | :--------: | :--------------: | :---------: | :---------: |
