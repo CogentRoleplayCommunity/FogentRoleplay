@@ -58,9 +58,8 @@
 ## Prone
 
 - Only able to crawl.
-- Disadvantage on combat rolls.
-- Disadvantage on any check that generally assumes a character is standing (i.e. Acrobatics Checks, ect.. )
-- Melee Combat Rolls (Melee or Reach Ranges) made against a prone character have advantage.
+- Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Acrobatics Checks, ect.. )
+- Melee Combat Rolls (Melee or Reach Ranges) made standing against a prone character have the [High Ground](./CombatModifiers.md#high-ground-advantage) combat modifier (Advantage).
 
 ## Restrained
 
