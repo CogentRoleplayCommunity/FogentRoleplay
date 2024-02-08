@@ -45,7 +45,7 @@ Opponent loses their weapon. If an opponent is dual wielding, they will only los
 
 #### Grapple Disarm
 
-Once already in a Grapple, a character as part of their declaration phase can declare they are attempting a Grapple Disarm to disarm thier opponent. The character attempting the Grapple Disarm must be unarmed, but gains a +4d6 to their unarmed combat roll versus an armed grappled opponent. They may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+Once already in a Grapple, a character as part of their declaration phase can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed, but gains a +4d6 to their unarmed combat roll versus an armed grappled opponent. They may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ## Level 3 victory
 
@@ -55,11 +55,11 @@ Once already in a Grapple, a character as part of their declaration phase can de
 
 ### Trip
 
-Opponent is rendered prone. The opponent has disadvantage on rolls until they get up. Melee attacks made against the downed opponent are at advantage.
+Opponent gains the [Prone](./Conditions.md#prone) condition.
 
-A character can declare they are attempting to get up on a round they start prone. While getting up, the opponents movement speed is 0. They are able to regain their footing and remove the prone effect at the end of the round they were getting up. The opponent can not benefit from the Defensive modifier while getting up as they can't fully focus on defending themselves.
+A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They are able to regain their footing and remove the prone effect at the end of the round they were getting up.
 
-Instead of getting up, a character can remain prone. They use their climb speed to crawl instead of their movement speed.
+Instead of getting up, a character can remain prone and crawl. They use their climb speed to crawl instead of their movement speed.
 
 ## Level 4 Victory
 
