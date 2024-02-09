@@ -13,7 +13,7 @@ Weight Classes represent the effects of carrying equipment and gear. Some charac
 
 |   Description   |             Effect             | Source                         |
 | :-------------: | :-----------------------------: | ------------------------------ |
-|  Light Weight  | -0d6 to STR/RFX governed skills | 0% =< inventory weight <= 25% |
-|  Medium Weight  | -1d6 to STR/RFX governed skills | 25% < inventory weight <= 50%  |
-|  Heavy Weight  | -2d6 to STR/RFX governed skills | 50% < inventory weight <= 100% |
-| Over-encumbered | -4d6 to STR/RFX governed skills | 100% < inventory weight        |
+|  Light Weight  | -0d6 to STR/RFX governed skills | 0% =< Equipment Weight <= 25% |
+|  Medium Weight  | -1d6 to STR/RFX governed skills | 25% < Equipment Weight <= 50%  |
+|  Heavy Weight  | -2d6 to STR/RFX governed skills | 50% < Equipment Weight <= 100% |
+| Over-encumbered | -4d6 to STR/RFX governed skills | 100% < Equipment Weight        |
