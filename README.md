@@ -38,7 +38,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Skills](./src/CoreRules/GeneralRules/Skills.md)
 - [Core Skills](./src/CoreRules/GeneralRules/CoreSkills.md)
 - [Vocations](./src/CoreRules/GeneralRules/Vocations.md)
-- [Contested Checks](./src/CoreRules/GeneralRules/ContestedChecks.md)
+- [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
@@ -46,10 +46,7 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 ### Combat Rules
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
-- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Defense and Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
-- [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
@@ -59,6 +56,9 @@ The Core Rules are the foundation of the game. The rules have been listed in the
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
+- [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
+- [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
+- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 
 ### Advanced Rules

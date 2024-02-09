@@ -1,5 +1,10 @@
 # Conditions
 
+## Staggered
+
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... )
+- Movement speed is halved.
+
 ## Blinded
 
 - Automatically fails any check that requires sight.
@@ -22,9 +27,10 @@
 ## Grappled
 
 - Can't move, unless through Grapple Move.
-- Disadvantage on Combat Rolls, except against grappler.
-- Disadvantage on any checks that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
-- Ends if grappler is incapacitated.
+- A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
+- Injury reduction from armor is not applicable while in a Grapple.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... ), except against grappler.
+- Ends if the grappler is Incapacitated.
 
 ## Incapacitated
 
@@ -39,11 +45,10 @@
 
 - Incapacitated
 - Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-- Combat Rolls made within 5 feet have Super Advantage.
 
 ## Petrified
 
-* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+* A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 * Incapacitated (see the condition).
 * Can't speak.
 * Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
@@ -53,9 +58,8 @@
 ## Prone
 
 - Only able to crawl.
-- Disadvantage on combat rolls.
-- Disadvantage on any check that generally assumes a character is standing (i.e. Acrobatics Checks, ect.. )
-- Melee Combat Rolls (Melee or Reach Ranges) made against a prone character have advantage.
+- Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Acrobatics Checks, ect.. )
+- Melee Combat Rolls (Melee or Reach Ranges) made standing against a prone character have the [High Ground](./CombatModifiers.md#high-ground-advantage) combat modifier (Advantage).
 
 ## Restrained
 
@@ -77,4 +81,3 @@
 - Unaware of surroundings.
 - Character drops whatever they were holding and falls prone (see the condition).
 - Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-- Combat Rolls made within 5 feet have Super Advantage.

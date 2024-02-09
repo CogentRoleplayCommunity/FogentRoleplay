@@ -27,7 +27,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | Fellcaster {STR, RFX, INT} | 3 | 8d6 | Queen alate {STR, RFX, INT} | 1 | 6d6 |
 | :--------------: | :-: | :-: | ----------------- | :-: | --- |
 | Mindcraft {STR, RFX, INT} | 3 | 8d6 | Large Hafted      | 1 | 6d6 |
-| Polycraft {STR, RFX, INT} | 1 | 6d6 | Small Bladed      | 0 | 5d6 |
+| Polycraft {STR, RFX, INT} | 1 | 6d6 | Small Blade      | 0 | 5d6 |
 | Toxincraft {STR, RFX, INT} | 0 | 5d6 | Unarmed           | 0 | 5d6 |
 | Terracraft {STR, RFX, INT} | 0 | 5d6 |                   |  |     |
 
@@ -47,7 +47,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | Racial feature: 2 Extra arms                                                             | Cool factor. :D                                               |             | Have you ever seen a healthy bug with only 4 limbs?! ;)                                                                                  |
 | Racial feature: 4 Extra wings                                                            | Short flight.                                                 | Alate Phase | Queen alate status in the hive.                                                                                                          |
 | Racial feature: Antennae                                                                 | Good sense of smell and pheromone.                            |             | Underground hive dweller species.                                                                                                        |
-| Inventory Weight                                                                         | 41.66 LB                                                      |             | Equipment                                                                                                                                |
+| Equipment Weight                                                                         | 41.66 LB                                                      |             | Equipment                                                                                                                                |
 | Humanoid Carry Weight                                                                    | 70 lb                                                         |             | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 | Light Weight                                                                             | -0d6 to STR/RFX governed skills                               |             | 0% - 25% of carry weight                                                                                                                 |
 | Humanoid Movement Speed                                                                  | 30 ft                                                         |             | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                                                                |

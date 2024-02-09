@@ -1,7 +1,7 @@
 # Victory Levels
 
-- Victory levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory can be increased by 1.
-- Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory is increased by 1.
+- Victory levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory increases by 1.
+- Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory increases by 1.
 - A character is rendered Unconscious once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
@@ -13,31 +13,25 @@
 
 ### Stagger
 
-Opponent gains the Staggered combat modifier. This could be sand thrown in a character face, being shoulder checked, or losing their footing. The opponent has disadvantage on rolls until the end of the next round. Movement speed is halved while staggered. The opponent can not benefit from the Defensive modifier while staggered as they can't fully focus on defending themselves.
+Opponent gains the [Staggered](./Conditions.md#staggered) condition until the end of the next round.
+
+This could be sand thrown in a character face, being shoulder checked, or losing their footing.
 
 ### Shove
 
-Shove an enemy in a desired direction. Base 5 feet of shoving. Each point in STR gains 5 feet. Each point in Lift gains 2.5 feet. For each size category the opponent is smaller than you, double the distance of the shove. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+Shove an enemy in a desired direction.
 
-### Close Combat
+The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
-Enter/exit close combat. The fight is so close in physical proximity that the character's bodies are pressed up against each other in a grapple or wrestle. A character using a medium (or larger) weapon is considered unarmed. Injury reduction from armor is not applicable while in close combat. Medium weapons can be used in close combat against reach weapons.
+### Grapple
 
-The initiator of close combat can release the grapple at any time. Not available to ranged combat rolls.
+Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
 
-#### Move
+#### Grapple Move
 
-As part of entering into close quarters combat or already being in close quarters combat, you can move your opponent. The Narrator will give a challenge level given their size and weight.
+As part of entering into a Grapple or achieving a level 1 victory while already being in a Grapple, you can move your opponent.
 
-Base 10 feet of moving. Each point in STR gains 10 feet. Each point in Lift gains 5 feet. For each size category the opponent is smaller than you, double the move distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
-
-If your character is required to move during the move, you can not exceed your normal amount of movement for that round.
-
-#### Disarming
-
-Can be used in close combat and receives bonus in disarming actions. A player must be in close combat to disarm another player while being unarmed.
-
-Once in close combat, if declaring to attempt a disarm before the round begins, the player receives +4d6 in their attack roll but the roll cannot be used for any victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can Move a creature 10 feet. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 
@@ -49,6 +43,10 @@ Once in close combat, if declaring to attempt a disarm before the round begins, 
 
 Opponent loses their weapon. If an opponent is dual wielding, they will only lose one of their weapons.
 
+#### Grapple Disarm
+
+Once already in a Grapple, a character as part of their declaration phase can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed, but gains a +4d6 to their unarmed combat roll versus an armed grappled opponent. They may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+
 ## Level 3 victory
 
 ### Serious injury
@@ -57,23 +55,25 @@ Opponent loses their weapon. If an opponent is dual wielding, they will only los
 
 ### Trip
 
-Opponent is rendered prone. The opponent has disadvantage on rolls until they get up. Melee attacks made against the downed opponent are at advantage.
+Opponent gains the [Prone](./Conditions.md#prone) condition.
 
-A character can declare they are attempting to get up on a round they start prone. While getting up, the opponents movement speed is 0. They are able to regain their footing and remove the prone effect at the end of the round they were getting up. The opponent can not benefit from the Defensive modifier while getting up as they can't fully focus on defending themselves.
+A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They are able to regain their footing and remove the Prone condition at the end of the round they were getting up.
 
-Instead of getting up, a character can remain prone. They use their climb speed to crawl instead of their movement speed.
+Instead of getting up, a character can remain prone and crawl. They use their climb speed to crawl instead of their movement speed.
 
 ## Level 4 Victory
 
 ### Fatal injury
 
-–4 dice to all dice checks, incapacitated, and will die very soon if untreated.
+–4 dice to all dice checks, gains [Incapacitated](./Conditions.md#incapacitated) condition, and will die very soon if untreated.
 
 ### Dismember
 
 Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless their is a narrative explanation how a ranged attack could dismember (magic, explosive projectiles, ect...).
 
 ### Render Unconscious
+
+Opponent gains the [Unconscious](./Conditions.md#unconscious) condition.
 
 Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent receives a Medium Injury.
 

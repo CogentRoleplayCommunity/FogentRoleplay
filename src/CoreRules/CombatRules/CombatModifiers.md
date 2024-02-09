@@ -2,7 +2,7 @@
 
 ## Defensive (Advantage) (no victory levels)
 
-This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls and Dodge Rolls if declared. Can not be applied while a player can not fully focus on defending themselves (Staggered, getting up from being Prone, Off Guard, Dashing, etc.)
+This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls and Dodge Rolls if declared. Can not be applied while a Character can not solely focus on defending themselves, such as when they have disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
 
 ## Ranged vs Melee (Disadvantage)
 
@@ -26,7 +26,7 @@ A brace is a move purely to counter a charge. Character gains advantage versus c
 
 ## High ground (Advantage)
 
-Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground.
+Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
 
 ## Off Guard (Disadvantage)
 

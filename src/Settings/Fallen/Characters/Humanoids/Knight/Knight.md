@@ -16,7 +16,7 @@
 | Knight {STR, RFX, INT}       | 2 | 6d6 |
 | ---------------------------- | :-: | :-: |
 | Large Sword {STR, RFX, INT} | 2 | 6d6 |
-| Small Bladed {STR, RFX, INT} | 2 | 6d6 |
+| Small Blade {STR, RFX, INT} | 2 | 6d6 |
 
 ## Effects
 
