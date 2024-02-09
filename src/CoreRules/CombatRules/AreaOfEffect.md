@@ -34,22 +34,22 @@ Area Of Effect Calculations scale with the size of the Skill Dice Pool they are 
 
 ### Sphere Calculation
 
-Sphere Radius (ft): 5 + (Skill Dice Pool Size * 2.5), rounded down to nearest mutiple of 5
+Sphere Radius (ft): 2.5 + (Skill Dice Pool Size * 2.5), rounded down to nearest mutiple of 5
 
 | Skill Dice Pool Size | Radius (ft) |
 | :------------------: | :---------: |
 |        1 dice        |      5      |
-|        2 dice        |     7.5     |
+|        2 dice        |      5      |
 |        3 dice        |     10     |
-|        4 dice        |    12.5    |
+|        4 dice        |     10     |
 |        5 dice        |     15     |
-|        6 dice        |    17.5    |
+|        6 dice        |     15     |
 |        7 dice        |     20     |
-|        8 dice        |    22.5    |
+|        8 dice        |     20     |
 |        9 dice        |     25     |
-|       10 dice       |    27.5    |
+|       10 dice       |     25     |
 |       11 dice       |     30     |
-|       12 dice       |     35     |
+|       12 dice       |     30     |
 |         ...         |            |
 
 ### Close Cone Calculation
