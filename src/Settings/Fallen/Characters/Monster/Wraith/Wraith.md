@@ -38,15 +38,15 @@
 | Ghost Magic - Ranged Trick  |       7d6       |                 |                   |      0      | Extended |                   |         Standard          |                     |        None         |
 |     Ghost Magic - Melee     |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Fellblood)      |
 |    Ghost Magic - Ranged     |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Ghost Magic - Cone      |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Ghost Magic - Cone      |       8d6       |                 |                   |      2      | Extended |                   |          1          |        Cone         |      1 (Fellblood)      |
 |     Ghost Magic - Reach     |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Ghost Magic - Focused    |       9d6       |                 |                   |      2      | Extended |                   |          Focused          |                     |      1 (Fellblood)      |
-|    Ghost Magic - Sphere     |       9d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
+|    Ghost Magic - 1    |       9d6       |                 |                   |      2      | Extended |                   |          1          |                     |      1 (Fellblood)      |
+|    Ghost Magic - Sphere     |       9d6       |                 |                   |      3      | Extended |                   |          1          |       Sphere        |      2 (Fellblood)      |
 | Shadow Magic - Melee Trick  |       7d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
 | Shadow Magic - Ranged Trick |       7d6       |                 |                   |      0      | Extended |                   |         Standard          |                     |        None         |
 |    Shadow Magic - Melee     |       8d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Fellblood)      |
 |    Shadow Magic - Ranged    |       8d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Shadow Magic - Cone     |       8d6       |                 |                   |      2      | Extended |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Shadow Magic - Cone     |       8d6       |                 |                   |      2      | Extended |                   |          1          |        Cone         |      1 (Fellblood)      |
 |    Shadow Magic - Reach     |       8d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Shadow Magic - Focused    |       9d6       |                 |                   |      2      | Extended |                   |          Focused          |                     |      1 (Fellblood)      |
-|    Shadow Magic - Sphere    |       9d6       |                 |                   |      3      | Extended |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
+|   Shadow Magic - 1    |       9d6       |                 |                   |      2      | Extended |                   |          1          |                     |      1 (Fellblood)      |
+|    Shadow Magic - Sphere    |       9d6       |                 |                   |      3      | Extended |                   |          1          |       Sphere        |      2 (Fellblood)      |

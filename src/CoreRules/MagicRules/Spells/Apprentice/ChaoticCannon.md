@@ -31,7 +31,7 @@ Each casting of this spell can only target a creature once.
 
 Range Type: Long
 
-Magic Combat Type: Focused
+Magic Combat Type: 1
 
 Magic Resource Required: 1
 

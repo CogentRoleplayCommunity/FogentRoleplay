@@ -15,7 +15,7 @@ When a character attempts a transformation, they make a Bodily Magic Roll. Depen
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

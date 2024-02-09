@@ -8,7 +8,7 @@ The character casting this spell can touch a character turning them invisible, i
 
 **Range:** Melee
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Magic Resource Required:** 2
 

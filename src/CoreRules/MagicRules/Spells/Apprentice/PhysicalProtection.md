@@ -6,7 +6,7 @@ A willing and unarmored creature that you touch becomes enveloped in a protectiv
 
 Duration: 8 hours
 
-Engageable Opponents: Focused
+Engageable Opponents: 1
 
 Range Type: Self
 

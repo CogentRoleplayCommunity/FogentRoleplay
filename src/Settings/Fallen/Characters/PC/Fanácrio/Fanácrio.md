@@ -46,25 +46,25 @@
 | Mindcraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
 |    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
 |    Mindcraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Mindcraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Mindcraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          1          |        Cone         |      1 (Fellblood)      |
 |     Mindcraft- Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Mindcraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Fellblood)      |
-|    Mindcraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
+|   Mindcraft - 1    |      10d6       |                 |                   |      2      | Long  |                   |          1          |                     |      1 (Fellblood)      |
+|    Mindcraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          1          |       Sphere        |      2 (Fellblood)      |
 | Sonocraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Sonocraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
 |    Sonocraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
 |    Sonocraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Sonocraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Sonocraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          1          |        Cone         |      1 (Fellblood)      |
 |    Sonocraft - Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Sonocraft - Focused    |      10d6       |                 |                   |      2      | Long  |                   |          Focused          |                     |      1 (Fellblood)      |
-|    Sonocraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          Focused          |       Sphere        |      2 (Fellblood)      |
+|   Sonocraft - 1    |      10d6       |                 |                   |      2      | Long  |                   |          1          |                     |      1 (Fellblood)      |
+|    Sonocraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          1          |       Sphere        |      2 (Fellblood)      |
 | Polycraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Polycraft - Ranged Trick |       6d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
 |    Polycraft - Melee     |       7d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
 |    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Close |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Close |                   |          1          |        Cone         |      1 (Fellblood)      |
 |    Polycraft - Reach     |       7d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Polycraft - Focused    |       8d6       |                 |                   |      2      | Close |                   |          Focused          |                     |      1 (Fellblood)      |
+|   Polycraft - 1    |       8d6       |                 |                   |      2      | Close |                   |          1          |                     |      1 (Fellblood)      |
 | Galecraft - Melee Trick  |       5d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
 | Galecraft - Ranged Trick |       5d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
 |    Galecraft - Melee     |       6d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |

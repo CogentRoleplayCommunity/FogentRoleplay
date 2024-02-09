@@ -6,7 +6,7 @@ A acid wave emanates from you in a 30 foot long, 5 foot wide area. Each creature
 
 Range: Medium
 
-Engageable Opponents: Focused
+Engageable Opponents: 1
 
 Magic Resource Required: 1
 

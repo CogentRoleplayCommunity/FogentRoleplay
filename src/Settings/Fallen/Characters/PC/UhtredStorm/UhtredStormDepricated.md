@@ -44,10 +44,10 @@
 | Radiance - Ranged Trick |     2d8, 5d6     |                  |                  |      0      | Extended |      Radiant      |         Standard         |                    |        None        |
 |    Radiance - Melee    |     2d8, 6d6     |                  |                  |      2      |  Melee  |      Radiant      |           Rapid           |                    |    1 (Fellblood)    |
 |    Radiance - Ranged    |     2d8, 6d6     |                  |                  |      1      | Extended |      Radiant      |         Standard         |                    |    1 (Fellblood)    |
-|     Radiance - Cone     |     2d8, 6d6     |                  |                  |      2      | Extended |      Radiant      |          Focused          |        Cone        |    1 (Fellblood)    |
+|     Radiance - Cone     |     2d8, 6d6     |                  |                  |      2      | Extended |      Radiant      |          1          |        Cone        |    1 (Fellblood)    |
 |    Radiance - Reach    |     2d8, 6d6     |                  |                  |      2      |  Reach  |      Radiant      |           Rapid           |                    |    1 (Fellblood)    |
-|   Radiance - Focused   |     2d8, 7d6     |                  |                  |      2      | Extended |      Radiant      |          Focused          |                    |    1 (Fellblood)    |
-|    Radiance - Sphere    |     2d8, 7d6     |                  |                  |      3      | Extended |      Radiant      |          Focused          |       Sphere       |    2 (Fellblood)    |
+|   Radiance - 1   |     2d8, 7d6     |                  |                  |      2      | Extended |      Radiant      |          1          |                    |    1 (Fellblood)    |
+|    Radiance - Sphere    |     2d8, 7d6     |                  |                  |      3      | Extended |      Radiant      |          1          |       Sphere       |    2 (Fellblood)    |
 | Blessing - Melee Trick |       4d6       |                  |                  |      0      |  Melee  |                  |           Rapid           |                    |        None        |
 | Blessing - Ranged Trick |       4d6       |                  |                  |      0      |  Close  |                  |         Standard         |                    |        None        |
 | Medium Thrusting Sword | 9d6<br />(+1d6) | 10d6<br />(+2d6) | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |

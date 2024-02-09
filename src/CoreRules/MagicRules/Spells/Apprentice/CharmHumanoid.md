@@ -10,7 +10,7 @@ At Higher Levels: If you cast this spell using a spell slot of 2nd level or high
 
 **Range:** Medium
 
-**Engageable Opponents:** Focused, scales at higher levels
+**Engageable Opponents:** 1, scales at higher levels
 
 **Penetration:** None
 

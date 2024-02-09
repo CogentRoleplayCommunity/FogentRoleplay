@@ -16,7 +16,7 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 |     Longspear     |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |  3 Magic Resource  |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |     Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |  3 Magic Resource  |
-|   Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |          Focused          | Sphere Calculation |  3 Magic Resource  |
+|   Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |          1          | Sphere Calculation |  3 Magic Resource  |
 
 ## Info
 

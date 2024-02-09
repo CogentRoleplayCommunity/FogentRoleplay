@@ -34,5 +34,5 @@
 
 |    Name     | One<br />Handed  | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :--------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Bite  | 10d6<br />(+2d6) |      None       |       None        |      4      | Melee | Pierce, Bludgeon  |          Focused          |        None         |        None         |
+| Large Bite  | 10d6<br />(+2d6) |      None       |       None        |      4      | Melee | Pierce, Bludgeon  |          1          |        None         |        None         |
 | Large Claws | 10d6<br />(+2d6) |      None       | 11d6<br />(+1d6)  |      2      | Melee |  Slash, Bludgeon  |           Rapid           |        None         |        None         |

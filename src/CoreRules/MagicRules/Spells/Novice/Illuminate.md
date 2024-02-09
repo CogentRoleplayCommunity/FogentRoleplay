@@ -10,7 +10,7 @@ In the event that you target an object held or worn by a hostile creature, that 
 
 **Range:** Melee
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Magic Resource Required:** 0
 

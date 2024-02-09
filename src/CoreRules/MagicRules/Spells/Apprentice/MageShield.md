@@ -8,7 +8,7 @@ After a physical injury has been declared against a character with this spell, t
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Magic Resource Required:** 1
 

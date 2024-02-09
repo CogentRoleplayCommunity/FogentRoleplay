@@ -20,7 +20,7 @@ When the oil appears, each creature standing in its area must succeed on an Acro
 
 Range: Melee
 
-Engageable Opponents: Focused
+Engageable Opponents: 1
 
 Magic Resource Required: 1
 

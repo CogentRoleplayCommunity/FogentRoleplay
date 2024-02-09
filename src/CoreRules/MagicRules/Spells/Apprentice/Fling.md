@@ -18,7 +18,7 @@ Should the object's path intersect with a creature, that creature is required to
 
 Range: Long
 
-Engageable Opponents: Focused
+Engageable Opponents: 1
 
 Penetration: 3
 
