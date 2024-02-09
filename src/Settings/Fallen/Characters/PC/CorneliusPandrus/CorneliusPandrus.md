@@ -140,3 +140,5 @@ Born to a minor noble family of dhampir, Cornelius entered the colleges at a you
 After a thousand years of research in the Byrgenwerth colleges, Cornelius has pulled every ounce of knowledge possible from the dusty tomes (even creating updated manuscripts).  Now Cornelius feels a sense of longing and regret that there is nothing more to learn.
 
 One day while in the market, Cornelius came across a strange new rune.  Cornelius studied the rune for over a year before determining the rune was a fake, however, Cornelius had caught the bug. He sold off his major belongings, and is now setting off into the world, hoping to find new knowledge.  That last year filled the gap in his life, and he would never let the thirst for knowledge leave.
+
+Cornelius was approached by an old family friend named Burrowbard Stoneseeker, an elderly molekin bussiness man in the Ironwood trade. Burrowbard was looking to bring someone on to a new business venture who had talents in Runecraft. Cornelius lept at the oppertunity, excited to see the world, hit the open road, and aquire more knowledge.
