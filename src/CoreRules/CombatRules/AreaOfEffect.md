@@ -30,7 +30,7 @@ A cone's width at any point down it length is equal to that point's distance fro
 | 55 ft Cone |             55             |          ~53          |        1512.5        |
 | 60 ft Cone |             60             |          ~53          |         1800         |
 
-## Area Of Effect Calculation
+## Area Of Effect Calculations
 
 Area Of Effect Calculations scale with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
