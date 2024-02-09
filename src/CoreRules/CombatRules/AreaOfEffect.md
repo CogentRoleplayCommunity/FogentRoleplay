@@ -4,6 +4,8 @@ Certain attacks, spells, etc. have an effect over an area, such as a grenade exp
 
 ## Set Area Of Effects
 
+Set area of effects have a set area they cover.
+
 ### Sphere
 
 |     Name     | Radius (ft) |
