@@ -101,7 +101,7 @@
 
 Age: 30
 
-Race: Felblood
+Race: Fellblood
 
 Height: 6' 0"
 
@@ -133,8 +133,8 @@ Additional Details:
 
 ### Burrowbard
 
-- Briefly took me in when paretns arrested.
+- Briefly took me in when parents arrested.
 - Arranged for me to have home among the Orcs
-- When I returend to human civilization helped me find my footing
-- Has occassionally helped my cause for justice
+- When I returned to human civilization helped me find my footing
+- Has occasionally helped my cause for justice
 - I now serve as an Urban Robin Hood of sorts.
