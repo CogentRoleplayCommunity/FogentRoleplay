@@ -12,7 +12,7 @@ Certain attacks, spells, etc. have an effect over an area, such as a grenade exp
 
 ### Cone
 
-A cones width at any point down it length is equal to that point's distance from the point of origin. Since the cross section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
+A cone's width at any point down it length is equal to that point's distance from the point of origin. Since the cross section of the cone is an isosceles triangle, which is easier to work with on a battle map, it is referenced in the table below.
 
 |    Name    | Triangle Base/Height (ft) | Cone Angle (degrees) | Triangle Area (ft^2) |
 | :--------: | :-------------------------: | :-------------------: | :-------------------: |
