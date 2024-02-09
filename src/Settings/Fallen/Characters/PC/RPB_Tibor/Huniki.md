@@ -144,7 +144,7 @@ Huniki was born in one of the Great Hive cities of Caurus. He was trained from b
 
 The Silversmith representative trained and assessed with Huniki for a time, seeing if he had what it took to be a Silversmith. Impressed with his work, the Silversmith sent Huniki to travel across the continent to finish his training at Castle Morne in Reddwall, the headquarters of the Brotherhood of Silver. With the Hive Queens permission and support, Huniki departed for his long journey.
 
-While at Castle Morne, he was required to think independently. This new way of thinking troubled Huniki, as it conflicted with his innate nature to serve mindlessly. But the longer he spent away from the Hive, his independent thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
+While at Castle Morne, he was required to think independently. This new way of thinking troubled Huniki, as it conflicted with his cultural custom to serve, as he had been instructed what to do his entire life. But the longer he spent away from the Hive, his independent thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
 
 However, before he could leave Reddland, the Hive Queen reached out with her incredibly powerful mindcraft with a new task. Huniki was to offer his assistance to an elderly molekin named Burrowbard Stoneseeker in Reddwall, who apparently had done a great service to the Hive Queen in the past. He was to treat Burrowbard as his new master, until he was instructed otherwise...
 
