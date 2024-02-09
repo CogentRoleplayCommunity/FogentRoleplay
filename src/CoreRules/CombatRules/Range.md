@@ -1,6 +1,6 @@
 # Range
 
-Effective Range is the range up to which you are accurate, scaling with the size of the corresponding Weapon/Magic Skill Dice Pool. Max Range is the maximum range that can be reached, though not without consequences.
+Each Range has an Effective Range and Max Range. Effective Range is the range up to which you are accurate, scaling with the size of the corresponding Weapon/Magic Skill Dice Pool. Max Range is the maximum range that can be reached, though not without consequences.
 
 |  Range Type  |         Effective Range         |     Max Range (ft)     |
 | :----------: | :-----------------------------: | :---------------------: |
