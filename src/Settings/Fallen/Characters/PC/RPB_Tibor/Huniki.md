@@ -72,12 +72,12 @@
 
 ### Combat Spells
 
-|                                                     Name                                                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class  |
-| :-----------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)      |                 |                 |                   |             |     Near     |                   |                           |                     |   0 Fellblood   |
-|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                 |                 |                   |             |    Medium    |                   |                           |                     |   0 Fellblood   |
-| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                 |                 |                   |             |  Far - Long  |                   |                           |                     | 1 - 2 Fellblood |
-|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)         |                 |                 |                   |             | Sharpshooter |                   |                           |                     | 3 - 4 Fellblood |
+|                                                     Name                                                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)      |                 |                 |                   |             |     Near     |                   |                           |                     |     0 Fellblood     |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                 |                 |                   |             |    Medium    |                   |                           |                     |     0 Fellblood     |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                 |                 |                   |             |  Far - Long  |                   |                           |                     |   1 - 2 Fellblood   |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)         |                 |                 |                   |             | Sharpshooter |                   |                           |                     |   3 - 4 Fellblood   |
 
 ## Destiny Points: 1/3
 
@@ -87,20 +87,15 @@
 
 ## Equipment
 
-|              Name              |   #   |                     Class                     |  Tier   | Durability |  LB   | Value  |                                                                                          Note                                                                                          |
-| :----------------------------: | :---: | :-------------------------------------------: | :-----: | :--------: | :---: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons |   1   |                 Natural Armor                 | Quality |   15/15    |   6   |  0 bc  |                                                               Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                               |
-|  Carapace Cuisses and Greaves  |   1   |                 Natural Armor                 | Quality |   15/15    |   2   |  0 bc  |                                                                Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                |
-|       Carapace Vambrace        |   1   |                 Natural Armor                 | Quality |   15/15    |   2   |  0 bc  |                                                                     Equivalent of leather vambrace (Phy.Def. 0.5)                                                                      |
-|      Clothes, Traveler's       |   1   |                     Misc                      | Mundane |   12/12    |   4   |  2 bc  |                                                                                                                                                                                        |
-|         Cloak, Canvas          |   1   |                     Misc                      | Mundane |   12/12    |   5   | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                 |
-|             Boots              |   1   |                     Misc                      | Mundane |   12/12    |   1   |  4 bc  |                                                                                                                                                                                        |
-|        Pouch (1/5 ft^3)        |   1   |                     Misc                      | Mundane |   12/12    |   1   | 0.5 bc |                                                                                                                                                                                        |
-|       Satchel (2/5 ft^3)       |   1   |                     Misc                      | Mundane |   12/12    |   2   |  1 bc  |                                                                                                                                                                                        |
-|        Waterskin (4/4)         |   1   |                     Misc                      | Mundane |   12/12    |   5   | 20 bc  |                                                                                                                                                                                        |
-|           Warhammer            |   1   | Medium Hafted Blunt<br />Medium Hafted Point  | Mundane |   12/12    |   4   |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
-|             Dagger             |   1   | Small Thrusting Point<br />Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
-|           Coin Purse           |   1   |                     Misc                      | Mundane |   12/12    | 0.06  |  1 bc  |                                                                                                                                                                                        |
+|              Name              |   #   |                   Class                   |  Tier   | Durability |  LB   | Value  |                                                                                          Note                                                                                          |
+| :----------------------------: | :---: | :---------------------------------------: | :-----: | :--------: | :---: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons |   1   |               Natural Armor               | Quality |   15/15    |   6   |  0 bc  |                                                               Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                               |
+|  Carapace Cuisses and Greaves  |   1   |               Natural Armor               | Quality |   15/15    |   2   |  0 bc  |                                                                Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                |
+|       Carapace Vambrace        |   1   |               Natural Armor               | Quality |   15/15    |   2   |  0 bc  |                                                                     Equivalent of leather vambrace (Phy.Def. 0.5)                                                                      |
+|      Clothes, Traveler's       |   1   |                   Misc                    | Mundane |   12/12    |   4   |  2 bc  |                                                                                                                                                                                        |
+|         Cloak, Canvas          |   1   |                   Misc                    | Mundane |   12/12    |   5   | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                 |
+|           Warhammer            |   1   | Medium Hafted Blunt, Medium Hafted Point  | Mundane |   12/12    |   4   |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
+|             Dagger             |   1   | Small Thrusting Point, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
@@ -115,19 +110,20 @@
 
 ## Containers
 
-### Pouch (1/5 ft^3) - Max 6 LB
 
-|      Name       |   #   | Class |  Tier   | Durability |  LB   | Value  | Note  |
-| :-------------: | :---: | :---: | :-----: | :--------: | :---: | :----: | :---: |
-| Rations (1 day) |   3   | Misc  | Mundane |   12/12    |   2   | 0.5 bc |       |
-|                 |   0   |       | Mundane |   12/12    |   0   |  0 bc  |       |
+|       Name       |   #   | Class |  Tier   | Durability |  LB   | Value  | Note  |
+| :--------------: | :---: | :---: | :-----: | :--------: | :---: | :----: | :---: |
+| Pouch (1/5 ft^3) |   1   | Misc  | Mundane |   12/12    |   1   | 0.5 bc |       |
+| Rations (1 day)  |   3   | Misc  | Mundane |   12/12    |   2   | 0.5 bc |       |
 
 ### Satchel (2/5 ft^3) - Max 12 LB
 
-|     Name      |   #   | Class |  Tier   | Durability |  LB   | Value | Note  |
-| :-----------: | :---: | :---: | :-----: | :--------: | :---: | :---: | :---: |
-| Smith's Tools |   1   |       | Mundane |   12/12    |   8   | 20 bc |       |
-|               |   0   |       | Mundane |   12/12    |   0   | 0 bc  |       |
+|        Name        |   #   | Class |  Tier   | Durability |  LB   | Value | Note  |
+| :----------------: | :---: | :---: | :-----: | :--------: | :---: | :---: | :---: |
+|  Waterskin (4/4)   |   1   | Misc  | Mundane |   12/12    |   5   | 20 bc |       |
+| Satchel (2/5 ft^3) |   1   | Misc  | Mundane |   12/12    |   2   | 1 bc  |       |
+|   Smith's Tools    |   1   |       | Mundane |   12/12    |   8   | 20 bc |       |
+|     Coin Purse     |   1   | Misc  | Mundane |   12/12    | 0.06  | 1 bc  |       |
 
 ## Disposition
 
