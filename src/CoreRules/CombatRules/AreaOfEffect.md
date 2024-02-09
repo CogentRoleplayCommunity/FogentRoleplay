@@ -6,9 +6,9 @@ Certain attacks, spells, etc. have an effect over an area, such as a grenade exp
 
 ### Sphere
 
-|   Name   | Radius (ft) |
-| :-------: | :---------: |
-| 30 Sphere |     30     |
+|     Name     | Radius (ft) |
+| :-----------: | :---------: |
+| 30 ft Sphere |     30     |
 
 ### Cone
 
