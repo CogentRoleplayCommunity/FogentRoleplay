@@ -110,7 +110,6 @@
 
 ## Containers
 
-
 |       Name       |   #   | Class |  Tier   | Durability |  LB   | Value  | Note  |
 | :--------------: | :---: | :---: | :-----: | :--------: | :---: | :----: | :---: |
 | Pouch (1/5 ft^3) |   1   | Misc  | Mundane |   12/12    |   1   | 0.5 bc |       |
@@ -120,8 +119,8 @@
 
 |        Name        |   #   | Class |  Tier   | Durability |  LB   | Value | Note  |
 | :----------------: | :---: | :---: | :-----: | :--------: | :---: | :---: | :---: |
-|  Waterskin (4/4)   |   1   | Misc  | Mundane |   12/12    |   5   | 20 bc |       |
 | Satchel (2/5 ft^3) |   1   | Misc  | Mundane |   12/12    |   2   | 1 bc  |       |
+|  Waterskin (4/4)   |   1   | Misc  | Mundane |   12/12    |   5   | 20 bc |       |
 |   Smith's Tools    |   1   |       | Mundane |   12/12    |   8   | 20 bc |       |
 |     Coin Purse     |   1   | Misc  | Mundane |   12/12    | 0.06  | 1 bc  |       |
 
