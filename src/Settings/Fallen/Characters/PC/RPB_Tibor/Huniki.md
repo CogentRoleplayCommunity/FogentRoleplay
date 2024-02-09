@@ -62,19 +62,6 @@
 |       Small Thrusting Point       | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 |       Small Slashing Blade       | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
-***Fellcraft Melee***
-
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-
 ### Ranged Options
 
 ***Physical Ranged***
@@ -83,18 +70,14 @@
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Thrown Small Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 
-***Fellcraft Ranged***
+### Combat Spells
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     |                  |                          |                    |   0 Magic Resource   |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |                  |                          |                    |  0 Magic Resource  |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |                  |                          |                    | 1 - 2 Magic Resource |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |                  |                          |                    | 3 - 4 Magic Resource |
 
 ## Destiny Points: 1/3
 
