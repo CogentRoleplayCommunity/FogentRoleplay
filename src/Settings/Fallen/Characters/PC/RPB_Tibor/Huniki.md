@@ -21,7 +21,7 @@
 | :-------------------------: | :-: | :-: | -------------------------------------------------------- | :-----: | --- |
 |  Polycraft {STR, RFX, INT}  | 1 | 5d6 | Metallurgy {INT}                                         | Voc.Lvl | 4d6 |
 | Toxincraft {STR, RFX, INT} | -1 | 3d6 | Tool making / repair {STR, RFX, INT}                     | Voc.Lvl | 4d6 |
-| Terracraft {STR, RFX, INT} | -1 | 3d6 | Silverplating {STR, RFX, INT}                            | Voc.Lvl | 4d6 |
+| Terracraft {STR, RFX, INT} | -1 | 3d6 | Silver-plating {STR, RFX, INT}                           | Voc.Lvl | 4d6 |
 |                            |    | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |    0    | 4d6 |
 
 ## Effects
@@ -165,11 +165,11 @@
 
 Huniki was born in one of the Great Hive cities of Caurus. He was trained from birth to serve his queen and hive as a blacksmith. When the Brotherhood of Silver sent a representative the Hive Queen looking to train a new Silversmith to guard their local region, Huniki was selected for his aptitude and complete loyalty to the Hive.
 
-The Silversmith representative trained and assesed with Huniki for a time, seeing if he had what it took to be a Silversmith. Impressed with his work, the Silversmith sent Huniki to travel across the continent to finish his training at Castle Morne in Reddwall, the headquarters of the Bortherhood of Silver. With the Hive Queens permisison and support, Huniki departed for his long journey.
+The Silversmith representative trained and assessed with Huniki for a time, seeing if he had what it took to be a Silversmith. Impressed with his work, the Silversmith sent Huniki to travel across the continent to finish his training at Castle Morne in Reddwall, the headquarters of the Brotherhood of Silver. With the Hive Queens permission and support, Huniki departed for his long journey.
 
-While at Castle Morne, he was required to think independantly. This new way of thinking troubled Huniki, as it conflicted with his innate nature to serve mindlessly. But the longer he spent away from the Hive, his independant thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
+While at Castle Morne, he was required to think independently. This new way of thinking troubled Huniki, as it conflicted with his innate nature to serve mindlessly. But the longer he spent away from the Hive, his independent thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
 
-However, before he could leave Reddland, the Hive Queen reached out with her incredably powerful mindcraft with a new task. Huniki was to offer his assitance to an elderly molekin named Burrowbard Stoneseeker in Reddwall, who apperently had done a great service to the Hive Queen in the past. He was to treat Burrowbard as his new master, until he was instructed otherwise...
+However, before he could leave Reddland, the Hive Queen reached out with her incredibly powerful mindcraft with a new task. Huniki was to offer his assistance to an elderly molekin named Burrowbard Stoneseeker in Reddwall, who apparently had done a great service to the Hive Queen in the past. He was to treat Burrowbard as his new master, until he was instructed otherwise...
 
 ## Appearance
 
@@ -208,11 +208,11 @@ However, before he could leave Reddland, the Hive Queen reached out with her inc
 
 - Wider then average visual range (180°).
 - High sensitivity. (He can see at starlight at night, or distant campfire lit by the enemy he's scouting, or faintly glowing flora in caves, since his kind live in underground hives.)
-- Light polarisation (His eyes don't need to adjust to brightness or dimmness.)
+- Light polarization (His eyes don't need to adjust to brightness or dimness.)
 - This enables him to react about 5x faster then humans.
 
-(Realistically he should be able to catch an arrow at CL2, or dodge a normal blow at CL1 if challenge level is sized to his species specifically, but assigning a challenge level characteristic to each character's natural features is a bit overkill. No sane GM gonna do that. It's far easier to just size the challenge level to human capabilities and spend character attribute points on attributes where the character is above/below human level. That's why I put 1 attribute points into RFX. (I guess that's exactly why every race was granted the birght lord's form, so that challenge level can be sized to humans.)
-His kind live most of their lives underground, their vision being complemented by their antennae for tunnel navigation by use of feromones.)
+(Realistically he should be able to catch an arrow at CL2, or dodge a normal blow at CL1 if challenge level is sized to his species specifically, but assigning a challenge level characteristic to each character's natural features is a bit overkill. No sane GM gonna do that. It's far easier to just size the challenge level to human capabilities and spend character attribute points on attributes where the character is above/below human level. That's why I put 1 attribute points into RFX. (I guess that's exactly why every race was granted the bright lord's form, so that challenge level can be sized to humans.)
+His kind live most of their lives underground, their vision being complemented by their antennae for tunnel navigation by use of pheromones.)
 
 **Bug eye Disadvantages:**
 
@@ -224,7 +224,7 @@ His eyes don't normally glow, he can only see in complete darkness by means of p
 
 **Antennae:**
 
-- He has a good sense of smell (having both human nose and antennae), and feromones bugs use to communicate.
+- He has a good sense of smell (having both human nose and antennae), and pheromones bugs use to communicate.
 
 **Extra arms and wings:**
 
@@ -233,7 +233,7 @@ His eyes don't normally glow, he can only see in complete darkness by means of p
 
 **About his appearance in general:**
 
-- He is unlike anything I've seen in fantasy. I kinda looked for bugs to combine, and made him unique. Hi eyes come from dragonly. The chelae come from scorpion, the antennae and behavior from ants, and I also gave him some carapace for protection. I made Annakishi first, and they are like ants, so royals have wings, warriors have carapace helmet but no wings, workers have no wings or helmet. Both workers, and warriors should have -1 willpower unlike royals who have 0 and queens who should have +1.
+- He is unlike anything I've seen in fantasy. I kinda looked for bugs to combine, and made him unique. His eyes come from dragon-like. The chelae come from scorpion, the antennae and behavior from ants, and I also gave him some carapace for protection. I made Annakishi first, and they are like ants, so royals have wings, warriors have carapace helmet but no wings, workers have no wings or helmet. Both workers, and warriors should have -1 willpower unlike royals who have 0 and queens who should have +1.
 - I didn't look for an existing character class again, Annakishi was my template for him.
 
 ## Notes (I'll probably use something else for character notes... This is far too basic for me.)
