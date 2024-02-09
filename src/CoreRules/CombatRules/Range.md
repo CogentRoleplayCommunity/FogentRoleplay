@@ -24,8 +24,6 @@ Each Range has an Effective Range and Max Range. Effective Range is the range up
 
 |  Range Type  | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :----------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
-|    Melee    |   5   |    5    |   5   |   5   |   5   |   5   |   5   |   5   |   5   |    5    |    5    |    5    |
-|    Reach    |   10   |   10   |   10   |   10   |   10   |   10   |   10   |   10   |   10   |   10   |   10   |   10   |
 |     Near     |   0   |    0    |   5   |   5   |   5   |   10   |   10   |   10   |   15   |   15   |   15   |   15   |
 |    Close    |   5   |    5    |   10   |   10   |   15   |   15   |   20   |   20   |   25   |   25   |   30   |   30   |
 |    Short    |   10   |   10   |   10   |   20   |   20   |   20   |   30   |   30   |   30   |   40   |   40   |   40   |
