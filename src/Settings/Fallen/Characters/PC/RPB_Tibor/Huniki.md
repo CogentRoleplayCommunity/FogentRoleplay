@@ -6,44 +6,44 @@
 
 ## Attributes and Core Skills
 
-|    STR    |   0   | Roll  |       RFX       |   1   | Roll  |        INT        |   0   | Roll  |
-| :-------: | :---: | :---: | :-------------: | :---: | :---: | :---------------: | :---: | :---: |
-| Athletics |   0   |  3d6  |   Acrobatics    |   0   |  4d6  |   Communication   |   0   |  3d6  |
-|   Climb   |   0   |  3d6  |   Perception    |   0   |  4d6  | General Knowledge |   0   |  3d6  |
-| Endurance |   1   |  4d6  | Sleight of Hand |   0   |  4d6  |     Survival      |   0   |  3d6  |
-|   Lift    |   1   |  4d6  |     Stealth     |   0   |  4d6  |     Willpower     |  -1   |  2d6  |
+|    STR    | 0 | Roll |       RFX       | 1 | Roll |        INT        | 0 | Roll |
+| :-------: | :-: | :--: | :-------------: | :-: | :--: | :---------------: | :-: | :--: |
+| Athletics | 0 | 3d6 |   Acrobatics   | 0 | 4d6 |   Communication   | 0 | 3d6 |
+|   Climb   | 0 | 3d6 |   Perception   | 0 | 4d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 1 | 4d6 | Sleight of Hand | 0 | 4d6 |     Survival     | 0 | 3d6 |
+|   Lift   | 1 | 4d6 |     Stealth     | 0 | 4d6 |     Willpower     | -1 | 2d6 |
 
 <!-- 3 skill points + 1 from narrative DC (Incapable of lying) + 1 redistributed from -1 will (Easily compelled) -->
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT} |   1   |  5d6  | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 4d6 |
-| :------------------------: | :---: | :---: | -------------------------------------------------------- | :-------: | --- |
-| Polycraft {STR, RFX, INT}  |   1   |  5d6  | Metallurgy {INT}                                         | Inherited | 4d6 |
-| Toxincraft {STR, RFX, INT} |  -1   |  3d6  | Tool making / repair {STR, RFX, INT}                     | Inherited | 4d6 |
-| Terracraft {STR, RFX, INT} |  -1   |  3d6  | Silver-plating {STR, RFX, INT}                           | Inherited | 4d6 |
-|                            |       |  3d6  | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     0     | 4d6 |
+| Fellcaster {STR, RFX, INT} | 1 | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 4d6 |
+| :-------------------------: | :-: | :-: | -------------------------------------------------------- | :-------: | --- |
+|  Polycraft {STR, RFX, INT}  | 1 | 5d6 | Metallurgy {INT}                                         | Inherited | 4d6 |
+| Toxincraft {STR, RFX, INT} | -1 | 3d6 | Tool making / repair {STR, RFX, INT}                     | Inherited | 4d6 |
+| Terracraft {STR, RFX, INT} | -1 | 3d6 | Silver-plating {STR, RFX, INT}                           | Inherited | 4d6 |
+|                            |    | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     0     | 4d6 |
 
 ## Effects
 
-|                                          Name                                           |                         Effect                         | Duration |                                                                  Source                                                                  |
-| :-------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|                                  Minor Silver Weakness                                  | +1 to the level of injury received from Silver damage. |          |                                                              Fellkin blood                                                               |
-|                                 Physical Defense Level                                  |                     Phy. Def. 1.66                     |          |                                                                 Carapace                                                                 |
-|                                       Medium Size                                       |                 5x5 ft on battle map.                  |          |                                                                                                                                          |
-|                                   Language: Babelish                                    |                  Can speak Babelish.                   |          |                                                                                                                                          |
-|                                    Language: Kikishi                                    |                   Can speak Kikishi                    |          |                                                                                                                                          |
-|                              Disabling: Incapable of Lying                              |                Can't lie to royal kiki.                |          |                    Worker status in the hive. (He knows that royals can easily compel him to tell the truth anyway.)                     |
-|                      Disabling: Can't read or solve fine puzzles.                       |           Sees fine detail in large pixels.            |          |                                                  Compound eyes (Multi lense bug eyes).                                                   |
-| Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |                Sees well in dim light.                 |          |                                             Underground hive dweller species, compound eyes.                                             |
-|                              Racial feature: 2 Extra arms                               |                    Cool factor. :D                     |          |                                         Have you ever seen a healthy bug with only 4 limbs?! ;)                                          |
-|                                Racial feature: Antennae                                 |           Good sense of smell and pheromone.           |          |                                                    Underground hive dweller species.                                                     |
-|                                    Equipment Weight                                     |                        47.06 LB                        |          |                                                                Equipment                                                                 |
-|                                  Humanoid Carry Weight                                  |                         160 lb                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|                                      Light Weight                                       |            -0d6 to STR/RFX governed skills             |          |                                                         0% - 25% of carry weight                                                         |
-|                                 Humanoid Movement Speed                                 |                         30 ft                          |          |                                          50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
-|                                   Humanoid Swim Speed                                   |                         15 ft                          |          |                                         15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
-|                                  Humanoid Climb Speed                                   |                         15 ft                          |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
+|                                         Name                                         |                         Effect                         | Duration |                                                                   Source                                                                   |
+| :----------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|                                Minor Silver Weakness                                | +1 to the level of injury received from Silver damage. |          |                                                               Fellkin blood                                                               |
+|                                Physical Defense Level                                |                      Phy. Def. 2                      |          |                                                                  Carapace                                                                  |
+|                                     Medium Size                                     |                 5x5 ft on battle map.                 |          |                                                                                                                                            |
+|                                  Language: Babelish                                  |                  Can speak Babelish.                  |          |                                                                                                                                            |
+|                                  Language: Kikishi                                  |                   Can speak Kikishi                   |          |                                                                                                                                            |
+|                            Disabling: Incapable of Lying                            |                Can't lie to royal kiki.                |          |                     Worker status in the hive. (He knows that royals can easily compel him to tell the truth anyway.)                     |
+|                     Disabling: Can't read or solve fine puzzles.                     |           Sees fine detail in large pixels.           |          |                                                   Compound eyes (Multi lense bug eyes).                                                   |
+| Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |                Sees well in dim light.                |          |                                              Underground hive dweller species, compound eyes.                                              |
+|                             Racial feature: 2 Extra arms                             |                    Cool factor. :D                    |          |                                          Have you ever seen a healthy bug with only 4 limbs?! ;)                                          |
+|                               Racial feature: Antennae                               |           Good sense of smell and pheromone.           |          |                                                     Underground hive dweller species.                                                     |
+|                                   Equipment Weight                                   |                         26 LB                         |          |                                                                 Equipment                                                                 |
+|                                Humanoid Carry Weight                                |                         160 lb                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
+|                                     Light Weight                                     |            -0d6 to STR/RFX governed skills            |          |                                                          0% - 25% of carry weight                                                          |
+|                               Humanoid Movement Speed                               |                         30 ft                         |          |                                           50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
+|                                 Humanoid Swim Speed                                 |                         15 ft                         |          |                                         15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
+|                                 Humanoid Climb Speed                                 |                         15 ft                         |          |                                            15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                            |
 
 ## Combat Rolls (UNFINISHED)
 
@@ -51,16 +51,16 @@
 
 ***Physical Melee***
 
-|               Name                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|              Unarmed              | 4d6<br />(-1d6) | 4d6<br />(-1d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|      Hand Protection Unarmed      | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|         Disarming Unarmed         | 8d6<br />(+3d6) | 8d6<br />(+3d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-| Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|        Medium Hafted Blunt        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|        Medium Hafted Point        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|       Small Thrusting Point       | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6        |      2      | Melee |      Pierce       |           Rapid           |        None         |        None         |
-|       Small Slashing Blade        | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6        |      0      | Melee |       Slash       |           Rapid           |        None         |        None         |
+|              Unarmed              | 4d6<br />(-1d6) | 4d6<br />(-1d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|      Hand Protection Unarmed      | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|         Disarming Unarmed         | 8d6<br />(+3d6) | 8d6<br />(+3d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Medium Hafted Blunt        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Medium Hafted Point        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|       Small Thrusting Point       | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|       Small Slashing Blade       | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
 ### Ranged Options
 
@@ -68,16 +68,16 @@
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                   |      1      | Melee |      Pierce       |           Rapid           |        None         |        None         |
+| Thrown Small Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 
 ### Combat Spells
 
-|                                                     Name                                                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)      |                 |                 |                   |             |     Near     |                   |                           |                     |     0 Fellblood     |
-|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                 |                 |                   |             |    Medium    |                   |                           |                     |     0 Fellblood     |
-| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                 |                 |                   |             |  Far - Long  |                   |                           |                     |   1 - 2 Fellblood   |
-|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)         |                 |                 |                   |             | Sharpshooter |                   |                           |                     |   3 - 4 Fellblood   |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     |                  |                          |                    |     0 Fellblood     |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |                  |                          |                    |    0 Fellblood    |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |                  |                          |                    |   1 - 2 Fellblood   |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |                  |                          |                    |   3 - 4 Fellblood   |
 
 ## Destiny Points: 1/3
 
@@ -87,15 +87,16 @@
 
 ## Equipment
 
-|              Name              |   #   |                   Class                   |  Tier   | Durability |  LB   | Value  |                                                                                          Note                                                                                          |
-| :----------------------------: | :---: | :---------------------------------------: | :-----: | :--------: | :---: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons |   1   |               Natural Armor               | Quality |   15/15    |   6   |  0 bc  |                                                               Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                               |
-|  Carapace Cuisses and Greaves  |   1   |               Natural Armor               | Quality |   15/15    |   2   |  0 bc  |                                                                Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                |
-|       Carapace Vambrace        |   1   |               Natural Armor               | Quality |   15/15    |   2   |  0 bc  |                                                                     Equivalent of leather vambrace (Phy.Def. 0.5)                                                                      |
-|      Clothes, Traveler's       |   1   |                   Misc                    | Mundane |   12/12    |   4   |  2 bc  |                                                                                                                                                                                        |
-|         Cloak, Canvas          |   1   |                   Misc                    | Mundane |   12/12    |   5   | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                 |
-|           Warhammer            |   1   | Medium Hafted Blunt, Medium Hafted Point  | Mundane |   12/12    |   4   |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
-|             Dagger             |   1   | Small Thrusting Point, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|              Name              | # |                   Class                   |     Effect     |  Tier  | Durability | LB | Value |                                                                                          Note                                                                                          |
+| :----------------------------: | :-: | :---------------------------------------: | :------------: | :-----: | :--------: | :-: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons | 1 |                Body Armor                | Phy. Def. 1.00 | Quality |   15/15   | 6 |  0 bc  |                                                                      Equivalent of leather cuirass and pauldrons                                                                      |
+|  Carapace Cuisses and Greaves  | 1 |                 Leg Armor                 | Phy. Def. 0.33 | Quality |   15/15   | 2 |  0 bc  |                                                                       Equivalent of leather cuisses and greaves                                                                       |
+|       Carapace Vambrace       | 1 |                 Arm Armor                 | Phy. Def. 0.33 | Quality |   15/15   | 2 |  0 bc  |                                                                             Equivalent of leather vambrace                                                                             |
+|        Carapace Helmet        | 1 |                Head Armor                | Phy. Def. 0.34 | Quality |   15/15   | 2 |  0 bc  |                                                                                                                                                                                        |
+|      Clothes, Traveler's      | 1 |                                          |                | Mundane |   12/12   | 4 |  2 bc  |                                                                                                                                                                                        |
+|         Cloak, Canvas         | 1 |                                          |                | Mundane |   12/12   | 5 | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                |
+|           Warhammer           | 1 | Medium Hafted Blunt, Medium Hafted Point |                | Mundane |   12/12   | 4 |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
+|             Dagger             | 1 | Small Thrusting Point, Thrown Small Point |                | Mundane |   12/12   | 1 |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
@@ -110,19 +111,17 @@
 
 ## Containers
 
-|       Name       |   #   | Class |  Tier   | Durability |  LB   | Value  | Note  |
-| :--------------: | :---: | :---: | :-----: | :--------: | :---: | :----: | :---: |
-| Pouch (1/5 ft^3) |   1   | Misc  | Mundane |   12/12    |   1   | 0.5 bc |       |
-| Rations (1 day)  |   3   | Misc  | Mundane |   12/12    |   2   | 0.5 bc |       |
+|       Name       | # |     Class     | Effect |  Tier  | Durability | LB | Value | Note |
+| :--------------: | :-: | :------------: | :----: | :-----: | :--------: | :-: | :----: | :--: |
+| Pouch (1/5 ft^3) | 1 | 6 lb container |        | Mundane |   12/12   | 1 | 0.5 bc |      |
+| Rations (1 day) | 3 |                |        | Mundane |   12/12   | 2 | 0.5 bc |      |
 
-### Satchel (2/5 ft^3) - Max 12 LB
-
-|        Name        |   #   | Class |  Tier   | Durability |  LB   | Value | Note  |
-| :----------------: | :---: | :---: | :-----: | :--------: | :---: | :---: | :---: |
-| Satchel (2/5 ft^3) |   1   | Misc  | Mundane |   12/12    |   2   | 1 bc  |       |
-|  Waterskin (4/4)   |   1   | Misc  | Mundane |   12/12    |   5   | 20 bc |       |
-|   Smith's Tools    |   1   |       | Mundane |   12/12    |   8   | 20 bc |       |
-|     Coin Purse     |   1   | Misc  | Mundane |   12/12    | 0.06  | 1 bc  |       |
+|        Name        | # |      Class      | Effect |  Tier  | Durability |  LB  | Value | Note |
+| :----------------: | :-: | :-------------: | :----: | :-----: | :--------: | :--: | :---: | :--: |
+| Satchel (2/5 ft^3) | 1 | 12 lb container |        | Mundane |   12/12   |  2  | 1 bc |      |
+|  Waterskin (4/4)  | 1 |                |        | Mundane |   12/12   |  5  | 20 bc |      |
+|   Smith's Tools   | 1 |                |        | Mundane |   12/12   |  8  | 20 bc |      |
+|     Coin Purse     | 1 |                |        | Mundane |   12/12   | 0.06 | 1 bc |      |
 
 ## Disposition
 
@@ -145,7 +144,7 @@ Huniki was born in one of the Great Hive cities of Caurus. He was trained from b
 
 The Silversmith representative trained and assessed with Huniki for a time, seeing if he had what it took to be a Silversmith. Impressed with his work, the Silversmith sent Huniki to travel across the continent to finish his training at Castle Morne in Reddwall, the headquarters of the Brotherhood of Silver. With the Hive Queens permission and support, Huniki departed for his long journey.
 
-While at Castle Morne, he was required to think independently. This new way of thinking troubled Huniki, as it conflicted with his innate nature to serve mindlessly. But the longer he spent away from the Hive, his independent thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
+While at Castle Morne, he was required to think independently. This new way of thinking troubled Huniki, as it conflicted with his cultural custom to serve, as he had been instructed what to do his entire life. But the longer he spent away from the Hive, his independent thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
 
 However, before he could leave Reddland, the Hive Queen reached out with her incredibly powerful mindcraft with a new task. Huniki was to offer his assistance to an elderly molekin named Burrowbard Stoneseeker in Reddwall, who apparently had done a great service to the Hive Queen in the past. He was to treat Burrowbard as his new master, until he was instructed otherwise...
 
