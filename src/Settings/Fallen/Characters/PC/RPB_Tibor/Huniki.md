@@ -17,12 +17,12 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT} | 1 | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |    1    | 4d6 |
-| :-------------------------: | :-: | :-: | -------------------------------------------------------- | :-----: | --- |
-|  Polycraft {STR, RFX, INT}  | 1 | 5d6 | Metallurgy {INT}                                         | Voc.Lvl | 4d6 |
-| Toxincraft {STR, RFX, INT} | -1 | 3d6 | Tool making / repair {STR, RFX, INT}                     | Voc.Lvl | 4d6 |
-| Terracraft {STR, RFX, INT} | -1 | 3d6 | Silver-plating {STR, RFX, INT}                           | Voc.Lvl | 4d6 |
-|                            |    | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |    0    | 4d6 |
+| Fellcaster {STR, RFX, INT} | 1 | 5d6 | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 4d6 |
+| :-------------------------: | :-: | :-: | -------------------------------------------------------- | :-------: | --- |
+|  Polycraft {STR, RFX, INT}  | 1 | 5d6 | Metallurgy {INT}                                         | Inherited | 4d6 |
+| Toxincraft {STR, RFX, INT} | -1 | 3d6 | Tool making / repair {STR, RFX, INT}                     | Inherited | 4d6 |
+| Terracraft {STR, RFX, INT} | -1 | 3d6 | Silver-plating {STR, RFX, INT}                           | Inherited | 4d6 |
+|                            |    | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     0     | 4d6 |
 
 ## Effects
 
