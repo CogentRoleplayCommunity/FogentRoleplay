@@ -29,7 +29,7 @@
 |                                         Name                                         |                         Effect                         | Duration |                                                                   Source                                                                   |
 | :----------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 |                                Minor Silver Weakness                                | +1 to the level of injury received from Silver damage. |          |                                                               Fellkin blood                                                               |
-|                                Physical Defense Level                                |                     Phy. Def. 1.66                     |          |                                                                  Carapace                                                                  |
+|                                Physical Defense Level                                |                      Phy. Def. 2                      |          |                                                                  Carapace                                                                  |
 |                                     Medium Size                                     |                 5x5 ft on battle map.                 |          |                                                                                                                                            |
 |                                  Language: Babelish                                  |                  Can speak Babelish.                  |          |                                                                                                                                            |
 |                                  Language: Kikishi                                  |                   Can speak Kikishi                   |          |                                                                                                                                            |
@@ -38,7 +38,7 @@
 | Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |                Sees well in dim light.                |          |                                              Underground hive dweller species, compound eyes.                                              |
 |                             Racial feature: 2 Extra arms                             |                    Cool factor. :D                    |          |                                          Have you ever seen a healthy bug with only 4 limbs?! ;)                                          |
 |                               Racial feature: Antennae                               |           Good sense of smell and pheromone.           |          |                                                     Underground hive dweller species.                                                     |
-|                                   Equipment Weight                                   |                         24 LB                         |          |                                                                 Equipment                                                                 |
+|                                   Equipment Weight                                   |                         26 LB                         |          |                                                                 Equipment                                                                 |
 |                                Humanoid Carry Weight                                |                         160 lb                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
 |                                     Light Weight                                     |            -0d6 to STR/RFX governed skills            |          |                                                          0% - 25% of carry weight                                                          |
 |                               Humanoid Movement Speed                               |                         30 ft                         |          |                                           50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
@@ -87,15 +87,16 @@
 
 ## Equipment
 
-|              Name              | # |                   Class                   |  Tier  | Durability | LB | Value |                                                                                          Note                                                                                          |
-| :----------------------------: | :-: | :---------------------------------------: | :-----: | :--------: | :-: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Carapace Cuirass and Pauldrons | 1 |               Natural Armor               | Quality |   15/15   | 6 |  0 bc  |                                                               Equivalent of leather cuirass and pauldrons (Phy.Def. 0.5)                                                               |
-|  Carapace Cuisses and Greaves  | 1 |               Natural Armor               | Quality |   15/15   | 2 |  0 bc  |                                                                Equivalent of leather cuisses and greaves (Phy.Def. 0.5)                                                                |
-|       Carapace Vambrace       | 1 |               Natural Armor               | Quality |   15/15   | 2 |  0 bc  |                                                                     Equivalent of leather vambrace (Phy.Def. 0.5)                                                                     |
-|      Clothes, Traveler's      | 1 |                   Misc                   | Mundane |   12/12   | 4 |  2 bc  |                                                                                                                                                                                        |
-|         Cloak, Canvas         | 1 |                   Misc                   | Mundane |   12/12   | 5 | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                |
-|           Warhammer           | 1 | Medium Hafted Blunt, Medium Hafted Point | Mundane |   12/12   | 4 |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
-|             Dagger             | 1 | Small Thrusting Point, Thrown Small Point | Mundane |   12/12   | 1 |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|              Name              | # |                   Class                   |     Effect     |  Tier  | Durability | LB | Value |                                                                                          Note                                                                                          |
+| :----------------------------: | :-: | :---------------------------------------: | :------------: | :-----: | :--------: | :-: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Carapace Cuirass and Pauldrons | 1 |                Body Armor                | Phy. Def. 1.00 | Quality |   15/15   | 6 |  0 bc  |                                                                      Equivalent of leather cuirass and pauldrons                                                                      |
+|  Carapace Cuisses and Greaves  | 1 |                 Leg Armor                 | Phy. Def. 0.33 | Quality |   15/15   | 2 |  0 bc  |                                                                       Equivalent of leather cuisses and greaves                                                                       |
+|       Carapace Vambrace       | 1 |                 Arm Armor                 | Phy. Def. 0.33 | Quality |   15/15   | 2 |  0 bc  |                                                                             Equivalent of leather vambrace                                                                             |
+|        Carapace Helmet        | 1 |                Head Armor                | Phy. Def. 0.34 | Quality |   15/15   | 2 |  0 bc  |                                                                                                                                                                                        |
+|      Clothes, Traveler's      | 1 |                                          |                | Mundane |   12/12   | 4 |  2 bc  |                                                                                                                                                                                        |
+|         Cloak, Canvas         | 1 |                                          |                | Mundane |   12/12   | 5 | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                |
+|           Warhammer           | 1 | Medium Hafted Blunt, Medium Hafted Point |                | Mundane |   12/12   | 4 |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
+|             Dagger             | 1 | Small Thrusting Point, Thrown Small Point |                | Mundane |   12/12   | 1 |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
@@ -110,19 +111,17 @@
 
 ## Containers
 
-|       Name       | # | Class |  Tier  | Durability | LB | Value | Note |
-| :--------------: | :-: | :---: | :-----: | :--------: | :-: | :----: | :--: |
-| Pouch (1/5 ft^3) | 1 | Misc | Mundane |   12/12   | 1 | 0.5 bc |      |
-| Rations (1 day) | 3 | Misc | Mundane |   12/12   | 2 | 0.5 bc |      |
+|       Name       | # |     Class     | Effect |  Tier  | Durability | LB | Value | Note |
+| :--------------: | :-: | :------------: | :----: | :-----: | :--------: | :-: | :----: | :--: |
+| Pouch (1/5 ft^3) | 1 | 6 lb container |        | Mundane |   12/12   | 1 | 0.5 bc |      |
+| Rations (1 day) | 3 |                |        | Mundane |   12/12   | 2 | 0.5 bc |      |
 
-### Satchel (2/5 ft^3) - Max 12 LB
-
-|        Name        | # | Class |  Tier  | Durability |  LB  | Value | Note |
-| :----------------: | :-: | :---: | :-----: | :--------: | :--: | :---: | :--: |
-| Satchel (2/5 ft^3) | 1 | Misc | Mundane |   12/12   |  2  | 1 bc |      |
-|  Waterskin (4/4)  | 1 | Misc | Mundane |   12/12   |  5  | 20 bc |      |
-|   Smith's Tools   | 1 |      | Mundane |   12/12   |  8  | 20 bc |      |
-|     Coin Purse     | 1 | Misc | Mundane |   12/12   | 0.06 | 1 bc |      |
+|        Name        | # |      Class      | Effect |  Tier  | Durability |  LB  | Value | Note |
+| :----------------: | :-: | :-------------: | :----: | :-----: | :--------: | :--: | :---: | :--: |
+| Satchel (2/5 ft^3) | 1 | 12 lb container |        | Mundane |   12/12   |  2  | 1 bc |      |
+|  Waterskin (4/4)  | 1 |                |        | Mundane |   12/12   |  5  | 20 bc |      |
+|   Smith's Tools   | 1 |                |        | Mundane |   12/12   |  8  | 20 bc |      |
+|     Coin Purse     | 1 |                |        | Mundane |   12/12   | 0.06 | 1 bc |      |
 
 ## Disposition
 
