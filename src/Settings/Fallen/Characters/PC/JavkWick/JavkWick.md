@@ -139,7 +139,7 @@ Who carries the load (Boat)
 “No man gets to walk out of their own story…”
 “Then be a hero”
 
-"The only thing nessecary for evil to triumph is for good men to do nothing"
+"The only thing necessary for evil to triumph is for good men to do nothing"
 “”It's not about you, it's about them
 https://youtube.com/shorts/KxKjt2-Z7ts?feature=share
 
