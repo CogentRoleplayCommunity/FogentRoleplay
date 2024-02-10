@@ -50,10 +50,12 @@ $~~~$
 - **Resistance - [Magic Resistance](./../../../../../CoreRules/MagicRules/Spells/Apprentice/MagicResistance.md) - Anycraft - 1-4 Fellblood - Minor ??? Resistance**
 - **Armor - [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md) - Polycraft - 1 Fellblood - 3 Phy Def (only without armor), 8 hours**
 - **Morphing - [Bodily Transformation](./../../../../../CoreRules/MagicRules/Spells/Apprentice/BodilyTransformation.md) - Polycraft - 1-2 Fellblood - See table, 1 hour**
+
 | Transformation | Cost                                                             |
 | $------------$ | $--------------------------------------------------------------$ |
 | Extra Arms     | +1 to 1 skill [1, CL3]                                           |
 | Whatever...    | +1 to 1 skill [1, CL3] or Str / Ref [2, CL4] or 2 skill [1, CL5] |
+
 - **Shapeshift - [Disguise Flesh](./../../../../../CoreRules/MagicRules/Spells/Apprentice/DisguiseFlesh.md) - Polycraft - 1-5 Fellblood - Form only(no bonuses), Mimic Similar [2, CL2] / Dissimilar [3, CL3] humanoid, Maintain Form [1, CL1] , 1 hour, Set default form [5, CL5]**
 - **Shapeshift - [Shapeshift](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Shapeshift.md) - Polycraft - 1-6 Fellblood - CL insane for Apprentice, Check table.**
 
