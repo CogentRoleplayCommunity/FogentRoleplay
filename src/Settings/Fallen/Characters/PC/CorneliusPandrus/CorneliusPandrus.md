@@ -64,7 +64,7 @@
 | [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |                                                                                                        |                          |                    | 1 - 2 Magic Resource |
 |        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |                                                                                                        |                          |                    | 3 - 4 Magic Resource |
 
-## Destiny Points: 0/3
+## Destiny Points: 1/3
 
 ## Focus: 5/5
 
