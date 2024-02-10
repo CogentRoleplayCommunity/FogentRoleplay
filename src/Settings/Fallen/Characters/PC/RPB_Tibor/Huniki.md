@@ -169,7 +169,7 @@ However, before he could leave Reddland, the Hive Queen reached out with her inc
 
 ### Body:
 
-- Work hardened He has 4 arms sprouting laterally from the top of his torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. He has natural carapace protecting the outside of his limbs and torso.
+- Work hardened. He has natural carapace protecting the outside of his limbs and torso.
 - (No wings for workers)
 
 ### Hair:
@@ -203,11 +203,6 @@ His eyes don't normally glow, he can only see in complete darkness by means of p
 **Antennae:**
 
 - He has a good sense of smell (having both human nose and antennae), and pheromones bugs use to communicate.
-
-**Extra arms and wings:**
-
-- I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so his kind does, even if he's basically a mix of several different bugs. ;)
-  Workers of his kind do not have wings, only royals. (Kind like ants.)
 
 **About his appearance in general:**
 
