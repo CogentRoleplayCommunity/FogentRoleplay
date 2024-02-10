@@ -36,7 +36,6 @@
 |                              Disabling: Incapable of Lying                              |                Can't lie to royal kiki.                |          |                    Worker status in the hive. (He knows that royals can easily compel him to tell the truth anyway.)                     |
 |                      Disabling: Can't read or solve fine puzzles.                       |           Sees fine detail in large pixels.            |          |                                                  Compound eyes (Multi lense bug eyes).                                                   |
 | Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |                Sees well in dim light.                 |          |                                             Underground hive dweller species, compound eyes.                                             |
-|                              Racial feature: 2 Extra arms                               |                    Cool factor. :D                     |          |                                         Have you ever seen a healthy bug with only 4 limbs?! ;)                                          |
 |                                Racial feature: Antennae                                 |           Good sense of smell and pheromone.           |          |                                                    Underground hive dweller species.                                                     |
 |                                    Equipment Weight                                     |                         26 LB                          |          |                                                                Equipment                                                                 |
 |                                  Humanoid Carry Weight                                  |                         160 lb                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
@@ -45,7 +44,7 @@
 |                                   Humanoid Swim Speed                                   |                         15 ft                          |          |                                         15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
 |                                  Humanoid Climb Speed                                   |                         15 ft                          |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
 
-## Combat Rolls (UNFINISHED)
+## Combat Rolls
 
 ### Melee Options
 
@@ -53,14 +52,12 @@
 
 |               Name                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|              Unarmed              | 4d6<br />(-1d6) | 4d6<br />(-1d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|      Hand Protection Unarmed      | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|         Disarming Unarmed         | 8d6<br />(+3d6) | 8d6<br />(+3d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-| Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|        Medium Hafted Blunt        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|        Medium Hafted Point        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|       Small Thrusting Point       | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6        |      2      | Melee |      Pierce       |           Rapid           |        None         |        None         |
-|       Small Slashing Blade        | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6        |      0      | Melee |       Slash       |           Rapid           |        None         |        None         |
+|              Unarmed              | -1d6 | -1d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|      Hand Protection Unarmed      |  0d6 |  0d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Medium Hafted Blunt        |  0d6 | +1d6 |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Medium Hafted Point        | +1d6 | +2d6 |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|       Small Thrusting Point       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|       Small Slashing Blade        | +1d6 | +1d6 |    n/a (+1d6)    |      0      | Melee |      Slash       |           Rapid           |        None        |        None        |
 
 ### Ranged Options
 
@@ -68,7 +65,7 @@
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                   |      1      | Melee |      Pierce       |           Rapid           |        None         |        None         |
+| Thrown Small Point | 0d6             | 0d6             |        n/a        |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 
 ### Combat Spells
 
