@@ -1,8 +1,6 @@
 # Huniki
 
-![Sorry, no art yet to display!]()
-
-- UNFINISHED! - Combat rolls not calculated yet!
+<!--![Sorry, no art yet to display!]()-->
 
 ## Attributes and Core Skills
 
