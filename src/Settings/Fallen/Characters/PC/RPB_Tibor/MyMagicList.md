@@ -52,7 +52,7 @@ $~~~$
 - **Morphing - [Bodily Transformation](./../../../../../CoreRules/MagicRules/Spells/Apprentice/BodilyTransformation.md) - Polycraft - 1-2 Fellblood - See table, 1 hour**
 
 | Transformation | Cost                                                             |
-| $------------$ | $--------------------------------------------------------------$ |
+| :------------: | :--------------------------------------------------------------: |
 | Extra Arms     | +1 to 1 skill [1, CL3]                                           |
 | Whatever...    | +1 to 1 skill [1, CL3] or Str / Ref [2, CL4] or 2 skill [1, CL5] |
 
