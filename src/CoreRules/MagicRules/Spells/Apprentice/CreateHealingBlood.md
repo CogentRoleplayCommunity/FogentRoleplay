@@ -17,7 +17,7 @@ By performing the following check below, a character may produce enough healing 
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

@@ -36,7 +36,7 @@ Character can gain resistance to damage types depending on the Magic Skill used.
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

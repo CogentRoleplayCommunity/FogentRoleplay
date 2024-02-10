@@ -43,9 +43,9 @@
 | Soulcraft - Ranged Trick |       5d6       |                 |                   |      0      | Medium |                   |         Standard          |                     |        None         |
 |    Soulcraft - Melee     |       6d6       |                 |                   |      2      | Melee  |                   |           Rapid           |                     |      1 (Fellblood)      |
 |    Soulcraft - Ranged    |       6d6       |                 |                   |      1      | Medium |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Soulcraft - Cone     |       6d6       |                 |                   |      2      | Medium |                   |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Soulcraft - Cone     |       6d6       |                 |                   |      2      | Medium |                   |          1          |        Cone         |      1 (Fellblood)      |
 |    Soulcraft - Reach     |       6d6       |                 |                   |      2      | Reach  |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Soulcraft - Focused    |       7d6       |                 |                   |      2      | Medium |                   |          Focused          |                     |      1 (Fellblood)      |
+|   Soulcraft - 1    |       7d6       |                 |                   |      2      | Medium |                   |          1          |                     |      1 (Fellblood)      |
 |    Medium Hafted Axe     | 7d6<br />(+1d6) | 8d6<br />(+2d6) |  8d6<br />(+1d6)  |      2      | Melee  |        Hew        |           Rapid           |        None         |        None         |
 
 | Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |

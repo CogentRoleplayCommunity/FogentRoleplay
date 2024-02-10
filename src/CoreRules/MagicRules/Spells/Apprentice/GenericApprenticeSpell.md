@@ -20,7 +20,7 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 |    Hand Crossbow    |      +2d6      |      +2d6      |       +1d6       |      1      |   Medium   |                  |         Standard         |        None        |  1 Magic Resource  |
 |   Light Crossbow   |      None      |      +2d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |  1 Magic Resource  |
 |      Light Bow      |      None      |      +2d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |  1 Magic Resource  |
-|  Close Magic Cone  |      None      |      +2d6      |       None       |      3      | Close Cone |                  |          Focused          |  Cone Calculation  |  1 Magic Resource  |
+|  Close Magic Cone  |      None      |      +2d6      |       None       |      3      | Close Cone |                  |          1          |  Cone Calculation  |  1 Magic Resource  |
 |                    |                |                |                  |            |            |                  |                          |                    |                    |
 | Large Hafted Blade |      +0d6      |      +3d6      |       None       |      2      |    Melee    |                  |           Rapid           |        None        |  2 Magic Resource  |
 | Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      |    Melee    |                  |           Rapid           |        None        |  2 Magic Resource  |
@@ -29,7 +29,7 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 |                    |                |                |                  |            |            |                  |                          |                    |                    |
 |    Thrown Spear    |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |  2 Magic Resource  |
 |   Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |    Long    |                  |      Complex Loading      |        None        |  2 Magic Resource  |
-|  Medium Magic Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |          Focused          |  Cone Calculation  |  2 Magic Resource  |
+|  Medium Magic Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |          1          |  Cone Calculation  |  2 Magic Resource  |
 
 ## Info
 

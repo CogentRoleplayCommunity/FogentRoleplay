@@ -15,7 +15,7 @@ Depending on the wins achieved, the user can this is cast on gains benefits asso
 
 **Range:** Melee
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

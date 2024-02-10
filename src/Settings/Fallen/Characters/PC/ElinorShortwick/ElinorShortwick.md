@@ -44,10 +44,10 @@
 | Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |                    |
 |    Polycraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |    1 (Fellblood)    |
 |    Polycraft - Ranged    |       7d6       |                |                  |      1      | Extended | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |    1 (Fellblood)    |
-|     Polycraft - Cone     |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |        Cone        |    1 (Fellblood)    |
+|     Polycraft - Cone     |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          1          |        Cone        |    1 (Fellblood)    |
 |    Polycraft - Reach    |       7d6       |                |                  |      2      |  Reach  | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |    1 (Fellblood)    |
-|   Polycraft - Focused   |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |                    |    1 (Fellblood)    |
-|   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          Focused          |       Sphere       |    2 (Fellblood)    |
+|   Polycraft - 1   |       7d6       |                |                  |      2      | Extended | Slash, Bludgeon, Hew, Pierce |          1          |                    |    1 (Fellblood)    |
+|   Polycraft - Sphere   |       8d6       |                |                  |      3      | Extended | Slash, Bludgeon, Hew, Pierce |          1          |       Sphere       |    2 (Fellblood)    |
 |  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |       None       |      2      |  Melee  |            Pierce            |           Rapid           |        None        |        None        |
 |  Medium Slashing Sword  | 7d6<br />(+2d6) | 8d6<br />(+3d6) |       None       |      0      |  Melee  |            Slash            |           Rapid           |        None        |        None        |
 

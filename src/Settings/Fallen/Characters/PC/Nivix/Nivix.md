@@ -45,18 +45,18 @@
 | Blazecraft - Ranged Trick |       6d6       |                 |                   |      0      | Close |             Fire             |         Standard          |                     |        None         |
 |    Blazecraft - Melee     |       7d6       |                 |                   |      2      | Melee |             Fire             |           Rapid           |                     |      1 (Fellblood)      |
 |    Blazecraft - Ranged    |       7d6       |                 |                   |      1      | Close |             Fire             |         Standard          |                     |      1 (Fellblood)      |
-|     Blazecraft - Cone     |       7d6       |                 |                   |      2      | Close |             Fire             |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Blazecraft - Cone     |       7d6       |                 |                   |      2      | Close |             Fire             |          1          |        Cone         |      1 (Fellblood)      |
 |    Blazecraft - Reach     |       7d6       |                 |                   |      2      | Reach |             Fire             |           Rapid           |                     |      1 (Fellblood)      |
-|   Blazecraft - Focused    |       8d6       |                 |                   |      2      | Close |             Fire             |          Focused          |                     |      1 (Fellblood)      |
-|    Blazecraft - Sphere    |       8d6       |                 |                   |      3      | Close |             Fire             |          Focused          |       Sphere        |      2 (Fellblood)      |
+|   Blazecraft - 1    |       8d6       |                 |                   |      2      | Close |             Fire             |          1          |                     |      1 (Fellblood)      |
+|    Blazecraft - Sphere    |       8d6       |                 |                   |      3      | Close |             Fire             |          1          |       Sphere        |      2 (Fellblood)      |
 |  Mindcraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |           Psychic            |           Rapid           |                     |        None         |
 | Mindcraft - Ranged Trick  |       6d6       |                 |                   |      0      | Close |           Psychic            |         Standard          |                     |        None         |
 |     Mindcraft - Melee     |       7d6       |                 |                   |      2      | Melee |           Psychic            |           Rapid           |                     |      1 (Fellblood)      |
 |    Mindcraft - Ranged     |       7d6       |                 |                   |      1      | Close |           Psychic            |         Standard          |                     |      1 (Fellblood)      |
-|     Mindcraft - Cone      |       7d6       |                 |                   |      2      | Close |           Psychic            |          Focused          |        Cone         |      1 (Fellblood)      |
+|     Mindcraft - Cone      |       7d6       |                 |                   |      2      | Close |           Psychic            |          1          |        Cone         |      1 (Fellblood)      |
 |     Mindcraft - Reach     |       7d6       |                 |                   |      2      | Reach |           Psychic            |           Rapid           |                     |      1 (Fellblood)      |
-|    Mindcraft - Focused    |       8d6       |                 |                   |      2      | Close |           Psychic            |          Focused          |                     |      1 (Fellblood)      |
-|    Mindcraft - Sphere     |       8d6       |                 |                   |      3      | Close |           Psychic            |          Focused          |       Sphere        |      2 (Fellblood)      |
+|    Mindcraft - 1    |       8d6       |                 |                   |      2      | Close |           Psychic            |          1          |                     |      1 (Fellblood)      |
+|    Mindcraft - Sphere     |       8d6       |                 |                   |      3      | Close |           Psychic            |          1          |       Sphere        |      2 (Fellblood)      |
 |  Polycraft - Melee Trick  |       3d6       |                 |                   |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                     |        None         |
 | Polycraft - Ranged Trick  |       3d6       |                 |                   |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard          |                     |        None         |
 

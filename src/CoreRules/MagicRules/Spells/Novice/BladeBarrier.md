@@ -6,7 +6,7 @@ You touch a creature, until it's next turn it has minor resistance to bludgeon, 
 
 Range: Melee
 
-Engageable Opponents: Focused
+Engageable Opponents: 1
 
 Magic Resource Required: 0
 

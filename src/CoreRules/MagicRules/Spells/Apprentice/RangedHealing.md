@@ -15,7 +15,7 @@ Depending on the wins achieved, the user can cast one of the following effects.
 
 **Range:** equivlent to Ranged Magic
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

@@ -15,7 +15,7 @@ Depending on the wins achieved, the user gains one of the following effects.
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

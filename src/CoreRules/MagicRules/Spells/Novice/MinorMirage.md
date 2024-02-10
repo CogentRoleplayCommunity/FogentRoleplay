@@ -12,7 +12,7 @@ If a creature dedicates its action to scrutinizing the sound or image, it may di
 
 Range: Short
 
-Engageable Opponents: Focused
+Engageable Opponents: 1
 
 Magic Resource Required: 0
 

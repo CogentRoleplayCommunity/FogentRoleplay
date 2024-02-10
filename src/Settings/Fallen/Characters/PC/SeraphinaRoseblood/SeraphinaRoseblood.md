@@ -45,9 +45,9 @@
 | Hydrocraft - Melee Trick |       6d6       |                |                  |      0      |  Melee  | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None        |        None        |
 |    Hydrocraft - Ranged    |       7d6       |                |                  |      1      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |         Standard         |        None        |    1 (Fellblood)    |
 |    Hydrocraft - Melee    |       7d6       |                |                  |      2      |  Melee  | Suffocation, Slash,<br />Bludgeon, Pierce |           Rapid           |        None        |    1 (Fellblood)    |
-|     Hydrocraft - Cone     |       7d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        Cone        |    1 (Fellblood)    |
-|   Hydrocraft - Focused   |       8d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |        None        |    1 (Fellblood)    |
-|    Hydrocraft - Sphere    |       8d6       |                |                  |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          Focused          |       Sphere       |    2 (Fellblood)    |
+|     Hydrocraft - Cone     |       7d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          1          |        Cone        |    1 (Fellblood)    |
+|   Hydrocraft - 1   |       8d6       |                |                  |      2      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          1          |        None        |    1 (Fellblood)    |
+|    Hydrocraft - Sphere    |       8d6       |                |                  |      3      | Extended | Suffocation, Slash,<br />Bludgeon, Pierce |          1          |       Sphere       |    2 (Fellblood)    |
 |        Short Spear        | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       None       |      3      |  Melee  |                  Pierce                  |        Spear Rapid        |        None        |        None        |
 |    Thrown Short Spear    | 6d6<br />(+2d6) |     (+2d6)     |       None       |      3      |  Medium  |                  Pierce                  |         Standard         |        None        |        None        |
 

@@ -41,9 +41,9 @@
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Sonocraft - Ranged Trick |       6d6       |                |                  |      0      | Extended |                  |         Standard         |        None        |        None        |
 |    Sonocraft - Ranged    |       7d6       |                |                  |      1      | Extended |                  |         Standard         |        None        |    1 (Fellblood)    |
-|     Sonocraft - Cone     |       7d6       |                |                  |      2      | Extended |                  |          Focused          |        Cone        |    1 (Fellblood)    |
-|   Sonocraft - Focused   |       8d6       |                |                  |      2      | Extended |                  |          Focused          |        None        |    1 (Fellblood)    |
-|    Sonocraft - Sphere    |       8d6       |                |                  |      3      | Extended |                  |          Focused          |       Sphere       |    2 (Fellblood)    |
+|     Sonocraft - Cone     |       7d6       |                |                  |      2      | Extended |                  |          1          |        Cone        |    1 (Fellblood)    |
+|   Sonocraft - 1   |       8d6       |                |                  |      2      | Extended |                  |          1          |        None        |    1 (Fellblood)    |
+|    Sonocraft - Sphere    |       8d6       |                |                  |      3      | Extended |                  |          1          |       Sphere       |    2 (Fellblood)    |
 |  Medium Thrusting Sword  | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  6d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
 |  Medium Slashing Sword  | 6d6<br />(+2d6) | 7d6<br />(+3d6) |  7d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 

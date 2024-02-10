@@ -12,7 +12,7 @@ Character grows wings and gains the Flight Speed effect.
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

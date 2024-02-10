@@ -8,7 +8,7 @@ The character targets one creature's mind within effective range, probing for on
 
 **Range:** Medium
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Magic Resource Required:** 1
 

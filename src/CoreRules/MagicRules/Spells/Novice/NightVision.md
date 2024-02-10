@@ -8,7 +8,7 @@ Character gains the Night Vision effect. Within 60 feet, sees dim light as if it
 
 **Range:** Self
 
-**Engageable Opponents:** Focused
+**Engageable Opponents:** 1
 
 **Penetration:** None
 

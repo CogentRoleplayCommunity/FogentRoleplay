@@ -14,7 +14,7 @@ Instead of engaging in a combat roll, a player can choose to focus purely on the
 
 ## Focused Shot (Advantage) (Disadvantage to Dodge Rolls)
 
-While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 (Focused) for the turn. You can not move while making a focused shot and have disadvantage to Dodging.
+While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have disadvantage to Dodging.
 
 ## Charge (Advantage)
 
