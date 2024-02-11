@@ -78,7 +78,7 @@
 | Dane Axe                      | 1 |   Large Hafted Axe   |                 | Mundane |   12/12   |  4  |  11 bc  |
 | Longbow                       | 1 |       Heavy Bow       |                 | Mundane |   12/12   |  4  |  50 bc  |
 | Quiver (capacity: 20)         | 1 |                      |                 | Mundane |            |  1  |  1 bc  |
-| Broadhead Arrow               | 17 |    Standard Arrow    |                 | Mundane |            | 0.05 |  1 bc  |
+| Broadhead Arrow               | 17 |    Standard Arrow    |                 | Mundane |            | 0.05 |  5 cc  |
 | Lavender Lancer Scarf         | 1 |                      |                 | Mundane |            | 0.5 |  50 cc  |
 | Hew                           |    |                      |                 |        |            |      |        |
 
