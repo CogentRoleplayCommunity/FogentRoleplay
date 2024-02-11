@@ -67,7 +67,7 @@
 | Longbow                      | 1 |                   Heavy Bow                   | Mundane |   12/12   |  4  | 50 bc |
 | Quiver (capacity: 20)        | 1 |                                              | Mundane |            |  1  |  1 bc  |
 | Broadhead Arrow              | 20 |                Standard Arrow                | Mundane |     -     | 0.05 |  5 cc  |
-| Barbed Broadhead Arrow       | 20 |                Wounding Arrow                | Mundane |     -     | 0.05 | 1.4 bc |
+| Barbed Broadhead Arrow       | 20 |                Wounding Arrow                | Mundane |     -     | 0.05 | 7 cc |
 | Bodkin Arrow                 | 20 |               Anti-armor Arrow               | Mundane |     -     | 0.05 |  2 bc  |
 | Arming Sword                 | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   |  2  | 10 bc |
 
