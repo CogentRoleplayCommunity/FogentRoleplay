@@ -48,6 +48,7 @@
 ## Monsters
 
 - [Doppelganger](Monster/Doppelganger/Doppelganger.md)
+- [Grick](./Monster/Grick/Grick.md)
 - [Leshen](Monster/Leshen/Leshen.md)
 - [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
 - [Ogre](Monster/Ogre/Ogre.md)
