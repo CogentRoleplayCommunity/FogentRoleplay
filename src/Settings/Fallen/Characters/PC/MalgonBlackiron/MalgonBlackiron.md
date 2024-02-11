@@ -75,17 +75,17 @@
 | Leather Cuisses and Greaves   | 1 |       Leg Armor       | Phy. Def. 0.33  | Quality |   15/15   |  2  | 1.67 bc |
 | Leather Vambrace              | 1 |       Arm Armor       | Phy. Def. 0.33  | Quality |   15/15   |  2  | 1.66 bc |
 | Clothes, Traveler's           | 1 |                      |                 | Mundane |            |  4  |  2 bc  |
-| Dane Axe                      | 1 |   Large Hafted Axe   |                 | Mundane |   12/12   |  4  |  11 bc  |
 | Longbow                       | 1 |       Heavy Bow       |                 | Mundane |   12/12   |  4  |  50 bc  |
 | Quiver (capacity: 20)         | 1 |                      |                 | Mundane |            |  1  |  1 bc  |
 | Broadhead Arrow               | 17 |    Standard Arrow    |                 | Mundane |            | 0.05 |  5 cc  |
 | Lavender Lancer Scarf         | 1 |                      |                 | Mundane |            | 0.5 |  50 cc  |
-| Hew                           |    |                      |                 |        |            |      |        |
+| Hew | 1 | Large Hafted Axe | Splinter | Excellent | 21/21 | 4 | ? |
 
 ## Containers
 
 | Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
 | ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Dane Axe                      | 1 |   Large Hafted Axe   |                 | Mundane |   12/12   |  4  |  11 bc  |
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
 | Dice Set          | 1 |                |        | Mundane |            | 0.2 | 10 cc |
 | Ring, Exquisite   | 2 |                |        | Mundane |            | 0.2 | 3 bc |
