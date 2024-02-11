@@ -68,7 +68,7 @@
 ### Combat Spells
 *Combat spells are already linked and categorized on my magic quicklist below. (As well as other spells that I can do.)*
 
-## Destiny Points: 1/3
+## Destiny Points: 2/3
 
 ## Fellblood: 5/5
 
@@ -103,7 +103,7 @@
 |       Name       |   #   |     Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
 | :--------------: | :---: | :------------: | :----: | :-----: | :--------: | :---: | :----: | :---: |
 | Pouch (1/5 ft^3) |   1   | 6 lb container |        | Mundane |   12/12    |   1   | 0.5 bc |       |
-|   Bronze Coin    |  37   |                |        | Mundane |            | 0.02  |  1 bc  |       |
+|   Bronze Coin    |  39   |                |        | Mundane |            | 0.02  |  1 bc  |       |
 |   Copper Coin    |  10   |                |        | Mundane |            | 0.02  |  1 cc  |       |
 
 |       Name        |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
