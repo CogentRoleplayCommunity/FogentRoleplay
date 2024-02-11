@@ -160,7 +160,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Name                |  #  |                  Class                  | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :---------------------------------: | :--: | :-------------------------------------: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |        -[Adventuring Gear]-        |      |                                        |        |        |            |        |      |              |              |              |                |
-|        Bag of Ball Bearings        | 1000 |                                        |        | Mundane |            |   2   | 10 tc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Bag of Ball Bearings        | 1000 |                                        |        | Mundane |            |   0.002   | 10 tc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Bell                |  1  |                                        |        | Mundane |            |  0.1  | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Block and Tackle          |  1  |                                        |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |           Chain (10 feet)           |  1  |                                        |        | Mundane |            |   10   | 3 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
