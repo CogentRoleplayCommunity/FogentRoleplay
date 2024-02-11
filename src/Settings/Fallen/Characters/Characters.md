@@ -38,6 +38,8 @@
 - [Apprentice Druid](./Humanoids/ApprenticeDruid/ApprenticeDruid.md)
 - [Apprentice Runesmith](./Humanoids/ApprenticeRunesmith/ApprenticeRunesmith.md)
 - [Cultist](Humanoids/Cultist/Cultist.md)
+- [Evil Runesmith](./Humanoids/EvilRunesmith/EvilRunesmith.md)
+- [Feral Beastkin Soldier](./Humanoids/FeralBeastkinSoldier/FeralBeastkinSoldier.md)
 - [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 - [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)
 - [Feral Vermkin](Humanoids/FeralVermkin/FeralVermkin.md)
@@ -48,6 +50,7 @@
 ## Monsters
 
 - [Doppelganger](Monster/Doppelganger/Doppelganger.md)
+- [Grick](./Monster/Grick/Grick.md)
 - [Leshen](Monster/Leshen/Leshen.md)
 - [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
 - [Ogre](Monster/Ogre/Ogre.md)

@@ -6,7 +6,7 @@ I'm Javk Wick and welcome to Fogent.
 
 Fogent is a heavily modified version of Cogent Roleplay that was originally made for my first setting "Fallen".  Fallen + Cogent = Fogent.
 
-Fogent is a generalizable Roleplay system that is intended to remove unneeded complexity while not sacrifice emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, and sweet loot of D&D, than you are in the right place.
+Fogent is a generalizable Roleplay system that is intended to remove unneeded complexity while not sacrifice emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot of D&D, than you are in the right place.
 
 ## Cogent Roleplay Open License
 
