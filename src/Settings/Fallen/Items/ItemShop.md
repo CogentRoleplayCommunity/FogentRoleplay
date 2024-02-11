@@ -448,7 +448,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | :------------------: | :-: | :---: | :----: | :-----: | :--------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |     Acid (vial)     | 1 |      |        | Mundane |            |  0.5  | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |   Antitoxin (vial)   | 1 |      |        | Mundane |            |  0.5  | 50 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|   Bag of Caltrops   | 20 |      |        | Mundane |            |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Bag of Caltrops   | 20 |      |        | Mundane |            |  0.1  |  5 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Clothes, Costume   | 1 |      |        | Mundane |            |   4   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |       Manacles       | 1 |      |        | Mundane |            |   6   |  2 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |     Oil (flask)     | 1 |      |        | Mundane |            |   1   | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
