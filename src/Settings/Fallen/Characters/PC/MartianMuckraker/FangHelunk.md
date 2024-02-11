@@ -85,7 +85,7 @@
 | Leather Vambrace                    | 1 |                   Arm Armor                   | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.66 bc |
 | Hand Crossbow                       | 1 |                 Hand Crossbow                 |                | Mundane |   12/12   |   3   |  75 bc  |
 | Rapier                              | 1 | Medium Thrusting Sword, Medium Slashing Sword |                | Quality |   15/15   |   2   |  25 bc  |
-| Bodkin Bolt                         | 20 |                Anti-armor Bolt                |                | Mundane |            | 0.075 |  2 bc  |
+| Bodkin Bolt                         | 20 |                Anti-armor Bolt                |                | Mundane |            | 0.075 |  10 cc  |
 | Case, Crossbow Bolts (capacity: 20) | 1 |                                              |                | Mundane |            |   1   |  1 bc  |
 
 ## Containers
