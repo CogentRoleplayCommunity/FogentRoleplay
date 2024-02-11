@@ -1,22 +1,17 @@
 ## Fogent Todo:
 - Fix Gun Ranges
-- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
-- Maybe have magic resource scale off level
-- Moved STagger under off guard
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
-- maybe Hold person just works with Magic Skill versus willpower roll. Save happens initially during the action round, with each save happening during declaration phase.
 - Possible -1d6 nerf to all ranged weapons
 - Possible dedicated 1 handed swords
 - Hew sword for Falchion
 - Added Net with 5/15 range
 - Investigate reverse turn order
 - Shove for mental damage magic
-- Item Creation - Apprentice -> 1-3 Adept -> 4-6 Expert -> 7-9 Master -> 10-12
-- Here is a handy equation I made for calculating custom Cones. "A" is area, "D" is distance, and theta is the angle closest to the caster. Simply plug in the Area for your dice roll, and either "D" or theta. Whatever you didn't plugin will be calculated. If none of this makes sense, brush up on your trigonometry or just use the default cones above!
-
-[Cone Calculation Link](https://www.symbolab.com/solver/step-by-step/A%20%3D%20D%5E%7B2%7Dtan%5Cleft(%5Cfrac%7B%5Ctheta%7D%7B2%7D%5Cright)?or=input)
+- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
+- Maybe have magic resource scale off level
+- Should EO tick for each character engaged, or each character engaged and each character that engages them
 
 ## Fallen To dos:
 - Fix player characters Spears and magic ranges and monsters
@@ -34,5 +29,3 @@
 
 
 Howdy Everyone, this is Javk Wick. This video is part of the Rules Explanation series for Fogent Roleplay. Remember to like, subscribe, and leave comments if any of these rules don't make sense.
-
-Fix Arrow Weight

@@ -14,38 +14,50 @@ $~~~$
 ## Party Tricks - Level -1
 - Harmless - [Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) - Anycraft - 0 Fellblood
 
+| Magic      | Possible Trick...          | Use case                          |
+| :--------: | :------------------------: | :-------------------------------: |
+| Polycraft  | Bioluminescent antennae?   | People can find me easily in dark.|
+| Toxincraft | Papper Spray?              | Non lethal sneak attack.          |
+| Terracraft | Make someone trip?         | Make a distraction?               |
+| Terracraft | Make a hump to sit down?   |                                   |
+
 $~~~$
 
 ## Novice (Cantrips) - Level 0
-- Free Attack - [Generic Novice](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) - Anycraft - 0 Fellblood
+- Free Attack - [Generic Novice](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md) - Anycraft - 0 Fellblood - Equivalent of magical: Dagger, Vambrace, Sling.
 
 $~~~$
 
-- **Free Defense - [Blade Barrier](./../../../../../CoreRules/MagicRules/Spells/Novice/BladeBarrier.md) - Polycraft - 0 Fellblood**
-- **Free Morphing - [Night Vision](./../../../../../CoreRules/MagicRules/Spells/Novice/NightVision.md) - Polycraft - 0 Fellblood**
+- **Free Defense / Aid - [Blade Barrier](./../../../../../CoreRules/MagicRules/Spells/Novice/BladeBarrier.md) - Polycraft - 0 Fellblood - Minor Resistance to bludgeon, pierce, slash, hew and shockwave for 1 turn, Melee**
+
+$~~~$
+
+- **Free Morphing - [Night Vision](./../../../../../CoreRules/MagicRules/Spells/Novice/NightVision.md) - Polycraft - 0 Fellblood - Dimm -> Bright, Dark -> dimm(no colors), 60ft, 1 hour**
 
 $~~~$
 
 ## Apprentice - Level 1
-- **Attack - [Bewitch](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Bewitch.md) - Polycraft - 1 Fellblood**
-- Attack - [Generic Apprentice](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) - Anycraft - 1-2 Fellblood
+- **Attack - [Bewitch](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Bewitch.md) - Polycraft - 1 Fellblood - +1 Minor Necro Dmg (on top of phy dmg), -1 skill of enemy for 1 hour, Long Range**
+- Attack - [Generic Apprentice](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) - Anycraft - 1-2 Fellblood - Equivalent of magical: M.H. Blade / Point / Blunt [1], Short Spear (also thrown) [1], Whip [1], Hand / Light Crossbow [1], Light Bow [1], Close Cone [1], L.H. Blade / Point / Blunt [2], Spear (also thrown) [2], Heavy Crossbow [2], Medium Cone [2]
 
 $~~~$
 
-- **Illusion - [Noiseless Picture](./../../../../../CoreRules/MagicRules/Spells/Apprentice/NoiselessPicture.md) - Polycraft - 1 Fellblood**
+- **Aid - [Leap](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Leap.md) - Polycraft - 1 Fellblood - 3x Jump, 1 minute, aid by touch.**
 
 $~~~$
 
-- **Aid - [Leap](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Leap.md) - Polycraft - 1 Fellblood**
+- **Healing - [Bodily Healing](./../../../../../CoreRules/MagicRules/Spells/Apprentice/BodilyHealing.md) - Polycraft - 2-6 Fellblood - Gradual / Minor to Fatal heal**
+- **Resistance - [Magic Resistance](./../../../../../CoreRules/MagicRules/Spells/Apprentice/MagicResistance.md) - Anycraft - 1-4 Fellblood - Minor ??? Resistance**
+- **Armor - [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md) - Polycraft - 1 Fellblood - 3 Phy Def (only without armor), 8 hours**
+- **Morphing - [Bodily Transformation](./../../../../../CoreRules/MagicRules/Spells/Apprentice/BodilyTransformation.md) - Polycraft - 1-2 Fellblood - See table, 1 hour**
 
-$~~~$
+| Transformation | Cost                                                             |
+| :------------: | :--------------------------------------------------------------: |
+| Extra Arms     | +1 to 1 skill [1, CL3]                                           |
+| Whatever...    | +1 to 1 skill [1, CL3] or Str / Ref [2, CL4] or 2 skill [1, CL5] |
 
-- **Healing - [Bodily Healing](./../../../../../CoreRules/MagicRules/Spells/Apprentice/BodilyHealing.md) - Polycraft - 2-6 Fellblood**
-- **Resistance - [Magic Resistance](./../../../../../CoreRules/MagicRules/Spells/Apprentice/MagicResistance.md) - Anycraft - 1-4 Fellblood**
-- **Armor - [Physical Protection](./../../../../../CoreRules/MagicRules/Spells/Apprentice/PhysicalProtection.md) - Polycraft - 1 Fellblood**
-- **Morphing - [Bodily Transformation](./../../../../../CoreRules/MagicRules/Spells/Apprentice/BodilyTransformation.md) - Polycraft - 1-2 Fellblood**
-- **Shapeshift - [Disguise Flesh](./../../../../../CoreRules/MagicRules/Spells/Apprentice/DisguiseFlesh.md) - Polycraft - 1-5 Fellblood**
-- **Shapeshift - [Shapeshift](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Shapeshift.md) - Polycraft - 1-6 Fellblood**
+- **Shapeshift - [Disguise Flesh](./../../../../../CoreRules/MagicRules/Spells/Apprentice/DisguiseFlesh.md) - Polycraft - 1-5 Fellblood - Form only(no bonuses), Mimic Similar [2, CL2] / Dissimilar [3, CL3] humanoid, Maintain Form [1, CL1] , 1 hour, Set default form [5, CL5]**
+- **Shapeshift - [Shapeshift](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Shapeshift.md) - Polycraft - 1-6 Fellblood - CL insane for Apprentice, Check table.**
 
 $~~~$
 
@@ -77,7 +89,7 @@ $~~~$
 
 $~~~$
 
-- **Illusion - [Noiseless Picture](./../../../../../CoreRules/MagicRules/Spells/Apprentice/NoiselessPicture.md) - Polycraft - 1 Fellblood**
+- **Illusion - [Noiseless Picture](./../../../../../CoreRules/MagicRules/Spells/Apprentice/NoiselessPicture.md) - Mindcraft - 1 Fellblood**
 - *Trap - [Oil Spill](./../../../../../CoreRules/MagicRules/Spells/Apprentice/OilSpill.md) - Terracraft - 1 Fellblood*
 
 $~~~$

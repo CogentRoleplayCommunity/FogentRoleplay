@@ -4,16 +4,19 @@
 
 Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
 
-|  Copper Coin  | 1 |  | Mundane |  | 0.02 | 1 cc |
-| :-----------: | :-: | :-: | :-----: | :-: | :--: | :--: |
-|  Bronze Coin  | 1 |  | Mundane |  | 0.02 | 1 bc |
-|   Gold Coin   | 1 |  | Mundane |  | 0.02 | 1 gc |
-| Platinum Coin | 1 |  | Mundane |  | 0.02 | 1 pc |
+|     Name     | # | Class | Effect |  Tier  | Durability |  LB  | Value |
+| :-----------: | :-: | :---: | :----: | :-----: | :--------: | :--: | :---: |
+|   Tin Coins   | 1 |      |        | Mundane |            | 0.02 | 1 tc |
+|  Copper Coin  | 1 |      |        | Mundane |            | 0.02 | 1 cc |
+|  Bronze Coin  | 1 |      |        | Mundane |            | 0.02 | 1 bc |
+|   Gold Coin   | 1 |      |        | Mundane |            | 0.02 | 1 gc |
+| Platinum Coin | 1 |      |        | Mundane |            | 0.02 | 1 pc |
 
 ### Conversion between Currency
 
 |  Coin  | Equivalent value |
 | :----: | :--------------: |
+| 100 tc |       1 cc       |
 | 100 cc |       1 bc       |
 | 100 bc |       1 gc       |
 | 100 gc |       1 pc       |
@@ -24,6 +27,7 @@ While this is by no means extremely accurate, this gives a rough idea of value t
 
 | Fallen Coins | US Currency |
 | :----------: | :---------: |
+|     1 tc     |    1 ¢    |
 |     1 cc     |     $1     |
 |     1 bc     |    $100    |
 |     1 gc     |   $10,000   |
@@ -154,61 +158,61 @@ Cheap shops will charge 50% the value for any item on this list.
 ### ![](ItemShop/Blacksmith.png) Blacksmith
 
 |                Name                |  #  |                  Class                  | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :---------------------------------: | :--: | :-------------------------------------: | :----: | :-----: | :--------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
-|        -[Adventuring Gear]-        |      |                                        |        |        |            |        |        |              |              |              |                |
-|        Bag of Ball Bearings        | 1000 |                                        |        | Mundane |            |   2   | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| :---------------------------------: | :--: | :-------------------------------------: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
+|        -[Adventuring Gear]-        |      |                                        |        |        |            |        |      |              |              |              |                |
+|        Bag of Ball Bearings        | 1000 |                                        |        | Mundane |            |   0.002   | 10 tc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Bell                |  1  |                                        |        | Mundane |            |  0.1  | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Block and Tackle          |  1  |                                        |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|           Chain (10 feet)           |  1  |                                        |        | Mundane |            |   10   |  3 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|               Crowbar               |  1  | Small Hafted Blunt, Small Thrown Blunt |        | Mundane |   12/12   |   5   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Grappling Hook           |  1  |                                        |        | Mundane |            |   4   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|               Hammer               |  1  | Small Hafted Blunt, Small Thrown Blunt |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Hammer, Sledge           |  1  |           Large Hafted Blunt           |        | Mundane |   12/12   |   10   |  2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            Hunting Trap            |  1  |                                        |        | Mundane |            |   25   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Chain (10 feet)           |  1  |                                        |        | Mundane |            |   10   | 3 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|               Crowbar               |  1  | Small Hafted Blunt, Small Thrown Blunt |        | Mundane |   12/12   |   5   | 2 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Grappling Hook           |  1  |                                        |        | Mundane |            |   4   | 2 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|               Hammer               |  1  | Small Hafted Blunt, Small Thrown Blunt |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Hammer, Sledge           |  1  |           Large Hafted Blunt           |        | Mundane |   12/12   |   10   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|            Hunting Trap            |  1  |                                        |        | Mundane |            |   25   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Lamp                |  1  |                                        |        | Mundane |            |   1   | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Lantern, Bullseye          |  1  |                                        |        | Mundane |            |   2   | 10 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|           Lantern, Hooded           |  1  |                                        |        | Mundane |            |   2   |  5 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|           Lantern, Hooded           |  1  |                                        |        | Mundane |            |   2   | 5 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |                Lock                |  1  |                                        |        | Mundane |            |   1   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Manacles              |  1  |                                        |        | Mundane |            |   6   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|            Mirror, Steel            |  1  |                                        |        | Mundane |            |  0.5  |  5 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|            Pick, Miner's            |  1  |           Large Hafted Point           |        | Mundane |   12/12   |   10   |  2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|                Piton                |  1  |                                        |        | Mundane |            |  0.25  |  5 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Pot, Iron              |  1  |                                        |        | Mundane |            |   10   |  1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            Spikes, Iron            |  1  |                                        |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|              Whetstone              |  1  |                                        |        | Mundane |            |   1   |  1 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              -[Tools]-              |      |                                        |        |        |            |        |        |              |              |              |                |
-|          Carpenter's Tools          |  1  |                                        |        | Mundane |            |   6   |  6 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            Mason's Tools            |  1  |                                        |        | Mundane |            |   8   |  7 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|              Manacles              |  1  |                                        |        | Mundane |            |   6   | 2 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Mirror, Steel            |  1  |                                        |        | Mundane |            |  0.5  | 5 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Pick, Miner's            |  1  |           Large Hafted Point           |        | Mundane |   12/12   |   10   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|                Piton                |  1  |                                        |        | Mundane |            |  0.25  | 5 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|              Pot, Iron              |  1  |                                        |        | Mundane |            |   10   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|            Spikes, Iron            |  1  |                                        |        | Mundane |            |   0.5   | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|              Whetstone              |  1  |                                        |        | Mundane |            |   1   | 1 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|              -[Tools]-              |      |                                        |        |        |            |        |      |              |              |              |                |
+|          Carpenter's Tools          |  1  |                                        |        | Mundane |            |   6   | 6 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|            Mason's Tools            |  1  |                                        |        | Mundane |            |   8   | 7 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |            Smith's Tools            |  1  |                                        |        | Mundane |            |   8   | 20 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Tinker's Tools           |  1  |                                        |        | Mundane |            |   10   | 38 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|       -[Musical Instruments]-       |      |                                        |        |        |            |        |        |              |              |              |                |
-|                Horn                |  1  |                                        |        | Mundane |            |   2   |  3 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|                                    |      |                                        |        |        |            |        |        |              |              |              |                |
-|           Fletcher/Bowyer           |      |                                        |        |        |            |        |        |              |              |              |                |
+|       -[Musical Instruments]-       |      |                                        |        |        |            |        |      |              |              |              |                |
+|                Horn                |  1  |                                        |        | Mundane |            |   2   | 3 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|                                    |      |                                        |        |        |            |        |      |              |              |              |                |
+|           Fletcher/Bowyer           |      |                                        |        |        |            |        |      |              |              |              |                |
 |                Name                |  #  |                  Class                  |        |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-|             -[Weapon]-             |      |                                        |        |        |            |        |        |              |              |              |                |
+|             -[Weapon]-             |      |                                        |        |        |            |        |      |              |              |              |                |
 |           Light Crossbow           |  1  |             Light Crossbow             |        | Mundane |   12/12   |   5   | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              Shortbow              |  1  |                Light Bow                |        | Mundane |   12/12   |   2   | 25 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |            Hand Crossbow            |  1  |              Hand Crossbow              |        | Mundane |   12/12   |   3   | 75 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |           Heavy Crossbow           |  1  |             Heavy Crossbow             |        | Mundane |   12/12   |   11   | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |               Longbow               |  1  |                Heavy Bow                |        | Mundane |   12/12   |   4   | 50 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           -[Ammunition]-           |      |                                        |        |        |            |        |        |              |              |              |                |
-|           Broadhead Arrow           |  20  |             Standard Arrow             |        | Mundane |     :-     |  0.05  |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Barbed Broadhead Arrow       |  20  |             Wounding Arrow             |        | Mundane |     :-     |  0.05  | 1.4 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|            Bodkin Arrow            |  20  |            Anti-armor Arrow            |        | Mundane |     :-     |  0.05  |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|          Wood Tipped Arrow          |  20  |              Shoddy Arrow              |        | Mundane |     :-     |  0.05  | 50 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Broadhead Bolt           |  20  |              Standard Bolt              |        | Mundane |     :-     | 0.075 |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Barbed Broadhead Bolt        |  20  |              Wounding Bolt              |        | Mundane |     :-     | 0.075 | 1.4 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Bodkin Bolt             |  20  |             Anti-armor Bolt             |        | Mundane |     :-     | 0.075 |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|          Wood Tipped Bolt          |  20  |               Shoddy Bolt               |        | Mundane |     :-     | 0.075 | 50 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|                                    |      |                                        |        |        |            |        |        |              |              |              |                |
-|         Shortbow Bowstring         |  1  |                                        |        | Mundane |            |  0.05  |  8 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           -[Ammunition]-           |      |                                        |        |        |            |        |      |              |              |              |                |
+|           Broadhead Arrow           |  20  |             Standard Arrow             |        | Mundane |     :-     |  0.05  | 5 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Barbed Broadhead Arrow       |  20  |             Wounding Arrow             |        | Mundane |     :-     |  0.05  | 7 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Bodkin Arrow            |  20  |            Anti-armor Arrow            |        | Mundane |     :-     |  0.05  | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|          Wood Tipped Arrow          |  20  |              Shoddy Arrow              |        | Mundane |     :-     |  0.05  | 2 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Broadhead Bolt           |  20  |              Standard Bolt              |        | Mundane |     :-     | 0.075 | 5 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Barbed Broadhead Bolt        |  20  |              Wounding Bolt              |        | Mundane |     :-     | 0.075 | 7 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|             Bodkin Bolt             |  20  |             Anti-armor Bolt             |        | Mundane |     :-     | 0.075 | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|          Wood Tipped Bolt          |  20  |               Shoddy Bolt               |        | Mundane |     :-     | 0.075 | 2 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|                                    |      |                                        |        |        |            |        |      |              |              |              |                |
+|         Shortbow Bowstring         |  1  |                                        |        | Mundane |            |  0.05  | 8 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |          Longbow Bowstring          |  1  |                                        |        | Mundane |            |  0.05  | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Hand Crossbow Bowstring       |  1  |                                        |        | Mundane |            |  0.05  | 10 cc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|      Light Crossbow Bowstring      |  1  |                                        |        | Mundane |            |  0.05  |  8 cc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|      Light Crossbow Bowstring      |  1  |                                        |        | Mundane |            |  0.05  | 8 cc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |      Heavy Crossbow Bowstring      |  1  |                                        |        | Mundane |            |  0.05  | 20 cc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|        Quiver (capacity: 20)        |  1  |                                        |        | Mundane |            |   1   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-| Case, Crossbow Bolts (capacity: 20) |  1  |                                        |        | Mundane |            |   1   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|        Quiver (capacity: 20)        |  1  |                                        |        | Mundane |            |   1   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+| Case, Crossbow Bolts (capacity: 20) |  1  |                                        |        | Mundane |            |   1   | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/Leatherworker.png) Leatherworker
 
@@ -372,16 +376,16 @@ Cheap shops will charge 50% the value for any item on this list.
 |               Longbow               | 1 |                            Heavy Bow                            |                | Mundane |   12/12   |   4   |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Blowgun               | 1 |                             Blowgun                             |                | Mundane |   12/12   |   1   |  10 bc  |     FALSE     |     TRUE     |    FALSE    |     FALSE     |
 |          :- [Ammunition] -          |    |                                                                |                |        |            |        |        |              |              |              |                |
-|           Broadhead Arrow           | 20 |                         Standard Arrow                         |                | Mundane |     :-     |  0.05  |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Barbed Broadhead Arrow       | 20 |                         Wounding Arrow                         |                | Mundane |     :-     |  0.05  | 1.4 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|            Bodkin Arrow            | 20 |                        Anti-armor Arrow                        |                | Mundane |     :-     |  0.05  |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|          Wood Tipped Arrow          | 20 |                          Shoddy Arrow                          |                | Mundane |     :-     |  0.05  |  50 cc  |     TRUE     |    FALSE    |     TRUE     |      TRUE      |
-|           Broadhead Bolt           | 20 |                          Standard Bolt                          |                | Mundane |     :-     | 0.075 |  1 bc  |     TRUE     |    FALSE    |     TRUE     |      TRUE      |
-|        Barbed Broadhead Bolt        | 20 |                          Wounding Bolt                          |                | Mundane |     :-     | 0.075 | 1.4 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Bodkin Bolt             | 20 |                         Anti-armor Bolt                         |                | Mundane |     :-     | 0.075 |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|          Wood Tipped Bolt          | 20 |                           Shoddy Bolt                           |                | Mundane |     :-     | 0.075 |  50 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|            Sling Bullets            | 50 |                     Standard Sling Bullets                     |                | Mundane |     :-     | 0.075 |  4 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
-|       Blowguns Needles Plain       | 20 |                          Plain Needles                          |                | Mundane |     :-     |  0.05  |  50 cc  |     FALSE     |     TRUE     |    FALSE    |     FALSE     |
+|           Broadhead Arrow           | 20 |                         Standard Arrow                         |                | Mundane |     :-     |  0.05  |  5 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Barbed Broadhead Arrow       | 20 |                         Wounding Arrow                         |                | Mundane |     :-     |  0.05  |  7 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Bodkin Arrow            | 20 |                        Anti-armor Arrow                        |                | Mundane |     :-     |  0.05  |  10 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|          Wood Tipped Arrow          | 20 |                          Shoddy Arrow                          |                | Mundane |     :-     |  0.05  |  2 cc  |     TRUE     |    FALSE    |     TRUE     |      TRUE      |
+|           Broadhead Bolt           | 20 |                          Standard Bolt                          |                | Mundane |     :-     | 0.075 |  5 cc  |     TRUE     |    FALSE    |     TRUE     |      TRUE      |
+|        Barbed Broadhead Bolt        | 20 |                          Wounding Bolt                          |                | Mundane |     :-     | 0.075 |  7 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|             Bodkin Bolt             | 20 |                         Anti-armor Bolt                         |                | Mundane |     :-     | 0.075 |  10 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|          Wood Tipped Bolt          | 20 |                           Shoddy Bolt                           |                | Mundane |     :-     | 0.075 |  2 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|            Sling Bullets            | 50 |                     Standard Sling Bullets                     |                | Mundane |     :-     | 0.075 |  8 tc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
+|       Blowguns Needles Plain       | 20 |                          Plain Needles                          |                | Mundane |     :-     |  0.05  |  5 cc  |     FALSE     |     TRUE     |    FALSE    |     FALSE     |
 |                                    |    |                                                                |                |        |            |        |        |              |              |              |                |
 |          Backpack (1 ft^3)          | 1 |                         30 lb container                         |                | Mundane |            |   5   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Bedroll               | 1 |                                                                |                | Mundane |            |   7   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -444,13 +448,13 @@ Cheap shops will charge 50% the value for any item on this list.
 | :------------------: | :-: | :---: | :----: | :-----: | :--------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |     Acid (vial)     | 1 |      |        | Mundane |            |  0.5  | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |   Antitoxin (vial)   | 1 |      |        | Mundane |            |  0.5  | 50 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|   Bag of Caltrops   | 20 |      |        | Mundane |            |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Bag of Caltrops   | 20 |      |        | Mundane |            |  0.1  |  5 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Clothes, Costume   | 1 |      |        | Mundane |            |   4   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |       Manacles       | 1 |      |        | Mundane |            |   6   |  2 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |     Oil (flask)     | 1 |      |        | Mundane |            |   1   | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 | Poison, Basic (vial) | 1 |      |        | Mundane |            |  0.5  | 100 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Ram, Portable    | 1 |      |        | Mundane |            |   35   |  4 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|     Spikes, Iron     | 1 |      |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|     Spikes, Iron     | 1 |      |        | Mundane |            |   0.5   | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Disguise Kit     | 1 |      |        | Mundane |            |   3   | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Forgery Kit     | 1 |      |        | Mundane |            |   5   | 15 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Dice Set       | 1 |      |        | Mundane |            |  0.2  | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |

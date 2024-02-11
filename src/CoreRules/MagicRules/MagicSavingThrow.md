@@ -1,6 +1,6 @@
 # Magic Saving Throw
 
-A magic saving throw is an attempt to resist a spell. The CL of which is determined by the size of the magic skill being used. If multiple magic skills are being used, which ever dice pool is the smallest is used.
+A magic saving throw is an attempt to resist a spell. The CL of which is determined by the size of the magic skill being used. If multiple magic skills are being used, which ever dice pool is the smallest is used. Character's may declare on their Declaration phase what they intend to do if they successfully resist or do not resist during. Magic Saving Throws happen on your turn during the Action Phase.
 
 Magic CL Saving Throw = (magic skill dice pool size / 2) rounded down
 
@@ -18,4 +18,4 @@ Magic CL Saving Throw = (magic skill dice pool size / 2) rounded down
 
 ## (Optional) Magic Saving Throw Roll off
 
-Magic Skill Roll sets the level of the CL.
+A Magic Skill Roll from the character casting the spell sets the level of the CL.

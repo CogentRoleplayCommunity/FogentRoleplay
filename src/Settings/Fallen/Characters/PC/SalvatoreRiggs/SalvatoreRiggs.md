@@ -61,7 +61,7 @@
 | Leather Vambrace                    |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   2   | 1.5 bc |
 | Dagger                              |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
 | Hand Crossbow                       |   1   |                          Hand Crossbow                          | Mundane |   12/12    |   3   | 75 bc  |
-| Broadhead Bolt                      |  20   |                          Standard Bolt                          | Mundane |     -      | 0.075 |  1 bc  |
+| Broadhead Bolt                      |  20   |                          Standard Bolt                          | Mundane |     -      | 0.075 |  5 cc  |
 | Case, Crossbow Bolts (capacity: 20) |   1   |                                                             | Mundane |            |   1   |  1 bc  |
 
 ### Container Name

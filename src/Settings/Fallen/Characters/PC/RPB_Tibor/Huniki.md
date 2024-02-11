@@ -1,8 +1,6 @@
 # Huniki
 
-![Sorry, no art yet to display!]()
-
-- UNFINISHED! - Combat rolls not calculated yet!
+<!--![Sorry, no art yet to display!]()-->
 
 ## Attributes and Core Skills
 
@@ -36,7 +34,6 @@
 |                              Disabling: Incapable of Lying                              |                Can't lie to royal kiki.                |          |                    Worker status in the hive. (He knows that royals can easily compel him to tell the truth anyway.)                     |
 |                      Disabling: Can't read or solve fine puzzles.                       |           Sees fine detail in large pixels.            |          |                                                  Compound eyes (Multi lense bug eyes).                                                   |
 | Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |                Sees well in dim light.                 |          |                                             Underground hive dweller species, compound eyes.                                             |
-|                              Racial feature: 2 Extra arms                               |                    Cool factor. :D                     |          |                                         Have you ever seen a healthy bug with only 4 limbs?! ;)                                          |
 |                                Racial feature: Antennae                                 |           Good sense of smell and pheromone.           |          |                                                    Underground hive dweller species.                                                     |
 |                                    Equipment Weight                                     |                         26 LB                          |          |                                                                Equipment                                                                 |
 |                                  Humanoid Carry Weight                                  |                         160 lb                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
@@ -45,7 +42,7 @@
 |                                   Humanoid Swim Speed                                   |                         15 ft                          |          |                                         15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                         |
 |                                  Humanoid Climb Speed                                   |                         15 ft                          |          |                                           15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                           |
 
-## Combat Rolls (UNFINISHED)
+## Combat Rolls
 
 ### Melee Options
 
@@ -53,14 +50,12 @@
 
 |               Name                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|              Unarmed              | 4d6<br />(-1d6) | 4d6<br />(-1d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|      Hand Protection Unarmed      | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|         Disarming Unarmed         | 8d6<br />(+3d6) | 8d6<br />(+3d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-| Disarming Hand Protection Unarmed | 9d6<br />(-4d6) | 9d6<br />(+4d6) |      (None)       |      0      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|        Medium Hafted Blunt        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|        Medium Hafted Point        | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)       |      5      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
-|       Small Thrusting Point       | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6        |      2      | Melee |      Pierce       |           Rapid           |        None         |        None         |
-|       Small Slashing Blade        | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6        |      0      | Melee |       Slash       |           Rapid           |        None         |        None         |
+|              Unarmed              | -1d6 | -1d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|      Hand Protection Unarmed      |  0d6 |  0d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Medium Hafted Blunt        |  0d6 | +1d6 |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|        Medium Hafted Point        | +1d6 | +2d6 |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|       Small Thrusting Point       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|       Small Slashing Blade        | +1d6 | +1d6 |    n/a (+1d6)    |      0      | Melee |      Slash       |           Rapid           |        None        |        None        |
 
 ### Ranged Options
 
@@ -68,18 +63,12 @@
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Point | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                   |      1      | Melee |      Pierce       |           Rapid           |        None         |        None         |
+| Thrown Small Point | 0d6             | 0d6             |        n/a        |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 
 ### Combat Spells
+*Combat spells are already linked and categorized on my magic quicklist below. (As well as other spells that I can do.)*
 
-|                                                     Name                                                      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)      |                 |                 |                   |             |     Near     |                   |                           |                     |     0 Fellblood     |
-|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                 |                 |                   |             |    Medium    |                   |                           |                     |     0 Fellblood     |
-| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                 |                 |                   |             |  Far - Long  |                   |                           |                     |   1 - 2 Fellblood   |
-|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)         |                 |                 |                   |             | Sharpshooter |                   |                           |                     |   3 - 4 Fellblood   |
-
-## Destiny Points: 1/3
+## Destiny Points: 2/3
 
 ## Fellblood: 5/5
 
@@ -114,7 +103,7 @@
 |       Name       |   #   |     Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
 | :--------------: | :---: | :------------: | :----: | :-----: | :--------: | :---: | :----: | :---: |
 | Pouch (1/5 ft^3) |   1   | 6 lb container |        | Mundane |   12/12    |   1   | 0.5 bc |       |
-|   Bronze Coin    |  37   |                |        | Mundane |            | 0.02  |  1 bc  |       |
+|   Bronze Coin    |  39   |                |        | Mundane |            | 0.02  |  1 bc  |       |
 |   Copper Coin    |  10   |                |        | Mundane |            | 0.02  |  1 cc  |       |
 
 |       Name        |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
@@ -143,11 +132,11 @@
 
 Huniki was born in one of the Great Hive cities of Caurus. He was trained from birth to serve his queen and hive as a blacksmith. When the Brotherhood of Silver sent a representative the Hive Queen looking to train a new Silversmith to guard their local region, Huniki was selected for his aptitude and complete loyalty to the Hive.
 
-The Silversmith representative trained and assessed with Huniki for a time, seeing if he had what it took to be a Silversmith. Impressed with his work, the Silversmith sent Huniki to travel across the continent to finish his training at Castle Morne in Reddwall, the headquarters of the Brotherhood of Silver. With the Hive Queens permission and support, Huniki departed for his long journey.
+The Silversmith representative trained and assessed with Huniki for a time, seeing if he had what it took to be a Silversmith. Impressed with his work, the Silversmith sent Huniki to travel across the continent to finish his training at Castle Morne in Reddwall, the headquarters of the Brotherhood of Silver. With his Queen's permission and support, Huniki departed for his long journey.
 
-While at Castle Morne, he was required to think independently. This new way of thinking troubled Huniki, as it conflicted with his cultural custom to serve, as he had been instructed what to do his entire life. But the longer he spent away from the Hive, his independent thinking grew. After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use.
+While at Castle Morne, he was required to think independently, find work, charge the customer and pay for everything, which he found very strange. In the hive he was often told what to work on, which he did entusiastically free of charge for the hive. On the other hand if he needed anything he simply went to a warehouse, requested and got it free of charge provided that it was available. He was never hungry, homeless, or without work, and never had to worry about resources, tools, or money. Adapting to this new lifestyle was very hard at the beginning, and he never quite got used to the outside world, which made him homesick, but he managed it. Barely... After 4 years of training at Castle Morne, he earned himself the title of Cadet, and departed for Caurus to put his new skill to use, and leave this cursed greedy place.
 
-However, before he could leave Reddland, the Hive Queen reached out with her incredibly powerful mindcraft with a new task. Huniki was to offer his assistance to an elderly molekin named Burrowbard Stoneseeker in Reddwall, who apparently had done a great service to the Hive Queen in the past. He was to treat Burrowbard as his new master, until he was instructed otherwise...
+However, before he could leave Reddland, his Queen reached out with her incredibly powerful mindcraft with a new task. Huniki was to offer his assistance to an elderly molekin named Burrowbard Stoneseeker in Reddwall, who apparently had done a great service to his Queen in the past. He was to treat Burrowbard as his new master, until he was instructed otherwise...
 
 ## Appearance
 
@@ -169,7 +158,7 @@ However, before he could leave Reddland, the Hive Queen reached out with her inc
 
 ### Body:
 
-- Work hardened He has 4 arms sprouting laterally from the top of his torso, the upper 2 arms end in chelae (pinchers) while the lower 2 in human hands covered in carapace from the outside, but soft on the inside. He has natural carapace protecting the outside of his limbs and torso.
+- Work hardened. He has natural carapace protecting the outside of his limbs and torso.
 - (No wings for workers)
 
 ### Hair:
@@ -203,11 +192,6 @@ His eyes don't normally glow, he can only see in complete darkness by means of p
 **Antennae:**
 
 - He has a good sense of smell (having both human nose and antennae), and pheromones bugs use to communicate.
-
-**Extra arms and wings:**
-
-- I don't recall ever seeing a genetically 4 legged bug of any kind, kiki should have at least 6 or more limbs, so his kind does, even if he's basically a mix of several different bugs. ;)
-  Workers of his kind do not have wings, only royals. (Kind like ants.)
 
 **About his appearance in general:**
 

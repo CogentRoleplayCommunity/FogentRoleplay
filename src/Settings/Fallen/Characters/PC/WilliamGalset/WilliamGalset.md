@@ -55,8 +55,8 @@
 
 ## Equipment:
 
-| Name                          | # |                              Class                              |  Tier  | Durability | LB | Value |
-| ----------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :-: | :----: |
+| Name                          | # |                              Class                              |  Tier  | Durability |  LB  | Value |
+| ----------------------------- | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :--: | :----: |
 | Gambeson Coat                 | 1 |                           Phy. Def. 1                           | Mundane |   12/12   |  5  |  2 bc  |
 | Gambeson Leggings             | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  3  |  1 bc  |
 | Leather Cuirass and Pauldrons | 1 |                          Phy. Def. 0.5                          | Mundane |   12/12   |  4  |  3 bc  |
@@ -65,7 +65,7 @@
 | Arming Sword                  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Mundane |   12/12   |  2  | 10 bc |
 | Dagger                        | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  |  2 bc  |
 | Shortbow                      | 1 |                            Light Bow                            | Mundane |   12/12   |  2  | 25 bc |
-| Broadhead Arrow               | 20 |                         Standard Arrow                         | Mundane |     -     | 0.5 |  1 bc  |
+| Broadhead Arrow               | 20 |                         Standard Arrow                         | Mundane |     -     | 0.05 |  5 cc  |
 | Quiver (capacity: 20)         | 1 |                                                                | Mundane |            |  1  |  1 bc  |
 | Satchel (2/5 ft^3)            | 1 |                         12 lb container                         | Mundane |            |  2  |  1 bc  |
 

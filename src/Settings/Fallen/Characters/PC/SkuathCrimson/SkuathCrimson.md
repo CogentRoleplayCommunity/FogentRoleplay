@@ -85,7 +85,7 @@ Unspent Skill Point: 1
 | Backpack (1 ft^3)                                       |  1  |         30 lb container         |               |  Mundane  |            |  5  | 2 bc |
 | Shortbow                                                |  1  |            Light Bow            |               |  Mundane  |   12/12   |  2  | 25 bc |
 | Quiver (capacity: 20)                                   |  1  |                                |               |  Mundane  |            |  1  | 1 bc |
-| Broadhead Arrow                                         | 20 |         Standard Arrow         |               |  Mundane  |            | 0.05 | 1 bc |
+| Broadhead Arrow                                         | 20 |         Standard Arrow         |               |  Mundane  |            | 0.05 | 5 cc |
 | Ring, Mundane                                           |  1  |                                |               |  Mundane  |            | 0.2 | 30 cc |
 | Javelin                                                 |  2  | Short Spear, Thrown Short Spear |               |  Mundane  |   12/12   |  3  | 5 bc |
 | Bronze Coin                                             | 38 |                                |               |  Mundane  |            | 0.02 | 1 bc |
