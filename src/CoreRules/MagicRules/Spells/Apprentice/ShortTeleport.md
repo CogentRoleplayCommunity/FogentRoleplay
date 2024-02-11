@@ -1,6 +1,6 @@
 # Short Teleport
 
-Character teleports themself to an unoccupied space that they can see.
+Character teleports them self to an unoccupied space that they can see.
 
 ## Info
 
