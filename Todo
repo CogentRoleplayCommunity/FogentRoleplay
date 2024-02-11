@@ -1,7 +1,5 @@
 ## Fogent Todo:
 - Fix Gun Ranges
-- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
-- Maybe have magic resource scale off level
 - Moved STagger under off guard
 - Should EO tick for each character engaged, or each character engaged and each character that engages them
 
@@ -14,6 +12,8 @@
 - Added Net with 5/15 range
 - Investigate reverse turn order
 - Shove for mental damage magic
+- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
+- Maybe have magic resource scale off level
 
 ## Fallen To dos:
 - Fix player characters Spears and magic ranges and monsters
