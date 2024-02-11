@@ -28,13 +28,13 @@ The number of points you get to spend on Core Skills, Vocations, and Combat Skil
 
 This tier represent a group of mostly wide eyed/unexperienced characters setting out on their first true adventure.
 
-| Level |                                              Reward Gained                                              | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Level Cap |
-| :---: | :------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------------: |
-|   1   | Vocation/Skill Cap set to 1<br />+1 Attribute Point<br />+4 Skill Point<br />+1 Disabling Characteristic |                1                |              4              |                1                |               1               |
-|   2   |                                              +1 Skill Point                                              |                1                |              5              |                1                |               1               |
-|   3   |                                              +1 Skill Point                                              |                1                |              6              |                1                |               1               |
-|   4   |                                              +1 Skill Point                                              |                1                |              7              |                1                |               1               |
-|   5   |                                            +1 Attribute Point                                            |                1                |              7              |                2                |               1               |
+| Level |                                                          Reward Gained                                                          | Total<br />Vocation<br />Points | Total<br />Skill<br />Points | Total<br />Attribute<br />Points | Vocation/Skill<br />Level Cap |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: | :--------------------------: | :------------------------------: | :---------------------------: |
+|   1   | Vocation/Skill Cap set to 1<br />+1 Vocation Point<br />+1 Attribute Point<br />+4 Skill Point<br />+1 Disabling Characteristic |                1                |              4              |                1                |               1               |
+|   2   |                                                         +1 Skill Point                                                         |                1                |              5              |                1                |               1               |
+|   3   |                                                         +1 Skill Point                                                         |                1                |              6              |                1                |               1               |
+|   4   |                                                         +1 Skill Point                                                         |                1                |              7              |                1                |               1               |
+|   5   |                                                       +1 Attribute Point                                                       |                1                |              7              |                2                |               1               |
 
 ### Adept Tier (D&D Level 5 - 8)
 
