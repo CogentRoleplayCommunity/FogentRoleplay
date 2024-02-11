@@ -24,6 +24,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ![Alt text](CogentRoleplayAttribution_Wide.png)
 
+
 ## Settings
 
 Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made setting you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your world!
@@ -33,7 +34,11 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 ## Core Rules
 
-The Core Rules are the foundation of the game. The rules have been listed in the order of importance to someone learning the game for the first time.
+The Core Rules are the foundation and narrative engine of for your game.
+
+Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm the super nerd) has prepared a video playlist breaking down each of the rules in bit sized digestible chunks, that even your mom could learn (mine actually did). The rules have been listed in the order of importance to someone learning the game for the first time. Click the video below to be taken to the video playlist.
+
+[![IMAGE ALT TEXT HERE](./VideoExplanationThumbnail.png)](https://www.youtube.com/watch?v=gPPoVJCQ2SE&list=PLB7ISq9k7j0yvIW8Tq19HkhinVwb74X17&pp=gAQBiAQB)
 
 ### General Rules
 
