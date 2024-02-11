@@ -1,6 +1,5 @@
 ## Fogent Todo:
 - Fix Gun Ranges
-- Should EO tick for each character engaged, or each character engaged and each character that engages them
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
@@ -12,6 +11,7 @@
 - Shove for mental damage magic
 - Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
 - Maybe have magic resource scale off level
+- Should EO tick for each character engaged, or each character engaged and each character that engages them
 
 ## Fallen To dos:
 - Fix player characters Spears and magic ranges and monsters
