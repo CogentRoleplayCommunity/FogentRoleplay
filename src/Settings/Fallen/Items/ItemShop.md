@@ -178,7 +178,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |            Pick, Miner's            |  1  |           Large Hafted Point           |        | Mundane |   12/12   |   10   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Piton                |  1  |                                        |        | Mundane |            |  0.25  | 5 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              Pot, Iron              |  1  |                                        |        | Mundane |            |   10   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            Spikes, Iron            |  1  |                                        |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Spikes, Iron            |  1  |                                        |        | Mundane |            |   0.5   | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |              Whetstone              |  1  |                                        |        | Mundane |            |   1   | 1 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              -[Tools]-              |      |                                        |        |        |            |        |      |              |              |              |                |
 |          Carpenter's Tools          |  1  |                                        |        | Mundane |            |   6   | 6 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -454,7 +454,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Oil (flask)     | 1 |      |        | Mundane |            |   1   | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 | Poison, Basic (vial) | 1 |      |        | Mundane |            |  0.5  | 100 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Ram, Portable    | 1 |      |        | Mundane |            |   35   |  4 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|     Spikes, Iron     | 1 |      |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|     Spikes, Iron     | 1 |      |        | Mundane |            |   0.5   | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Disguise Kit     | 1 |      |        | Mundane |            |   3   | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Forgery Kit     | 1 |      |        | Mundane |            |   5   | 15 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Dice Set       | 1 |      |        | Mundane |            |  0.2  | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
