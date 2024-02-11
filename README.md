@@ -26,6 +26,8 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ## Settings
 
+Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made setting you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your world!
+
 - [Fallen](./src/Settings/Fallen/Fallen.md) (Dark Fantasy)
 - [Coming soon] Fracture (Post-Apocalypse)
 
