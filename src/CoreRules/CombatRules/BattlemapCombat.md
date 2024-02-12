@@ -12,7 +12,7 @@ Different creatures get different movement speeds in combat.
 |     Humanoid Swim Speed      |            15            |    Athletics    |                   5                    |       5        |
 |     Humanoid Climb Speed     |            15            |      Climb      |                   5                    |       5        |
 |    Flight Movement Speed     |            70            |    Athletics    |                   10                   |       20       |
-| Fast 4-Legged Movement Speed |            65            |    Athletics    |                   5                    |       10       |
+| 4-Legged Movement Speed |            65            |    Athletics    |                   5                    |       10       |
 |   4-Legged Movement Speed    |            50            |    Athletics    |                   5                    |       10       |
 |     4-Legged Swim Speed      |            15            |    Athletics    |                   5                    |       5        |
 |     4-Legged Climb Speed     |            0             |      Climb      |                   5                    |       5        |
@@ -71,7 +71,7 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 When riding a mount in combat, the rider's Acrobatics acts as the Governing Skill for their combined movement, with the resulting combat movement speed capped by the mount's normal combat movement speed.
 
-For instance, a Riding Horse has the Fast 4-Legged Movement Speed and a level 3 skill in Athletics. A level 3 in athletics would typically give +15 feet (80 feet total) of movement in combat. When his master, who has a level 0 in Acrobatics, decides to ride him, his master's level 0 in Acrobatics is used for their combined movement speed giving +0 feet (65 feet total) of movement in combat. However, when a master rider who has a level 4 in Acrobatics, is riding the horse, they still only gain +15 feet (80 feet total) since the rider's skill is capped by the horse level 3 in Athletics.
+For instance, a Riding Horse has the 4-Legged Movement Speed and a level 3 skill in Athletics. A level 3 in athletics would typically give +15 feet (80 feet total) of movement in combat. When his master, who has a level 0 in Acrobatics, decides to ride him, his master's level 0 in Acrobatics is used for their combined movement speed giving +0 feet (65 feet total) of movement in combat. However, when a master rider who has a level 4 in Acrobatics, is riding the horse, they still only gain +15 feet (80 feet total) since the rider's skill is capped by the horse level 3 in Athletics.
 
 Additionally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
 
