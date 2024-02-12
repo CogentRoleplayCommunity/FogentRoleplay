@@ -55,7 +55,7 @@ The skill that represent the movement speed.
 
 ### Feet Per Governing Skill Modifier
 
-The amount of feet gained/lost per dice of the governing skill dice pool, excluding the base 3 dice.
+The amount of feet gained/lost per dice of the governing skill dice pool, excluding the base 3 dice. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.).
 
 ### Using multiple Combat Movement Speeds on the same round
 
