@@ -1,7 +1,6 @@
 ## Fogent Todo:
 - Fix Gun Ranges
-- For movement speed, RFX give an amount to movement speeds. It represents you character getting into action faster, and can be used to resolve if people are able to get up on wizards before they can shoot them. RFX now gives 15
-- For Movement speed, every dice in your governing core skill dice pool that aren't base dice give you an amount of movement speed. Probably 5 feet.
+- Recalculate all movement speeds and fixed all effect calculations in source columns
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
