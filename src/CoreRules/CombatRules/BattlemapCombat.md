@@ -8,14 +8,14 @@ Different creatures get different movements speeds in combat.
 
 |         Description         | Base Movement Speed (ft) | RFX Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier |
 | :--------------------------: | :----------------------: | :------------: | :-------------: | :------------------------------------: |
-|   Humanoid Movement Speed   |            30            |       10       |    Athletics    |                   5                   |
-|     Humanoid Swim Speed     |            15            |       5       |    Athletics    |                   5                   |
-|     Humanoid Climb Speed     |            15            |       5       |      Climb      |                   5                   |
-|    Flight Movement Speed    |            70            |       20       |    Athletics    |                   10                   |
-| Fast 4-Legged Movement Speed |            65            |       10       |    Athletics    |                   5                   |
-|   4-Legged Movement Speed   |            50            |       10       |    Athletics    |                   5                   |
-|     4-Legged Swim Speed     |            15            |       5       |    Athletics    |                   5                   |
-|     4-Legged Climb Speed     |            0            |       5       |      Climb      |                   5                   |
+|   Humanoid Movement Speed   |            30            |       15       |    Athletics    |                   5                   |
+|     Humanoid Swim Speed     |            15            |       10       |    Athletics    |                   5                   |
+|     Humanoid Climb Speed     |            15            |       10       |      Climb      |                   5                   |
+|    Flight Movement Speed    |            70            |       25       |    Athletics    |                   10                   |
+| Fast 4-Legged Movement Speed |            65            |       15       |    Athletics    |                   5                   |
+|   4-Legged Movement Speed   |            50            |       15       |    Athletics    |                   5                   |
+|     4-Legged Swim Speed     |            15            |       10       |    Athletics    |                   5                   |
+|     4-Legged Climb Speed     |            0            |       10       |      Climb      |                   5                   |
 
 ### Base Movement Speed
 
