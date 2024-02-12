@@ -41,8 +41,8 @@
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Claws |      +2d6      |      None      |       +1d6       |      2      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
-| Large Bite |      +2d6      |      +2d6      |       None       |      4      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
+| Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 
 ### Combat Spells
 

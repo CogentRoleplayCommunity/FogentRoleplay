@@ -16,7 +16,6 @@
 | Beast {STR, RFX}            | 2 | 7d6 |
 | --------------------------- | :-: | :-: |
 | Large Stomp {STR, RFX, INT} | 2 | 6d6 |
-| Bite {STR, RFX, INT}        | 0 | 4d6 |
 
 ## Effects
 
@@ -35,8 +34,7 @@
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Stomp | 7d6<br />(+1d6) |     (+1d6)     |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Bite    | 5d6<br />(+1d6) |     (+1d6)     |       None       |      2      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
+| Large Stomp | 6d6<br />(+0d6) |      None      |  7d6<br />(+1d6)  |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ## Equipment
 

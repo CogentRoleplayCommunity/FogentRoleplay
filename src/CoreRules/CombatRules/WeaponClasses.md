@@ -238,6 +238,8 @@ Medium Sized creatures innate weapons, such as claws, bites, etc...
 
 ## Large Sized Creature Innate Weapons
 
+Large Sized creatures innate weapons, such as claws, bites, etc...
+
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
 | Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
