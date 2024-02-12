@@ -6,22 +6,58 @@ Combat takes place on grided battle maps, with each square representing a 5 ft b
 
 Different creatures get different movements speeds in combat.
 
-- Each Combat Movement Speed has a **Base Movement Speed**.
-- For each positive/negative level in the **Governing Attributes**, the character gains/loses movement speed determined by **Feet Per Governing Attribute Lvl**.
-- For each skill point or other skill dice modification that effects the **Governing Skill**, the character gains/loses movement speed determined by **Feet Per Governing Skill Lvl**. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties or injuries).
+|         Description         | Base Movement Speed (ft) | RFX Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier |
+| :--------------------------: | :----------------------: | :------------: | :-------------: | :------------------------------------: |
+|   Humanoid Movement Speed   |            30            |       10       |    Athletics    |                   5                   |
+|     Humanoid Swim Speed     |            15            |       5       |    Athletics    |                   5                   |
+|     Humanoid Climb Speed     |            15            |       5       |      Climb      |                   5                   |
+|    Flight Movement Speed    |            70            |       20       |    Athletics    |                   10                   |
+| Fast 4-Legged Movement Speed |            65            |       10       |    Athletics    |                   5                   |
+|   4-Legged Movement Speed   |            50            |       10       |    Athletics    |                   5                   |
+|     4-Legged Swim Speed     |            15            |       5       |    Athletics    |                   5                   |
+|     4-Legged Climb Speed     |            0            |       5       |      Climb      |                   5                   |
 
-|         Description         | Base Movement Speed (ft) | Governing Attributes | Feet Per Governing<br /> Attribute Lvl | Governing Skill | Feet Per Governing<br />Skill Lvl |
-| :--------------------------: | :----------------------: | :------------------: | :------------------------------------: | :-------------: | :-------------------------------: |
-|   Humanoid Movement Speed   |            30            |         RFX         |                   10                   |    Athletics    |                 5                 |
-|     Humanoid Swim Speed     |            15            |         STR         |                   5                   |    Athletics    |                 5                 |
-|     Humanoid Climb Speed     |            15            |         STR         |                   5                   |      Climb      |                 5                 |
-|    Flight Movement Speed    |            70            |         RFX         |                   20                   |    Athletics    |                10                |
-| Fast 4-Legged Movement Speed |            65            |         RFX         |                   10                   |    Athletics    |                 5                 |
-|   4-Legged Movement Speed   |            50            |         RFX         |                   10                   |    Athletics    |                 5                 |
-|     4-Legged Swim Speed     |            15            |         STR         |                   5                   |    Athletics    |                 5                 |
-|     4-Legged Climb Speed     |            0            |         STR         |                   5                   |      Climb      |                 5                 |
+### Base Movement Speed
 
-### Using multiple Movement Speeds on the same round
+The base speed of this type of movement in combat.
+
+### RFX Speed
+
+Character with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in the **RFX**, the character gains/loses movement speed.
+
+RFX Bonus movement speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Bonus speed is used first on a characters turn, with lower RFX character considered to have not moved/acted yet.
+
+#### Example 1
+
+A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow, and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he is able to move 15 feet with his RFX Speed before the archer can loose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+
+The archer, now likely wounded from the rogue knife tries to use the rest of his movement speed to stay away from the rogue's knife range. However, the gap between the rogue and the archer is 0 feet as the rogues stays on the archer, assuming he has the same or greater remaining movement speed as the archer, ready to stab him again next round.
+
+#### Example 2
+
+A rogue with a dagger is trying to close the distance on an archer who is 20 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow, and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he is able to move 15 feet with his RFX Speed before the archer can loose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is loosed. The Rogue must now try and dodge the arrow, before he can attack, possible proving fatal.
+
+The archer is then able to flee backwards, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+
+#### Example 3
+
+A crappy rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow, and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which give the archer time to loose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possible proving fatal.
+
+The archer is then able to flee backwards as the rogue chases, keeping the 15 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
+
+#### Example 4
+
+A rogue with a dagger is trying to close the distance on an knight who is 15 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he is able to move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, the two roll their combat rolls versus one another.
+
+### Governing Skill
+
+The skill that represent the movement speed.
+
+### Feet Per Governing Skill Modifier
+
+The amount of feet gained/lost per dice of the governing skill dice pool, excluding the base 3 dice.
+
+### Using multiple Combat Movement Speeds on the same round
 
 Whenever a character needs to use multiple movement speeds in a round,  calculate what percentage of our total movement they've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
 
