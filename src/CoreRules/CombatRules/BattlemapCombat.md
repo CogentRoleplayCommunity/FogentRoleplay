@@ -6,16 +6,16 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 Different creatures get different movement speeds in combat.
 
-|         Description         | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
+|         Description          | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
 | :--------------------------: | :----------------------: | :-------------: | :------------------------------------: | :------------: |
-|   Humanoid Movement Speed   |            30            |    Athletics    |                   5                   |       10       |
-|     Humanoid Swim Speed     |            15            |    Athletics    |                   5                   |       5       |
-|     Humanoid Climb Speed     |            15            |      Climb      |                   5                   |       5       |
-|    Flight Movement Speed    |            70            |    Athletics    |                   10                   |       20       |
-| Fast 4-Legged Movement Speed |            65            |    Athletics    |                   5                   |       10       |
-|   4-Legged Movement Speed   |            50            |    Athletics    |                   5                   |       10       |
-|     4-Legged Swim Speed     |            15            |    Athletics    |                   5                   |       5       |
-|     4-Legged Climb Speed     |            0            |      Climb      |                   5                   |       5       |
+|   Humanoid Movement Speed    |            30            |    Athletics    |                   5                    |       10       |
+|     Humanoid Swim Speed      |            15            |    Athletics    |                   5                    |       5        |
+|     Humanoid Climb Speed     |            15            |      Climb      |                   5                    |       5        |
+|    Flight Movement Speed     |            70            |    Athletics    |                   10                   |       20       |
+| Fast 4-Legged Movement Speed |            65            |    Athletics    |                   5                    |       10       |
+|   4-Legged Movement Speed    |            50            |    Athletics    |                   5                    |       10       |
+|     4-Legged Swim Speed      |            15            |    Athletics    |                   5                    |       5        |
+|     4-Legged Climb Speed     |            0             |      Climb      |                   5                    |       5        |
 
 ### Base Movement Speed
 
@@ -77,11 +77,11 @@ Additionally, when a mounted character or their mount takes an injury in combat,
 
 ## Size
 
-|   Description   |          Effect          |
+|   Description   |          Effect           |
 | :-------------: | :-----------------------: |
 |    Tiny Size    | 2.5x2.5 ft on battle map. |
-|   Small Size   |   5x5 ft on battle map.   |
+|   Small Size    |   5x5 ft on battle map.   |
 |   Medium Size   |   5x5 ft on battle map.   |
-|   Large Size   |  10x10 ft on battle map.  |
+|   Large Size    |  10x10 ft on battle map.  |
 |    Huge Size    |  15x15 ft on battle map.  |
 | Gargantuan Size |  20x20 ft on battle map.  |
