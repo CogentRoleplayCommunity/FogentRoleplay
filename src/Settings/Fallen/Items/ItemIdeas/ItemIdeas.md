@@ -103,3 +103,9 @@ First Watch
 This is a magic shield that gives the user a +2 to perception.
 
 Moonshadow
+
+Hew sword for Falchion
+
+Added Net with 5/15 range
+
+Mancatcher

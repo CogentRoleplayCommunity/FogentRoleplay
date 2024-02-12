@@ -1,22 +1,20 @@
 ## Fogent Todo:
 - Fix Gun Ranges
 - Recalculate all movement speeds
+- Fix player characters Spears and magic ranges and monsters
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
 - Possible -1d6 nerf to all ranged weapons
 - Possible dedicated 1 handed swords
-- Hew sword for Falchion
 - Added Net with 5/15 range
 - Investigate reverse turn order
 - Shove for mental damage magic
-- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
-- Maybe have magic resource scale off level
+- Maybe have magic resource scale off of level
 - Should EO tick for each character engaged, or each character engaged and each character that engages them
 - Maybe add shields to generic magic
 
 ## Fallen To dos:
-- Fix player characters Spears and magic ranges and monsters
 - Remove NotMyImage and Copyright tags
 - Make Asclepius stat block, probably just a snake
 - Be super clear which races start with which Fellcraft
@@ -28,4 +26,4 @@
 - Write the Beast Of Reddwall
 - Add entangle spell
 - make videos about character making
-- Man Catcher
+- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
