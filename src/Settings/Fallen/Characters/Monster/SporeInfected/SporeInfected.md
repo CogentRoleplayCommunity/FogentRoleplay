@@ -16,7 +16,7 @@
 | Zombie {STR}     | 2 | 6d6 |
 | ---------------- | :-: | :-: |
 | Unarmed {STR, RFX, INT}    | 2 | 3d6 |
-| Small Bite {STR, RFX, INT} | 2 | 3d6 |
+| Weak Bite {STR, RFX, INT} | 2 | 3d6 |
 
 ## Effects
 
@@ -41,7 +41,7 @@
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |  Unarmed  |  2d6<br />(-1)  |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Small Bite | 3d6<br />(+0d6) |      +1d6      |       None       |      0      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
+| Weak Bite | 3d6<br />(+0d6) |      +1d6      |       None       |      0      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
 
 ## Equipment
 

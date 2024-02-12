@@ -15,7 +15,7 @@
 
 | Beast {STR, RFX}           | 1 | 5d6 |
 | -------------------------- | :-: | :-: |
-| Small Bite {STR, RFX, INT} | 0 | 3d6 |
+| Weak Bite {STR, RFX, INT} | 0 | 3d6 |
 | Horn {STR, RFX, INT}       | 1 | 4d6 |
 
 ## Effects
@@ -33,5 +33,5 @@
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Bite | 3d6<br />(+0d6) |      None      |       None       |      0      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+| Weak Bite | 3d6<br />(+0d6) |      None      |       None       |      0      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 |   Horns   |      None      | 4d6<br />(+1d6) |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
