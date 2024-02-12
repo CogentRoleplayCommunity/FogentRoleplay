@@ -1,25 +1,25 @@
 # Battle Map Combat
 
-Combat takes places on grided battle maps, with each square representing a 5 ft by 5 ft square.
+Combat takes place on grided battle maps, with each square representing a 5 ft by 5 ft square.
 
-## Movement
+## Combat Movement Speed
 
 Different creatures get different movements speeds in combat.
 
-|          Description          |                        Calculation                        |
-| :---------------------------: | :--------------------------------------------------------: |
-| Small Humanoid Movement Speed | 25 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|    Humanoid Movement Speed    | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|      Humanoid Swim Speed      |  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)  |
-|     Humanoid Climb Speed     |    15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
-|    4-Legged Movement Speed    | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|     4-Legged Swim Speed     | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
-|     4-Legged Climb Speed     |    0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
-| Fast 4-Legged Movement Speed | 65 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|         Flight Speed         | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
+- Each Combat Movement Speed has a **Base Movement Speed**.
+- For each positive/negative level in the **Governing Attributes**, the character gains/loses movement speed determined by **Feet Per Governing Attribute Lvl**.
+- For each skill point or other skill dice modification that effects the **Governing Skill**, the character gains/loses movement speed determined by **Feet Per Governing Skill Lvl**. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties or injuries).
 
-- If a creature has a positive/negative in the governing attribute, add/subtract the indicated distance.
-- If a creature has a positive/negative in the governing skill, add/subtract the indicated distance instead. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties or injuries).
+|         Description         | Base Movement Speed (ft) | Governing Attributes | Feet Per Governing<br /> Attribute Lvl | Governing Skill | Feet Per Governing<br />Skill Lvl |
+| :--------------------------: | :----------------------: | :------------------: | :------------------------------------: | :-------------: | :-------------------------------: |
+|   Humanoid Movement Speed   |            30            |         RFX         |                   10                   |    Athletics    |                 5                 |
+|     Humanoid Swim Speed     |            15            |         STR         |                   5                   |    Athletics    |                 5                 |
+|     Humanoid Climb Speed     |            15            |         STR         |                   5                   |      Climb      |                 5                 |
+|    Flight Movement Speed    |            70            |         RFX         |                   20                   |    Athletics    |                10                |
+| Fast 4-Legged Movement Speed |            65            |         RFX         |                   10                   |    Athletics    |                 5                 |
+|   4-Legged Movement Speed   |            50            |         RFX         |                   10                   |    Athletics    |                 5                 |
+|     4-Legged Swim Speed     |            15            |         STR         |                   5                   |    Athletics    |                 5                 |
+|     4-Legged Climb Speed     |            0            |         STR         |                   5                   |      Climb      |                 5                 |
 
 ### Using multiple Movement Speeds on the same round
 
