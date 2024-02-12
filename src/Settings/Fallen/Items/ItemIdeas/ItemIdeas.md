@@ -109,3 +109,5 @@ Hew sword for Falchion
 Added Net with 5/15 range
 
 Mancatcher
+
+Added Net with 5/15 range
