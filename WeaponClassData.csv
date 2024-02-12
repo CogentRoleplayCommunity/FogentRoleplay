@@ -50,14 +50,14 @@ Longspear,-2,+4d6,None,4,Reach,Pierce,Spear Rapid,None,None,"{STR,RFX,INT}"
 Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
 Claws,+1d6,None,+1d6,0,Melee,Slash,Rapid,None,None,"{STR,RFX,INT}"
-Bite,+1d6,+1d6,None,2,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
-Stomp,+0d6,+0d6,None,4,Melee,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
-Horns,+1d6,+1d6,None,2,Melee,Pierce,Rapid,None,None,"{STR,RFX,INT}"
+Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
+Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
+Horns,None,+1d6,None,2,Melee,Pierce,Rapid,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
-Large Claws,+2d6,None,+1d6,2,Melee,"Slash, Bludgeon",Rapid,None,None,"{STR,RFX,INT}"
-Large Bite,+2d6,+2d6,None,4,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
-Large Stomp,+1d6,+1d6,None,5,Melee,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
-Large Horns,+2d6,+1d6,None,3,Melee,Pierce,Rapid,None,None,
+Large Claws,+2d6,None,+1d6,0,Melee,"Slash, Bludgeon",Rapid,None,None,"{STR,RFX,INT}"
+Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
+Large Stomp,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
+Large Horns,None,+2d6,None,2,Melee,Pierce,Rapid,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
 Small Bite,+0d6,None,None,0,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
 9mm Pistol,+2d6,+2d6,+1d6,0,Medium,,Quick,None,9mm Ammo,"{STR,RFX,INT}"
