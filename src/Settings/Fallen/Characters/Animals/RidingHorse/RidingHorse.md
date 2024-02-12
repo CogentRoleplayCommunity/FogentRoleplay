@@ -6,7 +6,7 @@
 
 | STR       | 2 |    | RFX             | 0 |    | INT               | -1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 3 | 8d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
+| Athletics | 4 | 9d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 5d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 2 | 6d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
 | Lift      | 0 | 5d6 | Stealth         | 0 | 3d6 | Will              | 0 | 3d6 |
@@ -19,16 +19,16 @@
 
 ## Effects
 
-|             Name             |             Effect             | Duration |                                                       Source                                                       |
-| :--------------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|    Physical Defense Level    |                0                |          |                                                        Armor                                                        |
-|          Large Size          |     10x10 ft on battle map.     |          |                                                                                                                    |
-|       Equipment Weight       |              33 lb              |          |                                                      Equipment                                                      |
-|    4-Legged Carry Weight    |             520 lb             |          | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
-|         Light Weight         | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
-| 4-Legged Movement Speed |              75 ft              |          |                               65 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                               |
-|     4-Legged Swim Speed     |              30 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|     4-Legged Climb Speed     |              10 ft              |          |                                 0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                 |
+|          Name          |             Effect             | Duration |                                                       Source                                                       |
+| :---------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+| Physical Defense Level |                0                |          |                                                        Armor                                                        |
+|       Large Size       |     10x10 ft on battle map.     |          |                                                                                                                    |
+|    Equipment Weight    |              33 lb              |          |                                                      Equipment                                                      |
+| 4-Legged Carry Weight |             520 lb             |          | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
+|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
+| 4-Legged Movement Speed |              75 ft              |          |                              50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+|   4-Legged Swim Speed   |              30 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|  4-Legged Climb Speed  |              10 ft              |          |                                 0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                 |
 
 ## Combat Rolls
 

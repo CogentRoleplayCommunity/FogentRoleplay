@@ -6,7 +6,7 @@
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | -1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 2d6 |
+| Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 2d6 |
 | Climb     | 0 | 4d6 | Perception      | 2 | 5d6 | General Knowledge | -1 | 1d6 |
 | Endurance | 2 | 6d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 3d6 |
 | Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Will              | 1 | 3d6 |
@@ -36,7 +36,7 @@
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |   Stomp   | 4d6<br />(+0d6) |      None      |  5d6<br />(+1d6)  |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Weak Bite |      None      | 2d6<br />(-1) |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+| Weak Bite |      None      |  2d6<br />(-1)  |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 
 ## Equipment
 
