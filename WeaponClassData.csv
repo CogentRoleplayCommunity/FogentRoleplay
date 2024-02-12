@@ -49,7 +49,7 @@ Slashing Greatsword,-2,+4d6,None,3,Reach,Slash,Rapid,None,None,"{STR,RFX,INT}"
 Longspear,-2,+4d6,None,4,Reach,Pierce,Spear Rapid,None,None,"{STR,RFX,INT}"
 Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
-Weak Bite,+0d6,None,None,0,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
+Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
 Claws,+1d6,None,+1d6,0,Melee,Slash,Rapid,None,None,"{STR,RFX,INT}"
 Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
