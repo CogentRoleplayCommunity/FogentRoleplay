@@ -6,20 +6,28 @@ Combat takes place on grided battle maps, with each square representing a 5 ft b
 
 Different creatures get different movements speeds in combat.
 
-|         Description         | Base Movement Speed (ft) | RFX Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier |
-| :--------------------------: | :----------------------: | :------------: | :-------------: | :------------------------------------: |
-|   Humanoid Movement Speed   |            30            |       15       |    Athletics    |                   5                   |
-|     Humanoid Swim Speed     |            15            |       10       |    Athletics    |                   5                   |
-|     Humanoid Climb Speed     |            15            |       10       |      Climb      |                   5                   |
-|    Flight Movement Speed    |            70            |       25       |    Athletics    |                   10                   |
-| Fast 4-Legged Movement Speed |            65            |       15       |    Athletics    |                   5                   |
-|   4-Legged Movement Speed   |            50            |       15       |    Athletics    |                   5                   |
-|     4-Legged Swim Speed     |            15            |       10       |    Athletics    |                   5                   |
-|     4-Legged Climb Speed     |            0            |       10       |      Climb      |                   5                   |
+|         Description         | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
+| :--------------------------: | :----------------------: | :-------------: | :------------------------------------: | :------------: |
+|   Humanoid Movement Speed   |            30            |    Athletics    |                   5                   |       15       |
+|     Humanoid Swim Speed     |            15            |    Athletics    |                   5                   |       10       |
+|     Humanoid Climb Speed     |            15            |      Climb      |                   5                   |       10       |
+|    Flight Movement Speed    |            70            |    Athletics    |                   10                   |       25       |
+| Fast 4-Legged Movement Speed |            65            |    Athletics    |                   5                   |       15       |
+|   4-Legged Movement Speed   |            50            |    Athletics    |                   5                   |       15       |
+|     4-Legged Swim Speed     |            15            |    Athletics    |                   5                   |       10       |
+|     4-Legged Climb Speed     |            0            |      Climb      |                   5                   |       10       |
 
 ### Base Movement Speed
 
 The base speed of this type of movement in combat.
+
+### Governing Skill
+
+The skill that represent the movement speed.
+
+### Feet Per Governing Skill Modifier
+
+The amount of feet gained/lost per dice of the governing skill dice pool, excluding the base 3 dice. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.).
 
 ### RFX Speed
 
@@ -48,14 +56,6 @@ The archer is then able to flee backwards as the rogue chases, keeping the 15 fe
 #### Example 4
 
 A rogue with a dagger is trying to close the distance on an knight who is 15 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he is able to move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, the two roll their combat rolls versus one another.
-
-### Governing Skill
-
-The skill that represent the movement speed.
-
-### Feet Per Governing Skill Modifier
-
-The amount of feet gained/lost per dice of the governing skill dice pool, excluding the base 3 dice. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.).
 
 ### Using multiple Combat Movement Speeds on the same round
 
