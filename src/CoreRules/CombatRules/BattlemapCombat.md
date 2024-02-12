@@ -23,9 +23,9 @@ The base speed of this type of movement in combat.
 
 ### RFX Speed
 
-Character with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in the **RFX**, the character gains/loses movement speed.
+Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in the RFX, the character gains/loses movement speed.
 
-RFX Bonus movement speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Bonus speed is used first on a characters turn, with lower RFX character considered to have not moved/acted yet.
+RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Bonus speed is used first on a characters turn, with lower RFX character considered to have not moved/acted yet.
 
 #### Example 1
 
