@@ -62,9 +62,9 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|         Unarmed         | 4d6<br />(-1d6) | 4d6<br />(-1d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|         Unarmed         | 4d6<br />(-1) | 4d6<br />(-1) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 | Hand Protection Unarmed | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|   Large Hafted Blunt   | 5d6<br />(-1d6) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|   Large Hafted Blunt   | 5d6<br />(-1) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 |  Small Thrusting Point  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 |  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 

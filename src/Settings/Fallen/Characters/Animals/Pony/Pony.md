@@ -36,7 +36,7 @@
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |   Stomp   | 4d6<br />(+0d6) |      None      |  5d6<br />(+1d6)  |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Weak Bite |      None      | 2d6<br />(-1d6) |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+| Weak Bite |      None      | 2d6<br />(-1) |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 
 ## Equipment
 

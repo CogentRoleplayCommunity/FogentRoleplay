@@ -42,7 +42,7 @@
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |  Large Hafted Axe  | 5d6<br />(+0d6) | 8d6<br />(+3d6) |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        |
-| Large Hafted Blunt | 4d6<br />(-1d6) | 6d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Large Hafted Blunt | 4d6<br />(-1) | 6d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |

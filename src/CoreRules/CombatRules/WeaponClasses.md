@@ -92,7 +92,7 @@ To duel wield the character must have at least one proficiency point in both of 
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-|         Unarmed         |       -1d       |       -1d       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+|         Unarmed         |       -1       |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 | Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ## Small Weapons
@@ -164,7 +164,7 @@ To duel wield the character must have at least one proficiency point in both of 
 |  Large Hafted Axe  |      +0d6      |      +3d6      |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 | Large Hafted Blade |      +0d6      |      +3d6      |       None       |      2      | Melee |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 | Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      | Melee |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Large Hafted Blunt |       -1d       |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Large Hafted Blunt |       -1       |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ### Large sword
 
@@ -192,10 +192,10 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-|  Reach Hafted Axe  |       -2d       |      +4d6      |       None       |      3      | Reach |        Hew        |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Reach Hafted Blade |       -2d       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Reach Hafted Point |       -2d       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Reach Hafted Blunt |       -2d       |      +2d6      |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+|  Reach Hafted Axe  |       -1       |      +4d6      |       None       |      3      | Reach |        Hew        |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Reach Hafted Blade |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Reach Hafted Point |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Reach Hafted Blunt |       -1       |      +2d6      |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ### Greatsword
 
@@ -203,8 +203,8 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Thrusting Greatsword |       -2d       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Slashing Greatsword |       -2d       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Thrusting Greatsword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Slashing Greatsword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ### Longspear
 
@@ -212,7 +212,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Longspear |       -2d       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
+| Longspear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
 
 ### Exotic Reach
 
