@@ -69,7 +69,7 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 ## Mounted Combat Movement Speed
 
-When riding a mount in combat, the rider's Acrobatics skill replaces their mount's skill level for their movement speed calculation capped by the mount's original skill level.
+When riding a mount in combat, the rider's Acrobatics acts as the Governing Skill for their combined movement, with the resulting combat movement speed capped by the mount's normal combat movement speed.
 
 For instance, a Riding Horse has the Fast 4-Legged Movement Speed and a level 3 skill in Athletics. A level 3 in athletics would typically give +15 feet (80 feet total) of movement in combat. When his master, who has a level 0 in Acrobatics, decides to ride him, his master's level 0 in Acrobatics is used for their combined movement speed giving +0 feet (65 feet total) of movement in combat. However, when a master rider who has a level 4 in Acrobatics, is riding the horse, they still only gain +15 feet (80 feet total) since the rider's skill is capped by the horse level 3 in Athletics.
 
