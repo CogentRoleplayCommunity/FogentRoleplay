@@ -18,6 +18,8 @@ The amount of opponents a character can engage in a round is calculated below. I
 
 ## Set Engageable Opponents
 
+Set Engageable Opponents represent a set number of targets that can be engaged in a round.
+
 | Engageable Opponents Type | Engageable Opponents |
 | :-----------------------: | :------------------: |
 |             1             |          1          |
