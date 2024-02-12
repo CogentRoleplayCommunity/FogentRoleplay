@@ -23,3 +23,4 @@ Set Engageable Opponents represent a set number of targets that can be engaged i
 | Engageable Opponents Type | Engageable Opponents |
 | :-----------------------: | :------------------: |
 |             1             |          1          |
+|            ...            |                      |
