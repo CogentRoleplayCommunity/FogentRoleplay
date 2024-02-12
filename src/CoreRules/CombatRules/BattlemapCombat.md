@@ -63,6 +63,18 @@ Whenever a character needs to use multiple movement speeds in a round, calculate
 
 For example, if a character has 30 feet of "Humanoid Movement Speed" and 15 feet of "Humanoid Climb Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
 
+## Difficult Terrain
+
+Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
+
+## Mounted Combat Movement Speed
+
+When riding a mount in combat, the rider's Acrobatics skill replaces their mounts skill level for their movement speed calculation capped by the mounts original skill level.
+
+For instance, a Riding Horse has the Fast 4-Legged Movement Speed and a level 3 skill in Athletics. A level 3 in athletics would typically give +15 feet (80 feet total) of movement in combat. When his master, who has a level 0 in Acrobatics, decides to ride him, his masters level 0 in Acrobatics is used for their combined movement speed giving +0 feet (65 feet total) of movement in combat. However, when a master rider who has a level 4 in Acrobatics, is riding the horse, they still only gain +15 feet (80 feet total) since the rider's skill is capped by the horse level 3 in Athletics.
+
+Additionally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
+
 ## Size
 
 |   Description   |          Effect          |
@@ -73,15 +85,3 @@ For example, if a character has 30 feet of "Humanoid Movement Speed" and 15 feet
 |   Large Size   |  10x10 ft on battle map.  |
 |    Huge Size    |  15x15 ft on battle map.  |
 | Gargantuan Size |  20x20 ft on battle map.  |
-
-## Difficult Terrain
-
-Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
-
-## Mounts in combat
-
-When riding a mount in combat, the rider's Acrobatics skill replaces their mounts skill level for their movement speed calculation capped by the mounts original skill level.
-
-For instance, a Riding Horse has the Fast 4-Legged Movement Speed and a level 3 skill in Athletics. A level 3 in athletics would typically give +15 feet (80 feet total) of movement in combat. When his master, who has a level 0 in Acrobatics, decides to ride him, his masters level 0 in Acrobatics is used for their combined movement speed giving +0 feet (65 feet total) of movement in combat. However, when a master rider who has a level 4 in Acrobatics, is riding the horse, they still only gain +15 feet (80 feet total) since the rider's skill is capped by the horse level 3 in Athletics.
-
-Additionally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, else they are knocked off.
