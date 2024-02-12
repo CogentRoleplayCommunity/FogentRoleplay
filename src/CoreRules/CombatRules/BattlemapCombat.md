@@ -19,11 +19,11 @@ Different creatures get different movements speeds in combat.
 
 ### Base Movement Speed
 
-The base speed of this type of movement in combat.
+The base speed of the combat movement speed type.
 
 ### Governing Skill
 
-The skill that represent the movement speed.
+The skill that represent the combat movement speed in question.
 
 ### Feet Per Governing Skill Modifier
 
@@ -33,7 +33,7 @@ The amount of feet gained/lost per dice of the governing skill dice pool, exclud
 
 Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in the RFX, the character gains/loses movement speed.
 
-RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Bonus speed is used first on a characters turn, with lower RFX character considered to have not moved/acted yet. This rule take inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat roll would be disadvantageous for the ranged combatant as the are in melee reach.
+RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a characters turn, with lower RFX character considered to have not moved/acted yet. This rule take inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat roll would be disadvantageous for the ranged combatant as the are in melee reach.
 
 #### Example 1
 
