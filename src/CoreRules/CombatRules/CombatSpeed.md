@@ -4,6 +4,8 @@ Different creatures get different movement speeds in combat.
 
 ## Speed Types
 
+Combat Speeds each have a Speed Type, which determine how fast that particular combat speed is.
+
 |      Name      | Feet Per Governing Skill Dice | RFX Speed per RFX Level (ft) | Description                                                |
 | :-------------: | :---------------------------: | :--------------------------: | ---------------------------------------------------------- |
 | Extremely Slow |              2.5              |             2.5             | +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)   |
