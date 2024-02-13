@@ -26,7 +26,7 @@
 | Physical Defense Level |                        1                        |          |                       Natural Armor                       |
 |       Large Size       |             10x10 ft on battle map.             |          |                                                          |
 |    Language: Primal    |                Can speak Primal.                |          |                                                          |
-| Movement Speed |                      50 ft                      |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+| Terrestrial Speed |                      50 ft                      |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |  4-Legged Swim Speed  |                      30 ft                      |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
 |  Climb Speed  |                      35 ft                      |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
 

@@ -6,6 +6,8 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 Different creatures get different movement speeds in combat.
 
+### Movement 
+
 |      Name      | Per Governing Skill Dice (ft) | Per RFX Level (ft) | Description                                                |
 | :-------------: | :---------------------------: | :-----------------: | ---------------------------------------------------------- |
 | Extremely Slow |              2.5              |         2.5         | +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)   |
@@ -19,22 +21,11 @@ Different creatures get different movement speeds in combat.
 
 |     Description     | Governing Skill |   Speed Type   |                      Description                      |
 | :------------------: | :-------------: | :------------: | :----------------------------------------------------: |
-|    Movement Speed    |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
+|  Terrestrial Speed  |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
 |      Swim Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
 |     Climb Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
 |     Flight Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 | 4-Hooved Climb Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
-
-|          Description          |                             Calculation                             |
-| :---------------------------: | :-----------------------------------------------------------------: |
-| Movement Speed |          +10 ft (per Athletics Dice), +/-10 ft (per RFX)          |
-|    Movement Speed    |          +10 ft (per Athletics Dice), +/-10 ft (per RFX)          |
-|      Swim Speed      |           +5 ft (per Athletics Dice), +/-5 ft (per RFX)           |
-|     Climb Speed     |             +5 ft (per Climb Dice), +/-5 ft (per RFX)             |
-|    Movement Speed    |          +10 ft (per Athletics Dice), +/-10 ft (per RFX)          |
-|     Swim Speed     |           +5 ft (per Athletics Dice), +/-5 ft (per RFX)           |
-|     4-Hooved Climb Speed     |    +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)    |
-|         Flight Speed         | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ### Base Movement Speed
 
