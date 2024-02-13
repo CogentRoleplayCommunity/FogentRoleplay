@@ -6,16 +6,35 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 Different creatures get different movement speeds in combat.
 
-|             Name             | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
-| :---------------------------: | :----------------------: | :-------------: | :------------------------------------: | :------------: |
-| Small Humanoid Movement Speed |            25            |    Athletics    |                   5                   |       10       |
-|    Humanoid Movement Speed    |            30            |    Athletics    |                   5                   |       10       |
-|      Humanoid Swim Speed      |            15            |    Athletics    |                   5                   |       5       |
-|     Humanoid Climb Speed     |            15            |      Climb      |                   5                   |       5       |
-|     Flight Movement Speed     |            50            |    Athletics    |                   10                   |       15       |
-|    4-Legged Movement Speed    |            50            |    Athletics    |                   5                   |       10       |
-|      4-Legged Swim Speed      |            15            |    Athletics    |                   5                   |       5       |
-|     4-Hooved Climb Speed     |            0            |      Climb      |                   5                   |       5       |
+|      Name      | Per Governing Skill Dice (ft) | Per RFX Level (ft) | Description                                                |
+| :-------------: | :---------------------------: | :-----------------: | ---------------------------------------------------------- |
+| Extremely Slow |              2.5              |         2.5         | +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)   |
+|    Very Slow    |               5               |          5          | +5 ft (per Governing Skill Dice), +/-5 ft (per RFX)       |
+|      Slow      |              7.5              |         7.5         | +7.5 ft (per Governing Skill Dice), +/-7.5 ft (per RFX)   |
+|     Medium     |              10              |         10         | +10 ft (per Governing Skill Dice), +/-10 ft (per RFX)     |
+| Moderately Fast |             12.5             |        12.5        | +12.5 ft (per Governing Skill Dice), +/-12.5 ft (per RFX) |
+|      Fast      |              15              |         15         | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX)     |
+|    Very Fast    |              20              |         20         | +20 ft (per Governing Skill Dice), +/-20 ft (per RFX)    |
+| Extremely Fast |              25              |         25         | +25 ft (per Governing Skill Dice), +/-25 ft (per RFX)     |
+
+|     Description     | Governing Skill |   Speed Type   |                      Description                      |
+| :------------------: | :-------------: | :------------: | :----------------------------------------------------: |
+|    Movement Speed    |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
+|      Swim Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
+|     Climb Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
+|     Flight Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
+| 4-Hooved Climb Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
+
+|          Description          |                             Calculation                             |
+| :---------------------------: | :-----------------------------------------------------------------: |
+| Movement Speed |          +10 ft (per Athletics Dice), +/-10 ft (per RFX)          |
+|    Movement Speed    |          +10 ft (per Athletics Dice), +/-10 ft (per RFX)          |
+|      Swim Speed      |           +5 ft (per Athletics Dice), +/-5 ft (per RFX)           |
+|     Climb Speed     |             +5 ft (per Climb Dice), +/-5 ft (per RFX)             |
+|    Movement Speed    |          +10 ft (per Athletics Dice), +/-10 ft (per RFX)          |
+|     Swim Speed     |           +5 ft (per Athletics Dice), +/-5 ft (per RFX)           |
+|     4-Hooved Climb Speed     |    +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)    |
+|         Flight Speed         | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ### Base Movement Speed
 
@@ -61,7 +80,7 @@ A rogue with a dagger is trying to close the distance on a knight who is 10 feet
 
 Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of our total movement they've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
 
-For example, if a character has 30 feet of "Humanoid Movement Speed" and 15 feet of "Humanoid Climb Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
+For example, if a character has 30 feet of "Movement Speed" and 15 feet of "Climb Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
 
 ## Difficult Terrain
 

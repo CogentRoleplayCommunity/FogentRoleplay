@@ -4,7 +4,7 @@ Character grows wings and gains the Flight Speed effect.
 
 | Description |                      Calculation                      |
 | :----------: | :---------------------------------------------------: |
-| Flight Speed | 50 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
+| Flight Speed | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ## Info
 

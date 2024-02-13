@@ -26,9 +26,9 @@
 |       Equipment Weight       |              33 lb              |          |                                                      Equipment                                                      |
 |    4-Legged Carry Weight    |             880 lb             |          | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight         | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
-| 4-Legged Movement Speed |              70 ft              |          |                               50 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX)                               |
-|     4-Legged Swim Speed     |              35 ft              |          |                              30 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)                              |
-|     4-Hooved Climb Speed     |              15 ft              |          |                                 0 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)                                 |
+| Movement Speed |              70 ft              |          |                               +10 ft (per Athletics Dice), +/-10 ft (per RFX)                               |
+|     4-Legged Swim Speed     |              35 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
+|     4-Hooved Climb Speed     |              15 ft              |          |                                 +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)                                 |
 
 ## Combat Rolls
 

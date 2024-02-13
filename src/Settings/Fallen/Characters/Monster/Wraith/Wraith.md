@@ -28,7 +28,7 @@
 |            Physical Defense Level            |                                         0                                          |          |                         Armor                         |
 |                 Medium Size                  |                               5x5 ft on battle map.                                |          |                                                       |
 |                 Language: ?                  |                        Can speak languages it knew in life.                        |          |                                                       |
-|            Flight Movement Speed             |                                       90 ft                                        |          | 50 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
+|            Flight Movement Speed             |                                       90 ft                                        |          | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ## Combat Rolls
 

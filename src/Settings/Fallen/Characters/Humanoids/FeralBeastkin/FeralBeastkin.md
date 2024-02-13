@@ -32,9 +32,9 @@
 |    Equipment Weight     |                                                            30 lb                                                             |          |                                                    Equipment                                                     |
 |  Humanoid Carry Weight  |                                                            220 lb                                                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight       |                                               -0d6 to STR/RFX governed skills                                                |          |                                             0% - 25% of carry weight                                             |
-| Humanoid Movement Speed |                                                            40 ft                                                             |          |                            30 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX)                             |
-|   Humanoid Swim Speed   |                                                            25 ft                                                             |          |                             30 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)                             |
-|  Humanoid Climb Speed   |                                                            25 ft                                                             |          |                               15 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)                               |
+| Movement Speed |                                                            40 ft                                                             |          |                            +10 ft (per Athletics Dice), +/-10 ft (per RFX)                             |
+|   Swim Speed   |                                                            25 ft                                                             |          |                             +5 ft (per Athletics Dice), +/-5 ft (per RFX)                             |
+|  Climb Speed   |                                                            25 ft                                                             |          |                               +5 ft (per Climb Dice), +/-5 ft (per RFX)                               |
 
 ## Combat Rolls:
 
