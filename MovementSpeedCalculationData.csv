@@ -1,6 +1,6 @@
 desc,baseMovementSpeed,governingSkill,feetPerSkillModifier,rfxSpeed
-Terrestrial Speed,30,Athletics,5,10
-Swim Speed,15,Athletics,5,5
-Climb Speed,15,Climb,5,5
-Flight Speed,50,Athletics,10,15
-4-Hooved Climb Speed,0,Climb,5,5
+Terrestrial Combat Speed,30,Athletics,5,10
+Swim Combat Speed,15,Athletics,5,5
+Climb Combat Speed,15,Climb,5,5
+Flight Combat Speed,50,Athletics,10,15
+4-Hooved Climb Combat Speed,0,Climb,5,5
