@@ -1,10 +1,10 @@
 # Manifest Wings
 
-Character grows wings and gains the Flight Speed effect.
+Character grows wings and gains the Flight Combat Speed effect.
 
 | Description |                      Calculation                      |
 | :----------: | :---------------------------------------------------: |
-| Flight Speed | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
+| Flight Combat Speed | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ## Info
 

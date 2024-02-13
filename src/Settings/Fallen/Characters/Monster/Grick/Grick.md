@@ -30,9 +30,9 @@
 |         Physical Defense Level         |                                                              2                                                              |          |                       Natural Armor                       |
 |              Medium Size              |                                                    5x5 ft on battle map.                                                    |          |                                                          |
 |              Dark Vision              | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                    Feral Fellkin Blood                    |
-|        Terrestrial Speed        |                                                            40 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|          Swim Speed          |                                                            20 ft                                                            |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
-|          Climb Speed          |                                                            20 ft                                                            |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
+|        Terrestrial Combat Speed        |                                                            40 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          Swim Combat Speed          |                                                            20 ft                                                            |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
+|          Climb Combat Speed          |                                                            20 ft                                                            |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
 
 ## Combat Rolls
 

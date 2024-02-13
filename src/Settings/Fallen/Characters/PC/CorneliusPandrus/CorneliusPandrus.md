@@ -33,9 +33,9 @@
 |    Equipment Weight    |                         11 lb                         |          |                                                      Equipment                                                      |
 | Humanoid Carry Weight |                         70 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
-|     Terrestrial Speed     |                         20 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
-|       Swim Speed       |                         10 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
-|      Climb Speed      |                         10 ft                         |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
+|     Terrestrial Combat Speed     |                         20 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
+|       Swim Combat Speed       |                         10 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
+|      Climb Combat Speed      |                         10 ft                         |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
 
 ## Combat Rolls:
 

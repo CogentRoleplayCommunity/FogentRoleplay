@@ -2,11 +2,11 @@
 
 Combat takes place on gridded battle maps, with each square representing a 5 ft by 5 ft square.
 
-## Combat Movement Speed
+## Combat Speed
 
 Different creatures get different movement speeds in combat.
 
-### Movement 
+### Movement
 
 |      Name      | Per Governing Skill Dice (ft) | Per RFX Level (ft) | Description                                                |
 | :-------------: | :---------------------------: | :-----------------: | ---------------------------------------------------------- |
@@ -21,11 +21,11 @@ Different creatures get different movement speeds in combat.
 
 |     Description     | Governing Skill |   Speed Type   |                      Description                      |
 | :------------------: | :-------------: | :------------: | :----------------------------------------------------: |
-|  Terrestrial Speed  |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
-|      Swim Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
-|     Climb Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
-|     Flight Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
-| 4-Hooved Climb Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
+|  Terrestrial Combat Speed  |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
+|      Swim Combat Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
+|     Climb Combat Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
+|     Flight Combat Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
+| 4-Hooved Climb Combat Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
 
 ### Base Movement Speed
 
@@ -71,7 +71,7 @@ A rogue with a dagger is trying to close the distance on a knight who is 10 feet
 
 Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of our total movement they've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
 
-For example, if a character has 30 feet of "Movement Speed" and 15 feet of "Climb Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
+For example, if a character has 30 feet of "Movement Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
 
 ## Difficult Terrain
 

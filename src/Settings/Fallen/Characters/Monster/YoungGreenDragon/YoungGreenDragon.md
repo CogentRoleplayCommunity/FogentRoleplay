@@ -31,9 +31,9 @@
 | Complete Poison Resistance |                                      Negate victory levels received from  Poison damage.                                      |          |                     Draconic bloodline                     |
 |        Dark Vision        | Within 120 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                     Draconic bloodline                     |
 |         Blindsight         |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                     Draconic bloodline                     |
-|  Terrestrial Speed  |                                                             55 ft                                                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    4-Legged Swim Speed    |                                                             35 ft                                                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|        Flight Speed        |                                                             80 ft                                                             |          | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
+|  Terrestrial Combat Speed  |                                                             55 ft                                                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    4-Legged Swim Combat Speed    |                                                             35 ft                                                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|        Flight Combat Speed        |                                                             80 ft                                                             |          | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ## Combat Rolls:
 

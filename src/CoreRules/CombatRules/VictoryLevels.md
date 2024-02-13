@@ -59,7 +59,7 @@ Opponent gains the [Prone](./Conditions.md#prone) condition.
 
 A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They are able to regain their footing and remove the Prone condition at the end of the round they were getting up.
 
-Instead of getting up, a character can remain prone and crawl. They use their climb speed to crawl instead of their movement speed.
+Instead of getting up, a character can remain prone and crawl. They use their Climb Combat Speed to crawl instead of their movement speed.
 
 ## Level 4 Victory
 

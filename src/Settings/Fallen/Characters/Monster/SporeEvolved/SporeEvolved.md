@@ -25,9 +25,9 @@
 |   Minor Fire Weakness   |  +1 to the level of injury<br />received from Fire damage.  |          |                                                          |
 | Physical Defense Level  |                               0                               |          |                          Armor                           |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                          |
-| Terrestrial Speed |                             35 ft                             |          |  +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
-|   Swim Speed   |                             20 ft                             |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
-|  Climb Speed   |                             20 ft                             |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
+| Terrestrial Combat Speed |                             35 ft                             |          |  +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
+|   Swim Combat Speed   |                             20 ft                             |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
+|  Climb Combat Speed   |                             20 ft                             |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
 
 ## Combat Rolls
 
