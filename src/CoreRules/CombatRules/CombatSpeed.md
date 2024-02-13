@@ -1,43 +1,27 @@
-# Battle Map Combat
-
-Combat takes place on gridded battle maps, with each square representing a 5 ft by 5 ft square.
-
-## Combat Speed
+# Combat Speed
 
 Different creatures get different movement speeds in combat.
 
-### Movement
+## Speed Types
 
-|      Name      | Per Governing Skill Dice (ft) | Per RFX Level (ft) | Description                                                |
-| :-------------: | :---------------------------: | :-----------------: | ---------------------------------------------------------- |
-| Extremely Slow |              2.5              |         2.5         | +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)   |
-|    Very Slow    |               5               |          5          | +5 ft (per Governing Skill Dice), +/-5 ft (per RFX)       |
-|      Slow      |              7.5              |         7.5         | +7.5 ft (per Governing Skill Dice), +/-7.5 ft (per RFX)   |
-|     Medium     |              10              |         10         | +10 ft (per Governing Skill Dice), +/-10 ft (per RFX)     |
-| Moderately Fast |             12.5             |        12.5        | +12.5 ft (per Governing Skill Dice), +/-12.5 ft (per RFX) |
-|      Fast      |              15              |         15         | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX)     |
-|    Very Fast    |              20              |         20         | +20 ft (per Governing Skill Dice), +/-20 ft (per RFX)    |
-| Extremely Fast |              25              |         25         | +25 ft (per Governing Skill Dice), +/-25 ft (per RFX)     |
-
-|     Description     | Governing Skill |   Speed Type   |                      Description                      |
-| :------------------: | :-------------: | :------------: | :----------------------------------------------------: |
-|  Terrestrial Combat Speed  |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
-|      Swim Combat Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
-|     Climb Combat Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
-|     Flight Combat Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
-| 4-Hooved Climb Combat Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
-
-### Base Movement Speed
-
-The base speed of the combat movement speed type.
+|      Name      | Feet Per Governing Skill Dice | RFX Speed per RFX Level (ft) | Description                                                |
+| :-------------: | :---------------------------: | :--------------------------: | ---------------------------------------------------------- |
+| Extremely Slow |              2.5              |             2.5             | +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)   |
+|    Very Slow    |               5               |              5              | +5 ft (per Governing Skill Dice), +/-5 ft (per RFX)       |
+|      Slow      |              7.5              |             7.5             | +7.5 ft (per Governing Skill Dice), +/-7.5 ft (per RFX)   |
+|     Medium     |              10              |              10              | +10 ft (per Governing Skill Dice), +/-10 ft (per RFX)     |
+| Moderately Fast |             12.5             |             12.5             | +12.5 ft (per Governing Skill Dice), +/-12.5 ft (per RFX) |
+|      Fast      |              15              |              15              | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX)     |
+|    Very Fast    |              20              |              20              | +20 ft (per Governing Skill Dice), +/-20 ft (per RFX)    |
+| Extremely Fast |              25              |              25              | +25 ft (per Governing Skill Dice), +/-25 ft (per RFX)     |
 
 ### Governing Skill
 
-The skill that represents the combat movement speed in question.
+The skill that represents the combat speed in question.
 
-### Feet Per Governing Skill Modifier
+### Feet Per Governing Skill Dice
 
-The number of feet gained/lost per dice of the governing skill dice pool, excluding the base 3 dice. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.).
+The number of feet gained/lost per dice of the governing skill dice pool. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.). If the resulting number isn't a multiple of 5, round down to the nearest mutiple of 5.
 
 ### RFX Speed
 
@@ -67,29 +51,30 @@ The archer is then able to flee backward as the rogue chases, keeping the 10 fee
 
 A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, the two roll their combat rolls versus one another.
 
-### Using multiple Combat Movement Speeds on the same round
+## Combat Speeds
+
+Using the speed types above, we can construct Combat Speeds for specific types of movement such as running, swim, climb, etc.
+
+|         Description         | Governing Skill |   Speed Type   |                      Description                      |
+| :-------------------------: | :-------------: | :------------: | :----------------------------------------------------: |
+|  Terrestrial Combat Speed  |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
+|      Swim Combat Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
+|     Climb Combat Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
+|     Flight Combat Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
+| 4-Hooved Climb Combat Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
+
+### Using multiple Combat Speeds on the same round
 
 Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of our total movement they've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
 
-For example, if a character has 30 feet of "Movement Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
+For example, if a character has 30 feet of "Terrestrial Combat Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
 
 ## Difficult Terrain
 
 Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It takes twice the movement to move through these terrains.
 
-## Mounted Combat Movement Speed
+## Mounted Combat Speed
 
-When riding a mount in combat, the rider's Acrobatics acts as the Governing Skill for their combined movement, with the resulting combat movement speed capped by the mount's normal combat movement speed.
+When riding a mount in combat, the rider's Acrobatics acts as the Governing Skill for their combined movement, with the resulting combat speed capped by the mount's normal combat speed.
 
 Additionally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
-
-## Size
-
-|   Description   |          Effect          |
-| :-------------: | :-----------------------: |
-|    Tiny Size    | 2.5x2.5 ft on battle map. |
-|   Small Size   |   5x5 ft on battle map.   |
-|   Medium Size   |   5x5 ft on battle map.   |
-|   Large Size   |  10x10 ft on battle map.  |
-|    Huge Size    |  15x15 ft on battle map.  |
-| Gargantuan Size |  20x20 ft on battle map.  |
