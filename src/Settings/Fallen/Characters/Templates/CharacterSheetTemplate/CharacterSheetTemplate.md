@@ -22,32 +22,31 @@
 
 ## Effects
 
-|          Name          |                         Effect                         | Duration |                                                       Source                                                       |
-| :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
-| Physical Defense Level |                           0                           |          |                                                        Armor                                                        |
-|       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
-|   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
-|        Language:        |                      Can speak .                      |          |                                                                                                                    |
-|       Disabling:       |                                                        |          |                                                                                                                    |
-|       Disabling:       |                                                        |          |                                                                                                                    |
-|    Equipment Weight    |                         0 lb                         |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                         30 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |                         15 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |                         15 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|              Name              |                         Effect                         | Duration |                                                       Source                                                       |
+| :-----------------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|      Minor Silver Weakness      | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+|     Physical Defense Level     |                           0                           |          |                                                        Armor                                                        |
+|           Medium Size           |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|       Language: Babelish       |                  Can speak Babelish.                  |          |                                                                                                                    |
+|            Language:            |                      Can speak .                      |          |                                                                                                                    |
+|           Disabling:           |                                                        |          |                                                                                                                    |
+|           Disabling:           |                                                        |          |                                                                                                                    |
+|        Equipment Weight        |                         0 lb                         |          |                                                      Equipment                                                      |
+|      Humanoid Carry Weight      |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|          Light Weight          |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+|     Humanoid Movement Speed     |                         30 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
+| Terrestrial Creature Swim Speed |                         15 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
+|      Humanoid Climb Speed      |                         15 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
 
-|          Description          |                        Calculation                        |
-| :---------------------------: | :--------------------------------------------------------: |
-| Small Humanoid Movement Speed | 25 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|    Humanoid Movement Speed    | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|      Humanoid Swim Speed      |  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)  |
-|     Humanoid Climb Speed     |    15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
-|    4-Legged Movement Speed    | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|     4-Legged Swim Speed     | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
-|     4-Legged Climb Speed     |    0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
-|         Flight Speed         | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
+|           Description           |                        Calculation                        |
+| :-----------------------------: | :--------------------------------------------------------: |
+|  Small Humanoid Movement Speed  | 25 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
+|     Humanoid Movement Speed     | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
+| Terrestrial Creature Swim Speed |  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)  |
+|      Humanoid Climb Speed      |    15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
+|     4-Legged Movement Speed     | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
+|      4-Legged Climb Speed      |    0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
+|          Flight Speed          | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
 
 ## Combat Rolls
 

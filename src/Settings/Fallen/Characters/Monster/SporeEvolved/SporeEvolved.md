@@ -26,7 +26,7 @@
 | Physical Defense Level  |                               0                               |          |                          Armor                           |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                          |
 | Humanoid Movement Speed |                             35 ft                             |          |  30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)   |
-|   Humanoid Swim Speed   |                             20 ft                             |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
+|   Terrestrial Creature Swim Speed   |                             20 ft                             |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
 |  Humanoid Climb Speed   |                             20 ft                             |          |   15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)   |
 
 ## Combat Rolls
