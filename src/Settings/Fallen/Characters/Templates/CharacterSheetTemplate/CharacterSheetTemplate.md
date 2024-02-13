@@ -34,20 +34,20 @@
 |    Equipment Weight    |                         0 lb                         |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                         30 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |                         15 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |                         15 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+| Humanoid Movement Speed |                         30 ft                         |          |                              30 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX)                              |
+|   Humanoid Swim Speed   |                         15 ft                         |          |                              15 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)                              |
+|  Humanoid Climb Speed  |                         15 ft                         |          |                                15 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)                                |
 
 |          Description          |                        Calculation                        |
 | :---------------------------: | :--------------------------------------------------------: |
-| Small Humanoid Movement Speed | 25 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|    Humanoid Movement Speed    | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|      Humanoid Swim Speed      |  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)  |
-|     Humanoid Climb Speed     |    15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
-|    4-Legged Movement Speed    | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|     4-Legged Swim Speed     | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
-|     4-Legged Climb Speed     |    0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
-|         Flight Speed         | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
+| Small Humanoid Movement Speed | 25 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX) |
+|    Humanoid Movement Speed    | 30 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX) |
+|      Humanoid Swim Speed      |  30 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)  |
+|     Humanoid Climb Speed     |    15 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)    |
+|    4-Legged Movement Speed    | 50 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX) |
+|     4-Legged Swim Speed     | 15 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX) |
+|     4-Legged Climb Speed     |    0 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)    |
+|         Flight Speed         | 70 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
 
 ## Combat Rolls
 

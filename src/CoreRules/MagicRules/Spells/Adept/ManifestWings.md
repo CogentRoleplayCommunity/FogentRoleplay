@@ -4,7 +4,7 @@ Character grows wings and gains the Flight Speed effect.
 
 | Description |                      Calculation                      |
 | :----------: | :---------------------------------------------------: |
-| Flight Speed | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
+| Flight Speed | 70 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
 
 ## Info
 

@@ -27,9 +27,9 @@
 |    Equipment Weight    |              69 lb              |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |             160 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
 |      Medium Weight      | -1d6 to STR/RFX governed skills |          |                                              25% - 50% of carry weight                                              |
-| Humanoid Movement Speed |              25 ft              |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |              10 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |              10 ft              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+| Humanoid Movement Speed |              25 ft              |          |                              30 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX)                              |
+|   Humanoid Swim Speed   |              10 ft              |          |                              30 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)                              |
+|  Humanoid Climb Speed  |              10 ft              |          |                                15 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)                                |
 
 ## Combat Rolls
 
