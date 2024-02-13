@@ -1,7 +1,8 @@
 desc,baseMovementSpeed,governingAttributes,feetPerAttributeLvl,governingSkill,feetPerSkillLvl
 Humanoid Movement Speed,30,RFX,10,Athletics,5
-Terrestrial Creature Swim Speed,15,STR,5,Athletics,5
+Humanoid Swim Speed,15,STR,5,Athletics,5
 Humanoid Climb Speed,15,STR,5,Climb,5
 Flight Movement Speed,70,RFX,20,Athletics,10
 4-Legged Movement Speed,50,RFX,10,Athletics,5
+4-Legged Swim Speed,15,STR,5,Athletics,5
 4-Legged Climb Speed,0,STR,5,Climb,5
