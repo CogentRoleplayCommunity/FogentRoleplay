@@ -33,7 +33,7 @@
 |         Blindsight         |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                     Draconic bloodline                     |
 |  4-Legged Movement Speed  |                                                             55 ft                                                             |          | 50 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX) |
 |    4-Legged Swim Speed    |                                                             35 ft                                                             |          |  30 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)  |
-|        Flight Speed        |                                                             80 ft                                                             |          | 70 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
+|        Flight Speed        |                                                             80 ft                                                             |          | 50 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
 
 ## Combat Rolls:
 

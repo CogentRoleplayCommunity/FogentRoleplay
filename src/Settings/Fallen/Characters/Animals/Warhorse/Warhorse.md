@@ -28,7 +28,7 @@
 |         Light Weight         | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
 | 4-Legged Movement Speed |              80 ft              |          |                               50 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX)                               |
 |     4-Legged Swim Speed     |              45 ft              |          |                              15 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX)                              |
-|     4-Legged Climb Speed     |              15 ft              |          |                                 0 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)                                 |
+|     4-Hooved Climb Speed     |              15 ft              |          |                                 0 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)                                 |
 
 ## Combat Rolls
 

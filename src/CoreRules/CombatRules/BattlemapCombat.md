@@ -6,16 +6,16 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 Different creatures get different movement speeds in combat.
 
-|       Description       | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
-| :---------------------: | :----------------------: | :-------------: | :------------------------------------: | :------------: |
-| Humanoid Movement Speed |            30            |    Athletics    |                   5                   |       10       |
-|   Humanoid Swim Speed   |            15            |    Athletics    |                   5                   |       5       |
-|  Humanoid Climb Speed  |            15            |      Climb      |                   5                   |       5       |
-|  Flight Movement Speed  |            70            |    Athletics    |                   10                   |       20       |
-| 4-Legged Movement Speed |            65            |    Athletics    |                   5                   |       10       |
-| 4-Legged Movement Speed |            50            |    Athletics    |                   5                   |       10       |
-|   4-Legged Swim Speed   |            15            |    Athletics    |                   5                   |       5       |
-|  4-Legged Climb Speed  |            0            |      Climb      |                   5                   |       5       |
+|          Description          | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
+| :---------------------------: | :----------------------: | :-------------: | :------------------------------------: | :------------: |
+| Small Humanoid Movement Speed |            25            |    Athletics    |                   5                   |       10       |
+|    Humanoid Movement Speed    |            30            |    Athletics    |                   5                   |       10       |
+|      Humanoid Swim Speed      |            15            |    Athletics    |                   5                   |       5       |
+|     Humanoid Climb Speed     |            15            |      Climb      |                   5                   |       5       |
+|     Flight Movement Speed     |            50            |    Athletics    |                   10                   |       15       |
+|    4-Legged Movement Speed    |            50            |    Athletics    |                   5                   |       10       |
+|      4-Legged Swim Speed      |            15            |    Athletics    |                   5                   |       5       |
+|     4-Hooved Climb Speed     |            0            |      Climb      |                   5                   |       5       |
 
 ### Base Movement Speed
 

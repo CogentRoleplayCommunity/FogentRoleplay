@@ -46,8 +46,8 @@
 |     Humanoid Climb Speed     |    15 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)    |
 |    4-Legged Movement Speed    | 50 ft (Base), +/-5 ft (per Athletics Modifier), +/-10 ft (per RFX) |
 |     4-Legged Swim Speed     | 15 ft (Base), +/-5 ft (per Athletics Modifier), +/-5 ft (per RFX) |
-|     4-Legged Climb Speed     |    0 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)    |
-|         Flight Speed         | 70 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
+|     4-Hooved Climb Speed     |    0 ft (Base), +/-5 ft (per Climb Modifier), +/-5 ft (per RFX)    |
+|         Flight Speed         | 50 ft (Base), +/-10 ft (per Athletics Modifier), +/-15 ft (per RFX) |
 
 ## Combat Rolls
 
