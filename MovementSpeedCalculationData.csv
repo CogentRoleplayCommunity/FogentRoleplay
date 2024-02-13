@@ -1,9 +1,9 @@
 desc,baseMovementSpeed,governingSkill,feetPerSkillModifier,rfxSpeed
-Small Humanoid Movement Speed,25,Athletics,5,10
-Humanoid Movement Speed,30,Athletics,5,10
-Humanoid Swim Speed,15,Athletics,5,5
-Humanoid Climb Speed,15,Climb,5,5
+Movement Speed,25,Athletics,5,10
+Movement Speed,30,Athletics,5,10
+Swim Speed,15,Athletics,5,5
+Climb Speed,15,Climb,5,5
 Flight Movement Speed,50,Athletics,10,15
-4-Legged Movement Speed,50,Athletics,5,10
+Movement Speed,50,Athletics,5,10
 4-Legged Swim Speed,15,Athletics,5,5
 4-Hooved Climb Speed,0,Climb,5,5
