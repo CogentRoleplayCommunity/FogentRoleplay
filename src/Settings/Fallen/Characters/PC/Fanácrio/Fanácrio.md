@@ -4,76 +4,76 @@
 
 ## Attributes and Core Skills
 
-| STR       |   0   |       | RFX             |   0   |       | INT               |   2   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   0   |  3d6  | Acrobatics      |   0   |  3d6  | Communication     |   2   |  7d6  |
-| Climb     |   0   |  3d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  7d6  |
-| Endurance |   1   |  4d6  | Sleight of Hand |   0   |  3d6  | Survival          |   1   |  6d6  |
-| Lift      |   0   |  3d6  | Stealth         |   0   |  3d6  | Will         |  -1   |  4d6  |
+| STR       | 0 |    | RFX             | 0 |    | INT               | 2 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 0 | 3d6 | Acrobatics      | 0 | 3d6 | Communication     | 2 | 7d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 7d6 |
+| Endurance | 1 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 6d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Will              | -1 | 4d6 |
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT}   |   3   |  8d6  | Royal Morraki {INT} | 0   | 5d6 |
-| --------------- | :---: | :---: | ------------------- | --- | --- |
-| Mindcraft {STR, RFX, INT} |   3   |  8d6  | Medium Hafted       | 0   | 5d6 |
-| Sonocraft {STR, RFX, INT} |   3   |  8d6  |                     |     |     |
-| Polycraft {STR, RFX, INT} |   1   |  6d6  |                     |     |     |
-| Galecraft {STR, RFX, INT} |   0   |  5d6  |                     |     |     |
+| Fellcaster {STR, RFX, INT} | 3 | 8d6 | Royal Morraki {INT} | 0 | 5d6 |
+| -------------------------- | :-: | :-: | ------------------- | - | --- |
+| Mindcraft {STR, RFX, INT}  | 3 | 8d6 | Medium Hafted       | 0 | 5d6 |
+| Sonocraft {STR, RFX, INT}  | 3 | 8d6 |                     |   |     |
+| Polycraft {STR, RFX, INT}  | 1 | 6d6 |                     |   |     |
+| Galecraft {STR, RFX, INT}  | 0 | 5d6 |                     |   |     |
 
 ## Effects
 
-|          Name           |                            Effect                             | Duration |                                                                  Source                                                                  |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                              Fellkin blood                                                               |
-| Physical Defense Level  |                               4                               |          |                                                                  Armor                                                                   |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
-|   Language: Babelish    |                      Can speak Babelish.                      |          |                                                                                                                                          |
-|    Language: Kikishi    |                      Can speak Kikishi.                       |          |                                                                                                                                          |
-|       Disabling:        |                                                               |          |                                                                                                                                          |
-|       Disabling:        |                                                               |          |                                                                                                                                          |
-|    Equipment Weight     |                             27 lb                             |          |                                                                Equipment                                                                 |
-|  Humanoid Carry Weight  |                            120 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight       |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
-| Movement Speed |                             30 ft                             |          |                                        +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                         |
-|   Swim Speed   |                             20 ft                             |          |                                        +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                         |
-|  Climb Speed   |                             15 ft                             |          |                                           +5 ft (per Climb Dice), +/-5 ft (per RFX)                                           |
+|          Name          |                         Effect                         | Duration |                                                       Source                                                       |
+| :--------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+| Minor Silver Weakness | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+| Physical Defense Level |                           4                           |          |                                                        Armor                                                        |
+|      Medium Size      |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
+|   Language: Kikishi   |                  Can speak Kikishi.                  |          |                                                                                                                    |
+|       Disabling:       |                                                        |          |                                                                                                                    |
+|       Disabling:       |                                                        |          |                                                                                                                    |
+|    Equipment Weight    |                         27 lb                         |          |                                                      Equipment                                                      |
+| Humanoid Carry Weight |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+|     Movement Speed     |                         30 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
+|       Swim Speed       |                         15 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
+|      Climb Speed      |                         15 ft                         |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
 
 ## Combat Rolls
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
-| Mindcraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
-|    Mindcraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Mindcraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Mindcraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          1          |        Cone         |      1 (Fellblood)      |
-|     Mindcraft- Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Mindcraft - 1    |      10d6       |                 |                   |      2      | Long  |                   |          1          |                     |      1 (Fellblood)      |
-|    Mindcraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          1          |       Sphere        |      2 (Fellblood)      |
-| Sonocraft - Melee Trick  |       8d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
-| Sonocraft - Ranged Trick |       8d6       |                 |                   |      0      | Long  |                   |         Standard          |                     |        None         |
-|    Sonocraft - Melee     |       9d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Sonocraft - Ranged    |       9d6       |                 |                   |      1      | Long  |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Sonocraft - Cone     |       9d6       |                 |                   |      2      | Long  |                   |          1          |        Cone         |      1 (Fellblood)      |
-|    Sonocraft - Reach     |       9d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Sonocraft - 1    |      10d6       |                 |                   |      2      | Long  |                   |          1          |                     |      1 (Fellblood)      |
-|    Sonocraft - Sphere    |      10d6       |                 |                   |      3      | Long  |                   |          1          |       Sphere        |      2 (Fellblood)      |
-| Polycraft - Melee Trick  |       6d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
-| Polycraft - Ranged Trick |       6d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    Polycraft - Melee     |       7d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Polycraft - Ranged    |       7d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Polycraft - Cone     |       7d6       |                 |                   |      2      | Close |                   |          1          |        Cone         |      1 (Fellblood)      |
-|    Polycraft - Reach     |       7d6       |                 |                   |      2      | Reach |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Polycraft - 1    |       8d6       |                 |                   |      2      | Close |                   |          1          |                     |      1 (Fellblood)      |
-| Galecraft - Melee Trick  |       5d6       |                 |                   |      0      | Melee |                   |           Rapid           |                     |        None         |
-| Galecraft - Ranged Trick |       5d6       |                 |                   |      0      | Close |                   |         Standard          |                     |        None         |
-|    Galecraft - Melee     |       6d6       |                 |                   |      2      | Melee |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Galecraft - Ranged    |       6d6       |                 |                   |      1      | Close |                   |         Standard          |                     |      1 (Fellblood)      |
-|   Medium Hafted Blunt    | 5d6<br />(+0d6) | 6d6<br />(+1d6) |       +1d6        |      4      | Melee |     Bludgeon      |           Rapid           |        None         |        None         |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|  Mindcraft - Melee Trick  |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
+| Mindcraft - Ranged Trick |       8d6       |                |                  |      0      | Long |                  |         Standard         |                    |        None        |
+|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+|    Mindcraft - Ranged    |       9d6       |                |                  |      1      | Long |                  |         Standard         |                    |    1 (Fellblood)    |
+|     Mindcraft - Cone     |       9d6       |                |                  |      2      | Long |                  |             1             |        Cone        |    1 (Fellblood)    |
+|     Mindcraft- Reach     |       9d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |    1 (Fellblood)    |
+|      Mindcraft - 1      |      10d6      |                |                  |      2      | Long |                  |             1             |                    |    1 (Fellblood)    |
+|    Mindcraft - Sphere    |      10d6      |                |                  |      3      | Long |                  |             1             |       Sphere       |    2 (Fellblood)    |
+|  Sonocraft - Melee Trick  |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
+| Sonocraft - Ranged Trick |       8d6       |                |                  |      0      | Long |                  |         Standard         |                    |        None        |
+|     Sonocraft - Melee     |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+|    Sonocraft - Ranged    |       9d6       |                |                  |      1      | Long |                  |         Standard         |                    |    1 (Fellblood)    |
+|     Sonocraft - Cone     |       9d6       |                |                  |      2      | Long |                  |             1             |        Cone        |    1 (Fellblood)    |
+|     Sonocraft - Reach     |       9d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |    1 (Fellblood)    |
+|       Sonocraft - 1       |      10d6      |                |                  |      2      | Long |                  |             1             |                    |    1 (Fellblood)    |
+|    Sonocraft - Sphere    |      10d6      |                |                  |      3      | Long |                  |             1             |       Sphere       |    2 (Fellblood)    |
+|  Polycraft - Melee Trick  |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
+| Polycraft - Ranged Trick |       6d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
+|     Polycraft - Melee     |       7d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+|    Polycraft - Ranged    |       7d6       |                |                  |      1      | Close |                  |         Standard         |                    |    1 (Fellblood)    |
+|     Polycraft - Cone     |       7d6       |                |                  |      2      | Close |                  |             1             |        Cone        |    1 (Fellblood)    |
+|     Polycraft - Reach     |       7d6       |                |                  |      2      | Reach |                  |           Rapid           |                    |    1 (Fellblood)    |
+|       Polycraft - 1       |       8d6       |                |                  |      2      | Close |                  |             1             |                    |    1 (Fellblood)    |
+|  Galecraft - Melee Trick  |       5d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
+| Galecraft - Ranged Trick |       5d6       |                |                  |      0      | Close |                  |         Standard         |                    |        None        |
+|     Galecraft - Melee     |       6d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+|    Galecraft - Ranged    |       6d6       |                |                  |      1      | Close |                  |         Standard         |                    |    1 (Fellblood)    |
+|    Medium Hafted Blunt    | 5d6<br />(+0d6) | 6d6<br />(+1d6) |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
-| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|       |                     |                    |             |       |                   |                     |
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
 
 ## Destiny Points: 2/3
 
@@ -81,25 +81,25 @@
 
 ## Equipment
 
-| Name                                 |   #   |                  Class                   |   Tier   | Durability |  LB   | Value  |
-| ------------------------------------ | :---: | :--------------------------------------: | :------: | :--------: | :---: | :----: |
-| Superior Gambeson Coat               |   1   |               Phy. Def. 1                | Superior |   24/24    |   5   |  2 bc  |
-| Superior Gambeson Leggings           |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   3   |  1 bc  |
-| Superior Leather Helmet              |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   2   | 0.5 bc |
-| Superior Leather Cuisses and Greaves |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   3   |  2 bc  |
-| Superior Leather Vambrace            |   1   |              Phy. Def. 0.5               | Superior |   24/24    |   2   | 1.5 bc |
-| Shoddy Morraki Attire/Cloak          |   1   |                                      | Mundane  |            |   4   | 15 bc  |
-| Buckler Shield                       |   1   |               Phy. Def. 1                | Mundane  |   12/12    |   4   |  2 bc  |
-| Morning Star                         |   1   | Medium Hafted Blunt, Medium Hafted Point | Mundane  |   12/12    |   4   | 15 bc  |
+| Name                                 | # |                  Class                  |   Tier   | Durability | LB | Value |
+| ------------------------------------ | :-: | :--------------------------------------: | :------: | :--------: | :-: | :----: |
+| Superior Gambeson Coat               | 1 |               Phy. Def. 1               | Superior |   24/24   | 5 |  2 bc  |
+| Superior Gambeson Leggings           | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 3 |  1 bc  |
+| Superior Leather Helmet              | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 2 | 0.5 bc |
+| Superior Leather Cuisses and Greaves | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 3 |  2 bc  |
+| Superior Leather Vambrace            | 1 |              Phy. Def. 0.5              | Superior |   24/24   | 2 | 1.5 bc |
+| Shoddy Morraki Attire/Cloak          | 1 |                                          | Mundane |            | 4 | 15 bc |
+| Buckler Shield                       | 1 |               Phy. Def. 1               | Mundane |   12/12   | 4 |  2 bc  |
+| Morning Star                         | 1 | Medium Hafted Blunt, Medium Hafted Point | Mundane |   12/12   | 4 | 15 bc |
 
 ## Containers
 
-| Name                                   |   #   |      Class      |   Tier    | Durability |  LB   | Value |
-| -------------------------------------- | :---: | :-------------: | :-------: | :--------: | :---: | :---: |
-| Backpack (1 ft^3)                      |   1   | 30 lb container |  Mundane  |            |   5   | 2 bc  |
-| Kite Shield (Dawn Emp. Crest)          |   1   |   Phy. Def. 2   | Superior  |   24/24    |   8   | 30 bc |
-| Superior Leather Cuirass and Pauldrons |   1   |  Phy. Def. 0.5  | Superior  |   24/24    |   4   | 3 bc  |
-| 30 lb of gold and gems                 |   1   |             | Exquisite |     -      |  30   |   ?   |
+| Name                                   | # |      Class      |   Tier   | Durability | LB | Value |
+| -------------------------------------- | :-: | :-------------: | :-------: | :--------: | :-: | :---: |
+| Backpack (1 ft^3)                      | 1 | 30 lb container |  Mundane  |            | 5 | 2 bc |
+| Kite Shield (Dawn Emp. Crest)          | 1 |   Phy. Def. 2   | Superior |   24/24   | 8 | 30 bc |
+| Superior Leather Cuirass and Pauldrons | 1 |  Phy. Def. 0.5  | Superior |   24/24   | 4 | 3 bc |
+| 30 lb of gold and gems                 | 1 |                | Exquisite |     -     | 30 |   ?   |
 
 ## Notes
 

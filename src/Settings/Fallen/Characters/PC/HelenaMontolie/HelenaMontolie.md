@@ -4,52 +4,52 @@
 
 ## Attributes and Core Skills
 
-| STR       |   0   |       | RFX             |   0   |       | INT               |   1   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   1   |  4d6  | Acrobatics      |   1   |  4d6  | Communication     |   2   |  6d6  |
-| Climb     |   0   |  3d6  | Perception      |   1   |  4d6  | General Knowledge |   2   |  6d6  |
-| Endurance |   1   |  4d6  | Sleight of Hand |   1   |  4d6  | Survival          |   1   |  5d6  |
-| Lift      |   0   |  3d6  | Stealth         |   0   |  3d6  | Will         |   0   |  4d6  |
+| STR       | 0 |    | RFX             | 0 |    | INT               | 1 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 1 | 4d6 | Acrobatics      | 1 | 4d6 | Communication     | 2 | 6d6 |
+| Climb     | 0 | 3d6 | Perception      | 1 | 4d6 | General Knowledge | 2 | 6d6 |
+| Endurance | 1 | 4d6 | Sleight of Hand | 1 | 4d6 | Survival          | 1 | 5d6 |
+| Lift      | 0 | 3d6 | Stealth         | 0 | 3d6 | Will              | 0 | 4d6 |
 
 ## Vocations and Vocational Skills
 
-| Student {INT}      |   1   |  5d6  | Fellcaster {STR, RFX, INT} | 0   | 4d6 |
-| ------------------ | :---: | :---: | ------------- | --- | --- |
-| Homesteading {INT} |   1   |  5d6  | Hemacraft     | 0   | 4d6 |
-| Performance {INT}  |   1   |  5d6  |               |     |     |
+| Student {INT}       | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0 | 4d6 |
+| ------------------- | :-: | :-: | -------------------------- | - | --- |
+| Homesteading {INT} | 1 | 5d6 | Hemacraft                  | 0 | 4d6 |
+| Performance {INT}   | 1 | 5d6 |                            |   |     |
 
 ## Effects:
 
-|              Name               |                            Effect                             | Duration |                                                                  Source                                                                  |
-| :-----------------------------: | :-----------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|      Minor Silver Weakness      | +1 to the level of injury received from Silver damage. |          |                                                              Fellkin blood                                                               |
-|     Physical Defense Level      |                               0                               |          |                                                                  Armor                                                                   |
-|           Medium Size           |                     5x5 ft on battle map.                     |          |                                                                                                                                          |
-|       Language: Babelish        |                      Can speak Babelish.                      |          |                                                                                                                                          |
-|        Language: Pirish         |                       Can speak Pirish.                       |          |                                                                                                                                          |
-| Disabling: Incontrollable Grief |                                                               |          |                                      Overwhelming grief that is triggered reminder of past trauma.                                       |
-|           Disabling:            |                                                               |          |                                                                                                                                          |
-|        Equipment Weight         |                           12.25 lb                            |          |                                                                Equipment                                                                 |
-|      Humanoid Carry Weight      |                            120 lb                             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|          Light Weight           |                -0d6 to STR/RFX governed skills                |          |                                                         0% - 25% of carry weight                                                         |
-|     Movement Speed     |                             35 ft                             |          |                                          +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                           |
-|       Swim Speed       |                             20 ft                             |          |                                           +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                           |
-|      Climb Speed       |                             15 ft                             |          |                                             +5 ft (per Climb Dice), +/-5 ft (per RFX)                                             |
+|              Name              |                         Effect                         | Duration |                                                       Source                                                       |
+| :-----------------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+|      Minor Silver Weakness      | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+|     Physical Defense Level     |                           0                           |          |                                                        Armor                                                        |
+|           Medium Size           |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|       Language: Babelish       |                  Can speak Babelish.                  |          |                                                                                                                    |
+|        Language: Pirish        |                   Can speak Pirish.                   |          |                                                                                                                    |
+| Disabling: Incontrollable Grief |                                                        |          |                            Overwhelming grief that is triggered reminder of past trauma.                            |
+|           Disabling:           |                                                        |          |                                                                                                                    |
+|        Equipment Weight        |                        12.25 lb                        |          |                                                      Equipment                                                      |
+|      Humanoid Carry Weight      |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|          Light Weight          |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+|         Movement Speed         |                         40 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
+|           Swim Speed           |                         20 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
+|           Climb Speed           |                         15 ft                         |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
 
 ## Combat Rolls:
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Hemacraft - Melee Trick  |       4d6       |                 |                   |      0      | Melee |       Bleed       |           Rapid           |                     |        None         |
-| Hemacraft - Ranged Trick |       4d6       |                 |                   |      0      | Short |       Bleed       |         Standard          |                     |        None         |
-|    Hemacraft - Melee     |       5d6       |                 |                   |      2      | Melee |       Bleed       |           Rapid           |                     |      1 (Fellblood)      |
-|    Hemacraft - Ranged    |       5d6       |                 |                   |      1      | Short |       Bleed       |         Standard          |                     |      1 (Fellblood)      |
-|  Small Thrusting Point   | 4d6<br />(+0d6) |      +0d6       |  5d6<br />(+1d6)  |      2      | Melee |      Pierce       |           Rapid           |        None         |        None         |
-|   Small Slashing Blade   | 5d6<br />(+1d6) |      +1d6       |  6d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None         |        None         |
+| Hemacraft - Melee Trick |       4d6       |                |                  |      0      | Melee |       Bleed       |           Rapid           |                    |        None        |
+| Hemacraft - Ranged Trick |       4d6       |                |                  |      0      | Short |       Bleed       |         Standard         |                    |        None        |
+|    Hemacraft - Melee    |       5d6       |                |                  |      2      | Melee |       Bleed       |           Rapid           |                    |    1 (Fellblood)    |
+|    Hemacraft - Ranged    |       5d6       |                |                  |      1      | Short |       Bleed       |         Standard         |                    |    1 (Fellblood)    |
+|  Small Thrusting Point  | 4d6<br />(+0d6) |      +0d6      |  5d6<br />(+1d6)  |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|   Small Slashing Blade   | 5d6<br />(+1d6) |      +1d6      |  6d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
 
-| Name  | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :---: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|       |                     |                    |             |       |                   |                     |
+| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
+|      |                    |                    |            |      |                  |                    |
 
 ## Destiny Points: 1/3
 
@@ -57,34 +57,34 @@
 
 ## Equipment:
 
-| Name                           |   #   |                              Class                              |  Tier   | Durability |  LB   | Value |
-| ------------------------------ | :---: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :---: |
-| Clothes, Common                |   1   |                                                             | Mundane |            |   3   | 50 cc  |
-| Waterskin (4/4)                |   1   |                                                             | Mundane |            |   5   | 20 cc |
-| Common Book, Soft Bound        |   1   |                                                             | Mundane |            |   1   | 5 bc  |
-| Journal, Soft Bound, 25 Sheets |   1   |                                                             | Mundane |            |   1   | 7 bc  |
-| Ink (1 ounce bottle)           |   1   |                                                             | Mundane |            |  0.1  | 10 bc |
-| Ink Pen (Fountain)             |   1   |                                                             | Mundane |            | 0.05  | 3 bc  |
-| Mother's Jeweled Braclet       |   1   |                                                             | Mundane |            |  0.1  |   ?   |
-| Dagger                         |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   | 2 bc  |
-| Pouch (1/5 ft^3)               |   1   |                         6 lb container                          | Mundane |            |   1   | 50 cc |
+| Name                           | # |                              Class                              |  Tier  | Durability |  LB  | Value |
+| ------------------------------ | :-: | :-------------------------------------------------------------: | :-----: | :--------: | :--: | :---: |
+| Clothes, Common                | 1 |                                                                | Mundane |            |  3  | 50 cc |
+| Waterskin (4/4)                | 1 |                                                                | Mundane |            |  5  | 20 cc |
+| Common Book, Soft Bound        | 1 |                                                                | Mundane |            |  1  | 5 bc |
+| Journal, Soft Bound, 25 Sheets | 1 |                                                                | Mundane |            |  1  | 7 bc |
+| Ink (1 ounce bottle)           | 1 |                                                                | Mundane |            | 0.1 | 10 bc |
+| Ink Pen (Fountain)             | 1 |                                                                | Mundane |            | 0.05 | 3 bc |
+| Mother's Jeweled Braclet       | 1 |                                                                | Mundane |            | 0.1 |   ?   |
+| Dagger                         | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  | 2 bc |
+| Pouch (1/5 ft^3)               | 1 |                         6 lb container                         | Mundane |            |  1  | 50 cc |
 
 ## Containers:
 
-| Name            |   #   |      Class       |  Tier   | Durability |  LB   | Value |
-| --------------- | :---: | :--------------: | :-----: | :--------: | :---: | :---: |
-| Chest (12 ft^3) |   1   | 300 lb container | Mundane |            |  25   | 5 bc  |
-| Mirror, Steel   |   1   |              | Mundane |            |  0.5  | 5 bc  |
-| Pot, Iron       |   1   |              | Mundane |            |  10   | 2 bc  |
-| Soap            |   1   |              | Mundane |            |  0.5  | 2 cc  |
-| Hourglass       |   1   |              | Mundane |            |   1   | 25 bc |
-| Lamp            |   1   |              | Mundane |            |   1   | 50 cc |
-| Cook's Utensils |   1   |              | Mundane |            |   8   | 1 bc  |
-| Lock            |   1   |              | Mundane |            |   1   | 10 bc |
+| Name            | # |      Class      |  Tier  | Durability | LB | Value |
+| --------------- | :-: | :--------------: | :-----: | :--------: | :-: | :---: |
+| Chest (12 ft^3) | 1 | 300 lb container | Mundane |            | 25 | 5 bc |
+| Mirror, Steel   | 1 |                  | Mundane |            | 0.5 | 5 bc |
+| Pot, Iron       | 1 |                  | Mundane |            | 10 | 2 bc |
+| Soap            | 1 |                  | Mundane |            | 0.5 | 2 cc |
+| Hourglass       | 1 |                  | Mundane |            |  1  | 25 bc |
+| Lamp            | 1 |                  | Mundane |            |  1  | 50 cc |
+| Cook's Utensils | 1 |                  | Mundane |            |  8  | 1 bc |
+| Lock            | 1 |                  | Mundane |            |  1  | 10 bc |
 
-| Name             |   #   |     Class      |  Tier   | Durability |  LB   | Value |
-| ---------------- | :---: | :------------: | :-----: | :--------: | :---: | :---: |
-| Pouch (1/5 ft^3) |   1   | 6 lb container | Mundane |            |   1   | 50 cc |
+| Name             | # |     Class     |  Tier  | Durability | LB | Value |
+| ---------------- | :-: | :------------: | :-----: | :--------: | :-: | :---: |
+| Pouch (1/5 ft^3) | 1 | 6 lb container | Mundane |            | 1 | 50 cc |
 
 ## Appearance
 
