@@ -6,7 +6,7 @@ Combat takes place on gridded battle maps, with each square representing a 5 ft 
 
 Different creatures get different movement speeds in combat.
 
-|          Description          | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
+|             Name             | Base Movement Speed (ft) | Governing Skill | Feet Per Governing<br />Skill Modifier | RFX Speed (ft) |
 | :---------------------------: | :----------------------: | :-------------: | :------------------------------------: | :------------: |
 | Small Humanoid Movement Speed |            25            |    Athletics    |                   5                   |       10       |
 |    Humanoid Movement Speed    |            30            |    Athletics    |                   5                   |       10       |
