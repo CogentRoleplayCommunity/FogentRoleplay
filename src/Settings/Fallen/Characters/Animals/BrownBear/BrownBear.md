@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Beast {STR, RFX}           | 2 | 9d6 |
+| Beast {STR, RFX}           | 1 | 7d6 |
 | -------------------------- | :-: | :-: |
-| Large Claw {STR, RFX, INT} | 2 | 8d6 |
-| Large Bite {STR, RFX, INT} | 2 | 8d6 |
+| Large Claw {STR, RFX, INT} | 1 | 6d6 |
+| Large Bite {STR, RFX, INT} | 1 | 6d6 |
 
 ## Effects
 
@@ -33,6 +33,6 @@
 ## Combat Rolls
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---------: | :--------------: | :--------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Bite |       None       | 11d6<br />(+3d6) |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
-| Large Claws | 10d6<br />(+2d6) |       None       | 11d6<br />(+1d6) |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Large Bite |      None      | 9d6<br />(+3d6) |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+| Large Claws | 8d6<br />(+2d6) |      None      |  9d6<br />(+1d6)  |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
