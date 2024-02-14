@@ -30,7 +30,7 @@
 |       Language: Primal       |                   Can speak Primal.                   |          |                                                                                                                  |
 | Disabling: Incapable of Lying |       His people do not lie and neither does he.       |          |                                                                                                                  |
 |       Equipment Weight       |                       34.35 lb                       |          |                                                     Equipment                                                     |
-|     Humanoid Carry Weight     |                         220 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, +40 lb positive Lift,<br />- 20 lb negative Lift |
+|     Carry Weight     |                         220 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, +40 lb positive Lift,<br />- 20 lb negative Lift |
 |         Light Weight         |            -0d6 to STR/RFX governed Dice Pools            |          |                                             0% - 25% of carry weight                                             |
 |    Terrestrial Combat Speed    |                         35 ft                         |          |                             +10 ft (per Athletics Dice), +/-10 ft (per RFX)                             |
 |      Swim Combat Speed      |                         25 ft                         |          |                             +5 ft (per Athletics Dice), +/-5 ft (per RFX)                             |

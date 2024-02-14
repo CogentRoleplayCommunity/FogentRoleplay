@@ -29,7 +29,7 @@
 | Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                                                    Daddy Issues                                                    |
 |    Equipment Weight    |                           23.45 lb                           |          |                                                      Equipment                                                      |
 |  Minor Silver Weakness  |    +1 to the level of injury received from Silver damage.    |          |                                                       Fellkin                                                       |
-|  Humanoid Carry Weight  |                            260 lb                            |          | +50 lbs Carry Weight per Lift dice |
+|  Carry Weight  |                            260 lb                            |          | +50 lbs Carry Weight per Lift dice |
 |      Light Weight      |                -0d6 to STR/RFX governed Dice Pools                |          |                                              0% - 25% of carry weight                                              |
 |     Terrestrial Combat Speed     |                             50 ft                             |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
 |       Swim Combat Speed       |                            35 ft                            |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |

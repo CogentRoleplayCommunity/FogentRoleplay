@@ -25,7 +25,7 @@
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
 |    Language: Primal    |        Can speak Primal.        |          |                                                                                                                    |
 |    Equipment Weight    |              69 lb              |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |             160 lb             |          | +50 lbs Carry Weight per Lift dice |
+|  Carry Weight  |             160 lb             |          | +50 lbs Carry Weight per Lift dice |
 |      Medium Weight      | -1d6 to STR/RFX governed Dice Pools |          |                                              25% - 50% of carry weight                                              |
 | Terrestrial Combat Speed |              25 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   Swim Combat Speed   |              10 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |

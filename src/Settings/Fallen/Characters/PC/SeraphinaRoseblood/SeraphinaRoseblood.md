@@ -31,7 +31,7 @@
 | Disabling: People Pleaser | Always try to make other people<br />happy, even at their own expense. |          |                                                                                                                    |
 |    Disabling: Delusion    |        Believes that her family<br />will flourish once again.        |          |                                                                                                                    |
 |     Equipment Weight     |                                 23 lb                                 |          |                                                      Equipment                                                      |
-|   Humanoid Carry Weight   |                                 120 lb                                 |          | +50 lbs Carry Weight per Lift dice |
+|   Carry Weight   |                                 120 lb                                 |          | +50 lbs Carry Weight per Lift dice |
 |       Light Weight       |                    -0d6 to STR/RFX governed Dice Pools                    |          |                                              0% - 25% of carry weight                                              |
 |  Terrestrial Combat Speed  |                                 35 ft                                 |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |    Swim Combat Speed    |                                 20 ft                                 |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |

@@ -30,7 +30,7 @@
 | Disabling: Incontrollable Grief |                                                        |          |                            Overwhelming grief that is triggered reminder of past trauma.                            |
 |           Disabling:           |                                                        |          |                                                                                                                    |
 |        Equipment Weight        |                        12.25 lb                        |          |                                                      Equipment                                                      |
-|      Humanoid Carry Weight      |                         120 lb                         |          | +50 lbs Carry Weight per Lift dice |
+|      Carry Weight      |                         120 lb                         |          | +50 lbs Carry Weight per Lift dice |
 |          Light Weight          |            -0d6 to STR/RFX governed Dice Pools            |          |                                              0% - 25% of carry weight                                              |
 |         Terrestrial Combat Speed         |                         40 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
 |           Swim Combat Speed           |                         20 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
