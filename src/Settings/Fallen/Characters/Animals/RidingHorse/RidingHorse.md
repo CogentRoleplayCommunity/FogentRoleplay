@@ -25,7 +25,7 @@
 |       Large Size       |     10x10 ft on battle map.     |          |                                                                                                                    |
 |    Equipment Weight    |              33 lb              |          |                                                      Equipment                                                      |
 | Carry Weight |             520 lb             |          | +50 lbs Max Carry Weight per Lift dice |
-|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
+|      Light Weight      | -0d6 to STR/RFX governed Dice Pools |          |                                              0% - 25% of carry weight                                              |
 | Terrestrial Combat Speed |              80 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   4-Legged Swim Combat Speed   |              30 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
 |  4-Hooved Climb Combat Speed  |              10 ft              |          |                                 +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)                                 |

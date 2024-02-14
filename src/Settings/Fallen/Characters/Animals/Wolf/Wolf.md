@@ -26,7 +26,7 @@
 |     Language: Primal     |        Can speak Primal.        |          |                                                                                                                    |
 |     Equipment Weight     |              0 lb              |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |             120 lb             |          | +50 lbs Max Carry Weight per Lift dice |
-|       Light Weight       | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
+|       Light Weight       | -0d6 to STR/RFX governed Dice Pools |          |                                              0% - 25% of carry weight                                              |
 | 4-Legged Terrestrial Combat Speed |              70 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   4-Legged Swim Combat Speed   |              15 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
 |  4-Legged Climb Combat Speed  |              0 ft              |          |                                   5 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                   |

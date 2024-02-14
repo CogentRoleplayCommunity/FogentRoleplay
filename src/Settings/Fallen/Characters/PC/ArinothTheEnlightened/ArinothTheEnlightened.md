@@ -29,7 +29,7 @@
 |  Disabling: Dim-witted  |                         -1 INT                         |          |                                                                                                                    |
 |    Equipment Weight    |                        14.5 lb                        |          |                                                      Equipment                                                      |
 |  Humanoid Carry Weight  |                         120 lb                         |          | +50 lbs Max Carry Weight per Lift dice |
-|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
+|      Light Weight      |            -0d6 to STR/RFX governed Dice Pools            |          |                                              0% - 25% of carry weight                                              |
 | Terrestrial Combat Speed |                         40 ft                         |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   Swim Combat Speed   |                         15 ft                         |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
 |  Climb Combat Speed  |                         20 ft                         |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
