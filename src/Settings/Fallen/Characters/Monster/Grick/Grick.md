@@ -6,8 +6,8 @@
 
 | STR       | 1 |    | RFX             | 1 |    | INT               | -2 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 4d6 | Acrobatics      | 0 | 4d6 | Communication     | 0 | 1d6 |
-| Climb     | 0 | 4d6 | Perception      | 0 | 4d6 | General Knowledge | 0 | 1d6 |
+| Athletics | -1 | 3d6 | Acrobatics      | 0 | 4d6 | Communication     | 0 | 1d6 |
+| Climb     | 2 | 6d6 | Perception      | 0 | 4d6 | General Knowledge | 0 | 1d6 |
 | Endurance | 0 | 4d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 1d6 |
 | Lift      | 0 | 4d6 | Stealth         | 1 | 5d6 | Will              | 1 | 2d6 |
 
@@ -20,19 +20,19 @@
 
 ## Effects
 
-|                  Name                  |                                                            Effect                                                            | Duration |                          Source                          |
-| :------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :-------------------------------------------------------: |
-|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                       Fellkin blood                       |
-|  Medium Non-Magical Pierce Resistance  |                                -2 to victory levels received from Non-Magical Pierce damage.                                |          |                                                          |
-|   Medium Non-Magical Hew Resistance   |                                  -2 to victory levels received from Non-Magical Hew damage.                                  |          |                                                          |
-|  Medium Non-Magical Slash Resistance  |                                 -2 to victory levels received from Non-Magical Slash damage.                                 |          |                                                          |
-| Medium Non-Magical Bludgeon Resistance |                               -2 to victory levels received from Non-Magical Bludgeon damage.                               |          |                                                          |
-|         Physical Defense Level         |                                                              2                                                              |          |                       Natural Armor                       |
-|              Medium Size              |                                                    5x5 ft on battle map.                                                    |          |                                                          |
-|              Dark Vision              | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                    Feral Fellkin Blood                    |
+|                  Name                  |                                                            Effect                                                            | Duration |                      Source                      |
+| :------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
+|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                  Fellkin blood                  |
+|  Medium Non-Magical Pierce Resistance  |                                -2 to victory levels received from Non-Magical Pierce damage.                                |          |                                                  |
+|   Medium Non-Magical Hew Resistance   |                                  -2 to victory levels received from Non-Magical Hew damage.                                  |          |                                                  |
+|  Medium Non-Magical Slash Resistance  |                                 -2 to victory levels received from Non-Magical Slash damage.                                 |          |                                                  |
+| Medium Non-Magical Bludgeon Resistance |                               -2 to victory levels received from Non-Magical Bludgeon damage.                               |          |                                                  |
+|         Physical Defense Level         |                                                              2                                                              |          |                  Natural Armor                  |
+|              Medium Size              |                                                    5x5 ft on battle map.                                                    |          |                                                  |
+|              Dark Vision              | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                      Innate                      |
 |        Terrestrial Combat Speed        |                                                            40 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|          Swim Combat Speed          |                                                            20 ft                                                            |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
-|          Climb Combat Speed          |                                                            20 ft                                                            |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
+|           Swim Combat Speed           |                                                            30 ft                                                            |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|           Climb Combat Speed           |                                                            15 ft                                                            |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 
 ## Combat Rolls
 
