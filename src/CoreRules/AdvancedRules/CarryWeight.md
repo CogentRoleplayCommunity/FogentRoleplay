@@ -19,6 +19,10 @@ Weight Classes represent the effects of carrying equipment and gear. Some charac
 |  Heavy Weight  | -2d6 to STR/RFX governed Dice Pools | 50% < Equipment Weight <= 100% |
 | Over-encumbered | -4d6 to STR/RFX governed Dice Pools |    100% < Equipment Weight    |
 
+## Equipment
+
+Represent items a character has on their person in an easy to reach placement. This generaly covers things needed in combat such as Primary weapons, armor, quivers/arrows, potions, etc...
+
 ## Containers
 
 Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. Each container can hold a certain amount of weight and/or volume within.
@@ -36,7 +40,7 @@ Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. E
 
 ### Containers in Combat
 
-Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swipped by the enemy if an oppurtunity arises, however this might effect their Weight Class aswell. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their carry weight, etc...
+Characters will often stash or drop containers during combat as to not be in a heavier Weight Class. This is perfectly acceptable, but it is within the Narrators right to treat these items as fair game to be swiped by the enemy if an opportunity arises, however this might effect their Weight Class as well. Character's wishing to avoid a having their loot stolen can keep it on their backs, by a mount to stash it on, increase their carry weight, etc...
 
 ### Container Example
 

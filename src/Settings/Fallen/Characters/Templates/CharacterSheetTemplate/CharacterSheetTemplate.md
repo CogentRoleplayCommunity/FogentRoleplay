@@ -69,7 +69,7 @@
 | [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |                  |                          |                    | 1 - 2 Magic Resource |
 |        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |                  |                          |                    | 3 - 4 Magic Resource |
 
-## Equipment
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | ---- | :-: | :---: | ------ | :--: | :--------: | :-: | :---: |
