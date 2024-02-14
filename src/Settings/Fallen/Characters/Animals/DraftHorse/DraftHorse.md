@@ -24,7 +24,7 @@
 |    Physical Defense Level    |                0                |          |                                                        Armor                                                        |
 |          Large Size          |     10x10 ft on battle map.     |          |                                                                                                                    |
 |       Equipment Weight       |              33 lb              |          |                                                      Equipment                                                      |
-|    4-Legged Carry Weight    |             880 lb             |          | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
+|    Carry Weight    |             880 lb             |          | +50 lbs Max Carry Weight per Lift dice |
 |         Light Weight         | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
 | Terrestrial Combat Speed |              70 ft              |          |                               +10 ft (per Athletics Dice), +/-10 ft (per RFX)                               |
 |     4-Legged Swim Combat Speed     |              35 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |

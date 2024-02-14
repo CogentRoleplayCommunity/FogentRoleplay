@@ -25,7 +25,7 @@
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
 |    Equipment Weight    |             17.5 lb             |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
+|  Humanoid Carry Weight  |             120 lb             |          | +50 lbs Max Carry Weight per Lift dice |
 |      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
 | Terrestrial Combat Speed |              30 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   Swim Combat Speed   |              15 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
