@@ -6,7 +6,7 @@ For each point dice in a character's Lift dice pool, character gains 50 lbs of C
 
 | Description |              Calculation              |
 | :----------: | :------------------------------------: |
-| Carry Weight | +50 lbs Max Carry Weight per Lift dice |
+| Carry Weight | +50 lbs Carry Weight per Lift dice |
 
 ## Weight Classes
 

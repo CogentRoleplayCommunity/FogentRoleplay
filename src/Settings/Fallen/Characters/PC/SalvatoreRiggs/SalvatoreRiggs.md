@@ -29,7 +29,7 @@
 | Disabling: Addiction to Ladies |      Goes out of his way to impress the other sex.       |          |                                                                                                                                          |
 |     Disabling: Short Fuse      |       Has an extreme predisposition towards anger.       |          |                                                                                                                                          |
 |        Equipment Weight        |                           0 lb                           |          |                                                                Equipment                                                                 |
-|     Humanoid Carry Weight      |                          120 lb                          |          | +50 lbs Max Carry Weight per Lift dice |
+|     Humanoid Carry Weight      |                          120 lb                          |          | +50 lbs Carry Weight per Lift dice |
 |          Light Weight          |             -0d6 to STR/RFX governed Dice Pools              |          |                                                         0% - 25% of carry weight                                                         |
 |    Terrestrial Combat Speed     |                          30 ft                           |          |                                          +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                           |
 |      Swim Combat Speed       |                          15 ft                           |          |                                           +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                           |

@@ -29,7 +29,7 @@
 |   Disabling: Delusion   |  Sees his father all the time though doesn't think his is material.  |          |                                                                                                                    |
 |   Disabling: Stubborn   | If he doesn't get his way he will rage out and become uncooperative. |          |                                                                                                                    |
 |    Equipment Weight    |                               63.5 lb                               |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |                                260 lb                                |          | +50 lbs Max Carry Weight per Lift dice |
+|  Humanoid Carry Weight  |                                260 lb                                |          | +50 lbs Carry Weight per Lift dice |
 |      Light Weight      |                   -0d6 to STR/RFX governed Dice Pools                   |          |                                              0% - 25% of carry weight                                              |
 | Terrestrial Combat Speed |                                35 ft                                |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   Swim Combat Speed   |                                25 ft                                |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
