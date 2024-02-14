@@ -25,6 +25,14 @@ Character's can gain a skill in the following weapon combat skills.
 - Machine Gun
 - Launcher
 
+## One Handed
+
+Dice modifier added to weapon attacks when held in one hand or an equivalent appendage. This frees up the other hand/appendage to hold a shield, ranged weapon, an important item, ect...
+
+## Two Handed
+
+Dice modifier added to weapon attacks when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For Creature Innate Weapons attacks such as Bite or Horns, denotes that the creature wholely focused with those innate weapons.
+
 ## Dual Wielded
 
 To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Grants additional dice bonus depending on the Dual Wielded dice of the off-handed weapon being used. Your primary weapon must be a small or medium weapon.
