@@ -20,27 +20,6 @@
 |                     | 0 | 3d6 |
 |                     | 0 | 3d6 |
 
-## Info
-
-|                                                  Name                                                  |                          Info                          | Duration |                      Source                      |
-| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                           1                           |          |                                                  |
-|          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           0                           |          |                      Armor                      |
-|                  [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                  |                 5x5 ft on battle map.                 |          |                                                  |
-|                                           Language: Babelish                                           |                  Can speak Babelish.                  |          |                                                  |
-|                                                Language:                                                |                      Can speak .                      |          |                                                  |
-|                                               Disabling:                                               |                                                        |          |                                                  |
-|                                               Disabling:                                               |                                                        |          |                                                  |
-|                                            Equipment Weight                                            |                         0 lb                         |          |                    Equipment                    |
-|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d6 to STR/RFX governed Dice Pools          |          |             0% - 25% of carry weight             |
-|      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                         30 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                         15 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                 |                          5/5                          |          |       Vocation/Magic Governing Skill Level       |
-|                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                          0/3                          |          |               Awarded by Narrator               |
-
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
 ### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
@@ -63,6 +42,31 @@
 |       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                        Medium                        |                                                                        |                                                                                        |                                                                            |  0 Magic Resource  |
 | [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                      Far - Long                      |                                                                        |                                                                                        |                                                                            | 1 - 2 Magic Resource |
 |        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                     Sharpshooter                     |                                                                        |                                                                                        |                                                                            | 3 - 4 Magic Resource |
+
+## Info
+
+|                                                  Name                                                  |                          Info                          | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
+|                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                 |                          5/5                          |          |       Vocation/Magic Governing Skill Level       |
+|                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                          0/3                          |          |               Awarded by Narrator               |
+|                   [Injury](./../../../../../CoreRules/CombatRules/InjuryLevels.md): None                   |             – 0 dice to all dice checks.             |          |                      Damage                      |
+|                                                                                                        |                                                        |          |                                                  |
+|          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           0                           |          |                      Armor                      |
+|                                                                                                        |                                                        |          |                                                  |
+|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                           1                           |          |                                                  |
+|                                           Language: Babelish                                           |                  Can speak Babelish.                  |          |                                                  |
+|                                                Language:                                                |                      Can speak .                      |          |                                                  |
+|                                               Disabling:                                               |                                                        |          |                                                  |
+|                                                                                                        |                                                        |          |                                                  |
+|                  [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                  |                 5x5 ft on battle map.                 |          |                                                  |
+|      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                         30 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                         15 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                        |                                                        |          |                                                  |
+|                                            Equipment Weight                                            |                         0 lb                         |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
+|           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d6 to STR/RFX governed Dice Pools          |          |             0% - 25% of carry weight             |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
