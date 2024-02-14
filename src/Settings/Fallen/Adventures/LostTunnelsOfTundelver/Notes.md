@@ -69,4 +69,13 @@ She let's the party know that she will have a letter delivered to them about whe
 ## Session 5
 
 - Have Vasilii enter via the cellar door. He was in town to help his friend Sherif Clint, who had needed extra muscle for the Lancer threat. Vasilii and Clint were double crossed by the town master, who slipped sedatives into their drinks. They buried Vasilii alive and buck naked out in the woods, though not deep enough, as Vasilii managed to survive the ordeal, his body hibernating via his polycraft. Vasilii wants revenge on the town master, to save his friend Clint, and to take down the Lancer threat.
--
+
+## Session 6
+- Arinoth and Skuath start the session completely mind fucked. Skuath is having a vision of Reddwall on fire. Arinoth is having a vision his jungle home on fire...
+- Session start with the party heading back to Tuntin as the town masters building is burning
+- Linette and the town folks deeply thank the party for saving the town. She will give Gail his boots
+- Glassmith has abducted the town master and fled to the outskirts of Tuntin.
+- Gail hands over the Spider Web Pact note to Ulfric Warwinter.
+- Ulfric tasks the team with finding his friends Sylas, who he said has gone rogue and is using the name Glassmith. They couldn't have gotten far...
+- Krater decide to stay with decides to stay with the family and town incase Glassmith comes back.
+- 
