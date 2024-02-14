@@ -359,5 +359,11 @@
         "Yeek",
         "Yetikin",
         "zweihänder"
+    ],
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file"
+        }
     ]
 }

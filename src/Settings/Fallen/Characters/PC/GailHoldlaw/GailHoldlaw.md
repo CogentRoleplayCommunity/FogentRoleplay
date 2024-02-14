@@ -32,11 +32,11 @@ Earned Skill point: 2
 |     Disabling: Hemaphobia     |             Irrational fear of blood and viscera.             |          |                                                          |
 | Disabling: Extreme Entitlement | Constantly assumes he's of high import, no matter where he is. |          |                                                          |
 |        Equipment Weight        |                           27.65 lb                           |          |                         Equipment                         |
-|     Humanoid Carry Weight     |                             120 lb                             |          |    120 lb (Base), +100 lb (per STR), +20 lb (per Lift)    |
-|          Light Weight          |                -0d6 to STR/RFX governed skills                |          |                 0% - 25% of carry weight                 |
-|    Humanoid Movement Speed    |                             30 ft                             |          | 30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|      Humanoid Swim Speed      |                             15 ft                             |          |   15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)   |
-|      Humanoid Climb Speed      |                             15 ft                             |          |   15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)   |
+|     Carry Weight     |                             120 lb                             |          |    120 lb (Base), +100 lb (per STR), +20 lb (per Lift)    |
+|          Light Weight          |                -0d6 to STR/RFX governed Dice Pools                |          |                 0% - 25% of carry weight                 |
+|    Terrestrial Combat Speed    |                             30 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|      Swim Combat Speed      |                             15 ft                             |          |   15 ft (Base), +10 ft (per STR), +5 ft (per Athletics)   |
+|      Climb Combat Speed      |                             15 ft                             |          |   +5 ft (per Climb Dice), +/-5 ft (per RFX)   |
 
 ## Combat Rolls:
 

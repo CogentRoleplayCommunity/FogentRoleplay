@@ -31,9 +31,9 @@
 | Complete Poison Resistance |                                      Negate victory levels received from  Poison damage.                                      |          |                     Draconic bloodline                     |
 |        Dark Vision        | Within 120 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                     Draconic bloodline                     |
 |         Blindsight         |                        Within 30 ft, the environment can<br />be perceived without the need for sight.                        |          |                     Draconic bloodline                     |
-|  4-Legged Movement Speed  |                                                             55 ft                                                             |          | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|    4-Legged Swim Speed    |                                                             35 ft                                                             |          |  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)  |
-|        Flight Speed        |                                                             80 ft                                                             |          | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
+|  Terrestrial Combat Speed  |                                                             55 ft                                                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    4-Legged Swim Combat Speed    |                                                             35 ft                                                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|        Flight Combat Speed        |                                                             80 ft                                                             |          | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
 ## Combat Rolls:
 
@@ -41,8 +41,8 @@
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Claws |      +2d6      |      None      |       +1d6       |      2      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
-| Large Bite |      +2d6      |      +2d6      |       None       |      4      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
+| Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 
 ### Combat Spells
 

@@ -4,47 +4,37 @@
 
 ## Attributes and Core Skills
 
-| STR       |  -1   |       | RFX             |   1   |       | INT               |   0   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   0   |  2d6  | Acrobatics      |   0   |  4d6  | Communication     |   1   |  4d6  |
-| Climb     |   0   |  2d6  | Perception      |   0   |  4d6  | General Knowledge |   0   |  3d6  |
-| Endurance |   0   |  2d6  | Sleight of Hand |   0   |  4d6  | Survival          |   0   |  3d6  |
-| Lift      |   0   |  2d6  | Stealth         |   0   |  4d6  | Will         |   1   |  4d6  |
+| STR       | -1 |    | RFX             | 1 |    | INT               | 0 |    |
+| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
+| Athletics | 1 | 3d6 | Acrobatics      | 0 | 4d6 | Communication     | 1 | 4d6 |
+| Climb     | 0 | 2d6 | Perception      | 0 | 4d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
+| Lift      | 0 | 2d6 | Stealth         | 0 | 4d6 | Will              | 1 | 4d6 |
 
 ## Vocations and Vocational Skills
 
-| Ghost {RFX, INT}        |   1   |  5d6  |
-| ----------------------- | :---: | :---: |
-| Ghost Magic {RFX, INT}  |   1   |  5d6  |
-| Shadow Magic {RFX, INT} |   1   |  5d6  |
+| Ghost {RFX, INT}        | 1 | 5d6 |
+| ----------------------- | :-: | :-: |
+| Soul Magic {RFX, INT}   | 1 | 5d6 |
+| Shadow Magic {RFX, INT} | 1 | 5d6 |
 
 ## Effects
 
-|                     Name                     |                                       Effect                                       | Duration |                        Source                         |
-| :------------------------------------------: | :--------------------------------------------------------------------------------: | :------: | :---------------------------------------------------: |
-|               Incorporeal Form               | Can move through physical objects and creatures as if they were difficult terrain. |          |                                                       |
-|            Medium Silver Weakness            |           +2 to the level of injury received from Silver damage.            |          |                      Fellblood blood                      |
-| Complete Non-Magical/Non-Silvered Resistance |        Negate victory levels received from  Non-Magical/Non-Silvered  damage.        |          |                                                       |
-|            Physical Defense Level            |                                         0                                          |          |                         Armor                         |
-|                 Medium Size                  |                               5x5 ft on battle map.                                |          |                                                       |
-|                 Language: ?                  |                        Can speak languages it knew in life.                        |          |                                                       |
-|            Flight Movement Speed             |                                       90 ft                                        |          | 70 ft (Base), +/-20 ft (per RFX), +/-10 ft (per Athletics) |
+|                     Name                     |                                       Effect                                       | Duration |                         Source                         |
+| :------------------------------------------: | :--------------------------------------------------------------------------------: | :------: | :----------------------------------------------------: |
+|               Incorporeal Form               | Can move through physical objects and creatures as if they were difficult terrain. |          |                                                        |
+|           Medium Silver Weakness           |               +2 to the level of injury received from Silver damage.               |          |                                                        |
+| Complete Non-Magical/Non-Silvered Resistance |       Negate victory levels received from  Non-Magical/Non-Silvered  damage.       |          |                                                        |
+|            Physical Defense Level            |                                         0                                         |          |                         Armor                         |
+|                 Medium Size                 |                               5x5 ft on battle map.                               |          |                                                        |
+|                 Language: ?                 |                        Can speak languages it knew in life.                        |          |                                                        |
+|             Flight Combat Speed             |                                       60 ft                                       |          | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
 
-## Combat Rolls
+### Combat Spells
 
-|            Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  Ghost Magic - Melee Trick  |       5d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
-| Ghost Magic - Ranged Trick  |       5d6       |                 |                   |      0      | Extended |                   |         Standard          |                     |        None         |
-|     Ghost Magic - Melee     |       6d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Ghost Magic - Ranged     |       6d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Ghost Magic - Cone      |       6d6       |                 |                   |      2      | Extended |                   |          1          |        Cone         |      1 (Fellblood)      |
-|     Ghost Magic - Reach     |       6d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Ghost Magic - 1    |       7d6       |                 |                   |      2      | Extended |                   |          1          |                     |      1 (Fellblood)      |
-| Shadow Magic - Melee Trick  |       5d6       |                 |                   |      0      |  Melee   |                   |           Rapid           |                     |        None         |
-| Shadow Magic - Ranged Trick |       5d6       |                 |                   |      0      | Extended |                   |         Standard          |                     |        None         |
-|    Shadow Magic - Melee     |       6d6       |                 |                   |      2      |  Melee   |                   |           Rapid           |                     |      1 (Fellblood)      |
-|    Shadow Magic - Ranged    |       6d6       |                 |                   |      1      | Extended |                   |         Standard          |                     |      1 (Fellblood)      |
-|     Shadow Magic - Cone     |       6d6       |                 |                   |      2      | Extended |                   |          1          |        Cone         |      1 (Fellblood)      |
-|    Shadow Magic - Reach     |       6d6       |                 |                   |      2      |  Reach   |                   |           Rapid           |                     |      1 (Fellblood)      |
-|   Shadow Magic - 1    |       7d6       |                 |                   |      2      | Extended |                   |          1          |                     |      1 (Fellblood)      |
+|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    |    Damage<br />Types    | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------------: | :-----------------------: | :-----------------: | :-----------------: |
+|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     | Spiritual<br />Necrotic |                          |                    |    0 Fellblood    |
+|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    | Spiritual<br />Necrotic |                          |                    |    0 Fellblood    |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  | Spiritual<br />Necrotic |                          |                    |  1 - 2 Fellblood  |
+|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter | Spiritual<br />Necrotic |                          |                    |  3 - 4 Fellblood  |

@@ -21,7 +21,7 @@
 
 |                    Name                    |                            Effect                            | Duration |                                                       Source                                                       |
 | :----------------------------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|           Minor Silver Weakness           |   +1 to the level of injury received from Silver damage.   |          |                                                    Fellkin blood                                                    |
+|           Minor Silver Weakness           |   +1 to the level of injury received from Silver damage.   |          |                                                    Fellblood                                                    |
 |           Physical Defense Level           |                               3                               |          |                                                        Armor                                                        |
 |                Medium Size                |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |             Language: Babelish             |                 Can speak and write Babelish.                 |          |                                                                                                                    |
@@ -29,11 +29,11 @@
 | Disabling: Disabling: Incontrollable Grief | Overwhelming grief that is triggered reminder of past trauma. |          |                                                                                                                    |
 |      Disabling: Disabling: Paranoia      |   Irrational belief that the Wicker Men will come for him.   |          |                                                                                                                    |
 |              Equipment Weight              |                             0 lb                             |          |                                                      Equipment                                                      |
-|           Humanoid Carry Weight           |                            120 lb                            |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|                Light Weight                |                -0d6 to STR/RFX governed skills                |          |                                              0% - 25% of carry weight                                              |
-|          Humanoid Movement Speed          |                             50 ft                             |          |                                30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                                |
-|            Humanoid Swim Speed            |                            25 ft                            |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                                |
-|            Humanoid Climb Speed            |                             25 ft                             |          |                                  15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                  |
+|           Carry Weight           |                            120 lb                            |          | +50 lbs Carry Weight per Lift dice |
+|                Light Weight                |                -0d6 to STR/RFX governed Dice Pools                |          |                                              0% - 25% of carry weight                                              |
+|          Terrestrial Combat Speed          |                             50 ft                             |          |                                +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                |
+|            Swim Combat Speed            |                            25 ft                            |          |                                +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                |
+|            Climb Combat Speed            |                             25 ft                             |          |                                  +5 ft (per Climb Dice), +/-5 ft (per RFX)                                  |
 
 ## Combat Rolls:
 

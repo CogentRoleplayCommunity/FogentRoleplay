@@ -25,18 +25,18 @@
 
 |          Name          |                         Effect                         | Duration |                                                       Source                                                       |
 | :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellblood                                                    |
 | Physical Defense Level |                           3                           |          |                                                        Armor                                                        |
 |       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
 |   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
 |    Language: Jotun    |                   Can speak Jotun.                   |          |                                                                                                                    |
 | Disabling: Kleptomaniac |    Desire to steal most things regardless of value.    |          |                                                                                                                    |
 |    Equipment Weight    |                        27.5 lb                        |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |                         120 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                         40 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |                         15 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |                         15 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|  Carry Weight  |                         120 lb                         |          | +50 lbs Carry Weight per Lift dice |
+|      Light Weight      |            -0d6 to STR/RFX governed Dice Pools            |          |                                              0% - 25% of carry weight                                              |
+| Terrestrial Combat Speed |                         40 ft                         |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
+|   Swim Combat Speed   |                         15 ft                         |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
+|  Climb Combat Speed  |                         15 ft                         |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
 
 ## Combat Rolls
 

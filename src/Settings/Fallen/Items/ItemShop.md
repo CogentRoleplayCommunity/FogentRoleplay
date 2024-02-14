@@ -2,7 +2,7 @@
 
 ## Currency
 
-Fallen uses coins of Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
+Fallen uses coins of Tin, Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
 
 |     Name     | # | Class | Effect |  Tier  | Durability |  LB  | Value |
 | :-----------: | :-: | :---: | :----: | :-----: | :--------: | :--: | :---: |
@@ -160,7 +160,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Name                |  #  |                  Class                  | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :---------------------------------: | :--: | :-------------------------------------: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |        -[Adventuring Gear]-        |      |                                        |        |        |            |        |      |              |              |              |                |
-|        Bag of Ball Bearings        | 1000 |                                        |        | Mundane |            |   0.002   | 10 tc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Bag of Ball Bearings        | 1000 |                                        |        | Mundane |            | 0.002 | 10 tc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Bell                |  1  |                                        |        | Mundane |            |  0.1  | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Block and Tackle          |  1  |                                        |        | Mundane |            |   5   | 70 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |           Chain (10 feet)           |  1  |                                        |        | Mundane |            |   10   | 3 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -178,7 +178,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |            Pick, Miner's            |  1  |           Large Hafted Point           |        | Mundane |   12/12   |   10   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Piton                |  1  |                                        |        | Mundane |            |  0.25  | 5 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              Pot, Iron              |  1  |                                        |        | Mundane |            |   10   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            Spikes, Iron            |  1  |                                        |        | Mundane |            |   0.5   | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|            Spikes, Iron            |  1  |                                        |        | Mundane |            |  0.5  | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |              Whetstone              |  1  |                                        |        | Mundane |            |   1   | 1 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              -[Tools]-              |      |                                        |        |        |            |        |      |              |              |              |                |
 |          Carpenter's Tools          |  1  |                                        |        | Mundane |            |   6   | 6 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -454,7 +454,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Oil (flask)     | 1 |      |        | Mundane |            |   1   | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 | Poison, Basic (vial) | 1 |      |        | Mundane |            |  0.5  | 100 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Ram, Portable    | 1 |      |        | Mundane |            |   35   |  4 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|     Spikes, Iron     | 1 |      |        | Mundane |            |   0.5   | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|     Spikes, Iron     | 1 |      |        | Mundane |            |  0.5  | 10 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Disguise Kit     | 1 |      |        | Mundane |            |   3   | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Forgery Kit     | 1 |      |        | Mundane |            |   5   | 15 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Dice Set       | 1 |      |        | Mundane |            |  0.2  | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |

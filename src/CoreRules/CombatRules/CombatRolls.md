@@ -1,10 +1,10 @@
-## Weapon Combat Rolls
+## Combat Rolls
 
-Weapon combat roll are Dice Pools that represent all of your characters ability with a specific weapon in combat.
+Combat roll are Dice Pools that represent all of your characters ability with a specific weapon in combat.
 
 - +Base Dice (varies with item tier, generally 3d6)
-- +/- 1d6 per Weapon Combat Skill
-- +/- 1d6 per STR, RFX, or INT
+- +/- 1d6 per Combat Skill
+- +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
 - +/- Weapon Class Dice (Hand Crossbow, Short Spear, ect...)
 - +Weapon Resource Dice (Arrow, Ammunition, ect...)
 

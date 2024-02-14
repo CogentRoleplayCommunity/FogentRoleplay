@@ -27,11 +27,11 @@
 |            Language: Demonic            |                          Can speak Demonic.                          |          |                                                                                                                    |
 | Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                                                       Injury                                                       |
 |            Equipment Weight            |                             20.0075 lb                             |          |                                                      Equipment                                                      |
-|          Humanoid Carry Weight          |                                120 lb                                |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|              Light Weight              |                   -0d6 to STR/RFX governed skills                   |          |                                              0% - 25% of carry weight                                              |
-|         Humanoid Movement Speed         |                                45 ft                                |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|           Humanoid Swim Speed           |                                20 ft                                |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|          Humanoid Climb Speed          |                                15 ft                                |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|          Carry Weight          |                                120 lb                                |          | +50 lbs Carry Weight per Lift dice |
+|              Light Weight              |                   -0d6 to STR/RFX governed Dice Pools                   |          |                                              0% - 25% of carry weight                                              |
+|             Terrestrial Combat Speed             |                                50 ft                                |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
+|               Swim Combat Speed               |                                20 ft                                |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
+|               Climb Combat Speed               |                                15 ft                                |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
 
 ## Combat Rolls:
 
@@ -47,16 +47,16 @@
 
 ## Equipment:
 
-| Name                                | #  | Class                                         | Tier      | Durability | LB    | Value  |
-| ----------------------------------- | -- | --------------------------------------------- | --------- | ---------- | ----- | ------ |
-| Epilogue                            | 1  | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?      |
-| Light Crossbow                      | 1  | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc  |
-| Barbed Broadhead Bolt               | 20 | Wounding Bolt                                 | Mundane   | -          | 0.075 | 7 cc |
-| Case, Crossbow Bolts (capacity: 20) | 1  |                                               | Mundane   |            | 1     | 1 bc   |
-|                                     |    |                                               |           |            |       |        |
-| Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc   |
-| Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc   |
-| Leather Cuirass and Pauldrons       | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 4     | 3 bc   |
+| Name                                | #  | Class                                         | Tier      | Durability | LB    | Value |
+| ----------------------------------- | -- | --------------------------------------------- | --------- | ---------- | ----- | ----- |
+| Epilogue                            | 1  | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?     |
+| Light Crossbow                      | 1  | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc |
+| Barbed Broadhead Bolt               | 20 | Wounding Bolt                                 | Mundane   | -          | 0.075 | 7 cc  |
+| Case, Crossbow Bolts (capacity: 20) | 1  |                                               | Mundane   |            | 1     | 1 bc  |
+|                                     |    |                                               |           |            |       |       |
+| Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc  |
+| Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc  |
+| Leather Cuirass and Pauldrons       | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 4     | 3 bc  |
 
 ## Destiny Points: 0/3
 

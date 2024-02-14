@@ -4,12 +4,12 @@
 
 ## Attributes and Core Skills
 
-| STR       | 0 |    | RFX             | 0 |    | INT               | 0 |    |
+| STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 3d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 1 | 3d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
+| Athletics | 1 | 5d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
+| Climb     | 1 | 5d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
+| Lift      | 0 | 4d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -21,18 +21,18 @@
 
 |             Name             |                                 Effect                                 | Duration |                                                       Source                                                       |
 | :--------------------------: | :--------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|    Minor Silver Weakness    |         +1 to the level of injury received from Silver damage.         |          |                                                    Fellkin blood                                                    |
+|    Minor Silver Weakness    |         +1 to the level of injury received from Silver damage.         |          |                                                    Fellblood                                                    |
 |    Physical Defense Level    |                                   3                                   |          |                                                        Armor                                                        |
 |         Medium Size         |                         5x5 ft on battle map.                         |          |                                                                                                                    |
 |      Language: Babelish      |                          Can speak Babelish.                          |          |                                                                                                                    |
 |       Language: Pirish       |                           Can speak Pirish.                           |          |                                                                                                                    |
 | Disabling: Extreme Prejudice | Overwhelming hatred/disgust<br />of Brightkin and Dawn Empire members. |          |                                                                                                                    |
 |       Equipment Weight       |                                 30 lb                                 |          |                                                      Equipment                                                      |
-|    Humanoid Carry Weight    |                                 220 lb                                 |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|         Light Weight         |                    -0d6 to STR/RFX governed skills                    |          |                                              0% - 25% of carry weight                                              |
-|   Humanoid Movement Speed   |                                 35 ft                                 |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|     Humanoid Swim Speed     |                                 20 ft                                 |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|     Humanoid Climb Speed     |                                 20 ft                                 |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|    Carry Weight    |                                 220 lb                                 |          | +50 lbs Carry Weight per Lift dice |
+|         Light Weight         |                    -0d6 to STR/RFX governed Dice Pools                    |          |                                              0% - 25% of carry weight                                              |
+|        Terrestrial Combat Speed        |                                 50 ft                                 |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
+|          Swim Combat Speed          |                                 20 ft                                 |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
+|         Climb Combat Speed         |                                 20 ft                                 |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
 
 ## Combat Rolls
 
@@ -63,12 +63,12 @@
 | Leather Cuirass and Pauldron | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  4  |  3 bc  |
 | Leather Cuisses and Greaves  | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  3  |  2 bc  |
 | Leather Vambrace             | 1 |                 Phy. Def. 0.5                 | Mundane |   12/12   |  2  | 1.5 bc |
-| Clothes, Common              | 1 |                                              | Mundane |            |  3  |  50 cc  |
+| Clothes, Common              | 1 |                                              | Mundane |            |  3  | 50 cc |
 | Longbow                      | 1 |                   Heavy Bow                   | Mundane |   12/12   |  4  | 50 bc |
 | Quiver (capacity: 20)        | 1 |                                              | Mundane |            |  1  |  1 bc  |
 | Broadhead Arrow              | 20 |                Standard Arrow                | Mundane |     -     | 0.05 |  5 cc  |
-| Barbed Broadhead Arrow       | 20 |                Wounding Arrow                | Mundane |     -     | 0.05 | 7 cc |
-| Bodkin Arrow                 | 20 |               Anti-armor Arrow               | Mundane |     -     | 0.05 |  10 cc  |
+| Barbed Broadhead Arrow       | 20 |                Wounding Arrow                | Mundane |     -     | 0.05 |  7 cc  |
+| Bodkin Arrow                 | 20 |               Anti-armor Arrow               | Mundane |     -     | 0.05 | 10 cc |
 | Arming Sword                 | 1 | Medium Thrusting Sword, Medium Slashing Sword | Mundane |   12/12   |  2  | 10 bc |
 
 ## Containers

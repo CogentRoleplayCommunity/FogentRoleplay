@@ -13,10 +13,9 @@
 
 ## Vocations and Vocational Skills
 
-| Beast {STR, RFX}            | 2 | 7d6 |
+| Beast {STR, RFX}            | 1 | 6d6 |
 | --------------------------- | :-: | :-: |
-| Large Stomp {STR, RFX, INT} | 2 | 7d6 |
-| Bite {STR, RFX, INT}        | 0 | 4d6 |
+| Large Stomp {STR, RFX, INT} | 1 | 5d6 |
 
 ## Effects
 
@@ -25,18 +24,17 @@
 | Physical Defense Level |                0                |          |                                                        Armor                                                        |
 |       Large Size       |     10x10 ft on battle map.     |          |                                                                                                                    |
 |    Equipment Weight    |              33 lb              |          |                                                      Equipment                                                      |
-| 4-Legged Carry Weight |             600 lb             |          | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
-| 4-Legged Movement Speed |              60 ft              |          |                              50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   4-Legged Swim Speed   |              35 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  4-Legged Climb Speed  |              30 ft              |          |                                 0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                 |
+| Carry Weight |             600 lb             |          | +50 lbs Carry Weight per Lift dice |
+|      Light Weight      | -0d6 to STR/RFX governed Dice Pools |          |                                              0% - 25% of carry weight                                              |
+| Terrestrial Combat Speed |              60 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
+|   4-Legged Swim Combat Speed   |              35 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
+|  4-Hooved Climb Combat Speed  |              30 ft              |          |                                 +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)                                 |
 
 ## Combat Rolls
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Stomp | 7d6<br />(+1d6) |     (+1d6)     |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Bite    | 5d6<br />(+1d6) |     (+1d6)     |       None       |      2      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
+| Large Stomp | 5d6<br />(+1d6) |      None      |  6d6<br />(+1d6)  |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ## Equipment
 

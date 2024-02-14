@@ -13,10 +13,10 @@
 
 ## Vocations and Vocational Skills
 
-| Beast {STR, RFX}           | 1 | 5d6 |
-| -------------------------- | :-: | :-: |
-| Small Bite {STR, RFX, INT} | 0 | 3d6 |
-| Horn {STR, RFX, INT}       | 1 | 4d6 |
+| Beast {STR, RFX}          | 1 | 5d6 |
+| ------------------------- | :-: | :-: |
+| Weak Bite {STR, RFX, INT} | 0 | 3d6 |
+| Horn {STR, RFX, INT}      | 1 | 4d6 |
 
 ## Effects
 
@@ -25,13 +25,13 @@
 |  Physical Defense Level  |           0           |          |                           Armor                           |
 |       Medium Size       | 5x5 ft on battle map. |          |                                                          |
 |     Language: Primal     |   Can speak Primal.   |          |                                                          |
-| 4-Legged Movement Speed |        75 ft        |          | 50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics) |
-|   4-Legged Swim Speed   |         30 ft         |          | 15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics) |
-|  4-Legged Climb Speed  |         0 ft         |          |    0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)    |
+| 4-Legged Terrestrial Combat Speed |        75 ft        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|   4-Legged Swim Combat Speed   |         30 ft         |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |
+|  4-Legged Climb Combat Speed  |         0 ft         |          |    +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)    |
 
 ## Combat Rolls
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Bite | 3d6<br />(+0d6) |      None      |       None       |      0      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
-|   Horns   | 4d6<br />(+1d6) |      +1d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Weak Bite |      None      | 2d6<br />(-1) |       None       |      0      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+|   Horns   |      None      | 4d6<br />(+1d6) |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |

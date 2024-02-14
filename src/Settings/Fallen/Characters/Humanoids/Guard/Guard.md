@@ -9,7 +9,7 @@
 | Athletics | 0 | 2d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 2d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 2d6 | Sleight of Hand | 0 | 2d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 2d6 | Stealth         | 0 | 2d6 | Will              | 0 | 3d6 |
+| Lift      | 1 | 3d6 | Stealth         | 0 | 2d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -24,12 +24,12 @@
 | Physical Defense Level |                6                |          |                                                        Armor                                                        |
 |       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
 |   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
-|    Equipment Weight    |              55 lb              |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |             120 lb             |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Medium Weight      | -1d6 to STR/RFX governed skills |          |                                              25% - 50% of carry weight                                              |
-| Humanoid Movement Speed |              30 ft              |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |              15 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |              15 ft              |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+|    Equipment Weight    |              66 lb              |          |                                                      Equipment                                                      |
+|  Carry Weight  |             120 lb             |          | +50 lbs Carry Weight per Lift dice |
+|      Medium Weight      | -1d6 to STR/RFX governed Dice Pools |          |                                              25% - 50% of carry weight                                              |
+| Terrestrial Combat Speed |              30 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
+|   Swim Combat Speed   |              15 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
+|  Climb Combat Speed  |              15 ft              |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
 
 ## Combat Rolls
 

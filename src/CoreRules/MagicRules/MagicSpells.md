@@ -1,4 +1,4 @@
-## Magic Spells
+# Magic Spells
 
 Magic Spells are define how you can use your magic.
 
@@ -8,11 +8,11 @@ Specific Spells are intentionally very specific in what they can accomplish. You
 
 Each spell has magic skill requirements in order to perform. You must satisfy these requirements in order to perform the spell.
 
-### Party Tricks
+## Party Tricks
 
 - [Generic Party Trick](Spells/PartyTricks/GenericPartyTrick.md)
 
-### Novice Spells (Cantrips)
+## Novice Spells (Cantrips)
 
 Generic Spells:
 
@@ -28,7 +28,7 @@ Specific Spells:
 - [Thunder Blade](Spells/Novice/ThunderBlade.md)
 - [Wounding Words](Spells/Novice/WoundingWords.md)
 
-### Apprentice Spells
+## Apprentice Spells
 
 Generic Spells:
 
@@ -65,7 +65,7 @@ Specific Spells:
 - [Slow Fall](Spells/Apprentice/SlowFall.md)
 - [Weird Insight](Spells/Apprentice/WeirdInsight.md)
 
-### Adept Spells
+## Adept Spells
 
 Generic Spells:
 
@@ -75,7 +75,7 @@ Specific Spells:
 
 - [Manifest Wings](Spells/Adept/ManifestWings.md)
 
-### Expert Spells
+## Expert Spells
 
 Generic Spells:
 
@@ -83,13 +83,13 @@ Generic Spells:
 
 Specific Spells:
 
-### Master Spells
+## Master Spells
 
 Generic Spells:
 
 Specific Spells:
 
-### Legendary Spells
+## Legendary Spells
 
 Generic Spells:
 

@@ -25,6 +25,14 @@ Character's can gain a skill in the following weapon combat skills.
 - Machine Gun
 - Launcher
 
+## One Handed
+
+Dice modifier added to weapon attacks when held in one hand or an equivalent appendage. This frees up the other hand/appendage to hold a shield, ranged weapon, an important item, ect...
+
+## Two Handed
+
+Dice modifier added to weapon attacks when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For Creature Innate Weapons attacks such as Bite or Horns, denotes that the creature wholely focused with those innate weapons.
+
 ## Dual Wielded
 
 To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of your primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Grants additional dice bonus depending on the Dual Wielded dice of the off-handed weapon being used. Your primary weapon must be a small or medium weapon.
@@ -92,7 +100,7 @@ To duel wield the character must have at least one proficiency point in both of 
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-|         Unarmed         |       -1d       |       -1d       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+|         Unarmed         |       -1       |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 | Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ## Small Weapons
@@ -164,7 +172,7 @@ To duel wield the character must have at least one proficiency point in both of 
 |  Large Hafted Axe  |      +0d6      |      +3d6      |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 | Large Hafted Blade |      +0d6      |      +3d6      |       None       |      2      | Melee |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 | Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      | Melee |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Large Hafted Blunt |       -1d       |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Large Hafted Blunt |       -1       |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ### Large sword
 
@@ -192,10 +200,10 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-|  Reach Hafted Axe  |       -2d       |      +4d6      |       None       |      3      | Reach |        Hew        |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Reach Hafted Blade |       -2d       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Reach Hafted Point |       -2d       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Reach Hafted Blunt |       -2d       |      +2d6      |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+|  Reach Hafted Axe  |       -1       |      +4d6      |       None       |      3      | Reach |        Hew        |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Reach Hafted Blade |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Reach Hafted Point |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Reach Hafted Blunt |       -1       |      +2d6      |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ### Greatsword
 
@@ -203,8 +211,8 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Thrusting Greatsword |       -2d       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
-| Slashing Greatsword |       -2d       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Thrusting Greatsword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Slashing Greatsword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
 
 ### Longspear
 
@@ -212,10 +220,42 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
-| Longspear |       -2d       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
+| Longspear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |        None        | {STR,RFX,INT}             |
 
 ### Exotic Reach
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
 | Whip |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+
+## Medium Sized Creature Innate Weapons
+
+Medium Sized creatures innate weapons, such as claws, bites, etc...
+
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+| Claws |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        | {STR,RFX,INT}             |
+| Stomp |      +0d6      |      None      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Horns |      None      |      +1d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+
+- Claws ~= Small Slashing Blade
+- Bite ~= Short Spear
+- Stomp ~= Small Blunt
+- Horns ~= Small Thrusting Point
+
+## Large Sized Creature Innate Weapons
+
+Large Sized creatures innate weapons, such as claws, bites, etc...
+
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class | Governing<br />Attributes |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: | ------------------------- |
+| Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |        None        | {STR,RFX,INT}             |
+| Large Stomp |      +0d6      |      None      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+| Large Horns |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        | {STR,RFX,INT}             |
+
+- Large Claws ~= Medium Slashing Sword
+- Large Bite ~= Spear
+- Large Stomp ~= Medium Blunt
+- Large Horns ~= Medium Horns

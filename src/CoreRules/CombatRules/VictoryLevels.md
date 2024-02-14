@@ -2,7 +2,6 @@
 
 - Victory levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat. If STR is negative, the level of Victory increases by 1.
 - Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat. If INT is negative, the level of Victory increases by 1.
-- A character is rendered Unconscious once they've taken a summed 5 or above injury dice.
 - Any lower victory level outcome can be achieved.
 
 ## Level 1 victory
@@ -35,7 +34,7 @@ The character can either roll a Lift check or take the average amount of wins ro
 
 ## Level 2 victory
 
-### Medium injury
+### Medium Injury
 
 -2 dice to all dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
 
@@ -49,7 +48,7 @@ Once already in a Grapple, a character as part of their declaration phase can de
 
 ## Level 3 victory
 
-### Serious injury
+### Serious Injury
 
 –3 dice to all dice checks and the character will die in time if the wound is untreated.
 
@@ -59,11 +58,11 @@ Opponent gains the [Prone](./Conditions.md#prone) condition.
 
 A character can declare they are attempting to get up on a round they start prone. Getting up requires the downed opponent to use their entire movement speed. They are able to regain their footing and remove the Prone condition at the end of the round they were getting up.
 
-Instead of getting up, a character can remain prone and crawl. They use their climb speed to crawl instead of their movement speed.
+Instead of getting up, a character can remain prone and crawl. They use their Climb Combat Speed to crawl instead of their movement speed.
 
 ## Level 4 Victory
 
-### Fatal injury
+### Fatal Injury
 
 –4 dice to all dice checks, gains [Incapacitated](./Conditions.md#incapacitated) condition, and will die very soon if untreated.
 
@@ -79,6 +78,6 @@ Opponent is rendered unconscious by head trauma, blood chokes, etc. Opponent rec
 
 ## Level 5 victory and higher
 
-### Death blow
+### Death Blow
 
 An instant kill.

@@ -7,9 +7,9 @@
 | STR       | -1 |    | RFX             | 0 |    | INT               | 1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 0 | 2d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 4d6 |
-| Climb     | 0 | 2d6 | Perception      | 1 | 4d6 | General Knowledge | 1 | 6d6 |
+| Climb     | 0 | 2d6 | Perception      | 1 | 4d6 | General Knowledge | 1 | 5d6 |
 | Endurance | 0 | 2d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
-| Lift      | 0 | 2d6 | Stealth         | 0 | 3d6 | Will              | 1 | 6d6 |
+| Lift      | 0 | 2d6 | Stealth         | 0 | 3d6 | Will              | 1 | 5d6 |
 
 ## Vocations and Vocational Skills
 
@@ -23,19 +23,19 @@
 ## Effects:
 
 |          Name          |                         Effect                         | Duration |                                                       Source                                                       |
-| :---------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellkin blood                                                    |
+| :--------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
+| Minor Silver Weakness | +1 to the level of injury received from Silver damage. |          |                                                    Fellblood                                                    |
 | Physical Defense Level |                           0                           |          |                                                        Armor                                                        |
-|       Medium Size       |                 5x5 ft on battle map.                 |          |                                                                                                                    |
+|      Medium Size      |                 5x5 ft on battle map.                 |          |                                                                                                                    |
 |   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
 |    Language: Pirish    |                   Can speak Pirish.                   |          |                                                                                                                    |
-|    Disabling: Feeble    |                         -1 STR                         |          |                                                                                                                    |
+|   Disabling: Feeble   |                         -1 STR                         |          |                                                                                                                    |
 |    Equipment Weight    |                         11 lb                         |          |                                                      Equipment                                                      |
-|  Humanoid Carry Weight  |                         70 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, + 40 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      |            -0d6 to STR/RFX governed skills            |          |                                              0% - 25% of carry weight                                              |
-| Humanoid Movement Speed |                         30 ft                         |          |                              30 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   Humanoid Swim Speed   |                         10 ft                         |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  Humanoid Climb Speed  |                         10 ft                         |          |                                15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                |
+| Carry Weight |                         70 lb                         |          | +50 lbs Carry Weight per Lift dice |
+|      Light Weight      |            -0d6 to STR/RFX governed Dice Pools            |          |                                              0% - 25% of carry weight                                              |
+|     Terrestrial Combat Speed     |                         20 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
+|       Swim Combat Speed       |                         10 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
+|      Climb Combat Speed      |                         10 ft                         |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
 
 ## Combat Rolls:
 
@@ -66,7 +66,7 @@
 
 ## Destiny Points: 0/3
 
-## Focus: 5/5
+## Focus: 3/5
 
 ## Equipment:
 
@@ -86,7 +86,7 @@
 | Common Book, Hard Bound        |  1  |                |        | Mundane |            |  1  | 2 bc |
 | Calligrapher's Supplies        |  1  |                |        | Mundane |            |  5  | 10 bc |
 | Copper Coin                    |  0  |                |        | Mundane |            | 0.02 | 1 cc |
-| Bronze Coin                    | 54.5 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Coin                    | 54.5 |                |        | Mundane |            | 0.02 | 3 bc |
 
 ## Appearance
 

@@ -62,8 +62,6 @@ Tattoo Runecraft weapons
 
 Soulcraft soul gem binding souls
 
-Fix blood healing prices
-
 Conduits or Spellcasting focus. Can be inscribed with runes and charge with energy. The level of the conduit determines how many runes it can hold.
 
 Transfer stuff from Roll 20
@@ -103,3 +101,9 @@ First Watch
 This is a magic shield that gives the user a +2 to perception.
 
 Moonshadow
+
+Hew sword for Falchion
+
+Added Net with 5/15 range
+
+Mancatcher

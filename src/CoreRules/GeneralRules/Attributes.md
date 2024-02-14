@@ -35,7 +35,7 @@ STR has the following effects:
 - For every point in STR the character can a reduce a physical victory level achieved against them in combat once every combat encounter.
 - For every point in STR the character can reduce a physical injury against them outside of combat.
 - STR allow your character to carry around heavier gear without being penalized.
-- STR increases climb and swim speed in combat.
+- STR increases climb and Swim Combat Speed in combat.
 
 ## Reflex (RFX)
 

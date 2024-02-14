@@ -6,7 +6,7 @@
 
 | STR       | 1 |    | RFX             | 0 |    | INT               | -1 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 6d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 2d6 |
+| Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 2d6 |
 | Climb     | 0 | 4d6 | Perception      | 2 | 5d6 | General Knowledge | -1 | 1d6 |
 | Endurance | 2 | 6d6 | Sleight of Hand | 0 | 3d6 | Survival          | 1 | 3d6 |
 | Lift      | 0 | 4d6 | Stealth         | 0 | 3d6 | Will              | 1 | 3d6 |
@@ -25,18 +25,18 @@
 | Physical Defense Level |                0                |          |                                                        Armor                                                        |
 |       Medium Size       |     5x5 ft on battle map.     |          |                                                                                                                    |
 |    Equipment Weight    |              33 lb              |          |                                                      Equipment                                                      |
-| 4-Legged Carry Weight |             320 lb             |          | 120 lb (Base), +200 lb positive STR,<br />-50 lb negative STR, + 80 lb positive Lift,<br />- 20 lb negative Lift |
-|      Light Weight      | -0d6 to STR/RFX governed skills |          |                                              0% - 25% of carry weight                                              |
-| 4-Legged Movement Speed |              60 ft              |          |                              50 ft (Base), +/-10 ft (per RFX), +/-5 ft (per Athletics)                              |
-|   4-Legged Swim Speed   |              30 ft              |          |                              15 ft (Base), +/-5 ft (per STR), +/-5 ft (per Athletics)                              |
-|  4-Legged Climb Speed  |              5 ft              |          |                                 0 ft (Base), +/-5 ft (per STR), +/-5 ft (per Climb)                                 |
+| Carry Weight |             320 lb             |          | +50 lbs Carry Weight per Lift dice |
+|      Light Weight      | -0d6 to STR/RFX governed Dice Pools |          |                                              0% - 25% of carry weight                                              |
+| Terrestrial Combat Speed |              60 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
+|   4-Legged Swim Combat Speed   |              30 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
+|  4-Hooved Climb Combat Speed  |              5 ft              |          |                                 +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)                                 |
 
 ## Combat Rolls
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|   Stomp   | 4d6<br />(+0d6) |     (+0d6)     |       None       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Small Bite | 3d6<br />(+0d6) |      None      |       None       |      2      | Melee | Pierce, Bludgeon |          1          |        None        |        None        |
+|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   Stomp   | 4d6<br />(+0d6) |      None      |  5d6<br />(+1d6)  |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Weak Bite |      None      |  2d6<br />(-1)  |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 
 ## Equipment
 
