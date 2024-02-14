@@ -40,7 +40,7 @@
 |                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                  |                          5/5                           |          |      Vocation/Magic Governing Skill Level       |
 |                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                          0/3                           |          |               Awarded by Narrator               |
 
-## [Combat Rolls](./../../../../../CoreRules/CombatRules/WeaponCombatRolls.md)
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
 ### Innate
 

@@ -63,7 +63,7 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
-- [Weapon Combat Roll](./src/CoreRules/CombatRules/WeaponCombatRolls.md)
+- [Weapon Combat Roll](./src/CoreRules/CombatRules/CombatRolls.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
