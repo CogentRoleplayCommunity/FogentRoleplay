@@ -66,6 +66,7 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
+- [Injury](./src/CoreRules/CombatRules/Injury.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
