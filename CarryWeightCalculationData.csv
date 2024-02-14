@@ -1,3 +1,2 @@
 name,baseWeight,governingAttribute,weightIncreasePerAttribute,governingSkill,weightIncreasePerSkill
-Humanoid Carry Weight,120,STR,100,Lift,40
-4-Legged Carry Weight,120,STR,200,Lift,80
+Carry Weight,120,STR,100,Lift,40
