@@ -24,7 +24,6 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ![Alt text](CogentRoleplayAttribution_Wide.png)
 
-
 ## Settings
 
 Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made setting you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your world!
@@ -78,6 +77,8 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Light and Vision](./src/CoreRules/AdvancedRules/LightAndVision.md)
 - [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
+- [Containers](./src/CoreRules/AdvancedRules/Containers.md)
+- [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 - [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
 - [Item Durability](./src/CoreRules/AdvancedRules/ItemDurability.md)
 - [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
