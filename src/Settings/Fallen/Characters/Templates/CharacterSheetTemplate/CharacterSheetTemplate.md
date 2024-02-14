@@ -64,7 +64,7 @@
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                          |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                          |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                            |                                                        |          |                                                 |
-|                                              Equipment Weight                                              |                          0 lb                          |          |                    Equipment                    |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)            |                          0 lb                          |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         150 lb                         |          |       +50 lbs Carry Weight per Lift dice        |
 |           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d6 to STR/RFX governed Dice Pools           |          |            0% - 25% of carry weight             |
 
