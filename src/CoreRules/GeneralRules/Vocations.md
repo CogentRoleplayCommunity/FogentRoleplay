@@ -2,17 +2,19 @@
 
 Vocations represent your character's job, class, or life path. You should check with your narrator to make sure that your vocation exists in the setting. Some traditional fantasy example vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other example include Vagrant, Chef, or Sailor. Each vocation has one or many governing attributes that logically would govern it.
 
+## Vocation Skills
+
 All skills under a vocation have their levels capped by their vocation level. For instance, if a character had a level 2 vocation, any skill under it couldn't increase above 2, until it's vocation increased.
 
 Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes. There are two kinds of skills that fall under a vocation, Vocational Skills and Combat Skills.
 
-## Vocational Skills
+### Vocational Skills
 
 Vocational Skills are skills that your vocation would logically give you. For instance, a Baker would logically have a Baking skill. Player's can make Vocational Skills at any point with approval from the narrator and use them for applicable skill checks. It is smart to write down vocational skills under your vocation as a reminder to have on your character sheet.
 
 A Vocational Skill's level is inherited from Vocation's level. You can not assist vocational skills with the vocation they are fall under, as they are essentially relying on the same shared skill point investment.
 
-## Combat Skills
+### Combat Skills
 
 Combat skills include all weapon skills and magic skills. These skills require skill point to be increased.
 
