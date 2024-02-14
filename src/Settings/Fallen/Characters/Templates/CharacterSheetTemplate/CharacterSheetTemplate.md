@@ -24,7 +24,7 @@
 
 |                                                  Name                                                  |                         Effect                         | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                  Fellkin blood                  |
+|          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                  Fellblood                  |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           0                           |          |                      Armor                      |
 |                  [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                  |                 5x5 ft on battle map.                 |          |                                                  |
 |                                           Language: Babelish                                           |                  Can speak Babelish.                  |          |                                                  |

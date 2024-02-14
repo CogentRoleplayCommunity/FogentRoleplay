@@ -22,7 +22,7 @@
 
 |          Name          |                            Effect                            | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  |    +1 to the level of injury received from Silver damage.    |          |                                                    Fellkin blood                                                    |
+|  Minor Silver Weakness  |    +1 to the level of injury received from Silver damage.    |          |                                                    Fellblood                                                    |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                       Genetic                                                       |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
 |  Disabling: Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                                                                                    |

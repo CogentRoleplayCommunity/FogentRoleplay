@@ -22,7 +22,7 @@
 
 |                  Name                  |                                                            Effect                                                            | Duration |                      Source                      |
 | :------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                  Fellkin blood                  |
+|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                  Fellblood                  |
 |  Medium Non-Magical Pierce Resistance  |                                -2 to victory levels received from Non-Magical Pierce damage.                                |          |                                                  |
 |   Medium Non-Magical Hew Resistance   |                                  -2 to victory levels received from Non-Magical Hew damage.                                  |          |                                                  |
 |  Medium Non-Magical Slash Resistance  |                                 -2 to victory levels received from Non-Magical Slash damage.                                 |          |                                                  |
