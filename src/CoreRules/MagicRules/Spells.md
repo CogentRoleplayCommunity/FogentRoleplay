@@ -1,24 +1,12 @@
-# Magic Spells
+# Spells
 
-Magic Spells are define how you can use your magic.
-
-Generic spells are intentionally left open ended. These spells are really only limited by the character's stats and their own creativity. For instance, there is no need for a Fire Ball spell as Sphere Magic covers it easily.
-
-Specific Spells are intentionally very specific in what they can accomplish. You should really think about these as cool ways someone has figured out they to use their type of magic.
+Spells are very specific ways a character can use their magic. You should really think about these as cool ways someone has figured out they to use their type of magic.
 
 Each spell has magic skill requirements in order to perform. You must satisfy these requirements in order to perform the spell.
 
 ## Party Tricks
 
-- [Generic Party Trick](Spells/PartyTricks/GenericPartyTrick.md)
-
 ## Novice Spells (Cantrips)
-
-Generic Spells:
-
-- [Generic Novice Spell](Spells/Novice/GenericNoviceSpell.md)
-
-Specific Spells:
 
 - [Blade Barrier](Spells/Novice/BladeBarrier.md)
 - [Illuminate](Spells/Novice/Illuminate.md)
@@ -29,12 +17,6 @@ Specific Spells:
 - [Wounding Words](Spells/Novice/WoundingWords.md)
 
 ## Apprentice Spells
-
-Generic Spells:
-
-- [Generic Apprentice Spell](Spells/Apprentice/GenericApprenticeSpell.md)
-
-Specific Spells:
 
 - [Babel&#39;s Clarity](Spells/Apprentice/Babel'sClarity.md)
 - [Bewitch](Spells/Apprentice/Bewitch.md)
@@ -67,30 +49,10 @@ Specific Spells:
 
 ## Adept Spells
 
-Generic Spells:
-
-- [Generic Adept Spell](Spells/Adept/GenericAdeptSpell.md)
-
-Specific Spells:
-
 - [Manifest Wings](Spells/Adept/ManifestWings.md)
 
 ## Expert Spells
 
-Generic Spells:
-
-- [Generic Expert Spell](./Spells/Expert/GenericExpertSpell.md)
-
-Specific Spells:
-
 ## Master Spells
 
-Generic Spells:
-
-Specific Spells:
-
 ## Legendary Spells
-
-Generic Spells:
-
-Specific Spells:
