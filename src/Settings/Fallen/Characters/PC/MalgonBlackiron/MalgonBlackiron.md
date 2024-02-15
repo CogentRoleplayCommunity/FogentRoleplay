@@ -89,8 +89,8 @@
 | Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
 | Dice Set          | 1 |                  |        | Mundane |            | 0.2 | 10 cc |
 | Ring, Exquisite   | 2 |                  |        | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 42 |                  |        | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 50 |                  |        | Mundane |            | 0.02 | 1 cc |
+| Bronze Coin       | 47 |                  |        | Mundane |            | 0.02 | 1 bc |
+| Copper Coin       | 51 |                  |        | Mundane |            | 0.02 | 1 cc |
 
 | Name                   | # |      Class      |         Effect         |   Tier   | Durability |  LB  | Value |
 | ---------------------- | :-: | :-------------: | :---------------------: | :-------: | :--------: | :--: | :----: |
