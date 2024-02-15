@@ -1,10 +1,10 @@
 # Generic Magic
 
-Generic Magic can be used for generic creative uses of magic and is meant to allow/encourage player creative thinking.
+Generic Magic can be used for generic creative uses of magic and is meant to allow/encourage player's to try interesting things, limited only by the character's stats, the player's creativity, and the narrators supervision. Generic magic is intentionally left open ended.
 
-For a Magic Skill roll, these uses of magic have the ranges of any of the below option on the "Combat Spells" table below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of any ranged magic is unavailable.
+For a Magic Skill roll, these uses of magic have the ranges of any of the below option on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of any ranged magic is unavailable.
 
-As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for 1 round. Magic Weapons allows a character create a magic attack using the stats of weapons and are intended to be flavored by the character. If both hands are available, as part of the same spell each both hands can be used to benefit for Two Handed or Dual Wielded. Damage type is determined by the damage type of the magic skill used.
+As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for 1 round. Combat Magic allows a character create a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic are intended to be flavored by the character. If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit for Two Handed or Dual Wielded. Damage type is determined by the damage type of the magic skill used.
 
 ## Party Trick Generic Magic
 
