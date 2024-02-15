@@ -43,7 +43,7 @@
 |  Large Hafted Axe  |    4d6<br />(+0d6)    |    7d6<br />(+3d6)    |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        |
 |    Short Spear    | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
 | Thrown Short Spear | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |        None        |
-|      Unarmed      |    3d6<br />(-1d)    |    3d6<br />(-1d)    |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|      Unarmed      |    3d6<br />(-1)    |    3d6<br />(-1)    |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ### Combat Spells
 

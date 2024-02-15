@@ -44,7 +44,7 @@
 
 |  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Unarmed |       -1d       |       -1d       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+| Unarmed |       -1       |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ### Weapons
 

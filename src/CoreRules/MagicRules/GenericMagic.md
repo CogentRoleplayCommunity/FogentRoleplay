@@ -48,9 +48,9 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Unarmed |       -1d       |       -1d       |       None        |      0      | Melee |                   |           Rapid           |        None         |          0          |
+| Mag. Unarmed |       -1       |       -1       |       None        |      0      | Melee |                   |           Rapid           |        None         |          0          |
 |              |                 |                 |                   |             |       |                   |                           |                     |                     |
-|  Mag. Puff   |       -1d       |       -1d       |       None        |      0      | Near  |                   |         Standard          |        None         |          0          |
+|  Mag. Puff   |       -1       |       -1       |       None        |      0      | Near  |                   |         Standard          |        None         |          0          |
 
 ### Novice Combat Magic
 
@@ -82,7 +82,7 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 |                          |                 |                 |                   |             |             |                   |                           |                     |                     |
 | Mag. Large Hafted Blade  |      +0d6       |      +3d6       |       None        |      2      |    Melee    |                   |           Rapid           |        None         |          2          |
 | Mag. Large Hafted Point  |      +0d6       |      +2d6       |       None        |      3      |    Melee    |                   |           Rapid           |        None         |          2          |
-| Mag. Large Hafted Blunt  |       -1d       |      +1d6       |       None        |      5      |    Melee    |                   |           Rapid           |        None         |          2          |
+| Mag. Large Hafted Blunt  |       -1       |      +1d6       |       None        |      5      |    Melee    |                   |           Rapid           |        None         |          2          |
 |        Mag. Spear        |      +2d6       |      +3d6       |       None        |      3      |    Melee    |                   |        Spear Rapid        |        None         |          2          |
 |                          |                 |                 |                   |             |             |                   |                           |                     |                     |
 |    Mag. Thrown Spear     |      +2d6       |      +2d6       |       None        |      3      |    Short    |                   |         Standard          |        None         |          2          |
@@ -93,10 +93,10 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 |          Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Reach Hafted Blade |       -2d       |      +4d6       |       None        |      3      |    Reach     |                   |           Rapid           |        None         |          3          |
-| Mag. Reach Hafted Point |       -2d       |      +3d6       |       None        |      4      |    Reach     |                   |           Rapid           |        None         |          3          |
-| Mag. Reach Hafted Blunt |       -2d       |      +2d6       |       None        |      5      |    Reach     |                   |           Rapid           |        None         |          3          |
-|     Mag. Longspear      |       -2d       |      +4d6       |       None        |      4      |    Reach     |                   |        Spear Rapid        |        None         |          3          |
+| Mag. Reach Hafted Blade |       -2       |      +4d6       |       None        |      3      |    Reach     |                   |           Rapid           |        None         |          3          |
+| Mag. Reach Hafted Point |       -2       |      +3d6       |       None        |      4      |    Reach     |                   |           Rapid           |        None         |          3          |
+| Mag. Reach Hafted Blunt |       -2       |      +2d6       |       None        |      5      |    Reach     |                   |           Rapid           |        None         |          3          |
+|     Mag. Longspear      |       -2       |      +4d6       |       None        |      4      |    Reach     |                   |        Spear Rapid        |        None         |          3          |
 |                         |                 |                 |                   |             |              |                   |                           |                     |                     |
 |     Mag. Heavy Bow      |      None       |      +3d6       |       None        |      3      | Sharpshooter |                   |         Standard          |        None         |          3          |
 |    Mag. Magic Sphere    |      None       |      +3d6       |       None        |      3      | Sharpshooter |                   |             1             | Sphere Calculation  |          3          |
