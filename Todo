@@ -1,10 +1,9 @@
 ## Fogent Todo:
 - Fix Gun Ranges
-- Recalculate all movement speeds
-- Fix player characters Spears and magic ranges and monsters
 - Victory levels link in new sheet
 - Add shields to generic magic
 - Bite Grab
+- Rebuild all sheet, new weights, new movement speeds, new magic, new character sheet with links
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
