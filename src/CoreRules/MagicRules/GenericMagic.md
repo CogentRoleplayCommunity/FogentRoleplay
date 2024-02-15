@@ -48,70 +48,70 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Party Trick Puff |       -1d       |       -1d       |       None        |      0      | Near  |                   |         Standard          |        None         |          0          |
-|                  |                 |                 |                   |             |       |                   |                           |                     |                     |
-|     Unarmed      |       -1d       |       -1d       |       None        |      0      | Melee |                   |           Rapid           |        None         |          0          |
+| Party Trick Puff |       -1d       |       -1d       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
+|                  |                |                |                  |            |      |                  |                          |                    |                    |
+|     Unarmed     |       -1d       |       -1d       |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 
 ### Novice Combat Magic
 
-|          Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Hand Protection Unarmed |      +0d6       |      +0d6       |       None        |      0      | Melee  |     Bludgeon      |           Rapid           |        None         |          0          |
-|  Small Thrusting Point  |      +0d6       |      +0d6       |       +1d6        |      2      | Melee  |                   |           Rapid           |        None         |          0          |
-|  Small Slashing Blade   |      +1d6       |      +1d6       |       +1d6        |      0      | Melee  |                   |           Rapid           |        None         |          0          |
-|                         |                 |                 |                   |             |        |                   |                           |                     |                     |
-|   Thrown Small Blade    |      +1d6       |      +1d6       |       None        |      0      | Short  |                   |           Quick           |        None         |          0          |
-|   Thrown Small Point    |      +0d6       |      +0d6       |       None        |      1      | Short  |                   |           Quick           |        None         |          0          |
-|          Sling          |      +1d6       |      +1d6       |       None        |      1      | Medium |                   |         Standard          |        None         |          0          |
+| Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|  Small Thrusting Point  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
+|  Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|                        |                |                |                  |            |        |                  |                          |                    |                    |
+|   Thrown Small Blade   |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |          0          |
+|   Thrown Small Point   |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |          0          |
+|          Sling          |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
 
 ### Apprentice Combat Magic
 
-|        Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Medium Hafted Blade |      +2d6       |      +3d6       |       +1d6        |      0      |    Melee    |                   |           Rapid           |        None         |          1          |
-| Medium Hafted Point |      +1d6       |      +2d6       |       +1d6        |      2      |    Melee    |                   |           Rapid           |        None         |          1          |
-| Medium Hafted Blunt |      +0d6       |      +1d6       |       +1d6        |      4      |    Melee    |                   |           Rapid           |        None         |          1          |
-|     Short Spear     |      +2d6       |      +2d6       |       +1d6        |      2      |    Melee    |                   |        Spear Rapid        |        None         |          1          |
-|        Whip         |      +1d6       |      +1d6       |       +1d6        |      0      |    Reach    |                   |           Rapid           |        None         |          1          |
-|                     |                 |                 |                   |             |             |                   |                           |                     |                     |
-| Thrown Short Spear  |      +2d6       |      +2d6       |       None        |      2      |   Medium    |                   |         Standard          |        None         |          1          |
-|    Hand Crossbow    |      +2d6       |      +2d6       |       +1d6        |      1      |   Medium    |                   |         Standard          |        None         |          1          |
-|   Light Crossbow    |      None       |      +2d6       |       None        |      2      |     Far     |                   |          Loading          |        None         |          1          |
-|      Light Bow      |      None       |      +2d6       |       None        |      1      |     Far     |                   |           Quick           |        None         |          1          |
-|  Close Magic Cone   |      None       |      +2d6       |       None        |      3      | Close Cone  |                   |             1             |  Cone Calculation   |          1          |
-|                     |                 |                 |                   |             |             |                   |                           |                     |                     |
-| Large Hafted Blade  |      +0d6       |      +3d6       |       None        |      2      |    Melee    |                   |           Rapid           |        None         |          2          |
-| Large Hafted Point  |      +0d6       |      +2d6       |       None        |      3      |    Melee    |                   |           Rapid           |        None         |          2          |
-| Large Hafted Blunt  |       -1d       |      +1d6       |       None        |      5      |    Melee    |                   |           Rapid           |        None         |          2          |
-|        Spear        |      +2d6       |      +3d6       |       None        |      3      |    Melee    |                   |        Spear Rapid        |        None         |          2          |
-|                     |                 |                 |                   |             |             |                   |                           |                     |                     |
-|    Thrown Spear     |      +2d6       |      +2d6       |       None        |      3      |    Short    |                   |         Standard          |        None         |          2          |
-|   Heavy Crossbow    |      None       |      +3d6       |       None        |      3      |    Long     |                   |      Complex Loading      |        None         |          2          |
-|  Medium Magic Cone  |      None       |      +2d6       |       None        |      3      | Medium Cone |                   |             1             |  Cone Calculation   |          2          |
+| Medium Hafted Blade |      +2d6      |      +3d6      |       +1d6       |      0      |    Melee    |                  |           Rapid           |        None        |          1          |
+| Medium Hafted Point |      +1d6      |      +2d6      |       +1d6       |      2      |    Melee    |                  |           Rapid           |        None        |          1          |
+| Medium Hafted Blunt |      +0d6      |      +1d6      |       +1d6       |      4      |    Melee    |                  |           Rapid           |        None        |          1          |
+|     Short Spear     |      +2d6      |      +2d6      |       +1d6       |      2      |    Melee    |                  |        Spear Rapid        |        None        |          1          |
+|        Whip        |      +1d6      |      +1d6      |       +1d6       |      0      |    Reach    |                  |           Rapid           |        None        |          1          |
+|                    |                |                |                  |            |            |                  |                          |                    |                    |
+| Thrown Short Spear |      +2d6      |      +2d6      |       None       |      2      |   Medium   |                  |         Standard         |        None        |          1          |
+|    Hand Crossbow    |      +2d6      |      +2d6      |       +1d6       |      1      |   Medium   |                  |         Standard         |        None        |          1          |
+|   Light Crossbow   |      None      |      +2d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
+|      Light Bow      |      None      |      +2d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
+|  Close Magic Cone  |      None      |      +2d6      |       None       |      3      | Close Cone |                  |             1             |  Cone Calculation  |          1          |
+|                    |                |                |                  |            |            |                  |                          |                    |                    |
+| Large Hafted Blade |      +0d6      |      +3d6      |       None       |      2      |    Melee    |                  |           Rapid           |        None        |          2          |
+| Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      |    Melee    |                  |           Rapid           |        None        |          2          |
+| Large Hafted Blunt |       -1d       |      +1d6      |       None       |      5      |    Melee    |                  |           Rapid           |        None        |          2          |
+|        Spear        |      +2d6      |      +3d6      |       None       |      3      |    Melee    |                  |        Spear Rapid        |        None        |          2          |
+|                    |                |                |                  |            |            |                  |                          |                    |                    |
+|    Thrown Spear    |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+|   Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |    Long    |                  |      Complex Loading      |        None        |          2          |
+|  Medium Magic Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 
 ### Adept Combat Magic
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Reach Hafted Blade |       -2d       |      +4d6       |       None        |      3      |    Reach     |                   |           Rapid           |        None         |          3          |
-| Reach Hafted Point |       -2d       |      +3d6       |       None        |      4      |    Reach     |                   |           Rapid           |        None         |          3          |
-| Reach Hafted Blunt |       -2d       |      +2d6       |       None        |      5      |    Reach     |                   |           Rapid           |        None         |          3          |
-|     Longspear      |       -2d       |      +4d6       |       None        |      4      |    Reach     |                   |        Spear Rapid        |        None         |          3          |
-|                    |                 |                 |                   |             |              |                   |                           |                     |                     |
-|     Heavy Bow      |      None       |      +3d6       |       None        |      3      | Sharpshooter |                   |         Standard          |        None         |          3          |
-|    Magic Sphere    |      None       |      +3d6       |       None        |      3      | Sharpshooter |                   |             1             | Sphere Calculation  |          3          |
+| Reach Hafted Blade |       -2d       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |          3          |
+| Reach Hafted Point |       -2d       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |          3          |
+| Reach Hafted Blunt |       -2d       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |          3          |
+|     Longspear     |       -2d       |      +4d6      |       None       |      4      |    Reach    |                  |        Spear Rapid        |        None        |          3          |
+|                    |                |                |                  |            |              |                  |                          |                    |                    |
+|     Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
+|   Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |             1             | Sphere Calculation |          3          |
 
 ### Expert Combat Magic
 
-| Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 
 ### Master Combat Magic
 
-| Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 
 ### Legendary Combat Magic
 
-| Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
