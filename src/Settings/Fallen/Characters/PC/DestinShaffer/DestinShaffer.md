@@ -1,99 +1,133 @@
 # Destin Shaffer
 
-![alt_text](DestinShaffer.png)
+![img](./DestinShaffer.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 0 | 3d6 | General Knowledge | 1 | 4d6 |
-| Endurance | 1 | 5d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 1 | 5d6 | Stealth         | 0 | 3d6 | Will              | 1 | 4d6 |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 1 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 0 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 0 |    |
+| ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 4d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 3d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 5d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 3d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 1 | 5d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 3d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Smith {STR}                  | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0 |     |
-| ----------------------------- | :-: | :-: | -------------------------- | - | --- |
-| Medium Hafted {STR, RFX, INT} | 1 | 5d6 | Ferracraft {STR, RFX, INT} | 0 | 4d6 |
-| Unarmed {STR, RFX, INT}       | 1 | 5d6 |                            |   |     |
+| Fellcaster Smith | STR, RFX, INT | 1 |    |
+| ---------------- | :-----------: | :-: | :-: |
+| Medium Hafted    | STR, RFX, INT | 1 | 5d6 |
+| Unarmed          | STR, RFX, INT | 0 | 4d6 |
+| Ferracraft       | STR, RFX, INT | 0 | 4d6 |
 
-## Info:
+## Info
 
-|          Name          |                            Effect                            | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  |    +1 to the level of injury received from Silver damage.    |          |                                                    Fellblood                                                    |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                       Genetic                                                       |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
-|  Disabling: Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                                                                                    |
-| Disabling: Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                                                    Daddy Issues                                                    |
-|    Equipment Weight    |                           23.45 lb                           |          |                                                      Equipment                                                      |
-|  Minor Silver Weakness  |    +1 to the level of injury received from Silver damage.    |          |                                                       Fellkin                                                       |
-|  Carry Weight  |                            260 lb                            |          | +50 lbs Carry Weight per Lift dice |
-|      Light Weight      |                -0d6 to STR/RFX governed Dice Pools                |          |                                              0% - 25% of carry weight                                              |
-|     Terrestrial Combat Speed     |                             50 ft                             |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
-|       Swim Combat Speed       |                            35 ft                            |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
-|       Climb Combat Speed       |                             20 ft                             |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
+|                                                         Name                                                         |                             Info                             | Duration |                      Source                      |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
+|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               1                               |          |                                                  |
+|                                 [Language](./../../../Languages/Languages.md): Babelish                                 |                      Can speak Babelish.                      |          |                                                  |
+|  [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                                                  |
+|                                                                                                                      |                                                              |          |                                                  |
+|                  [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                  |                           23.45 lb                           |          |                    Equipment                    |
+|                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                  |                            250 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
+|                 [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)                 |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                      |                                                              |          |                                                  |
+|                [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                |    +1 to the level of injury received from Silver damage.    |          |                    Fellblood                    |
+|       [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)       |                               0                               |          |                      Armor                      |
+|                                                                                                                      |                                                              |          |                                                  |
+|                         [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                         |                     5x5 ft on battle map.                     |          |                                                  |
+|             [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                             40 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                             20 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                             20 ft                             |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                      |                                                              |          |                                                  |
+|                        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                        |                              5/5                              |          |       Vocation/Magic Governing Skill Level       |
+|                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                              0/3                              |          |               Awarded by Narrator               |
+|                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |                 – 0 dice to all dice checks.                 |          |                      Damage                      |
 
-## Combat Rolls:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  Medium Hafted Blunt  |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Small Thrusting Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|  Thrown Small Point  |      +0d6      |      +0d6      |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Destiny Points: 0/3
+|         Name         | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|        Unarmed        |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|  Medium Hafted Blunt  |                                        +0d6                                        |                                        +1d6                                        |                                          +1d6                                          |                                            4                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Small Thrusting Point |                                        +0d6                                        |                                        +0d6                                        |                                          +1d6                                          |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Small Slashing Blade |                                        +1d6                                        |                                        +1d6                                        |                                          +1d6                                          |                                            0                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|  Thrown Small Point  |                                        +0d6                                        |                                        +0d6                                        |                                          None                                          |                                            1                                            |                         Short                         |                                 Pierce                                 |                                          Quick                                          |                                    None                                    |                                             None                                             |
 
-## Magic
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-### Fellblood: 1/1
+| Name | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :--: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                                              |
 
-### Fellcrafts known:
+### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
 
-## Equipment:
+|     Name     | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
+| :----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Mag. Unarmed |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|              |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                            |
+|  Mag. Puff  |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Near                         |                                                                        |                                        Standard                                        |                                    None                                    |                                     0                                     |
 
-|             Name             | # |                              Class                              |  Tier  | Durability |  LB  | Value |
-| :--------------------------: | - | :-------------------------------------------------------------: | :-----: | :--------: | :--: | :----: |
-|             Club             | 1 |                       Medium Hafted Blunt                       | Mundane |   12/12   |  2  | 10 cc |
-|            Dagger            | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12   |  1  |  2 bc  |
-|       Clothes, Common       | 1 |                                                                | Mundane |            |  3  | 50 cc |
-|       Waterskin (4/4)       | 1 |                                                                | Mundane |            |  5  | 20 cc |
-| Vial of Medium Healing Blood | 1 |                                                                | Mundane |            | 0.25 | 100 bc |
-|        Clothes, Fine        | 1 |                                                                | Mundane |            |  6  | 15 bc |
-|      Satchel (2/5 ft^3)      | 1 |                         12 lb container                         | Mundane |            |  2  |  1 bc  |
+### [Novice Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#novice-combat-magic)
 
-## Containers:
+|             Name             | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
+| :--------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Mag. Hand Protection Unarmed |                                        +0d6                                        |                                        +0d6                                        |                                          None                                          |                                            0                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|  Mag. Small Thrusting Point  |                                        +0d6                                        |                                        +0d6                                        |                                          +1d6                                          |                                            2                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|  Mag. Small Slashing Blade  |                                        +1d6                                        |                                        +1d6                                        |                                          +1d6                                          |                                            0                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|                              |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                            |
+|   Mag. Thrown Small Blade   |                                        +1d6                                        |                                        +1d6                                        |                                          None                                          |                                            0                                            |                         Short                         |                                                                        |                                          Quick                                          |                                    None                                    |                                     0                                     |
+|   Mag. Thrown Small Point   |                                        +0d6                                        |                                        +0d6                                        |                                          None                                          |                                            1                                            |                         Short                         |                                                                        |                                          Quick                                          |                                    None                                    |                                     0                                     |
+|          Mag. Sling          |                                        +1d6                                        |                                        +1d6                                        |                                          None                                          |                                            1                                            |                        Medium                        |                                                                        |                                        Standard                                        |                                    None                                    |                                     0                                     |
 
-### Satchel
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-|   Name   | # |       Class       |  Tier  | Durability | LB | Value |
-| :-------: | - | :----------------: | :-----: | :--------: | :-: | :---: |
-| Whetstone | 1 |                    | Mundane |            |  1  | 1 cc |
-|  Hammer  | 1 | Small Hafted Blunt | Mundane |   12/12   |  3  | 1 bc |
-| Dice Set | 1 |                    | Mundane |            | 0.2 | 10 cc |
+| Name            | # |   [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)   | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------- | :-: | :-------------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Club            | 1 |                       Medium Hafted Blunt                       |                                                                |                          Mundane                          |                                 12/12                                 |                             2                             |                    10 cc                    |
+| Dagger          | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                                                                |                          Mundane                          |                                 12/12                                 |                             1                             |                    2 bc                    |
+| Clothes, Common | 1 |                                                                |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
+| Waterskin (4/4) | 1 |                                                                |                                                                |                          Mundane                          |                                                                      |                             5                             |                    20 cc                    |
+| Clothes, Fine   | 1 |                                                                |                                                                |                          Mundane                          |                                                                      |                             6                             |                    15 bc                    |
 
-## Chest
+## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-|       Name       | # |                   Class                   |  Tier  | Durability | LB | Value |
-| :---------------: | - | :---------------------------------------: | :-----: | :--------: | :-: | :---: |
-|     Whetstone     | 1 |                                          | Mundane |            |  1  | 1 cc |
-|      Hammer      | 1 |            Small Hafted Blunt            | Mundane |   12/12   |  3  | 1 bc |
-|     Dice Set     | 1 |                                          | Mundane |            | 0.2 | 10 cc |
-|       Char       | 1 | Thrusting Greatsword, Slashing Greatsword | Mundane |   12/12   |  6  |   ?   |
-|   Smith's Tools   | 1 |                                          | Mundane |            |  8  | 20 bc |
-|  Book, Scripture  | 1 |                                          | Mundane |            | 0.5 | 25 bc |
-| Incense (1 block) | 1 |                                          | Mundane |            | 0.1 | 1 cc |
-|      Blanket      | 1 |                                          | Mundane |            |  3  | 50 cc |
-|      Candle      | 1 |                                          | Mundane |            | 0.1 | 1 cc |
-|   Drug, Mirage   | 1 |                                          | Mundane |            | 0.1 | 5 bc |
+| Name               | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ------------------ | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Satchel (2/5 ft^3) | 1 |                       12 lb container                       |                                                                |                          Mundane                          |                                                                      |                             2                             |                    1 bc                    |
+| Whetstone          | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    1 cc                    |
+| Hammer             | 1 |                     Small Hafted Blunt                     |                                                                |                          Mundane                          |                                 12/12                                 |                             3                             |                    1 bc                    |
+| Dice Set           | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.2                            |                    10 cc                    |
 
-## Appearance:
+| Name              | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ----------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Chest (12 ft^3)   | 1 |                      300 lb container                      |                                                                |                          Mundane                          |                                                                      |                             25                             |                    5 bc                    |
+| Whetstone         | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    1 cc                    |
+| Hammer            | 1 |                     Small Hafted Blunt                     |                                                                |                          Mundane                          |                                 12/12                                 |                             3                             |                    1 bc                    |
+| Dice Set          | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.2                            |                    10 cc                    |
+| Char              | 1 |          Thrusting Greatsword, Slashing Greatsword          |                                                                |                          Mundane                          |                                 12/12                                 |                             6                             |                      ?                      |
+| Smith's Tools     | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             8                             |                    20 bc                    |
+| Book, Scripture   | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.5                            |                    25 bc                    |
+| Incense (1 block) | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.1                            |                    1 cc                    |
+| Blanket           | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
+| Candle            | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.1                            |                    1 cc                    |
+| Drug, Mirage      | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.1                            |                    5 bc                    |
+
+## Notes
+
+Ferracraft blood into Bloodsteel
+
+Magnetic shield for incoming weapon attacks
+
+Bloodforge Char with Bloodsteel to reforge it
+
+Magnetic bullets
+
+## Appearance
 
 Age: 16
 
@@ -107,7 +141,7 @@ Body Type: Strong
 
 Additional Details:
 
-## Disposition:
+## Disposition
 
 - Adventurous
 - Bold
@@ -116,7 +150,7 @@ Additional Details:
 - Principled
 - Tired
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
 Do to others what you'd like them to do for you.
 
@@ -126,23 +160,13 @@ Stands up for the little guy.
 
 Doesn't respect traditional authority, but sees the value of service.
 
-## Goals/Aspirations:
+## Goals/Aspirations
 
 - Find out where he came from and who his biological parents are.
 - To have a piece of every type of metal, hoarding instinct.
 - Learn regional smithing techniques.
 
-## Notes:
-
-Ferracraft blood into Bloodsteel
-
-Magnetic shield for incoming weapon attacks
-
-Bloodforge Char with Bloodsteel to reforge it
-
-Magnetic bullets
-
-## Backstory:
+## Backstory
 
 Destin grew up in a small town outside of Reddwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
 

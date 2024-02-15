@@ -31,7 +31,7 @@
 |       Dark Vision       | Within 60 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color. |          |                                                      Polycraft                                                      |
 |    Equipment Weight    |                                                          22 lb                                                          |          |                                                      Equipment                                                      |
 |  Carry Weight  |                                                         220 lb                                                         |          | +50 lbs Carry Weight per Lift dice |
-|      Light Weight      |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |                                              0% - 25% of carry weight                                              |
+|      Light Weight      |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
 | Terrestrial Combat Speed |                                                          35 ft                                                          |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   Swim Combat Speed   |                                                          30 ft                                                          |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
 |  Climb Combat Speed  |                                                          25 ft                                                          |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
@@ -43,7 +43,7 @@
 |  Large Hafted Axe  |    4d6<br />(+0d6)    |    7d6<br />(+3d6)    |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        |
 |    Short Spear    | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
 | Thrown Short Spear | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |        None        |
-|      Unarmed      |    3d6<br />(-1d)    |    3d6<br />(-1d)    |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+|      Unarmed      |    3d6<br />(-1)    |    3d6<br />(-1)    |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ### Combat Spells
 
