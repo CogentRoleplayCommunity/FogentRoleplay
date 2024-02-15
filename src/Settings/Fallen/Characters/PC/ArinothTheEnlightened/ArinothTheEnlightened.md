@@ -14,7 +14,7 @@
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
 | Monk Fellcaster | STR, RFX, INT | 1 | 5d6 |
-| --------------- | ------------- | :-: | :-: |
+| --------------- | :-----------: | :-: | :-: |
 | Large Hafted    | STR, RFX, INT | 1 | 3d6 |
 | Sonocraft       | STR, RFX, INT | 0 | 3d6 |
 | Polycraft       | STR, RFX, INT | -1 | 1d6 |

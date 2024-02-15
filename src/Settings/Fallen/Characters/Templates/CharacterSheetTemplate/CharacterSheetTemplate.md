@@ -14,11 +14,11 @@
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
 | Vocation Name    | STR, RFX, INT | 0 |    |
-| ---------------- | ------------- | :-: | :-: |
+| ---------------- | :-----------: | :-: | :-: |
 | Combat Skill     | STR, RFX, INT | 0 | 3d6 |
 | Vocational Skill | STR, RFX, INT |  | 3d6 |
-|                  |               | 0 | 3d6 |
-|                  |               | 0 | 3d6 |
+|                  |              | 0 | 3d6 |
+|                  |              | 0 | 3d6 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -63,7 +63,7 @@
 |                                                                                                        |                                                        |          |                                                  |
 |           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                         0 lb                         |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d6 to STR/RFX governed Dice Pools          |          |             0% =< Equipment Weight <= 25% of Carry Weight             |
+|           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                        |          |                                                  |
 |                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                           1                           |          |                                                  |
 |                          [Language](./../../../Languages/Languages.md): Babelish                          |                  Can speak Babelish.                  |          |                                                  |
