@@ -8,7 +8,7 @@ A measure of a character's defense to all physical injuries. Calculated by summi
 
 If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual damage type, than since it is combined with the physical attack it is only versus physical defense. An example would be poison applied to the blade of a weapon.
 
-### Armor Class
+### Armor Classes
 
 Armor Class determines what portions of a character a piece of armor will protect. Their are 5 different armor types.
 
