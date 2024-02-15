@@ -13,7 +13,7 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Smith | STR, RFX, INT | 1 |    |
+| Fellcaster Smith | STR, RFX, INT | 1 | 5d6 |
 | ---------------- | :-----------: | :-: | :-: |
 | Medium Hafted    | STR, RFX, INT | 1 | 5d6 |
 | Unarmed          | STR, RFX, INT | 0 | 4d6 |
