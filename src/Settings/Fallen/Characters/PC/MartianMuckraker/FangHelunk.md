@@ -111,7 +111,7 @@ Body Type: Slender
 
 Hair Color: BRN
 
-Eyes Color: BRN
+Eye Color: BRN
 
 Additional Details:
 

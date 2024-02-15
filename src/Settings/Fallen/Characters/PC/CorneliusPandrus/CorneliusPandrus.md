@@ -142,7 +142,7 @@ Body Type: "Academic"
 
 Hair Color: Black
 
-Eyes Color: Dark Red eyes
+Eye Color: Dark Red eyes
 
 Additional Details:
 

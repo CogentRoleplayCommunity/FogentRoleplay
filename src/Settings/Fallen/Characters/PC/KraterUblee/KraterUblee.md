@@ -100,7 +100,7 @@ Body Type: Chubby
 
 Hair Color: Red
 
-Eyes Color: Brown
+Eye Color: Brown
 
 Additional Details: happy to be here
 

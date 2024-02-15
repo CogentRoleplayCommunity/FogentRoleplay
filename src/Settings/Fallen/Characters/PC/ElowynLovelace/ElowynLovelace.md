@@ -110,7 +110,7 @@ Body Type: Slender
 
 Hair Color: Red
 
-Eyes Color: Green
+Eye Color: Green
 
 Additional Details:
 

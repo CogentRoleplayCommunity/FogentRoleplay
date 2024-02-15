@@ -89,7 +89,7 @@ Weight: 230 lb
 
 Hair Color: Black
 
-Eyes Color: Brown
+Eye Color: Brown
 
 Additional Details:
 

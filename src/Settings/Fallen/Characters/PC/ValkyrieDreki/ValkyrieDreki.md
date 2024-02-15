@@ -104,7 +104,7 @@ Body Type: Athletic
 
 Hair Color: Black
 
-Eyes Color: Grey
+Eye Color: Grey
 
 Additional Details:
 

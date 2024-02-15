@@ -104,7 +104,7 @@ Weight: ~ ? lb
 
 Hair Color:
 
-Eyes Color:
+Eye Color:
 
 Additional Details:
 

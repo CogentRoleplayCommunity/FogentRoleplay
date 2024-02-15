@@ -126,7 +126,7 @@ Body Type: Chunky (monkey)
 
 Hair Color: (brown)
 
-Eyes Color: (brown)
+Eye Color: (brown)
 
 Additional Details:
 
