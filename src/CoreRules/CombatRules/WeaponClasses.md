@@ -76,7 +76,7 @@ To duel wield the character must have at least one proficiency point in both of 
 |      RPG Launcher      |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |          Loading          |    30 ft Sphere    |      RPG Ammo      | {STR,RFX,INT}             |
 |    5.56 Machine Gun    |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |           Rapid           |        None        |      5.56 Ammo      | {STR,RFX,INT}             |
 
-### Ranged Weapon Resources
+### Weapon Resources
 
 |      Description      | Resource Class | Resource Dice | Penetration | Range |     Damage     |     AOE     |
 | :--------------------: | :------------: | :-----------: | :---------: | :---: | :-------------: | :---------: |
