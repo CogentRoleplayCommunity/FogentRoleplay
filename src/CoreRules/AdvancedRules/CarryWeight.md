@@ -2,7 +2,7 @@
 
 Carry weight represents a character's ability to haul weight while still being able to move semi-normal depending on weight class.
 
-For each point dice in a character's Lift dice pool, character gains 50 lbs of Carry Weight.
+For each point dice in a character's Lift dice pool, character gains 50 lbs of Carry Weight. Dice Penalties from Weight Classes are disregarded.
 
 | Description |            Calculation            |
 | :----------: | :--------------------------------: |
