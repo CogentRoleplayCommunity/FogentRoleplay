@@ -50,7 +50,7 @@ Represented by a historian, bookworm, or detective. General Knowledge is the art
 
 ### Survival
 
-Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments, it can even cover "gut feelings" or intuition. It covers scavenging for food, basic first aid as well as finding safe places to rest, lighting fires, and tracking. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. It might also give you a gut feeling when a criminal deal turns out to be a ambush. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more.
+Represented by a survivalist or street smarts. It is the skill associated with staying alive in all environments, it can even cover "gut feelings" or intuition. It covers scavenging for food, basic first aid as well as finding safe places to rest, lighting fires, and tracking. In the city, survival keeps you from going too close to dangerous gang territory, it lets you know who to avoid, and where to avoid. It might also give you a gut feeling when a criminal deal turns out to be a ambush. In the wilderness, it tells you which berries will make you sick, which meat is spoiled and more. Also cover calming down or otherwise intereacting with an animal.
 
 ### Will
 
