@@ -1,92 +1,96 @@
 # Cornelius Pandrus
 
-![Cornelius Pandrus](CorneliusPandrus.png)
+![img](./CorneliusPandrus.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | -1 |    | RFX             | 0 |    | INT               | 1 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 2d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 4d6 |
-| Climb     | 0 | 2d6 | Perception      | 1 | 4d6 | General Knowledge | 1 | 5d6 |
-| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 4d6 |
-| Lift      | 0 | 2d6 | Stealth         | 0 | 3d6 | Will              | 1 | 5d6 |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | -1 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 0 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 1 |    |
+| ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 2d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 4d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 2d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 1 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 2d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 4d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 0 | 2d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 3d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 1 | 5d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Runesmith {RFX, INT}           | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 3d6 |
-| ------------------------------ | :-: | :-: | -------------------------- | -- | --- |
-| Rune of Fire {RFX, INT}       | 1 | 5d6 | Hemacraft {STR, RFX, INT}  | -1 | 2d6 |
-| Rune of Earth {RFX, INT}       | 0 | 4d6 |                            |    |     |
-| Rune of Air {RFX, INT}         | 0 | 4d6 |                            |    |     |
-| Runesmith Knowledge {RFX, INT} |  | 5d6 |                            |    |     |
+| Runesmith           | RFX, INT | 0 |    | Fellcaster | STR, RFX, INT | 0  | 3d6 |
+| ------------------- | :------: | :-: | :-: | ---------- | ------------- | -- | --- |
+| Rune of Fire        | RFX, INT | 1 | 5d6 | Hemacraft  | STR, RFX, INT | -1 | 2d6 |
+| Rune of Earth       | RFX, INT | 0 | 4d6 |            |               |    |     |
+| Rune of Air         | RFX, INT | 0 | 4d6 |            |               |    |     |
+| Runesmith Knowledge |   INT   |  | 3d6 |            |               |    |     |
 
-## Effects:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|          Name          |                         Effect                         | Duration |                                                       Source                                                       |
-| :--------------------: | :----------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Minor Silver Weakness | +1 to the level of injury received from Silver damage. |          |                                                    Fellblood                                                    |
-| Physical Defense Level |                           0                           |          |                                                        Armor                                                        |
-|      Medium Size      |                 5x5 ft on battle map.                 |          |                                                                                                                    |
-|   Language: Babelish   |                  Can speak Babelish.                  |          |                                                                                                                    |
-|    Language: Pirish    |                   Can speak Pirish.                   |          |                                                                                                                    |
-|   Disabling: Feeble   |                         -1 STR                         |          |                                                                                                                    |
-|    Equipment Weight    |                         11 lb                         |          |                                                      Equipment                                                      |
-| Carry Weight |                         70 lb                         |          | +50 lbs Carry Weight per Lift dice |
-|      Light Weight      |            -0d6 to STR/RFX governed Dice Pools            |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-|     Terrestrial Combat Speed     |                         20 ft                         |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
-|       Swim Combat Speed       |                         10 ft                         |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
-|      Climb Combat Speed      |                         10 ft                         |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Combat Rolls:
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-### Innate
+|  Name  | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-----: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| Unarmed |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 
-|  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Unarmed |       -1d       |       -1d       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-### Weapons
+| Name | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :--: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                                              |
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|      |                |                |                  |            |      |                  |                          |                    |                    |
+### [Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#combat-magic)
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+|                                                  Name                                                  | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
+| :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+|   [Generic Party Trick](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)   |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                         Near                         |                                                                        |                                                                                        |                                                                            |                                     0                                     |
+|     [Generic Novice Spell](./../../../../../CoreRules/MagicRules/GenericMagic.md#novice-combat-magic)     |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                        Medium                        |                                                                        |                                                                                        |                                                                            |                                     0                                     |
+| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/GenericMagic.md#apprentice-combat-magic) |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                      Far - Long                      |                                                                        |                                                                                        |                                                                            |                                   1 - 2                                   |
+|      [Generic Adept Spell](./../../../../../CoreRules/MagicRules/GenericMagic.md#adept-combat-magic)      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                     Sharpshooter                     |                                                                        |                                                                                        |                                                                            |                                   3 - 4                                   |
 
-### Combat Spells
+## Info
 
-|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    |                                            Damage<br />Types                                            | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------------------------------------------------------------------------------------: | :-----------------------: | :-----------------: | :------------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     | Fire Rune: Fire<br />Earth Rune: Slash, Bludgeon, Hew, Pierce<br />Air Rune: Slash, Bludgeon, Shockwave |                          |                    |   0 Magic Resource   |
-|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |                                                                                                        |                          |                    |  0 Magic Resource  |
-| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |                                                                                                        |                          |                    | 1 - 2 Magic Resource |
-|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |                                                                                                        |                          |                    | 3 - 4 Magic Resource |
+|                                                      Name                                                      |                          Info                          | Duration |                      Source                      |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
+|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          3/5                          |          |       Vocation/Magic Governing Skill Level       |
+|                    [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                    |                          0/3                          |          |               Awarded by Narrator               |
+|                         [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                         |             – 0 dice to all dice checks.             |          |                      Damage                      |
+|                                                                                                                |                                                        |          |                                                  |
+|                      [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                      |                 5x5 ft on battle map.                 |          |                                                  |
+|          [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         20 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|             [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                         10 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|             [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                         10 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                |                                                        |          |                                                  |
+|             [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)             | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+|    [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)    |                           0                           |          |                      Armor                      |
+|                                                                                                                |                                                        |          |                                                  |
+|               [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)               |                         11 lb                         |          |                    Equipment                    |
+|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)               |                         100 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
+|              [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)              |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                |                                                        |          |                                                  |
+|                     [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                     |                           1                           |          |                                                  |
+|                              [Language](./../../../Languages/Languages.md): Babelish                              |                  Can speak Babelish.                  |          |                                                  |
+|                               [Language](./../../../Languages/Languages.md): Pirish                               |                   Can speak Pirish.                   |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Feeble |                         -1 STR                         |          |                                                  |
 
-## Destiny Points: 0/3
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-## Focus: 3/5
+| Name                | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Clothes, Traveler's | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             4                             |                    2 bc                    |
+| Pouch (1/5 ft^3)    | 1 |                       6 lb container                       |                                                                |                          Mundane                          |                                                                      |                             1                             |                    50 cc                    |
+| Cuneiform Tablets   | 30 |                        Magic Conduit                        |                                                                |                          Mundane                          |                                                                      |                            0.1                            |                    1 cc                    |
+| Potter's Tools      | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    10 bc                    |
 
-## Equipment:
+## [Containers](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#containers)
 
-| Name                | # |     Class     | Effect |  Tier  | Durability | LB | Value |
-| ------------------- | :-: | :------------: | ------ | :-----: | :--------: | :-: | :---: |
-| Clothes, Traveler's | 1 |                |        | Mundane |            |  4  | 2 bc |
-| Pouch (1/5 ft^3)    | 1 | 6 lb container |        | Mundane |            |  1  | 50 cc |
-| Cuneiform Tablets   | 30 | Magic Conduit |        | Mundane |            | 0.1 | 1 cc |
-| Potter's Tools      | 1 |                |        | Mundane |            |  3  | 10 bc |
+| Name                           |  #  | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ------------------------------ | :--: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Satchel (2/5 ft^3)             |  1  |                       12 lb container                       |                                                                |                          Mundane                          |                                                                      |                             2                             |                    1 bc                    |
+| Journal, Soft Bound, 25 Sheets |  1  |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    7 bc                    |
+| Common Book, Hard Bound        |  1  |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    2 bc                    |
+| Calligrapher's Supplies        |  1  |                                                            |                                                                |                          Mundane                          |                                                                      |                             5                             |                    10 bc                    |
+| Copper Coin                    |  0  |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 cc                    |
+| Bronze Coin                    | 54.5 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    3 bc                    |
 
-## Containers:
-
-| Name                           |  #  |      Class      | Effect |  Tier  | Durability |  LB  | Value |
-| ------------------------------ | :--: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
-| Satchel (2/5 ft^3)             |  1  | 12 lb container |        | Mundane |            |  2  | 1 bc |
-| Journal, Soft Bound, 25 Sheets |  1  |                |        | Mundane |            |  1  | 7 bc |
-| Common Book, Hard Bound        |  1  |                |        | Mundane |            |  1  | 2 bc |
-| Calligrapher's Supplies        |  1  |                |        | Mundane |            |  5  | 10 bc |
-| Copper Coin                    |  0  |                |        | Mundane |            | 0.02 | 1 cc |
-| Bronze Coin                    | 54.5 |                |        | Mundane |            | 0.02 | 3 bc |
+## Notes
 
 ## Appearance
 
@@ -118,7 +122,7 @@ Social characters find him cold and calculating, or introverted.
 
 Academic characters find him intelligent, but a bit of a know it all.
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
 There is nothing more important to Cornelius than knowledge.  Nothing frustrates him more than having hidden knowledge, and nothing elates him more than solving something that no one else has discovered.
 
