@@ -13,12 +13,12 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Detective | STR, RFX, INT | 1 | 5d6 |
-| -------------------- | :-----------: | :-: | :-: |
-| Polycraft            | STR, RFX, INT | 1 | 5d6 |
-| Sonocraft            | STR, RFX, INT | -1 | 3d6 |
-| Hydrocraft           | STR, RFX, INT | -1 | 3d6 |
-| Medium Sword         | STR, RFX, INT | 0 | 4d6 |
+| Fellcaster Investigator | STR, RFX, INT | 1 | 5d6 |
+| ----------------------- | :-----------: | :-: | :-: |
+| Polycraft               | STR, RFX, INT | 1 | 5d6 |
+| Sonocraft               | STR, RFX, INT | -1 | 3d6 |
+| Hydrocraft              | STR, RFX, INT | -1 | 3d6 |
+| Medium Sword            | STR, RFX, INT | 0 | 4d6 |
 
 ## Info
 
