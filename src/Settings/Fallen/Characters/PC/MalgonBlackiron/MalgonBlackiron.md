@@ -9,7 +9,7 @@
 | Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
 | Climb     | 0 | 4d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
 | Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 1 | 5d6 | Stealth         | 1 | 3d6 | Will              | 0 | 3d6 |
+| Lift      | 1 | 5d6 | Stealth         | 1 | 4d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
 
@@ -91,12 +91,12 @@
 | Dice Set          | 1 |                  |        | Mundane |            | 0.2 | 10 cc |
 | Ring, Exquisite   | 2 |                  |        | Mundane |            | 0.2 | 3 bc |
 | Bronze Coin       | 42 |                  |        | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 50 |                  |        | Mundane |            | 0.02 | 1 cc |
+| Copper Coin       | 51 |                  |        | Mundane |            | 0.02 | 1 cc |
 
 | Name                   | # |      Class      |         Effect         |   Tier   | Durability |  LB  | Value |
 | ---------------------- | :-: | :-------------: | :---------------------: | :-------: | :--------: | :--: | :----: |
 | Satchel (2/5 ft^3)     | 1 | 12 lb container |                        |  Mundane  |            |  2  |  1 bc  |
-| Bronze Coin            | 11 |                |                        |  Mundane  |            | 0.02 |  1 bc  |
+| Bronze Coin            | 16 |                |                        |  Mundane  |            | 0.02 |  1 bc  |
 | Potion of Invisibility | 1 |                | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
 
 ## Notes
