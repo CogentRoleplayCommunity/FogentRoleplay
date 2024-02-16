@@ -30,9 +30,9 @@ I add the "Small Blade" combat skill which has the governing attributes STR, RFX
 
 I try and add the "Longspear" combat skill. I realized using a longspear is not something that a chef would do, so I can't add it under my vocation.
 
-| Chef {RFX, INT}                |     2     | 7d6 |
-| ------------------------------- | :-------: | :-: |
-| Wine Tasting {RFX, INT}         | Inherited | 7d6 |
-| ~~Chopping Food {RFX}~~        |          |    |
-| Small Blade {STR, RFX, INT}     |     1     | 7d6 |
-| ~~Long Spear {STR, RFX, INT}~~ |          |    |
+| Chef               |   RFX, INT   |     2     | 7d6 |
+| ------------------ | :-----------: | :-------: | :-: |
+| Wine Tasting       |   RFX, INT   | Inherited | 7d6 |
+| ~~Chopping Food~~ |      RFX      |          |    |
+| Small Blade        | STR, RFX, INT |     1     | 7d6 |
+| ~~Long Spear~~    | STR, RFX, INT |          |    |
