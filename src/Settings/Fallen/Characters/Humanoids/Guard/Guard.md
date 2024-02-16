@@ -44,7 +44,7 @@
 | :-------------: | :-: | :------------------------------------------: | :------------: | :-------: | :--------: | :-: | :---: |
 | Gambeson Armor | 1 |       Body Armor, Arm Armor, Leg Armor       | Phy. Def. 1.00 |  Mundane  |   12/12   | 8 | 5 bc |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 3  | Excellent |   21/21   | 47 | 75 bp |
-|  Heater Shield  | 1 |                    Shield                    |  Phy. Def. 2  |  Mundane  |   12/12   | 8 | 7 bc |
+|  Heater Shield  | 1 |                    Shield                    |  Phy. Def. 2.00  |  Mundane  |   12/12   | 8 | 7 bc |
 |      Spear      | 1 |             Spear, Thrown Spear             |                |  Mundane  |   12/12   | 3 | 1 bc |
 
 ## Containers

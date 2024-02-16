@@ -10,7 +10,7 @@ A medium shield capable of retracting into a small wrist item. This type of retr
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Guardian Shield | 1 | Shield | Phy. Def. 2, Retractable Shield | Superior | 24/24 | 8 | 7 bc |
+| Guardian Shield | 1 | Shield | Phy. Def. 2.00, Retractable Shield | Superior | 24/24 | 8 | 7 bc |
 
 ## Effects
 

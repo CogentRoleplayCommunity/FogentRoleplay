@@ -60,7 +60,7 @@
 
 | Name                | # |                    Class                    | Effect      |  Tier  | Durability | LB | Value |
 | ------------------- | :-: | :------------------------------------------: | ----------- | :-----: | :--------: | :-: | :---: |
-| Leather Armor       | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2 | Quality |   15/15   | 12 | 10 bc |
+| Leather Armor       | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2.00 | Quality |   15/15   | 12 | 10 bc |
 | Clothes, Traveler's | 1 |                                              |             | Mundane |            | 4 | 2 bc |
 | Conduit - Staff     | 1 |      Magic Conduit, Large Hafted Blunt      |             | Mundane |            | 4 | 5 bc |
 

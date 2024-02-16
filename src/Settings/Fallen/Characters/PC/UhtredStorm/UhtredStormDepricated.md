@@ -84,7 +84,7 @@
 | Name                                   | # |      Class      |   Tier   | Durability | LB | Value |
 | -------------------------------------- | :-: | :-------------: | :-------: | :--------: | :-: | :---: |
 | Backpack (1 ft^3)                      | 1 | 30 lb container |  Mundane  |            | 5 | 2 bc |
-| Kite Shield (Dawn Emp. Crest)          | 1 |   Phy. Def. 2   | Superior |   24/24   | 8 | 30 bc |
+| Kite Shield (Dawn Emp. Crest)          | 1 |   Phy. Def. 2.00   | Superior |   24/24   | 8 | 30 bc |
 | Superior Leather Cuirass and Pauldrons | 1 |  Phy. Def. 0.5  | Superior |   24/24   | 4 | 3 bc |
 | 30 lb of gold and gems                 | 1 |                | Exquisite |     -     | 30 |   ?   |
 
