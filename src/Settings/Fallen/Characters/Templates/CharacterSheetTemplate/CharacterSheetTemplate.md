@@ -1,4 +1,4 @@
-# Javk Wick
+# Name
 
 ![img]()
 
@@ -13,7 +13,7 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Vocation Name    | STR, RFX, INT | 0 |    |
+| Vocation Name    | STR, RFX, INT | 1 | 4d6 |
 | ---------------- | :-----------: | :-: | :-: |
 | Combat Skill     | STR, RFX, INT | 0 | 3d6 |
 | Vocational Skill | STR, RFX, INT |  | 3d6 |
