@@ -13,12 +13,12 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Vocation Name    | STR, RFX, INT | 1 | 4d6 |
-| ---------------- | :-----------: | :-: | :-: |
-| Combat Skill     | STR, RFX, INT | 0 | 3d6 |
-| Vocational Skill | STR, RFX, INT |  | 3d6 |
-|                  |              | 0 | 3d6 |
-|                  |              | 0 | 3d6 |
+| Vocation Name    | STR, RFX, INT |   1   |  4d6  |
+| ---------------- | :-----------: | :---: | :---: |
+| Combat Skill     | STR, RFX, INT |   0   |  3d6  |
+| Vocational Skill | STR, RFX, INT |       |  3d6  |
+|                  |               |   0   |  3d6  |
+|                  |               |   0   |  3d6  |
 
 ## Info
 
@@ -57,9 +57,9 @@
 
 #### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-| Name  | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
-| :---: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-|       |                                                                                       |                                                                                       |                                                                                           |                                                                                            |                                                          |                                                                            |                                                                                            |                                                                               |                                                                                                  |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|       |                |               |                                                                                            |                                                          |                                                                            |                                                                               |
 
 ### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
 
