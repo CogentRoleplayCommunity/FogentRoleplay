@@ -742,13 +742,13 @@ Cheap shops will charge 50% the value for any item on this list.
 |                   Name                   | # | Class | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :--------------------------------------: | :-: | :---: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 | -[Typical Breakfast Options: Commoner]-: |  |      |        |        |            |        |      |              |              |              |                |
-|              “Meat” Stick              | 1 |      |        | Mundane |            |  0.25  | 3 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|              "Meat" Stick              | 1 |      |        | Mundane |            |  0.25  | 3 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |             Roasted Locusts             | 1 |      |        | Mundane |            |  0.25  | 3 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |              Cheese Omelet              | 1 |      |        | Mundane |            |  0.25  | 4 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |           Ham & Cheese on Rye           | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 | -[Typical Breakfast Options: Merchant]-: |  |      |        |        |            |        |      |              |              |              |                |
 |           Bacon & Egg Sandwich           | 1 |      |        | Mundane |            |  0.25  | 30 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|           Omelet “your’ Way           | 1 |      |        | Mundane |            |  0.25  | 30 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|           Omelet "your’ Way           | 1 |      |        | Mundane |            |  0.25  | 30 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |              Bloodhawk Eggs              | 1 |      |        | Mundane |            |  0.25  | 40 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |           Bacon Stuffed Bread           | 1 |      |        | Mundane |            |  0.25  | 50 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |   -[Typical Breakfast Options: Noble]-   |  |      |        |        |            |        |      |              |              |              |                |
@@ -758,7 +758,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |              Truffle Omelet              | 1 |      |        | Mundane |            |  0.25  | 3 bc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |   -[Typical Lunch Options: Commoner]-   |  |      |        |        |            |        |      |              |              |              |                |
 |           Stockpot Stew/ Soup           | 1 |      |        | Mundane |            |  0.25  | 4 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|         “Adventurer’s” Steak         | 1 |      |        | Mundane |            |  0.25  | 4 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|         "Adventurer’s" Steak         | 1 |      |        | Mundane |            |  0.25  | 4 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |               Minced Pork               | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |           Roast Goat & Cheese           | 1 |      |        | Mundane |            |  0.25  | 6 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |   -[Typical Lunch Options: Merchant]-   |  |      |        |        |            |        |      |              |              |              |                |
@@ -798,7 +798,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |              Name              | # | Class | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :-----------------------------: | :-: | :---: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |          Coffee - Cup          | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|    Goodberry “Wine” - Cup    | 1 |      |        | Mundane |            |  0.25  | 10 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|    Goodberry "Wine" - Cup    | 1 |      |        | Mundane |            |  0.25  | 10 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |   Fruit Juice (Varies) - Cup   | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |   Milk (Local Variety) - Cup   | 1 |      |        | Mundane |            |  0.25  | 3 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |   Fruit - In Season - A Piece   | 1 |      |        | Mundane |            |  0.25  | 1 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -806,7 +806,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Amaranth Leaf/ Greens - Bushel | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 | Broccoli/ Cauliflower - Bushel | 1 |      |        | Mundane |            |  0.25  | 3 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |    Cabbage/ Lettuce - Bushel    | 1 |      |        | Mundane |            |  0.25  | 2 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|   Fruit “Vegetable” - Each   | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|   Fruit "Vegetable" - Each   | 1 |      |        | Mundane |            |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |        Legumes - Bushel        | 1 |      |        | Mundane |            |  0.25  | 4 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 | Root Vegetable/ Tuber - Bushel | 1 |      |        | Mundane |            |  0.25  | 1 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |            Amaranth            | 1 |      |        | Mundane |            |  0.25  | 2 bc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -864,7 +864,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                -[Custom Clothing Items]-                |  |                |        |        |            |        |          |              |              |              |                |
 |                        Bandolier                        | 1 |                |        | Mundane |            |  0.5  |   8 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                           Belt                           | 1 |                |        | Mundane |            |  0.5  |   2 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|              “Better” Backpack (1.2 ft^3)              | 1 | 35 lb container |        | Mundane |            |   5   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|              "Better" Backpack (1.2 ft^3)              | 1 | 35 lb container |        | Mundane |            |   5   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                          Blouse                          | 1 |                |        | Mundane |            |  0.5  |   1 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                         Breeches                         | 1 |                |        | Mundane |            |   1   |   1 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                          Boots                          | 1 |                |        | Mundane |            |   1   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |

@@ -152,7 +152,7 @@ Weeping Anvil. Helena’s grave is dug up, 10 big heavy booted figures dragged a
 Uhtred regards the rocks above Helena’s grave as evil.
 Fanácrio has been getting his mind repaired over the gap between season 2 & 3. His gentle nice personality is coming back, but during situations of high stress or combat, his cold calculated self comes back.
 Fanácrio, being the only one proficient in mindcraft, is the hub of the group's mind. There is something else that has infiltrated, another entity.
-Leodelphian assassins are called “Fangs”
+Leodelphian assassins are called "Fangs"
 Uhtred is a street rat. Is an orphan. Beocca was a friend from the orphanage, they were family. Uhtred went to Reddwall (Story of the Blood Princess). Saw Beocca in Reddwall a few days before. Finnan kamikaze during terrorist. {Caught stealing food from a rich man.} Beocca is the one wielding the terrorist,
 Brightkin cant die, but there is a price to be paid or a gift in some due, every time they come back, a part of them dies and is replaced with aspects of the Bright Lord.
 The war is at a standstill, building up reserves at the Crimson Hills. Reddland deployed a new strategy.item, a runecraft mechanical contraption, which resulted in a devastating loss for the empire.

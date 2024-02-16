@@ -8,7 +8,7 @@ Dhampirs trace their monstrous ancestry from the Vampires that bowed to the Brig
 
 ## Culture
 
-Reddland is the largest Dhampir kingdom on the eastern edge of Terra. Reddlandians are a fiercely proud people, ruled by house Reddington. Their standing military, “The Redd Legion'' is one of the finest armies on Terra and the recent discovery of Blood Healing has made Reddland a key player in global politics.
+Reddland is the largest Dhampir kingdom on the eastern edge of Terra. Reddlandians are a fiercely proud people, ruled by house Reddington. Their standing military, "The Redd Legion'' is one of the finest armies on Terra and the recent discovery of Blood Healing has made Reddland a key player in global politics.
 
 Reddland has become a powerful political player as during the Spore pandemic that ravaged the continent, it was their healing bloods that cured the fungal plague that ravaged the continent.
 
