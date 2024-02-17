@@ -1,62 +1,83 @@
 # Uhtred Storm
 
-![img](UhtredStormTeenager.png)
+![img](./UhtredStormTeenager.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 4d6 | Acrobatics      | 0 | 4d6 | Communication     | 1 | 4d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 5d6 | Survival          | 2 | 5d6 |
-| Lift      | 0 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 3d6 |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 0 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 1 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 0 |    |
+| ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 4d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 3d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 1 | 5d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 3d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 0 | 3d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 4d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Criminal {RFX}   | 2 | 6d6 |
-| ----------------- | :-: | :-: |
-| Small Blade {STR, RFX, INT} | 1 | 5d6 |
+| Criminal           | STR, RFX, INT | 1 | 5d6 |
+| ------------------ | :-----------: | :-: | :-: |
+| Small Blade        | STR, RFX, INT | 1 | 5d6 |
+| Criminal Knowledge |      INT      |  | 4d6 |
 
-## Effects:
+## Info
 
-|              Name              |                              Effect                              | Duration |                                                       Source                                                       |
-| :----------------------------: | :---------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|          Medium Size          |                       5x5 ft on battle map.                       |          |                                                                                                                    |
-|       Language: Babelish       |                        Can speak Babelish.                        |          |                                                                                                                    |
-|     Disabling: Illiterate     |                       Can't read or write.                       |          |                                                       Injury                                                       |
-| Disabling: Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                                                                                    |
-|        Equipment Weight        |                              9.8 lb                              |          |                                                      Equipment                                                      |
-|     Carry Weight     |                              120 lb                              |          | +50 lbs Carry Weight per Lift dice |
-|          Light Weight          |                  -0d6 to STR/RFX governed Dice Pools                  |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-|    Terrestrial Combat Speed    |                               45 ft                               |          |                                +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                |
-|      Swim Combat Speed      |                               20 ft                               |          |                                +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                |
-|      Climb Combat Speed      |                               15 ft                               |          |                                  +5 ft (per Climb Dice), +/-5 ft (per RFX)                                  |
+|                                                             Name                                                             |                               Info                               | Duration |                      Source                      |
+| :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :------: | :----------------------------------------------: |
+|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                 1                                 |          |                                                  |
+|                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                        Can speak Babelish.                        |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                  |
+|                                                                                                                              |                                                                  |          |                                                  |
+|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                              9.6 lb                              |          |                    Equipment                    |
+|                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                      |                              150 lb                              |          |        +50 lbs Carry Weight per Lift dice        |
+|                     [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)                     |                -0d6 to STR/RFX governed Dice Pools                |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                              |                                                                  |          |                                                  |
+|                    [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                    |      +1 to the level of injury received from Silver damage.      |          |                    Fellblood                    |
+|           [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)           |                                 3                                 |          |                      Armor                      |
+|                                                                                                                              |                                                                  |          |                                                  |
+|                             [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                             |                       5x5 ft on battle map.                       |          |                                                  |
+|                 [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                 |                               50 ft                               |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                    [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                               25 ft                               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                    [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                               20 ft                               |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                              |                                                                  |          |                                                  |
+|                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): None                         |                                0/0                                |          |       Vocation/Magic Governing Skill Level       |
+|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                0/3                                |          |               Awarded by Narrator               |
+|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                   – 0 dice to all dice checks.                   |          |                      Damage                      |
 
-## Combat Rolls:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|         Name         |   One<br />Handed   | Two<br />Handed |  Dual<br />Wielded  | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :------------------: | :------------------: | :-------------: | :------------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Small Slashing Blade | 5d6, 1d4<br />(+1d6) |     (+1d6)     | 6d6, 1d4<br />(+1d6) |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|       Unarmed       |          -1          |       -1       |         None         |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-| Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-|      |                    |                    |            |      |                  |                    |
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Destiny Points: 0/3
+|         Name         | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|       Unarmed       |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Small Slashing Blade |                                +1d6<br />(5d6, 1d4)                                |                                        +1d6                                        |                                   +1d6<br />6d6, 1d4                                   |                                            0                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 
-## Equipment:
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-|        On        | Name |          #          |  Class  | Tier | Durability |  LB  | Value |
-| :---------------: | :--: | :------------------: | :-----: | :--: | :--------: | :---: | :---: |
-|  Clothes, Common  |  1  |                  | Mundane |      |     3     | 50 cc |      |
-| Mother's Necklace |  1  |                  | Mundane |      |    0.1    |   ?   |      |
-|  Waterskin (4/4)  |  1  |                  | Mundane |      |     5     | 20 cc |      |
-|     Sharp Cap     |  1  | Small Slashing Blade | Shoddy | 9/9 |    0.5    | 2 bc |      |
-|  Thieves' Tools  |  1  |                  | Mundane |      |     1     | 25 bc |      |
-|     Dice Set     |  1  |                  | Mundane |      |    0.2    | 10 cc |      |
+| Name | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :--: | :------------: | :-----------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+|      |                |              |                                                                                        |                                                      |                                                                        |                                                                            |
 
-## Appearance:
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+
+| Name              | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ----------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Clothes, Common   | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
+| Mother's Necklace | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.1                            |                      ?                      |
+| Waterskin (4/4)   | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             5                             |                    20 cc                    |
+| Sharp Cap         | 1 |                    Small Slashing Blade                    |                                                                |                          Shoddy                          |                                  9/9                                  |                            0.5                            |                    2 bc                    |
+| Thieves' Tools    | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    25 bc                    |
+
+## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
+
+| Name | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ---- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+|      |  |                                                            |                                                                |                                                          |                                                                      |                                                            |                                            |
+
+## Notes
+
+## Appearance
 
 Age: 16
 
@@ -68,30 +89,32 @@ Weight: ~ 150 lb
 
 Body Type: Wiry
 
+Hair Color: Brown
+
+Eye Color:
+
 Additional Details:
 
-## Disposition:
+## Disposition
 
 - Guarded
 - Blunt
 - Always thinks people have an angle to work (he always is working an angle on others)
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
 - Believe that the world is out to get him and other mudbloods.
 - Will do anything for those he considers family.
 - Believes that you have to take what is yours or life will leave you empty handed.
 - Thinks the government is only out to for those in their inner circle and not for the common man.
 
-## Goals/Aspirations:
+## Goals/Aspirations
 
 - To get back to Cross Roads and find his friends.
 - To gain wealth and power.
 - To make a safe home for him and his friends in crossroads.
 
-## Notes:
-
-## Backstory:
+## Backstory
 
 Uhtred Storm is from CrossRoads. He was born as a mudblood. Uhtred was not always called Storm. His birth name was Uhtred Becker.  He was born in a low-class part of CrossRoads. His family were humble merchant people peddling goods in their small corner store. He lived a very modest and happy life.
 
