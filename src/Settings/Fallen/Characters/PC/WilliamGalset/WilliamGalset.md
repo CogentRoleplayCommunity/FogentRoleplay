@@ -25,7 +25,7 @@
 
 |                                                          Name                                                          |                              Info                              | Duration |                      Source                      |
 | :--------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                         [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                         |                                1                                |          |                                                  |
+|                         [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                         |                                3                                |          |                                                  |
 |                                  [Language](./../../../Languages/Languages.md): Babelish                                  |                       Can speak Babelish.                       |          |                                                  |
 |                                   [Language](./../../../Languages/Languages.md): Pirish                                   |                        Can speak Pirish.                        |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Exposure Fear | Irrationally afraid of being found to be a Red Legion Deserter. |          |                                                  |
