@@ -1,15 +1,15 @@
-# Draft Horse
+# Mule
 
 ![img](./Mule.png)
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 2 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 0 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | -1 |    |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 1 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 0 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | -1 |    |
 | ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 2 | 7d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 2d6 |
-| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 5d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 2 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 2d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 3 | 8d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 1 | 3d6 |
-| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 2 | 7d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 3d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 1 | 3d6 |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 2 | 6d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 2d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 2 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 2d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 3 | 6d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 1 | 3d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 1 | 6d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 3d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 1 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
