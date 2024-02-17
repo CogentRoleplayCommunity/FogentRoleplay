@@ -16,9 +16,9 @@ On a dead world at the end of time life began once again...
 
 ## Magic Systems
 
-- [Fellcraft](./Magic/Fellcraft/Fellcraft.md)
-- [Runecraft](./Magic/Runecraft/Runecraft.md)
-- [Miracles](./Magic/Miracles/Miracles.md)
+- [Fellcraft](./MagicSystems/Fellcraft/Fellcraft.md)
+- [Runecraft](./MagicSystems/Runecraft/Runecraft.md)
+- [Miracles](./MagicSystems/Miracles/Miracles.md)
 
 ## Adventures
 - (In Progress)
