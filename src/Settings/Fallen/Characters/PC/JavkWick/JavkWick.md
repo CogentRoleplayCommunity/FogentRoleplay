@@ -1,68 +1,135 @@
 # Javk Wick
 
-![img](Javk-Wick.png)
+![img](./Javk-Wick.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 0 |     | RFX             | 1 |     | INT               | 1 |     |
-| --------- | - | --- | --------------- | - | --- | ----------------- | - | --- |
-| Athletics | 1 | 4d6 | Acrobatics      | 1 | 5d6 | Communication     | 1 | 5d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 6d6 | General Knowledge | 0 | 4d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 1 | 5d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 3 | 7d6 | Will              | 1 | 5d6 |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 0 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 1 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 0 |    |
+| ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 4d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 3d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 0 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 4d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 3d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 0 | 3d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 1 | 5d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Rogue {RFX, INT}               | 3 | 7d6 |
-| ------------------------------ | - | --- |
-| Medium Sword {STR, RFX, INT}   | 3 | 8d6 |
-| Light Crossbow {STR, RFX, INT} | 2 | 7d6 |
+| Runesmith Rogue     |   RFX, INT   | 1 | 5d6 |
+| ------------------- | :-----------: | :-: | :-: |
+| Rogue Knowledge     |      INT      |    | 4d6 |
+| Medium Sword        | STR, RFX, INT | 1 | 5d6 |
+| Hand Crossbow       | STR, RFX, INT | 1 | 5d6 |
+| Rune of Shadow      |   RFX, INT   | -1 | 3d6 |
+| Rune of Sound       |   RFX, INT   | -1 | 3d6 |
+| Rune of Electricity |   RFX, INT   | -1 | 3d6 |
 
-## Info:
+## Info
 
-|                  Name                  |                                Effect                                | Duration |                                                       Source                                                       |
-| :-------------------------------------: | :------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|               Medium Size               |                        5x5 ft on battle map.                        |          |                                                                                                                    |
-|           Language: Babelish           |                         Can speak Babelish.                         |          |                                                                                                                    |
-|            Language: Demonic            |                          Can speak Demonic.                          |          |                                                                                                                    |
-| Disabling: Missing Left Arm below elbow | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |                                                       Injury                                                       |
-|            Equipment Weight            |                             20.0075 lb                             |          |                                                      Equipment                                                      |
-|          Carry Weight          |                                120 lb                                |          | +50 lbs Carry Weight per Lift dice |
-|              Light Weight              |                   -0d6 to STR/RFX governed Dice Pools                   |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-|             Terrestrial Combat Speed             |                                50 ft                                |          |                                  +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                  |
-|               Swim Combat Speed               |                                20 ft                                |          |                                   +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                   |
-|               Climb Combat Speed               |                                15 ft                                |          |                                     +5 ft (per Climb Dice), +/-5 ft (per RFX)                                     |
+|                                                        Name                                                        |                                 Info                                 | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :------: | :----------------------------------------------: |
+|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                                  1                                  |          |                                                  |
+|                                [Language](./../../../Languages/Languages.md): Babelish                                |                         Can speak Babelish.                         |          |                                                  |
+|                                 [Language](./../../../Languages/Languages.md): Demonic                                 |                          Can speak Demonic.                          |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Missing Arm | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |           Missing Left Arm below elbow           |
+|                                                                                                                    |                                                                      |          |                                                  |
+|                 [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                 |                                0 lb                                |          |                    Equipment                    |
+|                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                  |                                150 lb                                |          |        +50 lbs Carry Weight per Lift dice        |
+|                 [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)                 |                 -0d6 to STR/RFX governed Dice Pools                 |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                    |                                                                      |          |                                                  |
+|                [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                |        +1 to the level of injury received from Silver damage.        |          |                    Fellblood                    |
+|       [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)       |                                  3                                  |          |                      Armor                      |
+|                                                                                                                    |                                                                      |          |                                                  |
+|                        [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                        |                        5x5 ft on battle map.                        |          |                                                  |
+|            [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)            |                                50 ft                                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                                25 ft                                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|               [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)               |                                15 ft                                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                    |                                                                      |          |                                                  |
+|                    [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                    |                                 4/4                                 |          |       Vocation/Magic Governing Skill Level       |
+|                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                                 0/3                                 |          |               Awarded by Narrator               |
+|                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |                    – 0 dice to all dice checks.                    |          |                      Damage                      |
 
-## Combat Rolls:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-| Name                              |   One<br />Handed   |   Two<br />Handed   |  Dual<br />Wielded  | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| --------------------------------- | :------------------: | :------------------: | :------------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Epilogue - Medium Thrusting Sword | 3d8,6d6<br />(+1d6) | 3d8, 7d6<br />(+2d6) | 3d8, 7d6<br />(+1d6) |      2      |  Melee  |      Pierce      |    4/5/5<br />(Rapid)    |        None        |        None        |
-| Epilogue - Medium Slashing Sword  | 3d8, 7d6<br />(+2d6) | 3d8, 8d6<br />(+3d6) | 3d8, 8d6<br />(+1d6) |      0      |  Melee  |       Slash       |    5/5/5<br />(Rapid)    |        None        |        None        |
-| Light Crossbow                    |         None         |   6d6<br />(+1d6)   |         None         |      0      | Extended |                  |          Loading          |        None        |        Bolt        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-| Name          | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| ------------- | ------------------- | ------------------ | ----------- | ----- | ----------------- | ------------------- |
-| Wounding Bolt | Bolt                | +1d6               | 1           | None  | Pierce, Bleed     | None                |
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Equipment:
+|               Name               | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|              Unarmed              |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Epilogue - Medium Thrusting Sword |                                +1d6<br />(3d8, 3d6)                                |                                +2d6<br />(3d8, 4d6)                                |                                  +1d6<br />(3d8, 4d6)                                  |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                   4/5/5<br />(Rapid)                                   |                                    None                                    |                                             None                                             |
+| Epilogue - Medium Slashing Sword |                                +2d6<br />(3d8, 4d6)                                |                                +3d6<br />(3d8, 5d6)                                |                                  +1d6<br />(3d8, 5d6)                                  |                                            0                                            |                         Melee                         |                                  Slash                                  |                                   5/5/5<br />(Rapid)                                   |                                    None                                    |                                             None                                             |
+|      Thorn - Hand Crossbow      |                                        +1d6                                        |                                        +1d6                                        |                                          +1d6                                          |                                            0                                            |                        Medium                        |                                                                        |                                        Standard                                        |                                    None                                    |                                             Bolt                                             |
 
-| Name                                | #  | Class                                         | Tier      | Durability | LB    | Value |
-| ----------------------------------- | -- | --------------------------------------------- | --------- | ---------- | ----- | ----- |
-| Epilogue                            | 1  | Medium Thrusting Sword, Medium Slashing Sword | Excellent | 21/21      | 2     | ?     |
-| Light Crossbow                      | 1  | Light Crossbow                                | Mundane   | 12/12      | 5     | 25 bc |
-| Barbed Broadhead Bolt               | 20 | Wounding Bolt                                 | Mundane   | -          | 0.075 | 7 cc  |
-| Case, Crossbow Bolts (capacity: 20) | 1  |                                               | Mundane   |            | 1     | 1 bc  |
-|                                     |    |                                               |           |            |       |       |
-| Gambeson Coat                       | 1  | Phy. Def. 1                                   | Mundane   | 12/12      | 5     | 2 bc  |
-| Gambeson Leggings                   | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 3     | 1 bc  |
-| Leather Cuirass and Pauldrons       | 1  | Phy. Def. 0.5                                 | Mundane   | 12/12      | 4     | 3 bc  |
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-## Destiny Points: 0/3
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|  Standard Bolt  |                                        Bolt                                        |                                        +1d6                                        |                                           1                                           |                                          None                                          |                        Pierce                        |                                  None                                  |                                                                                        |                                                                            |                                                                                              |
+|  Wounding Bolt  |                                        Bolt                                        |                                        +1d6                                        |                                           1                                           |                                          None                                          |                     Pierce, Bleed                     |                                  None                                  |                                                                                        |                                                                            |                                                                                              |
+| Anti-armor Bolt |                                        Bolt                                        |                                        +1d6                                        |                                           2                                           |                                          None                                          |                        Pierce                        |                                  None                                  |                                                                                        |                                                                            |                                                                                              |
 
-## Magic Resource: 0/3
+### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
 
-## Appearance:
+|     Name     | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
+| :----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Mag. Unarmed |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|              |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                            |
+|  Mag. Puff  |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Near                         |                                                                        |                                        Standard                                        |                                    None                                    |                                     0                                     |
+
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+
+| Name           | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| -------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Gambeson Armor | 1 |              Body Armor, Arm Armor, Leg Armor              | Phy. Def. 1.00                                                 |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
+| Leather Armor  | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2.00                                                    |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
+| Epilogue       | 1 |        Medium Thrusting Sword, Medium Slashing Sword        | Ending                                                         |                         Excellent                         |                                 21/21                                 |                             2                             |                      ?                      |
+| Hand Crossbow  | 1 |                        Hand Crossbow                        |                                                                |                          Mundane                          |                                 12/12                                 |                             3                             |                    75 bc                    |
+
+## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
+
+| Name                         | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ---------------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| "Better" Backpack (1.2 ft^3) | 1 |                       35 lb container                       |                                                                |                          Mundane                          |                                                                      |                             5                             |                    4 bc                    |
+
+## Notes
+
+Javk sacrificed his arm and eye as a devil contract
+
+Thorn is the name of Javk's arm or maybe bow
+
+Diamond devil eyes from containment
+
+Yellow flame of frenzy eye on normal eye
+
+Sayings:
+
+- "Never fight fair"
+- "We, fight, TOGETHER"
+- Who carries the load (Boat)
+- "We do this, together"
+- "Why do we Fall…"
+- "I'm not likely to back down from much, I always stand my ground"
+- "If you find yourself in a fair fight, then your tactics suck."
+- "It's never been a fair fight"
+- "Because fighting fair is for losers."
+- "Don't know if you have a choice bucko, no man gets to walk out of his own story…"
+- "Then be a hero"
+- "The only thing necessary for evil to triumph is for good men to do nothing"
+- "It's not about you, it's about them"
+- "It's the deeds that make the man..."
+- "Sometime you gotta dig deep to find what your looking for..."
+  https://youtube.com/shorts/KxKjt2-Z7ts?feature=share
+
+Habits:
+
+- Tinker with arm
+- Practice card tricks and magician tricks
+- Complain that I don't have a cigar
+- Play his guitar
+- Fiddle with horn
+- Play up deteriorating health
+
+## Appearance
 
 Age: ~30
 
@@ -70,17 +137,29 @@ Race: Mudblood
 
 Height: 6' 2"
 
-Weight: ~200 lb
+Weight: ~ 200 lb
 
-Body Type: Jacked
+Body Type: Shredded, Geralt of Rivia style
+
+Hair Color: Brown
+
+Eye Color:
+
+- Right eye: Prothetic eye, glowing yellow iris, black sclera
+- Left eye: Blueish green
 
 Additional Details:
 
 * Missing a bodily extremity/limb: Missing left forearm below elbow
-* Yellow glowing eye
+* Scarred face, running across left eye, nose, left edge of mouth...
 * Lichenberg Figures across arm and torso
+* Black crystal "horn" protruding near hair line above right eye
+* Neck is scared for small bit marks
+* Always wearing lucky Reddland bandana scarf around the neck
+* Generally wearing dull brown and black attire
+* Talks with a southern accent
 
-## Disposition:
+## Disposition
 
 - Natural Leader
 - Proud
@@ -94,14 +173,14 @@ Additional Details:
 - Hard on self: "The purpose of life is finding the largest burden that you can bear and bearing it."
 - Regretful: "I am ashamed of my past and the people that I hurt"
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
-- Redemption: There's a spark of good in everyone. (Good)
+- Redemption: There's a spark of good in everyone.
 - Creativity: I think creativity is intelligence and having fun.
-- Believes in good and evil.
+- Black and White: Believes in good and evil.
 - Doesn't hurt children and the weak.
 
-## Goals/Aspirations:
+## Goals/Aspirations
 
 - Find a way to remove the Shard of Darkness that is slowly killing him.
 - Try to live up to the expectations of Old Ben.
@@ -116,41 +195,7 @@ Additional Details:
 - Start merc group (sword point).
 - Become a magician.
 
-## Notes:
-
-Javk sacrificed his arm and eye as a devil contract
-
-Thorn is the name of Javk's arm or maybe bow
-
-Diamond devil eyes from containment
-
-Yellow flame of frenzy eye on normal eye
-
-Sayings:
-Never fight fair
-We, fight, TOGETHER
-Who carries the load (Boat)
-“We do this, together”
-“Why do we Fall…”
-“I'm not likely to back down from much, I always stand my ground”
-“If you find yourself in a fair fight, then your tactics suck.”
-“It's never been a fair fight”
-“Because fighting fair is for losers.”
-“No man gets to walk out of their own story…”
-“Then be a hero”
-
-"The only thing necessary for evil to triumph is for good men to do nothing"
-“”It's not about you, it's about them
-https://youtube.com/shorts/KxKjt2-Z7ts?feature=share
-
-Habits:
-Tinker with arm
-Practice card tricks and magician tricks
-Complain that I don't have a cigar
-Fiddle with horn
-Play up deteriorating health
-
-## Backstory:
+## Backstory
 
 Across the world, when mothers tuck their children into bed, bandits gather around their campfires, and adventures congregate near the inn's hearth, the "Tale of the Wicker" is a common tale. A monster/ghost story that has been passed down from generation to generation. The tale of the Wicker is a reminder that the scariest monsters don't look like monsters at all. For the Wicker looks just like you and me. Only when it claims your severed head and drags your soul to the bottom of the Abyss will you know you have encountered the Wicker. For children it is a reminder to not trust strangers or wonder off from your parents. For adults it's a warning that monsters walk among us, and no matter how much power, wealth, or fame you possess, none of it will protect you from true malevolence.
 
@@ -158,7 +203,7 @@ As for the actual validity of the Wicker, after looking at the supposed historic
 
 "There is no binding it can't escape. No trap it can't evade. No door it can't open. No price it can be bought for. It's coming for you next. Pleasant dreams..." – Tales of the Wicker
 
-Stories are usually full of half truths. In reality there isn't a "Wicker" or not anymore. Through most of modern time there have been many Wicker, all clones of a human who was believed to be the first Wicker. Within the past 100 years though, the "original” clones have been phased out slowly as the repeated cloning has left them with little to no innate magic. The modern Wicker organization has close ties to many shady organizations, and the majority of their contracts come from them. Whether its upstart evil wizards, war lords, crime bosses, city officials, or disloyal spies, the Wicker always gets their mark.
+Stories are usually full of half truths. In reality there isn't a "Wicker" or not anymore. Through most of modern time there have been many Wicker, all clones of a human who was believed to be the first Wicker. Within the past 100 years though, the "original" clones have been phased out slowly as the repeated cloning has left them with little to no innate magic. The modern Wicker organization has close ties to many shady organizations, and the majority of their contracts come from them. Whether its upstart evil wizards, war lords, crime bosses, city officials, or disloyal spies, the Wicker always gets their mark.
 
 The calling card of the Wicker is their headless victims, a cut so clean that no material weapon could produce. This is an old Wicker enchantment weapon enchantment that separates the head from the body of the creatures when killed with the weapon. This is simply for practical purposes, as the head is needed to confirm the contract. But superstitious theories would argue otherwise.
 

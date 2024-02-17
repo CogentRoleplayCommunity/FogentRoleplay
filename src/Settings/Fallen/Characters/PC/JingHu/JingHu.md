@@ -1,72 +1,96 @@
 # Jing Hu
 
-![NotMyImage](JingHu.jpg)
+![img](./JingHu.jpg)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 0 |    | RFX             | 1 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 5d6 | Acrobatics      | 2 | 6d6 | Communication     | -1 | 2d6 |
-| Climb     | 2 | 5d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 3d6 |
-| Lift      | 0 | 3d6 | Stealth         | 0 | 4d6 | Will              | 0 | 3d6 |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 0 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 1 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 0 |    |
+| ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 1 | 5d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | -1 | 2d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 1 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 4d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 3d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 0 | 3d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 4d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Monk {RFX}         | 2 | 6d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
-| ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Large Hafted {STR, RFX, INT} | 2 | 6d6 | Polycraft {STR, RFX, INT}  | -1 | 3d6 |
+| Fellcaster Monk    | STR, RFX, INT | 1 | 5d6 |
+| ------------------ | :-----------: | :-: | :-: |
+| Large Hafted Blunt | STR, RFX, INT | 1 | 3d6 |
+| Monk Knowledge     |      INT      |    | 4d6 |
+| Polycraft          | STR, RFX, INT | -1 | 3d6 |
+| Sonocraft          | STR, RFX, INT | -1 | 3d6 |
+| Shadowcraft        | STR, RFX, INT | -1 | 3d6 |
 
-## Effects:
+## Info
 
-|                    Name                    |                            Effect                            | Duration |                                                       Source                                                       |
-| :----------------------------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|           Minor Silver Weakness           |   +1 to the level of injury received from Silver damage.   |          |                                                    Fellblood                                                    |
-|           Physical Defense Level           |                               3                               |          |                                                        Armor                                                        |
-|                Medium Size                |                     5x5 ft on battle map.                     |          |                                                                                                                    |
-|             Language: Babelish             |                 Can speak and write Babelish.                 |          |                                                                                                                    |
-|              Language: Primal              |                       Can speak Primal.                       |          |                                                                                                                    |
-| Disabling: Disabling: Incontrollable Grief | Overwhelming grief that is triggered reminder of past trauma. |          |                                                                                                                    |
-|      Disabling: Disabling: Paranoia      |   Irrational belief that the Wicker Men will come for him.   |          |                                                                                                                    |
-|              Equipment Weight              |                             0 lb                             |          |                                                      Equipment                                                      |
-|           Carry Weight           |                            120 lb                            |          | +50 lbs Carry Weight per Lift dice |
-|                Light Weight                |                -0d6 to STR/RFX governed Dice Pools                |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-|          Terrestrial Combat Speed          |                             50 ft                             |          |                                +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                |
-|            Swim Combat Speed            |                            25 ft                            |          |                                +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                |
-|            Climb Combat Speed            |                             25 ft                             |          |                                  +5 ft (per Climb Dice), +/-5 ft (per RFX)                                  |
+|                                                             Name                                                             |                             Info                             | Duration |                      Source                      |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
+|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                               1                               |          |                                                  |
+|                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                      Can speak Babelish.                      |          |                                                  |
+|                                      [Language](./../../../Languages/Languages.md): Primal                                      |                       Can speak Primal.                       |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Incontrollable Grief | Overwhelming grief that is triggered reminder of past trauma. |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Disabling: Paranoia |   Irrational belief that the Wicker Men will come for him.   |          |                                                  |
+|                                                                                                                              |                                                              |          |                                                  |
+|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                             24 lb                             |          |                    Equipment                    |
+|                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                       |                            150 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
+|                      [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)                      |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                              |                                                              |          |                                                  |
+|                     [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                     |    +1 to the level of injury received from Silver damage.    |          |                    Fellblood                    |
+|            [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)            |                               3                               |          |                      Armor                      |
+|                                                                                                                              |                                                              |          |                                                  |
+|                             [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                             |                     5x5 ft on battle map.                     |          |                                                  |
+|                 [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                 |                             50 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                     [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                     |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                    [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                             25 ft                             |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                              |                                                              |          |                                                  |
+|                            [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                            |                              4/4                              |          |       Vocation/Magic Governing Skill Level       |
+|                            [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                            |                              0/3                              |          |               Awarded by Narrator               |
+|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                 – 0 dice to all dice checks.                 |          |                      Damage                      |
 
-## Combat Rolls:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Hafted Blunt |  4d6<br />(-1)  | 6d6<br />(+1d6) |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|    Short Spear    | 7d6<br />(+2d6) |     (+3d6)     |  9d6<br />(+1d6)  |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear | 7d6<br />(+2d6) | 7d6<br />(+2d6) |       None       |      3      | Medium |      Pierce      |         Standard         |        None        |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Destiny Points: 0/3
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Fellblood: 0/0
+|        Name        | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :----------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|      Unarmed      |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|       Spear       |                                        +2d6                                        |                                        +3d6                                        |                                          None                                          |                                            3                                            |                         Melee                         |                                 Pierce                                 |                                       Spear Rapid                                       |                                    None                                    |                                             None                                             |
+|    Thrown Spear    |                                        +2d6                                        |                                        +2d6                                        |                                          None                                          |                                            3                                            |                         Short                         |                                 Pierce                                 |                                        Standard                                        |                                    None                                    |                                             None                                             |
+| Large Hafted Blunt |                                         -1                                         |                                        +1d6                                        |                                          None                                          |                                            5                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 
-## Equipment:
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-| Name                           | # |       Class       |  Tier  | Durability | LB | Value |
-| ------------------------------ | :-: | :----------------: | :-----: | :--------: | :-: | :----: |
-| Gambeson Coat                  | 1 |    Phy. Def. 1    | Mundane |   12/12   | 5 |  2 bc  |
-| Gambeson Leggings              | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 3 |  1 bc  |
-| Leather Cuirass and Pauldron   | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 4 |  3 bc  |
-| Leather Cuisses and Greaves    | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 3 |  2 bc  |
-| Leather Vambrace               | 1 |   Phy. Def. 0.5   | Mundane |   12/12   | 2 | 1.5 bc |
-| Quarterstaff with hidden spear | 1 | Large Hafted Blunt | Mundane |   12/12   | 4 | 30 cc |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                                              |
 
-## Containers:
+### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
 
-### Container Name
+|     Name     | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
+| :----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Mag. Unarmed |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|              |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                            |
+|  Mag. Puff  |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Near                         |                                                                        |                                        Standard                                        |                                    None                                    |                                     0                                     |
 
-| Name | # | Class | Tier | Durability | LB | Value |
-| ---- | :-: | :---: | :--: | :--------: | :-: | :---: |
-|      |  |      |      |            |    |      |
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-## Appearance:
+| Name                           | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ------------------------------ | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Gambeson Armor                 | 1 |              Body Armor, Arm Armor, Leg Armor              | Phy. Def. 1.00                                                 |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
+| Leather Armor                  | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2.00                                                    |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
+| Quarterstaff with Hidden Spear | 1 |           Large Hafted Blunt, Spear, Thrown Spear           |                                                                |                          Mundane                          |                                 12/12                                 |                             4                             |                    2 bc                    |
+
+## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
+
+| Name | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ---- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+|      |  |                                                            |                                                                |                                                          |                                                                      |                                                            |                                            |
+
+## Notes
+
+## Appearance
 
 Age: 220
 
@@ -86,21 +110,19 @@ Hair: Dark Black
 
 Additional Details:
 
-## Disposition:
+## Disposition
 
 - I always have a plan for what to do when things go wrong.
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
 - Freedom. Chains are meant to be broken, as are those who would forge them. (Chaotic)
 
-## Goals/Aspirations:
+## Goals/Aspirations
 
 - I'm guilty of a terrible crime, I unknowingly killed my family. I hope I can redeem myself for it.
 
-## Notes:
-
-## Backstory:
+## Backstory
 
 Jing Hu's childhood was abruptly shattered when he fell victim to a kidnapping orchestrated by the secretive Leodelphian martial arts clan known as the Zen Hu. Renowned for their superior martial skills and shadow magic, the Zen Hu earned a fearsome reputation as assassins.
 

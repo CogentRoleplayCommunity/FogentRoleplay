@@ -49,7 +49,7 @@
 | :-------------------: | :-: | :-------------------------------------------: | :------------: | :-------: | :--------: | :--: | :---: |
 |    Gambeson Armor    | 1 |       Body Armor, Arm Armor, Leg Armor       | Phy. Def. 1.00 |  Mundane  |   12/12   |  8  | 5 bc |
 |    Chainmail Armor    | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 3  | Excellent |   21/21   |  47  | 75 bp |
-|     Heater Shield     | 1 |                    Shield                    |  Phy. Def. 2  |  Mundane  |   12/12   |  8  | 7 bc |
+|     Heater Shield     | 1 |                    Shield                    |  Phy. Def. 2.00  |  Mundane  |   12/12   |  8  | 7 bc |
 |     Arming Sword     | 1 | Medium Thrusting Sword, Medium Slashing Sword |                |  Mundane  |   12/12   |  2  | 10 bc |
 |       Shortbow       | 1 |                   Light Bow                   |                |  Mundane  |   12/12   |  2  | 25 bc |
 | Quiver (capacity: 20) | 1 |                                              |                |  Mundane  |            |  1  | 1 bc |

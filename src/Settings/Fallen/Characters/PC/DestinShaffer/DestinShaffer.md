@@ -13,7 +13,7 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Smith | STR, RFX, INT | 1 |    |
+| Fellcaster Smith | STR, RFX, INT | 1 | 5d6 |
 | ---------------- | :-----------: | :-: | :-: |
 | Medium Hafted    | STR, RFX, INT | 1 | 5d6 |
 | Unarmed          | STR, RFX, INT | 0 | 4d6 |
@@ -40,7 +40,7 @@
 |                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                             20 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                             20 ft                             |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                      |                                                              |          |                                                  |
-|                        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                        |                              5/5                              |          |       Vocation/Magic Governing Skill Level       |
+|                   [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                   |                              5/5                              |          |       Vocation/Magic Governing Skill Level       |
 |                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                              0/3                              |          |               Awarded by Narrator               |
 |                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |                 – 0 dice to all dice checks.                 |          |                      Damage                      |
 
@@ -60,8 +60,8 @@
 
 #### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-| Name | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
-| :--: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 |      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                                              |
 
 ### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)

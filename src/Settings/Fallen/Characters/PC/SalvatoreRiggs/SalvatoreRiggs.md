@@ -1,76 +1,88 @@
 # Salvatore Riggs
 
-![NotMyImage](SalvatoreRiggs.jpg)
+![img](./SalvatoreRiggs.jpg)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       |   0   |       | RFX             |   0   |       | INT               |   1   |       |
-| --------- | :---: | :---: | --------------- | :---: | :---: | ----------------- | :---: | :---: |
-| Athletics |   0   |  3d6  | Acrobatics      |   0   |  3d6  | Communication     |   2   |  6d6  |
-| Climb     |   0   |  3d6  | Perception      |   0   |  3d6  | General Knowledge |   0   |  4d6  |
-| Endurance |   0   |  3d6  | Sleight of Hand |   2   |  5d6  | Survival          |   2   |  6d6  |
-| Lift      |   0   |  3d6  | Stealth         |   2   |  5d6  | Will         |   0   |  4d6  |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    |   0   |       | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  |   0   |       | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                |   1   |       |
+| ---------------------------------------------------------------------------- | :---: | :---: | ---------------------------------------------------------------------------------------- | :---: | :---: | -------------------------------------------------------------------------------------------- | :---: | :---: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) |   0   |  3d6  | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           |   0   |  3d6  | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         |   1   |  5d6  |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         |   0   |  3d6  | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           |   0   |  3d6  | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) |   1   |  5d6  |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) |   0   |  3d6  | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) |   1   |  4d6  | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   |   1   |  5d6  |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           |   0   |  3d6  | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 |   1   |  4d6  | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           |   1   |  5d6  |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Criminal {INT}      |   2   |  6d6  |
-| ------------------- | :---: | :---: |
-| Hand Crossbow {STR, RFX, INT} |   2   |  6d6  |
+| Criminal           | STR, RFX, INT |   1   |  5d6  |
+| ------------------ | :-----------: | :---: | :---: |
+| Hand Crossbow      | STR, RFX, INT |   1   |  5d6  |
+| Criminal Knowledge | STR, RFX, INT |       |  5d6  |
 
-## Effects:
+## Info
 
-|              Name              |                          Effect                          | Duration |                                                                  Source                                                                  |
-| :----------------------------: | :------------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|     Minor Silver Weakness      | +1 to the level of injury received from Silver damage. |          |                                                              Fellblood                                                               |
-|     Physical Defense Level     |                            0                             |          |                                                                  Armor                                                                   |
-|          Medium Size           |                  5x5 ft on battle map.                   |          |                                                                                                                                          |
-|       Language: Babelish       |                   Can speak Babelish.                    |          |                                                                                                                                          |
-|        Language: Pirish        |                    Can speak Pirish.                     |          |                                                                                                                                          |
-| Disabling: Addiction to Ladies |      Goes out of his way to impress the other sex.       |          |                                                                                                                                          |
-|     Disabling: Short Fuse      |       Has an extreme predisposition towards anger.       |          |                                                                                                                                          |
-|        Equipment Weight        |                           0 lb                           |          |                                                                Equipment                                                                 |
-|     Carry Weight      |                          120 lb                          |          | +50 lbs Carry Weight per Lift dice |
-|          Light Weight          |             -0d6 to STR/RFX governed Dice Pools              |          |                                                         0% =< Equipment Weight <= 25% of Carry Weight                                                         |
-|    Terrestrial Combat Speed     |                          30 ft                           |          |                                          +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                           |
-|      Swim Combat Speed       |                          15 ft                           |          |                                           +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                           |
-|      Climb Combat Speed      |                          15 ft                           |          |                                             +5 ft (per Climb Dice), +/-5 ft (per RFX)                                             |
+|                                                              Name                                                              |                          Info                          | Duration |                     Source                      |
+| :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :---------------------------------------------: |
+|                           [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                           1                            |          |                                                 |
+|                                    [Language](./../../../Languages/Languages.md): Babelish                                     |                  Can speak Babelish.                   |          |                                                 |
+|                                     [Language](./../../../Languages/Languages.md): Pirish                                      |                   Can speak Pirish.                    |          |                                                 |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Addiction to Ladies |     Goes out of his way to impress the other sex.      |          |                                                 |
+|     [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Short Fuse      |      Has an extreme predisposition towards anger.      |          |                                                 |
+|                                                                                                                                |                                                        |          |                                                 |
+|                     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                         26 lb                          |          |                    Equipment                    |
+|                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                      |                         150 lb                         |          |       +50 lbs Carry Weight per Lift dice        |
+|                     [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)                     |          -0d6 to STR/RFX governed Dice Pools           |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                                |                                                        |          |                                                 |
+|                    [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                    | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+|           [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)           |                           3                            |          |                      Armor                      |
+|                                                                                                                                |                                                        |          |                                                 |
+|                            [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                             |                 5x5 ft on battle map.                  |          |                                                 |
+|                [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                 |                         30 ft                          |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                    [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                         15 ft                          |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                   [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                         15 ft                          |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                                |                                                        |          |                                                 |
+|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                          0/3                           |          |               Awarded by Narrator               |
+|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |              – 0 dice to all dice checks.              |          |                     Damage                      |
 
-## Combat Rolls:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|         Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |        Range         | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------------------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     Hand Crossbow     | 7d6<br />(+1d6) |  <br />(+1d6)   |  8d6<br />(+1d6)  |      0      | 40/120<br />(Medium) |                   |         Standard          |        None         |        Bolt         |
-| Small Thrusting Point | 4d6<br />(+0d6) |     (+0d6)      |  5d6<br />(+1d6)  |      2      |        Melee         |      Pierce       |           Rapid           |        None         |        None         |
-| Small Slashing Blade  | 5d6<br />(+1d6) |     (+1d6)      |  6d6<br />(+1d6)  |      0      |        Melee         |       Slash       |           Rapid           |        None         |        None         |
-|  Thrown Small Point   | 4d6<br />(+0d6) |     (+0d6)      |       None        |      1      |   10/60<br />Short   |      Pierce       |           Quick           |        None         |        None         |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-|     Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :-----------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Standard Bolt |        Bolt         |        +1d6        |      1      | None  |      Pierce       |        None         |
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Destiny Points: 0/3
+|         Name          | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|        Unarmed        |                                          -1                                           |                                          -1                                           |                                           None                                            |                                             0                                              |                          Melee                           |                                  Bludgeon                                  |                                           Rapid                                            |                                     None                                      |                                               None                                               |
+|     Hand Crossbow     |                                         +1d6                                          |                                         +1d6                                          |                                           +1d6                                            |                                             0                                              |                   40/120<br />(Medium)                   |                                                                            |                                          Standard                                          |                                     None                                      |                                               Bolt                                               |
+| Small Thrusting Point |                                         +0d6                                          |                                         +0d6                                          |                                           +1d6                                            |                                             2                                              |                          Melee                           |                                   Pierce                                   |                                           Rapid                                            |                                     None                                      |                                               None                                               |
+| Small Slashing Blade  |                                         +1d6                                          |                                         +1d6                                          |                                           +1d6                                            |                                             0                                              |                          Melee                           |                                   Slash                                    |                                           Rapid                                            |                                     None                                      |                                               None                                               |
+|  Thrown Small Point   |                                         +0d6                                          |                                         +0d6                                          |                                           None                                            |                                             1                                              |                     10/60<br />Short                     |                                   Pierce                                   |                                           Quick                                            |                                     None                                      |                                               None                                               |
 
-## Equipment:
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-| Name                                |   #   |                              Class                              |  Tier   | Durability |  LB   | Value  |
-| ----------------------------------- | :---: | :-------------------------------------------------------------: | :-----: | :--------: | :---: | :----: |
-| Gambeson Coat                       |   1   |                           Phy. Def. 1                           | Mundane |   12/12    |   5   |  2 bc  |
-| Gambeson Leggings                   |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   3   |  1 bc  |
-| Leather Cuirass and Pauldron        |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   4   |  3 bc  |
-| Leather Cuisses and Greaves         |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   3   |  2 bc  |
-| Leather Vambrace                    |   1   |                          Phy. Def. 0.5                          | Mundane |   12/12    |   2   | 1.5 bc |
-| Dagger                              |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point | Mundane |   12/12    |   1   |  2 bc  |
-| Hand Crossbow                       |   1   |                          Hand Crossbow                          | Mundane |   12/12    |   3   | 75 bc  |
-| Broadhead Bolt                      |  20   |                          Standard Bolt                          | Mundane |     -      | 0.075 |  5 cc  |
-| Case, Crossbow Bolts (capacity: 20) |   1   |                                                             | Mundane |            |   1   |  1 bc  |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| Standard Bolt |                                         Bolt                                          |                                         +1d6                                          |                                             1                                             |                                            None                                            |                          Pierce                          |                                    None                                    |                                                                                            |                                                                               |                                                                                                  |
 
-### Container Name
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name |   #   | Class | Tier  | Durability |  LB   | Value |
-| ---- | :---: | :---: | :---: | :--------: | :---: | :---: |
-|      |       |       |       |            |       |       |
+| Name                                |   #   | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)  | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ----------------------------------- | :---: | :-------------------------------------------------------------: | ----------------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------: |
+| Gambeson Armor                      |   1   |                Body Armor, Arm Armor, Leg Armor                 | Phy. Def. 1.00                                                    |                           Mundane                            |                                  12/12                                   |                               8                               |                      5 bc                      |
+| Leather Armor                       |   1   |          Head Armor, Body Armor, Arm Armor, Leg Armor           | Phy. Def. 2.00                                                    |                           Quality                            |                                  15/15                                   |                              12                               |                     10 bc                      |
+| Hand Crossbow                       |   1   |                          Hand Crossbow                          |                                                                   |                           Mundane                            |                                  12/12                                   |                               3                               |                     75 bc                      |
+| Dagger                              |   1   | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                                                                   |                           Mundane                            |                                  12/12                                   |                               1                               |                      2 bc                      |
+| Bodkin Bolt                         |  20   |                         Anti-armor Bolt                         |                                                                   |                           Mundane                            |                                                                          |                             0.075                             |                     10 cc                      |
+| Case, Crossbow Bolts (capacity: 20) |   1   |                                                                 |                                                                   |                           Mundane                            |                                                                          |                               1                               |                      1 bc                      |
 
-## Appearance:
+## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
+
+| Name |   #   | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ---- | :---: | :------------------------------------------------------------: | ----------------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------: |
+|      |       |                                                                |                                                                   |                                                              |                                                                          |                                                               |                                                |
+
+## Notes
+
+## Appearance
 
 Age: 30
 
@@ -88,22 +100,20 @@ Eye: Blue/Green
 
 Additional Details:
 
-## Disposition:
+## Disposition
 
 - Quick to anger
 - Charming
 - Ladies man
 
-## Beliefs/Morality:
+## Beliefs/Morality
 
 - Loyalty to partners
 - Not being a rat
 
-## Goals/Aspirations:
+## Goals/Aspirations
 
-## Notes:
-
-## Backstory:
+## Backstory
 
 Salvatore Riggs spent his formative years navigating the gritty streets of Reddwall, raised in a lower-class family that instilled in him the importance of financial acumen. Early on, he grasped the imperative nature of money, initiating his journey by deftly picking pockets and peddling pilfered wares on the clandestine market. By the age of 18, Salvatore had evolved his endeavors into overseeing a modest fencing operation.
 

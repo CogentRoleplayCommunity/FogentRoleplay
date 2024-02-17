@@ -1,103 +1,107 @@
-# Malgon Blackiron (Level 3)
+# Malgon Blackiron
 
-![NotMyImage](MalgonBlackriron.png)
+![img](./MalgonBlackriron.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 1 |    | RFX             | 0 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 1 | 5d6 | Acrobatics      | 0 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 4d6 | Perception      | 1 | 4d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 3d6 | Survival          | 0 | 3d6 |
-| Lift      | 1 | 5d6 | Stealth         | 1 | 4d6 | Will              | 0 | 3d6 |
+| [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 1 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)                  | 0 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 0 |    |
+| ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 5d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 0 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 3d6 |
+| [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 0 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 4d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 3d6 |
+| [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 1 | 5d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 0 | 4d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Warrior {STR}               | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
-| ---------------------------- | :-: | :-: | -------------------------- | -- | --- |
-| Large Hafted {STR, RFX, INT} | 1 | 5d6 | Cryocraft {STR, RFX, INT} | -1 | 3d6 |
-| Heavy Bow {STR, RFX, INT}    | 1 | 5d6 |                            |    |     |
-| Warrior Knowledge {INT}      |  | 4d6 |                            |    |     |
+| Fellcaster Warrior | STR, RFX, INT | 1 | 4d6 |
+| ------------------ | :-----------: | :-: | :-: |
+| Large Hafted       | STR, RFX, INT | 1 | 5d6 |
+| Heavy Bow          | STR, RFX, INT | 1 | 5d6 |
+| Warrior Knowledge  |      INT      |    | 4d6 |
+| Cryocraft          | STR, RFX, INT | -1 | 3d6 |
+| Fellcraft Skill    | STR, RFX, INT | -1 | 3d6 |
+| Fellcraft Skill    | STR, RFX, INT | -1 | 3d6 |
 
-## Effects
+## Info
 
-|             Name             |                         Effect                         | Duration |                                                      Source                                                      |
-| :---------------------------: | :----------------------------------------------------: | :------: | :---------------------------------------------------------------------------------------------------------------: |
-|     Minor Silver Weakness     | +1 to the level of injury received from Silver damage. |          |                                                     Fellblood                                                     |
-|    Physical Defense Level    |                           3                           |          |                                                       Armor                                                       |
-|          Medium Size          |                 5x5 ft on battle map.                 |          |                                                                                                                  |
-|      Language: Babelish      |                  Can speak Babelish.                  |          |                                                                                                                  |
-|       Language: Primal       |                   Can speak Primal.                   |          |                                                                                                                  |
-| Disabling: Incapable of Lying |       His people do not lie and neither does he.       |          |                                                                                                                  |
-|       Equipment Weight       |                       34.35 lb                       |          |                                                     Equipment                                                     |
-|         Carry Weight         |                         220 lb                         |          | 120 lb (Base), +100 lb positive STR,<br />-50 lb negative STR, +40 lb positive Lift,<br />- 20 lb negative Lift |
-|         Light Weight         |          -0d6 to STR/RFX governed Dice Pools          |          |                                             0% =< Equipment Weight <= 25% of Carry Weight                                             |
-|   Terrestrial Combat Speed   |                         35 ft                         |          |                                 +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                 |
-|       Swim Combat Speed       |                         25 ft                         |          |                                  +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                  |
-|      Climb Combat Speed      |                         20 ft                         |          |                                    +5 ft (per Climb Dice), +/-5 ft (per RFX)                                    |
+|                                                            Name                                                            |                          Info                          | Duration |                      Source                      |
+| :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
+|                           [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                           |                           3                           |          |                                                  |
+|                                    [Language](./../../../Languages/Languages.md): Babelish                                    |                  Can speak Babelish.                  |          |                                                  |
+|                                     [Language](./../../../Languages/Languages.md): Primal                                     |                   Can speak Primal.                   |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Incapable of Lying |       His people do not lie and neither does he.       |          |                                                  |
+|                                                                                                                            |                                                        |          |                                                  |
+|                     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                     |                       29.85 lb                       |          |                    Equipment                    |
+|                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                     |                         250 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
+|                    [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)                    |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                            |                                                        |          |                                                  |
+|                   [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                   | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+|          [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)          |                           3                           |          |                      Armor                      |
+|                                                                                                                            |                                                        |          |                                                  |
+|                            [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                            |                 5x5 ft on battle map.                 |          |                                                  |
+|                [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         50 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                   [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                   |                         25 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                   [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                   |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                            |                                                        |          |                                                  |
+|                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                          5/5                          |          |       Vocation/Magic Governing Skill Level       |
+|                          [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                          |                          3/3                          |          |               Awarded by Narrator               |
+|                           [Injury](./../../../../../CoreRules/CombatRules/Injury.md): Medium Injury                           |     – 1 dice to all dice checks. (Minorly Healed)     |          |                      Damage                      |
 
-## Combat Rolls
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-### Weapons
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|      Heavy Bow      |      None      | 7d6<br />(+2d6) |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
-|  Large Hafted Axe  | 5d6<br />(+0d6) | 8d6<br />(+3d6) |       None       |      2      |    Melee    |        Hew        |           Rapid           |        None        |        None        |
-| Medium Hafted Point | 5d6<br />(+1d6) | 6d6<br />(+2d6) |  7d6<br />(+1d6)  |      2      |    Melee    |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Hafted Blunt | 4d6<br />(+0d6) | 5d6<br />(+1d6) |  6d6<br />(+1d6)  |      4      |    Melee    |     Bludgeon     |           Rapid           |        None        |        None        |
+### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-|      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Standard Arrow |        Arrow        |  8d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|     Unarmed     |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Large Hafted Axe |                                        +0d6                                        |                                        +3d6                                        |                                          None                                          |                                            2                                            |                         Melee                         |                                   Hew                                   |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|    Heavy Bow    |                                        None                                        |                                        +2d6                                        |                                          None                                          |                                            2                                            |                     Sharpshooter                     |                                                                        |                                        Standard                                        |                                    None                                    |                                             Arrow                                             |
 
-### Combat Spells
+#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-|                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |     Near     |       Cold       |                          |                    |   0 Magic Resource   |
-|       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |    Medium    |       Cold       |                          |                    |  0 Magic Resource  |
-| [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            |  Far - Long  |       Cold       |                          |                    | 1 - 2 Magic Resource |
-|        [Generic Adept Spell](./../../../../../CoreRules/MagicRules/Spells/Adept/GenericAdeptSpell.md)        |                |                |                  |            | Sharpshooter |       Cold       |                          |                    | 3 - 4 Magic Resource |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| Standard Arrow |                                       Arrow                                       |                                        +1d6                                        |                                           1                                           |                                          None                                          |                        Pierce                        |                                  None                                  |                                                                                        |                                                                            |                                                                                              |
 
-## Destiny Points: 3/3
+### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
 
-## Fellblood: 0/0
+|     Name     | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
+| :----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Mag. Unarmed |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                                                        |                                          Rapid                                          |                                    None                                    |                                     0                                     |
+|              |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                            |
+|  Mag. Puff  |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Near                         |                                                                        |                                        Standard                                        |                                    None                                    |                                     0                                     |
 
-## Equipment:
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                          | # |         Class         | Effect          |   Tier   | Durability |  LB  |  Value  |
-| ----------------------------- | :-: | :-------------------: | --------------- | :-------: | :--------: | :--: | :-----: |
-| Gambeson Coat                 | 1 | Body Armor, Arm Armor | Phy. Def. 0.625 |  Mundane  |   12/12   |  5  | 3.13 bc |
-| Gambeson Leggings             | 1 |       Leg Armor       | Phy. Def. 0.375 |  Mundane  |   12/12   |  3  | 1.87 bc |
-| Leather Helmet                | 1 |      Head Armor      | Phy. Def. 0.34  |  Quality  |   15/15   |  2  | 1.67 bc |
-| Leather Cuirass and Pauldrons | 1 |      Body Armor      | Phy. Def. 1.00  |  Quality  |   15/15   |  6  |  5 bc  |
-| Leather Cuisses and Greaves   | 1 |       Leg Armor       | Phy. Def. 0.33  |  Quality  |   15/15   |  2  | 1.67 bc |
-| Leather Vambrace              | 1 |       Arm Armor       | Phy. Def. 0.33  |  Quality  |   15/15   |  2  | 1.66 bc |
-| Clothes, Traveler's           | 1 |                      |                 |  Mundane  |            |  4  |  2 bc  |
-| Longbow                       | 1 |       Heavy Bow       |                 |  Mundane  |   12/12   |  4  |  50 bc  |
-| Quiver (capacity: 20)         | 1 |                      |                 |  Mundane  |            |  1  |  1 bc  |
-| Broadhead Arrow               | 17 |    Standard Arrow    |                 |  Mundane  |            | 0.05 |  5 cc  |
-| Lavender Lancer Scarf         | 1 |                      |                 |  Mundane  |            | 0.5 |  50 cc  |
-| Hew                           | 1 |   Large Hafted Axe   | Splinter        | Excellent |   21/21   |  4  |    ?    |
-| Staff of Defense              |    |                      |                 |          |            |      |        |
+| Name                  | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Gambeson Armor        | 1 |              Body Armor, Arm Armor, Leg Armor              | Phy. Def. 1.00                                                 |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
+| Leather Armor         | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2.00                                                    |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
+| Longbow               | 1 |                          Heavy Bow                          |                                                                |                          Mundane                          |                                 12/12                                 |                             4                             |                    50 bc                    |
+| Quiver (capacity: 20) | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    1 bc                    |
+| Broadhead Arrow       | 17 |                       Standard Arrow                       |                                                                |                          Mundane                          |                                                                      |                            0.05                            |                    5 cc                    |
+| Hew                   | 1 |                      Large Hafted Axe                      | Splinter                                                       |                         Excellent                         |                                 21/21                                 |                             4                             |                      ?                      |
 
-## Containers
+## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
-| ----------------- | :-: | :--------------: | ------ | :-----: | :--------: | :--: | :---: |
-| Dane Axe          | 1 | Large Hafted Axe |        | Mundane |   12/12   |  4  | 11 bc |
-| Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
-| Dice Set          | 1 |                  |        | Mundane |            | 0.2 | 10 cc |
-| Ring, Exquisite   | 2 |                  |        | Mundane |            | 0.2 | 3 bc |
-| Bronze Coin       | 47 |                  |        | Mundane |            | 0.02 | 1 bc |
-| Copper Coin       | 51 |                  |        | Mundane |            | 0.02 | 1 cc |
+| Name                  | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Backpack (1 ft^3)     | 1 |                       30 lb container                       |                                                                |                          Mundane                          |                                                                      |                             5                             |                    2 bc                    |
+| Clothes, Traveler's   | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             4                             |                    2 bc                    |
+| Lavender Lancer Scarf | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.5                            |                    50 cc                    |
+| Dice Set              | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.2                            |                    10 cc                    |
+| Ring, Exquisite       | 2 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.2                            |                    3 bc                    |
+| Bronze Coin           | 47 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
+| Copper Coin           | 51 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 cc                    |
+| Staff of Defense      | 1 |              Large Hafted Blunt, Magic Conduit              | Defense Spells, Physical Defense 1.00                          |                         Excellent                         |                                 21/21                                 |                             3                             |                      ?                      |
 
-| Name                   | # |      Class      |         Effect         |   Tier   | Durability |  LB  | Value |
-| ---------------------- | :-: | :-------------: | :---------------------: | :-------: | :--------: | :--: | :----: |
-| Satchel (2/5 ft^3)     | 1 | 12 lb container |                        |  Mundane  |            |  2  |  1 bc  |
-| Bronze Coin            | 16 |                |                        |  Mundane  |            | 0.02 |  1 bc  |
-| Potion of Invisibility | 1 |                | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
+| Name                   | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ---------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Satchel (2/5 ft^3)     | 1 |                       12 lb container                       |                                                                |                          Mundane                          |                                                                      |                             2                             |                    1 bc                    |
+| Bronze Coin            | 16 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
+| Potion of Invisibility | 1 |                                                            | Single-use Invisibility                                        |                         Excellent                         |                                                                      |                            0.25                            |                   250 bc                   |
 
 ## Notes
 
@@ -115,7 +119,7 @@ Body Type:
 
 Hair Color:
 
-Eyes Color:
+Eye Color:
 
 Additional Details:
 

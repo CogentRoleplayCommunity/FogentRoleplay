@@ -13,12 +13,12 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Detective | STR, RFX, INT | 1 | 5d6 |
-| -------------------- | :-----------: | :-: | :-: |
-| Polycraft            | STR, RFX, INT | 1 | 5d6 |
-| Sonocraft            | STR, RFX, INT | -1 | 3d6 |
-| Hydrocraft           | STR, RFX, INT | -1 | 3d6 |
-| Medium Sword         | STR, RFX, INT | 0 | 4d6 |
+| Fellcaster Investigator | STR, RFX, INT | 1 | 5d6 |
+| ----------------------- | :-----------: | :-: | :-: |
+| Polycraft               | STR, RFX, INT | 1 | 5d6 |
+| Sonocraft               | STR, RFX, INT | -1 | 3d6 |
+| Hydrocraft              | STR, RFX, INT | -1 | 3d6 |
+| Medium Sword            | STR, RFX, INT | 0 | 4d6 |
 
 ## Info
 
@@ -42,7 +42,7 @@
 |                     [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                     |                                 15 ft                                 |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                    [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                                 15 ft                                 |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                                        |          |                                                  |
-|                            [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                            |                                  5/5                                  |          |       Vocation/Magic Governing Skill Level       |
+|                       [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                       |                                  5/5                                  |          |       Vocation/Magic Governing Skill Level       |
 |                            [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                            |                                  3/3                                  |          |               Awarded by Narrator               |
 |                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                     – 0 dice to all dice checks.                     |          |                      Damage                      |
 
@@ -60,8 +60,8 @@
 
 #### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
 
-| Name | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
-| :--: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| Name  | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 |      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                                              |
 
 ### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
@@ -114,9 +114,9 @@
 | Name           | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
 | -------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
 | Gambeson Armor | 1 |              Body Armor, Arm Armor, Leg Armor              | Phy. Def. 1.00                                                 |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
-| Leather Armor  | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2                                                    |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
+| Leather Armor  | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2.00                                                    |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
 | Scimitar       | 1 |        Medium Thrusting Sword, Medium Slashing Sword        |                                                                |                          Quality                          |                                 15/15                                 |                             2                             |                    25 bc                    |
-| Heater Shield  | 1 |                           Shield                           | Phy. Def. 2                                                    |                          Mundane                          |                                 12/12                                 |                             8                             |                    7 bc                    |
+| Heater Shield  | 1 |                           Shield                           | Phy. Def. 2.00                                                    |                          Mundane                          |                                 12/12                                 |                             8                             |                    7 bc                    |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 

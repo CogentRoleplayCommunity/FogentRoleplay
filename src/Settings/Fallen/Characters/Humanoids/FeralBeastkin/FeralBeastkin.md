@@ -50,8 +50,8 @@
 
 | Name                 |   #   |                    Class                     |             |  Tier   | Durability |  LB   | Value |
 | -------------------- | :---: | :------------------------------------------: | :---------: | :-----: | :--------: | :---: | :---: |
-| Leather Armor        |   1   | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2 | Quality |   15/15    |  12   | 10 bc |
-| Heater Shield        |   1   |                    Shield                    | Phy. Def. 2 | Mundane |   12/12    |   8   | 7 bc  |
+| Leather Armor        |   1   | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2.00 | Quality |   15/15    |  12   | 10 bc |
+| Heater Shield        |   1   |                    Shield                    | Phy. Def. 2.00 | Mundane |   12/12    |   8   | 7 bc  |
 | Morning Star         |   1   |   Medium Hafted Blunt, Medium Hafted Point   |             | Mundane |   12/12    |   4   | 15 bc |
 | Wooden Javelin |   3   |       Short Spear, Thrown Short Spear        |             | Shoddy  |    9/9     |   2   | 50 cc |
 
