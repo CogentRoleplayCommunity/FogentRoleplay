@@ -37,7 +37,7 @@ Squares representing non-combination Fellcrafts. These can be accessed if you ch
 
 Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
 
-![alt text](FellcraftTree.png)
+![alt text](./FellweaveTree.png)
 
 ### Fellcraft List
 
