@@ -41,26 +41,28 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 
 ## Fellcraft List
 
-- [Polycraft](Polycraft/Polycraft.md)
-- [Blazecraft](Blazecraft/Blazecraft.md)
-- [Hydrocraft](Hydrocraft/Hydrocraft.md)
-- [Electrocraft](Electrocraft/Electrocraft.md)
-- [Terracraft](Terracraft/Terracraft.md)
-- [Galecraft](Galecraft/Galecraft.md)
-- [Cryocraft](Cryocraft/Cryocraft.md)
-- [Naturecraft](Naturecraft/Naturecraft.md)
-- [Toxincraft](Toxincraft/Toxincraft.md)
-- [Soulcraft](Soulcraft/Soulcraft.md)
-- [Shadowcraft](Shadowcraft/Shadowcraft.md)
-- [Mindcraft](Mindcraft/Mindcraft.md)
-- [Ferracraft](Ferracraft/Ferracraft.md)
-- [Sonocraft](Sonocraft/Sonocraft.md)
-- [Hemacraft](Hemacraft/Hemacraft.md)
-- [Spidercraft](Spidercraft/Spidercraft.md)
-- [Plasmacraft](Plasmacraft/Plasmacraft.md)
-- [Stormcraft](Stormcraft/Stormcraft.md)
-- [Magmacraft](Magmacraft/Magmacraft.md)
-- [Blizzardcraft](Blizzardcraft/Blizzardcraft.md)
+- [Polycraft](./Fellcraft.md#polycraft)
+- [Blazecraft](./Fellcraft.md#blazecraft)
+- [Hydrocraft](./Fellcraft.md#hydrocraft)
+- [Electrocraft](./Fellcraft.md#electrocraft)
+- [Terracraft](./Fellcraft.md#terracraft)
+- [Galecraft](./Fellcraft.md#galecraft)
+- [Cryocraft](./Fellcraft.md#cryocraft)
+- [Naturecraft](./Fellcraft.md#naturecraft)
+- [Toxincraft](./Fellcraft.md#toxincraft)
+- [Soulcraft](./Fellcraft.md#soulcraft)
+- [Shadowcraft](./Fellcraft.md#shadowcraft)
+- [Mindcraft](./Fellcraft.md#mindcraft)
+- [Ferracraft](./Fellcraft.md#ferracraft)
+- [Sonocraft](./Fellcraft.md#sonocraft)
+- [Hemacraft](./Fellcraft.md#hemacraft)
+- [Spidercraft](./Fellcraft.md#spidercraft)
+
+## Combo Fellcraft List
+- [Plasmacraft](./Fellcraft.md#plasmacraft)
+- [Stormcraft](./Fellcraft.md#stormcraft)
+- [Magmacraft](./Fellcraft.md#magmacraft)
+- [Blizzardcraft](./Fellcraft.md#blizzardcraft)
 
 ## Blazecraft
 
