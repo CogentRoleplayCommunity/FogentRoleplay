@@ -1,8 +1,8 @@
 # Fellcraft
 
-![](Blazecraft/Blazecraft.png)
+![img](./Blazecraft.png)
 
-![](Polycraft/Polycraft.png)
+![img](./Polycraft.png)
 
 The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Fellblood.
 
