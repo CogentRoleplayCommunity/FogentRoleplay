@@ -14,7 +14,7 @@ To aid the newly awakened beings in their struggle to survive and thrive in this
 
 The Beautiful One declared, "Thou has been given the passion of flesh to spread across the land."
 
-![img](../Gods/Brights/TheBeautifulOne/TheBeautifulOne.png)
+![img](../Gods/Brights/TheBeatifulOne/TheBeautifulOne.png)
 
 The Ravenous One commanded, "Thou shall indulge and consume of the world that I have granted."
 

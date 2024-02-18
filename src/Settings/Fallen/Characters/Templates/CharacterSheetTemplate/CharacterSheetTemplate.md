@@ -13,12 +13,12 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Vocation Name    | STR, RFX, INT |   1   |  4d6  |
-| ---------------- | :-----------: | :---: | :---: |
-| Combat Skill     | STR, RFX, INT |   0   |  3d6  |
-| Vocational Skill | STR, RFX, INT |       |  3d6  |
-|                  |               |   0   |  3d6  |
-|                  |               |   0   |  3d6  |
+| Vocation Name<br />[Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md)<br />[Runesmith](./../../../MagicSystems/Runecraft/Runecraft.md)<br />[Divine Conduit](./../../../MagicSystems/Miracles/Miracles.md) | STR, RFX, INT |   1   |  4d6  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :---: | :---: |
+| Combat Skill                                                                                                                                                                                                         | STR, RFX, INT |   0   |  3d6  |
+| Vocational Skill                                                                                                                                                                                                     | STR, RFX, INT |       |  3d6  |
+|                                                                                                                                                                                                                      |               |   0   |  3d6  |
+|                                                                                                                                                                                                                      |               |   0   |  3d6  |
 
 ## Info
 
@@ -36,7 +36,7 @@
 |          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           0                            |          |                      Armor                      |
 |                                                                                                            |                                                        |          |                                                 |
-|                  [Medium Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size)                   |                 5x5 ft on battle map.                  |          |                                                 |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |                 5x5 ft on battle map.                  |          |                                                 |
 |      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)       |                         30 ft                          |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                          |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                          |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
