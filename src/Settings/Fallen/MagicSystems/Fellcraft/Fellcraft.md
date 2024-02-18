@@ -80,13 +80,13 @@ Dragonfire is legendary in its destructive capabilities. Dragons channel their f
 
 Allows the user to breathe fire from their mouth. In addition, the fire the user produces has an odd dark coloring to it. This fire has a mind of its own, leaping from fuel to fuel. The raw destructive power is terrifying, as given the right circumstance things can quickly go out of hand.
 
-### Absorbing Fellblood: Fire
-
-Fire and heat can be used to absorb Fellblood. This can be done with large fires, volcanoes, smoldering ash, blazing comets, etc...
-
 ### [Unfinished] Specialization: The Phoenix
 
 Phoenix produce fire via the  immolation of one's own flesh as fuel for the fire, a process similar to the Silverburn reaction. Phoenix solved this issue by evolving ways to channel magic into regenerating flesh as fast as they burn it. This produces an immense amount of heat and flame, though it is quite taxing on the user. That being said this isn't a safe process, and can end up backfiring on new users of this Fellcraft.
+
+### Absorbing Fellblood: Fire
+
+Fire and heat can be used to absorb Fellblood. This can be done with large fires, volcanoes, smoldering ash, blazing comets, etc...
 
 ## Cryocraft
 
@@ -243,10 +243,6 @@ The existence of Dreamcraft is debated among academics and has been relegated to
 
 Thoughts can be used to absorb Fellblood. The victim must not be resisting. This can be done with Fellkin, Brightkin, animals, monsters, etc... Extra points should be awarded for Fellkin and Brightkin. Extra points should be awarded if used on a victim's dreams.
 
-### Mental Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
-
 ## Naturecraft
 
 ![img](Naturecraft.png)
@@ -279,10 +275,6 @@ Polycraft users can narratively attempt the following:
 
 Polycraft fundamentally is the ability to enhance, heal, and change one's body. The various races have their own variant of this, leading to unique abilities between them.
 
-### Absorbing Fellblood: Flesh and Blood
-
-Flesh and blood can be consumed to regain Fellblood. This generally is done ravenously. An extra point of Fellblood should be awarded if a Fellkind of Monster is consumed.
-
 ### Specialization: The Beast
 
 The many monsters of the Continent such as werebeasts, vampires, kikimora, etc... are known for their remarkable strength, speed, and durability. Those that follow this specialization seek to emulate these features in their own bodies.
@@ -290,6 +282,10 @@ The many monsters of the Continent such as werebeasts, vampires, kikimora, etc..
 ### Specialization: The Doppelganger
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Common practitioners of this are spies, assassins, thiefs, etc… The narrator may give dice bonuses based on the context of the mimicked persona in relation to the creature the user is trying to influence.
+
+### Absorbing Fellblood: Flesh and Blood
+
+Flesh and blood can be consumed to regain Fellblood. This generally is done ravenously. An extra point of Fellblood should be awarded if a Fellkind of Monster is consumed.
 
 ## Shadowcraft
 
@@ -332,10 +328,6 @@ Sonocraft users can narratively attempt the following:
 ### Absorb Fellblood: Sonic Sounds
 
 Large sonic cracks can be absorbed to regain Fellblood. This can be done with explosions, objects breaking the sound barrier, etc...
-
-### Shockwave Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 ## Soulcraft
 
@@ -424,10 +416,6 @@ Allows the user to spew dragonterra from their mouth. Dragonterra is a gray subs
 ### Absorb Fellblood: Terra
 
 Terra can be used to absorb Fellblood. This can be done near exposed earth, rock, geological marvels, etc...
-
-### Slash, Hew, and Pierce Resistance
-
-By achieving a CL 3 check, for the cost of 1 Fellblood a character may gain resistance to this element equal to the points invested in this Fellcraft. This effect has a duration of 1 hour.
 
 ## Toxincraft
 
