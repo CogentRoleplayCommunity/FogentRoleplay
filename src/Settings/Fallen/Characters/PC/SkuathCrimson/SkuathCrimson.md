@@ -10,7 +10,7 @@ Unspent Skill Point: 1
 | ------------------------------------------------------------------------- | :-: | :-: | ------------------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 3d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)           | 1 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 3d6 |
 | [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)         | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)           | 1 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 | [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)                   | 1 | 3d6 |
 | [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 0 | 3d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)                 | 1 | 3d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
@@ -105,7 +105,7 @@ Unspent Skill Point: 1
 | Copper Coin                                             | 600 |                |               |  Mundane  |            | 0.02 | 1 cc |
 | Bronze Coin                                             | 11 |                |               |  Mundane  |            | 0.02 | 1 bc |
 | Jade statuette of a frog with tiny golden orbs for eyes |  1  |                |               | Excellent |            |  1  | 50 bc |
-| Vial of Minor Healing Blood                             |  2  |                | Minor Healing |  Mundane  |            | 0.25 | 50 bc |
+| Vial of Minor Healing Blood                             |  1  |                | Minor Healing |  Mundane  |            | 0.25 | 50 bc |
 
 ## Notes
 
