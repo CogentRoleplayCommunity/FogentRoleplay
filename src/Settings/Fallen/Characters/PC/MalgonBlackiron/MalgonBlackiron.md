@@ -45,7 +45,6 @@
 |                                                                                                                            |                                                        |          |                                                  |
 |                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                          5/5                          |          |       Vocation/Magic Governing Skill Level       |
 |                          [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                          |                          3/3                          |          |               Awarded by Narrator               |
-|                           [Injury](./../../../../../CoreRules/CombatRules/Injury.md): Medium Injury                           |     – 1 dice to all dice checks. (Minorly Healed)     |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
