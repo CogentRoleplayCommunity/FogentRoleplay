@@ -59,6 +59,7 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 - [Spidercraft](./Fellcraft.md#spidercraft)
 
 ## Combo Fellcraft List
+
 - [Plasmacraft](./Fellcraft.md#plasmacraft)
 - [Stormcraft](./Fellcraft.md#stormcraft)
 - [Magmacraft](./Fellcraft.md#magmacraft)
@@ -438,3 +439,96 @@ Dragon venom never degrades or dries out. It is tasteless and odorless, making i
 ### Absorb Fellblood: Toxins
 
 Toxins can be used to absorb Fellblood. If the toxin is already within the user, they may absorb it.
+
+## Blizzardcraft
+
+![img](Blizzardcraft.png)
+
+Blizzardcraft users can narratively attempt the following:
+
+- Create blizzards.
+- Manipulate blizzards.
+
+### Fellcraft Combination: Blizzardcraft
+
+This Fellcraft can only be accessed by users with a specialization in Galecraft and Cryocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+
+### Specialization: The Blizzard Dragon
+
+In the frigid places of Terra, Blizzard Dragon will bury entire kingdoms in great blizzards to feast on the frozen corpses of the dead. The great blizzards around them act as camouflage to mask their movements.
+
+#### Create Blizzards
+
+Like the Blizzard Dragon, Blizzardcraft users may manipulate the Blizzards to their liking. How large and furious the blizzard determines the check required. A check to increase the ferocity of a blizzard already in progress should be far easier than if the user tried to do the same with a sunny warm day.
+
+## Magmacraft
+
+![img](Magmacraft.png)
+
+Magmacraft users can narratively attempt the following:
+
+- Create magma.
+- Manipulate magma.
+- Melt rock.
+- Influence tectonic plates
+
+### Fellcraft Combination: Magmacraft
+
+This Fellcraft can only be accessed by users with a specialization in Blazecraft and Terracraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+
+### Specialization: The Magma Dragon
+
+When the horrors of Terra bowed down before the Bright Lord, the Bright Lord conscripted the Great magma dragons of the world who dwell even deeper than the great underground caverns of Terra in infinite seas of lava. The continents that were once separate were brought together, so that Brightkind may rule over all of their new world.
+
+#### Influence Tectonic Plates
+
+The influence of tectonic plates can result in magma geysers and other geological phenomena. If enough masters of Magmacraft were brought together, Terra itself might shift once again…
+
+## Plasmacraft
+
+![img](Plasmacraft.png)
+
+Plasmacraft users can narratively attempt the following:
+
+- Create and manipulate plasma.
+- Cut through objects using plasma.
+- Create solar flare-like attacks.
+- Emulate properties of solar energy.
+
+Plasmacraft is the domain of true masters of Fellcraft. Plasmacraft is said to emulate the properties of the Sun, though it exhibits none of the Holy properties of Radiance Miracles.
+
+### Fellcraft Combination: Plasmacraft
+
+This Fellcraft can only be accessed by users with a specialization in Blazecraft and Galecraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+
+### Specialization: The Ancient Dragon
+
+Ancient myths tell how when the first dragons were born, they were granted wings. They flew to the Sun and drank it. They breathed light so hot it would cut stone and turn night to day.
+
+### Absorbing Fellblood: Solar and Plasma
+
+Plasma and Sunlight can be used to absorb Fellblood.
+
+## Stormcraft
+
+![img](Stormcraft.png)
+
+Stormcraft users can narratively attempt the following:
+
+- Create storms.
+- Manipulate storms.
+- Control the weather
+
+### Fellcraft Combination: Stormcraft
+
+This Fellcraft can only be accessed by users with a specialization in Galecraft, Hydrocraft, and Electrocraft. The lowest dice total of the required Fellcraft will be used for this Fellcraft.
+
+### Specialization: The Storm Dragon
+
+Every storm on Terra is said to be started by a Storm Dragon, who dwells deep in the eye of the Great Storm at the edge of the world, far away from the continent of Terra.
+
+#### Control Weather
+
+Like the Dragons of the Great Storm, Stormcraft users may manipulate the weather to their liking. How large and furious the weather event determines the check required. A check to increase the ferocity of a storm already in progress should be far easier than if the user tried to do the same with a calm day.
+
+Though if the legend is true and the storms do come from the Great Storm, then it would be wise for one to influence the storms wisely. As surely dragons do not tolerate the interferences of mere mortals.
