@@ -1,7 +1,7 @@
 ## Fogent Todo:
 - Fix Gun Ranges
 - Add shields to generic magic
-- Add Innate Weapons to genric Magic
+- Add Innate Weapons to generic Magic
 - Bite Grab
 - Rebuild all sheet, new weights, new movement speeds, new magic, new character sheet with links
 - Magic Resource scales off Vocation and Governing skill dice pool
@@ -10,7 +10,7 @@
 | Initiate |                    |                            |                           |                              |                      |
 | 1 opt.   | 5d6                | 4                          | 5d6                       | 2                            | 6                    |
 | 5 opt.   | 6d6                | 6                          | 6d6                       | 4                            | 10                   |
-| Apdept   |                    |                            |                           |                              |                      |
+| Adept   |                    |                            |                           |                              |                      |
 | 6        | 7d6                |                            | 6d6                       |                              |                      |
 |          |                    |                            |                           |                              |                      |
 | 7        | 7d6                |                            | 7d6                       |                              | 24                   |
