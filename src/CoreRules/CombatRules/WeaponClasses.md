@@ -16,7 +16,7 @@ Character's can gain a skill in the following weapon combat skills.
 - Medium Spear
 - Large Sword
 - Large Hafted
-- Medium Spear
+- Large Spear
 - Greatsword
 - Reach Hafted
 - Longspear
