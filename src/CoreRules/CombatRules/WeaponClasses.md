@@ -20,7 +20,7 @@ Character's can gain a skill in the following weapon combat skills.
 - Large Spear
 - Greatsword
 - Reach Hafted
-- Longspear
+- Reach Spear
 - Whip
 - Pistol
 - Rifle
@@ -266,13 +266,13 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | Thrusting Reach Sword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 | Slashing Reach Sword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
-### Longspear
+### Reach Spear
 
 (two handed spear, pike, lance)
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
-| Longspear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
+| Reach Spear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 
 ### Whip
 
