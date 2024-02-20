@@ -11,7 +11,7 @@ Thrown Small Blade,+1d6,+1d6,None,0,Short,Slash,Quick,None,None,"{STR,RFX,INT}"
 Thrown Small Point,+0d6,+0d6,None,1,Short,Pierce,Quick,None,None,"{STR,RFX,INT}"
 Thrown Small Axe,+1d6,+1d6,None,0,Short,Hew,Quick,None,None,"{STR,RFX,INT}"
 Thrown Small Blunt,+0d6,+0d6,None,1,Short,Bludgeon,Quick,None,None,"{STR,RFX,INT}"
-Thrown Short Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,None,None,"{STR,RFX,INT}"
+Thrown Medium Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,None,None,"{STR,RFX,INT}"
 Thrown Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
 Unarmed,-1,-1,None,0,Melee,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
@@ -30,7 +30,7 @@ Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,None,None,"{STR,RFX,INT}
 Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
 Medium Thrusting Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,None,None,"{STR,RFX,INT}"
 Medium Slashing Sword,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,None,None,"{STR,RFX,INT}"
-Short Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Spear Rapid,None,None,"{STR,RFX,INT}"
+Medium Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Spear Rapid,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
 Large Hafted Axe,+0d6,+3d6,None,2,Melee,Hew,Rapid,None,None,"{STR,RFX,INT}"
 Large Hafted Blade,+0d6,+3d6,None,2,Melee,Slash,Rapid,None,None,"{STR,RFX,INT}"
