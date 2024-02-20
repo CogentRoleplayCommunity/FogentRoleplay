@@ -257,14 +257,14 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | Reach Hafted Point |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 | Reach Hafted Blunt |       -1       |      +2d6      |       None       |      5      | Reach |     Bludgeon     |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
-### Greatsword
+### Reach Sword
 
-(zweihänder)
+(greatsword, zweihänder)
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
-| :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
-| Thrusting Greatsword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
-| Slashing Greatsword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
+| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
+| Thrusting Reach Sword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
+| Slashing Reach Sword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
 ### Longspear
 

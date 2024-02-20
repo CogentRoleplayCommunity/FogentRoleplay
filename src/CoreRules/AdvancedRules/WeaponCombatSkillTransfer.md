@@ -13,7 +13,7 @@ Starting on with the weapon skill your character currently possesses, each horiz
 | Small            | Small Hafted   | Small Blade |              |
 | Medium           | Medium Hafted | Medium Sword | Medium Spear |
 | Large            | Large Hafted  | Large Sword | Large Spear |
-| Reach            | Reach Hafted  | Greatsword   | Longspear    |
+| Reach            | Reach Hafted  | Reach Sword  | Longspear    |
 
 ### Bow Combat Skill Transfer
 
