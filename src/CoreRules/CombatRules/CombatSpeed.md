@@ -17,17 +17,13 @@ Combat Speeds each have a Speed Type, which determine how fast that particular c
 |    Very Fast    |              20              |              20              | +20 ft (per Governing Skill Dice), +/-20 ft (per RFX)    |
 | Extremely Fast |              25              |              25              | +25 ft (per Governing Skill Dice), +/-25 ft (per RFX)     |
 
-### Governing Skill
-
-The skill that represents the combat speed in question.
-
 ### Feet Per Governing Skill Dice
 
 The number of feet gained/lost per dice of the governing skill dice pool. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.). If the resulting number isn't a multiple of 5, round down to the nearest mutiple of 5.
 
 ### RFX Speed
 
-Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in the RFX, the character gains/loses movement speed.
+Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in RFX, the character gains/loses movement speed.
 
 RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat roll would be disadvantageous for the ranged combatant as they are in melee reach.
 
