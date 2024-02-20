@@ -308,6 +308,6 @@ Large Sized creatures innate weapons, such as claws, bites, etc...
 | Large Horns |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
 - Large Claws ~= Medium Slashing Sword
-- Large Bite ~= Spear
+- Large Bite ~= Large Spear
 - Large Stomp ~= Medium Blunt
 - Large Horns ~= Medium Horns
