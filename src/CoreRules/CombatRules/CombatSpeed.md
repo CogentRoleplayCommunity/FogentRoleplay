@@ -25,7 +25,7 @@ The number of feet gained/lost per dice of the governing skill dice pool. This i
 
 Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in RFX, the character gains/loses movement speed.
 
-RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat roll would be disadvantageous for the ranged combatant as they are in melee reach.
+RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
 #### Example 1
 
@@ -63,9 +63,9 @@ Using the speed types above, we can construct Combat Speeds for specific types o
 
 ### Using multiple Combat Speeds on the same round
 
-Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of our total movement they've used that round for our initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
+Whenever a character needs to use multiple movement speeds in a round, calculate what percentage of their movement they've used that round for their initial movement, with the remainder percent being used for another movement speed, rounded down to the next multiple of 5.
 
-For example, if a character has 30 feet of "Terrestrial Combat Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their round movement speed, leaving them 50% for their climb. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5, being 5 feet. Therefore the character can climb 5 feet up the rock face.
+For example, if a character has 30 feet of "Terrestrial Combat Speed" and 15 feet of "Climb Combat Speed". The character walks 15 feet up to a climbable rock face. They've used 50% (15/30 = 0.5) of their movement speed, leaving them 50% of their climb combat speed. 50% of 15 feet is 7.5 feet, which we round down to the nearest multiple of 5 which is 5 feet. Therefore the character can climb 5 feet up the rock face.
 
 ## Difficult Terrain
 
