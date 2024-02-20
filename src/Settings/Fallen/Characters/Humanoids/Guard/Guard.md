@@ -15,28 +15,28 @@
 
 | Guard {STR, RFX, INT}        | 1 | 3d6 |
 | ---------------------------- | :-: | :-: |
-| Medium Spear {STR, RFX, INT} | 1 | 3d6 |
+| Large Spear {STR, RFX, INT} | 1 | 3d6 |
 
 ## Effects
 
-|          Name          |             Effect             | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                6                |          |                                                        Armor                                                        |
-|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
-|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
-|    Equipment Weight    |              66 lb              |          |                                                      Equipment                                                      |
-|  Carry Weight  |             120 lb             |          | +50 lbs Carry Weight per Lift dice |
-|      Medium Weight      | -1d6 to STR/RFX governed Dice Pools |          |                                              25% - 50% of carry weight                                              |
-| Terrestrial Combat Speed |              30 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
-|   Swim Combat Speed   |              15 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
-|  Climb Combat Speed  |              15 ft              |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
+|           Name           |               Effect               | Duration |                      Source                      |
+| :----------------------: | :---------------------------------: | :------: | :----------------------------------------------: |
+|  Physical Defense Level  |                  6                  |          |                      Armor                      |
+|       Medium Size       |        5x5 ft on battle map.        |          |                                                  |
+|    Language: Babelish    |         Can speak Babelish.         |          |                                                  |
+|     Equipment Weight     |                66 lb                |          |                    Equipment                    |
+|       Carry Weight       |               120 lb               |          |        +50 lbs Carry Weight per Lift dice        |
+|      Medium Weight      | -1d6 to STR/RFX governed Dice Pools |          |            25% - 50% of carry weight            |
+| Terrestrial Combat Speed |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    Swim Combat Speed    |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    Climb Combat Speed    |                15 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 
 ## Combat Rolls
 
-|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|    Spear    | 5d6<br />(+2d6) | 6d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Spear | 5d6<br />(+2d6) | 5d6<br />(+2d6) |       None       |    Short    | Short |      Pierce      |         Standard         |        None        |        None        |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|    Large Spear    | 5d6<br />(+2d6) | 6d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
+| Thrown Large Spear | 5d6<br />(+2d6) | 5d6<br />(+2d6) |       None       |    Short    | Short |      Pierce      |         Standard         |        None        |        None        |
 
 ## Equipment:
 
@@ -44,8 +44,8 @@
 | :-------------: | :-: | :------------------------------------------: | :------------: | :-------: | :--------: | :-: | :---: |
 | Gambeson Armor | 1 |       Body Armor, Arm Armor, Leg Armor       | Phy. Def. 1.00 |  Mundane  |   12/12   | 8 | 5 bc |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 3  | Excellent |   21/21   | 47 | 75 bp |
-|  Heater Shield  | 1 |                    Shield                    |  Phy. Def. 2.00  |  Mundane  |   12/12   | 8 | 7 bc |
-|      Spear      | 1 |             Large Spear, Thrown Large Spear             |                |  Mundane  |   12/12   | 3 | 1 bc |
+|  Heater Shield  | 1 |                    Shield                    | Phy. Def. 2.00 |  Mundane  |   12/12   | 8 | 7 bc |
+|      Spear      | 1 |       Large Spear, Thrown Large Spear       |                |  Mundane  |   12/12   | 3 | 1 bc |
 
 ## Containers
 

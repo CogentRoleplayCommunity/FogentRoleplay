@@ -35,4 +35,4 @@ I try and add the "Longspear" combat skill. I realized using a longspear is not 
 | Wine Tasting       |   RFX, INT   | Inherited | 7d6 |
 | ~~Chopping Food~~ |      RFX      |          |    |
 | Small Blade        | STR, RFX, INT |     1     | 7d6 |
-| ~~Long Spear~~    | STR, RFX, INT |          |    |
+| ~~Longspear~~     | STR, RFX, INT |          |    |
