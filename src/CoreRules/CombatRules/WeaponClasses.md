@@ -135,7 +135,7 @@ To duel wield the character must have at least one proficiency point in both of 
 |  Thrown Small Blade  |      +1d6      |      +1d6      |       None       |      0      | Short |       Slash       |           Quick           |        None        |         None         | {STR,RFX,INT}             |
 |  Thrown Small Point  |      +0d6      |      +0d6      |       None       |      1      | Short |      Pierce      |           Quick           |        None        |         None         | {STR,RFX,INT}             |
 
-## Medium weapons
+## Medium Weapons
 
 ### Medium Hafted
 
@@ -148,7 +148,7 @@ To duel wield the character must have at least one proficiency point in both of 
 | Medium Hafted Point |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 | Medium Hafted Blunt |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
-### Medium sword
+### Medium Sword
 
 (Arming-sword, sidesword, broadsword, one-handed falchion, messer, one-handed katana, scimitar, and wakizashi)
 
@@ -159,8 +159,10 @@ To duel wield the character must have at least one proficiency point in both of 
 
 ### Medium Spear
 
+(Javelin and Short spear)
+
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
 |    Medium Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 | Thrown Medium Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
 
