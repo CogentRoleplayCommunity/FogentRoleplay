@@ -132,7 +132,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |  Light Hammer  | 1 |             Small Hafted Blunt, Small Thrown Blunt             |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Mace      | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Sickle     | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|     Spear     | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Spear     | 1 |                       Large Spear, Thrown Large Spear                       |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |   Battleaxe   | 1 |                        Medium Hafted Axe                        |        | Mundane |   12/12   |   4   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Flail     | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Glaive     | 1 |                       Large Hafted Blade                       |        | Mundane |   12/12   |   6   | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -152,7 +152,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Scimitar    | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|    Trident    | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|    Trident    | 1 |                       Large Spear, Thrown Large Spear                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 | Warhammer/pick | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   2   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
@@ -485,8 +485,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 |        Name        | # |        Class        | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :-----------------: | :-: | :-----------------: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
-|        Spear        | 1 | Spear, Thrown Spear |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Trident       | 1 | Spear, Thrown Spear |        | Mundane |   12/12   |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Spear        | 1 | Large Spear, Thrown Large Spear |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Trident       | 1 | Large Spear, Thrown Large Spear |        | Mundane |   12/12   |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |         Net         | 1 |    Medium Sword    |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |   Fishing Tackle   | 1 |                    |        | Mundane |            |   4   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Rowboat       |  |                    |        |        |            | 50 bc |      |     FALSE     |     TRUE     |     TRUE     |      TRUE      |

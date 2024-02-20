@@ -12,7 +12,7 @@ This spear can be used as a Air Magic Conduit.
 
 |      Name      | # |                                      Class                                      |  Effect  |   Tier   | Durability | LB | Value |
 | :------------: | :-: | :------------------------------------------------------------------------------: | :------: | :-------: | :--------: | :-: | :---: |
-| Draupnir Spear | 1 | Medium Spear, Thrown Medium Spear, Spear, Thrown Spear, Long Spear, Magic Conduit | Draupnir | Excellent |   21/21   | 3 | ? bc |
+| Draupnir Spear | 1 | Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Long Spear, Magic Conduit | Draupnir | Excellent |   21/21   | 3 | ? bc |
 
 ## Effects
 
