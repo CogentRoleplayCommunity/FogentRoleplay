@@ -36,7 +36,7 @@ Dice modifier added to weapon combat rolls when held with two hands or other equ
 
 ## Dual Wielded
 
-Dice modifier added to weapon combat rolls when off handing a weapon as part of dual weidling weapons.
+Dice modifier added to weapon combat rolls when off handing a weapon as part of dual wielding weapons.
 
 To duel wield the character must have at least one proficiency point in both of the weapons held. If you are dual wielding, your combat roll is made up using the proficiency and/or weapon bonus of the primary weapon, NOT any proficiencies or weapons bonuses for both weapons. Grants additional dice bonus depending on the Dual Wielded dice of the off-handed weapon being used. Both weapons Your weapons must be a small or medium weapon.
 
