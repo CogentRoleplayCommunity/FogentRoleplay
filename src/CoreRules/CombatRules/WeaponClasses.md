@@ -188,12 +188,12 @@ To duel wield the character must have at least one proficiency point in both of 
 | Large Thrusting Sword |      +0d6      |      +2d6      |       None       |      3      | Melee |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 | Large Slashing Sword |      +0d6      |      +3d6      |       None       |      2      | Melee |       Slash       |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
-### Spear
+### Large Spear
 
-|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
-| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
-|     Spear     |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
-| Thrown Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
+|    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
+| Thrown Large Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
 
 ## Reach Weapons
 
