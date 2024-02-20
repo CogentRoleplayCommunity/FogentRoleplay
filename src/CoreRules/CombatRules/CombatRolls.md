@@ -3,7 +3,7 @@
 Combat roll are Dice Pools that represents a characters effectiveness in combat, generally with a specific weapon.
 
 - +Base Dice (varies with item tier, generally 3d6)
-- +/- 1d6 per Combat Skill
+- +/- 1d6 per Weapon Skill
 - +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
 - +/- Weapon Class Dice (Hand Crossbow, Short Spear, ect...)
 - +Weapon Resource Dice (Arrow, Ammunition, ect...)
