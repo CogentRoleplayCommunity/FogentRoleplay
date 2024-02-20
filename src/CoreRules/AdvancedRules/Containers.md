@@ -28,7 +28,7 @@ When representing a container on a character sheet, a similar table as the one b
 | Quiver (capacity: 20)                                   |  1  |                                |        |  Mundane  |            |  1  | 1 bc |
 | Broadhead Arrow                                         | 20 |         Standard Arrow         |        |  Mundane  |            | 0.05 | 5 cc |
 | Ring, Mundane                                           |  1  |                                |        |  Mundane  |            | 0.2 | 30 cc |
-| Javelin                                                 |  2  | Short Spear, Thrown Short Spear |        |  Mundane  |   12/12   |  3  | 5 bc |
+| Javelin                                                 |  2  | Medium Spear, Thrown Medium Spear |        |  Mundane  |   12/12   |  3  | 5 bc |
 | Bronze Coin                                             | 38 |                                |        |  Mundane  |            | 0.02 | 1 bc |
 | Copper Coin                                             | 70 |                                |        |  Mundane  |            | 0.02 | 1 cc |
 | Copper Coin                                             | 600 |                                |        |  Mundane  |            | 0.02 | 1 cc |

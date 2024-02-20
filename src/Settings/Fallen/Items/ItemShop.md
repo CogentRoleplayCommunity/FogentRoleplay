@@ -128,7 +128,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | :------------: | :-: | :-------------------------------------------------------------: | :----: | :-----: | :--------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |     Dagger     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Handaxe    | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|    Javelin    | 1 |                 Short Spear, Thrown Short Spear                 |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|    Javelin    | 1 |                 Medium Spear, Thrown Medium Spear                 |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Light Hammer  | 1 |             Small Hafted Blunt, Small Thrown Blunt             |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Mace      | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Sickle     | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |

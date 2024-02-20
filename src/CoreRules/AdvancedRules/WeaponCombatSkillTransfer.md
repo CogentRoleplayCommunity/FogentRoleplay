@@ -11,7 +11,7 @@ Starting on with the weapon skill your character currently possesses, each horiz
 | Class<br />/Size | Hafted         | Blade        | Spear       |
 | ---------------- | -------------- | ------------ | ----------- |
 | Small            | Small Hafted   | Small Blade |             |
-| Medium           | Medium Hafted | Medium Sword | Short Spear |
+| Medium           | Medium Hafted | Medium Sword | Medium Spear |
 | Large            | Large Hafted  | Large Sword | Spear       |
 | Reach            | Reach Hafted  | Greatsword   | Longspear   |
 

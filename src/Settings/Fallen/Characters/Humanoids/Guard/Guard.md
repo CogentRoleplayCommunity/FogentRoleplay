@@ -15,7 +15,7 @@
 
 | Guard {STR, RFX, INT}        | 1 | 3d6 |
 | ---------------------------- | :-: | :-: |
-| Short Spear {STR, RFX, INT} | 1 | 3d6 |
+| Medium Spear {STR, RFX, INT} | 1 | 3d6 |
 
 ## Effects
 

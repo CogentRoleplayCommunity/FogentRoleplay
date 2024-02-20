@@ -13,9 +13,10 @@ Character's can gain a skill in the following weapon combat skills.
 - Small Hafted
 - Medium Sword
 - Medium Hafted
+- Medium Spear
 - Large Sword
 - Large Hafted
-- Short Spear
+- Medium Spear
 - Greatsword
 - Reach Hafted
 - Longspear
@@ -156,12 +157,12 @@ To duel wield the character must have at least one proficiency point in both of 
 | Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 | Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
-### Short spear
+### Medium Spear
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
-|    Short Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
-| Thrown Short Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
+|    Medium Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
+| Thrown Medium Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
 
 ## Large weapons
 
@@ -242,7 +243,7 @@ Medium Sized creatures innate weapons, such as claws, bites, etc...
 | Horns |      None      |      +1d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
 - Claws ~= Small Slashing Blade
-- Bite ~= Short Spear
+- Bite ~= Medium Spear
 - Stomp ~= Small Blunt
 - Horns ~= Small Thrusting Point
 
