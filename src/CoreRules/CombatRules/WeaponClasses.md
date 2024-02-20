@@ -7,7 +7,8 @@ Character's can gain a skill in the following weapon combat skills.
 - Heavy Crossbow
 - Light Bow
 - Heavy Bow
-- Exotic Ranged
+- Blowgun
+- Sling
 - Unarmed
 - Small Blade
 - Small Hafted
@@ -77,11 +78,16 @@ To duel wield the character must have at least one proficiency point in both of 
 - Heavy Bow Required Attribute to use: 1 STR
 - Heavy Bow Required Skill to use: Level 1
 
-### Exotic
+### Blowgun
 
 |  Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
 | Blowgun |      +0d6       |      +0d6       |       None        |      0      | Mediocre |                   |          Loading          |        None         |     Blowgun Dart     | {STR,RFX,INT}             |
+
+### Sling
+
+|  Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
+| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
 |  Sling  |      +0d6       |      +0d6       |       None        |      0      |  Medium  |                   |         Standard          |        None         |     Sling Bullet     | {STR,RFX,INT}             |
 
 ### Ballistics
