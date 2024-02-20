@@ -159,7 +159,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 ### Small Hafted
 
-(Small axe, small pick, kama, small mace, war hammer, crowbar, club)
+(small axe, small pick, kama, small mace, war hammer, crowbar, club)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -173,7 +173,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 ### Small Blade
 
-(Dagger, shortsword)
+(dagger, shortsword)
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -186,7 +186,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 ### Medium Hafted
 
-(one handed axe, war pick, war hammer's spike, One-handed mace, morning star, war hammer)
+(one handed battleaxe, war pick, war hammer's spike, mace, morning star, war hammer)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -197,7 +197,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 ### Medium Sword
 
-(Arming-sword, sidesword, broadsword, one-handed falchion, messer, one-handed katana, scimitar, and wakizashi)
+(arming-sword, sidesword, broadsword, bastard sword, one-handed falchion, messer, katana, and scimitar)
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -206,7 +206,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 ### Medium Spear
 
-(Javelin and Short spear)
+(javelin and short spear)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -228,7 +228,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 ### Large sword
 
-(Two-handed katana, two-handed falchion, two handed scimitar and kriegsmesser)
+(Long Sword, Ōdachi)
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -248,7 +248,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 ### Reach Hafted
 
-(poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, poleaxe hammerhead)
+(poleaxe's axe head, poleaxe hammerhead, halberd's axe head, naginata, glaive, bardiche)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
