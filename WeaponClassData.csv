@@ -46,7 +46,7 @@ Reach Hafted Point,-2,+3d6,None,4,Reach,Pierce,Rapid,None,None,"{STR,RFX,INT}"
 Reach Hafted Blunt,-2,+2d6,None,5,Reach,Bludgeon,Rapid,None,None,"{STR,RFX,INT}"
 Thrusting Reach Sword,-2,+3d6,None,4,Reach,Pierce,Rapid,None,None,"{STR,RFX,INT}"
 Slashing Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,None,None,"{STR,RFX,INT}"
-Longspear,-2,+4d6,None,4,Reach,Pierce,Spear Rapid,None,None,"{STR,RFX,INT}"
+Reach Spear,-2,+4d6,None,4,Reach,Pierce,Spear Rapid,None,None,"{STR,RFX,INT}"
 Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,None,None,"{STR,RFX,INT}"
 ,,,,,,,,,,
 Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",1,None,None,"{STR,RFX,INT}"
