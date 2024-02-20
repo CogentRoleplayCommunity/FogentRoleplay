@@ -213,7 +213,7 @@ To duel wield the character must have at least one skill point in both of the we
 |    Medium Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 | Thrown Medium Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
 
-## Large weapons
+## Large Weapons
 
 ### Large Hafted
 
@@ -248,7 +248,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 ### Reach Hafted
 
-(Poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, poleaxe hammerhead)
+(poleaxe's axe head, halberd's axe head, naginata, glaive, bardiche, poleaxe hammerhead)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
@@ -274,7 +274,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
 | Longspear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 
-### Exotic Reach
+### Whip
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
