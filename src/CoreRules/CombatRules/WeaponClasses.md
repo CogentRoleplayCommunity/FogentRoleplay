@@ -268,10 +268,10 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 ### Reach Spear
 
-(two handed spear, pike, lance)
+(pike, lance)
 
-|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
-| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Governing<br />Attributes |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: | ------------------------- |
 | Reach Spear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 
 ### Whip
