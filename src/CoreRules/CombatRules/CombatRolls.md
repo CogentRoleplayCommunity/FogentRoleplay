@@ -1,6 +1,6 @@
 ## Combat Rolls
 
-Combat roll are Dice Pools that represent all of your characters ability with a specific weapon in combat.
+Combat roll are Dice Pools that represents a characters effectiveness in combat, generally with a specific weapon.
 
 - +Base Dice (varies with item tier, generally 3d6)
 - +/- 1d6 per Combat Skill
