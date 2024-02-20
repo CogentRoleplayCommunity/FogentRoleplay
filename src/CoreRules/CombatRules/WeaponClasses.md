@@ -153,7 +153,7 @@ To duel wield the character must have at least one skill point in both of the we
 |         Unarmed         |       -1       |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 | Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         | {STR,RFX,INT}             |
 
-## Small Weapons
+## Small Melee Weapons
 
 - Can be used in a Grapple
 
@@ -182,7 +182,7 @@ To duel wield the character must have at least one skill point in both of the we
 |  Thrown Small Blade  |      +1d6      |      +1d6      |       None       |      0      | Short |       Slash       |           Quick           |        None        |         None         | {STR,RFX,INT}             |
 |  Thrown Small Point  |      +0d6      |      +0d6      |       None       |      1      | Short |      Pierce      |           Quick           |        None        |         None         | {STR,RFX,INT}             |
 
-## Medium Weapons
+## Medium Melee Weapons
 
 ### Medium Hafted
 
@@ -213,7 +213,7 @@ To duel wield the character must have at least one skill point in both of the we
 |    Medium Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 | Thrown Medium Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
 
-## Large Weapons
+## Large Melee Weapons
 
 ### Large Hafted
 
@@ -242,7 +242,7 @@ To duel wield the character must have at least one skill point in both of the we
 |    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         | {STR,RFX,INT}             |
 | Thrown Large Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |         None         | {STR,RFX,INT}             |
 
-## Reach Weapons
+## Reach Melee Weapons
 
 Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn't work as effectively due to narrow confines such as an alleyway or hallway.
 
