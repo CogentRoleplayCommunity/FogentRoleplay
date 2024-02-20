@@ -293,7 +293,7 @@ Medium Sized creatures innate weapons, such as claws, bites, etc...
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Claws |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |         None         |
+| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
 | Stomp |      +0d6      |      None      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 | Horns |      None      |      +1d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
@@ -309,7 +309,7 @@ Large Sized creatures innate weapons, such as claws, bites, etc...
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |         None         |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |         None         |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
 | Large Stomp |      +0d6      |      None      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 | Large Horns |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
