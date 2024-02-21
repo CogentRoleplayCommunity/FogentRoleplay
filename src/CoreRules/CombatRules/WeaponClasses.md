@@ -23,6 +23,10 @@ Character's can gain a skill in the following weapon combat skills.
 - Reach Sword
 - Reach Hafted
 - Reach Spear
+- Claw
+- Bite
+- Stomp
+- Horns
 - Whip
 - Pistol
 - Rifle
