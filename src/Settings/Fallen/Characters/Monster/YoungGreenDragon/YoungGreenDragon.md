@@ -16,7 +16,7 @@
 |   Dragon {STR, RFX, INT}   | 1 | 8d6 |
 | :-------------------------: | :-: | :-: |
 | Toxincraft {STR, RFX, INT} | 1 | 8d6 |
-| Large Claws {STR, RFX, INT} | 1 | 8d6 |
+| Large Claw {STR, RFX, INT} | 1 | 8d6 |
 | Large Bite {STR, RFX, INT} | 1 | 8d6 |
 
 ## Effects:
@@ -41,7 +41,8 @@
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
+| Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
 | Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
 
 ### Combat Spells

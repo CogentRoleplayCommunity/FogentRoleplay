@@ -288,32 +288,72 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 ## Medium Sized Creature Innate
 
-Medium Sized creatures innate weapons, such as claws, bites, etc...
+### Claw
+
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Piercing Claw |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+| Slashing Claw |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+
+- Piercing Claw ~= Small Thrusting Blade
+- Slashing Claw ~= Small Slashing Blade
+
+### Bite
+
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
+
+- Bite ~= Medium Spear
+
+### Stomp
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Claws |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
 | Stomp |      +0d6      |      None      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-| Horns |      None      |      +1d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
-- Claws ~= Small Slashing Blade
-- Bite ~= Medium Spear
-- Stomp ~= Small Blunt
-- Horns ~= Small Thrusting Point
+- Stomp ~= Small Hafted Blunt
+
+### Horns
+
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Bite |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         |
+
+- Horns ~= Medium Spear
 
 ## Large Sized Creature Innate
 
-Large Sized creatures innate weapons, such as claws, bites, etc...
+### Large Claw
+
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+
+- Large Piercing Claw ~= Medium Slashing Sword
+- Large Slashing Claw ~= Medium Piercing Sword
+
+### Large Bite
+
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
+
+- Large Bite ~= Large Spear
+
+### Large Stomp
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Large Claws |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |         None         |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
 | Large Stomp |      +0d6      |      None      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+
+- Large Stomp ~= Medium Hafted Blunt
+
+### Large Horns
+
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Large Horns |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
-- Large Claws ~= Medium Slashing Sword
 - Large Bite ~= Large Spear
-- Large Stomp ~= Medium Blunt
-- Large Horns ~= Medium Horns
