@@ -28,11 +28,11 @@ I try to make the "Chopping Food" vocational skill and give it the governing att
 
 I add the "Small Blade" combat skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more deadly with a knife. It also makes sense that a Chef would know how to use a knife. I spend 1 skill point on it, bringing it to level 1.
 
-I try and add the "Longspear" combat skill. I realized using a longspear is not something that a chef would do, so I can't add it under my vocation.
+I try and add the "Reach Spear" combat skill. I realized using a longspear is not something that a chef would do, so I can't add it under my vocation.
 
 | Chef               |   RFX, INT   |     2     | 7d6 |
 | ------------------ | :-----------: | :-------: | :-: |
 | Wine Tasting       |   RFX, INT   | Inherited | 7d6 |
 | ~~Chopping Food~~ |      RFX      |          |    |
 | Small Blade        | STR, RFX, INT |     1     | 7d6 |
-| ~~Long Spear~~    | STR, RFX, INT |          |    |
+| ~~Reach Spear~~     | STR, RFX, INT |          |    |

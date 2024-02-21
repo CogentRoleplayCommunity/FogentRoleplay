@@ -8,12 +8,12 @@ You cannot go below 0 on a combat skill for either melee or ranged weapons via t
 
 Starting on with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may access the other side of the table as if it were right beside it.
 
-| Class<br />/Size | Hafted         | Blade        | Spear       |
-| ---------------- | -------------- | ------------ | ----------- |
-| Small            | Small Hafted   | Small Blade |             |
-| Medium           | Medium Hafted | Medium Sword | Short Spear |
-| Large            | Large Hafted  | Large Sword | Spear       |
-| Reach            | Reach Hafted  | Greatsword   | Longspear   |
+| Class<br />/Size | Hafted         | Blade        | Spear        |
+| ---------------- | -------------- | ------------ | ------------ |
+| Small            | Small Hafted   | Small Blade |              |
+| Medium           | Medium Hafted | Medium Sword | Medium Spear |
+| Large            | Large Hafted  | Large Sword | Large Spear |
+| Reach            | Reach Hafted  | Reach Sword  | Reach Spear    |
 
 ### Bow Combat Skill Transfer
 

@@ -16,7 +16,7 @@
 | Feral Warrior {STR, RFX}      |   1   |  6d6  |
 | ----------------------------- | :---: | :---: |
 | Medium Hafted {STR, RFX, INT} |   1   |  5d6  |
-| Short Spear {STR, RFX, INT}   |   0   |  4d6  |
+| Medium Spear {STR, RFX, INT}   |   0   |  4d6  |
 | Unarmed {STR, RFX, INT}       |   1   |  5d6  |
 
 ## Effects:
@@ -42,8 +42,8 @@
 | :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Medium Hafted Point |   6d6<br />(+1d6)    |   7d6<br />(+2d6)    |  7d6<br />(+1d6)  |      2      | Melee  |      Pierce       |           Rapid           |        None         |        None         |
 | Medium Hafted Blunt |   5d6<br />(+0d6)    |   6d6<br />(+1d6)    |  6d6<br />(+1d6)  |      4      | Melee  |     Bludgeon      |           Rapid           |        None         |        None         |
-|     Short Spear     | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)       |      2      | Melee  |      Pierce       |        Spear Rapid        |        None         |        None         |
-| Thrown Short Spear  | 1d4, 5d6<br />(+2d6) | 1d6, 5d4<br />(+2d6) |       None        |      2      | Medium |      Pierce       |         Standard          |        None         |        None         |
+|     Medium Spear     | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)       |      2      | Melee  |      Pierce       |        Spear Rapid        |        None         |        None         |
+| Thrown Medium Spear  | 1d4, 5d6<br />(+2d6) | 1d6, 5d4<br />(+2d6) |       None        |      2      | Medium |      Pierce       |         Standard          |        None         |        None         |
 |       Unarmed       |    4d6<br />(-1)    |    4d6<br />(-1)    |       None        |      0      | Melee  |     Bludgeon      |           Rapid           |        None         |        None         |
 
 ## Equipment:
@@ -53,7 +53,7 @@
 | Leather Armor        |   1   | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2.00 | Quality |   15/15    |  12   | 10 bc |
 | Heater Shield        |   1   |                    Shield                    | Phy. Def. 2.00 | Mundane |   12/12    |   8   | 7 bc  |
 | Morning Star         |   1   |   Medium Hafted Blunt, Medium Hafted Point   |             | Mundane |   12/12    |   4   | 15 bc |
-| Wooden Javelin |   3   |       Short Spear, Thrown Short Spear        |             | Shoddy  |    9/9     |   2   | 50 cc |
+| Wooden Javelin |   3   |       Medium Spear, Thrown Medium Spear        |             | Shoddy  |    9/9     |   2   | 50 cc |
 
 ## Backstory
 

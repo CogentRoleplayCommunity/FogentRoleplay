@@ -16,7 +16,7 @@
 | Brute {STR}        | 2 | 8d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
 | ------------------ | :-: | :-: | ---------------- | -- | --- |
 | Reach Hafted {STR, RFX, INT} | 2 | 7d6 | Polycraft {STR, RFX, INT}  | -1 | 4d6 |
-| Short Spear {STR, RFX, INT}  | 2 | 7d6 |                  |    |     |
+| Medium Spear {STR, RFX, INT}  | 2 | 7d6 |                  |    |     |
 
 ## Effects
 
@@ -40,8 +40,8 @@
 | :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Polycraft - Melee Trick |         4d6         |                      |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |        None        |
 | Polycraft - Ranged Trick |         4d6         |                      |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |        None        |
-|    Thrown Short Spear    | 6d6, 3d4<br />(+2d6) | 6d6, 3d4<br />(+2d6) |       None       |      3      | Medium |            Pierce            |         Standard         |        None        |        None        |
-|       Short Spear       | 6d6, 3d4<br />(+2d6) | 7d6, 3d4<br />(+3d6) |       None       |      3      | Melee |            Pierce            |        Spear Rapid        |        None        |        None        |
+|    Thrown Medium Spear    | 6d6, 3d4<br />(+2d6) | 6d6, 3d4<br />(+2d6) |       None       |      3      | Medium |            Pierce            |         Standard         |        None        |        None        |
+|       Medium Spear       | 6d6, 3d4<br />(+2d6) | 7d6, 3d4<br />(+3d6) |       None       |      3      | Melee |            Pierce            |        Spear Rapid        |        None        |        None        |
 |    Reach Hafted Point    |    5d6<br />(-2)    |   10d6<br />(+3d6)   |       None       |      4      | Reach |            Pierce            |           Rapid           |        None        |        None        |
 |    Reach Hafted Blunt    |    5d6<br />(-2)    |   9d6<br />(+2d6)   |       None       |      5      | Reach |           Bludgeon           |           Rapid           |        None        |        None        |
 
@@ -52,5 +52,5 @@
 | Name                  | # |                 Class                 |    Tier    | Durability | LB | Value |
 | --------------------- | :-: | :------------------------------------: | :---------: | :--------: | :-: | :---: |
 | Natural Armor Level 1 | 1 |              Phy. Def. 1              |   Mundane   |            | 0 | None |
-| Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
+| Wooden Javelin  | 1 |    Medium Spear, Thrown Medium Spear    | Compromised |    6/6    | 3 | 1 bc |
 | Ogre's Spiked Club    | 1 | Reach Hafted Blunt, Reach Hafted Point |   Mundane   |   12/12   | 14 | 41 cc |
