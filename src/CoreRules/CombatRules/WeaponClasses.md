@@ -53,7 +53,7 @@ Dice modifier added to weapon combat rolls when held with two hands or other equ
 
 Dice modifier added to weapon combat rolls when off handing a weapon as part of dual wielding weapons.
 
-To duel wield the character must have at least one skill point in both of the weapons held. Each weapon must have a Dual Wielded dice Modifier. If you are dual wielding, your combat roll is made up using the skill and/or weapon dice modifier of the primary weapon one-handed, with additional dice from the off-handed weapons "Dual Wielded" dice modifier.
+To duel wield the character must have at least one skill point in both of the weapons held. Each weapon must have a Dual Wielded dice Modifier. If you are dual wielding, your combat roll is made up using the skill and/or weapon dice modifier of the primary weapon one-handed, with additional dice from the off-handed weapon's "Dual Wielded" dice modifier.
 
 Dual wielding weapons that use a weapon resource uses double the weapon resource per opponent engaged.
 
