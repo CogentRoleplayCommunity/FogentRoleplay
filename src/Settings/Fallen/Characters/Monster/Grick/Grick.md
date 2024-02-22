@@ -38,11 +38,11 @@
 
 ### Innate
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Piercing Claw |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Piercing Claw |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Slashing Claw | 6d6<br />(+1d6) |      None      |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-| Bite |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+|     Bite     |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |        None        |
 
 ## Notes
 
