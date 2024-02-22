@@ -173,7 +173,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ### Small Hafted
 
-(small axe, small pick, kama, small mace, war hammer, crowbar, club)
+(hatchet, small war pick, kama, crowbar, club)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
