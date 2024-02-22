@@ -23,7 +23,7 @@ Based on the dice above, Javk using his sword and dagger for thrusting rolls 8d6
 
 ### Example 2:
 
-Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a level 1 with Light Crossbows. He has level 1 in RFX
+Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a weapon skill of level 1 with Light Crossbows. He has level 1 in RFX.
 
 - +3d6 (Base Dice)
 - +1d6 (Level 1 Light Crossbow Skill)
