@@ -30,7 +30,7 @@ Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,None,None
 Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Bludgeon,Rapid,None,None
 Medium Thrusting Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,None,None
 Medium Slashing Sword,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,None,None
-Medium Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Spear Rapid,None,None
+Medium Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Rapid Max 2,None,None
 ,,,,,,,,,
 Large Hafted Axe,+0d6,+3d6,None,2,Melee,Hew,Rapid,None,None
 Large Hafted Blade,+0d6,+3d6,None,2,Melee,Slash,Rapid,None,None
@@ -38,7 +38,7 @@ Large Hafted Point,+0d6,+2d6,None,3,Melee,Pierce,Rapid,None,None
 Large Hafted Blunt,-1,+1d6,None,5,Melee,Bludgeon,Rapid,None,None
 Large Thrusting Sword,+0d6,+2d6,None,3,Melee,Pierce,Rapid,None,None
 Large Slashing Sword,+0d6,+3d6,None,2,Melee,Slash,Rapid,None,None
-Large Spear,+2d6,+3d6,None,3,Melee,Pierce,Spear Rapid,None,None
+Large Spear,+2d6,+3d6,None,3,Melee,Pierce,Rapid Max 2,None,None
 ,,,,,,,,,
 Reach Hafted Axe,-2,+4d6,None,3,Reach,Hew,Rapid,None,None
 Reach Hafted Blade,-2,+4d6,None,3,Reach,Slash,Rapid,None,None
@@ -46,20 +46,20 @@ Reach Hafted Point,-2,+3d6,None,4,Reach,Pierce,Rapid,None,None
 Reach Hafted Blunt,-2,+2d6,None,5,Reach,Bludgeon,Rapid,None,None
 Thrusting Reach Sword,-2,+3d6,None,4,Reach,Pierce,Rapid,None,None
 Slashing Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,None,None
-Reach Spear,-2,+4d6,None,4,Reach,Pierce,Spear Rapid,None,None
+Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,None,None
 Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,None,None
 ,,,,,,,,,
 Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",1,None,None
 ,,,,,,,,,
 Slashing Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,None,None
 Piercing Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
-Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Spear Rapid,None,None
+Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
 Horns,None,+1d6,None,2,Melee,Pierce,Rapid,None,None
 ,,,,,,,,,
 Large Slashing Claw,+2d6,None,+1d6,0,Melee,"Slash, Bludgeon",Rapid,None,None
 Large Piercing Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
-Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Spear Rapid,None,None
+Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 Large Stomp,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,None,None
 Large Horns,None,+2d6,None,2,Melee,Pierce,Rapid,None,None
 ,,,,,,,,,
