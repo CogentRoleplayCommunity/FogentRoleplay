@@ -258,7 +258,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ## Reach Melee
 
-Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn't work as effectively due to narrow confines such as an alleyway or hallway.
+Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn't work as effectively due to narrow confines such as an alleyway or hallway. Since these are battlefield weapons, these would most certainly draw the attention of guards and towns folks. Walking around with these would be equivalent to walking around with an assault rifle in modern times.
 
 ### Reach Hafted
 
