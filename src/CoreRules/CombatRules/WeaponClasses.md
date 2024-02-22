@@ -55,6 +55,8 @@ Dice modifier added to weapon combat rolls when off handing a weapon as part of 
 
 To duel wield the character must have at least one skill point in both of the weapons held. Each weapon must have a Dual Wielded dice Modifier. If you are dual wielding, your combat roll is made up using the skill and/or weapon dice modifier of the primary weapon, NOT any additional skill points or weapon dice modifiers from the off-hand weapon.
 
+Dual wielding weapons that use a weapon resource uses double the weapon resource per opponent engaged.
+
 ## Crossbows
 
 ### Hand Crossbow
@@ -62,8 +64,6 @@ To duel wield the character must have at least one skill point in both of the we
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Hand Crossbow |      +1d6      |      +1d6      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |         Bolt         |
-
-- Dual Wielded Hand Crossbows: Dual wielding hand crossbows uses up two bolts for every shot.
 
 ### Light Crossbow
 
