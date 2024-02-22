@@ -34,4 +34,4 @@ Whenever losing dice of the same kind, always remove dice from left to right. Th
 
 ### Applying Disadvantage/Advantage to an already rolled Dice Pool
 
-If your character gains a disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
+If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
