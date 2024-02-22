@@ -14,7 +14,7 @@ The amount of opponents a character can engage in a round is calculated below. I
 |           Slow           |        (Combat Roll)/5 rounded down        |
 |          Loading          |        (Combat Roll)/6 rounded down        |
 |      Complex Loading      |       (Combat Roll)/10 rounded down       |
-|        Spear Rapid        | (Combat Roll)/2 rounded down, maximum of 2 |
+|        Rapid Max 2        | (Combat Roll)/2 rounded down, maximum of 2 |
 
 ## Set Engageable Opponents
 

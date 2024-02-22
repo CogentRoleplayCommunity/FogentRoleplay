@@ -42,7 +42,7 @@
 | :-----------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Medium Hafted Point |   6d6<br />(+1d6)    |   7d6<br />(+2d6)    |  7d6<br />(+1d6)  |      2      | Melee  |      Pierce       |           Rapid           |        None         |        None         |
 | Medium Hafted Blunt |   5d6<br />(+0d6)    |   6d6<br />(+1d6)    |  6d6<br />(+1d6)  |      4      | Melee  |     Bludgeon      |           Rapid           |        None         |        None         |
-|     Medium Spear     | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)       |      2      | Melee  |      Pierce       |        Spear Rapid        |        None         |        None         |
+|     Medium Spear     | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)       |      2      | Melee  |      Pierce       |        Rapid Max 2        |        None         |        None         |
 | Thrown Medium Spear  | 1d4, 5d6<br />(+2d6) | 1d6, 5d4<br />(+2d6) |       None        |      2      | Medium |      Pierce       |         Standard          |        None         |        None         |
 |       Unarmed       |    4d6<br />(-1)    |    4d6<br />(-1)    |       None        |      0      | Melee  |     Bludgeon      |           Rapid           |        None         |        None         |
 

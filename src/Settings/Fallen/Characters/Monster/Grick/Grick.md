@@ -42,7 +42,7 @@
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Piercing Claw |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Slashing Claw | 6d6<br />(+1d6) |      None      |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|     Bite     |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |        None        |
+|     Bite     |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |        None        |
 
 ## Notes
 

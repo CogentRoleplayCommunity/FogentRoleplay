@@ -43,7 +43,7 @@
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |        None        |
-|     Large Bite     |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |        None        |
+|     Large Bite     |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |        None        |
 
 ### Combat Spells
 

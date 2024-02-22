@@ -35,7 +35,7 @@
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|    Large Spear    | 5d6<br />(+2d6) | 6d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
+|    Large Spear    | 5d6<br />(+2d6) | 6d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Rapid Max 2        |        None        |        None        |
 | Thrown Large Spear | 5d6<br />(+2d6) | 5d6<br />(+2d6) |       None       |    Short    | Short |      Pierce      |         Standard         |        None        |        None        |
 
 ## Equipment:

@@ -224,7 +224,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|    Medium Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         |
+|    Medium Spear    |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |        Rapid Max 2        |        None        |         None         |
 | Thrown Medium Spear |      +2d6      |      +2d6      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         |
 
 ## Large Melee
@@ -253,7 +253,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         |
+|    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |      Pierce      |        Rapid Max 2        |        None        |         None         |
 | Thrown Large Spear |      +2d6      |      +2d6      |       None       |      3      | Short |      Pierce      |         Standard         |        None        |         None         |
 
 ## Reach Melee
@@ -286,7 +286,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Reach Spear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Spear Rapid        |        None        |         None         |
+| Reach Spear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Rapid Max 2        |        None        |         None         |
 
 ### Whip
 
@@ -310,7 +310,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
+| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
 
 - Bite ~= Medium Spear
 
@@ -326,7 +326,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Bite |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |         None         |
+| Bite |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |        Rapid Max 2        |        None        |         None         |
 
 - Horns ~= Medium Spear
 
@@ -346,7 +346,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Spear Rapid        |        None        |         None         |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
 
 - Large Bite ~= Large Spear
 

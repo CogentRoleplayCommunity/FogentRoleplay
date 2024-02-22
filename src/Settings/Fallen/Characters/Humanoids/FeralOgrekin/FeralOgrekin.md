@@ -41,7 +41,7 @@
 |        Name        |    One<br />Handed    |    Two<br />Handed    | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------------: | :-------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |  Large Hafted Axe  |    4d6<br />(+0d6)    |    7d6<br />(+3d6)    |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        |
-|    Medium Spear    | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
+|    Medium Spear    | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |        Rapid Max 2        |        None        |        None        |
 | Thrown Medium Spear | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |        None        |
 |      Unarmed      |    3d6<br />(-1)    |    3d6<br />(-1)    |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 

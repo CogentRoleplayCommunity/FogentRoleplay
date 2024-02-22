@@ -41,7 +41,7 @@
 | Polycraft - Melee Trick |         4d6         |                      |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |        None        |
 | Polycraft - Ranged Trick |         4d6         |                      |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |        None        |
 |    Thrown Medium Spear    | 6d6, 3d4<br />(+2d6) | 6d6, 3d4<br />(+2d6) |       None       |      3      | Medium |            Pierce            |         Standard         |        None        |        None        |
-|       Medium Spear       | 6d6, 3d4<br />(+2d6) | 7d6, 3d4<br />(+3d6) |       None       |      3      | Melee |            Pierce            |        Spear Rapid        |        None        |        None        |
+|       Medium Spear       | 6d6, 3d4<br />(+2d6) | 7d6, 3d4<br />(+3d6) |       None       |      3      | Melee |            Pierce            |        Rapid Max 2        |        None        |        None        |
 |    Reach Hafted Point    |    5d6<br />(-2)    |   10d6<br />(+3d6)   |       None       |      4      | Reach |            Pierce            |           Rapid           |        None        |        None        |
 |    Reach Hafted Blunt    |    5d6<br />(-2)    |   9d6<br />(+2d6)   |       None       |      5      | Reach |           Bludgeon           |           Rapid           |        None        |        None        |
 
