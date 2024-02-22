@@ -12,7 +12,8 @@
 
 ## Charmed
 
-- Can't cause harm to the charmer. The charmer has advantage on Communication Checks on the charmed character.
+- Can't cause harm to the charmer.
+- The charmer has advantage on Communication Checks on the charmed character.
 
 ## Deafened
 
