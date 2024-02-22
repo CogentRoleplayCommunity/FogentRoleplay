@@ -53,7 +53,7 @@ Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",1,None,None
 ,,,,,,,,,
 Slashing Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,None,None
 Piercing Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
-Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Spear Rapid,None,None
+Bite,None,+1d6,None,2,Melee,"Pierce, Bludgeon",Spear Rapid,None,None
 Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
 Horns,None,+1d6,None,2,Melee,Pierce,Rapid,None,None
 ,,,,,,,,,
