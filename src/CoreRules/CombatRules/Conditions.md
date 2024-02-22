@@ -12,8 +12,7 @@
 
 ## Charmed
 
-- Can't cause harm to charmer.
-- Charmer has advantage on Communication Checks on charmed character.
+- Can't cause harm to the charmer. The charmer has advantage on Communication Checks on the charmed character.
 
 ## Deafened
 
@@ -21,8 +20,8 @@
 
 ## Frightened
 
-- Disadvantage while source of the fear is within line of sight.
-- Can't willing move closer to source of fear.
+- Disadvantage while the source of the fear is within line of sight.
+- Can't willing move closer towards source of fear.
 
 ## Grappled
 
@@ -39,40 +38,38 @@
 ## Invisible
 
 - Impossible to see via traditional sight. Character is considered Heavily Obscured. Character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
-- Combat rolls have disadvantage against the character that rely on sight.
+- Combat rolls have disadvantage against the character that relies on sight.
 
 ## Paralyzed
 
-- Incapacitated
-- Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+- Incapacitated (see the Condition).
+- Automatically fail any check that requires moving their body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
 
 ## Petrified
 
 * A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 * Incapacitated (see the condition).
 * Can't speak.
-* Automatically fail any check that requires moving ones body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+- Automatically fail any check that requires moving their body (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
 * Serious Resistance to all damage.
-* Complete Resistance to poison, necrotic, and disease,  although a poison, rot, or disease already in its system is suspended, not neutralized.
+* Complete Resistance to poison, necrotic, and disease, although a poison, rot, or disease already in its system is suspended, not neutralized.
 
 ## Prone
 
-- Only able to crawl.
-- Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Acrobatics Checks, ect.. )
+- Only able to crawl using their Climb Combat Speed.
+- Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Acrobatics Checks, etc... )
 - Melee Combat Rolls (Melee or Reach Ranges) made standing against a prone character have the [High Ground](./CombatModifiers.md#high-ground-advantage) combat modifier (Advantage).
 
 ## Restrained
 
 - Can't move.
-- Disadvantage on Combat Rolls.
-- Disadvantage on Dodge Rolls.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... )
 
 ## Stunned
 
 * Incapacitated (see the condition).
 * Can't coherently speak.
-* Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
-* Disadvantage on combat rolls, STR/RFX governed check.
+* Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Acrobatics, Athletics, Sleight Hand, etc... )
 
 ## Unconscious
 
@@ -80,4 +77,4 @@
 - Can't speak.
 - Unaware of surroundings.
 - Character drops whatever they were holding and falls prone (see the condition).
-- Automatically fail any check that require coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
+- Automatically fail any check that requires coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )
