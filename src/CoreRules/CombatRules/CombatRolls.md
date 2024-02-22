@@ -1,6 +1,6 @@
 ## Combat Rolls
 
-Combat roll are Dice Pools that represents a characters effectiveness in combat, generally with a specific weapon.
+Combat rolls are Dice Pools that represents a characters effectiveness in combat, generally with a specific weapon.
 
 - +Base Dice (varies with item tier, generally 3d6)
 - +/- 1d6 per Weapon Skill
@@ -31,4 +31,4 @@ Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a level 1 wi
 - +1d6 (Light Crossbow Two Handed)
 - +1d6 (Standard Bolts)
 
-Based on the dice above, Javk using his Light Crossbow has a 7d6
+Based on the dice above, Javk using his Light Crossbow has a 7d6.
