@@ -231,7 +231,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ### Large Hafted
 
-(two handed axe, Bec de corbin spike, short poleaxe axehead, short halberd, short poleaxe hammerhead, two handed mace, maul)
+(Dane Axe, Bec de corbin spike, short poleaxe axehead, short halberd, short poleaxe hammerhead, two handed mace, maul)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
