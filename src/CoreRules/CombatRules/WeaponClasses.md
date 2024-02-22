@@ -211,7 +211,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ### Medium Sword
 
-(arming-sword, sidesword, broadsword, bastard sword, one-handed falchion, messer, katana, and scimitar)
+(arming-sword, sidesword, broadsword, bastard sword, falchion, messer, katana, and scimitar)
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
