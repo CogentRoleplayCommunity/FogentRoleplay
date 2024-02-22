@@ -39,7 +39,7 @@ Character's can gain a skill in the following weapon combat skills.
 
 ### Weapon Governing Attributes
 
-All combat weapons skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat. A STR character hits harder and is more conditioned for combat. A RFX character hits faster and is harder pin down. An INT character hit smarter and uses tactics. It is the players/narrators job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+All weapon combat skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat. A STR character hits harder and is more conditioned for combat. A RFX character hits faster and is harder pin down. An INT character hit smarter and uses tactics. It is the players/narrators job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
 ## One Handed
 
