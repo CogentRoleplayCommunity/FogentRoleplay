@@ -220,7 +220,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ### Medium Spear
 
-(javelin and short spear)
+(javelin, short spear)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
@@ -242,7 +242,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ### Large sword
 
-(Long Sword, Ōdachi)
+(Longsword, Ōdachi)
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
