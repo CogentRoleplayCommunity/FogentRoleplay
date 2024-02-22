@@ -200,7 +200,7 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 
 ### Medium Hafted
 
-(one handed battleaxe, war pick, war hammer's spike, mace, morning star, war hammer)
+(battleaxe, war pick, war hammer's spike, mace, morning star, war hammer)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
