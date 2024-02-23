@@ -1,4 +1,4 @@
-## Item Tier
+# Item Tier
 
 Items are created with carious levels of quality. Depending on an individual items tiers, it will have the following stats associated with it.
 
