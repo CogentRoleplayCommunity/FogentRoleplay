@@ -8,7 +8,7 @@ There are different levels of obscurity that a given area can have, ranging from
 
 ### Unobscured
 
-An area is considered unobscured if their is no impetement to a characters vision. In such areas, characers roll normal Perception checks that rely on sight.
+An area is considered unobscured if their is no impediment to a character's vision. In such areas, characters roll normal Perception checks that rely on sight.
 
 ### Lightly Obscured
 
