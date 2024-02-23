@@ -4,18 +4,6 @@
 - Add Rules for taking a negative in a skill to gains skill points
 - Bite Grab
 - Rebuild all sheet, new weights, new movement speeds, new magic, new character sheet with links
-- Magic Resource scales off Vocation and Governing skill dice pool
-| lvl      | Vocation Dice Pool | Voc. Magic Resource gained | Governing Skill Dice Pool | Skill. Magic resource Gained | Total Magic Resource |
-| -------- | ------------------ | -------------------------- | ------------------------- | ---------------------------- | -------------------- |
-| Initiate |                    |                            |                           |                              |                      |
-| 1 opt.   | 5d6                | 4                          | 5d6                       | 2                            | 6                    |
-| 5 opt.   | 6d6                | 6                          | 6d6                       | 4                            | 10                   |
-| Adept   |                    |                            |                           |                              |                      |
-| 6        | 7d6                |                            | 6d6                       |                              |                      |
-|          |                    |                            |                           |                              |                      |
-| 7        | 7d6                |                            | 7d6                       |                              | 24                   |
-
-- Light Crossbow and heavy Crossbow in one hand
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
@@ -26,6 +14,7 @@
 - Maybe have magic resource scale off of level
 - Should EO tick for each character engaged, or each character engaged and each character that engages them
 - Different Arrows and bolts for different weapons
+- Light Crossbow and heavy Crossbow in one hand
 
 ## Fallen To dos:
 - Remove NotMyImage and Copyright tags
