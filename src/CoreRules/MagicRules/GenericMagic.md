@@ -1,6 +1,6 @@
 # Generic Magic
 
-Generic Magic can be used for generic creative uses of magic and is meant to allow/encourage player's to try interesting things, limited only by the character's stats, the player's creativity, and the narrators supervision. Generic magic is intentionally left open ended.
+Generic Magic can be used for creative uses of magic and is meant to allow/encourage player's to try interesting things, limited only by the character's stats, the player's creativity, and the narrators supervision. Generic magic is intentionally left open ended.
 
 For a Magic Skill roll, these uses of magic have the ranges of any of the below option on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of any ranged magic is unavailable.
 
@@ -8,7 +8,17 @@ For a Magic Skill roll, these uses of magic have the ranges of any of the below 
 
 **Magic Skill Level Required:** -1
 
-A minor spell, which has such a small effect it requires no magic resource. This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. For Fire Magic, this could be used to light a candle across a room. For Water Magic, this could be useful for levitating you ale into your mouth.
+This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A Fire Magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+
+For Fire Magic, this could be used to light a nearby candle. For Water Magic, this could be useful for levitating you ale into your mouth.
+
+Examples include:
+
+* A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
+* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
+* A minuet blessing bestowed by a deity. (Cleric)
+* A taste of power from an entity looking to make a deal... (Warlock)
+* A part of nature foreign to your place of origin. (Druid)
 
 ## Novice Generic Magic
 
@@ -42,7 +52,13 @@ Adept magic spell that can be used for generic creative uses of magic.
 
 ## Combat Magic
 
-As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for 1 round. Combat Magic allows a character creates a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic are intended to be flavored by the character. If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit for Two Handed or Dual Wielded. Damage type is determined by the damage type of the magic skill used.
+As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for that 1 round.
+
+Combat Magic allows a character creates a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic is intended to be flavored by the player/narrator.
+
+If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers.
+
+Damage Types is determined by the damage types of the magic skill used.
 
 ### Party Trick Combat Magic
 
@@ -83,9 +99,9 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 | Mag. Large Hafted Blade |      +0d6      |      +3d6      |       None       |      2      |    Melee    |                  |           Rapid           |        None        |          2          |
 | Mag. Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      |    Melee    |                  |           Rapid           |        None        |          2          |
 | Mag. Large Hafted Blunt |       -1       |      +1d6      |       None       |      5      |    Melee    |                  |           Rapid           |        None        |          2          |
-|        Mag. Large Spear        |      +2d6      |      +3d6      |       None       |      3      |    Melee    |                  |        Rapid Max 2        |        None        |          2          |
+|     Mag. Large Spear     |      +2d6      |      +3d6      |       None       |      3      |    Melee    |                  |        Rapid Max 2        |        None        |          2          |
 |                          |                |                |                  |            |            |                  |                          |                    |                    |
-|    Mag. Thrown Large Spear    |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+| Mag. Thrown Large Spear |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
 |   Mag. Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |    Long    |                  |      Complex Loading      |        None        |          2          |
 |  Mag. Mag. Medium Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 
@@ -96,7 +112,7 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 | Mag. Reach Hafted Blade |       -2       |      +4d6      |       None       |      3      |    Reach    |                  |           Rapid           |        None        |          3          |
 | Mag. Reach Hafted Point |       -2       |      +3d6      |       None       |      4      |    Reach    |                  |           Rapid           |        None        |          3          |
 | Mag. Reach Hafted Blunt |       -2       |      +2d6      |       None       |      5      |    Reach    |                  |           Rapid           |        None        |          3          |
-|     Mag. Reach Spear     |       -2       |      +4d6      |       None       |      4      |    Reach    |                  |        Rapid Max 2        |        None        |          3          |
+|    Mag. Reach Spear    |       -2       |      +4d6      |       None       |      4      |    Reach    |                  |        Rapid Max 2        |        None        |          3          |
 |                        |                |                |                  |            |              |                  |                          |                    |                    |
 |     Mag. Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |   Mag. Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |             1             | Sphere Calculation |          3          |
