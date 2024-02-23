@@ -1,7 +1,7 @@
-Name,Weight Capacity
-300 lb container,300
-50 lb container,50
-35 lb container,35
-30 lb container,30
-12 lb container,12
-6 lb container,6
+Name,Weight Capacity,Volume
+300 lb container,300,12
+50 lb container,50,1.6
+35 lb container,35,1.2
+30 lb container,30,1
+12 lb container,12,0.4
+6 lb container,6,0.2
