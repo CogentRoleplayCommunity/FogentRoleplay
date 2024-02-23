@@ -4,14 +4,14 @@ Pouches, satchel, sacks, backpacks, chest, etc... are all consider containers. E
 
 ## Container Classes
 
-|       Name       | Weight Capacity (lbs) |  Examples Items  |
-| :--------------: | :-------------------: | :--------------: |
-| 300 lb container |          300          |      Chest      |
-| 50 lb container |          50          |   Saddle Bags   |
-| 35 lb container |          35          | Quality Backpack |
-| 30 lb container |          30          |     Backpack     |
-| 12 lb container |          12          |     Satchel     |
-|  6 lb container  |           6           |      Pouch      |
+|       Name       | Weight Capacity (lbs) | Volume (ft^3) |  Examples Items  |
+| :--------------: | :-------------------: | :-----------: | :--------------: |
+| 300 lb container |          300          |      12      |      Chest      |
+| 50 lb container |          50          |      1.6      |   Saddle Bags   |
+| 35 lb container |          35          |      1.2      | Quality Backpack |
+| 30 lb container |          30          |       1       |     Backpack     |
+| 12 lb container |          12          |      0.4      |     Satchel     |
+|  6 lb container  |           6           |      0.2      |      Pouch      |
 
 ## Containers in Combat
 
