@@ -10,15 +10,16 @@ If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual d
 
 ### Armor Classes
 
-Armor Class determines what portions of a character a piece of armor will protect. Their are 5 different armor types.
+Armor Class determines what portions of a character a piece of armor will protect. Their are 4 different armor types.
 
 - Head
 - Body
 - Arm
 - Leg
-- Shield
 
-### Physical Defense from Shields
+### Shield Class
+
+The class of "Shield" marks an item that can be used as a shield for defensive purposes. This take up one of the character's hands when in use.
 
 Character's not actively using their shield as part of their combat/dodge roll do not benefit from the additional defense. Character's that are Off Guard or being attacked while unaware also do not benefit from the shield's defense.
 
