@@ -2,7 +2,7 @@
 
 Carry weight represents a character's ability to haul weight while still being able to move semi-normal depending on weight class.
 
-For each point dice in a character's Lift dice pool, character gains 50 lbs of Carry Weight. Dice Penalties from Weight Classes are disregarded.
+For each dice in a character's Lift dice pool, character gains 50 lbs of Carry Weight. Dice Penalties from Weight Classes are disregarded.
 
 | Description |            Calculation            |
 | :----------: | :--------------------------------: |
@@ -10,7 +10,7 @@ For each point dice in a character's Lift dice pool, character gains 50 lbs of C
 
 ## Weight Classes
 
-Weight Classes represent the effects of carrying equipment and gear. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
+Weight Classes represent the physical strain of carrying equipment. Some characters will purposefully be in a higher weight class to gain the benefits of heavier armor and weapons, making up for their Carry weight penalty with better gear.
 
 |   Description   |               Effect               |                     Source                     |
 | :-------------: | :---------------------------------: | :---------------------------------------------: |
@@ -21,4 +21,4 @@ Weight Classes represent the effects of carrying equipment and gear. Some charac
 
 ## Equipment
 
-Represent items a character has on their person in an easy to reach placement. This generally covers things needed in combat such as Primary weapons, armor, quivers/arrows, potions, etc...
+Represent items a character has on their person in an easy to reach placement or that are being worn. This generally covers things needed in combat such as Primary weapons, armor, quivers/arrows, potions, etc...
