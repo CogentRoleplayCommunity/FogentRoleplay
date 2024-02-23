@@ -66,5 +66,5 @@ Large Horns,None,+2d6,None,2,Melee,Pierce,Rapid,None,None
 9mm Pistol,+2d6,+2d6,+1d6,0,Medium,,Quick,None,9mm Ammo
 5.56 Rifle,+2d6,+4d6,None,0,Sharpshooter,,Quick,None,5.56 Ammo
 Bolt Action .308 Rifle,+1d6,+4d6,None,0,Extreme,,Standard,None,.308 Ammo
-RPG Launcher,-2,+6d6,None,0,Sharpshooter,,Loading,30 ft Sphere,RPG Ammo
+RPG Launcher,-2,+6d6,None,0,Sharpshooter,,Loading,None,RPG Ammo
 5.56 Machine Gun,-2,+6d6,None,0,Sharpshooter,,Rapid,None,5.56 Ammo
