@@ -77,7 +77,7 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
-- [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
+- [Weapon Skill Transfer](./src/CoreRules/AdvancedRules/WeaponSkillTransfer.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 - [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
