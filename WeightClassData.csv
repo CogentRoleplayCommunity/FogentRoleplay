@@ -1,5 +1,5 @@
 name,bottomPercent,topPercent,percentOfMovementSpeed,attributeDeterminedDiceModEffect
-Light Weight,0,0.25,1,Light Weight
-Medium Weight,0.25,0.5,0.8,Medium Weight
-Heavy Weight,0.5,1,0.5,Heavy Weight
+Weight Class: Light,0,0.25,1,Weight Class: Light
+Weight Class: Medium,0.25,0.5,0.8,Weight Class: Medium
+Weight Class: Heavy,0.5,1,0.5,Weight Class: Heavy
 Overencumberd,1,9999,0,Overencumberd
