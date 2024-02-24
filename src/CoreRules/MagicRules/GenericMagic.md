@@ -13,6 +13,7 @@ This level of proficiency with magic might be a fun party trick or for convenien
 For Fire Magic, this could be used to light a nearby candle. For Water Magic, this could be useful for levitating your ale into your mouth.
 
 Examples include:
+
 * A minute latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
 * A minuet blessing bestowed by a deity. (Cleric)

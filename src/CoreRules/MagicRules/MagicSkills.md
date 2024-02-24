@@ -57,8 +57,16 @@ Another avenue to explore are magic how these magics could be combined.
 - Blizzard Magic = Cold Magic + Air Magic
 - Frost Magic = Water Magic + Cold Magic
 
-## Unlocking Magic
+## Unlocking Magic Skills
 
 You unlock an amount of Magic Skill depending on your Magic Vocation Dice Pool Size. All magic skills start at the Incompetent Skill Level (level -1).
 
 Magic Skills Known = Magic Vocation Dice Pool Size - 2
+
+Examples of unlocking magic:
+
+* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
+* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
+* A minuet blessing bestowed by a deity. (Cleric)
+* A taste of power from an entity looking to make a deal... (Warlock)
+* A part of nature foreign to your place of origin. (Druid)
