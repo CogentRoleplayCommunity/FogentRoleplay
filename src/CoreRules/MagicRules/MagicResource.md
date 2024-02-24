@@ -4,19 +4,19 @@ Magic Resources are used to fuel magic.
 
 ### Magic Resource Pool
 
-Represent the pool of magic resource your character has to fuel their magic. Depending on your vocation and the magic governing core skill, your Magic Resource Pool will vary.
+Represent the pool of Magic Resource a character has to fuel their magic. Depending a character's Magic Vocation and the Magic Governing Core Skill, your Magic Resource Pool will vary.
 
 - Magic Resource pool = Vocation Amount + Magic Governing Core Skill Amount
 
 | Vocation/Magic Governing Core Skill Level | Vocation Amount | Magic Governing Core Skill Amount |
 | :---------------------------------------: | :-------------: | :-------------------------------: |
-|             Incompetent (-1)              |      None       |                 0                 |
-|                Novice (0)                 |        0        |                 0                 |
-|              Apprentice (1)               |        4        |                 1                 |
-|                 Adept (2)                 |       10        |                 4                 |
-|                Expert (3)                 |       17        |                 8                 |
-|                Master (4)                 |       22        |                10                 |
-|               Legendary (5)               |       30        |                15                 |
+|             Incompetent (-1)             |      None      |                 0                 |
+|                Novice (0)                |        0        |                 0                 |
+|              Apprentice (1)              |        4        |                 1                 |
+|                 Adept (2)                 |       10       |                 4                 |
+|                Expert (3)                |       17       |                 8                 |
+|                Master (4)                |       22       |                10                |
+|               Legendary (5)               |       30       |                15                |
 
 ### Regaining Magic Resource
 
