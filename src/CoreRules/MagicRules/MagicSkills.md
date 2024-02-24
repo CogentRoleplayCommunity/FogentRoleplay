@@ -59,12 +59,6 @@ Another avenue to explore are magic how these magics could be combined.
 
 ## Unlocking Magic
 
-You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the Incompetent Skill Level (level -1).
+You unlock an amount of Magic Skill depending on your Magic Vocation Dice Pool Size. All magic skills start at the Incompetent Skill Level (level -1).
 
-| Magic Vocation Level | Magic Skills known |
-| :------------------: | :----------------: |
-|          0          |         1         |
-|          1          |         3         |
-|          2          |         5         |
-|          3          |         7         |
-|          4          |         9         |
+Magic Skills Known = Magic Vocation Dice Pool Size - 2
