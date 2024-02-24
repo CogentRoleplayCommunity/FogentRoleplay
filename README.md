@@ -86,9 +86,9 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 
 ### Magic Rules
 
+- [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
 - [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
 - [Magic Governing Core Skill](./src/CoreRules/MagicRules/MagicGoverningCoreSkill.md)
-- [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
 - [Generic Magic](./src/CoreRules/MagicRules/GenericMagic.md)
 - [Magic Roll](./src/CoreRules/MagicRules/MagicRoll.md)
 - [Magic Saving Throw](./src/CoreRules/MagicRules/MagicSavingThrow.md)
