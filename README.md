@@ -76,8 +76,8 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
-- [Light and Vision](./src/CoreRules/AdvancedRules/LightAndVision.md)
-- [Weapon Combat Skill Transfer](./src/CoreRules/AdvancedRules/WeaponCombatSkillTransfer.md)
+- [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
+- [Weapon Skill Transfer](./src/CoreRules/AdvancedRules/WeaponSkillTransfer.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 - [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
@@ -86,12 +86,12 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 
 ### Magic Rules
 
-- [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
 - [Magic Governing Core Skill](./src/CoreRules/MagicRules/MagicGoverningCoreSkill.md)
 - [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
+- [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
+- [Generic Magic](./src/CoreRules/MagicRules/GenericMagic.md)
 - [Magic Roll](./src/CoreRules/MagicRules/MagicRoll.md)
 - [Magic Saving Throw](./src/CoreRules/MagicRules/MagicSavingThrow.md)
-- [Generic Magic](./src/CoreRules/MagicRules/GenericMagic.md)
 - [Spells](./src/CoreRules/MagicRules/Spells.md)
 - [Creating Magic Systems](./src/CoreRules/MagicRules/CreatingMagicSystems.md)
 

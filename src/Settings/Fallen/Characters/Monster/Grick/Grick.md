@@ -13,16 +13,16 @@
 
 ## Vocations and Vocational Skills
 
-| Monster {STR, RFX}    | 2 | 7d6 |
-| --------------------- | :-: | :-: |
-| Bite {STR, RFX, INT}  | 2 | 5d6 |
-| Claws {STR, RFX, INT} | 2 | 5d6 |
+| Monster {STR, RFX}   | 2 | 7d6 |
+| -------------------- | :-: | :-: |
+| Bite {STR, RFX, INT} | 2 | 5d6 |
+| Claw {STR, RFX, INT} | 2 | 5d6 |
 
 ## Effects
 
 |                  Name                  |                                                            Effect                                                            | Duration |                      Source                      |
 | :------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                  Fellblood                  |
+|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                    Fellblood                    |
 |  Medium Non-Magical Pierce Resistance  |                                -2 to victory levels received from Non-Magical Pierce damage.                                |          |                                                  |
 |   Medium Non-Magical Hew Resistance   |                                  -2 to victory levels received from Non-Magical Hew damage.                                  |          |                                                  |
 |  Medium Non-Magical Slash Resistance  |                                 -2 to victory levels received from Non-Magical Slash damage.                                 |          |                                                  |
@@ -38,10 +38,11 @@
 
 ### Innate
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Claws | 6d6<br />(+1d6) |      None      |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-| Bite |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Piercing Claw |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Slashing Claw | 6d6<br />(+1d6) |      None      |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|     Bite     |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |        None        |
 
 ## Notes
 

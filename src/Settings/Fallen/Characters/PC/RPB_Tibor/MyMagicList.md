@@ -38,7 +38,7 @@ $~~~$
 
 ## Apprentice - Level 1
 - **Attack - [Bewitch](./../../../../../CoreRules/MagicRules/Spells/Apprentice/Bewitch.md) - Polycraft - 1 Fellblood - +1 Minor Necro Dmg (on top of phy dmg), -1 skill of enemy for 1 hour, Long Range**
-- Attack - [Generic Apprentice](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) - Anycraft - 1-2 Fellblood - Equivalent of magical: M.H. Blade / Point / Blunt [1], Short Spear (also thrown) [1], Whip [1], Hand / Light Crossbow [1], Light Bow [1], Close Cone [1], L.H. Blade / Point / Blunt [2], Spear (also thrown) [2], Heavy Crossbow [2], Medium Cone [2]
+- Attack - [Generic Apprentice](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) - Anycraft - 1-2 Fellblood - Equivalent of magical: M.H. Blade / Point / Blunt [1], Medium Spear (also thrown) [1], Whip [1], Hand / Light Crossbow [1], Light Bow [1], Close Cone [1], L.H. Blade / Point / Blunt [2], Spear (also thrown) [2], Heavy Crossbow [2], Medium Cone [2]
 
 $~~~$
 

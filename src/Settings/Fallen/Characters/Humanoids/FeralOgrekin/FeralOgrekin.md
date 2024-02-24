@@ -16,7 +16,7 @@
 | Brute {STR}                  | 1 | 5d6 | Fellcaster {STR, RFX, INT} | 0 | 3d6 |
 | ---------------------------- | :-: | :-: | -------------------------- | - | --- |
 | Large Hafted {STR, RFX, INT} | 1 | 4d6 | Polycraft {STR, RFX, INT} | 0 | 3d6 |
-| Short Spear {STR, RFX, INT}  | 1 | 4d6 |                            |   |     |
+| Medium Spear {STR, RFX, INT}  | 1 | 4d6 |                            |   |     |
 | Unarmed {STR, RFX, INT}      | 1 | 4d6 |                            |   |     |
 
 ## Effects
@@ -31,7 +31,7 @@
 |       Dark Vision       | Within 60 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color. |          |                                                      Polycraft                                                      |
 |    Equipment Weight    |                                                          22 lb                                                          |          |                                                      Equipment                                                      |
 |  Carry Weight  |                                                         220 lb                                                         |          | +50 lbs Carry Weight per Lift dice |
-|      Light Weight      |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
+|      Weight Class: Light      |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
 | Terrestrial Combat Speed |                                                          35 ft                                                          |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
 |   Swim Combat Speed   |                                                          30 ft                                                          |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
 |  Climb Combat Speed  |                                                          25 ft                                                          |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
@@ -41,8 +41,8 @@
 |        Name        |    One<br />Handed    |    Two<br />Handed    | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------------: | :-------------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |  Large Hafted Axe  |    4d6<br />(+0d6)    |    7d6<br />(+3d6)    |       None       |      2      | Melee |        Hew        |           Rapid           |        None        |        None        |
-|    Short Spear    | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |        Spear Rapid        |        None        |        None        |
-| Thrown Short Spear | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |        None        |
+|    Medium Spear    | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |      (+1d6)      |      2      | Melee |      Pierce      |        Rapid Max 2        |        None        |        None        |
+| Thrown Medium Spear | 1d4, 5d6<br />(+2d6) | 1d4, 5d6<br />(+2d6) |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |        None        |
 |      Unarmed      |    3d6<br />(-1)    |    3d6<br />(-1)    |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 
 ### Combat Spells
@@ -59,5 +59,5 @@
 | Name                 | # |                    Class                    |   Effect   |  Tier  | Durability | LB | Value |
 | -------------------- | :-: | :------------------------------------------: | :---------: | :-----: | :--------: | :-: | :---: |
 | Leather Armor        | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2.00 | Quality |   15/15   | 12 | 10 bc |
-| Wooden Javelin | 3 |       Short Spear, Thrown Short Spear       |   Shoddy   |        |    9/9    | 2 | 50 cc |
+| Wooden Javelin | 3 |       Medium Spear, Thrown Medium Spear       |   Shoddy   |        |    9/9    | 2 | 50 cc |
 | Dane Axe             | 1 |               Large Hafted Axe               |            | Mundane |   12/12   | 4 | 11 bc |

@@ -4,13 +4,14 @@ Challenge level represents the difficulty of a task set by the narrator proporti
 
 |      Difficulty      | Challenge Level |
 | :------------------: | :-------------: |
-|        Common        |      CL 1       |
-|       Uncommon       |      CL 2       |
-|     Specialized      |      CL 3       |
-|      Difficult       |      CL 4       |
-| Extremely Difficult  |      CL 5       |
-|     Unrealistic      |      CL 6       |
-| Virtually Impossible |      CL 7       |
-|    Inconceivable     |      CL 8       |
+|       Trivial       |        0        |
+|        Common        |      CL 1      |
+|       Uncommon       |      CL 2      |
+|     Specialized     |      CL 3      |
+|      Difficult      |      CL 4      |
+| Extremely Difficult |      CL 5      |
+|     Unrealistic     |      CL 6      |
+| Virtually Impossible |      CL 7      |
+|    Inconceivable    |      CL 8      |
 
 For example, Javk Wick the Rogue wants to move a stone blocking low opening in a wall. The narrator purposes "Since the rock weighs roughly 100 lbs and is pretty slick, but your only trying to shift it over, that will be a Uncommon (CL 2) using the Lift Skill".

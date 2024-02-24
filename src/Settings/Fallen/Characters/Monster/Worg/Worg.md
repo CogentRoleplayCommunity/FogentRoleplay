@@ -19,24 +19,24 @@
 
 ## Effects:
 
-|           Name           |                                                            Effect                                                            | Duration |                                                       Source                                                       |
-| :----------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|       Dark Vision       | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                                                                                    |
-|  Physical Defense Level  |                                                              1                                                              |          |                                                    Natural armor                                                    |
-|       Large Size       |                                                   10x10 ft on battle map.                                                   |          |                                                                                                                    |
-|     Language: Primal     |                                                      Can speak Primal.                                                      |          |                                                                                                                    |
-|     Equipment Weight     |                                                            25 lb                                                            |          |                                                      Equipment                                                      |
-|  Carry Weight  |                                                            320 lb                                                            |          | +50 lbs Carry Weight per Lift dice |
-|       Light Weight       |                                               -0d6 to STR/RFX governed Dice Pools                                               |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-| 4-Legged Terrestrial Combat Speed |                                                            65 ft                                                            |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
-|   4-Legged Swim Combat Speed   |                                                            35 ft                                                            |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
-|  4-Legged Climb Combat Speed  |                                                             5 ft                                                             |          |                                   5 ft (Base), +5 ft (per STR), +5 ft (per Climb)                                   |
+|                Name                |                                                            Effect                                                            | Duration |                      Source                      |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
+|            Dark Vision            | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                  |
+|       Physical Defense Level       |                                                              1                                                              |          |                  Natural armor                  |
+|            Large Size            |                                                   10x10 ft on battle map.                                                   |          |                                                  |
+|          Language: Primal          |                                                      Can speak Primal.                                                      |          |                                                  |
+|          Equipment Weight          |                                                            25 lb                                                            |          |                    Equipment                    |
+|            Carry Weight            |                                                            320 lb                                                            |          |        +50 lbs Carry Weight per Lift dice        |
+|            Weight Class: Light            |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+| 4-Legged Terrestrial Combat Speed |                                                            65 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    4-Legged Swim Combat Speed    |                                                            35 ft                                                            |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    4-Legged Climb Combat Speed    |                                                             5 ft                                                             |          | 5 ft (Base), +5 ft (per STR), +5 ft (per Climb) |
 
 ## Combat Rolls:
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |             1             |                    |                    |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |                    |                    |
 
 ## Equipment
 

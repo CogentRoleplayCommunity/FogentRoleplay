@@ -26,7 +26,7 @@
 |        Medium Size        |                    5x5 ft on battle map.                    |          |                                                                                                                    |
 |      Equipment Weight      |                           13.5 lb                           |          |                                                      Equipment                                                      |
 |   Carry Weight   |                           120 lb                           |          | +50 lbs Carry Weight per Lift dice |
-|        Light Weight        |               -0d6 to STR/RFX governed Dice Pools               |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
+|        Weight Class: Light        |               -0d6 to STR/RFX governed Dice Pools               |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
 |  Terrestrial Combat Speed  |                            40 ft                            |          |                                +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                |
 |    Swim Combat Speed    |                            0 ft                            |          |                                                 Bone's don't float                                                 |
 |    Climb Combat Speed    |                            15 ft                            |          |                                  +5 ft (per Climb Dice), +/-5 ft (per RFX)                                  |

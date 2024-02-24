@@ -1,35 +1,53 @@
-## Magic Skills
+# Magic Skills
 
-These magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the element/concept.
+Magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the element/concept.
 
-If you are making a magic system, these will magic skills could have different names in your system for flavor. You need to determine what damage types each magic skill will be capable of causing.  Next, you'll need to determine if this magic skill could be used for melee combat, a good rule of thumb is if it can't create something physical that could block a sword, than it probably isn't melee capable. Finally, you'll need to determine if it is range capable, which determines if a magic can make ranged attacks.
+The CL of any Magic Skill check is perportionate to the amount of Magic Resource required as fuel.
 
- This is not an exhaustive list, feel free to add your own.
+## Generic Magic Skill List
 
-|                  Name                   |             Damage Type              | Melee Capable | Range Capable |
+Below is a non an exhaustive list of common magic types, feel free to create your own. You can also try grouping different magic concepts under one magic skill for a magic system. For instance, in the popular video game Skyrim, the Destruction school of magic covered Fire, Ice, and Lightning.
+
+### Magic Skill Name
+
+The name of the Magic Skill in question. The example Magic Skill Names below are extremely generic. If you are creating your own magic system, these magic skills could have different names.
+
+### Damage Types
+
+Determines the Damage Types the Magic Skill in question is capable of inflicting.
+
+### Melee Capable
+
+Determines if this Magic Skill could be used for melee combat, a good rule of thumb is if it can't create something physical that could block a sword, than it probably isn't Melee Capable.
+
+### Range Capable
+
+Determines if the Magic Skill in question is capable of effecting something at range, which determines if a magic can make ranged attacks.
+
+|            Magic Skill Name            |             Damage Types             | Melee Capable | Range Capable |
 | :-------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
-| Bodily Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
-|           Fire or Heat Magic            |                 Fire                 |     TRUE      |     TRUE      |
-|               Water Magic               | Suffocation, Slash, Bludgeon, Pierce |     TRUE      |     TRUE      |
-|            Electricity Magic            |               Electric               |     TRUE      |     TRUE      |
-|               Earth Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
-|                Air Magic                |      Slash, Bludgeon, Shockwave      |     TRUE      |     TRUE      |
-|               Cold Magic                |                 Cold                 |     TRUE      |     TRUE      |
-|          Nature or Plant Magic          |       Slash, Bludgeon, Pierce        |     TRUE      |     TRUE      |
-|              Poison Magic               |                Poison                |     TRUE      |     TRUE      |
-|               Soul Magic                |              Spiritual               |     FALSE     |     TRUE      |
-|               Light Magic               |               Radiant                |     TRUE      |     TRUE      |
-|              Shadow Magic               |               Necrotic               |     TRUE      |     TRUE      |
-|               Mind Magic                |               Psychic                |     FALSE     |     TRUE      |
-|               Metal Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
-|               Sound Magic               |              Shockwave               |     FALSE     |     TRUE      |
-|               Blood Magic               |                Bleed                 |     TRUE      |     TRUE      |
-|               Acid Magic                |                 Acid                 |     TRUE      |     TRUE      |
-|               Time Magic                |                                      |     FALSE     |     TRUE      |
-|         Teleport or Space Magic         |                                      |     FALSE     |     TRUE      |
-|         Force or Gravity Magic          |     Slash, Bludgeon, Hew, Pierce     |     TRUE      |     TRUE      |
+| Bodily Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|           Fire or Heat Magic           |                 Fire                 |     TRUE     |     TRUE     |
+|               Water Magic               | Suffocation, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
+|            Electricity Magic            |               Electric               |     TRUE     |     TRUE     |
+|               Earth Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|                Air Magic                |      Slash, Bludgeon, Shockwave      |     TRUE     |     TRUE     |
+|               Cold Magic               |                 Cold                 |     TRUE     |     TRUE     |
+|          Nature or Plant Magic          |       Slash, Bludgeon, Pierce       |     TRUE     |     TRUE     |
+|              Poison Magic              |                Poison                |     TRUE     |     TRUE     |
+|               Soul Magic               |              Spiritual              |     FALSE     |     TRUE     |
+|               Light Magic               |               Radiant               |     TRUE     |     TRUE     |
+|              Shadow Magic              |               Necrotic               |     TRUE     |     TRUE     |
+|               Mind Magic               |               Psychic               |     FALSE     |     TRUE     |
+|               Metal Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|               Sound Magic               |              Shockwave              |     FALSE     |     TRUE     |
+|               Blood Magic               |                Bleed                |     TRUE     |     TRUE     |
+|               Acid Magic               |                 Acid                 |     TRUE     |     TRUE     |
+|               Time Magic               |                                      |     FALSE     |     TRUE     |
+|         Teleport or Space Magic         |                                      |     FALSE     |     TRUE     |
+|         Force or Gravity Magic         |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
 
-### Combo Magic Skill
+## Combo Magic Skills
 
 Another avenue to explore are magic how these magics could be combined.
 
@@ -39,28 +57,16 @@ Another avenue to explore are magic how these magics could be combined.
 - Blizzard Magic = Cold Magic + Air Magic
 - Frost Magic = Water Magic + Cold Magic
 
-### Unlocking Magic
+## Unlocking Magic Skills
 
-You unlock an amount of Magic Skill depending on your Magic Vocation level. All magic skills start at the Party Trick Tier (level -1: incompetent).
+You unlock an amount of Magic Skill depending on your Magic Vocation Dice Pool Size. All magic skills start at the Incompetent Skill Level (level -1).
 
-| Magic Vocation Level | Magic Skills known |
-| :------------------: | :----------------: |
-|          0           |         1          |
-|          1           |         3          |
-|          2           |         5          |
-|          3           |         7          |
-|          4           |         9          |
+Magic Skills Known = Magic Vocation Dice Pool Size - 2
 
-#### Party Trick Tier (Level -1: Incompetent)
+Examples of unlocking magic:
 
-Requires an investment of 0 skill point to unlock. Generally acquired during character creation, increasing your vocation level or through narrative means.
-
-Examples include:
-
-* A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
+* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
 * A minuet blessing bestowed by a deity. (Cleric)
 * A taste of power from an entity looking to make a deal... (Warlock)
 * A part of nature foreign to your place of origin. (Druid)
-
-This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A fire magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.

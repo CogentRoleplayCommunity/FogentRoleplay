@@ -87,7 +87,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Gambeson Coat           | 1 |            Body Armor, Arm Armor            |             Phy. Def. 0.625             |   Mundane   |   12/12   |   5   |  3.13 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |         Gambeson Leggings         | 1 |                  Leg Armor                  |             Phy. Def. 0.375             |   Mundane   |   12/12   |   3   |  1.87 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
-|           Leather Armor           | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 2.00               |   Quality   |   15/15   |   12   |   10 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|           Leather Armor           | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |             Phy. Def. 2.00             |   Quality   |   15/15   |   12   |   10 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |          Leather Helmet          | 1 |                  Head Armor                  |             Phy. Def. 0.34             |   Quality   |   15/15   |   2   |  1.67 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |   Leather Cuirass and Pauldrons   | 1 |                  Body Armor                  |             Phy. Def. 1.00             |   Quality   |   15/15   |   6   |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Leather Cuisses and Greaves    | 1 |                  Arm Armor                  |             Phy. Def. 0.33             |   Quality   |   15/15   |   2   |  1.67 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -107,18 +107,18 @@ Cheap shops will charge 50% the value for any item on this list.
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
 |            Plate Armor            | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 5               | Mastercraft |   33/33   |   57   |  1495 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |          Plate Full Helm          | 1 |                  Head Armor                  |             Phy. Def. 0.53             | Mastercraft |   33/33   |   6   | 157.37 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|    Plate Cuirass and Pauldrons    | 1 |                  Body Armor                  |             Phy. Def. 2.00.01             | Mastercraft |   33/33   |   23   | 603.24 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|    Plate Cuirass and Pauldrons    | 1 |                  Body Armor                  |            Phy. Def. 2.00.01            | Mastercraft |   33/33   |   23   | 603.24 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |     Plate Cuisses and Greaves     | 1 |                  Arm Armor                  |             Phy. Def. 1.23             | Mastercraft |   33/33   |   14   | 367.19 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |   Plate Vambrace and Gauntlets   | 1 |                  Leg Armor                  | Phy. Def. 1.23, Hand Protection Unarmed | Mastercraft |   33/33   |   14   | 367.19 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
 |          Buckler Shield          | 1 |                    Shield                    |               Phy. Def. 1               |   Mundane   |   12/12   |   4   |   2 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Targe Shield           | 1 |                    Shield                    |               Phy. Def. 1               |   Mundane   |   12/12   |   4   |   2 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Parma Shield           | 1 |                    Shield                    |               Phy. Def. 1               |   Mundane   |   12/12   |   4   |   2 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|            Kite Shield            | 1 |                    Shield                    |               Phy. Def. 2.00               |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Hoplon Shield           | 1 |                    Shield                    |               Phy. Def. 2.00               |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Pavise Shield           | 1 |                    Shield                    |               Phy. Def. 2.00               |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Heater Shield           | 1 |                    Shield                    |               Phy. Def. 2.00               |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|   Kite Shield (Dawn Emp. Crest)   | 1 |                    Shield                    |               Phy. Def. 2.00               |  Superior  |   24/24   |   8   |   30 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|            Kite Shield            | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Hoplon Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Pavise Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Heater Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|   Kite Shield (Dawn Emp. Crest)   | 1 |                    Shield                    |             Phy. Def. 2.00             |  Superior  |   24/24   |   8   |   30 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |       Heavy Shield (Tower)       | 1 |                    Shield                    |               Phy. Def. 3               |   Mundane   |   12/12   |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |              Mantlet              | 1 |                    Shield                    |               Phy. Def. 4               |   Mundane   |   12/12   |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 
@@ -128,31 +128,31 @@ Cheap shops will charge 50% the value for any item on this list.
 | :------------: | :-: | :-------------------------------------------------------------: | :----: | :-----: | :--------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |     Dagger     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Handaxe    | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|    Javelin    | 1 |                 Short Spear, Thrown Short Spear                 |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|    Javelin    | 1 |                Medium Spear, Thrown Medium Spear                |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Light Hammer  | 1 |             Small Hafted Blunt, Small Thrown Blunt             |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Mace      | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Sickle     | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|     Spear     | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Spear     | 1 |                 Large Spear, Thrown Large Spear                 |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |   Battleaxe   | 1 |                        Medium Hafted Axe                        |        | Mundane |   12/12   |   4   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Flail     | 1 |                       Medium Hafted Blunt                       |        | Mundane |   12/12   |   3   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Glaive     | 1 |                       Large Hafted Blade                       |        | Mundane |   12/12   |   6   | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |    Dane Axe    | 1 |                       Large Hafted Blade                       |        | Mundane |   12/12   |   4   | 11 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|   Greatsword   | 1 |            Thrusting Greatsword, Slashing Greatsword            |        | Mundane |   12/12   |   6   | 50 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Greatsword   | 1 |            Thrusting Reach Sword, Slashing Reach Sword            |        | Mundane |   12/12   |   6   | 50 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |    Halberd    | 1 |             Reach Hafted Blade, Reach Hafted Point             |        | Mundane |   12/12   |   7   | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |    Poleaxe    | 1 |          Large Hafted Blunt, Large Hafted Blade, Spear          |        | Mundane |   12/12   |   6   | 40 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |  Long Poleaxe  | 1 |   Reach Hafted Blunt, Reach Hafted Blade, Reach Hafted Point   |        | Mundane |   12/12   |   7   | 41 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |  Swordbreaker  | 1 |                      Small Slashing Blade                      |        | Mundane |   12/12   |   1   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|   Swordstaff   | 1 |                  Reach Hafted Blade, Longspear                  |        | Mundane |   12/12   |   6   | 50 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Swordstaff   | 1 |                  Reach Hafted Blade, Reach Spear                  |        | Mundane |   12/12   |   6   | 50 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Lance     | 1 |                       Reach Hafted Point                       |        | Mundane |   12/12   |   11   | 10 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |   Longsword   | 1 |           Large Thrusting Sword, Large Slashing Sword           |        | Mundane |   12/12   |   3   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Maul      | 1 |                       Large Hafted Blunt                       |        | Mundane |   12/12   |   7   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |  Morning Star  | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   4   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|      Pike      | 1 |                            Longspear                            |        | Mundane |   12/12   |   5   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|      Pike      | 1 |                            Reach Spear                            |        | Mundane |   12/12   |   5   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Rapier     | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Scimitar    | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|    Trident    | 1 |                       Spear, Thrown Spear                       |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|    Trident    | 1 |                 Large Spear, Thrown Large Spear                 |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 | Warhammer/pick | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   2   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
@@ -219,7 +219,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |             Name             | # |                    Class                    |     Effect     |  Tier  | Durability | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :---------------------------: | :-: | :------------------------------------------: | :------------: | :-----: | :--------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
 |           -[Armor]-           |  |                                              |                |        |            |        |        |              |              |              |                |
-|         Leather Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 2.00  | Quality |   15/15   |   12   |  10 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|         Leather Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor | Phy. Def. 2.00 | Quality |   15/15   |   12   |  10 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |        Leather Helmet        | 1 |                  Head Armor                  | Phy. Def. 0.34 | Quality |   15/15   |   2   | 1.67 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 | Leather Cuirass and Pauldrons | 1 |                  Body Armor                  | Phy. Def. 1.00 | Quality |   15/15   |   6   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |  Leather Cuisses and Greaves  | 1 |                  Leg Armor                  | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.67 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -354,7 +354,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Gambeson Armor           | 1 |                Body Armor, Arm Armor, Leg Armor                | Phy. Def. 1.00 | Mundane |   12/12   |   8   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |            Gambeson Coat            | 1 |                     Body Armor, Arm Armor                     | Phy. Def. 0.625 | Mundane |   12/12   |   5   | 3.13 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |          Gambeson Leggings          | 1 |                            Leg Armor                            | Phy. Def. 0.375 | Mundane |   12/12   |   3   | 1.87 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|            Leather Armor            | 1 |          Head Armor, Body Armor, Arm Armor, Leg Armor          |   Phy. Def. 2.00   | Quality |   15/15   |   12   |  10 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|            Leather Armor            | 1 |          Head Armor, Body Armor, Arm Armor, Leg Armor          | Phy. Def. 2.00 | Quality |   15/15   |   12   |  10 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |           Leather Helmet           | 1 |                           Head Armor                           | Phy. Def. 0.34 | Quality |   15/15   |   2   | 1.67 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Leather Cuirass and Pauldrons    | 1 |                           Body Armor                           | Phy. Def. 1.00 | Quality |   15/15   |   6   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |     Leather Cuisses and Greaves     | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.67 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -483,14 +483,14 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
-|        Name        | # |        Class        | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :-----------------: | :-: | :-----------------: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
-|        Spear        | 1 | Spear, Thrown Spear |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Trident       | 1 | Spear, Thrown Spear |        | Mundane |   12/12   |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|         Net         | 1 |    Medium Sword    |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|   Fishing Tackle   | 1 |                    |        | Mundane |            |   4   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|       Rowboat       |  |                    |        |        |            | 50 bc |      |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| 1lb of Fishing Bait | 1 |                    |        | Mundane |            |   1   | 5 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Name        | # |              Class              | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :-----------------: | :-: | :-----------------------------: | :----: | :-----: | :--------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
+|        Spear        | 1 | Large Spear, Thrown Large Spear |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Trident       | 1 | Large Spear, Thrown Large Spear |        | Mundane |   12/12   |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|         Net         | 1 |          Medium Sword          |        | Mundane |   12/12   |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|   Fishing Tackle   | 1 |                                |        | Mundane |            |   4   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|       Rowboat       |  |                                |        |        |            | 50 bc |      |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| 1lb of Fishing Bait | 1 |                                |        | Mundane |            |   1   | 5 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 
 ### ![](ItemShop/ArtAndGameTheme.png) Art and Games Theme - General Store Add-on
 

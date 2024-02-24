@@ -22,7 +22,7 @@ Engageable Opponents: 1
 
 Penetration: 3
 
-Magic ResourceRequired: 1
+Magic Resource Required: 1
 
 Skills required:
 

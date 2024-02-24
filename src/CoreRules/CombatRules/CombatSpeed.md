@@ -4,30 +4,26 @@ Different creatures get different movement speeds in combat.
 
 ## Speed Types
 
-Combat Speeds each have a Speed Type, which determine how fast that particular combat speed is.
+Combat Speeds each have a Speed Type, which determines how fast that particular combat speed is.
 
-|      Name      | Feet Per Governing Skill Dice | RFX Speed per RFX Level (ft) | Description                                                |
-| :-------------: | :---------------------------: | :--------------------------: | ---------------------------------------------------------- |
-| Extremely Slow |              2.5              |             2.5             | +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)   |
-|    Very Slow    |               5               |              5              | +5 ft (per Governing Skill Dice), +/-5 ft (per RFX)       |
-|      Slow      |              7.5              |             7.5             | +7.5 ft (per Governing Skill Dice), +/-7.5 ft (per RFX)   |
-|     Medium     |              10              |              10              | +10 ft (per Governing Skill Dice), +/-10 ft (per RFX)     |
+|      Name      | Feet Per Governing Skill Dice | RFX Speed per RFX Level (ft) |                        Description                        |
+| :-------------: | :---------------------------: | :--------------------------: | :--------------------------------------------------------: |
+| Extremely Slow |              2.5              |             2.5             |  +2.5 ft (per Governing Skill Dice), +/-2.5 ft (per RFX)  |
+|    Very Slow    |               5               |              5              |    +5 ft (per Governing Skill Dice), +/-5 ft (per RFX)    |
+|      Slow      |              7.5              |             7.5             |  +7.5 ft (per Governing Skill Dice), +/-7.5 ft (per RFX)  |
+|     Medium     |              10              |              10              |   +10 ft (per Governing Skill Dice), +/-10 ft (per RFX)   |
 | Moderately Fast |             12.5             |             12.5             | +12.5 ft (per Governing Skill Dice), +/-12.5 ft (per RFX) |
-|      Fast      |              15              |              15              | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX)     |
-|    Very Fast    |              20              |              20              | +20 ft (per Governing Skill Dice), +/-20 ft (per RFX)    |
-| Extremely Fast |              25              |              25              | +25 ft (per Governing Skill Dice), +/-25 ft (per RFX)     |
-
-### Governing Skill
-
-The skill that represents the combat speed in question.
+|      Fast      |              15              |              15              |   +15 ft (per Governing Skill Dice), +/-15 ft (per RFX)   |
+|    Very Fast    |              20              |              20              |  +20 ft (per Governing Skill Dice), +/-20 ft (per RFX)  |
+| Extremely Fast |              25              |              25              |   +25 ft (per Governing Skill Dice), +/-25 ft (per RFX)   |
 
 ### Feet Per Governing Skill Dice
 
-The number of feet gained/lost per dice of the governing skill dice pool. This includes dice modifications such as from attribute governed skill modifications (i.e. skill buff effects, carry weight penalties, injuries, etc.). If the resulting number isn't a multiple of 5, round down to the nearest mutiple of 5.
+The number of feet gained/lost per dice of the governing skill dice pool. This includes dice modifications such as from skill buff effects, carry weight penalties, injuries, etc. If the resulting number isn't a multiple of 5, round down to the nearest multiple of 5.
 
 ### RFX Speed
 
-Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in the RFX, the character gains/loses movement speed.
+Characters with higher RFX are quicker to plan and act in combat. While lower RFX characters are deciding what to do, high RFX characters are already in motion. For each positive/negative level in RFX, the character gains/loses movement speed.
 
 RFX speed can be used to resolve circumstances when it is unclear which opponent moved first or closed some distance. RFX Speed is used first on a character's turn, with lower RFX characters considered to have not moved/acted yet. This rule takes inspiration from the gun vs knife debate at close distances, where it is argued that within a certain distance, a quick knife wielder might be able to close the distance before the shooter could get accurate shots on target. The ensuing ranged versus melee combat rolls would be disadvantageous for the ranged combatant as they are in melee reach.
 
@@ -39,31 +35,31 @@ The archer, now likely wounded from the rogue knife, tries to use the rest of hi
 
 #### Example 2
 
-A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow, and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
 The archer is then able to flee backward, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
 
 #### Example 3
 
-A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow, and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
+A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
 
 The archer is then able to flee backward as the rogue chases, keeping the 10 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
 
 #### Example 4
 
-A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, the two roll their combat rolls versus one another.
+A rogue with a dagger is trying to close the distance on a knight who is 10 feet away. The rogue has 1 RFX and the knight has 0 RFX. The knight declares he is going to move forward and swing on the rogue with the longsword he has in his hands. The rogue declares he is going to close the distance and stab the knight. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the knight can move, closing the gap. Since the knight already had his sword ready to go, combat rolls are made versus one another.
 
 ## Combat Speeds
 
-Using the speed types above, we can construct Combat Speeds for specific types of movement such as running, swim, climb, etc.
+Using the speed types above, we can construct Combat Speeds for specific types of movement such as running, swimming, climbing, flying, etc.
 
-|         Description         | Governing Skill |   Speed Type   |                      Description                      |
-| :-------------------------: | :-------------: | :------------: | :----------------------------------------------------: |
-|  Terrestrial Combat Speed  |    Athletics    |     Medium     |    +10 ft (per Athletics Dice), +/-10 ft (per RFX)    |
-|      Swim Combat Speed      |    Athletics    |   Very Slow   |     +5 ft (per Athletics Dice), +/-5 ft (per RFX)     |
-|     Climb Combat Speed     |      Climb      |   Very Slow   |       +5 ft (per Climb Dice), +/-5 ft (per RFX)       |
-|     Flight Combat Speed     |    Athletics    |      Fast      | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
-| 4-Hooved Climb Combat Speed |      Climb      | Extremely Slow |     +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)     |
+|         Description         | Governing Skill |   Speed Type   |                   Description                   |
+| :-------------------------: | :-------------: | :------------: | :----------------------------------------------: |
+|  Terrestrial Combat Speed  |    Athletics    |     Medium     | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|      Swim Combat Speed      |    Athletics    |   Very Slow   |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|     Climb Combat Speed     |      Climb      |   Very Slow   |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|     Flight Combat Speed     |    Athletics    |      Fast      | +15 ft (per Athletics Dice), +/-15 ft (per RFX) |
+| 4-Hooved Climb Combat Speed |      Climb      | Extremely Slow |  +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)  |
 
 ### Using multiple Combat Speeds on the same round
 
@@ -77,6 +73,9 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 ## Mounted Combat Speed
 
-When riding a mount in combat, the rider's Acrobatics acts as the Governing Skill for their combined movement, with the resulting combat speed capped by the mount's normal combat speed.
+When riding a mount in combat:
+
+- The rider's Acrobatics skill level is used in place of the mount's governing skill level for determining the governing skill dice pool size, capped by the mount's governing skill level.
+- The rider's RFX level is used in place of the mount's RFX, capped by the mount's RFX level.
 
 Additionally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
