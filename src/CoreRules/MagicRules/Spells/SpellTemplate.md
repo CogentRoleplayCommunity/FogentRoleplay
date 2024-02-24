@@ -20,7 +20,7 @@
 
 **Penetration:**
 
-**Magic Resource Required:**
+**CL and Magic Resource Required:**
 
 **Area Of Effect:** None
 
