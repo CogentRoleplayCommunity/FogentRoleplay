@@ -49,7 +49,7 @@
 
 |                                                    Name                                                    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |   Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :--------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :--------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|     [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |    Near    |      Poison      |                          |                    |   0 Magic Resource   |
+|     [Generic Incompetent Spell](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md)     |                |                |                  |            |    Near    |      Poison      |                          |                    |   0 Magic Resource   |
 |       [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)       |                |                |                  |            |   Medium   |      Poison      |                          |                    |  0 Magic Resource  |
 | [Generic Apprentice Spell](./../../../../../CoreRules/MagicRules/Spells/Apprentice/GenericApprenticeSpell.md) |                |                |                  |            | Far - Long |      Poison      |                          |                    | 1 - 2 Magic Resource |
 
