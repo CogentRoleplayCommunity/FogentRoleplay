@@ -16,7 +16,7 @@
 | Runesmith           | RFX, INT | 1 |    | Fellcaster | STR, RFX, INT | 0  | 3d6 |
 | ------------------- | :------: | :-: | :-: | ---------- | ------------- | -- | --- |
 | Rune of Fire        | RFX, INT | 1 | 5d6 | Hemacraft  | STR, RFX, INT | -1 | 2d6 |
-| Rune of Earth       | RFX, INT | 1 | 4d6 |            |               |    |     |
+| Rune of Earth       | RFX, INT | 1 | 5d6 |            |               |    |     |
 | Rune of Air         | RFX, INT | 0 | 4d6 |            |               |    |     |
 | Runesmith Knowledge |   INT   |  | 3d6 |            |               |    |     |
 
@@ -85,7 +85,7 @@
 
 |                                                      Name                                                      |                          Info                          | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          3/5                          |          |       Vocation/Magic Governing Skill Level       |
+|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          0/5                          |          |       Vocation/Magic Governing Skill Level       |
 |                    [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                    |                          0/3                          |          |               Awarded by Narrator               |
 |                         [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                         |             – 0 dice to all dice checks.             |          |                      Damage                      |
 |                                                                                                                |                                                        |          |                                                  |
