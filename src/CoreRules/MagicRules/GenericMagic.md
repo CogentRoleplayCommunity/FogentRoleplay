@@ -8,13 +8,12 @@ For a Magic Skill roll, these uses of magic have the ranges of any of the below 
 
 **Magic Skill Level Required:** -1
 
-This level of proficiency with magic might be a fun party trick or for convenience but has no awe inspiring use. Those with this level are objectively bad at using this skill. A Fire Magic skill would allow you to ignite your finger tips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someones face, though you could just punch them in the face instead for similar if not better results.
+This level of proficiency with magic might be a fun party trick or for convenience but has no awe-inspiring use. Those with this level are objectively bad at using this skill. A Fire Magic skill would allow you to ignite your fingertips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someone's face, though you could just punch them in the face instead for similar if not better results.
 
-For Fire Magic, this could be used to light a nearby candle. For Water Magic, this could be useful for levitating you ale into your mouth.
+For Fire Magic, this could be used to light a nearby candle. For Water Magic, this could be useful for levitating your ale into your mouth.
 
 Examples include:
-
-* A minuet latent genetic potential, such as from the race of the character. (Sorcerer)
+* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
 * Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
 * A minuet blessing bestowed by a deity. (Cleric)
 * A taste of power from an entity looking to make a deal... (Warlock)
@@ -58,9 +57,7 @@ As a part of a Magic Combat Roll, a character can choose one of the following op
 
 Combat Magic allows a character to create a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic is intended to be flavored by the player/narrator.
 
-If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers.
-
-Damage Types is determined by the damage types of the magic skill used.
+If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers. Damage Types are determined by the damage types of the magic skill used.
 
 ### Party Trick Combat Magic
 
