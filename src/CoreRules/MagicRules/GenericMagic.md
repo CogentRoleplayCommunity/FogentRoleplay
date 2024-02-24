@@ -4,7 +4,7 @@ Magic can be used for creative purposes and is meant to allow/encourage players 
 
 For a Magic Skill roll, these uses of magic have the ranges of any of the options on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
-## Party Trick Generic Magic
+## Incompetent Generic Magic
 
 **Magic Skill Level Required:** -1
 
@@ -60,7 +60,7 @@ Combat Magic allows a character to create a "Magic Weapon" and attack with it, u
 
 If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers. Damage Types are determined by the damage types of the magic skill used.
 
-### Party Trick Combat Magic
+### Incompetent Combat Magic
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
