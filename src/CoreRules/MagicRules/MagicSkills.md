@@ -2,9 +2,11 @@
 
 Magic skills represent generic types of magic representing different concepts. Skill in one of these represents the ability to manipulate and control the element/concept.
 
+The CL of any Magic Skill check is perportionate to the amount of Magic Resource required as fuel.
+
 ## Generic Magic Skill List
 
- This is not an exhaustive list, feel free to add your own.
+Below is a non an exhaustive list of common magic types, feel free to create your own. You can also try grouping different magic concepts under one magic skill for a magic system. For instance, in the popular video game Skyrim, the Destruction school of magic covered Fire, Ice, and Lightning.
 
 ### Magic Skill Name
 
