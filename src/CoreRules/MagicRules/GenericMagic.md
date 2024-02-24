@@ -2,7 +2,7 @@
 
 Magic can be used for creative purposes and is meant to allow/encourage players to try interesting things, limited only by the character's stats, the player's creativity, and the narrator's supervision.
 
-For a Magic Skill roll, these uses of magic have the ranges of any of the below option on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of any ranged magic is unavailable.
+For a Magic Skill roll, these uses of magic have the ranges of any of the options on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
 ## Party Trick Generic Magic
 
