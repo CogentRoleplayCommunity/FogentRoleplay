@@ -52,9 +52,11 @@ Adept magic spell that can be used for generic creative uses of magic.
 
 ## Combat Magic
 
+If a character intends to use magic during a combat round, on the declaration phase once they've declared they are going to use magic, they can roll their Magic Skill Roll. Wins achieved dictate the CL and Magic Resource for achievable that round. The character may also achieve any lower level outcome.
+
 As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for that 1 round.
 
-Combat Magic allows a character creates a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic is intended to be flavored by the player/narrator.
+Combat Magic allows a character to create a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic is intended to be flavored by the player/narrator.
 
 If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers.
 
