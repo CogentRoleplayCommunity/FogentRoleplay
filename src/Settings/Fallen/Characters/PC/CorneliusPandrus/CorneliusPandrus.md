@@ -16,7 +16,7 @@
 | Runesmith           | RFX, INT | 0 |    | Fellcaster | STR, RFX, INT | 0  | 3d6 |
 | ------------------- | :------: | :-: | :-: | ---------- | ------------- | -- | --- |
 | Rune of Fire        | RFX, INT | 1 | 5d6 | Hemacraft  | STR, RFX, INT | -1 | 2d6 |
-| Rune of Earth       | RFX, INT | 0 | 4d6 |            |               |    |     |
+| Rune of Earth       | RFX, INT | 1 | 5d6 |            |               |    |     |
 | Rune of Air         | RFX, INT | 0 | 4d6 |            |               |    |     |
 | Runesmith Knowledge |   INT   |  | 3d6 |            |               |    |     |
 
