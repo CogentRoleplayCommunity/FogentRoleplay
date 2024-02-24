@@ -9,6 +9,17 @@
 - All spells are attemptable but they have higher levels, not sure if good idea
 - Dual Thrown weapons have +1d6
 
+- Magic Resource scales off Vocation and Governing skill dice pool
+| lvl      | Vocation Dice Pool | Voc. Magic Resource gained | Governing Skill Dice Pool | Skill. Magic resource Gained | Total Magic Resource |
+| -------- | ------------------ | -------------------------- | ------------------------- | ---------------------------- | -------------------- |
+| Initiate |                    |                            |                           |                              |                      |
+| 1 opt.   | 5d6                | 4                          | 5d6                       | 2                            | 6                    |
+| 5 opt.   | 6d6                | 6                          | 6d6                       | 4                            | 10                   |
+| Adept    |                    |                            |                           |                              |                      |
+| 6        | 7d6                |                            | 6d6                       |                              |                      |
+|          |                    |                            |                           |                              |                      |
+| 7        | 7d6                |                            | 7d6                       |                              | 24                   |
+
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
 - Possible -1d6 nerf to all ranged weapons
