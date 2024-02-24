@@ -1,6 +1,6 @@
-# Generic Magic
+# Using Magic
 
-Generic Magic can be used for creative uses of magic and is meant to allow/encourage player's to try interesting things, limited only by the character's stats, the player's creativity, and the narrators supervision. Generic magic is intentionally left open ended.
+Magic can be used for creative purposes and is meant to allow/encourage players to try interesting things, limited only by the character's stats, the player's creativity, and the narrator's supervision.
 
 For a Magic Skill roll, these uses of magic have the ranges of any of the below option on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, than any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, than any use of any ranged magic is unavailable.
 
