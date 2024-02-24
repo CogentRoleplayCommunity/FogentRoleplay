@@ -22,7 +22,9 @@ This means that characters with the highest RFX can see or react to what their o
 
 ### Action Phase
 
-Once all characters have declared their action, the order is reversed starting with the person with the highest reflex acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, the character with a higher reflex will always win.
+Once all characters have declared their actions, the order is reversed starting with the person with the highest reflex acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
+
+At the beginning of the Action Phase, all players can roll their dice pools for that actions they expect to take that round, such as combat rolls. This is to help thing combat move effiecently.
 
 ## Keep your Combat Rolls for the round
 
