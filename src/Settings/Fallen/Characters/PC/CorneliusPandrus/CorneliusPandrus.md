@@ -13,7 +13,7 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Runesmith           | RFX, INT | 0 |    | Fellcaster | STR, RFX, INT | 0  | 3d6 |
+| Runesmith           | RFX, INT | 1 |    | Fellcaster | STR, RFX, INT | 0  | 3d6 |
 | ------------------- | :------: | :-: | :-: | ---------- | ------------- | -- | --- |
 | Rune of Fire        | RFX, INT | 1 | 5d6 | Hemacraft  | STR, RFX, INT | -1 | 2d6 |
 | Rune of Earth       | RFX, INT | 1 | 5d6 |            |               |    |     |
