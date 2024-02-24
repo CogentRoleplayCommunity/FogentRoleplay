@@ -3,7 +3,10 @@
 - Add shields to generic magic
 - Add Rules for taking a negative in a skill to gains skill points
 - Bite Grab
-- Rebuild all sheet, new weights, new movement speeds, new magic, new character sheet with links
+- Rebuild all sheets, new weights, new movement speeds, new magic, new character sheet with links
+- Spell save DC is just skill roll versus will/lift, but if the CL for the spell isn't achieved for the caster, the spell never goes off
+- No auto-succeed spells
+- All spells are attemptable but they have higher levels, not sure if good idea
 
 ## Fogent Maybe To Dos:
 - maybe double Magic Resource
