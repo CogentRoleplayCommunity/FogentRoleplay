@@ -15,11 +15,11 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT} |   1   |  5d6  | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 4d6 |
+| Fellcaster {STR, RFX, INT} |   1   |  5d6  | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 5d6 |
 | :------------------------: | :---: | :---: | -------------------------------------------------------- | :-------: | --- |
 | Polycraft {STR, RFX, INT}  |   1   |  5d6  | Metallurgy {INT}                                         | Inherited | 4d6 |
-| Toxincraft {STR, RFX, INT} |  -1   |  3d6  | Tool making / repair {STR, RFX, INT}                     | Inherited | 4d6 |
-| Terracraft {STR, RFX, INT} |  -1   |  3d6  | Silver-plating {STR, RFX, INT}                           | Inherited | 4d6 |
+| Toxincraft {STR, RFX, INT} |  -1   |  3d6  | Tool making / repair {STR, RFX, INT}                     | Inherited | 5d6 |
+| Terracraft {STR, RFX, INT} |  -1   |  3d6  | Silver-plating {STR, RFX, INT}                           | Inherited | 5d6 |
 |                            |       |  3d6  | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     1     | 5d6 |
 
 
@@ -71,7 +71,7 @@
 
 ## Destiny Points: 2/3
 
-## Fellblood: 5/5
+## Fellblood: 0/5
 
 [Magic Quicklist](./MyMagicList.md)
 
@@ -86,7 +86,9 @@
 |      Clothes, Traveler's       |   1   |                                           |                | Mundane |   12/12    |   4   |  2 bc  |                                                                                                                                                                                        |
 |         Cloak, Canvas          |   1   |                                           |                | Mundane |   12/12    |   5   | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                 |
 |           Warhammer            |   1   | Medium Hafted Blunt, Medium Hafted Point  |                | Mundane |   12/12    |   4   |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
+|          Morning Start         |   1   | ???                                       |                | ???     |   ???      |  ???  | ?? bc  | First loot. :D                                                                                                                                                                         |
 |             Dagger             |   1   | Small Thrusting Point, Thrown Small Point |                | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|          Silver Dust           |   1   | ???                                       |                | ???     |   ???      |  ???  | ?? bc  |                                                           Improvised weapon I prepared in haste but only used for intimidation.                                                        |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
@@ -110,7 +112,7 @@
 |       Name        |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
 | :---------------: | :---: | :-------------: | :----: | :-----: | :--------: | :---: | :----: | :---: |
 | Backpack (1 ft^3) |   1   | 30 lb container |        | Mundane |            |   5   |  2 bc  |       |
-|  Rations (1 day)  |   3   |                 |        | Mundane |   12/12    |   2   | 0.5 bc |       |
+|  Rations (1 day)  |   2   |                 |        | Mundane |   12/12    |   2   | 0.5 bc |       |
 |  Waterskin (4/4)  |   1   |                 |        | Mundane |   12/12    |   5   | 20 cc  |       |
 |   Smith's Tools   |   1   |                 |        | Mundane |   12/12    |   8   | 20 bc  |       |
 
