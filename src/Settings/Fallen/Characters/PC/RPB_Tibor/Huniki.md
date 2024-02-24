@@ -20,7 +20,8 @@
 | Polycraft {STR, RFX, INT}  |   1   |  5d6  | Metallurgy {INT}                                         | Inherited | 4d6 |
 | Toxincraft {STR, RFX, INT} |  -1   |  3d6  | Tool making / repair {STR, RFX, INT}                     | Inherited | 4d6 |
 | Terracraft {STR, RFX, INT} |  -1   |  3d6  | Silver-plating {STR, RFX, INT}                           | Inherited | 4d6 |
-|                            |       |  3d6  | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     0     | 4d6 |
+|                            |       |  3d6  | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     1     | 5d6 |
+
 
 ## Effects
 
