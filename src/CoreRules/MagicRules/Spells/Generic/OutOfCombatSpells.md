@@ -32,14 +32,6 @@ This level of proficiency with magic might be a fun party trick or for convenien
 
 For Fire Magic, this could be used to light a nearby candle. For Water Magic, this could be useful for levitating your ale into your mouth.
 
-Examples include:
-
-* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
-* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
-* A minuet blessing bestowed by a deity. (Cleric)
-* A taste of power from an entity looking to make a deal... (Warlock)
-* A part of nature foreign to your place of origin. (Druid)
-
 ## Novice Generic Magic (CL 0)
 
 Novice magic spell that can be used for generic creative uses of magic. Generally only reserved for novice practitioners, dealing with minor threats to save magic resource, or as a desperate last resort after all magic resources are depleted.
