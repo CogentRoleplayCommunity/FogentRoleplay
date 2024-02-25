@@ -55,7 +55,7 @@
 |      Hand Protection Unarmed      |  0d6 |  0d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 |        Medium Hafted Blunt        |  0d6 | +1d6 |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 |        Medium Hafted Point        | +1d6 | +2d6 |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|       Small Thrusting Point       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|       Small Piercing Blade       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 |       Small Slashing Blade        | +1d6 | +1d6 |    n/a (+1d6)    |      0      | Melee |      Slash       |           Rapid           |        None        |        None        |
 
 ### Ranged Options
@@ -87,7 +87,7 @@
 |         Cloak, Canvas          |   1   |                                           |                | Mundane |   12/12    |   5   | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                 |
 |           Warhammer            |   1   | Medium Hafted Blunt, Medium Hafted Point  |                | Mundane |   12/12    |   4   |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
 |          Morning Start         |   1   | ???                                       |                | ???     |   ???      |  ???  | ?? bc  | First loot. :D                                                                                                                                                                         |
-|             Dagger             |   1   | Small Thrusting Point, Thrown Small Piercing Blade |                | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|             Dagger             |   1   | Small Piercing Blade, Thrown Small Piercing Blade |                | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
 |          Silver Dust           |   1   | ???                                       |                | ???     |   ???      |  ???  | ?? bc  |                                                           Improvised weapon I prepared in haste but only used for intimidation.                                                        |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***

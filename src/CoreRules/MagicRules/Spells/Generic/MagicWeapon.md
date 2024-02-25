@@ -44,7 +44,7 @@ Created weapons are intended to be flavored by the player/narrator:
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Mag. Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Thrusting Point  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
+|  Mag. Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
 |  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |                              |                |                |                  |            |        |                  |                          |                    |                    |
 |   Mag. Thrown Small Slashing Blade   |      +1d6      |      +1d6      |       +1d6       |      0      | Short |                  |           Quick           |        None        |          0          |

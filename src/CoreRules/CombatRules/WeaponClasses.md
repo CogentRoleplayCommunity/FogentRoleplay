@@ -171,7 +171,7 @@ Dual wielding weapons that use weapon resource or that are being thrown uses dou
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Small Thrusting Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+| Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
 |  Thrown Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
 |  Thrown Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |

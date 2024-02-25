@@ -52,7 +52,7 @@
 | Blessing - Ranged Trick |       4d6       |                  |                  |      0      |  Close  |                  |         Standard         |                    |        None        |
 | Medium Thrusting Sword | 9d6<br />(+1d6) | 10d6<br />(+2d6) | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
 |  Medium Slashing Sword  | 10d6<br />(+2d6) | 11d6<br />(+3d6) | 11d6<br />(+1d6) |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
-|  Small Thrusting Point  | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
+|  Small Piercing Blade  | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Rapid           |        None        |        None        |
 |  Small Slashing Blade  | 8d6<br />(+1d6) | 8d6<br />(+1d6) |  9d6<br />(+1d6)  |      0      |  Melee  |       Slash       |           Rapid           |        None        |        None        |
 |   Thrown Small Piercing Blade   | 7d6<br />(+0d6) | 7d6<br />(+0d6) |       +1d6       |      1      |  Short  |      Pierce      |           Quick           |        None        |        None        |
 
@@ -74,7 +74,7 @@
 | Superior Leather Cuisses and Greaves | 1 |                          Phy. Def. 0.5                          | Superior |   24/24   |  3  |  2 bc  |
 | Superior Leather Vambrace            | 1 |                          Phy. Def. 0.5                          | Superior |   24/24   |  2  | 1.5 bc |
 | Clothes, Fine                        | 1 |                                                                | Mundane |            |  6  | 15 bc |
-| Asher's Arms Swordbreaker            | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Slashing Blade |   Fine   |   18/18   |  1  |   ?   |
+| Asher's Arms Swordbreaker            | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Slashing Blade |   Fine   |   18/18   |  1  |   ?   |
 | Spencer's Arms Arming Sword          | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Superior |   24/24   |  2  | 50 bc |
 | Adversary - Damaged                  | 1 |                          Magic Conduit                          |   Fine   |   18/18   |  1  |   ?   |
 | Mother's Necklace                    | 1 |                                                                | Mundane |            | 0.1 |   ?   |
