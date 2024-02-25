@@ -1,8 +1,4 @@
-## Magic Roll
-
-### Magic Skill Roll
-
-Magic Skill Rolls fall under Generic Magic unless otherwise stated.
+## Magic Skill Roll
 
 Magic Skill Roll =
 
@@ -10,4 +6,3 @@ Magic Skill Roll =
 - +Xd6 (per Magic Skill)
 - +Xd6 (per Magic Skill Governing Attributes)
 - +Xd6 (Conduit Dice Modification)
-
