@@ -57,6 +57,15 @@ Another avenue to explore are magic how these magics could be combined.
 - Blizzard Magic = Cold Magic + Air Magic
 - Frost Magic = Water Magic + Cold Magic
 
+## Magic Skill Roll
+
+Magic Skill Roll =
+
+- 3d6 (Base Dice, varies with Condiut's Item Tier Base Dice Modification)
+- +Xd6 (per Magic Skill)
+- +Xd6 (per Magic Skill Governing Attributes)
+- +Xd6 (Conduit Dice Modification)
+
 ## Unlocking Magic Skills
 
 You unlock an amount of Magic Skill depending on your Magic Vocation Dice Pool Size. All magic skills start at the Incompetent Skill Level (level -1).
