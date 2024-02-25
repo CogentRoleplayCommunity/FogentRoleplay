@@ -31,7 +31,8 @@ Created weapons are intended to be flavored by the player/narrator:
 - Bone Claws = Bodily Magic Skill + Small Slashing Blade
 - Fire Bolt = Fire Magic Skill + Light Crossbow
 - Water Whip = Water Magic Skill + Whip
-- etc...
+
+Shields can also be created as part of this spell, occupying a hand that is free. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
 
 ### Incompetent Weapon Magic
 
@@ -52,6 +53,10 @@ Created weapons are intended to be flavored by the player/narrator:
 | Mag. Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |                  |           Quick           |        None        |          0          |
 | Mag. Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      | Short |                  |           Quick           |        None        |          0          |
 |            Mag. Sling            |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
+
+| Name         | Class  | Effect                                                                      |
+| ------------ | ------ | --------------------------------------------------------------------------- |
+| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
 
 ### Apprentice Weapon Magic
 
@@ -78,6 +83,10 @@ Created weapons are intended to be flavored by the player/narrator:
 |   Mag. Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |    Long    |                  |      Complex Loading      |        None        |          2          |
 |  Mag. Mag. Medium Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 
+| Name          | Class  | Effect                                                                      |
+| ------------- | ------ | --------------------------------------------------------------------------- |
+| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
+
 ### Adept Weapon Magic
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
@@ -89,6 +98,10 @@ Created weapons are intended to be flavored by the player/narrator:
 |                        |                |                |                  |            |              |                  |                          |                    |                    |
 |     Mag. Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |   Mag. Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |             1             | Sphere Calculation |          3          |
+
+| Name         | Class  | Effect                                                                      |
+| ------------ | ------ | --------------------------------------------------------------------------- |
+| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
 
 ### Expert Weapon Magic
 
