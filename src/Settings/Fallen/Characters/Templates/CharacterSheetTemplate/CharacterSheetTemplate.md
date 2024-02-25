@@ -132,22 +132,22 @@
 
 ## Known Spells
 
-### Generic
+Generic:
 
 - Out Of Combat Spell
 - Magic Weapon
 
-### Novice
+Novice:
 
-### Apprentice
+Apprentice:
 
-### Adept
+Adept:
 
-### Expert
+Expert:
 
-### Master
+Master:
 
-### Legendary
+Legendary:
 
 ## Notes
 
