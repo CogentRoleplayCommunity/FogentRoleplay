@@ -31,7 +31,7 @@ Created weapons are intended to be flavored by the player/narrator:
 - Water Whip = Water Magic Skill + Whip
 - etc...
 
-### Incompetent Combat Magic
+### Incompetent Weapon Magic
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -39,7 +39,7 @@ Created weapons are intended to be flavored by the player/narrator:
 |              |                |                |                  |            |      |                  |                          |                    |                    |
 |  Mag. Puff  |       -1       |       -1       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
 
-### Novice Combat Magic
+### Novice Weapon Magic
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -51,7 +51,7 @@ Created weapons are intended to be flavored by the player/narrator:
 |   Mag. Thrown Small Point   |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |          0          |
 |          Mag. Sling          |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
 
-### Apprentice Combat Magic
+### Apprentice Weapon Magic
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -76,7 +76,7 @@ Created weapons are intended to be flavored by the player/narrator:
 |   Mag. Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |    Long    |                  |      Complex Loading      |        None        |          2          |
 |  Mag. Mag. Medium Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 
-### Adept Combat Magic
+### Adept Weapon Magic
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -88,17 +88,17 @@ Created weapons are intended to be flavored by the player/narrator:
 |     Mag. Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |   Mag. Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |             1             | Sphere Calculation |          3          |
 
-### Expert Combat Magic
+### Expert Weapon Magic
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 
-### Master Combat Magic
+### Master Weapon Magic
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 
-### Legendary Combat Magic
+### Legendary Weapon Magic
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----: |
