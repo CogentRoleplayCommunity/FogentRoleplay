@@ -162,8 +162,8 @@ Dual wielding weapons that use weapon resource or that are being thrown uses dou
 | Small Hafted Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 |       Torch       |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |  Fire, Bludgeon  |           Rapid           |        None        |         None         |
-|  Thrown Small Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
-| Thrown Small Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
+|  Thrown Small Hafted Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
+| Thrown Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
 
 ### Small Blade
 
@@ -173,8 +173,8 @@ Dual wielding weapons that use weapon resource or that are being thrown uses dou
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Small Thrusting Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-|  Thrown Small Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
-|  Thrown Small Point  |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
+|  Thrown Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
+|  Thrown Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
 
 ## Medium Melee
 

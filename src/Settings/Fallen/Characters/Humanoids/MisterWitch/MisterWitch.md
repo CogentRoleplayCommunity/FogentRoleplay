@@ -53,7 +53,7 @@
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :----------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      2      | Melee | Bludgeon, Necrotic |           Rapid           |        None        |        None        |
-| Thrown Small Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short | Bludgeon, Necrotic |           Quick           |        None        |        None        |
+| Thrown Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short | Bludgeon, Necrotic |           Quick           |        None        |        None        |
 
 ### Combat Spells
 
@@ -70,7 +70,7 @@
 
 | Name          | # |                 Class                 | Effect |  Tier  | Durability | LB | Value |
 | ------------- | :-: | :------------------------------------: | ------ | :-----: | :--------: | :-: | :---: |
-| Cane          | 1 | Small Hafted Blunt, Thrown Small Blunt |        | Mundane |   12/12   | 2 | 10 cc |
+| Cane          | 1 | Small Hafted Blunt, Thrown Small Hafted Blunt |        | Mundane |   12/12   | 2 | 10 cc |
 | Clothes, Fine | 1 |                                        |        | Mundane |            | 6 | 15 bc |
 
 ## Notes

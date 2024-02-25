@@ -37,7 +37,7 @@
 | :-------------------: | :------------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Small Thrusting Point | 1d8, 3d6<br />(+0d6) |     (+0d6)     |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Small Slashing Blade | 1d8, 4d6<br />(+1d6) |     (+1d6)     |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|  Thrown Small Point  | 1d8, 3d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+|  Thrown Small Piercing Blade  | 1d8, 3d6<br />(+0d6) |     (+0d6)     |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
 
 ## Equipment:
 
@@ -47,7 +47,7 @@
 | Leather Vambrace              | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.66 bc |
 | Leather Cuisses and Greaves   | 1 |                            Leg Armor                            | Phy. Def. 0.33 | Quality |   15/15   |  2  | 1.67 bc |
 | Clothes, Fine                 | 1 |                                                                |                | Mundane |            |  6  |  15 bc  |
-| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Quality |   15/15   | 1.5 |  5 bc  |
+| Shortsword                    | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade |                | Quality |   15/15   | 1.5 |  5 bc  |
 
 ## Backstory
 

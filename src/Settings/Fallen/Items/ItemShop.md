@@ -126,7 +126,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 |      Name      | # |                              Class                              | Effect |  Tier  | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | :------------: | :-: | :-------------------------------------------------------------: | :----: | :-----: | :--------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
-|     Dagger     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Dagger     | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade |        | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Handaxe    | 1 |                       Small Hafted Blade                       |        | Mundane |   12/12   |   2   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Javelin    | 1 |                Medium Spear, Thrown Medium Spear                |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Light Hammer  | 1 |             Small Hafted Blunt, Small Thrown Blunt             |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -151,7 +151,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Rapier     | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Scimitar    | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Arming Sword  | 1 |          Medium Thrusting Sword, Medium Slashing Sword          |        | Mundane |   12/12   |   2   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|   Shortsword   | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Trident    | 1 |                 Large Spear, Thrown Large Spear                 |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 | Warhammer/pick | 1 |            Medium Hafted Blunt, Medium Hafted Point            |        | Mundane |   12/12   |   2   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
@@ -360,14 +360,14 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Leather Cuisses and Greaves     | 1 |                            Arm Armor                            | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.67 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |          Leather Vambrace          | 1 |                            Leg Armor                            | Phy. Def. 0.33 | Quality |   15/15   |   2   | 1.66 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |             -[Weapons]-             |    |                                                                |                |        |            |        |        |              |              |              |                |
-|               Dagger               | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|               Dagger               | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade |                | Mundane |   12/12   |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Handaxe               | 1 |                       Small Hafted Blade                       |                | Mundane |   12/12   |   2   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |            Light Hammer            | 1 |             Small Hafted Blunt, Small Thrown Blunt             |                | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |            Quarterstaff            | 1 |                       Large Hafted Blunt                       |                | Mundane |   12/12   |   4   |  20 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |                Club                | 1 |                       Medium Hafted Blunt                       |                | Mundane |   12/12   |   2   |  10 cc  |     FALSE     |     TRUE     |    FALSE    |     FALSE     |
 |             Great Club             | 1 |                       Large Hafted Blunt                       |                | Mundane |   12/12   |   10   |  20 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
 |                Whip                | 1 |                              Whip                              |                | Mundane |   12/12   |   3   |  2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            Plumbata/Dart            | 1 |                       Thrown Small Point                       |                | Mundane |   12/12   |   5   |  5 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|            Plumbata/Dart            | 1 |                       Thrown Small Piercing Blade                       |                | Mundane |   12/12   |   5   |  5 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |                Sling                | 1 |                              Sling                              |                | Mundane |   12/12   |  0.5  |  10 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
 |            Hand Crossbow            | 1 |                          Hand Crossbow                          |                | Mundane |   12/12   |   3   |  75 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |           Light Crossbow           | 1 |                         Light Crossbow                         |                | Mundane |   12/12   |   5   |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
