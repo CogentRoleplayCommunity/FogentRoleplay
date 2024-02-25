@@ -1,8 +1,8 @@
 # Spells
 
-Spells are ways a character can use their magic. Think about these as cool ways someone has figured out they to use magic.
+Spells are ways a character can use their Magic Skills. Think about these as cool ways someone has figured out they to use Fogent Magic System.
 
-Each Spell has Magic Skill requirements to perform, as well as a CL required to cast. The Magic Resource consumed by a Spell is proportionate the required CL level.
+Spells require certain Magic Skills to perform, a CL required to cast, and an amount of Magic Resource consumed proportionate to the required CL level.
 
 ## Concentration
 
@@ -21,9 +21,9 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 
 If a character intends to use Spells during a combat round, on the declaration phase once they've declared they are going to use magic, they can roll their Magic Skill Roll. Wins achieved dictate the CL achievable that round. The character may also achieve any lower-level outcome.
 
-- Character can cast 1 spell per round that uses magic resource.
-- Character can cast 1 spell per round that does not use magic resource.
-- Character's can only cast 1 spell per turn as part of their combat roll.
+- A character can cast 1 spell per round that uses Magic Resource.
+- A character can cast 1 spell per round that does not use Magic Resource.
+- A character can only cast 1 spell per turn as part of their combat roll.
 
 ## Generic Spells
 
