@@ -17,8 +17,8 @@ Bronze Coin,1,,,Mundane,,0.02," 1 bc",
 Gold Coin,1,,,Mundane,,0.02," 1 gc",
 Platinum Coin,1,,,Mundane,,0.02," 1 pc",
 ,,,,,,,,
-Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
-Shortsword,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1.5,5 bc,
+Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
+Shortsword,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1.5,5 bc,
 Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",,Mundane,12/12,2,5 bc,
 Shoddy Sickle,1,Small Hafted Blade,,Shoddy,9/9,2,50 cc,
 Sickle,1,Small Hafted Blade,,Mundane,12/12,2,1 bc,
@@ -65,7 +65,7 @@ Quarterstaff with Hidden Spear,1,"Large Hafted Blunt, Large Spear, Thrown Large 
 Club,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,2,10 cc,
 Great Club,1,Large Hafted Blunt,,Mundane,12/12,10,20 cc,
 Whip,1,Whip,,Mundane,12/12,3,2 bc,
-Plumbata/Dart,1,"Small Thrusting Point, Thrown Small Piercing Blade",,Mundane,12/12,5,5 cc,
+Plumbata/Dart,1,"Small Piercing Blade, Thrown Small Piercing Blade",,Mundane,12/12,5,5 cc,
 Blowgun,1,Blowgun,,Mundane,12/12,1,10 bc,
 Draupnir Spear,1,"Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Magic Conduit",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
@@ -73,8 +73,8 @@ This spear can be used as a Air Magic Conduit."
 Asher's Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Slashing Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
-Talon - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Slashing Blade",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
-Fang - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
+Talon - Replica,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Slashing Blade",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
+Fang - Replica,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
 Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
@@ -119,7 +119,7 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
 Asclepius,1,"Medium Spear, Throw Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Whip","Metal Feeding, Command Asclepius",Mastercraft,33/33,3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
-Soot and Ash,1,"Medium Thrusting Sword, Medium Slashing Sword, Small Thrusting Point, Small Slashing Blade",,Epic,39/39,0.2,?,
+Soot and Ash,1,"Medium Thrusting Sword, Medium Slashing Sword, Small Piercing Blade, Small Slashing Blade",,Epic,39/39,0.2,?,
 The Spear of Destiny,1,"Reach Hafted Blade, Reach Spear, Air Magic Conduit, Cold Magic Conduit, Eletric Magic Conduit","Destiny Chosen, Destiny Strength/Reflex, Indestructible, ",Artifact,48/48,14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
@@ -146,17 +146,17 @@ This sword was used in the execution of Helena by Uhtred Storm at Luc's order, t
 Guardian Shield,1,Shield,"Phy. Def. 2.00, Retractable Shield",Superior,24/24,8,7 bc,"A medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one's disposal."
 Sharp Cap,1,Small Slashing Blade,,Shoddy,9/9,0.5,2 bc,
 Net,1,,,Mundane,12/12,3,1 bc,
-Bodkin Knife,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
+Bodkin Knife,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
 Quality Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",,Quality,15/15,4,?,
 Quality War Axe,1,Large Hafted Axe,,Quality,15/15,5,5 bc,
 War Axe,1,Large Hafted Axe,,Mundane,12/12,5,5 bc,
-Asher’s Arms Bollock Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Superior,24/24,1,10 bc,
+Asher’s Arms Bollock Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Superior,24/24,1,10 bc,
 Dragon Torch,1,"Medium Torch, Magic Conduit",,Artifact,48/48,3,9999 bc,
 Shovel,1,Large Hafted Blunt,,Shoddy,9/9,5,2 bc,
 Excellent Shortbow,1,Light Bow,,Excellent,21/21,2,25 bc,
 Quality Swordbreaker,1,Small Slashing Blade,,Mundane,12/12,1,28 bc,
 Torch,1,Torch,,Shoddy,9/9,1,1 cc,
-Shiv,1,"Small Thrusting Point, Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
+Shiv,1,"Small Piercing Blade, Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
 Shoddy Club,1,Medium Hafted Blunt,,Shoddy,9/9,2,10 cc,
 
 ,,,,,,,,
