@@ -2,7 +2,7 @@
 
 Magic skills represent the ability to manipulate and control different magic concepts or elements.
 
-Character's can unlock Magic Skills covered by their by their Magic Vocation at Novice (0) level for 1 skill point.
+Characters can unlock Magic Skills covered by their by their Magic Vocation at Novice (0) level for 1 skill point.
 
 The CL of any Magic Skill check is proportionate to the amount of Magic Resource required as fuel unless otherwise stated.
 
