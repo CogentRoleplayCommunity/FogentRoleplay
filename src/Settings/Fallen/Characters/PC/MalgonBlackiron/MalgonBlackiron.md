@@ -58,7 +58,7 @@
 | Large Hafted Axe |      +0d6      |     +3d6     |                                          None                                          |                           2                           |                                  Melee                                  |                                    Hew                                    |
 |    Heavy Bow    |      None      |     +2d6     |                                          None                                          |                           2                           |                              Sharpshooter                              |                                                                            |
 
-#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
+#### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
 |      Name      | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
 | :------------: | :------------: | :-----------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
