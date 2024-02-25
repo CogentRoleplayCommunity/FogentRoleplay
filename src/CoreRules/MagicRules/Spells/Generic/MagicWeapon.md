@@ -24,6 +24,8 @@ Magic Combat Roll = Magic Skill Roll + Magic Weapon Dice Modifier
 
 Damage Types are determined by the Magic Skill used.
 
+If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+
 Created weapons are intended to be flavored by the player/narrator:
 
 - Bone Claws = Bodily Magic Skill + Small Slashing Blade
@@ -41,15 +43,15 @@ Created weapons are intended to be flavored by the player/narrator:
 
 ### Novice Weapon Magic
 
-|             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|                              |                |                |                  |            |        |                  |                          |                    |                    |
-|   Mag. Thrown Small Slashing Blade   |      +1d6      |      +1d6      |       +1d6       |      0      | Short |                  |           Quick           |        None        |          0          |
-|   Mag. Thrown Small Piercing Blade   |      +0d6      |      +0d6      |       +1d6       |      1      | Short |                  |           Quick           |        None        |          0          |
-|          Mag. Sling          |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
+|               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   Mag. Hand Protection Unarmed   |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|    Mag. Small Piercing Blade    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
+|    Mag. Small Slashing Blade    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|                                  |                |                |                  |            |        |                  |                          |                    |                    |
+| Mag. Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |                  |           Quick           |        None        |          0          |
+| Mag. Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      | Short |                  |           Quick           |        None        |          0          |
+|            Mag. Sling            |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
 
 ### Apprentice Weapon Magic
 
