@@ -56,4 +56,4 @@ Adept magic spell that can be used for generic creative uses of magic.
 
 ## Master Generic Magic (CL 6 - 7)
 
-## Legendary Generic Magic (CL 8+)
+## Legendary Generic Magic (CL 8)
