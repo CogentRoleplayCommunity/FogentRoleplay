@@ -12,8 +12,6 @@
 
 - Any Magic
 
-Generic Magic can be used for creative purposes and is meant to allow/encourage players to try interesting things, limited only by the character's stats, the player's creativity, and the narrator's supervision.
-
 A character may attempt to use their magic within the following Ranges depending on how much Magic Resource that is consumed.
 
 If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.

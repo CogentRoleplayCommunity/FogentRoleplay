@@ -27,6 +27,8 @@ If a character intends to use Spells during a combat round, on the declaration p
 
 ## Generic Spells
 
+Generic Spells can be used for creative purposes and are intended to allow/encourage players to try creative solutions. These spell are only limited by the character's stats, the player's creativity, and the narrator's supervision.
+
 - [Magic Weapon](./Spells/Generic/MagicWeapon.md)
 - [Out Of Combat Spells](./Spells/Generic/OutOfCombatSpells.md)
 
