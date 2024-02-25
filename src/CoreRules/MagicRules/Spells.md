@@ -28,7 +28,7 @@ If a character intends to use Spells during a combat round, on the declaration p
 ## Generic Spells
 
 - [Magic Weapon](./Spells/Generic/MagicWeapon.md)
-- [Out Of Combat Spells]()
+- [Out Of Combat Spells](./Spells/Generic/OutOfCombatSpells.md)
 
 ## Incompetent Spells
 
