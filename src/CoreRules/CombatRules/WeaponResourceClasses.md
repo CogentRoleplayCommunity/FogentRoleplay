@@ -29,7 +29,7 @@ A Weapon Resource Class can have a Range that overrides the Weapon Class' Range 
 
 Damage Types added from the Weapon Resource Class.
 
-## AOE
+## Area Of Effect
 
 A Weapon Resource Class can have an Area Of Effect that overrides the Weapon Class' Area Of Effect that it is used with. This can represent a bomb arrow or a explosive projectile. If a Weapon Resource Class' Area Of Effect is "None", than default to the Weapon Class' Area Of Effect.
 
