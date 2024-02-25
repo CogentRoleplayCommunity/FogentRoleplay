@@ -1,8 +1,28 @@
 # Generic Magic
 
+**CL and Magic Resource Required:** See Tables
+
+**Casting Time:**
+
+**Range:** See Tables
+
+**Area Of Effect:** None
+
+**Skills required:**
+
+- Any Magic
+
 Generic Magic can be used for creative purposes and is meant to allow/encourage players to try interesting things, limited only by the character's stats, the player's creativity, and the narrator's supervision.
 
-For a Magic Skill roll, these uses of magic have the ranges of any of the options on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+
+| Magic Resource Consumed |      Range      |
+| :---------------------: | :-------------: |
+|            0            | Medium or Melee |
+|            1            |  Far or Reach  |
+|            2            |      Long      |
+|            3            |     Distant     |
+|            4            |  Sharpshooter  |
 
 ## Incompetent Generic Magic
 
