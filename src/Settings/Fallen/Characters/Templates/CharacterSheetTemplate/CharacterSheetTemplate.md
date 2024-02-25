@@ -134,8 +134,8 @@
 
 Generic:
 
-- Out Of Combat Spell
-- Magic Weapon
+- [Out Of Combat Spell](./../../../../../CoreRules/MagicRules/Spells/Generic/OutOfCombatSpells.md)
+- [Magic Weapon](./../../../../../CoreRules/MagicRules/Spells/Generic/MagicWeapon.md)
 
 Novice:
 
