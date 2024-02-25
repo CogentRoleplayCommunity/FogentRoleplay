@@ -1,8 +1,8 @@
 # Spells
 
-Spells are very specific ways a character can use their magic. Think about these as cool ways someone has figured out they to use their type of magic.
+Spells are ways a character can use their magic. Think about these as cool ways someone has figured out they to use magic.
 
-Each spell has magic skill requirements to perform. You must satisfy these requirements to perform the spell.
+Each Spell has Magic Skill requirements to perform, as well as a CL required to cast. The Magic Resource consumed by a Spell is proportionate the required CL level.
 
 ## Concentration
 
@@ -17,9 +17,24 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 * Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
 * The Narrator might also decide that certain environmental phenomena might require the concentrating character to succeed on a Governing Core Skill check to maintain concentration. For example, a wave washing over you while you're on a storm-tossed ship might require a CL 2 Governing Core Skill Check.
 
-## Party Tricks
+## Spells In Combat
 
-## Novice Spells (Cantrips)
+If a character intends to use Spells during a combat round, on the declaration phase once they've declared they are going to use magic, they can roll their Magic Skill Roll. Wins achieved dictate the CL achievable that round. The character may also achieve any lower-level outcome.
+
+- Character can cast 1 spell per round that uses magic resource.
+- Character can cast 1 spell per round that does not use magic resource.
+- Character's can only cast 1 spell per turn as part of their combat roll.
+
+## Generic Spells
+
+- [Magic Weapon](./Spells/Generic/MagicWeapon.md)
+- [Out Of Combat Spells]()
+
+## Incompetent Spells
+
+## Novice Spells
+
+Otherwise known as Cantrips.
 
 - [Blade Barrier](Spells/Novice/BladeBarrier.md)
 - [Illuminate](Spells/Novice/Illuminate.md)
