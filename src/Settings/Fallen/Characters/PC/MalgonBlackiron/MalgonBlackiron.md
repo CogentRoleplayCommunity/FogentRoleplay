@@ -43,7 +43,7 @@
 |                   [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                   |                         25 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                   [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                   |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                            |                                                        |          |                                                  |
-|                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                          5/5                          |          |       Vocation/Magic Governing Skill Level       |
+|                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                          5/5                          |          |       Vocation/Magic Governing Core Skill       |
 |                          [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                          |                          3/3                          |          |               Awarded by Narrator               |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)

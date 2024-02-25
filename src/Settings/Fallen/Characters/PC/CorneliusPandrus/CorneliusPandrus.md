@@ -85,7 +85,7 @@
 
 |                                                      Name                                                      |                          Info                          | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          0/5                          |          |       Vocation/Magic Governing Skill Level       |
+|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          0/5                          |          |       Vocation/Magic Governing Core Skill       |
 |                    [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                    |                          0/3                          |          |               Awarded by Narrator               |
 |                         [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                         |             – 0 dice to all dice checks.             |          |                      Damage                      |
 |                                                                                                                |                                                        |          |                                                  |
