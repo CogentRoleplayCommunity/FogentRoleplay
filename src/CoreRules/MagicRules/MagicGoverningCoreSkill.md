@@ -1,6 +1,6 @@
 # Magic Governing Core Skill
 
-A Magic Governing Core Skill is a Core Skill that is tangently associated with a Magic Skill. Used for instances when a character over-exerts themselves with their Magic Skill, is trying to rapidly regain Magic Resource, or maintain concentration on already cast spell.
+A Magic Governing Core Skill is a Core Skill that is associated with a Magic Skill. Used for instances when a character over-exerts themselves with their Magic Skill, is trying to regain Magic Resource, or maintaining concentration on an already cast spell.
 
 * Magic that relies on the body to produce Magic Resource uses Endurance as its governing core skill.
 * Magic that relies on the mind or spirit to produce Magic Resources uses Will as their governing core skill.
