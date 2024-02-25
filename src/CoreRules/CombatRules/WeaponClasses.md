@@ -155,26 +155,28 @@ Dual wielding weapons that use weapon resource or that are being thrown uses dou
 
 (hatchet, small war pick, kama, crowbar, club)
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|  Small Hafted Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |        Hew        |           Rapid           |        None        |         None         |
-| Small Hafted Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-| Small Hafted Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-|       Torch       |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |  Fire, Bludgeon  |           Rapid           |        None        |         None         |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|     Small Hafted Axe     |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |        Hew        |           Rapid           |        None        |         None         |
+|    Small Hafted Blade    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+|    Small Hafted Point    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+|    Small Hafted Blunt    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|           Torch           |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |  Fire, Bludgeon  |           Rapid           |        None        |         None         |
 |  Thrown Small Hafted Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
+| Thrown Small Hafted Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
+| Thrown Small Hafted Point |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
 | Thrown Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
 
 ### Small Blade
 
 (dagger, shortsword)
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-|  Thrown Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
-|  Thrown Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|    Small Piercing Blade    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+|    Small Slashing Blade    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
+| Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
 
 ## Medium Melee
 
