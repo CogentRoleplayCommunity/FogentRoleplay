@@ -15,7 +15,7 @@ Resource Class determines the resource a weapon uses to opperate.
 
 ## Resource Dice
 
-Dice Modifier to be added to a Combat Roll when used
+Dice Modifier to be added to a Combat Roll when used with a Weapon Class.
 
 ## Penetration
 
