@@ -57,13 +57,3 @@ Apprentice magic spell that can be used for generic creative uses of magic.
 **Magic Skill Level Required:** 2
 
 Adept magic spell that can be used for generic creative uses of magic.
-
-## Expert Generic Magic
-
-**Magic Skill Level Required:** 3
-
-## Master Generic Magic
-
-**Magic Skill Level Required:** 4
-
-## Legendary Generic Magic
