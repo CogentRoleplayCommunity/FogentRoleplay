@@ -55,7 +55,7 @@ Dice modifier added to weapon combat rolls when off handing a weapon as part of 
 
 To duel wield the character must have at least one skill point in both of the weapons held. Each weapon must have a Dual Wielded dice Modifier. If you are dual wielding, your combat roll is made up using the skill and/or weapon dice modifier of the primary weapon one-handed, with additional dice from the off-handed weapon's "Dual Wielded" dice modifier.
 
-Dual wielding weapons that use a weapon resource uses double the weapon resource per opponent engaged.
+Dual wielding weapons that use weapon resource or that are being thrown uses double the weapon resource/thrown weapons per opponent engaged.
 
 ## Crossbows
 
@@ -162,8 +162,8 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 | Small Hafted Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 |       Torch       |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |  Fire, Bludgeon  |           Rapid           |        None        |         None         |
-|  Thrown Small Axe  |      +1d6      |      +1d6      |       None       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
-| Thrown Small Blunt |      +0d6      |      +0d6      |       None       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
+|  Thrown Small Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
+| Thrown Small Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
 
 ### Small Blade
 
@@ -173,8 +173,8 @@ Dual wielding weapons that use a weapon resource uses double the weapon resource
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Small Thrusting Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-|  Thrown Small Blade  |      +1d6      |      +1d6      |       None       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
-|  Thrown Small Point  |      +0d6      |      +0d6      |       None       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
+|  Thrown Small Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
+|  Thrown Small Point  |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
 
 ## Medium Melee
 
