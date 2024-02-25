@@ -10,6 +10,8 @@ Sling,+0d6,+0d6,None,0,Medium,,Standard,None,Sling Bullet
 Thrown Small Slashing Blade,+1d6,+1d6,+1d6,0,Short,Slash,Quick,None,None
 Thrown Small Piercing Blade,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,None,None
 Thrown Small Hafted Axe,+1d6,+1d6,+1d6,0,Short,Hew,Quick,None,None
+Thrown Small Hafted Blade,+1d6,+1d6,+1d6,0,Short,Slash,Quick,None,None
+Thrown Small Hafted Point,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,None,None
 Thrown Small Hafted Blunt,+0d6,+0d6,+1d6,1,Short,Bludgeon,Quick,None,None
 Thrown Medium Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,None,None
 Thrown Large Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,None,None
