@@ -1,7 +1,6 @@
 ## Fogent Todo:
 - Fix Gun Ranges
 - Add Rules for taking a negative in a skill to gains skill points
-- Bite Grab
 - Rebuild all sheets, new weights, new movement speeds, new magic, new character sheet with links
 - No auto-succeed spells, instead all spells are attemptable but they have higher levels, not sure if good idea
 - Split Martial Vocations from Magic Vocations
@@ -16,6 +15,7 @@
 - Should EO tick for each character engaged, or each character engaged and each character that engages them
 - Different Arrows and bolts for different weapons
 - Light Crossbow and heavy Crossbow in one hand
+- Bite Grab
 
 ## Fallen To dos:
 - Remove NotMyImage and Copyright tags
