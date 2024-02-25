@@ -63,27 +63,27 @@ Another avenue to explore is how magic skills could be combined.
 
 Magic Skill Roll =
 
-- 3d6 (Base Dice, varies with Condiut's Item Tier Base Dice Modification)
+- 3d6 (Base Dice, varies with Conduit Item Tier Base Dice Modification)
 - +Xd6 (per Magic Skill)
 - +Xd6 (per Magic Skill Governing Attributes)
 - +Xd6 (Conduit Dice Modification)
 
 ## Incompetent Magic Skills
 
-Incompetent (level -1) Magic Skills might be enough for a fun party trick or for trivial tasks. Character's with this level of Magic Skill are objectively poor at using said Magic Skill.
+Incompetent (level -1) Magic Skills might be enough for a fun party trick or trivial tasks. Characters with this level of Magic Skill are objectively poor at using said Magic Skill.
 
-Character's with Incompetent Magic Skills can only cast Incompetent Tier Spells.
+Characters with Incompetent Magic Skills can only cast Incompetent Tier Spells.
 
 Examples of Incompetent Magic Skill uses:
 
 - Incompetent Fire Magic skill would allow you to ignite your fingertips to light a cigar, though you could just use a match, flint and steel, or a lighter.
 - Incompetent Fire Magic could allow the user to throw hot smoke at someone's face, though you could just punch them in the face instead for similar if not better results.
-- Incompetent Fire Magic could be used to light nearby candle
-- Incompetent Water Magic could be used control ale into your mouth like a straw.
+- Incompetent Fire Magic could be used to light a nearby candle.
+- Incompetent Water Magic could be used to control ale into a character's mouth like a straw.
 
 ### Narrator Given Incompetent Magic Skills
 
-A Narrator can give character's Incompetent Skills as appropriate with the narrative.
+The Narrator can give a character an Incompetent Magic Skills as appropriate with the narrative.
 
 Examples of unlocking Incompetent Magic Skills:
 
