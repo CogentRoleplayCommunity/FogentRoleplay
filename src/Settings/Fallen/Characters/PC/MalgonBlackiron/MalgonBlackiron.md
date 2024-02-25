@@ -50,7 +50,7 @@
 
 - [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
 |       Name       | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
 | :--------------: | :------------: | :-----------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
