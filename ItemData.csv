@@ -17,12 +17,12 @@ Bronze Coin,1,,,Mundane,,0.02," 1 bc",
 Gold Coin,1,,,Mundane,,0.02," 1 gc",
 Platinum Coin,1,,,Mundane,,0.02," 1 pc",
 ,,,,,,,,
-Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,Mundane,12/12,1,2 bc,
-Shortsword,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,Quality,15/15,1.5,5 bc,
-Handaxe,1,"Small Hafted Axe, Thrown Small Axe",,Mundane,12/12,2,5 bc,
+Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
+Shortsword,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1.5,5 bc,
+Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",,Mundane,12/12,2,5 bc,
 Shoddy Sickle,1,Small Hafted Blade,,Shoddy,9/9,2,50 cc,
 Sickle,1,Small Hafted Blade,,Mundane,12/12,2,1 bc,
-Light Hammer,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,2,2 bc,
+Light Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,2,2 bc,
 Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Mundane,12/12,2,10 bc,
 Rapier,1,"Medium Thrusting Sword, Medium Slashing Sword",,Quality,15/15,2,25 bc,
 Scimitar,1,"Medium Thrusting Sword, Medium Slashing Sword",,Quality,15/15,2,25 bc,
@@ -48,9 +48,9 @@ Halberd,1,"Reach Hafted Blade, Reach Hafted Point, Reach Spear",,Mundane,12/12,7
 Long Poleaxe,1,"Reach Hafted Blunt, Reach Hafted Axe, Reach Spear",,Mundane,12/12,7,41 bc,
 Lance,1,Reach Spear,,Mundane,12/12,11,10 bc,
 Pike,1,Reach Spear,,Mundane,12/12,5,5 bc,
-Swordbreaker,1,"Small Slashing Blade, Thrown Small Blade",Swordbreaker Blade Catch,Mundane,12/12,1,25 bc,
-Crowbar,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,5,2 bc,
-Hammer,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,3,1 bc,
+Swordbreaker,1,"Small Slashing Blade, Thrown Small Slashing Blade",Swordbreaker Blade Catch,Mundane,12/12,1,25 bc,
+Crowbar,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,5,2 bc,
+Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,3,1 bc,
 "Hammer, Sledge",1,Large Hafted Blunt,,Mundane,12/12,10,2 bc,
 "Pick, Miner's",1,Large Hafted Point,,Mundane,12/12,10,2 bc,
 Light Crossbow,1,Light Crossbow,,Mundane,12/12,5,25 bc,
@@ -62,24 +62,24 @@ Longbow,1,Heavy Bow,,Mundane,12/12,4,50 bc,
 Sling,1,Sling,,Mundane,12/12,0.5,10 cc,
 Quarterstaff,1,Large Hafted Blunt,,Mundane,12/12,4,20 cc,
 Quarterstaff with Hidden Spear,1,"Large Hafted Blunt, Large Spear, Thrown Large Spear",,Mundane,12/12,4,2 bc,
-Club,1,"Small Hafted Blunt, Thrown Small Blunt",,Mundane,12/12,2,10 cc,
+Club,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,2,10 cc,
 Great Club,1,Large Hafted Blunt,,Mundane,12/12,10,20 cc,
 Whip,1,Whip,,Mundane,12/12,3,2 bc,
-Plumbata/Dart,1,"Small Thrusting Point, Thrown Small Point",,Mundane,12/12,5,5 cc,
+Plumbata/Dart,1,"Small Thrusting Point, Thrown Small Piercing Blade",,Mundane,12/12,5,5 cc,
 Blowgun,1,Blowgun,,Mundane,12/12,1,10 bc,
 Draupnir Spear,1,"Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Magic Conduit",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Magic Conduit."
-Asher's Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+Asher's Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Slashing Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
-Talon - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Blade",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
-Fang - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
+Talon - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Slashing Blade",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
+Fang - Replica,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
 Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
 Staff of Defense,1,"Large Hafted Blunt, Magic Conduit","Defense Spells, Physical Defense 1.00",Excellent,21/21,3,?,
-Monkey Staff,1,"Small Hafted Blunt, Thrown Small Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+Monkey Staff,1,"Small Hafted Blunt, Thrown Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
 Hew,1,Medium Hafted Axe,Splinter,Excellent,21/21,4,?,"""When you chop wood, splinters fly.""  - Anonymous
@@ -146,17 +146,17 @@ This sword was used in the execution of Helena by Uhtred Storm at Luc's order, t
 Guardian Shield,1,Shield,"Phy. Def. 2.00, Retractable Shield",Superior,24/24,8,7 bc,"A medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one's disposal."
 Sharp Cap,1,Small Slashing Blade,,Shoddy,9/9,0.5,2 bc,
 Net,1,,,Mundane,12/12,3,1 bc,
-Bodkin Knife,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,Mundane,12/12,1,2 bc,
+Bodkin Knife,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
 Quality Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",,Quality,15/15,4,?,
 Quality War Axe,1,Large Hafted Axe,,Quality,15/15,5,5 bc,
 War Axe,1,Large Hafted Axe,,Mundane,12/12,5,5 bc,
-Asher’s Arms Bollock Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Point",,Superior,24/24,1,10 bc,
+Asher’s Arms Bollock Dagger,1,"Small Thrusting Point, Small Slashing Blade, Thrown Small Piercing Blade",,Superior,24/24,1,10 bc,
 Dragon Torch,1,"Medium Torch, Magic Conduit",,Artifact,48/48,3,9999 bc,
 Shovel,1,Large Hafted Blunt,,Shoddy,9/9,5,2 bc,
 Excellent Shortbow,1,Light Bow,,Excellent,21/21,2,25 bc,
 Quality Swordbreaker,1,Small Slashing Blade,,Mundane,12/12,1,28 bc,
 Torch,1,Torch,,Shoddy,9/9,1,1 cc,
-Shiv,1,"Small Thrusting Point, Thrown Small Point",,Shoddy,9/9,1,70 cc,
+Shiv,1,"Small Thrusting Point, Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
 Shoddy Club,1,Medium Hafted Blunt,,Shoddy,9/9,2,10 cc,
 
 ,,,,,,,,
