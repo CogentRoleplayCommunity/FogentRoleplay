@@ -4,7 +4,7 @@ Magic Resources are used to fuel magic.
 
 ## Magic Resource Pool
 
-Represent the pool of Magic Resource a character has to fuel their magic. Depending a character's Magic Vocation and the Magic Governing Core Skill, your Magic Resource Pool will vary.
+Represents the pool of Magic Resource a character has to fuel their magic. Depending a character's Magic Vocation and the Magic Governing Core Skill, your Magic Resource Pool will vary.
 
 Magic Resource Pool = Vocation Magic Resource + Magic Governing Core Skill Magic Resource
 
