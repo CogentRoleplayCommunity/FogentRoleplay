@@ -13,27 +13,28 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Warrior | STR, RFX, INT | 1 | 4d6 |
-| ------------------ | :-----------: | :-: | :-: |
-| Large Hafted       | STR, RFX, INT | 1 | 5d6 |
-| Heavy Bow          | STR, RFX, INT | 1 | 5d6 |
-| Warrior Knowledge  |      INT      |    | 4d6 |
-| Cryocraft          | STR, RFX, INT | -1 | 3d6 |
-| Fellcraft Skill    | STR, RFX, INT | -1 | 3d6 |
-| Fellcraft Skill    | STR, RFX, INT | -1 | 3d6 |
+| Warrior           | STR, RFX, INT | 1 | 5d6 |
+| ----------------- | :-----------: | :-: | :-: |
+| Large Hafted      | STR, RFX, INT | 1 | 5d6 |
+| Heavy Bow         | STR, RFX, INT | 1 | 5d6 |
+| Warrior Knowledge |      INT      |  | 4d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Cryocraft                         | STR, RFX, INT | -1 | 3d6 |
 
 ## Info
 
 |                                                            Name                                                            |                          Info                          | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                           [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                           |                           3                           |          |                                                  |
+|                           [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                           |                           4                           |          |                                                  |
 |                                    [Language](./../../../Languages/Languages.md): Babelish                                    |                  Can speak Babelish.                  |          |                                                  |
 |                                     [Language](./../../../Languages/Languages.md): Primal                                     |                   Can speak Primal.                   |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Incapable of Lying |       His people do not lie and neither does he.       |          |                                                  |
 |                                                                                                                            |                                                        |          |                                                  |
 |                     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                     |                       29.85 lb                       |          |                    Equipment                    |
 |                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                     |                         250 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|                    [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                    |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                 [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                 |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                            |                                                        |          |                                                  |
 |                   [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                   | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
 |          [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)          |                           3                           |          |                      Armor                      |
@@ -43,8 +44,9 @@
 |                   [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                   |                         25 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                   [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                   |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                            |                                                        |          |                                                  |
-|                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                          5/5                          |          |       Vocation/Magic Governing Core Skill       |
+|                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                          0/0                          |          |       Vocation/Magic Governing Core Skill       |
 |                          [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                          |                          3/3                          |          |               Awarded by Narrator               |
+|                               [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                               |             – 0 dice to all dice checks.             |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
