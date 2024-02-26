@@ -17,7 +17,7 @@
 | ------------ | :-----------: | :-: | :-: |
 | Large Hafted | STR, RFX, INT | 1 | 4d6 |
 
-| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 4d6 |
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 3d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
 |                         Sonocraft                         | STR, RFX, INT | 0 | 3d6 |
 |                         Polycraft                         | STR, RFX, INT | -1 | 2d6 |
@@ -67,7 +67,7 @@
 
 |                                                        Name                                                        |                          Info                          | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                           4                           |          |                                                  |
+|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                           3                           |          |                                                  |
 |                                [Language](./../../../Languages/Languages.md): Babelish                                |                  Can speak Babelish.                  |          |                                                  |
 |                                 [Language](./../../../Languages/Languages.md): Primal                                 |                   Can speak Primal.                   |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Dim-witted |                         -1 INT                         |          |                                                  |
@@ -84,7 +84,7 @@
 |                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         20 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |               [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)               |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                    |                                                        |          |                                                  |
-|                       [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                       |                          4/4                          |          |       Vocation/Magic Governing Core Skill       |
+|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                  |                          1/1                          |          |       Vocation/Magic Governing Core Skill       |
 |                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                          1/3                          |          |               Awarded by Narrator               |
 |                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |             – 0 dice to all dice checks.             |          |                      Damage                      |
 
