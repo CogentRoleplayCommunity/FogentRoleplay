@@ -13,13 +13,15 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Monk    | STR, RFX, INT | 1 | 5d6 |
+| Monk               | STR, RFX, INT | 1 | 5d6 |
 | ------------------ | :-----------: | :-: | :-: |
 | Large Hafted Blunt | STR, RFX, INT | 1 | 3d6 |
-| Monk Knowledge     |      INT      |    | 4d6 |
-| Polycraft          | STR, RFX, INT | -1 | 3d6 |
-| Sonocraft          | STR, RFX, INT | -1 | 3d6 |
-| Shadowcraft        | STR, RFX, INT | -1 | 3d6 |
+| Monk Knowledge     |      INT      |  | 4d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Polycraft                         | STR, RFX, INT | -1 | 3d6 |
+|                         Sonocraft                         | STR, RFX, INT | -1 | 3d6 |
 
 ## Info
 
@@ -33,7 +35,7 @@
 |                                                                                                                              |                                                              |          |                                                  |
 |                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                             24 lb                             |          |                    Equipment                    |
 |                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                       |                            150 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
-|                      [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                      |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                  |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                              |                                                              |          |                                                  |
 |                     [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                     |    +1 to the level of injury received from Silver damage.    |          |                    Fellblood                    |
 |            [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)            |                               3                               |          |                      Armor                      |
@@ -43,9 +45,9 @@
 |                     [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                     |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                    [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                             25 ft                             |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                              |          |                                                  |
-|                            [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                            |                              4/4                              |          |       Vocation/Magic Governing Core Skill       |
+|                       [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                       |                              0/0                              |          |       Vocation/Magic Governing Core Skill       |
 |                            [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                            |                              0/3                              |          |               Awarded by Narrator               |
-|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                 – 0 dice to all dice checks.                 |          |                      Damage                      |
+|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                 – 0 dice to all dice checks.                 |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
