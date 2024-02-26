@@ -25,7 +25,7 @@
 |                                                                                                        |                                    |          |                                                  |
 |           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                33 lb                |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |               300 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light           | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                    |          |                                                  |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                  0                  |          |                      Armor                      |
 |                                                                                                        |                                    |          |                                                  |
@@ -34,7 +34,7 @@
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                30 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                20 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                    |          |                                                  |
-|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                      Damage                      |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

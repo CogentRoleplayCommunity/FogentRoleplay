@@ -31,7 +31,7 @@
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                        30 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                        15 ft                        |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                                      |          |                                                  |
-|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |            – 0 dice to all dice checks.            |          |                      Damage                      |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
