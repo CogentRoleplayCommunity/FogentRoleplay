@@ -1,14 +1,30 @@
-# Magic Vocation
+# Magic Systems
 
-A Magic Vocation allows a users access to Magic Skills. Each Magic Vocation must provide the following information.
+Fogent Roleplay provides generalized framework for magic system mechanics for any setting. Whether it be the Force from Star Wars, Bending from Avatar, Cyberpunk technomancy, or tractional fantasy magic, this system should easily accommodate.
+
+All magic systems built using this generalized framwork require the following pieces of information to be determined. If you can come up with these, then you have a magic system!
+
+- Magic Name
+- Magic Vocation Name
+- Magic Vocation Governing Attributes
+- Magic Resource Name
+- Magic Governing Core Skill
+- Magic Skill List
+- Cantrip Name (Optional)
+
+Fallen (the setting) has 3 premade magic systems as a reference:
+
+- [Fellcraft](./../../Settings/Fallen/Magic/Fellcraft/Fellcraft.md)
+- [Runecraft](./../../Settings/Fallen/Magic/Runecraft/Runecraft.md)
+- [Miracles](./../../Settings/Fallen/Magic/Miracles/Miracles.md)
+
+## Magic Name
+
+This is the name of the Magic in setting. (Wizardry, Sorcery, Druidic magic, Pact Magic)
 
 ## Magic Vocation Name
 
 This is the name in setting for the Vocation. (Wizard, Sorcerer, Druid, Warlock)
-
-## Magic Name
-
-This is the name of the Magic in setting. (Wizardry, Sorcery, Nature Magic, Pact Magic)
 
 ## Magic Vocation Governing Attributes
 
@@ -32,10 +48,10 @@ Examples of Magic Governing Core Skills:
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together. (Warlock Magic)
 * Magic that relies upon one's connection with nature could use Survival. (Druidic Magic)
 
-## Cantrip Name (Optional)
-
-For a bit of extra flare, determine a new name for Cantrips (or Novice Magic) can make a Magic Vocation feel more unique.
-
 ## Magic Skill List
 
 A Magic Vocation should contain a list of the Magic Skills that fall under it's umbrella. See [Magic Skills](./MagicSkills.md) for more information on how to create a Magic Skill list.
+
+## Cantrip Name (Optional)
+
+For a bit of extra flare, determine a new name for Cantrips (or Novice Magic) can make a Magic Vocation feel more unique.
