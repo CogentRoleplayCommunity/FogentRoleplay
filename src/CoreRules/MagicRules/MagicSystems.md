@@ -48,7 +48,7 @@ Examples of Magic Governing Core Skills:
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together. (Warlock Magic)
 * Magic that relies upon one's connection with nature could use Survival. (Druidic Magic)
 
-## Magic Skill List
+## Magic Skills
 
 A Magic Vocation should contain a list of the Magic Skills that fall under it's umbrella. See [Magic Skills](./MagicSkills.md) for more information on how to create a Magic Skill list.
 
