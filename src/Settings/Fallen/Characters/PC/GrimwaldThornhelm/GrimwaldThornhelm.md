@@ -13,13 +13,15 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Knight | STR, RFX, INT | 1 | 5d6 |
-| ----------------- | :-----------: | :-: | :-: |
-| Large Sword       | STR, RFX, INT | 1 | 5d6 |
-| Heavy Bow         | STR, RFX, INT | 1 | 5d6 |
-| Polycraft         | STR, RFX, INT | -1 | 3d6 |
-| Sonocraft         | STR, RFX, INT | -1 | 3d6 |
-| Fellcraft Skill   | STR, RFX, INT | -1 | 3d6 |
+|   Knight   | STR, RFX, INT | 1 | 5d6 |
+| :---------: | :-----------: | :-: | :-: |
+| Large Sword | STR, RFX, INT | 1 | 5d6 |
+|  Heavy Bow  | STR, RFX, INT | 1 | 5d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Polycraft                         | STR, RFX, INT | -1 | 3d6 |
+|                         Sonocraft                         | STR, RFX, INT | -1 | 3d6 |
 
 ## Info
 
@@ -32,19 +34,19 @@
 |                                                                                                                                |                                                            |          |                                                  |
 |                       [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                       |                            58 lb                            |          |                    Equipment                    |
 |                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                       |                           250 lb                           |          |        +50 lbs Carry Weight per Lift dice        |
-|                      [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                      |             -0d6 to STR/RFX governed Dice Pools             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                   [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                   |             -0d6 to STR/RFX governed Dice Pools             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                                |                                                            |          |                                                  |
 |                     [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                     |   +1 to the level of injury received from Silver damage.   |          |                    Fellblood                    |
 |            [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)            |                              4                              |          |                      Armor                      |
 |                                                                                                                                |                                                            |          |                                                  |
-|                              [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                              |                    5x5 ft on battle map.                    |          |                                                  |
+|                             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                             |                    5x5 ft on battle map.                    |          |                                                  |
 |                  [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                  |                            50 ft                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |                     [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                     |                            25 ft                            |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                     [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                     |                            20 ft                            |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                                |                                                            |          |                                                  |
-|                        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                        |                             5/5                             |          |       Vocation/Magic Governing Core Skill       |
+|                        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                        |                             0/0                             |          |       Vocation/Magic Governing Core Skill       |
 |                            [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                            |                             0/3                             |          |               Awarded by Narrator               |
-|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                – 0 dice to all dice checks.                |          |                      Damage                      |
+|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                – 0 dice to all dice checks.                |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -61,9 +63,9 @@
 
 #### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
-| Name  | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
-| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| Standard Arrow |                                       Arrow                                       |                                        +1d6                                        |                                           1                                           |                                          None                                          |                        Pierce                        |                                  None                                  |                                                                                        |                                                                            |                                                                                              |
+|      Name      | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
+| :------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Standard Arrow |                                             Arrow                                             |                                            +1d6                                            |                                            1                                            |                                    None                                    |                                             Pierce                                             |                                                None                                                |
 
 ### [Incompetent Weapon Magic](./../../../../../CoreRules/MagicRules/Spells/Generic/MagicWeapon.md#incompetent-weapon-magic)
 
