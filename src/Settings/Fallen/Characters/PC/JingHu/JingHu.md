@@ -15,7 +15,7 @@
 
 | Monk               | STR, RFX, INT | 1 | 5d6 |
 | ------------------ | :-----------: | :-: | :-: |
-| Large Hafted Blunt | STR, RFX, INT | 1 | 3d6 |
+| Large Hafted Blunt | STR, RFX, INT | 1 | 5d6 |
 | Monk Knowledge     |      INT      |  | 4d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
