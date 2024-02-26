@@ -8,16 +8,25 @@ Represents the pool of Magic Resource a character has to fuel their magic. Depen
 
 Magic Resource Pool = Vocation Magic Resource + Magic Governing Core Skill Magic Resource
 
-- Vocation Magic Resource = Vocation Level * Vocation Dice Pool Size
-- Magic Governing Core Skill Magic Resource = (Magic Governing Core Skill Level * Magic Governing Core Skill Dice Pool Size) / 2, rounded down to nearest whole number
+### Vocation Magic Resource
+
+Vocation Magic Resource = Vocation Level * Vocation Dice Pool Size
+
+- If Vocation Level is 0, than use 0.5 for Vocation Level calculation above and round down to nearest whole number.
+
+### Magic Governing Core Skill Magic Resource
+
+Magic Governing Core Skill Magic Resource = (Magic Governing Core Skill Level * Magic Governing Core Skill Dice Pool Size) / 2, rounded down to nearest whole number
+
+- If Magic Governing Core Skill Level is 0, then use 0.5 for Magic Governing Core Skill Level in the above calculation.
 
 ### Apprentice Tier Examples
 
 | Factored In Governing Attributes | Vocation Level | Vocation Dice Pool | V. Magic Resource | Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource | Total Magic Resource Pool |
 | :------------------------------: | :------------: | :----------------: | :---------------: | :------------------------------: | :----------------------------------: | :---------------------: | :-----------------------: |
-|                1                |       0       |        4d6        |         0         |                0                |                 4d6                 |            0            |             0             |
-|                1                |       0       |        4d6        |         0         |                1                |                 5d6                 |            2            |             2             |
-|                1                |       1       |        5d6        |         5         |                0                |                 4d6                 |            0            |             5             |
+|                1                |       0       |        4d6        |         2         |                0                |                 4d6                 |            1            |             3             |
+|                1                |       0       |        4d6        |         2         |                1                |                 5d6                 |            2            |             4             |
+|                1                |       1       |        5d6        |         5         |                0                |                 4d6                 |            1            |             6             |
 |                1                |       1       |        5d6        |         5         |                1                |                 5d6                 |            2            |             7             |
 |                2                |       1       |        6d6        |         6         |                1                |                 6d6                 |            3            |             9             |
 
