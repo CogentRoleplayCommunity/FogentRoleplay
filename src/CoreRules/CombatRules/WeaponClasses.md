@@ -55,20 +55,7 @@ Dice modifier added to weapon combat rolls when off handing a weapon as part of 
 
 To duel wield the character must have at least one skill point in both of the weapons held. Each weapon must have a Dual Wielded dice Modifier. If you are dual wielding, your combat roll is made up using the skill and/or weapon dice modifier of the primary weapon one-handed, with additional dice from the off-handed weapon's "Dual Wielded" dice modifier.
 
-Dual wielding weapons that use a weapon resource uses double the weapon resource per opponent engaged.
-
-## Weapon Resource Classes
-
-Weapon Resource Class determines the resource a weapon uses to opperate.
-
-- Bolt
-- Arrow
-- Blowgun Dart
-- Sling Bullet
-- 9mm Ammo
-- 5.56 Ammo
-- .308 Ammo
-- RPG Ammo
+Dual wielding weapons that use weapon resource or that are being thrown uses double the weapon resource/thrown weapons per opponent engaged.
 
 ## Crossbows
 
@@ -153,28 +140,7 @@ Weapon Resource Class determines the resource a weapon uses to opperate.
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | RPG Launcher |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |          Loading          |        None        |       RPG Ammo       |
 
-### Weapon Resources
-
-|          Name          | Resource Class | Resource Dice | Penetration | Range |     Damage     |     AOE     |
-| :--------------------: | :------------: | :-----------: | :---------: | :---: | :-------------: | :---------: |
-|     Standard Bolt     |      Bolt      |     +1d6     |      1      | None |     Pierce     |    None    |
-|     Wounding Bolt     |      Bolt      |     +1d6     |      1      | None |  Pierce, Bleed  |    None    |
-|    Anti-armor Bolt    |      Bolt      |     +1d6     |      2      | None |     Pierce     |    None    |
-|     Survival Bolt     |      Bolt      |     +1d4     |      0      | None |     Pierce     |    None    |
-|      Shoddy Bolt      |      Bolt      |     +1d4     |      1      | None |     Pierce     |    None    |
-|     Standard Arrow     |     Arrow     |     +1d6     |      1      | None |     Pierce     |    None    |
-|     Wounding Arrow     |     Arrow     |     +1d6     |      1      | None |  Pierce, Bleed  |    None    |
-|    Anti-armor Arrow    |     Arrow     |     +1d6     |      2      | None |     Pierce     |    None    |
-|     Survival Arrow     |     Arrow     |     +1d4     |      0      | None |     Pierce     |    None    |
-|      Shoddy Arrow      |     Arrow     |     +1d4     |      1      | None |     Pierce     |    None    |
-|     Poison Needles     |  Blowgun Dart  |     +1d6     |      0      | None |     Poison     |    None    |
-| Standard Sling Bullets |  Sling Bullet  |     +1d6     |      1      | None |    Bludgeon    |    None    |
-|      9mm FMJ Ammo      |    9mm Ammo    |     +1d6     |      4      | None |     Pierce     |    None    |
-|     5.56 FMJ Ammo     |   5.56 Ammo   |     +1d6     |      6      | None |     Pierce     |    None    |
-|     .308 FMJ Ammo     |   .308 Ammo   |     +1d6     |      8      | None |     Pierce     |    None    |
-|        RPG Ammo        |    RPG Ammo    |     +1d6     |     10     | None | Fire, Shockwave | 30ft Sphere |
-
-## Unarmed
+### Unarmed
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
@@ -189,26 +155,28 @@ Weapon Resource Class determines the resource a weapon uses to opperate.
 
 (hatchet, small war pick, kama, crowbar, club)
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|  Small Hafted Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |        Hew        |           Rapid           |        None        |         None         |
-| Small Hafted Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-| Small Hafted Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-|       Torch       |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |  Fire, Bludgeon  |           Rapid           |        None        |         None         |
-|  Thrown Small Axe  |      +1d6      |      +1d6      |       None       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
-| Thrown Small Blunt |      +0d6      |      +0d6      |       None       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|     Small Hafted Axe     |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |        Hew        |           Rapid           |        None        |         None         |
+|    Small Hafted Blade    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+|    Small Hafted Point    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+|    Small Hafted Blunt    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|           Torch           |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |  Fire, Bludgeon  |           Rapid           |        None        |         None         |
+|  Thrown Small Hafted Axe  |      +1d6      |      +1d6      |       +1d6       |      0      | Short |        Hew        |           Quick           |        None        |         None         |
+| Thrown Small Hafted Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
+| Thrown Small Hafted Point |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
+| Thrown Small Hafted Blunt |      +0d6      |      +0d6      |       +1d6       |      1      | Short |     Bludgeon     |           Quick           |        None        |         None         |
 
 ### Small Blade
 
 (dagger, shortsword)
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Small Thrusting Point |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-|  Thrown Small Blade  |      +1d6      |      +1d6      |       None       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
-|  Thrown Small Point  |      +0d6      |      +0d6      |       None       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|    Small Piercing Blade    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+|    Small Slashing Blade    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
+| Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
 
 ## Medium Melee
 

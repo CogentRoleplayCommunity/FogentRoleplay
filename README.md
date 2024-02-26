@@ -61,6 +61,7 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
+- [Weapon Resource Classes](./src/CoreRules/CombatRules/WeaponResourceClasses.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Weapon Combat Roll](./src/CoreRules/CombatRules/CombatRolls.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
@@ -86,14 +87,10 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 
 ### Magic Rules
 
-- [Magic Governing Core Skill](./src/CoreRules/MagicRules/MagicGoverningCoreSkill.md)
+- [Magic Systems](./src/CoreRules/MagicRules/MagicSystems.md)
 - [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
 - [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
-- [Generic Magic](./src/CoreRules/MagicRules/GenericMagic.md)
-- [Magic Roll](./src/CoreRules/MagicRules/MagicRoll.md)
-- [Magic Saving Throw](./src/CoreRules/MagicRules/MagicSavingThrow.md)
 - [Spells](./src/CoreRules/MagicRules/Spells.md)
-- [Creating Magic Systems](./src/CoreRules/MagicRules/CreatingMagicSystems.md)
 
 ### Character Creation Rules
 

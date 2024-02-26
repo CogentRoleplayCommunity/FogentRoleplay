@@ -13,13 +13,15 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Monk    | STR, RFX, INT | 1 | 5d6 |
+| Monk               | STR, RFX, INT | 1 | 5d6 |
 | ------------------ | :-----------: | :-: | :-: |
-| Large Hafted Blunt | STR, RFX, INT | 1 | 3d6 |
-| Monk Knowledge     |      INT      |    | 4d6 |
-| Polycraft          | STR, RFX, INT | -1 | 3d6 |
-| Sonocraft          | STR, RFX, INT | -1 | 3d6 |
-| Shadowcraft        | STR, RFX, INT | -1 | 3d6 |
+| Large Hafted Blunt | STR, RFX, INT | 1 | 5d6 |
+| Monk Knowledge     |      INT      |  | 4d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Polycraft                         | STR, RFX, INT | -1 | 3d6 |
+|                         Sonocraft                         | STR, RFX, INT | -1 | 3d6 |
 
 ## Info
 
@@ -33,7 +35,7 @@
 |                                                                                                                              |                                                              |          |                                                  |
 |                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                             24 lb                             |          |                    Equipment                    |
 |                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                       |                            150 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
-|                      [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                      |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                  |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                              |                                                              |          |                                                  |
 |                     [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                     |    +1 to the level of injury received from Silver damage.    |          |                    Fellblood                    |
 |            [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)            |                               3                               |          |                      Armor                      |
@@ -43,15 +45,15 @@
 |                     [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                     |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                    [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                    |                             25 ft                             |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                              |          |                                                  |
-|                            [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                            |                              4/4                              |          |       Vocation/Magic Governing Skill Level       |
+|                       [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                       |                              2/2                              |          |       Vocation/Magic Governing Core Skill       |
 |                            [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                            |                              0/3                              |          |               Awarded by Narrator               |
-|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                 – 0 dice to all dice checks.                 |          |                      Damage                      |
+|                                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                 |                 – 0 dice to all dice checks.                 |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
 - [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
 |        Name        | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
 | :----------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
@@ -60,13 +62,13 @@
 | Thrown Large Spear |                                        +2d6                                        |                                        +2d6                                        |                                          None                                          |                                            3                                            |                         Short                         |                                 Pierce                                 |                                        Standard                                        |                                    None                                    |                                             None                                             |
 | Large Hafted Blunt |                                         -1                                         |                                        +1d6                                        |                                          None                                          |                                            5                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 
-#### [Weapon Resources](./../../../../../CoreRules/CombatRules/WeaponClasses.md#ranged-weapon-resources)
+#### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
 | Name | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
 | :--: | :------------: | :-----------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
 |      |                |              |                                                                                        |                                                      |                                                                        |                                                                            |
 
-### [Party Trick Combat Magic](./../../../../../CoreRules/MagicRules/GenericMagic.md#party-trick-combat-magic)
+### [Incompetent Weapon Magic](./../../../../../CoreRules/MagicRules/Spells/Generic/MagicWeapon.md#incompetent-weapon-magic)
 
 |     Name     | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) |
 | :----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |

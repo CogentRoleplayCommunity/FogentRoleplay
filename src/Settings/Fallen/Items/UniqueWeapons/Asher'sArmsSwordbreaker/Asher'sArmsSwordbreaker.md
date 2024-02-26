@@ -12,7 +12,7 @@ Swordbreakers, often wielded offhand to a main hand sword. They are designed to 
 
 |           Name           | # |                  Class                  |          Effect          | Tier | Durability | LB | Value |
 | :-----------------------: | :-: | :--------------------------------------: | :----------------------: | :--: | :--------: | :-: | :---: |
-| Asher's Arms Swordbreaker | 1 | Small Slashing Blade, Thrown Small Blade | Swordbreaker Blade Catch | Fine |   18/18   | 1 |   ?   |
+| Asher's Arms Swordbreaker | 1 | Small Slashing Blade, Thrown Small Slashing Blade | Swordbreaker Blade Catch | Fine |   18/18   | 1 |   ?   |
 
 ## Effects
 

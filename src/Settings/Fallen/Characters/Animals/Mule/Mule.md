@@ -25,7 +25,7 @@
 |                                                                                                        |                                    |          |                                                  |
 |           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                33 lb                |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |               350 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light           | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                    |          |                                                  |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                  0                  |          |                      Armor                      |
 |                                                                                                        |                                    |          |                                                  |
@@ -34,13 +34,13 @@
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                35 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                25 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                    |          |                                                  |
-|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                      Damage                      |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
 - [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-### [Weapons](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
 |    Name    | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
 | :---------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |

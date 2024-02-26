@@ -1,12 +1,12 @@
 # Spells
 
-Spells are very specific ways a character can use their magic. You should really think about these as cool ways someone has figured out they to use their type of magic.
+Spells are ways a character can use their Magic Skills. Think about these as cool ways someone has figured out they to use Fogent Magic System.
 
-Each spell has magic skill requirements in order to perform. You must satisfy these requirements in order to perform the spell.
+Spells require certain Magic Skills to perform, a CL required to cast, and an amount of Magic Resource consumed proportionate to the required CL level.
 
 ## Concentration
 
-Certain Spells demand your concentration to keep their effects active. If you lose this concentration, the Spell's magic ends.
+Certain Spells demand a character's concentration to keep their effects active. If this concentration is interrupted, the Spell's magic ends.
 
 If a Spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
 
@@ -15,11 +15,28 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 * Casting another spell that requires concentration. If you cast a spell that needs concentration while you're focusing on a different spell, you lose concentration on the first spell. You can't concentrate on two spells simultaneously.
 * Suffering damage. If you take damage while focusing on a spell, you must make a Magic Governing Core Skill check to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
 * Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
-* The Narrator might also decide that certain environmental phenomena. For example, a wave washing over you while you're on a storm-tossed ship, the character to succeed on a Challenge level 2 governing core skill check.
+* The Narrator might also decide that certain environmental phenomena might require the concentrating character to succeed on a Governing Core Skill check to maintain concentration. For example, a wave washing over you while you're on a storm-tossed ship might require a CL 2 Governing Core Skill Check.
 
-## Party Tricks
+## Spells In Combat
 
-## Novice Spells (Cantrips)
+If a character intends to use Spells during a combat round, on the declaration phase once they've declared they are going to use magic, they can roll their Magic Skill Roll. Wins achieved dictate the CL achievable that round. The character may also achieve any lower-level outcome.
+
+- A character can cast 1 spell per round that uses Magic Resource.
+- A character can cast 1 spell per round that does not use Magic Resource.
+- A character can only cast 1 spell per turn as part of their combat roll.
+
+## Generic Spells
+
+Generic Spells can be used for creative purposes and are intended to allow/encourage players to try creative solutions. These spell are only limited by the character's stats, the player's creativity, and the narrator's supervision.
+
+- [Magic Weapon](./Spells/Generic/MagicWeapon.md)
+- [Out Of Combat Spells](./Spells/Generic/OutOfCombatSpells.md)
+
+## Incompetent Spells
+
+## Novice Spells
+
+Otherwise known as Cantrips.
 
 - [Blade Barrier](Spells/Novice/BladeBarrier.md)
 - [Illuminate](Spells/Novice/Illuminate.md)
@@ -55,7 +72,7 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 - [Physical Protection](Spells/Apprentice/PhysicalProtection.md)
 - [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
-- [Shape Shift](Spells/Apprentice/Shapeshift.md)
+- [Shape Shift](Spells/Apprentice/ShapeShift.md)
 - [Short Teleport](Spells/Apprentice/ShortTeleport.md)
 - [Slow Fall](Spells/Apprentice/SlowFall.md)
 - [Weird Insight](Spells/Apprentice/WeirdInsight.md)

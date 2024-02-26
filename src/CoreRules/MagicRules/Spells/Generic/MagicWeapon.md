@@ -1,66 +1,40 @@
-# Using Magic
+# Magic Weapon
 
-Magic can be used for creative purposes and is meant to allow/encourage players to try interesting things, limited only by the character's stats, the player's creativity, and the narrator's supervision.
+**CL/Magic Resource Required:** See Tables
 
-For a Magic Skill roll, these uses of magic have the ranges of any of the options on the "Combat Magic" tables below. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+**Casting Time:** Instantaneous
 
-## Party Trick Generic Magic
+**Range:** See Tables
 
-**Magic Skill Level Required:** -1
+**Duration:** 1 round
 
-This level of proficiency with magic might be a fun party trick or for convenience but has no awe-inspiring use. Those with this level are objectively bad at using this skill. A Fire Magic skill would allow you to ignite your fingertips to light a cigar, though you could just use a match, flint and steel, or a lighter. You could throw hot smoke at someone's face, though you could just punch them in the face instead for similar if not better results.
+**Engageable Opponents:** See Tables
 
-For Fire Magic, this could be used to light a nearby candle. For Water Magic, this could be useful for levitating your ale into your mouth.
+**Penetration:** See Tables
 
-Examples include:
+**Area Of Effect:** See Tables
 
-* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
-* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
-* A minuet blessing bestowed by a deity. (Cleric)
-* A taste of power from an entity looking to make a deal... (Warlock)
-* A part of nature foreign to your place of origin. (Druid)
+**Skills required:**
 
-## Novice Generic Magic
+- Any Magic Skill
 
-**Magic Skill Level Required:** 0
+From magic, create weapons for use in combat. If both hands are available, as part of the same use of Magic Weapon, each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers.
 
-Novice magic spell that can be used for generic creative uses of magic. Generally only reserved for novice practitioners, dealing with minor threats to save magic resource, or as a desperate last resort after all magic resources are depleted.
+Magic Combat Roll = Magic Skill Roll + Magic Weapon Dice Modifier
 
-## Apprentice Generic Magic
+Damage Types are determined by the Magic Skill used.
 
-**Magic Skill Level Required:** 1
+If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
-Apprentice magic spell that can be used for generic creative uses of magic.
+Created weapons are intended to be flavored by the player/narrator:
 
-## Adept Generic Magic
+- Bone Claws = Bodily Magic Skill + Small Slashing Blade
+- Fire Bolt = Fire Magic Skill + Light Crossbow
+- Water Whip = Water Magic Skill + Whip
 
-**Magic Skill Level Required:** 2
+Shields can also be created as part of this spell, occupying a hand that is free. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
 
-Adept magic spell that can be used for generic creative uses of magic.
-
-## Expert Generic Magic
-
-**Magic Skill Level Required:** 3
-
-## Master Generic Magic
-
-**Magic Skill Level Required:** 4
-
-## Legendary Generic Magic
-
-**Magic Skill Level Required:** 5
-
-## Combat Magic
-
-If a character intends to use magic during a combat round, on the declaration phase once they've declared they are going to use magic, they can roll their Magic Skill Roll. Wins achieved dictate the CL and Magic Resource for achievable that round. The character may also achieve any lower-level outcome.
-
-As a part of a Magic Combat Roll, a character can choose one of the following options below of how they would like to use their magic for that 1 round.
-
-Combat Magic allows a character to create a "Magic Weapon" and attack with it, using the stats of weapons. Combat Magic is intended to be flavored by the player/narrator.
-
-If both hands are available, as part of the same use of Combat Magic each hand can be used to benefit from Two Handed or Dual Wielded Dice Modifiers. Damage Types are determined by the damage types of the magic skill used.
-
-### Party Trick Combat Magic
+### Incompetent Weapon Magic
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -68,19 +42,23 @@ If both hands are available, as part of the same use of Combat Magic each hand c
 |              |                |                |                  |            |      |                  |                          |                    |                    |
 |  Mag. Puff  |       -1       |       -1       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
 
-### Novice Combat Magic
+### Novice Weapon Magic
 
-|             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Thrusting Point  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|                              |                |                |                  |            |        |                  |                          |                    |                    |
-|   Mag. Thrown Small Blade   |      +1d6      |      +1d6      |       None       |      0      | Short |                  |           Quick           |        None        |          0          |
-|   Mag. Thrown Small Point   |      +0d6      |      +0d6      |       None       |      1      | Short |                  |           Quick           |        None        |          0          |
-|          Mag. Sling          |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
+|               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+|   Mag. Hand Protection Unarmed   |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|    Mag. Small Piercing Blade    |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
+|    Mag. Small Slashing Blade    |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|                                  |                |                |                  |            |        |                  |                          |                    |                    |
+| Mag. Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      | Short |                  |           Quick           |        None        |          0          |
+| Mag. Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      | Short |                  |           Quick           |        None        |          0          |
+|            Mag. Sling            |      +1d6      |      +1d6      |       None       |      1      | Medium |                  |         Standard         |        None        |          0          |
 
-### Apprentice Combat Magic
+| Name         | Class  | Effect                                                                      |
+| ------------ | ------ | --------------------------------------------------------------------------- |
+| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
+
+### Apprentice Weapon Magic
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -105,7 +83,11 @@ If both hands are available, as part of the same use of Combat Magic each hand c
 |   Mag. Heavy Crossbow   |      None      |      +3d6      |       None       |      3      |    Long    |                  |      Complex Loading      |        None        |          2          |
 |  Mag. Mag. Medium Cone  |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 
-### Adept Combat Magic
+| Name          | Class  | Effect                                                                      |
+| ------------- | ------ | --------------------------------------------------------------------------- |
+| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
+
+### Adept Weapon Magic
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -117,17 +99,21 @@ If both hands are available, as part of the same use of Combat Magic each hand c
 |     Mag. Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |   Mag. Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |             1             | Sphere Calculation |          3          |
 
-### Expert Combat Magic
+| Name         | Class  | Effect                                                                      |
+| ------------ | ------ | --------------------------------------------------------------------------- |
+| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
+
+### Expert Weapon Magic
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 
-### Master Combat Magic
+### Master Weapon Magic
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 
-### Legendary Combat Magic
+### Legendary Weapon Magic
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of |
+| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----: |

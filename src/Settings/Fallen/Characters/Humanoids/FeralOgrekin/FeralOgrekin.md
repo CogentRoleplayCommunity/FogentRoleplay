@@ -49,7 +49,7 @@
 
 |                                               Name                                               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range |    Damage<br />Types    | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-----------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :----------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| [Generic Party Trick](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |                |                |                  |            |  Near  | Slash, Bludgeon, Pierce |                          |                    |  0 Magic Resource  |
+| [Generic Incompetent Spell](./../../../../../CoreRules/MagicRules/Spells/PartyTricks/GenericPartyTrick.md) |                |                |                  |            |  Near  | Slash, Bludgeon, Pierce |                          |                    |  0 Magic Resource  |
 |  [Generic Novice Spell](./../../../../../CoreRules/MagicRules/Spells/Novice/GenericNoviceSpell.md)  |                |                |                  |            | Medium | Slash, Bludgeon, Pierce |                          |                    |  0 Magic Resource  |
 
 ## Fellblood: 1/1

@@ -38,9 +38,9 @@
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Large Thrusting Sword | 6d6<br />(+0d6) | 8d6<br />(+2d6) |       None       |      3      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Large Slashing Sword | 6d6<br />(+0d6) | 9d6<br />(+3d6) |       None       |      2      | Melee |     Slashing     |           Rapid           |        None        |        None        |
-| Small Thrusting Point | 6d6<br />(+0d6) | 6d6<br />(+0d6) |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Small Piercing Blade | 6d6<br />(+0d6) | 6d6<br />(+0d6) |      (+1d6)      |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 | Small Slashing Blade | 7d6<br />(+1d6) | 7d6<br />(+1d6) |      (+1d6)      |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|  Thrown Small Point  | 6d6<br />(+0d6) | 6d6<br />(+0d6) |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
+|  Thrown Small Piercing Blade  | 6d6<br />(+0d6) | 6d6<br />(+0d6) |       None       |      1      | Short |      Pierce      |           Quick           |        None        |        None        |
 
 ## Equipment:
 
@@ -49,4 +49,4 @@
 | Gambeson Armor | 1 |                Body Armor, Arm Armor, Leg Armor                | Phy. Def. 1.00 |   Mundane   |   12/12   | 8 |  5 bc  |
 | Plate Armor    | 1 |          Head Armor, Body Armor, Arm Armor, Leg Armor          |  Phy. Def. 5  | Mastercraft |   33/33   | 57 | 1495 bc |
 | Longsword      | 1 |           Large Thrusting Sword, Large Slashing Sword           |                |   Mundane   |   12/12   | 3 |  15 bc  |
-| Dagger         | 1 | Small Thrusting Point, Small Slashing Blade, Thrown Small Point |                |   Mundane   |   12/12   | 1 |  2 bc  |
+| Dagger         | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |                |   Mundane   |   12/12   | 1 |  2 bc  |
