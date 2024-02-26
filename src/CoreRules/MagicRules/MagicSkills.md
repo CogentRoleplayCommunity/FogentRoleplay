@@ -4,7 +4,7 @@ Magic skills represent the ability to manipulate and control different magic con
 
 Characters can unlock Magic Skills covered by their Magic Vocation at Novice (0) level for 1 skill point.
 
-The CL of any Magic Skill check is proportionate to the amount of Magic Resource required as fuel unless otherwise stated.
+The CL of any Magic Skill check is proportionate to the amount of Magic Resource required as fuel to attempt the roll, unless otherwise stated.
 
 ## Generic Magic Skill List
 
