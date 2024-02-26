@@ -8,13 +8,13 @@ This is the name in setting for the Vocation. (Wizard, Sorcerer, Druid, Warlock)
 
 ## Magic Name
 
-This is the name of the Magic in setting. (Wizardy, Sorcery, Nature Magic, Pact Magic)
+This is the name of the Magic in setting. (Wizardry, Sorcery, Nature Magic, Pact Magic)
 
 ## Magic Vocation Governing Attributes
 
 Different Magic Vocations rely on different attributes.
 
-Most traditional fantasy Magic Vocations have RFX and INT as their Magic Governing Attributes, as most magic benifits for quicker casting times and more knowledge. However, Magic Vocations that narratively rely on a characters physical body, such as Dragon fire or genetic bloodline magic, might also include STR as on of its Magic Vocation Governing Attributes.
+Most traditional fantasy Magic Vocations have RFX and INT as their Magic Governing Attributes, as most magic benefits for quicker casting times and more knowledge. However, Magic Vocations that narratively rely on a characters physical body, such as Dragon fire or genetic bloodline magic, might also include STR as on of its Magic Vocation Governing Attributes.
 
 ## Magic Resource Name
 
@@ -34,4 +34,8 @@ Examples of Magic Governing Core Skills:
 
 ## Cantrip Name (Optional)
 
-For a bit of extra flare, determing a new name for Cantrips (or Novice Magic) can make a Magic Vocation feel more unique.
+For a bit of extra flare, determine a new name for Cantrips (or Novice Magic) can make a Magic Vocation feel more unique.
+
+## Magic Skill List
+
+A Magic Vocation should contain a list of the Magic Skills that fall under it's umbrella. See [Magic Skills](./MagicSkills.md) for more information on how to create a Magic Skill list.
