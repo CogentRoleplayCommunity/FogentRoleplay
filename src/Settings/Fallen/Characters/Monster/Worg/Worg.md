@@ -21,7 +21,7 @@
 
 |                Name                |                                                            Effect                                                            | Duration |                      Source                      |
 | :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|            Dark Vision            | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                  |
+|            Darkvision            | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                  |
 |       Physical Defense Level       |                                                              1                                                              |          |                  Natural armor                  |
 |            Large Size            |                                                   10x10 ft on battle map.                                                   |          |                                                  |
 |          Language: Primal          |                                                      Can speak Primal.                                                      |          |                                                  |
