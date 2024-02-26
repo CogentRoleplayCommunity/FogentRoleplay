@@ -13,10 +13,14 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Monk         |   STR, RFX   | 1 | 5d6 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0  | 3d6 |
-| ------------ | :-----------: | :-: | :-: | --------------------------------------------------------- | ------------- | -- | --- |
-| Large Hafted | STR, RFX, INT | 1 | 4d6 | Sonocraft                                                 | STR, RFX, INT | 0  | 3d6 |
-|              |              |  |    | Polycraft                                                 | STR, RFX, INT | -1 | 2d6 |
+| Monk         |   STR, RFX   | 1 | 5d6 |
+| ------------ | :-----------: | :-: | :-: |
+| Large Hafted | STR, RFX, INT | 1 | 4d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 4d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Sonocraft                         | STR, RFX, INT | 0 | 3d6 |
+|                         Polycraft                         | STR, RFX, INT | -1 | 2d6 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -70,7 +74,7 @@
 |                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |                 5x5 ft on battle map.                 |          |                                                  |
 |            [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)            |                         40 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         15 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|               [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)               |                         15 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|               [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)               |                         20 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                    |                                                        |          |                                                  |
 |                [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
 |       [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)       |                           3                           |          |                      Armor                      |
@@ -79,7 +83,7 @@
 |                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                  |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
 |             [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light             |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                    |                                                        |          |                                                  |
-|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                           3                           |          |                                                  |
+|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                           4                           |          |                                                  |
 |                                [Language](./../../../Languages/Languages.md): Babelish                                |                  Can speak Babelish.                  |          |                                                  |
 |                                     [Language](./../../../Languages/Languages.md):                                     |                   Can speak Primal.                   |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Dim-witted |                         -1 INT                         |          |                                                  |
