@@ -13,12 +13,14 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Fellcaster Woodsman | STR, RFX, INT | 1 | 5d6 |
-| ------------------- | :-----------: | :-: | :-: |
-| Large Hafted        | STR, RFX, INT | 1 | 5d6 |
-| Naturecraft         | STR, RFX, INT | -1 | 3d6 |
-| Polycraft           | STR, RFX, INT | -1 | 3d6 |
-| Fellcraft Skill     | STR, RFX, INT | -1 | 3d6 |
+| Woodsman     | STR, RFX, INT | 1 | 5d6 |
+| ------------ | :-----------: | :-: | :-: |
+| Large Hafted | STR, RFX, INT | 1 | 5d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                        Naturecraft                        | STR, RFX, INT | -1 | 3d6 |
+|                         Polycraft                         | STR, RFX, INT | -1 | 3d6 |
 
 ## Info
 
@@ -31,7 +33,7 @@
 |                                                                                                        |                                                        |          |                                                  |
 |           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                         59 lb                         |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         250 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light           |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                        |          |                                                  |
 |          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
 | [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           4                           |          |                      Armor                      |
@@ -59,9 +61,9 @@
 
 #### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
-| Name  | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
-| :---: | :------------: | :-----------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|      |                                                                                    |                                                                                    |                                                                                        |                                                                                        |                                                      |                                                                        |                                                                                        |                                                                            |                                                                                              |
+| Name | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
+| :--: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|      |                                                                                              |                                                                                            |                                                                                        |                                                                            |                                                                                                |                                                                                                    |
 
 ### [Incompetent Weapon Magic](./../../../../../CoreRules/MagicRules/Spells/Generic/MagicWeapon.md#incompetent-weapon-magic)
 
