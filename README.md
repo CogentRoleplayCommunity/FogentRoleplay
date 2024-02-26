@@ -90,7 +90,6 @@ Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm t
 - [Magic Systems](./src/CoreRules/MagicRules/MagicSystems.md)
 - [Magic Resource](./src/CoreRules/MagicRules/MagicResource.md)
 - [Magic Skills](./src/CoreRules/MagicRules/MagicSkills.md)
-- [Magic Saving Throw](./src/CoreRules/MagicRules/MagicSavingThrow.md)
 - [Spells](./src/CoreRules/MagicRules/Spells.md)
 
 ### Character Creation Rules
