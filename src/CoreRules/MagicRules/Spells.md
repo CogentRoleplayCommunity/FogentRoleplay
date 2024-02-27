@@ -43,7 +43,6 @@ Otherwise known as Cantrips.
 - [Night Vision](Spells/Novice/NightVision.md)
 - [Phantom Appendage](Spells/Novice/PhantomAppendage.md)
 - [Thunder Blade](Spells/Novice/ThunderBlade.md)
-- [Wounding Words](Spells/Novice/WoundingWords.md)
 
 ## Apprentice Spells
 
