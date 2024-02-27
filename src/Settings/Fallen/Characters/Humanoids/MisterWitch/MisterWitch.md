@@ -33,7 +33,7 @@
 |     Language: Sylavan     |                                                      Can speak Sylavan.                                                      |          |                                                  |
 | Medium Necrotic Resistance |                                     -2 to victory levels received from Necrotic damage.                                     |          |                                                  |
 |      Equipment Weight      |                                                            0 lb                                                            |          |                    Equipment                    |
-|        Dark Vision        | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                  |
+|        Darkvision        | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                  |
 |        Carry Weight        |                                                            120 lb                                                            |          |        +50 lbs Carry Weight per Lift dice        |
 |    Weight Class: Light    |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |  Terrestrial Combat Speed  |                                                            30 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |

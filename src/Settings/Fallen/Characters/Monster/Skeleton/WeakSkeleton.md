@@ -30,7 +30,7 @@
 |  Terrestrial Combat Speed  |                            40 ft                            |          |                                +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                |
 |    Swim Combat Speed    |                            0 ft                            |          |                                                 Bone's don't float                                                 |
 |    Climb Combat Speed    |                            15 ft                            |          |                                  +5 ft (per Climb Dice), +/-5 ft (per RFX)                                  |
-|        Dark Vision        |                            60 ft                            |          |                                                       Innate                                                       |
+|        Darkvision        |                            60 ft                            |          |                                                       Innate                                                       |
 |  Medium Bludgeon Weakness  | +2 to the level of injury received from Bludgeon damage. |          |                                                       Innate                                                       |
 |  Medium Radiant Weakness  |  +2 to the level of injury received from Radiant damage.  |          |                                                       Innate                                                       |
 | Medium Spiritual Weakness | +2 to the level of injury received from Spiritual damage. |          |                                                       Innate                                                       |
