@@ -97,7 +97,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 |    Mag. Reach Spear    |       -2       |      +4d6      |       None       |      4      |    Reach    |                  |        Rapid Max 2        |        None        |          3          |
 |                        |                |                |                  |            |              |                  |                          |                    |                    |
 |     Mag. Heavy Bow     |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
-|   Mag. Magic Sphere   |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |             1             | Sphere Calculation |          3          |
+|   Mag. Magic Sphere   |      None      |      +3d6      |       None       |      3      | Long |                  |             1             | Sphere Calculation |          3          |
 
 | Name         | Class  | Effect                                                                      |
 | ------------ | ------ | --------------------------------------------------------------------------- |
