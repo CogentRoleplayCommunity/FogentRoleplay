@@ -38,7 +38,6 @@ Generic Spells can be used for creative purposes and are intended to allow/encou
 
 Otherwise known as Cantrips.
 
-- [Blade Barrier](Spells/Novice/BladeBarrier.md)
 - [Illuminate](Spells/Novice/Illuminate.md)
 - [Minor Mirage](Spells/Novice/MinorMirage.md)
 - [Night Vision](Spells/Novice/NightVision.md)
