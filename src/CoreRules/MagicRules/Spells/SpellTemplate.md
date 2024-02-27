@@ -6,17 +6,13 @@
 
 **Range:**
 
+**Target:**
+
 **Duration:**
 
-**Engageable Opponents:**
+**Magic Skills required:**
 
-**Penetration:**
-
-**Area Of Effect:** None
-
-**Skills required:**
-
-- magic (level )
+- Any Magic
 
 ## Dice Pool Size Effect
 
