@@ -40,7 +40,7 @@ Otherwise known as Cantrips.
 
 - [Illuminate](Spells/Novice/Illuminate.md)
 - [Minor Mirage](Spells/Novice/MinorMirage.md)
-- [Night Vision](Spells/Novice/NightVision.md)
+- [Darkvision Eyes](Spells/Novice/DarkvisionEyes.md)
 - [Phantom Appendage](Spells/Novice/PhantomAppendage.md)
 - [Thunder Blade](Spells/Novice/ThunderBlade.md)
 
