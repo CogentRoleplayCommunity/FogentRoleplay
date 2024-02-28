@@ -50,7 +50,6 @@ Otherwise known as Cantrips.
 
 ## Apprentice Spells
 
-
 - [Bewitch](Spells/Apprentice/Bewitch.md)
 - [Blood Buffing](Spells/Apprentice/BloodBuffing.md)
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
@@ -81,7 +80,9 @@ Otherwise known as Cantrips.
 
 ## Adept Spells
 
-- [Manifest Wings](Spells/Adept/ManifestWings.md)
+|      Name      | CL/Magic Resource | Casting Time | Range | Target |         Duration         | Magic Skills Required |                           Description                           |
+| :------------: | :---------------: | :----------: | :---: | :----: | :-----------------------: | :-------------------: | :-------------------------------------------------------------: |
+| Manifest Wings |         3         |   1 action   | Self |  Self  | Concentration, 10 minutes |     Bodily Magic     | Character grows wings and gains the Flight Combat Speed effect. |
 
 ## Expert Spells
 
