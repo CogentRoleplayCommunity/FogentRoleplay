@@ -74,7 +74,6 @@ Otherwise known as Cantrips.
 - [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
 - [Shape Shift](Spells/Apprentice/ShapeShift.md)
-- [Short Teleport](Spells/Apprentice/ShortTeleport.md)
 - [Weird Insight](Spells/Apprentice/WeirdInsight.md)
 
 ## Adept Spells
