@@ -86,7 +86,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 |              |                |                |                  |            |      |                  |                          |                    |                    |
 |  Mag. Puff  |       -1       |       -1       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
 
-### Melee Combat Spells
+### Melee Combat Roll Spells
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -110,7 +110,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 |   Mag. Reach Hafted Blunt   |       -2       |      +2d6      |       None       |      5      | Reach |                  |           Rapid           |        None        |          3          |
 |       Mag. Reach Spear       |       -2       |      +4d6      |       None       |      4      | Reach |                  |        Rapid Max 2        |        None        |          3          |
 
-### Ranged Combat Spells
+### Ranged Combat Roll Spells
 
 |               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -131,7 +131,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 |          Mag. Heavy Bow          |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |        Mag. Magic Sphere        |      None      |      +3d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
 
-### Shield Combat Spells
+### Shield Spells
 
 |     Name     | Class |                                   Effect                                   |
 | :-----------: | :----: | :-------------------------------------------------------------------------: |
