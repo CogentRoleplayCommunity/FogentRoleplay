@@ -1,8 +1,14 @@
 # Spells
 
-Spells are ways a character can use their Magic Skills. Think about these as cool ways someone has figured out to use Fogent Magic System.
+Spells are ways a character can use their Magic Skills.
 
-Spells require Magic Skills to perform, a CL required to cast, and an amount of Magic Resource consumed proportionate to the required CL level.
+To use a Spell a character must:
+
+- Have the appropriate Magic Skills to perform said Spell.
+- Achieve the CL required to cast said Spell with their Magic Skill Roll.
+- Have Magic Resource to consume proportionate to the Spell's CL.
+
+Some spells can consume additional Magic Resource for improved effects.
 
 ## Spells In Combat
 
