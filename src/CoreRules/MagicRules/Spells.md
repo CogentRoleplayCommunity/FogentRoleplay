@@ -22,6 +22,8 @@ For example, when Luke Skywalker famously picks up the X-wing from the swamp on 
 
 Hence, the whole point of the Fogent Roleplay Magic rules is to help define resonable constraints on any magic systems. This means the magic systems is constrained enough to not completely break the narrative, but open for creative solutions with magic.
 
+### How To Elegantly Run Magic Systems
+
 The trick with the Fogent Magic system is we already have the most important tools for covering most magic systems, skills and CLs. Whenever a player asks to use their Lift Skill to pick up a rock, the narrator/players already have a rough idea of how hard that check should be. We can use the same intuative understanding most of us have likely picked up from watch movies, reading books, or playing games to elegantly determine how difficult doing something with magic should be.
 
 It is extremely intuative that a character with Fire magic could Trivially (CL 0) light a campfire, assuming they have the required wood. In the same vien, it would be common (CL 1) for a character with Fire Magic to shoot a fire bolt at something reasonably close. The point being is that we don't technically need super defined rules for how every Magic Skill exactly works. We as consumers of stories and narratives already reasonably understand what these things should be able to do.
