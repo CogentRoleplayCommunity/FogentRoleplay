@@ -59,7 +59,6 @@ Otherwise known as Cantrips.
 - [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
 - [Disguise Flesh](Spells/Apprentice/DisguiseFlesh.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
-- [Fling](Spells/Apprentice/Fling.md)
 - [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
 - [Hold Humanoid](./Spells/Apprentice/HoldHumanoid.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
