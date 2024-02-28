@@ -10,7 +10,7 @@
 
 **Magic Skills required:** Any Magic Skill
 
-From the Magic Skill used to cast this spell, create armaments for use in combat. As part of the same spell, an armament can be created in each hand to benifit from the Dual Wielded Modifier. The Magic Combat Roll consists of the Magic Skill roll use to cast this spell plus the Dice Modifiers from the Magic Armament/s chosen from the tables below.
+From the Magic Skill used to cast this spell, create armaments for use in combat. As part of the same spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier. The Magic Combat Roll consists of the Magic Skill roll use to cast this spell plus the Dice Modifiers from the Magic Armament/s chosen from the tables below.
 
 Damage Types are determined by the Magic Skill used.
 
@@ -23,7 +23,7 @@ Created armament are intended to be flavored by the player/narrator:
 - Bone Claws = Bodily Magic Skill + Small Slashing Blade
 - Fire Bolt = Fire Magic Skill + Light Crossbow
 - Water Whip = Water Magic Skill + Whip
-- Earth Shield = Earth Magic + Large Sheild
+- Earth Shield = Earth Magic + Large Shield
 
 ## Incompetent Weapon Magic
 
