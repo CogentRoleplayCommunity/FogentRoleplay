@@ -64,7 +64,6 @@ Otherwise known as Cantrips.
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
 - [Mage Shield](Spells/Apprentice/MageShield.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
-- [Mind Reading](Spells/Apprentice/MindReading.md)
 - [Noiseless Picture](Spells/Apprentice/NoiselessPicture.md)
 - [Physical Protection](Spells/Apprentice/PhysicalProtection.md)
 - [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
