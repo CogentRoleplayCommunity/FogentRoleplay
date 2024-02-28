@@ -75,7 +75,6 @@ Otherwise known as Cantrips.
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
 - [Shape Shift](Spells/Apprentice/ShapeShift.md)
 - [Short Teleport](Spells/Apprentice/ShortTeleport.md)
-- [Slow Fall](Spells/Apprentice/SlowFall.md)
 - [Weird Insight](Spells/Apprentice/WeirdInsight.md)
 
 ## Adept Spells
