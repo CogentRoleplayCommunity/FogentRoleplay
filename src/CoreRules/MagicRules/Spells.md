@@ -4,6 +4,16 @@ Spells are ways a character can use their Magic Skills. Think about these as coo
 
 Spells require Magic Skills to perform, a CL required to cast, and an amount of Magic Resource consumed proportionate to the required CL level.
 
+## Spells In Combat
+
+If a character intends to use Spells during a combat round, on the Declaration Phase they can declare what spell they are attempting to use.
+
+During the following Action Phase, during their action the character makes a Magic Skill Roll to see if they were able to achieve the spell they declared.
+
+- A character can cast 1 spell per round that uses Magic Resource.
+- A character can cast 1 spell per round that does not use Magic Resource.
+- A character can only cast 1 spell per turn as part of their combat roll.
+
 ## Concentration
 
 Certain Spells demand a character's concentration to keep their effects active. If this concentration is interrupted, the Spell's magic ends.
@@ -16,16 +26,6 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 * Suffering damage. If you take damage while focusing on a spell, you must make a Magic Governing Core Skill check to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
 * Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
 * The Narrator might also decide that certain environmental phenomena might require the concentrating character to succeed on a Governing Core Skill check to maintain concentration. For example, a wave washing over you while you're on a storm-tossed ship might require a CL 2 Governing Core Skill Check.
-
-## Spells In Combat
-
-If a character intends to use Spells during a combat round, on the Declaration Phase they can declare what spell they are attempting to use.
-
-During the following Action Phase, during their action the character makes a Magic Skill Roll to see if they were able to achieve the spell they declared.
-
-- A character can cast 1 spell per round that uses Magic Resource.
-- A character can cast 1 spell per round that does not use Magic Resource.
-- A character can only cast 1 spell per turn as part of their combat roll.
 
 ## Generic Spells
 
