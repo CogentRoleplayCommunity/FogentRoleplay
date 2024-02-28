@@ -10,7 +10,7 @@ Magic Hand,0,1 action,Medium,A point within range,1 minute,Any Magic capable of 
 Babel's Clarity,1,1 action,Self,Self,1 hour,,"You hear any language that is spoken around you as if it was spoken in Babelish. Additionally, you comprehend any written language you encounter as if it was written in Babelish, provided that you physically touch the surface bearing the text.This effect does not decode secret messages or arcane writing that is not part of a written language."
 ,,,,,,,
 ,,,,,,,
-,,,,,,,
+Oil Spill,1,1 action,Extended,A circle within range,1 minute,Earth Magic,"Slick flammable greasy oil covers the ground in a circle centered on a point within range and turns it into difficult terrain for the duration. The circle has an AOE of Sphere Calculation. When the oil appears, each creature standing in its area must succeed on an Acrobatics Check or fall prone. A creature that enters the area or ends its turn there must also succeed on a Acrobatics Check or fall prone."
 Leap,1,1 action,Melee,1 characte you touch,1 minute,Air Magic,"You touch a character, temporarily granting the creature the ability to jump 3 times farther than usual. The distance they can vertically jump also becomes the distance they can fall without incurring damage. Any distance beyond that counts as normal falling distance."
 Slow Fall,1,1 action,Extended,5 falling characters,1 minute,Gravity Magic or Air Magic,"Choose characters within range. A falling character's rate of descent slows to 10 feet per second. If the creature lands before the effect ends, it takes no falling damage and can land on its feet, and the effect for that creature."
 ,,,,,,,
