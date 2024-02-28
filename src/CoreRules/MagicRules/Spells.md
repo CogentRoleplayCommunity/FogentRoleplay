@@ -66,19 +66,13 @@ Almost all traditional offensive magic spells can be represented as Combat Roll 
 - Water Whip = Water Magic Skill + Whip
 - Earth Shield = Earth Magic + Large Shield
 
-**CL/Magic Resource Required:** See Tables
-
 **Casting Time:** Instantaneous
-
-**Range:** See Tables
 
 **Duration:** 1 round
 
 **Magic Skills required:** Any Magic Skill
 
-From the Magic Skill used to cast this spell, create armaments for use in combat. As part of the same spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier. The Magic Combat Roll consists of the Magic Skill roll use to cast this spell plus the Dice Modifiers from the Magic Armament/s chosen from the tables below.
-
-Damage Types are determined by the Magic Skill used.
+From the Magic Skill used to cast this spell, create flavored magic armaments for use in combat. As part of the same spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier. The Magic Combat Roll consists of the Magic Skill roll use to cast this spell plus the Dice Modifiers from the Magic Armament/s chosen from the tables below. Damage Types are determined by the Magic Skill used.
 
 If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
@@ -157,12 +151,6 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 * Suffering damage. If you take damage while focusing on a spell, you must make a Magic Governing Core Skill check to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
 * Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
 * The Narrator might also decide that certain environmental phenomena might require the concentrating character to succeed on a Governing Core Skill check to maintain concentration. For example, a wave washing over you while you're on a storm-tossed ship might require a CL 2 Governing Core Skill Check.
-
-## Generic Spells
-
-Generic Spells can be used for creative purposes and are intended to allow/encourage players to try creative solutions. These spell are only limited by the character's stats, the player's creativity, and the narrator's supervision.
-
-- [Magic Armament](./Spells/Generic/MagicArmament.md)
 
 ## Incompetent Spells
 
