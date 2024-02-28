@@ -66,7 +66,6 @@ Otherwise known as Cantrips.
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
 - [Mind Reading](Spells/Apprentice/MindReading.md)
 - [Noiseless Picture](Spells/Apprentice/NoiselessPicture.md)
-- [Oil Spill](Spells/Apprentice/OilSpill.md)
 - [Physical Protection](Spells/Apprentice/PhysicalProtection.md)
 - [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
