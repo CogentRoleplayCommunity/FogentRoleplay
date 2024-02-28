@@ -50,7 +50,7 @@ Otherwise known as Cantrips.
 
 ## Apprentice Spells
 
-- [Babel&#39;s Clarity](Spells/Apprentice/Babel'sClarity.md)
+
 - [Bewitch](Spells/Apprentice/Bewitch.md)
 - [Blood Buffing](Spells/Apprentice/BloodBuffing.md)
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
