@@ -126,7 +126,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
 |     Mag. Thrown Large Spear     |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
 |       Mag. Heavy Crossbow       |      None      |      +3d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
-|      Mag. Mag. Medium Cone      |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
+|      Mag. Medium Cone      |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
 |          Mag. Heavy Bow          |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |        Mag. Magic Sphere        |      None      |      +3d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
