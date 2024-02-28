@@ -12,7 +12,7 @@ Some spells can consume additional Magic Resource for improved effects.
 
 ## Spells in Narrative
 
-### The Need For Reasonable Constraints
+### The Need For Reasonable Constraints On Magic
 
 Stories/Narratives are at there very core about some conflict. Everyone loves well thought our magic systems because they add interesting ways to resolve conflicts within a story. Whether it be the Force from Star Wars, Bending from Avatar, or Wizardry from the Dresden Files, "magic" in each setting gives the heros and villains new ways to interact with the conflict of the story.
 
@@ -55,6 +55,95 @@ During the following Action Phase, during their action the character makes a Mag
 - A character can cast 1 spell per round that uses Magic Resource.
 - A character can cast 1 spell per round that does not use Magic Resource.
 - A character can only cast 1 spell per turn as part of their combat roll.
+
+### Spells as Combat Rolls
+
+Almost all traditional offensive magic spells can be represented as Combat Roll Spells.
+
+- Bone Claws = Bodily Magic Skill + Small Slashing Blade
+- Fire Bolt = Fire Magic Skill + Light Crossbow
+- Cone of Cold = Cold Magic + Mag. Medium Cone
+- Water Whip = Water Magic Skill + Whip
+- Earth Shield = Earth Magic + Large Shield
+
+**CL/Magic Resource Required:** See Tables
+
+**Casting Time:** Instantaneous
+
+**Range:** See Tables
+
+**Duration:** 1 round
+
+**Magic Skills required:** Any Magic Skill
+
+From the Magic Skill used to cast this spell, create armaments for use in combat. As part of the same spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier. The Magic Combat Roll consists of the Magic Skill roll use to cast this spell plus the Dice Modifiers from the Magic Armament/s chosen from the tables below.
+
+Damage Types are determined by the Magic Skill used.
+
+If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+
+Shields can also be created as part of this spell, occupying a hand that is free. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
+
+### Incompetent Weapon Magic
+
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mag. Unarmed |       -1       |       -1       |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|              |                |                |                  |            |      |                  |                          |                    |                    |
+|  Mag. Puff  |       -1       |       -1       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
+
+### Melee Combat Spells
+
+|             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mag. Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|  Mag. Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
+|  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|                              |                |                |                  |            |      |                  |                          |                    |                    |
+|   Mag. Medium Hafted Blade   |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          1          |
+|   Mag. Medium Hafted Point   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          1          |
+|   Mag. Medium Hafted Blunt   |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |                  |           Rapid           |        None        |          1          |
+|      Mag. Medium Spear      |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |                  |        Rapid Max 2        |        None        |          1          |
+|          Mag. Whip          |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |                  |           Rapid           |        None        |          1          |
+|                              |                |                |                  |            |      |                  |                          |                    |                    |
+|   Mag. Large Hafted Blade   |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |          2          |
+|   Mag. Large Hafted Point   |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |          2          |
+|   Mag. Large Hafted Blunt   |       -1       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |          2          |
+|       Mag. Large Spear       |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Rapid Max 2        |        None        |          2          |
+|                              |                |                |                  |            |      |                  |                          |                    |                    |
+|   Mag. Reach Hafted Blade   |       -2       |      +4d6      |       None       |      3      | Reach |                  |           Rapid           |        None        |          3          |
+|   Mag. Reach Hafted Point   |       -2       |      +3d6      |       None       |      4      | Reach |                  |           Rapid           |        None        |          3          |
+|   Mag. Reach Hafted Blunt   |       -2       |      +2d6      |       None       |      5      | Reach |                  |           Rapid           |        None        |          3          |
+|       Mag. Reach Spear       |       -2       |      +4d6      |       None       |      4      | Reach |                  |        Rapid Max 2        |        None        |          3          |
+
+### Ranged Combat Spells
+
+|               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
+| :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
+| Mag. Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+| Mag. Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      |    Short    |                  |           Quick           |        None        |          0          |
+|            Mag. Sling            |      +1d6      |      +1d6      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
+|                                  |                |                |                  |            |              |                  |                          |                    |                    |
+|     Mag. Thrown Medium Spear     |      +2d6      |      +2d6      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
+|        Mag. Hand Crossbow        |      +2d6      |      +2d6      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
+|       Mag. Light Crossbow       |      None      |      +2d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
+|          Mag. Light Bow          |      None      |      +2d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
+|         Mag. Close Cone         |      None      |      +2d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
+|                                  |                |                |                  |            |              |                  |                          |                    |                    |
+|     Mag. Thrown Large Spear     |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+|       Mag. Heavy Crossbow       |      None      |      +3d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
+|      Mag. Mag. Medium Cone      |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
+|                                  |                |                |                  |            |              |                  |                          |                    |                    |
+|          Mag. Heavy Bow          |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
+|        Mag. Magic Sphere        |      None      |      +3d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+
+### Shield Combat Spells
+
+|     Name     | Class |                                   Effect                                   |
+| :-----------: | :----: | :-------------------------------------------------------------------------: |
+| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
+| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
+| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
 
 ## Spell Concentration
 
