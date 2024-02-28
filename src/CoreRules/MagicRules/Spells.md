@@ -19,7 +19,9 @@ Regular activities, like moving or attacking, don't disturb your concentration. 
 
 ## Spells In Combat
 
-If a character intends to use Spells during a combat round, on the declaration phase they can declare what spell they are attempting to use. Wins achieved dictate the CL achievable that round. The character may also achieve any lower-level outcome.
+If a character intends to use Spells during a combat round, on the Declaration Phase they can declare what spell they are attempting to use.
+
+During the following Action Phase, during their action the character makes a Magic Skill Roll to see if they were able to achieve the spell they declared.
 
 - A character can cast 1 spell per round that uses Magic Resource.
 - A character can cast 1 spell per round that does not use Magic Resource.
