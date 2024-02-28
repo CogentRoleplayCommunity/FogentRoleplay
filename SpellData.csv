@@ -11,7 +11,7 @@ Babel's Clarity,1,1 action,Self,Self,1 hour,,"You hear any language that is spok
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-,,,,,,,
+Leap,1,1 action,Melee,1 characte you touch,1 minute,Air Magic,"You touch a character, temporarily granting the creature the ability to jump 3 times farther than usual. The distance they can vertically jump also becomes the distance they can fall without incurring damage. Any distance beyond that counts as normal falling distance."
 Slow Fall,1,1 action,Extended,5 falling characters,1 minute,Gravity Magic or Air Magic,"Choose characters within range. A falling character's rate of descent slows to 10 feet per second. If the creature lands before the effect ends, it takes no falling damage and can land on its feet, and the effect for that creature."
 ,,,,,,,
 Short Teleport,2,1 action,Medium,Self,Instantaneous,Teleport Magic,Character teleports themself to an unoccupied space that they can see.
