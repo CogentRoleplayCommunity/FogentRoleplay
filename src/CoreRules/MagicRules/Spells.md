@@ -62,7 +62,6 @@ Otherwise known as Cantrips.
 - [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
 - [Hold Humanoid](./Spells/Apprentice/HoldHumanoid.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
-- [Invisibility](Spells/Apprentice/Invisibility.md)
 - [Leap](Spells/Apprentice/Leap.md)
 - [Mage Shield](Spells/Apprentice/MageShield.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
