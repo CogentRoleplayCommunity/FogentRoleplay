@@ -6,3 +6,12 @@ Minor Mirage,0,1 round,Medium,1 character,1 minute,Mind Magic,"You can manifest 
 Illuminate,0,1 round,Melee,See description,1 hour,Light Magic,"You make contact with an object, its size not exceeding 10 feet in any dimension. Throughout the spell's duration, the object emits bright light in a 20-foot radius, accompanied by dim light for an additional 20 feet. You have the freedom to choose the color of the light. Should the object be fully covered with an opaque material, the emitted light is blocked. The spell concludes if cast anew or dismissed through an action. In the event that you target an object held or worn by a hostile creature, that creature must succeed in a Dodge roll or Combat Roll to evade the effects of the spell."
 Magic Weapon Infusion,0,1 round,Self,See description,1 round,Any Magic,"With a weapon utilized in the casting of this spell held, you infuse it with the damage types your magic skill provides. Should the attack connect, the target is subjected to both the weapon's and magic infusions damage types."
 Magic Hand,0,1 round,Medium,A point within range,1 minute,Any Magic capable of taking physical form,"A magic hand materializes at a designated point within the spell's range. This apparition persists for the spell's duration or until you choose to dismiss it. The hand dissipates if it strays beyond a the spells effective range or if you cast the spell anew. You have the ability command the hand. Its functions include manipulating objects, opening unlocked doors or containers, stowing or retrieving items from open containers, and pouring the contents out of a vial. The hand's movement speed is equal to it's effective range. It is roughly as strong as the users hand. If attacks are made with it, treat it as the users own unarmed attacks."
+,,,,,,,
+Babel's Clarity,1,1 action,Self,Self,1 hour,,"You hear any language that is spoken around you as if it was spoken in Babelish. Additionally, you comprehend any written language you encounter as if it was written in Babelish, provided that you physically touch the surface bearing the text.This effect does not decode secret messages or arcane writing that is not part of a written language."
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
