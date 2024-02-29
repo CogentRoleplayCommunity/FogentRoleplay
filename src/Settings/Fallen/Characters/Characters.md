@@ -36,7 +36,7 @@
 - [Novice Druid](./Humanoids/NoviceDruid/NoviceDruid.md)
 - [Novice Runesmith](./Humanoids/NoviceRunesmith/NoviceRunesmith.md)
 - [Cultist](Humanoids/Cultist/Cultist.md)
-- [Evil Runesmith](./Humanoids/EvilRunesmith/EvilRunesmith.md)
+- [Apprentice Runesmith](./Humanoids/ApprenticeRunesmith/ApprenticeRunesmith.md)
 - [Feral Beastkin Soldier](./Humanoids/FeralBeastkinSoldier/FeralBeastkinSoldier.md)
 - [Feral Beastkin](Humanoids/FeralBeastkin/FeralBeastkin.md)
 - [Feral Ogrekin](Humanoids/FeralOgrekin/FeralOgrekin.md)

@@ -1,4 +1,4 @@
-# Evil Runesmith
+# Apprentice Runesmith
 
 ![img]()
 
