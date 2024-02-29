@@ -25,14 +25,14 @@
 |                          [Language](./../../../Languages/Languages.md): Babelish                          |                  Can speak Babelish.                  |          |                                                  |
 |                                                                                                        |                                                        |          |                                                  |
 |         [Medium Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)         | +2 to the level of injury received from Silver damage. |          |                    Fellblood                    |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           0                           |          |                      Armor & Shield                      |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                           0                           |          |                  Armor & Shield                  |
 |                                                                                                        |                                                        |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |                 5x5 ft on battle map.                 |          |                                                  |
 |      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                         50 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         25 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                                        |          |                                                  |
-|                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                 |                          9/9                          |          |       Vocation/Magic Governing Core Skill       |
+|            [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood            |                          9/9                          |          |       Vocation/Magic Governing Core Skill       |
 |                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |             – 0 dice to all dice checks.             |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
