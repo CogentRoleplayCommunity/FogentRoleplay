@@ -13,11 +13,11 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) Druid | STR, RFX, INT | 1 | 5d6 |
-| --------------------------------------------------------------- | :-----------: | :-: | :-: |
-| Naturecraft                                                     | STR, RFX, INT | 1 | 5d6 |
-| Polycraft                                                       | STR, RFX, INT | -1 | 3d6 |
-| Toxincraft                                                      | STR, RFX, INT | -1 | 3d6 |
+| [Druid](./../../../MagicSystems/Druidcraft/Druidcraft.md) | STR, RFX, INT | 1 | 5d6 |
+| ------------------------------------------------------ | :-----------: | :-: | :-: |
+| Plant Magic                                            | STR, RFX, INT | 1 | 5d6 |
+| Shapeshift Magic                                       | STR, RFX, INT | -1 | 3d6 |
+| Venom Magic                                            | STR, RFX, INT | -1 | 3d6 |
 
 |   Warrior   | STR, RFX, INT | 0 | 4d6 |
 | :---------: | :-----------: | :-: | :-: |
@@ -44,7 +44,7 @@
 |                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         15 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         15 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                      |                                                        |          |                                                  |
-|                   [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                   |                          7/7                          |          |       Vocation/Magic Governing Core Skill       |
+|               [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection               |                          7/7                          |          |       Vocation/Magic Governing Core Skill       |
 |                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                          0/3                          |          |               Awarded by Narrator               |
 |                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |             – 0 dice to all dice checks.             |          |                      Damage                      |
 

@@ -17,7 +17,7 @@
 | ------------------------------------------------------ | :-----------: | :-: | :-: |
 | Plant Magic                                            | STR, RFX, INT | 1 | 5d6 |
 | Shapeshift Magic                                       | STR, RFX, INT | -1 | 3d6 |
-| Poison Magic                                           | STR, RFX, INT | -1 | 3d6 |
+| Venom Magic                                            | STR, RFX, INT | -1 | 3d6 |
 
 |   Warrior   | STR, RFX, INT | 0 | 4d6 |
 | :---------: | :-----------: | :-: | :-: |
