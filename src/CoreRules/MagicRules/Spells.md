@@ -8,7 +8,7 @@ To use a Spell a character must:
 - Achieve the CL required to cast said Spell with their Magic Skill Roll.
 - Have Magic Resource to consume proportionate to the Spell's CL.
 
-Some spells can consume additional Magic Resource for improved effects.
+Certain spells can consume additional Magic Resource for improved effects. A spell can only consume as much Magic Resource as the wins from the Magic Skill Roll, including the normal amount.
 
 ## Spells in Narrative
 
