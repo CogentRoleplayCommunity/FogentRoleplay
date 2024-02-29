@@ -187,7 +187,6 @@ Apprentice magic spell that can be used for generic creative uses of magic.
 - [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
 - [Hold Humanoid](./Spells/Apprentice/HoldHumanoid.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
-- [Mage Shield](Spells/Apprentice/MageShield.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
 - [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
 - [Ranged Healing](Spells/Apprentice/RangedHealing.md)
