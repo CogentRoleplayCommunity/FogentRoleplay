@@ -172,7 +172,7 @@ Novice magic spell that can be used for generic creative uses of magic. Generall
 | Magic Weapon Infusion |         0         |   1 round   |  Self  |   See description   | 1 round |                 Any Magic                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    With a weapon utilized in the casting of this spell held, you infuse it with the damage types your magic skill provides. Should the attack connect, the target is subjected to both the weapon's and magic infusions damage types.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |      Magic Hand      |         0         |   1 round   | Medium | A point within range | 1 minute | Any Magic capable of taking physical form |                                                                                                                                                                                                                                                                                                                                                                   A magic hand materializes at a designated point within the spell's range. This apparition persists for the spell's duration or until you choose to dismiss it. The hand dissipates if it strays beyond a the spells effective range or if you cast the spell anew. You have the ability command the hand. Its functions include manipulating objects, opening unlocked doors or containers, stowing or retrieving items from open containers, and pouring the contents out of a vial. The hand's movement speed is equal to it's effective range. It is roughly as strong as the users hand. If attacks are made with it, treat it as the users own unarmed attacks.                                                                                                                                                                                                                                                                                                                                                                   |
 
-## Apprentice Spells (CL 1 - 2)
+## Apprentice Spells (CL 1-2)
 
 Apprentice magic spell that can be used for generic creative uses of magic.
 
@@ -192,7 +192,7 @@ Apprentice magic spell that can be used for generic creative uses of magic.
 - [Shape Shift](Spells/Apprentice/ShapeShift.md)
 - [Weird Insight](Spells/Apprentice/WeirdInsight.md)
 
-## Adept Spells (CL 3 - 4)
+## Adept Spells (CL 3-4)
 
 Adept magic spell that can be used for generic creative uses of magic.
 
@@ -200,8 +200,8 @@ Adept magic spell that can be used for generic creative uses of magic.
 | :------------: | :---------------: | :----------: | :---: | :----: | :-----------------------: | :-------------------: | :-------------------------------------------------------------: |
 | Manifest Wings |         3         |   1 action   | Self |  Self  | Concentration, 10 minutes |     Bodily Magic     | Character grows wings and gains the Flight Combat Speed effect. |
 
-## Expert Spells (CL 5 - 6)
+## Expert Spells (CL 5-6)
 
-## Master Spells (CL 7 - 8)
+## Master Spells (CL 7-8)
 
 ## Legendary Spells (CL 9+)
