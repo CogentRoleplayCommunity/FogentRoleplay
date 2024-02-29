@@ -23,7 +23,7 @@
 | :---------------------: | :-----------------------------------------------------------: | :------: | :------------------------------------------------------: |
 |  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                          |
 |   Minor Fire Weakness   |  +1 to the level of injury<br />received from Fire damage.  |          |                                                          |
-| Physical Defense Level  |                               0                               |          |                          Armor                           |
+| Physical Defense Level  |                               0                               |          |                          Armor & Shield                           |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                          |
 | Terrestrial Combat Speed |                             35 ft                             |          |  +10 ft (per Athletics Dice), +/-10 ft (per RFX)   |
 |   Swim Combat Speed   |                             20 ft                             |          | +5 ft (per Athletics Dice), +/-5 ft (per RFX) |

@@ -21,7 +21,7 @@
 
 |           Name           |               Effect               | Duration |                      Source                      |
 | :----------------------: | :---------------------------------: | :------: | :----------------------------------------------: |
-|  Physical Defense Level  |                  6                  |          |                      Armor                      |
+|  Physical Defense Level  |                  6                  |          |                      Armor & Shield                      |
 |       Medium Size       |        5x5 ft on battle map.        |          |                                                  |
 |    Language: Babelish    |         Can speak Babelish.         |          |                                                  |
 |     Equipment Weight     |                66 lb                |          |                    Equipment                    |

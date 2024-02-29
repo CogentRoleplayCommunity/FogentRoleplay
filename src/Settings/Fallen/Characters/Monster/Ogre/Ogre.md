@@ -23,7 +23,7 @@
 |          Name          |                            Effect                            | Duration |                                                       Source                                                       |
 | :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
 |  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellblood                                                    |
-| Physical Defense Level |                               1                               |          |                                                        Armor                                                        |
+| Physical Defense Level |                               1                               |          |                                                        Armor & Shield                                                        |
 |       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
 |   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
 |     Language: Jotun     |                       Can speak Jotun.                       |          |                                                                                                                    |

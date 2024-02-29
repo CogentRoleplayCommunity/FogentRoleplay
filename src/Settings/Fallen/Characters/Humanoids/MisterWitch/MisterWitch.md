@@ -26,7 +26,7 @@
 |            Name            |                                                            Effect                                                            | Duration |                      Source                      |
 | :------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
 |       Fey Anceserty       |                     Has advantage on savying throws against being charmed, and magic can't put to sleep.                     |          |                                                  |
-|   Physical Defense Level   |                                                              0                                                              |          |                      Armor                      |
+|   Physical Defense Level   |                                                              0                                                              |          |                      Armor & Shield                      |
 |        Medium Size        |                                                    5x5 ft on battle map.                                                    |          |                                                  |
 |      Language: Common      |                                                      Can speak Common.                                                      |          |                                                  |
 |      Language: Elvish      |                                                      Can speak Elvish.                                                      |          |                                                  |

@@ -25,7 +25,7 @@
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------: | :------: | :----------------------------------------------: |
 |                           [Language](./../../../Languages/Languages.md): Primal                           |       Can speak Primal.       |          |                                                  |
 |                                                                                                        |                              |          |                                                  |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |               1               |          |                      Armor                      |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |               1               |          |                      Armor & Shield                      |
 |                                                                                                        |                              |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Large                  |    10x10 ft on battle map.    |          |                                                  |
 |      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |             60 ft             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |

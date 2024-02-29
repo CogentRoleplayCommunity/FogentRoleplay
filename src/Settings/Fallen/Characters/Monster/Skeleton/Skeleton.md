@@ -22,7 +22,7 @@
 
 |            Name            |                           Effect                           | Duration |                                                       Source                                                       |
 | :------------------------: | :---------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|   Physical Defense Level   |                              1                              |          |                                                        Armor                                                        |
+|   Physical Defense Level   |                              1                              |          |                                                        Armor & Shield                                                        |
 |        Medium Size        |                    5x5 ft on battle map.                    |          |                                                                                                                    |
 |      Equipment Weight      |                           9.5 lb                           |          |                                                      Equipment                                                      |
 |   Carry Weight   |                           120 lb                           |          | +50 lbs Carry Weight per Lift dice |

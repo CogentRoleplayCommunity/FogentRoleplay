@@ -25,7 +25,7 @@
 |               Incorporeal Form               | Can move through physical objects and creatures as if they were difficult terrain. |          |                                                        |
 |           Medium Silver Weakness           |               +2 to the level of injury received from Silver damage.               |          |                                                        |
 | Complete Non-Magical/Non-Silvered Resistance |       Negate victory levels received from  Non-Magical/Non-Silvered  damage.       |          |                                                        |
-|            Physical Defense Level            |                                         0                                         |          |                         Armor                         |
+|            Physical Defense Level            |                                         0                                         |          |                         Armor & Shield                         |
 |                 Medium Size                 |                               5x5 ft on battle map.                               |          |                                                        |
 |                 Language: ?                 |                        Can speak languages it knew in life.                        |          |                                                        |
 |             Flight Combat Speed             |                                       60 ft                                       |          | +15 ft (per Governing Skill Dice), +/-15 ft (per RFX) |
