@@ -33,7 +33,7 @@
 
 ## Humanoids
 
-- [Apprentice Druid](./Humanoids/ApprenticeDruid/ApprenticeDruid.md)
+- [Novice Druid](./Humanoids/NoviceDruid/NoviceDruid.md)
 - [Apprentice Runesmith](./Humanoids/ApprenticeRunesmith/ApprenticeRunesmith.md)
 - [Cultist](Humanoids/Cultist/Cultist.md)
 - [Evil Runesmith](./Humanoids/EvilRunesmith/EvilRunesmith.md)

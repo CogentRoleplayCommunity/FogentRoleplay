@@ -1,4 +1,4 @@
-# Apprentice Druid
+# Novice Druid
 
 ![img]()
 
@@ -13,12 +13,11 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Druid        |   RFX, INT   | 1 | 4d6 |
-| ------------ | :-----------: | :-: | :-: |
-| Nature Rune  |   RFX, INT   | 1 | 5d6 |
-| Earth Rune   |   RFX, INT   | 1 | 5d6 |
-| Water Rune   |   RFX, INT   | 1 | 5d6 |
-| Large Hafted | STR, RFX, INT | 0 | 4d6 |
+| [Druid](./../../../MagicSystems/Druidcraft/Druidcraft.md) | RFX, INT | 0 | 4d6 |
+| ------------------------------------------------------ | :------: | :-: | :-: |
+| Plant Magic                                            | RFX, INT | 0 | 4d6 |
+| Earth Magic                                            | RFX, INT | 0 | 4d6 |
+| Water Magic                                            | RFX, INT | 0 | 4d6 |
 
 ## Info
 
@@ -38,7 +37,7 @@
 |          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                15 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                    |          |                                                  |
-|              [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus              |                 5/5                 |          |              Druid/Survival Level              |
+|        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection        |                 5/5                 |          |              Druid/Survival Level              |
 |                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
