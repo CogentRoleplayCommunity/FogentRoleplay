@@ -1,66 +1,71 @@
 # Feral Beastkin Soldier
 
-## Attributes and Core Skills
+![img]()
 
-| STR       | 0 |    | RFX             | 0 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 3d6 | Acrobatics      | 1 | 3d6 | Communication     | -1 | 2d6 |
-| Climb     | 0 | 2d6 | Perception      | 0 | 2d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 1 | 3d6 | Sleight of Hand | 0 | 2d6 | Survival          | 0 | 3d6 |
-| Lift      | 1 | 3d6 | Stealth         | 0 | 2d6 | Will              | 0 | 3d6 |
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-## Vocations and Vocational Skills
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 3d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 1 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | -1 | 2d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 2d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 2d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 2d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 1 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 2d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
-| Guard {STR, RFX, INT}         | 1 | 4d6 |
-| ----------------------------- | :-: | :-: |
-| Medium Sword {STR, RFX, INT} | 1 | 4d6 |
-| Light Bow {STR, RFX, INT}    | 1 | 4d6 |
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-## Effects
+|    Guard    | STR, RFX, INT | 1 | 4d6 |
+| :----------: | :-----------: | :-: | :-: |
+| Medium Sword | STR, RFX, INT | 1 | 4d6 |
+|  Light Bow  | STR, RFX, INT | 1 | 4d6 |
 
-|          Name          |             Effect             | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-| Physical Defense Level |                6                |          |                                                        Armor                                                        |
-|       Medium Size       |      5x5 ft on battle map.      |          |                                                                                                                    |
-|   Language: Babelish   |       Can speak Babelish.       |          |                                                                                                                    |
-|    Language: Primal    |        Can speak Primal.        |          |                                                                                                                    |
-|    Equipment Weight    |              69 lb              |          |                                                      Equipment                                                      |
-|  Carry Weight  |             160 lb             |          | +50 lbs Carry Weight per Lift dice |
-|      Weight Class: Medium      | -1d6 to STR/RFX governed Dice Pools |          |                                              25% - 50% of carry weight                                              |
-| Terrestrial Combat Speed |              25 ft              |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
-|   Swim Combat Speed   |              10 ft              |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
-|  Climb Combat Speed  |              10 ft              |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
+## Info
 
-## Combat Rolls
+|                                                  Name                                                  |                          Info                          | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
+|                          [Language](./../../../Languages/Languages.md): Babelish                          |                  Can speak Babelish.                  |          |                                                  |
+|                           [Language](./../../../Languages/Languages.md): Primal                           |                   Can speak Primal.                   |          |                                                  |
+|                                                                                                        |                                                        |          |                                                  |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                         69 lb                         |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         200 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Medium       |          -1d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                        |                                                        |          |                                                  |
+|          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                    4, 6 with Shield                    |          |                  Armor & Shield                  |
+|                                                                                                        |                                                        |          |                                                  |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |                 5x5 ft on battle map.                 |          |                                                  |
+|      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                         30 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         15 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                         10 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                        |                                                        |          |                                                  |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |             – 0 dice to all dice checks.             |          |                 Damage Received                 |
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Medium Thrusting Sword | 5d6<br />(+1d6) | 6d6<br />(+2d6) |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-| Medium Slashing Sword | 6d6<br />(+2d6) | 7d6<br />(+3d6) |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-|       Light Bow       |      None      |      +1d6      |       None       |      0      |  Far  |                  |           Quick           |        None        |        Arrow        |
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|      Name      | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :------------: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
-| Standard Arrow |        Arrow        |  6d6<br />(+1d6)  |      1      | None |      Pierce      |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Equipment:
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
+
+|          Name          | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :--------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|        Unarmed        |                                         -1                                         |                                         -1                                         |                                          None                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Medium Thrusting Sword |                                        +1d6                                        |                                        +2d6                                        |                                          +1d6                                          |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Medium Slashing Sword |                                        +2d6                                        |                                        +3d6                                        |                                          +1d6                                          |                                            0                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|       Light Bow       |                                        None                                        |                                        +1d6                                        |                                          None                                          |                                            0                                            |                          Far                          |                                                                        |                                          Quick                                          |                                    None                                    |                                             Arrow                                             |
+
+#### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
+
+|      Name      | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
+| :------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| Standard Arrow |                                             Arrow                                             |                                            +1d6                                            |                                            1                                            |                                    None                                    |                                             Pierce                                             |                                                None                                                |
+
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
 |         Name         | # |                     Class                     |     Effect     |   Tier   | Durability |  LB  | Value |
 | :-------------------: | :-: | :-------------------------------------------: | :------------: | :-------: | :--------: | :--: | :---: |
 |    Gambeson Armor    | 1 |       Body Armor, Arm Armor, Leg Armor       | Phy. Def. 1.00 |  Mundane  |   12/12   |  8  | 5 bc |
 |    Chainmail Armor    | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 3  | Excellent |   21/21   |  47  | 75 bp |
-|     Heater Shield     | 1 |                    Shield                    |  Phy. Def. 2.00  |  Mundane  |   12/12   |  8  | 7 bc |
+|     Heater Shield     | 1 |                    Shield                    | Phy. Def. 2.00 |  Mundane  |   12/12   |  8  | 7 bc |
 |     Arming Sword     | 1 | Medium Thrusting Sword, Medium Slashing Sword |                |  Mundane  |   12/12   |  2  | 10 bc |
 |       Shortbow       | 1 |                   Light Bow                   |                |  Mundane  |   12/12   |  2  | 25 bc |
 | Quiver (capacity: 20) | 1 |                                              |                |  Mundane  |            |  1  | 1 bc |
 |    Broadhead Arrow    | 20 |                Standard Arrow                |                |  Mundane  |            | 0.05 | 5 cc |
-
-## Notes
-
-## Appearance
-
-## Beliefs/Morality
-
-## Goals/Aspirations
-
-## Backstory
