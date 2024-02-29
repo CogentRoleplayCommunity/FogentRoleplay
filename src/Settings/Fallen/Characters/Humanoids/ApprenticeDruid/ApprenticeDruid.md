@@ -13,12 +13,12 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Druid          |   RFX, INT   | 1 | 4d6 |
-| -------------- | :-----------: | :-: | :-: |
-| Rune of Nature |   RFX, INT   | 1 | 5d6 |
-| Rune of Earth  |   RFX, INT   | 1 | 5d6 |
-| Rune of Water  |   RFX, INT   | 1 | 5d6 |
-| Large Hafted   | STR, RFX, INT | 0 | 4d6 |
+| Druid        |   RFX, INT   | 1 | 4d6 |
+| ------------ | :-----------: | :-: | :-: |
+| Nature Rune  |   RFX, INT   | 1 | 5d6 |
+| Earth Rune   |   RFX, INT   | 1 | 5d6 |
+| Water Rune   |   RFX, INT   | 1 | 5d6 |
+| Large Hafted | STR, RFX, INT | 0 | 4d6 |
 
 ## Info
 
