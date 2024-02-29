@@ -15,7 +15,7 @@
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 2 | 7d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
-|                         Mindcraft                         | STR, RFX, INT | 1 | 6d6 |
+|                         Mindcraft                         | STR, RFX, INT | 2 | 7d6 |
 
 ## Info
 
@@ -74,7 +74,6 @@
 | Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
 | Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
 | Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
-
 
 ## Known Spells
 
