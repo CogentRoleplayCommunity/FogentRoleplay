@@ -30,7 +30,7 @@
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |               150 lb               |          |        +50 lbs Carry Weight per Lift dice        |
 |       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                    |          |                                                  |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                  2                  |          |                      Armor & Shield                      |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                  2                  |          |                  Armor & Shield                  |
 |                                                                                                        |                                    |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |        5x5 ft on battle map.        |          |                                                  |
 |      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
@@ -111,36 +111,18 @@
 | Leather Armor   | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2.00                                                 |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
 | Conduit - Staff | 1 |              Magic Conduit, Large Hafted Blunt              |                                                                |                          Mundane                          |                                                                      |                             4                             |                    5 bc                    |
 
-## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
+## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
 
-| Name | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ---- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-|      |  |                                                            |                                                                |                                                          |                                                                      |                                                            |                                            |
+### [Novice Spells (CL 0)](./../../../../../CoreRules/MagicRules/Spells.md#novice-spells-cl-0)
 
-## Notes
+- (Spell Name Example)
 
-## Appearance
+### [Apprentice Spells (CL 1-2)](./../../../../../CoreRules/MagicRules/Spells.md#apprentice-spells-cl-1---2)
 
-Age:
+### [Adept (CL 3-4)](./../../../../../CoreRules/MagicRules/Spells.md#adept-spells-cl-3---4)
 
-Race:
+### [Expert (CL 5-6)](./../../../../../CoreRules/MagicRules/Spells.md#expert-spells-cl-5---6)
 
-Height: ?' ?"
+### [Master (CL 7-8)](./../../../../../CoreRules/MagicRules/Spells.md#master-spells-cl-7---8)
 
-Weight: ~ ? lb
-
-Body Type:
-
-Hair Color:
-
-Eye Color:
-
-Additional Details:
-
-## Disposition
-
-## Beliefs/Morality
-
-## Goals/Aspirations
-
-## Backstory
+### [Legendary (CL 9+)](./../../../../../CoreRules/MagicRules/Spells.md#legendary-spells-cl-9)

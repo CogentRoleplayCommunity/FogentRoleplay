@@ -113,16 +113,18 @@
 | Conduit - Wand | 1 |                              Magic Conduit                              |                                                                |                          Quality                          |                                                                      |                             1                             |                    10 bc                    |
 | Dagger         | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |                                                                |                          Mundane                          |                                 12/12                                 |                             1                             |                    2 bc                    |
 
-## Known Spells
+## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
 
-Novice:
+### [Novice Spells (CL 0)](./../../../../../CoreRules/MagicRules/Spells.md#novice-spells-cl-0)
 
-Apprentice:
+- (Spell Name Example)
 
-Adept:
+### [Apprentice Spells (CL 1-2)](./../../../../../CoreRules/MagicRules/Spells.md#apprentice-spells-cl-1---2)
 
-Expert:
+### [Adept (CL 3-4)](./../../../../../CoreRules/MagicRules/Spells.md#adept-spells-cl-3---4)
 
-Master:
+### [Expert (CL 5-6)](./../../../../../CoreRules/MagicRules/Spells.md#expert-spells-cl-5---6)
 
-Legendary:
+### [Master (CL 7-8)](./../../../../../CoreRules/MagicRules/Spells.md#master-spells-cl-7---8)
+
+### [Legendary (CL 9+)](./../../../../../CoreRules/MagicRules/Spells.md#legendary-spells-cl-9)

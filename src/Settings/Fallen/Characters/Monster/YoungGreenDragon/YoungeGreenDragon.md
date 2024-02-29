@@ -31,7 +31,7 @@
 |                          [Language](./../../../Languages/Languages.md): Draconic                          |                                                   Can speak Draconic.                                                   |          |                                                  |
 |                                                                                                        |                                                                                                                          |          |                                                  |
 |          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          |                                 +1 to the level of injury received from Silver damage.                                 |          |                    Fellblood                    |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                                                            6                                                            |          |                      Armor & Shield                      |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                                                            6                                                            |          |                  Armor & Shield                  |
 |                                                                                                        |                                                                                                                          |          |                                                  |
 |        [Enhanced Darkvision](./../../../../../CoreRules/AdvancedRules/VisionAndLight.md#darkvision)        | Within 120 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color. |          |                                                  |
 |            [Blindsight](./../../../../../CoreRules/AdvancedRules/VisionAndLight.md#blindsight)            |                        Within 30 ft, the environment can be perceived without the need for sight.                        |          |                                                  |
@@ -112,21 +112,18 @@
 | Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
 | Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
 
-## Known Spells
+## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
 
-Generic:
+### [Novice Spells (CL 0)](./../../../../../CoreRules/MagicRules/Spells.md#novice-spells-cl-0)
 
-- [Out Of Combat Spell](./../../../../../CoreRules/MagicRules/Spells/Generic/OutOfCombatSpells.md)
-- [Magic Weapon](./../../../../../CoreRules/MagicRules/Spells/Generic/MagicWeapon.md)
+- (Spell Name Example)
 
-Novice:
+### [Apprentice Spells (CL 1-2)](./../../../../../CoreRules/MagicRules/Spells.md#apprentice-spells-cl-1---2)
 
-Apprentice:
+### [Adept (CL 3-4)](./../../../../../CoreRules/MagicRules/Spells.md#adept-spells-cl-3---4)
 
-Adept:
+### [Expert (CL 5-6)](./../../../../../CoreRules/MagicRules/Spells.md#expert-spells-cl-5---6)
 
-Expert:
+### [Master (CL 7-8)](./../../../../../CoreRules/MagicRules/Spells.md#master-spells-cl-7---8)
 
-Master:
-
-Legendary:
+### [Legendary (CL 9+)](./../../../../../CoreRules/MagicRules/Spells.md#legendary-spells-cl-9)
