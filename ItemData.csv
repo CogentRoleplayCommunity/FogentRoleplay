@@ -178,7 +178,7 @@ Chainmail Short-sleeved Hauberk,1,Body Armor,Phy. Def. 1.15,Excellent,21/21,18,2
 Chainmail Sleeves/Mittens,1,"Arm Armor, Hand Protection Unarmed",Phy. Def. 0.77,Excellent,21/21,12,19.16 bc,
 Chainmail Chausses,1,Leg Armor,Phy. Def. 0.7,Excellent,21/21,11,17.55 bc,
 ,,,,,,,,
-Brigandine Armor,1,"Head Armor, Body Armor, Arm Armor, Leg Armor",Phy. Def. 4,Exquisite,27/27,52,200 bc,
+Brigandine Armor,1,"Head Armor, Body Armor, Arm Armor, Leg Armor",Phy. Def. 4.00,Exquisite,27/27,52,200 bc,
 Half Helm,1,Head Armor,Phy. Def. 0.39,Exquisite,27/27,5,19.23 bc,
 Brigandine Cuirass and Pauldrons,1,Body Armor,Phy. Def. 1.69,Exquisite,27/27,22,84.62 bc,
 Brigandine Cuisses and Greaves,1,"Arm Armor, Hand Protection Unarmed",Phy. Def. 1.00,Exquisite,27/27,13,50 bc,
@@ -199,7 +199,7 @@ Pavise Shield,1,Shield,Phy. Def. 2.00,Mundane,12/12,8,7 bc,
 Heater Shield,1,Shield,Phy. Def. 2.00,Mundane,12/12,8,7 bc,
 Kite Shield (Dawn Emp. Crest),1,Shield,Phy. Def. 2.00,Superior,24/24,8,30 bc,
 Tower Shield,1,Shield,Phy. Def. 3.00,Mundane,12/12,25,150 bc,
-Mantlet,1,Shield,Phy. Def. 4,Mundane,12/12,90,17 bc,
+Mantlet,1,Shield,Phy. Def. 4.00,Mundane,12/12,90,17 bc,
 ,,,,,,,,
 Amulet Of Reflection,1,,Apparel Storage,Flawless,30/30,0.2,?,"""By failing to prepare, you are preparing to fail"" - Serana Reddington
 
