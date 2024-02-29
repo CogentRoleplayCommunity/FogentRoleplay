@@ -99,7 +99,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Chainmail Sleeves/Mittens     | 1 |                  Arm Armor                  | Phy. Def. 0.77, Hand Protection Unarmed |  Excellent  |   21/21   |   12   | 19.16 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Chainmail Chausses        | 1 |                  Leg Armor                  |              Phy. Def. 0.7              |  Excellent  |   21/21   |   11   | 17.55 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
-|         Brigandine Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 4               |  Exquisite  |   27/27   |   52   |  200 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|         Brigandine Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 4.00               |  Exquisite  |   27/27   |   52   |  200 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |             Half Helm             | 1 |                  Head Armor                  |             Phy. Def. 0.39             |  Exquisite  |   27/27   |   5   | 19.23 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 | Brigandine Cuirass and Pauldrons | 1 |                  Body Armor                  |             Phy. Def. 1.69             |  Exquisite  |   27/27   |   22   | 84.62 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Brigandine Cuisses and Greaves  | 1 |                  Arm Armor                  |             Phy. Def. 1.00             |  Exquisite  |   27/27   |   13   |   50 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -120,7 +120,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Heater Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |   Kite Shield (Dawn Emp. Crest)   | 1 |                    Shield                    |             Phy. Def. 2.00             |  Superior  |   24/24   |   8   |   30 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |       Heavy Shield (Tower)       | 1 |                    Shield                    |               Phy. Def. 3.00               |   Mundane   |   12/12   |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|              Mantlet              | 1 |                    Shield                    |               Phy. Def. 4               |   Mundane   |   12/12   |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|              Mantlet              | 1 |                    Shield                    |               Phy. Def. 4.00               |   Mundane   |   12/12   |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
