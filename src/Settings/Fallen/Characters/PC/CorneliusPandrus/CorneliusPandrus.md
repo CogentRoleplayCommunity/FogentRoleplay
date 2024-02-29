@@ -24,6 +24,32 @@
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
 |                         Hemacraft                         | STR, RFX, INT | -1 | 2d6 |
 
+### Info
+
+|                                                      Name                                                      |                          Info                          | Duration |                      Source                      |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
+|                     [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                     |                           2                           |          |                                                  |
+|                              [Language](./../../../Languages/Languages.md): Babelish                              |                  Can speak Babelish.                  |          |                                                  |
+|                                  [Language](./../../../Languages/Languages.md):                                  |                   Can speak Pirish.                   |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Feeble |                         -1 STR                         |          |                                                  |
+|                                                                                                                |                                                        |          |                                                  |
+|               [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)               |                         11 lb                         |          |                    Equipment                    |
+|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)               |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
+|           [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light           |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                |                                                        |          |                                                  |
+|             [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)             | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+|    [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)    |                           0                           |          |                  Armor & Shield                  |
+|                                                                                                                |                                                        |          |                                                  |
+|                     [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                     |                 5x5 ft on battle map.                 |          |                                                  |
+|          [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         20 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|             [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                         10 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|             [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                         10 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                |                                                        |          |                                                  |
+|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          7/7                          |          |       Vocation/Magic Governing Core Skill       |
+|                [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                |                          1/1                          |          |       Vocation/Magic Governing Core Skill       |
+|                    [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                    |                          0/3                          |          |               Awarded by Narrator               |
+|                         [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                         |             – 0 dice to all dice checks.             |          |                 Damage Received                 |
+
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
 - [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
@@ -101,33 +127,7 @@
 | Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
 | Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
 
-### Info
-
-|                                                      Name                                                      |                          Info                          | Duration |                      Source                      |
-| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                     [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                     |                           2                           |          |                                                  |
-|                              [Language](./../../../Languages/Languages.md): Babelish                              |                  Can speak Babelish.                  |          |                                                  |
-|                                  [Language](./../../../Languages/Languages.md):                                  |                   Can speak Pirish.                   |          |                                                  |
-| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Feeble |                         -1 STR                         |          |                                                  |
-|                                                                                                                |                                                        |          |                                                  |
-|               [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)               |                         11 lb                         |          |                    Equipment                    |
-|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)               |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light           |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|                                                                                                                |                                                        |          |                                                  |
-|             [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)             | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
-|    [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)    |                           0                           |          |                  Armor & Shield                  |
-|                                                                                                                |                                                        |          |                                                  |
-|                     [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                     |                 5x5 ft on battle map.                 |          |                                                  |
-|          [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                         20 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|             [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                         10 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|             [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)             |                         10 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|                                                                                                                |                                                        |          |                                                  |
-|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                          7/7                          |          |       Vocation/Magic Governing Core Skill       |
-|                [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                |                          1/1                          |          |       Vocation/Magic Governing Core Skill       |
-|                    [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                    |                          0/3                          |          |               Awarded by Narrator               |
-|                         [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                         |             – 0 dice to all dice checks.             |          |                 Damage Received                 |
-
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+### [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
 | Name                | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
 | ------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |

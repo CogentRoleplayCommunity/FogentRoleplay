@@ -22,6 +22,31 @@
 |                         Sonocraft                         | STR, RFX, INT | 0 | 3d6 |
 |                         Polycraft                         | STR, RFX, INT | -1 | 2d6 |
 
+## Info
+
+|                                                        Name                                                        |                          Info                          | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
+|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                           3                           |          |                                                  |
+|                                [Language](./../../../Languages/Languages.md): Babelish                                |                  Can speak Babelish.                  |          |                                                  |
+|                                 [Language](./../../../Languages/Languages.md): Primal                                 |                   Can speak Primal.                   |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Dim-witted |                         -1 INT                         |          |                                                  |
+|                                                                                                                    |                                                        |          |                                                  |
+|                 [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                 |                         24 lb                         |          |                    Equipment                    |
+|                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                  |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
+|             [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light             |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                    |                                                        |          |                                                  |
+|                [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
+|       [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)       |                           3                           |          |                  Armor & Shield                  |
+|                                                                                                                    |                                                        |          |                                                  |
+|                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |                 5x5 ft on battle map.                 |          |                                                  |
+|            [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)            |                         40 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         20 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|               [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)               |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                    |                                                        |          |                                                  |
+|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                  |                          1/1                          |          |       Vocation/Magic Governing Core Skill       |
+|                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                          1/3                          |          |               Awarded by Narrator               |
+|                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |             – 0 dice to all dice checks.             |          |                      Damage                      |
+
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
 - [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
@@ -95,31 +120,6 @@
 | Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
 | Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
 | Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
-
-## Info
-
-|                                                        Name                                                        |                          Info                          | Duration |                      Source                      |
-| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                           3                           |          |                                                  |
-|                                [Language](./../../../Languages/Languages.md): Babelish                                |                  Can speak Babelish.                  |          |                                                  |
-|                                 [Language](./../../../Languages/Languages.md): Primal                                 |                   Can speak Primal.                   |          |                                                  |
-| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Dim-witted |                         -1 INT                         |          |                                                  |
-|                                                                                                                    |                                                        |          |                                                  |
-|                 [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                 |                         24 lb                         |          |                    Equipment                    |
-|                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                  |                         150 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|             [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light             |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|                                                                                                                    |                                                        |          |                                                  |
-|                [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)                | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
-|       [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)       |                           3                           |          |                  Armor & Shield                  |
-|                                                                                                                    |                                                        |          |                                                  |
-|                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |                 5x5 ft on battle map.                 |          |                                                  |
-|            [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)            |                         40 ft                         |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)                |                         20 ft                         |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|               [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)               |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|                                                                                                                    |                                                        |          |                                                  |
-|                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                  |                          1/1                          |          |       Vocation/Magic Governing Core Skill       |
-|                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                          1/3                          |          |               Awarded by Narrator               |
-|                            [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                            |             – 0 dice to all dice checks.             |          |                      Damage                      |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
