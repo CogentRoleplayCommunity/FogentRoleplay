@@ -1,4 +1,4 @@
-# Apprentice Runesmith
+# Novice Runesmith
 
 ![img]()
 
