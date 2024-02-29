@@ -79,7 +79,7 @@
 
 Novice:
 
-- Weird Insight
+- [Weird Insight](./../../../../../CoreRules/MagicRules/Spells.md#N)
 
 Apprentice:
 
