@@ -93,7 +93,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Leather Cuisses and Greaves    | 1 |                  Arm Armor                  |             Phy. Def. 0.33             |   Quality   |   15/15   |   2   |  1.67 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |         Leather Vambrace         | 1 |                  Leg Armor                  |             Phy. Def. 0.33             |   Quality   |   15/15   |   2   |  1.66 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
-|          Chainmail Armor          | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 3               |  Excellent  |   21/21   |   47   |   75 bp   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|          Chainmail Armor          | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 3.00               |  Excellent  |   21/21   |   47   |   75 bp   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |          Chainmail Coif          | 1 |                  Head Armor                  |             Phy. Def. 0.38             |  Excellent  |   21/21   |   6   |  9.57 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |  Chainmail Short-sleeved Hauberk  | 1 |                  Body Armor                  |             Phy. Def. 1.15             |  Excellent  |   21/21   |   18   | 28.72 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Chainmail Sleeves/Mittens     | 1 |                  Arm Armor                  | Phy. Def. 0.77, Hand Protection Unarmed |  Excellent  |   21/21   |   12   | 19.16 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -119,7 +119,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Pavise Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Heater Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |   Kite Shield (Dawn Emp. Crest)   | 1 |                    Shield                    |             Phy. Def. 2.00             |  Superior  |   24/24   |   8   |   30 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|       Heavy Shield (Tower)       | 1 |                    Shield                    |               Phy. Def. 3               |   Mundane   |   12/12   |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|       Heavy Shield (Tower)       | 1 |                    Shield                    |               Phy. Def. 3.00               |   Mundane   |   12/12   |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |              Mantlet              | 1 |                    Shield                    |               Phy. Def. 4               |   Mundane   |   12/12   |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
