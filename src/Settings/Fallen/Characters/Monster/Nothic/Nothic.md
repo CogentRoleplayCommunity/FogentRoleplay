@@ -21,7 +21,7 @@
 
 |                                                  Name                                                  |                          Info                          | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :----------------------------------------------: |
-|                          [Language](./../../../Languages/Languages.md): Babelish                          |                  Can speak Babelish.                  |          |                                                  |
+|                        [Language](./../../../Languages/Languages.md): Tunnel-tongue                        |                Can speak Tunnel-tongue.                |          |                                                  |
 |                                               Keen Sight                                               |       Advantage on sight based Perception checks       |          |                                                  |
 |                                                                                                        |                                                        |          |                                                  |
 |          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
