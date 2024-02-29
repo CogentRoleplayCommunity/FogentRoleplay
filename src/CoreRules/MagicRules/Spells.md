@@ -185,7 +185,6 @@ Apprentice magic spell that can be used for generic creative uses of magic.
 - [Disguise Flesh](Spells/Apprentice/DisguiseFlesh.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Hellfire&#39;s Retribution](Spells/Apprentice/Hellfire'sRetribution.md)
-- [Hold Humanoid](./Spells/Apprentice/HoldHumanoid.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
 - [Primal Kinship](Spells/Apprentice/PrimalKinship.md)
