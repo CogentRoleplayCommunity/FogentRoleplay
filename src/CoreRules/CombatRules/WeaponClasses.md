@@ -144,8 +144,8 @@ Dual wielding weapons that use weapon resource or that are being thrown uses dou
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|         Unarmed         |       -1       |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-| Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|         Unarmed         |       -1       |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+| Hand Protection Unarmed |      +0d6      |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 
 ## Small Melee
 

@@ -82,7 +82,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Unarmed |       -1       |       -1       |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+| Mag. Unarmed |       -1       |      None      |       +0d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |              |                |                |                  |            |      |                  |                          |                    |                    |
 |  Mag. Puff  |       -1       |       -1       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
 
@@ -90,7 +90,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+| Mag. Hand Protection Unarmed |      +0d6      |      None      |       +0d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |  Mag. Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
 |  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
