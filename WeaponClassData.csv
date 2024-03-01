@@ -63,8 +63,8 @@ Large Piercing Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
 Horns,None,+2d6,None,2,Melee,Pierce,Rapid,None,None
 Large Horns,None,+3d6,None,3,Melee,Pierce,Rapid,None,None
 ,,,,,,,,,
-Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
-Large Stomp,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,None,None
+Slam,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
+Large Slam,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,None,None
 ,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,None,None
 ,,,,,,,,,
