@@ -51,20 +51,22 @@ Slashing Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,None,None
 Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,None,None
 Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,None,None
 ,,,,,,,,,
-Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",1,None,None
+Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
+Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
+Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 ,,,,,,,,,
 Slashing Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,None,None
 Piercing Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
-Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
-Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
-Horns,None,+1d6,None,2,Melee,Pierce,Rapid,None,None
-Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,None,None
-,,,,,,,,,
 Large Slashing Claw,+2d6,None,+1d6,0,Melee,"Slash, Bludgeon",Rapid,None,None
 Large Piercing Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
-Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
+,,,,,,,,,
+Horns,None,+2d6,None,2,Melee,Pierce,Rapid,None,None
+Large Horns,None,+3d6,None,3,Melee,Pierce,Rapid,None,None
+,,,,,,,,,
+Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
 Large Stomp,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,None,None
-Large Horns,None,+2d6,None,2,Melee,Pierce,Rapid,None,None
+,,,,,,,,,
+Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,None,None
 ,,,,,,,,,
 9mm Pistol,+2d6,+2d6,+1d6,0,Medium,,Quick,None,9mm Ammo
 5.56 Rifle,+2d6,+4d6,None,0,Sharpshooter,,Quick,None,5.56 Ammo
