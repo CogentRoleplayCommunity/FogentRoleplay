@@ -57,6 +57,7 @@
 - [Worg](Monster/Worg/Worg.md)
 - [Wraith](Monster/Wraith/Wraith.md)
 - [Young Green Dragon](Monster/YoungGreenDragon/YoungGreenDragon.md)
+- [Zombie](./Monster/Zombie/Zombie.md)
 
 ## Animals
 
