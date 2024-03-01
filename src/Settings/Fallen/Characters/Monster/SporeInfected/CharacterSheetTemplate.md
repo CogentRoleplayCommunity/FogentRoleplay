@@ -13,10 +13,10 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-|  Zombie  |      STR      | 1 | 6d6 |
-| :-------: | :-----------: | :-: | :-: |
-|  Unarmed  | STR, RFX, INT | 1 | 3d6 |
-| Weak Bite | STR, RFX, INT | 1 | 3d6 |
+| Zombie |      STR      | 1 | 6d6 |
+| :-----: | :-----------: | :-: | :-: |
+| Unarmed | STR, RFX, INT | 1 | 3d6 |
+|  Bite  | STR, RFX, INT | 1 | 3d6 |
 
 ## Info
 
