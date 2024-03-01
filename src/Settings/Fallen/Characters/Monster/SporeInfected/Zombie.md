@@ -17,6 +17,7 @@
 | :-----: | :-----------: | :-: | :-: |
 | Unarmed | STR, RFX, INT | 1 | 3d6 |
 |  Bite  | STR, RFX, INT | 1 | 3d6 |
+|  Slam  | STR, RFX, INT | 1 | 3d6 |
 
 ## Info
 
