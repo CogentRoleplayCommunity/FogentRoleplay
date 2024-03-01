@@ -1,6 +1,6 @@
-# Younge Green Dragon
+# Young Green Dragon
 
-![img](./YoungeGreenDragon.png)
+![img](./YoungGreenDragon.png)
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
