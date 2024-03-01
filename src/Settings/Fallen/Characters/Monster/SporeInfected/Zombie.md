@@ -21,20 +21,21 @@
 
 ## Info
 
-|                                                  Name                                                  |                Info                | Duration |                      Source                      |
-| :-----------------------------------------------------------------------------------------------------: | :---------------------------------: | :------: | :----------------------------------------------: |
-|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                0 lb                |          |                    Equipment                    |
-|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |               150 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|                                                                                                        |                                    |          |                                                  |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                  0                  |          |                  Armor & Shield                  |
-|                                                                                                        |                                    |          |                                                  |
-|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |        5x5 ft on battle map.        |          |                                                  |
-|      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                15 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|                                                                                                        |                                    |          |                                                  |
-|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                 Damage Received                 |
+|                                                  Name                                                  |                            Info                            | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :------: | :----------------------------------------------: |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                            3 lb                            |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                           150 lb                           |          |        +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |            -0d6 to STR/RFX governed Dice Pools            |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                        |                                                            |          |                                                  |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                             0                             |          |                  Armor & Shield                  |
+|       [Complete Resistance](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Poison       | Negate victory levels received from (damage type) damage. |          |                      Undead                      |
+|                                                                                                        |                                                            |          |                                                  |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |                   5x5 ft on battle map.                   |          |                                                  |
+|      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                           30 ft                           |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                           15 ft                           |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                           15 ft                           |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                        |                                                            |          |                                                  |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |               – 0 dice to all dice checks.               |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -50,6 +51,6 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ---- | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-|      |  |                                                            |                                                                |                                                          |                                                                      |                                                            |                                            |
+| Name            | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------- | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Clothes, Common | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
