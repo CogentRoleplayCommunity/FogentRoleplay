@@ -51,7 +51,7 @@ Slashing Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,None,None
 Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,None,None
 Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,None,None
 ,,,,,,,,,
-Weak Bite,None,-1d6,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
+Weak Bite,None,-1,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 ,,,,,,,,,
