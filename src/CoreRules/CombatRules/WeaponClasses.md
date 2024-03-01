@@ -298,7 +298,7 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Slashing Claw    |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
 |    Piercing Claw    |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |  Slash, Bludgeon  |           Rapid           |        None        |         None         |
+| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
 | Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
 - Piercing Claw ~= Small Thrusting Blade
