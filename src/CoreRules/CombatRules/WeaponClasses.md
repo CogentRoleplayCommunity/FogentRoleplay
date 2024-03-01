@@ -312,6 +312,14 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 
 - Horns ~= Medium Spear
 
+### Tentacle
+
+|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Tentacle |      +1d6      |      None      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |         None         |
+
+- Tentacles ~= Whip
+
 ## Large Sized Creature Innate
 
 ### Large Claw

@@ -1,4 +1,4 @@
-# NameGrick
+# Grick
 
 ![img]()
 
@@ -9,7 +9,7 @@
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | -1 | 3d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 1d6 |
 |     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 2 | 6d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 1d6 |
 | [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 4d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 4d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 1d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 4d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 4d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 2 | 6d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 4d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
@@ -17,6 +17,7 @@
 | :----------------: | :-----------: | :-: | :-: |
 |        Bite        | STR, RFX, INT | 2 | 5d6 |
 |        Claw        | STR, RFX, INT | 2 | 5d6 |
+|      Tentacle      | STR, RFX, INT | 2 | 5d6 |
 
 ## Info
 
@@ -47,3 +48,4 @@
 | Piercing Claw |                                        +0d6                                        |                                        None                                        |                                          +1d6                                          |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 | Slashing Claw |                                        +1d6                                        |                                        None                                        |                                          +1d6                                          |                                            0                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 |     Bite     |                                        None                                        |                                        +2d6                                        |                                          None                                          |                                            2                                            |                         Melee                         |                            Pierce, Bludgeon                            |                                       Rapid Max 2                                       |                                    None                                    |                                             None                                             |
+|   Tentacle   |                                        +1d6                                        |                                        None                                        |                                          +1d6                                          |                                            0                                            |                         Reach                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
