@@ -58,6 +58,7 @@ Piercing Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
 Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,None,None
 Stomp,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,None,None
 Horns,None,+1d6,None,2,Melee,Pierce,Rapid,None,None
+Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,None,None
 ,,,,,,,,,
 Large Slashing Claw,+2d6,None,+1d6,0,Melee,"Slash, Bludgeon",Rapid,None,None
 Large Piercing Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,None,None
