@@ -50,7 +50,6 @@
 - [Doppelganger](Monster/Doppelganger/Doppelganger.md)
 - [Grick](./Monster/Grick/Grick.md)
 - [Leshen](Monster/Leshen/Leshen.md)
-- [Lesser Wraith](Monster/LesserWraith/LesserWraith.md)
 - [Ogre](Monster/Ogre/Ogre.md)
 - [Skeleton](Monster/Skeleton/Skeleton.md)
 - [Spore Infected](Monster/Skeleton/Skeleton.md)
