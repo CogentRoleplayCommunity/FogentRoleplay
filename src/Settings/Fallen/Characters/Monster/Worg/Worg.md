@@ -1,50 +1,45 @@
 # Worg
 
-![alt_text](Worg.png)
+![img](./Worg.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 1 |    | RFX             | 0 |    | INT               | -1 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 3 | 7d6 | Acrobatics      | 1 | 4d6 | Communication     | 0 | 2d6 |
-| Climb     | 0 | 3d6 | Perception      | 1 | 5d6 | General Knowledge | 0 | 2d6 |
-| Endurance | 1 | 3d6 | Sleight of Hand | 0 | 4d6 | Survival          | 1 | 3d6 |
-| Lift      | 1 | 3d6 | Stealth         | 1 | 5d6 | Will              | 0 | 2d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 1 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | -1 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 2 | 6d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 1 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 2d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 4d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 2 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 2d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 5d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 2 | 4d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 1 | 5d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 4d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Beast {STR, RFX}     | 1 | 5d6 |
-| -------------------- | :-: | :-: |
-| Bite {STR, RFX, INT} | 1 | 4d6 |
+| Beast |   STR, RFX   | 2 | 6d6 |
+| :---: | :-----------: | :-: | :-: |
+| Bite | STR, RFX, INT | 2 | 5d6 |
 
-## Effects:
+## Info
 
-|                Name                |                                                            Effect                                                            | Duration |                      Source                      |
-| :--------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|            Darkvision            | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                                                  |
-|       Physical Defense Level       |                                                              1                                                              |          |                  Natural armor                  |
-|            Large Size            |                                                   10x10 ft on battle map.                                                   |          |                                                  |
-|          Language: Primal          |                                                      Can speak Primal.                                                      |          |                                                  |
-|          Equipment Weight          |                                                            25 lb                                                            |          |                    Equipment                    |
-|            Carry Weight            |                                                            320 lb                                                            |          |        +50 lbs Carry Weight per Lift dice        |
-|            Weight Class: Light            |                                             -0d6 to STR/RFX governed Dice Pools                                             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-| 4-Legged Terrestrial Combat Speed |                                                            65 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    4-Legged Swim Combat Speed    |                                                            35 ft                                                            |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    4-Legged Climb Combat Speed    |                                                             5 ft                                                             |          | 5 ft (Base), +5 ft (per STR), +5 ft (per Climb) |
+|                                                  Name                                                  |                      Info                      | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------: | :------: | :----------------------------------------------: |
+|                           [Language](./../../../Languages/Languages.md): Primal                           |               Can speak Primal.               |          |                                                  |
+|                                               Keen Smell                                               |  Advantage on smell based Perception checks.  |          |                                                  |
+|                                              Keen Hearing                                              | Advantage on hearing based Perception checks. |          |                                                  |
+|                                                                                                        |                                                |          |                                                  |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                       2                       |          |                  Natural Armor                  |
+|                                                                                                        |                                                |          |                                                  |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |             5x5 ft on battle map.             |          |                                                  |
+|      [Terrestrial Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)      |                     60 ft                     |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          [Swim Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)          |                     30 ft                     |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                     20 ft                     |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                        |                                                |          |                                                  |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |         – 0 dice to all dice checks.         |          |                 Damage Received                 |
 
-## Combat Rolls:
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |                    |                    |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Equipment
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-| Name            | # | Class |  Tier  | Durability | LB | Value |
-| --------------- | :-: | :---: | :-----: | :--------: | :-: | :---: |
-| Saddle - Riding | 1 |      | Mundane |            | 25 | 10 bc |
-
-## Disposition
-
-- Pack oriented
-- Feral
+| Name | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :--: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| Bite |                                        None                                        |                                  +2d6<br />(6d6)                                  |                                          None                                          |                                            2                                            |                         Melee                         |                            Pierce, Bludgeon                            |                                       Rapid Max 2                                       |                                    None                                    |                                             None                                             |
