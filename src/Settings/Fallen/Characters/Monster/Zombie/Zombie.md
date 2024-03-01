@@ -1,6 +1,6 @@
 # Zombie
 
-![img]()
+![img](./Zombie.png)
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
