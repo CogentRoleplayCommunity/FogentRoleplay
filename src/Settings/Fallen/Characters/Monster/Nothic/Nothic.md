@@ -17,6 +17,11 @@
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
 |                         Mindcraft                         | STR, RFX, INT | 2 | 7d6 |
 
+| Monster | STR, RFX, INT | 2 | 7d6 |
+| :-----: | :-----------: | :-: | :-: |
+|  Bite  | STR, RFX, INT | 2 | 7d6 |
+|  Claw  | STR, RFX, INT | 2 | 7d6 |
+
 ## Info
 
 |                                                  Name                                                  |                          Info                          | Duration |                      Source                      |
