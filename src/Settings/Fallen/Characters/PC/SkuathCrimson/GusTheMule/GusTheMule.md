@@ -62,13 +62,13 @@ Age: 15
 
 Race: Mule
 
-Height: ?' ?"
+Height: 5' 6"
 
 Weight: ~ 800 lb
 
 Body Type: Mule-ish
 
-Hair Color: Brown
+Hair Color: Golden Brown
 
 Eye Color: Black
 
