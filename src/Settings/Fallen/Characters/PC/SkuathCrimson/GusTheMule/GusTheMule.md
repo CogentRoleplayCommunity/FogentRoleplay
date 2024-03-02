@@ -94,3 +94,5 @@ As the years passed, Gus became a symbol of the town's resilience and humor in t
 One day, a local artist even immortalized Gus in a mural on the side of the general store, capturing his sassy expression and golden brown fur for all to see. The mural became a cherished landmark, attracting visitors from neighboring towns who wanted to catch a glimpse of the famous Gus.
 
 As Gus continued to age, his mischievous spirit never waned. He became a living legend, a symbol of the enduring charm found in unexpected places. The town of Tuntin, with its rolling hills and green meadows, owed much of its unique character to the one and only Gus the Mule – the sassy, gassy, and utterly unforgettable icon of their close-knit community.
+
+After the murder of his master's at the hands of the Lavendar Lancers, Gus the Mule now travels with Swordpoint, a rag-tag band of deputies/merc, all in search of those responsible circumstances that lead to his families death.
