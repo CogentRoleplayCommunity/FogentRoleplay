@@ -4,8 +4,8 @@ Attributes represent the innate characteristics of a character. An attribute can
 
 | Attribute Level | Narrative Meaning                                           |
 | :-------------: | ----------------------------------------------------------- |
-|       -2        | Painfully lacking in the attribute.                         |
-|       -1        | Below an average person in our world.                       |
+|       -2       | Painfully lacking in the attribute.                        |
+|       -1       | Below an average person in our world.                       |
 |        0        | An average person in our world.                             |
 |        1        | Professional or naturally gifted.                           |
 |        2        | Elite or 'world-class'. Peak of real world human potential. |
@@ -17,14 +17,14 @@ Attributes represent the innate characteristics of a character. An attribute can
 
 Represent your character's innate muscle strength, bone density, tendon strength, physical durability, etc...
 
-| Attribute Level |            Narrative Meaning             |
+| Attribute Level |            Narrative Meaning            |
 | :-------------: | :--------------------------------------: |
-|       -2        |                A squirrel                |
-|       -1        |   Below an average person in our world   |
+|       -2       |                A squirrel                |
+|       -1       |   Below an average person in our world   |
 |        0        |      An average person in our world      |
 |        1        |      Professional soldier or knight      |
 |        2        | World's strongest man champion or Batman |
-|        3        |      Bear, Ogre, or Captain America      |
+|        3        |     Bear, Ogre, or Captain America     |
 |        4        |                 Hercules                 |
 |        5        |                 Superman                 |
 
@@ -35,7 +35,7 @@ STR has the following effects:
 - For every point in STR the character can reduce a physical victory level achieved against them in combat once every combat encounter.
 - For every point in STR the character can reduce a physical injury against them outside of combat.
 - STR allows your character to carry around heavier gear without being penalized.
-- STR increases climb and Swim Combat Speed in combat.
+- STR increases Athletics and Climb derived Combat Speeds.
 
 ## Reflex (RFX)
 
@@ -43,9 +43,9 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 
 | Attribute Level |                 Narrative Meaning                 |
 | :-------------: | :-----------------------------------------------: |
-|       -2        |                  A sea cucumber                   |
-|       -1        |       Below an average person in our world        |
-|        0        |          An average person in our world           |
+|       -2       |                  A sea cucumber                  |
+|       -1       |       Below an average person in our world       |
+|        0        |          An average person in our world          |
 |        1        | Professional thief, parkourist, or circus acrobat |
 |        2        |    Gold medal gymnast or master martial artist    |
 |        3        |                      Legolas                      |
@@ -55,8 +55,8 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 RFX has the following effects:
 
 - RFX is factored into all RFX-governed skills (Acrobatics, Perception, Sleight of Hand, Stealth, etc...).
-- As combat is conducted in a round-by-round format, the player with the highest reflex gets **priority** in that round.
-- RFX increases walking/running movement speed in combat.
+- As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
+- RFX allows characters to move before slower characters and increases all Combat Speeds.
 
 ## Intelligence (INT)
 
@@ -64,14 +64,14 @@ Represents your raw mental horsepower, IQ, and mental/spiritual durability.
 
 | Attribute Level |                           Narrative Meaning                           |
 | :-------------: | :-------------------------------------------------------------------: |
-|       -2        |                               A zombie                                |
-|       -1        |                 Below an average person in our world                  |
-|        0        |                    An average person in our world                     |
+|       -2       |                               A zombie                               |
+|       -1       |                 Below an average person in our world                 |
+|        0        |                    An average person in our world                    |
 |        1        |           University science professor or career politician           |
 |        2        | Award-winning particle physicist or 'Sherlock Holmes' level detective |
-|        3        |                              Tony Stark                               |
-|        4        |                           Ultron or Skynet                            |
-|        5        |                        Dr. Manhattan or Athena                        |
+|        3        |                              Tony Stark                              |
+|        4        |                           Ultron or Skynet                           |
+|        5        |                       Dr. Manhattan or Athena                       |
 
 INT has the following effects:
 
