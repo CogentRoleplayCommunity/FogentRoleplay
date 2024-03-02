@@ -182,7 +182,6 @@ Apprentice magic spell that can be used for generic creative uses of magic.
 - [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
 - [Chaotic Cannon](Spells/Apprentice/ChaoticCannon.md)
 - [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
-- [Disguise Flesh](Spells/Apprentice/DisguiseFlesh.md)
 - [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
 - [Magic Resistance](Spells/Apprentice/MagicResistance.md)
