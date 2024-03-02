@@ -7,7 +7,7 @@ Naturecraft draws it's power from connection to the natural world.
 - Magic Vocation Governing Attributes: RFX, INT
 - Magic Resource Name: Nature Connection
 
-## Naturecraft Skill List
+## Druidcraft Skill List
 
 |               Magic Skill Name               |             Damage Types             | Melee Capable | Range Capable |
 | :------------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
