@@ -53,14 +53,14 @@ A rogue with a dagger is trying to close the distance on a knight who is 10 feet
 
 Using the speed types above, we can construct Combat Speeds for specific types of movement such as running, swimming, climbing, flying, etc.
 
-|         Description         | Governing Skill |   Speed Type   |                   Description                   |
-| :-------------------------: | :-------------: | :------------: | :----------------------------------------------: |
-|  Terrestrial Combat Speed  |    Athletics    |     Medium     | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|      Swim Combat Speed      |    Athletics    |   Very Slow   |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|     Climb Combat Speed     |      Climb      |   Very Slow   |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|     Flight Combat Speed     |    Athletics    |      Fast      | +15 ft (per Athletics Dice), +/-15 ft (per RFX) |
-| 4-Hooved Climb Combat Speed |      Climb      | Extremely Slow |  +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)  |
-|    Aquatic Combat Speed    |    Athletics    |     Medium     | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|  Description  | Governing Skill |   Speed Type   |                   Description                   |
+| :------------: | :-------------: | :------------: | :----------------------------------------------: |
+|  Terrestrial  |    Athletics    |     Medium     | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|      Swim      |    Athletics    |   Very Slow   |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|     Climb     |      Climb      |   Very Slow   |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|     Flight     |    Athletics    |      Fast      | +15 ft (per Athletics Dice), +/-15 ft (per RFX) |
+| 4-Hooved Climb |      Climb      | Extremely Slow |  +2.5 ft (per Climb Dice), +/-2.5 ft (per RFX)  |
+|    Aquatic    |    Athletics    |     Medium     | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 
 ### Using multiple Combat Speeds on the same round
 
