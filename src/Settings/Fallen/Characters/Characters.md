@@ -29,7 +29,7 @@
 
 - [Killroy Crimson](NPC/KillroyCrimson/KillroyCrimson.md)
 - [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
-- [Vex&#39;halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
+- [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 

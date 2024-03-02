@@ -45,7 +45,7 @@
 - Intelligence -> INT
 - Wisdom -> Will
 - Charisma -> Communication
-- If a characte is small or large, additional scaling up or down is employed
+- If a character is small or large, additional scaling up or down is employed
 
 ### DnD Skill to Fogent Skill conversion
 
