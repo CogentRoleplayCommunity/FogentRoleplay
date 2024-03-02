@@ -154,7 +154,7 @@ Major Radiant Resistance,-3 to victory levels received from Radiant damage.,Whil
 Extreme Radiant Resistance,-4 to victory levels received from Radiant damage.,While equipped,9
 Complete Radiant Resistance,Negate victory levels received from  Radiant damage.,While equipped,11
 Minor Silver Weakness,+1 to the level of injury received from damage type.,While equipped,3
-Medium Silver Weakness,+2 to the level of injury received from Silver damage.,While equipped,5
+Medium Silver Weakness,+2 to the level of injury received from damage type.,While equipped,5
 Major Silver Weakness,+3 to the level of injury received from Silver damage.,While equipped,7
 Extreme Silver Weakness,+4 to the level of injury received from Silver damage.,While equipped,9
 Mortal Silver Weakness,Negate victory levels received from Silver damage.,While equipped,11
