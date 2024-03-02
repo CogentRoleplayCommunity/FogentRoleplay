@@ -2,6 +2,8 @@
 
 You establish a telepathic connection with a friendly or charmed beast you touch. The spell is ineffective if the creature's Intelligence is 1 or higher. As long as you and the beast remain within range of each other, the telepathic link remains active. Through this connection, the creature can comprehend your telepathic messages and convey simple emotions and ideas in return.
 
+You acquire the capacity to understand and speak with beasts throughout the spell's duration. While the intelligence of many beasts may limit their knowledge and awareness, they can, at a minimum, provide information about nearby locations and creatures, based on their perceptions from the past day. Depending on the Narrator's judgment, you might also be able to persuade a beast to carry out a small task for you.
+
 ## Dice Pool Size Effect
 
 0 -  4 dice: 5 minutes, 30 foot range
