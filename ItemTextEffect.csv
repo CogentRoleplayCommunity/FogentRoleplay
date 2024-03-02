@@ -55,10 +55,10 @@ Single-use Invisibility,Applies the Invisibility Spell to the user of this item 
 Draupnir,"This ring can transform between a weapon and ring. The ring is endowed with 10 charges. With the ring equipped, the user can force a duplication resulting in either a ring or weapon, both which appear in the users hand. Duplicates can not transform, only the original. At the break of dawn, the ring regains 1d6 + 4 expended charges.",Instantaneous,3
 Minor Weakness: (Damage Type),+1 to the level of injury received from damage type.,Indefinite,3
 Medium Weakness: (Damage Type),+2 to the level of injury received from damage type.,Indefinite,5
-Major Weakness: (Damage Type),+3 to the level of injury received from damage type.,Indefinite,7
-Extreme Weakness: (Damage Type),+4 to the level of injury received from damage type.,Indefinite,9
+Serious Weakness: (Damage Type),+3 to the level of injury received from damage type.,Indefinite,7
+Fatal Weakness: (Damage Type),+4 to the level of injury received from damage type.,Indefinite,9
 Minor Resistance: (Damage Type),-1 to victory levels received from damage type.,Indefinite,3
 Medium Resistance: (Damage Type),-2 to victory levels received from damage type.,Indefinite,5
-Major Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,7
-Extreme Resistance: (Damage Type),-4 to victory levels received from damage type.,Indefinite,9
+Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,7
+Fatal Resistance: (Damage Type),-4 to victory levels received from damage type.,Indefinite,9
 Complete Resistance: (Damage Type),Negate victory levels received from damage type.,Indefinite,11
