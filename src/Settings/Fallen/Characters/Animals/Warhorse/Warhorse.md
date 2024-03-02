@@ -21,8 +21,6 @@
 
 |                                                  Name                                                  |                Info                | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :---------------------------------: | :------: | :----------------------------------------------: |
-|                           [Language](./../../../Languages/Languages.md): Primal                           |          Can speak Primal.          |          |                                                  |
-|                                                                                                        |                                    |          |                                                  |
 |           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                33 lb                |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |               400 lb               |          |        +50 lbs Carry Weight per Lift dice        |
 |       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       | -0d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
