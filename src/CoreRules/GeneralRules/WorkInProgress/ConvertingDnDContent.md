@@ -32,9 +32,9 @@
 
 ### DnD ability score to Fogent attribute
 
-- 1 - 5 -> -2
-- 6 - 9 -> -1
-- 10 - 13 -> 0
+- 1 - 3 -> -2
+- 4 - 7 -> -1
+- 8 - 13 -> 0
 - 14 - 17 -> 1
 - 18 - 21 -> 2
 - 22 - 25 -> 3
@@ -45,6 +45,7 @@
 - Intelligence -> INT
 - Wisdom -> Will
 - Charisma -> Communication
+- If a character is small or large, additional scaling up or down is employed
 
 ### DnD Skill to Fogent Skill conversion
 

@@ -1,62 +1,59 @@
 # Guard
 
-![Art](Guard.jpg)
+![img](./Guard.jpg)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 0 |    | RFX             | 0 |    | INT               | 0 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 2d6 | Acrobatics      | 1 | 3d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 2d6 | Perception      | 1 | 3d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 2d6 | Survival          | 0 | 3d6 |
-| Lift      | 1 | 3d6 | Stealth         | 0 | 2d6 | Will              | 0 | 3d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)   |   0   |       |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)          |   0   |       |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)         |   0   |       |
+| :--------------------------------------------------------------------------: | :---: | :---: | :--------------------------------------------------------------------------------------: | :---: | :---: | :------------------------------------------------------------------------------------------: | :---: | :---: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) |   1   |  3d6  |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      |   1   |  3d6  |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     |   0   |  3d6  |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     |   0   |  2d6  |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      |   1   |  3d6  | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) |   0   |  3d6  |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) |   1   |  3d6  | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) |   0   |  2d6  |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          |   0   |  3d6  |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      |   1   |  3d6  |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         |   0   |  2d6  |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              |   0   |  3d6  |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Guard {STR, RFX, INT}        | 1 | 3d6 |
-| ---------------------------- | :-: | :-: |
-| Large Spear {STR, RFX, INT} | 1 | 3d6 |
+|    Guard    | STR, RFX, INT |   1   |  3d6  |
+| :---------: | :-----------: | :---: | :---: |
+| Large Spear | STR, RFX, INT |   1   |  3d6  |
 
-## Effects
+## Info
 
-|           Name           |               Effect               | Duration |                      Source                      |
-| :----------------------: | :---------------------------------: | :------: | :----------------------------------------------: |
-|  Physical Defense Level  |                  6                  |          |                      Armor                      |
-|       Medium Size       |        5x5 ft on battle map.        |          |                                                  |
-|    Language: Babelish    |         Can speak Babelish.         |          |                                                  |
-|     Equipment Weight     |                66 lb                |          |                    Equipment                    |
-|       Carry Weight       |               120 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|      Weight Class: Medium      | -1d6 to STR/RFX governed Dice Pools |          |            25% - 50% of carry weight            |
-| Terrestrial Combat Speed |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    Swim Combat Speed    |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    Climb Combat Speed    |                15 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                    Name                                                    |                Info                 | Duration |                     Source                      |
+| :--------------------------------------------------------------------------------------------------------: | :---------------------------------: | :------: | :---------------------------------------------: |
+|                          [Language](./../../../Languages/Languages.md): Babelish                           |         Can speak Babelish.         |          |                                                 |
+|                                                                                                            |                                     |          |                                                 |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)            |                66 lb                |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |               200 lb                |          |       +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Medium       | -1d6 to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                            |                                     |          |                                                 |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |          4, 6 with Shield           |          |                 Armor & Shield                  |
+|                                                                                                            |                                     |          |                                                 |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |        5x5 ft on battle map.        |          |                                                 |
+|      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial       |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim          |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb          |                10 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                            |                                     |          |                                                 |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.     |          |                 Damage Received                 |
 
-## Combat Rolls
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|    Large Spear    | 5d6<br />(+2d6) | 6d6<br />(+3d6) |       None       |      3      | Melee |      Pierce      |        Rapid Max 2        |        None        |        None        |
-| Thrown Large Spear | 5d6<br />(+2d6) | 5d6<br />(+2d6) |       None       |    Short    | Short |      Pierce      |         Standard         |        None        |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Equipment:
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-|      Name      | # |                    Class                    |     Effect     |   Tier   | Durability | LB | Value |
-| :-------------: | :-: | :------------------------------------------: | :------------: | :-------: | :--------: | :-: | :---: |
-| Gambeson Armor | 1 |       Body Armor, Arm Armor, Leg Armor       | Phy. Def. 1.00 |  Mundane  |   12/12   | 8 | 5 bc |
-| Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |  Phy. Def. 3  | Excellent |   21/21   | 47 | 75 bp |
-|  Heater Shield  | 1 |                    Shield                    | Phy. Def. 2.00 |  Mundane  |   12/12   | 8 | 7 bc |
-|      Spear      | 1 |       Large Spear, Thrown Large Spear       |                |  Mundane  |   12/12   | 3 | 1 bc |
+|          Name           | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :---------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|         Unarmed         |                                          -1                                           |                                         None                                          |                                           +0d6                                            |                                             0                                              |                          Melee                           |                                  Bludgeon                                  |                                           Rapid                                            |                                     None                                      |                                               None                                               |
+| Hand Protection Unarmed |                                         +0d6                                          |                                         None                                          |                                           +0d6                                            |                                             0                                              |                          Melee                           |                                  Bludgeon                                  |                                           Rapid                                            |                                     None                                      |                                               None                                               |
+|       Large Spear       |                                         +2d6                                          |                                         +3d6                                          |                                           None                                            |                                             3                                              |                          Melee                           |                                   Pierce                                   |                                        Rapid Max 2                                         |                                     None                                      |                                               None                                               |
+|   Thrown Large Spear    |                                         +2d6                                          |                                         +2d6                                          |                                           None                                            |                                             3                                              |                          Short                           |                                   Pierce                                   |                                          Standard                                          |                                     None                                      |                                               None                                               |
 
-## Containers
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-## Notes
-
-## Appearance
-
-## Beliefs/Morality
-
-## Goals/Aspirations
-
-- Preserve the Law
-
-## Backstory
+| Name            |   #   |    [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)     | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------- | :---: | :-------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------: |
+| Gambeson Armor  |   1   |                   Body Armor, Arm Armor, Leg Armor                    |                          Phy. Def. 1.00                           |                           Mundane                            |                                  12/12                                   |                               8                               |                      5 bc                      |
+| Chainmail Armor |   1   | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed |                          Phy. Def. 3.00                           |                          Excellent                           |                                  21/21                                   |                              47                               |                     75 bp                      |
+| Heater Shield   |   1   |                                Shield                                 |                          Phy. Def. 2.00                           |                           Mundane                            |                                  12/12                                   |                               8                               |                      7 bc                      |
+| Spear           |   1   |                    Large Spear, Thrown Large Spear                    |                                                                   |                           Mundane                            |                                  12/12                                   |                               3                               |                      1 bc                      |

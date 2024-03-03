@@ -1,6 +1,6 @@
 # Dice Pools
 
-D6 dice are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
+D6 dice (otherwise known as six sided dice) are the most common dice used, though D4, D8, D10, D12, and D20 are also used.
 
 All Dice pools start with 3 D6 dice, known as base dice. You then add a D6 for each skill point, attribute point, or additional modifier that governs the dice pool. After the dice pool has been rolled, you sum up the amount of "Wins" from the roll. Any rolled dice that gets a 4 or greater counts as a win.
 

@@ -93,21 +93,21 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Leather Cuisses and Greaves    | 1 |                  Arm Armor                  |             Phy. Def. 0.33             |   Quality   |   15/15   |   2   |  1.67 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |         Leather Vambrace         | 1 |                  Leg Armor                  |             Phy. Def. 0.33             |   Quality   |   15/15   |   2   |  1.66 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
-|          Chainmail Armor          | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 3               |  Excellent  |   21/21   |   47   |   75 bp   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|          Chainmail Armor          | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed |               Phy. Def. 3.00               |  Excellent  |   21/21   |   47   |   75 bp   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |          Chainmail Coif          | 1 |                  Head Armor                  |             Phy. Def. 0.38             |  Excellent  |   21/21   |   6   |  9.57 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |  Chainmail Short-sleeved Hauberk  | 1 |                  Body Armor                  |             Phy. Def. 1.15             |  Excellent  |   21/21   |   18   | 28.72 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Chainmail Sleeves/Mittens     | 1 |                  Arm Armor                  | Phy. Def. 0.77, Hand Protection Unarmed |  Excellent  |   21/21   |   12   | 19.16 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Chainmail Chausses        | 1 |                  Leg Armor                  |              Phy. Def. 0.7              |  Excellent  |   21/21   |   11   | 17.55 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
-|         Brigandine Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 4               |  Exquisite  |   27/27   |   52   |  200 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|         Brigandine Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed |               Phy. Def. 4.00               |  Exquisite  |   27/27   |   52   |  200 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |             Half Helm             | 1 |                  Head Armor                  |             Phy. Def. 0.39             |  Exquisite  |   27/27   |   5   | 19.23 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 | Brigandine Cuirass and Pauldrons | 1 |                  Body Armor                  |             Phy. Def. 1.69             |  Exquisite  |   27/27   |   22   | 84.62 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Brigandine Cuisses and Greaves  | 1 |                  Arm Armor                  |             Phy. Def. 1.00             |  Exquisite  |   27/27   |   13   |   50 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 | Brigandine Vambrace and Gauntlets | 1 |                  Leg Armor                  | Phy. Def. 0.92, Hand Protection Unarmed |  Exquisite  |   27/27   |   12   | 46.15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
-|            Plate Armor            | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor |               Phy. Def. 5               | Mastercraft |   33/33   |   57   |  1495 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|            Plate Armor            | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed |               Phy. Def. 5.00               | Mastercraft |   33/33   |   57   |  1495 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |          Plate Full Helm          | 1 |                  Head Armor                  |             Phy. Def. 0.53             | Mastercraft |   33/33   |   6   | 157.37 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|    Plate Cuirass and Pauldrons    | 1 |                  Body Armor                  |            Phy. Def. 2.01            | Mastercraft |   33/33   |   23   | 603.24 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|    Plate Cuirass and Pauldrons    | 1 |                  Body Armor                  |             Phy. Def. 2.01             | Mastercraft |   33/33   |   23   | 603.24 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |     Plate Cuisses and Greaves     | 1 |                  Arm Armor                  |             Phy. Def. 1.23             | Mastercraft |   33/33   |   14   | 367.19 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |   Plate Vambrace and Gauntlets   | 1 |                  Leg Armor                  | Phy. Def. 1.23, Hand Protection Unarmed | Mastercraft |   33/33   |   14   | 367.19 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |                                  |  |                                              |                                        |            |            |        |          |              |              |              |                |
@@ -119,8 +119,8 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Pavise Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Heater Shield           | 1 |                    Shield                    |             Phy. Def. 2.00             |   Mundane   |   12/12   |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |   Kite Shield (Dawn Emp. Crest)   | 1 |                    Shield                    |             Phy. Def. 2.00             |  Superior  |   24/24   |   8   |   30 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|       Heavy Shield (Tower)       | 1 |                    Shield                    |               Phy. Def. 3               |   Mundane   |   12/12   |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|              Mantlet              | 1 |                    Shield                    |               Phy. Def. 4               |   Mundane   |   12/12   |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|       Heavy Shield (Tower)       | 1 |                    Shield                    |               Phy. Def. 3.00               |   Mundane   |   12/12   |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|              Mantlet              | 1 |                    Shield                    |               Phy. Def. 4.00               |   Mundane   |   12/12   |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
@@ -131,7 +131,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Javelin    | 1 |                    Medium Spear, Thrown Medium Spear                    |        | Mundane |   12/12   |   3   | 50 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Light Hammer  | 1 |                 Small Hafted Blunt, Small Thrown Blunt                 |        | Mundane |   12/12   |   2   |  2 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Mace      | 1 |                           Medium Hafted Blunt                           |        | Mundane |   12/12   |   3   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Sickle     | 1 |              Small Hafted Blade, Thrown Small Hafted Blade              |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|     Sickle     | 1 |             Small Hafted Blade, Thrown Small Hafted Blade             |        | Mundane |   12/12   |   2   |  1 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Spear     | 1 |                     Large Spear, Thrown Large Spear                     |        | Mundane |   12/12   |   3   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |   Battleaxe   | 1 |                            Medium Hafted Axe                            |        | Mundane |   12/12   |   4   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Flail     | 1 |                           Medium Hafted Blunt                           |        | Mundane |   12/12   |   3   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -470,7 +470,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |         Conduit - Orb         | 1 |  Magic Conduit  |        |  Mundane  |            |   3   |  20 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |         Conduit - Rod         | 1 |  Magic Conduit  |        |  Mundane  |            |   2   |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |        Conduit - Staff        | 1 |  Magic Conduit  |        |  Mundane  |            |   4   |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Wand        | 1 |  Magic Conduit  |        |  Mundane  |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|        Conduit - Wand        | 1 |  Magic Conduit  |        |  Quality  |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |  Component Pouch (2/5 ft^3)  | 1 | 12 lb container |        |  Mundane  |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Spellbook           | 1 |                |        |  Quality  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Runebook           | 1 |  Magic Conduit  |        |  Quality  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -705,7 +705,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Conduit - Orb           | 1 |  Magic Conduit  |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |           Conduit - Rod           | 1 |  Magic Conduit  |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Conduit - Staff          | 1 |  Magic Conduit  |        | Mundane |            |    4    | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Conduit - Wand           | 1 |  Magic Conduit  |        | Mundane |            |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|           Conduit - Wand           | 1 |  Magic Conduit  |        | Quality |            |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Bottle, glass           | 1 |                |        | Mundane |            |    2    | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |               Candle               | 1 |                |        | Mundane |            |   0.1   | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Case, Map or Scroll        | 1 |                |        | Mundane |            |    1    | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |

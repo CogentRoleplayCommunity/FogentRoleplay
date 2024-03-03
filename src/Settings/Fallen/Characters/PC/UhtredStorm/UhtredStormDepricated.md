@@ -23,8 +23,8 @@
 
 |                Name                |                            Effect                            | Duration |                      Source                      |
 | :--------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
-|       Minor Silver Weakness       |    +1 to the level of injury received from Silver damage.    |          |                    Fellblood                    |
-|       Physical Defense Level       |                               3                               |          |                      Armor                      |
+|       Minor Silver Weakness       |    +1 to the level of injury received from damage type.    |          |                    Fellblood                    |
+|       Physical Defense Level       |                               3                               |          |                      Armor & Shield                      |
 |            Medium Size            |                     5x5 ft on battle map.                     |          |                                                  |
 |         Language: Babelish         |                      Can speak Babelish.                      |          |                                                  |
 |  Disabling: Incontrollable Grief  | Overwhelming grief that is triggered reminder of past trauma. |          |                                                  |
