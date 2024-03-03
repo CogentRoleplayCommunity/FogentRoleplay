@@ -21,7 +21,7 @@ It's up to the players and the Narrator to negotiate how these assists can be lo
 
 ## Example 1:
 
-Thrak the barbarian is trying to lift a big rock. Bob the Bard decides he is going to play some motivational music on his guitar to Assist Thrak. The narrator agrees and sets a CL 3 Performance Check for the assists. Bob rolls his Performance Vocational skill and gets 4 wins, resulting in +1 wins to Thrak's Lift Check. In a parallel reality, Bob only gets 3 wins, and his song doesn't help Thrak. In another parallel reality, Bob only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in -1 Wins to Thrak's Lift Check.
+Thrak the Barbarian is trying to lift a big rock. Bob the Bard decides he is going to play some motivational music on his guitar to Assist Thrak. The narrator agrees and sets a CL 3 Performance Check for the assists. Bob rolls his Performance Vocational skill and gets 4 wins, resulting in +1 wins to Thrak's Lift Check. In a parallel reality, Bob only gets 3 wins, and his song doesn't help Thrak. In another parallel reality, Bob only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in -1 Wins to Thrak's Lift Check.
 
 ## Example 2:
 
