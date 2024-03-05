@@ -176,7 +176,6 @@ Novice magic spell that can be used for generic creative uses of magic. Generall
 
 Apprentice magic spell that can be used for generic creative uses of magic.
 
-- [Bewitch](Spells/Apprentice/Bewitch.md)
 - [Blood Buffing](Spells/Apprentice/BloodBuffing.md)
 - [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
 - [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
