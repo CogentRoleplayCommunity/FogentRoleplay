@@ -8,7 +8,7 @@ A player can spend one destiny point before rolling a dice pool to gain advantag
 
 ## Post Roll Destiny Points
 
-A character may spend a Destiny Point after any dice pool roll to add a single win in addition to what they achieved. They may do this multiple times on any roll or separate rolls, for as many Destiny Points they have.
+A player can spend one or many Destiny Points after any Dice Pool roll to add additional Win for each point spent to the result. The Wins achieved the DIce Pool roll can never exceed the number of dice rolled. For instance, if a Dice Pool of 5d6 was rolled with 5 Wins achieved, spending Post Roll Destiny Points is unallowed.
 
 ## Awarding Destiny Points
 

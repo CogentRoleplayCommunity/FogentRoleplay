@@ -176,13 +176,8 @@ Novice magic spell that can be used for generic creative uses of magic. Generall
 
 Apprentice magic spell that can be used for generic creative uses of magic.
 
-- [Bewitch](Spells/Apprentice/Bewitch.md)
-- [Blood Buffing](Spells/Apprentice/BloodBuffing.md)
-- [Bodily Healing](Spells/Apprentice/BodilyHealing.md)
-- [Bodily Transformation](Spells/Apprentice/BodilyTransformation.md)
+
 - [Chaotic Cannon](Spells/Apprentice/ChaoticCannon.md)
-- [Create Healing Blood](Spells/Apprentice/CreateHealingBlood.md)
-- [Flame Tongued Weapon](Spells/Apprentice/FlameTonguedWeapon.md)
 - [Iggilywiggly&#39;s Acidic Eruption](Spells/Apprentice/Iggilywiggly'sAcidicEruption.md)
 
 |        Name        | CL/Magic Resource | Casting Time |  Range  |         Duration         |   Magic Skills Required   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
