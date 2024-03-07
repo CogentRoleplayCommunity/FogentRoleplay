@@ -1,43 +1,15 @@
 # Fellcraft
 
-![img](./Blazecraft.png)
-
-![img](./Polycraft.png)
+- Magic Name: Fellcraft
+- Magic Vocation Name: Fellcaster
+- Magic Vocation Governing Attributes: STR, RFX, INT
+- Magic Resource Name: Fellblood
+- Cantrip Name: Trick
+- Governing Core Skill: Endurance
 
 The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Fellblood.
 
 Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Fellblood. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
-
-- Magic Name: Fellcraft
-- Magic Vocation Name: Fellcaster
-- Magic Vocation Governing Attributes: STR, RFX, INT
-- Magic Resource Name: Fellblood (A character loses equivalent Fellblood to the level of injury dealt by bleed Damage)
-- Cantrip Name: Trick
-- Governing Core Skill: Endurance
-
-## Silverburn
-
-A reaction caused by silver coming into contact with Fellblood. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Fellblood in their blood. Silver wounds can't be healed via Hemacraft or Polycraft.
-
-If a character has at least a level 1 in the "Fellkin" or equivalent vocation, they gain a Minor weakness to silver damage.
-
-Silverburn damage taken while transformed by Fellblood, forces the user to make an Endurance check to maintain their form.
-
-* CL of  Endurance check will be level of injury dealt + 1.
-* If the user fails, then they lose all active Fellcraft buffs.
-* For monsters this often means reducing their base attributes like STR and RFX.
-
-## Fellcraft Tree
-
-The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
-
-This tree represents the different path to acquire different Fellcrafts. Each solid line represents a monster whose genes bridge between Fellcrafts. For instance, Vampires represent the links between Hemacraft and Mindcraft as well as Mindcraft and Shadowcraft. While Vampires represent this on the Fellcraft Tree, these genes may exist in other monsters. This tree just shows the natural progression a Fellkin could take to acquire new Fellcraft.
-
-Squares representing non-combination Fellcrafts. These can be accessed if you choose this if your race has access or if you have a neighboring Fellcraft square already at level 0 in that Fellcraft skill. Any newly gained Fellcraft starts at level -1.
-
-Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
-
-![alt text](./FellweaveTree.png)
 
 ## Fellcraft List
 
@@ -71,6 +43,34 @@ Circles represent Fellcraft combinations, which require the Fellcrafts that atta
 |    [Magmacraft](./Fellcraft.md#magmacraft)    |       Terracraft, Blazecraft       |  Fire, Slash, Bludgeon, Hew, Pierce  |     TRUE     |     TRUE     |
 |   [Plasmacraft](./Fellcraft.md#plasmacraft)   |        Blazecraft, Galecraft        |                 Fire                 |     TRUE     |     TRUE     |
 |    [Stormcraft](./Fellcraft.md#stormcraft)    | Electrocraft, Galecraft, Hydrocraft | Electric, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
+
+## Fellcraft Tree
+
+The only way for Fellkin to obtain new Fellcraft is to emulate the genetic links of the Monsters they originate from.
+
+This tree represents the different path to acquire different Fellcrafts. Each solid line represents a monster whose genes bridge between Fellcrafts. For instance, Vampires represent the links between Hemacraft and Mindcraft as well as Mindcraft and Shadowcraft. While Vampires represent this on the Fellcraft Tree, these genes may exist in other monsters. This tree just shows the natural progression a Fellkin could take to acquire new Fellcraft.
+
+Squares represent normal Fellcrafts. These can be accessed if a characters race has access or if you have a neighboring Fellcraft square already at level 0 in that Fellcraft skill. If players are looking to branch out, they can often as the Narrator of a level -1 (Incompotent) to represent their characters genetic affinity for this type of Fellcraft.
+
+Circles represent Fellcraft combinations, which require the Fellcrafts that attach to it in order to use. The level of the combo Fellcraft is equal to the lowest dice roll of the Fellcrafts required.
+
+![alt text](./FellweaveTree.png)
+
+## Fellbood loss through Bleeding
+
+Bleeding can drain a Fellcaster of their Fellblood, reducing their ability to perform Fellcraft.  For each Injury Dice recieved from Bleed Damage, remove 20% of a character's Fellblood Magic Resource when they aren't injured. Round down if the calculation results in a number with decimals.
+
+## Silverburn
+
+A reaction caused by silver coming into contact with Fellblood. Has various effects depending on the monster or Fellkin in question. Monsters/Fellkin will both suffer an extreme allergic reaction, often combusting the Fellblood in their blood. Silver wounds can't be healed via Hemacraft or Polycraft.
+
+If a character the Vocation "Fellkin", they gain a Minor Weakness to Silver damage.
+
+Silverburn damage taken while transformed by Fellblood, forces the user to make an Endurance check to maintain their form.
+
+* CL of  Endurance check will be level of injury dealt + 1.
+* If the user fails, then they lose all active Fellcraft buffs.
+* For monsters this often means reducing their base attributes like STR and RFX.
 
 ## Polycraft
 
