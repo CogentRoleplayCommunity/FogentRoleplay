@@ -41,7 +41,7 @@ Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energ
 | :----------------------------------------: | :---------------------------------: | :----------------------------------: | :-----------: | :-----------: |
 | [Blizzardcraft](./Fellcraft.md#blizzardcraft) |  Cryocraft, Galecraft, Hydrocraft  |  Cold, Slash, Bludgeon, Shockwave  |     TRUE     |     TRUE     |
 |    [Magmacraft](./Fellcraft.md#magmacraft)    |       Terracraft, Blazecraft       |  Fire, Slash, Bludgeon, Hew, Pierce  |     TRUE     |     TRUE     |
-|   [Plasmacraft](./Fellcraft.md#plasmacraft)   |        Blazecraft, Galecraft        |                 Fire                 |     TRUE     |     TRUE     |
+|   [Plasmacraft](./Fellcraft.md#plasmacraft)   |        Blazecraft, Galecraft        |  Fire, Slash, Bludgeon, Shockwave  |     TRUE     |     TRUE     |
 |    [Stormcraft](./Fellcraft.md#stormcraft)    | Electrocraft, Galecraft, Hydrocraft | Electric, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
 
 ## Fellcraft Tree
