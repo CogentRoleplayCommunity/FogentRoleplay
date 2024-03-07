@@ -7,6 +7,7 @@
 - [Elinor Shortwick](PC/ElinorShortwick/ElinorShortwick.md)
 - [Elowyn Lovelace](PC/ElowynLovelace/ElowynLovelace.md)
 - [Fanácrio](PC/Fanácrio/Fanácrio.md)
+- [Fang Helunk](./PC/FangHelunk/FangHelunk.md)
 - [Grimwald Thornhelm](PC/GrimwaldThornhelm/GrimwaldThornhelm.md)
 - [Helena Montolie](PC/HelenaMontolie/HelenaMontolie.md)
 - [Huniki](PC/RPB_Tibor/Huniki.md)
