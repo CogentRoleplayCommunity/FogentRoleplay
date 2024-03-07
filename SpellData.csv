@@ -37,7 +37,7 @@ Create Voice Triggered Effect,2,1 hour,Melee,Indefinite,Sound Magic,You create a
 ,,,,,,
 ,,,,,," "
 Manifest Wings,3,1 action,Self,"Concentration, 10 minutes",Bodily Magic,Character grows wings and gains the Flight Combat Speed effect.
-Beastial Tranformation,3,1 action,Self,"Concentration, 1 hour",Bodily Magic,"Character undergoes a transformation, becoming more beast like. Character can gain either a +1 to STR or RFX. However, they also gain a -1 to INT as their rational mind has become more beastlike."
+Beastial Transformation,3,1 action,Self,"Concentration, 1 hour",Bodily Magic,"Character undergoes a transformation, becoming more beast like. Character can gain either a +1 to STR or RFX. However, they also gain a -1 to INT as their rational mind has become more beastlike."
 ,,,,,,
 Create Flame Tongued Weapon,5,1 hour,Melee,Indefinite,Fire Magic,"Through a laborious ritual you apply the following effect to a weapon of your choice. When activated, causes flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. This sword gains the Fire damage type, and loses the Bleed damage type. The flames last until you  speak the command word again or until you drop or sheathe the sword. The blade can only be ignited as long as it is above 3 durability. The sword can be submerged in fire to repair the blade."
 ,,,,,,
