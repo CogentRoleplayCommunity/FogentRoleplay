@@ -15,9 +15,9 @@ All magic systems built using this generalized framework require the following p
 Fallen (the setting) has 3 premade magic systems as a reference:
 
 - [Druidcraft](./../../Settings/Fallen/MagicSystems/Druidcraft/Druidcraft.md)
-- [Fellcraft](./../../Settings/Fallen/Magic/Fellcraft/Fellcraft.md)
-- [Runecraft](./../../Settings/Fallen/Magic/Runecraft/Runecraft.md)
-- [Miracles](./../../Settings/Fallen/Magic/Miracles/Miracles.md)
+- [Fellcraft](./../../Settings/Fallen/MagicSystems/Fellcraft/Fellcraft.md)
+- [Runecraft](./../../Settings/Fallen/MagicSystems/Runecraft/Runecraft.md)
+- [Miracles](./../../Settings/Fallen/MagicSystems/Miracles/Miracles.md)
 
 ## Magic Name
 
