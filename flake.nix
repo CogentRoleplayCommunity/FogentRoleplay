@@ -27,8 +27,8 @@
               {
                 name = "vscode-office";
                 publisher = "cweijan";
-                version = "3.1.5";
-                sha256 = "sha256-9K0WbvLLJzNGfs3GRMG6YC4wLcy8B5PQknE7Uo+3cC0=";
+                version = "3.2.5";
+                sha256 = "sha256-TsPlzIf/ieUW/13NQ0strDQTVFvwtrO48fJSUbMu1Bc=";
               }
               {
                 name = "vscode-edit-csv";
