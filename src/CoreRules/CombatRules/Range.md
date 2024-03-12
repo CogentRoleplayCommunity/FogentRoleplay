@@ -47,3 +47,6 @@ If a ranged shot is made within 2 times it's effective range.
 ### Exceeding 2x Effective Range (Super Disadvantage):
 
 If a ranged shot is made greater than 2 times it's effective range.
+
+
+Within range, verdant vines and resilient weeds surge forth, covering a 20-foot square area with dense foliage. Throughout the spell's duration, the ground in this zone transforms into difficult terrain. Any creature caught within the area upon casting must pass a Lift Check versus the spell's wins or restrained condition by the entwining plants until the spell concludes. A creature entangled can use its action to attempt a Lift check versus the spell's Wins. If successful, it breaks free. Once the spell dissipates, the summoned foliage withers and fades away.
