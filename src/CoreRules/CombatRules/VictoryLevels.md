@@ -20,7 +20,9 @@ This could be sand thrown in a character face, being shoulder checked, or losing
 
 Shove an enemy in a desired direction.
 
-The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is smaller than you, double the distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid-sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use an Magic Skill instead of Lift, assuming the magic could shove someone.
+
+For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is smaller than you, double the distance. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid-sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ### Grapple
 
@@ -30,7 +32,9 @@ Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditi
 
 As part of entering into a Grapple or achieving a level 1 victory while already being in a Grapple, you can move your opponent.
 
-The character can either roll a Lift check or take the average amount of wins rounded down. For each win achieved, a character can Move a creature 10 feet. For each size category the opponent is smaller than you, double the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid-sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
+The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use an Magic Skill instead of Lift, assuming the magic could grapple someone.
+
+For each win achieved, a character can Move a creature 10 feet. For each size category the opponent is smaller than you, double the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. For each size category the opponent is larger than you, half the distance. Narrator's discretion to change this distance (i.e. humanoid-sized creature weighs as much as a Large category creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 
