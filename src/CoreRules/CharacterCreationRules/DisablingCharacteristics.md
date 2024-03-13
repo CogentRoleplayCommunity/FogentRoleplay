@@ -1,6 +1,6 @@
 ## Disabling Characteristics
 
-Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the narrators approval. It is highly encouraged to take disablings as they make characters far more interesting.
+Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a short coming to overcome or temptation to fall to. It should be noted that disabling characteristics can be remedied through narrative with the narrators approval.
 
 ### Gaining Disabling Characteristics mid campaign
 
