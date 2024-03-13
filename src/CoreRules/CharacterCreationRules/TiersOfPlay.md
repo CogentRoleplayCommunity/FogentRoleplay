@@ -1,8 +1,8 @@
 # Tier of Play
 
-Tier of play narratively describe the stakes of the campaign. The purpose of which is balance player against each other and the challenges the Narrator has envisioned.
+Tier of play narratively describe the stakes of the campaign aswell and how powerful/compotent player characters are. This balances the players against each other and the challenges the Narrator has envisioned.
 
-Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at Apprentice Tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will skill points as you play.
+Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at Apprentice Tier. Also realize that your character will grow throughout the course of their story and your narrator will be rewarding you will ways to improve your character as you play.
 
 ## Tier of Play Breakdown
 
@@ -16,7 +16,7 @@ Points that can only be spent to unlock or upgrade Vocations.
 
 ### Attribute Points
 
-The number of points you can spend on attributes.
+The number of points you can spend to increase a characters Attributes.
 
 ### Skill Points
 
