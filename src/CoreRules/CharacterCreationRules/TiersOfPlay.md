@@ -68,7 +68,7 @@ Players that take a Disabling Characteristic that results in a -1 in STR, RFX, o
 | Disabling: Incapable of Lying                |   (Specific parameters required, see Cogent website for examples)   |
 | Disabling: Addiction                         |    Extreme addiction, suffers from withdrawals if not satisfied.    |
 | Disabling: Delusion                          |  Belief of something to be real beyond the scope of simple faith.   |
-| Disabling: Imperceptive                      |               -3d6 to environmental Perception rolls.               |
+| Disabling: Imperceptive                      |           Disadvantage to environmental Perception rolls.           |
 | Disabling: Blind                             |            Unable to make sight based perception checks.            |
 | Disabling: Deaf                              |           Unable to make hearing based perception checks.           |
 | Disabling: Anosmia                           |            Unable to make smell based perception checks.            |
