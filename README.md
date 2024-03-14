@@ -2,19 +2,26 @@
 
 Welcome to Fogent Roleplay.
 
-Fogent Roleplay is a heavily modified version of Cogent Roleplay that was originally made for my first campaign setting "Fallen".  Fallen + Cogent = Fogent.
-
 Fogent Roleplay is a generalizable Roleplay system that is intended to remove unneeded complexity while not sacrificing emergent/tactical gameplay. If you love the simplicity, flexibility, and narrative focus of Cogent Roleplay, but love tactical battle map combat, magic items, campaign progression, and sweet loot of D&D, then you are in the right place.
+
+What makes Fogent Roleplay different from other TTRPG systems:
+
+- **Simple Rules:** While other TTRGPs require multiple books worth of rules to play, by contrast, Fogent probably has ~15 pages of rules, much of which consist of examples. This makes the game extremely easy for new players to pick up!
+- **Narrative Focused:** Most TTRPGs feel very different in and out of combat, with non-combat roleplay having great narrative flow where your character can attempt anything that seems reasonable and combat feeling basically like a video game where characters can only perform the exact actions as described in the rules. Fogent Roleplay handles everything within the narrative flow while still having balanced combat. Combat in Fogent Roleplay feels more like an awesome fight scene in a movie or book, rather than video game characters just trying to get each other to 0 HP.
+- **Emergent Complexity:** Fogent Roleplay has very simple rules that when combined can do some amazing things. Examples of emergent complexity include Chess and Minecraft, both of which have fairly simple rules, but are extremely satisfying for veteran players to master!
+- **Decoupled Core Rules/Setting Agnostic:** Unlike most TTRPGs, Fogent Roleplay and it's rules aren't tied any setting. It can easily be used to run games in existing settings or in brand-new ones you create.
+
+As for the name "Fogent Roleplay", it comes from Fallen (my first campaign setting) + Cogent (the game on which Fogent is based).
 
 -Javk Wick, "The Forever Narrator"
 
 ## Join our community!
 
-If you are looking to join the Fogent Roleplay Community Discord or subscribe to the Javk Wick Youtube Channel. Your feedback and experience mean a lot!
+If you are looking to join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel. Your feedback and experience mean a lot!
 
 Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
-Youtube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg)
+YouTube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg)
 
 ## Cogent Roleplay Open License
 
