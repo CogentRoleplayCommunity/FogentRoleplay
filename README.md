@@ -8,6 +8,13 @@ Fogent Roleplay is a generalizable Roleplay system that is intended to remove un
 
 -Javk Wick, "The Forever Narrator"
 
+## Join our community!
+
+If you are looking to join the Fogent Roleplay Community Discord or subscribe to the Javk Wick Youtube Channel. Your feedback and experience mean a lot!
+
+Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
+Youtube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg)
+
 ## Cogent Roleplay Open License
 
 Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
@@ -33,7 +40,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 The Core Rules are the foundation and narrative engine for your game.
 
-Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm the super nerd) has prepared a video playlist breaking down each of the rules in bite-sized digestible chunks, that even your mom who's never played a TTRPG could learn, I know so because mine did. 
+Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm the super nerd) has prepared a video playlist breaking down each of the rules in bite-sized digestible chunks, that even your mom who's never played a TTRPG could learn, I know so because mine did.
 
 The rules have been listed in the order of importance to someone learning the game for the first time. Click the video below to be taken to the video walkthrough of the rules.
 
