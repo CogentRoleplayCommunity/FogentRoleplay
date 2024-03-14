@@ -13,6 +13,7 @@ Fogent Roleplay is a generalizable Roleplay system that is intended to remove un
 If you are looking to join the Fogent Roleplay Community Discord or subscribe to the Javk Wick Youtube Channel. Your feedback and experience mean a lot!
 
 Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
+
 Youtube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg)
 
 ## Cogent Roleplay Open License
