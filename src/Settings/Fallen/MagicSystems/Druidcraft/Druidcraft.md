@@ -11,7 +11,7 @@ Naturecraft draws it's power from connection to the natural world.
 
 |               Magic Skill Name               |             Damage Types             | Melee Capable | Range Capable |
 | :------------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
-| Shapeshift Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+| Shapeshift Magic (Flesh, Web, Bone, etc...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
 |                  Fire Magic                  |                 Fire                 |     TRUE     |     TRUE     |
 |                 Water Magic                 | Suffocation, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
 |               Lightning Magic               |               Electric               |     TRUE     |     TRUE     |

@@ -104,7 +104,7 @@ Skill points can be gained by choosing a disabling characteristic. For each disa
 
 ## Step 6: Spend your Attribute Points
 
-Attribute represent the core characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, ect...).
+Attribute represent the core characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, etc...).
 
 ## Step 7: Spend your Skill Points
 

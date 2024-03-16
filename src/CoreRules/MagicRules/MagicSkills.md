@@ -28,7 +28,7 @@ Determines if the Magic Skill in question is capable of affecting something at r
 
 |            Magic Skill Name            |              Damage Types              | Melee Capable | Range Capable |
 | :-------------------------------------: | :-------------------------------------: | :-----------: | :-----------: |
-| Bodily Magic (Flesh, Web, Bone, ect...) |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+| Bodily Magic (Flesh, Web, Bone, etc...) |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 |           Fire or Heat Magic           |                  Fire                  |     TRUE     |     TRUE     |
 |               Water Magic               |  Suffocation, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
 |            Electricity Magic            |                Electric                |     TRUE     |     TRUE     |

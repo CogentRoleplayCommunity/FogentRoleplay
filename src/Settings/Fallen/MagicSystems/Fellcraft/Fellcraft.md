@@ -216,7 +216,7 @@ Allows the user to breath dragongale from from their mouth. In addition, the dra
 
 ### Absorb Fellblood: Gale
 
-Gale can be used to absorb Fellblood. This can be done near storms, tornadoes, places of great height, ect...
+Gale can be used to absorb Fellblood. This can be done near storms, tornadoes, places of great height, etc...
 
 ## Cryocraft
 

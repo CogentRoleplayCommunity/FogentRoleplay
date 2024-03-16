@@ -72,7 +72,7 @@ Instead of getting up, a character can remain prone and crawl. They use their Cl
 
 ### Dismember
 
-Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless their is a narrative explanation how a ranged attack could dismember (magic, explosive projectiles, ect...).
+Remove an arm or leg, which also gives a Serious Injury to the opponent. Not available to ranged combat rolls unless their is a narrative explanation how a ranged attack could dismember (magic, explosive projectiles, etc...).
 
 ### Render Unconscious
 
