@@ -8,7 +8,7 @@ Injury is handled as part of the narrative with dice penalties being applied per
 
 ## Medium Injury
 
--2 dice to all dice checks and must be treated relatively soon, otherwise further penalties may apply such as infection.
+-2 dice to all dice checks and must be treated relatively soon otherwise further penalties may apply such as infection.
 
 ## Serious Injury
 
