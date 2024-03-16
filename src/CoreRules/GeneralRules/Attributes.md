@@ -2,16 +2,16 @@
 
 Attributes represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
 
-| Attribute Level | Narrative Meaning                                           |
-| :-------------: | ----------------------------------------------------------- |
-|       -2       | Painfully lacking in the attribute.                        |
-|       -1       | Below an average person in our world.                       |
-|        0        | An average person in our world.                             |
-|        1        | Professional or naturally gifted.                           |
+| Attribute Level |                      Narrative Meaning                      |
+| :-------------: | :---------------------------------------------------------: |
+|       -2       |            Painfully lacking in the attribute.            |
+|       -1       |            Below an average person in our world.            |
+|        0        |               An average person in our world.               |
+|        1        |              Professional or naturally gifted.              |
 |        2        | Elite or 'world-class'. Peak of real world human potential. |
-|        3        | Meta-human or genetic anomaly                               |
-|        4        | Demigod like                                                |
-|        5        | Peak achievable or god like.                                |
+|        3        |                Meta-human or genetic anomaly                |
+|        4        |                        Demigod like                        |
+|        5        |                Peak achievable or god like.                |
 
 ## Strength (STR)
 
