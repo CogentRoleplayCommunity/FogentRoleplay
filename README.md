@@ -6,7 +6,7 @@ Fogent Roleplay is a TTRPG (Table Top Roleplay Game) that is intended to remove 
 
 What makes Fogent Roleplay different then D&D:
 
-- **Simple Rules:** While other TTRPGs require multiple books worth of rules to play, by contrast, Fogent probably has ~15 pages of rules, much of which consist of examples. This makes the game extremely easy for new players to pick up!
+- **Simple Rules:** While other TTRPGs require multiple books worth of rules to play, by contrast, Fogent probably has ~15 pages of rules, much of which consist of examples. This makes the game extremely easy for new players to pick up.
 - **Narrative Focused:** Most TTRPGs feel very different in and out of combat, with non-combat roleplay having great narrative flow where your character can attempt anything that seems reasonable and combat feeling basically like a video game where characters can only perform the exact actions as described in the rules. Fogent Roleplay handles everything within the narrative flow while still having balanced combat. Combat in Fogent Roleplay feels more like an awesome fight scene in a movie or book, rather than video game characters just trying to get each other to 0 HP.
 - **Emergent Complexity:** Fogent Roleplay has very simple rules that when combined can do some amazing things. Examples of emergent complexity include Chess and Minecraft, both of which have fairly simple rules, but are extremely satisfying for veteran players to master!
 - **Setting Agnostic:** Unlike most TTRPGs, Fogent Roleplay and it's rules aren't tied any setting. It can easily be used to run games in existing settings or in brand-new ones you create. This way, your group could learn one easy-to-use system to play settings such as medieval fantasy, cyberpunk, galactic warfare, survival horror, etc...
@@ -25,7 +25,7 @@ What makes Fogent Roleplay different then Cogent Roleplay:
 
 ## Join our community!
 
-If you are looking to join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel. Your feedback and experience mean a lot!
+Join the Fogent Roleplay Community Discord or subscribe to the Javk Wick YouTube channel. Your feedback and experience mean a lot!
 
 Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
@@ -47,7 +47,7 @@ Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentrol
 
 ## Settings
 
-Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made settings you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your world!
+Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made settings you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your own setting!
 
 - [Fallen](./src/Settings/Fallen/Fallen.md) (Dark Fantasy)
 - [Coming soon] Fracture (Post-Apocalypse)
@@ -56,7 +56,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 The Core Rules are the foundation and narrative engine for your game.
 
-Learning any new TTRPG system can feel daunting. Luckily, this super nerd (I'm the super nerd) has prepared a video playlist breaking down each of the rules in bite-sized digestible chunks, that even your mom who's never played a TTRPG could learn, I know so because mine did.
+Learning any new TTRPG system can feel daunting. Luckily, to make it easy to learn, I created a video playlist breaking down each of the rules in bite-sized digestible chunks , that even your mom who's never played a TTRPG could learn, I know so because mine did.
 
 The rules have been listed in the order of importance to someone learning the game for the first time. Click the video below to be taken to the video walkthrough of the rules.
 
