@@ -1,6 +1,6 @@
 # Combat Rounds
 
-Combat is run in a Round-by-round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties regarding the narrative flow of the game. For instance it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
+Combat is run in a Round-by-round format. Each character can perform 1 combat roll within a round (though additional things like climbing as part of your movement or reactively dodging arrows are expected) with liberties regarding the narrative flow of the game. For instance, it doesn't take an action to shout out something to another character while fighting a monster, though it would take a round to explain something complicated.
 
 Actions in combat rounds are not solely movements and attacks. A combat action can be anything a person could do within a few seconds, such as turning over a table with their weapon, swinging from a chandelier, or dropping a boulder onto an enemy. The Narrative flow you develop while playing will guide you in what the players can do in the game, and how long it will take to do it.
 
@@ -24,11 +24,11 @@ This means that characters with the highest RFX can see or react to what their o
 
 Once all characters have declared their actions, the order is reversed starting with the person with the highest reflex acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
 
-At the beginning of the Action Phase, all players can roll their dice pools for that actions they expect to take that round, such as combat rolls. This is to help thing combat move effiecently.
+At the beginning of the Action Phase, all players can roll their dice pools for the actions they expect to take that round, such as combat rolls. This is to help things combat move efficiently.
 
 ## Keep your Combat Rolls for the round
 
-Combat Rolls including Assist Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain disadvantage/advantage in that round, which will affect the already rolled dice pool.
+Combat Rolls including Assist Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain Disadvantage/Advantage in that round, which will affect the already rolled dice pool.
 
 ### Removing Dice to an already rolled Dice Pool
 
