@@ -1,8 +1,8 @@
 # Advantage and Disadvantage
 
-Advantage and disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds on achieving wins.
+Advantage and Disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds of achieving Wins.
 
-Advantage and disadvantage only apply to a single dice pool, not additional dice pools such as from assists. For example, if a character has advantage on a stealth check and decides to assist with their "Rogue" vocation, then the advantage only applies on the Stealth dice pool and not on the "Rogue" dice pool. However, the character could preemptively use a destiny point to gain advantage on the "Rogue" assist dice pool.
+Advantages and Disadvantages only apply to a single dice pool, not additional dice pools such as from Assists. For example, if a character has Advantage on a stealth check and decides to assist with their "Rogue" vocation, then the Advantage only applies to the Stealth dice pool and not to the "Rogue" dice pool. However, the character could preemptively use a destiny point to gain Advantage on the "Rogue" assist dice pool.
 
 ## Advantage
 
@@ -22,10 +22,10 @@ Gained under very specific conditions when your character has drawn the short st
 
 ## Super Advantage/Disadvantage overriding Advantage/Disadvantage
 
-Super Advantage/Disadvantage completely override advantage and disadvantage on any roll.
+Super Advantage/Disadvantage completely overrides Advantage and Disadvantage on any roll.
 
-## Advantage and Disadvantage cancelling out
+## Advantages and Disadvantages cancelling out
 
-If on a roll a character had both advantage and disadvantage, the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you advantage, then you would still only have advantage. However, if the character had two sources of advantage and one source of disadvantage, then one advantage would cancel out with the only disadvantage, leaving you with advantage.
+If on a roll a character had both Advantage and Disadvantage, the two effects cancel out leaving you with only a normal roll. If a character had two sources giving you Advantage, then you would still only have Advantage. However, if the character had two sources of Advantage and one source of Disadvantage, then one advantage would cancel out with the only disadvantage, leaving you with Advantage.
 
-In the extreme case that a character has super advantage and super disadvantage, they cancel out the same way advantage and disadvantage do.
+In the extreme case that a character has Super Advantage and Super Disadvantage, they cancel out the same way Advantage and Disadvantage do.
