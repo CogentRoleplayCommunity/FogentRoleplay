@@ -45,7 +45,7 @@ Shadow Magic,Necrotic,TRUE,TRUE,Fellblood
 Soul Magic,Spiritual,TRUE,TRUE,Fellblood
 Sporecraft,Necrotic,TRUE,TRUE,Fellblood
 ,,,,
-"Bodily Magic (Flesh, Web, Bone, ect...)","Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
+"Bodily Magic (Flesh, Web, Bone, etc...)","Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
 Fire or Heat Magic,Fire,TRUE,TRUE,Magic Resource
 Water Magic,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
 Electricity Magic,Electric,TRUE,TRUE,Magic Resource
