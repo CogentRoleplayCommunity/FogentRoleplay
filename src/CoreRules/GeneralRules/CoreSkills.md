@@ -46,7 +46,7 @@ Represented by politicians or con men. It is a measure of your verbal and non-ve
 
 ### General Knowledge
 
-Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. It aids in many tasks while being very specifically only usable on non-specialized tasks.
+Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. A character with a specific knowledge skill strongly related to the task being attempted would always have an easier skill check than a character using general knowledge. For instance, a baker and a detective are trying to determine which pastry shop made the poisoned box of pastries at a crime scene. The baker using his "Baker Knowledge" skill might only be required to achieve a Common skill check (CL 1) were as the detective using his General Knowledge skill might be required to make a Uncommon skill check (CL 2).
 
 ### Survival
 
