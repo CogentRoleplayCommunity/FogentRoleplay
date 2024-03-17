@@ -8,11 +8,11 @@ There are different levels of obscurity that a given area can have, ranging from
 
 ### Unobscured
 
-An area is considered unobscured if their is no impediment to a character's vision. In such areas, characters roll normal Perception checks that rely on sight.
+An area is considered unobscured if it does not impede a character's vision. In such areas, characters roll normal Perception checks that rely on sight.
 
 ### Lightly Obscured
 
-An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a Disadvantage on Perception checks that rely on sight.
+An area is considered lightly obscured if it has dim light, patchy fog, or moderate foliage. In such areas, creatures face a Disadvantage to Perception checks that rely on sight.
 
 ### Heavily Obscured
 
@@ -38,7 +38,7 @@ Darkness, on the other hand, creates a heavily obscured area. Characters encount
 
 ### Blindsight
 
-Blindsight allows a creature to perceive its environment without the need for sight, within a certain range. It's typically found in creatures that lack eyes, such as oozes, or in those that have heightened senses or use echolocation, like bats and true dragons. These creatures are able to sense their surroundings regardless of visual obstructions or conditions.
+Blindsight allows a creature to perceive its environment without the need for sight, within a certain range. It's typically found in creatures that lack eyes, such as oozes, or in those that have heightened senses or use echolocation, like bats and true dragons. These creatures can sense their surroundings regardless of visual obstructions or conditions.
 
 ### Darkvision
 
@@ -46,4 +46,4 @@ A special ability that many creatures in fantasy realms, particularly those that
 
 ### Truesight
 
-A being possessing truesight can, within a designated range, perceive both in regular and magical darkness, observe invisible entities and objects, effortlessly discern visual illusions, succeed on skill checks against them, and discern the true form of a shapechanger or a creature altered by magic. Additionally, this creature has the ability to see into the Ethereal Plane.
+Within a designated range can see in regular and magical darkness, observe invisible entities and objects, effortlessly discern visual illusions, succeed on skill checks against them, and discern the true form of a shapechanger or a creature altered by magic. Additionally, can be used to see into the Ethereal Plane.

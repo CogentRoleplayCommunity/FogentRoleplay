@@ -18,7 +18,7 @@ While making a ranged attack, remain still and focus on a single shot. Your Enga
 
 ## Charge (Advantage)
 
-If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
+If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round.
 
 ## Brace (Advantage versus Charge)
 
