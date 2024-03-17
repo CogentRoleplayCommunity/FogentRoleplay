@@ -26,7 +26,7 @@ Barton Bedrock is an old ogrekin cowboy.
 
 - He will pay them for the cart
 - Generous: "Them Stoneseeker brother would never forgive me if I turned away such good friends out on the street. So stay the night, and for dinner I'm making Steak."
-- Gentle: Barton has an old azmatic cat named buddy who audible wheezes. Kindly be gentle with my buddy their, Sister Garaele says he is Ae-es-a-matic, which means he don't breath good.
+- Gentle: Barton has an old asthmatic cat named buddy who audible wheezes. Kindly be gentle with my buddy their, Sister Garaele says he is Ae-es-a-matic, which means he don't breath good.
 - Noble: Bandaged hand, split lip, black eye. He got into a scuffle with them lavender boys recently.
 - Barton knows the Stoneseeker brothers treasure seekers
 - Thinks the townmaster is a coward
@@ -51,12 +51,12 @@ SIster Grelana can't use her magic to speak to the dead as their is a powerful s
 ## Ideas
 
 - Arinoth dad is old Arinoth, hence why he was mistaken for his father and why his father's spirit is interacting with him.
-- Blackspider kills a lancer spies and offers to trade with the party
+- Black Spider kills a lancer spies and offers to trade with the party
 - Glassmith has runecrafted his flesh to glass
 - The Townmaster is going to change his mind about Killing the lancer's, instead he wants the party to turn themselves over to them so the town isn't destroyed.
 - Play upon character's disablings
 
-## Redbrand Hideout session
+## Lancer Hideout session
 
 The session will start with the player's gearing up to go take on the Lavender Lancer hideout.
 
@@ -81,15 +81,22 @@ She let's the party know that she will have a letter delivered to them about whe
 
 ## Session 7
 
-- Gail has finished his initial exemenation of Glassmith's study. He has realized this would be a fine place to set up shop for him to create potion, scrolls, or other tasks that take a good workspace. Gail's grew up in his father's stronghold, recognizing that if Rozen manar could make a fine base of opperations for the ensuing quest. However, the creature still remains, which poses both a threat to anyone who would inhabit Rozen manor, but also the nearby, sheriffless, and for all purposes defenseless town of Tuntin. Gail has begun to return to town looking for the others and not wanting to stay in alone for too long.
-- Vasilii your keen sense of smell eventually leads you to the camp minutes after the fight between Arinoth, Skuath, and Malgon. You hears a rustling from a nearby tent, which contains the hog tied Town Master, who had betrayed you and Sheriff Clint, drugging you and handing them over to Glassmith and the Lancer's. You hear a omonous yet familar noise and you turn around to see a greatsword driven into the ground. It bears a bone pommel in the style Bears head with a fine leather grip. As whispers enter your ears, images of Sherrif Clint's dead body, orphaned daughter and widowed wife flash through your mind, and you feel the monster within you stir, hate, vengence, and your need to punish evil fills your heart.
-- Then you are standing over the Town Mayor, the sword in your hands, feral blood lust in ever fiber of your being. Then, some where, deep in the back of your mind, you remeber grasping the hand of your friend, your captian, and though you'd never say it explicitly as that would only be for soft men like Gail, your brother. Blood trickling from both of your hands, speaking an oath to one another, "To change, to be more than monsters, to be better men...".
-- You know that this man should stand trial, to answer to the people that he has harmed, not just you... but maaaaaaan would it feel good tear him limb from limb, right here, right now...
+- Gail has finished his initial examination of Glassmith's study. He has realized this would be a fine place to set up shop for him to create potion, scrolls, or other tasks that take a good workspace. Gail's grew up in his father's stronghold, recognizing that if Rozen manor could make a fine base of operations for the ensuing quest. However, the creature still remains, which poses both a threat to anyone who would inhabit Rozen manor, but also the nearby, sherif-less, and for all purposes defenseless town of Tuntin. Gail has begun to return to town looking for the others and not wanting to stay in alone for too long.
+- Vasilii your keen sense of smell eventually leads you to the camp minutes after the fight between Arinoth, Skuath, and Malgon. You hears a rustling from a nearby tent, which contains the hog tied Town Master, who had betrayed you and Sheriff Clint, drugging you and handing them over to Glassmith and the Lancer's. You hear a ominous yet familiar noise and you turn around to see a greatsword driven into the ground. It bears a bone pommel in the style Bears head with a fine leather grip. As whispers enter your ears, images of Sherif Clint's dead body, orphaned daughter and widowed wife flash through your mind, and you feel the monster within you stir, hate, vengeance, and your need to punish evil fills your heart.
+- Then you are standing over the Town Mayor, the sword in your hands, feral blood lust in ever fiber of your being. Then, some where, deep in the back of your mind, you remember grasping the hand of your friend, your capitan, and though you'd never say it explicitly as that would only be for soft men like Gail, your brother. Blood trickling from both of your hands, speaking an oath to one another, "To change, to be more than monsters, to be better men...".
+- You know that this man should stand trial, to answer to the people that he has harmed, not just you... but man would it feel good tear him limb from limb, right here, right now...
 - The last words of the oath coming off your lips "..., there is always a choice."
-- Gail, you run into town, the fire on the town masters house completely out of control. The fire is getting outt of hand, threatening the nearby buildings. The town people look exhuasted, and the only one still going strong appears to be your companion Krater, furiously sprinting giant buckets of water from the town well.
-- Arinoth, Skuath, and Malgon return to town with Glassmith in tow as the fire is put out. The town people, cheer as the leader of the men who has oppresed them for months is finally brought to justice. In the crowd of people, Linette, covered in wet ash and smoke gives Arinoth a passionate kiss, before playfully pulling away, slowly bating her and saying "later..." before letting stepping back into the crowd of cheering towns people.
+- Gail, you run into town, the fire on the town masters house completely out of control. The fire is getting out of hand, threatening the nearby buildings. The town people look exhausted, and the only one still going strong appears to be your companion Krater, furiously sprinting giant buckets of water from the town well.
+- Arinoth, Skuath, and Malgon return to town with Glassmith in tow as the fire is put out. The town people, cheer as the leader of the men who has oppressed them for months is finally brought to justice. In the crowd of people, Linett, covered in wet ash and smoke gives Arinoth a passionate kiss, before playfully pulling away, slowly bating her and saying "later..." before letting stepping back into the crowd of cheering towns people.
 - Vasilii will return right as the group is getting all there praise.
-- Linette and the town folks deeply thank the party for saving the town. She will give Gail his boots.
-- During Barton Bedrock is temporalily elected Town Master and Ulfric will be offered the title of Sherrif of Tuntin until a more sitable replacement can be found. If one of the players takes a liking them might be considered for the position of sheriff. He offers the town the remaining bronze coins that the town mayor hasn't spent or luandered. The original contract that Krater negotiated was roughly 150 bc, though they could only scrounge together 128 bc and 38 cc. It is obvious that the towns people don't have much money as there town has Fallen on hard times. Taking this money will bankrupt the town finacially. Instead of the money, Barton will instead offer the deed to Rozen Manor.
-- Interogating Glassmith and the town master (if alive) reveals that the Spider's web pact is trying to muscle into the surrounding area, all to find and control a mysterous mine called Tide Echo Cave. In exchange for the staying of his execution and instead imprisonment, Glassmith will give addiontal information, revealing the best way to tear apart the spider's web pact, targeting the weaker threads, slowly unraveling and weaking the various factions gaining them leverage or information over the Black Spider Nezzarna.
-- The
+- Linett and the town folks deeply thank the party for saving the town. She will give Gail his boots.
+- During Barton Bedrock is temporally elected Town Master and Ulfric will be offered the title of Sherif of Tuntin until a more suitable replacement can be found. If one of the players takes a liking them might be considered for the position of sheriff. He offers the town the remaining bronze coins that the town mayor hasn't spent or laundered. The original contract that Krater negotiated was roughly 150 bc, though they could only scrounge together 128 bc and 38 cc. It is obvious that the towns people don't have much money as there town has Fallen on hard times. Taking this money will bankrupt the town financially. Instead of the money, Barton will instead offer the deed to Rozen Manor.
+- Interrogating Glassmith and the town master (if alive) reveals that the Spider's web pact is trying to muscle into the surrounding area, all to find and control a mysterious mine called Tide Echo Cave. In exchange for the staying of his execution and instead imprisonment, Glassmith will give additional information, revealing the best way to tear apart the spider's web pact, targeting the weaker threads, slowly unraveling and weakening the various factions gaining them leverage or information over the Black Spider Nezzarna.
+
+## Story Ideas
+
+- Devil Horse for Vasilii
+- Glassmith escapes with Runecraft Tattoos, he should be a foil for Gail as a recurring Villain
+- Commander Royce should be the representative sent to reestablish order in Tuntin. This would be a cool
+- Lance should send out members of the Lancer's once he learns about Glassmith defeat in Tuntin
+-

@@ -4,7 +4,7 @@ Challenge level represents the difficulty of a task set by the narrator proporti
 
 |      Difficulty      | Challenge Level |
 | :------------------: | :-------------: |
-|       Trivial       |        0        |
+|       Trivial       |      CL 0      |
 |        Common        |      CL 1      |
 |       Uncommon       |      CL 2      |
 |     Specialized     |      CL 3      |

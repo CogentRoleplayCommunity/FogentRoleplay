@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes represent the innate characteristics of a character. An attribute can goes from level -2 to level 5. Each level corresponds with a narrative significance.
+Attributes represent the innate characteristics of a character. An attribute can go from level -2 to level 5. Each level corresponds with a narrative significance.
 
 | Attribute Level | Narrative Meaning                                           |
 | :-------------: | ----------------------------------------------------------- |
@@ -15,7 +15,7 @@ Attributes represent the innate characteristics of a character. An attribute can
 
 ## Strength (STR)
 
-Represent your characters innate muscle strength, bone density, tendon strength, physical durability, ect...
+Represent your character's innate muscle strength, bone density, tendon strength, physical durability, etc...
 
 | Attribute Level |            Narrative Meaning            |
 | :-------------: | :--------------------------------------: |
@@ -30,12 +30,12 @@ Represent your characters innate muscle strength, bone density, tendon strength,
 
 STR has the following effects:
 
-- STR is factored into all STR Governed skills (Athletics, Endurance, Climb, Lift, ect...).
-- STR is a characters physical durability.
-- For every point in STR the character can a reduce a physical victory level achieved against them in combat once every combat encounter.
+- STR is factored into all STR Governed skills (Athletics, Endurance, Climb, Lift, etc...).
+- STR is a character's physical durability.
+- For every point in STR the character can reduce a physical victory level achieved against them in combat once every combat encounter.
 - For every point in STR the character can reduce a physical injury against them outside of combat.
-- STR allow your character to carry around heavier gear without being penalized.
-- STR increases climb and Swim Combat Speed in combat.
+- STR allows your character to carry around heavier gear without being penalized.
+- STR increases Athletics and Climb derived Combat Speeds.
 
 ## Reflex (RFX)
 
@@ -54,13 +54,13 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, de
 
 RFX has the following effects:
 
-- RFX is factored into all RFX governed skills (Acrobatics, Perception, Sleight of Hand, Stealth, ect...).
-- As combat is conducted in a round by round format, the player with the highest reflex gets **priority** in that round.
-- RFX increases walking/running movement speed in combat.
+- RFX is factored into all RFX-governed skills (Acrobatics, Perception, Sleight of Hand, Stealth, etc...).
+- As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
+- RFX allows characters to move before slower characters and increases all Combat Speeds.
 
 ## Intelligence (INT)
 
-Represents your raw mental horse power, IQ, and mental/spiritual durability.
+Represents your raw mental horsepower, IQ, and mental/spiritual durability.
 
 | Attribute Level |                           Narrative Meaning                           |
 | :-------------: | :-------------------------------------------------------------------: |
@@ -75,16 +75,16 @@ Represents your raw mental horse power, IQ, and mental/spiritual durability.
 
 INT has the following effects:
 
-- INT is factored into all INT governed skills (General Knowledge, Survival, Willpower, Communication, etc...).
-- For every point in intelligence the player receives 3 additional skill points to spend.
-- INT is a characters spiritual/mental durability.
-- For every point in INT the character can a reduce a spiritual/mental victory level achieved against them in combat once every combat encounter.
+- INT is factored into all INT Governed skills (General Knowledge, Survival, Willpower, Communication, etc...).
+- For every point in INT the player receives 3 additional skill points to spend.
+- INT is a character's spiritual/mental durability.
+- For every point in INT the character can reduce a spiritual/mental victory level achieved against them in combat once every combat encounter.
 - For every point in INT the character can reduce a spiritual/mental injury against them outside of combat.
 
 ## Common Questions
 
 ### Why is there no Charisma stat
 
-Intelligence governs the "Communications" skill which is essentially your classical charisma stat. The reality is, being smarter absolutely makes you a better communicator. Verbal IQ is one of the components of an IQ test for a reason. Also, emotional intelligence doesn't exist. It is pseudo science and is mistakenly taken as trait agreeableness (Big 5 personality traits).
+Intelligence governs the "Communications" skill which is essentially your classical charisma stat. The reality is that being smarter makes you a better communicator. Verbal IQ is one of the components of an IQ test for a reason. Also, emotional intelligence doesn't exist. It is pseudo-science and is mistakenly taken as trait agreeableness (Big 5 personality traits).
 
 Check out this video: https://www.youtube.com/watch?v=fyGKS55PsUI&t=26s

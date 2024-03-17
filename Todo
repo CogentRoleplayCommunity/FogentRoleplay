@@ -1,15 +1,13 @@
 ## Fogent Todo:
+- Add Healing Kit effect, maybe have to meet CL level + 1, applies a minor heal and stabilizes 
 - Add Rules for taking a negative in a skill to gains skill points
-- Rebuild all sheets, new weights, new movement speeds, new magic, new character sheet with links
-- No auto-succeed spells, instead all spells are attemptable but they have higher levels, not sure if good idea
-- Determine if the Magic Skill Roll in the declaration phase is factored into the resulting combat roll/saving throw spell DC. Spell save DC is just skill roll versus will/lift, but if the CL for the spell isn't achieved for the caster, the spell never goes off
 
 ## Fogent Maybe To Dos:
 - Shove for mental damage magic
 - Should EO tick for each character engaged, or each character engaged and each character that engages them
 - Different Arrows and bolts for different weapons
 - Light Crossbow and heavy Crossbow in one hand
-- Bite Grab
+- Bite Grab/Tentacle and minor injury from medium injury
 - Can use Weapon combat skill on Magic Summoned weapons
 - Make more variation with Mag. Ranged weapons with different ammunition types.
 - Fix Gun Ranges
@@ -18,6 +16,7 @@
 - Possible -1d6 nerf to all ranged weapons
 - Possible dedicated 1 handed swords
 - Investigate reverse turn order
+- Melee/Grapple Range
 
 ## Fallen To dos:
 - Remove NotMyImage and Copyright tags
@@ -32,4 +31,4 @@
 - Add entangle spell
 - make videos about character making
 - Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
-- Make Druid Magic Vocation
+

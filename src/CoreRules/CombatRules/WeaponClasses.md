@@ -30,11 +30,11 @@ Character's can gain a skill in the following weapon combat skills.
 - Launcher
 - Claw
 - Bite
-- Stomp
+- Slam
 - Horns
 - Large Claw
 - Large Bite
-- Large Stomp
+- Large Slam
 - Large Horns
 
 ### Weapon Governing Attributes
@@ -144,8 +144,8 @@ Dual wielding weapons that use weapon resource or that are being thrown uses dou
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|         Unarmed         |       -1       |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-| Hand Protection Unarmed |      +0d6      |      +0d6      |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|         Unarmed         |       -1       |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+| Hand Protection Unarmed |      +0d6      |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 
 ## Small Melee
 
@@ -276,74 +276,60 @@ Narrator is free to negate all dice bonuses if they feel the reach weapon wouldn
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Whip |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |         None         |
 
-## Medium Sized Creature Innate
+## Innate
 
-### Claw
-
-|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Piercing Claw |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Slashing Claw |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-
-- Piercing Claw ~= Small Thrusting Blade
-- Slashing Claw ~= Small Slashing Blade
+- Bite, Slashing Claw, Piercing Claw, Horns, Slam, and Tentacle are generally meant for Medium Sized creatures
+- Large Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Medium Sized creatures
 
 ### Bite
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Bite |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Weak Bite |      None      |       -1       |       None       |      0      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
+|    Bite    |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
 
 - Bite ~= Medium Spear
+- Large Bite ~= Large Spear
 
-### Stomp
-
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Stomp |      +0d6      |      None      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-
-- Stomp ~= Small Hafted Blunt
-
-### Horns
-
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Bite |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |        Rapid Max 2        |        None        |         None         |
-
-- Horns ~= Medium Spear
-
-## Large Sized Creature Innate
-
-### Large Claw
+### Claw
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+|    Slashing Claw    |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+|    Piercing Claw    |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
+- Piercing Claw ~= Small Thrusting Blade
+- Slashing Claw ~= Small Slashing Blade
 - Large Piercing Claw ~= Medium Piercing Sword
 - Large Slashing Claw ~= Medium Slashing Sword
 
-### Large Bite
+### Horns
+
+|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|    Horns    |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+| Large Horns |      None      |      +3d6      |       None       |      3      | Melee |      Pierce      |           Rapid           |        None        |         None         |
+
+- Horns ~= Medium Spear
+- Large Bite ~= Large Spear
+
+### Slam
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
+|    Slam    |      +0d6      |      None      |       +1d6       |      2      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+| Large Slam |      +0d6      |      None      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 
-- Large Bite ~= Large Spear
+- Slam ~= Small Hafted Blunt
+- Large Slam ~= Medium Hafted Blunt
 
-### Large Stomp
+### Tentacle
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Large Stomp |      +0d6      |      None      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| Tentacle |      +1d6      |      None      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |         None         |
 
-- Large Stomp ~= Medium Hafted Blunt
-
-### Large Horns
-
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Large Horns |      None      |      +2d6      |       None       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-
-- Large Bite ~= Large Spear
+- Tentacles ~= Whip

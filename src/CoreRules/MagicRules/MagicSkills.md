@@ -26,28 +26,28 @@ Determines if this Magic Skill could be used for melee combat, a good rule of th
 
 Determines if the Magic Skill in question is capable of affecting something at range, which determines if a Magic Skill can make ranged attacks.
 
-|            Magic Skill Name            |             Damage Types             | Melee Capable | Range Capable |
-| :-------------------------------------: | :----------------------------------: | :-----------: | :-----------: |
-| Bodily Magic (Flesh, Web, Bone, ect...) |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
-|           Fire or Heat Magic           |                 Fire                 |     TRUE     |     TRUE     |
-|               Water Magic               | Suffocation, Slash, Bludgeon, Pierce |     TRUE     |     TRUE     |
-|            Electricity Magic            |               Electric               |     TRUE     |     TRUE     |
-|               Earth Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
-|                Air Magic                |      Slash, Bludgeon, Shockwave      |     TRUE     |     TRUE     |
-|               Cold Magic               |                 Cold                 |     TRUE     |     TRUE     |
-|          Nature or Plant Magic          |       Slash, Bludgeon, Pierce       |     TRUE     |     TRUE     |
-|              Poison Magic              |                Poison                |     TRUE     |     TRUE     |
-|               Soul Magic               |              Spiritual              |     FALSE     |     TRUE     |
-|               Light Magic               |               Radiant               |     TRUE     |     TRUE     |
-|              Shadow Magic              |               Necrotic               |     TRUE     |     TRUE     |
-|               Mind Magic               |               Psychic               |     FALSE     |     TRUE     |
-|               Metal Magic               |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
-|               Sound Magic               |              Shockwave              |     FALSE     |     TRUE     |
-|               Blood Magic               |                Bleed                |     TRUE     |     TRUE     |
-|               Acid Magic               |                 Acid                 |     TRUE     |     TRUE     |
-|               Time Magic               |                                      |     FALSE     |     TRUE     |
-|         Teleport or Space Magic         |                                      |     FALSE     |     TRUE     |
-|         Force or Gravity Magic         |     Slash, Bludgeon, Hew, Pierce     |     TRUE     |     TRUE     |
+|            Magic Skill Name            |              Damage Types              | Melee Capable | Range Capable |
+| :-------------------------------------: | :-------------------------------------: | :-----------: | :-----------: |
+| Bodily Magic (Flesh, Web, Bone, ect...) |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|           Fire or Heat Magic           |                  Fire                  |     TRUE     |     TRUE     |
+|               Water Magic               |  Suffocation, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
+|            Electricity Magic            |                Electric                |     TRUE     |     TRUE     |
+|               Earth Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|                Air Magic                | Suffocation, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
+|               Cold Magic               |                  Cold                  |     TRUE     |     TRUE     |
+|          Nature or Plant Magic          |         Slash, Bludgeon, Pierce         |     TRUE     |     TRUE     |
+|              Poison Magic              |                 Poison                 |     TRUE     |     TRUE     |
+|               Soul Magic               |                Spiritual                |     FALSE     |     TRUE     |
+|               Light Magic               |                 Radiant                 |     TRUE     |     TRUE     |
+|              Shadow Magic              |                Necrotic                |     TRUE     |     TRUE     |
+|               Mind Magic               |                 Psychic                 |     FALSE     |     TRUE     |
+|               Metal Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|               Sound Magic               |                Shockwave                |     FALSE     |     TRUE     |
+|               Blood Magic               |                  Bleed                  |     TRUE     |     TRUE     |
+|               Acid Magic               |                  Acid                  |     TRUE     |     TRUE     |
+|               Time Magic               |                                        |     FALSE     |     TRUE     |
+|         Teleport or Space Magic         |                                        |     FALSE     |     TRUE     |
+|         Force or Gravity Magic         |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 
 ## Combo Magic Skills
 
@@ -70,7 +70,6 @@ Magic Skill Roll =
 - 3d6 (Base Dice, varies with Conduit Item Tier Base Dice Modification)
 - +Xd6 (per Magic Skill)
 - +Xd6 (per Magic Skill Governing Attributes)
-- +Xd6 (Conduit Dice Modification)
 
 ## Incompetent Magic Skills
 
