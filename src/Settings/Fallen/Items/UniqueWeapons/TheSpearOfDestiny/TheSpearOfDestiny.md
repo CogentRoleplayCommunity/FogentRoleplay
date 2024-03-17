@@ -18,7 +18,7 @@ The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol 
 
 |         Name         | # |                                            Class                                            |                          Effect                          |   Tier   | Durability | LB | Value |
 | :------------------: | :-: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------: | :------: | :--------: | :-: | :---: |
-| The Spear of Destiny | 1 | Reach Hafted Blade, Longspear, Air Magic Conduit, Cold Magic Conduit, Electric Magic Conduit | Destiny Chosen, Destiny Strength/Reflex, Indestructible, | Artifact |   48/48   | 14 |   ?   |
+| The Spear of Destiny | 1 | Reach Hafted Blade, Reach Spear, Air Magic Conduit, Cold Magic Conduit, Electric Magic Conduit | Destiny Chosen, Destiny Strength/Reflex, Indestructible, | Artifact |   48/48   | 14 |   ?   |
 
 ## Effects
 

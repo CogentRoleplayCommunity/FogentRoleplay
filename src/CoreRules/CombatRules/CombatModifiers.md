@@ -2,11 +2,11 @@
 
 ## Defensive (Advantage) (no victory levels)
 
-This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls and Dodge Rolls if declared. Can not be applied while a Character can not solely focus on defending themselves, such as when they have disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
+This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls and Dodge Rolls if declared. Can not be applied when a Character can not solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
 
 ## Ranged vs Melee (Disadvantage)
 
-When a melee combat roll is made towards a character within melee or reach range, the character has disadvantage on ranged combat rolls versus the melee combat roll.
+When a melee combat roll is made towards a character within melee or reach range, the character has Disadvantage on ranged combat rolls versus the melee combat roll.
 
 ## Dash (2x Movement Speed)
 
@@ -14,19 +14,19 @@ Instead of engaging in a combat roll, a player can choose to focus purely on the
 
 ## Focused Shot (Advantage) (Disadvantage to Dodge Rolls)
 
-While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have disadvantage to Dodging.
+While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have Disadvantage to Dodging.
 
 ## Charge (Advantage)
 
-If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of movement, your directions must remain constant the entire round.
+If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round.
 
 ## Brace (Advantage versus Charge)
 
-A brace is a move purely to counter a charge. Character gains advantage versus charging opponents and charging opponents lose their advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
 ## High ground (Advantage)
 
-Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attack an opponent the ground. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
+Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an opponent on the ground. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
 
 ## Off Guard (Disadvantage)
 
@@ -34,7 +34,7 @@ Penalty to combat rolls and dodge rolls received when a character is actively en
 
 ## Sneak Attack (CL in lieu of defense roll)
 
-An attack which can't be defended against made by a character while they hidden to an opponent. This attack is usually proceeded by a Stealth Skill Check versus a Perception skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone throat with a dagger is a CL 1, however doing the same with a great sword would be far more difficult. Any wins achieved over the CL counts towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
+An attack made while hidden that can't be defended against by the opponent. Usually proceeded by a Stealth Skill Check versus a Perception Skill Check. The Narrator will assign a CL for the attack. As an example, slitting someone's throat with a dagger is a CL 1, however, doing the same with a great sword would be far more difficult. Any wins achieved over the CL count towards the level of victory. Failing the CL or not fully incapacitating the opponent commences the next round of combat, where the opponent is then engaged.
 
 ## Cover
 

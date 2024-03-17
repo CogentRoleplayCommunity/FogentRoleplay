@@ -1,50 +1,56 @@
 # Spore Infected
 
-![img](SporeInfected.png)
+![img](./SporeInfected.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 1 |    | RFX             | -1 |    | INT               | -2 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 0 | 4d6 | Acrobatics      | -1 | 1d6 | Communication     | -1 | 0d6 |
-| Climb     | 0 | 4d6 | Perception      | 0 | 2d6 | General Knowledge | -1 | 0d6 |
-| Endurance | 1 | 5d6 | Sleight of Hand | -1 | 1d6 | Survival          | -1 | 0d6 |
-| Lift      | 0 | 4d6 | Stealth         | 0 | 2d6 | Will              | -1 | 0d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 2 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | -1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | -2 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | -1 | 4d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | -1 | 1d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | -1 | 0d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | -1 | 4d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 2d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | -1 | 0d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 6d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | -1 | 1d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | -1 | 0d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 5d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 2d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 3d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Zombie {STR}              | 2 | 6d6 |
-| ------------------------- | :-: | :-: |
-| Unarmed {STR, RFX, INT}   | 2 | 3d6 |
-| Weak Bite {STR, RFX, INT} | 2 | 3d6 |
+| Zombie |      STR      | 1 | 6d6 |
+| :-----: | :-----------: | :-: | :-: |
+| Unarmed | STR, RFX, INT | 1 | 3d6 |
+|  Bite  | STR, RFX, INT | 1 | 3d6 |
+|  Slam  | STR, RFX, INT | 1 | 3d6 |
 
-## Effects
+## Info
 
-|            Name            |                                                                                Effect                                                                                | Duration |                                                       Source                                                       |
-| :-------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Spore Carrier        | Carries the spore fungal infection. Creatures injured are infected with the spore disease. Upon death, the fungal growth hardens into a brittle stone like substance. |          |                                                                                                                    |
-|       Spore Follower       |          Without the presence of a spore evolved, this creature will behave as a brain dead monster. But under direction will follow orders and use weapons.          |          |                                                                                                                    |
-|    Minor Silver Weakness    |                                                        +1 to the level of injury received from Silver damage.                                                        |          |                                                    Fellblood                                                    |
-|  Minor Physical Resistance  |                                                         -1 to victory levels received from physical damage.                                                         |          |                                                                                                                    |
-| Complete Psychic Resistance |                                                         Negate victory levels received from  Psychic damage.                                                         |          |                                                                                                                    |
-|   Physical Defense Level   |                                                                                   0                                                                                   |          |                                                        Armor                                                        |
-|         Medium Size         |                                                                         5x5 ft on battle map.                                                                         |          |                                                                                                                    |
-|      Equipment Weight      |                                                                                 3 lb                                                                                 |          |                                                      Equipment                                                      |
-|    Carry Weight    |                                                                                220 lb                                                                                |          | +50 lbs Carry Weight per Lift dice |
-|        Light Weight        |                                                                    -0d6 to STR/RFX governed Dice Pools                                                                    |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-|   Terrestrial Combat Speed   |                                                                                 20 ft                                                                                 |          |                              +10 ft (per Athletics Dice), +/-10 ft (per RFX)                              |
-|     Swim Combat Speed     |                                                                                 20 ft                                                                                 |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
-|    Climb Combat Speed    |                                                                                 20 ft                                                                                 |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
+|                                                  Name                                                  |                       Info                       | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------: | :------: | :----------------------------------------------: |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                       3 lb                       |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                      250 lb                      |          |        +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |       -0d6 to STR/RFX governed Dice Pools       |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                        |                                                  |          |                                                  |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                        0                        |          |                  Armor & Shield                  |
+|  [Complete Resistance](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Poison, Psychic  | Negate victory levels received from damage type. |          |                      Undead                      |
+|                                                                                                        |                                                  |          |                                                  |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |              5x5 ft on battle map.              |          |                                                  |
+|      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                      30 ft                      |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|          [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim          |                      15 ft                      |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                      15 ft                      |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                        |                                                  |          |                                                  |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |          – 0 dice to all dice checks.          |          |                 Damage Received                 |
 
-## Combat Rolls
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|  Unarmed  |  2d6<br />(-1)  |       -1       |       None       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Weak Bite |      None      | 2d6<br />(-1) |       None       |      0      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Equipment
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-| Name            | # | Class |  Tier  | Durability | LB | Value |
-| --------------- | :-: | :---: | :-----: | :--------: | :-: | :---: |
-| Clothes, Common | 1 |      | Mundane |            | 3 | 50 cc |
+|   Name   | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|  Unarmed  |                                   -1<br />(2d6)                                   |                                        None                                        |                                    +0d6<br />(2d6)                                    |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Weak Bite |                                        None                                        |                                   -1<br />(2d6)                                   |                                          None                                          |                                            0                                            |                         Melee                         |                            Pierce, Bludgeon                            |                                       Rapid Max 2                                       |                                    None                                    |                                             None                                             |
+|   Slam   |                                  +0d6<br />(3d6)                                  |                                        None                                        |                                    +1d6<br />(4d6)                                    |                                            2                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+
+| Name            | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------- | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Clothes, Common | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |

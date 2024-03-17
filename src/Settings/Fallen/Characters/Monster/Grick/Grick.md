@@ -2,71 +2,50 @@
 
 ![img]()
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 1 |    | RFX             | 1 |    | INT               | -2 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | -1 | 3d6 | Acrobatics      | 0 | 4d6 | Communication     | 0 | 1d6 |
-| Climb     | 2 | 6d6 | Perception      | 0 | 4d6 | General Knowledge | 0 | 1d6 |
-| Endurance | 0 | 4d6 | Sleight of Hand | 0 | 4d6 | Survival          | 0 | 1d6 |
-| Lift      | 0 | 4d6 | Stealth         | 1 | 5d6 | Will              | 1 | 2d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 1 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | -2 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | -1 | 3d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 1d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 2 | 6d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 1d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 4d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 4d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 1d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 2 | 6d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 4d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Monster {STR, RFX}    | 2 | 7d6 |
-| --------------------- | :-: | :-: |
-| Bite {STR, RFX, INT}  | 2 | 5d6 |
-| Claws {STR, RFX, INT} | 2 | 5d6 |
+| Monster {STR, RFX} |   STR, RFX   | 2 | 7d6 |
+| :----------------: | :-----------: | :-: | :-: |
+|        Bite        | STR, RFX, INT | 2 | 5d6 |
+|        Claw        | STR, RFX, INT | 2 | 5d6 |
+|      Tentacle      | STR, RFX, INT | 2 | 5d6 |
 
-## Effects
+## Info
 
-|                  Name                  |                                                            Effect                                                            | Duration |                      Source                      |
-| :------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|         Medium Silver Weakness         |                                    +1 to the level of injury received from Silver damage.                                    |          |                  Fellblood                  |
-|  Medium Non-Magical Pierce Resistance  |                                -2 to victory levels received from Non-Magical Pierce damage.                                |          |                                                  |
-|   Medium Non-Magical Hew Resistance   |                                  -2 to victory levels received from Non-Magical Hew damage.                                  |          |                                                  |
-|  Medium Non-Magical Slash Resistance  |                                 -2 to victory levels received from Non-Magical Slash damage.                                 |          |                                                  |
-| Medium Non-Magical Bludgeon Resistance |                               -2 to victory levels received from Non-Magical Bludgeon damage.                               |          |                                                  |
-|         Physical Defense Level         |                                                              2                                                              |          |                  Natural Armor                  |
-|              Medium Size              |                                                    5x5 ft on battle map.                                                    |          |                                                  |
-|              Dark Vision              | Within 60 feet, sees dim light as if it were bright light<br />and darkness as if it were dim light, though devoid of color. |          |                      Innate                      |
-|        Terrestrial Combat Speed        |                                                            40 ft                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|           Swim Combat Speed           |                                                            30 ft                                                            |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|           Climb Combat Speed           |                                                            15 ft                                                            |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                             Name                                                             |                                                          Info                                                          | Duration |                      Source                      |
+| :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
+|                       [Darkvision](./../../../../../CoreRules/AdvancedRules/VisionAndLight.md#darkvision)                       | Within 60 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color. |          |                                                  |
+|                                                                                                                              |                                                                                                                        |          |                                                  |
+| [Medium Resistance](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Non-Magical Pierce, Hew, Slash, Bludgeon |                                  +2 to the level of injury received from damage type.                                  |          |                                                  |
+|           [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)           |                                                            2                                                            |          |                  Natural Armor                  |
+|                                                                                                                              |                                                                                                                        |          |                                                  |
+|                    [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                    |                                 +1 to the level of injury received from damage source.                                 |          |                    Fellblood                    |
+|                                                                                                                              |                                                                                                                        |          |                                                  |
+|                            [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                            |                                                  5x5 ft on battle map.                                                  |          |                                                  |
+|                 [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial                 |                                                          30 ft                                                          |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                    |                                                          15 ft                                                          |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                    |                                                         30 ft                                                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                              |                                                                                                                        |          |                                                  |
+|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                                              – 0 dice to all dice checks.                                              |          |                 Damage Received                 |
 
-## Combat Rolls
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-### Innate
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Claws | 6d6<br />(+1d6) |      None      |  7d6<br />(+1d6)  |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
-| Bite |      None      | 7d6<br />(+2d6) |       None       |      2      | Melee | Pierce, Bludgeon |             1             |        None        |        None        |
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Notes
-
-## Appearance
-
-Age:
-
-Race:
-
-Height: ?' ?"
-
-Weight: ~ ? lb
-
-Body Type:
-
-Hair Color:
-
-Eye Color:
-
-Additional Details:
-
-## Disposition
-
-## Beliefs/Morality
-
-## Goals/Aspirations
-
-## Backstory
+|     Name     | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| Piercing Claw |                                        +0d6                                        |                                        None                                        |                                          +1d6                                          |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Slashing Claw |                                        +1d6                                        |                                        None                                        |                                          +1d6                                          |                                            0                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|     Bite     |                                        None                                        |                                        +2d6                                        |                                          None                                          |                                            2                                            |                         Melee                         |                            Pierce, Bludgeon                            |                                       Rapid Max 2                                       |                                    None                                    |                                             None                                             |
+|   Tentacle   |                                        +1d6                                        |                                        None                                        |                                          +1d6                                          |                                            0                                            |                         Reach                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |

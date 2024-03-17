@@ -1,56 +1,64 @@
 # Ogre
 
-![NotMyImage](Ogre.png)
+![img](./Ogre.png)
 
-## Attributes and Core Skills
+## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-| STR       | 3 |    | RFX             | -1 |    | INT               | -1 |    |
-| --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
-| Athletics | 2 | 8d6 | Acrobatics      | 0 | 2d6 | Communication     | 0 | 2d6 |
-| Climb     | 0 | 6d6 | Perception      | 0 | 2d6 | General Knowledge | 0 | 2d6 |
-| Endurance | 1 | 7d6 | Sleight of Hand | 0 | 2d6 | Survival          | 1 | 3d6 |
-| Lift      | 2 | 8d6 | Stealth         | 0 | 2d6 | Will              | 0 | 2d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 3 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | -1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | -1 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | -1 | 5d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 2d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 2d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | -1 | 5d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 2d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 2d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 6d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 2d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 2d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 2 | 8d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 2d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 2d6 |
 
-## Vocations and Vocational Skills
+## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Brute {STR}        | 2 | 8d6 | Fellcaster {STR, RFX, INT} | 0  | 4d6 |
-| ------------------ | :-: | :-: | ---------------- | -- | --- |
-| Reach Hafted {STR, RFX, INT} | 2 | 7d6 | Polycraft {STR, RFX, INT}  | -1 | 4d6 |
-| Short Spear {STR, RFX, INT}  | 2 | 7d6 |                  |    |     |
+| Brute {STR} | STR, RFX, INT | 1 | 7d6 |
+| :----------: | :-----------: | :-: | :-: |
+| Reach Hafted | STR, RFX, INT | 1 | 5d6 |
+| Medium Spear | STR, RFX, INT | 1 | 5d6 |
+|     Slam     | STR, RFX, INT | 1 | 5d6 |
+|   Unarmed   | STR, RFX, INT | 1 | 5d6 |
 
-## Effects
+## Info
 
-|          Name          |                            Effect                            | Duration |                                                       Source                                                       |
-| :---------------------: | :-----------------------------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------: |
-|  Minor Silver Weakness  | +1 to the level of injury received from Silver damage. |          |                                                    Fellblood                                                    |
-| Physical Defense Level |                               1                               |          |                                                        Armor                                                        |
-|       Medium Size       |                     5x5 ft on battle map.                     |          |                                                                                                                    |
-|   Language: Babelish   |                      Can speak Babelish.                      |          |                                                                                                                    |
-|     Language: Jotun     |                       Can speak Jotun.                       |          |                                                                                                                    |
-|    Equipment Weight    |                             17 lb                             |          |                                                      Equipment                                                      |
-|  Carry Weight  |                            400 lb                            |          | +50 lbs Carry Weight per Lift dice |
-|      Light Weight      |                -0d6 to STR/RFX governed Dice Pools                |          |                                              0% =< Equipment Weight <= 25% of Carry Weight                                              |
-| Terrestrial Combat Speed |                             40 ft                             |          |                                +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                |
-|   Swim Combat Speed   |                             40 ft                             |          |                              +5 ft (per Athletics Dice), +/-5 ft (per RFX)                              |
-|  Climb Combat Speed  |                             30 ft                             |          |                                +5 ft (per Climb Dice), +/-5 ft (per RFX)                                |
+|                                                  Name                                                  |                         Info                         | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
+|                          [Language](./../../../Languages/Languages.md): Babelish                          |                 Can speak Babelish.                 |          |                                                  |
+|                            [Language](./../../../Languages/Languages.md): Jotun                            |                   Can speak Jotun.                   |          |                                                  |
+|                                                                                                        |                                                      |          |                                                  |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                        17 lb                        |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                        400 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |         -0d6 to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                        |                                                      |          |                                                  |
+|         [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver         | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                          1                          |          |                  Natural Armor                  |
+|                                                                                                        |                                                      |          |                                                  |
+|                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Large                  |               10x10 ft on battle map.               |          |                                                  |
+|      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                        40 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim         |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                        25 ft                        |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                        |                                                      |          |                                                  |
+|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
-## Combat Rolls
+## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
-|           Name           |   One<br />Handed   |   Two<br />Handed   | Dual<br />Wielded | Penetration | Range |      Damage<br />Types      | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
-| :----------------------: | :------------------: | :------------------: | :---------------: | :---------: | :----: | :--------------------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Polycraft - Melee Trick |         4d6         |                      |                  |      0      | Melee | Slash, Bludgeon, Hew, Pierce |           Rapid           |                    |        None        |
-| Polycraft - Ranged Trick |         4d6         |                      |                  |      0      | Close | Slash, Bludgeon, Hew, Pierce |         Standard         |                    |        None        |
-|    Thrown Short Spear    | 6d6, 3d4<br />(+2d6) | 6d6, 3d4<br />(+2d6) |       None       |      3      | Medium |            Pierce            |         Standard         |        None        |        None        |
-|       Short Spear       | 6d6, 3d4<br />(+2d6) | 7d6, 3d4<br />(+3d6) |       None       |      3      | Melee |            Pierce            |        Spear Rapid        |        None        |        None        |
-|    Reach Hafted Point    |    5d6<br />(-2)    |   10d6<br />(+3d6)   |       None       |      4      | Reach |            Pierce            |           Rapid           |        None        |        None        |
-|    Reach Hafted Blunt    |    5d6<br />(-2)    |   9d6<br />(+2d6)   |       None       |      5      | Reach |           Bludgeon           |           Rapid           |        None        |        None        |
+- [Victory Levels link](./../../../../../CoreRules/CombatRules/VictoryLevels.md)
 
-## Fellblood: 1/1
+### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-## Equipment
+|        Name        | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :-----------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|       Unarmed       |                                         -1                                         |                                        None                                        |                                          +0d6                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+|        Slam        |                                  +0d6<br />(5d6)                                  |                                        None                                        |                                    +1d6<br />(6d6)                                    |                                            2                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Thrown Medium Spear |                                  +2d6<br />(7d6)                                  |                                  +2d6<br />(7d6)                                  |                                          None                                          |                                            2                                            |                        Medium                        |                                 Pierce                                 |                                        Standard                                        |                                    None                                    |                                             None                                             |
+|    Medium Spear    |                                  +2d6<br />(7d6)                                  |                                  +2d6<br />(7d6)                                  |                                          None                                          |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                       Rapid Max 2                                       |                                    None                                    |                                             None                                             |
+| Reach Hafted Point |                                   -2<br />(3d6)                                   |                                  +3d6<br />(8d6)                                  |                                          None                                          |                                            4                                            |                         Reach                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Reach Hafted Blunt |                                   -2<br />(3d6)                                   |                                  +2d6<br />(8d6)                                  |                                          None                                          |                                            5                                            |                         Reach                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 
-| Name                  | # |                 Class                 |    Tier    | Durability | LB | Value |
-| --------------------- | :-: | :------------------------------------: | :---------: | :--------: | :-: | :---: |
-| Natural Armor Level 1 | 1 |              Phy. Def. 1              |   Mundane   |            | 0 | None |
-| Wooden Javelin  | 1 |    Short Spear, Thrown Short Spear    | Compromised |    6/6    | 3 | 1 bc |
-| Ogre's Spiked Club    | 1 | Reach Hafted Blunt, Reach Hafted Point |   Mundane   |   12/12   | 14 | 41 cc |
+### [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+
+| Name               | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ------------------ | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Ogre's Spiked Club | 1 |           Reach Hafted Blunt, Reach Hafted Point           |                                                                |                          Mundane                          |                                 12/12                                 |                             14                             |                    41 cc                    |
+| Javelin            | 2 |              Medium Spear, Thrown Medium Spear              |                                                                |                          Mundane                          |                                 12/12                                 |                             3                             |                    5 bc                    |

@@ -15,18 +15,19 @@
 
 ## Vocations and Vocational Skills
 
-| Fellcaster {STR, RFX, INT} |   1   |  5d6  | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 4d6 |
+| Fellcaster {STR, RFX, INT} |   1   |  5d6  | Blacksmith / Silversmith {STR, RFX, INT}                 |     1     | 5d6 |
 | :------------------------: | :---: | :---: | -------------------------------------------------------- | :-------: | --- |
 | Polycraft {STR, RFX, INT}  |   1   |  5d6  | Metallurgy {INT}                                         | Inherited | 4d6 |
-| Toxincraft {STR, RFX, INT} |  -1   |  3d6  | Tool making / repair {STR, RFX, INT}                     | Inherited | 4d6 |
-| Terracraft {STR, RFX, INT} |  -1   |  3d6  | Silver-plating {STR, RFX, INT}                           | Inherited | 4d6 |
-|                            |       |  3d6  | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     0     | 4d6 |
+| Toxincraft {STR, RFX, INT} |  -1   |  3d6  | Tool making / repair {STR, RFX, INT}                     | Inherited | 5d6 |
+| Terracraft {STR, RFX, INT} |  -1   |  3d6  | Silver-plating {STR, RFX, INT}                           | Inherited | 5d6 |
+|                            |       |  3d6  | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     1     | 5d6 |
+
 
 ## Effects
 
 |                                          Name                                           |                         Effect                         | Duration |                                                                  Source                                                                  |
 | :-------------------------------------------------------------------------------------: | :----------------------------------------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-|                                  Minor Silver Weakness                                  | +1 to the level of injury received from Silver damage. |          |                                                              Fellblood                                                               |
+|                                  Minor Silver Weakness                                  | +1 to the level of injury received from damage type. |          |                                                              Fellblood                                                               |
 |                                 Physical Defense Level                                  |                      Phy. Def. 2.00                       |          |                                                                 Carapace                                                                 |
 |                                       Medium Size                                       |                 5x5 ft on battle map.                  |          |                                                                                                                                          |
 |                                   Language: Babelish                                    |                  Can speak Babelish.                   |          |                                                                                                                                          |
@@ -37,7 +38,7 @@
 |                                Racial feature: Antennae                                 |           Good sense of smell and pheromone.           |          |                                                    Underground hive dweller species.                                                     |
 |                                    Equipment Weight                                     |                         26 LB                          |          |                                                                Equipment                                                                 |
 |                                  Carry Weight                                  |                         160 lb                         |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|                                      Light Weight                                       |            -0d6 to STR/RFX governed Dice Pools             |          |                                                         0% =< Equipment Weight <= 25% of Carry Weight                                                         |
+|                                      Weight Class: Light                                       |            -0d6 to STR/RFX governed Dice Pools             |          |                                                         0% =< Equipment Weight <= 25% of Carry Weight                                                         |
 |                                 Terrestrial Combat Speed                                 |                         30 ft                          |          |                                          50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
 |                                   Swim Combat Speed                                   |                         15 ft                          |          |                                         +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                         |
 |                                  Climb Combat Speed                                   |                         15 ft                          |          |                                           +5 ft (per Climb Dice), +/-5 ft (per RFX)                                           |
@@ -54,7 +55,7 @@
 |      Hand Protection Unarmed      |  0d6 |  0d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 |        Medium Hafted Blunt        |  0d6 | +1d6 |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
 |        Medium Hafted Point        | +1d6 | +2d6 |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|       Small Thrusting Point       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+|       Small Piercing Blade       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 |       Small Slashing Blade        | +1d6 | +1d6 |    n/a (+1d6)    |      0      | Melee |      Slash       |           Rapid           |        None        |        None        |
 
 ### Ranged Options
@@ -63,14 +64,14 @@
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Point | 0d6             | 0d6             |        n/a        |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Thrown Small Piercing Blade | 0d6             | 0d6             |        n/a        |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
 
 ### Combat Spells
 *Combat spells are already linked and categorized on my magic quicklist below. (As well as other spells that I can do.)*
 
 ## Destiny Points: 2/3
 
-## Fellblood: 5/5
+## Fellblood: 0/5
 
 [Magic Quicklist](./MyMagicList.md)
 
@@ -85,7 +86,9 @@
 |      Clothes, Traveler's       |   1   |                                           |                | Mundane |   12/12    |   4   |  2 bc  |                                                                                                                                                                                        |
 |         Cloak, Canvas          |   1   |                                           |                | Mundane |   12/12    |   5   | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                 |
 |           Warhammer            |   1   | Medium Hafted Blunt, Medium Hafted Point  |                | Mundane |   12/12    |   4   |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
-|             Dagger             |   1   | Small Thrusting Point, Thrown Small Point |                | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|          Morning Start         |   1   | ???                                       |                | ???     |   ???      |  ???  | ?? bc  | First loot. :D                                                                                                                                                                         |
+|             Dagger             |   1   | Small Piercing Blade, Thrown Small Piercing Blade |                | Mundane |   12/12    |   1   |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|          Silver Dust           |   1   | ???                                       |                | ???     |   ???      |  ???  | ?? bc  |                                                           Improvised weapon I prepared in haste but only used for intimidation.                                                        |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
 
@@ -109,7 +112,7 @@
 |       Name        |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
 | :---------------: | :---: | :-------------: | :----: | :-----: | :--------: | :---: | :----: | :---: |
 | Backpack (1 ft^3) |   1   | 30 lb container |        | Mundane |            |   5   |  2 bc  |       |
-|  Rations (1 day)  |   3   |                 |        | Mundane |   12/12    |   2   | 0.5 bc |       |
+|  Rations (1 day)  |   2   |                 |        | Mundane |   12/12    |   2   | 0.5 bc |       |
 |  Waterskin (4/4)  |   1   |                 |        | Mundane |   12/12    |   5   | 20 cc  |       |
 |   Smith's Tools   |   1   |                 |        | Mundane |   12/12    |   8   | 20 bc  |       |
 
