@@ -16,7 +16,7 @@
 | Fellcaster Woodsman | STR, RFX, INT | 1 | 5d6 |
 | ------------------- | :-----------: | :-: | :-: |
 | Large Hafted        | STR, RFX, INT | 1 | 5d6 |
-| Naturecraft         | STR, RFX, INT | 0 | 4d6 |
+| Naturecraft         | STR, RFX, INT | 1 | 5d6 |
 | Polycraft           | STR, RFX, INT | -1 | 3d6 |
 | Fellcraft Skill     | STR, RFX, INT | -1 | 3d6 |
 
@@ -42,7 +42,7 @@
 |         [Climb Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds)         |                         25 ft                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                                        |          |                                                  |
 |            [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood            |                          5/5                          |          |       Vocation/Magic Governing Skill Level       |
-|                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                          3/3                          |          |               Awarded by Narrator               |
+|                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                          2/3                          |          |               Awarded by Narrator               |
 |                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |             – 0 dice to all dice checks.             |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
@@ -135,3 +135,8 @@ Krater grew up in the vast Ironwood forest to the east of Reddwall known as Iron
 Left without a father figure, Burrow Bard Stoneseeker, the owner and financier of the lumberyard operation took Krater under his wing the best he could. Krater emulated his now father figure, becoming stubborn and difficult to compromise with.
 
 Krater grew to be quite the lumberman and proficient with his axe, working hard and always meeting quota. When his mother's health began deteriorating, he saved his salary, enough to eventually move him and his mom towards Reddwall to seek better healthcare for his mother's strange disease. Burrowbard, kind as ever, helped them find a place, haggle down the price, and would frequently check in on the two. Krater, well versed in the Ironwood trade, worked for Burrowbard at one of his Ironwood export docks.
+
+Jotun Prayer:
+"Give yourself to Terra, soak in the suns glow,
+with the end of you another grows.
+May we meet again."
