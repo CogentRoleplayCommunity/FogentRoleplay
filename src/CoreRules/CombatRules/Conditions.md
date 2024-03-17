@@ -13,7 +13,7 @@
 ## Charmed
 
 - Can't cause harm to the charmer.
-- The charmer has advantage on Communication Checks on the charmed character.
+- The charmer has Advantage on Communication Checks against the Charmed character.
 
 ## Deafened
 
@@ -22,7 +22,7 @@
 ## Frightened
 
 - Disadvantage while the source of the fear is within line of sight.
-- Can't willing move closer towards source of fear.
+- Can't willingly move closer towards the source of fear.
 
 ## Grappled
 
@@ -34,12 +34,12 @@
 
 ## Incapacitated
 
-- Character can't take any actions or move.
+- The character can't take any actions or move.
 
 ## Invisible
 
-- Impossible to see via traditional sight. Character is considered Heavily Obscured. Character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
-- Combat rolls have disadvantage against the character that relies on sight.
+- Impossible to see via traditional sight. Character is considered Heavily Obscured. The character's location can be detected via hearing, touch, smell, other special senses, or magic senses.
+- Combat rolls have Disadvantage against the character that relies on sight.
 
 ## Paralyzed
 
@@ -77,5 +77,5 @@
 - Incapacitated (see the condition).
 - Can't speak.
 - Unaware of surroundings.
-- Character drops whatever they were holding and falls prone (see the condition).
+- The character drops whatever they are holding and falls prone (see the condition).
 - Automatically fail any check that requires coordinated movement (i.e. Acrobatics, Athletics, Sleight Hand, etc... )

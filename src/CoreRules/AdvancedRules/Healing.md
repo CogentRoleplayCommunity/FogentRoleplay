@@ -1,10 +1,10 @@
 # Healing
 
-Since Injuries in Fogent work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science based medicine.
+Since Injuries in Fogent work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science-based medicine.
 
 ## Gradual Heal
 
-Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.
+Minor injuries heal in a short rest. Medium injuries heal during a long rest. Stabilized Serious injuries heal over a 24-hour rest. Cannot affect higher-tier injuries.
 
 ## Minor Heal
 
@@ -28,10 +28,10 @@ For a higher tier injury, reduce the dice penalty of the injury by 3. Injury rem
 
 Removes a Fatal or lesser injury.
 
-Can be used to reattach limbs as long as the limb is not completely destroyed.
+Can be used to reattach limbs as long as the limb is not destroyed.
 
 ## Revival Heal
 
 Return a dead character to life with a serious injury. Can only be performed within minutes of death.
 
-For living characters, it completely heals all injuries, regrowing body parts, returning the body to peak performance.
+For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.
