@@ -10,12 +10,12 @@ Starting on with the weapon skill your character currently possesses, each horiz
 
 ### Melee Weapon Skill Transfer
 
-| Class/Size |     Hafted     |    Blade    |    Spear    |
-| :--------: | :------------: | :----------: | :----------: |
-|   Small   |  Small Hafted  | Small Blade |              |
+| Class/Size |    Hafted     |    Blade     |    Spear     |
+| :--------: | :-----------: | :----------: | :----------: |
+|   Small    | Small Hafted  | Small Blade  |              |
 |   Medium   | Medium Hafted | Medium Sword | Medium Spear |
-|   Large   | Large Hafted | Large Sword | Large Spear |
-|   Reach   | Reach Hafted | Reach Sword | Reach Spear |
+|   Large    | Large Hafted  | Large Sword  | Large Spear  |
+|   Reach    | Reach Hafted  | Reach Sword  | Reach Spear  |
 
 ### Ranged Combat Skill Transfer
 

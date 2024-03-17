@@ -24,11 +24,11 @@ Our example character has 1 STR, 1 RFX, and 1 INT. I take the Vocation "Chef" an
 
 I add the "Wine Tasting" vocational skill and give it the governing attribute RFX and INT. RFX makes sense as they'd have to use their sense to smell and taste for the wine. INT makes sense as they'd have to have a vast knowledge of wine types and have knowledge of what were good years when the grapes were grown. "Wine Tasting" is also not covered by any other core skill. I inherited the level for "Wine Tasting" at level 2 as it shares the level of my "Chef" vocation.
 
-I try to make the "Chopping Food" vocational skill and give it the governing attribute RFX. RFX makes sense as they'd have to use fine motor control with their hands to chop quickly. Then remember that the "Sleight of Hand" core skill already exists and that this vocational skill isn't needed.
+I try to make "Chopping Food" a vocational skill and give it the governing attribute RFX. RFX makes sense as they'd have to use fine motor control with their hands to chop quickly. Then remember that the "Sleight of Hand" core skill already exists and that this vocational skill isn't needed.
 
-I add the "Small Blade" combat skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more deadly with a knife. It also makes sense that a Chef would know how to use a knife. I spend 1 skill point on it, bringing it to level 1.
+I try to add the "Small Blade" combat skill which has the governing attributes STR, RFX, and INT. This makes sense as being stronger, faster, and smarter makes you more deadly with a knife. It also makes sense that a Chef would know how to use a knife. I spend 1 skill point on it, bringing it to level 1.
 
-I try and add the "Reach Spear" combat skill. I realized using a longspear is not something that a chef would do, so I can't add it under my vocation.
+I try and add the "Reach Spear" combat skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
 
 | Chef              |   RFX, INT    |     2     |  7d6  |
 | ----------------- | :-----------: | :-------: | :---: |

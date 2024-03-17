@@ -1,10 +1,10 @@
 # Tied Contested Checks
 
-Contested Checks occur when two characters are in conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception. Often times, Contested Checks result in ties. If ties occur within combat, ties result in neither side making progress and the contested check is a stalemate. Otherwise, ties in any other contested check outside of combat can just be rerolled to establish a clear winner.
+Contested Checks occur when two character's actions conflict. The most obvious example of this is fighting, though other examples include drinking contests, arm wrestling, or stealth vs perception. Oftentimes, Contested Checks result in ties. If ties occur within combat, ties result in neither side making progress and the contested check is a stalemate. Otherwise, ties in any other contested check outside of combat can just be rerolled to establish a clear winner.
 
 ## Combat example 1:
 
-Two characters are in combat and roll their dice pools versus one another. Each of them gets 2 wins on their combat roll. They clash but aren't able to injury each other.
+Two characters are in combat and roll their dice pools versus one another. Each of them gets 2 wins on their combat roll. They clash but aren't able to injure each other.
 
 ## Combat example 2:
 

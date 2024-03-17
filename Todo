@@ -1,22 +1,16 @@
-## Fogent Todo:
-- Add Healing Kit effect, maybe have to meet CL level + 1, applies a minor heal and stabilizes 
-- Add Rules for taking a negative in a skill to gains skill points
+## Fogent Todos
+- Fix Gun Ranges
+- Make more variation with Mag. Ranged weapons with different ammunition types.
 
 ## Fogent Maybe To Dos:
-- Shove for mental damage magic
 - Should EO tick for each character engaged, or each character engaged and each character that engages them
 - Different Arrows and bolts for different weapons
-- Light Crossbow and heavy Crossbow in one hand
-- Bite Grab/Tentacle and minor injury from medium injury
-- Can use Weapon combat skill on Magic Summoned weapons
-- Make more variation with Mag. Ranged weapons with different ammunition types.
-- Fix Gun Ranges
+- Investigate reverse turn order
 
 ## Fogent Probably Not To Dos:
 - Possible -1d6 nerf to all ranged weapons
 - Possible dedicated 1 handed swords
-- Investigate reverse turn order
-- Melee/Grapple Range
+- Bite Grab/Tentacle and minor injury from medium injury
 
 ## Fallen To dos:
 - Remove NotMyImage and Copyright tags
@@ -28,7 +22,5 @@
 - Remove Fellkin in general. Gives the races more uniqueness. The group name could be "the Fallen".
 - Grass lord one shot
 - Write the Beast Of Reddwall
-- Add entangle spell
 - make videos about character making
-- Figured out spellbook mechanic, maybe it isn't a magic focus but a book for spells
 
