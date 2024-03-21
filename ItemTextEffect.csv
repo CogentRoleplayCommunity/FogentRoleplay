@@ -2,7 +2,7 @@ Name,Effect,Duration,TierRequired
 Ending,Creatures killed with this weapon are instantly decapitated.,Instantaneous,1
 Splinter,"Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.",,2
 Extendable Weapon,"This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way.",,1
-Fire Repair and Enhancement,"Weapons repairs in intense fires. If fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.",,-3
+Fire Repair and Enhancement,"Weapons repairs in intense fires. If fully repaired and is exposed to increasily intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.",,3
 Apparel Storage,"This small mirror can save an outfit the user is wearing. If no outfit is stored inside the user will appear naked in the reflection while holding it. Pressing the mirror while looking into it will swap your apparel between your reflection and what you are currently wearing. This happens in a flash of light, similar to the glare off a mirror. This allows the users to store an outfit inside of the necklace.",,6
 Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.,,2
 Life Leech,Sneak attacks trigger an Minor Heal to self.,,2
@@ -53,6 +53,7 @@ Defense Spells,"The staff is endowed with 10 charges, serving as the fuel for th
 At the break of dawn, the staff regains 1d6 + 4 expended charges. Should the staff exhaust its charges entirely, roll a d20. If the result is 1, the staff shatters and meets its destruction.",While Equipped,3
 Single-use Invisibility,Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process.,1 hour,3
 Draupnir,"This ring can transform between a weapon and ring. The ring is endowed with 10 charges. With the ring equipped, the user can force a duplication resulting in either a ring or weapon, both which appear in the users hand. Duplicates can not transform, only the original. At the break of dawn, the ring regains 1d6 + 4 expended charges.",Instantaneous,3
+Cold Enchantment,Weapon additionally deals Cold damage.,Indefinite,3
 Minor Weakness: (Damage Type),+1 to the level of injury received from damage type.,Indefinite,3
 Medium Weakness: (Damage Type),+2 to the level of injury received from damage type.,Indefinite,5
 Serious Weakness: (Damage Type),+3 to the level of injury received from damage type.,Indefinite,7
