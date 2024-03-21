@@ -117,6 +117,25 @@
 | Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
+## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
+
+### [Novice Spells (CL 0)](./../../../../../CoreRules/MagicRules/Spells.md#novice-spells-cl-0)
+
+### [Apprentice Spells (CL 1-2)](./../../../../../CoreRules/MagicRules/Spells.md#apprentice-spells-cl-1---2)
+
+- Mend Wounds
+- Talk With Animals
+- Entangle
+- Ranged Healing
+
+### [Adept (CL 3-4)](./../../../../../CoreRules/MagicRules/Spells.md#adept-spells-cl-3---4)
+
+### [Expert (CL 5-6)](./../../../../../CoreRules/MagicRules/Spells.md#expert-spells-cl-5---6)
+
+### [Master (CL 7-8)](./../../../../../CoreRules/MagicRules/Spells.md#master-spells-cl-7---8)
+
+### [Legendary (CL 9+)](./../../../../../CoreRules/MagicRules/Spells.md#legendary-spells-cl-9)
+
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
 | Name            | # |      [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)      | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
