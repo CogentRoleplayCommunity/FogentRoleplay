@@ -1422,7 +1422,7 @@ Wyrm Tor, a prominent landmark in the rugged hills northeast of the Spine of the
 
 The ogrekins are scouts from the Many Arrows tribe and are often found prowling the more civilized regions of the North. They engage in spying on settlements, ambushing travelers, and looting when opportunities present themselves. Stories of new settlers near Tuntin and increased activity along the old Trident Trail drew this group to the area. Their leader is Brugore Axe-Catcher, a savage brute more inclined toward murder and looting than scouting.
 
-### ogrekin Camp
+### Ogrekin Camp
 
 Wyrm Tor is a sizable hill with rugged terrain across its slopes and flanks. Locating the hidden ogrekin camp takes time. The party can attempt one CL 3 Perception Skill Check or CL 2 Survival Skill check per hour to find the camp, led by the character taking the lead.
 
