@@ -63,3 +63,5 @@ Medium Resistance: (Damage Type),-2 to victory levels received from damage type.
 Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,7
 Fatal Resistance: (Damage Type),-4 to victory levels received from damage type.,Indefinite,9
 Complete Resistance: (Damage Type),Negate victory levels received from damage type.,Indefinite,11
+,,,
+The Anatoli Curse,"The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.",Indefinite,2
