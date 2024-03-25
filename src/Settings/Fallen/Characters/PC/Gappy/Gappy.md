@@ -129,10 +129,11 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name              | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
-| ----------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3) | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
-| Bronze Coin       | 53 |                |        | Mundane |            | 0.02 | 1 bc |
+| Name                | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ------------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3)   | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
+| Bronze Coin         | 53 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Pocket Watch |    |                |        |        |            |      |      |
 
 ## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
 
