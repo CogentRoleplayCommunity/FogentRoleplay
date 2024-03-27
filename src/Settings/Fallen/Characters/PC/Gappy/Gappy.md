@@ -1,52 +1,52 @@
-# Vasilii "The Bear Knight" Anatoli
+# Gaberiel "Gappy" Dirtbreaker
 
-![img](./VasiliiAnatoli.png)
+![img]()
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 1 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 5d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 1 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
-|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 4d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 5d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 1 | 5d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 1 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 3d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 3d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 1 | 5d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Warrior     | STR, RFX, INT | 1 | 5d6 |
-| ----------- | :-----------: | :-: | :-: |
-| Large Sword | STR, RFX, INT | 1 | 5d6 |
+|         Rogue         | STR, RFX, INT | 1 | 5d6 |
+| :--------------------: | :-----------: | :-: | :-: |
+| Black Market Knowledge |      INT      |  | 4d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 5d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
-|                         Polycraft                         | STR, RFX, INT | 1 | 5d6 |
-|                         Sonocraft                         | STR, RFX, INT | -1 | 3d6 |
+|                        Terracraft                        | STR, RFX, INT | 1 | 5d6 |
 
 ## Info
 
-|                                                           Name                                                           |                                                                            Info                                                                            | Duration |                      Source                      |
-| :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                          [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                          |                                                                              4                                                                              |          |                                                  |
-|                                   [Language](./../../../Languages/Languages.md): Babelish                                   |                                                                     Can speak Babelish.                                                                     |          |                                                  |
-|                                    [Language](./../../../Languages/Languages.md): Primal                                    |                                                                      Can speak Primal.                                                                      |          |                                                  |
-|    [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Alcoholism    |                                                Extreme addiction, suffers from withdrawals if not satisfied.                                                |          |                                                  |
-| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Scandalous Secret | I hide a truly scandalous secret that could ruin my family forever.<br />  By my words and actions, I often bring shame to my family. (Killed his brother) |          |                                                  |
-|                                                                                                                          |                                                                                                                                                            |          |                                                  |
-|                    [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                    |                                                                            58 lb                                                                            |          |                    Equipment                    |
-|                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                     |                                                                           250 lb                                                                           |          |        +50 lbs Carry Weight per Lift dice        |
-|                [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                |                                                             -0d6 to STR/RFX governed Dice Pools                                                             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|                                                                                                                          |                                                                                                                                                            |          |                                                  |
-|                  [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                  |                                                    +1 to the level of injury received from damage type.                                                    |          |                    Fellblood                    |
-|          [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)          |                                                                              4                                                                              |          |                  Armor & Shield                  |
-|                                                                                                                          |                                                                                                                                                            |          |                                                  |
-|                           [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                           |                                                                    5x5 ft on battle map.                                                                    |          |                                                  |
-|               [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial               |                                                                            50 ft                                                                            |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                  [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                  |                                                                            25 ft                                                                            |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                  [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                  |                                                                            20 ft                                                                            |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|                                                                                                                          |                                                                                                                                                            |          |                                                  |
-|                     [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                     |                                                                             3/7                                                                             |          |       Vocation/Magic Governing Core Skill       |
-|                          [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                          |                                                                             2/3                                                                             |          |               Awarded by Narrator               |
-|                               [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                               |                                                                – 0 dice to all dice checks.                                                                |          |                      Damage                      |
+|                                                         Name                                                         |                         Info                         | Duration |                      Source                      |
+| :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
+|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                          1                          |          |                                                  |
+|                                 [Language](./../../../Languages/Languages.md): Babelish                                 |                 Can speak Babelish.                 |          |                                                  |
+|                               [Language](./../../../Languages/Languages.md): Tunnel-tongue                               |               Can speak Tunnel-tongue.               |          |                                                  |
+|                                                                                                                      |                                                      |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Kleptomaniac |   Desire to steal most things regardless of value.   |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Spore Phobia |            Frightend of Spore creatures.            |          |                                                  |
+|                                                                                                                      |                                                      |          |                                                  |
+|                  [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                  |                        16 lb                        |          |                    Equipment                    |
+|                   [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                   |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|              [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light              |         -0d6 to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                      |                                                      |          |                                                  |
+|                [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
+|        [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)        |                          2                          |          |                  Armor & Shield                  |
+|                                                                                                                      |                                                      |          |                                                  |
+|                         [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Small                         |                5x5 ft on battle map.                |          |                                                  |
+|             [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial             |                        40 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                |                        25 ft                        |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                      |                                                      |          |                                                  |
+|                   [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                   |                         5/5                         |          |       Vocation/Magic Governing Core Skill       |
+|                        [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                        |                         0/3                         |          |               Awarded by Narrator               |
+|                             [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                             |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -54,18 +54,11 @@
 
 ### [Weapon Classes](./../../../../../CoreRules/CombatRules/WeaponClasses.md)
 
-|               Name               | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
-| :-------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-|              Unarmed              |                                         -1                                         |                                        None                                        |                                          +0d6                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
-|      Hand Protection Unarmed      |                                        +0d6                                        |                                        None                                        |                                          +0d6                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
-| Steelclaw - Large Thrusting Sword |                                        +0d6                                        |                                +2d6<br />(2d8, 5d6)                                |                                          None                                          |                                            3                                            |                         Melee                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
-| Steelclaw - Large Slashing Sword |                                        +0d6                                        |                                +3d6<br />(2d8, 6d6)                                |                                          None                                          |                                            2                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
-
-#### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
-
-| Name | Resource Class | Resource Dice | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
-| :--: | :------------: | :-----------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-|      |                |              |                                                                                        |                                                      |                                                                        |                                                                            |
+|          Name          | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Weapon<br />Resource](./../../../../../CoreRules/CombatRules/WeaponClasses.md#weapon-resources) |
+| :--------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|        Unarmed        |                                         -1                                         |                                        None                                        |                                          +0d6                                          |                                            0                                            |                         Melee                         |                                Bludgeon                                |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Medium Thrusting Sword |                                        +1d6                                        |                                        +2d6                                        |                                          +1d6                                          |                                            2                                            |                         Melee                         |                                 Pierce                                 |                                          Rapid                                          |                                    None                                    |                                             None                                             |
+| Medium Slashing Sword |                                        +2d6                                        |                                        +3d6                                        |                                          +1d6                                          |                                            0                                            |                         Melee                         |                                  Slash                                  |                                          Rapid                                          |                                    None                                    |                                             None                                             |
 
 ### [Melee Combat Roll Spells](./../../../../../CoreRules/MagicRules/Spells.md#melee-combat-roll-spells)
 
@@ -112,94 +105,81 @@
 |          Mag. Heavy Bow          |                                        None                                        |                                        +3d6                                        |                                          None                                          |                                            3                                            |                     Sharpshooter                     |                                                                        |                                        Standard                                        |                                    None                                    |                                     3                                     |
 |        Mag. Magic Sphere        |                                        None                                        |                                        +3d6                                        |                                          None                                          |                                            3                                            |                         Long                         |                                                                        |                                            1                                            |                             Sphere Calculation                             |                                     3                                     |
 
+#### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
+
+| Name | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
+| :--: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|      |                                                                                              |                                                                                            |                                                                                        |                                                                            |                                                                                                |                                                                                                    |
+
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
-|     Name     | Class |                                   Effect                                   |
-| :-----------: | :----: | :-------------------------------------------------------------------------: |
-| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
-| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
-| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
+|     Name     | Class |                                   Effect                                   | Magic<br />Resource |
+| :-----------: | :----: | :-------------------------------------------------------------------------: | :-----------------: |
+| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
+| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
+| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # |      [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)      | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| --------------- | :-: | :-------------------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Gambeson Armor  | 1 |                   Body Armor, Arm Armor, Leg Armor                   | Phy. Def. 1.00                                                 |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
-| Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed | Phy. Def. 3.00                                                 |                         Excellent                         |                                 21/21                                 |                             47                             |                    75 bc                    |
-| Steelclaw       | 1 |              Large Thrusting Sword, Large Slashing Sword              |                                                                |                           Fine                           |                                 12/12                                 |                             3                             |                    15 bc                    |
+| Name                          | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| ----------------------------- | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Cane Sword                    | 1 |        Medium Thrusting Sword, Medium Slashing Sword        |                                                                |                          Quality                          |                                 15/15                                 |                             2                             |                    25 bc                    |
+| Gambeson Armor                | 1 |              Body Armor, Arm Armor, Leg Armor              |                         Phy. Def. 1.00                         |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
+| Leather Cuirass and Pauldrons | 1 |                         Body Armor                         |                         Phy. Def. 1.00                         |                          Quality                          |                                 15/15                                 |                             6                             |                    5 bc                    |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                   | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ---------------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Backpack (1 ft^3)      | 1 |                       30 lb container                       |                                                                |                          Mundane                          |                                                                      |                             5                             |                    2 bc                    |
-| Longsword              | 1 |         Large Thrusting Sword, Large Slashing Sword         |                                                                |                          Mundane                          |                                 12/12                                 |                             3                             |                    15 bc                    |
-| Waterskin (4/4)        | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             5                             |                    20 cc                    |
-| Rations (1 day)        | 7 |                                                            |                                                                |                          Mundane                          |                                                                      |                             2                             |                    50 cc                    |
-| Rope, Hempen (50 feet) | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             10                             |                    1 bc                    |
-| Soap                   | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.5                            |                    2 cc                    |
-| Piton                  | 10 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.25                            |                    5 cc                    |
-| Playing Card Set       | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.2                            |                    50 cc                    |
-| Clothes, Traveler's    | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             4                             |                    2 bc                    |
-| Bronze Coin            | 23 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.04                            |                    2 bc                    |
-| Copper Coin            | 28 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.56                            |                    1 cc                    |
+| Name                | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
+| ------------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
+| Backpack (1 ft^3)   | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
+| Bronze Coin         | 53 |                |        | Mundane |            | 0.02 | 1 bc |
+| Bronze Pocket Watch |    |                |        |        |            |      |      |
+
+## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
+
+### [Novice Spells (CL 0)](./../../../../../CoreRules/MagicRules/Spells.md#novice-spells-cl-0)
+
+- (Spell Name Example)
+
+### [Apprentice Spells (CL 1-2)](./../../../../../CoreRules/MagicRules/Spells.md#apprentice-spells-cl-1---2)
+
+### [Adept (CL 3-4)](./../../../../../CoreRules/MagicRules/Spells.md#adept-spells-cl-3---4)
+
+### [Expert (CL 5-6)](./../../../../../CoreRules/MagicRules/Spells.md#expert-spells-cl-5---6)
+
+### [Master (CL 7-8)](./../../../../../CoreRules/MagicRules/Spells.md#master-spells-cl-7---8)
+
+### [Legendary (CL 9+)](./../../../../../CoreRules/MagicRules/Spells.md#legendary-spells-cl-9)
 
 ## Notes
 
-plus 1 reflex
-
 ## Appearance
 
-Age: 27
+Age:
 
-Race: Beastkin (Bear)
+Race:
 
-Height: 6' 1"
+Height: ?' ?"
 
-Weight: ~ 200 lb
+Weight: ~ ? lb
 
-Body Type: Built
+Body Type:
 
-Hair Color: Brown
+Hair Color:
 
-Eye Color: Brown
+Eye Color:
 
 Additional Details:
 
 ## Disposition
 
-- The common folk love me for my kindness and  generosity.
-- Despite my noble birth, I do not place myself above other folk. We all have the same blood.
-
 ## Beliefs/Morality
-
-- Noble Obligation: It is my duty to protect and care for  the people beneath me. (Good)
-- I have an older brother named Artyom that has always had my back.
-- No Mercy for the Wicked. Ordinary foes might win my mercy, but my sworn enemies do not.
-- By Any Means Necessary. My qualms can't get in the way aof exterminating my foes.
-- Restitution. If my foes wreck ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.
 
 ## Goals/Aspirations
 
-- Tenets of Vengeance
-- Fight the Greater Evil. Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
-
 ## Backstory
 
-Vasilii Anatoli, the seventh son of a seventh, was born to a noble family in the Empire. His father Baron Vlad Anatoli had many serfdom and properties across the Empire. He was a hard yet fair ruler. This had more to do with his wife Baroness Anna who he loved dearly.
-
-Vasilii grew up with a silver spoon in his mouth, as did all of his seven brothers. While Vasilii's brother behaved more like their father's hard and cold demeanor, Vasilii instead took after his mother's kindness and warmth. Vasilii's mother loved all of her children, but she loved Vasilii most of all.
-
-Vasilii's brother would torment him relentlessly, as Vasilii loved speaking and befriending common folk. But Vasilii was strong for his age and would give as good as he got. Most of these scuffles ended when his brother Artyom, the second oldest, would break up the fights. Vasilii loved Artyom as he always looked out for him.
-
-By far the best part of Vasilii's childhood were the bedtime stories his mother would read to him. She loved the scary stories, the ones that always ended with a stern warning. But Vasilii's favorite were the ones about heroes battling monsters and saving fair maidens. She'd tuck Vasilii in every night with his red blanket, kiss him on the head, and tell him "I love you stronger than iron and softer than feathers my little boy."
-
-But everything changed that cold winter morning. Vasilii was only ten, when that man had stepped out of the crowd. Vasilii had never quite seen what it was that he was holding, as he usually sat at the back of the carriage he and his brother rode in. It all happened so quickly, the man tossing an odd device into the carriage in front of Vasilii. The one his mother and father usually rode in. The blast had left Vasilii's ears ringing. His mother had been traveling alone that day. The funeral was held three days later.
-
-A portion of his father's serfs attempted an uprising. But they were slaughtered quickly by his father’s soldiers and wizards. His father became cruel and unreasonable after his wife’s death. After he had killed all the revolutionaries, he enforced harder taxes and restrictions on all under his rule as to him they were not different from those who had taken his wife.
-
-When Vasilii was 23 his father had sent him, Artoym, and Borya his oldest brother to remove a thief's hand. A mother had stolen grain out of the Barons stores to feed her infant. Boyra, the cruelest of his brothers, had instead staged a public execution for the woman in the town square. Vasilii, who had become the advocate of the common folk  to his father, attempted to do the same to his brother. But Borya was out for blood. In the name of the Good, before his brother could bring his sword down, Vasilii drove his sword through his brother's heart.
-
-The whole incident was covered up, and his brother's death was blamed on a cell of revolutionists. Artoym pointed out that the people would rise up if Vasilii was executed. Instead his father banished him, never to return.
-
-Vasilii took up the cause of the people, traveling wherever he heard the common folk in need. He became vengeance for those who didn't have the strength to fight for themselves. It was during one of these quests that he crossed path with Burrowbard Stoneseeker, a fellow lover of justice for the common people. They bonded over long night of drunken exploits, with Vasilii genuinely being surprised that he found someone that could out drink him. Burrowbard began funding his exploits as his patron and Vasilii grew into something of a folk hero in the region surrounding Reddwall known as "The Bear Knight".
+- Moletown is a large section of the undercity under Reddwall, located between Yellow Belly and Guild's Port. Moletown existed before the outbreak of the Spore, with the Stoneseeker family being the predominate ruling family. The culture is very similar to Scicilian Mobster society. With the outbreak of the Spore, the Stoneseekers clan were able to gain immese influnece, offer their smuggling expertise to bring individuals into the city to recieve healing blood.
+- The Mole family's that immigrated top Reddland as refugees were ingrated into the Stoneseeker Mafia, with the families power jockeying with eachother to appear more favorable to the Stoneseekers.
+- Gappy came to Reddland alone as his entire family had turned during the journey.
+- Gappy fell in love with the daughter of the "Molefather", but was seen as not a favorable sutior as he familless, poor, and could not continue there bloodline relibly.
