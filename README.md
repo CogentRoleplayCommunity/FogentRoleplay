@@ -48,6 +48,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 - [Fallen](./src/Settings/Fallen/Fallen.md) (Dark Fantasy)
 - [Coming soon] Fracture (Post-Apocalypse)
+- The Veil
 
 ## Core Rules
 
