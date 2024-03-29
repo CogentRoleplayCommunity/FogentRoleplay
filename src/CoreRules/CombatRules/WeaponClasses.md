@@ -1,6 +1,6 @@
 # Weapon Classes
 
-## Weapon Combat Skills
+## Weapon Class Combat Skills
 
 Characters can gain a skill in the following weapon combat skills.
 
