@@ -275,7 +275,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ## Innate
 
 - Bite, Slashing Claw, Piercing Claw, Horns, Slam, and Tentacle are generally meant for Medium Sized creatures
-- Large Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Medium Sized creatures
+- Large Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Large Sized creatures
 
 ### Bite
 
