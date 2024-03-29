@@ -1,6 +1,6 @@
 # Assists
 
-With Assists, characters can give additional Wins (or if rolled poorly, Losses) with an "assisting" Dice Pool to a "primary" Dice Pool. Characters can Assist themselves or another character. The "assisting" Dice Pool must be rolled first. The "assisting" Dice Pool can be a Skill or Vocation. The "primary" Dice Pool can be a Skill or Combat Roll. It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "main" Dice Pool.
+With Assists, characters can give additional Wins (or if rolled poorly, Losses) with an "assisting" Dice Pool to a "primary" Dice Pool. Characters can Assist themselves or another character. The "assisting" Dice Pool must be rolled first. The "assisting" Dice Pool can be a Skill or Vocation. The "primary" Dice Pool can be a Skill or Combat Roll. It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool.
 
 For instance:
 
