@@ -33,7 +33,7 @@ Characters can gain a skill in the following weapon combat skills.
 - Slam
 - Horns
 
-### Weapon Governing Attributes
+### Governing Attributes for Weapon Class Combat Skills
 
 All weapon combat skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat. A STR character hits harder and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
