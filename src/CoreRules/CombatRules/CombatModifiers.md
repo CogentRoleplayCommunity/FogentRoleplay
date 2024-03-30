@@ -1,4 +1,5 @@
 # Combat Modifiers
+Combat Modifiers represent different circumstances a character can encounter while in combat.
 
 ## Defensive (Advantage) (no victory levels)
 
