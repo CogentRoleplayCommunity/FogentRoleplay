@@ -57,15 +57,13 @@ During the following Action Phase, during their action they make a Magic Skill r
 
 **Duration:** 1 round
 
-From the Magic Skill used to cast this Spell, create flavored magic armaments for use in combat. As part of the same Weapon Spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier.
+From the Magic Skill used to cast this Spell, create flavored magic armaments for use in combat. As part of the same Weapon Spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier or shield. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
 
 Damage Types are determined by the Magic Skill used.
 
 If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
 Weapon Spell Combat Roll = (Magic Skill roll) + (Weapon Spell Dice Modifiers)
-
-Shields can also be created as part of this spell, occupying a hand that is free. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
 
 Almost all traditional offensive magic spells can be represented as Weapon Spells.
 
