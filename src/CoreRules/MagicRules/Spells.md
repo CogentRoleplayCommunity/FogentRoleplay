@@ -2,6 +2,10 @@
 
 Spells are ways a character can use their Magic Skills.
 
+Players/Narrators can create Spells on the fly with the Narrator's approval. For instance, there is no need to have a predefined spell for lighting a campfire with Fire Magic or clear a collapsed tunnel with Earth Magic. The player can just describe what they are about to attempt with their magic and the Narrator will set the CL of the Spell just like any other skill check.
+
+If the created Spell is worth remembering for later use or to share, it can be written down as a Spell such as in the Spell Table below. It is worth remembering that the Spells on the table below are simply a snapshot of how someone used a Magic Skill for a Spell that they thought was reasonable. If a Narrator wanted to run a game with only pre-defined Spells (such as how DnD does) then absolutely can.
+
 To use a Spell a character must:
 
 - Have the appropriate Magic Skills to perform said Spell.
@@ -10,33 +14,9 @@ To use a Spell a character must:
 
 Certain spells can consume additional Magic Resource for improved effects. A spell can only consume as much Magic Resource as the wins from the Magic Skill Roll, including the normal amount.
 
-## Spells in Narrative
+## Reasonable Ranges of Spells
 
-### The Need For Reasonable Constraints On Magic
-
-Stories are at there very core about some conflict. Everyone loves well thought our magic systems because they add interesting ways to resolve conflicts within a story. Whether it be the Force from Star Wars, Bending from Avatar, or Wizardry from the Dresden Files, "magic" in each setting gives the heros and villains new ways to interact with the conflict of the story.
-
-If a Magic System completely trivializes the conflict of the story, than the story won't grip the audience in the same way. Hence, the defining characteristic of really good Magic Systems are believable constraints that allow you to suspend your disbelief. Reasonable constraints, in a strange but true way, are what allow creativity, as without any constraints characters could just instantly resolve the conflict of the story with their magic.
-
-For example, when Luke Skywalker famously picks up the X-wing from the swamp, it makes sense to our brains that it is difficult and straining to move something so large. It took disciple, training, and overcoming his own inner demons to eventually become powerful in the Force. Had Luke had insane Force power from the very beginning with no explanation and instantly defeated the entire Empire with them, I'd argue you'd have a horrible story.
-
-Hence, the whole point of the Fogent Roleplay Magic rules is to help define reasonable constraints on any magic systems. This means the magic systems is constrained enough to not completely break the narrative, but open for creative solutions with magic.
-
-### How To Elegantly Run Magic Systems
-
-The trick with the Fogent Magic system is we already have the most important tools for covering most magic systems, skills and CLs. Whenever a player asks to use their Lift Skill to pick up a rock, the narrator and players already have a rough idea of how hard that check should be. We can use the same intuitive understanding most of us have likely picked up from watch movies, reading books, or playing games to elegantly determine how difficult doing something with magic should be.
-
-It is extremely intuitive that a character with Fire magic could Trivially (CL 0) light a campfire, assuming they have the required wood. In the same vein, it would be common (CL 1) for a character with Fire Magic to shoot a fire bolt at something reasonably close. The point being is that we don't technically need super defined rules for how every Magic Skill exactly works. We as consumers of stories and narratives already reasonably understand what these things should be able to do.
-
-The caveat is that having super defined spells are very nice to have as they allow people to share cool ways they though of to use their magic skills. Therefore, all the defined Spell are just one way someone reasonably thought they could use a Magic Skill. This give the narrator and players the ability to get a rough idea of what a magic skill is capable of at that CL. And if you did want a super "rules-as-written"constrained magic systems, than you can totally just define the exact ways that magic can be used for a magic system or setting. You get to have your cake and eat it too!
-
-### Reasonable Ranges of Narrative Spells
-
-Below are guide lines for the Ranges that Magic Skill can be used at for general narrative purposes, usually similar to the Avatar: The Last Air Bender techniques.
-
-A character may attempt to use their magic within the following Ranges depending on how much Magic Resource that is consumed.
-
-If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+Below are guide lines for the Ranges that Magic Skill can be used at for general narrative purposes, usually similar to the Avatar: The Last Air Bender techniques. A character may attempt to use their magic within the following Ranges depending on how much Magic Resource that is consumed. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
 | Magic Resource Consumed |      Range      |
 | :---------------------: | :-------------: |
@@ -46,37 +26,52 @@ If the Magic Skill used isn't Melee Capable, then any below option with the Rang
 |            3            |     Distant     |
 |            4            |  Sharpshooter  |
 
-## Spells In Combat
+## Spell Concentration
 
-If a character intends to use Spells during a combat round, on the Declaration Phase they can declare what spell they are attempting to use.
+Certain Spells demand a character's concentration to keep their effects active. If this concentration is interrupted, the Spell's magic ends.
 
-During the following Action Phase, during their action the character makes a Magic Skill Roll to see if they were able to achieve the spell they declared.
+If a Spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
+
+Regular activities, like moving or attacking, don't disturb your concentration. However, the following factors can disrupt your concentration:
+
+* Casting another spell that requires concentration. If you cast a spell that needs concentration while you're focusing on a different spell, you lose concentration on the first spell. You can't concentrate on two spells simultaneously.
+* Suffering damage. If you take damage while focusing on a spell, you must make a Magic Governing Core Skill check to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
+* Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
+* The Narrator might also decide that certain environmental phenomena might require the concentrating character to succeed on a Governing Core Skill check to maintain concentration. For example, a wave washing over you while you're on a storm-tossed ship might require a CL 2 Governing Core Skill Check.
+
+## Using Spells In Combat
+
+If a character intends to use Spells during a combat round, on the Declaration Phase they will declare what Spell they are attempting to use.
 
 - A character can cast 1 spell per round that uses Magic Resource.
 - A character can cast 1 spell per round that does not use Magic Resource.
-- A character can only cast 1 spell per turn as part of their combat roll.
+- A character can only cast 1 spell per turn as their combat roll.
 
-### Spells as Combat Rolls
+During the following Action Phase, during their action they make a Magic Skill roll to see if they were able to achieve the Spell they declared. If they succeed, the spell is cast. If the Spell was a Combat Roll Spell, than the additional dice from the Combat Roll Spell are rolled and are combined with the already rolled Magic Skill dice, making up the Magic Combat Roll. If they were unsuccesful in casting the spell, the Spell is not cast but the magic resource is still consumed.
 
-Almost all traditional offensive magic spells can be represented as Combat Roll Spells.
+## Weapon Spells
+
+**Casting Time:** Instantaneous
+
+**Duration:** 1 round
+
+From the Magic Skill used to cast this Spell, create flavored magic armaments for use in combat. As part of the same Weapon Spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier.
+
+Damage Types are determined by the Magic Skill used.
+
+If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+
+Weapon Spell Combat Roll = (Magic Skill roll) + (Weapon Spell Dice Modifiers)
+
+Shields can also be created as part of this spell, occupying a hand that is free. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
+
+Almost all traditional offensive magic spells can be represented as Weapon Spells.
 
 - Bone Claws = Bodily Magic Skill + Small Slashing Blade
 - Fire Bolt = Fire Magic Skill + Light Crossbow
 - Cone of Cold = Cold Magic + Mag. Medium Cone
 - Water Whip = Water Magic Skill + Whip
 - Earth Shield = Earth Magic + Large Shield
-
-**Casting Time:** Instantaneous
-
-**Duration:** 1 round
-
-**Magic Skills required:** Any Magic Skill
-
-From the Magic Skill used to cast this spell, create flavored magic armaments for use in combat. As part of the same spell, an armament can be created in each hand to benefit from the Dual Wielded Modifier. The Magic Combat Roll consists of the Magic Skill roll use to cast this spell plus the Dice Modifiers from the Magic Armament's chosen from the tables below. Damage Types are determined by the Magic Skill used.
-
-If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
-
-Shields can also be created as part of this spell, occupying a hand that is free. The Defense the shield provides is dependant on the Magic Skill used. For instance, while Earth magic could create a Physical Defense Shield, it could not create a Mental Defense Shield.
 
 ### Incompetent Combat Roll Spells
 
@@ -139,22 +134,7 @@ Shields can also be created as part of this spell, occupying a hand that is free
 | Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## Spell Concentration
-
-Certain Spells demand a character's concentration to keep their effects active. If this concentration is interrupted, the Spell's magic ends.
-
-If a Spell necessitates concentration, the Duration entry of the spell will indicate this, and it will specify how long you can concentrate on it. You can stop concentrating at any time.
-
-Regular activities, like moving or attacking, don't disturb your concentration. However, the following factors can disrupt your concentration:
-
-* Casting another spell that requires concentration. If you cast a spell that needs concentration while you're focusing on a different spell, you lose concentration on the first spell. You can't concentrate on two spells simultaneously.
-* Suffering damage. If you take damage while focusing on a spell, you must make a Magic Governing Core Skill check to maintain your concentration. The challenge level is equal to the level of injury taken. If you take damage from multiple sources, you make a separate saving throw for each injury source.
-* Becoming incapacitated or dying. If you're incapacitated or die, you lose concentration on a spell.
-* The Narrator might also decide that certain environmental phenomena might require the concentrating character to succeed on a Governing Core Skill check to maintain concentration. For example, a wave washing over you while you're on a storm-tossed ship might require a CL 2 Governing Core Skill Check.
-
 ## Novice Spells (CL 0)
-
-Novice magic spell that can be used for generic creative uses of magic. Generally only reserved for novice practitioners, dealing with minor threats to save magic resource, or as a desperate last resort after all magic resources are depleted. Otherwise known as Cantrips.
 
 |         Name         | CL/Magic Resource | Casting Time | Range | Duration |           Magic Skills Required           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | :-------------------: | :---------------: | :----------: | :----: | :------: | :---------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -167,8 +147,6 @@ Novice magic spell that can be used for generic creative uses of magic. Generall
 |      Magic Hand      |         0         |   1 action   | Medium | 1 minute | Any Magic capable of taking physical form |                                                                                                                                                                                                                                                                                                                                                                   A magic hand materializes at a designated point within the spell's range. This apparition persists for the spell's duration or until you choose to dismiss it. The hand dissipates if it strays beyond a the spells effective range or if you cast the spell anew. You have the ability command the hand. Its functions include manipulating objects, opening unlocked doors or containers, stowing or retrieving items from open containers, and pouring the contents out of a vial. The hand's movement speed is equal to it's effective range. It is roughly as strong as the users hand. If attacks are made with it, treat it as the users own unarmed attacks.                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## Apprentice Spells (CL 1-2)
-
-Apprentice magic spell that can be used for generic creative uses of magic.
 
 |             Name             | CL/Magic Resource | Casting Time |  Range  |         Duration         |      Magic Skills Required      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | :---------------------------: | :---------------: | :----------: | :------: | :-----------------------: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -196,8 +174,6 @@ Apprentice magic spell that can be used for generic creative uses of magic.
 | Create Voice Triggered Effect |         2         |    1 hour    |  Melee  |        Indefinite        |           Sound Magic           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            You create a magical trigger tied to a specific sound or spoken phrase. This magical effect is tied to a primary magical effect. It dissipates once the primary magical effect has dissipated.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ## Adept Spells (CL 3-4)
-
-Adept magic spell that can be used for generic creative uses of magic.
 
 |          Name          | CL/Magic Resource | Casting Time | Range |         Duration         | Magic Skills Required |                                                                                             Description                                                                                             |
 | :---------------------: | :---------------: | :----------: | :---: | :-----------------------: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
