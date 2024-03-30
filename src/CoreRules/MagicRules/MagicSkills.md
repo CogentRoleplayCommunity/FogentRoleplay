@@ -1,6 +1,6 @@
 # Magic Skills
 
-Magic skills represent the ability to manipulate and control different magic concepts or elements.
+Magic Skills represent the ability to manipulate and control different magic concepts or elements.
 
 The CL of any Magic Skill check is proportionate to the amount of Magic Resource required as fuel to attempt the roll, unless otherwise stated.
 
@@ -8,7 +8,7 @@ The CL of any Magic Skill check is proportionate to the amount of Magic Resource
 
 Novice Tier Magic Skills (level 0) can be unlocked under an appropriate Magic Vocation for 1 skill point.
 
-Incompetent Magic Skills (level -1) can be given by the Narrator as appropriate with the narrative.
+Incompetent Magic Skills (level -1) can be given by the Narrator as appropriate with the narrative. In general, a character with a level 0 Magic Vocation can have 1 Narrator given Incompetent magic skill, gaining 1 additional Incompetent magic skill per increase to the Magic Vocation Level.
 
 Examples of unlocking Incompetent Magic Skills:
 
@@ -20,7 +20,7 @@ Examples of unlocking Incompetent Magic Skills:
 
 ## Generic Magic Skill List
 
-Below is a non-exhaustive list of common magic types, feel free to create your own. You can also try grouping different magic concepts under one magic skill for a magic system. For instance, in the popular video game Skyrim, the Destruction school of magic covered Fire, Ice, and Lightning.
+Below is a non-exhaustive list of common magic skill types, feel free to create your own. You can also try grouping different magic concepts under one magic skill for a magic system. For instance, in the popular video game Skyrim, the Destruction school of magic covered Fire, Ice, and Lightning.
 
 ### Magic Skill Name
 
