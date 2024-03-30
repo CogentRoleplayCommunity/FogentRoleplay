@@ -34,7 +34,7 @@ As part of entering into a Grapple or achieving a level 1 victory while already 
 
 The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone.
 
-For each win achieved, a character can Move a creature 10 feet. For each size category the opponent is smaller than you, double the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. For each Size the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+For each win achieved, a character can Move a creature 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 
