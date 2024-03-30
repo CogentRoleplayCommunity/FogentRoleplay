@@ -90,7 +90,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Injury](./src/CoreRules/CombatRules/Injury.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
-- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 
 ### Advanced Rules
