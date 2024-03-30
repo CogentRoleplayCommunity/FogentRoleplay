@@ -4,25 +4,25 @@ Items come in various levels of quality. Depending on an item's tiers, it will h
 
 ## Item Tier List
 
-|    Name    | Level | Base Dice | Durability Max |
+|    Name     | Level | Base Dice  | Durability Max |
 | :---------: | :---: | :--------: | :------------: |
-|   Broken   |  -4  |    0d6    |       0       |
-| Compromised |  -3  |    3d4    |       3       |
-|   Damaged   |  -2  |  1d6, 2d4  |       6       |
-|   Shoddy   |  -1  |  2d6, 1d4  |       9       |
-|   Mundane   |   0   |    3d6    |       12       |
+|   Broken    |  -4   |    0d6     |       0        |
+| Compromised |  -3   |    3d4     |       3        |
+|   Damaged   |  -2   |  1d6, 2d4  |       6        |
+|   Shoddy    |  -1   |  2d6, 1d4  |       9        |
+|   Mundane   |   0   |    3d6     |       12       |
 |   Quality   |   1   |  1d8, 2d6  |       15       |
-|    Fine    |   2   |  2d8, 1d6  |       18       |
-|  Excellent  |   3   |    3d8    |       21       |
-|  Superior  |   4   | 1d10, 2d8 |       24       |
-|  Exquisite  |   5   | 2d10, 1d8 |       27       |
-|  Flawless  |   6   |    3d10    |       30       |
+|    Fine     |   2   |  2d8, 1d6  |       18       |
+|  Excellent  |   3   |    3d8     |       21       |
+|  Superior   |   4   | 1d10, 2d8  |       24       |
+|  Exquisite  |   5   | 2d10, 1d8  |       27       |
+|  Flawless   |   6   |    3d10    |       30       |
 | Mastercraft |   7   | 1d12, 2d10 |       33       |
-|   Fabled   |   8   | 2d12, 1d10 |       36       |
-|    Epic    |   9   |    3d12    |       39       |
-|  Legendary  |  10  | 1d20, 2d12 |       42       |
-|   Mythic   |  11  | 2d20, 1d12 |       45       |
-|  Artifact  |  12  |    3d20    |       48       |
+|   Fabled    |   8   | 2d12, 1d10 |       36       |
+|    Epic     |   9   |    3d12    |       39       |
+|  Legendary  |  10   | 1d20, 2d12 |       42       |
+|   Mythic    |  11   | 2d20, 1d12 |       45       |
+|  Artifact   |  12   |    3d20    |       48       |
 
 ## Base Dice
 
@@ -32,7 +32,7 @@ Item Tier also applies to Magic Conduits, tools used in skill rolls (high-qualit
 
 ## Item Durability (Optional)
 
-Using item durability is a great way to increase immersion (such as having to go to blacksmith or learn to repair their gear) and challenge for your players. However, for players that want a more casual experience, item durability can be disregarded.
+Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
 ### Weapon Durability
 
@@ -44,9 +44,7 @@ A conduit's durability decreases by 1 whenever it is used to cast magic with a r
 
 ### Armor Durability
 
-If an injury is fully negated by armor, then the defender can decide which pieces of armor take armor damage. The armor/armors must sum up to the defense level required to prevent the incoming injury and all take the same amount of armor damage.
-
-An armors durability decreases by level of injury inflicted plus the attacks defense penetration.
+If an injury is fully negated by armor, then the defender can decide which pieces of armor take armor damage. The armor must sum up to the defense level required to prevent the incoming injury and all take the same amount of armor damage. An armor's durability decreases by the level of injury inflicted plus the attack's defense penetration.
 
 - Armor damage = (level of injury inflicted) + (combat roll penetration)
 
@@ -54,8 +52,8 @@ If an injury is not fully negated by the defender's armor, then all pieces of ar
 
 ### Normal Play Durability Rules
 
-When an item's durability falls, it's base dice remain unchanged until the weapon reaches 6 durability (or Damaged) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Compromised.
+When an item's durability falls, its base dice remain unchanged until the weapon reaches 6 durability (or Damaged) at which point you begin using the base dice associated with your current durability. For instance, if my weapon has 5 durability, then I roll with the base dice associated with Compromised.
 
 ### Hardcore Durability Rules
 
-When an item's durability falls, each time your item's durability falls to lower tier's max durability, you then use that lower tier's base dice. For instance, if I had a legendary tier sword with 23 durability I would be rolling the Superior tier base dice.
+When an item's durability falls, each time your item's durability falls to the lower tier's max durability, you then use that lower tier's base dice. For instance, if I had a legendary tier sword with 23 durability I would be rolling the Superior tier base dice.
