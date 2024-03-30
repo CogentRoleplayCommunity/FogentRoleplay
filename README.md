@@ -101,7 +101,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 - [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
-- [Item Durability](./src/CoreRules/AdvancedRules/ItemDurability.md)
 - [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
 
 ### Magic Rules
