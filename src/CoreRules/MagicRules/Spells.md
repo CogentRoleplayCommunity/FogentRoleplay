@@ -75,7 +75,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 - Water Whip = Water Magic Skill + Whip
 - Earth Shield = Earth Magic + Large Shield
 
-### Melee Combat Roll Spells
+### Melee Weapon Spells
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
@@ -99,7 +99,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 |   Mag. Reach Hafted Blunt   |       -2       |      +2d6      |       None       |      5      | Reach |                  |           Rapid           |        None        |          3          |
 |       Mag. Reach Spear       |       -2       |      +4d6      |       None       |      4      | Reach |                  |        Rapid Max 2        |        None        |          3          |
 
-### Ranged Combat Roll Spells
+### Ranged Weapon Spells
 
 |               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
