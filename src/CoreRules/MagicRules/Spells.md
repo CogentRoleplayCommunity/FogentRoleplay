@@ -75,14 +75,6 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 - Water Whip = Water Magic Skill + Whip
 - Earth Shield = Earth Magic + Large Shield
 
-### Incompetent Combat Roll Spells
-
-|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :----------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Unarmed |       -1       |      None      |       +0d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|              |                |                |                  |            |      |                  |                          |                    |                    |
-|  Mag. Puff  |       -1       |       -1       |       None       |      0      | Near |                  |         Standard         |        None        |          0          |
-
 ### Melee Combat Roll Spells
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
