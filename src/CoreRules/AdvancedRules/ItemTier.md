@@ -40,7 +40,7 @@ A weapon's Durability decreases by 1 whenever a weapon is used to attempt to inf
 
 ### Conduit Durability
 
-A conduit's durability decreases by 1 whenever it is used to cast magic with a resource ( non-cantrip casting )
+A conduit's durability decreases by 1 whenever it is used to cast magic with a resource ( non-cantrip casting ).
 
 ### Armor Durability
 
