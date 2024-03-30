@@ -2,9 +2,21 @@
 
 Magic skills represent the ability to manipulate and control different magic concepts or elements.
 
-Characters can unlock Magic Skills covered by their Magic Vocation at Novice (0) level for 1 skill point.
-
 The CL of any Magic Skill check is proportionate to the amount of Magic Resource required as fuel to attempt the roll, unless otherwise stated.
+
+## Unlocking Magic Skills
+
+Novice Tier Magic Skills (level 0) can be unlocked under an appropriate Magic Vocation for 1 skill point.
+
+Incompetent Magic Skills (level -1) can be given by the Narrator as appropriate with the narrative.
+
+Examples of unlocking Incompetent Magic Skills:
+
+* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
+* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
+* A minuet blessing bestowed by a deity. (Cleric)
+* A taste of power from an entity looking to make a deal... (Warlock)
+* A natural element foreign to a character's place of origin. (Druid)
 
 ## Generic Magic Skill List
 
@@ -26,28 +38,28 @@ Determines if this Magic Skill could be used for melee combat, a good rule of th
 
 Determines if the Magic Skill in question is capable of affecting something at range, which determines if a Magic Skill can make ranged attacks.
 
-|            Magic Skill Name             |              Damage Types               | Melee Capable | Range Capable |
+|            Magic Skill Name            |              Damage Types              | Melee Capable | Range Capable |
 | :-------------------------------------: | :-------------------------------------: | :-----------: | :-----------: |
-| Bodily Magic (Flesh, Web, Bone, etc...) |      Slash, Bludgeon, Hew, Pierce       |     TRUE      |     TRUE      |
-|           Fire or Heat Magic            |                  Fire                   |     TRUE      |     TRUE      |
-|               Water Magic               |  Suffocation, Slash, Bludgeon, Pierce   |     TRUE      |     TRUE      |
-|            Electricity Magic            |                Electric                 |     TRUE      |     TRUE      |
-|               Earth Magic               |      Slash, Bludgeon, Hew, Pierce       |     TRUE      |     TRUE      |
-|                Air Magic                | Suffocation, Slash, Bludgeon, Shockwave |     TRUE      |     TRUE      |
-|               Cold Magic                |                  Cold                   |     TRUE      |     TRUE      |
-|          Nature or Plant Magic          |         Slash, Bludgeon, Pierce         |     TRUE      |     TRUE      |
-|              Poison Magic               |                 Poison                  |     TRUE      |     TRUE      |
-|               Soul Magic                |                Spiritual                |     FALSE     |     TRUE      |
-|               Light Magic               |                 Radiant                 |     TRUE      |     TRUE      |
-|              Shadow Magic               |                Necrotic                 |     TRUE      |     TRUE      |
-|               Mind Magic                |                 Psychic                 |     FALSE     |     TRUE      |
-|               Metal Magic               |      Slash, Bludgeon, Hew, Pierce       |     TRUE      |     TRUE      |
-|               Sound Magic               |                Shockwave                |     FALSE     |     TRUE      |
-|               Blood Magic               |                  Bleed                  |     TRUE      |     TRUE      |
-|               Acid Magic                |                  Acid                   |     TRUE      |     TRUE      |
-|               Time Magic                |                                         |     FALSE     |     TRUE      |
-|         Teleport or Space Magic         |                                         |     FALSE     |     TRUE      |
-|         Force or Gravity Magic          |      Slash, Bludgeon, Hew, Pierce       |     TRUE      |     TRUE      |
+| Bodily Magic (Flesh, Web, Bone, etc...) |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|           Fire or Heat Magic           |                  Fire                  |     TRUE     |     TRUE     |
+|               Water Magic               |  Suffocation, Slash, Bludgeon, Pierce  |     TRUE     |     TRUE     |
+|            Electricity Magic            |                Electric                |     TRUE     |     TRUE     |
+|               Earth Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|                Air Magic                | Suffocation, Slash, Bludgeon, Shockwave |     TRUE     |     TRUE     |
+|               Cold Magic               |                  Cold                  |     TRUE     |     TRUE     |
+|          Nature or Plant Magic          |         Slash, Bludgeon, Pierce         |     TRUE     |     TRUE     |
+|              Poison Magic              |                 Poison                 |     TRUE     |     TRUE     |
+|               Soul Magic               |                Spiritual                |     FALSE     |     TRUE     |
+|               Light Magic               |                 Radiant                 |     TRUE     |     TRUE     |
+|              Shadow Magic              |                Necrotic                |     TRUE     |     TRUE     |
+|               Mind Magic               |                 Psychic                 |     FALSE     |     TRUE     |
+|               Metal Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|               Sound Magic               |                Shockwave                |     FALSE     |     TRUE     |
+|               Blood Magic               |                  Bleed                  |     TRUE     |     TRUE     |
+|               Acid Magic               |                  Acid                  |     TRUE     |     TRUE     |
+|               Time Magic               |                                        |     FALSE     |     TRUE     |
+|         Teleport or Space Magic         |                                        |     FALSE     |     TRUE     |
+|         Force or Gravity Magic         |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 
 ## Combo Magic Skills
 
@@ -67,31 +79,6 @@ All magic needs a conduit to be cast through wether a wizard's staff, a druid's 
 
 Magic Skill Roll =
 
-- 3d6 (Base Dice, varies with Conduit Item Tier Base Dice Modification)
+- 3d6 (Base Dice, varies with Magic Conduit Tier Base Dice)
 - +Xd6 (per Magic Skill)
 - +Xd6 (per Magic Skill Governing Attributes)
-
-## Incompetent Magic Skills
-
-Incompetent (level -1) Magic Skills might be enough for a fun party trick or trivial tasks. Characters with this level of Magic Skill are objectively poor at using said Magic Skill.
-
-Characters with Incompetent Magic Skills can only cast Incompetent Tier Spells.
-
-Examples of Incompetent Magic Skill uses:
-
-- Incompetent Fire Magic skill would allow you to ignite your fingertips to light a cigar, though you could just use a match, flint and steel, or a lighter.
-- Incompetent Fire Magic could allow the user to throw hot smoke at someone's face, though you could just punch them in the face instead for similar if not better results.
-- Incompetent Fire Magic could be used to light a nearby candle.
-- Incompetent Water Magic could be used to control ale into a character's mouth like a straw.
-
-### Narrator Given Incompetent Magic Skills
-
-The Narrator can give a character an Incompetent Magic Skills as appropriate with the narrative.
-
-Examples of unlocking Incompetent Magic Skills:
-
-* A minute latent genetic potential, such as from the race of the character. (Sorcerer)
-* Partial knowledge of a type of magic learned quickly on the fly without the required study to be considered a novice. (Wizard)
-* A minuet blessing bestowed by a deity. (Cleric)
-* A taste of power from an entity looking to make a deal... (Warlock)
-* A natural element foreign to a character's place of origin. (Druid)
