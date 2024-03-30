@@ -112,5 +112,6 @@ The rules have been listed in the order of importance to someone learning the ga
 
 ### Character Creation Rules
 
+- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
