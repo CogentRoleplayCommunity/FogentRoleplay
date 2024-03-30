@@ -16,7 +16,9 @@ Certain spells can consume additional Magic Resource to increase the Spell's eff
 
 ## Reasonable Ranges of Spells
 
-Below are guide lines for the Ranges that Magic Skill can be used at for general narrative purposes, usually similar to the Avatar: The Last Air Bender techniques. A character may attempt to use their magic within the following Ranges depending on how much Magic Resource that is consumed. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
+Below are guide lines for the Ranges that Magic Skill can be used at for general narrative purposes, usually similar to the Avatar: The Last Air Bender techniques.
+
+A character may attempt to use their magic within the following Ranges depending on how much Magic Resource that is consumed. If the Magic Skill used isn't Melee Capable, then any below option with the Range of Melee or Reach is unavailable. If the Magic Skill used isn't Ranged Capable, then any use of any ranged magic is unavailable.
 
 | Magic Resource Consumed |      Range      |
 | :---------------------: | :-------------: |
