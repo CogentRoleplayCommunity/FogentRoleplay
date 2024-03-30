@@ -2,17 +2,17 @@
 
 Spells are ways a character can use their Magic Skills.
 
-Players/Narrators can create Spells on the fly with the Narrator's approval. For instance, there is no need to have a predefined spell for lighting a campfire with Fire Magic or clear a collapsed tunnel with Earth Magic. The player can just describe what they are about to attempt with their magic and the Narrator will set the CL of the Spell just like any other skill check.
+Players/Narrators can create Spells on the fly with the Narrator's approval. For instance, there is no need to have a predefined Spell for lighting a campfire with Fire Magic or clearing a collapsed tunnel with Earth Magic. The player can just describe what they are about to attempt with their magic and the Narrator will set the CL of the Spell just like any other skill check.
 
-If the created Spell is worth remembering for later use or to share, it can be written down as a Spell such as in the Spell Table below. It is worth remembering that the Spells on the table below are simply a snapshot of how someone used a Magic Skill for a Spell that they thought was reasonable. If a Narrator wanted to run a game with only pre-defined Spells (such as how DnD does) then absolutely can.
+If the created Spell is worth remembering for later use or to share, it can be written down as a Spell such as in the Spell Tables below. It is worth remembering that the Spells on the table below are simply a snapshot of how someone used a Magic Skill for a Spell that they thought was reasonable. If a Narrator wanted to run a game with only pre-defined Spells (such as how DnD does) then they absolutely can.
 
 To use a Spell a character must:
 
-- Have the appropriate Magic Skills to perform said Spell.
-- Achieve the CL required to cast said Spell with their Magic Skill Roll.
+- Have the required Magic Skill to perform the Spell.
+- Achieve the CL required to cast the Spell with their Magic Skill Roll.
 - Have Magic Resource to consume proportionate to the Spell's CL.
 
-Certain spells can consume additional Magic Resource for improved effects. A spell can only consume as much Magic Resource as the wins from the Magic Skill Roll, including the normal amount.
+Certain spells can consume additional Magic Resource to increase the Spell's effect. A Spell can only consume as much Magic Resource as the wins from the Magic Skill Roll.
 
 ## Reasonable Ranges of Spells
 
