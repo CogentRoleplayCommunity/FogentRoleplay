@@ -14,7 +14,7 @@ Certain spells can consume additional Magic Resource for improved effects. A spe
 
 ### The Need For Reasonable Constraints On Magic
 
-Stories/Narratives are at there very core about some conflict. Everyone loves well thought our magic systems because they add interesting ways to resolve conflicts within a story. Whether it be the Force from Star Wars, Bending from Avatar, or Wizardry from the Dresden Files, "magic" in each setting gives the heros and villains new ways to interact with the conflict of the story.
+Stories are at there very core about some conflict. Everyone loves well thought our magic systems because they add interesting ways to resolve conflicts within a story. Whether it be the Force from Star Wars, Bending from Avatar, or Wizardry from the Dresden Files, "magic" in each setting gives the heros and villains new ways to interact with the conflict of the story.
 
 If a Magic System completely trivializes the conflict of the story, than the story won't grip the audience in the same way. Hence, the defining characteristic of really good Magic Systems are believable constraints that allow you to suspend your disbelief. Reasonable constraints, in a strange but true way, are what allow creativity, as without any constraints characters could just instantly resolve the conflict of the story with their magic.
 
