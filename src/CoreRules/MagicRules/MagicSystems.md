@@ -15,25 +15,25 @@ All magic systems built using this generalized framework require the following p
 Fallen (the setting) has 3 premade magic systems as a reference:
 
 - [Druidcraft](./../../Settings/Fallen/MagicSystems/Druidcraft/Druidcraft.md)
-- [Fellcraft](./../../Settings/Fallen/Magic/Fellcraft/Fellcraft.md)
-- [Runecraft](./../../Settings/Fallen/Magic/Runecraft/Runecraft.md)
-- [Miracles](./../../Settings/Fallen/Magic/Miracles/Miracles.md)
+- [Fellcraft](./../../Settings/Fallen/MagicSystems/Fellcraft/Fellcraft.md)
+- [Runecraft](./../../Settings/Fallen/MagicSystems/Runecraft/Runecraft.md)
+- [Miracles](./../../Settings/Fallen/MagicSystems/Miracles/Miracles.md)
 
 ## Magic Name
 
-This is the name of the Magic in setting. (Wizardry, Sorcery, Druidic magic, Pact Magic)
+This is the name of the Magic in the setting. (Wizardry, Sorcery, Druidic magic, Pact Magic, etc...)
 
 ## Magic Vocation Name
 
-This is the name in setting for the Vocation. (Wizard, Sorcerer, Druid, Warlock)
+This is the name of the Vocation for using that magic in the setting. (Wizard, Sorcerer, Druid, Warlock, etc...)
 
 ## Magic Vocation Governing Attributes
 
-Different Magic Vocations rely on different attributes. Most traditional fantasy Magic Vocations have RFX and INT as their Magic Governing Attributes, as most magic benefits for quicker casting times and more knowledge. However, Magic Vocations that narratively rely on a characters physical body, such as Dragon fire or genetic bloodline magic, might also include STR as on of its Magic Vocation Governing Attributes.
+Different Magic Vocations rely on different attributes. Most traditional fantasy Magic Vocations have RFX and INT as their Magic Governing Attributes, as most magic benefits from quicker casting times and more knowledge. However, Magic Vocations that narratively rely on a character's physical body, such as Dragon fire or genetic bloodline magic, might also include STR as one of its Magic Vocation Governing Attributes.
 
 ## Magic Resource Name
 
-Determining what fuel the Magic System is crucial. Is it the will of the caster, their connection with nature, or their connection to a divine entity? An example of a magic resource name is "mana".
+Determining what fuels the Magic System is crucial. Is it the will of the caster, their connection with nature, or their connection to a divine entity? An example of a magic resource name is "mana".
 
 ## Magic Governing Core Skill
 
@@ -49,8 +49,8 @@ Examples of Magic Governing Core Skills:
 
 ## Magic Skills
 
-A Magic Vocation should contain a list of the Magic Skills that fall under it's umbrella. See [Magic Skills](./MagicSkills.md) for more information on how to create a Magic Skill list.
+A Magic Vocation should contain a list of the Magic Skills that fall under its umbrella. See [Magic Skills](./MagicSkills.md) for more information on how to create a Magic Skill list.
 
 ## Cantrip Name (Optional)
 
-For a bit of extra flare, determine a new name for Cantrips (or Novice Magic) can make a Magic Vocation feel more unique.
+For a bit of extra flare, determining a new name for Cantrips (or Novice Magic) can make a Magic Vocation feel more unique.
