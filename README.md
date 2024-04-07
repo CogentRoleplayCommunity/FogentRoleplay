@@ -36,7 +36,9 @@ All game mechanics and game systems built on top of Cogent Roleplay within this 
 
 Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
 
-All intellectual property (characters, brands, stories, designs, etc) contained within this document is entirely owned by the creator of this document and is not subject to the Cogent Roleplay Open Source license. However, the creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
+All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by the creator of said setting and are not subject to the Cogent Roleplay Open Source license. 
+
+The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
 
 Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
 
@@ -90,7 +92,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Injury](./src/CoreRules/CombatRules/Injury.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
-- [Status Effects](./src/CoreRules/CombatRules/StatusEffects.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 
 ### Advanced Rules
@@ -102,7 +103,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 - [Item Tier](./src/CoreRules/AdvancedRules/ItemTier.md)
-- [Item Durability](./src/CoreRules/AdvancedRules/ItemDurability.md)
 - [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
 
 ### Magic Rules
@@ -114,5 +114,6 @@ The rules have been listed in the order of importance to someone learning the ga
 
 ### Character Creation Rules
 
+- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)

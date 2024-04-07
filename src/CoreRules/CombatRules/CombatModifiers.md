@@ -1,5 +1,7 @@
 # Combat Modifiers
 
+Combat Modifiers represent different circumstances a character can encounter while in combat.
+
 ## Defensive (Advantage) (no victory levels)
 
 This is when a character purely focuses on defending themselves. No victory levels can be achieved for the round by the defender. Applies both to Combat Rolls and Dodge Rolls if declared. Can not be applied when a Character can not solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...

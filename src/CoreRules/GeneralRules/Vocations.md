@@ -8,15 +8,15 @@ All skills under a vocation have their levels capped by their vocation level. Fo
 
 Each skill under a vocation has one or many governing attributes that logically would govern it. A skill under a vocation can have different governing attributes than the vocation's governing attributes. Two kinds of skills fall under a vocation, Vocational Skills and Combat Skills.
 
+### Combat Skills
+
+Combat skills include all weapon skills and magic skills. These skills require skill points to be increased.
+
 ### Vocational Skills
 
 Vocational Skills are skills that your vocation would logically give you. For instance, a Baker would logically have a Baking skill. Players can make Vocational Skills at any point with approval from the narrator and use them for applicable skill checks. Vocational Skills for tasks already explicitly covered by a Core Skill aren't allowed. It is smart to write down vocational skills under your vocation as a reminder to have on your character sheet.
 
 A Vocational Skill's level is inherited from Vocation's level. You can not assist vocational skills with the vocation they fall under, as they are essentially relying on the same shared skill point investment.
-
-### Combat Skills
-
-Combat skills include all weapon skills and magic skills. These skills require skill points to be increased.
 
 ## Example Vocation
 

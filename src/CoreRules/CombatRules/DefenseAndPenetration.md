@@ -1,6 +1,6 @@
 # Defense And Penetration
 
-Depending on the damage type, different types of defense can be used to reduce injuries. A character can then reduce an injury level by the equivalent amount of defense they have to that damage type. The only way to injure an opponent with a specific defense is to exceed, or bypass it.
+Depending on the damage type, different types of defense can be used to reduce injuries. A character can then reduce an injury level by the equivalent amount of defense they have to that damage type. The only way to injure an opponent with a specific defense is to exceed or penetrate it.
 
 ## Physical Defense
 
