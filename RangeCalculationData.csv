@@ -1,4 +1,4 @@
-desc,numDicePerEffectiveRangeUnit,ftPerEffectiveRangeUnit,roundEffectiveRangeUp,maxRange
+name,numDicePerEffectiveRangeUnit,ftPerEffectiveRangeUnit,roundEffectiveRangeUp,maxRange
 Near,3,5,FALSE,15
 Close,2,5,TRUE,30
 Short,3,10,TRUE,60
