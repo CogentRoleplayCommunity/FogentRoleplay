@@ -1,4 +1,4 @@
-desc,damageTypes,meleeCapable,rangeCapable,magicResourceClass
+name,damageTypes,meleeCapable,rangeCapable,magicResourceClass
 Radiance,Radiant,TRUE,TRUE,Ichor
 Blessing,Radiant,TRUE,TRUE,Ichor
 Polycraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
