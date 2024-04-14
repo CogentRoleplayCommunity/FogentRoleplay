@@ -1,0 +1,3 @@
+name,init triangle base/height,dice per unit,base/height per unit,round down to multiple of 5
+Medium Cone Calculation,2.5,1,2.5,true
+Close Cone Calculation,2.5,1,5,true
