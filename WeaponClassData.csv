@@ -1,4 +1,4 @@
-desc,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,damageTypes,engageableOpponents,areaOfEffect,resourceClass
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,damageTypes,engageableOpponents,areaOfEffect,resourceClass
 Hand Crossbow,+1d6,+1d6,+1d6,0,Medium,,Standard,None,Bolt
 Light Crossbow,None,+1d6,None,1,Far,,Loading,None,Bolt
 Heavy Crossbow,None,+2d6,None,2,Long,,Complex Loading,None,Bolt
