@@ -255,8 +255,8 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Thrusting Reach Sword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |         None         |
-| Slashing Reach Sword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |         None         |
+| Reach Thrusting Sword |       -1       |      +3d6      |       None       |      4      | Reach |      Pierce      |           Rapid           |        None        |         None         |
+| Reach Slashing Sword |       -1       |      +4d6      |       None       |      3      | Reach |       Slash       |           Rapid           |        None        |         None         |
 
 ### Reach Spear
 
