@@ -112,17 +112,17 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | 9mm Pistol |      +2d6      |      +2d6      |       +1d6       |      0      |  Far  |                  |           Quick           |        None        |       9mm Ammo       |
 
-### Assault Rifle
+### Semi-automatic Rifle
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Semi-automatic 5.56 Rifle |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |                  |           Quick           |        None        |      5.56 Ammo      |
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| 5.56 Semi-automatic Rifle |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |                  |           Quick           |        None        |      5.56 Ammo      |
 
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Bolt Action .308 Rifle |      +1d6      |      +4d6      |       None       |      0      | Extreme |                  |         Standard         |        None        |      .308 Ammo      |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Extreme |                  |         Standard         |        None        |      .308 Ammo      |
 
 ### Machine Gun
 
@@ -218,7 +218,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | Large Hafted Point |      +0d6      |      +2d6      |       None       |      3      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Large Hafted Blunt |       -1       |      +1d6      |       None       |      5      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 
-### Large sword
+### Large Sword
 
 (Longsword, Ōdachi)
 
