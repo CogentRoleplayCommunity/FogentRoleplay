@@ -1,4 +1,4 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResource
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResourceAmount
 Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Rapid,,0
 Small Piercing Blade,+0d6,+0d6,+1d6,2,Melee,Rapid,,0
 Small Slashing Blade,+1d6,+1d6,+1d6,0,Melee,Rapid,,0
