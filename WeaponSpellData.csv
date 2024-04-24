@@ -1,8 +1,38 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,damageTypes,engageableOpponents,areaOfEffect,resourceClass
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResource
+Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Rapid,,0
+Small Piercing Blade,+0d6,+0d6,+1d6,2,Melee,Rapid,,0
+Small Slashing Blade,+1d6,+1d6,+1d6,0,Melee,Rapid,,0
+,,,,,,,,
+Medium Hafted Blade,+2d6,+3d6,+1d6,0,Melee,Rapid,,1
+Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Rapid,,1
+Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Rapid,,1
+Medium Spear,+2d6,+2d6,+1d6,2,Melee,Rapid Max 2,,1
+Whip,+1d6,+1d6,+1d6,0,Reach,Rapid,,1
+,,,,,,,,
+Large Hafted Blade,+0d6,+3d6,None,2,Melee,Rapid,,2
+Large Hafted Point,+0d6,+2d6,None,3,Melee,Rapid,,2
+Large Hafted Blunt,-1,+1d6,None,5,Melee,Rapid,,2
+Large Spear,+2d6,+3d6,None,3,Melee,Rapid Max 2,,2
+,,,,,,,,
+Reach Hafted Blade,-2,+4d6,None,3,Reach,Rapid,,3
+Reach Hafted Point,-2,+3d6,None,4,Reach,Rapid,,3
+Reach Hafted Blunt,-2,+2d6,None,5,Reach,Rapid,,3
+Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
+,,,,,,,,
+Thrown Small Slashing Blade,+1d6,+1d6,+1d6,0,Short,Quick,,0
+Thrown Small Piercing Blade,+0d6,+0d6,+1d6,1,Short,Quick,,0
+Sling,+0d6,+0d6,None,0,Medium,Standard,,0
+,,,,,,,,
+Thrown Medium Spear,+2d6,+2d6,None,2,Medium,Standard,,1
+Hand Crossbow,+1d6,+1d6,+1d6,0,Medium,Standard,,1
+Light Crossbow,None,+1d6,None,1,Far,Loading,,1
+Light Bow,None,+1d6,None,0,Far,Quick,,1
+Mag. Close Cone,None,+2d6,None,3,Close Cone,1,Close Cone Calculation,1
+,,,,,,,,
+Thrown Large Spear,+2d6,+2d6,None,3,Short,Standard,,2
+Heavy Crossbow,None,+2d6,None,2,Long,Complex Loading,,2
+Mag. Medium Cone,None,+2d6,None,3,Medium Cone,1,Medium Cone Calculation,2
+,,,,,,,,
+Heavy Bow,None,+2d6,None,2,Sharpshooter,Standard,,3
+Mag. Magic Sphere,None,+3d6,None,3,Long,1,Sphere Calculation,3
+,,,,,,,,
