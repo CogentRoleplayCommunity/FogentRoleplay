@@ -49,23 +49,23 @@ Acid Rune,Acid,FALSE,TRUE
 ,,,
 Sporecraft,Necrotic,TRUE,TRUE
 ,,,
-"Bodily Magic (Flesh, Web, Bone, etc...)","Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
-Fire or Heat Magic,Fire,TRUE,TRUE
+Body Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Fire Magic,Fire,TRUE,TRUE
 Water Magic,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE
 Electricity Magic,Electric,TRUE,TRUE
 Earth Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Air Magic,"Slash, Bludgeon, Shockwave",TRUE,TRUE
 Cold Magic,Cold,FALSE,TRUE
-Nature or Plant Magic,"Slash, Bludgeon, Pierce",TRUE,TRUE
+Nature Magic,"Slash, Bludgeon, Pierce",TRUE,TRUE
 Poison Magic,Poison,TRUE,TRUE
 Soul Magic,Spiritual,FALSE,TRUE
 Light Magic,Radiant,TRUE,TRUE
 Shadow Magic,Necrotic,TRUE,TRUE
 Mind Magic,Psychic,FALSE,TRUE
-Metal Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Magnetic Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
 Sound Magic,Shockwave,FALSE,TRUE
 Blood Magic,Bleed,TRUE,TRUE
 Acid Magic,Acid,TRUE,TRUE
 Time Magic,,FALSE,TRUE
-Teleport or Space Magic,,FALSE,TRUE
-Force or Gravity Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Teleport Magic,,FALSE,TRUE
+Force Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
