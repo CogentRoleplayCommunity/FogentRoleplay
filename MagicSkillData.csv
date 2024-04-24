@@ -46,8 +46,7 @@ Strength Rune,,FALSE,TRUE
 Gravity Rune,Bludgeon,FALSE,TRUE
 Nature Rune,"Slash, Bludgeon, Pierce",FALSE,TRUE
 Acid Rune,Acid,FALSE,TRUE
-Shadow Magic,Necrotic,TRUE,TRUE
-Soul Magic,Spiritual,TRUE,TRUE
+,,,
 Sporecraft,Necrotic,TRUE,TRUE
 ,,,
 "Bodily Magic (Flesh, Web, Bone, etc...)","Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
