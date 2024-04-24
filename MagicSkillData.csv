@@ -1,67 +1,69 @@
-name,damageTypes,meleeCapable,rangeCapable,magicResourceClass
-Radiance,Radiant,TRUE,TRUE,Ichor
-Blessing,Radiant,TRUE,TRUE,Ichor
-Polycraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
-Blazecraft,Fire,TRUE,TRUE,Fellblood
-Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE,Fellblood
-Electrocraft,Electric,TRUE,TRUE,Fellblood
-Terracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
-Galecraft,"Slash, Bludgeon, Shockwave",TRUE,TRUE,Fellblood
-Cryocraft,Cold,TRUE,TRUE,Fellblood
-Naturecraft,"Slash, Bludgeon, Pierce",TRUE,TRUE,Fellblood
-Toxincraft,Poison,TRUE,TRUE,Fellblood
-Soulcraft,Spiritual,TRUE,TRUE,Fellblood
-Shadowcraft,Necrotic,TRUE,TRUE,Fellblood
-Mindcraft,Psychic,FALSE,TRUE,Fellblood
-Ferracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
-Sonocraft,Shockwave,FALSE,TRUE,Fellblood
-Hemacraft,Bleed,TRUE,TRUE,Fellblood
-Spidercraft,"Suffocation, Bludgeon",TRUE,TRUE,Fellblood
-Plasmacraft,Fire,TRUE,TRUE,Fellblood
-Stormcraft,"Electric, Shockwave",TRUE,TRUE,Fellblood
-Magmacraft,"Fire, Bludgeon",TRUE,TRUE,Fellblood
-Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",TRUE,TRUE,Fellblood
-Fire Rune,Fire,FALSE,TRUE,Focus
-Earth Rune,"Slash, Bludgeon, Hew, Pierce",FALSE,TRUE,Focus
-Water Rune,"Suffocation, Slash, Bludgeon, Pierce",FALSE,TRUE,Focus
-Air Rune,"Slash, Bludgeon, Shockwave",FALSE,TRUE,Focus
-Electricity Rune,Electric,FALSE,TRUE,Focus
-Cold Rune,Cold,FALSE,TRUE,Focus
-Poison Rune,Poison,FALSE,TRUE,Focus
-Blood Rune,Bleed,FALSE,TRUE,Focus
-Light Rune,Radiant,FALSE,TRUE,Focus
-Dark Rune,Necrotic,FALSE,TRUE,Focus
-Sound Rune,Shockwave,FALSE,TRUE,Focus
-Body Rune,,FALSE,TRUE,Focus
-Mind Rune,Psychic,FALSE,TRUE,Focus
-Soul Rune,Spiritual,FALSE,TRUE,Focus
-Time Rune,,FALSE,TRUE,Focus
-Space Rune,,FALSE,TRUE,Focus
-Strength Rune,,FALSE,TRUE,Focus
-Gravity Rune,Bludgeon,FALSE,TRUE,Focus
-Nature Rune,"Slash, Bludgeon, Pierce",FALSE,TRUE,Focus
-Acid Rune,Acid,FALSE,TRUE,Focus
-Shadow Magic,Necrotic,TRUE,TRUE,Fellblood
-Soul Magic,Spiritual,TRUE,TRUE,Fellblood
-Sporecraft,Necrotic,TRUE,TRUE,Fellblood
-,,,,
-"Bodily Magic (Flesh, Web, Bone, etc...)","Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
-Fire or Heat Magic,Fire,TRUE,TRUE,Magic Resource
-Water Magic,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
-Electricity Magic,Electric,TRUE,TRUE,Magic Resource
-Earth Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
-Air Magic,"Slash, Bludgeon, Shockwave",TRUE,TRUE,Magic Resource
-Cold Magic,Cold,FALSE,TRUE,Magic Resource
-Nature or Plant Magic,"Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
-Poison Magic,Poison,TRUE,TRUE,Magic Resource
-Soul Magic,Spiritual,FALSE,TRUE,Magic Resource
-Light Magic,Radiant,TRUE,TRUE,Magic Resource
-Shadow Magic,Necrotic,TRUE,TRUE,Magic Resource
-Mind Magic,Psychic,FALSE,TRUE,Magic Resource
-Metal Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
-Sound Magic,Shockwave,FALSE,TRUE,Magic Resource
-Blood Magic,Bleed,TRUE,TRUE,Magic Resource
-Acid Magic,Acid,TRUE,TRUE,Magic Resource
-Time Magic,,FALSE,TRUE,Magic Resource
-Teleport or Space Magic,,FALSE,TRUE,Magic Resource
-Force or Gravity Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
+name,governingVocationSet,damageTypes,meleeCapable,rangeCapable,magicResourceClass
+Radiance,"Divine Catalyst, Divine Conduit",Radiant,TRUE,TRUE,Ichor
+Blessing,"Divine Catalyst, Divine Conduit",Radiant,TRUE,TRUE,Ichor
+,,,,,
+Polycraft,Fellcraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
+Blazecraft,Fellcraft,Fire,TRUE,TRUE,Fellblood
+Hydrocraft,Fellcraft,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE,Fellblood
+Electrocraft,Fellcraft,Electric,TRUE,TRUE,Fellblood
+Terracraft,Fellcraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
+Galecraft,Fellcraft,"Slash, Bludgeon, Shockwave",TRUE,TRUE,Fellblood
+Cryocraft,Fellcraft,Cold,TRUE,TRUE,Fellblood
+Naturecraft,Fellcraft,"Slash, Bludgeon, Pierce",TRUE,TRUE,Fellblood
+Toxincraft,Fellcraft,Poison,TRUE,TRUE,Fellblood
+Soulcraft,Fellcraft,Spiritual,TRUE,TRUE,Fellblood
+Shadowcraft,Fellcraft,Necrotic,TRUE,TRUE,Fellblood
+Mindcraft,Fellcraft,Psychic,FALSE,TRUE,Fellblood
+Ferracraft,Fellcraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Fellblood
+Sonocraft,Fellcraft,Shockwave,FALSE,TRUE,Fellblood
+Hemacraft,Fellcraft,Bleed,TRUE,TRUE,Fellblood
+Spidercraft,Fellcraft,"Suffocation, Bludgeon",TRUE,TRUE,Fellblood
+Plasmacraft,Fellcraft,Fire,TRUE,TRUE,Fellblood
+Stormcraft,Fellcraft,"Electric, Shockwave",TRUE,TRUE,Fellblood
+Magmacraft,Fellcraft,"Fire, Bludgeon",TRUE,TRUE,Fellblood
+Blizzardcraft,Fellcraft,"Cold, Slash, Bludgeon, Pierce",TRUE,TRUE,Fellblood
+Fire Rune,Runecraft,Fire,FALSE,TRUE,Focus
+,,,,,
+Earth Rune,Runecraft,"Slash, Bludgeon, Hew, Pierce",FALSE,TRUE,Focus
+Water Rune,Runecraft,"Suffocation, Slash, Bludgeon, Pierce",FALSE,TRUE,Focus
+Air Rune,Runecraft,"Slash, Bludgeon, Shockwave",FALSE,TRUE,Focus
+Electricity Rune,Runecraft,Electric,FALSE,TRUE,Focus
+Cold Rune,Runecraft,Cold,FALSE,TRUE,Focus
+Poison Rune,Runecraft,Poison,FALSE,TRUE,Focus
+Blood Rune,Runecraft,Bleed,FALSE,TRUE,Focus
+Light Rune,Runecraft,Radiant,FALSE,TRUE,Focus
+Dark Rune,Runecraft,Necrotic,FALSE,TRUE,Focus
+Sound Rune,Runecraft,Shockwave,FALSE,TRUE,Focus
+Body Rune,Runecraft,,FALSE,TRUE,Focus
+Mind Rune,Runecraft,Psychic,FALSE,TRUE,Focus
+Soul Rune,Runecraft,Spiritual,FALSE,TRUE,Focus
+Time Rune,Runecraft,,FALSE,TRUE,Focus
+Space Rune,Runecraft,,FALSE,TRUE,Focus
+Strength Rune,Runecraft,,FALSE,TRUE,Focus
+Gravity Rune,Runecraft,Bludgeon,FALSE,TRUE,Focus
+Nature Rune,Runecraft,"Slash, Bludgeon, Pierce",FALSE,TRUE,Focus
+Acid Rune,Runecraft,Acid,FALSE,TRUE,Focus
+Shadow Magic,,Necrotic,TRUE,TRUE,Fellblood
+Soul Magic,,Spiritual,TRUE,TRUE,Fellblood
+Sporecraft,,Necrotic,TRUE,TRUE,Fellblood
+,,,,,
+"Bodily Magic (Flesh, Web, Bone, etc...)",,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
+Fire or Heat Magic,,Fire,TRUE,TRUE,Magic Resource
+Water Magic,,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
+Electricity Magic,,Electric,TRUE,TRUE,Magic Resource
+Earth Magic,,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
+Air Magic,,"Slash, Bludgeon, Shockwave",TRUE,TRUE,Magic Resource
+Cold Magic,,Cold,FALSE,TRUE,Magic Resource
+Nature or Plant Magic,,"Slash, Bludgeon, Pierce",TRUE,TRUE,Magic Resource
+Poison Magic,,Poison,TRUE,TRUE,Magic Resource
+Soul Magic,,Spiritual,FALSE,TRUE,Magic Resource
+Light Magic,,Radiant,TRUE,TRUE,Magic Resource
+Shadow Magic,,Necrotic,TRUE,TRUE,Magic Resource
+Mind Magic,,Psychic,FALSE,TRUE,Magic Resource
+Metal Magic,,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
+Sound Magic,,Shockwave,FALSE,TRUE,Magic Resource
+Blood Magic,,Bleed,TRUE,TRUE,Magic Resource
+Acid Magic,,Acid,TRUE,TRUE,Magic Resource
+Time Magic,,,FALSE,TRUE,Magic Resource
+Teleport or Space Magic,,,FALSE,TRUE,Magic Resource
+Force or Gravity Magic,,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE,Magic Resource
