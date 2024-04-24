@@ -2,10 +2,11 @@
 
 Naturecraft draws it's power from connection to the natural world.
 
-- Magic Name: Naturecraft
+- Magic Name: Druidcraft
 - Magic Vocation Name: Druid
 - Magic Vocation Governing Attributes: RFX, INT
 - Magic Resource Name: Nature Connection
+- Magic Governing Core Skill: Survival
 
 ## Druidcraft Skill List
 
