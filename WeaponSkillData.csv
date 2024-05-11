@@ -1,0 +1,38 @@
+skillName,governingAttributes,weaponsGoverned
+Hand Crossbow,"STR, RFX, INT",Hand Crossbow
+Light Crossbow,"STR, RFX, INT",Light Crossbow
+Heavy Crossbow,"STR, RFX, INT",Heavy Crossbow
+Light Bow,"STR, RFX, INT",Light Bow
+Heavy Bow,"STR, RFX, INT",Heavy Bow
+Blowgun,"STR, RFX, INT",Blowgun
+Sling,"STR, RFX, INT",Sling
+,,
+Unarmed,"STR, RFX, INT","Unarmed, Hand Protection Unarmed"
+,,
+Small Blade,"STR, RFX, INT","Thrown Small Slashing Blade, Thrown Small Piercing Blade, Small Piercing Blade, Small Slashing Blade"
+Small Hafted,"STR, RFX, INT","Thrown Small Hafted Axe, Thrown Small Hafted Blade, Thrown Small Hafted Point, Thrown Small Hafted Blunt, Small Hafted Axe, Small Hafted Blade, Small Hafted Point, Small Hafted Blunt"
+,,
+Medium Hafted,"STR, RFX, INT","Medium Hafted Axe, Medium Hafted Blade, Medium Hafted Point, Medium Hafted Blunt"
+Medium Sword,"STR, RFX, INT","Medium Thrusting Sword, Medium Slashing Sword"
+Medium Spear,"STR, RFX, INT","Thrown Medium Spear, Medium Spear"
+,,
+Large Hafted,"STR, RFX, INT","Large Hafted Axe, Large Hafted Blade, Large Hafted Point, Large Hafted Blunt"
+Large Sword,"STR, RFX, INT","Large Thrusting Sword, Large Slashing Sword"
+Large Spear,"STR, RFX, INT","Thrown Large Spear, Large Spear"
+,,
+Reach Hafted,"STR, RFX, INT","Reach Hafted Axe, Reach Hafted Blade, Reach Hafted Point, Reach Hafted Blunt"
+Reach Sword,"STR, RFX, INT","Reach Thrusting Sword, Reach Slashing Sword"
+Reach Spear,"STR, RFX, INT",Reach Spear
+Whip,"STR, RFX, INT",Whip
+,,
+Bite,"STR, RFX, INT","Weak Bite, Bite, Large Bite"
+Claw,"STR, RFX, INT","Slashing Claw, Piercing Claw, Large Slashing Claw, Large Piercing Claw"
+Horns,"STR, RFX, INT","Horns, Large Horns"
+Slam,"STR, RFX, INT","Slam, Large Slam"
+Tentacle,"STR, RFX, INT",Tentacle
+,,
+Handgun,"STR, RFX, INT",9mm Pistol
+Semi-automatic Rifle,"STR, RFX, INT",5.56 Semi-automatic Rifle
+Marksman Rifle,"STR, RFX, INT",.308 Bolt Action Rifle
+Machine Gun,"STR, RFX, INT",5.56 Machine Gun
+Launcher,"STR, RFX, INT",RPG Launcher
