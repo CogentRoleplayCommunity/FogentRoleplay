@@ -1,10 +1,10 @@
 name,attributesToEffect,dicePoolMod
-Minor Injury (Lvl 1),"STR,RFX,INT",-1
-Medium Injury (Lvl 2),"STR,RFX,INT",-2
-Serious Injury (Lvl 3),"STR,RFX,INT",-3
-Fatal Injury (Lvl 4),"STR,RFX,INT",-4
-Death Blow Injury (Lvl 5),"STR,RFX,INT",-5
-Weight Class: Light,"STR,RFX",-0
-Weight Class: Medium,"STR,RFX",-1
-Weight Class: Heavy,"STR,RFX",-2
-Overencumberd,"STR,RFX",-4
+Minor Injury (Lvl 1),"STR, RFX, INT",-1
+Medium Injury (Lvl 2),"STR, RFX, INT",-2
+Serious Injury (Lvl 3),"STR, RFX, INT",-3
+Fatal Injury (Lvl 4),"STR, RFX, INT",-4
+Death Blow Injury (Lvl 5),"STR, RFX, INT",-5
+Weight Class: Light,"STR, RFX",-0
+Weight Class: Medium,"STR, RFX",-1
+Weight Class: Heavy,"STR, RFX",-2
+Overencumberd,"STR, RFX",-4
