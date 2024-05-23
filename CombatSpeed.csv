@@ -1,0 +1,7 @@
+name,governingSkillName,reactionSpeedAttributeName,speed
+Terrestrial,Athletics,RFX,Medium
+Swim,Athletics,RFX,Very Slow
+Climb,Climb,RFX,Very Slow
+Flight,Athletics,RFX,Fast
+4-Hooved Climb,Climb,RFX,Extremely Slow
+Aquatic,Athletics,RFX,Medium
