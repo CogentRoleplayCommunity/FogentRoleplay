@@ -36,7 +36,7 @@ All game mechanics and game systems built on top of Cogent Roleplay within this 
 
 Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
 
-All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by the creator of said setting and are not subject to the Cogent Roleplay Open Source license. 
+All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by creator of said setting and are not subject to the Cogent Roleplay Open Source license.
 
 The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
 
