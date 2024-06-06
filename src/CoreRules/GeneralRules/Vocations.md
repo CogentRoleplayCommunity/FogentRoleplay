@@ -14,7 +14,7 @@ Combat skills include all weapon skills and magic skills. These skills require s
 
 ### Vocational Skills
 
-Vocational Skills are skills that your vocation would logically give you. For instance, a Baker would logically have a Baking skill. Players can make Vocational Skills at any point with approval from the narrator and use them for applicable skill checks. Vocational Skills for tasks already explicitly covered by a Core Skill aren't allowed. It is smart to write down vocational skills under your vocation as a reminder to have on your character sheet.
+Vocational Skills are skills that your vocation would logically give you. For instance, a Baker would logically have a Baking skill. Players can make Vocational Skills at any point with approval from the narrator and use them for applicable skill checks. Vocational Skills can't be used for tasks that are already entirely covered by a Core Skill. It is smart to write down vocational skills under your vocation as a reminder to have on your character sheet.
 
 A Vocational Skill's level is inherited from Vocation's level. You can not assist vocational skills with the vocation they fall under, as they are essentially relying on the same shared skill point investment.
 
@@ -30,9 +30,9 @@ I try to add the "Small Blade" combat skill which has the governing attributes S
 
 I try and add the "Reach Spear" combat skill. I realized using a long spear is not something that a chef would do, so I can't add it under my vocation.
 
-| Chef              |   RFX, INT    |     2     |  7d6  |
-| ----------------- | :-----------: | :-------: | :---: |
-| Wine Tasting      |   RFX, INT    | Inherited |  7d6  |
-| ~~Chopping Food~~ |      RFX      |           |       |
-| Small Blade       | STR, RFX, INT |     1     |  7d6  |
-| ~~Reach Spear~~   | STR, RFX, INT |           |       |
+| Chef               |   RFX, INT   |     2     | 7d6 |
+| ------------------ | :-----------: | :-------: | :-: |
+| Wine Tasting       |   RFX, INT   | Inherited | 7d6 |
+| ~~Chopping Food~~ |      RFX      |          |    |
+| Small Blade        | STR, RFX, INT |     1     | 7d6 |
+| ~~Reach Spear~~   | STR, RFX, INT |          |    |
