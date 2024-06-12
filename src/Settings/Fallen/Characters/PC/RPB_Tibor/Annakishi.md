@@ -118,8 +118,8 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 |      Clothes, Traveler's      | 1 |                                          |   Mundane   |   12/12   | 4 |  2 bc  |                                                                                          Simple Gown                                                                                          |
 |         Cloak, Canvas         | 1 |                                          |   Mundane   |   12/12   | 5 | 0.7 bc |                                                                                    Simple Warm Ruana Cloak                                                                                    |
 |             Boots             | 1 |                                          |   Mundane   |   12/12   | 1 |  4 bc  |                                                                                                                                                                                                |
-|        Pouch (1/5 ft^3)        | 1 |                                          |   Mundane   |   12/12   | 1 | 0.5 bc |                                                                                                                                                                                                |
-|       Satchel (2/5 ft^3)       | 1 |                                          |   Mundane   |   12/12   | 2 |  1 bc  |                                                                                                                                                                                                |
+|        Pouch        | 1 |                                          |   Mundane   |   12/12   | 1 | 0.5 bc |                                                                                                                                                                                                |
+|       Satchel       | 1 |                                          |   Mundane   |   12/12   | 2 |  1 bc  |                                                                                                                                                                                                |
 |        Waterskin (4/4)        | 1 |                                          |   Mundane   |   12/12   | 5 | 20 bc |                                                                                                                                                                                                |
 |    Royal Kiki Quarterstaff    | 1 |              Medium Hafter Blunt              | Mastercraft |   33/33   | 4 | ?? bc | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
 |             Dagger             | 1 | Small Piercing Blade<br />Thrown Small Piercing Blade |   Mundane   |   12/12   | 1 |  2 bc  |                                               Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                               |
@@ -138,7 +138,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ## Containers
 
-### Pouch (1/5 ft^3) - Max 6 LB
+### Pouch - Max 6 LB
 
 |              Name              | # |                     Class                     |  Tier  | Durability |  LB  | Value |                                    Note                                    |
 | :----------------------------: | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
@@ -149,7 +149,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 |        Rations (1 day)        | 1 |                                          | Mundane |   12/12   |  2  | 0.5 bc |                                                                            |
 |                                | 0 |                                              | Mundane |   12/12   |  0  |  0 bc  |                                                                            |
 
-### Satchel (2/5 ft^3) - Max 12 LB
+### Satchel - Max 12 LB
 
 |      Name      | # | Class |  Tier  | Durability | LB | Value | Note |
 | :-------------: | :-: | :---: | :-----: | :--------: | :-: | :----: | :--: |

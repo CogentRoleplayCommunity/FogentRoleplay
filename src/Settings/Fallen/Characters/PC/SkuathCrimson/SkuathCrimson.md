@@ -145,7 +145,7 @@ Unspent Skill Point: 1
 
 | Name                                                    |  #  |      Class      | Effect        |   Tier   | Durability |  LB  | Value |
 | ------------------------------------------------------- | :-: | :-------------: | ------------- | :-------: | :--------: | :--: | :---: |
-| Backpack (1 ft^3)                                       |  1  | 30 lb container |               |  Mundane  |            |  5  | 2 bc |
+| Backpack                                       |  1  | 30 lb container |               |  Mundane  |            |  5  | 2 bc |
 | Ring, Mundane                                           |  1  |                |               |  Mundane  |            | 0.2 | 30 cc |
 | Bronze Coin                                             | 38 |                |               |  Mundane  |            | 0.02 | 1 bc |
 | Copper Coin                                             | 70 |                |               |  Mundane  |            | 0.02 | 1 cc |

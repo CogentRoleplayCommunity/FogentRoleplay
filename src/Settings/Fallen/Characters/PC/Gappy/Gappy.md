@@ -131,7 +131,7 @@
 
 | Name                | # |      Class      | Effect |  Tier  | Durability |  LB  | Value |
 | ------------------- | :-: | :-------------: | ------ | :-----: | :--------: | :--: | :---: |
-| Backpack (1 ft^3)   | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
+| Backpack   | 1 | 30 lb container |        | Mundane |            |  5  | 2 bc |
 | Bronze Coin         | 53 |                |        | Mundane |            | 0.02 | 1 bc |
 | Bronze Pocket Watch |    |                |        |        |            |      |      |
 
