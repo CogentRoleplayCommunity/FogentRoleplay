@@ -1,74 +1,74 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,damageTypes,engageableOpponents,areaOfEffect,resourceClass
-Hand Crossbow,+1d6,+1d6,+1d6,0,Medium,,Standard,,Bolt
-Light Crossbow,None,+1d6,None,1,Far,,Loading,,Bolt
-Heavy Crossbow,None,+2d6,None,2,Long,,Complex Loading,,Bolt
-Light Bow,None,+1d6,None,0,Far,,Quick,,Arrow
-Heavy Bow,None,+2d6,None,2,Sharpshooter,,Standard,,Arrow
-Blowgun,+0d6,+0d6,None,0,Mediocre,,Loading,,Blowgun Dart
-Sling,+0d6,+0d6,None,0,Medium,,Standard,,Sling Bullet
-,,,,,,,,,
-Thrown Small Slashing Blade,+1d6,+1d6,+1d6,0,Short,Slash,Quick,,None
-Thrown Small Piercing Blade,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,,None
-Thrown Small Hafted Axe,+1d6,+1d6,+1d6,0,Short,Hew,Quick,,None
-Thrown Small Hafted Blade,+1d6,+1d6,+1d6,0,Short,Slash,Quick,,None
-Thrown Small Hafted Point,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,,None
-Thrown Small Hafted Blunt,+0d6,+0d6,+1d6,1,Short,Bludgeon,Quick,,None
-Thrown Medium Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,,None
-Thrown Large Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,,None
-,,,,,,,,,
-Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
-Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Bludgeon,Rapid,,None
-Small Hafted Axe,+1d6,+1d6,+1d6,0,Melee,Hew,Rapid,,None
-Small Hafted Blade,+1d6,+1d6,+1d6,0,Melee,Slash,Rapid,,None
-Small Hafted Point,+0d6,+0d6,+1d6,2,Melee,Pierce,Rapid,,None
-Small Hafted Blunt,+0d6,+0d6,+1d6,2,Melee,Bludgeon,Rapid,,None
-Small Piercing Blade,+0d6,+0d6,+1d6,2,Melee,Pierce,Rapid,,None
-Small Slashing Blade,+1d6,+1d6,+1d6,0,Melee,Slash,Rapid,,None
-,,,,,,,,,
-Medium Hafted Axe,+2d6,+3d6,+1d6,0,Melee,Hew,Rapid,,None
-Medium Hafted Blade,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
-Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
-Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Bludgeon,Rapid,,None
-Medium Thrusting Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
-Medium Slashing Sword,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
-Medium Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Rapid Max 2,,None
-,,,,,,,,,
-Large Hafted Axe,+0d6,+3d6,None,2,Melee,Hew,Rapid,,None
-Large Hafted Blade,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
-Large Hafted Point,+0d6,+2d6,None,3,Melee,Pierce,Rapid,,None
-Large Hafted Blunt,-1,+1d6,None,5,Melee,Bludgeon,Rapid,,None
-Large Thrusting Sword,+0d6,+2d6,None,3,Melee,Pierce,Rapid,,None
-Large Slashing Sword,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
-Large Spear,+2d6,+3d6,None,3,Melee,Pierce,Rapid Max 2,,None
-,,,,,,,,,
-Reach Hafted Axe,-2,+4d6,None,3,Reach,Hew,Rapid,,None
-Reach Hafted Blade,-2,+4d6,None,3,Reach,Slash,Rapid,,None
-Reach Hafted Point,-2,+3d6,None,4,Reach,Pierce,Rapid,,None
-Reach Hafted Blunt,-2,+2d6,None,5,Reach,Bludgeon,Rapid,,None
-Reach Thrusting Sword,-2,+3d6,None,4,Reach,Pierce,Rapid,,None
-Reach Slashing Sword,-2,+4d6,None,3,Reach,Slash,Rapid,,None
-Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,,None
-Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,,None
-,,,,,,,,,
-Weak Bite,None,-1,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
-Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
-Large Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
-,,,,,,,,,
-Slashing Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
-Piercing Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
-Large Slashing Claw,+2d6,None,+1d6,0,Melee,Slash,Rapid,,None
-Large Piercing Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,,None
-,,,,,,,,,
-Horns,None,+2d6,None,2,Melee,Pierce,Rapid,,None
-Large Horns,None,+3d6,None,3,Melee,Pierce,Rapid,,None
-,,,,,,,,,
-Slam,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,,None
-Large Slam,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,,None
-,,,,,,,,,
-Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
-,,,,,,,,,
-9mm Pistol,+2d6,+2d6,+1d6,0,Medium,,Quick,,9mm Ammo
-5.56 Semi-automatic Rifle,+2d6,+4d6,None,0,Sharpshooter,,Quick,,5.56 Ammo
-.308 Bolt Action Rifle,+1d6,+4d6,None,0,Extreme,,Standard,,.308 Ammo
-5.56 Machine Gun,-2,+6d6,None,0,Sharpshooter,,Rapid,,5.56 Ammo
-RPG Launcher,-2,+6d6,None,0,Sharpshooter,,Loading,,RPG Ammo
+name,governingSkillName,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,damageTypes,engageableOpponents,areaOfEffect,resourceClass
+Hand Crossbow,Hand Crossbow,+1d6,+1d6,+1d6,0,Medium,,Standard,,Bolt
+Light Crossbow,Light Crossbow,None,+1d6,None,1,Far,,Loading,,Bolt
+Heavy Crossbow,Heavy Crossbow,None,+2d6,None,2,Long,,Complex Loading,,Bolt
+Light Bow,Light Bow,None,+1d6,None,0,Far,,Quick,,Arrow
+Heavy Bow,Heavy Bow,None,+2d6,None,2,Sharpshooter,,Standard,,Arrow
+Blowgun,Blowgun,+0d6,+0d6,None,0,Mediocre,,Loading,,Blowgun Dart
+Sling,Sling,+0d6,+0d6,None,0,Medium,,Standard,,Sling Bullet
+,,,,,,,,,,
+Thrown Small Slashing Blade,Small Blade,+1d6,+1d6,+1d6,0,Short,Slash,Quick,,None
+Thrown Small Piercing Blade,Small Blade,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,,None
+Thrown Small Hafted Axe,Small Hafted,+1d6,+1d6,+1d6,0,Short,Hew,Quick,,None
+Thrown Small Hafted Blade,Small Hafted,+1d6,+1d6,+1d6,0,Short,Slash,Quick,,None
+Thrown Small Hafted Point,Small Hafted,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,,None
+Thrown Small Hafted Blunt,Small Hafted,+0d6,+0d6,+1d6,1,Short,Bludgeon,Quick,,None
+Thrown Medium Spear,Medium Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,,None
+Thrown Large Spear,Large Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,,None
+,,,,,,,,,,
+Unarmed,Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
+Hand Protection Unarmed,Unarmed,+0d6,None,+0d6,0,Melee,Bludgeon,Rapid,,None
+Small Hafted Axe,Small Hafted,+1d6,+1d6,+1d6,0,Melee,Hew,Rapid,,None
+Small Hafted Blade,Small Hafted,+1d6,+1d6,+1d6,0,Melee,Slash,Rapid,,None
+Small Hafted Point,Small Hafted,+0d6,+0d6,+1d6,2,Melee,Pierce,Rapid,,None
+Small Hafted Blunt,Small Hafted,+0d6,+0d6,+1d6,2,Melee,Bludgeon,Rapid,,None
+Small Piercing Blade,Small Blade,+0d6,+0d6,+1d6,2,Melee,Pierce,Rapid,,None
+Small Slashing Blade,Small Blade,+1d6,+1d6,+1d6,0,Melee,Slash,Rapid,,None
+,,,,,,,,,,
+Medium Hafted Axe,Medium Hafted,+2d6,+3d6,+1d6,0,Melee,Hew,Rapid,,None
+Medium Hafted Blade,Medium Hafted,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
+Medium Hafted Point,Medium Hafted,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
+Medium Hafted Blunt,Medium Hafted,+0d6,+1d6,+1d6,4,Melee,Bludgeon,Rapid,,None
+Medium Thrusting Sword,Medium Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
+Medium Slashing Sword,Medium Sword,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
+Medium Spear,Medium Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Rapid Max 2,,None
+,,,,,,,,,,
+Large Hafted Axe,Large Hafted,+0d6,+3d6,None,2,Melee,Hew,Rapid,,None
+Large Hafted Blade,Large Hafted,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
+Large Hafted Point,Large Hafted,+0d6,+2d6,None,3,Melee,Pierce,Rapid,,None
+Large Hafted Blunt,Large Hafted,-1,+1d6,None,5,Melee,Bludgeon,Rapid,,None
+Large Thrusting Sword,Large Sword,+0d6,+2d6,None,3,Melee,Pierce,Rapid,,None
+Large Slashing Sword,Large Sword,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
+Large Spear,Large Spear,+2d6,+3d6,None,3,Melee,Pierce,Rapid Max 2,,None
+,,,,,,,,,,
+Reach Hafted Axe,Reach Hafted,-2,+4d6,None,3,Reach,Hew,Rapid,,None
+Reach Hafted Blade,Reach Hafted,-2,+4d6,None,3,Reach,Slash,Rapid,,None
+Reach Hafted Point,Reach Hafted,-2,+3d6,None,4,Reach,Pierce,Rapid,,None
+Reach Hafted Blunt,Reach Hafted,-2,+2d6,None,5,Reach,Bludgeon,Rapid,,None
+Reach Thrusting Sword,Reach Sword,-2,+3d6,None,4,Reach,Pierce,Rapid,,None
+Reach Slashing Sword,Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,,None
+Reach Spear,Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,,None
+Whip,Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,,None
+,,,,,,,,,,
+Weak Bite,Bite,None,-1,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+Bite,Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+Large Bite,Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+,,,,,,,,,,
+Slashing Claw,Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
+Piercing Claw,Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
+Large Slashing Claw,Claw,+2d6,None,+1d6,0,Melee,Slash,Rapid,,None
+Large Piercing Claw,Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,,None
+,,,,,,,,,,
+Horns,Horns,None,+2d6,None,2,Melee,Pierce,Rapid,,None
+Large Horns,Horns,None,+3d6,None,3,Melee,Pierce,Rapid,,None
+,,,,,,,,,,
+Slam,Slam,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,,None
+Large Slam,Slam,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,,None
+,,,,,,,,,,
+Tentacle,Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
+,,,,,,,,,,
+9mm Pistol,Handgun,+2d6,+2d6,+1d6,0,Medium,,Quick,,9mm Ammo
+5.56 Semi-automatic Rifle,Semi-automatic Rifle,+2d6,+4d6,None,0,Sharpshooter,,Quick,,5.56 Ammo
+.308 Bolt Action Rifle,Marksman Rifle,+1d6,+4d6,None,0,Extreme,,Standard,,.308 Ammo
+5.56 Machine Gun,Machine Gun,-2,+6d6,None,0,Sharpshooter,,Rapid,,5.56 Ammo
+RPG Launcher,Launcher,-2,+6d6,None,0,Sharpshooter,,Loading,,RPG Ammo
