@@ -1,37 +1,37 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResourceAmount
-Mag. Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Rapid,,0
-Mag. Small Piercing Blade,+0d6,+0d6,+1d6,2,Melee,Rapid,,0
-Mag. Small Slashing Blade,+1d6,+1d6,+1d6,0,Melee,Rapid,,0
-,,,,,,,,
-Mag. Medium Hafted Blade,+2d6,+3d6,+1d6,0,Melee,Rapid,,1
-Mag. Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Rapid,,1
-Mag. Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Rapid,,1
-Mag. Medium Spear,+2d6,+2d6,+1d6,2,Melee,Rapid Max 2,,1
-Mag. Whip,+1d6,+1d6,+1d6,0,Reach,Rapid,,1
-,,,,,,,,
-Mag. Large Hafted Blade,+0d6,+3d6,None,2,Melee,Rapid,,2
-Mag. Large Hafted Point,+0d6,+2d6,None,3,Melee,Rapid,,2
-Mag. Large Hafted Blunt,-1,+1d6,None,5,Melee,Rapid,,2
-Mag. Large Spear,+2d6,+3d6,None,3,Melee,Rapid Max 2,,2
-,,,,,,,,
-Mag. Reach Hafted Blade,-2,+4d6,None,3,Reach,Rapid,,3
-Mag. Reach Hafted Point,-2,+3d6,None,4,Reach,Rapid,,3
-Mag. Reach Hafted Blunt,-2,+2d6,None,5,Reach,Rapid,,3
-Mag. Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
-,,,,,,,,
-Mag. Thrown Small Slashing Blade,+1d6,+1d6,+1d6,0,Short,Quick,,0
-Mag. Thrown Small Piercing Blade,+0d6,+0d6,+1d6,1,Short,Quick,,0
-Mag. Sling,+0d6,+0d6,None,0,Medium,Standard,,0
-,,,,,,,,
-Mag. Thrown Medium Spear,+2d6,+2d6,None,2,Medium,Standard,,1
-Mag. Hand Crossbow,+1d6,+1d6,+1d6,0,Medium,Standard,,1
-Mag. Light Crossbow,None,+1d6,None,1,Far,Loading,,1
-Mag. Light Bow,None,+1d6,None,0,Far,Quick,,1
-Mag. Close Cone,None,+2d6,None,3,Close Cone,1,Close Cone Calculation,1
-,,,,,,,,
-Mag. Thrown Large Spear,+2d6,+2d6,None,3,Short,Standard,,2
-Mag. Heavy Crossbow,None,+2d6,None,2,Long,Complex Loading,,2
-Mag. Medium Cone,None,+2d6,None,3,Medium Cone,1,Medium Cone Calculation,2
-,,,,,,,,
-Mag. Heavy Bow,None,+2d6,None,2,Sharpshooter,Standard,,3
-Mag. Medium Sphere,None,+3d6,None,3,Long,1,Medium Sphere Calculation,3
+oldName,name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResourceAmount
+Mag. Hand Protection Unarmed,Glove,+0d6,None,+0d6,0,Melee,Rapid,,0
+Mag. Small Piercing Blade,Small Thrust,+0d6,+0d6,+1d6,2,Melee,Rapid,,0
+Mag. Small Slashing Blade,Small Slash,+1d6,+1d6,+1d6,0,Melee,Rapid,,0
+,,,,,,,,,
+Mag. Medium Hafted Blade,Medium Slash,+2d6,+3d6,+1d6,0,Melee,Rapid,,1
+Mag. Medium Hafted Point,Medium Thrust,+1d6,+2d6,+1d6,2,Melee,Rapid,,1
+Mag. Medium Hafted Blunt,Medium Smash,+0d6,+1d6,+1d6,4,Melee,Rapid,,1
+Mag. Medium Spear,Medium Spear,+2d6,+2d6,+1d6,2,Melee,Rapid Max 2,,1
+Mag. Whip,Whip,+1d6,+1d6,+1d6,0,Reach,Rapid,,1
+,,,,,,,,,
+Mag. Large Hafted Blade,Large Slash,+0d6,+3d6,None,2,Melee,Rapid,,2
+Mag. Large Hafted Point,Large Thrust,+0d6,+2d6,None,3,Melee,Rapid,,2
+Mag. Large Hafted Blunt,Large Smash,-1,+1d6,None,5,Melee,Rapid,,2
+Mag. Large Spear,Large Spear,+2d6,+3d6,None,3,Melee,Rapid Max 2,,2
+,,,,,,,,,
+Mag. Reach Hafted Blade,Reach Slash,-2,+4d6,None,3,Reach,Rapid,,3
+Mag. Reach Hafted Point,Reach Thrust,-2,+3d6,None,4,Reach,Rapid,,3
+Mag. Reach Hafted Blunt,Reach Smash,-2,+2d6,None,5,Reach,Rapid,,3
+Mag. Reach Spear,Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
+,,,,,,,,,
+Mag. Thrown Small Slashing Blade,Arc,+1d6,+1d6,+1d6,0,Short,Quick,,0
+Mag. Thrown Small Piercing Blade,Dart,+0d6,+0d6,+1d6,1,Short,Quick,,0
+Mag. Sling,Sling,+0d6,+0d6,None,0,Medium,Standard,,0
+,,,,,,,,,
+Mag. Thrown Medium Spear,Javelin,+2d6,+2d6,None,2,Medium,Standard,,1
+Mag. Hand Crossbow,Hand Bolt,+1d6,+1d6,+1d6,0,Medium,Standard,,1
+Mag. Light Crossbow,Bolt,None,+1d6,None,1,Far,Loading,,1
+Mag. Light Bow,Arrow,None,+1d6,None,0,Far,Quick,,1
+Mag. Close Cone,Close Cone,None,+2d6,None,3,Close Cone,1,Close Cone Calculation,1
+,,,,,,,,,
+Mag. Thrown Large Spear,Large Javelin,+2d6,+2d6,None,3,Short,Standard,,2
+Mag. Heavy Crossbow,Large Bolt,None,+2d6,None,2,Long,Complex Loading,,2
+Mag. Medium Cone,Medium Cone,None,+2d6,None,3,Medium Cone,1,Medium Cone Calculation,2
+,,,,,,,,,
+Mag. Heavy Bow,Large Arrow,None,+2d6,None,2,Sharpshooter,Standard,,3
+Mag. Medium Sphere,Medium Sphere,None,+3d6,None,3,Long,1,Medium Sphere Calculation,3
