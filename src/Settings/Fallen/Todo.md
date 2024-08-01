@@ -10,5 +10,11 @@
 - Grass lord one shot
 - Write the Beast Of Reddwall
 - Black, Redd, White, Jade Court Dhampirs
-- Slime fellkin
+- Slime fellkin, Slimekin
 - rot dragon
+- Impkin
+- Demon Contracts and Avatars of Brights
+- Husks, failed creations of The Adversary
+- Possibly have the fight between Amon and the Adversary trigger the start of the sun
+- Given that it will take 250 million years for the continents to remerge as in the story, the sun has changed a bit.
+- The Bright Lord making life on other worlds in the solar system
