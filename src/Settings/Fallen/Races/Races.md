@@ -2,13 +2,13 @@
 
 #### Pre-made Fellkin Races:
 
-- [Beastkin](Beastkin/Beastkin.md)
-- [Chitinkin](Chitinkin/Chitinkin.md)
-- [Crossbreed](Crossbreed/Crossbreed.md)
-- [Dhampir](Dhampir/Dhampir.md)
-- [Dragonkin](Dragonkin/Dragonkin.md)
-- [Harpy](Harpy/Haryp.md)
-- [Seakin](Seakin/Seakin.md)
+- [Beastkin](./Races.md#beastkin)
+- [Chitinkin](./Races.md#chitinkin)
+- [Crossbreed](./Races.md#crossbreed)
+- [Dhampir](./Races.md#dhampir)
+- [Dragonkin](./Races.md#dragonkin)
+- [Harpy](./Races.md#harpy)
+- [Seakin](./Races.md#seakin)
 
 #### More Fellkin Race Ideas:
 
