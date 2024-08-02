@@ -29,6 +29,8 @@ Fellkin vary wildly, but all share the innate risk of going feral. This occurs w
 - Yetikin
 - Chimpkin
 - Mousekin
+- Slimekin
+- Impkin
 
 ### [Brightkin](Brightkin/Brightkin.md)
 
