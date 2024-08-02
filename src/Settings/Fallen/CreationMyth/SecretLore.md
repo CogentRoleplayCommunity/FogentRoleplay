@@ -48,7 +48,7 @@ Tectonic plates shifted, nature grew, the Sun burnt out, and the Earth spun for 
 
 ## On a Dead world, at the end of time, Life begins once again…
 
-The Adversary took his hand at being a creator, though in actuality he could only imitate. He tried to create life of his own, but this never yielded anything but failures and abominations. He settled for copying, using God’s designs to re-create animals, plans, insects, etc… He also carved of a chunk of his power to restart the heart of the dying star whenever it began to fail. For a time this satisfied The Adversary, though he arrogantly thought to create his own conscious life.
+The Adversary took his hand at being a creator, though in actuality he could only imitate. He tried to create life of his own, but this never yielded anything but failures and abominations. He settled for copying, using God’s designs to re-create animals, plans, insects, etc… He also carved out a chunk of his power to restart the heart of the dying star whenever it began to fail. For a time this satisfied The Adversary, though he arrogantly thought to create his own conscious life.
 
 Even though The Adversary could copy every single design aspect of a human, they always ended up as mere husks, devoid of consciousness. For all his intelligence and persistence, The Adversary could not recreate the spark of divinity of the soul. In his desperation, The Adversary planned to use of Amon's rib's for his new creations hopping they would inherit Amon's strength and immortality. While Amon slept, The Adversary reached into Amon and seized a rib. This permanently scarred The Adversary, permanently losing his own rib, nearly shattering him to pieces. With it, like Amon’s father before him, The Adversary copied The Creator’s work, and new conscious life was created, the meek Nascenti.
 
@@ -114,7 +114,7 @@ The Fallen worshiped their gods. The Adversary then cultivated his new people ac
 
 The Adversary lured Amon away from the last settlement of Nascenti on Terra with the promise of a pact. The Adversary released monsters upon them as he distracted Amon far away. When Amon returned, those that bore the faces of those he swore to protect attacked him with foul new magic, Fellcraft. Though these beings bore his friends' faces, they attacked him anyway. Amon fled into the wilderness.
 
-Amon realized that The Adversary would only be a corrupting force upon the world. So Amon steeled himself to kill his master and friend. Thus Amon went in search of The Adversary. The Adversary, fearing the wrath of Amon hid himself in the Garden as a serpent, hoping that the Cherubim and The Flaming Sword would hold off Amon as they were from God. Amon proved too powerful, leaving many of the cherubim dead or broken and claiming the Flaming Sword for himself.
+Amon realized that The Adversary would only be a corrupting force upon the world. So Amon steeled himself to kill his master and friend. Thus Amon went in search of The Adversary. The Adversary, fearing the wrath of Amon hid himself in the Garden as a serpent, hoping that the Cherubim and The Flaming Sword would hold off Amon as they were from God. Amon proved too powerful, leaving many of the cherubim dead or broken and claiming the Flaming Sword for himself. Now existing in a sort of pocket dimension, it randomly appears at different locations at sea.
 
 When Amon came for The Adversary, their fight was so intense that it split the Garden of Eden from the mainland and severed it from our reality. When they fought, all of Terra shook, the rebound effects of one The Adversary's blows shattered the Moon, creating the Pair (The Parent and The Child). And what we know as the Iris sea was formed, from The Adversary falling from the Moons. Amon defeated The Adversary, but could not kill his once friend, and forgave him. This act of forgiveness severed the aspect of "Wrath" given to him by the adversary.
 
@@ -122,15 +122,15 @@ In his pride and wrath The Adversary took up his weapon Adversary and drove it t
 
 The Seven Bright Lords of Terra (Shards of the Adversary)
 
-|                     | Past Avatar | Current Avatar   | Aspect   | AKA                |
-| ------------------- | ----------- | ---------------- | -------- | ------------------ |
-| Lucifer             | -           | Luc Lightbringer | Pride    | The Bright Lord    |
-| Asmodeus Or Lilith  | -           |                  | Lust     | The Beautiful One  |
-| Mammon              | -           |                  | Greed    | Cleverous          |
-| Beelzebub           | -           |                  | Gluttony | The Great Devourer |
-| Satan               | Amon        | Booker Twins     | Wrath    | The Great Betrayer |
-| Belphegor           | -           |                  | Sloth    | The Bound One      |
-| Leviathan           | -           |                  | Envy     | The Twisting One   |
+|                    | Past Avatar | Current Avatar   | Aspect   | AKA                |
+| ------------------ | ----------- | ---------------- | -------- | ------------------ |
+| Lucifer            | -           | Luc Lightbringer | Pride    | The Bright Lord    |
+| Asmodeus Or Lilith | -           |                  | Lust     | The Beautiful One  |
+| Mammon             | -           |                  | Greed    | Cleverous          |
+| Beelzebub          | -           |                  | Gluttony | The Great Devourer |
+| Satan              | Amon        | Booker Twins     | Wrath    | The Great Betrayer |
+| Belphegor          | -           |                  | Sloth    | The Bound One      |
+| Leviathan          | -           |                  | Envy     | The Twisting One   |
 
 When the Shards fell to Terra, physical forms coalesced or found purchase within those that claimed them. The Fellkin Brightinist worshipers that found their gods bred with them, granting their offspring the Bright Lord's' Heritage.
 
@@ -154,23 +154,22 @@ They believe that what they are doing is righteous, and that any sacrifice they 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyaGCvp9UyNG-Y59WlEkfovaD6J9G0uuoSn2TUMZ2wkT1LO7nSR3lpcHn_hjycprt7SLnpxv5s18019d7KjdlHt5V5OB7ECugKy6pdIp3EHUzIcRgqaXULnun43qdmswCZQNu-baHspP7apf35NKW9fso?key=za4kZhECor-i8cmOi3oPvA)
 
-Origins of The Garden
+### Origins of The Garden
+
 After Adam and Eve ate from the Tree of the Knowledge of good and evil, no one was forbade entry. Multiple Cherubim were entrusted with the defense of the Garden of Eden and ordered to guard the Garden of Eden for all eternity for the Tree of Life and Tree of the Knowledge of Good and Evil still remained at the center of the Garden. A Flaming Sword was also placed there that flew through the air and pointed every way.
 
-The Adversary, fearing the wrath of Amon hid himself in the Garden as a serpent, hoping that the Cherubim and The Flaming Sword would hold off Amon as they were from God. Amon proved too powerful, leaving many of the cherubim dead or broken and claiming the sword for himself. When Amon came to end The Adversary, their fight was so intense that it split the Garden of Eden from the mainland and severed it from our reality. Now existing in a sort of pocket dimension, it randomly appears at different locations at sea.
-
-Temple of Amon (City of Enoch)
+### Temple of Amon (City of Enoch)
 
 The outer edge of the Island is not the Garden, but rather the surrounding area of the Garden. This includes the City of Enoch (The Temple of Amon), which barely peaks out of the ground as it has mainly been buried underground.
 
-The Garden
+### The Animals
+
 Animals inside the Garden are peaceful and docile, though on the outside they become animalist once more. The Garden is overflowing with abundance with beautiful fruit hanging from trees. A pacifism effect is induced in all creatures as they feel overwhelmed by the sense of calm that permeates everything.
 
-The Rivers
+### The Rivers
+
 A river flows into the Garden from where it used to which is now an elevated chunk of land in the west. It flows out of thin air, with the purest water possible.
 
-*Spring of misty water to water the land
+Spring of misty water to water the land
 
 * Dusty site where man were Adam was created
-
-**
