@@ -20,6 +20,7 @@
 - Leshenkin
 - Slimekin
 - Impkin
+- Phoenixkin
 
 ## Fellkin
 
