@@ -20,27 +20,28 @@
 
 ## Info
 
-|                                                             Name                                                             |                               Info                               | Duration |                      Source                      |
-| :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                 1                                 |          |                                                  |
-|                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                        Can speak Babelish.                        |          |                                                  |
-| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                  |
-|      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Illiterate      |                cant read or write in any language                |          |                                                  |
-|                                                                                                                              |                                                                  |          |                                                  |
-|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                              9.6 lb                              |          |                    Equipment                    |
-|                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                      |                              150 lb                              |          |        +50 lbs Carry Weight per Lift dice        |
-|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                  |                -0d6 to STR/RFX governed Dice Pools                |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|                                                                                                                              |                                                                  |          |                                                  |
-|           [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)           |                                 0                                 |          |                  Armor & Shield                  |
-|                                                                                                                              |                                                                  |          |                                                  |
-|                            [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                            |                       5x5 ft on battle map.                       |          |                                                  |
-|                [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial                |                               50 ft                               |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                    |                               25 ft                               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                               20 ft                               |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
-|                                                                                                                              |                                                                  |          |                                                  |
-|                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): None                         |                                0/0                                |          |       Vocation/Magic Governing Core Skill       |
-|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                0/3                                |          |               Awarded by Narrator               |
-|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                   – 0 dice to all dice checks.                   |          |                 Damage Received                 |
+|                                                             Name                                                             |                                     Info                                     | Duration |                      Source                      |
+| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
+|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      1                                      |          |                                                  |
+|                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                             Can speak Babelish.                             |          |                                                  |
+| [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia |      Strong belief that law enforcement is corrupt and out to get him.      |          |                                                  |
+|      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Illiterate      |                      cant read or write in any language                      |          |                                                  |
+|    [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Mirage addict    | needs mirage to sleep, if he does not take mirage he will have night terrors |          |                                                  |
+|                                                                                                                              |                                                                              |          |                                                  |
+|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                                    9.6 lb                                    |          |                    Equipment                    |
+|                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                      |                                    150 lb                                    |          |        +50 lbs Carry Weight per Lift dice        |
+|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                  |                     -0d6 to STR/RFX governed Dice Pools                     |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                              |                                                                              |          |                                                  |
+|           [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense)           |                                      0                                      |          |                  Armor & Shield                  |
+|                                                                                                                              |                                                                              |          |                                                  |
+|                            [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                            |                            5x5 ft on battle map.                            |          |                                                  |
+|                [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial                |                                    50 ft                                    |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                    |                                    25 ft                                    |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                                    20 ft                                    |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                                                                                                                              |                                                                              |          |                                                  |
+|                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): None                         |                                     0/0                                     |          |       Vocation/Magic Governing Core Skill       |
+|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                     0/3                                     |          |               Awarded by Narrator               |
+|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                        – 0 dice to all dice checks.                        |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -93,7 +94,7 @@ Hair Color: Dirty Blond
 
 Eye Color: Blue
 
-Additional Details:
+Additional Details: Scars along his back from being flogged, looks underweight for his age.
 
 ## Disposition
 
@@ -103,16 +104,16 @@ Additional Details:
 
 ## Beliefs/Morality
 
-- Believe that the world is out to get him and other mudbloods.
+- Believes that the world is out to get him and the lower class.
 - Will do anything for those he considers family.
 - Believes that you have to take what is yours or life will leave you empty handed.
-- Thinks the government is only out to for those in their inner circle and not for the common man.
+- Thinks authority is only out to for those in its inner circle and not for the common man.
 
 ## Goals/Aspirations
 
-- To get back to Cross Roads and find his friends.
+- To get back to Crossroads and find his friends.
 - To gain wealth and power.
-- To make a safe home for him and his friends in crossroads.
+- To make a safe home for him and his friends in Crossroads.
 
 ## Backstory
 
