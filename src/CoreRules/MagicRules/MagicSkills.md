@@ -61,7 +61,7 @@ Determines if the Magic Skill in question is capable of affecting something at r
 |               Light Magic               |                 Radiant                 |     TRUE     |     TRUE     |
 |              Shadow Magic              |                Necrotic                |     TRUE     |     TRUE     |
 |               Mind Magic               |                 Psychic                 |     FALSE     |     TRUE     |
-|               Metal Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|               Magnetic Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 |               Sound Magic               |                Shockwave                |     FALSE     |     TRUE     |
 |               Blood Magic               |                  Bleed                  |     TRUE     |     TRUE     |
 |               Acid Magic               |                  Acid                  |     TRUE     |     TRUE     |

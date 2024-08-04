@@ -307,7 +307,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |         Bottle, glass         | 1 |                    |        | Mundane |            |   2   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |             Bucket             | 1 |                    |        | Mundane |            |   2   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |             Candle             | 1 |                    |        | Mundane |            |  0.1  | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Chest (12 ft^3)        | 1 |  300 lb container  |        | Mundane |            |   25   | 5 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|        Chest        | 1 |  300 lb container  |        | Mundane |            |   25   | 5 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |        Clothes, Common        | 1 |                    |        | Mundane |            |   3   | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |         Clothes, Fine         | 1 |                    |        | Mundane |            |   6   | 15 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |        Flask or Tankard        | 1 |                    |        | Mundane |            |   1   | 2 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -326,7 +326,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Parchment (one sheet)     | 1 |                    |        | Mundane |            |   0   | 10 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |         Pick, Miner's         | 1 | Large Hafted Point |        | Mundane |   12/12   |   10   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Pot, Iron           | 1 |                    |        | Mundane |            |   10   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Pouch (1/5 ft^3)        | 1 |   6 lb container   |        | Mundane |            |   1   | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Pouch        | 1 |   6 lb container   |        | Mundane |            |   1   | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Rope, Hempen (50 feet)     | 1 |                    |        | Mundane |            |   10   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |      Rope, Silk (50 feet)      | 1 |                    |        | Mundane |            |   5   | 10 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |              Sack              | 1 |                    |        | Mundane |            |  0.5  | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -387,7 +387,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |            Sling Bullets            | 50 |                         Standard Sling Bullets                         |                | Mundane |     :-     | 0.075 |  8 tc  |     FALSE     |     TRUE     |     TRUE     |     FALSE     |
 |       Blowguns Needles Plain       | 20 |                              Plain Needles                              |                | Mundane |     :-     |  0.05  |  5 cc  |     FALSE     |     TRUE     |    FALSE    |     FALSE     |
 |                                    |    |                                                                        |                |        |            |        |        |              |              |              |                |
-|          Backpack (1 ft^3)          | 1 |                             30 lb container                             |                | Mundane |            |   5   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|          Backpack          | 1 |                             30 lb container                             |                | Mundane |            |   5   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Bedroll               | 1 |                                                                        |                | Mundane |            |   7   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Blanket               | 1 |                                                                        |                | Mundane |            |   3   |  50 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |          Block and Tackle          | 1 |                                                                        |                | Mundane |            |   5   |  70 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -396,7 +396,7 @@ Cheap shops will charge 50% the value for any item on this list.
 | Case, Crossbow Bolts (capacity: 20) | 1 |                                                                        |                | Mundane |            |   1   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |         Case, Map or Scroll         | 1 |                                                                        |                | Mundane |            |   1   |  1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Chain (10 feet)           | 1 |                                                                        |                | Mundane |            |   10   |  3 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Chest (12 ft^3)           | 1 |                            300 lb container                            |                | Mundane |            |   25   |  5 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|           Chest           | 1 |                            300 lb container                            |                | Mundane |            |   25   |  5 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |            Climber's Kit            | 1 |                                                                        |                | Mundane |            |   12   |  25 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |         Clothes, Traveler's         | 1 |                                                                        |                | Mundane |            |   4   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |               Crowbar               | 1 |                 Small Hafted Blunt, Small Thrown Blunt                 |                | Mundane |   12/12   |   5   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -420,7 +420,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Piton                | 1 |                                                                        |                | Mundane |            |  0.25  |  5 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Pole (10-foot)           | 1 |                                                                        |                | Mundane |            |   7   |  5 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              Pot, Iron              | 1 |                                                                        |                | Mundane |            |   10   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|          Pouch (1/5 ft^3)          | 1 |                             6 lb container                             |                | Mundane |            |   1   |  50 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|          Pouch          | 1 |                             6 lb container                             |                | Mundane |            |   1   |  50 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Quiver (capacity: 20)        | 1 |                                                                        |                | Mundane |            |   1   |  1 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Rations (1 day)           | 1 |                                                                        |                | Mundane |            |   2   |  50 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |       Rope, Hempen (50 feet)       | 1 |                                                                        |                | Mundane |            |   10   |  1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -471,7 +471,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |         Conduit - Rod         | 1 |  Magic Conduit  |        |  Mundane  |            |   2   |  10 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |        Conduit - Staff        | 1 |  Magic Conduit  |        |  Mundane  |            |   4   |   5 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Conduit - Wand        | 1 |  Magic Conduit  |        |  Quality  |            |   1   |  10 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Component Pouch (2/5 ft^3)  | 1 | 12 lb container |        |  Mundane  |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|  Component Pouch  | 1 | 12 lb container |        |  Mundane  |            |   2   |  25 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |           Spellbook           | 1 |                |        |  Quality  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |           Runebook           | 1 |  Magic Conduit  |        |  Quality  |            |   3   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 | Vial of Gradual Healing Blood | 1 |                |        |  Mundane  |            |  0.25  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -530,8 +530,8 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Clothes, Costume    | 1 |                |        | Mundane |            |   4   | 5 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |      Clothes, Fine      | 1 |                |        | Mundane |            |   6   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Clothes, Traveler's   | 1 |                |        | Mundane |            |   4   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|   Satchel (2/5 ft^3)   | 1 | 12 lb container |        | Mundane |            |   2   | 1 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|    Pouch (1/5 ft^3)    | 1 | 6 lb container |        | Mundane |            |   1   | 50 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|   Satchel   | 1 | 12 lb container |        | Mundane |            |   2   | 1 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|    Pouch    | 1 | 6 lb container |        | Mundane |            |   1   | 50 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |          Robes          | 1 |                |        | Mundane |            |   4   | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Sack          | 1 |                |        | Mundane |            |  0.5  | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Tent, Two-person    | 1 |                |        | Mundane |            |   20   | 2 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -670,7 +670,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |          Acid (vial)          | 1 |                |                        |  Mundane  |            |  0.5  |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |    Alchemist's Fire (flask)    | 1 |                |                        |  Mundane  |            |   1   |  50 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |        Antitoxin (vial)        | 1 |                |                        |  Mundane  |            |  0.5  |  50 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|   Component Pouch (2/5 ft^3)   | 1 | 12 lb container |                        |  Mundane  |            |   2   |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|   Component Pouch   | 1 | 12 lb container |                        |  Mundane  |            |   2   |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |          Oil (flask)          | 1 |                |                        |  Mundane  |            |   1   |  10 cc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |         Perfume (vial)         | 1 |                |                        |  Mundane  |            |  0.1  |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |      Poison, Basic (vial)      | 1 |                |                        |  Mundane  |            |  0.5  |  100 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -709,7 +709,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |           Bottle, glass           | 1 |                |        | Mundane |            |    2    | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |               Candle               | 1 |                |        | Mundane |            |   0.1   | 1 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |        Case, Map or Scroll        | 1 |                |        | Mundane |            |    1    | 1 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Component Pouch (2/5 ft^3)     | 1 | 12 lb container |        | Mundane |            |    2    | 25 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|     Component Pouch     | 1 | 12 lb container |        | Mundane |            |    2    | 25 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 | Druidic Focus - Sprig of Mistletoe | 1 |  Magic Conduit  |        | Mundane |            |   0.5   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Druidic Focus - Totem       | 1 |  Magic Conduit  |        | Mundane |            |    1    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |    Druidic Focus - Wooden Staff    | 1 |  Magic Conduit  |        | Mundane |            |    4    | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -719,7 +719,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |         Ink Pen (Fountain)         | 1 |                |        | Mundane |            |  0.05  | 3 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |         Paper (one sheet)         | 1 |                |        | Mundane |            |    0    | 20 cc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |       Parchment (one sheet)       | 1 |                |        | Mundane |            |    0    | 10 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|          Pouch (1/5 ft^3)          | 1 | 6 lb container |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|          Pouch          | 1 | 6 lb container |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |               Robes               | 1 |                |        | Mundane |            |    4    | 1 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |             Spellbook             | 1 |  Magic Conduit  |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |              Runebook              | 1 |  Magic Conduit  |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -864,7 +864,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                -[Custom Clothing Items]-                |  |                |        |        |            |        |          |              |              |              |                |
 |                        Bandolier                        | 1 |                |        | Mundane |            |  0.5  |   8 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                           Belt                           | 1 |                |        | Mundane |            |  0.5  |   2 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|              “Better” Backpack (1.2 ft^3)              | 1 | 35 lb container |        | Mundane |            |   5   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|              “Better” Backpack              | 1 | 35 lb container |        | Mundane |            |   5   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                          Blouse                          | 1 |                |        | Mundane |            |  0.5  |   1 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                         Breeches                         | 1 |                |        | Mundane |            |   1   |   1 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                          Boots                          | 1 |                |        | Mundane |            |   1   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -882,7 +882,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                           Hat                           | 1 |                |        | Mundane |            |  0.5  |   2 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                          Jacket                          | 1 |                |        | Mundane |            |   3   |   4 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                 Jerkin/ (Tabard, +1 bc)                 | 1 |                |        | Mundane |            |   5   |   2 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
-|                     Pouch (1/5 ft^3)                     | 1 | 6 lb container |        | Mundane |            |   1   |   50 cc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
+|                     Pouch                     | 1 | 6 lb container |        | Mundane |            |   1   |   50 cc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                           Robe                           | 1 |                |        | Mundane |            |   4   |   5 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                         Sandals                         | 1 |                |        | Mundane |            |   1   |   3 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |                          Scarf                          | 1 |                |        | Mundane |            |  0.5  |   50 cc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |

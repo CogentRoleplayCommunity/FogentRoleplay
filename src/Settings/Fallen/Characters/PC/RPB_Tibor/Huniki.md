@@ -105,13 +105,13 @@
 
 |       Name       |   #   |     Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
 | :--------------: | :---: | :------------: | :----: | :-----: | :--------: | :---: | :----: | :---: |
-| Pouch (1/5 ft^3) |   1   | 6 lb container |        | Mundane |   12/12    |   1   | 0.5 bc |       |
+| Pouch |   1   | 6 lb container |        | Mundane |   12/12    |   1   | 0.5 bc |       |
 |   Bronze Coin    |  39   |                |        | Mundane |            | 0.02  |  1 bc  |       |
 |   Copper Coin    |  10   |                |        | Mundane |            | 0.02  |  1 cc  |       |
 
 |       Name        |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value  | Note  |
 | :---------------: | :---: | :-------------: | :----: | :-----: | :--------: | :---: | :----: | :---: |
-| Backpack (1 ft^3) |   1   | 30 lb container |        | Mundane |            |   5   |  2 bc  |       |
+| Backpack |   1   | 30 lb container |        | Mundane |            |   5   |  2 bc  |       |
 |  Rations (1 day)  |   2   |                 |        | Mundane |   12/12    |   2   | 0.5 bc |       |
 |  Waterskin (4/4)  |   1   |                 |        | Mundane |   12/12    |   5   | 20 cc  |       |
 |   Smith's Tools   |   1   |                 |        | Mundane |   12/12    |   8   | 20 bc  |       |
