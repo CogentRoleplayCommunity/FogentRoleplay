@@ -25,6 +25,7 @@
 |                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                 1                                 |          |                                                  |
 |                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                        Can speak Babelish.                        |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia | Strong belief that law enforcement is corrupt and out to get him. |          |                                                  |
+|      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Illiterate      |                cant read or write in any language                |          |                                                  |
 |                                                                                                                              |                                                                  |          |                                                  |
 |                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                              9.6 lb                              |          |                    Equipment                    |
 |                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                      |                              150 lb                              |          |        +50 lbs Carry Weight per Lift dice        |
@@ -88,9 +89,9 @@ Weight: ~ 150 lb
 
 Body Type: Wiry
 
-Hair Color: Brown
+Hair Color: Dirty Blond
 
-Eye Color:
+Eye Color: Blue
 
 Additional Details:
 
