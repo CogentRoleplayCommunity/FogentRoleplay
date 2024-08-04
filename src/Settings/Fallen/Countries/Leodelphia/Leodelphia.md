@@ -38,17 +38,17 @@ It is said that long ago vast lush lost kingdoms existed in the Great Emptiness,
 
 ### Mirage
 
-The drug Mirage is used wildly across Terra as it seems to give vision of what the user desires most. In small doses this deludes reality, where even if negative things are happening to the user, are instead represented as a positive scenario in their minds. When medium doses that are consumed, the positive effect taking place only in the users mind leaving them in a barley conscious relaxed state. In higher doses, the user is put into a deep slumber.
+The drug Mirage is used wildly across Terra as it seems to give visions of what the user desires most. In small doses this deludes reality, where even if negative things are happening to the user, they are instead represented as a positive scenario in their mind. When medium doses that are consumed, the positive effects only take place in the user's mind leaving them in a barley conscious relaxed state. In higher doses, the user is put into a deep slumber.
 
 Brightinist that worship the Bound One regularly indulge in said drug, using it to enter into the deep slumbers they so desperately seek. Those that overdose on Mirage never awake, beginning to sleep walk towards the Great Emptiness from where ever they are on Terra.
 
-Mirage is found in the sand of the Great Emptiness, all seemingly flowing from the center of the desert. The winds, massive sand worms, and earthquakes continuously ensure a steady steam of harvestable Mirage. Those that travel to deep into the Great Emptiness inevitably overdose, leading continuous slumber, sleep walking towards wandering deeper and deeper into the desert.
+Mirage is found in the sand of the Great Emptiness, all seemingly flowing from the center of the desert. The winds, massive sand worms, and earthquakes continuously ensure a steady steam of harvestable Mirage. Those that travel too deep into the Great Emptiness inevitably overdose, leading to a never ending slumber, sleep walking towards deeper and deeper into the desert.
 
 ### The Slumbering Tribe
 
-One of the nomadic tribes who call the Great Emptiness home, this Foxkin tribe is very reclusive. By harvesting and bartering with Mirage, they are able to acquire the supplies required to live in the harsh environment of the Great Emptiness.
+One of the nomadic tribes who calls the Great Emptiness home, this Foxkin tribe is very reclusive. By harvesting and bartering with Mirage, they are able to acquire the supplies required to live in the harsh environment of the Great Emptiness.
 
-All members of the Slumbering tribe indulge in Mirage. Believing Mirage to by the physical manifestation of their god, the Slumbering One. Eventually when nearing the end of their lives, tribe members will overdose on Mirage, wandering off into the desert to be with their god.
+All members of the Slumbering tribe indulge in Mirage. Believing Mirage to be the physical manifestation of their god, the Slumbering One. Eventually when nearing the end of their lives, tribe members will overdose on Mirage, wandering off into the desert to be with their god.
 
 ### The Ravenous Tribe
 
