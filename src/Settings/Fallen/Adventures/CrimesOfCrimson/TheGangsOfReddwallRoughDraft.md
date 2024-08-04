@@ -1,5 +1,11 @@
 Age of party probably around 16-17.
 
+## The Lavender Lancers
+
+The Lavendar Lancer's are a violent gang know for there bright lavendar scarfs and attire. There leader, Lance Crimson (though he goes by Lance Lavender) is a dhampir bastard 
+
+Burrowers
+
 # Act 1 - Setup (25%)
 
 ## Exposition
@@ -11,7 +17,6 @@ The two gangs of Reddwall are both looking to heist a large warehouse Healing bl
 As the new comers to the Weeping Anvil workhouse, the gang sees them as key parts of their plans to scope out the warehouse (sealed crates they never see, which on the night of the heist will be healing blood) and let in their members. They will both approach the party asking/threatening scout out the building, map guard movements, obtain guard documents about incoming shipments.
 
 leverage mirage addiction to force them to do what they want
-
 
 ## Plot Point 1
 
@@ -47,14 +52,11 @@ The characters are trapped within the weeping anvil and the other gang come out 
 
 ## Climax
 
-Massive fight to defend the anvil. 
+Massive fight to defend the anvil.
 
 ## Denouement
 
 If the character's side with the guards, they heroically take down both gangs and capture both of their leadership.
-
-
-
 
 Gang War
 
