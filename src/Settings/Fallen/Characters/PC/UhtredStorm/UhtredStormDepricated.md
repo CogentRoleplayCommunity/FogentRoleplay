@@ -200,7 +200,7 @@ Things I want to do with Uhtred:
 
 ## Backstory
 
-Uhtred Storm is from CrossRoads. He was born as a mudblood. Uhtred was not always called Storm. His birth name was Uhtred Becker.  He was born in a low-class part of CrossRoads. His family were humble merchant people peddling goods in their small corner store. He lived a very modest and happy life.
+Uhtred Storm is from Crossroads. He was born as a mudblood. Uhtred was not always called Storm. His birth name was Uhtred Becker.  He was born in a low-class part of Crossroads. His family were humble merchant people peddling goods in their small corner store. He lived a very modest and happy life.
 
 One night around the age of 7 Uhtred heard something going on in the store front. He heard his father Vincent and his mother Sara talking to three shadowed dhampirs that Uhtred didn’t recognize. His mother was bound and they had a knife to his father. Uhtred stayed just out of sight. He looked as one of the figures brutally decapitated his father. He did not have the heart to watch as the figures killed his mother. Afterwards, Uhtred saw one of the figures walk to the back of the store and start a fire. These strangers then took valuable items and bit into the necks of his father and mother, drinking their blood. After the strangers left, Uhtred dashed towards his lifeless mother as his home burned to ash. He only had time to shed a brief tear over his butcher parents and took a necklace from his mother that had been in the family for generations.
 
