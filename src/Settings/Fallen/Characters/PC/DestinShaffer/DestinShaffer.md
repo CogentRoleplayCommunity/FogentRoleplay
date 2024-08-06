@@ -175,7 +175,7 @@ Weight: 200 lb
 
 Body Type: Strong
 
-Additional Details:
+Additional Details: Has small pointed bone-like horns protruding from above his hairline.
 
 ## Disposition
 
