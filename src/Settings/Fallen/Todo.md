@@ -18,3 +18,4 @@
 - Runecraft tattoo stuff and enemies
 - Add brotherhood of silver lore
 - Consuming other Fellkin grants their powers
+- Patron Gods each create a race
