@@ -19,4 +19,3 @@
 - Add brotherhood of silver lore
 - Consuming other Fellkin grants their powers
 - Patron Gods each create a race
-The Crafts only emerge at times of great stress

@@ -9,7 +9,9 @@
 
 The monsters of Terra are known for their terrifying speed, strength, and elemental abilities. Their bodies achieve these abilities by using the potential energy found in their blood, referred to as Fellblood.
 
-Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Fellblood. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
+Due to their monstrous ancestry, Fellkind carries Fellblood, the potential energy found monster blood in their veins as well. All of Fellcraft derives it's power from Fellblood. Fellkin are able to express their dormant genes, mimicking the terrifying genetic abilities of their monstrous ancestors. These abilities can often entail rather grotesque restructuring of the user's physiology. 
+
+Fellcraft abilities usually emerges in times of great stress. Fellcraft takes training, practice, and study to master, leading most Fellkin never follow the path of mastering Fellcraft.
 
 ## Fellcraft List
 
