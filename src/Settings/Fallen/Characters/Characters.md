@@ -45,6 +45,9 @@
 - [Guard](Humanoids/Guard/Guard.md)
 - [Knight](Humanoids/Knight/Knight.md)
 - [Lavender Lancer Ruffian](Enemies/LavenderLancerRuffian/LavenderLancerRuffian.md)
+- [Thug Brute](./Humanoids/Thug/ThugBrute.md)
+- [Thug Cutthroat](./Humanoids/Thug/ThugCutthroat.md)
+- [Thug Slinger](./Humanoids/Thug/ThugSlinger.md)
 
 ## Monsters
 
