@@ -1,6 +1,3 @@
-Age of party probably around 16-17.
-
-They are both mirage addicts as they are encouraged to try it while aboard the ship taking them to ReddWall
 
 ## The Lavender Lancers
 
@@ -12,6 +9,10 @@ Burrowers
 
 ## Exposition
 
+Age of party probably around 16-17.
+
+They are both mirage addicts as they are encouraged to try it while aboard the ship taking them to ReddWall
+
 ### World Info
 
 "In the infinite void of space lies a seemingly unimportant galaxy...
@@ -22,13 +23,13 @@ And orbiting this peculiar star, third in the solar systems orbit, lies a seemin
 
 And on this planet lies a sprawling continent, known as simply as "The Continent", its colossal size dominating a large portion of the planet. It's inhabitants mainly consist of a spieces known as "The Fallen" or Fellkin, a humanoid race with varying degrees of monstrous features and biological abilities. Though the vast majority of the Continents population, they are led by the Brightkin, descendants of the brights or gods.
 
-And on the eastern edge of "The Continent", lies the country of Reddland ruled by the ancient and noble house Reddington, ruled by Lady Veronica Reddington and her bond Lord Flint Reddington. A dhampir nation, it's inhabitants are known as great scholars, warriors, and merchants. In recent times, their invention and control of "The Healing Blood", a panacea and the only know cure for those infected by the Spore, has made Reddland one of the wealthiest and most powerful kingdoms on the planet. As a member of the Dawn Empire
+And on the eastern edge of "The Continent", lies the country of Reddland ruled by the ancient and noble house Reddington, ruled by Lady Veronica Reddington and her bond Lord Flint "The Laughing Storm" Reddington. A dhampir nation, it's inhabitants are known as great scholars, warriors, and merchants. In recent times, their invention and control of "The Healing Blood", a panacea and the only know cure for the victums of the Spore infection that ravages the planet, has made Reddland one of the wealthiest and most powerful kingdoms on the planet.
 
-And on the eastern edge of Reddland, bordering the Siren Sea, lies it's capital, Reddwall, Given its name for the massive red granite wall that surrounds it. Sitting atop the ruins of the previous capital of the Witch Queen Alana, Reddwall is littered with gothic superstructures made of varying colors of granite. Furthest from Castle Tearstone, the prominent deep red Castle of house Reddington, structures are relatively small in size, made of less desirable granite colors such as pale yellow or gray. As the construction nears Castle Tearstone, become larger in scale, shades of yellow granite transition to orange, then almost exclusively red as Tearstone is approached. Among the many marvels of Reddwall, Byrgenwerth school of magic and medicines stands as one of the prominent staples of the city, responsible for the creation of the Healing Bloods of Reddwall under the brilliant Lady Veronica Reddington.
+And on the eastern edge of Reddland, bordering the Siren Sea, lies it's capital, Reddwall, Given its name for the massive red granite wall that surrounds it. Sitting atop the ruins of the previous capital of the Witch Queen Alana, Reddwall is littered with gothic superstructures made of varying colors of granite. Furthest from Castle Tearstone, the prominent deep red granite Castle of house Reddington, structures are relatively small in size, made of less desirable granite colors such as pale yellow or gray. As the construction nears Castle Tearstone, structures become larger in scale, shades of yellow granite transition to orange, then almost exclusively red as Tearstone is approached. Among the many marvels of Reddwall, Byrgenwerth school of magic and medicines stands as one of the prominent staples of the city, responsible for the creation of the Healing Bloods of Reddwall under the brilliant Lady Veronica Reddington. As a member of the Dawn Empire, Reddwall has opened her gates to any seeking the life saving medical treatment only they can provide.
 
 And in the city sits the Docks of Reddwall, bordering "Beached Bay", it's pure unsalted waters as clear glass said to be a result of ancient magic of the Witch Queen Alana and her ancient Siren kingdom which Reddland now occupies
 
-And just pulling into it's designated dock it a small merchant vessel known as the "Wind's Pride". Though normally it's cargo would consist of the silver's of Uskal, the drug Mirage of the great emptiness, or the iron wood lumber of Old Growth Forest, today it is contracted by the Dawn Empire to carry diseased refugees, seeking the Healing Bloods of Reddwall.
+And just pulling into it's designated dock is a small merchant vessel known as the "Wind's Pride". Though normally it's cargo would consist of the silver's of Uskal, the drug Mirage of the great emptiness, or the iron wood lumber of Old Growth Forest, today it is contracted by the Dawn Empire to carry diseased refugees, seeking the Healing Bloods of Reddwall.
 
 And taking in Reddwall for their first time, leaning against the railing stand two seemingly unimportant adolescences..."
 
@@ -37,7 +38,11 @@ And taking in Reddwall for their first time, leaning against the railing stand t
 - Both character have a mirage addiction, first given to them by Trina, an white haired wraithkin teenage girl who worships the Bound One. She has gray eyes, bags under her eyes, and wearers a light purple scarf. She is actually a member of the Lavander Lancer's, a gang controlling the black market around the Mirage trade. They are currently at war the Burrowers or the Stoneseeker Mafia. Train rides these ships into town to recruit promising gang members and get refuges addicted to mirage. She sets up a meeting with them in yellow belly to hook them up with some work and mirage.
 - Upon arriving at he docks, they are sorted into the youth section.
 - Asked for their papers.
-- Told to find the Weeping Anvil in the Diligence district
+- They are quickly given their first treatment of healing blood an Dhampir Nurse named Joy.
+- While they are recieving a blood transfusion, one of the refugees dead on the ships springs to life. It leaps from the vessel into a crowd of people. Near the players, a Imperial Inquisitor raises his hand summoning the miracle of fire as a massive ball. Before he can lose a woman clad in red plate steps forward her hand out stretched, her eyes focused on the monster. Her eyes flash as she thrust her hand forward, as deep red spear of glisening blood errupts from her hand. As it impalies the creature, it disapear into the creature, before the woman rips her extended hand back, it heart expolding from its chest. The crowd stands in shocked silence, the woman eyeing the inquisitor with dangerous glowing eyes before the fire in the inquisitors hand fade. She orders here men to dispose of the body and the lines to resume in and orderly fashion, which they do.
+- After their infusion, they are assigned to a building in the Diligence district know as the Weeping Anvil.
+- "You walk throught the crowded city streets."
+- Upon arriving at the Weeping Anvil, you can see what appears to be some kine of conflict... 3 burrower adolecent thugs are trying to get a young beastkin teen to join there gang. They don't seem to be taking no for an answer.
 
 ### The Weapon Anvil
 
