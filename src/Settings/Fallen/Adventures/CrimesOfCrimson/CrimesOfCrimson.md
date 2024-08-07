@@ -1,4 +1,3 @@
-
 ## The Lavender Lancers
 
 The Lavender Lancer's are a violent gang know for there bright lavender scarfs and attire. There leader, Lance Crimson (though he goes by Lance Lavender) is a dhampir bastard
@@ -35,18 +34,20 @@ And taking in Reddwall for their first time, leaning against the railing stand t
 
 ### The Docks
 
-- Both character have a mirage addiction, first given to them by Trina, an white haired wraithkin teenage girl who worships the Bound One. She has gray eyes, bags under her eyes, and wearers a light purple scarf. She is actually a member of the Lavander Lancer's, a gang controlling the black market around the Mirage trade. They are currently at war the Burrowers or the Stoneseeker Mafia. Train rides these ships into town to recruit promising gang members and get refuges addicted to mirage. She sets up a meeting with them in yellow belly to hook them up with some work and mirage.
+- Both character have a mirage addiction, first given to them by Trina, an white haired wraithkin teenage girl who worships the Bound One. She has gray eyes, bags under her eyes, and wearers a light purple scarf. She is actually a member of the Lavender Lancer's, a gang controlling the black market around the Mirage trade. They are currently at war the Burrowers or the Stoneseeker Mafia. Train rides these ships into town to recruit promising gang members and get refuges addicted to mirage. She sets up a meeting with them in yellow belly to hook them up with some work and mirage.
 - Upon arriving at he docks, they are sorted into the youth section.
 - Asked for their papers.
 - They are quickly given their first treatment of healing blood an Dhampir Nurse named Joy.
-- While they are recieving a blood transfusion, one of the refugees dead on the ships springs to life. It leaps from the vessel into a crowd of people. Near the players, a Imperial Inquisitor raises his hand summoning the miracle of fire as a massive ball. Before he can lose a woman clad in red plate steps forward her hand out stretched, her eyes focused on the monster. Her eyes flash as she thrust her hand forward, as deep red spear of glisening blood errupts from her hand. As it impalies the creature, it disapear into the creature, before the woman rips her extended hand back, it heart expolding from its chest. The crowd stands in shocked silence, the woman eyeing the inquisitor with dangerous glowing eyes before the fire in the inquisitors hand fade. She orders here men to dispose of the body and the lines to resume in and orderly fashion, which they do.
+- While they are receiving a blood transfusion, one of the refugees dead on the ships springs to life. It leaps from the vessel into a crowd of people. Near the players, a Imperial Inquisitor raises his hand summoning the miracle of fire as a massive ball. Before he can lose a woman clad in red plate steps forward her hand out stretched, her eyes focused on the monster. Her eyes flash as she thrust her hand forward, as deep red spear of glistening blood erupts from her hand. As it impales the creature, it disappear into the creature, before the woman rips her extended hand back, it heart exploding from its chest. The crowd stands in shocked silence, the woman eyeing the inquisitor with dangerous glowing eyes before the fire in the inquisitors hand fade. She orders here men to dispose of the body and the lines to resume in and orderly fashion, which they do.
 - After their infusion, they are assigned to a building in the Diligence district know as the Weeping Anvil.
-- "You walk throught the crowded city streets."
-- Upon arriving at the Weeping Anvil, you can see what appears to be some kine of conflict... 3 burrower adolecent thugs are trying to get a young beastkin teen to join there gang. They don't seem to be taking no for an answer.
+- "You walk thought the crowded city streets."
 
 ### The Weapon Anvil
 
-- Upon arriving at the weeping anvil, the party find a group of adolencent thugs who are members of the Burrowers, distintive Brown scarfs or arm bands.
+- Upon arriving at the Weeping Anvil, you can see what appears to be some kine of conflict... 3 burrower adolescent thugs, part of the Burrowers gang, that are trying to get a young beastkin teen to join there gang. They don't seem to be taking no for an answer.
+- The fight ensues, but ends when Killroy and Sherwood returns with Killroy. The thugs are scared of Sherwood as she is know to be quite the badass.
+- Killroy welcomes the party to the anvil. He will explain anything they want to know about Reddwall, including the gang war between the Lavender Lancers and the Burrowers. He also show them to where they can set their stuff.
+- When Ron and Tom arrive, they'll process the party. Talking to them about their back story.
 - The Burrowers are trying to recruit/intimidate some of the residence of the Weeping Anvil to join their gang
 
 The two gangs of Reddwall are both looking to heist a large warehouse Healing blood as it is insanely valuable. They both intend to steal it and sell it on the black market to the highest bidders.
@@ -105,7 +106,7 @@ Party arrives at Reddwall
 
 Takes residence at weeping anvil where healing blood is also stored
 
-The two local gangs, Yellow Bellow Bleeders and the Mole Mafia, both have recruits that live there specifically for a coming hiest both gangs are planning to steal a large amount of healing blood.
+The two local gangs, Yellow Bellow Bleeders and the Mole Mafia, both have recruits that live there specifically for a coming heist both gangs are planning to steal a large amount of healing blood.
 
 Commander Royce is in charge, but not only of this building
 
@@ -113,7 +114,7 @@ Certain guards responsible for the Weeping Anvil are corrupt and work with the g
 
 The Yellow Belly Bleeders have an ultra violent leader (Mike Tyson energy)
 
-Finna and Beaocca showing up as cult of amon recruits
+Finin and Beocca showing up as cult of amon recruits
 
 Mirage addiction for Uhtred, Mirage can be like for inception
 
