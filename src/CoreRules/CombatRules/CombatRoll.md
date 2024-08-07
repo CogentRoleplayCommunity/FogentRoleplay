@@ -1,4 +1,4 @@
-## Combat Rolls
+## Combat Roll
 
 Combat rolls are Dice Pools that represent a character's effectiveness in combat, generally with a specific weapon.
 

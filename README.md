@@ -36,7 +36,7 @@ All game mechanics and game systems built on top of Cogent Roleplay within this 
 
 Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
 
-All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by the creator of said setting and are not subject to the Cogent Roleplay Open Source license. 
+All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by creator of said setting and are not subject to the Cogent Roleplay Open Source license.
 
 The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
 
@@ -55,7 +55,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 The Core Rules are the foundation and narrative engine for your game.
 
-Learning any new TTRPG system can feel daunting. Luckily, to make it easy to learn, I created a video playlist breaking down each of the rules in bite-sized digestible chunks , that even your mom who's never played a TTRPG could learn, I know so because mine did.
+Learning any new TTRPG system can feel daunting. Luckily, to make it easy to learn, I created a video breaking down each of the rules in bite-sized digestible chunks , that even your mom who's never played a TTRPG could learn, I know so because mine did.
 
 The rules have been listed in the order of importance to someone learning the game for the first time. Click the video below to be taken to the video walkthrough of the rules.
 
@@ -85,7 +85,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
 - [Weapon Resource Classes](./src/CoreRules/CombatRules/WeaponResourceClasses.md)
 - [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
-- [Weapon Combat Roll](./src/CoreRules/CombatRules/CombatRolls.md)
+- [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
