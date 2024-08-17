@@ -30,7 +30,7 @@
 
 - [Killroy Crimson](NPC/KillroyCrimson/KillroyCrimson.md)
 - [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
-- [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
+- [Vex&#39;halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 
@@ -73,3 +73,4 @@
 - [Riding Horse](Animals/RidingHorse/RidingHorse.md)
 - [Warhorse](Animals/Warhorse/Warhorse.md)
 - [Wolf](Animals/Wolf/Wolf.md)
+- [Young Poisonous Snake](Animals/YoungPoisonousSnake/YoungPoisonousSnake.md)
