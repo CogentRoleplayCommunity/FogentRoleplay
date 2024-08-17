@@ -138,10 +138,11 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 ### Unarmed
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|         Unarmed         |       -1       |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
-| Hand Protection Unarmed |      +0d6      |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|              Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :----------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+|            Unarmed            |       -1       |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+|    Hand Protection Unarmed    |      +0d6      |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
+| Spiked Hand Protection Unarmed |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
 ## Small Melee
 
