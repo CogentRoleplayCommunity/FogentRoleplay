@@ -77,7 +77,7 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Hand Protection Unarmed |      +0d6      |      None      |       +0d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+| Mag. Hand Protection Unarmed |      +0d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |  Mag. Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
 |  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
