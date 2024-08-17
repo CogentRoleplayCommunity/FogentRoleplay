@@ -1,5 +1,5 @@
 oldName,name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResourceAmount
-Mag. Hand Protection Unarmed,Glove,+0d6,None,+0d6,0,Melee,Rapid,,0
+Mag. Hand Protection Unarmed,Glove,+0d6,None,+1d6,0,Melee,Rapid,,0
 Mag. Small Piercing Blade,Small Thrust,+0d6,+0d6,+1d6,2,Melee,Rapid,,0
 Mag. Small Slashing Blade,Small Slash,+1d6,+1d6,+1d6,0,Melee,Rapid,,0
 ,,,,,,,,,
