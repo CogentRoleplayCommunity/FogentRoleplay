@@ -204,7 +204,7 @@ Doesn't respect traditional authority, but sees the value of service.
 
 ## Backstory
 
-Destin grew up in a small town outside of Reddwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother and father, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
+Destin grew up in a small town outside of Reddwall called Irongrove, a small village on the outskirts of the Oldgrowth Forest, one of the last Ironwood forests on Terra. There, his mother Lilly and father Destin, both mudbloods, carved out their humble life providing blacksmithing services for the local lumber trade. Destin's father handled the forge and his mother handled the books.
 
 Destin was raised to be an apprentice blacksmith. Destin enjoyed learning about smithing, but in truth Destin wanted to be a warrior like his father was in his youth. Always big and strong for his age, Destin took to smithing quickly, almost like the metal wanted to obey him. His father trained him well, not only in Smiting but how to defend himself as he was an officer in the Redd Legion before taking up his humble trade, which Destin loved.
 
