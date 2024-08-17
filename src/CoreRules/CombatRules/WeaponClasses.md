@@ -282,6 +282,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Weak Bite |      None      |       -1       |       None       |      0      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
+| Small Bite |      None      |      +1d6      |       None       |      1      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
 |    Bite    |      None      |      +2d6      |       None       |      2      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
 | Large Bite |      None      |      +3d6      |       None       |      3      | Melee | Pierce, Bludgeon |        Rapid Max 2        |        None        |         None         |
 
