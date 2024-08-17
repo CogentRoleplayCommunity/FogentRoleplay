@@ -159,8 +159,10 @@ Shovel,1,Large Hafted Blunt,,Shoddy,9/9,5,2 bc,
 Excellent Shortbow,1,Light Bow,,Excellent,21/21,2,25 bc,
 Quality Swordbreaker,1,Small Slashing Blade,,Mundane,12/12,1,28 bc,
 Torch,1,Small Hafted Blunt,,Shoddy,9/9,1,1 cc,
-Shiv,1,"Small Piercing Blade, Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
-Shoddy Club,1,Medium Hafted Blunt,,Shoddy,9/9,2,10 cc,
+Shiv,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
+Shoddy Club,1,Small Hafted Blunt,,Shoddy,9/9,2,10 cc,
+Caestus,1,Hand Protection Unarmed,,Mundane,12/12,2,1.66 bc,
+Spiked Caestus,1,Spiked Hand Protection Unarmed,,Mundane,12/12,2,3 bc,
 ,,,,,,,,
 Natural Armor Level 1,1,,Phy. Def. 1,Mundane,,0,None,
 Natural Armor Level 2,1,,Phy. Def. 2.00,Mundane,,0,None,
@@ -280,7 +282,7 @@ Rejuvenation Talisman,1,,Enhanced Healing,Epic,39/39,0.2,?,A talisman made to en
 Steel Dragon Scale Talisman,1,,"Minor Hew Resistance, Minor Slash Resistance, Minor Bludgeon Resistance, Minor Shockwave Resistance",Excellent,21/21,0.2,?,"A wrought iron talisman made with the visage of a mighty Steel Dragon. While quite common among defensive Runecrafted items, it is still a boon to any common soldier or mercenary."
 Steel Dragon Scale Talisman +1,1,,"Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance",Exquisite,27/27,0.2,?,
 Steel Dragon Scale Talisman +2,1,,"Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance",Mastercraft,33/33,0.2,?,
-Viridian Medallion Talisman,1,,Minorly Enhanced Lift,Excellent,21/21,0.2,?,A medallion with viridian inlaid.
+Viridian Medallion Talisman,1,,Minorly Enhanced Endurance,Excellent,21/21,0.2,?,A medallion with viridian inlaid.
 Viridian Medallion Talisman +1,1,,Enhanced Endurance,Flawless,30/30,0.2,?,A medallion with viridian inlaid.
 Viridian Medallion Talisman +2,1,,Greatly Enhanced Endurance,Epic,39/39,0.2,?,A medallion with viridian inlaid.
 ,,,,,,,,
