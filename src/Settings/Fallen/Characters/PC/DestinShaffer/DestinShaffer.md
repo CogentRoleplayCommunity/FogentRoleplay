@@ -26,7 +26,7 @@
 
 |                                                         Name                                                         |                             Info                             | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               1                               |          |                                                  |
+|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               2                               |          |                                                  |
 |                                 [Language](./../../../Languages/Languages.md): Babelish                                 |                      Can speak Babelish.                      |          |                                                  |
 |  [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                                                  |
