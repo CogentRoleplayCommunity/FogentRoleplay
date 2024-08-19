@@ -30,7 +30,7 @@
 
 - [Killroy Crimson](NPC/KillroyCrimson/KillroyCrimson.md)
 - [Sarah Royce](NPC/SarahRoyce/SarahRoyce.md)
-- [Vex'halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
+- [Vex&#39;halia Reddington](NPC/Vex'haliaReddington/Vex'haliaReddington.md)
 
 ## Humanoids
 
@@ -45,6 +45,9 @@
 - [Guard](Humanoids/Guard/Guard.md)
 - [Knight](Humanoids/Knight/Knight.md)
 - [Lavender Lancer Ruffian](Enemies/LavenderLancerRuffian/LavenderLancerRuffian.md)
+- [Thug Brute](./Humanoids/Thug/ThugBrute.md)
+- [Thug Cutthroat](./Humanoids/Thug/ThugCutthroat.md)
+- [Thug Slinger](./Humanoids/Thug/ThugSlinger.md)
 
 ## Monsters
 
@@ -70,3 +73,4 @@
 - [Riding Horse](Animals/RidingHorse/RidingHorse.md)
 - [Warhorse](Animals/Warhorse/Warhorse.md)
 - [Wolf](Animals/Wolf/Wolf.md)
+- [Young Poisonous Snake](Animals/YoungPoisonousSnake/YoungPoisonousSnake.md)
