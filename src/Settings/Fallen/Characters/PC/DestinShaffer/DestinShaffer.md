@@ -9,7 +9,7 @@
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 5d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
 |     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 4d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
 | [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 5d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 1 | 5d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 1 | 5d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 1 | 4d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
@@ -26,7 +26,7 @@
 
 |                                                         Name                                                         |                             Info                             | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               2                               |          |                                                  |
+|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               3                               |          |                                                  |
 |                                 [Language](./../../../Languages/Languages.md): Babelish                                 |                      Can speak Babelish.                      |          |                                                  |
 |  [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                                                  |
