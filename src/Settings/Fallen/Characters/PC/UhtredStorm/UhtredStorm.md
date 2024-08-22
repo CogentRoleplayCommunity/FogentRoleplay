@@ -109,7 +109,7 @@ Additional Details: Scars along his back from being flogged, looks underweight f
 - Believes that the world is out to get him and the lower class.
 - Will do anything for those he considers family.
 - Believes that you have to take what is yours or life will leave you empty handed.
-- Thinks authority is only out to for those in its inner circle and not for the common man.
+- Thinks authority is only out  for those in its inner circle and not for the common man.
 
 ## Goals/Aspirations
 
