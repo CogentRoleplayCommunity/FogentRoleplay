@@ -9,7 +9,7 @@
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 4d6 |
 |     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 3d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
 | [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 1 | 5d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 4d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
@@ -22,7 +22,7 @@
 
 |                                                             Name                                                             |                                     Info                                     | Duration |                      Source                      |
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      2                                      |          |                                                  |
+|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      3                                      |          |                                                  |
 |                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                             Can speak Babelish.                             |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia |      Strong belief that law enforcement is corrupt and out to get him.      |          |                                                  |
 |      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Illiterate      |                     Can't read or write in any language                     |          |                                                  |
@@ -40,7 +40,7 @@
 |                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                                    20 ft                                    |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                                              |          |                                                  |
 |                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): None                         |                                     0/0                                     |          |       Vocation/Magic Governing Core Skill       |
-|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                    2 /3                                    |          |               Awarded by Narrator               |
+|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                    0 /3                                    |          |               Awarded by Narrator               |
 |                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                        – 0 dice to all dice checks.                        |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
@@ -71,6 +71,7 @@
 | Sharp Cap         | 1 |                    Small Slashing Blade                    |                                                                |                          Shoddy                          |                                  9/9                                  |                            0.5                            |                    2 bc                    |
 | Thieves' Tools    | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    25 bc                    |
 | Sling             | 1 |                            Sling                            |                                                                |                          Mundane                          |                                 12/12                                 |                            0.5                            |                    10 cc                    |
+| Bronze Coin       | 21 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
