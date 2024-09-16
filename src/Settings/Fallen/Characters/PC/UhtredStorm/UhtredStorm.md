@@ -4,13 +4,11 @@
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-Skill points to spend: 1
-
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 4d6 |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 1 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 4d6 |
 |     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 3d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 4d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 1 | 5d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 1 | 5d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
 |      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
@@ -20,15 +18,11 @@ Skill points to spend: 1
 | Small Blade        | STR, RFX, INT | 1 | 5d6 |
 | Criminal Knowledge |      INT      |  | 4d6 |
 
-| Brightkin | STR, RFX, INT | 0 | 4d6 |
-| --------- | :-----------: | :-: | :-: |
-| Blessing  | STR, RFX, INT | -1 | 3d6 |
-
 ## Info
 
 |                                                             Name                                                             |                                     Info                                     |  Duration  |                      Source                      |
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------: | :----------------------------------------------: |
-|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      4                                      |            |                                                  |
+|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      5                                      |            |                                                  |
 |                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                             Can speak Babelish.                             |            |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia |      Strong belief that law enforcement is corrupt and out to get him.      |            |                                                  |
 |      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Illiterate      |                     Can't read or write in any language                     |            |                                                  |
@@ -46,7 +40,7 @@ Skill points to spend: 1
 |                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                                    20 ft                                    |            |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                                              |            |                                                  |
 |                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): None                         |                                     0/0                                     |            |       Vocation/Magic Governing Core Skill       |
-|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                     1 /3                                     |            |               Awarded by Narrator               |
+|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                     1/3                                     |            |               Awarded by Narrator               |
 |                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                        – 0 dice to all dice checks.                        |            |                 Damage Received                 |
 |                                                                                                                              |                                                                              |            |                                                  |
 |                                                  Minorly Enhanced Endurance                                                  |                              +1d6 to Endurance.                              | Indefinite |                        2                        |
