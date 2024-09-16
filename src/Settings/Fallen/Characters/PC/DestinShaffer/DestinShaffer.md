@@ -4,6 +4,8 @@
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
+Skill point to spend: 1
+
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 1 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 5d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
@@ -26,7 +28,7 @@
 
 |                                                         Name                                                         |                             Info                             | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :------: | :----------------------------------------------: |
-|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               3                               |          |                                                  |
+|                        [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                        |                               4                               |          |                                                  |
 |                                 [Language](./../../../Languages/Languages.md): Babelish                                 |                      Can speak Babelish.                      |          |                                                  |
 |  [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Addiction  | Extreme addiction, suffers from withdrawals if not satisfied. |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Loose Cannon |        Overwhelming predisposition towards rage/anger.        |          |                                                  |

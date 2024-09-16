@@ -4,6 +4,8 @@
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
+Skill points to spend: 1
+
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 0 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 4d6 |
@@ -18,11 +20,15 @@
 | Small Blade        | STR, RFX, INT | 1 | 5d6 |
 | Criminal Knowledge |      INT      |  | 4d6 |
 
+| Brightkin | STR, RFX, INT | 0 | 4d6 |
+| --------- | :-----------: | :-: | :-: |
+| Blessing  | STR, RFX, INT | -1 | 3d6 |
+
 ## Info
 
 |                                                             Name                                                             |                                     Info                                     |  Duration  |                      Source                      |
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------: | :----------------------------------------------: |
-|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      3                                      |            |                                                  |
+|                            [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                            |                                      4                                      |            |                                                  |
 |                                     [Language](./../../../Languages/Languages.md): Babelish                                     |                             Can speak Babelish.                             |            |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Government Paranoia |      Strong belief that law enforcement is corrupt and out to get him.      |            |                                                  |
 |      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Illiterate      |                     Can't read or write in any language                     |            |                                                  |
