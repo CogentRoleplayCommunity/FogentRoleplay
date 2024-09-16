@@ -129,7 +129,7 @@ Additional Details: Scars along his back from being flogged, looks underweight f
 - To get back to Crossroads and find his friends.
 - To gain wealth and power.
 - To make a safe home for him and his friends in Crossroads.
-- Figure out about his heritage and his mother
+- Figure out about his heritage and his mother.
 
 ## Backstory
 
