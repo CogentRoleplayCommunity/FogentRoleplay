@@ -18,6 +18,11 @@
 | Small Blade        | STR, RFX, INT | 1 | 6d6 |
 | Criminal Knowledge |      INT      |  | 4d6 |
 
+
+| Brightkin | STR, RFX, INT | 0 | 5d6 |
+| --------- | :-----------: | :-: | :-: |
+| Blessing  | STR, RFX, INT | -1 | 4d6 |
+
 ## Info
 
 |                                                             Name                                                             |                                     Info                                     |  Duration  |                      Source                      |
