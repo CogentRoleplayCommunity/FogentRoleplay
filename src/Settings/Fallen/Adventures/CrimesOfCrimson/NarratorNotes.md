@@ -20,3 +20,20 @@
   * [ ] He is accompianed by Vex'hellia Reddington who looks rather uncomfortable to see Killroy. She's a bit of a hothead and will snap at anyone who pisses her off. She is also mindcrafting everyone, making the false illusion of Sherwood appear. All characters must succeed a CL 5 Willpower check to overcome.
   * [ ] After a short conversation between Veronica, Flint, and Killroy in which Killroy agrees to be the new secret area for storing Healing blood.
 * [ ] Afterward Killroy will ask the party if they can help move some crates. Trina will signal them outside where she will pay them 20 bc each, and also give them a Virdian Amulet. They will then be ambushed in the warehouse where Trina lead them by Burrower hitmen. Seems like the lea
+
+# Final Session
+
+- The Lancers and Burrowers have both been working independantly  to hit the local Healing Blood warehouse. Lance is a revolutionary, no just a petty criminal. Since the healing blood held withing the warehouse would cause a shortage, he can use it as leverage against the government.
+- The money he has been making towards Mirage has going towards funding gear for his lancers, who he has outfited in full military kit with the majority of his forces now moved outside of the wall of Reddwall.
+- Before assualting the Anvil, Lance has set a large portion of Yellow Belly on fire, force the guard to chose between letting the city burn or dealing with the Lancers.
+- Lance has also taken the children of the weeping anvil hostage, aside from Killroy who was down in the Beast Cave.
+- Lances second demand is the
+
+## Uhtred Plot Thread
+
+- I need to kill Uhtred so he can ressurect as an Brightkin. Since Lance wants the Beast of Reddwall dead, he will ask for one to step forward. Uhtred will logically step forward, and Lance will have a villian monologue, and bury a plasma blast in his torso.
+
+## Destin Plot Thread
+
+- I need to set the building on fire so that his sword can ignite. The voice in in his he tells him to speak the words. If he doesn't know the word, just tell Grant that you do...
+-
