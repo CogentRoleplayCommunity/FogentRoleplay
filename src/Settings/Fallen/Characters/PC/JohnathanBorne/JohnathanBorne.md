@@ -1,4 +1,4 @@
-# Johnathan Bloo Borne
+# Johnathan Bluud Borne
 
 ![img](JohnathanBorne.webp)
 
