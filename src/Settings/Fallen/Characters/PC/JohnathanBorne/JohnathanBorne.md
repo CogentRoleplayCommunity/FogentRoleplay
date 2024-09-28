@@ -26,7 +26,7 @@
 
 |                                                  Name                                                  |                         Info                         | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
-|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                          1                          |          |                                                  |
+|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                          5                          |          |                                                  |
 |                          [Language](./../../../Languages/Languages.md): Babelish                          |                 Can speak Babelish.                 |          |                                                  |
 |                               [Language](./../../../Languages/Languages.md):                               |                     Can speak .                     |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): |                                                      |          |                                                  |
