@@ -19,9 +19,9 @@ Skill points to spend: 4
 | Small Blade        | STR, RFX, INT | 1 | 6d6 |
 | Criminal Knowledge |      INT      |  | 5d6 |
 
-| Brightkin | STR, RFX, INT | 1 | 5d6 |
+| Brightkin | STR, RFX, INT | 1 | 6d6 |
 | --------- | :-----------: | :-: | :-: |
-| Blessing  | STR, RFX, INT | 0 | 4d6 |
+| Blessing  | STR, RFX, INT | 0 | 5d6 |
 
 ## Info
 
@@ -44,8 +44,8 @@ Skill points to spend: 4
 |                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                    |                                    25 ft                                    |            |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                                    20 ft                                    |            |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                                              |            |                                                  |
-|                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): None                         |                                     0/0                                     |            |       Vocation/Magic Governing Core Skill       |
-|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                     1/3                                     |            |               Awarded by Narrator               |
+|                         [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Ichor                         |                                     8/8                                     |            |       Vocation/Magic Governing Core Skill       |
+|                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                                     2/3                                     |            |               Awarded by Narrator               |
 |                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                        – 0 dice to all dice checks.                        |            |                 Damage Received                 |
 |                                                                                                                              |                                                                              |            |                                                  |
 |                                                  Minorly Enhanced Endurance                                                  |                              +1d6 to Endurance.                              | Indefinite |                        2                        |
