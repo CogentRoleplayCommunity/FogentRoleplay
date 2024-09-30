@@ -4,6 +4,8 @@ Tier of play narratively describes the stakes of the campaign as well as how pow
 
 Your narrator should let you know your tier of play and you should factor this into your character as it would be silly to have your character's backstory to paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and your narrator will be rewarding you with ways to improve your character as you play.
 
+Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level one.
+
 ## Tier of Play Breakdown
 
 ### Skill/Vocation Level Cap
