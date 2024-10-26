@@ -1,2 +1,2 @@
-name,baseWeight,governingAttribute,weightIncreasePerAttribute,governingSkill,weightIncreasePerSkill
-Carry Weight,120,STR,100,Lift,40
+name,governingCoreSkillName,carryWeightIncreasePerCoreSkillDice
+Carry Weight,Lift,50
