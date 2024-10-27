@@ -1,28 +1,32 @@
-# Name
+# Johnathan Bluud Borne
 
-![img]()
+![img](JohnathanBorne.webp)
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 2 |    |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 1 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics) | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 5d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics) | 0 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 1 | 5d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 4d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| (Vocation Name)<br />[Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md)<br />[Runesmith](./../../../MagicSystems/Runecraft/Runecraft.md)<br />[Divine Conduit](./../../../MagicSystems/Miracles/Miracles.md)<br />[Druid](./../../../MagicSystems/Druidcraft/Druidcraft.md) | STR, RFX, INT | 1 | 4d6 |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-: | :-: |
-|                                                                                                                              (Combat Skill)                                                                                                                              | STR, RFX, INT | 0 | 3d6 |
-|                                                                                                                            (Vocational Skill)                                                                                                                            | STR, RFX, INT |  | 3d6 |
-|                                                                                                                                                                                                                                                                          |              |  |    |
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 6d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Polycraft                         | STR, RFX, INT | 1 | 6d6 |
+
+| Brotherhood of Silver Hunter | STR, RFX, INT | 1 | 6d6 |
+| :--------------------------: | :-----------: | :-: | :-: |
+|   Monster Hunter Knowledge   | STR, RFX, INT |  | 5d6 |
+|        Medium Hafted        | STR, RFX, INT | 1 | 6d6 |
+|        Hand Crossbow        | STR, RFX, INT | 1 | 6d6 |
 
 ## Info
 
 |                                                  Name                                                  |                         Info                         | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
-|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                          1                          |          |                                                  |
+|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                          5                          |          |                                                  |
 |                          [Language](./../../../Languages/Languages.md): Babelish                          |                 Can speak Babelish.                 |          |                                                  |
 |                               [Language](./../../../Languages/Languages.md):                               |                     Can speak .                     |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): |                                                      |          |                                                  |
@@ -32,14 +36,14 @@
 |       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |         -0d6 to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                      |          |                                                  |
 |         [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver         | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                          0                          |          |                  Armor & Shield                  |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                          3                          |          |                  Armor & Shield                  |
 |                                                                                                        |                                                      |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |                5x5 ft on battle map.                |          |                                                  |
-|      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                        30 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim         |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                        15 ft                        |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                        50 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim         |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                        25 ft                        |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                                      |          |                                                  |
-|                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                 |                         5/5                         |          |       Vocation/Magic Governing Core Skill       |
+|                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                 |                         7/7                         |          |       Vocation/Magic Governing Core Skill       |
 |                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                         0/3                         |          |               Awarded by Narrator               |
 |                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
@@ -114,9 +118,11 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ---- | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-|      |  |                                                            |                                                                |                                                          |                                                                      |                                                            |                                            |
+| Name           | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| -------------- | :-: | :---------------------------------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+|                |  |                                                            |                                                                |                                                          |                                                                      |                                                            |                                            |
+| Gambeson Armor | 1 |              Body Armor, Arm Armor, Leg Armor              |                         Phy. Def. 1.00                         |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
+| Leather Armor  | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        |                         Phy. Def. 2.00                         |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 

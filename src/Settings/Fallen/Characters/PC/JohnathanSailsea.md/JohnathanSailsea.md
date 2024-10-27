@@ -1,28 +1,32 @@
-# Name
+# Johnathan Sailsea
 
-![img]()
+![img](./JohnathanSailsee.png)
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 2 |    |
-| :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 | [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics) | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 2 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |      [Acrobatics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#acrobatics)      | 1 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 2 | 3d6 |
+|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 1 | 3d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 2 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 1 | 4d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 0 | 3d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | -1 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| (Vocation Name)<br />[Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md)<br />[Runesmith](./../../../MagicSystems/Runecraft/Runecraft.md)<br />[Divine Conduit](./../../../MagicSystems/Miracles/Miracles.md)<br />[Druid](./../../../MagicSystems/Druidcraft/Druidcraft.md) | STR, RFX, INT | 1 | 4d6 |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-: | :-: |
-|                                                                                                                              (Combat Skill)                                                                                                                              | STR, RFX, INT | 0 | 3d6 |
-|                                                                                                                            (Vocational Skill)                                                                                                                            | STR, RFX, INT |  | 3d6 |
-|                                                                                                                                                                                                                                                                          |              |  |    |
+|  Sailor Captian  | INT | 2 | 7d6 |
+| :--------------: | :-: | :-: | :-: |
+| Sailor Knowledge | INT | 0 | 3d6 |
+
+| [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 2 | 7d6 |
+| :-------------------------------------------------------: | :-----------: | :-: | :-: |
+|                         Sonocraft                         | STR, RFX, INT | 2 | 7d6 |
+|                        Hydrocraft                        | STR, RFX, INT | 2 | 7d6 |
 
 ## Info
 
 |                                                  Name                                                  |                         Info                         | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
-|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                          1                          |          |                                                  |
+|                 [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                 |                          6                          |          |                                                  |
 |                          [Language](./../../../Languages/Languages.md): Babelish                          |                 Can speak Babelish.                 |          |                                                  |
 |                               [Language](./../../../Languages/Languages.md):                               |                     Can speak .                     |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): |                                                      |          |                                                  |
