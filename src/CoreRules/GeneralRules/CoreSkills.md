@@ -6,11 +6,7 @@ Core Skills are skills that cover the majority of what most creatures can perfor
 
 ### Athletics
 
-Represented by sprinters, high jumpers, and swimmers. Covers physical activity related to raw running speed and jump height. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit, swimming in turbulent water or throwing a ball.
-
-### Climb
-
-Represented by rock climbers. Covers all climbing activities. Examples include climbing a rock face, descending a rope, holding on for dear life, or swinging between tree branches. Also covers your ability to crawl if prone.
+Represented by sprinters, high jumpers, swimmers and climbers. Covers physical activity related to raw running speed, jump height and general movement. It covers throwing light objects and catching them. Examples include chasing someone, jumping over a pit, swimming in turbulent water, throwing a ball, climbing a rock face, descending a rope or crawling if prone.
 
 ### Endurance
 
@@ -24,19 +20,15 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 ### Acrobatics
 
-Represented by circus performers, parkourists or cat burglars. Covers movements requiring agility and finesse as well as balance. Parkour, backflips and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
+Represented by circus performers, parkourists or cat burglars. Covers movements requiring agility, highly dexterous control over ones body, and finesse as well as balance. Parkour, backflips, squeezing through tight gaps and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
 
 ### Perception
 
 Perception is the art of detecting things through the 5 senses, including sight, sound, scent, touch, and taste. It is used as the defense against stealth; it will be common for the Narrator to require players to make environmental 'Perception Checks' to gauge how much the characters notice regarding current happenings or places.
 
-### Sleight of Hand
-
-Represented by pickpockets or magicians. Activities that require highly dexterous control of the hands are covered by Sleight of Hand. While more obvious tasks such as picking pockets come to mind, the skill also covers things such as playing a guitar, weaving a small basket or threading a needle. Also very applicable as an assist roll for weapons that require finesse such as daggers, short swords, or rapiers.
-
 ### Stealth
 
-Represented by ninjas or assassins. Sneaking, hiding from others and moving with no noise form the basis of the Stealth skill. Stealth can be used for setting up ambushes and laying traps. Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
+Represented by ninjas, assassins, and pickpockets. Sneaking, hiding from others, picking pockets, and moving with no noise form the basis of the Stealth skill. Stealth can be used for setting up ambushes and laying traps. Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
 
 ## Intelligence Core Skills
 
