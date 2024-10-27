@@ -38,11 +38,9 @@ Represented by politicians or con men. It is a measure of your verbal and non-ve
 
 ### General Knowledge
 
-Represented by a historian, bookworm, or detective. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. A character with a specific knowledge skill strongly related to the task being attempted would always have an easier skill check than a character using general knowledge. For instance, a baker and a detective are trying to determine which pastry shop made the poisoned box of pastries at a crime scene. The baker using his "Baker Knowledge" skill might only be required to achieve a Common skill check (CL 1) were as the detective using his General Knowledge skill might be required to make a Uncommon skill check (CL 2).
+Represented by historians, bookworms, detectives and street smarts. General Knowledge is the art of listening to rumors, recalling information, performing deductive analysis, and applying it where it is needed most. On the street smarts side, it keeps you from going too close to dangerous gang territory, it lets you know who and where to avoid.
 
-### Survival
-
-Represented by survival skills and street smarts (gut feelings). It is the skill associated with staying alive in all environments (urban, wilderness, etc...). On the survival skill side, it covers scavenging for food (which berries will make you sick, which meat is spoiled, etc...), first aid, medicine, finding a safe place to rest, lighting fires and tracking. It covers interacting with wild/domestic animals, such as calming them down, understanding what they want, and knowing how to not encourage hostility from them. On the street smarts side, survival keeps you from going too close to dangerous gang territory, it lets you know who and where to avoid. It also gives you a gut feeling related to a character's survival, such as when a criminal deal turns out to be an ambush.
+A character with a specific knowledge skill (such as a vocational skill) strongly related to the task being attempted would always have an easier skill check than a character using general knowledge. For instance, a baker and a detective are trying to determine which pastry shop made the poisoned box of pastries at a crime scene. The baker using his "Baker Knowledge" skill might only be required to achieve a Common skill check (CL 1) were as the detective using his General Knowledge skill might be required to make a Uncommon skill check (CL 2).
 
 ### Will
 
