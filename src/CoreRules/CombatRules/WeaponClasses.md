@@ -65,7 +65,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 - Heavy Bow Required Attribute to use: 1 STR
 - Heavy Bow Required Skill to use: Level 1
 
-## Exotic Ranged Weapons
+## Exotic Ranged
 
 ### Blowgun
 
