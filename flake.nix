@@ -1,5 +1,5 @@
 {
-  description = "A very basic flake";
+  description = "Flake for development of the Fogent Roleplay Rules";
 
   outputs = { self, nixpkgs }:
 
@@ -10,10 +10,18 @@
       config.allowUnfree = true;
     };
     in {
-      # This is for locking our npm packages via nix
-      packages.${system}.default = import ./SAFE {
-        inherit pkgs;
-      }; 
+      packages.${system} = {
+
+        default = pkgs.writeShellScriptBin "run" ''
+          nix develop -c -- codium .
+        '';
+        
+        test = pkgs.writeShellScriptBin "fa" ''
+
+          ${pkgs.figlet}/bin/figlet "Fallen is awesome!"
+        '';
+
+      };
       devShells.${system}.default = pkgs.mkShell {
         buildInputs = with pkgs; [ 
           (vscode-with-extensions.override {
