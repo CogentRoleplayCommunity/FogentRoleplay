@@ -136,6 +136,10 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | RPG Launcher |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |          Loading          |        None        |       RPG Ammo       |
 
+## Close Melee
+
+- Can be used in a Grapple
+
 ### Unarmed
 
 |              Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
@@ -143,10 +147,6 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |            Unarmed            |       -1       |      None      |       +0d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 |    Hand Protection Unarmed    |      +0d6      |      None      |       +1d6       |      0      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 | Spiked Hand Protection Unarmed |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-
-## Small Melee
-
-- Can be used in a Grapple
 
 ### Small Hafted
 
