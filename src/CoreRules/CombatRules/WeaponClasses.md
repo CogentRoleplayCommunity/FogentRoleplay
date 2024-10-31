@@ -242,6 +242,8 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Reach Spear |       -1       |      +4d6      |       None       |      4      | Reach |      Pierce      |        Rapid Max 2        |        None        |         None         |
 
+## Exotic Melee
+
 ### Whip
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
