@@ -10,17 +10,17 @@ Represented by sprinters, high jumpers, swimmers and climbers. Covers physical a
 
 ### Endurance
 
-Represented by ultra-marathon runners. Represents your body's ability to process toxins and resist disease. Examples include resisting food poisoning, enduring hot/cold weather, and pushing on past exhaustion are all the domains of endurance.
+Represented by ultra-marathon runners. Represents your body's ability to resist physical wounds worsening, toxins, and disease. Examples include staying conscious as you are bleeding out from an injury, resisting poisoning, enduring hot/cold weather, and pushing on past exhaustion are all the domains of endurance.
 
 ### Lift
 
-Represented by strong men or powerlifters. Covers physical activity related to raw strength, most used in moving or holding heavy objects. Examples include shouldering a door open, carrying or throwing heavy weights, or crushing something in your hands.
+Represented by strong men or powerlifters. Covers physical activity related to raw strength, most used in moving or holding heavy objects. Examples include shouldering a door open, carrying or throwing heavy objects, or crushing/tearing something in your hands.
 
 ## Reflex Core Skills
 
 ### Acrobatics
 
-Represented by circus performers, parkourists or cat burglars. Covers movements requiring agility, highly dexterous control over ones body, and finesse as well as balance. Parkour, backflips, squeezing through tight gaps and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals, dodging, and avoiding traps/pitfalls.
+Represented by circus performers, parkourists or cat burglars. Covers movements requiring highly dexterous control over ones body, finesse, and balance. Dodging, avoiding traps/pitfalls, parkour, backflips, squeezing through tight gaps and walking tightropes are all the domain of Acrobatics. Acrobatics is also the skill used for riding animals.
 
 ### Perception
 
@@ -34,7 +34,7 @@ Represented by ninjas, assassins, and pickpockets. Sneaking, hiding from others,
 
 ### Communication
 
-Represented by politicians or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is how you communicate that will ultimately entail success or failure. It's not what you say, but how you say it. It also is used to tell if someone is lying or deceiving you.
+Represented by politicians, traders, or con men. It is a measure of your verbal and non-verbal social skills. While anyone can try persuading, deceiving, bartering, or seducing, it is how you communicate that will ultimately entail success or failure. It's not what you say, but how you say it. It also is used to tell if someone is lying or deceiving you.
 
 ### General Knowledge
 
