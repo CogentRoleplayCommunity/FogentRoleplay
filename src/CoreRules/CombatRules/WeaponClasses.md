@@ -2,11 +2,11 @@
 
 ## Weapon Class Combat Skills
 
-A weapon class combat skill covers the use of a particular weapon class. For instance, the "Crossbow" Weapon Combat Skill covers the use of "Hand Crossbow", "Light Crossbow", and "Heavy Crossbow".
+A weapon class combat skill covers the use of a particular weapon class. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear.
 
 ## Optional: Hardcore Weapon Class Combat Skills
 
-If you feel that the normal weapon class combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapon Classes as your Weapon Classes. For instance, instead of gaining "Crossbow" as a Weapons Class Combat Skill, a character would instead gain "Hand Crossbow".
+If you feel that the normal weapon class combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapon Classes as your Weapon Classes. For instance, instead of gaining "Medium Melee" as a Weapons Class Combat Skill, a character would instead gain "Medium Sword".
 
 ## Governing Attributes for Weapon Combat Skills
 
