@@ -2,38 +2,13 @@
 
 ## Weapon Class Combat Skills
 
-Characters can gain a skill in the following weapon combat skills.
+A weapon class combat skill covers the use of a particular weapon class. For instance, the "Crossbow" Weapon Combat Skill covers the use of "Hand Crossbow", "Light Crossbow", and "Heavy Crossbow".
 
-- Hand Crossbow
-- Light Crossbow
-- Heavy Crossbow
-- Light Bow
-- Heavy Bow
-- Blowgun
-- Sling
-- Unarmed
-- Small Blade
-- Small Hafted
-- Medium Sword
-- Medium Hafted
-- Medium Spear
-- Large Sword
-- Large Hafted
-- Large Spear
-- Reach Sword
-- Reach Hafted
-- Reach Spear
-- Whip
-- Pistol
-- Rifle
-- Machine Gun
-- Launcher
-- Claw
-- Bite
-- Slam
-- Horns
+## Optional: Hardcore Weapon Class Combat Skills
 
-### Governing Attributes for Weapon Class Combat Skills
+If you feel that the normal weapon class combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapon Classes as your Weapon Classes. For instance, instead of gaining "Crossbow" as a Weapons Class Combat Skill, a character would instead gain "Hand Crossbow".
+
+## Governing Attributes for Weapon Combat Skills
 
 All weapon combat skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat. A STR character hits harder and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
@@ -53,7 +28,7 @@ To duel wield the character must have at least one skill point in both of the we
 
 Dual-wielding weapons that use weapon resources or that are being thrown use double the weapon resource/thrown weapons per opponent engaged.
 
-## Crossbows
+## Crossbow
 
 ### Hand Crossbow
 
@@ -73,7 +48,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Heavy Crossbow |      None      |      +2d6      |       None       |      2      | Long |                  |      Complex Loading      |        None        |         Bolt         |
 
-## Bows
+## Bow
 
 ### Light Bow
 
