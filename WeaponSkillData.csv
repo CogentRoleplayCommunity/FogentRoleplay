@@ -1,36 +1,20 @@
 skillName,governingAttributes
 Crossbow,"STR, RFX, INT"
 Bow,"STR, RFX, INT"
-Heavy Bow,"STR, RFX, INT"
-Blowgun,"STR, RFX, INT"
-Sling,"STR, RFX, INT"
+Exotic Ranged,"STR, RFX, INT"
 ,
-Unarmed,"STR, RFX, INT"
+Close Melee,"STR, RFX, INT"
 ,
-Small Blade,"STR, RFX, INT"
-Small Hafted,"STR, RFX, INT"
+Medium Melee,"STR, RFX, INT"
 ,
-Medium Hafted,"STR, RFX, INT"
-Medium Sword,"STR, RFX, INT"
-Medium Spear,"STR, RFX, INT"
+Large Melee,"STR, RFX, INT"
 ,
-Large Hafted,"STR, RFX, INT"
-Large Sword,"STR, RFX, INT"
-Large Spear,"STR, RFX, INT"
+Reach Melee,"STR, RFX, INT"
 ,
-Reach Hafted,"STR, RFX, INT"
-Reach Sword,"STR, RFX, INT"
-Reach Spear,"STR, RFX, INT"
-Whip,"STR, RFX, INT"
+Exotic Melee,"STR, RFX, INT"
 ,
-Bite,"STR, RFX, INT"
-Claw,"STR, RFX, INT"
-Horns,"STR, RFX, INT"
-Slam,"STR, RFX, INT"
-Tentacle,"STR, RFX, INT"
+Primal Weapons,"STR, RFX, INT"
 ,
-Handgun,"STR, RFX, INT"
-Semi-automatic Rifle,"STR, RFX, INT"
-Marksman Rifle,"STR, RFX, INT"
-Machine Gun,"STR, RFX, INT"
-Launcher,"STR, RFX, INT"
+Small Guns,"STR, RFX, INT"
+Medium Guns,"STR, RFX, INT"
+Heavy Guns,"STR, RFX, INT"
