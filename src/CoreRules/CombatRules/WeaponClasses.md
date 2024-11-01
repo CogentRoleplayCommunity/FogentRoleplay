@@ -58,12 +58,12 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 ### Heavy Bow
 
+- Heavy Bow Required Attribute to use: 1 STR
+- Heavy Bow Required Skill to use: Level 1
+
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Heavy Bow |      None      |      +2d6      |       None       |      2      | Sharpshooter |                  |         Standard         |        None        |        Arrow        |
-
-- Heavy Bow Required Attribute to use: 1 STR
-- Heavy Bow Required Skill to use: Level 1
 
 ## Exotic Ranged
 
