@@ -151,8 +151,8 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Small Piercing Blade    |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 |    Small Slashing Blade    |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
-| Thrown Small Slashing Blade |      +1d6      |      None      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
 | Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      1      | Short |      Pierce      |           Quick           |        None        |         None         |
+| Thrown Small Slashing Blade |      +1d6      |      None      |       +1d6       |      0      | Short |       Slash       |           Quick           |        None        |         None         |
 
 ## Medium Melee
 
