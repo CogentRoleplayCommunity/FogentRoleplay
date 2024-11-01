@@ -21,17 +21,17 @@ Mag. Reach Spear,Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
 ,,,,,,,,,
 Mag. Thrown Small Slashing Blade,Arc,+1d6,None,+1d6,0,Short,Quick,,0
 Mag. Thrown Small Piercing Blade,Dart,+0d6,None,+1d6,1,Short,Quick,,0
-Mag. Sling,Sling,+0d6,None,None,0,Medium,Standard,,0
+Mag. Sling,Sling,+1d6,None,None,1,Medium,Standard,,0
 ,,,,,,,,,
 Mag. Thrown Medium Spear,Javelin,+2d6,None,None,2,Medium,Standard,,1
 Mag. Hand Crossbow,Hand Bolt,+1d6,None,+1d6,0,Medium,Standard,,1
 Mag. Light Crossbow,Bolt,None,+1d6,None,1,Far,Loading,,1
-Mag. Light Bow,Arrow,None,+1d6,None,0,Far,Quick,,1
+Mag. Light Bow,Arrow,None,+2d6,None,1,Far,Quick,,1
 Mag. Close Cone,Close Cone,None,+2d6,None,3,Close Cone,1,Close Cone Calculation,1
 ,,,,,,,,,
 Mag. Thrown Large Spear,Large Javelin,+2d6,None,None,3,Short,Standard,,2
-Mag. Heavy Crossbow,Large Bolt,None,+2d6,None,2,Long,Complex Loading,,2
+Mag. Heavy Crossbow,Large Bolt,None,+3d6,None,3,Long,Complex Loading,,2
 Mag. Medium Cone,Medium Cone,None,+2d6,None,3,Medium Cone,1,Medium Cone Calculation,2
 ,,,,,,,,,
-Mag. Heavy Bow,Large Arrow,None,+2d6,None,2,Sharpshooter,Standard,,3
+Mag. Heavy Bow,Large Arrow,None,+3d6,None,3,Sharpshooter,Standard,,3
 Mag. Medium Sphere,Medium Sphere,None,+3d6,None,3,Long,1,Medium Sphere Calculation,3
