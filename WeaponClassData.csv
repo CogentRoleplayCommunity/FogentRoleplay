@@ -14,7 +14,7 @@ Thrown Small Hafted Blade,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Slash,
 Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Pierce,Quick,,None
 Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Bludgeon,Quick,,None
 Thrown Medium Spear,Medium Melee,Medium Spear,+2d6,None,None,2,Medium,Pierce,Standard,,None
-Thrown Large Spear,Large Melee,Large Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,,None
+Thrown Large Spear,Large Melee,Large Spear,+2d6,None,None,3,Short,Pierce,Standard,,None
 ,,,,,,,,,,,
 Unarmed,Close Melee,Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
 Hand Protection Unarmed,Close Melee,Unarmed,+0d6,None,+0d6,0,Melee,Bludgeon,Rapid,,None
