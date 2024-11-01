@@ -68,7 +68,7 @@ Large Slam,Primal Weapons,Slam,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,,None
 ,,,,,,,,,,,
 Tentacle,Primal Weapons,Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
 ,,,,,,,,,,,
-9mm Pistol,Small Guns,Handgun,+2d6,+2d6,+1d6,0,Medium,,Quick,,9mm Ammo
+9mm Pistol,Small Guns,Handgun,+2d6,None,+1d6,0,Medium,,Quick,,9mm Ammo
 5.56 Semi-automatic Rifle,Medium Guns,Semi-automatic Rifle,+2d6,+4d6,None,0,Sharpshooter,,Quick,,5.56 Ammo
 .308 Bolt Action Rifle,Medium Guns,Marksman Rifle,+1d6,+4d6,None,0,Extreme,,Standard,,.308 Ammo
 5.56 Machine Gun,Heavy Guns,Machine Gun,-2,+6d6,None,0,Sharpshooter,,Rapid,,5.56 Ammo
