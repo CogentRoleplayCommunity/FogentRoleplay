@@ -10,34 +10,34 @@ You cannot go below 0 on a combat skill for either melee or ranged weapons via t
 
 | Weapon Classes |
 | :------------: |
-|  Close Melee  |
+|  Close Melee   |
 |  Medium Melee  |
-|  Large Melee  |
-|  Reach Melee  |
+|  Large Melee   |
+|  Reach Melee   |
 
 ### Ranged Skill Transfer
 
 | Weapon Classes |
 | :------------: |
-|      Bow      |
+|      Bow       |
 |    Crossbow    |
 
 ### Hardcore Melee Weapon Skill Transfer
 
-| Class/Size |     Hafted     |    Blade    |    Spear    |
-| :--------: | :------------: | :----------: | :----------: |
-|   Small   |  Small Hafted  | Small Blade |              |
+| Class/Size |    Hafted     |    Blade     |    Spear     |
+| :--------: | :-----------: | :----------: | :----------: |
+|   Small    | Small Hafted  | Small Blade  |              |
 |   Medium   | Medium Hafted | Medium Sword | Medium Spear |
-|   Large   | Large Hafted | Large Sword | Large Spear |
-|   Reach   | Reach Hafted | Reach Sword | Reach Spear |
+|   Large    | Large Hafted  | Large Sword  | Large Spear  |
+|   Reach    | Reach Hafted  | Reach Sword  | Reach Spear  |
 
 ### Hardcore Ranged Combat Skill Transfer
 
-| Class/Size |   Bows   |   Crossbows   |
+| Class/Size |   Bows    |   Crossbows    |
 | :--------: | :-------: | :------------: |
-|    Hand    |          | Hand Crossbow |
-|   Light   | Light Bow | Light Crossbow |
-|   Heavy   | Heavy Bow | Heavy Crossbow |
+|    Hand    |           | Hand Crossbow  |
+|   Light    | Light Bow | Light Crossbow |
+|   Heavy    | Heavy Bow | Heavy Crossbow |
 
 ### Respecing Combat Skills
 
