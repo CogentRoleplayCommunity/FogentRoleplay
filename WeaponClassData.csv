@@ -48,7 +48,7 @@ Reach Hafted Blunt,Reach Melee,Reach Hafted,-2,+2d6,None,5,Reach,Bludgeon,Rapid,
 Reach Thrusting Sword,Reach Melee,Reach Sword,-2,+3d6,None,4,Reach,Pierce,Rapid,,None
 Reach Slashing Sword,Reach Melee,Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,,None
 Reach Spear,Reach Melee,Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,,None
-Whip,Exotic Melee,Whip,+1d6,+1d6,+1d6,0,Reach,Slash,Rapid,,None
+Whip,Exotic Melee,Whip,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
 ,,,,,,,,,,,
 Weak Bite,Primal Weapons,Bite,None,-1,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
 Small Bite,Primal Weapons,Bite,None,+1d6,None,1,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
