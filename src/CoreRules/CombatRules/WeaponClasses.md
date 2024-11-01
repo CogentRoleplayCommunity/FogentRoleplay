@@ -79,13 +79,15 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Sling |      +0d6      |      +0d6      |       None       |      0      | Medium |                  |         Standard         |        None        |     Sling Bullet     |
 
-## Ballistics
+## Small Guns
 
 ### Handgun
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | 9mm Pistol |      +2d6      |      +2d6      |       +1d6       |      0      |  Far  |                  |           Quick           |        None        |       9mm Ammo       |
+
+## Medium Guns
 
 ### Semi-automatic Rifle
 
@@ -98,6 +100,8 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Extreme |                  |         Standard         |        None        |      .308 Ammo      |
+
+## Heavy Guns
 
 ### Machine Gun
 
