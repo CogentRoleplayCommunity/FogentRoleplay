@@ -1,29 +1,43 @@
 ## Weapon Skill Transfer
 
-For melee weapons, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap between weapon skills. For ranged weapons, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap.
-
-The below tables show how a given skill with a particular weapon class gains skills, though lesser, in similar weapons class in regards to size and function.
-
-You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+The below tables show how a given skill with a particular weapon class gains skills, though lesser, in similar weapons class in regards to size and function. For melee weapons, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap between weapon skills. For ranged weapons, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. This allows characters to experiment with new weapons while making narrative sense.
 
 Starting on with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it.
 
+You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+
 ### Melee Weapon Skill Transfer
 
-| Class/Size |     Hafted     |    Blade    |    Spear    |
-| :--------: | :------------: | :----------: | :----------: |
-|   Small   |  Small Hafted  | Small Blade |              |
+| Weapon Classes |
+| :------------: |
+|  Close Melee   |
+|  Medium Melee  |
+|  Large Melee   |
+|  Reach Melee   |
+
+### Ranged Skill Transfer
+
+| Weapon Classes |
+| :------------: |
+|      Bow       |
+|    Crossbow    |
+
+### Hardcore Melee Weapon Skill Transfer
+
+| Class/Size |    Hafted     |    Blade     |    Spear     |
+| :--------: | :-----------: | :----------: | :----------: |
+|   Small    | Small Hafted  | Small Blade  |              |
 |   Medium   | Medium Hafted | Medium Sword | Medium Spear |
-|   Large   | Large Hafted | Large Sword | Large Spear |
-|   Reach   | Reach Hafted | Reach Sword | Reach Spear |
+|   Large    | Large Hafted  | Large Sword  | Large Spear  |
+|   Reach    | Reach Hafted  | Reach Sword  | Reach Spear  |
 
-### Ranged Combat Skill Transfer
+### Hardcore Ranged Combat Skill Transfer
 
-| Class/Size |   Bows   |   Crossbows   |
+| Class/Size |   Bows    |   Crossbows    |
 | :--------: | :-------: | :------------: |
-|    Hand    |          | Hand Crossbow |
-|   Light   | Light Bow | Light Crossbow |
-|   Heavy   | Heavy Bow | Heavy Crossbow |
+|    Hand    |           | Hand Crossbow  |
+|   Light    | Light Bow | Light Crossbow |
+|   Heavy    | Heavy Bow | Heavy Crossbow |
 
 ### Respecing Combat Skills
 
