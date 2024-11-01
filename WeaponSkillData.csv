@@ -1,6 +1,6 @@
 skillName,governingAttributes
 Crossbow,"STR, RFX, INT"
-Light Bow,"STR, RFX, INT"
+Bow,"STR, RFX, INT"
 Heavy Bow,"STR, RFX, INT"
 Blowgun,"STR, RFX, INT"
 Sling,"STR, RFX, INT"

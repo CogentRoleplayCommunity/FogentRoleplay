@@ -2,7 +2,7 @@ name,governingSkillName,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBon
 Hand Crossbow,Crossbow,+1d6,+1d6,+1d6,0,Medium,,Standard,,Bolt
 Light Crossbow,Crossbow,None,+1d6,None,1,Far,,Loading,,Bolt
 Heavy Crossbow,Crossbow,None,+2d6,None,2,Long,,Complex Loading,,Bolt
-Light Bow,Light Bow,None,+1d6,None,0,Far,,Quick,,Arrow
+Light Bow,Bow,None,+1d6,None,0,Far,,Quick,,Arrow
 Heavy Bow,Heavy Bow,None,+2d6,None,2,Sharpshooter,,Standard,,Arrow
 Blowgun,Blowgun,+0d6,+0d6,None,0,Mediocre,,Loading,,Blowgun Dart
 Sling,Sling,+0d6,+0d6,None,0,Medium,,Standard,,Sling Bullet
