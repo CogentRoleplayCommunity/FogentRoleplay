@@ -7,23 +7,23 @@ Heavy Bow,Bow,Heavy Bow,None,+2d6,None,2,Sharpshooter,,Standard,,Arrow
 Blowgun,Exotic Ranged,Blowgun,+0d6,+0d6,None,0,Mediocre,,Loading,,Blowgun Dart
 Sling,Exotic Ranged,Sling,+0d6,+0d6,None,0,Medium,,Standard,,Sling Bullet
 ,,,,,,,,,,,
-Thrown Small Slashing Blade,Close Melee,Small Blade,+1d6,+1d6,+1d6,0,Short,Slash,Quick,,None
-Thrown Small Piercing Blade,Close Melee,Small Blade,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,,None
-Thrown Small Hafted Axe,Close Melee,Small Hafted,+1d6,+1d6,+1d6,0,Short,Hew,Quick,,None
-Thrown Small Hafted Blade,Close Melee,Small Hafted,+1d6,+1d6,+1d6,0,Short,Slash,Quick,,None
-Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,+0d6,+1d6,1,Short,Pierce,Quick,,None
-Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,+0d6,+1d6,1,Short,Bludgeon,Quick,,None
+Thrown Small Slashing Blade,Close Melee,Small Blade,+1d6,,+1d6,0,Short,Slash,Quick,,None
+Thrown Small Piercing Blade,Close Melee,Small Blade,+0d6,None,+1d6,1,Short,Pierce,Quick,,None
+Thrown Small Hafted Axe,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Hew,Quick,,None
+Thrown Small Hafted Blade,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Slash,Quick,,None
+Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Pierce,Quick,,None
+Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Bludgeon,Quick,,None
 Thrown Medium Spear,Medium Melee,Medium Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,,None
 Thrown Large Spear,Large Melee,Large Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,,None
 ,,,,,,,,,,,
 Unarmed,Close Melee,Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
 Hand Protection Unarmed,Close Melee,Unarmed,+0d6,None,+0d6,0,Melee,Bludgeon,Rapid,,None
-Small Hafted Axe,Close Melee,Small Hafted,+1d6,+1d6,+1d6,0,Melee,Hew,Rapid,,None
-Small Hafted Blade,Close Melee,Small Hafted,+1d6,+1d6,+1d6,0,Melee,Slash,Rapid,,None
-Small Hafted Point,Close Melee,Small Hafted,+0d6,+0d6,+1d6,2,Melee,Pierce,Rapid,,None
-Small Hafted Blunt,Close Melee,Small Hafted,+0d6,+0d6,+1d6,2,Melee,Bludgeon,Rapid,,None
-Small Piercing Blade,Close Melee,Small Blade,+0d6,+0d6,+1d6,2,Melee,Pierce,Rapid,,None
-Small Slashing Blade,Close Melee,Small Blade,+1d6,+1d6,+1d6,0,Melee,Slash,Rapid,,None
+Small Hafted Axe,Close Melee,Small Hafted,+1d6,None,+1d6,0,Melee,Hew,Rapid,,None
+Small Hafted Blade,Close Melee,Small Hafted,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
+Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
+Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,,None
+Small Piercing Blade,Close Melee,Small Blade,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
+Small Slashing Blade,Close Melee,Small Blade,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
 ,,,,,,,,,,,
 Medium Hafted Axe,Medium Melee,Medium Hafted,+2d6,+3d6,+1d6,0,Melee,Hew,Rapid,,None
 Medium Hafted Blade,Medium Melee,Medium Hafted,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
