@@ -13,7 +13,7 @@ Thrown Small Hafted Axe,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Hew,Quic
 Thrown Small Hafted Blade,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Slash,Quick,,None
 Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Pierce,Quick,,None
 Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Bludgeon,Quick,,None
-Thrown Medium Spear,Medium Melee,Medium Spear,+2d6,+2d6,None,2,Medium,Pierce,Standard,,None
+Thrown Medium Spear,Medium Melee,Medium Spear,+2d6,None,None,2,Medium,Pierce,Standard,,None
 Thrown Large Spear,Large Melee,Large Spear,+2d6,+2d6,None,3,Short,Pierce,Standard,,None
 ,,,,,,,,,,,
 Unarmed,Close Melee,Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
@@ -31,7 +31,7 @@ Medium Hafted Point,Medium Melee,Medium Hafted,+1d6,+2d6,+1d6,2,Melee,Pierce,Rap
 Medium Hafted Blunt,Medium Melee,Medium Hafted,+0d6,+1d6,+1d6,4,Melee,Bludgeon,Rapid,,None
 Medium Thrusting Sword,Medium Melee,Medium Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
 Medium Slashing Sword,Medium Melee,Medium Sword,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
-Medium Spear,Medium Melee,Medium Spear,+2d6,+2d6,+1d6,2,Melee,Pierce,Rapid Max 2,,None
+Medium Spear,Medium Melee,Medium Spear,+2d6,None,+1d6,2,Melee,Pierce,Rapid Max 2,,None
 ,,,,,,,,,,,
 Large Hafted Axe,Large Melee,Large Hafted,+0d6,+3d6,None,2,Melee,Hew,Rapid,,None
 Large Hafted Blade,Large Melee,Large Hafted,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
