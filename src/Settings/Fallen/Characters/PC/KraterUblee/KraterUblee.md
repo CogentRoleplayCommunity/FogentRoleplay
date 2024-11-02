@@ -15,7 +15,7 @@
 
 | Fellcaster Woodsman | STR, RFX, INT | 1 | 5d6 |
 | ------------------- | :-----------: | :-: | :-: |
-| Large Hafted        | STR, RFX, INT | 1 | 5d6 |
+| Large Melee        | STR, RFX, INT | 1 | 5d6 |
 | Naturecraft         | STR, RFX, INT | 1 | 5d6 |
 | Polycraft           | STR, RFX, INT | -1 | 3d6 |
 | Fellcraft Skill     | STR, RFX, INT | -1 | 3d6 |
