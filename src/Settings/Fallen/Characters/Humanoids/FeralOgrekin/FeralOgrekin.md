@@ -16,7 +16,7 @@
 |    Brute    |      STR      | 1 | 4d6 |
 | :----------: | :-----------: | :-: | :-: |
 | Large Melee | STR, RFX, INT | 1 | 4d6 |
-| Medium Spear | STR, RFX, INT | 1 | 4d6 |
+| Medium Melee | STR, RFX, INT | 1 | 4d6 |
 |   Unarmed   | STR, RFX, INT | 1 | 4d6 |
 
 ## Info
