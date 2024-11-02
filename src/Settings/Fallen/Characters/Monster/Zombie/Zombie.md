@@ -16,8 +16,8 @@
 | Zombie |      STR      | 1 | 6d6 |
 | :-----: | :-----------: | :-: | :-: |
 | Close Melee | STR, RFX, INT | 1 | 3d6 |
-|  Bite  | STR, RFX, INT | 1 | 3d6 |
-|  Slam  | STR, RFX, INT | 1 | 3d6 |
+|  Primal Melee   | STR, RFX, INT | 1 | 3d6 |
+|  Primal Melee   | STR, RFX, INT | 1 | 3d6 |
 
 ## Info
 

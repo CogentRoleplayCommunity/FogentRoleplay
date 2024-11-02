@@ -19,9 +19,7 @@
 
 | Predator | STR, RFX, INT | 1 | 8d6 |
 | :------: | :-----------: | :-: | :-: |
-|   Claw   | STR, RFX, INT | 1 | 8d6 |
-|   Bite   | STR, RFX, INT | 1 | 8d6 |
-|   Slam   | STR, RFX, INT | 0 | 7d6 |
+|   Primal Melee   | STR, RFX, INT | 1 | 8d6 |
 
 ## Info
 

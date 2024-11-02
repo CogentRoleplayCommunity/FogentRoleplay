@@ -19,8 +19,8 @@
 
 | Monster | STR, RFX, INT | 2 | 7d6 |
 | :-----: | :-----------: | :-: | :-: |
-|  Bite  | STR, RFX, INT | 2 | 7d6 |
-|  Claw  | STR, RFX, INT | 2 | 7d6 |
+|  Primal Melee   | STR, RFX, INT | 2 | 7d6 |
+|  Primal Melee   | STR, RFX, INT | 2 | 7d6 |
 
 ## Info
 
