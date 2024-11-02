@@ -50,23 +50,23 @@ Reach Slashing Sword,Reach Melee,Reach Sword,-2,+4d6,None,3,Reach,Slash,Rapid,,N
 Reach Spear,Reach Melee,Reach Spear,-2,+4d6,None,4,Reach,Pierce,Rapid Max 2,,None
 Whip,Exotic Melee,Whip,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
 ,,,,,,,,,,,
-Weak Bite,Primal Weapons,Bite,None,-1,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
-Small Bite,Primal Weapons,Bite,None,+1d6,None,1,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
-Bite,Primal Weapons,Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
-Large Bite,Primal Weapons,Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+Weak Bite,Primal Melee,Bite,None,-1,None,0,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+Small Bite,Primal Melee,Bite,None,+1d6,None,1,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+Bite,Primal Melee,Bite,None,+2d6,None,2,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
+Large Bite,Primal Melee,Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max 2,,None
 ,,,,,,,,,,,
-Slashing Claw,Primal Weapons,Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
-Piercing Claw,Primal Weapons,Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
-Large Slashing Claw,Primal Weapons,Claw,+2d6,None,+1d6,0,Melee,Slash,Rapid,,None
-Large Piercing Claw,Primal Weapons,Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,,None
+Slashing Claw,Primal Melee,Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
+Piercing Claw,Primal Melee,Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
+Large Slashing Claw,Primal Melee,Claw,+2d6,None,+1d6,0,Melee,Slash,Rapid,,None
+Large Piercing Claw,Primal Melee,Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,,None
 ,,,,,,,,,,,
-Horns,Primal Weapons,Horns,None,+2d6,None,2,Melee,Pierce,Rapid,,None
-Large Horns,Primal Weapons,Horns,None,+3d6,None,3,Melee,Pierce,Rapid,,None
+Horns,Primal Melee,Horns,None,+2d6,None,2,Melee,Pierce,Rapid,,None
+Large Horns,Primal Melee,Horns,None,+3d6,None,3,Melee,Pierce,Rapid,,None
 ,,,,,,,,,,,
-Slam,Primal Weapons,Slam,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,,None
-Large Slam,Primal Weapons,Slam,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,,None
+Slam,Primal Melee,Slam,+0d6,None,+1d6,2,Melee,Bludgeon,Rapid,,None
+Large Slam,Primal Melee,Slam,+0d6,None,+1d6,4,Melee,Bludgeon,Rapid,,None
 ,,,,,,,,,,,
-Tentacle,Primal Weapons,Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
+Tentacle,Primal Melee,Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
 ,,,,,,,,,,,
 9mm Pistol,Small Guns,Handgun,+2d6,None,+1d6,0,Medium,,Quick,,9mm Ammo
 5.56 Semi-automatic Rifle,Medium Guns,Semi-automatic Rifle,+2d6,+4d6,None,0,Sharpshooter,,Quick,,5.56 Ammo
