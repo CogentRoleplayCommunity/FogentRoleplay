@@ -15,7 +15,7 @@
 
 | Warrior     | STR, RFX, INT | 1 | 5d6 |
 | ----------- | :-----------: | :-: | :-: |
-| Large Sword | STR, RFX, INT | 1 | 5d6 |
+| Large Melee | STR, RFX, INT | 1 | 5d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 5d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
