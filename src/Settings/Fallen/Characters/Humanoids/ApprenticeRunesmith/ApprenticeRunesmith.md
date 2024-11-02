@@ -23,7 +23,7 @@
 
 |   Warrior   | STR, RFX, INT | 0 | 5d6 |
 | :----------: | :-----------: | :-: | :-: |
-| Large Hafted | STR, RFX, INT | 0 | 5d6 |
+| Large Melee | STR, RFX, INT | 0 | 5d6 |
 
 ## Info
 
