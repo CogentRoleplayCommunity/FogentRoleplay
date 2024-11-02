@@ -17,7 +17,6 @@
 | :-----: | :-----------: | :-: | :-: |
 | Close Melee | STR, RFX, INT | 1 | 3d6 |
 |  Primal Melee   | STR, RFX, INT | 1 | 3d6 |
-|  Primal Melee   | STR, RFX, INT | 1 | 3d6 |
 
 ## Info
 
