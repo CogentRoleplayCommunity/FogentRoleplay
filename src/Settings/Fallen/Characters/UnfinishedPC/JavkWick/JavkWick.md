@@ -16,7 +16,7 @@
 | Rogue           |   RFX, INT   | 1 | 5d6 |
 | --------------- | :-----------: | :-: | :-: |
 | Rogue Knowledge |      INT      |  | 4d6 |
-| Medium Sword    | STR, RFX, INT | 1 | 5d6 |
+| Medium Melee   | STR, RFX, INT | 1 | 5d6 |
 | Hand Crossbow   | STR, RFX, INT | 1 | 5d6 |
 
 | [Runesmith](./../../../MagicSystems/Runecraft/Runecraft.md) | RFX, INT | 0 | 4d6 |

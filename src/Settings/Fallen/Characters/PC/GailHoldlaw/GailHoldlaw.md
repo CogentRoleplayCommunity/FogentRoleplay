@@ -22,7 +22,7 @@
 
 |      Noble      | STR, RFX, INT | 1 | 4d6 |
 | :-------------: | :-----------: | :-: | :-: |
-|  Medium Sword  | STR, RFX, INT | 0 | 4d6 |
+|  Medium Melee   | STR, RFX, INT | 0 | 4d6 |
 | Noble Knowledge |      INT      |  | 5d6 |
 
 ## Info

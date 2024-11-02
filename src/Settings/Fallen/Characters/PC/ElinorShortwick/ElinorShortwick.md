@@ -21,7 +21,7 @@
 
 |      Investigator      |      INT      | 1 | 5d6 |
 | :--------------------: | :-----------: | :-: | :-: |
-|      Medium Sword      | STR, RFX, INT | 0 | 4d6 |
+|      Medium Melee   | STR, RFX, INT | 0 | 4d6 |
 | Investigator Knowledge | STR, RFX, INT |  | 5d6 |
 
 ## Info
