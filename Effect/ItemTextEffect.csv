@@ -54,14 +54,5 @@ At the break of dawn, the staff regains 1d6 + 4 expended charges. Should the sta
 Single-use Invisibility,Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process.,1 hour
 Draupnir,"This ring can transform between a weapon and ring. The ring is endowed with 10 charges. With the ring equipped, the user can force a duplication resulting in either a ring or weapon, both which appear in the users hand. Duplicates can not transform, only the original. At the break of dawn, the ring regains 1d6 + 4 expended charges.",Instantaneous
 Cold Enchantment,Weapon additionally deals Cold damage.,Indefinite
-Minor Weakness: (Damage Type),+1 to the level of injury received from damage type.,Indefinite
-Medium Weakness: (Damage Type),+2 to the level of injury received from damage type.,Indefinite
-Serious Weakness: (Damage Type),+3 to the level of injury received from damage type.,Indefinite
-Fatal Weakness: (Damage Type),+4 to the level of injury received from damage type.,Indefinite
-Minor Resistance: (Damage Type),-1 to victory levels received from damage type.,Indefinite
-Medium Resistance: (Damage Type),-2 to victory levels received from damage type.,Indefinite
-Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite
-Fatal Resistance: (Damage Type),-4 to victory levels received from damage type.,Indefinite
-Complete Resistance: (Damage Type),Negate victory levels received from damage type.,Indefinite
 ,,
 The Anatoli Curse,"The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.",Indefinite
