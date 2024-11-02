@@ -15,7 +15,7 @@
 
 | Scout        | STR, RFX, INT | 1 | 5d6 |
 | ------------ | :-----------: | :-: | :-: |
-| Medium Sword | STR, RFX, INT | 1 | 5d6 |
+| Medium Melee | STR, RFX, INT | 1 | 5d6 |
 | Shortbow     | STR, RFX, INT | 0 | 4d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
