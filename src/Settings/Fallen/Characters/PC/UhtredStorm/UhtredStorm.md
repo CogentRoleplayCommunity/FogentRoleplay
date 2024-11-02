@@ -17,7 +17,7 @@ Skill points to spend: 4
 | Criminal           | STR, RFX, INT | 2 | 6d6 |
 | ------------------ | :-----------: | :-: | :-: |
 | Small Melee        | STR, RFX, INT | 1 | 6d6 |
-| Medium Melee       | STR, RFX, INT | 0 |    |
+| Medium Melee       | STR, RFX, INT | 0 | 5d6 |
 | Criminal Knowledge |      INT      |  | 5d6 |
 
 | Brightkin | STR, RFX, INT | 1 | 6d6 |
