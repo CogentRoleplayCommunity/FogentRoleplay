@@ -13,11 +13,11 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-| Monster {STR, RFX} |   STR, RFX   | 2 | 7d6 |
-| :----------------: | :-----------: | :-: | :-: |
-|        Bite        | STR, RFX, INT | 2 | 5d6 |
-|        Claw        | STR, RFX, INT | 2 | 5d6 |
-|      Tentacle      | STR, RFX, INT | 2 | 5d6 |
+| Monster |   STR, RFX   | 2 | 7d6 |
+| :------: | :-----------: | :-: | :-: |
+|   Bite   | STR, RFX, INT | 2 | 5d6 |
+|   Claw   | STR, RFX, INT | 2 | 5d6 |
+| Tentacle | STR, RFX, INT | 2 | 5d6 |
 
 ## Info
 
@@ -31,9 +31,9 @@
 |                    [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                    |                                 +1 to the level of injury received from damage source.                                 |          |                    Fellblood                    |
 |                                                                                                                              |                                                                                                                        |          |                                                  |
 |                            [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                            |                                                  5x5 ft on battle map.                                                  |          |                                                  |
-|                 [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial                 |                                                          30 ft                                                          |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial                |                                                          30 ft                                                          |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                    |                                                          15 ft                                                          |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                    |                                                         30 ft                                                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                                                         30 ft                                                         |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
 |                                                                                                                              |                                                                                                                        |          |                                                  |
 |                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |                                              – 0 dice to all dice checks.                                              |          |                 Damage Received                 |
 
