@@ -18,7 +18,7 @@ Dice modifier added to weapon combat rolls when held in one hand or an equivalen
 
 ## Two Handed
 
-Dice modifier added to weapon combat rolls when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For characters with Primal Weapons such as Bite or Horns, denote that the creature wholely focused on those Primal Weapons.
+Dice modifier added to weapon combat rolls when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For characters with Primal Melee such as Bite or Horns, denote that the creature wholely focused on those Primal Melee.
 
 ## Dual Wielded
 
@@ -254,7 +254,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Whip |      +1d6      |      None      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |         None         |
 
-## Primal Weapons
+## Primal Melee
 
 - Bite, Slashing Claw, Piercing Claw, Horns, Slam, and Tentacle are generally meant for Medium Sized creatures
 - Large Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Large Sized creatures
