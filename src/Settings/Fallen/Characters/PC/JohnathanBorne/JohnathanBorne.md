@@ -19,8 +19,8 @@
 | Brotherhood of Silver Hunter | STR, RFX, INT | 1 | 6d6 |
 | :--------------------------: | :-----------: | :-: | :-: |
 |   Monster Hunter Knowledge   | STR, RFX, INT |  | 5d6 |
-|        Medium Hafted        | STR, RFX, INT | 1 | 6d6 |
-|        Hand Crossbow        | STR, RFX, INT | 1 | 6d6 |
+|        Medium Melee        | STR, RFX, INT | 1 | 6d6 |
+|        Crossbow        | STR, RFX, INT | 1 | 6d6 |
 
 ## Info
 
