@@ -16,7 +16,7 @@
 |   Fighter   |   STR, RFX   | 0 | 3d6 |
 | :----------: | :-----------: | :-: | :-: |
 | Medium Melee | STR, RFX, INT | 0 | 3d6 |
-|  Light Bow  | STR, RFX, INT | 0 | 3d6 |
+|  Bow  | STR, RFX, INT | 0 | 3d6 |
 
 ## Info
 
