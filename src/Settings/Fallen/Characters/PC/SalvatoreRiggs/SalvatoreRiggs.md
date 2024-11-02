@@ -15,7 +15,7 @@
 
 | Criminal           | STR, RFX, INT | 1 | 5d6 |
 | ------------------ | :-----------: | :-: | :-: |
-| Hand Crossbow      | STR, RFX, INT | 1 | 5d6 |
+| Crossbow        | STR, RFX, INT | 1 | 5d6 |
 | Criminal Knowledge |      INT      |  | 5d6 |
 
 ## Info

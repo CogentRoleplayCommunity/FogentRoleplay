@@ -15,7 +15,7 @@
 
 | Noble Warrior | STR, RFX, INT | 0 | 4d6 |
 | -------------- | :-----------: | :-: | :-: |
-| Large Spear    | STR, RFX, INT | 0 | 4d6 |
+| Large Melee    | STR, RFX, INT | 0 | 4d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 5d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
