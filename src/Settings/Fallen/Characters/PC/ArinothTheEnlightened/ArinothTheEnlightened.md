@@ -16,7 +16,7 @@
 |     Monk     |   STR, RFX   | 1 | 5d6 |
 | :----------: | :-----------: | :-: | :-: |
 | Large Melee | STR, RFX, INT | 1 | 4d6 |
-|   Unarmed   | STR, RFX, INT | 0 | 3d6 |
+|   Close Melee   | STR, RFX, INT | 0 | 3d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 3d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |

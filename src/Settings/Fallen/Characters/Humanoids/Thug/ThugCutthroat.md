@@ -15,7 +15,7 @@
 
 |  Cutthroat  |      RFX      | 1 | 5d6 |
 | :---------: | :-----------: | :-: | :-: |
-|   Unarmed   | STR, RFX, INT | 0 | 3d6 |
+|   Close Melee   | STR, RFX, INT | 0 | 3d6 |
 | Small Blade | STR, RFX, INT | 0 | 3d6 |
 
 ## Info

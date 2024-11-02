@@ -16,7 +16,7 @@
 |   Warrior   | STR, RFX, INT | 1 | 6d6 |
 | :----------: | :-----------: | :-: | :-: |
 | Medium Melee | STR, RFX, INT | 1 | 6d6 |
-|   Unarmed   | STR, RFX, INT | 1 | 6d6 |
+|   Close Melee   | STR, RFX, INT | 1 | 6d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 5d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |

@@ -17,7 +17,7 @@
 | :----------: | :-----------: | :-: | :-: |
 | Large Melee | STR, RFX, INT | 1 | 4d6 |
 | Medium Melee | STR, RFX, INT | 1 | 4d6 |
-|   Unarmed   | STR, RFX, INT | 1 | 4d6 |
+|   Close Melee   | STR, RFX, INT | 1 | 4d6 |
 
 ## Info
 

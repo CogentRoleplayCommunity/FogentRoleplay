@@ -18,7 +18,7 @@
 | Reach Hafted | STR, RFX, INT | 1 | 5d6 |
 | Medium Melee | STR, RFX, INT | 1 | 5d6 |
 |     Slam     | STR, RFX, INT | 1 | 5d6 |
-|   Unarmed   | STR, RFX, INT | 1 | 5d6 |
+|   Close Melee   | STR, RFX, INT | 1 | 5d6 |
 
 ## Info
 
