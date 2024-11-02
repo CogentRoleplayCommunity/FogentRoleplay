@@ -13,11 +13,10 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-|    Warrior    | STR, RFX, INT | 1 | 6d6 |
-| :-----------: | :-----------: | :-: | :-: |
-| Medium Hafted | STR, RFX, INT | 1 | 6d6 |
-| Medium Spear | STR, RFX, INT | 0 | 5d6 |
-|    Unarmed    | STR, RFX, INT | 1 | 6d6 |
+|   Warrior   | STR, RFX, INT | 1 | 6d6 |
+| :----------: | :-----------: | :-: | :-: |
+| Medium Melee | STR, RFX, INT | 1 | 6d6 |
+|   Unarmed   | STR, RFX, INT | 1 | 6d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 5d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |

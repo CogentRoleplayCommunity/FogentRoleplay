@@ -15,7 +15,7 @@
 
 | Fighter       | STR, RFX, INT | 1 | 5d6 |
 | ------------- | :-----------: | :-: | :-: |
-| Medium Hafted | STR, RFX, INT | 1 | 5d6 |
+| Medium Melee | STR, RFX, INT | 1 | 5d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 1 | 5d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |

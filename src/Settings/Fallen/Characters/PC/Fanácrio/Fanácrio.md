@@ -22,7 +22,7 @@
 
 | Royal Morraki | STR, RFX, INT | 1 | 4d6 |
 | :-----------: | :-----------: | :-: | :-: |
-| Medium Hafted | STR, RFX, INT | 0 | 5d6 |
+| Medium Melee | STR, RFX, INT | 0 | 5d6 |
 
 ## Info
 
