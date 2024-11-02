@@ -15,7 +15,7 @@
 
 | <br />[Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) Ranger | STR, RFX, INT | 1 | 4d6 |
 | ----------------------------------------------------------------------- | :-----------: | :-: | :-: |
-| Lightbow                                                                | STR, RFX, INT | 1 | 3d6 |
+| Bow                                                                | STR, RFX, INT | 1 | 3d6 |
 | Vocational Skill                                                        | STR, RFX, INT |  | 3d6 |
 |                                                                         |              | 0 | 3d6 |
 |                                                                         |              | 0 | 3d6 |

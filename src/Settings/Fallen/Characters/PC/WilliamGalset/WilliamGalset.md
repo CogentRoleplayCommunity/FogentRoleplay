@@ -16,12 +16,12 @@
 | Scout        | STR, RFX, INT | 1 | 5d6 |
 | ------------ | :-----------: | :-: | :-: |
 | Medium Melee | STR, RFX, INT | 1 | 5d6 |
-| Shortbow     | STR, RFX, INT | 0 | 4d6 |
+| Bow        | STR, RFX, INT | 0 | 4d6 |
 
 | [Fellcaster](./../../../MagicSystems/Fellcraft/Fellcraft.md) | STR, RFX, INT | 0 | 4d6 |
 | :-------------------------------------------------------: | :-----------: | :-: | :-: |
 |                        Shadowcraft                        | STR, RFX, INT | -1 | 3d6 |
-|                        Souldcraft                        | STR, RFX, INT | -1 | 3d6 |
+|                        Soulcraft                        | STR, RFX, INT | -1 | 3d6 |
 
 ## Info
 
