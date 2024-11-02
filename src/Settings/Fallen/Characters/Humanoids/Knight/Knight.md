@@ -17,7 +17,7 @@
 | :------------: | :-----------: | :-: | :-: |
 |  Large Melee | STR, RFX, INT | 2 | 6d6 |
 | Crossbow | STR, RFX, INT | 0 | 4d6 |
-|  Small Blade  | STR, RFX, INT | 2 | 6d6 |
+|  Close Melee  | STR, RFX, INT | 2 | 6d6 |
 
 ## Info
 

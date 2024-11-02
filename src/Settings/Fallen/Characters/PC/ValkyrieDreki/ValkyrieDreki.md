@@ -21,7 +21,7 @@
 
 |   Warrior   | STR, RFX, INT | 0 | 4d6 |
 | :---------: | :-----------: | :-: | :-: |
-| Small Blade | STR, RFX, INT | 0 | 4d6 |
+| Close Melee  | STR, RFX, INT | 0 | 4d6 |
 
 ## Info
 
