@@ -63,7 +63,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |   Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Heavy Bow |      None       |      +2d6       |       None        |      2      | Sharpshooter |                   |         Standard          |        None         |        Arrow         |
+| Heavy Bow |      None       |      +3d6       |       None        |      2      | Sharpshooter |                   |         Standard          |        None         |        Arrow         |
 
 ## Exotic Ranged
 
