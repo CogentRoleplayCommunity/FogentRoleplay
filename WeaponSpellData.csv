@@ -3,7 +3,7 @@ Mag. Hand Protection Unarmed,Glove,+0d6,None,+1d6,0,Melee,Rapid,,0
 Mag. Small Piercing Blade,Small Thrust,+0d6,None,+1d6,2,Melee,Rapid,,0
 Mag. Small Slashing Blade,Small Slash,+1d6,None,+1d6,0,Melee,Rapid,,0
 ,,,,,,,,,
-Mag. Medium Hafted Blade,Medium Slash,+2d6,+3d6,+1d6,0,Melee,Rapid,,1
+Mag. Medium Hafted Blade,Medium Slash,+2d6,+3d6,+1d6,1,Melee,Rapid,,1
 Mag. Medium Hafted Point,Medium Thrust,+1d6,+2d6,+1d6,2,Melee,Rapid,,1
 Mag. Medium Hafted Blunt,Medium Smash,+0d6,+1d6,+1d6,4,Melee,Rapid,,1
 Mag. Medium Spear,Medium Spear,+2d6,None,+1d6,2,Melee,Rapid Max 2,,1

@@ -26,7 +26,7 @@ Small Piercing Blade,Close Melee,Small Blade,+0d6,None,+1d6,2,Melee,Pierce,Rapid
 Small Slashing Blade,Close Melee,Small Blade,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
 ,,,,,,,,,,,
 Medium Hafted Axe,Medium Melee,Medium Hafted,+2d6,+3d6,+1d6,1,Melee,Hew,Rapid,,None
-Medium Hafted Blade,Medium Melee,Medium Hafted,+2d6,+3d6,+1d6,0,Melee,Slash,Rapid,,None
+Medium Hafted Blade,Medium Melee,Medium Hafted,+2d6,+3d6,+1d6,1,Melee,Slash,Rapid,,None
 Medium Hafted Point,Medium Melee,Medium Hafted,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
 Medium Hafted Blunt,Medium Melee,Medium Hafted,+0d6,+1d6,+1d6,4,Melee,Bludgeon,Rapid,,None
 Medium Thrusting Sword,Medium Melee,Medium Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,Rapid,,None
