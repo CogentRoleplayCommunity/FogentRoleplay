@@ -2,7 +2,7 @@ name,governingSkillName,hardcoreGoverningSkillName,oneHandedWeaponDice,twoHanded
 Hand Crossbow,Crossbow,Hand Crossbow,+2d6,None,+1d6,0,Medium,,Standard,,Bolt
 Light Crossbow,Crossbow,Light Crossbow,None,+2d6,None,1,Far,,Loading,,Bolt
 Heavy Crossbow,Crossbow,Heavy Crossbow,None,+3d6,None,2,Long,,Complex Loading,,Bolt
-Light Bow,Bow,Light Bow,None,+1d6,None,0,Far,,Quick,,Arrow
+Light Bow,Bow,Light Bow,None,+2d6,None,0,Far,,Quick,,Arrow
 Heavy Bow,Bow,Heavy Bow,None,+2d6,None,2,Sharpshooter,,Standard,,Arrow
 Blowgun,Exotic Ranged,Blowgun,+0d6,None,None,0,Mediocre,,Loading,,Blowgun Dart
 Sling,Exotic Ranged,Sling,+0d6,None,None,0,Medium,,Standard,,Sling Bullet
