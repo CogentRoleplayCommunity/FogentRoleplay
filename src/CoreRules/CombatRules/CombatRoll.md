@@ -6,7 +6,6 @@ Combat rolls are Dice Pools that represent a character's effectiveness in combat
 - +/- 1d6 per Weapon Skill
 - +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
 - +/- Weapon Class Dice (Hand Crossbow, Medium Spear, etc...)
-- +Weapon Resource Dice (Arrow, Ammunition, etc...)
 
 ### Example 1:
 
@@ -17,7 +16,6 @@ Javk Wick the rogue has a Medium Thrusting Sword dual-wielded with a dagger. He 
 - +1d6 (Level 1 RFX)
 - +1d6 (Medium Thrusting Sword One Handed)
 - +1d6 (Dagger Dual-Wielded)
-- +0d6 (Weapon Resource Dice)
 
 Based on the dice above, Javk uses his sword and dagger for thrusting rolls 8d6.
 
