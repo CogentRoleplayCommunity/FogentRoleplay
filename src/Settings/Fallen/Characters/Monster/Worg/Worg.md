@@ -15,7 +15,7 @@
 
 | Beast |   STR, RFX   | 2 | 6d6 |
 | :---: | :-----------: | :-: | :-: |
-| Bite | STR, RFX, INT | 2 | 5d6 |
+| Primal Melee   | STR, RFX, INT | 2 | 5d6 |
 
 ## Info
 

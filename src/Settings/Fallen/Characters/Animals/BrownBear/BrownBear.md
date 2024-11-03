@@ -15,9 +15,9 @@
 
 | Beast |   STR, RFX   | 2 | 8d6 |
 | ----- | :-----------: | :-: | :-: |
-| Claw  | STR, RFX, INT | 2 | 6d6 |
-| Bite  | STR, RFX, INT | 2 | 6d6 |
-| Slam  | STR, RFX, INT | 2 | 6d6 |
+| Primal Melee   | STR, RFX, INT | 2 | 6d6 |
+| Primal Melee   | STR, RFX, INT | 2 | 6d6 |
+| Primal Melee   | STR, RFX, INT | 2 | 6d6 |
 
 ## Info
 

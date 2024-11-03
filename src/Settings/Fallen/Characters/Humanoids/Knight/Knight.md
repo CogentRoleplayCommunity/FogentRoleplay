@@ -15,9 +15,9 @@
 
 |    Warrior    | STR, RFX, INT | 2 | 6d6 |
 | :------------: | :-----------: | :-: | :-: |
-|  Large Sword  | STR, RFX, INT | 2 | 6d6 |
-| Light Crossbow | STR, RFX, INT | 0 | 4d6 |
-|  Small Blade  | STR, RFX, INT | 2 | 6d6 |
+|  Large Melee | STR, RFX, INT | 2 | 6d6 |
+| Crossbow | STR, RFX, INT | 0 | 4d6 |
+|  Close Melee  | STR, RFX, INT | 2 | 6d6 |
 
 ## Info
 

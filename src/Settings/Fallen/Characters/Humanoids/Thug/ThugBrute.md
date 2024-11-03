@@ -14,9 +14,8 @@
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
 |    Brute    |      STR      | 1 | 5d6 |
-| :----------: | :-----------: | :-: | :-: |
-|   Unarmed   | STR, RFX, INT | 0 | 3d6 |
-| Small Hafted | STR, RFX, INT | 0 | 3d6 |
+| :---------: | :-----------: | :-: | :-: |
+| Close Melee | STR, RFX, INT | 0 | 3d6 |
 
 ## Info
 

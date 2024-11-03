@@ -15,7 +15,7 @@
 
 | Guard {RFX}                  | 3 | 8d6 | Brightsmith {STR, RFX, INT} | 2  | 7d6 |
 | ---------------------------- | :-: | :-: | --------------------------- | -- | --- |
-| Medium Sword {STR, RFX, INT} | 3 | 8d6 | Radiance {STR, RFX, INT}    | 2  | 7d6 |
+| Medium Melee {STR, RFX, INT} | 3 | 8d6 | Radiance {STR, RFX, INT}    | 2  | 7d6 |
 |                              | 0 | 3d6 | Blessing {STR, RFX, INT}    | -1 | 4d6 |
 |                              | 0 | 3d6 | Additional Trick            | -1 | 4d6 |
 

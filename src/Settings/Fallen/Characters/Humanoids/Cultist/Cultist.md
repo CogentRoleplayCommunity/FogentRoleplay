@@ -15,7 +15,7 @@
 
 |   Cultist   | STR, RFX, INT | 1 | 4d6 |
 | :----------: | :-----------: | :-: | :-: |
-| Medium Sword | STR, RFX, INT | 0 | 3d6 |
+| Medium Melee | STR, RFX, INT | 0 | 3d6 |
 
 ## Info
 

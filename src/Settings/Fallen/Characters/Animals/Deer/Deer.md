@@ -16,7 +16,7 @@
 | Beast |   STR, RFX   | 1 | 5d6 |
 | ----- | :-----------: | :-: | :-: |
 | Horns | STR, RFX, INT | 1 | 3d6 |
-| Bite  | STR, RFX, INT | 0 | 2d6 |
+| Primal Melee   | STR, RFX, INT | 0 | 2d6 |
 
 ## Info
 
