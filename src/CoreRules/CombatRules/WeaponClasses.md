@@ -71,7 +71,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |  Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Blowgun |      +0d6       |      None       |       None        |      0      | Mediocre |                   |          Loading          |        None         |     Blowgun Dart     |
+| Blowgun |      +1d6       |      None       |       None        |      0      | Mediocre |                   |          Loading          |        None         |     Blowgun Dart     |
 
 ### Sling
 
