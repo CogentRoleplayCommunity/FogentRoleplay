@@ -162,8 +162,8 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|  Medium Hafted Axe  |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |        Hew        |           Rapid           |        None        |         None         |
-| Medium Hafted Blade |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+|  Medium Hafted Axe  |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |        Hew        |           Rapid           |        None        |         None         |
+| Medium Hafted Blade |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 | Medium Hafted Point |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Medium Hafted Blunt |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 
@@ -174,7 +174,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 
 ### Medium Spear
 
@@ -277,7 +277,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Slashing Claw    |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
 |    Piercing Claw    |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 | Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
 - Piercing Claw ~= Small Thrusting Blade
