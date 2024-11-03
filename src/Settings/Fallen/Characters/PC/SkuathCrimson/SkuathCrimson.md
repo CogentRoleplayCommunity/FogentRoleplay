@@ -69,7 +69,7 @@ Unspent Skill Point: 1
 
 |      Name      | Resource Class |  [Base Dice Tier Adjustment](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice)  | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
 | :------------: | :------------: | :-------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| Standard Arrow |     Arrow     | 6d6<br />(+1d6) |                                            1                                            |                         None                         |                                 Pierce                                 |                                    None                                    |
+| Standard Arrow |     Arrow     | 6d6<br />(+0) |                                            1                                            |                         None                         |                                 Pierce                                 |                                    None                                    |
 
 ### Melee Weapon Spells
 

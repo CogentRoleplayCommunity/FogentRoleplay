@@ -64,7 +64,7 @@
 
 |      Name      | Resource Class |  [Base Dice Tier Adjustment](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice)  | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
 | :------------: | :------------: | :-------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| Standard Arrow |     Arrow     | +1d6<br />(8d6) |                                            1                                            |                         None                         |                                 Pierce                                 |                                    None                                    |
+| Standard Arrow |     Arrow     | +0<br />(8d6) |                                            1                                            |                         None                         |                                 Pierce                                 |                                    None                                    |
 
 ### Melee Weapon Spells
 
