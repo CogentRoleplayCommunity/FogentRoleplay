@@ -78,14 +78,14 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Mag. Hand Protection Unarmed |      +0d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Piercing Blade  |      +0d6      |      +0d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Slashing Blade  |      +1d6      |      +1d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|  Mag. Small Piercing Blade  |      +0d6      |      None      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
+|  Mag. Small Slashing Blade  |      +1d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
-|   Mag. Medium Hafted Blade   |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          1          |
+|   Mag. Medium Hafted Blade   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |                  |           Rapid           |        None        |          1          |
 |   Mag. Medium Hafted Point   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          1          |
 |   Mag. Medium Hafted Blunt   |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |                  |           Rapid           |        None        |          1          |
-|      Mag. Medium Spear      |      +2d6      |      +2d6      |       +1d6       |      2      | Melee |                  |        Rapid Max 2        |        None        |          1          |
-|          Mag. Whip          |      +1d6      |      +1d6      |       +1d6       |      0      | Reach |                  |           Rapid           |        None        |          1          |
+|      Mag. Medium Spear      |      +2d6      |      None      |       +1d6       |      2      | Melee |                  |        Rapid Max 2        |        None        |          1          |
+|          Mag. Whip          |      +1d6      |      None      |       +1d6       |      0      | Reach |                  |           Rapid           |        None        |          1          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
 |   Mag. Large Hafted Blade   |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |          2          |
 |   Mag. Large Hafted Point   |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |          2          |
@@ -101,17 +101,17 @@ Almost all traditional offensive magic spells can be represented as Weapon Spell
 
 |               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Thrown Small Slashing Blade |      +1d6      |      +1d6      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
-| Mag. Thrown Small Piercing Blade |      +0d6      |      +0d6      |       +1d6       |      1      |    Short    |                  |           Quick           |        None        |          0          |
-|            Mag. Sling            |      +1d6      |      +1d6      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
+| Mag. Thrown Small Slashing Blade |      +1d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+| Mag. Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      1      |    Short    |                  |           Quick           |        None        |          0          |
+|            Mag. Sling            |      +1d6      |      None      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Medium Spear     |      +2d6      |      +2d6      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
-|        Mag. Hand Crossbow        |      +2d6      |      +2d6      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
+|     Mag. Thrown Medium Spear     |      +2d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
+|        Mag. Hand Crossbow        |      +2d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
 |       Mag. Light Crossbow       |      None      |      +2d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
 |          Mag. Light Bow          |      None      |      +2d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
 |         Mag. Close Cone         |      None      |      +2d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Large Spear     |      +2d6      |      +2d6      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+|     Mag. Thrown Large Spear     |      +2d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
 |       Mag. Heavy Crossbow       |      None      |      +3d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
 |         Mag. Medium Cone         |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |

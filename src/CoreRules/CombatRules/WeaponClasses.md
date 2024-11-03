@@ -18,7 +18,7 @@ Dice modifier added to weapon combat rolls when held in one hand or an equivalen
 
 ## Two Handed
 
-Dice modifier added to weapon combat rolls when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For characters with Primal Weapons such as Bite or Horns, denote that the creature wholely focused on those Primal Weapons.
+Dice modifier added to weapon combat rolls when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For characters with Primal Melee such as Bite or Horns, denote that the creature wholely focused on those Primal Melee.
 
 ## Dual Wielded
 
@@ -162,8 +162,8 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-|  Medium Hafted Axe  |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |        Hew        |           Rapid           |        None        |         None         |
-| Medium Hafted Blade |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+|  Medium Hafted Axe  |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |        Hew        |           Rapid           |        None        |         None         |
+| Medium Hafted Blade |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 | Medium Hafted Point |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 | Medium Hafted Blunt |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |     Bludgeon     |           Rapid           |        None        |         None         |
 
@@ -174,7 +174,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 
 ### Medium Spear
 
@@ -254,7 +254,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 | :--: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Whip |      +1d6      |      None      |       +1d6       |      0      | Reach |       Slash       |           Rapid           |        None        |         None         |
 
-## Primal Weapons
+## Primal Melee
 
 - Bite, Slashing Claw, Piercing Claw, Horns, Slam, and Tentacle are generally meant for Medium Sized creatures
 - Large Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Large Sized creatures
@@ -277,7 +277,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Slashing Claw    |      +1d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
 |    Piercing Claw    |      +0d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Large Slashing Claw |      +2d6      |      None      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 | Large Piercing Claw |      +1d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
 
 - Piercing Claw ~= Small Thrusting Blade

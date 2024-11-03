@@ -15,7 +15,7 @@
 
 | Snake |      RFX      | 2 | 4d6 |
 | :---: | :-----------: | :-: | :-: |
-| Bite | STR, RFX, INT | 2 | 3d6 |
+| Primal Melee   | STR, RFX, INT | 2 | 3d6 |
 
 ## Info
 

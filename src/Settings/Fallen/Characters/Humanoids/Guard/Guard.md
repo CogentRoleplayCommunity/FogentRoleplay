@@ -15,7 +15,7 @@
 
 |    Guard    | STR, RFX, INT | 1 | 3d6 |
 | :---------: | :-----------: | :-: | :-: |
-| Large Spear | STR, RFX, INT | 1 | 3d6 |
+| Large Melee | STR, RFX, INT | 1 | 3d6 |
 
 ## Info
 

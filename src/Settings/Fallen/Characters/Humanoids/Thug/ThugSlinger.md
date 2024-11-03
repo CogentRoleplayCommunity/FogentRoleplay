@@ -15,8 +15,8 @@
 
 | Slingger |   RFX, STR    |   1   |  5d6  |
 | :------: | :-----------: | :---: | :---: |
-| Unarmed  | STR, RFX, INT |   0   |  3d6  |
-|  Sling   | STR, RFX, INT |   0   |  3d6  |
+| Close Melee  | STR, RFX, INT |   0   |  3d6  |
+|  Exotic Ranged  | STR, RFX, INT |   0   |  3d6  |
 
 ## Info
 

@@ -15,7 +15,7 @@
 
 | Beast |   STR, RFX   | 1 | 5d6 |
 | ----- | :-----------: | :-: | :-: |
-| Slam  | STR, RFX, INT | 1 | 3d6 |
+| Primal Melee   | STR, RFX, INT | 1 | 3d6 |
 
 ## Info
 
