@@ -57,7 +57,7 @@ Large Bite,Primal Melee,Bite,None,+3d6,None,3,Melee,"Pierce, Bludgeon",Rapid Max
 ,,,,,,,,,,,
 Slashing Claw,Primal Melee,Claw,+1d6,None,+1d6,0,Melee,Slash,Rapid,,None
 Piercing Claw,Primal Melee,Claw,+0d6,None,+1d6,2,Melee,Pierce,Rapid,,None
-Large Slashing Claw,Primal Melee,Claw,+2d6,None,+1d6,0,Melee,Slash,Rapid,,None
+Large Slashing Claw,Primal Melee,Claw,+2d6,None,+1d6,1,Melee,Slash,Rapid,,None
 Large Piercing Claw,Primal Melee,Claw,+1d6,None,+1d6,2,Melee,Pierce,Rapid,,None
 ,,,,,,,,,,,
 Horns,Primal Melee,Horns,None,+2d6,None,2,Melee,Pierce,Rapid,,None
