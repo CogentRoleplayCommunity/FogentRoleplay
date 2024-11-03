@@ -28,7 +28,6 @@ Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a weapon ski
 - +3d6 (Base Dice)
 - +1d6 (Level 1 Crossbow Skill)
 - +1d6 (Level 1 RFX)
-- +1d6 (Light Crossbow Two-Handed)
-- +1d6 (Standard Bolts)
+- +2d6 (Light Crossbow Two-Handed)
 
 Based on the dice above, Javk using his Light Crossbow has a 7d6.
