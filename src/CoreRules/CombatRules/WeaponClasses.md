@@ -174,7 +174,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |         None         |
-| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |         None         |
+| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |       Slash       |           Rapid           |        None        |         None         |
 
 ### Medium Spear
 
