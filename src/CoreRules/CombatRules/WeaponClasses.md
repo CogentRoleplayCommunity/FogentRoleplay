@@ -34,7 +34,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Hand Crossbow |      +1d6      |      None      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |         Bolt         |
+| Hand Crossbow |      +2d6      |      None      |       +1d6       |      0      | Medium |                  |         Standard         |        None        |         Bolt         |
 
 ### Light Crossbow
 
