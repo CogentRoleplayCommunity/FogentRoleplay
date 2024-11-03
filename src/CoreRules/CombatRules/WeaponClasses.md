@@ -46,7 +46,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Heavy Crossbow |      None      |      +2d6      |       None       |      2      | Long |                  |      Complex Loading      |        None        |         Bolt         |
+| Heavy Crossbow |      None      |      +3d6      |       None       |      2      | Long |                  |      Complex Loading      |        None        |         Bolt         |
 
 ## Bow
 
