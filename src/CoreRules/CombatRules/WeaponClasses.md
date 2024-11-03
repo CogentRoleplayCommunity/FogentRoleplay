@@ -54,7 +54,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Light Bow |      None      |      +1d6      |       None       |      0      |  Far  |                  |           Quick           |        None        |        Arrow        |
+| Light Bow |      None      |      +2d6      |       None       |      0      |  Far  |                  |           Quick           |        None        |        Arrow        |
 
 ### Heavy Bow
 
