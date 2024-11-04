@@ -22,7 +22,7 @@ Examples of unlocking Incompetent Magic Skills:
 
 Magic Skill Roll =
 
-- 3d6 (Base Dice, varies with Spellcasting Focus Tier Base Dice)
+- 3d6 (Base Dice, varies with Spellcasting Focus Base Dice Tier)
 - +Xd6 (per Magic Skill)
 - +Xd6 (per Magic Skill Governing Attributes)
 
