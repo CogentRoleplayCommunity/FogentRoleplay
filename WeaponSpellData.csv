@@ -1,4 +1,4 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect magicResourceAmount,
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResourceAmount
 Magic Glove,+0d6,None,+1d6,0,Melee,Rapid,,0
 Magic Small Thrust,+0d6,None,+1d6,2,Melee,Rapid,,0
 Magic Small Slash,+1d6,None,+1d6,0,Melee,Rapid,,0
