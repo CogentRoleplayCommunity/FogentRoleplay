@@ -15,7 +15,7 @@
 
 |    Rogue    |   RFX, INT   | 1 | 5d6 |
 | :---------: | :-----------: | :-: | :-: |
-| Small Blade | STR, RFX, INT | 1 | 5d6 |
+| Close Melee  | STR, RFX, INT | 1 | 5d6 |
 
 ## Info
 

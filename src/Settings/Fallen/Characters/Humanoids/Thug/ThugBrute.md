@@ -14,9 +14,8 @@
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
 |    Brute    |      STR      | 1 | 5d6 |
-| :----------: | :-----------: | :-: | :-: |
-|   Unarmed   | STR, RFX, INT | 0 | 3d6 |
-| Small Hafted | STR, RFX, INT | 0 | 3d6 |
+| :---------: | :-----------: | :-: | :-: |
+| Close Melee | STR, RFX, INT | 0 | 3d6 |
 
 ## Info
 
@@ -55,7 +54,7 @@
 
 #### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
-| Name | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Resource Dice](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
+| Name | [Resource Class](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-class) | [Base Dice Tier Adjustment](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#range) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#damage-types) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#area-of-effect) |
 | :--: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 |      |                                                                                              |                                                                                            |                                                                                        |                                                                            |                                                                                                |                                                                                                    |
 
