@@ -34,19 +34,19 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |     Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Hand Crossbow |      +2d6       |      None       |       +1d6        |      0      | Medium |                   |         Standard          |        None         |         Bolt         |
+| Hand Crossbow |      +1d6       |      None       |       +1d6        |      0      | Medium |                   |         Standard          |        None         |         Bolt         |
 
 ### Light Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Light Crossbow |      None       |      +2d6       |       None        |      1      |  Far  |                   |          Loading          |        None         |         Bolt         |
+| Light Crossbow |      None       |      +1d6       |       None        |      1      |  Far  |                   |          Loading          |        None         |         Bolt         |
 
 ### Heavy Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Heavy Crossbow |      None       |      +3d6       |       None        |      2      | Long  |                   |      Complex Loading      |        None         |         Bolt         |
+| Heavy Crossbow |      None       |      +2d6       |       None        |      2      | Long  |                   |      Complex Loading      |        None         |         Bolt         |
 
 ## Bow
 
@@ -54,7 +54,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |   Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Light Bow |      None       |      +2d6       |       None        |      0      |  Far  |                   |           Quick           |        None         |        Arrow         |
+| Light Bow |      None       |      +1d6       |       None        |      0      |  Far  |                   |           Quick           |        None         |        Arrow         |
 
 ### Heavy Bow
 
@@ -63,7 +63,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |   Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Heavy Bow |      None       |      +3d6       |       None        |      2      | Sharpshooter |                   |         Standard          |        None         |        Arrow         |
+| Heavy Bow |      None       |      +2d6       |       None        |      2      | Sharpshooter |                   |         Standard          |        None         |        Arrow         |
 
 ## Exotic Ranged
 
@@ -71,13 +71,13 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |  Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Blowgun |      +1d6       |      None       |       None        |      0      | Mediocre |                   |          Loading          |        None         |     Blowgun Dart     |
+| Blowgun |      +0d6       |      None       |       None        |      0      | Mediocre |                   |          Loading          |        None         |     Blowgun Dart     |
 
 ### Sling
 
 | Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| Sling |      +1d6       |      None       |       None        |      0      | Medium |                   |         Standard          |        None         |     Sling Bullet     |
+| Sling |      +0d6       |      None       |       None        |      0      | Medium |                   |         Standard          |        None         |     Sling Bullet     |
 
 ## Small Guns
 
@@ -138,10 +138,10 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |    Small Hafted Point     |      +0d6       |      None       |       +1d6        |      2      | Melee |      Pierce       |           Rapid           |        None         |         None         |
 |    Small Hafted Blunt     |      +0d6       |      None       |       +1d6        |      2      | Melee |     Bludgeon      |           Rapid           |        None         |         None         |
 |           Torch           |      +0d6       |      None       |       +1d6        |      2      | Melee |  Fire, Bludgeon   |           Rapid           |        None         |         None         |
-|  Thrown Small Hafted Axe  |      +1d6       |      None       |       +1d6        |      0      | Short |        Hew        |           Quick           |        None         |         None         |
-| Thrown Small Hafted Blade |      +1d6       |      None       |       +1d6        |      0      | Short |       Slash       |           Quick           |        None         |         None         |
-| Thrown Small Hafted Point |      +0d6       |      None       |       +1d6        |      1      | Short |      Pierce       |           Quick           |        None         |         None         |
-| Thrown Small Hafted Blunt |      +0d6       |      None       |       +1d6        |      1      | Short |     Bludgeon      |           Quick           |        None         |         None         |
+|  Thrown Small Hafted Axe  |      +0d6       |      None       |       +1d6        |      0      | Short |        Hew        |           Quick           |        None         |         None         |
+| Thrown Small Hafted Blade |      +0d6       |      None       |       +1d6        |      0      | Short |       Slash       |           Quick           |        None         |         None         |
+| Thrown Small Hafted Point |      +0d6       |      None       |       +1d6        |      0      | Short |      Pierce       |           Quick           |        None         |         None         |
+| Thrown Small Hafted Blunt |      +0d6       |      None       |       +1d6        |      0      | Short |     Bludgeon      |           Quick           |        None         |         None         |
 
 ### Small Blade
 
@@ -151,8 +151,8 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Small Piercing Blade     |      +0d6       |      None       |       +1d6        |      2      | Melee |      Pierce       |           Rapid           |        None         |         None         |
 |    Small Slashing Blade     |      +1d6       |      None       |       +1d6        |      0      | Melee |       Slash       |           Rapid           |        None         |         None         |
-| Thrown Small Piercing Blade |      +0d6       |      None       |       +1d6        |      1      | Short |      Pierce       |           Quick           |        None         |         None         |
-| Thrown Small Slashing Blade |      +1d6       |      None       |       +1d6        |      0      | Short |       Slash       |           Quick           |        None         |         None         |
+| Thrown Small Piercing Blade |      +0d6       |      None       |       +1d6        |      0      | Short |      Pierce       |           Quick           |        None         |         None         |
+| Thrown Small Slashing Blade |      +0d6       |      None       |       +1d6        |      0      | Short |       Slash       |           Quick           |        None         |         None         |
 
 ## Medium Melee
 
@@ -183,7 +183,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |        Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Medium Spear     |      +2d6       |      None       |       +1d6        |      2      | Melee  |      Pierce       |        Rapid Max 2        |        None         |         None         |
-| Thrown Medium Spear |      +2d6       |      None       |       None        |      2      | Medium |      Pierce       |         Standard          |        None         |         None         |
+| Thrown Medium Spear |      +1d6       |      None       |       None        |      2      | Medium |      Pierce       |         Standard          |        None         |         None         |
 
 ## Large Melee
 
