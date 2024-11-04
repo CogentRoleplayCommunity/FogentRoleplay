@@ -100,7 +100,7 @@
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |     Magic Dart     |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
-|     Magic Sling     |      +0d6      |      None      |       None       |      0      |    Medium    |                  |         Standard         |        None        |          0          |
+|     Magic Sling     |      +0d6      |      None      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |    Magic Javelin    |      +1d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
 |   Magic Hand Bolt   |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
