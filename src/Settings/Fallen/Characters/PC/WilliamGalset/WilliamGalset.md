@@ -76,7 +76,7 @@
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Magic Glove |      +0d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |  Magic Small Thrust  |      +0d6      |      None      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
-|  Mag. Small Slashing Blade  |      +1d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
+|  Magic Small Slash  |      +1d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
 |   Mag. Medium Hafted Blade   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |                  |           Rapid           |        None        |          1          |
 |   Mag. Medium Hafted Point   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          1          |
