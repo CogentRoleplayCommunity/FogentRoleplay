@@ -16,7 +16,7 @@ Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland 
 
 |       Name       | # |                                                              Class                                                              |                           Effect                           |   Tier   | Durability | LB | Value |
 | :---------------: | :-: | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :------: | :--------: | :-: | :---: |
-| Dancing Moonlight | 1 | Large Thrusting Sword, Large Slashing Sword, Light Magic Conduit, Water Magic Conduit, Shadow Magic Conduit, Blood Magic Conduit | Moonlight Greatsword, Indestructible, Blessing of the Moon | Artifact |   48/48   | 3 |   ?   |
+| Dancing Moonlight | 1 | Large Thrusting Sword, Large Slashing Sword, Light Spellcasting Focus, Water Spellcasting Focus, Shadow Spellcasting Focus, Blood Spellcasting Focus | Moonlight Greatsword, Indestructible, Blessing of the Moon | Artifact |   48/48   | 3 |   ?   |
 
 ## Effects
 

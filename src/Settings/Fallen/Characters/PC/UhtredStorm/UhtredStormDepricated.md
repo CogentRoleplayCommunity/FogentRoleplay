@@ -76,7 +76,7 @@
 | Clothes, Fine                        | 1 |                                                                | Mundane |            |  6  | 15 bc |
 | Asher's Arms Swordbreaker            | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Slashing Blade |   Fine   |   18/18   |  1  |   ?   |
 | Spencer's Arms Arming Sword          | 1 |          Medium Thrusting Sword, Medium Slashing Sword          | Superior |   24/24   |  2  | 50 bc |
-| Adversary - Damaged                  | 1 |                          Magic Conduit                          |   Fine   |   18/18   |  1  |   ?   |
+| Adversary - Damaged                  | 1 |                          Spellcasting Focus                          |   Fine   |   18/18   |  1  |   ?   |
 | Mother's Necklace                    | 1 |                                                                | Mundane |            | 0.1 |   ?   |
 
 ## Containers

@@ -28,9 +28,9 @@ Using item durability is a great way to increase immersion (such as having to go
 
 A weapon's Durability decreases by 1 whenever a weapon is used to attempt to inflict an injury level.
 
-### Magic Conduit Durability
+### Spellcasting Focus Durability
 
-A magic conduit's durability decreases by 1 whenever it is used to cast magic the consumes magic resource.
+A Spellcasting Focus's durability decreases by 1 whenever it is used to cast magic the consumes magic resource.
 
 ### Armor Durability
 
