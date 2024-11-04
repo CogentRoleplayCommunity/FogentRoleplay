@@ -72,7 +72,7 @@
 
 Remember to remove DnD Dexterity modifier from AC be for converting.
 
-You may also slightly reduce the defense level and give better acrobatics if the creature is harder to hit because it is quick, agile, or small.
+You may also slightly reduce the defense level and give better dexterity if the creature is harder to hit because it is quick, agile, or small.
 
 - 10 AC -> 0 Defense Level
 - 11 AC -> 1 Defense Level
