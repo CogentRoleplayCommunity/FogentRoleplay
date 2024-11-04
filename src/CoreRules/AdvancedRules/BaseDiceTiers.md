@@ -1,7 +1,5 @@
 # Base Dice Tiers
 
-This could represent the quality of a weapon for a combat roll, arcane focus for a magic skill, ect...
-
 Base dice are always represented by 3 dice, however depending on a Base Dice Tier, which type of 3 dice can change for better or worse. For instance, a mundane dagger has base dice of 3d6 for a combat roll. With a Mythic dagger, the base dice would be 2d20 and 1d12.
 
 Base Dice Tiers also applies to Magic Conduits, tools used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
