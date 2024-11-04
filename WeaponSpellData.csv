@@ -3,35 +3,35 @@ Magic Glove,Magic Glove,+0d6,None,+1d6,0,Melee,Rapid,,0
 Magic Small Thrust,Magic Small Thrust,+0d6,None,+1d6,2,Melee,Rapid,,0
 Magic Small Slash,Magic Small Slash,+1d6,None,+1d6,0,Melee,Rapid,,0
 ,,,,,,,,,
-Magic Medium Slash,Mag. Medium Hafted Blade,+2d6,+3d6,+1d6,1,Melee,Rapid,,1
-Magic Medium Thrust,Mag. Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Rapid,,1
-Magic Medium Smash,Mag. Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Rapid,,1
-Magic Medium Spear,Mag. Medium Spear,+2d6,None,+1d6,2,Melee,Rapid Max 2,,1
-Magic Whip,Mag. Whip,+1d6,None,+1d6,0,Reach,Rapid,,1
+Magic Medium Slash,Magic Medium Slash,+2d6,+3d6,+1d6,1,Melee,Rapid,,1
+Magic Medium Thrust,Magic Medium Thrust,+1d6,+2d6,+1d6,2,Melee,Rapid,,1
+Magic Medium Smash,Magic Medium Smash,+0d6,+1d6,+1d6,4,Melee,Rapid,,1
+Magic Medium Spear,Magic Medium Spear,+2d6,None,+1d6,2,Melee,Rapid Max 2,,1
+Magic Whip,Magic Whip,+1d6,None,+1d6,0,Reach,Rapid,,1
 ,,,,,,,,,
-Magic Large Slash,Mag. Large Hafted Blade,+0d6,+3d6,None,2,Melee,Rapid,,2
-Magic Large Thrust,Mag. Large Hafted Point,+0d6,+2d6,None,3,Melee,Rapid,,2
-Magic Large Smash,Mag. Large Hafted Blunt,-1,+1d6,None,5,Melee,Rapid,,2
-Magic Large Spear,Mag. Large Spear,+2d6,+3d6,None,3,Melee,Rapid Max 2,,2
+Magic Large Slash,Magic Large Slash,+0d6,+3d6,None,2,Melee,Rapid,,2
+Magic Large Thrust,Magic Large Thrust,+0d6,+2d6,None,3,Melee,Rapid,,2
+Magic Large Smash,Magic Large Smash,-1,+1d6,None,5,Melee,Rapid,,2
+Magic Large Spear,Magic Large Spear,+2d6,+3d6,None,3,Melee,Rapid Max 2,,2
 ,,,,,,,,,
-Magic Reach Slash,Mag. Reach Hafted Blade,-2,+4d6,None,3,Reach,Rapid,,3
-Magic Reach Thrust,Mag. Reach Hafted Point,-2,+3d6,None,4,Reach,Rapid,,3
-Magic Reach Smash,Mag. Reach Hafted Blunt,-2,+2d6,None,5,Reach,Rapid,,3
-Magic Reach Spear,Mag. Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
+Magic Reach Slash,Magic Reach Slash,-2,+4d6,None,3,Reach,Rapid,,3
+Magic Reach Thrust,Magic Reach Thrust,-2,+3d6,None,4,Reach,Rapid,,3
+Magic Reach Smash,Magic Reach Smash,-2,+2d6,None,5,Reach,Rapid,,3
+Magic Reach Spear,Magic Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
 ,,,,,,,,,
-Magic Arc,Mag. Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,Quick,,0
-Magic Dart,Mag. Thrown Small Piercing Blade,+0d6,None,+1d6,0,Short,Quick,,0
-Magic Sling,Mag. Sling,+0d6,None,None,1,Medium,Standard,,0
+Magic Arc,Magic Arc,+0d6,None,+1d6,0,Short,Quick,,0
+Magic Dart,Magic Dart,+0d6,None,+1d6,0,Short,Quick,,0
+Magic Sling,Magic Sling,+0d6,None,None,1,Medium,Standard,,0
 ,,,,,,,,,
-Magic Javelin,Mag. Thrown Medium Spear,+1d6,None,None,2,Medium,Standard,,1
-Magic Hand Bolt,Mag. Hand Crossbow,+1d6,None,+1d6,0,Medium,Standard,,1
-Magic Bolt,Mag. Light Crossbow,None,+1d6,None,1,Far,Loading,,1
-Magic Arrow,Mag. Light Bow,None,+1d6,None,1,Far,Quick,,1
-Magic Close Cone,Mag. Close Cone,None,+1d6,None,3,Close Cone,1,Close Cone Calculation,1
+Magic Javelin,Magic Javelin,+1d6,None,None,2,Medium,Standard,,1
+Magic Hand Bolt,Magic Hand Bolt,+1d6,None,+1d6,0,Medium,Standard,,1
+Magic Bolt,Magic Bolt,None,+1d6,None,1,Far,Loading,,1
+Magic Arrow,Magic Arrow,None,+1d6,None,1,Far,Quick,,1
+Magic Close Cone,Magic Close Cone,None,+1d6,None,3,Close Cone,1,Close Cone Calculation,1
 ,,,,,,,,,
-Magic Large Javelin,Mag. Thrown Large Spear,+1d6,None,None,3,Short,Standard,,2
-Magic Large Bolt,Mag. Heavy Crossbow,None,+2d6,None,3,Long,Complex Loading,,2
-Magic Medium Cone,Mag. Medium Cone,None,+1d6,None,3,Medium Cone,1,Medium Cone Calculation,2
+Magic Large Javelin,Magic Large Javelin,+1d6,None,None,3,Short,Standard,,2
+Magic Large Bolt,Magic Large Bolt,None,+2d6,None,3,Long,Complex Loading,,2
+Magic Medium Cone,Magic Medium Cone,None,+1d6,None,3,Medium Cone,1,Medium Cone Calculation,2
 ,,,,,,,,,
-Magic Large Arrow,Mag. Heavy Bow,None,+2d6,None,3,Sharpshooter,Standard,,3
-Magic Medium Sphere,Mag. Medium Sphere,None,+2d6,None,3,Long,1,Medium Sphere Calculation,3
+Magic Large Arrow,Magic Large Arrow,None,+2d6,None,3,Sharpshooter,Standard,,3
+Magic Medium Sphere,Magic Medium Sphere,None,+2d6,None,3,Long,1,Medium Sphere Calculation,3
