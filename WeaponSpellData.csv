@@ -24,7 +24,7 @@ Magic Sling,+0d6,None,None,1,Medium,Standard,,0
 ,,,,,,,,
 Magic Javelin,+1d6,None,None,2,Medium,Standard,,1
 Magic Hand Bolt,+1d6,None,+1d6,0,Medium,Standard,,1
-Magic Bolt,None,+1d6,None,1,Far,Loading,,1
+Magic Bolt,None,+1d6,None,2,Far,Loading,,1
 Magic Arrow,None,+1d6,None,1,Far,Quick,,1
 Magic Close Cone,None,+1d6,None,3,Close Cone,1,Close Cone Calculation,1
 ,,,,,,,,
