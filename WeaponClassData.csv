@@ -33,12 +33,12 @@ Medium Thrusting Sword,Medium Melee,Medium Sword,+1d6,+2d6,+1d6,2,Melee,Pierce,R
 Medium Slashing Sword,Medium Melee,Medium Sword,+2d6,+3d6,+1d6,1,Melee,Slash,Rapid,,None
 Medium Spear,Medium Melee,Medium Spear,+2d6,None,+1d6,2,Melee,Pierce,Rapid Max 2,,None
 ,,,,,,,,,,,
-Large Hafted Axe,Large Melee,Large Hafted,+0d6,+3d6,None,2,Melee,Hew,Rapid,,None
-Large Hafted Blade,Large Melee,Large Hafted,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
+Large Hafted Axe,Large Melee,Large Hafted,+1d6,+3d6,None,2,Melee,Hew,Rapid,,None
+Large Hafted Blade,Large Melee,Large Hafted,+1d6,+3d6,None,2,Melee,Slash,Rapid,,None
 Large Hafted Point,Large Melee,Large Hafted,+0d6,+2d6,None,3,Melee,Pierce,Rapid,,None
 Large Hafted Blunt,Large Melee,Large Hafted,-1,+1d6,None,5,Melee,Bludgeon,Rapid,,None
 Large Thrusting Sword,Large Melee,Large Sword,+0d6,+2d6,None,3,Melee,Pierce,Rapid,,None
-Large Slashing Sword,Large Melee,Large Sword,+0d6,+3d6,None,2,Melee,Slash,Rapid,,None
+Large Slashing Sword,Large Melee,Large Sword,+1d6,+3d6,None,2,Melee,Slash,Rapid,,None
 Large Spear,Large Melee,Large Spear,+2d6,+3d6,None,3,Melee,Pierce,Rapid Max 2,,None
 ,,,,,,,,,,,
 Reach Hafted Axe,Reach Melee,Reach Hafted,-2,+4d6,None,3,Reach,Hew,Rapid,,None
