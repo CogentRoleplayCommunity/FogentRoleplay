@@ -6,7 +6,7 @@
 
 |    STR    |   0   | Roll  |       RFX       |   1   | Roll  |        INT        |   0   | Roll  |
 | :-------: | :---: | :---: | :-------------: | :---: | :---: | :---------------: | :---: | :---: |
-| Athletics |   0   |  3d6  |   Acrobatics    |   0   |  4d6  |   Communication   |   0   |  3d6  |
+| Athletics |   0   |  3d6  |   Dexterity    |   0   |  4d6  |   Communication   |   0   |  3d6  |
 |   Climb   |   0   |  3d6  |   Perception    |   0   |  4d6  | General Knowledge |   0   |  3d6  |
 | Endurance |   1   |  4d6  | Sleight of Hand |   0   |  4d6  |     Survival      |   0   |  3d6  |
 |   Lift    |   1   |  4d6  |     Stealth     |   0   |  4d6  |     Willpower     |  -1   |  2d6  |

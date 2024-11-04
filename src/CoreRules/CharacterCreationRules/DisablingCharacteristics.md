@@ -31,7 +31,7 @@ Players that take a Disabling Characteristic that results in a -1 in an Attribut
 | Disabling: Swim Overconfidence               |         Extremely overconfident in Swim, cannot invest in.         |
 | Disabling: Lift Overconfidence               |         Extremely overconfident in Lift, cannot invest in.         |
 | Disabling: Perception Overconfidence         |      Extremely overconfident in Perception, cannot invest in.      |
-| Disabling: Acrobatics Overconfidence         |      Extremely overconfident in Acrobatics, cannot invest in.      |
+| Disabling: Dexterity Overconfidence         |      Extremely overconfident in Dexterity, cannot invest in.      |
 | Disabling: Ride/Pilot Overconfidence         |      Extremely overconfident in Ride/Pilot, cannot invest in.      |
 | Disabling: Sleight of Hand Overconfidence    |    Extremely overconfident in Sleight of Hand, cannot invest in.    |
 | Disabling: Stealth Overconfidence            |        Extremely overconfident in Stealth, cannot invest in.        |
