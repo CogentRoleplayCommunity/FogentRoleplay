@@ -81,4 +81,4 @@ Another avenue to explore is how magic skills could be combined.
 
 ## Spellcasting Focus
 
-All magic needs a conduit to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a conduit from a narrative perspective, but it is up to the narrator to decide if their are any restrictions in their setting. A Conduit's tier influences any magic cast through it, effecting the resulting base dice of any Magic Skill Roll.
+All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the narrator to decide if their are any restrictions in their magic system/setting. A Spellcasting Focus's Base Dice Tiers influence magic skills cast through it, assuming they apply to that skill.
