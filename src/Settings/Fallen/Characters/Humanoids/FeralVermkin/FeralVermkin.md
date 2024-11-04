@@ -96,7 +96,7 @@
 |     Magic Dart     |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
 |     Magic Sling     |      +0d6      |      None      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
-|    Magic Javelin    |      +1d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
+|    Magic Javelin    |      +1d6      |      None      |       +1d6       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
 |   Magic Hand Bolt   |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
 |     Magic Bolt     |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
 |     Magic Arrow     |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
