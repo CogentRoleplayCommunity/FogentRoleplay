@@ -50,7 +50,7 @@
 ### DnD Skill to Fogent Skill conversion
 
 - Athletics -> Athletics, Lift, Climb
-- Acrobatics -> Acrobatics
+- Acrobatics -> Dexterity
 - Sleight of Hand -> Sleight of Hand
 - Stealth -> Stealth
 - Arcana, History, Investigation, Nature, Religion -> General Knowledge
@@ -70,9 +70,9 @@
 
 ### DnD Armor Class to Fogent Physical Defense Level:
 
-Remember to remove DnD dexterity modifier from AC be for converting.
+Remember to remove DnD Dexterity modifier from AC be for converting.
 
-You may also slightly reduce the defense level and give better acrobatics if the creature is harder to hit because it is quick, agile, or small.
+You may also slightly reduce the defense level and give better dexterity if the creature is harder to hit because it is quick, agile, or small.
 
 - 10 AC -> 0 Defense Level
 - 11 AC -> 1 Defense Level

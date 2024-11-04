@@ -171,9 +171,9 @@ If the characters defeat the Feral Vermkins and inspect the area, they will disc
 
 Ask the players to determine the party's marching order as they move down the trail, as the order is vital. The Vermkins have set two traps to hinder pursuers:
 
-**Snare.** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Acrobatics check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
+**Snare.** About 10 minutes after heading down the trail, the party may encounter a hidden snare. The character must succeed on a CL 2 Perception check to notice the trap. If not noticed, the character triggers the snare and must succeed on a CL 2 Dexterity check. Failure results in the character being suspended upside down 10 feet above the ground, restrained until damage is dealt to the snare's cord, which causes it to drop. A character lowered down without care takes a Minor Injury from the fall.
 
-**Pit.** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Acrobatics check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
+**Pit.** Another 10 minutes down the trail is a camouflaged pit. They must succeed on a CL 3 Perception check to spot the pit. If the trap isn't detected, the lead character must succeed on a CL 2 Dexterity check to avoid falling in, taking a Minor Injury from bludgeoning damage. The pit's walls are not steep, so no ability check is required to climb out.
 
 ### Awarding Destiny Points
 
@@ -295,7 +295,7 @@ The Vermkin will become aware of the characters if they carry a light source or 
 
 **Western Passage.** This passage is obstructed by rubble and features steep escarpments. Consider the area as difficult terrain, as described in "Difficult Terrain" in the rulebook.
 
-The ledge between the two escarpments is fragile. Any weight exceeding 100 pounds destabilizes the entire mass, sending it tumbling to the east. Any creature on the ledge during its collapse must attempt a CL 2 Acrobatics Check. Failure results in taking a bludgeon Medium Injury, with a successful save reducing it to a bludgeon Minor Injury. On a failed save, the creature also becomes prone, as outlined in "Prone" in the General Rules.
+The ledge between the two escarpments is fragile. Any weight exceeding 100 pounds destabilizes the entire mass, sending it tumbling to the east. Any creature on the ledge during its collapse must attempt a CL 2 Dexterity Check. Failure results in taking a bludgeon Medium Injury, with a successful save reducing it to a bludgeon Minor Injury. On a failed save, the creature also becomes prone, as outlined in "Prone" in the General Rules.
 
 ### 5. Overpass
 
@@ -315,7 +315,7 @@ A Vermkin, currently hiding, stands watch on the bridge. Characters can spot it 
 
 If the Vermkin detects the adventurers, it signals the Vermkins in area 7 to initiate a flood (refer to the "Flood!" section) and then hurls arrows down at the characters.
 
-**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb Check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Acrobatics Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
+**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb Check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Dexterity Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
 
 Flood Alert! The large pools in area 7 have collapsible walls that can be dislodged to release a surge of water down the main passage. In the round after the Vermkins in area 7 receive the signal from the lookout in area 5, they begin removing supports. On the Vermkins' initiative count in the subsequent round, a water surge rushes from area 7 down to area 1.
 
@@ -323,7 +323,7 @@ Flood Alert! The large pools in area 7 have collapsible walls that can be dislod
 The tunnel resounds with a powerful roar as a substantial surge of water cascades from above.
 ```
 
-All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Acrobatics check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
+All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Dexterity check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
 
 ### 6. Vermkin Den
 
@@ -756,9 +756,9 @@ This corridor was originally a segment of Rozen Manor's ancient cellars. The Lav
 A thick layer of dust obscures the flagstone tiles in this gloomy hallway. Every ten feet, faux columns decorate the walls, while the double doors at the western end display copper plating that has now turned green with age. These doors feature an intricately carved depiction of a sorrowful angel.
 ```
 
-Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a CL 2 Acrobatics Skill check.
+Concealed in the middle of the corridor is a perilous pit trap, concealed beneath a facade of loose stone tiles supported by breakaway timbers. When subjected to a weight of 100 pounds or more, the tiles and timbers collapse. Characters scrutinizing the hallway for traps can discern the hidden pit with a successful CL 3 Perception Skill Check. Such a check also reveals narrow ledges running along the northern and southern edges of the pit. A character attempting to maneuver around the pit by using one of these ledges must successfully complete a CL 2 Dexterity Skill check.
 
-A character who triggers the trap or fails the Acrobatics Skill check while attempting to bypass the pit must make a CL 3 Acrobatics Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring a minor bludgeoning injury and landing prone.
+A character who triggers the trap or fails the Dexterity Skill check while attempting to bypass the pit must make a CL 3 Dexterity Skill Check to clutch the edge. On a failed save, the character tumbles 20 feet into the pit, enduring a minor bludgeoning injury and landing prone.
 
 #### Awarding Destiny Points
 
@@ -1180,7 +1180,7 @@ This ruined stone cottage bears the weight of time.
 Nestled in the shadow of an ancient tree, a crumbling stone cottage devoid of its roof stands amid rampant weeds.
 ```
 
-Among the weeds, two twig blights are hidden near the cottage's open doorway. A Dexterity (Stealth) check should be rolled for the blights, and the result should be compared against the passive Wisdom (Perception) scores of the characters to determine whether the blights are spotted.
+Among the weeds, two twig blights are hidden near the cottage's open doorway. A RFX (Stealth) check should be rolled for the blights, and the result should be compared against the passive Wisdom (Perception) scores of the characters to determine whether the blights are spotted.
 
 These blights do not initiate attacks on their own (unless acting in self-defense) but rush to aid the twig blights in area 2 if combat breaks out.
 
@@ -1196,7 +1196,7 @@ Wind and weather have taken their toll on these structures, leaving behind very 
 These two ruined cottages, situated side by side, appear as though they might have been the homes of prosperous shop owners or well-to-do farmers in the past. Now, all that remains are crumbling walls and heaps of debris. Several young trees have sprouted amid the ruins.
 ```
 
-Camouflaged among the ordinary foliage, there is a deadly menace - six twig blights. Detecting them necessitates a successful Perception Skill Check contested by the blights' Dexterity (Stealth) check.
+Camouflaged among the ordinary foliage, there is a deadly menace - six twig blights. Detecting them necessitates a successful Perception Skill Check contested by the blights' RFX (Stealth) check.
 
 These plant creatures are hungry and will fight until they are destroyed. In the event of an attack, the twig blights in area 1 will join the combat one round later.
 
@@ -1380,7 +1380,7 @@ This fallen cottage serves as a lure for the nearby lairing creatures, attractin
 Large heaps of wreckage are visible within the ruin. In one corner stands a shattered loom.
 ```
 
-Six twig blights skulk in the thicket south of the ruin. Allow each character to attempt a Perception Skill Check, contested by the blights' Dexterity (Stealth) check, to avoid being taken by surprise.
+Six twig blights skulk in the thicket south of the ruin. Allow each character to attempt a Perception Skill Check, contested by the blights' RFX (Stealth) check, to avoid being taken by surprise.
 
 Notably, any loud noises in this area will alert the cultists in area 13, who will proceed cautiously to investigate.
 
@@ -1494,7 +1494,7 @@ Should the Vermkin sentries in area 3 have raised the alarm, the Vermkins and ho
 
  **Trap.** Dusty plaster and rubble in front of the door leading to area 8 conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Detecting the tripwire requires a passive Wisdom (Perception) score of at least 20, or a successful CL 2 Perception Skill Check when actively searching for traps in the area. Once spotted, the tripwire can be easily avoided and disarmed (no ability check required).
 
-Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a CL 2 Acrobatics Skill Check or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
+Anyone who steps over or through the rubble without avoiding the tripwire will trigger a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on the map.) Any creature within the area when the trap triggers must succeed on a CL 2 Dexterity Skill Check or take 3d6 bludgeoning damage from falling debris (half damage on a successful save). The noise from the collapse puts the monsters in areas 3, 7, 8, and 9 on high alert.
 
  **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters if the party detects or survives the trap.
 
@@ -1580,7 +1580,7 @@ Even in daylight, this chamber remains shrouded in darkness. The following text 
 This narrow, lofty hall appears to have served as a chapel or shrine long ago. Angelic figures are sculpted into the upper reaches of the room, gazing down upon the floor below. To the north, heavy curtains obscure a pair of matching archways. Between these archways stands a cracked yet ornately carved stone brazier.
 ```
 
-Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
+Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's RFX (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
 Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a CL 2 General Knowledge check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
 
@@ -1828,7 +1828,7 @@ The southern tunnel once served as the original entrance to Tide Echo Tunnels bu
 In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and serpentkin miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of molekin and others ogrekins, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
 ```
 
-Clutching the ceiling like bats are ten stirges. These creatures find little living prey in the mines and are ravenous. If the characters are looking down at the skeletons on the floor, the stirges are likely to catch them by surprise. Characters not watching the ceiling will be surprised, unless their passive Wisdom (Perception) score exceeds the total of the stirges' Dexterity (Stealth) check (roll once for all of them). Characters who avoid surprise will hear a flapping noise as the stirges descend to attack.
+Clutching the ceiling like bats are ten stirges. These creatures find little living prey in the mines and are ravenous. If the characters are looking down at the skeletons on the floor, the stirges are likely to catch them by surprise. Characters not watching the ceiling will be surprised, unless their passive Wisdom (Perception) score exceeds the total of the stirges' RFX (Stealth) check (roll once for all of them). Characters who avoid surprise will hear a flapping noise as the stirges descend to attack.
 
 The lanterns and carvings of miners at work were originally meant to welcome newcomers.
 
@@ -2078,11 +2078,11 @@ Two Ferralkins flank a spiderkin dressed in black leather armor and robes as the
 "It appears I must handle you personally. Regrettably, it must conclude this way."
 ```
 
-Nezznar the Black Spider is accompanied by four formidable giant spiders who defend their master to the death. If they anticipate trouble, the spiders conceal themselves behind the pillars while Nezznar cloaks himself in invisibility, positioning near the table. Roll a Dexterity (Stealth) check for the spiders. As intruders appear, the spiders will attempt to ensnare them in webs before closing in for melee combat. Nezznar joins the fray the round following the spiders' attack.
+Nezznar the Black Spider is accompanied by four formidable giant spiders who defend their master to the death. If they anticipate trouble, the spiders conceal themselves behind the pillars while Nezznar cloaks himself in invisibility, positioning near the table. Roll a RFX (Stealth) check for the spiders. As intruders appear, the spiders will attempt to ensnare them in webs before closing in for melee combat. Nezznar joins the fray the round following the spiders' attack.
 
 Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the spiderkin does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the spiderkin villain.
 
-**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 General Knowledge check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful CL 2 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Acrobatics Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
+**Statue.** The statue represents Dumathoin, the molekin god of mining. Any character proficient in Religion can readily identify the deity. The statue is masterfully carved, and the emerald eyes appear exceedingly valuable. However, a close examination and a successful CL 3 General Knowledge check reveal that the gems are clever imitations crafted from worthless glass. Nevertheless, they are safeguarded by a potent spell, and a detect magic spell exposes a strong abjuration magic aura surrounding the statue. A character can scale the statue with ease and extract a jewel with a successful CL 2 Lift Skill check. Yet, removing either eye triggers a calamity: the pillars lining the walls shatter, setting off a ceiling collapse. Every creature within the room must make a CL 3 Dexterity Skill Check. Failure results in suffering 4d10 bludgeoning damage from falling debris and being knocked prone. Success entails taking only half the damage.
 
 **Table.** The table is strewn with notes and maps, showcasing Nezznar's exploration efforts within the mine. Amid the paperwork lies a black leather sack containing treasure (see the "Treasure" section).
 
