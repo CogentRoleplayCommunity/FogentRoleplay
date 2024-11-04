@@ -50,11 +50,10 @@
 ### DnD Skill to Fogent Skill conversion
 
 - Athletics -> Athletics, Lift, Climb
-- Acrobatics -> Dexterity
-- Sleight of Hand -> Dexterity
+- Acrobatics, Slieght of Hand -> Dexterity
 - Stealth -> Stealth
 - Arcana, History, Investigation, Nature, Religion -> General Knowledge
-- Animal Handling, Survival -> Survival
+- Animal Handling, Survival -> Survival Vocational Skills or Gen. Knowledge
 - Deception, Intimidation, Performance, Persuasion, Insight -> Communication
 
 ### DnD skill Modifier to Fogent Skill Level:
