@@ -13,7 +13,7 @@ Thrown Small Hafted Axe,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Hew,Quic
 Thrown Small Hafted Blade,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Slash,Quick,,None
 Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Pierce,Quick,,None
 Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Bludgeon,Quick,,None
-Thrown Medium Spear,Medium Melee,Medium Spear,+1d6,None,None,2,Medium,Pierce,Standard,,None
+Thrown Medium Spear,Medium Melee,Medium Spear,+1d6,None,+1d6,2,Medium,Pierce,Standard,,None
 Thrown Large Spear,Large Melee,Large Spear,+1d6,None,None,3,Short,Pierce,Standard,,None
 ,,,,,,,,,,,
 Unarmed,Close Melee,Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
