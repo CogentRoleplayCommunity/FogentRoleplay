@@ -73,6 +73,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
+- [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
 
 ### Combat Rules
 
