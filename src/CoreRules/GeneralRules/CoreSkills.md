@@ -20,7 +20,7 @@ Represented by strong men or powerlifters. Covers physical activity related to r
 
 ### Dexterity
 
-Represented by circus performers, parkourists or cat burglars. Covers movements requiring highly dexterous control over ones body, finesse, and balance. Dodging, avoiding traps/pitfalls, parkour, backflips, squeezing through tight gaps and walking tightropes are all the domain of Dexterity. Dexterity is also the skill used for riding animals.
+Represented by circus performers, parkourists or cat burglars. Covers movements requiring highly dexterous control over ones body, flexibility, and balance. Dodging, avoiding traps/pitfalls, parkour, backflips, squeezing through tight gaps and walking tightropes are all the domain of Dexterity. Dexterity is also the skill used for riding animals.
 
 ### Perception
 
