@@ -70,41 +70,41 @@
 |  Magic Small Thrust  |      +0d6      |      None      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          0          |
 |  Magic Small Slash  |      +1d6      |      None      |       +1d6       |      0      | Melee |                  |           Rapid           |        None        |          0          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
-|   Mag. Medium Hafted Blade   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |                  |           Rapid           |        None        |          1          |
-|   Mag. Medium Hafted Point   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          1          |
-|   Mag. Medium Hafted Blunt   |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |                  |           Rapid           |        None        |          1          |
-|      Mag. Medium Spear      |      +2d6      |      None      |       +1d6       |      2      | Melee |                  |        Rapid Max 2        |        None        |          1          |
-|          Mag. Whip          |      +1d6      |      None      |       +1d6       |      0      | Reach |                  |           Rapid           |        None        |          1          |
+|   Magic Medium Slash   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |                  |           Rapid           |        None        |          1          |
+|   Magic Medium Thrust   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |                  |           Rapid           |        None        |          1          |
+|   Magic Medium Smash   |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |                  |           Rapid           |        None        |          1          |
+|      Magic Medium Spear      |      +2d6      |      None      |       +1d6       |      2      | Melee |                  |        Rapid Max 2        |        None        |          1          |
+|          Magic Whip          |      +1d6      |      None      |       +1d6       |      0      | Reach |                  |           Rapid           |        None        |          1          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
-|   Mag. Large Hafted Blade   |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |          2          |
-|   Mag. Large Hafted Point   |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |          2          |
-|   Mag. Large Hafted Blunt   |       -1       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |          2          |
-|       Mag. Large Spear       |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Rapid Max 2        |        None        |          2          |
+|   Magic Large Slash   |      +0d6      |      +3d6      |       None       |      2      | Melee |                  |           Rapid           |        None        |          2          |
+|   Magic Large Thrust   |      +0d6      |      +2d6      |       None       |      3      | Melee |                  |           Rapid           |        None        |          2          |
+|   Magic Large Smash   |       -1       |      +1d6      |       None       |      5      | Melee |                  |           Rapid           |        None        |          2          |
+|       Magic Large Spear       |      +2d6      |      +3d6      |       None       |      3      | Melee |                  |        Rapid Max 2        |        None        |          2          |
 |                              |                |                |                  |            |      |                  |                          |                    |                    |
-|   Mag. Reach Hafted Blade   |       -2       |      +4d6      |       None       |      3      | Reach |                  |           Rapid           |        None        |          3          |
-|   Mag. Reach Hafted Point   |       -2       |      +3d6      |       None       |      4      | Reach |                  |           Rapid           |        None        |          3          |
-|   Mag. Reach Hafted Blunt   |       -2       |      +2d6      |       None       |      5      | Reach |                  |           Rapid           |        None        |          3          |
-|       Mag. Reach Spear       |       -2       |      +4d6      |       None       |      4      | Reach |                  |        Rapid Max 2        |        None        |          3          |
+|   Magic Reach Slash   |       -2       |      +4d6      |       None       |      3      | Reach |                  |           Rapid           |        None        |          3          |
+|   Magic Reach Thrust   |       -2       |      +3d6      |       None       |      4      | Reach |                  |           Rapid           |        None        |          3          |
+|   Magic Reach Smash   |       -2       |      +2d6      |       None       |      5      | Reach |                  |           Rapid           |        None        |          3          |
+|       Magic Reach Spear       |       -2       |      +4d6      |       None       |      4      | Reach |                  |        Rapid Max 2        |        None        |          3          |
 
 ### Ranged Weapon Spells
 
 |               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Thrown Small Slashing Blade |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
-| Mag. Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
-|            Mag. Sling            |      +0d6      |      None      |       None       |      0      |    Medium    |                  |         Standard         |        None        |          0          |
+| Magic Arc |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+| Magic Dart |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+|            Magic Sling            |      +0d6      |      None      |       None       |      0      |    Medium    |                  |         Standard         |        None        |          0          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Medium Spear     |      +1d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
-|        Mag. Hand Crossbow        |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
-|       Mag. Light Crossbow       |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
-|          Mag. Light Bow          |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
-|         Mag. Close Cone         |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
+|     Magic Javelin     |      +1d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
+|        Magic Hand Bolt        |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
+|       Magic Bolt       |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
+|          Magic Arrow          |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
+|         Magic Close Cone         |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
 |     Mag. Thrown Large Spear     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
-|       Mag. Heavy Crossbow       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
-|         Mag. Medium Cone         |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
+|       Magic Large Bolt       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
+|         Magic Medium Cone         |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|          Mag. Heavy Bow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
+|          Magic Large Arrow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |        Mag. Magic Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
 ### [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
