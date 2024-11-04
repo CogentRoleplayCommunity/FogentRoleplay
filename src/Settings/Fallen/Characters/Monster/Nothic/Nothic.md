@@ -55,23 +55,22 @@
 
 |               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mag. Thrown Small Slashing Blade |      +1d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
-| Mag. Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      1      |    Short    |                  |           Quick           |        None        |          0          |
-|            Mag. Sling            |      +1d6      |      None      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
+| Mag. Thrown Small Slashing Blade |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+| Mag. Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+|            Mag. Sling            |      +0d6      |      None      |       None       |      0      |    Medium    |                  |         Standard         |        None        |          0          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Medium Spear     |      +2d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
-|        Mag. Hand Crossbow        |      +2d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
-|       Mag. Light Crossbow       |      None      |      +2d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
-|          Mag. Light Bow          |      None      |      +2d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
-|         Mag. Close Cone         |      None      |      +2d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
+|     Mag. Thrown Medium Spear     |      +1d6      |      None      |       None       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
+|        Mag. Hand Crossbow        |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
+|       Mag. Light Crossbow       |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
+|          Mag. Light Bow          |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
+|         Mag. Close Cone         |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Large Spear     |      +2d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
-|       Mag. Heavy Crossbow       |      None      |      +3d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
-|         Mag. Medium Cone         |      None      |      +2d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
+|     Mag. Thrown Large Spear     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+|       Mag. Heavy Crossbow       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
+|         Mag. Medium Cone         |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|          Mag. Heavy Bow          |      None      |      +3d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
-|        Mag. Magic Sphere        |      None      |      +3d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
-
+|          Mag. Heavy Bow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
+|        Mag. Magic Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
 |     Name     | Class |                                   Effect                                   | Magic<br />Resource |
