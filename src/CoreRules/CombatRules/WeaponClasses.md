@@ -183,7 +183,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 |    Medium Spear    |      +2d6      |      None      |       +1d6       |      2      | Melee |      Pierce      |        Rapid Max 2        |        None        |         None         |
-| Thrown Medium Spear |      +1d6      |      None      |       None       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         |
+| Thrown Medium Spear |      +1d6      |      None      |       +1d6       |      2      | Medium |      Pierce      |         Standard         |        None        |         None         |
 
 ## Large Melee
 
