@@ -53,7 +53,7 @@
 
 |               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
 | :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Magic Arc |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
+| Magic Dart |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
 | Magic Dart |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
 |            Magic Sling            |      +0d6      |      None      |       None       |      0      |    Medium    |                  |         Standard         |        None        |          0          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
@@ -64,10 +64,10 @@
 |         Magic Close Cone         |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
 |     Mag. Thrown Large Spear     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
-|       Magic Large Bolt       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
+|       Magic Great Bolt       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
 |         Magic Medium Cone         |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|          Magic Large Arrow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
+|          Magic Great Arrow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 |        Mag. Magic Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
