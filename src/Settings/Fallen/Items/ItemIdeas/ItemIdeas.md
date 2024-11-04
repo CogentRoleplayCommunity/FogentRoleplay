@@ -62,7 +62,7 @@ Tattoo Runecraft weapons
 
 Soulcraft soul gem binding souls
 
-Spellcasting focus. Can be inscribed with runes and charge with energy. The level of the conduit determines how many runes it can hold.
+Spellcasting focus. Can be inscribed with runes and charge with energy. The level of the Spellcasting Focus determines how many runes it can hold.
 
 Transfer stuff from Roll 20
 
