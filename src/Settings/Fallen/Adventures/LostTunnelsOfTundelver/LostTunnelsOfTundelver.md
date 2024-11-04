@@ -1180,7 +1180,7 @@ This ruined stone cottage bears the weight of time.
 Nestled in the shadow of an ancient tree, a crumbling stone cottage devoid of its roof stands amid rampant weeds.
 ```
 
-Among the weeds, two twig blights are hidden near the cottage's open doorway. A Dexterity (Stealth) check should be rolled for the blights, and the result should be compared against the passive Wisdom (Perception) scores of the characters to determine whether the blights are spotted.
+Among the weeds, two twig blights are hidden near the cottage's open doorway. A RFX (Stealth) check should be rolled for the blights, and the result should be compared against the passive Wisdom (Perception) scores of the characters to determine whether the blights are spotted.
 
 These blights do not initiate attacks on their own (unless acting in self-defense) but rush to aid the twig blights in area 2 if combat breaks out.
 
@@ -1196,7 +1196,7 @@ Wind and weather have taken their toll on these structures, leaving behind very 
 These two ruined cottages, situated side by side, appear as though they might have been the homes of prosperous shop owners or well-to-do farmers in the past. Now, all that remains are crumbling walls and heaps of debris. Several young trees have sprouted amid the ruins.
 ```
 
-Camouflaged among the ordinary foliage, there is a deadly menace - six twig blights. Detecting them necessitates a successful Perception Skill Check contested by the blights' Dexterity (Stealth) check.
+Camouflaged among the ordinary foliage, there is a deadly menace - six twig blights. Detecting them necessitates a successful Perception Skill Check contested by the blights' RFX (Stealth) check.
 
 These plant creatures are hungry and will fight until they are destroyed. In the event of an attack, the twig blights in area 1 will join the combat one round later.
 
@@ -1380,7 +1380,7 @@ This fallen cottage serves as a lure for the nearby lairing creatures, attractin
 Large heaps of wreckage are visible within the ruin. In one corner stands a shattered loom.
 ```
 
-Six twig blights skulk in the thicket south of the ruin. Allow each character to attempt a Perception Skill Check, contested by the blights' Dexterity (Stealth) check, to avoid being taken by surprise.
+Six twig blights skulk in the thicket south of the ruin. Allow each character to attempt a Perception Skill Check, contested by the blights' RFX (Stealth) check, to avoid being taken by surprise.
 
 Notably, any loud noises in this area will alert the cultists in area 13, who will proceed cautiously to investigate.
 
@@ -1580,7 +1580,7 @@ Even in daylight, this chamber remains shrouded in darkness. The following text 
 This narrow, lofty hall appears to have served as a chapel or shrine long ago. Angelic figures are sculpted into the upper reaches of the room, gazing down upon the floor below. To the north, heavy curtains obscure a pair of matching archways. Between these archways stands a cracked yet ornately carved stone brazier.
 ```
 
-Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's Dexterity (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
+Within this chamber resides a grick, the personal pet of the Vermkin Lhupo from area 9. The grick takes pleasure in climbing up to a hidden ledge concealed in the shadows amidst the statuary in the upper reaches of the room. It silently observes intruders entering the area before suddenly dropping to strike. Determine who among the party is caught by surprise by comparing the grick's RFX (Stealth) check to the characters' Perception Skill Checks or their passive perception scores. The grick refrains from attacking Vermkins, as they are not to be consumed without Lhupo's consent.
 
 Other Mountainmaws are deeply apprehensive of Lhupo's pet and swiftly cross this room, preferably in small groups. Any cleric who examines the chapel's decorations may attempt a CL 2 General Knowledge check to identify the deities once revered here: Oghma (god of knowledge), Mystra (goddess of magic), Lathander (god of dawn), and Tymora (goddess of luck). This suggests that the castle's builders were dhampir.
 
@@ -1828,7 +1828,7 @@ The southern tunnel once served as the original entrance to Tide Echo Tunnels bu
 In this naturally formed, thirty-foot-high cavern, the walls are adorned with simple reliefs depicting hardworking molekin and serpentkin miners. Below these carvings, the cavern floor is strewn with the remains of almost two dozen skeletons, some of molekin and others ogrekins, all in rusted, scant armor. Several large brass lanterns are situated in niches or on ledges around the cavern, but none of them are lit.
 ```
 
-Clutching the ceiling like bats are ten stirges. These creatures find little living prey in the mines and are ravenous. If the characters are looking down at the skeletons on the floor, the stirges are likely to catch them by surprise. Characters not watching the ceiling will be surprised, unless their passive Wisdom (Perception) score exceeds the total of the stirges' Dexterity (Stealth) check (roll once for all of them). Characters who avoid surprise will hear a flapping noise as the stirges descend to attack.
+Clutching the ceiling like bats are ten stirges. These creatures find little living prey in the mines and are ravenous. If the characters are looking down at the skeletons on the floor, the stirges are likely to catch them by surprise. Characters not watching the ceiling will be surprised, unless their passive Wisdom (Perception) score exceeds the total of the stirges' RFX (Stealth) check (roll once for all of them). Characters who avoid surprise will hear a flapping noise as the stirges descend to attack.
 
 The lanterns and carvings of miners at work were originally meant to welcome newcomers.
 
@@ -2078,7 +2078,7 @@ Two Ferralkins flank a spiderkin dressed in black leather armor and robes as the
 "It appears I must handle you personally. Regrettably, it must conclude this way."
 ```
 
-Nezznar the Black Spider is accompanied by four formidable giant spiders who defend their master to the death. If they anticipate trouble, the spiders conceal themselves behind the pillars while Nezznar cloaks himself in invisibility, positioning near the table. Roll a Dexterity (Stealth) check for the spiders. As intruders appear, the spiders will attempt to ensnare them in webs before closing in for melee combat. Nezznar joins the fray the round following the spiders' attack.
+Nezznar the Black Spider is accompanied by four formidable giant spiders who defend their master to the death. If they anticipate trouble, the spiders conceal themselves behind the pillars while Nezznar cloaks himself in invisibility, positioning near the table. Roll a RFX (Stealth) check for the spiders. As intruders appear, the spiders will attempt to ensnare them in webs before closing in for melee combat. Nezznar joins the fray the round following the spiders' attack.
 
 Should the doppelganger from Area 18 have retreated to this location, it assumes the appearance of Nundro Stoneseeker, a molekin, providing Nezznar with a facade to exploit as leverage for fogrekining the party's surrender (although the spiderkin does not intend to harm the doppelganger). Refer to the "Roleplaying Nezznar" section for additional insight into the spiderkin villain.
 
