@@ -19,7 +19,6 @@ Magic Reach Thrust,-2,+3d6,None,4,Reach,Rapid,,3
 Magic Reach Smash,-2,+2d6,None,5,Reach,Rapid,,3
 Magic Reach Spear,-2,+4d6,None,4,Reach,Rapid Max 2,,3
 ,,,,,,,,
-Magic Arc,+0d6,None,+1d6,0,Short,Quick,,0
 Magic Dart,+0d6,None,+1d6,0,Short,Quick,,0
 Magic Sling,+0d6,None,None,1,Medium,Standard,,0
 ,,,,,,,,
@@ -29,9 +28,9 @@ Magic Bolt,None,+1d6,None,1,Far,Loading,,1
 Magic Arrow,None,+1d6,None,1,Far,Quick,,1
 Magic Close Cone,None,+1d6,None,3,Close Cone,1,Close Cone Calculation,1
 ,,,,,,,,
-Magic Large Javelin,+1d6,None,None,3,Short,Standard,,2
-Magic Large Bolt,None,+2d6,None,3,Long,Complex Loading,,2
+Magic Great Javelin,+1d6,None,None,3,Short,Standard,,2
+Magic Great Bolt,None,+2d6,None,3,Long,Complex Loading,,2
 Magic Medium Cone,None,+1d6,None,3,Medium Cone,1,Medium Cone Calculation,2
 ,,,,,,,,
-Magic Large Arrow,None,+2d6,None,3,Sharpshooter,Standard,,3
+Magic Great Arrow,None,+2d6,None,3,Sharpshooter,Standard,,3
 Magic Medium Sphere,None,+2d6,None,3,Long,1,Medium Sphere Calculation,3
