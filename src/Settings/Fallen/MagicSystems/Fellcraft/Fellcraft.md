@@ -425,7 +425,7 @@ Spidercraft users can narratively attempt the following:
 
 - Produce webbing of various strength and adhesiveness
 - Manipulate webbing
-- Stick to surfaces like a spider (Assist with Spider Craft for Climb Checks)
+- Stick to surfaces like a spider (Assist with Spider Craft for Athletics Checks)
 
 Webs cannot inflict damage. Instead follow the table below.
 
