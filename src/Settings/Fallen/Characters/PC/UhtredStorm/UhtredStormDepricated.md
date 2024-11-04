@@ -7,8 +7,8 @@
 | STR       | 0 |    | RFX             | 2 |    | INT               | 0 |    |
 | --------- | :-: | :-: | --------------- | :-: | :-: | ----------------- | :-: | :-: |
 | Athletics | 2 | 5d6 | Dexterity      | 0 | 5d6 | Communication     | 0 | 3d6 |
-| Climb     | 0 | 3d6 | Perception      | 2 | 7d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 3d6 | Sleight of Hand | 1 | 6d6 | Survival          | 0 | 3d6 |
+| (Deprecated)     | 0 | 3d6 | Perception      | 2 | 7d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 3d6 | (Deprecated) | 1 | 6d6 | (Deprecated)          | 0 | 3d6 |
 | Lift      | 0 | 3d6 | Stealth         | 0 | 5d6 | Will              | 0 | 3d6 |
 
 ## Vocations and Vocational Skills
@@ -34,7 +34,7 @@
 |        Weight Class: Light        |              -0d6 to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |      Terrestrial Combat Speed      |                             50 ft                             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |         Swim Combat Speed         |                             25 ft                             |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         Climb Combat Speed         |                             15 ft                             |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|         Climb Combat Speed         |                             15 ft                             |          |    +5 ft (per Athletics Dice), +/-5 ft (per RFX)    |
 
 ## Combat Rolls
 

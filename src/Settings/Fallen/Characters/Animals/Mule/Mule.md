@@ -7,8 +7,8 @@
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 2 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | -2 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 6d6 |      [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)      | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 1d6 |
-|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 5d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 2 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 1d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 2 | 7d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 1 | 2d6 |
+|     (Deprecated)     | 0 | 5d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 2 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 1d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 2 | 7d6 | (Deprecated) | 0 | 3d6 |          (Deprecated)          | 1 | 2d6 |
 |      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 2 | 7d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 1 | 2d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
@@ -30,7 +30,7 @@
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Large                  |       10x10 ft on battle map.       |          |                                                  |
 |      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                70 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |          [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim          |                35 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                25 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                25 ft                |          |    +5 ft (per Athletics Dice), +/-5 ft (per RFX)    |
 |                                                                                                        |                                    |          |                                                  |
 |                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                 Damage Received                 |
 

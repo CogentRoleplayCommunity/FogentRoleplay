@@ -28,7 +28,7 @@ Items come in various tiers of quality. Depending on an item's tiers, it will ha
 
 Base dice are always represented by 3 dice, however depending on an item's tier, which type of 3 dice can change. For instance, a mundane dagger has base dice of 3d6 for a combat roll. With a Mythic dagger, the base dice would be 2d20 and 1d12.
 
-Item Tier also applies to Magic Conduits, tools used in skill rolls (high-quality grappling hook for Climb), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability.
+Item Tier also applies to Magic Conduits, tools used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability.
 
 ## Item Durability (Optional)
 

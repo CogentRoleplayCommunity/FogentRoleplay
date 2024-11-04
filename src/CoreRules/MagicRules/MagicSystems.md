@@ -45,7 +45,7 @@ Examples of Magic Governing Core Skills:
 * Magic that relies on the mind, will, or spirit to produce Magic Resources could use Will. (Wizard Magic)
 * Magic that relies upon a belief in a divine higher power could use Will. (Cleric Magic)
 * Magic that relies upon a relationship with a divine being or a pact with a nefarious entity could use Communication, as it is only through the connection to the entity that the magic is held together. (Warlock Magic)
-* Magic that relies upon one's connection with nature could use Survival. (Druidic Magic)
+* Magic that relies upon one's ability to Will nature to do as they please. (Druidic Magic)
 
 ## Magic Skills
 

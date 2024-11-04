@@ -2,7 +2,7 @@
 
 ## Staggered
 
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, Sleight Hand, etc... )
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... )
 - Movement speed is halved.
 
 ## Blinded
@@ -29,7 +29,7 @@
 - Can't move, unless through Grapple Move.
 - A character using a medium or larger weapon is considered unarmed against a grappler. Medium weapons can be used in a Grapple against reach weapons.
 - Injury reduction from armor is not applicable while in a Grapple.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, Sleight Hand, etc... ), except against grappler.
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, etc... ), except against grappler.
 - Ends if the grappler is Incapacitated.
 
 ## Incapacitated
@@ -44,14 +44,14 @@
 ## Paralyzed
 
 - Incapacitated (see the Condition).
-- Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics, Sleight Hand, etc... )
+- Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics,  etc... )
 
 ## Petrified
 
 * A petrified creature is transformed, along with any non-magical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 * Incapacitated (see the condition).
 * Can't speak.
-- Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics, Sleight Hand, etc... )
+- Automatically fail any check that requires moving their body (i.e. Dexterity, Athletics,  etc... )
 * Serious Resistance to all damage.
 * Complete Resistance to poison, necrotic, and disease, although a poison, rot, or disease already in its system is suspended, not neutralized.
 
@@ -64,13 +64,13 @@
 ## Restrained
 
 - Can't move.
-- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, Sleight Hand, etc... )
+- Disadvantage on any checks that require coordinated movement (i.e. Combat Rolls, Dexterity, Athletics,  etc... )
 
 ## Stunned
 
 * Incapacitated (see the condition).
 * Can't coherently speak.
-* Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Dexterity, Athletics, Sleight Hand, etc... )
+* Automatically fail any check that requires coordinated movement (i.e. Combat Rolls, Dexterity, Athletics,  etc... )
 
 ## Unconscious
 
@@ -78,4 +78,4 @@
 - Can't speak.
 - Unaware of surroundings.
 - The character drops whatever they are holding and falls prone (see the condition).
-- Automatically fail any check that requires coordinated movement (i.e. Dexterity, Athletics, Sleight Hand, etc... )
+- Automatically fail any check that requires coordinated movement (i.e. Dexterity, Athletics,  etc... )

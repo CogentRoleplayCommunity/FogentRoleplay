@@ -4,12 +4,12 @@
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
-| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |      [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)      | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 4d6 |
-|     [Climb](./../../../../../CoreRules/GeneralRules/CoreSkills.md#climb)     | 0 | 3d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 1 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Sleight of Hand](./../../../../../CoreRules/GeneralRules/CoreSkills.md#sleight-of-hand) | 0 | 3d6 |          [Survival](./../../../../../CoreRules/GeneralRules/CoreSkills.md#survival)          | 1 | 5d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 1 | 5d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 4d6 |
+|                               (Deprecated)                               | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 1 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 |                                (Deprecated)                                | 0 | 3d6 |                                       (Deprecated)                                       | 1 | 5d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 1 | 5d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
@@ -35,9 +35,9 @@
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |        5x5 ft on battle map.        |          |                                                  |
 |      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim         |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                15 ft                |          |    +5 ft (per Climb Dice), +/-5 ft (per RFX)    |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                15 ft                |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                        |                                    |          |                                                  |
-|        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection        |                 5/5                 |          |              Druid/Survival Level              |
+|        [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection        |                 5/5                 |          |                Druid/Will Level                |
 |                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |    – 0 dice to all dice checks.    |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
@@ -94,6 +94,7 @@
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 | Magic Medium Sphere |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
 |     Name     | Class |                                   Effect                                   | Magic<br />Resource |
