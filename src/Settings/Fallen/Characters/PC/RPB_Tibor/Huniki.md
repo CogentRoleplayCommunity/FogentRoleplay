@@ -7,8 +7,8 @@
 |    STR    |   0   | Roll  |       RFX       |   1   | Roll  |        INT        |   0   | Roll  |
 | :-------: | :---: | :---: | :-------------: | :---: | :---: | :---------------: | :---: | :---: |
 | Athletics |   0   |  3d6  |   Dexterity    |   0   |  4d6  |   Communication   |   0   |  3d6  |
-|   Climb   |   0   |  3d6  |   Perception    |   0   |  4d6  | General Knowledge |   0   |  3d6  |
-| Endurance |   1   |  4d6  | Sleight of Hand |   0   |  4d6  |     Survival      |   0   |  3d6  |
+|   (Deprecated)   |   0   |  3d6  |   Perception    |   0   |  4d6  | General Knowledge |   0   |  3d6  |
+| Endurance |   1   |  4d6  | (Deprecated) |   0   |  4d6  |     (Deprecated)      |   0   |  3d6  |
 |   Lift    |   1   |  4d6  |     Stealth     |   0   |  4d6  |     Willpower     |  -1   |  2d6  |
 
 <!-- 3 skill points + 1 from narrative DC (Incapable of lying) + 1 redistributed from -1 will (Easily compelled) -->
@@ -41,7 +41,7 @@
 |                                      Weight Class: Light                                       |            -0d6 to STR/RFX governed Dice Pools             |          |                                                         0% =< Equipment Weight <= 25% of Carry Weight                                                         |
 |                                 Terrestrial Combat Speed                                 |                         30 ft                          |          |                                          50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
 |                                   Swim Combat Speed                                   |                         15 ft                          |          |                                         +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                         |
-|                                  Climb Combat Speed                                   |                         15 ft                          |          |                                           +5 ft (per Climb Dice), +/-5 ft (per RFX)                                           |
+|                                  Climb Combat Speed                                   |                         15 ft                          |          |                                           +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                           |
 
 ## Combat Rolls
 

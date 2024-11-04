@@ -18,8 +18,8 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 |    STR    | -1 | Roll |       RFX       | 2 | Roll |        INT        | 0 | Roll |
 | :-------: | :-: | :--: | :-------------: | :-: | :--: | :---------------: | :-: | :--: |
 | Athletics | 0 | 2d6 |   Dexterity   | 0 | 5d6 |   Communication   | 0 | 3d6 |
-|   Climb   | 0 | 2d6 |   Perception   | 1 | 6d6 | General Knowledge | 0 | 3d6 |
-| Endurance | 0 | 2d6 | Sleight of Hand | 0 | 5d6 |     Survival     | 1 | 4d6 |
+|   (Deprecated)   | 0 | 2d6 |   Perception   | 1 | 6d6 | General Knowledge | 0 | 3d6 |
+| Endurance | 0 | 2d6 | (Deprecated) | 0 | 5d6 |     (Deprecated)     | 1 | 4d6 |
 |   Lift   | 0 | 2d6 |     Stealth     | 0 | 5d6 |     Willpower     | 1 | 4d6 |
 
 ## Vocations and Vocational Skills
@@ -52,7 +52,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | Weight Class: Light                                                                             | -0d6 to STR/RFX governed Dice Pools                               |             | 0% =< Equipment Weight <= 25% of Carry Weight                                                                                                                 |
 | Terrestrial Combat Speed                                                                  | 30 ft                                                         |             | +10 ft (per Athletics Dice), +/-10 ft (per RFX)                                                                                |
 | Swim Combat Speed                                                                      | 15 ft                                                         |             | +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                                                                 |
-| Climb Combat Speed                                                                     | 15 ft                                                         |             | +5 ft (per Climb Dice), +/-5 ft (per RFX)                                                                                     |
+| Climb Combat Speed                                                                     | 15 ft                                                         |             | +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                                                                     |
 
 ## Combat Rolls (UNFINISHED)
 
