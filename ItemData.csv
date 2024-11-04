@@ -1,5 +1,5 @@
 desc,quantity,itemClasses,itemEffects,itemTier,durability,weight,value,description
-Cuneiform Tablets,1,Magic Conduit,,Mundane,,0.1,1 cc,
+Cuneiform Tablets,1,Spellcasting Focus,,Mundane,,0.1,1 cc,
 Petty Brightstone,1,,Light Storage,Excellent,,0.1,?,"Brightstone is a rare gem that can hold light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold."
 Mechanical Heart,1,,"Phenomena Detection, Forbidden Whispers",Exquisite,,1,?,"""With this Heart, I will hear many secrets…"" - Unknown
 
@@ -69,10 +69,10 @@ Plumbata/Dart,1,"Small Piercing Blade, Thrown Small Piercing Blade",,Mundane,12/
 Blowgun,1,Blowgun,,Mundane,12/12,1,10 bc,
 ,,,,,,,,
 Steelclaw,1,"Large Thrusting Sword, Large Slashing Sword",,Fine,12/12,3,15 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
-Frostbark,1,"Large Hafted Axe, Magic Conduit",Cold Enchantment,Excellent,21/21,4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature magic is present within the handle, acting as a conduit for magic."
-Draupnir Spear,1,"Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Magic Conduit",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
+Frostbark,1,"Large Hafted Axe, Spellcasting Focus",Cold Enchantment,Excellent,21/21,4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature magic is present within the handle, acting as a conduit for magic."
+Draupnir Spear,1,"Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Spellcasting Focus",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
-This spear can be used as a Air Magic Conduit."
+This spear can be used as a Air Spellcasting Focus."
 Asher's Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Slashing Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
@@ -81,7 +81,7 @@ Fang - Replica,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Pierc
 Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
-Staff of Defense,1,"Large Hafted Blunt, Magic Conduit","Defense Spells, Physical Defense 1.00",Excellent,21/21,3,?,
+Staff of Defense,1,"Large Hafted Blunt, Spellcasting Focus","Defense Spells, Physical Defense 1.00",Excellent,21/21,3,?,
 Monkey Staff,1,"Small Hafted Blunt, Thrown Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
@@ -123,7 +123,7 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
 Asclepius,1,"Medium Spear, Throw Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Whip","Metal Feeding, Command Asclepius",Mastercraft,33/33,3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 Soot and Ash,1,"Medium Thrusting Sword, Medium Slashing Sword, Small Piercing Blade, Small Slashing Blade",,Epic,39/39,0.2,?,
-The Spear of Destiny,1,"Reach Hafted Blade, Reach Spear, Air Magic Conduit, Cold Magic Conduit, Eletric Magic Conduit","Destiny Chosen, Destiny Strength/Reflex, Indestructible, ",Artifact,48/48,14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
+The Spear of Destiny,1,"Reach Hafted Blade, Reach Spear, Air Spellcasting Focus, Cold Spellcasting Focus, Eletric Spellcasting Focus","Destiny Chosen, Destiny Strength/Reflex, Indestructible, ",Artifact,48/48,14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
 
@@ -132,14 +132,14 @@ Eventually the Spear would end up in the possession of the Royal Family of the D
 Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…"
-Dancing Moonlight,1,"Large Thrusting Sword, Large Slashing Sword, Light Magic Conduit, Water Magic Conduit, Shadow Magic Conduit, Blood Magic Conduit","Moonlight Greatsword, Indestructible, Blessing of the Moon",Artifact,48/48,3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
+Dancing Moonlight,1,"Large Thrusting Sword, Large Slashing Sword, Light Spellcasting Focus, Water Spellcasting Focus, Shadow Spellcasting Focus, Blood Spellcasting Focus","Moonlight Greatsword, Indestructible, Blessing of the Moon",Artifact,48/48,3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
 
 A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
 
 When moonlight dances around the sword, and it channels the abyssal cosmos, its great blade will hurl a shadowy lightwave. Few have ever set eyes on the great blade, and whatever guidance it has to offer, it seems to be of a very private, elusive sort.
 
 Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Reddington wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard."
-Adversary - Damaged,1,Magic Conduit,Light Bound,Fine,18/18,1,?,"""Awake, arise, or be forever Fallen…"" - Words of the Bright Lord
+Adversary - Damaged,1,Spellcasting Focus,Light Bound,Fine,18/18,1,?,"""Awake, arise, or be forever Fallen…"" - Words of the Bright Lord
 
 A masterfully crafted golden sword hilt, that appears to be damaged from a tremendous impact, leaving the hilt crack and leaking light. Used as a radiance conduit to focus ones abilities, generally in the shape of a sword blade.
 
@@ -154,7 +154,7 @@ Quality Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",,Quality,15/
 Quality War Axe,1,Large Hafted Axe,,Quality,15/15,5,5 bc,
 War Axe,1,Large Hafted Axe,,Mundane,12/12,5,5 bc,
 Asher’s Arms Bollock Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Superior,24/24,1,10 bc,
-Dragon Torch,1,"Small Hafted Blunt, Magic Conduit",,Artifact,48/48,3,9999 bc,
+Dragon Torch,1,"Small Hafted Blunt, Spellcasting Focus",,Artifact,48/48,3,9999 bc,
 Shovel,1,Large Hafted Blunt,,Shoddy,9/9,5,2 bc,
 Excellent Shortbow,1,Bow,,Excellent,21/21,2,25 bc,
 Quality Swordbreaker,1,Small Slashing Blade,,Mundane,12/12,1,28 bc,
@@ -453,15 +453,15 @@ Dice Set,1,,,Mundane,,0.2,10 cc,
 Playing Card Set,1,,,Mundane,,0.2,50 cc,
 Poisoner's Kit,1,,,Mundane,,2,50 bc,
 Thieves' Tools,1,,,Mundane,,1,25 bc,
-Conduit - Crystal,1,Magic Conduit,,Mundane,,1,10 bc,
-Conduit - Orb,1,Magic Conduit,,Mundane,,3,20 bc,
-Conduit - Rod,1,Magic Conduit,,Mundane,,2,10 bc,
-Conduit - Staff,1,"Magic Conduit, Large Hafted Blunt",,Mundane,,4,5 bc,
-Conduit - Wand,1,Magic Conduit,,Quality,,1,10 bc,
+Conduit - Crystal,1,Spellcasting Focus,,Mundane,,1,10 bc,
+Conduit - Orb,1,Spellcasting Focus,,Mundane,,3,20 bc,
+Conduit - Rod,1,Spellcasting Focus,,Mundane,,2,10 bc,
+Conduit - Staff,1,"Spellcasting Focus, Large Hafted Blunt",,Mundane,,4,5 bc,
+Conduit - Wand,1,Spellcasting Focus,,Quality,,1,10 bc,
 Satchel,12 lb container,,,Mundane,,2,1 bc,
 Component Pouch,12 lb container,,,Mundane,,2,25 bc,
-Spellbook,1,Magic Conduit,,Quality,,3,50 bc,
-Runebook,1,Magic Conduit,,Quality,,3,50 bc,
+Spellbook,1,Spellcasting Focus,,Quality,,3,50 bc,
+Runebook,1,Spellcasting Focus,,Quality,,3,50 bc,
 Fishing Tackle,1,,,Mundane,,4,1 bc,
 1lb of Fishing Bait,1,,,Mundane,,1,5 cc,
 Painter's Supplies,1,,,Mundane,,3,10 bc,
@@ -568,10 +568,10 @@ Potion - Very Rare,1,,,Epic,,0.25,12500 bc,
 Potion - Legendary,1,,,Legendary,,0.25,62500 bc,
 Potion of Invisibility,1,,Single-use Invisibility,Excellent,,0.25,250 bc,
 Spell Components,1,,,Mundane,,0.5,??,
-Druidic Focus - Sprig of Mistletoe,1,Magic Conduit,,Mundane,,0.5,1 bc,
-Druidic Focus - Totem,1,Magic Conduit,,Mundane,,1,1 bc,
-Druidic Focus - Wooden Staff,1,Magic Conduit,,Mundane,,4,5 bc,
-Druidic Focus - Yew Wand,1,Magic Conduit,,Mundane,,1,10 bc,
+Druidic Focus - Sprig of Mistletoe,1,Spellcasting Focus,,Mundane,,0.5,1 bc,
+Druidic Focus - Totem,1,Spellcasting Focus,,Mundane,,1,1 bc,
+Druidic Focus - Wooden Staff,1,Spellcasting Focus,,Mundane,,4,5 bc,
+Druidic Focus - Yew Wand,1,Spellcasting Focus,,Mundane,,1,10 bc,
 “Meat” Stick,1,,,Mundane,,0.25,3 cc,
 Roasted Locusts,1,,,Mundane,,0.25,3 cc,
 Cheese Omelet,1,,,Mundane,,0.25,4 cc,
