@@ -1,20 +1,20 @@
 name,governingSkillName,hardcoreGoverningSkillName,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,damageTypes,engageableOpponents,areaOfEffect,resourceClass
-Hand Crossbow,Crossbow,Hand Crossbow,+2d6,None,+1d6,0,Medium,,Standard,,Bolt
-Light Crossbow,Crossbow,Light Crossbow,None,+2d6,None,1,Far,,Loading,,Bolt
-Heavy Crossbow,Crossbow,Heavy Crossbow,None,+3d6,None,2,Long,,Complex Loading,,Bolt
-Light Bow,Bow,Light Bow,None,+2d6,None,0,Far,,Quick,,Arrow
-Heavy Bow,Bow,Heavy Bow,None,+3d6,None,2,Sharpshooter,,Standard,,Arrow
-Blowgun,Exotic Ranged,Blowgun,+1d6,None,None,0,Mediocre,,Loading,,Blowgun Dart
-Sling,Exotic Ranged,Sling,+1d6,None,None,0,Medium,,Standard,,Sling Bullet
+Hand Crossbow,Crossbow,Hand Crossbow,+1d6,None,+1d6,0,Medium,,Standard,,Bolt
+Light Crossbow,Crossbow,Light Crossbow,None,+1d6,None,1,Far,,Loading,,Bolt
+Heavy Crossbow,Crossbow,Heavy Crossbow,None,+2d6,None,2,Long,,Complex Loading,,Bolt
+Light Bow,Bow,Light Bow,None,+1d6,None,0,Far,,Quick,,Arrow
+Heavy Bow,Bow,Heavy Bow,None,+2d6,None,2,Sharpshooter,,Standard,,Arrow
+Blowgun,Exotic Ranged,Blowgun,+0d6,None,None,0,Mediocre,,Loading,,Blowgun Dart
+Sling,Exotic Ranged,Sling,+0d6,None,None,0,Medium,,Standard,,Sling Bullet
 ,,,,,,,,,,,
-Thrown Small Slashing Blade,Close Melee,Small Blade,+1d6,,+1d6,0,Short,Slash,Quick,,None
-Thrown Small Piercing Blade,Close Melee,Small Blade,+0d6,None,+1d6,1,Short,Pierce,Quick,,None
-Thrown Small Hafted Axe,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Hew,Quick,,None
-Thrown Small Hafted Blade,Close Melee,Small Hafted,+1d6,None,+1d6,0,Short,Slash,Quick,,None
-Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Pierce,Quick,,None
-Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,1,Short,Bludgeon,Quick,,None
-Thrown Medium Spear,Medium Melee,Medium Spear,+2d6,None,None,2,Medium,Pierce,Standard,,None
-Thrown Large Spear,Large Melee,Large Spear,+2d6,None,None,3,Short,Pierce,Standard,,None
+Thrown Small Slashing Blade,Close Melee,Small Blade,+0d6,,+1d6,0,Short,Slash,Quick,,None
+Thrown Small Piercing Blade,Close Melee,Small Blade,+0d6,None,+1d6,0,Short,Pierce,Quick,,None
+Thrown Small Hafted Axe,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Hew,Quick,,None
+Thrown Small Hafted Blade,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Slash,Quick,,None
+Thrown Small Hafted Point,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Pierce,Quick,,None
+Thrown Small Hafted Blunt,Close Melee,Small Hafted,+0d6,None,+1d6,0,Short,Bludgeon,Quick,,None
+Thrown Medium Spear,Medium Melee,Medium Spear,+1d6,None,None,2,Medium,Pierce,Standard,,None
+Thrown Large Spear,Large Melee,Large Spear,+1d6,None,None,3,Short,Pierce,Standard,,None
 ,,,,,,,,,,,
 Unarmed,Close Melee,Unarmed,-1,None,+0d6,0,Melee,Bludgeon,Rapid,,None
 Hand Protection Unarmed,Close Melee,Unarmed,+0d6,None,+0d6,0,Melee,Bludgeon,Rapid,,None
