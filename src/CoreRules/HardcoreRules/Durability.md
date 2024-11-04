@@ -1,8 +1,4 @@
-# Item Tier
-
-Items come in various tiers of quality. Depending on an item's tiers, it will have the following stats associated with it.
-
-## Item Tier List
+## Item Durability (Optional)
 
 |    Name    | Level | Base Dice | Durability Max |
 | :---------: | :---: | :--------: | :------------: |
@@ -24,13 +20,7 @@ Items come in various tiers of quality. Depending on an item's tiers, it will ha
 |   Mythic   |  11  | 2d20, 1d12 |       45       |
 |  Artifact  |  12  |    3d20    |       48       |
 
-## Base Dice
-
-Base dice are always represented by 3 dice, however depending on an item's tier, which type of 3 dice can change. For instance, a mundane dagger has base dice of 3d6 for a combat roll. With a Mythic dagger, the base dice would be 2d20 and 1d12.
-
-Item Tier also applies to Magic Conduits, tools used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat. Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability.
-
-## Item Durability (Optional)
+Some items will rarely use their base dice like armor, instead benefiting more from other stats on the table such as durability.
 
 Using item durability is a great way to increase immersion (such as having to go to a blacksmith or learn to repair their gear) and challenge your players. However, for players who want a more casual experience, item durability can be disregarded.
 
