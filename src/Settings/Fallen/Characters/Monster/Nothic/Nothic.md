@@ -65,12 +65,12 @@
 |          Magic Arrow          |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
 |         Magic Close Cone         |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Large Spear     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+|     Magic Great Javelin     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
 |       Magic Great Bolt       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
 |         Magic Medium Cone         |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
 |          Magic Great Arrow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
-|        Mag. Magic Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+|        Magic Medium Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
 |     Name     | Class |                                   Effect                                   | Magic<br />Resource |

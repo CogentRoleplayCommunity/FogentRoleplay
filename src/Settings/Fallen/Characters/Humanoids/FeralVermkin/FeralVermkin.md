@@ -102,12 +102,12 @@
 |          Magic Arrow          |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
 |         Magic Close Cone         |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
-|     Mag. Thrown Large Spear     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
+|     Magic Great Javelin     |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
 |       Magic Great Bolt       |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
 |         Magic Medium Cone         |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                                  |                |                |                  |            |              |                  |                          |                    |                    |
 |          Magic Great Arrow          |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
-|        Mag. Magic Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+|        Magic Medium Sphere        |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
 | Name                  | # |       [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)       | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
