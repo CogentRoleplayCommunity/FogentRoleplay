@@ -682,7 +682,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Ceilings.** The height of passages and chambers is typically 10 feet, unless otherwise specified.
 
-**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Sleight of Hand check, and doors can be forcefully broken down with a successful CL 4 Lift check.
+**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Lockpicking check, and doors can be forcefully broken down with a successful CL 4 Lift check.
 
 **Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. If a character is within 10 feet, the narrator should promt a environmental CL 3 Perception Skill check to detect the secret door. A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
 
@@ -802,7 +802,7 @@ Two Lavender Lancer ruffians donned in Lavender cloaks serve as guards in this p
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful CL 4 Lift Skill check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Lockpicking Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful CL 4 Lift Skill check.
 
 #### Captives
 
@@ -1626,7 +1626,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful CL 5 Lift Skill check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Lockpicking Skill check, or simply fogrekined open with a successful CL 5 Lift Skill check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1852,7 +1852,7 @@ The paper within the cubbyholes, ancient and brittle, disintegrates upon contact
 
 #### **Treasure**
 
-Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a CL 4 Sleight Of Hand Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
+Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a CL 4 Lockpicking Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
 
 ### **6. South Barracks**
 
@@ -2106,7 +2106,7 @@ If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster W
 
 ### **20. Quarters of the Priests**
 
-The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Sleight Of Hand Skill check to open. Nezznar (from Area 19) possesses the key.
+The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Lockpicking Skill check to open. Nezznar (from Area 19) possesses the key.
 
 Unless the characters are maintaining a stealthy approach, any activity at the door catches the attention of Nezznar and his comrades in Area 19, prompting the spiderkin to dispatch his giant spiders to investigate.
 

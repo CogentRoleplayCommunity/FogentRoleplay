@@ -51,7 +51,7 @@
 
 - Athletics -> Athletics, Lift, Climb
 - Acrobatics -> Dexterity
-- Sleight of Hand -> Sleight of Hand
+- Sleight of Hand -> Dexterity
 - Stealth -> Stealth
 - Arcana, History, Investigation, Nature, Religion -> General Knowledge
 - Animal Handling, Survival -> Survival
