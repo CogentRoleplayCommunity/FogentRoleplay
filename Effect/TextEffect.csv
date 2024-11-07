@@ -1,4 +1,11 @@
 Name,Effect,duration,source
+Destiny Resistance,"“Every villain is a hero of his own story.”
+
+Some have wills strong enough to resist the pull of destiny. Destiny points cannot be spent after a roll against this character.",,
+Destiny Immunity,"“Our Destiny is not written for us, but by us.”
+
+Some have wills so strong they are immune to the pull of destiny. Destiny points cannot be spent against this character.",,
+,,,
 Condition Immunities:,Character is immune to the specified conditions.,,
 ,,,
 Healing: Minor Healing Factor,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.Minor injuries heal in a short rest. Medium injuries heal during a long rest. Stabilized Serious injuries heal over a 24-hour rest. Cannot affect higher-tier injuries.",,
