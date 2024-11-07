@@ -1506,7 +1506,7 @@ Mountainmaw Castle's primary defenses rely on its concealed location and the app
 This small room is strewn with debris. The arrow slit opposite the door provides a clear field of fire over the terrace in front of the castle gates.
 ```
 
-Two Vermkins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the Vermkins will drop their shortbows and draw their melee weapons.
+Two Vermkins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the Vermkins will drop their Light Longbows and draw their melee weapons.
 
  **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters for each pair of Vermkin archers the party defeats.
 
