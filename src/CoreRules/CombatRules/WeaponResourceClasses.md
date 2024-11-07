@@ -13,6 +13,10 @@ Resource Class determines the resource a weapon uses to operate.
 - .308 Ammo
 - RPG Ammo
 
+## Dice Pool Mod
+
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Weapon Resource is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
+
 ## Base Dice Tier Adjustment
 
 Dice Modifier to be added to a Combat Roll when used with a Weapon Class.
@@ -37,21 +41,21 @@ A Weapon Resource Class can have an Area Of Effect that overrides the Weapon Cla
 
 ## Weapon Resource Class List
 
-|          Name          | Resource Class | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--------------------: | :------------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-|     Standard Bolt     |      Bolt      |            +0            |      1      | None |      Pierce      |        None        |
-|     Wounding Bolt     |      Bolt      |            +0            |      1      | None |   Pierce, Bleed   |        None        |
-|    Anti-armor Bolt    |      Bolt      |            +0            |      2      | None |      Pierce      |        None        |
-|     Survival Bolt     |      Bolt      |            -1            |      0      | None |      Pierce      |        None        |
-|      Shoddy Bolt      |      Bolt      |            -1            |      1      | None |      Pierce      |        None        |
-|     Standard Arrow     |     Arrow     |            +0            |      1      | None |      Pierce      |        None        |
-|     Wounding Arrow     |     Arrow     |            +0            |      1      | None |   Pierce, Bleed   |        None        |
-|    Anti-armor Arrow    |     Arrow     |            +0            |      2      | None |      Pierce      |        None        |
-|     Survival Arrow     |     Arrow     |            -1            |      0      | None |      Pierce      |        None        |
-|      Shoddy Arrow      |     Arrow     |            -1            |      1      | None |      Pierce      |        None        |
-|     Poison Needles     |  Blowgun Dart  |            +0            |      0      | None |      Poison      |        None        |
-| Standard Sling Bullets |  Sling Bullet  |            +0            |      1      | None |     Bludgeon     |        None        |
-|      9mm FMJ Ammo      |    9mm Ammo    |            +0            |      4      | None |      Pierce      |        None        |
-|     5.56 FMJ Ammo     |   5.56 Ammo   |            +0            |      6      | None |      Pierce      |        None        |
-|     .308 FMJ Ammo     |   .308 Ammo   |            +0            |      8      | None |      Pierce      |        None        |
-|        RPG Ammo        |    RPG Ammo    |            +0            |     10     | None |  Fire, Shockwave  |    30 ft Sphere    |
+|          Name          | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :--------------------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
+|     Standard Bolt     |      Bolt      |     +0d6     |            +0            |      1      | None |      Pierce      |        None        |
+|     Wounding Bolt     |      Bolt      |     +0d6     |            +0            |      1      | None |   Pierce, Bleed   |        None        |
+|    Anti-armor Bolt    |      Bolt      |     +0d6     |            +0            |      2      | None |      Pierce      |        None        |
+|     Survival Bolt     |      Bolt      |     +0d6     |            -1            |      0      | None |      Pierce      |        None        |
+|      Shoddy Bolt      |      Bolt      |     +0d6     |            -1            |      1      | None |      Pierce      |        None        |
+|     Standard Arrow     |     Arrow     |     +0d6     |            +0            |      1      | None |      Pierce      |        None        |
+|     Wounding Arrow     |     Arrow     |     +0d6     |            +0            |      1      | None |   Pierce, Bleed   |        None        |
+|    Anti-armor Arrow    |     Arrow     |     +0d6     |            +0            |      2      | None |      Pierce      |        None        |
+|     Survival Arrow     |     Arrow     |     +0d6     |            -1            |      0      | None |      Pierce      |        None        |
+|      Shoddy Arrow      |     Arrow     |     +0d6     |            -1            |      1      | None |      Pierce      |        None        |
+|     Poison Needles     |  Blowgun Dart  |     +0d6     |            +0            |      0      | None |      Poison      |        None        |
+| Standard Sling Bullets |  Sling Bullet  |     +0d6     |            +0            |      1      | None |     Bludgeon     |        None        |
+|      9mm FMJ Ammo      |    9mm Ammo    |     +0d6     |            +0            |      4      | None |      Pierce      |        None        |
+|     5.56 FMJ Ammo     |   5.56 Ammo   |     +0d6     |            +0            |      6      | None |      Pierce      |        None        |
+|     .308 FMJ Ammo     |   .308 Ammo   |     +0d6     |            +0            |      8      | None |      Pierce      |        None        |
+|        RPG Ammo        |    RPG Ammo    |     +0d6     |            +0            |     10     | None |  Fire, Shockwave  |    30 ft Sphere    |
