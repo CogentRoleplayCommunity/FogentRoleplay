@@ -4,12 +4,12 @@
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
-| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |      [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)      | 1 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 5d6 |
-|     (Deprecated)     | 1 | 4d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | (Deprecated) | 0 | 3d6 |          (Deprecated)          | 1 | 5d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 4d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 1 | 4d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 5d6 |
+|                               (Deprecated)                               | 1 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 |                                (Deprecated)                                | 0 | 3d6 |                                       (Deprecated)                                       | 1 | 5d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 4d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
@@ -22,7 +22,7 @@
 
 |   Warrior   | STR, RFX, INT | 0 | 4d6 |
 | :---------: | :-----------: | :-: | :-: |
-| Close Melee  | STR, RFX, INT | 0 | 4d6 |
+| Close Melee | STR, RFX, INT | 0 | 4d6 |
 
 ## Info
 
@@ -44,7 +44,7 @@
 |                       [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                       |                5x5 ft on battle map.                |          |                                                  |
 |           [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial           |                        30 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |              [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim              |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|              [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb              |                        20 ft                        |          |    +5 ft (per Athletics Dice), +/-5 ft (per RFX)    |
+|              [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb              |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                  |                                                      |          |                                                  |
 |             [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection             |                         7/7                         |          |       Vocation/Magic Governing Core Skill       |
 |                      [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                      |                         0/3                         |          |               Awarded by Narrator               |
@@ -66,8 +66,8 @@
 #### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
 | Name | Resource Class | [Base Dice Tier Adjustment](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
-| :--: | :------------: | :-----------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-|      |                |              |                                                                                        |                                                      |                                                                        |                                                                            |
+| :--: | :------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+|      |                |                                                                                                        |                                                                                        |                                                      |                                                                        |                                                                            |
 
 ### Melee Weapon Spells
 
@@ -112,6 +112,7 @@
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 | Magic Medium Sphere |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
 |     Name     | Class |                                   Effect                                   | Magic<br />Resource |
@@ -130,12 +131,12 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name             | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ---------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Pouch | 1 |                       6 lb container                       |                                                                |                          Mundane                          |                                                                      |                             1                             |                    50 cc                    |
-| Copper Coin      | 70 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 cc                    |
-| Bronze Coin      | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
-| Clothes, Common  | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
+| Name            | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/ItemEffects.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
+| --------------- | :-: | :---------------------------------------------------------: | -------------------------------------------------------------- | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
+| Pouch           | 1 |                       6 lb container                       |                                                                |                          Mundane                          |                                                                      |                             1                             |                    50 cc                    |
+| Copper Coin     | 70 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 cc                    |
+| Bronze Coin     | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
+| Clothes, Common | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
 
 ## Notes
 

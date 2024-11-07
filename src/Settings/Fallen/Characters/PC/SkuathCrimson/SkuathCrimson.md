@@ -6,12 +6,12 @@ Unspent Skill Point: 1
 
 ## [Attributes](./../../../../../CoreRules/GeneralRules/Attributes.md) and [Core Skills](./../../../../../CoreRules/GeneralRules/CoreSkills.md)
 
-|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |         [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)         | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
-| :-----------------------------------------------------------------------: | :-: | :-: | :-----------------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |      [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)      | 1 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
-|     (Deprecated)     | 0 | 3d6 |      [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception)      | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | (Deprecated) | 0 | 4d6 |          (Deprecated)          | 1 | 4d6 |
-|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |         [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)         | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
+|  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 0 |    |
+| :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 1 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 3d6 |
+|                               (Deprecated)                               | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 |                                (Deprecated)                                | 0 | 4d6 |                                       (Deprecated)                                       | 1 | 4d6 |
+|      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 1 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
@@ -43,7 +43,7 @@ Unspent Skill Point: 1
 |                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |                5x5 ft on battle map.                |          |                                                  |
 |            [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial            |                        50 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |               [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim               |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|               [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb               |                        20 ft                        |          |    +5 ft (per Athletics Dice), +/-5 ft (per RFX)    |
+|               [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb               |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                    |                                                      |          |                                                  |
 |                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                  |                         2/2                         |          |       Vocation/Magic Governing Core Skill       |
 |                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                         2/3                         |          |               Awarded by Narrator               |
@@ -67,9 +67,9 @@ Unspent Skill Point: 1
 
 #### [Weapon Resource Classes](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md)
 
-|      Name      | Resource Class |  [Base Dice Tier Adjustment](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice)  | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
-| :------------: | :------------: | :-------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| Standard Light Arrow |     Arrow     | 6d6<br />(+0) |                                            1                                            |                         None                         |                                 Pierce                                 |                                    None                                    |
+|         Name         | Resource Class | [Base Dice Tier Adjustment](./../../../../../CoreRules/CombatRules/WeaponResourceClasses.md#resource-dice) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) |
+| :------------------: | :------------: | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| Standard Light Arrow |     Arrow     |                                              6d6<br />(+0)                                              |                                            1                                            |                         None                         |                                 Pierce                                 |                                    None                                    |
 
 ### Melee Weapon Spells
 
@@ -114,6 +114,7 @@ Unspent Skill Point: 1
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
 | Magic Medium Sphere |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
 |     Name     | Class |                                   Effect                                   | Magic<br />Resource |
@@ -130,9 +131,9 @@ Unspent Skill Point: 1
 | Leather Armor                  | 1 |        Head Armor, Body Armor, Arm Armor, Leg Armor        | Phy. Def. 2.00                                                 |                          Quality                          |                                 15/15                                 |                             12                             |                    10 bc                    |
 | Quarterstaff with Hidden Spear | 1 |     Large Hafted Blunt, Large Spear, Thrown Large Spear     |                                                                |                          Mundane                          |                                 12/12                                 |                             4                             |                    2 bc                    |
 | Javelin                        | 2 |              Medium Spear, Thrown Medium Spear              |                                                                |                          Mundane                          |                                 12/12                                 |                             3                             |                    5 bc                    |
-| Light Longbow                       | 1 |                          Light Bow                          |                                                                |                          Mundane                          |                                 12/12                                 |                             2                             |                    25 bc                    |
+| Light Longbow                  | 1 |                          Light Bow                          |                                                                |                          Mundane                          |                                 12/12                                 |                             2                             |                    25 bc                    |
 | Quiver (capacity: 20)          | 1 |                                                            |                                                                |                          Mundane                          |                                                                      |                             1                             |                    1 bc                    |
-| Light Arrow - Broadhead                | 20 |                       Standard Light Arrow                       |                                                                |                          Mundane                          |                                                                      |                            0.05                            |                    5 cc                    |
+| Light Arrow - Broadhead        | 20 |                    Standard Light Arrow                    |                                                                |                          Mundane                          |                                                                      |                            0.05                            |                    5 cc                    |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
@@ -143,7 +144,7 @@ Unspent Skill Point: 1
 
 | Name                                                    |  #  |      Class      | Effect        |   Tier   | Durability |  LB  | Value |
 | ------------------------------------------------------- | :-: | :-------------: | ------------- | :-------: | :--------: | :--: | :---: |
-| Backpack                                       |  1  | 30 lb container |               |  Mundane  |            |  5  | 2 bc |
+| Backpack                                                |  1  | 30 lb container |               |  Mundane  |            |  5  | 2 bc |
 | Ring, Mundane                                           |  1  |                |               |  Mundane  |            | 0.2 | 30 cc |
 | Bronze Coin                                             | 38 |                |               |  Mundane  |            | 0.02 | 1 bc |
 | Copper Coin                                             | 70 |                |               |  Mundane  |            | 0.02 | 1 cc |
