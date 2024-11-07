@@ -15,13 +15,13 @@ Resource Class determines the resource a weapon uses to operate.
 
 ## Dice Pool Mod
 
-Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Weapon Resource is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a standard arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a standard arrow, so it would lose dice.
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Weapon Resource is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Standard Light Arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Standard Light Arrow, so it would lose dice.
 
 ## Base Dice Tier Adjustment
 
 Dice Modifier to be added to a Combat Roll when used with a Weapon Class.
 
-Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Level 0, or as dice 3d6) were to use a Survival Arrow which has a -1 Base Dice Tier Adjustment, then the resulting combat roll would use 1d4,2d6 base dice tier (Level -1). If instead a Standard Arrow were used, the resulting combat roll would use 3d6 base dice tier (Level 0).
+Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Level 0, or as dice 3d6) were to use a Survival Arrow which has a -1 Base Dice Tier Adjustment, then the resulting combat roll would use 1d4,2d6 base dice tier (Level -1). If instead a Standard Light Arrow were used, the resulting combat roll would use 3d6 base dice tier (Level 0).
 
 ## Penetration
 
