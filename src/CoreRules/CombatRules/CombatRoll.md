@@ -5,7 +5,8 @@ Combat rolls are Dice Pools that represent a character's effectiveness in combat
 - +Base Dice (varies with item tier, generally 3d6)
 - +/- 1d6 per Weapon Skill
 - +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
-- +/- Weapon Class Dice (Hand Crossbow, Medium Spear, etc...)
+- +/- Weapon Class Dice Pool Mods (Hand Crossbow, Medium Spear, etc...)
+- +/- Weapon Resource Dice Pool Mods (Standar Arrow, Bomb Arrow, etc...)
 
 ### Example 1:
 
@@ -27,5 +28,6 @@ Javk Wick the rogue has a Light Crossbow and Standard Bolts. He has a weapon ski
 - +1d6 (Level 1 Crossbow Skill)
 - +1d6 (Level 1 RFX)
 - +2d6 (Light Crossbow Two-Handed)
+- +0d6 (Standard Bolt)
 
 Based on the dice above, Javk using his Light Crossbow has a 7d6.
