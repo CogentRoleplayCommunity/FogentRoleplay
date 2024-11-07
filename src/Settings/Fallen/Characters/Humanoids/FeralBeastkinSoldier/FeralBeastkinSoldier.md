@@ -70,4 +70,4 @@
 |     Arming Sword     | 1 |             Medium Thrusting Sword, Medium Slashing Sword             |                |  Mundane  |   12/12   |  2  | 10 bc |
 |       Shortbow       | 1 |                               Light Bow                               |                |  Mundane  |   12/12   |  2  | 25 bc |
 | Quiver (capacity: 20) | 1 |                                                                      |                |  Mundane  |            |  1  | 1 bc |
-|    Broadhead Arrow    | 20 |                            Standard Arrow                            |                |  Mundane  |            | 0.05 | 5 cc |
+|    Light Arrow - Broadhead    | 20 |                            Standard Arrow                            |                |  Mundane  |            | 0.05 | 5 cc |
