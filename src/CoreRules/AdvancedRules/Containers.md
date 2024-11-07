@@ -24,7 +24,7 @@ When representing a container on a character sheet, a similar table as the one b
 | Name                  |   #   |      Class      | Effect |  Tier   | Durability |  LB   | Value |
 | --------------------- | :---: | :-------------: | ------ | :-----: | :--------: | :---: | :---: |
 | Backpack     |   1   | 30 lb container |        | Mundane |            |   5   | 2 bc  |
-| Shortbow              |   1   |    Light Bow    |        | Mundane |   12/12    |   2   | 25 bc |
+| Light Longbow              |   1   |    Light Bow    |        | Mundane |   12/12    |   2   | 25 bc |
 | Quiver (capacity: 20) |   1   |                 |        | Mundane |            |   1   | 1 bc  |
 | Light Arrow - Broadhead       |  20   | Standard Light Arrow  |        | Mundane |            | 0.05  | 5 cc  |
 | Ring, Mundane         |   1   |                 |        | Mundane |            |  0.2  | 30 cc |
