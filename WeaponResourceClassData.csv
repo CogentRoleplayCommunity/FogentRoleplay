@@ -1,7 +1,7 @@
 desc,resourceClass,resourceDice,penetration,range,damageTypes,areaOfEffect
 Standard Light Arrow,Arrow,+1d6,1,None,Pierce,
 Wounding Light Arrow,Arrow,+1d6,1,None,"Pierce, Bleed",
-Anti-armor Arrow,Arrow,+1d6,2,None,Pierce,
+Anti-armor Light Arrow,Arrow,+1d6,2,None,Pierce,
 Survival Arrow,Arrow,+1d4,0,None,Pierce,
 Shoddy Arrow,Arrow,+1d4,1,None,Pierce,
 Standard Light Bolt,Bolt,+1d6,1,None,Pierce,
