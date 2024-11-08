@@ -22,7 +22,7 @@ The opponent is shoved in the desired direction.
 
 The character can either roll a Lift check or take the average amount of Wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone.
 
-For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+For each win achieved, a character can shove a creature 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
 
 ### Grapple
 
