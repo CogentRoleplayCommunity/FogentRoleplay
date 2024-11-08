@@ -4,17 +4,25 @@ Engageable Opponents represent the number of opponents that can be fought in a c
 
 ## Engageable Opponents Calculations
 
-The amount of opponents a character can engage in a round is calculated below. If a ranged calculation results in less than a 1, then the character can only fire once per round if the weapon/spell is loaded/prepared and must spend their next round reloading/preparing.
+The amount of opponents a character can engage in a round is calculated below:
 
-| Engageable Opponents Type |                Calculation                 |
+| Engageable Opponents Type |                Calculation                |
 | :-----------------------: | :----------------------------------------: |
 |           Rapid           |        (Combat Roll)/2 rounded down        |
 |           Quick           |        (Combat Roll)/3 rounded down        |
-|         Standard          |        (Combat Roll)/4 rounded down        |
-|           Slow            |        (Combat Roll)/5 rounded down        |
+|         Standard         |        (Combat Roll)/4 rounded down        |
+|           Slow           |        (Combat Roll)/5 rounded down        |
 |          Loading          |        (Combat Roll)/6 rounded down        |
-|      Complex Loading      |       (Combat Roll)/10 rounded down        |
+|      Complex Loading      |       (Combat Roll)/10 rounded down       |
 |        Rapid Max 2        | (Combat Roll)/2 rounded down, maximum of 2 |
+
+### Engageable Opponent calcualtion resulting in 0
+
+If a roll's calculation results in less than a 0, the following rules apply.
+
+On a round where you roll IS prepared (i.e. your Heavy Crossbow is loaded) you can engage 1 opponent.
+
+On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty), you must spend 1 round reloading/preparing in order to use this roll again, during which the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
 
 ## Set Engageable Opponents
 
@@ -22,5 +30,5 @@ Set Engageable Opponents represent a set number of targets that can be engaged i
 
 | Engageable Opponents Type | Engageable Opponents |
 | :-----------------------: | :------------------: |
-|             1             |          1           |
+|             1             |          1          |
 |            ...            |                      |
