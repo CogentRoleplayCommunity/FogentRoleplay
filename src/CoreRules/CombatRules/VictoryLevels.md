@@ -28,9 +28,9 @@ For each win achieved, a character can shove a creature 5 feet. For each size ca
 
 Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
 
-#### Grapple Move
+### Grapple Move
 
-As part of entering into a Grapple or achieving a level 1 victory while already being in a Grapple, you can move your opponent.
+While in a grapple, you can move your opponent.
 
 The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone.
 
