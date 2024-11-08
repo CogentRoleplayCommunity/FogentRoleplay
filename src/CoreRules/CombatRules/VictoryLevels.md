@@ -48,7 +48,7 @@ The opponent loses their weapon. If an opponent is dual-wielding, they will only
 
 #### Grapple Disarm
 
-Once already in a Grapple, a character as part of their declaration phase can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed but gains a +4d6 to their unarmed combat roll versus an armed grappled opponent. They may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to their unarmed combat roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ## Level 3 victory
 
