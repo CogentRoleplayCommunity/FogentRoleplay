@@ -29,14 +29,20 @@ These are two effect that can be placed on any character to increase there resit
 
 In general, Player Characters are given "Destiny Resistance" by default, though this is up to the narrator.
 
+### Destiny Chosen
+
+"Destiny is not a matter of chance; it's a matter of choice. And there is always a choice...'"
+
+Destiny has chosen this character to do great things. Can gain and spend Destiny Points.
+
 ### Destiny Resistance
 
 “Every villain is a hero of his own story.”
 
-Some have wills strong enough to resist the pull of destiny. Destiny points cannot be spent after a roll against this character.
+This character can resist the pull of other's Destiny. Post Roll Destiny Points cannot be spent to contest this character.
 
 ## Destiny Immunity
 
 “Our Destiny is not written for us, but by us.”
 
-Some have wills so strong they are immune to the pull of destiny. Destiny points cannot be spent against this character.
+This character is immune to pull of other's Destiny. Destiny points cannot be spent to contest this character.
