@@ -1,10 +1,15 @@
 Name,Effect,duration,source
-Destiny Resistance,"“Every villain is a hero of his own story.”
+Destiny Chosen,"""Destiny is not a matter of chance; it's a matter of choice. And there is always a choice...""
 
-Some have wills strong enough to resist the pull of destiny. Destiny points cannot be spent after a roll against this character.",,
-Destiny Immunity,"“Our Destiny is not written for us, but by us.”
+Destiny has chosen this character to do great things. Can gain and spend Destiny Points.
 
-Some have wills so strong they are immune to the pull of destiny. Destiny points cannot be spent against this character.",,
+Destiny Points: 0/3",,Awarded by The Narrator
+Destiny Resistance,"''Every villain is a hero of his own story.''
+
+This character can resist the pull of other's Destiny. Post Roll Destiny Points cannot be spent to contest this character.",,Awarded by The Narrator
+Destiny Immunity,"""Our Destiny is not written for us, but by us.""
+
+This character is immune to pull of other's Destiny. Destiny points cannot be spent to contest this character.",,Awarded by The Narrator
 ,,,
 Condition Immunities:,Character is immune to the specified conditions.,,
 ,,,
