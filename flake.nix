@@ -31,6 +31,7 @@
               yzhang.markdown-all-in-one
               mhutchie.git-graph
               streetsidesoftware.code-spell-checker
+              #vscodevim.vim
             ] ++ pkgs.vscode-utils.extensionsFromVscodeMarketplace [
               {
                 name = "vscode-office";
