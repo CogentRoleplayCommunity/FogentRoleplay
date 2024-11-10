@@ -42,7 +42,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Light Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Light Crossbow |      None       |      +1d6       |       None        |      1      |  Far  |                           |       Loading       |         None         |       Light Bolt       |
 
 | Light Crossbow | None | +1d6 | None | 1   | Far | Loading |     | Light Bolt | 1   |     |
@@ -51,8 +51,8 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Heavy Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
-| Heavy Crossbow |      None       |      +2d6       |       None        |      2      | Long  |                           |   Complex Loading   |         None         |          Bolt          |
+| :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
+| Heavy Crossbow |      None       |      +2d6       |       None        |      2      | Long  |                           |   Complex Loading   |         None         |          Bolt          | :---------------: |
 
 | Heavy Crossbow | None | +2d6 | None | 2   | Long | Complex Loading |     | Heavy Bolt | 1   |     |
 | -------------- | ---- | ---- | ---- | --- | ---- | --------------- | --- | ---------- | --- | --- |
@@ -62,7 +62,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Light Bow
 
 |   Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Light Bow |      None       |      +1d6       |       None        |      0      |  Far  |                           |        Quick        |         None         |         Arrow          |
 
 | Light Bow | None | +1d6 | None | 0   | Far | Quick |     | Light Arrow | 1   |     |
@@ -73,7 +73,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 - Heavy Bow Required Attribute to use: 1 STR
 
 |   Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Heavy Bow |      None       |      +2d6       |       None        |      2      | Sharpshooter |                           |      Standard       |         None         |         Arrow          |
 
 | Heavy Bow | None | +2d6 | None | 2   | Sharpshooter | Standard |     | Heavy Arrow | 1   |     |
@@ -84,7 +84,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Blowgun
 
 |  Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Blowgun |      +0d6       |      None       |       None        |      0      | Mediocre |                           |       Loading       |         None         |      Blowgun Dart      |
 
 | Blowgun | +0d6 | None | None | 0   | Mediocre | Loading |     | Blowgun Dart | 1   |     |
@@ -93,7 +93,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Sling
 
 | Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Sling |      +0d6       |      None       |       None        |      0      | Medium |                           |      Standard       |         None         |      Sling Bullet      |
 
 | Sling | +0d6 | None | None | 0   | Medium | Standard |     | Sling Bullet | 1   |     |
@@ -106,7 +106,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Handgun
 
 |           Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range   | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | 9mm Semi-automatic Pistol |      +2d6       |      None       |       +1d6        |      0      | Extended |                           |        Quick        |         None         |      9mm Ammo (1)      |
 |     9mm Burst Pistol      |      +3d6       |      None       |       +1d6        |      0      |  Medium  |                           |        Quick        |         None         |      9mm Ammo (3)      |
 |   9mm Automatic Pistol    |      +3d6       |      None       |       +1d6        |      0      |  Short   |                           |        Rapid        |         None         |      9mm Ammo (5)      |
@@ -121,7 +121,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Intermediate Cartridge Rifle
 
 |           Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | 5.56 Semi-automatic Rifle |      +1d6       |      +3d6       |       None        |      0      |   Extreme    |                           |        Quick        |         None         |     5.56 Ammo (1)      |
 |     5.56 Burst Rifle      |      +2d6       |      +4d6       |       None        |      0      | Sharpshooter |                           |        Quick        |                      |        5.56 (3)        |
 |   5.56 Automatic Rifle    |      +2d6       |      +4d6       |       None        |      0      |   Distant    |                           |        Rapid        |         None         |     5.56 Ammo (5)      |
@@ -134,7 +134,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | .308 Bolt Action Rifle |      +1d6       |      +4d6       |       None        |      0      | Sniper |                           |      Standard       |         None         |     .308 Ammo (1)      |
 
 | .308 Bolt Action Rifle | +1d6 | +4d6 | None | 0   | Sniper | Standard |     | .308 Ammo | 1   |     |
@@ -145,7 +145,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Machine Gun
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | 5.56 Machine Gun |       -2        |      +5d6       |       None        |      0      | Extreme |                           |        Rapid        |         None         |     5.56 Ammo (10)     |
 
 | 5.56 Machine Gun | -2  | +5d6 | None | 0   | Extreme | Rapid |     | 5.56 Ammo | 10  |     |
@@ -154,7 +154,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Launcher
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range     | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | RPG Launcher |       -2        |      +6d6       |       None        |      0      | Sharpshooter |                           |       Loading       |         None         |      RPG Ammo (1)      |
 
 | RPG Launcher | -2  | +6d6 | None | 0   | Sharpshooter | Loading |     | RPG Ammo | 1   |     |
@@ -167,7 +167,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Unarmed
 
 |              Name              | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :----------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :----------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |            Unarmed             |       -1        |      None       |       +0d6        |      0      | Melee |         Bludgeon          |        Rapid        |         None         |          None          |
 |    Hand Protection Unarmed     |      +0d6       |      None       |       +1d6        |      0      | Melee |         Bludgeon          |        Rapid        |         None         |          None          |
 | Spiked Hand Protection Unarmed |      +0d6       |      None       |       +1d6        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
@@ -182,7 +182,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (hatchet, small war pick, kama, crowbar, club)
 
 |           Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |     Small Hafted Axe      |      +1d6       |      None       |       +1d6        |      0      | Melee |            Hew            |        Rapid        |         None         |          None          |
 |    Small Hafted Blade     |      +1d6       |      None       |       +1d6        |      0      | Melee |           Slash           |        Rapid        |         None         |          None          |
 |    Small Hafted Point     |      +0d6       |      None       |       +1d6        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
@@ -211,7 +211,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (dagger, shortsword)
 
 |            Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Small Piercing Blade     |      +0d6       |      None       |       +1d6        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
 |    Small Slashing Blade     |      +1d6       |      None       |       +1d6        |      0      | Melee |           Slash           |        Rapid        |         None         |          None          |
 | Thrown Small Piercing Blade |      +0d6       |      None       |       +1d6        |      0      | Short |          Pierce           |        Quick        |         None         |          None          |
@@ -232,7 +232,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (battleaxe, war pick, war hammer's spike, mace, morning star, war hammer)
 
 |        Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |  Medium Hafted Axe  |      +2d6       |      +3d6       |       +1d6        |      1      | Melee |            Hew            |        Rapid        |         None         |          None          |
 | Medium Hafted Blade |      +2d6       |      +3d6       |       +1d6        |      1      | Melee |           Slash           |        Rapid        |         None         |          None          |
 | Medium Hafted Point |      +1d6       |      +2d6       |       +1d6        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
@@ -249,7 +249,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (arming-sword, sidesword, broadsword, bastard sword, falchion, messer, katana, and scimitar)
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Medium Thrusting Sword |      +1d6       |      +2d6       |       +1d6        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
 | Medium Slashing Sword  |      +2d6       |      +3d6       |       +1d6        |      1      | Melee |           Slash           |        Rapid        |         None         |          None          |
 
@@ -262,7 +262,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (javelin, short spear)
 
 |        Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Medium Spear     |      +2d6       |      None       |       +1d6        |      2      | Melee  |          Pierce           |     Rapid Max 2     |         None         |          None          |
 | Thrown Medium Spear |      +1d6       |      None       |       +1d6        |      2      | Medium |          Pierce           |      Standard       |         None         |          None          |
 
@@ -279,7 +279,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (Dane Axe, Bec de corbin spike, short poleaxe axehead, short halberd, short poleaxe hammerhead, two handed mace, maul)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |  Large Hafted Axe  |      +1d6       |      +3d6       |       None        |      2      | Melee |            Hew            |        Rapid        |         None         |          None          |
 | Large Hafted Blade |      +1d6       |      +3d6       |       None        |      2      | Melee |           Slash           |        Rapid        |         None         |          None          |
 | Large Hafted Point |      +0d6       |      +2d6       |       None        |      3      | Melee |          Pierce           |        Rapid        |         None         |          None          |
@@ -296,7 +296,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 (Longsword, Ōdachi)
 
 |         Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Large Thrusting Sword |      +0d6       |      +2d6       |       None        |      3      | Melee |          Pierce           |        Rapid        |         None         |          None          |
 | Large Slashing Sword  |      +1d6       |      +3d6       |       None        |      2      | Melee |           Slash           |        Rapid        |         None         |          None          |
 
@@ -307,7 +307,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 ### Large Spear
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Large Spear     |      +2d6       |      +3d6       |       None        |      3      | Melee |          Pierce           |     Rapid Max 2     |         None         |          None          |
 | Thrown Large Spear |      +1d6       |      None       |       None        |      3      | Short |          Pierce           |      Standard       |         None         |          None          |
 
@@ -326,7 +326,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 (poleaxe's axe head, poleaxe hammerhead, halberd's axe head, naginata, glaive, bardiche)
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |  Reach Hafted Axe  |       -1        |      +4d6       |       None        |      3      | Reach |            Hew            |        Rapid        |         None         |          None          |
 | Reach Hafted Blade |       -1        |      +4d6       |       None        |      3      | Reach |           Slash           |        Rapid        |         None         |          None          |
 | Reach Hafted Point |       -1        |      +3d6       |       None        |      4      | Reach |          Pierce           |        Rapid        |         None         |          None          |
@@ -343,7 +343,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 (greatsword, zweihänder)
 
 |         Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Reach Thrusting Sword |       -1        |      +3d6       |       None        |      4      | Reach |          Pierce           |        Rapid        |         None         |          None          |
 | Reach Slashing Sword  |       -1        |      +4d6       |       None        |      3      | Reach |           Slash           |        Rapid        |         None         |          None          |
 
@@ -356,7 +356,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 (pike, lance)
 
 |    Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Reach Spear |       -1        |      +4d6       |       None        |      4      | Reach |          Pierce           |     Rapid Max 2     |         None         |          None          |
 
 | Reach Spear | -2  | +4d6 | None | 4   | Reach | Rapid Max 2 |     | None |     | Pierce |
@@ -367,7 +367,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ### Whip
 
 | Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :---: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Whip  |      +1d6       |      None       |       +1d6        |      0      | Reach |           Slash           |        Rapid        |         None         |          None          |
 
 | Whip | +1d6 | None | +1d6 | 0   | Reach | Rapid |     | None |     | Slash |
@@ -381,7 +381,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ### Bite
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Weak Bite  |      None       |       -1        |       None        |      0      | Melee |     Pierce, Bludgeon      |     Rapid Max 2     |         None         |          None          |
 | Small Bite |      None       |      +1d6       |       None        |      1      | Melee |     Pierce, Bludgeon      |     Rapid Max 2     |         None         |          None          |
 |    Bite    |      None       |      +2d6       |       None        |      2      | Melee |     Pierce, Bludgeon      |     Rapid Max 2     |         None         |          None          |
@@ -399,7 +399,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ### Claw
 
 |        Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Slashing Claw    |      +1d6       |      None       |       +1d6        |      0      | Melee |           Slash           |        Rapid        |         None         |          None          |
 |    Piercing Claw    |      +0d6       |      None       |       +1d6        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
 | Large Slashing Claw |      +2d6       |      None       |       +1d6        |      1      | Melee |           Slash           |        Rapid        |         None         |          None          |
@@ -420,7 +420,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ### Horns
 
 |    Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Horns    |      None       |      +2d6       |       None        |      2      | Melee |          Pierce           |        Rapid        |         None         |          None          |
 | Large Horns |      None       |      +3d6       |       None        |      3      | Melee |          Pierce           |        Rapid        |         None         |          None          |
 
@@ -435,7 +435,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ### Slam
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Slam    |      +0d6       |      None       |       +1d6        |      2      | Melee |         Bludgeon          |        Rapid        |         None         |          None          |
 | Large Slam |      +0d6       |      None       |       +1d6        |      4      | Melee |         Bludgeon          |        Rapid        |         None         |          None          |
 
@@ -450,7 +450,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 ### Tentacle
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: |
+| :------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 | Tentacle |      +1d6       |      None       |       +1d6        |      0      | Reach |           Slash           |        Rapid        |         None         |          None          |
 
 
