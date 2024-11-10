@@ -88,12 +88,6 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      0      |  Medium  |                  |           Quick           |        None        |     9mm Ammo (3)     |
 |   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      0      |  Short  |                  |           Rapid           |        None        |     9mm Ammo (5)     |
 
-#### Handgun Weapon Resources
-
-|     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-| 9mm FMJ Ammo |    9mm Ammo    |     +0d6     |            +0            |      5      | None |      Pierce      |                    |
-
 ## Medium Guns
 
 ### Intermediate Cartridge Rifle
@@ -104,21 +98,11 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |      5.56 Burst Rifle      |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |                  |           Quick           |                    |       5.56 (3)       |
 |    5.56 Automatic Rifle    |      +2d6      |      +4d6      |       None       |      0      |   Distant   |                  |           Rapid           |        None        |    5.56 Ammo (5)    |
 
-#### Intermediate Cartridge Weapon Resources
-
-|     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :-----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-| 5.56 FMJ Ammo |   5.56 Ammo   |     +0d6     |            +0            |      6      | None |      Pierce      |                    |
-
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
 | .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Sniper |                  |         Standard         |        None        |    .308 Ammo (1)    |
-
-|     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :-----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-| .308 FMJ Ammo |   .308 Ammo   |     +0d6     |            +0            |      8      | None |      Pierce      |                    |
 
 ## Heavy Guns
 
