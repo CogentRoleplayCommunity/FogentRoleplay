@@ -60,23 +60,23 @@
 
 ### Ranged Weapon Spells
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|     Magic Dart     |      +0d6      |      None      |       +1d6       |      0      |    Short    |                  |           Quick           |        None        |          0          |
-|     Magic Sling     |      +0d6      |      None      |       None       |      1      |    Medium    |                  |         Standard         |        None        |          0          |
-|                    |                |                |                  |            |              |                  |                          |                    |                    |
-|    Magic Javelin    |      +1d6      |      None      |       +1d6       |      2      |    Medium    |                  |         Standard         |        None        |          1          |
-|   Magic Hand Bolt   |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Standard         |        None        |          1          |
-|     Magic Bolt     |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
-|     Magic Arrow     |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
-|  Magic Close Cone  |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
-|                    |                |                |                  |            |              |                  |                          |                    |                    |
-| Magic Great Javelin |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Standard         |        None        |          2          |
-|  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
-|  Magic Medium Cone  |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
-|                    |                |                |                  |            |              |                  |                          |                    |                    |
-|  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Standard         |        None        |          3          |
-| Magic Medium Sphere |      None      |      +2d6      |       None       |      3      |     Long     |                  |             1             | Sphere Calculation |          3          |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource | Damage<br />Types |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :-----------------: | ----------------- |
+|     Magic Dart     |      +0d6      |      None      |       +1d6       |      0      |    Short    |           Quick           |        None        |          0          |                   |
+|     Magic Sling     |      +0d6      |      None      |       None       |      1      |    Medium    |         Standard         |        None        |          0          |                   |
+|                    |                |                |                  |            |              |                          |                    |                    |                   |
+|    Magic Javelin    |      +1d6      |      None      |       +1d6       |      2      |    Medium    |         Standard         |        None        |          1          |                   |
+|   Magic Hand Bolt   |      +1d6      |      None      |       +1d6       |      1      |    Medium    |         Standard         |        None        |          1          |                   |
+|     Magic Bolt     |      None      |      +1d6      |       None       |      2      |     Far     |          Loading          |        None        |          1          |                   |
+|     Magic Arrow     |      None      |      +1d6      |       None       |      1      |     Far     |           Quick           |        None        |          1          |                   |
+|  Magic Close Cone  |      None      |      +1d6      |       None       |      3      |  Close Cone  |             1             |  Cone Calculation  |          1          |                   |
+|                    |                |                |                  |            |              |                          |                    |                    |                   |
+| Magic Great Javelin |      +1d6      |      None      |       None       |      3      |    Short    |         Standard         |        None        |          2          |                   |
+|  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |      Complex Loading      |        None        |          2          |                   |
+|  Magic Medium Cone  |      None      |      +1d6      |       None       |      3      | Medium Cone |             1             |  Cone Calculation  |          2          |                   |
+|                    |                |                |                  |            |              |                          |                    |                    |                   |
+|  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |         Standard         |        None        |          3          |                   |
+| Magic Medium Sphere |      None      |      +2d6      |       None       |      3      |     Long     |             1             | Sphere Calculation |          3          |                   |
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
 |     Name     | Class |                                   Effect                                   | Magic<br />Resource |
