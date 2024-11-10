@@ -78,5 +78,5 @@ Tentacle,Primal Melee,Tentacle,+1d6,None,+1d6,0,Reach,Slash,Rapid,,None
 ,,,,,,,,,,,
 .308 Bolt Action Rifle,Medium Guns,Marksman Rifle,+1d6,+4d6,None,0,Sniper,,Standard,,.308 Ammo
 ,,,,,,,,,,,
-5.56 Machine Gun,Heavy Guns,Machine Gun,-2,+6d6,None,0,Sharpshooter,,Rapid,,5.56 Ammo
+5.56 Machine Gun,Heavy Guns,Machine Gun,-2,+5d6,None,0,Extreme,,Rapid,,5.56 Ammo
 RPG Launcher,Heavy Guns,Launcher,-2,+6d6,None,0,Sharpshooter,,Loading,,RPG Ammo
