@@ -124,9 +124,9 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 ### Machine Gun
 
-|       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| 5.56 Machine Gun |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |           Rapid           |        None        |      5.56 Ammo      |
+|       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      0      | Extreme |                  |           Rapid           |        None        |    5.56 Ammo (10)    |
 
 ### Launcher
 
