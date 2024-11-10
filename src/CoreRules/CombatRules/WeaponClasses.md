@@ -28,6 +28,10 @@ To duel wield the character must have at least one skill point in both of the we
 
 Dual-wielding weapons that use weapon resources or that are being thrown use double the weapon resource/thrown weapons per opponent engaged.
 
+## Resource Per Shot
+
+The amount of resource consumed per "shot" or use of said weapon.
+
 ## Crossbow
 
 ### Hand Crossbow
