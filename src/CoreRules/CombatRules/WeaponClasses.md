@@ -96,15 +96,15 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 ## Medium Guns
 
-### Semi-automatic Rifle
+### Intermediate Cartridge Rifle
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| 5.56 Semi-automatic Rifle |      +2d6      |      +4d6      |       None       |      0      |   Extreme   |                  |           Quick           |        None        |    5.56 Ammo (1)    |
-|      5.56 Burst Rifle      |      +3d6      |      +5d6      |       None       |      0      | Sharpshooter |                  |           Quick           |                    |       5.56 (3)       |
-|    5.56 Automatic Rifle    |      +3d6      |      +5d6      |       None       |      0      |   Distant   |                  |           Rapid           |        None        |    5.56 Ammo (5)    |
+| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      0      |   Extreme   |                  |           Quick           |        None        |    5.56 Ammo (1)    |
+|      5.56 Burst Rifle      |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |                  |           Quick           |                    |       5.56 (3)       |
+|    5.56 Automatic Rifle    |      +2d6      |      +4d6      |       None       |      0      |   Distant   |                  |           Rapid           |        None        |    5.56 Ammo (5)    |
 
-#### Semi-automatic Rifle Weapon Resources
+#### Intermediate Cartridge Weapon Resources
 
 |     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
