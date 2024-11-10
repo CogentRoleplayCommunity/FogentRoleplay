@@ -88,7 +88,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      0      |  Medium  |                  |           Quick           |        None        |     9mm Ammo (3)     |
 |   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      0      |  Short  |                  |           Rapid           |        None        |     9mm Ammo (5)     |
 
-### Handgun Ammo
+#### Handgun Weapon Resources
 
 |     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
@@ -104,7 +104,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 |      5.56 Burst Rifle      |      +3d6      |      +5d6      |       None       |      0      | Sharpshooter |                  |           Quick           |                    |       5.56 (3)       |
 |    5.56 Automatic Rifle    |      +3d6      |      +5d6      |       None       |      0      |   Distant   |                  |           Rapid           |        None        |    5.56 Ammo (5)    |
 
-#### Semi-automatic Rifle Ammo
+#### Semi-automatic Rifle Weapon Resources
 
 |     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
