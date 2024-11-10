@@ -116,7 +116,7 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| RPG Launcher |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |          Loading          |        None        |       RPG Ammo       |
+| RPG Launcher |       -2       |      +6d6      |       None       |      0      | Sharpshooter |                  |          Loading          |        None        |     RPG Ammo (1)     |
 
 ## Close Melee
 
