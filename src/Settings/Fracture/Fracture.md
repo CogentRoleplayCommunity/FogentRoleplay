@@ -1,0 +1,1 @@
+- Post apocalypes setting with zombie survival one shot. Have to recover parts of a radio within a town.
