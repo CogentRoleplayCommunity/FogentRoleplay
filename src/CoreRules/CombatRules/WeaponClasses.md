@@ -112,9 +112,9 @@ Dual-wielding weapons that use weapon resources or that are being thrown use dou
 
 ### Marksman Rifle
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
-| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Extreme |                  |         Standard         |        None        |      .308 Ammo      |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource |
+| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :---------------: | :-----------------------: | :-----------------: | :------------------: |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Sniper |                  |         Standard         |        None        |    .308 Ammo (1)    |
 
 |     Name     | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-----------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
