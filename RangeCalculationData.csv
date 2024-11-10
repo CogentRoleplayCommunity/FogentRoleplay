@@ -10,5 +10,6 @@ Long,1,20,FALSE,2,4
 Distant,1,25,FALSE,2,4
 Sharpshooter,1,30,FALSE,2,4
 Extreme,1,35,FALSE,2,4
+Sniper,1,50,FALSE,2,4
 Close Cone,2,5,TRUE,,
 Medium Cone,2,10,TRUE,,
