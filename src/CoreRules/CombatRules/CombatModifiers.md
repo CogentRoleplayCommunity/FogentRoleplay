@@ -36,6 +36,12 @@ This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved wit
 
 A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
+## Pack Tactics
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
+
+When two allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
+
 ## High ground (Advantage)
 
 Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an opponent on the ground. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
