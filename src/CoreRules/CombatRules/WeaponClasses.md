@@ -147,10 +147,10 @@ The amount of resource consumed per "shot" or use of said weapon.
 |    Small Hafted Point    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |      Pierce      |
 |    Small Hafted Blunt    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |     Bludgeon     |
 |           Torch           |      +0d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |  Bludgeon, Fire  |
-|  Thrown Small Hafted Axe  |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         None         |                        |        Hew        |
-| Thrown Small Hafted Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         None         |                        |       Slash       |
-| Thrown Small Hafted Point |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         None         |                        |      Pierce      |
-| Thrown Small Hafted Blunt |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         None         |                        |     Bludgeon     |
+|  Thrown Small Hafted Axe  |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         Self         |           1           |        Hew        |
+| Thrown Small Hafted Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         Self         |           1           |       Slash       |
+| Thrown Small Hafted Point |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         Self         |           1           |      Pierce      |
+| Thrown Small Hafted Blunt |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         Self         |           1           |     Bludgeon     |
 
 ### Small Blade
 
@@ -160,8 +160,8 @@ The amount of resource consumed per "shot" or use of said weapon.
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Small Piercing Blade    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |      Pierce      |
 |    Small Slashing Blade    |      +1d6      |      None      |       +1d6       |      0      | Melee |           Rapid           |                    |         None         |                        |       Slash       |
-| Thrown Small Slashing Blade |      +0d6      |                |       +1d6       |      0      | Short |           Quick           |                    |         None         |                        |       Slash       |
-| Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         None         |                        |      Pierce      |
+| Thrown Small Slashing Blade |      +0d6      |                |       +1d6       |      0      | Short |           Quick           |                    |         Self         |           1           |       Slash       |
+| Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |         Self         |           1           |      Pierce      |
 
 ## Medium Melee
 
@@ -192,7 +192,7 @@ The amount of resource consumed per "shot" or use of said weapon.
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Medium Spear    |      +2d6      |      None      |       +1d6       |      2      | Melee |        Rapid Max 2        |                    |         None         |                        |      Pierce      |
-| Thrown Medium Spear |      +1d6      |      None      |       +1d6       |      2      | Medium |         Standard         |                    |         None         |                        |      Pierce      |
+| Thrown Medium Spear |      +1d6      |      None      |       +1d6       |      2      | Medium |         Standard         |                    |         Self         |           1           |      Pierce      |
 
 ## Large Melee
 
@@ -221,7 +221,7 @@ The amount of resource consumed per "shot" or use of said weapon.
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
 |    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |        Rapid Max 2        |                    |         None         |                        |      Pierce      |
-| Thrown Large Spear |      +1d6      |      None      |       None       |      3      | Short |         Standard         |                    |         None         |                        |      Pierce      |
+| Thrown Large Spear |      +1d6      |      None      |       None       |      3      | Short |         Standard         |                    |         Self         |           1           |      Pierce      |
 
 ## Reach Melee
 
