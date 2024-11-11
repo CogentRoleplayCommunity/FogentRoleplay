@@ -40,7 +40,7 @@ A brace is a move purely to counter a charge. Character gains Advantage versus c
 
 This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
 
-When two allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
+When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
 
 ## High ground (Advantage)
 
