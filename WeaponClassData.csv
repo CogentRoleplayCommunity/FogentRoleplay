@@ -32,6 +32,8 @@ Medium Hafted Axe,+2d6,+3d6,+1d6,1,Melee,Rapid,,None,,Hew,Medium Melee,Medium Ha
 Medium Hafted Blade,+2d6,+3d6,+1d6,1,Melee,Rapid,,None,,Slash,Medium Melee,Medium Hafted
 Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Rapid,,None,,Pierce,Medium Melee,Medium Hafted
 Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Rapid,,None,,Bludgeon,Medium Melee,Medium Hafted
+One-handed Thrusting Sword,+1d6,None,+1d6,2,Melee,Rapid,,None,,Pierce,Medium Melee,Medium Sword
+One-handed Slashing Sword,+2d6,None,+1d6,1,Melee,Rapid,,None,,Slash,Medium Melee,Medium Sword
 Medium Thrusting Sword,+1d6,+2d6,+1d6,2,Melee,Rapid,,None,,Pierce,Medium Melee,Medium Sword
 Medium Slashing Sword,+2d6,+3d6,+1d6,1,Melee,Rapid,,None,,Slash,Medium Melee,Medium Sword
 Medium Spear,+2d6,None,+1d6,2,Melee,Rapid Max 2,,None,,Pierce,Medium Melee,Medium Spear
