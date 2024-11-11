@@ -53,7 +53,7 @@
 
 ### Melee Weapon Spells
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource | Damage<br />Types |
+|  Name  | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :-----------------: | ----------------- |
 |     Magic Glove     |      +0d6      |      None      |       +1d6       |      0      | Melee |           Rapid           |        None        |          0          |                   |
 | Magic Small Thrust |      +0d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |        None        |          0          |                   |
@@ -77,7 +77,7 @@
 
 ### Ranged Weapon Spells
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Magic<br />Resource | Damage<br />Types |
+|  Name  | [One<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#one-handed) | [Two<br />Handed](./../../../../../CoreRules/CombatRules/WeaponClasses.md#two-handed) | [Dual<br />Wielded](./../../../../../CoreRules/CombatRules/WeaponClasses.md#dual-wielded) | [Penetration](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#penetration) | [Range](./../../../../../CoreRules/CombatRules/Range.md) | [Engageable<br />Opponents](./../../../../../CoreRules/CombatRules/EngageableOpponents.md) | [Area Of<br />Effect](./../../../../../CoreRules/CombatRules/AreaOfEffect.md) | [Magic<br />Resource](./../../../../../CoreRules/MagicRules/MagicResource.md) | [Damage<br />Types](./../../../../../CoreRules/CombatRules/DamageTypes.md) |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :-----------------: | ----------------- |
 |     Magic Dart     |      +0d6      |      None      |       +1d6       |      0      |    Short    |           Quick           |        None        |          0          |                   |
 |     Magic Sling     |      +0d6      |      None      |       None       |      1      |    Medium    |         Standard         |        None        |          0          |                   |
