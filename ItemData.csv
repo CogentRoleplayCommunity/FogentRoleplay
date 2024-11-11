@@ -20,16 +20,15 @@ Platinum Coin,1,,,Mundane,,0.02," 1 pc",
 Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
 Shortsword,1,"One-handed Thrusting Sword, One-handed Slashing Sword",,Mundane,12/12,1.5,5 bc,
 Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",,Mundane,12/12,2,5 bc,
-Shoddy Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",,Shoddy Small Hafted,9/9,2,50 cc,
+Shoddy Sickle,1,"Shoddy Small Hafted Blade, Shoddy Thrown Small Hafted Blade",,Shoddy,9/9,2,50 cc,
 Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",,Mundane,12/12,2,1 bc,
 Light Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,2,2 bc,
 Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Mundane,12/12,2,10 bc,
-Rapier,1,"Medium Thrusting Sword, Medium Slashing Sword",,Quality,15/15,2,25 bc,
-Scimitar,1,"Medium Thrusting Sword, Medium Slashing Sword",,Quality,15/15,2,25 bc,
-Shoddy Scimitar,1,"Medium Thrusting Sword, Medium Slashing Sword",,Shoddy,9/9,2,5 bc,
+Rapier,1,"Quality Medium Thrusting Sword, Mundane Medium Slashing Sword",,Quality,15/15,2,25 bc,
+Scimitar,1,"Mundane Medium Thrusting Sword, Quality Medium Slashing Sword",,Quality,15/15,2,25 bc,
+Shoddy Scimitar,1,"Shoddy Medium Thrusting Sword, Mundane Medium Slashing Sword",,Shoddy,9/9,2,5 bc,
 Battleaxe,1,Medium Hafted Axe,,Mundane,12/12,3,10 bc,
 Flail,1,Medium Hafted Blunt,,Mundane,12/12,3,10 bc,
-Shoddy Morning Star,1,Medium Hafted Blunt,,Shoddy,9/9,4,10 bc,
 Morning Star,1,"Medium Hafted Blunt, Medium Hafted Point",,Mundane,12/12,4,15 bc,
 Mace,1,Medium Hafted Blunt,,Mundane,12/12,3,5 bc,
 Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",,Mundane,12/12,2,15 bc,
@@ -38,9 +37,9 @@ Glaive,1,Large Hafted Blade,,Mundane,12/12,6,20 bc,
 Dane Axe,1,Large Hafted Axe,,Mundane,12/12,4,11 bc,
 Maul,1,Large Hafted Blunt,,Mundane,12/12,7,10 bc,
 Spear,1,"Large Spear, Thrown Large Spear",,Mundane,12/12,3,1 bc,
-Trident,1,"Large Spear, Thrown Large Spear",,Quality,15/15,3,5 bc,
+Trident,1,"Quality Large Spear, Quality Thrown Large Spear",,Quality,15/15,3,5 bc,
 Poleaxe,1,"Large Hafted Blunt, Large Hafted Axe, Large Spear",,Mundane,12/12,6,40 bc,
-Wooden Javelin,1,"Medium Spear, Thrown Medium Spear",,Shoddy,9/9,2,25 cc,
+Wooden Javelin,1,"Shoddy Medium Spear, Shoddy Thrown Medium Spear",,Shoddy,9/9,2,25 cc,
 Javelin,1,"Medium Spear, Thrown Medium Spear",,Mundane,12/12,2,50 cc,
 Greatsword,1,"Reach Thrusting Sword, Reach Slashing Sword",,Mundane,12/12,6,50 bc,
 Swordstaff,1,"Reach Hafted Blade, Reach Spear",,Mundane,12/12,6,50 bc,
@@ -54,8 +53,8 @@ Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",,Mundane,12/12,3,1 bc,
 "Hammer, Sledge",1,Large Hafted Blunt,,Mundane,12/12,10,2 bc,
 "Pick, Miner's",1,Large Hafted Point,,Mundane,12/12,10,2 bc,
 Light Crossbow,1,Light Crossbow,,Mundane,12/12,5,25 bc,
-Light Longbow,1,Bow,,Mundane,12/12,2,25 bc,
-Shoddy Light Longbow,1,Bow,,Shoddy,9/9,2,15 bc,
+Light Longbow,1,Light Bow,,Mundane,12/12,2,25 bc,
+Shoddy Light Longbow,1,Shoddy Light Bow,,Shoddy,9/9,2,15 bc,
 Hand Crossbow,1,Hand Crossbow,,Mundane,12/12,3,75 bc,
 Heavy Crossbow,1,Heavy Crossbow,,Mundane,12/12,11,50 bc,
 Heavy Longbow,1,Heavy Bow,,Mundane,12/12,4,50 bc,
@@ -68,29 +67,47 @@ Whip,1,Whip,,Mundane,12/12,3,2 bc,
 Plumbata/Dart,1,"Small Piercing Blade, Thrown Small Piercing Blade",,Mundane,12/12,5,5 cc,
 Blowgun,1,Blowgun,,Mundane,12/12,1,10 bc,
 ,,,,,,,,
-Steelclaw,1,"Large Thrusting Sword, Large Slashing Sword",,Fine,12/12,3,15 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
-Frostbark,1,"Large Hafted Axe, Spellcasting Focus",Cold Enchantment,Excellent,21/21,4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle."
-Draupnir Spear,1,"Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Spellcasting Focus",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
+Steelclaw,1,"Fine Large Thrusting Sword, Fine Large Slashing Sword",,Fine,12/12,3,15 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
+Frostbark,1,"Excellent Large Hafted Axe, Spellcasting Focus",Cold Enchantment,Excellent,21/21,4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle."
+Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus."
-Asher's Arms Swordbreaker,1,"Small Slashing Blade, Thrown Small Slashing Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+Asher's Arms Swordbreaker,1,"Fine Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Piercing Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
 Talon - Replica,1,"Quality One-handed Thrusting Sword, Quality One-handed Slashing Sword",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
-Fang - Replica,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
-Sirius’s Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
+Fang - Replica,1,"Quality Small Piercing Blade, Quality Small Slashing Blade, Quality Thrown Small Piercing Blade",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
+Sirius’s Sword,1,"Fine Medium Thrusting Sword, Fine Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword."
-Staff of Defense,1,"Large Hafted Blunt, Spellcasting Focus","Defense Spells, Physical Defense 1.00",Excellent,21/21,3,?,
-Monkey Staff,1,"Small Hafted Blunt, Thrown Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+Staff of Defense,1,"Excellent Large Hafted Blunt, Spellcasting Focus","Defense Spells, Physical Defense 1.00",Excellent,21/21,3,?,
+Monkey Staff,1,"Excellent Small Hafted Blunt, Excellent Thrown Small Hafted Blunt, Excellent Medium Hafted Blunt, Excellent Large Hafted Blunt, Excellent Reach Hafted Blunt",Extendable Weapon,Excellent,21/21,4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home."
-Hew,1,Medium Hafted Axe,Splinter,Excellent,21/21,4,?,"""When you chop wood, splinters fly.""  - Anonymous
+Hew,1,Excellent Medium Hafted Axe,Splinter,Excellent,21/21,4,?,"""When you chop wood, splinters fly.""  - Anonymous
 
 An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged."
-Char,1,"Reach Thrusting Sword, Reach Slashing Sword",Fire Repair and Enhancement,Damaged,6/6,6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+Char - Damaged,1,"Damaged Reach Thrusting Sword, Damaged Reach Slashing Sword",Fire Repair and Enhancement,Damaged,6/6,6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+
+An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
+
+Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
+
+During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
+
+Shattered and broken, Destin continues to carry this blade."
+Char - Shoddy,1,"Shoddy Reach Thrusting Sword, Shoddy Reach Slashing Sword",Fire Repair and Enhancement,Shoddy,9/9,6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+
+An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
+
+Destin used this blade in his time as a mercenary. He had plenty of opportunities to claim more elegant weapons from fallen opponents, though he could never part with the blade.
+
+During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
+
+Shattered and broken, Destin continues to carry this blade."
+Char,1,"Reach Thrusting Sword, Reach Slashing Sword",Fire Repair and Enhancement,Mundane,12/12,6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
 
 An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
 
@@ -108,7 +125,7 @@ A relatively unknown Runecraft to the wider populace, this sword is highly debat
 Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…"
-Echo,1,"Medium Thrusting Sword, Medium Slashing Sword",,Superior,24/24,2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
+Echo,1,"Superior Medium Thrusting Sword, Superior Medium Slashing Sword",,Superior,24/24,2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
 
 The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
 
@@ -121,9 +138,9 @@ In the end, peace was agreed upon between the two powers. Veronica was barren, s
 The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Reddland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Reddland Navy, until their eventual unexpected marriage.
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons."
-Asclepius,1,"Medium Spear, Throw Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Whip","Metal Feeding, Command Asclepius",Mastercraft,33/33,3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
-Soot and Ash,1,"Medium Thrusting Sword, Medium Slashing Sword, Small Piercing Blade, Small Slashing Blade",,Epic,39/39,0.2,?,
-The Spear of Destiny,1,"Reach Hafted Blade, Reach Spear, Air Spellcasting Focus, Cold Spellcasting Focus, Eletric Spellcasting Focus","Destiny Chosen, Destiny Strength/Reflex, Indestructible, ",Artifact,48/48,14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
+Asclepius,1,"Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip","Metal Feeding, Command Asclepius",Mastercraft,33/33,3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
+Soot and Ash,1,"Epic Medium Thrusting Sword, Epic Medium Slashing Sword, Epic Small Piercing Blade, Epic Small Slashing Blade",,Epic,39/39,0.2,?,
+The Spear of Destiny,1,"Artifact Reach Hafted Blade, Artifact Reach Spear, Spellcasting Focus","Destiny Anointed, Destiny Strength/Reflex, Indestructible, ",Artifact,48/48,14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
 
@@ -132,7 +149,7 @@ Eventually the Spear would end up in the possession of the Royal Family of the D
 Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…"
-Dancing Moonlight,1,"Large Thrusting Sword, Large Slashing Sword, Light Spellcasting Focus, Water Spellcasting Focus, Shadow Spellcasting Focus, Blood Spellcasting Focus","Moonlight Greatsword, Indestructible, Blessing of the Moon",Artifact,48/48,3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
+Dancing Moonlight,1,"Artifact Large Thrusting Sword, Artifact Large Slashing Sword, Artifact Reach Thrusting Sword, Artifact Reach Slashing Sword, Spellcasting Focus","Moonlight Greatsword, Indestructible, Blessing of the Moon",Artifact,48/48,3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
 
 A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
 
@@ -147,25 +164,20 @@ Sword of Luc Lightbringer. The hilt acts as a Miracles focus, allowing for devas
 
 This sword was used in the execution of Helena by Uhtred Storm at Luc's order, though it was only used to subdue her and did not deal the final blow."
 Guardian Shield,1,Shield,"Phy. Def. 2.00, Retractable Shield",Superior,24/24,8,7 bc,"A medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one's disposal."
-Sharp Cap,1,Small Slashing Blade,,Shoddy,9/9,0.5,2 bc,
+Sharp Cap,1,Shoddy Small Slashing Blade,,Shoddy,9/9,0.5,2 bc,
 Net,1,,,Mundane,12/12,3,1 bc,
 Bodkin Knife,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
-Quality Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",,Quality,15/15,4,?,
-Quality War Axe,1,Large Hafted Axe,,Quality,15/15,5,5 bc,
 War Axe,1,Large Hafted Axe,,Mundane,12/12,5,5 bc,
-Asher’s Arms Bollock Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Superior,24/24,1,10 bc,
-Dragon Torch,1,"Small Hafted Blunt, Spellcasting Focus",,Artifact,48/48,3,9999 bc,
-Shovel,1,Large Hafted Blunt,,Shoddy,9/9,5,2 bc,
-Excellent Light Longbow,1,Bow,,Excellent,21/21,2,25 bc,
-Quality Swordbreaker,1,Small Slashing Blade,,Mundane,12/12,1,28 bc,
-Torch,1,Small Hafted Blunt,,Shoddy,9/9,1,1 cc,
-Shiv,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
-Shoddy Club,1,Small Hafted Blunt,,Shoddy,9/9,2,10 cc,
+Asher’s Arms Bollock Dagger,1,"Superior Small Piercing Blade, Superior Small Slashing Blade, Superior Thrown Small Piercing Blade",,Superior,24/24,1,10 bc,
+Dragon Torch,1,"Artifact Torch, Spellcasting Focus",,Artifact,48/48,3,9999 bc,
+Shovel,1,Shoddy Large Hafted Blunt,,Shoddy,9/9,5,2 bc,
+Excellent Light Longbow,1,Excellent Light Bow,,Excellent,21/21,2,25 bc,
+Quality Swordbreaker,1,"Quality Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Piercing Blade",Swordbreaker Blade Catch,Mundane,12/12,1,28 bc,
+Torch,1,Shoddy Torch,,Shoddy,9/9,1,1 cc,
+Shiv,1,"Shoddy Small Piercing Blade, Shoddy Small Slashing Blade, Shoddy Thrown Small Piercing Blade",,Shoddy,9/9,1,70 cc,
+Shoddy Club,1,"Shoddy Small Hafted Blunt, Shoddy Thrown Small Hafted Blunt",,Shoddy,9/9,2,10 cc,
 Caestus,1,Hand Protection Unarmed,,Mundane,12/12,2,1.66 bc,
 Spiked Caestus,1,Spiked Hand Protection Unarmed,,Mundane,12/12,2,3 bc,
-,,,,,,,,
-Natural Armor Level 1,1,,Phy. Def. 1.00,Mundane,,0,None,
-Natural Armor Level 2,1,,Phy. Def. 2.00,Mundane,,0,None,
 ,,,,,,,,
 Gambeson Armor,1,"Body Armor, Arm Armor, Leg Armor",Phy. Def. 1.00,Mundane,12/12,8,5 bc,
 Gambeson Coat,1,"Body Armor, Arm Armor",Phy. Def. 0.625,Mundane,12/12,5,3.13 bc,
