@@ -74,4 +74,5 @@ A Weapon Resource Class can have an Area Of Effect that overrides the Weapon Cla
 |      9mm FMJ Ammo      |    9mm Ammo    |     +0d6      |            +0             |      4      | None  |      Pierce       |                     |
 |     5.56 FMJ Ammo      |   5.56 Ammo    |     +0d6      |            +0             |      6      | None  |      Pierce       |                     |
 |     .308 FMJ Ammo      |   .308 Ammo    |     +0d6      |            +0             |      8      | None  |      Pierce       |                     |
+|   12 Gauge Buckshot    | 12 Gauge Ammo  |     +0d6      |            +0             |      5      | None  |      Pierce       |                     |
 |        RPG Ammo        |    RPG Ammo    |     +0d6      |            +0             |     10      | None  |  Fire, Shockwave  |    30 ft Sphere     |
