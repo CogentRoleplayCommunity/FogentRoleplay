@@ -22,7 +22,7 @@ Remain stationary for an entire round to gain a more stable base for ranged atta
 
 This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
 
-While making a ranged attack, focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn.
+While making a ranged attack, focus on a single opponent and target a weak point. Your Engageable Opponents is reduced to 1 for the turn.
 
 ## Charge (Advantage)
 
