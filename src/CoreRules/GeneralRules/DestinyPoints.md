@@ -22,10 +22,10 @@ Destiny points are awarded when players perform actions that the narrator wants 
 
 ## Destiny Point Effects
 
-These are two effect that can be placed on any character to increase there resitance to destiny points being used against them. These are generally given out for two purposes:
+These are two effect that can be placed on any character to increase their resistance to destiny points being used against them. These are generally given out for two purposes:
 
-- Given to player characters to ensure players don't waste all their destiny points competing against eachother on silly rolls.
-- Given to villians/bosses to dramatically increase how dangerous they are. Nothing scares players quite like telling them Destiny Points don't work versus a powerful foe...
+- Given to player characters to ensure players don't waste all their destiny points competing against each other on silly rolls.
+- Given to villains/bosses to dramatically increase how dangerous they are. Nothing scares players quite like telling them Destiny Points don't work versus a powerful foe...
 
 In general, Player Characters are given "Destiny Resistance" by default, though this is up to the narrator.
 

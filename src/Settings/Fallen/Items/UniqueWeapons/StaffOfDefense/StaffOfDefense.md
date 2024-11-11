@@ -10,9 +10,9 @@ While wielding the staff, your Armor Class receives a +1 bonus.
 
 ## Info
 
-|       Name       | # |               Class               |                Effect                |   Tier   | Durability | LB | Value |
-| :--------------: | :-: | :-------------------------------: | :-----------------------------------: | :-------: | :--------: | :-: | :---: |
-| Staff of Defense | 1 | Large Hafted Blunt, Spellcasting Focus | Defense Spells, Physical Defense 1.00 | Excellent |   21/21   | 3 |   ?   |
+|       Name       | # |                      Class                      |                Effect                |   Tier   | Durability | LB | Value |
+| :--------------: | :-: | :----------------------------------------------: | :-----------------------------------: | :-------: | :--------: | :-: | :---: |
+| Staff of Defense | 1 | Excellent Large Hafted Blunt, Spellcasting Focus | Defense Spells, Physical Defense 1.00 | Excellent |   21/21   | 3 |   ?   |
 
 ## Effects
 

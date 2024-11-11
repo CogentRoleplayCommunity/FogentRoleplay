@@ -8,9 +8,9 @@ This mastercrafted 5 foot golden snake was crafted by those that worshiped the G
 
 ## Info
 
-|   Name   | # |                                 Class                                 |              Effect              |    Tier    | Durability | LB | Value |
-| :-------: | :-: | :--------------------------------------------------------------------: | :------------------------------: | :---------: | :--------: | :-: | :---: |
-| Asclepius | 1 | Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Reach Spear, Whip | Metal Feeding, Command Asclepius | Mastercraft |   33/33   | 3 |   ?   |
+|   Name   | # |                                                                            Class                                                                            |              Effect              |    Tier    | Durability | LB | Value |
+| :-------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------: | :---------: | :--------: | :-: | :---: |
+| Asclepius | 1 | Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip | Metal Feeding, Command Asclepius | Mastercraft |   33/33   | 3 |   ?   |
 
 ## Effects
 
