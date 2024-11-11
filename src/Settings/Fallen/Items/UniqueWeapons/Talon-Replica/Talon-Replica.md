@@ -10,7 +10,7 @@ Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made 
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Talon - Replica | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Slashing Blade |  | Quality | 15/15 | 1.5 | ? |
+| Talon - Replica | 1 | Quality One-handed Thrusting Sword, Quality One-handed Slashing Sword |  | Quality | 15/15 | 1.5 | ? |
 
 ## Effects
 
