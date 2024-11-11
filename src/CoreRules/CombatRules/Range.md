@@ -39,6 +39,7 @@ Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on 
 |   Distant    |        +25 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
 | Sharpshooter |        +30 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
 |   Extreme    |        +35 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
+|    Sniper    |        +50 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
 |  Close Cone  |  +5 feet per 2 dice rounded up  |    Same as Effective Range    | Same as Effective Range |
 | Medium Cone  | +10 feet per 2 dice rounded up  |    Same as Effective Range    | Same as Effective Range |
 

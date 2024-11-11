@@ -22,6 +22,14 @@ You cannot go below 0 on a combat skill for either melee or ranged weapons via t
 |      Bow      |
 |    Crossbow    |
 
+### Guns
+
+| Weapon Classes |
+| :------------: |
+|   Small Guns   |
+|  Medium Guns  |
+|   Heavy Guns   |
+
 ### Hardcore Melee Weapon Skill Transfer
 
 | Class/Size |     Hafted     |    Blade    |    Spear    |
