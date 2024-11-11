@@ -102,11 +102,17 @@ The amount of resource consumed per "shot" or use of said weapon.
 |     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |           Quick           |                    |      5.56 Ammo      |           3           |                  |
 |   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      0      |   Distant   |           Rapid           |                    |      5.56 Ammo      |           6           |                  |
 
+### Shotgun
+
+|             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
+| :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
+| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      0      | Extended |         Standard         |                    |    12 Gauge Ammo    |           1           |                  |
+
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Sniper |         Standard         |                    |      .308 Ammo      |           1           |                  |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Sniper |           Slow           |                    |      .308 Ammo      |           1           |                  |
 
 ## Heavy Guns
 
