@@ -84,8 +84,6 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 ## Small Guns
 
-* Small Guns do not gain disadvantage when opposing a Melee or Reach combat roll.
-
 ### Handgun
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
