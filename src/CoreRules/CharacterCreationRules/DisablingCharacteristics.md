@@ -27,18 +27,13 @@ Players that take a Disabling Characteristic that results in a -1 in an Attribut
 | Disabling: Endurance Overconfidence          |       Extremely overconfident in Endurance, cannot invest in.       |
 | Disabling: Overconfidence                    |           Extremely overconfident in , cannot invest in.           |
 | Disabling: Athletics Overconfidence          |       Extremely overconfident in Athletics, cannot invest in.       |
-| Disabling: Climb Overconfidence              |         Extremely overconfident in Climb, cannot invest in.         |
-| Disabling: Swim Overconfidence               |         Extremely overconfident in Swim, cannot invest in.         |
 | Disabling: Lift Overconfidence               |         Extremely overconfident in Lift, cannot invest in.         |
 | Disabling: Perception Overconfidence         |      Extremely overconfident in Perception, cannot invest in.      |
 | Disabling: Dexterity Overconfidence         |      Extremely overconfident in Dexterity, cannot invest in.      |
-| Disabling: Ride/Pilot Overconfidence         |      Extremely overconfident in Ride/Pilot, cannot invest in.      |
-| Disabling: Sleight of Hand Overconfidence    |    Extremely overconfident in Sleight of Hand, cannot invest in.    |
 | Disabling: Stealth Overconfidence            |        Extremely overconfident in Stealth, cannot invest in.        |
 | Disabling: Knowledge Overconfidence          |    Extremely overconfident in Gen. Knowledge, cannot invest in.    |
 | Disabling: Will Overconfidence               |         Extremely overconfident in Will, cannot invest in.         |
 | Disabling: Communication Overconfidence      |     Extremely overconfident in Communication, cannot invest in.     |
-| Disabling: Survival Overconfidence           |       Extremely overconfident in Survival, cannot invest in.       |
 | Disabling: Incapable of Lying                |   (Specific parameters required, see Cogent website for examples)   |
 | Disabling: Addiction                         |    Extreme addiction, suffers from withdrawals if not satisfied.    |
 | Disabling: Delusion                          |  Belief of something to be real beyond the scope of simple faith.  |

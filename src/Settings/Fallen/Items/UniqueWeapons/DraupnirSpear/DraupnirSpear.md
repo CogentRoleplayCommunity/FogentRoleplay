@@ -6,13 +6,13 @@
 
 Said to have been crafted by Siren smith long ago with the blood of a god...
 
-This spear can be used as a Air Magic Conduit.
+This spear can be used as a Air Spellcasting Focus.
 
 ## Info
 
 |      Name      | # |                                      Class                                      |  Effect  |   Tier   | Durability | LB | Value |
 | :------------: | :-: | :------------------------------------------------------------------------------: | :------: | :-------: | :--------: | :-: | :---: |
-| Draupnir Spear | 1 | Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Long Spear, Magic Conduit | Draupnir | Excellent |   21/21   | 3 | ? bc |
+| Draupnir Spear | 1 | Medium Spear, Thrown Medium Spear, Large Spear, Thrown Large Spear, Long Spear, Spellcasting Focus | Draupnir | Excellent |   21/21   | 3 | ? bc |
 
 ## Effects
 

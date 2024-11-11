@@ -255,7 +255,7 @@ The room houses three wolves in total. While they cannot reach targets standing 
 
 Any character attempting to calm the animals can make a CL Survival 3 check. Character's with that can speak Primal can reduce the CL by 1. If the wolves are provided with food, the CL is reduced by 1. A successful check allows the character to move freely within the room.
 
-**Fissure.** An opening in the east wall leads to a narrow chimney that ascends 30 feet to area 8. The base of the fissure is cluttered with discarded rubbish from the opening above. Climbing or descending the chimney shaft requires a CL 2 Climb check. On a successful check, the character moves at once with their climbing speed. A result of CL 1 results in no gain or loss of ground, while a result of CL 0 causes the character to fall, incurring a bludgeon Minor Injury for first 10 feet fallen, with the injury increasing to a higher tier for ever additional 10 feet and landing prone at the base.
+**Fissure.** An opening in the east wall leads to a narrow chimney that ascends 30 feet to area 8. The base of the fissure is cluttered with discarded rubbish from the opening above. Climbing or descending the chimney shaft requires a CL 2 Athletics check. On a successful check, the character moves at once with their climbing speed. A result of CL 1 results in no gain or loss of ground, while a result of CL 0 causes the character to fall, incurring a bludgeon Minor Injury for first 10 feet fallen, with the injury increasing to a higher tier for ever additional 10 feet and landing prone at the base.
 
 #### Developments
 
@@ -315,7 +315,7 @@ A Vermkin, currently hiding, stands watch on the bridge. Characters can spot it 
 
 If the Vermkin detects the adventurers, it signals the Vermkins in area 7 to initiate a flood (refer to the "Flood!" section) and then hurls arrows down at the characters.
 
-**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Climb Check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Dexterity Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
+**Bridge.** The bridge spans the passage 20 feet above the stream. It's feasible to climb from the lower passage to the bridge by scaling the rough, spray-slicked 20-foot-high walls, requiring a successful CL 3 Athletics Check. The bridge is connected by ropes which can be cut. If the ropes are cut, it collapses. Creatures on the collapsing bridge must succeed on a CL 2 Dexterity Check or fall, taking bludgeon Medium Injury from and landing prone (refer to "Prone" in the general rules). Successful characters must then climb to safety.
 
 Flood Alert! The large pools in area 7 have collapsible walls that can be dislodged to release a surge of water down the main passage. In the round after the Vermkins in area 7 receive the signal from the lookout in area 5, they begin removing supports. On the Vermkins' initiative count in the subsequent round, a water surge rushes from area 7 down to area 1.
 
@@ -323,7 +323,7 @@ Flood Alert! The large pools in area 7 have collapsible walls that can be dislod
 The tunnel resounds with a powerful roar as a substantial surge of water cascades from above.
 ```
 
-All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Dexterity check to evade being swept away. A creature that fails can then attempt a CL 3 Climb check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
+All creatures in the tunnel are endangered. Characters on the bridge at area 5 or successfully climbing the cavern walls are exempt. Within 10 feet of the disused passage at area 4 or the steps leading to area 3, creatures can attempt a Dexterity check to evade being swept away. A creature that fails can then attempt a CL 3 Athletics check to cling on. On a failed save, the character is knocked prone and carried down to area 1, sustaining a bludgeon Minor Injury along the way. The Vermkins in area 7 can unleash a second flood by opening the second pool, but they refrain from doing so unless instructed by the Vermkin on the bridge. The Vermkin on the bridge waits to ascertain if the first flood has eliminated all intruders before signaling for the second release.
 
 ### 6. Vermkin Den
 
@@ -682,7 +682,7 @@ The hideout boasts well-constructed dungeon chambers featuring flagstone floors 
 
 **Ceilings.** The height of passages and chambers is typically 10 feet, unless otherwise specified.
 
-**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Sleight of Hand check, and doors can be forcefully broken down with a successful CL 4 Lift check.
+**Doors.** All doors within the complex are crafted from wood and equipped with iron handles, hinges, and built-in locks. By default, the doors are unlocked, unless the text states otherwise. Both Sylas Alabaster (area 12) and a Feralkin named Mosk (area 9) carry an iron key that can be used to lock or unlock every door within the complex. Lock-picking is possible with thieves' tools and a successful CL 2 Lockpicking check, and doors can be forcefully broken down with a successful CL 4 Lift check.
 
 **Secret Doors.** The map for the Lavender Lancer Hideout is marked with an "S" to indicate the placement of secret doors. These doors are constructed from stone and blend seamlessly with the surrounding walls. If a character is within 10 feet, the narrator should promt a environmental CL 3 Perception Skill check to detect the secret door. A character who actively searches the wall can uncover the secret door with a successful CL 2 Perception Check. These secret doors swing open on concealed iron hinges and are not locked.
 
@@ -802,7 +802,7 @@ Two Lavender Lancer ruffians donned in Lavender cloaks serve as guards in this p
 
 The heap of garments belongs to the numerous captives held in this cell over the past couple of months, likely numbering more than a dozen people based on the size of the collection.
 
-Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Sleight Of Hand Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful CL 4 Lift Skill check.
+Cell Doors: The cell doors are equipped with basic locks that can be picked using thieves' tools with a successful CL 2 Lockpicking Skill check. Alternatively, they can be forcefully torn open through sheer strength with a successful CL 4 Lift Skill check.
 
 #### Captives
 
@@ -1280,7 +1280,7 @@ At the crossroads near the center of the village, a narrow lane ascends the stee
 
 Inside this ruined building, two giant spiders lie in wait on the inner walls, concealed from view outside. The spiders utilize trailing lines from the webs spanning the lane, allowing them to sense the movement of potential prey. They nimbly scuttle over the walls and launch a surprise attack against any character with a passive Wisdom (Perception) score below 17.
 
-The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Climb Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a CL 2 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+The webs, which extend two squares north of the doorway, pose a hindrance. Characters attempting to traverse them must succeed in a CL 2 Athletics Skill check. Failure leads to entanglement in the webs, resulting in the restrained condition (see the rulebook for details on the restrained condition). A restrained character can use an action each round to attempt to break free through a CL 2 Lift Skill check or try to cut themselves free using a light slashing weapon. The webs possess AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 Circumventing the webs is made difficult by the dense thickets on the north side of the road. Bypassing the ruined building to the south will lead to the twig blights in area 5.
 
@@ -1506,7 +1506,7 @@ Mountainmaw Castle's primary defenses rely on its concealed location and the app
 This small room is strewn with debris. The arrow slit opposite the door provides a clear field of fire over the terrace in front of the castle gates.
 ```
 
-Two Vermkins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the Vermkins will drop their shortbows and draw their melee weapons.
+Two Vermkins occupy each of these two rooms. They take turns firing arrows and withdrawing, enabling both archers to shoot each round at targets outside. When characters enter the room, the Vermkins will drop their Light Longbows and draw their melee weapons.
 
  **Awarding Skill & Destiny Points.** Divide 100 XP equally among the characters for each pair of Vermkin archers the party defeats.
 
@@ -1626,7 +1626,7 @@ This side entrance to the castle is securely locked and unguarded.
 Located on the south side of the old castle, an overgrown path leads to a passageway that ascends into the wall. An imposing iron door stands here, protected from direct attacks from outside. Arrow slits positioned ten feet above ground level overlook the path.
 ```
 
-The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Sleight Of Hand Skill check, or simply fogrekined open with a successful CL 5 Lift Skill check.
+The iron door is locked, but it can be unlocked with the aid of thieves' tools and a successful CL 3 Lockpicking Skill check, or simply fogrekined open with a successful CL 5 Lift Skill check.
 
 **Arrow Slits.** If any character stops to listen near the arrow slits, they will hear occasional clattering noises from area 7. These sounds suggest Vermkins quarreling over cleaning dishes. The Vermkins are not keeping a watch through these arrow slits. However, if the party makes a considerable racket or disturbance, such as breaking down the door, the Vermkins will come to investigate. If they spot intruders outside, they will raise an alarm.
 
@@ -1804,7 +1804,7 @@ The northeastern section of the cavern has collapsed, creating a ten-foot-wide, 
 
 This area used to serve as the campsite for the Stoneseeker brothers. The deceased molekin is Tharden, Burrowbard's brother, who was killed by the Black Spider. Burrowbard's other brother, Nundro, was also here and is now a prisoner of the Black Spider in area 20. While the molekin' supplies may be potentially useful, they aren't particularly valuable.
 
-***Open Pit.*** Climbing up or down the pit's wall without a rope necessitates a successful CL 3 Climb Skill check. A character who fails this check by a margin of 5 or more will fall, taking 1d6 bludgeoning damage per 10 feet fallen and ending up prone at the pit's bottom. The tunnel at the pit's base leads northwest towards area 2 and east towards area 3.
+***Open Pit.*** Climbing up or down the pit's wall without a rope necessitates a successful CL 3 Athletics Skill check. A character who fails this check by a margin of 5 or more will fall, taking 1d6 bludgeoning damage per 10 feet fallen and ending up prone at the pit's bottom. The tunnel at the pit's base leads northwest towards area 2 and east towards area 3.
 
 #### **Treasure**
 
@@ -1852,7 +1852,7 @@ The paper within the cubbyholes, ancient and brittle, disintegrates upon contact
 
 #### **Treasure**
 
-Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a CL 4 Sleight Of Hand Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
+Behind the counter, a securely locked iron strongbox can be found, requiring the skills of a proficient thief with the proper tools. To unlock it, one must succeed in a CL 4 Lockpicking Skill check. This pay chest, overlooked during the turmoil of past battles, 2400 copper coins, and 105 bronze coins.
 
 ### **6. South Barracks**
 
@@ -1896,7 +1896,7 @@ The cavern is divided into three distinct sections: elevated ledges at either en
 
 In the shadows on the western ledge, seven ghouls hide, vigilant for any light or sound elsewhere in the cave. When alerted, they swiftly descend to engage their prey, their ravenous hunger driving them to battle until they are vanquished.
 
-The 10-foot-high escarpments require a successful CL 2 Climb Skill check to climb. A fall or fogrekineful push from the top results in minor bludgeoning injury, with the unfortunate individual landing in a prone position.
+The 10-foot-high escarpments require a successful CL 2 Athletics Skill check to climb. A fall or fogrekineful push from the top results in minor bludgeoning injury, with the unfortunate individual landing in a prone position.
 
 ### **10. Dark Pool**
 
@@ -2050,7 +2050,7 @@ A wide rift occupies the eastern half of this cavern. A stream emerges from the 
 
 Three Ferralkins are stationed here, two of them diligently clearing rubble on the rift floor, while the third stands sentinel in the western portion of the cavern. A doppelganger, masquerading as a male spiderkin named Vhalak, oversees the operation. In the event of a confrontation in the main cavern, the two Ferralkins in the rift ascend the ropes to join the skirmish.
 
-**Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful CL 2 Climb Skill check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
+**Rift.** The rift plunges to a depth of 20 feet. Climbing up or down without using a rope necessitates a successful CL 2 Athletics Skill check. Should a creature fail the check by a margin of 5 or more, they plummet and sustain 1d6 bludgeoning damage for every 10 feet fallen, ultimately landing prone at the rift's base.
 
 #### **Developments**
 
@@ -2106,7 +2106,7 @@ If Nezznar is captured alive and handed over to Ulfric Warwinter or Townmaster W
 
 ### **20. Quarters of the Priests**
 
-The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Sleight Of Hand Skill check to open. Nezznar (from Area 19) possesses the key.
+The entrance to this room is securely locked, necessitating the use of thieves' tools and a successful CL 3 Lockpicking Skill check to open. Nezznar (from Area 19) possesses the key.
 
 Unless the characters are maintaining a stealthy approach, any activity at the door catches the attention of Nezznar and his comrades in Area 19, prompting the spiderkin to dispatch his giant spiders to investigate.
 

@@ -31,7 +31,7 @@ If an insufficiently intelligent  person tried to simply draw the shape of the R
 
 ### An object to hold the rune
 
-Most Runesmith use scrolls for simple one time use runes, as they are affordable and easy to write runes on. Usually, the object the rune is located on physically receives damage up to the activation of the rune. Some Runesmith will create staves of other conduits inscribed with runes. These are made in a particular way to resist the toll of the rune, though they will eventually need to be repaired.
+Most Runesmith use scrolls for simple one time use runes, as they are affordable and easy to write runes on. Usually, the object the rune is located on physically receives damage up to the activation of the rune. Some Runesmith will create staves of other spellcasting focuses inscribed with runes. These are made in a particular way to resist the toll of the rune, though they will eventually need to be repaired.
 
 It is known that the body can be a vessel for runes, though the effect often leads to a reduced life span, bad health, or madness. Though due to the immense power that can be gained, many take on the risk.
 

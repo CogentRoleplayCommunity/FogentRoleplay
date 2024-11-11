@@ -2,7 +2,8 @@
 
 - Victory Levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat encounter. If STR is negative, the level of Victory increases by 1.
 - Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat encounter. If INT is negative, the level of Victory increases by 1.
-- Any lower Victory Level outcome can be achieved.
+- Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
+- It is mandatory that for a character to deal any Victory Level outcome, whomever control's said character must describe in awesome detail how they are preforming said Victory Level outcome. Creativity is encouraged, go nuts!
 
 ## Level 1 victory
 
@@ -22,15 +23,15 @@ The opponent is shoved in the desired direction.
 
 The character can either roll a Lift check or take the average amount of Wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone.
 
-For each win achieved, a character can shove a creature 5 feet. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+For each win achieved, a character can shove a creature 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
 
 ### Grapple
 
 Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditions.md#grappled) condition to both you and your opponent. Exiting a Grapple can also be accomplished with a Dodge roll.
 
-#### Grapple Move
+### Grapple Move
 
-As part of entering into a Grapple or achieving a level 1 victory while already being in a Grapple, you can move your opponent.
+While in a grapple, you can move your opponent.
 
 The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone.
 
@@ -48,7 +49,7 @@ The opponent loses their weapon. If an opponent is dual-wielding, they will only
 
 #### Grapple Disarm
 
-Once already in a Grapple, a character as part of their declaration phase can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed but gains a +4d6 to their unarmed combat roll versus an armed grappled opponent. They may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to their unarmed combat roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ## Level 3 victory
 

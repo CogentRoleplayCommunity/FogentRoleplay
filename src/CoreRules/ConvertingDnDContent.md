@@ -1,3 +1,17 @@
+## DnD Challenge Level to Fogent Challenge Level
+
+* Easy (DC 10) -> Uncommon (CL 2)
+* Moderate (DC 15) -> Specialized (CL 3)
+* Hard (DC 20) -> Difficult (CL 4)
+* Passive perception doesn't exist in Fallen so just make the players roll a Perception Check
+
+## Damage Conversions
+
+Luckily the damage types line up very nicely with DnD damage types.
+
+* 1d6 environmental injuries -> Minor Injuries
+* 2d6 environmental injuries -> Medium Injuries
+
 ## DnD Spells to Fogent Spells
 
 | DnD Spell Level   | Fogent Skill Level   |
@@ -50,12 +64,12 @@
 ### DnD Skill to Fogent Skill conversion
 
 - Athletics -> Athletics, Lift, Climb
-- Acrobatics -> Dexterity
-- Sleight of Hand -> Sleight of Hand
+- Acrobatics, Slieght of Hand -> Dexterity
 - Stealth -> Stealth
 - Arcana, History, Investigation, Nature, Religion -> General Knowledge
-- Animal Handling, Survival -> Survival
+- Animal Handling, Survival -> Survival Vocational Skills or Gen. Knowledge
 - Deception, Intimidation, Performance, Persuasion, Insight -> Communication
+- Performance -> Performance Vocational Skill
 
 ### DnD skill Modifier to Fogent Skill Level:
 

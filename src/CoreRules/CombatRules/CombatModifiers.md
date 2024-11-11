@@ -16,13 +16,19 @@ Instead of engaging in a combat roll, a player can choose to focus purely on the
 
 ## Focused Shot (Advantage) (Disadvantage to Dodge Rolls)
 
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
+
 While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have Disadvantage to Dodging.
 
 ## Charge (Advantage)
 
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Athletics Core Skill.
+
 If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to dodging ranged attacks.
 
 ## Brace (Advantage versus Charge)
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Lift Core Skill.
 
 A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 

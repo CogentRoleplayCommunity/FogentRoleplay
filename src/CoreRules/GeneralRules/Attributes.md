@@ -30,7 +30,7 @@ Represents your character's innate muscle strength, bone density, tendon strengt
 
 STR has the following effects:
 
-- STR is factored into all STR Governed skills (Athletics, Endurance, Climb, Lift, etc...). Greater STR can help a character move more in a combat round and carry heavier gear without being penalized.
+- STR is factored into all STR Governed skills (Athletics, Endurance, Lift, etc...). Greater STR can help a character move more in a combat round and carry heavier gear without being penalized.
 - STR is a character's physical and bodily durability. In combat, for every point in STR a character can reduce a victory level achieved against them from physical (bludgeon, slash, pierce, etc...) or bodily (poisons, cold, etc...) damage types once every combat encounter. Outside of combat, for every point in STR a character can reduce a physical or bodily damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
 
 ## Reflex (RFX)
@@ -50,7 +50,7 @@ Represents your reflexes, reaction speed, nervous system, fine motor control, ni
 
 RFX has the following effects:
 
-- RFX is factored into all RFX-governed skills (Dexterity, Perception, Sleight of Hand, Stealth, etc...).
+- RFX is factored into all RFX-governed skills (Dexterity, Perception, Stealth, etc...).
 - As combat is conducted in a round-by-round format, the player with the highest RFX gets priority in that round.
 - RFX allows characters to move before slower characters and increases all Combat Speeds.
 
@@ -71,7 +71,7 @@ Represents your raw mental horsepower, IQ, and mental/spiritual durability.
 
 INT has the following effects:
 
-- INT is factored into all INT Governed skills (General Knowledge, Survival, Willpower, Communication, etc...).
+- INT is factored into all INT Governed skills (General Knowledge, Willpower, Communication, etc...).
 - For every point in INT the player receives 3 additional skill points to spend.
 - INT is a character's soul and mental durability. In combat, for every point in INT a character can reduce a victory level achieved against them from soul (spiritual) or mental (psychic) damage types once every combat encounter. Outside of combat, for every point in INT a character can reduce a soul or mental damage type injury against them as many times as they want, granted there is a couple minutes of respite between each injury.
 

@@ -151,7 +151,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Rapier     |   1   |              Medium Thrusting Sword, Medium Slashing Sword              |        | Quality |   15/15    |   2    | 25 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 |    Scimitar    |   1   |              Medium Thrusting Sword, Medium Slashing Sword              |        | Quality |   15/15    |   2    | 25 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
 |  Arming Sword  |   1   |              Medium Thrusting Sword, Medium Slashing Sword              |        | Mundane |   12/12    |   2    | 10 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|   Shortsword   |   1   | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |        | Quality |   15/15    |  1.5   | 5 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Shortsword   |   1   |          One-handed Thrusting Sword, One-handed Slashing Sword          |        | Mundane |   12/12    |  1.5   | 5 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |    Trident     |   1   |                     Large Spear, Thrown Large Spear                     |        | Mundane |   12/12    |   3    | 5 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 | Warhammer/pick |   1   |                Medium Hafted Blunt, Medium Hafted Point                 |        | Mundane |   12/12    |   2    | 15 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
 
@@ -192,22 +192,33 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Name                 |   #   |                 Class                  |        |  Tier   | Durability | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 |             -[Weapon]-              |       |                                        |        |         |            |        |       |               |              |              |                |
 |           Light Crossbow            |   1   |             Light Crossbow             |        | Mundane |   12/12    |   5    | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Shortbow               |   1   |               Light Bow                |        | Mundane |   12/12    |   2    | 25 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|            Light Longbow            |   1   |               Light Bow                |        | Mundane |   12/12    |   2    | 25 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |            Hand Crossbow            |   1   |             Hand Crossbow              |        | Mundane |   12/12    |   3    | 75 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
 |           Heavy Crossbow            |   1   |             Heavy Crossbow             |        | Mundane |   12/12    |   11   | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Longbow               |   1   |               Heavy Bow                |        | Mundane |   12/12    |   4    | 50 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|            Heavy Longbow            |   1   |               Heavy Bow                |        | Mundane |   12/12    |   4    | 50 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |           -[Ammunition]-            |       |                                        |        |         |            |        |       |               |              |              |                |
-|           Broadhead Arrow           |  20   |             Standard Arrow             |        | Mundane |     :-     |  0.05  | 5 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|       Barbed Broadhead Arrow        |  20   |             Wounding Arrow             |        | Mundane |     :-     |  0.05  | 7 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|            Bodkin Arrow             |  20   |            Anti-armor Arrow            |        | Mundane |     :-     |  0.05  | 10 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|          Wood Tipped Arrow          |  20   |              Shoddy Arrow              |        | Mundane |     :-     |  0.05  | 2 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|           Broadhead Bolt            |  20   |             Standard Bolt              |        | Mundane |     :-     | 0.075  | 5 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|        Barbed Broadhead Bolt        |  20   |             Wounding Bolt              |        | Mundane |     :-     | 0.075  | 7 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|             Bodkin Bolt             |  20   |            Anti-armor Bolt             |        | Mundane |     :-     | 0.075  | 10 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|          Wood Tipped Bolt           |  20   |              Shoddy Bolt               |        | Mundane |     :-     | 0.075  | 2 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|       Light Arrow - Broadhead       |  20   |          Standard Light Arrow          |        | Mundane |     :-     |  0.05  | 5 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Light Arrow - Barbed Broadhead    |  20   |          Wounding Light Arrow          |        | Mundane |     :-     |  0.05  | 7 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|        Light Arrow - Bodkin         |  20   |         Anti-armor Light Arrow         |        | Mundane |     :-     |  0.05  | 10 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Light Arrow - Wood Tipped      |  20   |          Survival Light Arrow          |        | Mundane |     :-     |  0.05  | 2 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |                                     |       |                                        |        |         |            |        |       |               |              |              |                |
-|         Shortbow Bowstring          |   1   |                                        |        | Mundane |            |  0.05  | 8 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|          Longbow Bowstring          |   1   |                                        |        | Mundane |            |  0.05  | 10 cc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|       Heavy Arrow - Broadhead       |  20   |          Standard Heavy Arrow          |        | Mundane |     :-     |  0.05  | 5 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Heavy Arrow - Barbed Broadhead    |  20   |          Wounding Heavy Arrow          |        | Mundane |     :-     |  0.05  | 7 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|        Heavy Arrow - Bodkin         |  20   |         Anti-armor Heavy Arrow         |        | Mundane |     :-     |  0.05  | 10 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Heavy Arrow - Wood Tipped      |  20   |          Survival Heavy Arrow          |        | Mundane |     :-     |  0.05  | 2 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                        |        |         |            |        |       |               |              |              |                |
+|       Light Bolt - Broadhead        |  20   |          Standard Light Bolt           |        | Mundane |     :-     | 0.075  | 5 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Light Bolt - Bodkin         |  20   |          Wounding Light Bolt           |        | Mundane |     :-     | 0.075  | 7 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         Light Bolt - Bodkin         |  20   |         Anti-armor Light Bolt          |        | Mundane |     :-     | 0.075  | 10 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Light Bolt - Wood Tipped       |  20   |          Survival Light Bolt           |        | Mundane |     :-     | 0.075  | 2 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                        |        |         |            |        |       |               |              |              |                |
+|       Heavy Bolt - Broadhead        |  20   |          Standard Heavy Bolt           |        | Mundane |     :-     | 0.075  | 5 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Heavy Bolt - Bodkin         |  20   |          Wounding Heavy Bolt           |        | Mundane |     :-     | 0.075  | 7 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         Heavy Bolt - Bodkin         |  20   |         Anti-armor Heavy Bolt          |        | Mundane |     :-     | 0.075  | 10 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Heavy Bolt - Wood Tipped       |  20   |          Survival Heavy Bolt           |        | Mundane |     :-     | 0.075  | 2 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                        |        |         |            |        |       |               |              |              |                |
+|           Light Bowstring           |   1   |                                        |        | Mundane |            |  0.05  | 8 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|           Heavy Bowstring           |   1   |                                        |        | Mundane |            |  0.05  | 10 cc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |       Hand Crossbow Bowstring       |   1   |                                        |        | Mundane |            |  0.05  | 10 cc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 |      Light Crossbow Bowstring       |   1   |                                        |        | Mundane |            |  0.05  | 8 cc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 |      Heavy Crossbow Bowstring       |   1   |                                        |        | Mundane |            |  0.05  | 20 cc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
@@ -371,20 +382,33 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Sling                |   1   |                                  Sling                                  |                 | Mundane |   12/12    |  0.5   |  10 cc  |     FALSE     |     TRUE     |     TRUE     |     FALSE      |
 |            Hand Crossbow            |   1   |                              Hand Crossbow                              |                 | Mundane |   12/12    |   3    |  75 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
 |           Light Crossbow            |   1   |                             Light Crossbow                              |                 | Mundane |   12/12    |   5    |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Shortbow               |   1   |                                Light Bow                                |                 | Mundane |   12/12    |   2    |  25 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|            Light Longbow            |   1   |                                Light Bow                                |                 | Mundane |   12/12    |   2    |  25 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |           Heavy Crossbow            |   1   |                             Heavy Crossbow                              |                 | Mundane |   12/12    |   11   |  50 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Longbow               |   1   |                                Heavy Bow                                |                 | Mundane |   12/12    |   4    |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|            Heavy Longbow            |   1   |                                Heavy Bow                                |                 | Mundane |   12/12    |   4    |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
 |               Blowgun               |   1   |                                 Blowgun                                 |                 | Mundane |   12/12    |   1    |  10 bc  |     FALSE     |     TRUE     |    FALSE     |     FALSE      |
-|          :- [Ammunition] -          |       |                                                                         |                 |         |            |        |         |               |              |              |                |
-|           Broadhead Arrow           |  20   |                             Standard Arrow                              |                 | Mundane |     :-     |  0.05  |  5 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|       Barbed Broadhead Arrow        |  20   |                             Wounding Arrow                              |                 | Mundane |     :-     |  0.05  |  7 cc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|            Bodkin Arrow             |  20   |                            Anti-armor Arrow                             |                 | Mundane |     :-     |  0.05  |  10 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|          Wood Tipped Arrow          |  20   |                              Shoddy Arrow                               |                 | Mundane |     :-     |  0.05  |  2 cc   |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|           Broadhead Bolt            |  20   |                              Standard Bolt                              |                 | Mundane |     :-     | 0.075  |  5 cc   |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|        Barbed Broadhead Bolt        |  20   |                              Wounding Bolt                              |                 | Mundane |     :-     | 0.075  |  7 cc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|             Bodkin Bolt             |  20   |                             Anti-armor Bolt                             |                 | Mundane |     :-     | 0.075  |  10 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|          Wood Tipped Bolt           |  20   |                               Shoddy Bolt                               |                 | Mundane |     :-     | 0.075  |  2 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|           -[Ammunition]-            |       |                                                                         |                 |         |            |        |         |               |              |              |                |
+|       Light Arrow - Broadhead       |  20   |                          Standard Light Arrow                           |                 | Mundane |     :-     |  0.05  |  5 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Light Arrow - Barbed Broadhead    |  20   |                          Wounding Light Arrow                           |                 | Mundane |     :-     |  0.05  |  7 cc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|        Light Arrow - Bodkin         |  20   |                         Anti-armor Light Arrow                          |                 | Mundane |     :-     |  0.05  |  10 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Light Arrow - Wood Tipped      |  20   |                          Survival Light Arrow                           |                 | Mundane |     :-     |  0.05  |  2 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                                                         |                 |         |            |        |         |               |              |              |                |
+|       Heavy Arrow - Broadhead       |  20   |                          Standard Heavy Arrow                           |                 | Mundane |     :-     |  0.05  |  5 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Heavy Arrow - Barbed Broadhead    |  20   |                          Wounding Heavy Arrow                           |                 | Mundane |     :-     |  0.05  |  7 cc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|        Heavy Arrow - Bodkin         |  20   |                         Anti-armor Heavy Arrow                          |                 | Mundane |     :-     |  0.05  |  10 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Heavy Arrow - Wood Tipped      |  20   |                          Survival Heavy Arrow                           |                 | Mundane |     :-     |  0.05  |  2 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                                                         |                 |         |            |        |         |               |              |              |                |
+|       Light Bolt - Broadhead        |  20   |                           Standard Light Bolt                           |                 | Mundane |     :-     | 0.075  |  5 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Light Bolt - Bodkin         |  20   |                           Wounding Light Bolt                           |                 | Mundane |     :-     | 0.075  |  7 cc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         Light Bolt - Bodkin         |  20   |                          Anti-armor Light Bolt                          |                 | Mundane |     :-     | 0.075  |  10 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Light Bolt - Wood Tipped       |  20   |                           Survival Light Bolt                           |                 | Mundane |     :-     | 0.075  |  2 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                                                         |                 |         |            |        |         |               |              |              |                |
+|       Heavy Bolt - Broadhead        |  20   |                           Standard Heavy Bolt                           |                 | Mundane |     :-     | 0.075  |  5 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Heavy Bolt - Bodkin         |  20   |                           Wounding Heavy Bolt                           |                 | Mundane |     :-     | 0.075  |  7 cc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         Heavy Bolt - Bodkin         |  20   |                          Anti-armor Heavy Bolt                          |                 | Mundane |     :-     | 0.075  |  10 cc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Heavy Bolt - Wood Tipped       |  20   |                           Survival Heavy Bolt                           |                 | Mundane |     :-     | 0.075  |  2 cc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                                     |       |                                                                         |                 |         |            |        |         |               |              |              |                |
 |            Sling Bullets            |  50   |                         Standard Sling Bullets                          |                 | Mundane |     :-     | 0.075  |  8 tc   |     FALSE     |     TRUE     |     TRUE     |     FALSE      |
+|                                     |       |                                                                         |                 |         |            |        |         |               |              |              |                |
 |       Blowguns Needles Plain        |  20   |                              Plain Needles                              |                 | Mundane |     :-     |  0.05  |  5 cc   |     FALSE     |     TRUE     |    FALSE     |     FALSE      |
 |                                     |       |                                                                         |                 |         |            |        |         |               |              |              |                |
 |              Backpack               |   1   |                             30 lb container                             |                 | Mundane |            |   5    |  2 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
@@ -464,22 +488,22 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|             Name              |   #   |      Class      | Effect |   Tier    | Durability | Weight |  Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :---------------------------: | :---: | :-------------: | :----: | :-------: | :--------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
-|       Conduit - Crystal       |   1   |  Magic Conduit  |        |  Mundane  |            |   1    |  10 bc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|         Conduit - Orb         |   1   |  Magic Conduit  |        |  Mundane  |            |   3    |  20 bc   |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|         Conduit - Rod         |   1   |  Magic Conduit  |        |  Mundane  |            |   2    |  10 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Staff        |   1   |  Magic Conduit  |        |  Mundane  |            |   4    |   5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Wand         |   1   |  Magic Conduit  |        |  Quality  |            |   1    |  10 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|        Component Pouch        |   1   | 12 lb container |        |  Mundane  |            |   2    |  25 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|           Spellbook           |   1   |                 |        |  Quality  |            |   3    |  50 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Runebook            |   1   |  Magic Conduit  |        |  Quality  |            |   3    |  50 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Gradual Healing Blood |   1   |                 |        |  Mundane  |            |  0.25  |  50 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Minor Healing Blood  |   1   |                 |        |  Mundane  |            |  0.25  |  50 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Medium Healing Blood  |   1   |                 |        | Excellent |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-| Vial of Serious Healing Blood |   1   |                 |        | Flawless  |            |  0.25  | 2500 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|  Vial of Fatal Healing Blood  |   1   |                 |        |   Epic    |            |  0.25  | 12500 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-| Vial of Revival Healing Blood |   1   |                 |        | Legendary |            |  0.25  | 62500 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|             Name              |   #   |       Class        | Effect |   Tier    | Durability | Weight |  Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :---------------------------: | :---: | :----------------: | :----: | :-------: | :--------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
+|            Crystal            |   1   | Spellcasting Focus |        |  Mundane  |            |   1    |  10 bc   |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|              Orb              |   1   | Spellcasting Focus |        |  Mundane  |            |   3    |  20 bc   |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|              Rod              |   1   | Spellcasting Focus |        |  Mundane  |            |   2    |  10 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Staff             |   1   | Spellcasting Focus |        |  Mundane  |            |   4    |   5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|             Wand              |   1   | Spellcasting Focus |        |  Quality  |            |   1    |  10 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|        Component Pouch        |   1   |  12 lb container   |        |  Mundane  |            |   2    |  25 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|           Spellbook           |   1   |                    |        |  Quality  |            |   3    |  50 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           Runebook            |   1   | Spellcasting Focus |        |  Quality  |            |   3    |  50 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Gradual Healing Blood |   1   |                    |        |  Mundane  |            |  0.25  |  50 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Minor Healing Blood  |   1   |                    |        |  Mundane  |            |  0.25  |  50 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Medium Healing Blood  |   1   |                    |        | Excellent |            |  0.25  |  250 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+| Vial of Serious Healing Blood |   1   |                    |        | Flawless  |            |  0.25  | 2500 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|  Vial of Fatal Healing Blood  |   1   |                    |        |   Epic    |            |  0.25  | 12500 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+| Vial of Revival Healing Blood |   1   |                    |        | Legendary |            |  0.25  | 62500 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
@@ -576,92 +600,92 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
 
-|               Name               |   #   | Class | Effect |  Tier   | Durability |    Weight    |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :------------------------------: | :---: | :---: | :----: | :-----: | :--------: | :----------: | :-----: | :-----------: | :----------: | :----------: | :------------: |
-|    Amulet/Necklace, Exquisite    |   1   |       |        | Mundane |            |     0.2      |  5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|     Amulet/Necklace, Mundane     |   1   |       |        | Mundane |            |     0.2      |  50 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|        Conduit - Crystal         |   1   |       |        | Mundane |            |      1       |  10 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|          Conduit - Orb           |   1   |       |        | Mundane |            |      3       |  20 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|       Earrings, Exquisite        |   1   |       |        | Mundane |            |     0.1      |  4 bc   |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|        Earrings, Mundane         |   1   |       |        | Mundane |            |     0.1      |  40 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|      Jewelry (+ Gem value)       |   1   |       |        | Mundane |            |     0.2      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|         Ring, Exquisite          |   1   |       |        | Mundane |            |     0.2      |  3 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|          Ring, Mundane           |   1   |       |        | Mundane |            |     0.2      |  30 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|           Signet Ring            |   1   |       |        | Mundane |            |     0.2      |  5 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|            -[Tools]-             |       |       |        |         |            |              |         |               |              |              |                |
-|         Jeweler's Tools          |   1   |       |        | Mundane |            |      2       |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           -[Services]-           |       |       |        |         |            |              |         |               |              |              |                |
-|   Gemstone Appraisal (3 gems)    |       |       |        |         |            |     5 bc     |         |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|         Resizing Jewelry         |       |       |        |         |            |    10 bc     |         |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|     Set Gem (<100 bc value)      |       |       |        |         |            |    45 bc     |         |     FALSE     |     TRUE     |     TRUE     |     FALSE      |
-|    Set Gem (100-1K bc value)     |       |       |        |         |            |    75 bc     |         |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|      Set Gem (1K+ bc value)      |       |       |        |         |            |    150 bc    |         |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|     Stone Cutting (+ value)      |       |       |        |         |            | 1/4 of value |         |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|       -[10 bc Gemstones]-        |       |       |        |         |            |              |         |               |              |              |                |
-|       Azurite (Deep blue)        |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|   Banded agate (Brown / Blue)    |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|     Blue quartz (Pale blue)      |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-| Eye agate (Circles, gray / blue) |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|   Hematite (Opaque gray-black)   |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-| Lapis lazuli (Blue with yellow)  |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|   Malachite (Striated greens)    |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|  Moss agate (Pale, moss marks)   |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|     Obsidian (Opaque black)      |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|    Rhodochrosite (Light pink)    |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|  Tiger eye (Brown, gold center)  |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|   Turquoise (Light blue-green)   |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|       -[50 bc Gemstones]-        |       |       |        |         |            |              |         |               |              |              |                |
-|    Bloodstone (Gray with red)    |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|    Carnelian (Opaque oranges)    |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|    Chalcedony (Opaque white)     |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|    Chrysoprase (Clear green)     |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|   Citrine (Pale yellow-brown)    |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|  Jasper (Blue, black, or brown)  |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|     Moonstone (White + glow)     |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|   Onyx (Black, white, or both)   |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|    Quartz (Transparent range)    |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
-|      Sardonyx (Red & white)      |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|  Star rose quartz (White star)   |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|     Zircon (Pale blue-green)     |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|       -[100 bc Gemstones]-       |       |       |        |         |            |              |         |               |              |              |                |
-|       Amber (Watery gold)        |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|      Amethyst (Deep purple)      |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|    Chrysoberyl (Yellow-green)    |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|      Coral (Opaque crimson)      |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|     Garnet (Red, or violet)      |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|     Jet (Opaque deep black)      |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|      Jade (Green to white)       |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|  Pearl (Lustrous white to pink)  |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|   Spinel (Clear red to green)    |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|  Tourmaline (Pale Red / Brown)   |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|       -[500 bc Gemstones]-       |       |       |        |         |            |              |         |               |              |              |                |
-|     Alexandrite (Dark green)     |   1   |       |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|   Aquamarine (Pale green-blue)   |   1   |       |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|     Black pearl (Pure black)     |   1   |       |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|      Bluespinel (Deep blue)      |   1   |       |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|    Peridot (Rich olive green)    |   1   |       |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|      Topaz (Golden yellow)       |   1   |       |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|      -[1000 bc Gemstones]-       |       |       |        |         |            |              |         |               |              |              |                |
-|  Black Opal (Translucent green)  |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|  Blue sapphire (Shades of blue)  |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|   Emerald (Deep bright green)    |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|      Fire opal (Fiery red)       |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|   Opal (Pale blue with green)    |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
-|    Star ruby (Ruby with star)    |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|  Star sapphire (Blue with star)  |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|  Yellow Sapphire (Fiery yellow)  |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|      -[5000 bc Gemstones]-       |       |       |        |         |            |              |         |               |              |              |                |
-| Black Sapphire (Lustrous black)  |   1   |       |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|      Diamond (Transparent)       |   1   |       |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|      Jacinth (Fiery orange)      |   1   |       |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|       Ruby (Shades of red)       |   1   |       |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
-|      -[Powdering of Gems]-       |       |       |        |         |            |              |         |               |              |              |                |
-|         10 bc Gemstones          |   1   |       |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|         50 bc Gemstones          |   1   |       |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|         100 bc Gemstones         |   1   |       |        | Mundane |            |     0.1      | 100 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|         500 bc Gemstones         |   1   |       |        | Mundane |            |     0.1      | 500 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|        1000 bc Gemstones         |   1   |       |        | Mundane |            |     0.1      | 1000 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|        5000 bc Gemstones         |   1   |       |        | Mundane |            |     0.1      | 5000 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|               Name               |   #   |       Class        | Effect |  Tier   | Durability |    Weight    |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :------------------------------: | :---: | :----------------: | :----: | :-----: | :--------: | :----------: | :-----: | :-----------: | :----------: | :----------: | :------------: |
+|    Amulet/Necklace, Exquisite    |   1   |                    |        | Mundane |            |     0.2      |  5 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|     Amulet/Necklace, Mundane     |   1   |                    |        | Mundane |            |     0.2      |  50 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|             Crystal              |   1   | Spellcasting Focus |        | Mundane |            |      1       |  10 bc  |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|               Orb                |   1   | Spellcasting Focus |        | Mundane |            |      3       |  20 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|       Earrings, Exquisite        |   1   |                    |        | Mundane |            |     0.1      |  4 bc   |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|        Earrings, Mundane         |   1   |                    |        | Mundane |            |     0.1      |  40 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|      Jewelry (+ Gem value)       |   1   |                    |        | Mundane |            |     0.2      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Ring, Exquisite          |   1   |                    |        | Mundane |            |     0.2      |  3 bc   |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|          Ring, Mundane           |   1   |                    |        | Mundane |            |     0.2      |  30 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|           Signet Ring            |   1   |                    |        | Mundane |            |     0.2      |  5 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|            -[Tools]-             |       |                    |        |         |            |              |         |               |              |              |                |
+|         Jeweler's Tools          |   1   |                    |        | Mundane |            |      2       |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|           -[Services]-           |       |                    |        |         |            |              |         |               |              |              |                |
+|   Gemstone Appraisal (3 gems)    |       |                    |        |         |            |     5 bc     |         |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Resizing Jewelry         |       |                    |        |         |            |    10 bc     |         |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|     Set Gem (<100 bc value)      |       |                    |        |         |            |    45 bc     |         |     FALSE     |     TRUE     |     TRUE     |     FALSE      |
+|    Set Gem (100-1K bc value)     |       |                    |        |         |            |    75 bc     |         |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|      Set Gem (1K+ bc value)      |       |                    |        |         |            |    150 bc    |         |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|     Stone Cutting (+ value)      |       |                    |        |         |            | 1/4 of value |         |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|       -[10 bc Gemstones]-        |       |                    |        |         |            |              |         |               |              |              |                |
+|       Azurite (Deep blue)        |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Banded agate (Brown / Blue)    |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|     Blue quartz (Pale blue)      |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+| Eye agate (Circles, gray / blue) |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Hematite (Opaque gray-black)   |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+| Lapis lazuli (Blue with yellow)  |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Malachite (Striated greens)    |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|  Moss agate (Pale, moss marks)   |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|     Obsidian (Opaque black)      |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|    Rhodochrosite (Light pink)    |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|  Tiger eye (Brown, gold center)  |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Turquoise (Light blue-green)   |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|       -[50 bc Gemstones]-        |       |                    |        |         |            |              |         |               |              |              |                |
+|    Bloodstone (Gray with red)    |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|    Carnelian (Opaque oranges)    |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|    Chalcedony (Opaque white)     |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|    Chrysoprase (Clear green)     |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Citrine (Pale yellow-brown)    |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|  Jasper (Blue, black, or brown)  |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|     Moonstone (White + glow)     |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|   Onyx (Black, white, or both)   |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|    Quartz (Transparent range)    |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |     FALSE      |
+|      Sardonyx (Red & white)      |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|  Star rose quartz (White star)   |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|     Zircon (Pale blue-green)     |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|       -[100 bc Gemstones]-       |       |                    |        |         |            |              |         |               |              |              |                |
+|       Amber (Watery gold)        |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|      Amethyst (Deep purple)      |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|    Chrysoberyl (Yellow-green)    |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|      Coral (Opaque crimson)      |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|     Garnet (Red, or violet)      |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|     Jet (Opaque deep black)      |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|      Jade (Green to white)       |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|  Pearl (Lustrous white to pink)  |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|   Spinel (Clear red to green)    |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|  Tourmaline (Pale Red / Brown)   |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|       -[500 bc Gemstones]-       |       |                    |        |         |            |              |         |               |              |              |                |
+|     Alexandrite (Dark green)     |   1   |                    |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|   Aquamarine (Pale green-blue)   |   1   |                    |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|     Black pearl (Pure black)     |   1   |                    |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|      Bluespinel (Deep blue)      |   1   |                    |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|    Peridot (Rich olive green)    |   1   |                    |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|      Topaz (Golden yellow)       |   1   |                    |        | Mundane |            |     0.1      |         |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|      -[1000 bc Gemstones]-       |       |                    |        |         |            |              |         |               |              |              |                |
+|  Black Opal (Translucent green)  |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|  Blue sapphire (Shades of blue)  |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|   Emerald (Deep bright green)    |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|      Fire opal (Fiery red)       |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|   Opal (Pale blue with green)    |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |     TRUE     |      TRUE      |
+|    Star ruby (Ruby with star)    |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|  Star sapphire (Blue with star)  |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|  Yellow Sapphire (Fiery yellow)  |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|      -[5000 bc Gemstones]-       |       |                    |        |         |            |              |         |               |              |              |                |
+| Black Sapphire (Lustrous black)  |   1   |                    |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|      Diamond (Transparent)       |   1   |                    |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|      Jacinth (Fiery orange)      |   1   |                    |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|       Ruby (Shades of red)       |   1   |                    |        | Mundane |            |     0.1      | 5000 bc |     TRUE      |    FALSE     |    FALSE     |      TRUE      |
+|      -[Powdering of Gems]-       |       |                    |        |         |            |              |         |               |              |              |                |
+|         10 bc Gemstones          |   1   |                    |        | Mundane |            |     0.1      |  10 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         50 bc Gemstones          |   1   |                    |        | Mundane |            |     0.1      |  50 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         100 bc Gemstones         |   1   |                    |        | Mundane |            |     0.1      | 100 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         500 bc Gemstones         |   1   |                    |        | Mundane |            |     0.1      | 500 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|        1000 bc Gemstones         |   1   |                    |        | Mundane |            |     0.1      | 1000 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|        5000 bc Gemstones         |   1   |                    |        | Mundane |            |     0.1      | 5000 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 
 ### ![](ItemShop/PotionShop.png) Potion Shop
 
@@ -699,43 +723,43 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
-|                Name                |   #   |      Class      | Effect |  Tier   | Durability | Weight  | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :--------------------------------: | :---: | :-------------: | :----: | :-----: | :--------: | :-----: | :---: | :-----------: | :----------: | :----------: | :------------: |
-|         Conduit - Crystal          |   1   |  Magic Conduit  |        | Mundane |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|           Conduit - Orb            |   1   |  Magic Conduit  |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|           Conduit - Rod            |   1   |  Magic Conduit  |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|          Conduit - Staff           |   1   |  Magic Conduit  |        | Mundane |            |    4    | 5 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|           Conduit - Wand           |   1   |  Magic Conduit  |        | Quality |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|           Bottle, glass            |   1   |                 |        | Mundane |            |    2    | 2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Candle               |   1   |                 |        | Mundane |            |   0.1   | 1 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|        Case, Map or Scroll         |   1   |                 |        | Mundane |            |    1    | 1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|          Component Pouch           |   1   | 12 lb container |        | Mundane |            |    2    | 25 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-| Druidic Focus - Sprig of Mistletoe |   1   |  Magic Conduit  |        | Mundane |            |   0.5   | 1 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|       Druidic Focus - Totem        |   1   |  Magic Conduit  |        | Mundane |            |    1    | 1 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|    Druidic Focus - Wooden Staff    |   1   |  Magic Conduit  |        | Mundane |            |    4    | 5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|      Druidic Focus - Yew Wand      |   1   |  Magic Conduit  |        | Mundane |            |    1    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|             Hourglass              |   1   |                 |        | Mundane |            |    1    | 25 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|        Ink (1 ounce bottle)        |   1   |                 |        | Mundane |            |   0.1   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|         Ink Pen (Fountain)         |   1   |                 |        | Mundane |            |  0.05   | 3 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|         Paper (one sheet)          |   1   |                 |        | Mundane |            |    0    | 20 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|       Parchment (one sheet)        |   1   |                 |        | Mundane |            |    0    | 10 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Pouch                |   1   | 6 lb container  |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|               Robes                |   1   |                 |        | Mundane |            |    4    | 1 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|             Spellbook              |   1   |  Magic Conduit  |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|              Runebook              |   1   |  Magic Conduit  |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|                Vial                |   1   |                 |        | Mundane |            |   0.1   | 1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|        Alchemist's Supplies        |   1   |                 |        | Mundane |            |    8    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|      Calligrapher's Supplies       |   1   |                 |        | Mundane |            |    5    | 10 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|                Lute                |   1   |                 |        | Mundane |            |    2    | 35 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|                Lyre                |   1   |                 |        | Mundane |            |    2    | 30 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|            -[Services]-            |       |                 |        |         |            |         |       |               |              |              |                |
-|     Magic Appraisal (Identify)     |       |                 |        |         |            | 100 bc  |       |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|          Common (Cantrip)          |       |                 |        |         |            |  50 bc  |       |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|          Common (Level 1)          |       |                 |        |         |            | 100 bc  |       |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
-|         Uncommon (Level 2)         |       |                 |        |         |            | 250 bc  |       |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|         Uncommon (Level 3)         |       |                 |        |         |            | 500 bc  |       |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
-|           Rare (Level 4)           |       |                 |        |         |            | 2500 bc |       |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
-|           Rare (Level 5)           |       |                 |        |         |            | 5000 bc |       |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|                Name                |   #   |       Class        | Effect |  Tier   | Durability | Weight  | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+| :--------------------------------: | :---: | :----------------: | :----: | :-----: | :--------: | :-----: | :---: | :-----------: | :----------: | :----------: | :------------: |
+|              Crystal               |   1   | Spellcasting Focus |        | Mundane |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                Orb                 |   1   | Spellcasting Focus |        | Mundane |            |    3    | 20 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|                Rod                 |   1   | Spellcasting Focus |        | Mundane |            |    2    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|               Staff                |   1   | Spellcasting Focus |        | Mundane |            |    4    | 5 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|                Wand                |   1   | Spellcasting Focus |        | Quality |            |    1    | 10 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|           Bottle, glass            |   1   |                    |        | Mundane |            |    2    | 2 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|               Candle               |   1   |                    |        | Mundane |            |   0.1   | 1 cc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|        Case, Map or Scroll         |   1   |                    |        | Mundane |            |    1    | 1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|          Component Pouch           |   1   |  12 lb container   |        | Mundane |            |    2    | 25 bc |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+| Druidic Focus - Sprig of Mistletoe |   1   | Spellcasting Focus |        | Mundane |            |   0.5   | 1 bc  |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|       Druidic Focus - Totem        |   1   | Spellcasting Focus |        | Mundane |            |    1    | 1 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|    Druidic Focus - Wooden Staff    |   1   | Spellcasting Focus |        | Mundane |            |    4    | 5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|      Druidic Focus - Yew Wand      |   1   | Spellcasting Focus |        | Mundane |            |    1    | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|             Hourglass              |   1   |                    |        | Mundane |            |    1    | 25 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|        Ink (1 ounce bottle)        |   1   |                    |        | Mundane |            |   0.1   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|         Ink Pen (Fountain)         |   1   |                    |        | Mundane |            |  0.05   | 3 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|         Paper (one sheet)          |   1   |                    |        | Mundane |            |    0    | 20 cc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|       Parchment (one sheet)        |   1   |                    |        | Mundane |            |    0    | 10 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|               Pouch                |   1   |   6 lb container   |        | Mundane |            |    1    | 50 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|               Robes                |   1   |                    |        | Mundane |            |    4    | 1 bc  |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|             Spellbook              |   1   | Spellcasting Focus |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|              Runebook              |   1   | Spellcasting Focus |        | Quality |            |    3    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|                Vial                |   1   |                    |        | Mundane |            |   0.1   | 1 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|        Alchemist's Supplies        |   1   |                    |        | Mundane |            |    8    | 50 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
+|      Calligrapher's Supplies       |   1   |                    |        | Mundane |            |    5    | 10 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|                Lute                |   1   |                    |        | Mundane |            |    2    | 35 bc |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|                Lyre                |   1   |                    |        | Mundane |            |    2    | 30 bc |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|            -[Services]-            |       |                    |        |         |            |         |       |               |              |              |                |
+|     Magic Appraisal (Identify)     |       |                    |        |         |            | 100 bc  |       |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|          Common (Cantrip)          |       |                    |        |         |            |  50 bc  |       |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|          Common (Level 1)          |       |                    |        |         |            | 100 bc  |       |     TRUE      |     TRUE     |     TRUE     |      TRUE      |
+|         Uncommon (Level 2)         |       |                    |        |         |            | 250 bc  |       |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|         Uncommon (Level 3)         |       |                    |        |         |            | 500 bc  |       |     FALSE     |    FALSE     |     TRUE     |      TRUE      |
+|           Rare (Level 4)           |       |                    |        |         |            | 2500 bc |       |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
+|           Rare (Level 5)           |       |                    |        |         |            | 5000 bc |       |     FALSE     |    FALSE     |    FALSE     |      TRUE      |
 
 ### Inns
 
