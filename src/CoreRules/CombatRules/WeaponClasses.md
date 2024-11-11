@@ -152,7 +152,7 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 ### Small Blade
 
-(dagger, shortsword)
+(dagger, knives)
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
@@ -178,10 +178,12 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 (arming-sword, sidesword, broadsword, bastard sword, falchion, messer, katana, and scimitar)
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
-| :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Medium Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |      Pierce      |
-| Medium Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Rapid           |                    |         None         |                        |       Slash       |
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
+| :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
+| One-handed Thrusting Sword |      +1d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |      Pierce      |
+| One-handed Slashing Sword |      +2d6      |      None      |       +1d6       |      1      | Melee |           Rapid           |                    |         None         |                        |       Slash       |
+|   Medium Thrusting Sword   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Rapid           |                    |         None         |                        |      Pierce      |
+|   Medium Slashing Sword   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Rapid           |                    |         None         |                        |       Slash       |
 
 ### Medium Spear
 
