@@ -20,9 +20,9 @@ Veronica and Flint tried for children many times, but tragedy struck every time.
 
 ## Info
 
-| Name | # |                     Class                     | Effect |   Tier   | Durability | LB | Value |
-| :--: | :-: | :-------------------------------------------: | :----: | :------: | :--------: | :-: | :---: |
-| Echo | 1 | Medium Thrusting Sword, Medium Slashing Sword |        | Superior |   24/24   | 2 |   ?   |
+| Name | # |                              Class                              | Effect |   Tier   | Durability | LB | Value |
+| :--: | :-: | :-------------------------------------------------------------: | :----: | :------: | :--------: | :-: | :---: |
+| Echo | 1 | Superior Medium Thrusting Sword, Superior Medium Slashing Sword |        | Superior |   24/24   | 2 |   ?   |
 
 ## Effects
 

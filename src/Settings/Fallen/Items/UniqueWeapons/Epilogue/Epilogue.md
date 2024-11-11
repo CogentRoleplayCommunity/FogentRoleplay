@@ -16,9 +16,9 @@ Killing with this weapon seems to mysteriously decapitate the victim's head from
 
 ## Info
 
-|   Name   | # |                     Class                     | Effects |   Tier   | Durability | LB | Value |
-| :------: | :-: | :-------------------------------------------: | :-----: | :-------: | :--------: | :-: | :---: |
-| Epilogue | 1 | Medium Thrusting Sword, Medium Slashing Sword | Ending | Excellent |   21/21   | 2 |   ?   |
+|   Name   | # |                               Class                               | Effects |   Tier   | Durability | LB | Value |
+| :------: | :-: | :---------------------------------------------------------------: | :-----: | :-------: | :--------: | :-: | :---: |
+| Epilogue | 1 | Excellent Medium Thrusting Sword, Excellent Medium Slashing Sword | Ending | Excellent |   21/21   | 2 |   ?   |
 
 ## Effects
 

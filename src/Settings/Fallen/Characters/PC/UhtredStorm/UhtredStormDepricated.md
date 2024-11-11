@@ -66,18 +66,18 @@
 
 ## Equipment
 
-| Name                                 | # |                                  Class                                  |   Tier   | Durability | LB | Value |
-| ------------------------------------ | :-: | :---------------------------------------------------------------------: | :------: | :--------: | :-: | :----: |
-| Superior Gambeson Coat               | 1 |                               Phy. Def. 1                               | Superior |   24/24   |  5  |  2 bc  |
-| Superior Gambeson Leggings           | 1 |                              Phy. Def. 0.5                              | Superior |   24/24   |  3  |  1 bc  |
-| Superior Leather Helmet              | 1 |                              Phy. Def. 0.5                              | Superior |   24/24   |  2  | 0.5 bc |
-| Superior Leather Cuisses and Greaves | 1 |                              Phy. Def. 0.5                              | Superior |   24/24   |  3  |  2 bc  |
-| Superior Leather Vambrace            | 1 |                              Phy. Def. 0.5                              | Superior |   24/24   |  2  | 1.5 bc |
-| Clothes, Fine                        | 1 |                                                                        | Mundane |            |  6  | 15 bc |
-| Asher's Arms Swordbreaker            | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Slashing Blade |   Fine   |   18/18   |  1  |   ?   |
-| Spencer's Arms Arming Sword          | 1 |              Medium Thrusting Sword, Medium Slashing Sword              | Superior |   24/24   |  2  | 50 bc |
-| Adversary - Damaged                  | 1 |                           Spellcasting Focus                           |   Fine   |   18/18   |  1  |   ?   |
-| Mother's Necklace                    | 1 |                                                                        | Mundane |            | 0.1 |   ?   |
+| Name                                 | # |                                           Class                                           |   Tier   | Durability | LB | Value |
+| ------------------------------------ | :-: | :----------------------------------------------------------------------------------------: | :------: | :--------: | :-: | :----: |
+| Superior Gambeson Coat               | 1 |                                        Phy. Def. 1                                        | Superior |   24/24   |  5  |  2 bc  |
+| Superior Gambeson Leggings           | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  3  |  1 bc  |
+| Superior Leather Helmet              | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  2  | 0.5 bc |
+| Superior Leather Cuisses and Greaves | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  3  |  2 bc  |
+| Superior Leather Vambrace            | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  2  | 1.5 bc |
+| Clothes, Fine                        | 1 |                                                                                            | Mundane |            |  6  | 15 bc |
+| Asher's Arms Swordbreaker            | 1 | Fine Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Piercing Blade |   Fine   |   18/18   |  1  |   ?   |
+| Spencer's Arms Arming Sword          | 1 |                       Medium Thrusting Sword, Medium Slashing Sword                       | Superior |   24/24   |  2  | 50 bc |
+| Adversary - Damaged                  | 1 |                                     Spellcasting Focus                                     |   Fine   |   18/18   |  1  |   ?   |
+| Mother's Necklace                    | 1 |                                                                                            | Mundane |            | 0.1 |   ?   |
 
 ## Containers
 

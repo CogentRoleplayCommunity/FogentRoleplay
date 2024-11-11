@@ -10,13 +10,12 @@ A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the 
 
 ## Info
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Monkey Staff | 1 | Small Hafted Blunt, Medium Hafted Blunt, Large Hafted Blunt, Reach Hafted Blunt | Extendable Weapon | Excellent | 21/21 | 4 | ? |
-
+|     Name     | # |                                                                            Class                                                                            |      Effect      |   Tier   | Durability | LB | Value |
+| :----------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | :-------: | :--------: | :-: | :---: |
+| Monkey Staff | 1 | Excellent Small Hafted Blunt, Excellent Thrown Small Hafted Blunt, Excellent Medium Hafted Blunt, Excellent Large Hafted Blunt, Excellent Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   | 4 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Extendable Weapon | This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way. |  | 1 |
+| Name              |                                                                                      Effect                                                                                      | Duration | Tier Required |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Extendable Weapon | This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way. |          |       1       |
