@@ -14,11 +14,15 @@ When a melee combat roll is made towards a character within melee or reach range
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
+## Stationary Shooting (Advantage) (Disadvantage to Dodge Rolls)
+
+Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Dodge Roll.
+
 ## Focused Shot (Advantage) (Disadvantage to Dodge Rolls)
 
 This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
 
-While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have Disadvantage to Dodging.
+While making a ranged attack, focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn.
 
 ## Charge (Advantage)
 
