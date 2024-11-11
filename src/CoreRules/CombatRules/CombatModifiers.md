@@ -8,7 +8,7 @@ This is when a character purely focuses on defending themselves. No victory leve
 
 ## Ranged vs Melee (Disadvantage)
 
-When a melee combat roll is made towards a character within melee or reach range, the character has Disadvantage on ranged combat rolls versus the melee combat roll.
+When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
 
 ## Dash (2x Movement Speed)
 
