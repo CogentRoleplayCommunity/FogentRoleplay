@@ -62,6 +62,7 @@
 - Only able to crawl using their Climb Combat Speed.
 - Disadvantage on any check that generally assumes a character is standing (i.e. Combat Rolls, Dexterity Checks, etc... )
 - Melee Combat Rolls (Melee or Reach Ranges) made by a standing character against a prone character have the [High Ground](./CombatModifiers.md#high-ground-advantage) combat modifier (Advantage).
+- Ranged attacks against a prone opponent gain Disadvantage if the Narrator believes they would be a more difficult target due to being a smaller target. For instance, shooting a prone opponent 10 feet away would have Disadvantage. However, shooting a prone sniper at range who is making themselves a small target would incure Disadvantage.
 
 ## Restrained
 
