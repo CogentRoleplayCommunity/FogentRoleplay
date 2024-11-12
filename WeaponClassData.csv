@@ -73,7 +73,7 @@ Large Slam,+0d6,None,+1d6,4,Melee,Rapid,,None,,Bludgeon,Primal Melee,Slam
 ,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Rapid,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,
-Blackpowder Pistol,+2d6,None,+1d6,0,Medium,Complex Loading,,Blackpowder Pistol Cartridge,1,,Small Guns,Muzzleloading Small Gun
+Muzzleloading Pistol,+2d6,None,+1d6,0,Medium,Complex Loading,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
 Arquebus,+0d6,+2d6,None,0,Long,Complex Loading,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 Musket,+0d6,+3d6,None,0,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,
