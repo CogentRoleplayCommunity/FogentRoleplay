@@ -1,11 +1,11 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
-Hand Crossbow,+1d6,None,+1d6,0,Medium,Standard,,Light Bolt,1,,Crossbow,Hand Crossbow
-Light Crossbow,None,+1d6,None,1,Far,Loading,,Light Bolt,1,,Crossbow,Light Crossbow
-Heavy Crossbow,None,+2d6,None,2,Long,Complex Loading,,Heavy Bolt,1,,Crossbow,Heavy Crossbow
-Light Bow,None,+1d6,None,0,Far,Quick,,Light Arrow,1,,Bow,Light Bow
-Heavy Bow,None,+2d6,None,2,Sharpshooter,Standard,,Heavy Arrow,1,,Bow,Heavy Bow
+Hand Crossbow,+1d6,None,+1d6,1,Medium,Standard,,Light Bolt,1,,Crossbow,Hand Crossbow
+Light Crossbow,None,+1d6,None,2,Far,Loading,,Light Bolt,1,,Crossbow,Light Crossbow
+Heavy Crossbow,None,+2d6,None,3,Long,Complex Loading,,Heavy Bolt,1,,Crossbow,Heavy Crossbow
+Light Bow,None,+1d6,None,1,Far,Quick,,Light Arrow,1,,Bow,Light Bow
+Heavy Bow,None,+2d6,None,3,Sharpshooter,Standard,,Heavy Arrow,1,,Bow,Heavy Bow
 Blowgun,+0d6,None,None,0,Mediocre,Loading,,Blowgun Dart,1,,Exotic Ranged,Blowgun
-Sling,+0d6,None,None,0,Medium,Standard,,Sling Bullet,1,,Exotic Ranged,Sling
+Sling,+0d6,None,None,1,Medium,Standard,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
 Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,Quick,,Self,1,Slash,Close Melee,Small Blade
 Thrown Small Piercing Blade,+0d6,None,+1d6,0,Short,Quick,,Self,1,Pierce,Close Melee,Small Blade
@@ -73,21 +73,21 @@ Large Slam,+0d6,None,+1d6,4,Melee,Rapid,,None,,Bludgeon,Primal Melee,Slam
 ,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Rapid,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,
-Muzzleloading Pistol,+2d6,None,+1d6,0,Medium,Complex Loading,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
-Arquebus,+0d6,+2d6,None,0,Long,Complex Loading,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
-Musket,+0d6,+3d6,None,0,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Complex Loading,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
+Arquebus,+0d6,+2d6,None,5,Long,Complex Loading,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Musket,+0d6,+3d6,None,6,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,
-9mm Semi-automatic Pistol,+2d6,None,+1d6,0,Extended,Quick,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
-9mm Burst Pistol,+3d6,None,+1d6,0,Medium,Quick,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
-9mm Automatic Pistol,+3d6,None,+1d6,0,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol
+9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Quick,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
+9mm Burst Pistol,+3d6,None,+1d6,6,Medium,Quick,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
+9mm Automatic Pistol,+3d6,None,+1d6,6,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol
 ,,,,,,,,,,,,
-5.56 Semi-automatic Rifle,+1d6,+3d6,None,0,Extreme,Quick,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle
-5.56 Burst Rifle,+2d6,+4d6,None,0,Sharpshooter,Quick,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
-5.56 Automatic Rifle,+2d6,+4d6,None,0,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
+5.56 Semi-automatic Rifle,+1d6,+3d6,None,8,Extreme,Quick,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle
+5.56 Burst Rifle,+2d6,+4d6,None,8,Sharpshooter,Quick,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
+5.56 Automatic Rifle,+2d6,+4d6,None,8,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
 ,,,,,,,,,,,,
-.308 Bolt Action Rifle,+1d6,+4d6,None,0,Sniper,Slow,,.308 Ammo,1,,Medium Guns,Marksman Rifle
+.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Slow,,.308 Ammo,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,
-12 Gauge Pump-action Shotgun,+1d6,+4d6,None,0,Extended,Standard,,12 Gauge Ammo,1,,Medium Guns,Shotgun
+12 Gauge Pump-action Shotgun,+1d6,+4d6,None,6,Extended,Standard,,12 Gauge Ammo,1,,Medium Guns,Shotgun
 ,,,,,,,,,,,,
-5.56 Machine Gun,-2,+5d6,None,0,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun
-RPG Launcher,-2,+6d6,None,0,Sharpshooter,Loading,,RPG Ammo,1,,Heavy Guns,Launcher
+5.56 Machine Gun,-2,+5d6,None,8,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun
+RPG Launcher,-2,+6d6,None,12,Sharpshooter,Loading,,RPG Ammo,1,,Heavy Guns,Launcher
