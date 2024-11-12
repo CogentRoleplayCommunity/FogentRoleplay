@@ -84,11 +84,11 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 ## Small Guns
 
-### Muzzleloading Small Gun
+### Muzzleloading Handgun
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect |     Weapon<br />Resource     | Resource<br />Per Shot | Damage<br />Types |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :--------------------------: | :--------------------: | :---------------: |
-| Blackpowder Pistol |      +2d6      |      None      |       +1d6       |      0      | Medium |      Complex Loading      |                    | Blackpowder Pistol Cartridge |           1           |                  |
+| Muzzleloading Pistol |      +2d6      |      None      |       +1d6       |      0      | Medium |      Complex Loading      |                    | Muzzleloading Pistol Cartridge |           1           |                  |
 
 ### Handgun
 
