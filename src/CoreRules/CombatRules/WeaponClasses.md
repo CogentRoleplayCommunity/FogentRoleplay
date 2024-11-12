@@ -84,7 +84,7 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 ## Small Guns
 
-### Blackpowder Handguns
+### Muzzleloading Small Gun
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect |     Weapon<br />Resource     | Resource<br />Per Shot | Damage<br />Types |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :--------------------------: | :--------------------: | :---------------: |
@@ -100,12 +100,12 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 ## Medium Guns
 
-### Blackpowder Rifle
+### Muzzleloading Medium Gun
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect |      Weapon<br />Resource      | Resource<br />Per Shot | Damage<br />Types |
-| :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :----------------------------: | :--------------------: | :---------------: |
-| Arquebus |      +0d6      |      +2d6      |       None       |      0      |     Long     |      Complex Loading      |                    | Arquebus Cartridge |           1           |                  |
-|  Musket  |      +0d6      |      +3d6      |       None       |      0      | Sharpshooter |      Complex Loading      |                    |  Musket Cartridge  |           1           |                  |
+|   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
+| :------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
+| Arquebus |      +0d6      |      +2d6      |       None       |      0      |     Long     |      Complex Loading      |                    |  Arquebus Cartridge  |           1           |                  |
+|  Musket  |      +0d6      |      +3d6      |       None       |      0      | Sharpshooter |      Complex Loading      |                    |   Musket Cartridge   |           1           |                  |
 
 ### Intermediate Cartridge Rifle
 
