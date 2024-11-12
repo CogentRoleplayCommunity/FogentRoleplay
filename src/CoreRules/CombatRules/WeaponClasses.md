@@ -38,19 +38,19 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Hand Crossbow |      +1d6      |      None      |       +1d6       |      0      | Medium |         Standard         |                    |      Light Bolt      |           1           |                  |
+| Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Medium |         Standard         |                    |      Light Bolt      |           1           |                  |
 
 ### Light Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Light Crossbow |      None      |      +1d6      |       None       |      1      |  Far  |          Loading          |                    |      Light Bolt      |           1           |                  |
+| Light Crossbow |      None      |      +1d6      |       None       |      2      |  Far  |          Loading          |                    |      Light Bolt      |           1           |                  |
 
 ### Heavy Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Heavy Crossbow |      None      |      +2d6      |       None       |      2      | Long |      Complex Loading      |                    |      Heavy Bolt      |           1           |                  |
+| Heavy Crossbow |      None      |      +2d6      |       None       |      3      | Long |      Complex Loading      |                    |      Heavy Bolt      |           1           |                  |
 
 ## Bow
 
@@ -58,7 +58,7 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Light Bow |      None      |      +1d6      |       None       |      0      |  Far  |           Quick           |                    |     Light Arrow     |           1           |                  |
+| Light Bow |      None      |      +1d6      |       None       |      1      |  Far  |           Quick           |                    |     Light Arrow     |           1           |                  |
 
 ### Heavy Bow
 
@@ -66,7 +66,7 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Heavy Bow |      None      |      +2d6      |       None       |      2      | Sharpshooter |         Standard         |                    |     Heavy Arrow     |           1           |                  |
+| Heavy Bow |      None      |      +2d6      |       None       |      3      | Sharpshooter |         Standard         |                    |     Heavy Arrow     |           1           |                  |
 
 ## Exotic Ranged
 
@@ -80,23 +80,23 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Sling |      +0d6      |      None      |       None       |      0      | Medium |         Standard         |                    |     Sling Bullet     |           1           |                  |
+| Sling |      +0d6      |      None      |       None       |      1      | Medium |         Standard         |                    |     Sling Bullet     |           1           |                  |
 
 ## Small Guns
 
 ### Muzzleloading Handgun
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect |     Weapon<br />Resource     | Resource<br />Per Shot | Damage<br />Types |
-| :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :--------------------------: | :--------------------: | :---------------: |
-| Muzzleloading Pistol |      +2d6      |      None      |       +1d6       |      0      | Medium |      Complex Loading      |                    | Muzzleloading Pistol Cartridge |           1           |                  |
+|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect |      Weapon<br />Resource      | Resource<br />Per Shot | Damage<br />Types |
+| :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :----------------------------: | :--------------------: | :---------------: |
+| Muzzleloading Pistol |      +2d6      |      None      |       +1d6       |      4      | Medium |      Complex Loading      |                    | Muzzleloading Pistol Cartridge |           1           |                  |
 
 ### Handgun
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      0      | Extended |           Quick           |                    |       9mm Ammo       |           1           |                  |
-|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      0      |  Medium  |           Quick           |                    |       9mm Ammo       |           3           |                  |
-|   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      0      |  Short  |           Rapid           |                    |       9mm Ammo       |           6           |                  |
+| 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      6      | Extended |           Quick           |                    |       9mm Ammo       |           1           |                  |
+|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      |  Medium  |           Quick           |                    |       9mm Ammo       |           3           |                  |
+|   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      6      |  Short  |           Rapid           |                    |       9mm Ammo       |           6           |                  |
 
 ## Medium Guns
 
@@ -104,28 +104,28 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| Arquebus |      +0d6      |      +2d6      |       None       |      0      |     Long     |      Complex Loading      |                    |  Arquebus Cartridge  |           1           |                  |
-|  Musket  |      +0d6      |      +3d6      |       None       |      0      | Sharpshooter |      Complex Loading      |                    |   Musket Cartridge   |           1           |                  |
+| Arquebus |      +0d6      |      +2d6      |       None       |      5      |     Long     |      Complex Loading      |                    |  Arquebus Cartridge  |           1           |                  |
+|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Complex Loading      |                    |   Musket Cartridge   |           1           |                  |
 
 ### Intermediate Cartridge Rifle
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      0      |   Extreme   |           Quick           |                    |      5.56 Ammo      |           1           |                  |
-|     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      0      | Sharpshooter |           Quick           |                    |      5.56 Ammo      |           3           |                  |
-|   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      0      |   Distant   |           Rapid           |                    |      5.56 Ammo      |           6           |                  |
+| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      8      |   Extreme   |           Quick           |                    |      5.56 Ammo      |           1           |                  |
+|     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      8      | Sharpshooter |           Quick           |                    |      5.56 Ammo      |           3           |                  |
+|   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      8      |   Distant   |           Rapid           |                    |      5.56 Ammo      |           6           |                  |
 
 ### Shotgun
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      0      | Extended |         Standard         |                    |    12 Gauge Ammo    |           1           |                  |
+| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |         Standard         |                    |    12 Gauge Ammo    |           1           |                  |
 
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      0      | Sniper |           Slow           |                    |      .308 Ammo      |           1           |                  |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Slow           |                    |      .308 Ammo      |           1           |                  |
 
 ## Heavy Guns
 
@@ -133,13 +133,13 @@ The amount of resource consumed per "shot" or use of said weapon.
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      0      | Extreme |           Rapid           |                    |      5.56 Ammo      |           10           |                  |
+| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |           Rapid           |                    |      5.56 Ammo      |           10           |                  |
 
 ### Launcher
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Weapon<br />Resource | Resource<br />Per Shot | Damage<br />Types |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------------: | :--------------------: | :---------------: |
-| RPG Launcher |       -2       |      +6d6      |       None       |      0      | Sharpshooter |          Loading          |                    |       RPG Ammo       |           1           |                  |
+| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |          Loading          |                    |       RPG Ammo       |           1           |                  |
 
 ## Close Melee
 
