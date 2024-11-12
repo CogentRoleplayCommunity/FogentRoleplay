@@ -72,7 +72,7 @@ A Weapon Resource Class can have an Area Of Effect that overrides the Weapon Cla
 |            Poison Needles             |         Blowgun Dart         |     +0d6      |            +0             |      0      | None  |      Poison       |                     |
 |                                       |                              |               |                           |             |       |                   |                     |
 | Standard Blackpowder Pistol Cartridge | Blackpowder Pistol Cartridge |     +0d6      |            +0             |      4      | None  |      Pierce       |                     |
-| Standard Blackpowder Musket Cartridge | Blackpowder Musket Cartridge |     +0d6      |            +0             |      5      | None  |      Pierce       |                     |
+| Standard Blackpowder Musket Cartridge | Blackpowder Musket Cartridge |     +0d6      |            +0             |      6      | None  |      Pierce       |                     |
 |                                       |                              |               |                           |             |       |                   |                     |
 |             9mm FMJ Ammo              |           9mm Ammo           |     +0d6      |            +0             |      4      | None  |      Pierce       |                     |
 |             5.56 FMJ Ammo             |          5.56 Ammo           |     +0d6      |            +0             |      6      | None  |      Pierce       |                     |
