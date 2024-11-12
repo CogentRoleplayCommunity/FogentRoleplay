@@ -41,38 +41,42 @@ A Weapon Resource Class can have an Area Of Effect that overrides the Weapon Cla
 
 ## Weapon Resource Class List
 
-|          Name          | Resource Class | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
-| :--------------------: | :------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
-|  Standard Light Arrow  |  Light Arrow   |     +0d6      |            +0             |      1      | None  |      Pierce       |                     |
-|  Wounding Light Arrow  |  Light Arrow   |     +0d6      |            +1             |      1      | None  |   Pierce, Bleed   |                     |
-| Anti-armor Light Arrow |  Light Arrow   |     +0d6      |            +0             |      2      | None  |      Pierce       |                     |
-|  Survival Light Arrow  |  Light Arrow   |     +0d6      |            -1             |      0      | None  |      Pierce       |                     |
-|   Shoddy Light Arrow   |  Light Arrow   |     +0d6      |            -1             |      1      | None  |      Pierce       |                     |
-|                        |                |               |                           |             |       |                   |                     |
-|  Standard Heavy Arrow  |  Heavy Arrow   |     +0d6      |            +0             |      1      | None  |      Pierce       |                     |
-|  Wounding Heavy Arrow  |  Heavy Arrow   |     +0d6      |            +1             |      1      | None  |   Pierce, Bleed   |                     |
-| Anti-armor Heavy Arrow |  Heavy Arrow   |     +0d6      |            +0             |      2      | None  |      Pierce       |                     |
-|  Survival Heavy Arrow  |  Heavy Arrow   |     +0d6      |            -1             |      0      | None  |      Pierce       |                     |
-|   Shoddy Heavy Arrow   |  Heavy Arrow   |     +0d6      |            -1             |      1      | None  |      Pierce       |                     |
-|                        |                |               |                           |             |       |                   |                     |
-|  Standard Light Bolt   |   Light Bolt   |     +0d6      |            +0             |      1      | None  |      Pierce       |                     |
-|  Wounding Light Bolt   |   Light Bolt   |     +0d6      |            +1             |      1      | None  |   Pierce, Bleed   |                     |
-| Anti-armor Light Bolt  |   Light Bolt   |     +0d6      |            +0             |      2      | None  |      Pierce       |                     |
-|  Survival Light Bolt   |   Light Bolt   |     +0d6      |            -1             |      0      | None  |      Pierce       |                     |
-|   Shoddy Light Bolt    |   Light Bolt   |     +0d6      |            -1             |      1      | None  |      Pierce       |                     |
-|                        |                |               |                           |             |       |                   |                     |
-|  Standard Heavy Bolt   |   Heavy Bolt   |     +0d6      |            +0             |      1      | None  |      Pierce       |                     |
-|  Wounding Heavy Bolt   |   Heavy Bolt   |     +0d6      |            +1             |      1      | None  |   Pierce, Bleed   |                     |
-| Anti-armor Heavy Bolt  |   Heavy Bolt   |     +0d6      |            +0             |      2      | None  |      Pierce       |                     |
-|  Survival Heavy Bolt   |   Heavy Bolt   |     +0d6      |            -1             |      0      | None  |      Pierce       |                     |
-|   Shoddy Heavy Bolt    |   Heavy Bolt   |     +0d6      |            -1             |      1      | None  |      Pierce       |                     |
-|                        |                |               |                           |             |       |                   |                     |
-| Standard Sling Bullets |  Sling Bullet  |     +0d6      |            +0             |      1      | None  |     Bludgeon      |                     |
-|                        |                |               |                           |             |       |                   |                     |
-|     Poison Needles     |  Blowgun Dart  |     +0d6      |            +0             |      0      | None  |      Poison       |                     |
-|                        |                |               |                           |             |       |                   |                     |
-|      9mm FMJ Ammo      |    9mm Ammo    |     +0d6      |            +0             |      4      | None  |      Pierce       |                     |
-|     5.56 FMJ Ammo      |   5.56 Ammo    |     +0d6      |            +0             |      6      | None  |      Pierce       |                     |
-|     .308 FMJ Ammo      |   .308 Ammo    |     +0d6      |            +0             |      8      | None  |      Pierce       |                     |
-|   12 Gauge Buckshot    | 12 Gauge Ammo  |     +0d6      |            +0             |      5      | None  |      Pierce       |                     |
-|        RPG Ammo        |    RPG Ammo    |     +0d6      |            +0             |     10      | None  |  Fire, Shockwave  |    30 ft Sphere     |
+|                  Name                  |         Resource Class         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+| :-------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
+|          Standard Light Arrow          |          Light Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|          Wounding Light Arrow          |          Light Arrow          |     +0d6     |            +1            |      1      | None |   Pierce, Bleed   |                    |
+|         Anti-armor Light Arrow         |          Light Arrow          |     +0d6     |            +0            |      2      | None |      Pierce      |                    |
+|          Survival Light Arrow          |          Light Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|           Shoddy Light Arrow           |          Light Arrow          |     +0d6     |            -1            |      1      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|          Standard Heavy Arrow          |          Heavy Arrow          |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|          Wounding Heavy Arrow          |          Heavy Arrow          |     +0d6     |            +1            |      1      | None |   Pierce, Bleed   |                    |
+|         Anti-armor Heavy Arrow         |          Heavy Arrow          |     +0d6     |            +0            |      2      | None |      Pierce      |                    |
+|          Survival Heavy Arrow          |          Heavy Arrow          |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|           Shoddy Heavy Arrow           |          Heavy Arrow          |     +0d6     |            -1            |      1      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|           Standard Light Bolt           |           Light Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|           Wounding Light Bolt           |           Light Bolt           |     +0d6     |            +1            |      1      | None |   Pierce, Bleed   |                    |
+|          Anti-armor Light Bolt          |           Light Bolt           |     +0d6     |            +0            |      2      | None |      Pierce      |                    |
+|           Survival Light Bolt           |           Light Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|            Shoddy Light Bolt            |           Light Bolt           |     +0d6     |            -1            |      1      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|           Standard Heavy Bolt           |           Heavy Bolt           |     +0d6     |            +0            |      1      | None |      Pierce      |                    |
+|           Wounding Heavy Bolt           |           Heavy Bolt           |     +0d6     |            +1            |      1      | None |   Pierce, Bleed   |                    |
+|          Anti-armor Heavy Bolt          |           Heavy Bolt           |     +0d6     |            +0            |      2      | None |      Pierce      |                    |
+|           Survival Heavy Bolt           |           Heavy Bolt           |     +0d6     |            -1            |      0      | None |      Pierce      |                    |
+|            Shoddy Heavy Bolt            |           Heavy Bolt           |     +0d6     |            -1            |      1      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|         Standard Sling Bullets         |          Sling Bullet          |     +0d6     |            +0            |      1      | None |     Bludgeon     |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|             Poison Needles             |          Blowgun Dart          |     +0d6     |            +0            |      0      | None |      Poison      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+| Standard Muzzleloading Pistol Cartridge | Muzzleloading Pistol Cartridge |     +0d6     |            +0            |      4      | None |      Pierce      |                    |
+|       Standard Arquebus Cartridge       |       Arquebus Cartridge       |     +0d6     |            +0            |      5      | None |      Pierce      |                    |
+|        Standard Musket Cartridge        |        Musket Cartridge        |     +0d6     |            +0            |      6      | None |      Pierce      |                    |
+|                                        |                                |              |                          |            |      |                  |                    |
+|              9mm FMJ Ammo              |            9mm Ammo            |     +0d6     |            +0            |      6      | None |      Pierce      |                    |
+|              5.56 FMJ Ammo              |           5.56 Ammo           |     +0d6     |            +0            |      8      | None |      Pierce      |                    |
+|              .308 FMJ Ammo              |           .308 Ammo           |     +0d6     |            +0            |      9      | None |      Pierce      |                    |
+|            12 Gauge Buckshot            |         12 Gauge Ammo         |     +0d6     |            +0            |      6      | None |      Pierce      |                    |
+|                RPG Ammo                |            RPG Ammo            |     +0d6     |            +0            |     12     | None |  Fire, Shockwave  |    30 ft Sphere    |
