@@ -74,8 +74,8 @@ Large Slam,+0d6,None,+1d6,4,Melee,Rapid,,None,,Bludgeon,Primal Melee,Slam
 Tentacle,+1d6,None,+1d6,0,Reach,Rapid,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,
 Blackpowder Pistol,+2d6,None,+1d6,0,Medium,Complex Loading,,Blackpowder Pistol Cartridge,1,,Small Guns,Blackpowder Handgun
-Blackpowder Arquebus,+0d6,+2d6,None,0,Long,Complex Loading,,Blackpowder Arquebus Cartridge,1,,Medium Guns,Blackpowder Rifle
-Blackpowder Musket,+0d6,+3d6,None,0,Sharpshooter,Complex Loading,,Blackpowder Musket Cartridge,1,,Medium Guns,Blackpowder Rifle
+Arquebus,+0d6,+2d6,None,0,Long,Complex Loading,,Arquebus Cartridge,1,,Medium Guns,Blackpowder Rifle
+Musket,+0d6,+3d6,None,0,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium Guns,Blackpowder Rifle
 ,,,,,,,,,,,,
 9mm Semi-automatic Pistol,+2d6,None,+1d6,0,Extended,Quick,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
 9mm Burst Pistol,+3d6,None,+1d6,0,Medium,Quick,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
