@@ -1,8 +1,8 @@
 # Base Dice Tiers
 
-Base dice are always represented by 3 dice, however depending on a Base Dice Tier, which type of 3 dice can change for better or worse. They can either effect a skill or a weapon class.
+Base dice are always represented by 3 dice, however depending on a Base Dice Tier, which type of 3 dice can change for better or worse. They can either effect the base dice of a skill dice poop or a weapon combat roll dice pool.
 
-A Base Dice Tier on a weapon class only effects that specific weapon an not others. For instance, a Mundane dagger has base dice of 3d6 for a combat roll. With a Mythic dagger, the base dice would be 2d20 and 1d12.
+A Base Dice Tier on a weapon only effects that specific weapon an not others. For instance, a Mundane dagger has base dice of 3d6 for a combat roll. With a Mythic dagger, the base dice would be 2d20 and 1d12.
 
 A Base Dice Tier effecting a skill changes applies anywhere that skill is used. For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead.
 
