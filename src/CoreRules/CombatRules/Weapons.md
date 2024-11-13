@@ -44,7 +44,7 @@ The amount of Ammo consumed per use of the weapon.
 
 The types of Damage a weapon inflicts when dealing injuries.
 
-## Crossbow
+## Hand Crossbow
 
 ### Hand Crossbow
 
@@ -52,11 +52,15 @@ The types of Damage a weapon inflicts when dealing injuries.
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :--------: | :---------------: | :---------------: |
 | Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Medium |         Standard         |                    | Light Bolt |         1         |                  |
 
+## Light Crossbow
+
 ### Light Crossbow
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect |    Ammo    | Ammo<br />Per Use | Damage<br />Types |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :--------: | :---------------: | :---------------: |
 | Light Crossbow |      None      |      +1d6      |       None       |      2      |  Far  |          Loading          |                    | Light Bolt |         1         |                  |
+
+## Heavy Crossbow
 
 ### Heavy Crossbow
 
@@ -64,7 +68,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :--------: | :---------------: | :---------------: |
 | Heavy Crossbow |      None      |      +2d6      |       None       |      3      | Long |      Complex Loading      |                    | Heavy Bolt |         1         |                  |
 
-## Bow
+## Light Bow
 
 ### Light Bow
 
@@ -72,9 +76,11 @@ The types of Damage a weapon inflicts when dealing injuries.
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :---------: | :---------------: | :---------------: |
 | Light Bow |      None      |      +1d6      |       None       |      1      |  Far  |           Quick           |                    | Light Arrow |         1         |                  |
 
-### Heavy Bow
+## Heavy Bow
 
 - Heavy Bow Required Attribute to use: 1 STR
+
+### Heavy Bow
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect |    Ammo    | Ammo<br />Per Use | Damage<br />Types |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :---------: | :---------------: | :---------------: |
