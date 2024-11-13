@@ -32,29 +32,27 @@ The amount of opponents that can be engaged per round with a weapon. See [Engage
 
 The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
 
-###### Ammo
+###### Ammo Type
 
-The ammunition required to use the weapon. See [Ammunitions](./Ammunitions.md) for more details.
+The ammo type required to use the weapon. See [Ammo Type](./Ammunitions.md#ammo-type) for more details.
 
-###### Ammo per Shot
+###### Ammo per Use
 
 The amount of Ammo consumed per use of the weapon.
 
-###### Damage Types:
+###### Damage Types
 
 The types of Damage a weapon inflicts when dealing injuries.
 
-## Weapons Combat Skills
+## Weapon Combat Skills
 
-A weapon combat skill covers the use of a particular weapon. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear.
+A Weapon Combat Skill covers the use of a group of similar weapons. The below table show which weapons are group under which Weapon Combat Skills. For instance, the "Crossbow" Weapon Combat Skill covers the use of "Hand Crossbow", "Light Crossbow", and "Heavy Crossbow".
 
-## Optional: Hardcore Weapons Combat Skills
+All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
-If you feel that the normal weapon combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapons as your Weapons Class Combat Skills. For instance, instead of gaining "Medium Melee" as a Weapons Class Combat Skill, a character would instead gain "Medium Sword".
+### Optional: Hardcore Weapon Combat Skills
 
-## Governing Attributes for Weapon Combat Skills
-
-All weapon combat skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat. A STR character hits harder and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
+If you feel that the normal weapon combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapons as your Weapons Class Combat Skills. For instance, instead of gaining "Crossbow" as a Weapons Class Combat Skill, a character would instead gain "Hand Crossbow".
 
 ## Crossbow
 
