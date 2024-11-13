@@ -25,7 +25,7 @@ Metal Feeding,"To repair, item can feed on metal. Different amounts result in di
 Command Asclepius,"By holding and speaking the command word ""Asclepius"" the user may instruct this Runecraft to perform various simple actions. ""Asclepius, turn into a whip, or short spear."" or Asclepius, attack those soldiers.""",
 Swordbreaker Blade Catch,"Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario.",
 Indestructible,This item can't lose durability.,
-Moonlight Greatsword,"Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it's weapon class becomes a greatsword and now additionally deals radiant damage.",
+Moonlight Greatsword,"Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it becomes a greatsword and now additionally deals radiant damage.",
 Blessing of the Moon,"+2 INT while the weapon is bound.
 
 While bound to this weapon, gain the following disabling: ""I hear the sword whispering its secrets to me, and I must know them""",
