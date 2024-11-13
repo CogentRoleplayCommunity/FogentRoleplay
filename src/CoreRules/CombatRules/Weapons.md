@@ -36,7 +36,7 @@ The shape and amount of area a weapon attack creates. See [Area Of Effect](./Are
 
 The ammunition required to use the weapon. See [Ammunitions](./Ammunitions.md) for more details.
 
-**Resource per Shot:**
+**Ammo per Shot:**
 
 The amount of Ammo consumed per use of the weapon.
 
