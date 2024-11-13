@@ -1,6 +1,6 @@
 # Weapon Combat Skills
 
-A Weapon Combat Skill covers the use of a group of similar weapons. The below tables show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
+A Weapon Combat Skill covers the use of a group of similar weapons. The tables over on the [Weapons](./Weapons.md) page show which weapons are group under which Weapon Combat Skills. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear".
 
 All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
 
