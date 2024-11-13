@@ -100,7 +100,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
-- [Weapon Skill Transfer](./src/CoreRules/AdvancedRules/WeaponSkillTransfer.md)
+- [Weapon Combat Skills](./src/CoreRules/AdvancedRules/WeaponCombatSkills.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 - [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
