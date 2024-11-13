@@ -8,7 +8,7 @@ You cannot go below 0 on a combat skill for either melee or ranged weapons via t
 
 ### Melee Weapon Skill Transfer
 
-| Weapon Classes |
+| Weapons |
 | :------------: |
 |  Close Melee  |
 |  Medium Melee  |
@@ -17,14 +17,14 @@ You cannot go below 0 on a combat skill for either melee or ranged weapons via t
 
 ### Ranged Skill Transfer
 
-| Weapon Classes |
+| Weapons |
 | :------------: |
 |      Bow      |
 |    Crossbow    |
 
 ### Guns
 
-| Weapon Classes |
+| Weapons |
 | :------------: |
 |   Small Guns   |
 |  Medium Guns  |

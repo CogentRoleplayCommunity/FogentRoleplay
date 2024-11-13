@@ -85,7 +85,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
 - [Weapon Resource Classes](./src/CoreRules/CombatRules/WeaponResourceClasses.md)
-- [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
+- [Weapons](./src/CoreRules/CombatRules/WeaponClasses.md)
 - [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
