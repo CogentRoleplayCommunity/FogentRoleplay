@@ -1,8 +1,8 @@
 # Ammunitions
 
-## Resource Class
+## Ammo Type
 
-Resource Class determines the resource a weapon uses to operate.
+Ammo Type determines the resource a weapon uses to operate.
 
 - Bolt
 - Arrow
@@ -39,7 +39,7 @@ A Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect tha
 
 ## Ammo List
 
-|                  Name                   |         Resource Class         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
+|                  Name                   |         Ammo Type         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |
 |          Standard Light Arrow           |          Light Arrow           |     +0d6      |            +0             |      0      | None  |      Pierce       |                     |
 |          Wounding Light Arrow           |          Light Arrow           |     +0d6      |            +1             |      0      | None  |   Pierce, Bleed   |                     |
