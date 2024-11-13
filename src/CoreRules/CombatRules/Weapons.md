@@ -44,16 +44,6 @@ The amount of Ammo consumed per use of the weapon.
 
 The types of Damage a weapon inflicts when dealing injuries.
 
-## Weapon Combat Skills
-
-A Weapon Combat Skill covers the use of a group of similar weapons. The below table show which weapons are group under which Weapon Combat Skills. For instance, the "Crossbow" Weapon Combat Skill covers the use of "Hand Crossbow", "Light Crossbow", and "Heavy Crossbow".
-
-All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat regardless of the weapon. A STR character hits harder, is tougher, and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
-
-### Optional: Hardcore Weapon Combat Skills
-
-If you feel that the normal weapon combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapons as your Weapons Class Combat Skills. For instance, instead of gaining "Crossbow" as a Weapons Class Combat Skill, a character would instead gain "Hand Crossbow".
-
 ## Crossbow
 
 ### Hand Crossbow

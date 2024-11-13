@@ -8,9 +8,7 @@ All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. Thi
 
 There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gains Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
 
-Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it.
-
-You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
+Starting with the weapon skill your character currently possesses, each vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
 
 ### Melee Weapon Combat Skill Transfer
 
@@ -21,12 +19,20 @@ You cannot go below 0 on a combat skill for either melee or ranged weapons via t
 | Large Melee |
 | Reach Melee |
 
-### Ranged Skill Transfer
+### Crossbow Weapon Skill Transfer
 
-| Weapons |
-| :------: |
-|   Bow   |
-| Crossbow |
+|   Crossbows   |
+| :------------: |
+| Hand Crossbow |
+| Light Crossbow |
+| Heavy Crossbow |
+
+#### Bow Weapon Skill Transfer
+
+|   Bows   |
+| :-------: |
+| Light Bow |
+| Heavy Bow |
 
 ### Guns
 
@@ -45,6 +51,8 @@ For example, a character has just been given 1 skill point to spend and has a le
 ## Optional: Hardcore Weapon Combat Skills
 
 If you feel that the normal weapon combat skills are too broad, and you are instead looking for more granular skills, you may instead choose to use sub-categories within the Weapons as your Weapons Class Combat Skills. For instance, instead of gaining "Crossbow" as a Weapons Class Combat Skill, a character would instead gain "Hand Crossbow".
+
+Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it.
 
 ### Hardcore Melee Weapon Combat Skill Transfer
 
