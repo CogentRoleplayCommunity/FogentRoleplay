@@ -1,9 +1,9 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
-Hand Crossbow,+1d6,None,+1d6,1,Medium,Standard,,Light Bolt,1,,Crossbow,Hand Crossbow
-Light Crossbow,None,+1d6,None,2,Far,Loading,,Light Bolt,1,,Crossbow,Light Crossbow
-Heavy Crossbow,None,+2d6,None,3,Long,Complex Loading,,Heavy Bolt,1,,Crossbow,Heavy Crossbow
-Light Bow,None,+1d6,None,1,Far,Quick,,Light Arrow,1,,Bow,Light Bow
-Heavy Bow,None,+2d6,None,3,Sharpshooter,Standard,,Heavy Arrow,1,,Bow,Heavy Bow
+Hand Crossbow,+1d6,None,+1d6,1,Medium,Standard,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
+Light Crossbow,None,+1d6,None,2,Far,Loading,,Light Bolt,1,,Light Crossbow,Light Crossbow
+Heavy Crossbow,None,+2d6,None,3,Long,Complex Loading,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
+Light Bow,None,+1d6,None,1,Far,Quick,,Light Arrow,1,,Light Bow,Light Bow
+Heavy Bow,None,+2d6,None,3,Sharpshooter,Standard,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
 Blowgun,+0d6,None,None,0,Mediocre,Loading,,Blowgun Dart,1,,Exotic Ranged,Blowgun
 Sling,+0d6,None,None,1,Medium,Standard,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
