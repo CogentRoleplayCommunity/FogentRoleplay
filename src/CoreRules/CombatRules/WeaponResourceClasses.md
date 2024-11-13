@@ -15,7 +15,7 @@ Resource Class determines the resource a weapon uses to operate.
 
 ## Dice Pool Mod
 
-Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Weapon Resource is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Standard Light Arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Standard Light Arrow, so it would lose dice.
+Represent either an addition or subtraction of dice to the Combat Roll Dice Pool in which this Ammo is being used. This is to represent ammunition types that warrant a change effectiveness. For instance, a bomb arrow is significantly more dangerous than a Standard Light Arrow, so it would receive additional dice. However, a blunted practice arrow (such as the comical boxing glove arrow) is significantly less dangerous than a Standard Light Arrow, so it would lose dice.
 
 ## Base Dice Tier Adjustment
 
@@ -23,21 +23,21 @@ Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Leve
 
 ## Penetration
 
-Additional Penetration from the Weapon Resource Class. Weapon Resource Class Penetration added to a Weapon's Penetration results in the total Penetration for the Combat Roll.
+Additional Penetration from the Ammo. Ammo Penetration is added to Weapon Penetration results in the total Penetration for the Combat Roll.
 
 ## Range
 
-A Weapon Resource Class can have a Range that overrides the Weapon's Range that it is used with. This can represent self propelled made projectiles or high pressure ballistic ammunition. If a Weapon Resource Class Range is "None", then default to the Weapon's Range.
+A Ammo can have a Range that overrides the Weapon's Range that it is used with. This can represent self propelled made projectiles or high pressure ballistic ammunition. If a Ammo Range is "None", then default to the Weapon's Range.
 
 ## Damage Types
 
-Damage Types added from the Weapon Resource Class.
+Damage Types added from the Ammo.
 
 ## Area Of Effect
 
-A Weapon Resource Class can have an Area Of Effect that overrides the Weapon's Area Of Effect that it is used with. This can represent a bomb arrow or an explosive projectile. If a Weapon Resource Class Area Of Effect is "None", then default to the Weapon's Area Of Effect.
+A Ammo can have an Area Of Effect that overrides the Weapon's Area Of Effect that it is used with. This can represent a bomb arrow or an explosive projectile. If a Ammo Area Of Effect is "None", then default to the Weapon's Area Of Effect.
 
-## Weapon Resource Class List
+## Ammo List
 
 |                  Name                   |         Resource Class         | Dice Pool Mod | Base Dice Tier Adjustment | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :-------------------------------------: | :----------------------------: | :-----------: | :-----------------------: | :---------: | :---: | :---------------: | :-----------------: |

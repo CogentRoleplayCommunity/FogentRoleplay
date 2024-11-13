@@ -14,7 +14,7 @@ The dice pool modifier added when wielding a weapon in two hands or equivalent a
 
 **Dual Wielded:**
 
-The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with a Dual Wielded dice pool modifier are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held. Dual-wielding weapons that use weapon resources doubles the weapon resource used per opponent engaged.
+The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with a Dual Wielded dice pool modifier are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held. Dual-wielding weapons that use Ammo doubles the Ammo used per opponent engaged.
 
 **Penetration:**
 
@@ -32,13 +32,13 @@ The amount of opponents that can be engaged per round with a weapon. See [Engage
 
 The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
 
-**Weapon Resource:**
+**Ammo:**
 
-The ammunition required to use the weapon. See [Weapon Resources](./WeaponResourceClasses.md) for more details.
+The ammunition required to use the weapon. See [Ammunitions](./WeaponResourceClasses.md) for more details.
 
 **Resource per Shot:**
 
-The amount of amunition consumed per use of the weapon.
+The amount of Ammo consumed per use of the weapon.
 
 **Damage Types:**
 

@@ -6,7 +6,7 @@ Combat rolls are Dice Pools that represent a character's effectiveness in combat
 - +/- 1d6 per Weapon Skill
 - +/- 1d6 per STR, RFX, or INT if Governing Attribute of Combat Skill
 - +/- Weapon Dice Pool Mods (Hand Crossbow, Medium Spear, etc...)
-- +/- Weapon Resource Dice Pool Mods (Arrow, Bomb Arrow, etc...)
+- +/- Ammo Dice Pool Mods (Arrow, Bomb Arrow, etc...)
 
 ### Example 1:
 
