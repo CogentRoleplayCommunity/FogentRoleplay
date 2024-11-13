@@ -1,5 +1,49 @@
 # Weapons
 
+Examples of weapons include swords, bows, guns, or even a character's fists.
+
+In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, but also how far away they can shoot something, how many opponents they can engage in a round, deal various types of damages, etc... Below is a key to help you understand the weapon tables below.
+
+**One Handed:**
+
+The dice pool modifier added when wielding a weapon in one hand or equivalent appendage. This frees up the other hand to hold a shield, another weapon, an important item, etc...
+
+**Two Handed:**
+
+The dice pool modifier added when wielding a weapon in two hands or equivalent appendages. For characters with Primal Melee weapons such as a Bite or Horns, denotes that the creature is wholly focused on those weapons.
+
+**Dual Wielded:**
+
+The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with a Dual Wielded dice pool modifier are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held. Dual-wielding weapons that use weapon resources doubles the weapon resource used per opponent engaged.
+
+**Penetration:**
+
+The amount of Penetration a weapon adds to a characters combat roll. See [Penetration](./DefenseAndPenetration.md#penetration) for more details.
+
+**Range:**
+
+The distance at which a weapon can be used. See [Range](./Range.md) for more details.
+
+**Engageable Opponents:**
+
+The amount of opponents that can be engaged per round with a weapon. See [Engageable Opponents](./EngageableOpponents.md) for more details.
+
+**Area Of Effect:**
+
+The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
+
+**Weapon Resource:**
+
+The ammunition required to use the weapon. See [Weapon Resources](./WeaponResourceClasses.md) for more details.
+
+**Resource per Shot:**
+
+The amount of amunition consumed per use of the weapon.
+
+**Damage Types:**
+
+The types of Damage a weapon inflicts when dealing injuries.
+
 ## Weapons Combat Skills
 
 A weapon combat skill covers the use of a particular weapon. For instance, the "Medium Melee" Weapon Combat Skill covers the use of "Medium Hafted", "Medium Sword", and "Medium Spear.
@@ -11,26 +55,6 @@ If you feel that the normal weapon combat skills are too broad, and you are inst
 ## Governing Attributes for Weapon Combat Skills
 
 All weapon combat skills have the governing attributes of STR, RFX, and INT. This is to reflect that the stronger, faster, and smarter a character is, the more lethal they are in combat. A STR character hits harder and is more conditioned for combat. A RFX character hits faster and is harder to pin down. An INT character hits smarter and uses tactics. It is the player's/narrator's job to flavor their attacks to reflect how they are leveraging their innate attributes as they fight.
-
-## One Handed
-
-Dice modifier added to weapon combat rolls when held in one hand or an equivalent appendage. This frees up the other hand/appendage to hold a shield, ranged weapon, an important item, etc...
-
-## Two Handed
-
-Dice modifier added to weapon combat rolls when held with two hands or other equivalent appendages. Assuming a character has only two arms, using said weapon takes up both of their hands while in use. For characters with Primal Melee such as Bite or Horns, denote that the creature wholely focused on those Primal Melee.
-
-## Dual Wielded
-
-Dice modifier added to weapon combat rolls when off-handing a weapon as part of dual-wielding weapons.
-
-To duel wield the character must have at least one skill point in both of the weapons held. Each weapon must have a Dual Wielded dice Modifier. If you are dual-wielding, your combat roll is made up using the skill and/or weapon dice modifier of the primary weapon one-handed, with additional dice from the off-handed weapon's "Dual Wielded" dice modifier.
-
-Dual-wielding weapons that use weapon resources or that are being thrown use double the weapon resource/thrown weapons per opponent engaged.
-
-## Resource Per Shot
-
-The amount of resource consumed per "shot" or use of said weapon.
 
 ## Crossbow
 
