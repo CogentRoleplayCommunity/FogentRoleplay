@@ -34,7 +34,7 @@ The shape and amount of area a weapon attack creates. See [Area Of Effect](./Are
 
 **Ammo:**
 
-The ammunition required to use the weapon. See [Ammunitions](./WeaponResourceClasses.md) for more details.
+The ammunition required to use the weapon. See [Ammunitions](./Ammunitions.md) for more details.
 
 **Resource per Shot:**
 
