@@ -4,43 +4,43 @@ Examples of weapons include swords, bows, guns, or even a character's fists.
 
 In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, but also how far away they can shoot something, how many opponents they can engage in a round, deal various types of damages, etc... Below is a key to help you understand the weapon tables below.
 
-###### One Handed
+##### One Handed
 
 The dice pool modifier added when wielding a weapon in one hand or equivalent appendage. This frees up the other hand to hold a shield, another weapon, an important item, etc...
 
-###### Two Handed
+##### Two Handed
 
 The dice pool modifier added when wielding a weapon in two hands or equivalent appendages. For characters with Primal Melee weapons such as a Bite or Horns, denotes that the creature is wholly focused on those weapons.
 
-###### Dual Wielded
+##### Dual Wielded
 
 The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with a Dual Wielded dice pool modifier are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held. Dual-wielding weapons that use Ammo doubles the Ammo used per opponent engaged.
 
-###### Penetration
+##### Penetration
 
 The amount of Penetration a weapon adds to a characters combat roll. See [Penetration](./DefenseAndPenetration.md#penetration) for more details.
 
-###### Range
+##### Range
 
 The distance at which a weapon can be used. See [Range](./Range.md) for more details.
 
-###### Engageable Opponents
+##### Engageable Opponents
 
 The amount of opponents that can be engaged per round with a weapon. See [Engageable Opponents](./EngageableOpponents.md) for more details.
 
-###### Area Of Effect
+##### Area Of Effect
 
 The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
 
-###### Ammo Type
+##### Ammo Type
 
 The ammo type required to use the weapon. See [Ammo Type](./Ammunitions.md#ammo-type) for more details.
 
-###### Ammo per Use
+##### Ammo per Use
 
 The amount of Ammo consumed per use of the weapon.
 
-###### Damage Types
+##### Damage Types
 
 The types of Damage a weapon inflicts when dealing injuries.
 
