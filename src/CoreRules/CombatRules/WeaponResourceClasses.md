@@ -1,4 +1,4 @@
-# Weapon Resource Classes
+# Ammunitions
 
 ## Resource Class
 
