@@ -23,11 +23,11 @@ Alters a combat rolls base dice tier. For instance, if a Mundane Light Bow (Leve
 
 ## Penetration
 
-Additional Penetration from the Weapon Resource Class. Weapon Resource Class Penetration added to a Weapon Class Penetration results in the total Penetration for the Combat Roll.
+Additional Penetration from the Weapon Resource Class. Weapon Resource Class Penetration added to a Weapon's Penetration results in the total Penetration for the Combat Roll.
 
 ## Range
 
-A Weapon Resource Class can have a Range that overrides the Weapon Class' Range that it is used with. This can represent self propelled made projectiles or high pressure ballistic ammunition. If a Weapon Resource Class' Range is "None", then default to the Weapon Class' Range.
+A Weapon Resource Class can have a Range that overrides the Weapon's Range that it is used with. This can represent self propelled made projectiles or high pressure ballistic ammunition. If a Weapon Resource Class Range is "None", then default to the Weapon's Range.
 
 ## Damage Types
 
@@ -35,7 +35,7 @@ Damage Types added from the Weapon Resource Class.
 
 ## Area Of Effect
 
-A Weapon Resource Class can have an Area Of Effect that overrides the Weapon Class' Area Of Effect that it is used with. This can represent a bomb arrow or an explosive projectile. If a Weapon Resource Class' Area Of Effect is "None", then default to the Weapon Class' Area Of Effect.
+A Weapon Resource Class can have an Area Of Effect that overrides the Weapon's Area Of Effect that it is used with. This can represent a bomb arrow or an explosive projectile. If a Weapon Resource Class Area Of Effect is "None", then default to the Weapon's Area Of Effect.
 
 ## Weapon Resource Class List
 
