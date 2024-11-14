@@ -8,17 +8,21 @@ This is when a character purely focuses on defending themselves. No victory leve
 
 ## Ranged vs Melee (Disadvantage)
 
-When a melee combat roll is made towards a character within melee or reach range, the character has Disadvantage on ranged combat rolls versus the melee combat roll.
+When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
 
 ## Dash (2x Movement Speed)
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
+## Stationary Shooting (Advantage) (Disadvantage to Dodge Rolls)
+
+Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Dodge Roll.
+
 ## Focused Shot (Advantage) (Disadvantage to Dodge Rolls)
 
 This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
 
-While making a ranged attack, remain still and focus on a single shot. Your Engageable Opponents is reduced to 1 for the turn. You can not move while making a focused shot and have Disadvantage to Dodging.
+While making a ranged attack, focus on a single opponent and target a weak point. Your Engageable Opponents is reduced to 1 for the turn.
 
 ## Charge (Advantage)
 
@@ -31,6 +35,12 @@ If there is 10 ft between the character and opponent, they may add their momentu
 This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Lift Core Skill.
 
 A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+
+## Pack Tactics
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
+
+When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
 
 ## High ground (Advantage)
 

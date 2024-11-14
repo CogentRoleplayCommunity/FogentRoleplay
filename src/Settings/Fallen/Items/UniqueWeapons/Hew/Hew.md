@@ -24,12 +24,12 @@ Any weapon dice added to a combat roll are considered automatic wins when attack
 
 ## Info
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Hew | 1 | Medium Hafted Axe | Splinter | Excellent | 21/21 | 4 | ? |
+| Name | # |            Class            |  Effect  |   Tier   | Durability | LB | Value |
+| :--: | :-: | :-------------------------: | :------: | :-------: | :--------: | :-: | :---: |
+| Hew | 1 | Excellent Medium Hafted Axe | Splinter | Excellent |   21/21   | 4 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Splinter | Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures. |  | 2 |
+| Name     |                                                                           Effect                                                                           | Duration | Tier Required |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
+| Splinter | Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures. |          |       2       |
