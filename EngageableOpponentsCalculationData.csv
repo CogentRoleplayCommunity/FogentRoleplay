@@ -1,12 +1,8 @@
-name,divisor,skillDiceAdjustment,maxEO
-Rapid,2,0,None
-Rapid Base 1,2,1,None
-Rapid Base 2,2,2,None
-Rapid Base 3,2,3,None
-Rapid Base 4,2,4,None
-Rapid Max 2,2,0,2
-Quick,3,0,None
-Standard,4,0,None
-Slow,5,0,None
-Loading,6,0,None
-Complex Loading,10,0,None
+name,combatRollDivisor,maxEO
+Rapid Max 2,2,2
+Rapid,2,None
+Quick,3,None
+Standard,4,None
+Slow,5,None
+Loading,6,None
+Complex Loading,10,None
