@@ -9,7 +9,7 @@ The amount of opponents a character can engage in a round is calculated below:
 
 |  New Name  |      Name      | Divisor | Skill Dice Adjustment | Max EO |
 | :---------: | :-------------: | :-----: | :-------------------: | :----: |
-|    Rapid    |                |    1    |           0           |  None  |
+|            |                |    1    |           0           |  None  |
 |    Swift    |      Rapid      |    2    |           0           |  None  |
 | Swift Max 2 |   Rapid Max 2   |    2    |           0           |   2   |
 |    Quick    |      Quick      |    3    |           0           |  None  |
@@ -31,13 +31,13 @@ The amount of opponents a character can engage in a round is calculated below:
 
 | Range Type/Combat Roll Dice Pool Amount | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :-------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
-|                  Rapid                  |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
-|                  Swift                  |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
+|                                        |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
+|                  Rapid                  |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
 |                  Quick                  | 0.3333 |  0.666  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
-|                 Steady                 |  0.25  |   0.5   |  0.75  |   1   |  1.25  |  1.5  |  1.75  |   2   |  2.25  |   2.5   |    3    |  3.25  |
-|                  Paced                  |  0.2  |   0.4   |  0.6  |  0.8  |   1   |  1.2  |  1.4  |  1.6  |  1.8  |    2    |   2.2   |   2.4   |
-|                  Slow                  | 0.166 |  0.333  |  0.5  | 0.666 | 0.833 |   1   | 1.166 | 1.333 |  1.5  |  1.666  |  1.833  |    2    |
-|                 Loading                 |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |   1.1   |   1.2   |
+|                Standard                |  0.25  |   0.5   |  0.75  |   1   |  1.25  |  1.5  |  1.75  |   2   |  2.25  |   2.5   |    3    |  3.25  |
+|                  Slow                  |  0.2  |   0.4   |  0.6  |  0.8  |   1   |  1.2  |  1.4  |  1.6  |  1.8  |    2    |   2.2   |   2.4   |
+|                 Loading                 | 0.166 |  0.333  |  0.5  | 0.666 | 0.833 |   1   | 1.166 | 1.333 |  1.5  |  1.666  |  1.833  |    2    |
+|             Complex Loading             |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |   1.1   |   1.2   |
 
 
 
