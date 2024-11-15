@@ -1,6 +1,6 @@
 # Engageable Opponents
 
-Engageable Opponents represent the number of opponents that can be fought in a certain round. Each opponent engaged with a combat roll cost one engageable opponent for that round. If a character's engageable opponents are exceeded, they gain the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier and are unable to achieve Victory Levels.
+Engageable Opponents represent the number of opponents that can be fought in a certain round. Each opponent engaged with a combat roll cost one engageable opponent for that round. If a character's engageable opponents are exceeded, they gain the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier and are unable to achieve Victory Levels for the remainder of the round.
 
 ## Engageable Opponents Calculations
 
@@ -16,7 +16,7 @@ The amount of opponents a character can engage in a round is calculated below:
 |      Complex Loading      |       (Combat Roll)/10 rounded down       |
 |        Rapid Max 2        | (Combat Roll)/2 rounded down, maximum of 2 |
 
-### Engageable Opponent calcualtion resulting in 0
+### Engageable Opponent calculation resulting in 0
 
 If a roll's calculation results in less than a 0, the following rules apply.
 
