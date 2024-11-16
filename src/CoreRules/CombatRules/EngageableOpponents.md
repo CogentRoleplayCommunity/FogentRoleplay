@@ -13,7 +13,7 @@ The amount of opponents a character can engage in a round is calculated using th
 |      Swift      |    2    |
 |      Quick      |    3    |
 |    Steady    |    4    |
-|      Slow      |    5    |
+|      Paced      |    5    |
 |     Loading     |    6    |
 | Complex Loading |   10   |
 
@@ -33,7 +33,7 @@ On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, e
 |               Swift               |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
 |               Quick               |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
 |              Steady              |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
-|                Slow                |  0.2  |   0.4   |  0.6  |  0.8  |   1   |   1   |   1   |   1   |   1   |    2    |    2    |    2    |
+|                Paced                |  0.2  |   0.4   |  0.6  |  0.8  |   1   |   1   |   1   |   1   |   1   |    2    |    2    |    2    |
 |              Loading              |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
 |          Complex Loading          |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |    1    |    1    |
 

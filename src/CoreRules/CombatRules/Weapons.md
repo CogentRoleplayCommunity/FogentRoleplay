@@ -88,7 +88,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Heavy Bow |      None      |      +2d6      |       None       |      3      | Sharpshooter |         Slow         |                    |  Heavy Arrow  |         1         |                  |
+| Heavy Bow |      None      |      +2d6      |       None       |      3      | Sharpshooter |         Paced         |                    |  Heavy Arrow  |         1         |                  |
 
 ## Exotic Ranged
 
@@ -147,7 +147,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Slow           |                    |   .308 Ammo   |         1         |                  |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Paced           |                    |   .308 Ammo   |         1         |                  |
 
 ## Heavy Guns
 
