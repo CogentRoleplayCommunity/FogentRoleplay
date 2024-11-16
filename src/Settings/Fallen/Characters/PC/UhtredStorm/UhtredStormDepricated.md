@@ -41,15 +41,15 @@
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------------: | :--------------: | :--------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |   Radiance - Melee Trick   |     2d8, 5d6     |                  |                  |      0      |  Melee  |      Radiant      |           Swift           |                    |        None        |
-|   Radiance - Ranged Trick   |     2d8, 5d6     |                  |                  |      0      | Extended |      Radiant      |         Standard         |                    |        None        |
+|   Radiance - Ranged Trick   |     2d8, 5d6     |                  |                  |      0      | Extended |      Radiant      |         Steady         |                    |        None        |
 |      Radiance - Melee      |     2d8, 6d6     |                  |                  |      2      |  Melee  |      Radiant      |           Swift           |                    |    1 (Fellblood)    |
-|      Radiance - Ranged      |     2d8, 6d6     |                  |                  |      1      | Extended |      Radiant      |         Standard         |                    |    1 (Fellblood)    |
+|      Radiance - Ranged      |     2d8, 6d6     |                  |                  |      1      | Extended |      Radiant      |         Steady         |                    |    1 (Fellblood)    |
 |       Radiance - Cone       |     2d8, 6d6     |                  |                  |      2      | Extended |      Radiant      |             1             |        Cone        |    1 (Fellblood)    |
 |      Radiance - Reach      |     2d8, 6d6     |                  |                  |      2      |  Reach  |      Radiant      |           Swift           |                    |    1 (Fellblood)    |
 |        Radiance - 1        |     2d8, 7d6     |                  |                  |      2      | Extended |      Radiant      |             1             |                    |    1 (Fellblood)    |
 |      Radiance - Sphere      |     2d8, 7d6     |                  |                  |      3      | Extended |      Radiant      |             1             |       Sphere       |    2 (Fellblood)    |
 |   Blessing - Melee Trick   |       4d6       |                  |                  |      0      |  Melee  |                  |           Swift           |                    |        None        |
-|   Blessing - Ranged Trick   |       4d6       |                  |                  |      0      |  Close  |                  |         Standard         |                    |        None        |
+|   Blessing - Ranged Trick   |       4d6       |                  |                  |      0      |  Close  |                  |         Steady         |                    |        None        |
 |   Medium Thrusting Sword   | 9d6<br />(+1d6) | None | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |           Swift           |        None        |        None        |
 |    Medium Slashing Sword    | 10d6<br />(+2d6) | None | 11d6<br />(+1d6) |      1      |  Melee  |       Slash       |           Swift           |        None        |        None        |
 |    Small Piercing Blade    | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |           Swift           |        None        |        None        |
