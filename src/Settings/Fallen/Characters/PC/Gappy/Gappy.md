@@ -71,18 +71,18 @@
 | Magic Medium Slash |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Rapid           |        None        |          1          |                   |
 | Magic Medium Thrust |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Rapid           |        None        |          1          |                   |
 | Magic Medium Smash |      +0d6      |      +1d6      |       +1d6       |      4      | Melee |           Rapid           |        None        |          1          |                   |
-| Magic Medium Spear |      +2d6      |      None      |       +1d6       |      2      | Melee |        Rapid Max 2        |        None        |          1          |                   |
+| Magic Medium Spear |      +2d6      |      None      |       +1d6       |      2      | Melee |        Standard        |        None        |          1          |                   |
 |     Magic Whip     |      +1d6      |      None      |       +1d6       |      0      | Reach |           Rapid           |        None        |          1          |                   |
 |                    |                |                |                  |            |      |                          |                    |                    |                   |
 |  Magic Large Slash  |      +1d6      |      +3d6      |       None       |      2      | Melee |           Rapid           |        None        |          2          |                   |
 | Magic Large Thrust |      +0d6      |      +2d6      |       None       |      3      | Melee |           Rapid           |        None        |          2          |                   |
 |  Magic Large Smash  |       -1       |      +1d6      |       None       |      5      | Melee |           Rapid           |        None        |          2          |                   |
-|  Magic Large Spear  |      +2d6      |      +3d6      |       None       |      3      | Melee |        Rapid Max 2        |        None        |          2          |                   |
+|  Magic Large Spear  |      +2d6      |      +3d6      |       None       |      3      | Melee |        Standard        |        None        |          2          |                   |
 |                    |                |                |                  |            |      |                          |                    |                    |                   |
 |  Magic Reach Slash  |       -2       |      +4d6      |       None       |      3      | Reach |           Rapid           |        None        |          3          |                   |
 | Magic Reach Thrust |       -2       |      +3d6      |       None       |      4      | Reach |           Rapid           |        None        |          3          |                   |
 |  Magic Reach Smash  |       -2       |      +2d6      |       None       |      5      | Reach |           Rapid           |        None        |          3          |                   |
-|  Magic Reach Spear  |       -2       |      +4d6      |       None       |      4      | Reach |        Rapid Max 2        |        None        |          3          |                   |
+|  Magic Reach Spear  |       -2       |      +4d6      |       None       |      4      | Reach |        Standard        |        None        |          3          |                   |
 
 ### Ranged Weapon Spells
 
