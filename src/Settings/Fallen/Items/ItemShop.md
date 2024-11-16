@@ -144,14 +144,14 @@ Cheap shops will charge 50% the value for any item on this list.
 |  Swordbreaker  | 1 |                          Small Slashing Blade                          |        | Mundane |   12/12   |   1   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |   Swordstaff   | 1 |                     Reach Hafted Blade, Reach Spear                     |        | Mundane |   12/12   |   6   | 50 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Lance     | 1 |                           Reach Hafted Point                           |        | Mundane |   12/12   |   11   | 10 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|   Longsword   | 1 |               Large Thrusting Sword, Large Slashing Sword               |        | Mundane |   12/12   |   3   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Longsword   | 1 |               Large Thrusting Sword, Large Slashing Sword               |        | Mundane |   12/12   |   3   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Maul      | 1 |                           Large Hafted Blunt                           |        | Mundane |   12/12   |   7   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |  Morning Star  | 1 |                Medium Hafted Blunt, Medium Hafted Point                |        | Mundane |   12/12   |   4   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Pike      | 1 |                               Reach Spear                               |        | Mundane |   12/12   |   5   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |     Rapier     | 1 |      Fine Medium Thrusting Sword, Shoddy Medium Slashing Sword      |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |    Scimitar    | 1 |      Shoddy Medium Thrusting Sword, Fine Medium Slashing Sword      |        | Quality |   15/15   |   2   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |  Arming Sword  | 1 |              Medium Thrusting Sword, Medium Slashing Sword              |        | Mundane |   12/12   |   2   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|   Shortsword   | 1 |          One-handed Thrusting Sword, One-handed Slashing Sword          |        | Mundane |   12/12   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
+|   Shortsword   | 1 |          Quality Small Piercing Blade, Quality Small Slashing Blade          |        | Quality |   15/15   |  1.5  |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Trident    | 1 |             Quality Large Spear, Quality Thrown Large Spear             |        | Quality |   15/15   |   3   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 | Warhammer/pick | 1 |                Medium Hafted Blunt, Medium Hafted Point                |        | Mundane |   12/12   |   2   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 
