@@ -4,50 +4,39 @@ Engageable Opponents represent the number of opponents that can be fought in a c
 
 ## Engageable Opponents Calculations
 
-The amount of opponents a character can engage in a round is calculated below:
+The amount of opponents a character can engage in a round is calculated using the following equation:
 
+(Number of Combat Roll Dice) / (Divisor), rounded down only if above 1, to a maximum of (Max EO)
 
-|  New Name  |      Name      | Divisor | Skill Dice Adjustment | Max EO |
-| :---------: | :-------------: | :-----: | :-------------------: | :----: |
-|            |                |    1    |           0           |  None  |
-|    Swift    |      Rapid      |    2    |           0           |  None  |
-| Swift Max 2 |   Rapid Max 2   |    2    |           0           |   2   |
-|    Quick    |      Quick      |    3    |           0           |  None  |
-|   Steady   |    Standard    |    4    |           0           |  None  |
-|    Paced    |      Slow      |    5    |           0           |  None  |
-|    Slow    |     Loading     |    6    |           0           |  None  |
-|   Loading   | Complex Loading |   10   |           0           |  None  |
+|      Name      | Divisor | Max EO |
+| :-------------: | :-----: | :----: |
+|   Rapid Max 2   |    2    |   2   |
+|      Rapid      |    2    |  None  |
+|      Quick      |    3    |  None  |
+|    Standard    |    4    |  None  |
+|      Slow      |    5    |  None  |
+|     Loading     |    6    |  None  |
+| Complex Loading |   10   |  None  |
 
-| Engageable Opponents Type |                Calculation                |
-| :-----------------------: | :----------------------------------------: |
-|           Rapid           |        (Combat Roll)/2 rounded down        |
-|           Quick           |        (Combat Roll)/3 rounded down        |
-|         Standard         |        (Combat Roll)/4 rounded down        |
-|           Slow           |        (Combat Roll)/5 rounded down        |
-|          Loading          |        (Combat Roll)/6 rounded down        |
-|      Complex Loading      |       (Combat Roll)/10 rounded down       |
-|        Rapid Max 2        | (Combat Roll)/2 rounded down, maximum of 2 |
+For example, if a character had 7 dice in their combat roll with an Engageable Opponents types of Quick, 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Engageable Opponents for that combat roll.
 
+### Engageable Opponent calculation resulting in less than 1
 
-| Range Type/Combat Roll Dice Pool Amount | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
-| :-------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
-|                                        |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
-|                  Rapid                  |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
-|                  Quick                  | 0.3333 |  0.666  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
-|                Standard                |  0.25  |   0.5   |  0.75  |   1   |  1.25  |  1.5  |  1.75  |   2   |  2.25  |   2.5   |    3    |  3.25  |
-|                  Slow                  |  0.2  |   0.4   |  0.6  |  0.8  |   1   |  1.2  |  1.4  |  1.6  |  1.8  |    2    |   2.2   |   2.4   |
-|                 Loading                 | 0.166 |  0.333  |  0.5  | 0.666 | 0.833 |   1   | 1.166 | 1.333 |  1.5  |  1.666  |  1.833  |    2    |
-|             Complex Loading             |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |   1.1   |   1.2   |
+On a round where you combat roll IS prepared (i.e. your Heavy Crossbow is loaded, etc...) you can engage 1 opponent.
 
+On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, etc...), if your EO is greater than or equal to 0.5 and less than 1, you must spend 1 round reloading/preparing in order to use this roll again. If your EO is greater than 0 and less 0.5, your character must spend 2 rounds reloading/preparing. While reloading/preparing the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
 
+### Engageable Opponent Calculation Examples
 
-### Engageable Opponent calculation resulting in 0
-
-If a roll's calculation results in less than a 0, the following rules apply.
-
-On a round where you roll IS prepared (i.e. your Heavy Crossbow is loaded) you can engage 1 opponent.
-
-On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty), you must spend 1 round reloading/preparing in order to use this roll again, during which the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
+| EO Type/Number of Combat Roll Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
+| :--------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
+|                                    |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
+|               Rapid               |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
+|               Quick               |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
+|              Standard              |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
+|                Slow                |  0.2  |   0.4   |  0.6  |  0.8  |   1   |   1   |   1   |   1   |   1   |    2    |    2    |    2    |
+|              Loading              |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
+|          Complex Loading          |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |    1    |    1    |
 
 ## Set Engageable Opponents
 
