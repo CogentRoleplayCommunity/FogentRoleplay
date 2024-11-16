@@ -221,10 +221,10 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| One-handed Thrusting Sword |      +1d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |      None      |                  |      Pierce      |
-| One-handed Slashing Sword |      +2d6      |      None      |       +1d6       |      1      | Melee |           Rapid           |                    |      None      |                  |       Slash       |
-|   Medium Thrusting Sword   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Rapid           |                    |      None      |                  |      Pierce      |
-|   Medium Slashing Sword   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Rapid           |                    |      None      |                  |       Slash       |
+| Medium Thrusting Sword |      +1d6      |      None      |       +1d6       |      2      | Melee |           Rapid           |                    |      None      |                  |      Pierce      |
+| Medium Slashing Sword |      +2d6      |      None      |       +1d6       |      1      | Melee |           Rapid           |                    |      None      |                  |       Slash       |
+|   Medium Versatile Thrusting Sword   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Rapid           |                    |      None      |                  |      Pierce      |
+|   Medium Versatile Slashing Sword   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Rapid           |                    |      None      |                  |       Slash       |
 
 ### Medium Spear
 
