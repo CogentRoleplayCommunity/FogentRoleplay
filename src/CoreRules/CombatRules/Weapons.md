@@ -193,7 +193,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 ### Small Blade
 
-(dagger, knives)
+(dagger, knives, shortsword)
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
