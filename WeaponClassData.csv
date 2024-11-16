@@ -1,10 +1,10 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
 Hand Crossbow,+1d6,None,+1d6,1,Medium,Steady,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
-Light Crossbow,None,+1d6,None,2,Far,Loading,,Light Bolt,1,,Light Crossbow,Light Crossbow
-Heavy Crossbow,None,+2d6,None,3,Long,Complex Loading,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
+Light Crossbow,None,+1d6,None,2,Far,Slow,,Light Bolt,1,,Light Crossbow,Light Crossbow
+Heavy Crossbow,None,+2d6,None,3,Long,Complex Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
 Light Bow,None,+1d6,None,1,Far,Quick,,Light Arrow,1,,Light Bow,Light Bow
 Heavy Bow,None,+2d6,None,3,Sharpshooter,Paced,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
-Blowgun,+0d6,None,None,0,Mediocre,Loading,,Blowgun Dart,1,,Exotic Ranged,Blowgun
+Blowgun,+0d6,None,None,0,Mediocre,Slow,,Blowgun Dart,1,,Exotic Ranged,Blowgun
 Sling,+0d6,None,None,1,Medium,Steady,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
 Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,Quick,,Self,1,Slash,Close Melee,Small Blade
@@ -73,9 +73,9 @@ Large Slam,+0d6,None,+1d6,4,Melee,Swift,,None,,Bludgeon,Primal Melee,Slam
 ,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,
-Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Complex Loading,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
-Arquebus,+0d6,+2d6,None,5,Long,Complex Loading,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
-Musket,+0d6,+3d6,None,6,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Complex Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
+Arquebus,+0d6,+2d6,None,5,Long,Complex Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Musket,+0d6,+3d6,None,6,Sharpshooter,Complex Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,
 9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Quick,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
 9mm Burst Pistol,+3d6,None,+1d6,6,Medium,Quick,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
@@ -90,4 +90,4 @@ Musket,+0d6,+3d6,None,6,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium
 12 Gauge Pump-action Shotgun,+1d6,+4d6,None,6,Extended,Steady,,12 Gauge Ammo,1,,Medium Guns,Shotgun
 ,,,,,,,,,,,,
 5.56 Machine Gun,-2,+5d6,None,8,Extreme,Swift,,5.56 Ammo,10,,Heavy Guns,Machine Gun
-RPG Launcher,-2,+6d6,None,12,Sharpshooter,Loading,,RPG Ammo,1,,Heavy Guns,Launcher
+RPG Launcher,-2,+6d6,None,12,Sharpshooter,Slow,,RPG Ammo,1,,Heavy Guns,Launcher
