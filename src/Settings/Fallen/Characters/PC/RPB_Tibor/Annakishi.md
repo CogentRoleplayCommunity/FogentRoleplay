@@ -62,24 +62,24 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|         Unarmed         | 4d6<br />(-1) | 4d6<br />(-1) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-| Hand Protection Unarmed | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|   Large Hafted Blunt   | 5d6<br />(-1) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|  Small Piercing Blade  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-|  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Rapid           |        None        |        None        |
+|         Unarmed         | 4d6<br />(-1) | 4d6<br />(-1) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+| Hand Protection Unarmed | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|   Large Hafted Blunt   | 5d6<br />(-1) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|  Small Piercing Blade  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Swift           |        None        |        None        |
+|  Small Slashing Blade  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Swift           |        None        |        None        |
 
 ***Fellcraft Melee***
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
 
 ### Ranged Options
 
@@ -87,20 +87,20 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Piercing Blade | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Thrown Small Piercing Blade | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Swift           |        None        |        None        |
 
 ***Fellcraft Ranged***
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
-| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Rapid           |                    |        None        |
-|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Rapid           |                    |    1 (Fellblood)    |
+| Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| Polycraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|     Polycraft- Melee     |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| Toxincraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|    Toxincraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
+| Terracraft - Melee Trick |       6d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
+|    Terracraft- Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
 
 ## Destiny Points: 3/3
 

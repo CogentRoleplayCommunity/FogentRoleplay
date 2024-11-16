@@ -51,12 +51,12 @@
 
 |               Name                | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :-------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-|              Unarmed              | -1d6 | -1d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|      Hand Protection Unarmed      |  0d6 |  0d6 |       n/a        |      0      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|        Medium Hafted Blunt        |  0d6 | +1d6 |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|        Medium Hafted Point        | +1d6 | +2d6 |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Rapid           |        None        |        None        |
-|       Small Piercing Blade       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Rapid           |        None        |        None        |
-|       Small Slashing Blade        | +1d6 | +1d6 |    n/a (+1d6)    |      0      | Melee |      Slash       |           Rapid           |        None        |        None        |
+|              Unarmed              | -1d6 | -1d6 |       n/a        |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|      Hand Protection Unarmed      |  0d6 |  0d6 |       n/a        |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|        Medium Hafted Blunt        |  0d6 | +1d6 |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|        Medium Hafted Point        | +1d6 | +2d6 |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|       Small Piercing Blade       | +0d6 | +0d6 |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Swift           |        None        |        None        |
+|       Small Slashing Blade        | +1d6 | +1d6 |    n/a (+1d6)    |      0      | Melee |      Slash       |           Swift           |        None        |        None        |
 
 ### Ranged Options
 
@@ -64,7 +64,7 @@
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Piercing Blade | 0d6             | 0d6             |        n/a        |      1      | Melee |      Pierce      |           Rapid           |        None        |        None        |
+| Thrown Small Piercing Blade | 0d6             | 0d6             |        n/a        |      1      | Melee |      Pierce      |           Swift           |        None        |        None        |
 
 ### Combat Spells
 *Combat spells are already linked and categorized on my magic quicklist below. (As well as other spells that I can do.)*
