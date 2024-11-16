@@ -10,6 +10,7 @@ The amount of opponents a character can engage in a round is calculated using th
 
 |      Name      | Divisor |
 | :------------: | :-----: |
+|     Rapid     |    1    |
 |     Swift     |    2    |
 |     Quick     |    3    |
 |     Steady     |    4    |
@@ -29,7 +30,7 @@ On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, e
 
 | EO Type/Number of Combat Roll Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :--------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
-|                                    |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
+|               Rapid               |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
 |               Swift               |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
 |               Quick               |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
 |               Steady               |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
