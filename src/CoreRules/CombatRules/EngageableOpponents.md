@@ -6,7 +6,7 @@ Engageable Opponents represent the number of opponents that can be fought in a c
 
 The amount of opponents a character can engage in a round is calculated using the following equation:
 
-(Number of Combat Roll Dice) / (Divisor), rounded down, to a maximum of (Max EO)
+(Number of Combat Roll Dice) / (Divisor), rounded down only if above 1, to a maximum of (Max EO)
 
 |      Name      | Divisor | Max EO |
 | :-------------: | :-----: | :----: |
