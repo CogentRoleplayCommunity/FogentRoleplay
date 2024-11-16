@@ -6,17 +6,16 @@ Engageable Opponents represent the number of opponents that can be fought in a c
 
 The amount of opponents a character can engage in a round is calculated using the following equation:
 
-(Number of Combat Roll Dice) / (Divisor), rounded down only if above 1, to a maximum of (Max EO)
+(Number of Combat Roll Dice) / (Divisor), rounded down only if above 1
 
-|      Name      | Divisor | Max EO |
-| :-------------: | :-----: | :----: |
-|   Rapid Max 2   |    2    |   2   |
-|      Rapid      |    2    |  None  |
-|      Quick      |    3    |  None  |
-|    Standard    |    4    |  None  |
-|      Slow      |    5    |  None  |
-|     Loading     |    6    |  None  |
-| Complex Loading |   10   |  None  |
+|      Name      | Divisor |
+| :-------------: | :-----: |
+|      Rapid      |    2    |
+|      Quick      |    3    |
+|    Standard    |    4    |
+|      Slow      |    5    |
+|     Loading     |    6    |
+| Complex Loading |   10   |
 
 For example, if a character had 7 dice in their combat roll with an Engageable Opponents types of Quick, 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Engageable Opponents for that combat roll.
 
