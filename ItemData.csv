@@ -20,7 +20,8 @@ Platinum Coin,1,,,Mundane,,0.02," 1 pc",
 Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
 Shortsword,1,"Quality Small Piercing Blade, Quality Small Slashing Blade",,Quality,15/15,1.5,5 bc,
 Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",,Mundane,12/12,2,10 bc,
-Longsword,1,"Large Thrusting Sword, Large Slashing Sword",,Mundane,12/12,3,15 bc,
+Bastard Sword,1,"Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword",,Mundane,12/12,2.5,15 bc,
+Longsword,1,"Large Thrusting Sword, Large Slashing Sword",,Mundane,12/12,3,25 bc,
 Greatsword,1,"Reach Thrusting Sword, Reach Slashing Sword",,Mundane,12/12,6,50 bc,
 ,,,,,,,,
 Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",,Mundane,12/12,2,5 bc,
@@ -68,7 +69,7 @@ Whip,1,Whip,,Mundane,12/12,3,2 bc,
 Plumbata/Dart,1,"Small Piercing Blade, Thrown Small Piercing Blade",,Mundane,12/12,5,5 cc,
 Blowgun,1,Blowgun,,Mundane,12/12,1,10 bc,
 ,,,,,,,,
-Steelclaw,1,"Fine Large Thrusting Sword, Fine Large Slashing Sword",,Fine,12/12,3,15 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
+Steelclaw,1,"Fine Large Thrusting Sword, Fine Large Slashing Sword",,Fine,12/12,3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
 Frostbark,1,"Excellent Large Hafted Axe, Spellcasting Focus",Cold Enchantment,Excellent,21/21,4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle."
 Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus",Draupnir,Excellent,21/21,3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
