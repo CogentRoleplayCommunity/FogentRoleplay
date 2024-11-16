@@ -26,6 +26,18 @@ On a round where you combat roll IS prepared (i.e. your Heavy Crossbow is loaded
 
 On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, etc...), if your EO is greater than or equal to 0.5 and less than 1, you must spend 1 round reloading/preparing in order to use this roll again. If your EO is greater than 0 and less 0.5, your character must spend 2 rounds reloading/preparing. While reloading/preparing the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
 
+### Engageable Opponent Calculation Examples
+
+| EO Type/Number of Combat Roll Dice | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
+| :--------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
+|                                    |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
+|               Rapid               |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
+|               Quick               |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
+|              Standard              |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
+|                Slow                |  0.2  |   0.4   |  0.6  |  0.8  |   1   |   1   |   1   |   1   |   1   |    2    |    2    |    2    |
+|              Loading              |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
+|          Complex Loading          |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |    1    |    1    |
+
 ## Set Engageable Opponents
 
 Set Engageable Opponents represent a set number of targets that can be engaged in a round.
@@ -45,13 +57,3 @@ Set Engageable Opponents represent a set number of targets that can be engaged i
 |    Paced    |      Slow      |    5    |           0           |  None  |
 |    Slow    |     Loading     |    6    |           0           |  None  |
 |   Loading   | Complex Loading |   10   |           0           |  None  |
-
-| Range Type/Combat Roll Dice Pool Amount | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
-| :-------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
-|                                        |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
-|                  Rapid                  |  0.5  |    1    |   1   |   2   |   2   |   3   |   3   |   4   |   4   |    5    |    5    |    6    |
-|                  Quick                  | 0.3333 |  0.666  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
-|                Standard                |  0.25  |   0.5   |  0.75  |   1   |  1.25  |  1.5  |  1.75  |   2   |  2.25  |   2.5   |    3    |  3.25  |
-|                  Slow                  |  0.2  |   0.4   |  0.6  |  0.8  |   1   |  1.2  |  1.4  |  1.6  |  1.8  |    2    |   2.2   |   2.4   |
-|                 Loading                 | 0.166 |  0.333  |  0.5  | 0.666 | 0.833 |   1   | 1.166 | 1.333 |  1.5  |  1.666  |  1.833  |    2    |
-|             Complex Loading             |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |   1.1   |   1.2   |
