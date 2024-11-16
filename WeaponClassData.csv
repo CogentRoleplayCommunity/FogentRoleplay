@@ -1,7 +1,7 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
 Hand Crossbow,+1d6,None,+1d6,1,Medium,Steady,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
 Light Crossbow,None,+1d6,None,2,Far,Slow,,Light Bolt,1,,Light Crossbow,Light Crossbow
-Heavy Crossbow,None,+2d6,None,3,Long,Complex Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
+Heavy Crossbow,None,+2d6,None,3,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
 Light Bow,None,+1d6,None,1,Far,Quick,,Light Arrow,1,,Light Bow,Light Bow
 Heavy Bow,None,+2d6,None,3,Sharpshooter,Paced,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
 Blowgun,+0d6,None,None,0,Mediocre,Slow,,Blowgun Dart,1,,Exotic Ranged,Blowgun
@@ -73,9 +73,9 @@ Large Slam,+0d6,None,+1d6,4,Melee,Swift,,None,,Bludgeon,Primal Melee,Slam
 ,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,
-Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Complex Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
-Arquebus,+0d6,+2d6,None,5,Long,Complex Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
-Musket,+0d6,+3d6,None,6,Sharpshooter,Complex Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
+Arquebus,+0d6,+2d6,None,5,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Musket,+0d6,+3d6,None,6,Sharpshooter,Extremely Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,
 9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Quick,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
 9mm Burst Pistol,+3d6,None,+1d6,6,Medium,Quick,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
