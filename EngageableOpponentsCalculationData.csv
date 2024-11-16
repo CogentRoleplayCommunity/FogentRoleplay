@@ -1,8 +1,8 @@
-name,combatRollDivisor,maxEO
-Rapid Max 2,2,2
-Rapid,2,None
-Quick,3,None
-Standard,4,None
-Slow,5,None
-Loading,6,None
-Complex Loading,10,None
+name,combatRollDivisor
+Standard,2
+Rapid,2
+Quick,3
+Standard,4
+Slow,5
+Loading,6
+Complex Loading,10
