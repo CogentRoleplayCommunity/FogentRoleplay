@@ -3,7 +3,7 @@ Hand Crossbow,+1d6,None,+1d6,1,Medium,Steady,,Light Bolt,1,,Hand Crossbow,Hand C
 Light Crossbow,None,+1d6,None,2,Far,Loading,,Light Bolt,1,,Light Crossbow,Light Crossbow
 Heavy Crossbow,None,+2d6,None,3,Long,Complex Loading,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
 Light Bow,None,+1d6,None,1,Far,Quick,,Light Arrow,1,,Light Bow,Light Bow
-Heavy Bow,None,+2d6,None,3,Sharpshooter,Slow,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
+Heavy Bow,None,+2d6,None,3,Sharpshooter,Paced,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
 Blowgun,+0d6,None,None,0,Mediocre,Loading,,Blowgun Dart,1,,Exotic Ranged,Blowgun
 Sling,+0d6,None,None,1,Medium,Steady,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
@@ -85,7 +85,7 @@ Musket,+0d6,+3d6,None,6,Sharpshooter,Complex Loading,,Musket Cartridge,1,,Medium
 5.56 Burst Rifle,+2d6,+4d6,None,8,Sharpshooter,Quick,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
 5.56 Automatic Rifle,+2d6,+4d6,None,8,Distant,Swift,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
 ,,,,,,,,,,,,
-.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Slow,,.308 Ammo,1,,Medium Guns,Marksman Rifle
+.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Paced,,.308 Ammo,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun,+1d6,+4d6,None,6,Extended,Steady,,12 Gauge Ammo,1,,Medium Guns,Shotgun
 ,,,,,,,,,,,,

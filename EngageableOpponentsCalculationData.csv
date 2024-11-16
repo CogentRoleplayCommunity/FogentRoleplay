@@ -2,6 +2,6 @@ name,combatRollDivisor
 Swift,2
 Quick,3
 Steady,4
-Slow,5
+Paced,5
 Loading,6
 Complex Loading,10
