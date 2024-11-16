@@ -46,14 +46,3 @@ Set Engageable Opponents represent a set number of targets that can be engaged i
 | :-----------------------: | :------------------: |
 |             1             |          1          |
 |            ...            |                      |
-
-|  New Name  |      Name      | Divisor | Skill Dice Adjustment | Max EO |
-| :---------: | :-------------: | :-----: | :-------------------: | :----: |
-|            |                |    1    |           0           |  None  |
-|    Swift    |      Rapid      |    2    |           0           |  None  |
-| Swift Max 2 |   Rapid Max 2   |    2    |           0           |   2   |
-|    Quick    |      Quick      |    3    |           0           |  None  |
-|   Steady   |    Standard    |    4    |           0           |  None  |
-|    Paced    |      Slow      |    5    |           0           |  None  |
-|    Slow    |     Loading     |    6    |           0           |  None  |
-|   Loading   | Complex Loading |   10   |           0           |  None  |
