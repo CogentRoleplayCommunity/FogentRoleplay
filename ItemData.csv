@@ -18,7 +18,7 @@ Gold Coin,1,,,Mundane,,0.02," 1 gc",
 Platinum Coin,1,,,Mundane,,0.02," 1 pc",
 ,,,,,,,,
 Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade",,Mundane,12/12,1,2 bc,
-Shortsword,1,"One-handed Thrusting Sword, One-handed Slashing Sword",,Mundane,12/12,1.5,5 bc,
+Shortsword,1,"Quality Small Piercing Blade, Quality Small Slashing Blade",,Quality,15/15,1.5,5 bc,
 Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",,Mundane,12/12,2,5 bc,
 Shoddy Sickle,1,"Shoddy Small Hafted Blade, Shoddy Thrown Small Hafted Blade",,Shoddy,9/9,2,50 cc,
 Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",,Mundane,12/12,2,1 bc,
@@ -75,7 +75,7 @@ This spear can be used as a Air Spellcasting Focus."
 Asher's Arms Swordbreaker,1,"Fine Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Piercing Blade",Swordbreaker Blade Catch,Fine,18/18,1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon."
-Talon - Replica,1,"Quality One-handed Thrusting Sword, Quality One-handed Slashing Sword",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
+Talon - Replica,1,"Quality Small Piercing Blade, Quality Small Slashing Blade",,Quality,15/15,1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom."
 Fang - Replica,1,"Quality Small Piercing Blade, Quality Small Slashing Blade, Quality Thrown Small Piercing Blade",,Quality,15/15,1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom."
 Sirius’s Sword,1,"Fine Medium Thrusting Sword, Fine Medium Slashing Sword",,Fine,18/18,2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
