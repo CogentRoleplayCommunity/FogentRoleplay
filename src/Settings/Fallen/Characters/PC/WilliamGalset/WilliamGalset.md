@@ -108,7 +108,7 @@
 |  Magic Close Cone  |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 | Magic Great Javelin |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Steady         |        None        |          2          |
-|  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Slow      |        None        |          2          |
+|  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Extremely Slow      |        None        |          2          |
 |  Magic Medium Cone  |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Steady         |        None        |          3          |
