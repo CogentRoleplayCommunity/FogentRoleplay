@@ -103,12 +103,12 @@
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |    Magic Javelin    |      +1d6      |      None      |       None       |      2      |    Medium    |                  |         Steady         |        None        |          1          |
 |   Magic Hand Bolt   |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Steady         |        None        |          1          |
-|     Magic Bolt     |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Loading          |        None        |          1          |
+|     Magic Bolt     |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Slow          |        None        |          1          |
 |     Magic Arrow     |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
 |  Magic Close Cone  |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 | Magic Great Javelin |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Steady         |        None        |          2          |
-|  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Loading      |        None        |          2          |
+|  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Complex Slow      |        None        |          2          |
 |  Magic Medium Cone  |      None      |      +1d6      |       None       |      3      | Medium Cone |                  |             1             |  Cone Calculation  |          2          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 |  Magic Great Arrow  |      None      |      +2d6      |       None       |      3      | Sharpshooter |                  |         Steady         |        None        |          3          |

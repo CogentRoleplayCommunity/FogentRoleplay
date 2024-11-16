@@ -62,7 +62,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Light Crossbow |      None      |      +1d6      |       None       |      2      |  Far  |          Loading          |                    |   Light Bolt   |         1         |                  |
+| Light Crossbow |      None      |      +1d6      |       None       |      2      |  Far  |          Slow          |                    |   Light Bolt   |         1         |                  |
 
 ## Heavy Crossbow
 
@@ -70,7 +70,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Heavy Crossbow |      None      |      +2d6      |       None       |      3      | Long |      Complex Loading      |                    |   Heavy Bolt   |         1         |                  |
+| Heavy Crossbow |      None      |      +2d6      |       None       |      3      | Long |      Complex Slow      |                    |   Heavy Bolt   |         1         |                  |
 
 ## Light Bow
 
@@ -96,7 +96,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Blowgun |      +0d6      |      None      |       None       |      0      | Mediocre |          Loading          |                    |  Blowgun Dart  |         1         |                  |
+| Blowgun |      +0d6      |      None      |       None       |      0      | Mediocre |          Slow          |                    |  Blowgun Dart  |         1         |                  |
 
 ### Sling
 
@@ -110,7 +110,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect |         Ammo<br />Type         | Ammo<br />Per Use | Damage<br />Types |
 | :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :----------------------------: | :---------------: | :---------------: |
-| Muzzleloading Pistol |      +2d6      |      None      |       +1d6       |      4      | Medium |      Complex Loading      |                    | Muzzleloading Pistol Cartridge |         1         |                  |
+| Muzzleloading Pistol |      +2d6      |      None      |       +1d6       |      4      | Medium |      Complex Slow      |                    | Muzzleloading Pistol Cartridge |         1         |                  |
 
 ### Handgun
 
@@ -126,8 +126,8 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect |   Ammo<br />Type   | Ammo<br />Per Use | Damage<br />Types |
 | :------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :----------------: | :---------------: | :---------------: |
-| Arquebus |      +0d6      |      +2d6      |       None       |      5      |     Long     |      Complex Loading      |                    | Arquebus Cartridge |         1         |                  |
-|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Complex Loading      |                    |  Musket Cartridge  |         1         |                  |
+| Arquebus |      +0d6      |      +2d6      |       None       |      5      |     Long     |      Complex Slow      |                    | Arquebus Cartridge |         1         |                  |
+|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Complex Slow      |                    |  Musket Cartridge  |         1         |                  |
 
 ### Intermediate Cartridge Rifle
 
@@ -161,7 +161,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |          Loading          |                    |    RPG Ammo    |         1         |                  |
+| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |          Slow          |                    |    RPG Ammo    |         1         |                  |
 
 ## Close Melee
 

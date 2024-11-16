@@ -14,8 +14,8 @@ The amount of opponents a character can engage in a round is calculated using th
 |      Quick      |    3    |
 |    Steady    |    4    |
 |      Paced      |    5    |
-|     Loading     |    6    |
-| Complex Loading |   10   |
+|     Slow     |    6    |
+| Complex Slow |   10   |
 
 For example, if a character had 7 dice in their combat roll with an Engageable Opponents types of Quick, 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Engageable Opponents for that combat roll.
 
@@ -34,8 +34,8 @@ On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, e
 |               Quick               |  0.33  |  0.66  |   1   |   1   |   1   |   2   |   2   |   2   |   3   |    3    |    3    |    4    |
 |              Steady              |  0.25  |   0.5   |  0.75  |   1   |   1   |   1   |   1   |   2   |   2   |    2    |    2    |    3    |
 |                Paced                |  0.2  |   0.4   |  0.6  |  0.8  |   1   |   1   |   1   |   1   |   1   |    2    |    2    |    2    |
-|              Loading              |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
-|          Complex Loading          |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |    1    |    1    |
+|              Slow              |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
+|          Complex Slow          |  0.1  |   0.2   |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |  0.8  |  0.9  |    1    |    1    |    1    |
 
 ## Set Engageable Opponents
 
