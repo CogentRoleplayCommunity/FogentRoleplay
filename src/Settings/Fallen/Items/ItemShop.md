@@ -144,7 +144,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |  Swordbreaker  | 1 |                          Small Slashing Blade                          |        | Mundane |   12/12   |   1   | 25 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |   Swordstaff   | 1 |                     Reach Hafted Blade, Reach Spear                     |        | Mundane |   12/12   |   6   | 50 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |     Lance     | 1 |                           Reach Hafted Point                           |        | Mundane |   12/12   |   11   | 10 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|   Longsword   | 1 |               Large Thrusting Sword, Large Slashing Sword               |        | Mundane |   12/12   |   3   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
+|   Longsword   | 1 |               Large Thrusting Sword, Large Slashing Sword               |        | Mundane |   12/12   |   3   | 25 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Maul      | 1 |                           Large Hafted Blunt                           |        | Mundane |   12/12   |   7   | 10 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |  Morning Star  | 1 |                Medium Hafted Blunt, Medium Hafted Point                |        | Mundane |   12/12   |   4   | 15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |      Pike      | 1 |                               Reach Spear                               |        | Mundane |   12/12   |   5   |  5 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
