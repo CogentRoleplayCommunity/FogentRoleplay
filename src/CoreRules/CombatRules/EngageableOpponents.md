@@ -46,9 +46,6 @@ Set Engageable Opponents represent a set number of targets that can be engaged i
 |    Slow    |     Loading     |    6    |           0           |  None  |
 |   Loading   | Complex Loading |   10   |           0           |  None  |
 
-|  |
-| :-: |
-
 | Range Type/Combat Roll Dice Pool Amount | 1 Dice | 2 Dice | 3 Dice | 4 Dice | 5 Dice | 6 Dice | 7 Dice | 8 Dice | 9 Dice | 10 Dice | 11 Dice | 12 Dice |
 | :-------------------------------------: | :----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: | :-----: | :-----: |
 |                                        |   1   |    2    |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
