@@ -1,4 +1,4 @@
 name,effectiveRange,ineffectiveRangeOption,maxRangeOption
-Self,0,0,0
-Melee,5,5,5
-Reach,10,10,10
+Self,0,,
+Melee,5,,
+Reach,10,,
