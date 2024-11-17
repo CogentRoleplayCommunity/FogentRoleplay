@@ -12,9 +12,9 @@ From 0 ft up to the Effective Range, Disadvantage is NOT gained on Dice Pool the
 
 ## Ineffective Range
 
-Effective Range is the distance past which you are truly in accurate.
+Ineffective Range is the distance up to which your effectiveness begins to degrade.
 
-Past the Effective Range up to the Ineffective Range, Disadvantage is gained on Dice Pool the skill is being used in.
+Past the Effective Range and up to the Ineffective Range, Disadvantage is gained on Dice Pool the skill is being used in.
 
 ## Max Range
 
