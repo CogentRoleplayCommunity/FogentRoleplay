@@ -105,7 +105,7 @@
 |   Magic Hand Bolt   |      +1d6      |      None      |       +1d6       |      1      |    Medium    |                  |         Steady         |        None        |          1          |
 |     Magic Bolt     |      None      |      +1d6      |       None       |      2      |     Far     |                  |          Slow          |        None        |          1          |
 |     Magic Arrow     |      None      |      +1d6      |       None       |      1      |     Far     |                  |           Quick           |        None        |          1          |
-|  Magic Close Cone  |      None      |      +1d6      |       None       |      3      |  Close Cone  |                  |             1             |  Cone Calculation  |          1          |
+|  Magic Close Cone  |      None      |      +1d6      |       None       |      3      |Close|                  |             1             |  Cone Calculation  |          1          |
 |                    |                |                |                  |            |              |                  |                          |                    |                    |
 | Magic Great Javelin |      +1d6      |      None      |       None       |      3      |    Short    |                  |         Steady         |        None        |          2          |
 |  Magic Great Bolt  |      None      |      +2d6      |       None       |      3      |     Long     |                  |      Extremely Slow      |        None        |          2          |
