@@ -24,24 +24,22 @@ Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on 
 
 ## Range Types
 
-|  Range Type  |   Effective Range Calculation   | Ineffective Range Calculation |  Max Range Calculation  |
-| :----------: | :-----------------------------: | :---------------------------: | :---------------------: |
-|    Melee    |              5 ft              |    Same as Effective Range    | Same as Effective Range |
-|    Reach    |              10 ft              |    Same as Effective Range    | Same as Effective Range |
-|     Near     | +5 feet per 3 dice rounded down |      2 * Effective Range      |   4 * Effective Range   |
-|    Close    |  +5 feet per 2 dice rounded up  |      2 * Effective Range      |   4 * Effective Range   |
-|    Short    | +10 feet per 3 dice rounded up |      2 * Effective Range      |   4 * Effective Range   |
-|   Mediocre   |        +5 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|    Medium    | +10 feet per 2 dice rounded up |      2 * Effective Range      |   4 * Effective Range   |
-|   Extended   |        +10 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|     Far     |        +15 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|     Long     |        +20 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|   Distant   |        +25 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-| Sharpshooter |        +30 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|   Extreme   |        +35 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|    Sniper    |        +50 feet per dice        |      2 * Effective Range      |   4 * Effective Range   |
-|  Close Cone  |  +5 feet per 2 dice rounded up  |    Same as Effective Range    | Same as Effective Range |
-| Medium Cone | +10 feet per 2 dice rounded up |    Same as Effective Range    | Same as Effective Range |
+|  Range Type  |   Effective Range Calculation   |
+| :----------: | :-----------------------------: |
+|    Melee    |              5 ft              |
+|    Reach    |              10 ft              |
+|     Near     | +5 feet per 3 dice rounded down |
+|    Close    |  +5 feet per 2 dice rounded up  |
+|    Short    | +10 feet per 3 dice rounded up |
+|   Mediocre   |        +5 feet per dice        |
+|    Medium    | +10 feet per 2 dice rounded up |
+|   Extended   |        +10 feet per dice        |
+|     Far     |        +15 feet per dice        |
+|     Long     |        +20 feet per dice        |
+|   Distant   |        +25 feet per dice        |
+| Sharpshooter |        +30 feet per dice        |
+|   Extreme   |        +35 feet per dice        |
+|    Sniper    |        +50 feet per dice        |
 
 ## Effective Range by Skill Dice Pool Size
 
