@@ -1,8 +1,8 @@
-name,combatRollDivisor
-Rapid,1
-Swift,2
-Quick,3
-Steady,4
-Paced,5
-Slow,6
-Extremely Slow,10
+name,combatRollDivisor,maxEO
+Rapid,1,None
+Swift,2,None
+Quick,3,None
+Steady,4,None
+Paced,5,None
+Slow,6,None
+Extremely Slow,10,None
