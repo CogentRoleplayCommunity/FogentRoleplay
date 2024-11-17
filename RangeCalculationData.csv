@@ -1,15 +1,13 @@
-name,numDicePerEffectiveRangeUnit,ftPerEffectiveRangeUnit,roundEffectiveRangeUp,ineffectiveRangeMultiplierOption,maxRangeMultiplierOption
-Near,3,5,FALSE,2,4
-Close,2,5,TRUE,2,4
-Short,3,10,TRUE,2,4
-Mediocre,1,5,FALSE,2,4
-Medium,2,10,TRUE,2,4
-Extended,1,10,FALSE,2,4
-Far,1,15,FALSE,2,4
-Long,1,20,FALSE,2,4
-Distant,1,25,FALSE,2,4
-Sharpshooter,1,30,FALSE,2,4
-Extreme,1,35,FALSE,2,4
-Sniper,1,50,FALSE,2,4
-Close Cone,2,5,TRUE,,
-Medium Cone,2,10,TRUE,,
+name,numDicePerEffectiveRangeUnit,ftPerEffectiveRangeUnit,roundEffectiveRangeUp
+Near,3,5,FALSE
+Close,2,5,TRUE
+Short,3,10,TRUE
+Mediocre,1,5,FALSE
+Medium,2,10,TRUE
+Extended,1,10,FALSE
+Far,1,15,FALSE
+Long,1,20,FALSE
+Distant,1,25,FALSE
+Sharpshooter,1,30,FALSE
+Extreme,1,35,FALSE
+Sniper,1,50,FALSE
