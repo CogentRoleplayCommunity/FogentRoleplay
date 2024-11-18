@@ -9,9 +9,9 @@ Players that take a Disabling Characteristic that results in a -1 in an Attribut
 | Name                                         |                               Effect                               |
 | -------------------------------------------- | :-----------------------------------------------------------------: |
 | Disabling: Missing bodily extremity/limb     | STR and RFX dice penalties when performing tasks requiring 2 hands. |
-| Disabling: Feeble                            |                               -1 STR                               |
-| Disabling: Heavy                             |                               -1 RFX                               |
-| Disabling: Dim-witted                        |                               -1 INT                               |
+| Disabling: Feeble                            |                               STR is set to -1                               |
+| Disabling: Heavy                             |                               RFX is set to -1                               |
+| Disabling: Dim-witted                        |                               INT is set to -1                               |
 | Disabling: Phobia                            |                       Debilitating fear of ?.                       |
 | Disabling: Extreme Prejudice                 |                  Overwhelming hatred/disgust of ?.                  |
 | Disabling: Compulsive Liar                   |   Compulsion to lie about self-aggrandizing claims/achievements.   |
