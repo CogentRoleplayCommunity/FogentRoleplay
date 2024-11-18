@@ -72,6 +72,12 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
+
+### Effects
+
+- [Effects](./src/CoreRules/AdvancedRules/Effects.md)
+- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
+- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 - [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
 
@@ -84,8 +90,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
-- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
-- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
 - [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
 - [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
@@ -103,7 +107,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
-- [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
 
 ### Magic Rules
 
