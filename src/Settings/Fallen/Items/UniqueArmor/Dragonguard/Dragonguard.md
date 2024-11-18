@@ -16,5 +16,5 @@ This breastplate has a dragon motif etched into its design. Created for a dragon
 
 | Name                     |                                         Effect                                         |   Duration   | Tier Required |
 | :----------------------- | :-------------------------------------------------------------------------------------: | :-----------: | :-----------: |
-| Dragon Threat Sense      | The bearer of this armor gets an uneasy feeling when there are draconic creatures near. | While equiped |       3       |
-| Dragon Breath Resistance |  Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect).  | While equiped |       5       |
+| Dragon Threat Sense      | The character gets an uneasy feeling when there are draconic creatures near. | While equipped |       3       |
+| Dragon Breath Resistance |  Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect).  | While equipped |       5       |
