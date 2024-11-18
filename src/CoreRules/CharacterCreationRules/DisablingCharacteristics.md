@@ -4,44 +4,47 @@ Disabling characteristics represent flaws your character has. This is an essenti
 
 ## Disabling Characteristic Examples
 
-| Name                                         |                               Effect                               |
-| -------------------------------------------- | :-----------------------------------------------------------------: |
-| Disabling: Missing bodily extremity/limb     | STR and RFX dice penalties when performing tasks requiring 2 hands. |
-| Disabling: Feeble                            |                          STR is set to -1                          |
-| Disabling: Heavy                             |                          RFX is set to -1                          |
-| Disabling: Dim-witted                        |                          INT is set to -1                          |
-| Disabling: Phobia                            |                       Debilitating fear of ?.                       |
-| Disabling: Extreme Prejudice                 |                  Overwhelming hatred/disgust of ?.                  |
-| Disabling: Compulsive Liar                   |   Compulsion to lie about self-aggrandizing claims/achievements.   |
-| Disabling: Kleptomaniac                      |          Desire to steal most things regardless of value.          |
-| Disabling: Betrayal Paranoia                 |       Extreme belief that every person met will betray them.       |
-| Disabling: Government Paranoia               |    Extreme belief that the ruling class is run by an evil cult.    |
-| Disabling: Superstition Paranoia             |     Extreme belief in common superstition and old wives tales.     |
-| Disabling: Paranoia                          |                     Irrational belief that ...                     |
-| Disabling: Over-emotional (specific emotion) |                                                                    |
-| Disabling: Loose Cannon                      |           Overwhelming predisposition towards rage/anger.           |
-| Disabling: Incontrollable Grief              |    Overwhelming grief that is triggered reminder of past trauma.    |
-| Disabling: Very Forgetful                    |      Often forgets plans, directions, people, items,  names...      |
-| Disabling: Endurance Overconfidence          |       Extremely overconfident in Endurance, cannot invest in.       |
-| Disabling: Overconfidence                    |           Extremely overconfident in , cannot invest in.           |
-| Disabling: Athletics Overconfidence          |       Extremely overconfident in Athletics, cannot invest in.       |
-| Disabling: Lift Overconfidence               |         Extremely overconfident in Lift, cannot invest in.         |
-| Disabling: Perception Overconfidence         |      Extremely overconfident in Perception, cannot invest in.      |
-| Disabling: Dexterity Overconfidence          |       Extremely overconfident in Dexterity, cannot invest in.       |
-| Disabling: Stealth Overconfidence            |        Extremely overconfident in Stealth, cannot invest in.        |
-| Disabling: Knowledge Overconfidence          |    Extremely overconfident in Gen. Knowledge, cannot invest in.    |
-| Disabling: Will Overconfidence               |         Extremely overconfident in Will, cannot invest in.         |
-| Disabling: Communication Overconfidence      |     Extremely overconfident in Communication, cannot invest in.     |
-| Disabling: Incapable of Lying                |   (Specific parameters required, see Cogent website for examples)   |
-| Disabling: Addiction                         |    Extreme addiction, suffers from withdrawals if not satisfied.    |
-| Disabling: Delusion                          |  Belief of something to be real beyond the scope of simple faith.  |
-| Disabling: Imperceptive                      |           Disadvantage to environmental Perception rolls.           |
-| Disabling: Blind                             |            Unable to make sight based perception checks.            |
-| Disabling: Deaf                              |           Unable to make hearing based perception checks.           |
-| Disabling: Anosmia                           |            Unable to make smell based perception checks.            |
-| Disabling: Ageusia                           |            Unable to make taste based perception checks.            |
-| Disabling: Anaphia                           |            Unable to make touch based perception checks.            |
-| Disabling: Gullible                          |         Disadvantage versus deceptive communication rolls.         |
-| Disabling: Impressionable                    |         Disadvantage versus persuasive communication rolls.         |
-| Disabling: People Pleaser                    |  Always try to make other people happy, even at their own expense.  |
-| Disabling: SKILL Overconfidence              |         Extremely overconfident in SKILL, cannot invest in.         |
+|                     Name                     |                               Effect                               | Duration | Source |
+| :------------------------------------------: | :-----------------------------------------------------------------: | -------- | ------ |
+|              Disabling: Amnesia              |         Character is missing a large portion of their past.         |          |        |
+|   Disabling: Missing bodily extremity/limb   | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |        |
+|              Disabling: Feeble              |                          STR is set to -1                          |          |        |
+|               Disabling: Heavy               |                          RFX is set to -1                          |          |        |
+|            Disabling: Dim-witted            |                          INT is set to -1                          |          |        |
+|              Disabling: Phobia              |                       Debilitating fear of ?.                       |          |        |
+|         Disabling: Extreme Prejudice         |                  Overwhelming hatred/disgust of ?.                  |          |        |
+|          Disabling: Compulsive Liar          |   Compulsion to lie about self-aggrandizing claims/achievements.   |          |        |
+|           Disabling: Kleptomaniac           |          Desire to steal most things regardless of value.          |          |        |
+|         Disabling: Betrayal Paranoia         |       Extreme belief that every person met will betray them.       |          |        |
+|        Disabling: Government Paranoia        |    Extreme belief that the ruling class is run by an evil cult.    |          |        |
+|       Disabling: Superstition Paranoia       |     Extreme belief in common superstition and old wives tales.     |          |        |
+|             Disabling: Paranoia             |                     Irrational belief that ...                     |          |        |
+| Disabling: Over-emotional (specific emotion) |                                                                    |          |        |
+|           Disabling: Loose Cannon           |           Overwhelming predisposition towards rage/anger.           |          |        |
+|       Disabling: Incontrollable Grief       |    Overwhelming grief that is triggered reminder of past trauma.    |          |        |
+|          Disabling: Very Forgetful          |      Often forgets plans, directions, people, items,  names...      |          |        |
+|          Disabling: Overconfidence          |           Extremely overconfident in , cannot invest in.           |          |        |
+|     Disabling: Endurance Overconfidence     |       Extremely overconfident in Endurance, cannot invest in.       |          |        |
+|     Disabling: Athletics Overconfidence     |       Extremely overconfident in Athletics, cannot invest in.       |          |        |
+|        Disabling: Lift Overconfidence        |         Extremely overconfident in Lift, cannot invest in.         |          |        |
+|     Disabling: Perception Overconfidence     |      Extremely overconfident in Perception, cannot invest in.      |          |        |
+|     Disabling: Dexterity Overconfidence     |       Extremely overconfident in Dexterity, cannot invest in.       |          |        |
+|      Disabling: Stealth Overconfidence      |        Extremely overconfident in Stealth, cannot invest in.        |          |        |
+| Disabling: General Knowledge Overconfidence |   Extremely overconfident in General Knowledge, cannot invest in.   |          |        |
+|        Disabling: Will Overconfidence        |         Extremely overconfident in Will, cannot invest in.         |          |        |
+|   Disabling: Communication Overconfidence   |     Extremely overconfident in Communication, cannot invest in.     |          |        |
+|        Disabling: Incapable of Lying        |   (Specific parameters required, see Cogent website for examples)   |          |        |
+|             Disabling: Addiction             |    Extreme addiction, suffers from withdrawals if not satisfied.    |          |        |
+|             Disabling: Delusion             |  Belief of something to be real beyond the scope of simple faith.  |          |        |
+|           Disabling: Imperceptive           |           Disadvantage to environmental Perception rolls.           |          |        |
+|               Disabling: Blind               |            Unable to make sight based perception checks.            |          |        |
+|               Disabling: Deaf               |           Unable to make hearing based perception checks.           |          |        |
+|              Disabling: Anosmia              |            Unable to make smell based perception checks.            |          |        |
+|              Disabling: Ageusia              |            Unable to make taste based perception checks.            |          |        |
+|              Disabling: Anaphia              |            Unable to make touch based perception checks.            |          |        |
+|             Disabling: Gullible             |         Disadvantage versus deceptive communication rolls.         |          |        |
+|          Disabling: Impressionable          |         Disadvantage versus persuasive communication rolls.         |          |        |
+|          Disabling: People Pleaser          |  Always try to make other people happy, even at their own expense.  |          |        |
+|       Disabling: SKILL Overconfidence       |         Extremely overconfident in SKILL, cannot invest in.         |          |        |
+|            Disabling: Illiterate            |                        Can't read or write.                        |          |        |
+|         Disabling: Overly Nostalgic         |           Constantly reminiscing about the good old day.           |          |        |
