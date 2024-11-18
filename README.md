@@ -79,11 +79,16 @@ The rules have been listed in the order of importance to someone learning the ga
 
 - [Effects Overview](./src/CoreRules/AdvancedRules/EffectsOverview.md)
 - [Narrative Effects](./src//CoreRules/AdvancedRules/NarrativeEffects.md)
+  - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
+  - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Weapons](./src/CoreRules/CombatRules/Weapons.md)
 - [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
 - Skill Dice Mod
 - Attribute Stat Adjustment
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
+- Attribute Determined Dice Mod
+  - [Injury](./src/CoreRules/CombatRules/Injury.md)
+  - Weight Class
 - Base Dice Mod
 
 ### Combat Rules
@@ -100,7 +105,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
-- [Injury](./src/CoreRules/CombatRules/Injury.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
@@ -108,7 +112,6 @@ The rules have been listed in the order of importance to someone learning the ga
 ### Advanced Rules
 
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
-- [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 
@@ -121,6 +124,5 @@ The rules have been listed in the order of importance to someone learning the ga
 
 ### Character Creation Rules
 
-- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
