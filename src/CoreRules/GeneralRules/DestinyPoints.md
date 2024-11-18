@@ -15,14 +15,9 @@ Destiny points are awarded when players perform actions that the narrator wants 
 - Crazy high dice rolls
 - Doing something in line with their character's personality even if at the detriment of wealth or progress
 
-## Destiny Chosen
-
-Characters can be awarded Destiny Points by the Narrator and can hold a max of 3. Spending a "Preemptive Destiny Point" before rolling a dice pool gives Advantage on the resulting roll. Spending "Post Roll Destiny Points" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool.
-
-## Destiny Resistance
-
-"Post Roll Destiny Points" cannot be spent against this character.
-
-## Destiny Immunity
-
-Destiny Points cannot be spent against this character.
+|        Name        |                                                                                                                                                                 Effect                                                                                                                                                                 | Duration |    Source    |
+| :-----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :----------: |
+| Destiny Chosen: 0/3 | Characters can be awarded Destiny Points by the Narrator and can hold a max of 3. Spending a "Preemptive Destiny Point" before rolling a dice pool gives Advantage on the resulting roll. Spending "Post Roll Destiny Points" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. |          | The Narrator |
+| Destiny Resistance |                                                                                                                                   "Post Roll Destiny Points" cannot be spent against this character.                                                                                                                                   |          | The Narrator |
+|  Destiny Immunity  |                                                                                                                                         Destiny Points cannot be spent against this character.                                                                                                                                         |          | The Narrator |
+|  Destiny Anointed  |                                                                                              Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.                                                                                              |          | The Narrator |

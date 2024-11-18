@@ -87,7 +87,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - Skill Dice Mod
 - Attribute Stat Adjustment
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
-- Attribute Determined Dice Mod
+- [Attribute Determined Dice Mod](./src/CoreRules/AdvancedRules/AttributeDeterminedDiceMods.md)
   - [Injury](./src/CoreRules/CombatRules/Injury.md)
   - Weight Class
 - Base Dice Mod
