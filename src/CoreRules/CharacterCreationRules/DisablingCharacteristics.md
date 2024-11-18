@@ -2,16 +2,14 @@
 
 Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and narrator.
 
-Players that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points at character creation.
-
 ## Disabling Characteristic Examples
 
 | Name                                         |                               Effect                               |
 | -------------------------------------------- | :-----------------------------------------------------------------: |
 | Disabling: Missing bodily extremity/limb     | STR and RFX dice penalties when performing tasks requiring 2 hands. |
-| Disabling: Feeble                            |                               STR is set to -1                               |
-| Disabling: Heavy                             |                               RFX is set to -1                               |
-| Disabling: Dim-witted                        |                               INT is set to -1                               |
+| Disabling: Feeble                            |                          STR is set to -1                          |
+| Disabling: Heavy                             |                          RFX is set to -1                          |
+| Disabling: Dim-witted                        |                          INT is set to -1                          |
 | Disabling: Phobia                            |                       Debilitating fear of ?.                       |
 | Disabling: Extreme Prejudice                 |                  Overwhelming hatred/disgust of ?.                  |
 | Disabling: Compulsive Liar                   |   Compulsion to lie about self-aggrandizing claims/achievements.   |
@@ -29,7 +27,7 @@ Players that take a Disabling Characteristic that results in a -1 in an Attribut
 | Disabling: Athletics Overconfidence          |       Extremely overconfident in Athletics, cannot invest in.       |
 | Disabling: Lift Overconfidence               |         Extremely overconfident in Lift, cannot invest in.         |
 | Disabling: Perception Overconfidence         |      Extremely overconfident in Perception, cannot invest in.      |
-| Disabling: Dexterity Overconfidence         |      Extremely overconfident in Dexterity, cannot invest in.      |
+| Disabling: Dexterity Overconfidence          |       Extremely overconfident in Dexterity, cannot invest in.       |
 | Disabling: Stealth Overconfidence            |        Extremely overconfident in Stealth, cannot invest in.        |
 | Disabling: Knowledge Overconfidence          |    Extremely overconfident in Gen. Knowledge, cannot invest in.    |
 | Disabling: Will Overconfidence               |         Extremely overconfident in Will, cannot invest in.         |

@@ -102,6 +102,8 @@ Disabling characteristics represent flaws your character has. This is an essenti
 
 Skill points can be gained by choosing a disabling characteristic. For each disabling characteristics taken, the character gains a skill point to spend up to the "Max Disabling Characteristics Skill Points" governed by your tier of play.
 
+Players that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points at character creation.
+
 ## Step 6: Spend your Attribute Points
 
 Attribute represent the core characteristics of your character. They have one of the largest impacts on your character so you should choose wisely. Most often you'd choose attributes that make sense given your vocation ( Strength for Barbarian, Reflex for Rogue, Intelligence for Wizard, etc...).
