@@ -4,6 +4,6 @@ Item class differentiates items that have an inherent mechanical utility, such a
 
 - [Weapons Classes](./../CombatRules/Weapons.md)
 - [Ammunitions](./../CombatRules/Weapons.md#weapon-resource-class)
-- [Armor Classes](./../CombatRules/DefenseAndPenetration.md#armor-classes)
-- [Shield Class](./../CombatRules/DefenseAndPenetration.md#shield-class)
+- [Armor Classes](./../CombatRules/Defense.md#armor-classes)
+- [Shield Class](./../CombatRules/Defense.md#shield-class)
 - [Container Classes](./Containers.md#container-classes)

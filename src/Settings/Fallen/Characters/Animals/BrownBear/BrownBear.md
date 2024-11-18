@@ -23,7 +23,7 @@
 |                                                  Name                                                  |                     Info                     | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------: | :------: | :----------------------------------------------: |
 |                                               Keen Smell                                               | Advantage on smell based Perception checks. |          |                                                  |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                      1                      |          |                  Armor & Shield                  |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense) |                      1                      |          |                  Armor & Shield                  |
 |                                                                                                        |                                              |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Large                  |           10x10 ft on battle map.           |          |                                                  |
 |      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                    60 ft                    |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |

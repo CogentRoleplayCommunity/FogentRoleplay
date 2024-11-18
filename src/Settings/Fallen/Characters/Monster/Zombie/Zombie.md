@@ -26,7 +26,7 @@
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                      250 lb                      |          |        +50 lbs Carry Weight per Lift dice        |
 |       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |        -0d6 to STR/RFX governed Dice Pools        |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                  |          |                                                  |
-| [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseAndPenetration.md#physical-defense) |                         0                         |          |                  Armor & Shield                  |
+| [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense) |                         0                         |          |                  Armor & Shield                  |
 |       [Complete Resistance](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Poison       | Negate victory levels received from damage type. |          |                      Undead                      |
 |                                                                                                        |                                                  |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |               5x5 ft on battle map.               |          |                                                  |
