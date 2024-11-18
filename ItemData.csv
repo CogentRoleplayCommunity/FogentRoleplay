@@ -1,4 +1,4 @@
-desc,quantity,itemEffects,durability,weight,value,description,oldItemTier
+name,quantity,itemEffects,durability,weight,value,description,oldItemTier
 Cuneiform Tablets,1,Spellcasting Focus,,0.1,1 cc,,Mundane
 Petty Brightstone,1,Light Storage,,0.1,?,"Brightstone is a rare gem that can hold light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold.",Excellent
 Mechanical Heart,1,"Phenomena Detection, Forbidden Whispers",,1,?,"""With this Heart, I will hear many secrets…"" - Unknown
