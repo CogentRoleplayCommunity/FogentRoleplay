@@ -83,13 +83,12 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
 - Skill Dice Mod
 - Attribute Stat Adjustment
-- Defense
+- [Defense](./src/CoreRules/CombatRules/Defense.md)
 - Base Dice Mod
 
 ### Combat Rules
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Defense](./src/CoreRules/CombatRules/Defense.md)
 - [Penetration](./src/CoreRules/CombatRules/Penetration.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
