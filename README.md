@@ -72,6 +72,8 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
+- [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
+- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
 ### Effects
 
@@ -82,8 +84,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - Attribute Stat Adjustment
 - Defense
 - Base Dice Mod
-- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
-- [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
 
 ### Combat Rules
 
