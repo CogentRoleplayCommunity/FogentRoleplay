@@ -111,7 +111,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
-- [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
 
 ### Magic Rules
 
