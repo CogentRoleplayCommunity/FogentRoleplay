@@ -81,6 +81,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Narrative Effects](./src//CoreRules/AdvancedRules/NarrativeEffects.md)
   - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
   - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
+  - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 - [Weapons](./src/CoreRules/CombatRules/Weapons.md)
 - [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
 - Skill Dice Mod
