@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                     |                       Effect                       |    Duration    | Source |
+| Name                     |                       Desc                       |    Duration    | Source |
 | :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
 | Minor Radiant Resistance | -1 to victory levels received from Radiant damage. | While equipped |       3       |

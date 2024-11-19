@@ -14,6 +14,6 @@ A medallion with viridian inlaid.
 
 ## Effects
 
-| Name                       |       Effect       |  Duration  | Source |
+| Name                       |       Desc       |  Duration  | Source |
 | :------------------------- | :----------------: | :--------: | :-----------: |
 | Minorly Enhanced Endurance | +1d6 to Endurance. | Indefinite |       2       |

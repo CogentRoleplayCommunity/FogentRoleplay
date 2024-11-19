@@ -16,6 +16,6 @@ Vastly boosts psychic damage resistance.
 
 ## Effects
 
-| Name                     |                       Effect                       |    Duration    | Source |
+| Name                     |                       Desc                       |    Duration    | Source |
 | :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
 | Major Psychic Resistance | -3 to victory levels received from Psychic damage. | While equipped |       7       |

@@ -18,6 +18,6 @@ Runecraft scholars have traced the origin of this axe to the first Fellkin who b
 
 ## Effects
 
-| Name     |                                                                           Effect                                                                           | Duration | Source |
+| Name     |                                                                           Desc                                                                           | Duration | Source |
 | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Splinter | Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures. |          |       2       |

@@ -16,6 +16,6 @@ Boosts maximum vitality.
 
 ## Effects
 
-| Name              |                     Effect                     |    Duration    | Source |
+| Name              |                     Desc                     |    Duration    | Source |
 | :---------------- | :--------------------------------------------: | :------------: | :-----------: |
 | Enhanced Vitality | Reduce up to 2d6 of total injury penalty dice. | While equipped |       6       |

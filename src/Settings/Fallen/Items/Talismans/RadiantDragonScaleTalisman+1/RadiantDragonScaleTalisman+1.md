@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                      |                       Effect                       |    Duration    | Source |
+| Name                      |                       Desc                       |    Duration    | Source |
 | :------------------------ | :------------------------------------------------: | :------------: | :-----------: |
 | Medium Radiant Resistance | -2 to victory levels received from Radiant damage. | While equipped |       5       |

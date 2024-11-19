@@ -14,6 +14,6 @@ A metal talisman with three symbols evoking the image of fire on it. This Runecr
 
 ## Effects
 
-| Name                  |                     Effect                     |    Duration    | Source |
+| Name                  |                     Desc                     |    Duration    | Source |
 | :-------------------- | :---------------------------------------------: | :------------: | :-----------: |
 | Major Fire Resistance | -3 to victory levels received from Fire damage. | While equipped |       7       |

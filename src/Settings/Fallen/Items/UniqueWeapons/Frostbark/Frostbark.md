@@ -14,6 +14,6 @@ A Dane axe imbued with the frost found on the high peaks of the Spine of the Wor
 
 ## Effects
 
-| Name             |                 Effect                 |  Duration  | Source |
+| Name             |                 Desc                 |  Duration  | Source |
 | :--------------- | :------------------------------------: | :--------: | :-----------: |
 | Cold Enchantment | Weapon additionally deals Cold damage. | Indefinite |       3       |

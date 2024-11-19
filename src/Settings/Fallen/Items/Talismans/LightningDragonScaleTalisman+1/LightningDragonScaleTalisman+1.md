@@ -14,6 +14,6 @@ A metal talisman with two symbols evoking the image of lightning on it. This mor
 
 ## Effects
 
-| Name                       |                       Effect                       |    Duration    | Source |
+| Name                       |                       Desc                       |    Duration    | Source |
 | :------------------------- | :-------------------------------------------------: | :------------: | :-----------: |
 | Medium Electric Resistance | -2 to victory levels received from Electric damage. | While equipped |       5       |

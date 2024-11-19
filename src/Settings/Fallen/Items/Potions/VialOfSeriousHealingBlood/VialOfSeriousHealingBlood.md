@@ -16,6 +16,6 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Effects
 
-| Name         |                                                                                                                                 Effect                                                                                                                                 |   Duration   | Source |
+| Name         |                                                                                                                                 Desc                                                                                                                                 |   Duration   | Source |
 | :----------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | Serious Heal | Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. The higher tier injury requires the appropriate heal tier to completely remove it. | Instantaneous |       6       |

@@ -18,6 +18,6 @@ The white-garbed field surgeons come to the aid of friend and foe alike by deali
 
 ## Effects
 
-| Name              |                             Effect                             |    Duration    | Source |
+| Name              |                             Desc                             |    Duration    | Source |
 | :---------------- | :------------------------------------------------------------: | :------------: | :-----------: |
 | Enhanced Critical | +1 automatic win to sneak attacks and incapacitated opponents. | While equipped |       6       |

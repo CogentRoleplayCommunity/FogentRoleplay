@@ -16,6 +16,6 @@ Minorly boosts maximum vitality.
 
 ## Effects
 
-| Name                      |                     Effect                     |    Duration    | Source |
+| Name                      |                     Desc                     |    Duration    | Source |
 | :------------------------ | :--------------------------------------------: | :------------: | :-----------: |
 | Minorly Enhanced Vitality | Reduce up to 1d6 of total injury penalty dice. | While equipped |       4       |

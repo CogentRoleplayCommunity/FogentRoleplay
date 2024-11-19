@@ -14,6 +14,6 @@ A brooch depicting a long-tailed cat.
 
 ## Effects
 
-| Name                       |       Effect       |  Duration  | Source |
+| Name                       |       Desc       |  Duration  | Source |
 | :------------------------- | :----------------: | :--------: | :-----------: |
 | Minorly Enhanced Dexterity | +1d6 to Dexterity. | Indefinite |       2       |

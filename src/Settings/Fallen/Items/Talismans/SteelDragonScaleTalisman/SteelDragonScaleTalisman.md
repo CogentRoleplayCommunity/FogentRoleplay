@@ -14,7 +14,7 @@ A wrought iron talisman made with the visage of a mighty Steel Dragon. While qui
 
 ## Effects
 
-| Name                       |                        Effect                        |    Duration    | Source |
+| Name                       |                        Desc                        |    Duration    | Source |
 | :------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Minor Hew Resistance       |    -1 to victory levels received from Hew damage.    | While equipped |       3       |
 | Minor Slash Resistance     |   -1 to victory levels received from Slash damage.   | While equipped |       3       |

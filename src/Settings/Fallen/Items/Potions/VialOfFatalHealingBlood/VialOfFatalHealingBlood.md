@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name       |                                                      Effect                                                      |   Duration   |           Source           |
+| Name       |                                                      Desc                                                      |   Duration   |           Source           |
 | :--------- | :--------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------------------: |
 | Fatal Heal | Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not completely destroyed. | Instantaneous | Vial of Fatal Healing Blood |

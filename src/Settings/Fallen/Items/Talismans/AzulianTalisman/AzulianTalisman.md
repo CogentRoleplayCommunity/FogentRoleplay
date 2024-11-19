@@ -16,6 +16,6 @@ Boosts maximum magic resource.
 
 ## Effects
 
-| Name                            |             Effect             | Duration | Source |
+| Name                            |             Desc             | Duration | Source |
 | :------------------------------ | :----------------------------: | :------: | :-----------: |
 | Minorly Enhanced Magic Resource | +2 to magic Resource capacity. |          |       2       |

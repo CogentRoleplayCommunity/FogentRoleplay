@@ -14,7 +14,7 @@ A wrought iron talisman made with the visage of twin Steel Dragons. More rare an
 
 ## Effects
 
-| Name                        |                        Effect                        |    Duration    | Source |
+| Name                        |                        Desc                        |    Duration    | Source |
 | :-------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Medium Hew Resistance       |    -2 to victory levels received from Hew damage.    | While equipped |       5       |
 | Medium Slash Resistance     |   -2 to victory levels received from Slash damage.   | While equipped |       5       |

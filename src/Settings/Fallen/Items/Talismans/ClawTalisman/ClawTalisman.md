@@ -14,6 +14,6 @@ A talisman depicting claws and an assassin.
 
 ## Effects
 
-| Name           |                               Effect                               | Duration | Source |
+| Name           |                               Desc                               | Duration | Source |
 | :------------- | :-----------------------------------------------------------------: | :------: | :-----------: |
 | Ariel Assassin | While performing an aerial attack, gain a +1 to your victory level. |          |       3       |

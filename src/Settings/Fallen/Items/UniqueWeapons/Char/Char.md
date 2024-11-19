@@ -24,6 +24,6 @@ Shattered and broken, Destin continues to carry this blade.
 
 ## Effects
 
-| Name                        |                                                                                                   Effect                                                                                                   | Duration | Source |
+| Name                        |                                                                                                   Desc                                                                                                   | Duration | Source |
 | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Fire Repair and Enhancement | Weapons repairs in intense fires. If fully repaired and is exposed to increasingly intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it. |          |      -3      |

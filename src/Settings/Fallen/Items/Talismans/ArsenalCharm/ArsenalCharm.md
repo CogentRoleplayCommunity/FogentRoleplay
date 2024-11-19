@@ -18,6 +18,6 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 ## Effects
 
-| Name                  |    Effect    |  Duration  | Source |
+| Name                  |    Desc    |  Duration  | Source |
 | :-------------------- | :-----------: | :--------: | :-----------: |
 | Minorly Enhanced Lift | +1d6 to Lift. | Indefinite |       2       |

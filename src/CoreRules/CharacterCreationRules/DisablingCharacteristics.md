@@ -4,7 +4,7 @@ Disabling characteristics represent flaws your character has. This is an essenti
 
 ## Disabling Characteristic Examples
 
-|                     Name                     |                               Effect                               | Duration | Source |
+|                     Name                     |                               Desc                               | Duration | Source |
 | :------------------------------------------: | :-----------------------------------------------------------------: | -------- | ------ |
 |              Disabling: Amnesia              |         Character is missing a large portion of their past.         |          |        |
 |   Disabling: Missing bodily extremity/limb   | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |        |

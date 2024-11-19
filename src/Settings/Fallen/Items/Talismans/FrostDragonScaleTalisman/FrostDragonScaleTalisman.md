@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                  |                     Effect                     |    Duration    | Source |
+| Name                  |                     Desc                     |    Duration    | Source |
 | :-------------------- | :---------------------------------------------: | :------------: | :-----------: |
 | Minor Cold Resistance | -1 to victory levels received from Cold damage. | While equipped |       3       |

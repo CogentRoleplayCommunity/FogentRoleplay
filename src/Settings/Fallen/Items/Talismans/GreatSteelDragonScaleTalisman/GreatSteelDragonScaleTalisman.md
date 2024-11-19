@@ -14,7 +14,7 @@ A larger wrought iron talisman in the shape of a greatshield with an imposing St
 
 ## Effects
 
-| Name                         |                        Effect                        |    Duration    | Source |
+| Name                         |                        Desc                        |    Duration    | Source |
 | :--------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Extreme Hew Resistance       |    -4 to victory levels received from Hew damage.    | While equipped |       9       |
 | Extreme Slash Resistance     |   -4 to victory levels received from Slash damage.   | While equipped |       9       |

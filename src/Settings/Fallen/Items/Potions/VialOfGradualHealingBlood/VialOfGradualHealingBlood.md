@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name         |                                                                                   Effect                                                                                   |   Duration   |            Source            |
+| Name         |                                                                                   Desc                                                                                   |   Duration   |            Source            |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :---------------------------: |
 | Gradual Heal | Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries. | Instantaneous | Vial of Gradual Healing Blood |

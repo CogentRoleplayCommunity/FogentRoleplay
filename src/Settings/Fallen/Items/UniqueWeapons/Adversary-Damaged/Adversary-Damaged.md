@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name        |                                                  Effect                                                  |   Duration   | Source |
+| Name        |                                                  Desc                                                  |   Duration   | Source |
 | :---------- | :-------------------------------------------------------------------------------------------------------: | :-----------: | :----: |
 | Light Bound | This weapon is physical light, and can be absorbed and summoned by a those with the Radiance magic skill. | Instantaneous |        |

@@ -16,6 +16,6 @@ Greatly boosts maximum equipment load.
 
 ## Effects
 
-| Name                  |    Effect    |  Duration  | Source |
+| Name                  |    Desc    |  Duration  | Source |
 | :-------------------- | :-----------: | :--------: | :-----------: |
 | Greatly Enhanced Lift | +3d6 to Lift. | Indefinite |       6       |

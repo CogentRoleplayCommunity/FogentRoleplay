@@ -14,6 +14,6 @@ An assassin's dagger, misshapen and stained in azul.
 
 ## Effects
 
-| Name                 |                           Effect                           |   Duration   | Source |
+| Name                 |                           Desc                           |   Duration   | Source |
 | :------------------- | :--------------------------------------------------------: | :-----------: | :-----------: |
 | Magic Resource Leech | Sneak attack regain 1 Magic Resource of the user's choice. | Instantaneous |       3       |

@@ -14,6 +14,6 @@ A metal talisman with a symbol evoking the image of lightning on it. This Runecr
 
 ## Effects
 
-| Name                      |                       Effect                       |    Duration    | Source |
+| Name                      |                       Desc                       |    Duration    | Source |
 | :------------------------ | :-------------------------------------------------: | :------------: | :-----------: |
 | Minor Electric Resistance | -1 to victory levels received from Electric damage. | While equipped |       3       |

@@ -14,7 +14,7 @@ This breastplate has a dragon motif etched into its design. Created for a dragon
 
 ## Effects
 
-| Name                     |                                        Effect                                        |    Duration    | Source |
+| Name                     |                                        Desc                                        |    Duration    | Source |
 | :----------------------- | :-----------------------------------------------------------------------------------: | :------------: | :-----------: |
 | Dragon Threat Sense      |     The character gets an uneasy feeling when there are draconic creatures near.     | While equipped |       3       |
 | Dragon Breath Resistance | Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect). | While equipped |       5       |

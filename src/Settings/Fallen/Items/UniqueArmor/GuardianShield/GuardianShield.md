@@ -14,6 +14,6 @@ A medium shield capable of retracting into a small wrist item. This type of retr
 
 ## Effects
 
-| Name               |                          Effect                          |    Duration    | Source |
+| Name               |                          Desc                          |    Duration    | Source |
 | :----------------- | :-------------------------------------------------------: | :------------: | :-----------: |
 | Retractable Shield | The user can deploy or retract the medium shield at will. | While equipped |       4       |

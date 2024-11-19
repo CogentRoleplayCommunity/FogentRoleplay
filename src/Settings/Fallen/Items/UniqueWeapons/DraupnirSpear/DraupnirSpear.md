@@ -16,6 +16,6 @@ This spear can be used as a Air Spellcasting Focus.
 
 ## Effects
 
-| Name     |                                                                                                                                                                    Effect                                                                                                                                                                    |   Duration   | Source |
+| Name     |                                                                                                                                                                    Desc                                                                                                                                                                    |   Duration   | Source |
 | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | Draupnir | This ring can transform between a weapon and ring. The ring is endowed with 10 charges. With the ring equipped, the user can force a duplication resulting in either a ring or weapon, both which appear in the users hand. Duplicates can not transform, only the original. At the break of dawn, the ring regains 1d6 + 4 expended charges. | Instantaneous |       3       |

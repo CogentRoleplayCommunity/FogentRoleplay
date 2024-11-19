@@ -14,6 +14,6 @@ A talisman made to enhance the healing process. A precious possession of doctors
 
 ## Effects
 
-| Name             |               Effect               |    Duration    | Source |
+| Name             |               Desc               |    Duration    | Source |
 | :--------------- | :---------------------------------: | :------------: | :-----------: |
 | Enhanced Healing | Any healing acts as the tier above. | While equipped |       9       |

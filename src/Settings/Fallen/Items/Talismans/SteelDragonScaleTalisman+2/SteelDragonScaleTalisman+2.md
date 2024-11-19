@@ -14,7 +14,7 @@ A wrought iron talisman made with the visage of three Steel Dragons. This item i
 
 ## Effects
 
-| Name                       |                        Effect                        |    Duration    | Source |
+| Name                       |                        Desc                        |    Duration    | Source |
 | :------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Major Hew Resistance       |    -3 to victory levels received from Hew damage.    | While equipped |       7       |
 | Major Slash Resistance     |   -3 to victory levels received from Slash damage.   | While equipped |       7       |

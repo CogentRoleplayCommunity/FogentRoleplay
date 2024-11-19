@@ -20,7 +20,7 @@ Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland 
 
 ## Effects
 
-|         Name         |                                                                                                                                         Effect                                                                                                                                         | Duration | Source |
+|         Name         |                                                                                                                                         Desc                                                                                                                                         | Duration | Source |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Moonlight Greatsword |                                                Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it becomes a greatsword and now additionally deals radiant damage.                                                |          |       2       |
 |    Indestructible    |                                                                                                                            This item can't lose durability.                                                                                                                            |          |       1       |

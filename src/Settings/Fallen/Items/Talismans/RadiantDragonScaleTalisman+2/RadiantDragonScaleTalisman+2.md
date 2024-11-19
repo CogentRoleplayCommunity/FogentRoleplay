@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                     |                       Effect                       |    Duration    | Source |
+| Name                     |                       Desc                       |    Duration    | Source |
 | :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
 | Major Radiant Resistance | -3 to victory levels received from Radiant damage. | While equipped |       7       |

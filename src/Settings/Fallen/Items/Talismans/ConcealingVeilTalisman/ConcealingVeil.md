@@ -18,6 +18,6 @@ A common talisman of assassins.
 
 ## Effects
 
-| Name                     |      Effect      |  Duration  | Source |
+| Name                     |      Desc      |  Duration  | Source |
 | :----------------------- | :--------------: | :--------: | :-----------: |
 | Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite |       2       |

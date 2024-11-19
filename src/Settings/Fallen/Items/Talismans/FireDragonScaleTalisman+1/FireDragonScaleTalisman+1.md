@@ -14,6 +14,6 @@ A metal talisman with twin symbols evoking the image of fire on it. This more po
 
 ## Effects
 
-| Name                   |                     Effect                     |    Duration    | Source |
+| Name                   |                     Desc                     |    Duration    | Source |
 | :--------------------- | :---------------------------------------------: | :------------: | :-----------: |
 | Medium Fire Resistance | -2 to victory levels received from Fire damage. | While equipped |       5       |

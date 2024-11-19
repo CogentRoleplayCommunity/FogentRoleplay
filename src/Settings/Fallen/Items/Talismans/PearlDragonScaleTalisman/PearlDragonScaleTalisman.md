@@ -14,6 +14,6 @@ Talisman depicting a pearlescent ancient dragon.
 
 ## Effects
 
-| Name                     |                       Effect                       |    Duration    | Source |
+| Name                     |                       Desc                       |    Duration    | Source |
 | :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
 | Minor Psychic Resistance | -1 to victory levels received from Psychic damage. | While equipped |       3       |

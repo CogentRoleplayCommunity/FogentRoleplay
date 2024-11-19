@@ -14,6 +14,6 @@ A metal talisman with three symbols evoking the image of lightning on it. This R
 
 ## Effects
 
-| Name                      |                       Effect                       |    Duration    | Source |
+| Name                      |                       Desc                       |    Duration    | Source |
 | :------------------------ | :-------------------------------------------------: | :------------: | :-----------: |
 | Major Electric Resistance | -3 to victory levels received from Electric damage. | While equipped |       7       |

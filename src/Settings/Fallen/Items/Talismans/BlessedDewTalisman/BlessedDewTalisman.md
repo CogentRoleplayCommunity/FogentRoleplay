@@ -14,6 +14,6 @@ It is the common knowledge that the dew of the morning has special healing prope
 
 ## Effects
 
-| Name                   |                                                                                   Effect                                                                                   |  Duration  | Source |
+| Name                   |                                                                                   Desc                                                                                   |  Duration  | Source |
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----------: |
 | Continuous Gradual Heal | Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries. | Indefinite |       6       |

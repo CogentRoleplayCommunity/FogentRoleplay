@@ -14,6 +14,6 @@ An assassin's dagger, misshapen and stained in crimson.
 
 ## Effects
 
-| Name       |                    Effect                    |   Duration   | Source |
+| Name       |                    Desc                    |   Duration   | Source |
 | :--------- | :------------------------------------------: | :-----------: | :-----------: |
 | Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous |       3       |

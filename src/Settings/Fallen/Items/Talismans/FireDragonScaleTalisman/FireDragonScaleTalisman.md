@@ -14,6 +14,6 @@ A metal talisman with a symbol evoking the image of fire on it. This Runecrafted
 
 ## Effects
 
-| Name                  |                     Effect                     |    Duration    | Source |
+| Name                  |                     Desc                     |    Duration    | Source |
 | :-------------------- | :---------------------------------------------: | :------------: | :-----------: |
 | Minor Fire Resistance | -1 to victory levels received from Fire damage. | While equipped |       3       |
