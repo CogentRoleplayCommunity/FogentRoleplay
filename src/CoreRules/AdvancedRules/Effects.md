@@ -14,12 +14,13 @@ If you have two different character sheet effects active that buff or debuff som
 
 ### Attribute Dice Mods
 
-Effects that modify dice pools only if the dice pool in question is governed by one of the Attributes the Attribute Dice Mod specifies.
+Effect that modifies dice pools if they governed by one of the Attributes specified.
 
 - [Injury](./../CombatRules/Injury.md)
 - [Weight Class](./../AdvancedRules/CarryWeight.md#weight-classes)
 
 ### Skill Dice Mods
+
 
 ### Set Attribute
 
