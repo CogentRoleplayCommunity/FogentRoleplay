@@ -8,8 +8,8 @@ The resulting dice penalty acts as your status effect debuffing your character u
 
 |           Name           |                                                          Desc                                                        | Duration | Source |
 | :-----------------------: | :--------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
-|   Minor Injury   |       –1 dice to all dice pools but will naturally heal over the next few days, or faster if treated actively.       |          |        |
-|   Medium Injury   | -2 dice to all dice pools and must be treated relatively soon otherwise further penalties may apply such as infection. |          |        |
-|  Serious Injury  |                –3 dice to all dice pools and the character will die in time if the wound is untreated.                |          |        |
-|   Fatal Injury   |            –4 dice to all dice pools, gains Incapacitated condition, and will die very soon if untreated.            |          |        |
-| Death Blow Injury |                                                   Instantly killed.                                                   |          |        |
+|   Minor Injury   |       –1 dice to all dice pools governed by STR, RFX, or INT. Will naturally heal over the next few days, or faster if treated actively.       |          |        |
+|   Medium Injury   | -2 dice to all dice pools governed by STR, RFX, or INT. Must be treated relatively soon otherwise further penalties may apply such as infection. |          |        |
+|  Serious Injury  |                –3 dice to all dice pools governed by STR, RFX, or INT.  The character will die in time if the wound is untreated.                |          |        |
+|   Fatal Injury   |            –4 dice to all dice pools governed by STR, RFX, or INT. Will die very soon if untreated.            |          |        |
+| Death Blow Injury |                                                   –5 dice to all dice pools governed by STR, RFX, or INT. Instantly killed.                                                   |          |        |
