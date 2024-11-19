@@ -8,7 +8,7 @@ A wrought iron talisman made with the visage of twin Steel Dragons. More rare an
 
 
 
-|              Name              | # |                                                 Effect                                                 | LB | Value |
+|              Name              | # |                                                 Effects                                                 | LB | Value |
 | :----------------------------: | :-: | :-----------------------------------------------------------------------------------------------------: | :-: | :---: |
 | Steel Dragon Scale Talisman +1 | 1 | Medium Hew Resistance, Medium Slash Resistance, Medium Bludgeon Resistance, Medium Shockwave Resistance | 0.2 |   ?   |
 

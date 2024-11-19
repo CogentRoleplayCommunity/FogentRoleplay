@@ -10,7 +10,7 @@ Said to have been designed by the lord of Tuntin, who subsequently died in the f
 
 
 
-|       Name       | # |                 Effect                 | LB | Value |
+|       Name       | # |                 Effects                 | LB | Value |
 | :--------------: | :-: | :-------------------------------------: | :-: | :---: |
 | Mechanical Heart | 1 | Phenomena Detection, Forbidden Whispers | 1 |   ?   |
 

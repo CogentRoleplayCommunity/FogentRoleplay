@@ -10,7 +10,7 @@ Swordbreakers, often wielded offhand to a main hand sword. They are designed to 
 
 
 
-|           Name           | # |                                                        Effect                                                        | LB | Value |
+|           Name           | # |                                                        Effects                                                        | LB | Value |
 | :-----------------------: | :-: | :------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
 | Asher's Arms Swordbreaker | 1 | Fine Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Piercing Blade, Swordbreaker Blade Catch | 1 |   ?   |
 

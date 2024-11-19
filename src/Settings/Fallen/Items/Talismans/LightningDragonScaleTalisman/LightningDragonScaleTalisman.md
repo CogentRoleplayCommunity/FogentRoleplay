@@ -8,7 +8,7 @@ A metal talisman with a symbol evoking the image of lightning on it. This Runecr
 
 
 
-|              Name              | # |           Effect           | LB | Value |
+|              Name              | # |           Effects           | LB | Value |
 | :-----------------------------: | :-: | :------------------------: | :-: | :---: |
 | Lightning Dragon Scale Talisman | 1 | Minor Lightning Resistance | 0.2 |   ?   |
 

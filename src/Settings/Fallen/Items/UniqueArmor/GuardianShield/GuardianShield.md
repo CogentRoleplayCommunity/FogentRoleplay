@@ -8,7 +8,7 @@ A medium shield capable of retracting into a small wrist item. This type of retr
 
 
 
-|      Name      | # |                   Effect                   | LB | Value |
+|      Name      | # |                   Effects                   | LB | Value |
 | :-------------: | :-: | :----------------------------------------: | :-: | :---: |
 | Guardian Shield | 1 | Shield, Phy. Def. 2.00, Retractable Shield | 8 | 7 bc |
 

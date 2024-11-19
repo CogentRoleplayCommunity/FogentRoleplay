@@ -10,7 +10,7 @@ Boosts maximum magic resource.
 
 
 
-|       Name       | # |             Effect             | LB | Value |
+|       Name       | # |             Effects             | LB | Value |
 | :--------------: | :-: | :-----------------------------: | :-: | :---: |
 | Azulian Talisman | 1 | Minorly Enhanced Magic Resource | 0.2 |   ?   |
 

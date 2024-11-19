@@ -10,7 +10,7 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 
 
-|             Name             | # |    Effect    |  LB  |  Value  |
+|             Name             | # |    Effects    |  LB  |  Value  |
 | :---------------------------: | :-: | :----------: | :--: | :-----: |
 | Vial of Serious Healing Blood | 1 | Serious Heal | 0.25 | 2500 bc |
 

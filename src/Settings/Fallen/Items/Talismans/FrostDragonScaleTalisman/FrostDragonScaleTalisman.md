@@ -6,7 +6,7 @@
 
 
 
-|            Name            | # |        Effect        | LB | Value |
+|            Name            | # |        Effects        | LB | Value |
 | :-------------------------: | :-: | :-------------------: | :-: | :---: |
 | Frost Dragon Scale Talisman | 1 | Minor Cold Resistance | 0.2 |   ?   |
 

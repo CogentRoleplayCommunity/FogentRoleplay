@@ -8,7 +8,7 @@ A larger wrought iron talisman in the shape of a greatshield with an imposing St
 
 
 
-|               Name               | # |                                                   Effect                                                   | LB | Value |
+|               Name               | # |                                                   Effects                                                   | LB | Value |
 | :-------------------------------: | :-: | :---------------------------------------------------------------------------------------------------------: | :-: | :---: |
 | Great Steel Dragon Scale Talisman | 1 | Extreme Hew Resistance, Extreme Slash Resistance, Extreme Bludgeon Resistance, Extreme Shockwave Resistance | 0.2 |   ?   |
 

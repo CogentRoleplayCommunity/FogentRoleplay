@@ -8,7 +8,7 @@ Talisman depicting a pearlescent ancient dragon.
 
 
 
-|              Name              | # |          Effect          | LB | Value |
+|              Name              | # |          Effects          | LB | Value |
 | :----------------------------: | :-: | :-----------------------: | :-: | :---: |
 | Pearl Dragon Scale Talisman +1 | 1 | Medium Psychic Resistance | 0.2 |   ?   |
 

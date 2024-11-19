@@ -6,7 +6,7 @@
 
 
 
-| Name | # | Effect | LB | Value |
+| Name | # | Effects | LB | Value |
 | :--: | :-: | :----: | :-: | :---: |
 
 ## Effects

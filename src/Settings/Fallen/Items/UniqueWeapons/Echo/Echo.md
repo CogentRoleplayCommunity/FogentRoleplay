@@ -2,8 +2,6 @@
 
 ![Copyright](Echo.png)
 
-
-
 "What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…" - Lord Maxwell Reddington
 
 The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
@@ -18,13 +16,11 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.
 
-
-
-| Name | # |                                        Effect                                        | LB | Value |
+| Name | # |                                       Effects                                       | LB | Value |
 | :--: | :-: | :----------------------------------------------------------------------------------: | :-: | :---: |
 | Echo | 1 | Superior Medium Versatile Thrusting Sword, Superior Medium Versatile Slashing Sword | 2 |   ?   |
 
 ## Effects
 
 | Name | Desc | Duration | Source |
-| :--- | :----: | :------: | :-----------: |
+| :--- | :--: | :------: | :----: |

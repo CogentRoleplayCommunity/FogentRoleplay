@@ -12,7 +12,7 @@ A common talisman of assassins.
 
 
 
-|      Name      | # |          Effect          | LB | Value |
+|      Name      | # |          Effects          | LB | Value |
 | :-------------: | :-: | :----------------------: | :-: | :---: |
 | Concealing Veil | 1 | Minorly Enhanced Stealth | 0.2 |   ?   |
 

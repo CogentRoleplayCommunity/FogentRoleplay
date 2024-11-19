@@ -10,7 +10,7 @@ Greatly boosts maximum magic resource.
 
 
 
-|        Name        | # |             Effect             | LB | Value |
+|        Name        | # |             Effects             | LB | Value |
 | :-----------------: | :-: | :-----------------------------: | :-: | :---: |
 | Azulian Talisman +2 | 1 | Greatly Enhanced Magic Resource | 0.2 |   ?   |
 

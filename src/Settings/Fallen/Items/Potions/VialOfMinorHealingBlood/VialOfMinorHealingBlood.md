@@ -10,7 +10,7 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 
 
-|            Name            | # |   Effect   |  LB  | Value |
+|            Name            | # |   Effects   |  LB  | Value |
 | :-------------------------: | :-: | :--------: | :--: | :---: |
 | Vial of Minor Healing Blood | 1 | Minor Heal | 0.25 | 50 bc |
 

@@ -12,7 +12,7 @@ The white-garbed field surgeons come to the aid of friend and foe alike by deali
 
 
 
-|      Name      | # |      Effect      | LB | Value |
+|      Name      | # |      Effects      | LB | Value |
 | :-------------: | :-: | :---------------: | :-: | :---: |
 | Dagger Talisman | 1 | Enhanced Critical | 0.2 |   ?   |
 

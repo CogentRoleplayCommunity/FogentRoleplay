@@ -8,7 +8,7 @@ Brightstone is a rare gem that can hold light. The only place it can be found is
 
 
 
-|       Name       | # |    Effect    | LB | Value |
+|       Name       | # |    Effects    | LB | Value |
 | :---------------: | :-: | :-----------: | :-: | :---: |
 | Petty Brightstone | 1 | Light Storage | 0.1 |   ?   |
 

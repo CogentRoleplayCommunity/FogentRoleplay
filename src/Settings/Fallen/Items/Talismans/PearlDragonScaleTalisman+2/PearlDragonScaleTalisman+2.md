@@ -10,7 +10,7 @@ Vastly boosts psychic damage resistance.
 
 
 
-|              Name              | # |          Effect          | LB | Value |
+|              Name              | # |          Effects          | LB | Value |
 | :----------------------------: | :-: | :----------------------: | :-: | :---: |
 | Pearl Dragon Scale Talisman +2 | 1 | Major Psychic Resistance | 0.2 |   ?   |
 

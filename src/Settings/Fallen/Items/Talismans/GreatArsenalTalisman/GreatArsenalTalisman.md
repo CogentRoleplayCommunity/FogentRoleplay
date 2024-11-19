@@ -10,7 +10,7 @@ Greatly boosts maximum equipment load.
 
 
 
-|          Name          | # |        Effect        | LB | Value |
+|          Name          | # |        Effects        | LB | Value |
 | :--------------------: | :-: | :-------------------: | :-: | :---: |
 | Great Arsenal Talisman | 1 | Greatly Enhanced Lift | 0.2 |   ?   |
 

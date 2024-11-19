@@ -8,7 +8,7 @@ A metal talisman with three symbols evoking the image of lightning on it. This R
 
 
 
-|                Name                | # |           Effect           | LB | Value |
+|                Name                | # |           Effects           | LB | Value |
 | :--------------------------------: | :-: | :------------------------: | :-: | :---: |
 | Lightning Dragon Scale Talisman +2 | 1 | Major Lightning Resistance | 0.2 |   ?   |
 

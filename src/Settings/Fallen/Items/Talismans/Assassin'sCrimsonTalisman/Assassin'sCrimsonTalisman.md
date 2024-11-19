@@ -8,7 +8,7 @@ An assassin's dagger, misshapen and stained in crimson.
 
 
 
-|            Name            | # |   Effect   | LB | Value |
+|            Name            | # |   Effects   | LB | Value |
 | :-------------------------: | :-: | :--------: | :-: | :---: |
 | Assassin's Azulian Talisman | 1 | Life Leech | 0.2 |   ?   |
 

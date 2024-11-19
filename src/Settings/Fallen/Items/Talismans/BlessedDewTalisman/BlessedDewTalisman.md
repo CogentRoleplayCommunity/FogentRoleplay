@@ -8,7 +8,7 @@ It is the common knowledge that the dew of the morning has special healing prope
 
 
 
-|         Name         | # |     Effect     | LB | Value |
+|         Name         | # |     Effects     | LB | Value |
 | :------------------: | :-: | :-------------: | :-: | :---: |
 | Blessed Dew Talisman | 1 | Gradual Healing | 0.2 |   ?   |
 

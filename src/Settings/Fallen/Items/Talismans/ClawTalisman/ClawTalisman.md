@@ -8,7 +8,7 @@ A talisman depicting claws and an assassin.
 
 
 
-|     Name     | # |     Effect     | LB | Value |
+|     Name     | # |     Effects     | LB | Value |
 | :-----------: | :-: | :------------: | :-: | :---: |
 | Claw Talisman | 1 | Ariel Assassin | 0.2 |   ?   |
 

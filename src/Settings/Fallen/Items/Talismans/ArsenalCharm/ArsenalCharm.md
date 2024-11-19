@@ -12,7 +12,7 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 
 
-|     Name     | # |    Effect    | LB | Value |
+|     Name     | # |    Effects    | LB | Value |
 | :-----------: | :-: | :-----------: | :-: | :---: |
 | Arsenal Charm | 1 | Enhanced Lift | 0.2 |   ?   |
 

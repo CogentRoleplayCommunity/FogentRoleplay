@@ -721,7 +721,7 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
-| Name                        | # |         Effect         |  LB  | Value | Description |
+| Name                        | # |         Effects         |  LB  | Value | Description |
 | --------------------------- | :-: | :---------------------: | :--: | :----: | ----------- |
 | Bronze Coin                 | 11 |                        | 0.02 |  1 bc  |             |
 | Vial of Minor Healing Blood | 1 |       Minor Heal       | 0.25 | 50 bc |             |

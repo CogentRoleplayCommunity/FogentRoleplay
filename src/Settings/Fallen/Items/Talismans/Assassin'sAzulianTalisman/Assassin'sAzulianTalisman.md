@@ -8,7 +8,7 @@ An assassin's dagger, misshapen and stained in azul.
 
 
 
-|            Name            | # |        Effect        | LB | Value |
+|            Name            | # |        Effects        | LB | Value |
 | :-------------------------: | :-: | :------------------: | :-: | :---: |
 | Assassin's Azulian Talisman | 1 | Magic Resource Leech | 0.2 |   ?   |
 

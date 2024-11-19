@@ -8,7 +8,7 @@ This breastplate has a dragon motif etched into its design. Created for a dragon
 
 
 
-|    Name    | # |                                  Effect                                  | LB |   Value   |
+|    Name    | # |                                  Effects                                  | LB |   Value   |
 | :---------: | :-: | :-----------------------------------------------------------------------: | :-: | :-------: |
 | Dragonguard | 1 | Body Armor, Phy. Def. 2.01, Dragon Threat Sense, Dragon Breath Resistance | 23 | 603.24 bc |
 

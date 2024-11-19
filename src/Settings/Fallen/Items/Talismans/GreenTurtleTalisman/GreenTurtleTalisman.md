@@ -26,7 +26,7 @@ Tier: Excellent (+3)
 
 
 
-| Name | # | Effect | LB | Value |
+| Name | # | Effects | LB | Value |
 | :--: | :-: | :----: | :-: | :---: |
 
 ## Effects

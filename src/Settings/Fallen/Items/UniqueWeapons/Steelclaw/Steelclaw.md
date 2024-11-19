@@ -8,7 +8,7 @@ This sword was cursed upon Vasilii Anatoli after using it to kill his eldest bro
 
 
 
-|   Name   | # |                                  Effect                                  | LB | Value |
+|   Name   | # |                                  Effects                                  | LB | Value |
 | :-------: | :-: | :----------------------------------------------------------------------: | :-: | :---: |
 | Steelclaw | 1 | Fine Large Thrusting Sword, Fine Large Slashing Sword, The Anatoli Curse | 3 | 25 bc |
 

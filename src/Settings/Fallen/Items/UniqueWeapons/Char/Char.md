@@ -18,7 +18,7 @@ Shattered and broken, Destin continues to carry this blade.
 
 
 
-| Name | # |                                  Effect                                  | LB | Value |
+| Name | # |                                  Effects                                  | LB | Value |
 | :--: | :-: | :----------------------------------------------------------------------: | :-: | :---: |
 | Char | 1 | Reach Thrusting Sword, Reach Slashing Sword, Fire Repair and Enhancement | 6 |   ?   |
 

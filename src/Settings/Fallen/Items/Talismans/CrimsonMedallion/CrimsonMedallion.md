@@ -10,7 +10,7 @@ Minorly boosts maximum vitality.
 
 
 
-|       Name       | # |          Effect          | LB | Value |
+|       Name       | # |          Effects          | LB | Value |
 | :---------------: | :-: | :-----------------------: | :-: | :---: |
 | Crimson Medallion | 1 | Minorly Enhanced Vitality | 0.2 |   ?   |
 

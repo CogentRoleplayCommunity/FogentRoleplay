@@ -8,7 +8,7 @@ A wrought iron talisman made with the visage of a mighty Steel Dragon. While qui
 
 
 
-|            Name            | # |                                               Effect                                               | LB | Value |
+|            Name            | # |                                               Effects                                               | LB | Value |
 | :-------------------------: | :-: | :-------------------------------------------------------------------------------------------------: | :-: | :---: |
 | Steel Dragon Scale Talisman | 1 | Minor Hew Resistance, Minor Slash Resistance, Minor Bludgeon Resistance, Minor Shockwave Resistance | 0.2 |   ?   |
 

@@ -6,7 +6,7 @@
 
 
 
-|             Name             | # |          Effect          | LB | Value |
+|             Name             | # |          Effects          | LB | Value |
 | :---------------------------: | :-: | :----------------------: | :-: | :---: |
 | Radiant Dragon Scale Talisman | 1 | Minor Radiant Resistance | 0.2 |   ?   |
 

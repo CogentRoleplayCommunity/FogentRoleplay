@@ -2,14 +2,10 @@
 
 ![Copyright]()
 
-
-
-
-
 | Name | # | Effects | LB | Value |
 | :--: | :-: | :-----: | :-: | :---: |
 
 ## Effects
 
 | Name | Desc | Duration | Effect Slots |
-| :--- | :----: | :------: | :----------: |
+| :--- | :--: | :------: | :----------: |

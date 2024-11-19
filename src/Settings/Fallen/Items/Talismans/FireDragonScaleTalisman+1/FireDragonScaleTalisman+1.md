@@ -8,7 +8,7 @@ A metal talisman with twin symbols evoking the image of fire on it. This more po
 
 
 
-|             Name             | # |         Effect         | LB | Value |
+|             Name             | # |         Effects         | LB | Value |
 | :---------------------------: | :-: | :--------------------: | :-: | :---: |
 | Fire Dragon Scale Talisman +1 | 1 | Medium Fire Resistance | 0.2 |   ?   |
 

@@ -8,7 +8,7 @@ A metal talisman with a symbol evoking the image of fire on it. This Runecrafted
 
 
 
-|            Name            | # |        Effect        | LB | Value |
+|            Name            | # |        Effects        | LB | Value |
 | :------------------------: | :-: | :-------------------: | :-: | :---: |
 | Fire Dragon Scale Talisman | 1 | Minor Fire Resistance | 0.2 |   ?   |
 

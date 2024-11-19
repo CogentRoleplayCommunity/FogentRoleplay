@@ -8,7 +8,7 @@ A brooch depicting a long-tailed cat.
 
 
 
-|         Name         | # |           Effect           | LB | Value |
+|         Name         | # |           Effects           | LB | Value |
 | :-------------------: | :-: | :------------------------: | :-: | :---: |
 | Longtail Cat Talisman | 1 | Minorly Enhanced Dexterity | 0.2 |   ?   |
 

@@ -8,7 +8,7 @@ A wrought iron talisman made with the visage of three Steel Dragons. This item i
 
 
 
-|              Name              | # |                                               Effect                                               | LB | Value |
+|              Name              | # |                                               Effects                                               | LB | Value |
 | :----------------------------: | :-: | :-------------------------------------------------------------------------------------------------: | :-: | :---: |
 | Steel Dragon Scale Talisman +2 | 1 | Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance | 0.2 |   ?   |
 

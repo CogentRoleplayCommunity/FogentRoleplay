@@ -4,8 +4,8 @@
 
 Fallen uses coins of Tin, Copper, Bronze, Gold, and the ultra rare platinum as currency. Due to silver being deadly to Fellkind and gold not being as abundant on Terra, the currency has been adapted. For simplicity sake we use the DnD 5e commerce system as a reference for prices of goods in our game.
 
-|     Name     | # | Effect |  LB  | Value | Description |
-| :-----------: | :-: | :----: | :--: | :---: | ----------- |
+|     Name     | # | Effects |  LB  | Value | Description |
+| :-----------: | :-: | :-----: | :--: | :---: | ----------- |
 |   Tin Coins   | 1 |        | 0.02 | 1 tc |             |
 |  Copper Coin  | 1 |        | 0.02 | 1 cc |             |
 |  Bronze Coin  | 1 |        | 0.02 | 1 bc |             |
@@ -81,7 +81,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Armory.png) Armory
 
-|               Name               | # |                                        Effect                                        | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|               Name               | # |                                        Effects                                        | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-------------------------------: | :-: | :-----------------------------------------------------------------------------------: | :----: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |          Gambeson Armor          | 1 |                   Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |   8   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |           Gambeson Coat           | 1 |                        Body Armor, Arm Armor, Phy. Def. 0.625                        |   5   |  3.13 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
@@ -124,7 +124,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
-|      Name      | # |                                 Effect                                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|      Name      | # |                                 Effects                                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------: | :-: | :---------------------------------------------------------------------: | :----: | :----: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |     Dagger     | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |    Handaxe    | 1 |                           Small Hafted Blade                           |   2   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
@@ -157,7 +157,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
 
-|                Name                |  #  |                 Effect                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|                Name                |  #  |                 Effects                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------------: | :--: | :-------------------------------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |        -[Adventuring Gear]-        |      |                                        |        |      |                    |                  |                  |                    |
 |        Bag of Ball Bearings        | 1000 |                                        | 0.002 | 10 tc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
@@ -226,7 +226,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Leatherworker.png) Leatherworker
 
-|             Name             | # |                            Effect                            | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|             Name             | # |                           Effects                           | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------: | :-: | :----------------------------------------------------------: | :----: | :-----: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |           -[Armor]-           |  |                                                              |        |        |                    |                  |                  |                    |
 |         Leather Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |   12   |  10 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
@@ -246,7 +246,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
-|             Name             | # |    Effect    | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|             Name             | # |   Effects   | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------: | :-: | :----------: | :-----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |           Alms Box           | 1 |              |    1    |   5 bc   |       FALSE       |         O         |         O         |          O          |
 |             Bell             | 1 |              |   0.1   |  70 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -297,8 +297,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
 
-|           Name           | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :-----------------------: | :-: | :----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|           Name           | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :-----------------------: | :-: | :-----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |        Sealing Wax        | 1 |        |   0   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |  Common Book, Soft Bound  | 1 |        |   1   | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |  Common Book, Hard Bound  | 1 |        |   1   | 2 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
@@ -309,7 +309,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/GeneralStore.png) General Store
 
-|              Name              | # |       Effect       | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|              Name              | # |      Effects      | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :----------------------------: | :-: | :----------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |             Abacus             | 1 |                    |   2   | 2 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |             Barrel             | 1 |                    |   70   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
@@ -358,7 +358,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
 
-|                Name                | # |                                 Effect                                 | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|                Name                | # |                                 Effects                                 | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------------: | :-: | :---------------------------------------------------------------------: | :----: | :-----: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |              -[Armor]-              |    |                                                                        |        |        |                    |                  |                  |                    |
 |           Gambeson Armor           | 1 |            Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00            |   8   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
@@ -467,8 +467,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ShadyDealer.png) Shady Dealer - General Store Add-on
 
-|         Name         | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :------------------: | :-: | :----: | :----: | :----: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|         Name         | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :------------------: | :-: | :-----: | :----: | :----: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |     Acid (vial)     | 1 |        |  0.5  | 25 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |   Antitoxin (vial)   | 1 |        |  0.5  | 50 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |   Bag of Caltrops   | 20 |        |  0.1  |  5 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -487,7 +487,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|             Name             | # |       Effect       | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|             Name             | # |      Effects      | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------: | :-: | :----------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |            Crystal            | 1 | Spellcasting Focus |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |              Orb              | 1 | Spellcasting Focus |   3   |  20 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
@@ -506,7 +506,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
-|        Name        | # |                     Effect                     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|        Name        | # |                     Effects                     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-----------------: | :-: | :---------------------------------------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |        Spear        | 1 |         Large Spear, Thrown Large Spear         |   3   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |       Trident       | 1 | Quality Large Spear, Quality Thrown Large Spear |   3   | 5 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
@@ -517,8 +517,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ArtAndGameTheme.png) Art and Games Theme - General Store Add-on
 
-|          Name          | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :---------------------: | :-: | :----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|          Name          | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :---------------------: | :-: | :-----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 | Calligrapher's Supplies | 1 |        |   5   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |   Glassblower's Tools   | 1 |        |   7   | 30 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |   Painter's Supplies   | 1 |        |   3   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
@@ -543,7 +543,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TaliorTextiles.png) Tailor/Textiles
 
-|          Name          | # |     Effect     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|          Name          | # |     Effects     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------: | :-: | :-------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |         Basket         | 1 |                |   2   | 40 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |      Cloak, Canvas      | 1 |                |   5   | 70 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
@@ -566,8 +566,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Transportation.png) Transportation
 
-|        Name        | # | Effect |   Weight   |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :----------------: | :-: | :----: | :---------: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|        Name        | # | Effects |   Weight   |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :----------------: | :-: | :-----: | :---------: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |       Camel       |  |        |            |   50 bc   |        TRUE        |       FALSE       |       TRUE       |        FALSE        |
 |    Donkey/ Mule    |  |        |            |   8 bc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |      Elephant      |  |        |            |  200 bc  |        TRUE        |       FALSE       |       TRUE       |        TRUE        |
@@ -599,7 +599,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
 
-|               Name               | # |       Effect       |    Weight    |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|               Name               | # |      Effects      |    Weight    |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------------------------: | :-: | :----------------: | :----------: | :-----: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |    Amulet/Necklace, Exquisite    | 1 |                    |     0.2     |  5 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |     Amulet/Necklace, Mundane     | 1 |                    |     0.2     |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
@@ -688,7 +688,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/PotionShop.png) Potion Shop
 
-|              Name              | # |         Effect         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|              Name              | # |         Effects         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :----------------------------: | :-: | :---------------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |          Acid (vial)          | 1 |                        |  0.5  |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |    Alchemist's Fire (flask)    | 1 |                        |   1   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -722,7 +722,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
-|                Name                | # |       Effect       | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|                Name                | # |      Effects      | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :--------------------------------: | :-: | :----------------: | :-----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |              Crystal              | 1 | Spellcasting Focus |    1    | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |                Orb                | 1 | Spellcasting Focus |    3    | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -762,8 +762,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### Inns
 
-|                   Name                   | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :--------------------------------------: | :-: | :----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|                   Name                   | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------------: | :-: | :-----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 | -[Typical Breakfast Options: Commoner]-: |  |        |        |      |                    |                  |                  |                    |
 |              “Meat” Stick              | 1 |        |  0.25  | 3 cc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 |             Roasted Locusts             | 1 |        |  0.25  | 3 cc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
@@ -818,8 +818,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MarketProduceFoods.png) Market Produce/Foods
 
-|              Name              | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :-----------------------------: | :-: | :----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|              Name              | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :-----------------------------: | :-: | :-----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |          Coffee - Cup          | 1 |        |  0.25  | 5 cc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 |    Goodberry “Wine” - Cup    | 1 |        |  0.25  | 10 cc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 |   Fruit Juice (Varies) - Cup   | 1 |        |  0.25  | 5 cc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
@@ -872,8 +872,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/CreaturePartsValues.png) Creature Parts Values
 
-|                     Name                     | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :------------------------------------------: | :-: | :----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|                     Name                     | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :------------------------------------------: | :-: | :-----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |  [Selling Value (Creature XP %)] CR: 0 – 6  |  |        | 50 bc |      |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 | [Selling Value (Creature XP %)] CR: 7 – 12 |  |        |  #N/A  |      |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 | [Selling Value (Creature XP %)] CR: 13 – 18 |  |        |  #N/A  |      |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
@@ -882,7 +882,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/High-endClothing.png) High End
 
-|                           Name                           | # |     Effect     | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|                           Name                           | # |     Effects     | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------------------------------------------------: | :-: | :-------------: | :----: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |                -[Custom Clothing Items]-                |  |                |        |          |                    |                  |                  |                    |
 |                        Bandolier                        | 1 |                |  0.5  |   8 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
@@ -928,7 +928,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/SpecialCraftingMaterials.png) Special Materials, Leather Armor Pieces
 
-|                  Name                  | # |         Effect         | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+|                  Name                  | # |         Effects         | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-------------------------------------: | :-: | :---------------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |         -[Custom Armor Parts]-         |  |                        |        |      |                    |                  |                  |                    |
 |            Cosmetic: Bracers            | 1 |                        |   0   | 50 cc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
@@ -953,8 +953,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/SpecialCraftingMaterials.png) Special Crafting Materials
 
-|            Name            | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :-------------------------: | :-: | :----: | :----: | :----: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|            Name            | # | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :-------------------------: | :-: | :-----: | :----: | :----: | :----------------: | :---------------: | :---------------: | :-----------------: |
 |         Adamantite         | 1 |        |   1   | 200 bc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 |        Aero Crystal        | 1 |        |   1   | 400 bc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 |        Asmoroch Wood        | 1 |        |   1   | 400 bc |       FALSE       |       FALSE       |       FALSE       |        FALSE        |

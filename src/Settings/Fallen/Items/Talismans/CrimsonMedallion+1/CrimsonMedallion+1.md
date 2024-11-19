@@ -10,7 +10,7 @@ Boosts maximum vitality.
 
 
 
-|         Name         | # |      Effect      | LB | Value |
+|         Name         | # |      Effects      | LB | Value |
 | :------------------: | :-: | :---------------: | :-: | :---: |
 | Crimson Medallion +1 | 1 | Enhanced Vitality | 0.2 |   ?   |
 
