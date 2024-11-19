@@ -81,50 +81,50 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Armory.png) Armory
 
-|               Name               | # |                                        Effect                                        | Weight |   Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
-| :-------------------------------: | :-: | :-----------------------------------------------------------------------------------: | :----: | :-------: | :-----------: | :----------: | :----------: | :------------: |
-|          Gambeson Armor          | 1 |                   Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |   8   |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|           Gambeson Coat           | 1 |                        Body Armor, Arm Armor, Phy. Def. 0.625                        |   5   |  3.13 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|         Gambeson Leggings         | 1 |                              Leg Armor, Phy. Def. 0.375                              |   3   |  1.87 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|                                  |  |                                                                                      |        |          |              |              |              |                |
-|           Leather Armor           | 1 |             Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00             |   12   |   10 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|          Leather Helmet          | 1 |                              Head Armor, Phy. Def. 0.34                              |   2   |  1.67 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|   Leather Cuirass and Pauldrons   | 1 |                              Body Armor, Phy. Def. 1.00                              |   6   |   5 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|    Leather Cuisses and Greaves    | 1 |                               Arm Armor, Phy. Def. 0.33                               |   2   |  1.67 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|         Leather Vambrace         | 1 |                               Leg Armor, Phy. Def. 0.33                               |   2   |  1.66 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|                                  |  |                                                                                      |        |          |              |              |              |                |
-|          Chainmail Armor          | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |   47   |   75 bp   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|          Chainmail Coif          | 1 |                              Head Armor, Phy. Def. 0.38                              |   6   |  9.57 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|  Chainmail Short-sleeved Hauberk  | 1 |                              Body Armor, Phy. Def. 1.15                              |   18   | 28.72 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|     Chainmail Sleeves/Mittens     | 1 |                  Arm Armor, Phy. Def. 0.77, Hand Protection Unarmed                  |   12   | 19.16 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|        Chainmail Chausses        | 1 |                               Leg Armor, Phy. Def. 0.7                               |   11   | 17.55 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|                                  |  |                                                                                      |        |          |              |              |              |                |
-|         Brigandine Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 4.00 |   52   |  200 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|             Half Helm             | 1 |                              Head Armor, Phy. Def. 0.39                              |   5   | 19.23 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-| Brigandine Cuirass and Pauldrons | 1 |                              Body Armor, Phy. Def. 1.69                              |   22   | 84.62 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|  Brigandine Cuisses and Greaves  | 1 |                               Arm Armor, Phy. Def. 1.00                               |   13   |   50 bc   |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-| Brigandine Vambrace and Gauntlets | 1 |                  Leg Armor, Phy. Def. 0.92, Hand Protection Unarmed                  |   12   | 46.15 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|                                  |  |                                                                                      |        |          |              |              |              |                |
-|            Plate Armor            | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 5.00 |   57   |  1495 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|          Plate Full Helm          | 1 |                              Head Armor, Phy. Def. 0.53                              |   6   | 157.37 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|    Plate Cuirass and Pauldrons    | 1 |                              Body Armor, Phy. Def. 2.01                              |   23   | 603.24 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|     Plate Cuisses and Greaves     | 1 |                               Arm Armor, Phy. Def. 1.23                               |   14   | 367.19 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|   Plate Vambrace and Gauntlets   | 1 |                  Leg Armor, Phy. Def. 1.23, Hand Protection Unarmed                  |   14   | 367.19 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
-|                                  |  |                                                                                      |        |          |              |              |              |                |
-|          Buckler Shield          | 1 |                                  Shield, Phy. Def. 1                                  |   4   |   2 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Targe Shield           | 1 |                                  Shield, Phy. Def. 1                                  |   4   |   2 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|           Parma Shield           | 1 |                                  Shield, Phy. Def. 1                                  |   4   |   2 bc   |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
-|            Kite Shield            | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Hoplon Shield           | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Pavise Shield           | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|           Heater Shield           | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|   Kite Shield (Dawn Emp. Crest)   | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   30 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
-|       Heavy Shield (Tower)       | 1 |                                Shield, Phy. Def. 3.00                                |   25   |  150 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
-|              Mantlet              | 1 |                                Shield, Phy. Def. 4.00                                |   90   |   17 bc   |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
+|               Name               | # |                                        Effect                                        | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :-------------------------------: | :-: | :-----------------------------------------------------------------------------------: | :----: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|          Gambeson Armor          | 1 |                   Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |   8   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|           Gambeson Coat           | 1 |                        Body Armor, Arm Armor, Phy. Def. 0.625                        |   5   |  3.13 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|         Gambeson Leggings         | 1 |                              Leg Armor, Phy. Def. 0.375                              |   3   |  1.87 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                                  |  |                                                                                      |        |          |                    |                  |                  |                    |
+|           Leather Armor           | 1 |             Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00             |   12   |   10 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|          Leather Helmet          | 1 |                              Head Armor, Phy. Def. 0.34                              |   2   |  1.67 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|   Leather Cuirass and Pauldrons   | 1 |                              Body Armor, Phy. Def. 1.00                              |   6   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|    Leather Cuisses and Greaves    | 1 |                               Arm Armor, Phy. Def. 0.33                               |   2   |  1.67 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|         Leather Vambrace         | 1 |                               Leg Armor, Phy. Def. 0.33                               |   2   |  1.66 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                                  |  |                                                                                      |        |          |                    |                  |                  |                    |
+|          Chainmail Armor          | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |   47   |   75 bp   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Chainmail Coif          | 1 |                              Head Armor, Phy. Def. 0.38                              |   6   |  9.57 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|  Chainmail Short-sleeved Hauberk  | 1 |                              Body Armor, Phy. Def. 1.15                              |   18   | 28.72 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|     Chainmail Sleeves/Mittens     | 1 |                  Arm Armor, Phy. Def. 0.77, Hand Protection Unarmed                  |   12   | 19.16 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Chainmail Chausses        | 1 |                               Leg Armor, Phy. Def. 0.7                               |   11   | 17.55 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                                  |  |                                                                                      |        |          |                    |                  |                  |                    |
+|         Brigandine Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 4.00 |   52   |  200 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|             Half Helm             | 1 |                              Head Armor, Phy. Def. 0.39                              |   5   | 19.23 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+| Brigandine Cuirass and Pauldrons | 1 |                              Body Armor, Phy. Def. 1.69                              |   22   | 84.62 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|  Brigandine Cuisses and Greaves  | 1 |                               Arm Armor, Phy. Def. 1.00                               |   13   |   50 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+| Brigandine Vambrace and Gauntlets | 1 |                  Leg Armor, Phy. Def. 0.92, Hand Protection Unarmed                  |   12   | 46.15 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                                  |  |                                                                                      |        |          |                    |                  |                  |                    |
+|            Plate Armor            | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 5.00 |   57   |  1495 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|          Plate Full Helm          | 1 |                              Head Armor, Phy. Def. 0.53                              |   6   | 157.37 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|    Plate Cuirass and Pauldrons    | 1 |                              Body Armor, Phy. Def. 2.01                              |   23   | 603.24 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|     Plate Cuisses and Greaves     | 1 |                               Arm Armor, Phy. Def. 1.23                               |   14   | 367.19 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|   Plate Vambrace and Gauntlets   | 1 |                  Leg Armor, Phy. Def. 1.23, Hand Protection Unarmed                  |   14   | 367.19 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                                  |  |                                                                                      |        |          |                    |                  |                  |                    |
+|          Buckler Shield          | 1 |                                  Shield, Phy. Def. 1                                  |   4   |   2 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Targe Shield           | 1 |                                  Shield, Phy. Def. 1                                  |   4   |   2 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Parma Shield           | 1 |                                  Shield, Phy. Def. 1                                  |   4   |   2 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|            Kite Shield            | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Hoplon Shield           | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Pavise Shield           | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Heater Shield           | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   7 bc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|   Kite Shield (Dawn Emp. Crest)   | 1 |                                Shield, Phy. Def. 2.00                                |   8   |   30 bc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|       Heavy Shield (Tower)       | 1 |                                Shield, Phy. Def. 3.00                                |   25   |  150 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|              Mantlet              | 1 |                                Shield, Phy. Def. 4.00                                |   90   |   17 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 
 ### ![](ItemShop/Weaponsmith.png) Weaponsmith
 
-|      Name      | # |                                 Effect                                 | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|      Name      | # |                                 Effect                                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------: | :-: | :---------------------------------------------------------------------: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |     Dagger     | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |   1   |  2 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |    Handaxe    | 1 |                           Small Hafted Blade                           |   2   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -157,7 +157,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
 
-|                Name                |  #  |                 Effect                 | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                Name                |  #  |                 Effect                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------------: | :--: | :-------------------------------------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |        -[Adventuring Gear]-        |      |                                        |        |      |              |              |              |                |
 |        Bag of Ball Bearings        | 1000 |                                        | 0.002 | 10 tc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -189,7 +189,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |                Horn                |  1  |                                        |   2   | 3 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
 |                                    |      |                                        |        |      |              |              |              |                |
 |           Fletcher/Bowyer           |      |                                        |        |      |              |              |              |                |
-|                Name                |  #  |                  Class                  | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                Name                |  #  |                  Class                  | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 |             -[Weapon]-             |      |                                        |        |      |              |              |              |                |
 |           Light Crossbow           |  1  |             Light Crossbow             |   5   | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |            Light Longbow            |  1  |                Light Bow                |   2   | 25 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -227,7 +227,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Leatherworker.png) Leatherworker
 
-|             Name             | # |                            Effect                            | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|             Name             | # |                            Effect                            | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------: | :-: | :----------------------------------------------------------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
 |           -[Armor]-           |  |                                                              |        |        |              |              |              |                |
 |         Leather Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |   12   |  10 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -247,7 +247,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
-|             Name             | # |    Effect    | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|             Name             | # |    Effect    | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------: | :-: | :----------: | :-----: | :------: | :-----------: | :----------: | :----------: | :------------: |
 |           Alms Box           | 1 |              |    1    |   5 bc   |     FALSE     |      O      |      O      |       O       |
 |             Bell             | 1 |              |   0.1   |  70 cc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -298,7 +298,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
 
-|           Name           | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|           Name           | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-----------------------: | :-: | :----: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |        Sealing Wax        | 1 |        |   0   | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |  Common Book, Soft Bound  | 1 |        |   1   | 5 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -310,7 +310,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/GeneralStore.png) General Store
 
-|              Name              | # |       Effect       | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|              Name              | # |       Effect       | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :----------------------------: | :-: | :----------------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |             Abacus             | 1 |                    |   2   | 2 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |             Barrel             | 1 |                    |   70   | 2 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -359,7 +359,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
 
-|                Name                | # |                                 Effect                                 | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                Name                | # |                                 Effect                                 | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------------: | :-: | :---------------------------------------------------------------------: | :----: | :-----: | :-----------: | :----------: | :----------: | :------------: |
 |              -[Armor]-              |    |                                                                        |        |        |              |              |              |                |
 |           Gambeson Armor           | 1 |            Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00            |   8   |  5 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -468,7 +468,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ShadyDealer.png) Shady Dealer - General Store Add-on
 
-|         Name         | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|         Name         | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------------: | :-: | :----: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |     Acid (vial)     | 1 |        |  0.5  | 25 bc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |   Antitoxin (vial)   | 1 |        |  0.5  | 50 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -488,7 +488,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|             Name             | # |       Effect       | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|             Name             | # |       Effect       | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------------: | :-: | :----------------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
 |            Crystal            | 1 | Spellcasting Focus |   1   |  10 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |              Orb              | 1 | Spellcasting Focus |   3   |  20 bc  |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -507,7 +507,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
-|        Name        | # |                     Effect                     | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|        Name        | # |                     Effect                     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-----------------: | :-: | :---------------------------------------------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |        Spear        | 1 |         Large Spear, Thrown Large Spear         |   3   | 1 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |       Trident       | 1 | Quality Large Spear, Quality Thrown Large Spear |   3   | 5 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -518,7 +518,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ArtAndGameTheme.png) Art and Games Theme - General Store Add-on
 
-|          Name          | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|          Name          | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------: | :-: | :----: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 | Calligrapher's Supplies | 1 |        |   5   | 10 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
 |   Glassblower's Tools   | 1 |        |   7   | 30 bc |     FALSE     |    FALSE    |    FALSE    |      TRUE      |
@@ -544,7 +544,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TaliorTextiles.png) Tailor/Textiles
 
-|          Name          | # |     Effect     | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|          Name          | # |     Effect     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :---------------------: | :-: | :-------------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |         Basket         | 1 |                |   2   | 40 cc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |      Cloak, Canvas      | 1 |                |   5   | 70 cc |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -567,7 +567,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/Transportation.png) Transportation
 
-|        Name        | # | Effect |   Weight   |   Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|        Name        | # | Effect |   Weight   |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :----------------: | :-: | :----: | :---------: | :-------: | :-----------: | :----------: | :----------: | :------------: |
 |       Camel       |  |        |            |   50 bc   |     TRUE     |    FALSE    |     TRUE     |     FALSE     |
 |    Donkey/ Mule    |  |        |            |   8 bc   |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
@@ -600,7 +600,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/JewelerStonecutter.png) Jeweler/Stonecutter
 
-|               Name               | # |       Effect       |    Weight    |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|               Name               | # |       Effect       |    Weight    |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------------------------: | :-: | :----------------: | :----------: | :-----: | :-----------: | :----------: | :----------: | :------------: |
 |    Amulet/Necklace, Exquisite    | 1 |                    |     0.2     |  5 bc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |     Amulet/Necklace, Mundane     | 1 |                    |     0.2     |  50 cc  |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
@@ -689,7 +689,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/PotionShop.png) Potion Shop
 
-|              Name              | # |         Effect         | Weight |  Value  | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|              Name              | # |         Effect         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :----------------------------: | :-: | :---------------------: | :----: | :------: | :-----------: | :----------: | :----------: | :------------: |
 |          Acid (vial)          | 1 |                        |  0.5  |  25 bc  |     FALSE     |     TRUE     |     TRUE     |      TRUE      |
 |    Alchemist's Fire (flask)    | 1 |                        |   1   |  50 bc  |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -723,7 +723,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
-|                Name                | # |       Effect       | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                Name                | # |       Effect       | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :--------------------------------: | :-: | :----------------: | :-----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |              Crystal              | 1 | Spellcasting Focus |    1    | 10 bc |     TRUE     |     TRUE     |     TRUE     |      TRUE      |
 |                Orb                | 1 | Spellcasting Focus |    3    | 20 bc |     FALSE     |    FALSE    |     TRUE     |      TRUE      |
@@ -763,7 +763,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### Inns
 
-|                   Name                   | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                   Name                   | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :--------------------------------------: | :-: | :----: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 | -[Typical Breakfast Options: Commoner]-: |  |        |        |      |              |              |              |                |
 |              “Meat” Stick              | 1 |        |  0.25  | 3 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -819,7 +819,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MarketProduceFoods.png) Market Produce/Foods
 
-|              Name              | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|              Name              | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-----------------------------: | :-: | :----: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |          Coffee - Cup          | 1 |        |  0.25  | 5 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |    Goodberry “Wine” - Cup    | 1 |        |  0.25  | 10 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -873,7 +873,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/CreaturePartsValues.png) Creature Parts Values
 
-|                     Name                     | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                     Name                     | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------------------------------------: | :-: | :----: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |  [Selling Value (Creature XP %)] CR: 0 – 6  |  |        | 50 bc |      |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 | [Selling Value (Creature XP %)] CR: 7 – 12 |  |        |  #N/A  |      |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -883,7 +883,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/High-endClothing.png) High End
 
-|                           Name                           | # |     Effect     | Weight |   Value   | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                           Name                           | # |     Effect     | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------------------------------------------------: | :-: | :-------------: | :----: | :-------: | :-----------: | :----------: | :----------: | :------------: |
 |                -[Custom Clothing Items]-                |  |                |        |          |              |              |              |                |
 |                        Bandolier                        | 1 |                |  0.5  |   8 bc   |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -929,7 +929,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/SpecialCraftingMaterials.png) Special Materials, Leather Armor Pieces
 
-|                  Name                  | # |         Effect         | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|                  Name                  | # |         Effect         | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-------------------------------------: | :-: | :---------------------: | :----: | :---: | :-----------: | :----------: | :----------: | :------------: |
 |         -[Custom Armor Parts]-         |  |                        |        |      |              |              |              |                |
 |            Cosmetic: Bracers            | 1 |                        |   0   | 50 cc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
@@ -954,7 +954,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/SpecialCraftingMaterials.png) Special Crafting Materials
 
-|            Name            | # | Effect | Weight | Value | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
+|            Name            | # | Effect | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-------------------------: | :-: | :----: | :----: | :----: | :-----------: | :----------: | :----------: | :------------: |
 |         Adamantite         | 1 |        |   1   | 200 bc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
 |        Aero Crystal        | 1 |        |   1   | 400 bc |     FALSE     |    FALSE    |    FALSE    |     FALSE     |
