@@ -1,41 +1,32 @@
-Name,Description,RequiredTier," Dice Mod"," Skill",duration,source
-Enhanced Blazecraft,,,"+1d6","Blazecraft",Indefinite,
-Enhanced Knighthood,,,"+1d6","Knight",Indefinite,
-Minorly Enhanced Toxincraft,+1d6 to Toxincraft.,3,"+1d6","Toxincraft",Indefinite,
-Minorly Enhanced Athletics,+1d6 to Athletics.,2,"+1d6","Athletics",Indefinite,
-Enhanced Athletics,+2d6 to Athletics.,4,"+2d6","Athletics",Indefinite,
-Greatly Enhanced Athletics,+3d6 to Athletics.,6,"+3d6","Athletics",Indefinite,
-Minorly Enhanced Endurance,+1d6 to Endurance.,2,"+1d6","Endurance",Indefinite,
-Enhanced Endurance,+2d6 to Endurance.,4,"+2d6","Endurance",Indefinite,
-Greatly Enhanced Endurance,+3d6 to Endurance.,6,"+3d6","Endurance",Indefinite,
-Minorly Enhanced Lift,+1d6 to Lift.,2,"+1d6","Lift",Indefinite,
-Enhanced Lift,+2d6 to Lift.,4,"+2d6","Lift",Indefinite,
-Greatly Enhanced Lift,+3d6 to Lift.,6,"+3d6","Lift",Indefinite,
-Minorly Enhanced Dexterity,+1d6 to Dexterity.,2,"+1d6","Dexterity",Indefinite,
-Enhanced Dexterity,+2d6 to Dexterity.,4,"+2d6","Dexterity",Indefinite,
-Greatly Enhanced Dexterity,+3d6 to Dexterity.,6,"+3d6","Dexterity",Indefinite,
-Minorly Enhanced Perception,+1d6 to Perception.,2,"+1d6","Perception",Indefinite,
-Enhanced Perception,+2d6 to Perception.,4,"+2d6","Perception",Indefinite,
-Greatly Enhanced Perception,+3d6 to Perception.,6,"+3d6","Perception",Indefinite,
-Minorly Enhanced Stealth,+1d6 to Stealth.,2,"+1d6","Stealth",Indefinite,
-Enhanced Stealth,+2d6 to Stealth.,4,"+2d6","Stealth",Indefinite,
-Greatly Enhanced Stealth,+3d6 to Stealth.,6,"+3d6","Stealth",Indefinite,
-Minorly Enhanced Communication,+1d6 to Communication.,2,"+1d6","Communication",Indefinite,
-Enhanced Communication,+2d6 to Communication.,4,"+2d6","Communication",Indefinite,
-Greatly Enhanced Communication,+3d6 to Communication.,6,"+3d6","Communication",Indefinite,
-Minorly Enhanced General Knowledge,+1d6 to General Knowledge.,2,"+1d6","General Knowledge",Indefinite,
-Enhanced General Knowledge,+2d6 to General Knowledge.,4,"+2d6","General Knowledge",Indefinite,
-Greatly Enhanced General Knowledge,+3d6 to General Knowledge.,6,"+3d6","General Knowledge",Indefinite,
-Minorly Enhanced Will,+1d6 to Will.,2,"+1d6","Will",Indefinite,
-Enhanced Will,+2d6 to Will.,4,"+2d6","Will",Indefinite,
-Greatly Enhanced Will,+3d6 to Will.,6,"+3d6","Will",Indefinite,
-Minorly Enhanced Medium Sword,+1d6 to Medium Sword.,2,"+1d6","Medium Sword",Indefinite,
-Enhanced ?,+2d6 to ?.,4,"+2d6","?",Indefinite,
-Greatly Enhanced ?,+3d6 to ?.,6,"+3d6","?",Indefinite,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+Name,Desc,Duration,Source," Dice Mod"," Skill"
+Minorly Enhanced Blazecraft,+1d6 to Blazecraft.,Indefinite,,"+1d6","Blazecraft"
+Minorly Enhanced Knighthood,+1d6 to Knighthood.,Indefinite,,"+1d6","Knight"
+Minorly Enhanced Toxincraft,+1d6 to Toxincraft.,Indefinite,,"+1d6","Toxincraft"
+Minorly Enhanced Athletics,+1d6 to Athletics.,Indefinite,,"+1d6","Athletics"
+Enhanced Athletics,+2d6 to Athletics.,Indefinite,,"+2d6","Athletics"
+Greatly Enhanced Athletics,+3d6 to Athletics.,Indefinite,,"+3d6","Athletics"
+Minorly Enhanced Endurance,+1d6 to Endurance.,Indefinite,,"+1d6","Endurance"
+Enhanced Endurance,+2d6 to Endurance.,Indefinite,,"+2d6","Endurance"
+Greatly Enhanced Endurance,+3d6 to Endurance.,Indefinite,,"+3d6","Endurance"
+Minorly Enhanced Lift,+1d6 to Lift.,Indefinite,,"+1d6","Lift"
+Enhanced Lift,+2d6 to Lift.,Indefinite,,"+2d6","Lift"
+Greatly Enhanced Lift,+3d6 to Lift.,Indefinite,,"+3d6","Lift"
+Minorly Enhanced Dexterity,+1d6 to Dexterity.,Indefinite,,"+1d6","Dexterity"
+Enhanced Dexterity,+2d6 to Dexterity.,Indefinite,,"+2d6","Dexterity"
+Greatly Enhanced Dexterity,+3d6 to Dexterity.,Indefinite,,"+3d6","Dexterity"
+Minorly Enhanced Perception,+1d6 to Perception.,Indefinite,,"+1d6","Perception"
+Enhanced Perception,+2d6 to Perception.,Indefinite,,"+2d6","Perception"
+Greatly Enhanced Perception,+3d6 to Perception.,Indefinite,,"+3d6","Perception"
+Minorly Enhanced Stealth,+1d6 to Stealth.,Indefinite,,"+1d6","Stealth"
+Enhanced Stealth,+2d6 to Stealth.,Indefinite,,"+2d6","Stealth"
+Greatly Enhanced Stealth,+3d6 to Stealth.,Indefinite,,"+3d6","Stealth"
+Minorly Enhanced Communication,+1d6 to Communication.,Indefinite,,"+1d6","Communication"
+Enhanced Communication,+2d6 to Communication.,Indefinite,,"+2d6","Communication"
+Greatly Enhanced Communication,+3d6 to Communication.,Indefinite,,"+3d6","Communication"
+Minorly Enhanced General Knowledge,+1d6 to General Knowledge.,Indefinite,,"+1d6","General Knowledge"
+Enhanced General Knowledge,+2d6 to General Knowledge.,Indefinite,,"+2d6","General Knowledge"
+Greatly Enhanced General Knowledge,+3d6 to General Knowledge.,Indefinite,,"+3d6","General Knowledge"
+Minorly Enhanced Will,+1d6 to Will.,Indefinite,,"+1d6","Will"
+Enhanced Will,+2d6 to Will.,Indefinite,,"+2d6","Will"
+Greatly Enhanced Will,+3d6 to Will.,Indefinite,,"+3d6","Will"
+Minorly Enhanced Medium Melee,+1d6 to Medium Sword.,Indefinite,,"+1d6","Medium Melee"

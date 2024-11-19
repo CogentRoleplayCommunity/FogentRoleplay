@@ -1,4 +1,4 @@
-Name,Info,Duration,Source,attributesToEffect,dicePoolMod
+Name,Desc,Duration,Source,attributesToEffect,dicePoolMod
 Minor Injury,"-1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.",,,"STR, RFX, INT",-1
 Medium Injury,-2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection.,,,"STR, RFX, INT",-2
 Serious Injury,-3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.,,,"STR, RFX, INT",-3
