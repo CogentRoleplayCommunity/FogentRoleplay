@@ -86,7 +86,7 @@ Sets a specified Skill/Vocation of a character to a new value. If the character'
 | ---------------- | -------------------------- | ---------- | ------ |
 | Super Perception | Perception set to level 5. | Indefinite |        |
 
-### Attribute Adjustment
+### Attribute Level Adjustment
 
 For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
 
@@ -94,9 +94,13 @@ For a specified Attribute, a Character receives an adjustment to it's level. The
 | ------------ | ---------------- | ---------- | ------ |
 | Enhanced STR | +1 to STR level. | Indefinite |        |
 
-### Skill Adjustment
+### Skill Level Adjustment
 
 For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
+
+| Name          | Desc              | Duration   | Source |
+| ------------- | ----------------- | ---------- | ------ |
+| Enhanced Lift | +1 to Lift level. | Indefinite |        |
 
 ### Base Dice Mod
 
@@ -118,8 +122,6 @@ See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more informati
 ### Defense
 
 See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
-
-### Skill Stat Adjustment
 
 ## Narrative Effects
 
