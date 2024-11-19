@@ -82,7 +82,7 @@ Luckily the damage types line up very nicely with DnD damage types.
 - 7 - 9 -> 3 (Expert)
 - 10 -> 12 -> (Master)
 
-### DnD Armor Class to Fogent Physical Defense Level:
+### DnD AC to Fogent Physical Defense Level:
 
 Remember to remove DnD Dexterity modifier from AC be for converting.
 

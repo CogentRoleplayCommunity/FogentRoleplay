@@ -139,10 +139,10 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name        | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ----------- | :-: | :---------------------------------------------------------: | ------------------------------------------------------------------ | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Backpack    | 1 |                       30 lb container                       |                                                                    |                          Mundane                          |                                                                      |                             5                             |                    2 bc                    |
-| Bronze Coin | 6 |                                                            |                                                                    |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
+| Name        | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| ----------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
+| Backpack    | 1 | 30 lb container                                                    |                             5                             |                    2 bc                    |             |
+| Bronze Coin | 6 |                                                                    |                            0.02                            |                    1 bc                    |             |
 
 ## Notes
 

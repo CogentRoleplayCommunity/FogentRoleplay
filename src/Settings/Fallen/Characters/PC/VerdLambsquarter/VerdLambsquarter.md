@@ -137,12 +137,12 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name            | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| --------------- | :-: | :---------------------------------------------------------: | ------------------------------------------------------------------ | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Pouch           | 1 |                       6 lb container                       |                                                                    |                          Mundane                          |                                                                      |                             1                             |                    50 cc                    |
-| Copper Coin     | 70 |                                                            |                                                                    |                          Mundane                          |                                                                      |                            0.02                            |                    1 cc                    |
-| Bronze Coin     | 1 |                                                            |                                                                    |                          Mundane                          |                                                                      |                            0.02                            |                    1 bc                    |
-| Clothes, Common | 1 |                                                            |                                                                    |                          Mundane                          |                                                                      |                             3                             |                    50 cc                    |
+| Name            | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| --------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
+| Pouch           | 1 | 6 lb container                                                     |                             1                             |                    50 cc                    |             |
+| Copper Coin     | 70 |                                                                    |                            0.02                            |                    1 cc                    |             |
+| Bronze Coin     | 1 |                                                                    |                            0.02                            |                    1 bc                    |             |
+| Clothes, Common | 1 |                                                                    |                             3                             |                    50 cc                    |             |
 
 ## Notes
 

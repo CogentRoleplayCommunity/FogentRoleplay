@@ -119,35 +119,35 @@
 
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
-|     Name     | Class |                                   Effect                                   |
-| :-----------: | :----: | :-------------------------------------------------------------------------: |
-| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |
-| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |
-| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |
+|     Name     |                                   Effect                                   | Magic<br />Resource |
+| :-----------: | :-------------------------------------------------------------------------: | :-----------------: |
+| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
+| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
+| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # |      [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md)      | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| --------------- | :-: | :-------------------------------------------------------------------: | ------------------------------------------------------------------ | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Gambeson Armor  | 1 |                   Body Armor, Arm Armor, Leg Armor                   | Phy. Def. 1.00                                                     |                          Mundane                          |                                 12/12                                 |                             8                             |                    5 bc                    |
-| Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed | Phy. Def. 3.00                                                     |                         Excellent                         |                                 21/21                                 |                             47                             |                    75 bc                    |
-| Steelclaw       | 1 |         Fine Large Thrusting Sword, Fine Large Slashing Sword         |                                                                    |                           Fine                           |                                 12/12                                 |                             3                             |                    25 bc                    |
+| Name            | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)                    | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description                                                                                                                   |
+| --------------- | :-: | ------------------------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------- |
+| Gambeson Armor  | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                                      |                             8                             |                    5 bc                    |                                                                                                                               |
+| Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                             47                             |                    75 bc                    |                                                                                                                               |
+| Steelclaw       | 1 | Fine Large Thrusting Sword, Fine Large Slashing Sword                                 |                             3                             |                    25 bc                    | This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame. |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                   |        #        | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
-| ---------------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
-| Backpack               | 30 lb container |                                                                    |                             5                             |                    2 bc                    |             |
-| Longsword              |        1        | Large Thrusting Sword, Large Slashing Sword                        |                             3                             |                    25 bc                    |             |
-| Waterskin (4/4)        |        1        |                                                                    |                             5                             |                    20 cc                    |             |
-| Rations (1 day)        |        7        |                                                                    |                             2                             |                    50 cc                    |             |
-| Rope, Hempen (50 feet) |        1        |                                                                    |                             10                             |                    1 bc                    |             |
-| Soap                   |        1        |                                                                    |                            0.5                            |                    2 cc                    |             |
-| Piton                  |       10       |                                                                    |                            0.25                            |                    5 cc                    |             |
-| Playing Card Set       |        1        |                                                                    |                            0.2                            |                    50 cc                    |             |
-| Clothes, Traveler's    |        1        |                                                                    |                             4                             |                    2 bc                    |             |
-| Bronze Coin            |       23       |                                                                    |                            0.04                            |                    2 bc                    |             |
-| Copper Coin            |       28       |                                                                    |                            0.56                            |                    1 cc                    |             |
+| Name                   | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| ---------------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
+| Backpack               | 1 | 30 lb container                                                    |                             5                             |                    2 bc                    |             |
+| Longsword              | 1 | Large Thrusting Sword, Large Slashing Sword                        |                             3                             |                    25 bc                    |             |
+| Waterskin (4/4)        | 1 |                                                                    |                             5                             |                    20 cc                    |             |
+| Rations (1 day)        | 7 |                                                                    |                             2                             |                    50 cc                    |             |
+| Rope, Hempen (50 feet) | 1 |                                                                    |                             10                             |                    1 bc                    |             |
+| Soap                   | 1 |                                                                    |                            0.5                            |                    2 cc                    |             |
+| Piton                  | 10 |                                                                    |                            0.25                            |                    5 cc                    |             |
+| Playing Card Set       | 1 |                                                                    |                            0.2                            |                    50 cc                    |             |
+| Clothes, Traveler's    | 1 |                                                                    |                             4                             |                    2 bc                    |             |
+| Bronze Coin            | 23 |                                                                    |                            0.04                            |                    2 bc                    |             |
+| Copper Coin            | 28 |                                                                    |                            0.56                            |                    1 cc                    |             |
 
 ## Notes
 

@@ -10,7 +10,7 @@ If a combat roll has a Physical damage type and a Bodily, Mental, or Spiritual d
 
 ### Armor Types
 
-Armor Class determines what portions of a character a piece of armor will protect. There are 4 different armor types.
+Armor Type determines what portions of a character a piece of armor will protect. There are 4 different armor types.
 
 - Head
 - Body
