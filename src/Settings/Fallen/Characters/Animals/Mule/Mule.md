@@ -46,15 +46,15 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| --------------- | :-: | :---------------------------------------------------------: | ------------------------------------------------------------------ | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Saddle - Riding | 1 |                                                            |                                                                    |                          Mundane                          |                                                                      |                             25                             |                    10 bc                    |
+| Name            | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| --------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
+| Saddle - Riding | 1 |                                                                    |                             25                             |                    10 bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name       | # | [Class](./../../../../../CoreRules/AdvancedRules/ItemClass.md) | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [Tier](./../../../../../CoreRules/AdvancedRules/ItemTier.md) | [Durability](./../../../../../CoreRules/AdvancedRules/ItemDurability.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) |
-| ---------- | :-: | :---------------------------------------------------------: | ------------------------------------------------------------------ | :-------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: |
-| Saddlebags | 1 |                       50 lb container                       |                                                                    |                          Mundane                          |                                                                      |                             8                             |                    4 bc                    |
+| Name       |        #        | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| ---------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
+| Saddlebags | 50 lb container |                                                                    |                             8                             |                    4 bc                    |             |
 
 ## Appearance
 
