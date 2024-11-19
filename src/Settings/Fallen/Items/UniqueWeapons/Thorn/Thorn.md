@@ -6,8 +6,8 @@ Prothetic limb for those missing their forearm below the elbow. Made of interloc
 
 ## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Name | # | Effect | LB | Value |
+| :--: | :-: | :----: | :-: | :---: |
 
 ## Effects
 

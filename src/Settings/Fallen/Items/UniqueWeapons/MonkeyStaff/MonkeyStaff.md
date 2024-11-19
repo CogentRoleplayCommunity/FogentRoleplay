@@ -10,9 +10,9 @@ A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the 
 
 ## Item
 
-|     Name     | # |                                                                            Class                                                                            |      Effect      |   Tier   | Durability | LB | Value |
-| :----------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | :-------: | :--------: | :-: | :---: |
-| Monkey Staff | 1 | Excellent Small Hafted Blunt, Excellent Thrown Small Hafted Blunt, Excellent Medium Hafted Blunt, Excellent Large Hafted Blunt, Excellent Reach Hafted Blunt | Extendable Weapon | Excellent |   21/21   | 4 |   ?   |
+|     Name     | # |                                                                                     Effect                                                                                     | LB | Value |
+| :----------: | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
+| Monkey Staff | 1 | Excellent Small Hafted Blunt, Excellent Thrown Small Hafted Blunt, Excellent Medium Hafted Blunt, Excellent Large Hafted Blunt, Excellent Reach Hafted Blunt, Extendable Weapon | 4 |   ?   |
 
 ## Effects
 

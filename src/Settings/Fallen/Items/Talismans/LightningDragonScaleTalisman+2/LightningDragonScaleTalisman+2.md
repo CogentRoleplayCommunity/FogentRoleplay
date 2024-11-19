@@ -8,12 +8,12 @@ A metal talisman with three symbols evoking the image of lightning on it. This R
 
 ## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Lightning Dragon Scale Talisman +2 | 1 |  | Major Lightning Resistance | Mastercraft | 33/33 | 0.2 | ? |
+|                Name                | # |           Effect           | LB | Value |
+| :--------------------------------: | :-: | :------------------------: | :-: | :---: |
+| Lightning Dragon Scale Talisman +2 | 1 | Major Lightning Resistance | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Major Electric Resistance | -3 to victory levels received from Electric damage. | While equipped | 7 |
+| Name                      |                       Effect                       |    Duration    | Tier Required |
+| :------------------------ | :-------------------------------------------------: | :------------: | :-----------: |
+| Major Electric Resistance | -3 to victory levels received from Electric damage. | While equipped |       7       |

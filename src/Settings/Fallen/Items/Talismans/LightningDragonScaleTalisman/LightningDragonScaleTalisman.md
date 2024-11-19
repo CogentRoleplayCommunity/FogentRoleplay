@@ -8,12 +8,12 @@ A metal talisman with a symbol evoking the image of lightning on it. This Runecr
 
 ## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Lightning Dragon Scale Talisman | 1 |  | Minor Lightning Resistance | Excellent | 21/21 | 0.2 | ? |
+|              Name              | # |           Effect           | LB | Value |
+| :-----------------------------: | :-: | :------------------------: | :-: | :---: |
+| Lightning Dragon Scale Talisman | 1 | Minor Lightning Resistance | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Minor Electric Resistance | -1 to victory levels received from Electric damage. | While equipped | 3 |
+| Name                      |                       Effect                       |    Duration    | Tier Required |
+| :------------------------ | :-------------------------------------------------: | :------------: | :-----------: |
+| Minor Electric Resistance | -1 to victory levels received from Electric damage. | While equipped |       3       |

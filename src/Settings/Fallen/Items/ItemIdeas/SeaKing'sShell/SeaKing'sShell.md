@@ -18,11 +18,10 @@ The bearer of this armor gets an uneasy feeling when there are draconic creature
 
 +1 Defense vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)
 
-
 ## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Name | # | Effect | LB | Value |
+| :--: | :-: | :----: | :-: | :---: |
 
 ## Effects
 

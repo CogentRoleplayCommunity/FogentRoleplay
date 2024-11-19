@@ -8,9 +8,9 @@ A talisman made to enhance the healing process. A precious possession of doctors
 
 ## Item
 
-|         Name         | # | Class |      Effect      | Tier | Durability | LB | Value |
-| :-------------------: | :-: | :---: | :--------------: | :--: | :--------: | :-: | :---: |
-| Rejuvenation Talisman | 1 |      | Enhanced Healing | Epic |   39/39   | 0.2 |   ?   |
+|         Name         | # |      Effect      | LB | Value |
+| :-------------------: | :-: | :--------------: | :-: | :---: |
+| Rejuvenation Talisman | 1 | Enhanced Healing | 0.2 |   ?   |
 
 ## Effects
 

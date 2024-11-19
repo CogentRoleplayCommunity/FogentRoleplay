@@ -10,9 +10,9 @@ Greatly boosts maximum vitality.
 
 ## Item
 
-|         Name         | # | Class |         Effect         |   Tier   | Durability | LB | Value |
-| :------------------: | :-: | :---: | :---------------------: | :-------: | :--------: | :-: | :---: |
-| Crimson Medallion +2 | 1 |      | Great Enhanced Vitality | Legendary |   42/42   | 0.2 |   ?   |
+|         Name         | # |         Effect         | LB | Value |
+| :------------------: | :-: | :---------------------: | :-: | :---: |
+| Crimson Medallion +2 | 1 | Great Enhanced Vitality | 0.2 |   ?   |
 
 ## Effects
 

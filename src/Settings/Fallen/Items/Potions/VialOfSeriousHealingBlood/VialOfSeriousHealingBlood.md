@@ -10,9 +10,9 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Item
 
-|             Name             | # | Class |    Effect    |   Tier   | Durability |  LB  |  Value  |
-| :---------------------------: | :-: | :---: | :----------: | :------: | :--------: | :--: | :-----: |
-| Vial of Serious Healing Blood | 1 |      | Serious Heal | Flawless |            | 0.25 | 2500 bc |
+|             Name             | # |    Effect    |  LB  |  Value  |
+| :---------------------------: | :-: | :----------: | :--: | :-----: |
+| Vial of Serious Healing Blood | 1 | Serious Heal | 0.25 | 2500 bc |
 
 ## Effects
 

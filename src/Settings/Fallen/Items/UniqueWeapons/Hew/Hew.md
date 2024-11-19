@@ -12,9 +12,9 @@ Runecraft scholars have traced the origin of this axe to the first Fellkin who b
 
 ## Item
 
-| Name | # |            Class            |  Effect  |   Tier   | Durability | LB | Value |
-| :--: | :-: | :-------------------------: | :------: | :-------: | :--------: | :-: | :---: |
-| Hew | 1 | Excellent Medium Hafted Axe | Splinter | Excellent |   21/21   | 4 |   ?   |
+| Name | # |                Effect                | LB | Value |
+| :--: | :-: | :-----------------------------------: | :-: | :---: |
+| Hew | 1 | Excellent Medium Hafted Axe, Splinter | 4 |   ?   |
 
 ## Effects
 

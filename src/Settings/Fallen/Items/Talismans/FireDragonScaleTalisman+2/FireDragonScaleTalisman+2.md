@@ -8,12 +8,12 @@ A metal talisman with three symbols evoking the image of fire on it. This Runecr
 
 ## Item
 
-|             Name             | # | Class |        Effect        |    Tier    | Durability | LB | Value |
-| :---------------------------: | :-: | :---: | :-------------------: | :---------: | :--------: | :-: | :---: |
-| Fire Dragon Scale Talisman +2 | 1 |      | Major Fire Resistance | Mastercraft |   33/33   | 0.2 |   ?   |
+|             Name             | # |        Effect        | LB | Value |
+| :---------------------------: | :-: | :-------------------: | :-: | :---: |
+| Fire Dragon Scale Talisman +2 | 1 | Major Fire Resistance | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Major Fire Resistance | -3 to victory levels received from Fire damage. | While equipped | 7 |
+| Name                  |                     Effect                     |    Duration    | Tier Required |
+| :-------------------- | :---------------------------------------------: | :------------: | :-----------: |
+| Major Fire Resistance | -3 to victory levels received from Fire damage. | While equipped |       7       |

@@ -12,12 +12,12 @@ The white-garbed field surgeons come to the aid of friend and foe alike by deali
 
 ## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Dagger Talisman | 1 |  | Enhanced Critical | Flawless | 30/30 | 0.2 | ? |
+|      Name      | # |      Effect      | LB | Value |
+| :-------------: | :-: | :---------------: | :-: | :---: |
+| Dagger Talisman | 1 | Enhanced Critical | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Enhanced Critical | +1 automatic win to sneak attacks and incapacitated opponents. | While equipped | 6 |
+| Name              |                             Effect                             |    Duration    | Tier Required |
+| :---------------- | :------------------------------------------------------------: | :------------: | :-----------: |
+| Enhanced Critical | +1 automatic win to sneak attacks and incapacitated opponents. | While equipped |       6       |

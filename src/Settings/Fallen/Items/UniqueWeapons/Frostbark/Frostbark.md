@@ -8,9 +8,9 @@ A Dane axe imbued with the frost found on the high peaks of the Spine of the Wor
 
 ## Item
 
-|   Name   | # |                     Class                     |      Effect      |   Tier   | Durability | LB | Value |
-| :-------: | :-: | :--------------------------------------------: | :--------------: | :-------: | :--------: | :-: | :---: |
-| Frostbark | 1 | Excellent Large Hafted Axe, Spellcasting Focus | Cold Enchantment | Excellent |   21/21   | 4 | ? bc |
+|   Name   | # |                              Effect                              | LB | Value |
+| :-------: | :-: | :--------------------------------------------------------------: | :-: | :---: |
+| Frostbark | 1 | Excellent Large Hafted Axe, Spellcasting Focus, Cold Enchantment | 4 | ? bc |
 
 ## Effects
 

@@ -14,12 +14,12 @@ This sword was used in the execution of Helena by Uhtred Storm at Luc's order, t
 
 ## Item
 
-|        Name         |   #   |      Class       |   Effect    | Tier  | Durability |  LB   | Value |
-| :-----------------: | :---: | :--------------: | :---------: | :---: | :--------: | :---: | :---: |
-| Adversary - Damaged |   1   | Spellcasting Focus | Light Bound | Fine  |   18/18    |   1   |   ?   |
+|        Name        | # |             Effect             | LB | Value |
+| :-----------------: | :-: | :-----------------------------: | :-: | :---: |
+| Adversary - Damaged | 1 | Spellcasting Focus, Light Bound | 1 |   ?   |
 
 ## Effects
 
-| Name        |                                                  Effect                                                   |   Duration    | Tier Required |
+| Name        |                                                  Effect                                                  |   Duration   | Tier Required |
 | :---------- | :-------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | Light Bound | This weapon is physical light, and can be absorbed and summoned by a those with the Radiance magic skill. | Instantaneous |       2       |

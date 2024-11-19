@@ -8,16 +8,16 @@ A wrought iron talisman made with the visage of three Steel Dragons. This item i
 
 ## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Steel Dragon Scale Talisman +2 | 1 |  | Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance | Mastercraft | 33/33 | 0.2 | ? |
+|              Name              | # |                                               Effect                                               | LB | Value |
+| :----------------------------: | :-: | :-------------------------------------------------------------------------------------------------: | :-: | :---: |
+| Steel Dragon Scale Talisman +2 | 1 | Major Hew Resistance, Major Slash Resistance, Major Bludgeon Resistance, Major Shockwave Resistance | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Major Hew Resistance | -3 to victory levels received from Hew damage. | While equipped | 7 |
-| Major Slash Resistance | -3 to victory levels received from Slash damage. | While equipped | 7 |
-| Major Pierce Resistance | -3 to victory levels received from Pierce damage. | While equipped | 7 |
-| Major Bludgeon Resistance | -3 to victory levels received from Bludgeon damage. | While equipped | 7 |
-| Major Shockwave Resistance | -3 to victory levels received from Shockwave damage. | While equipped | 7 |
+| Name                       |                        Effect                        |    Duration    | Tier Required |
+| :------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
+| Major Hew Resistance       |    -3 to victory levels received from Hew damage.    | While equipped |       7       |
+| Major Slash Resistance     |   -3 to victory levels received from Slash damage.   | While equipped |       7       |
+| Major Pierce Resistance    |  -3 to victory levels received from Pierce damage.  | While equipped |       7       |
+| Major Bludgeon Resistance  | -3 to victory levels received from Bludgeon damage. | While equipped |       7       |
+| Major Shockwave Resistance | -3 to victory levels received from Shockwave damage. | While equipped |       7       |

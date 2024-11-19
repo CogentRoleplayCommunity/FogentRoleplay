@@ -8,9 +8,9 @@ A medallion with viridian inlaid.
 
 ## Item
 
-|              Name              | # | Class |           Effect           | Tier | Durability | LB | Value |
-| :----------------------------: | :-: | :---: | :------------------------: | :--: | :--------: | :-: | :---: |
-| Viridian Medallion Talisman +2 | 1 |      | Greatly Enhanced Endurance | Epic |   39/39   | 0.2 |   ?   |
+|              Name              | # |           Effect           | LB | Value |
+| :----------------------------: | :-: | :------------------------: | :-: | :---: |
+| Viridian Medallion Talisman +2 | 1 | Greatly Enhanced Endurance | 0.2 |   ?   |
 
 ## Effects
 

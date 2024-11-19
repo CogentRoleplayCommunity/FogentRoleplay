@@ -10,9 +10,9 @@ House Roseblood isn't as wealthy as it once was during the height of the witch q
 
 ## Item
 
-|      Name      | # |                          Class                          | Effect | Tier | Durability | LB | Value |
-| :-------------: | :-: | :-----------------------------------------------------: | :----: | :--: | :--------: | :-: | :---: |
-| Sirius’s Sword | 1 | Fine Medium Thrusting Sword, Fine Medium Slashing Sword |        | Fine |   18/18   | 2 |   ?   |
+|      Name      | # |                         Effect                         | LB | Value |
+| :-------------: | :-: | :-----------------------------------------------------: | :-: | :---: |
+| Sirius’s Sword | 1 | Fine Medium Thrusting Sword, Fine Medium Slashing Sword | 2 |   ?   |
 
 ## Effects
 
