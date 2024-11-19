@@ -2,7 +2,7 @@
 
 ![Copyright](./../VialOfMinorHealingBlood/VialOfHealingBlood.png)
 
-## Desc
+
 
 Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
 
@@ -16,6 +16,6 @@ The process of creating Healing blood is a closely guarded secret of House Reddi
 
 ## Effects
 
-| Name         |                                                                                                            Effect                                                                                                            |   Duration   | Tier Required |
+| Name         |                                                                                                            Effect                                                                                                            |   Duration   | Source |
 | :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | Revival Heal | Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, returning the body to peak performance. | Instantaneous |      10      |

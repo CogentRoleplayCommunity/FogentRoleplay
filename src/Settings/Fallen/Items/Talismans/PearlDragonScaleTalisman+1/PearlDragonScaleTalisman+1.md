@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](PearlDragonScaleTalisman+1.png)
 
-## Desc
+
 
 Talisman depicting a pearlescent ancient dragon.
 
-## Item
+
 
 |              Name              | # |          Effect          | LB | Value |
 | :----------------------------: | :-: | :-----------------------: | :-: | :---: |
@@ -14,6 +14,6 @@ Talisman depicting a pearlescent ancient dragon.
 
 ## Effects
 
-| Name                      |                       Effect                       |    Duration    | Tier Required |
+| Name                      |                       Effect                       |    Duration    | Source |
 | :------------------------ | :------------------------------------------------: | :------------: | :-----------: |
 | Medium Psychic Resistance | -2 to victory levels received from Psychic damage. | While equipped |       5       |

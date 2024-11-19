@@ -2,11 +2,11 @@
 
 ![Copyright]()
 
-## Desc
+
 
 A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle.
 
-## Item
+
 
 |   Name   | # |                              Effect                              | LB | Value |
 | :-------: | :-: | :--------------------------------------------------------------: | :-: | :---: |
@@ -14,6 +14,6 @@ A Dane axe imbued with the frost found on the high peaks of the Spine of the Wor
 
 ## Effects
 
-| Name             |                 Effect                 |  Duration  | Tier Required |
+| Name             |                 Effect                 |  Duration  | Source |
 | :--------------- | :------------------------------------: | :--------: | :-----------: |
 | Cold Enchantment | Weapon additionally deals Cold damage. | Indefinite |       3       |

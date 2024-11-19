@@ -4,7 +4,7 @@
 
 ![Copyright](Char.png)
 
-## Desc
+
 
 "It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday." -Destin Shaffer Sr.
 
@@ -16,7 +16,7 @@ During Destin's confrontation with the Demon Helena, he sacrificed the damaged b
 
 Shattered and broken, Destin continues to carry this blade.
 
-## Item
+
 
 | Name | # |                                  Effect                                  | LB | Value |
 | :--: | :-: | :----------------------------------------------------------------------: | :-: | :---: |
@@ -24,6 +24,6 @@ Shattered and broken, Destin continues to carry this blade.
 
 ## Effects
 
-| Name                        |                                                                                                   Effect                                                                                                   | Duration | Tier Required |
+| Name                        |                                                                                                   Effect                                                                                                   | Duration | Source |
 | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Fire Repair and Enhancement | Weapons repairs in intense fires. If fully repaired and is exposed to increasingly intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it. |          |      -3      |

@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](ViridianMedallionTalisman.png)
 
-## Desc
+
 
 A medallion with viridian inlaid.
 
-## Item
+
 
 |            Name            | # |           Effect           | LB | Value |
 | :-------------------------: | :-: | :------------------------: | :-: | :---: |
@@ -14,6 +14,6 @@ A medallion with viridian inlaid.
 
 ## Effects
 
-| Name                       |       Effect       |  Duration  | Tier Required |
+| Name                       |       Effect       |  Duration  | Source |
 | :------------------------- | :----------------: | :--------: | :-----------: |
 | Minorly Enhanced Endurance | +1d6 to Endurance. | Indefinite |       2       |

@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](GreatSteelDragonScaleTalisman.png)
 
-## Desc
+
 
 A larger wrought iron talisman in the shape of a greatshield with an imposing Steel Dragon emblazoned on its face. These talismans are extremely rare and expensive to make, meaning that only the upper echelons of society have access to them. Often worn by extremely wealthy merchants, royalty and even the Emperor, these powerful Runecrafted items often never see the battlefield they were intended for.
 
-## Item
+
 
 |               Name               | # |                                                   Effect                                                   | LB | Value |
 | :-------------------------------: | :-: | :---------------------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -14,7 +14,7 @@ A larger wrought iron talisman in the shape of a greatshield with an imposing St
 
 ## Effects
 
-| Name                         |                        Effect                        |    Duration    | Tier Required |
+| Name                         |                        Effect                        |    Duration    | Source |
 | :--------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Extreme Hew Resistance       |    -4 to victory levels received from Hew damage.    | While equipped |       9       |
 | Extreme Slash Resistance     |   -4 to victory levels received from Slash damage.   | While equipped |       9       |

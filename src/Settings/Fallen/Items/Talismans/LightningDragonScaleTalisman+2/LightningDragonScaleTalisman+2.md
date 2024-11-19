@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](LightningDragonScaleTalisman+2.png)
 
-## Desc
+
 
 A metal talisman with three symbols evoking the image of lightning on it. This Runecrafted item gives its wearer nigh immunity to most common shocks, allowing its wearer to do some things like be struck by lightning with low risk of being injured.
 
-## Item
+
 
 |                Name                | # |           Effect           | LB | Value |
 | :--------------------------------: | :-: | :------------------------: | :-: | :---: |
@@ -14,6 +14,6 @@ A metal talisman with three symbols evoking the image of lightning on it. This R
 
 ## Effects
 
-| Name                      |                       Effect                       |    Duration    | Tier Required |
+| Name                      |                       Effect                       |    Duration    | Source |
 | :------------------------ | :-------------------------------------------------: | :------------: | :-----------: |
 | Major Electric Resistance | -3 to victory levels received from Electric damage. | While equipped |       7       |

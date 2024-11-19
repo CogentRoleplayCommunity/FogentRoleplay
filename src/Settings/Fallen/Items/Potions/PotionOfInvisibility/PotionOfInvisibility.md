@@ -1,6 +1,6 @@
 # Potion Of Invisibility
 
-## Item
+
 
 |          Name          | # |         Effect         |  LB  | Value |
 | :--------------------: | :-: | :---------------------: | :--: | :----: |
@@ -8,6 +8,6 @@
 
 ## Effects
 
-| Name                    |                                                   Effect                                                   | Duration | Tier Required |
+| Name                    |                                                   Effect                                                   | Duration | Source |
 | :---------------------- | :---------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Single-use Invisibility | Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process. |  1 hour  |       3       |

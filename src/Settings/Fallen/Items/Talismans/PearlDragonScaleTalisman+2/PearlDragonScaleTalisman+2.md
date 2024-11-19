@@ -2,13 +2,13 @@
 
 ![Copyrighted Image](PearlDragonScaleTalisman+2.png)
 
-## Desc
+
 
 Talisman depicting a pearlescent ancient dragon.
 
 Vastly boosts psychic damage resistance.
 
-## Item
+
 
 |              Name              | # |          Effect          | LB | Value |
 | :----------------------------: | :-: | :----------------------: | :-: | :---: |
@@ -16,6 +16,6 @@ Vastly boosts psychic damage resistance.
 
 ## Effects
 
-| Name                     |                       Effect                       |    Duration    | Tier Required |
+| Name                     |                       Effect                       |    Duration    | Source |
 | :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
 | Major Psychic Resistance | -3 to victory levels received from Psychic damage. | While equipped |       7       |

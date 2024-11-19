@@ -2,7 +2,7 @@
 
 ![Copyright](Echo.png)
 
-## Desc
+
 
 "What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…" - Lord Maxwell Reddington
 
@@ -18,7 +18,7 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.
 
-## Item
+
 
 | Name | # |                                        Effect                                        | LB | Value |
 | :--: | :-: | :----------------------------------------------------------------------------------: | :-: | :---: |
@@ -26,5 +26,5 @@ Veronica and Flint tried for children many times, but tragedy struck every time.
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
+| Name | Effect | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

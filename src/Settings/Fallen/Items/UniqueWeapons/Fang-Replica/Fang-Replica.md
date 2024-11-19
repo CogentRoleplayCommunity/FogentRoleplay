@@ -2,11 +2,11 @@
 
 ![Copyright](Fang-Replica.png)
 
-## Desc
+
 
 Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.
 
-## Item
+
 
 |      Name      | # |                                             Effect                                             | LB | Value |
 | :-------------: | :-: | :---------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -14,5 +14,5 @@ Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. M
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
+| Name | Effect | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

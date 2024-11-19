@@ -2,7 +2,7 @@
 
 ![Copyright](DancingMoonlight.jpg)
 
-## Desc
+
 
 "Ah, you were at my side all along. My true mentor. My guiding moonlight." - Unknown
 
@@ -12,7 +12,7 @@ When moonlight dances around the sword, and it channels the abyssal cosmos, its 
 
 Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Reddington wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard.
 
-## Item
+
 
 |       Name       | # |                                                                                                    Effect                                                                                                    | LB | Value |
 | :---------------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -20,7 +20,7 @@ Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland 
 
 ## Effects
 
-|         Name         |                                                                                                                                         Effect                                                                                                                                         | Duration | Tier Required |
+|         Name         |                                                                                                                                         Effect                                                                                                                                         | Duration | Source |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Moonlight Greatsword |                                                Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it becomes a greatsword and now additionally deals radiant damage.                                                |          |       2       |
 |    Indestructible    |                                                                                                                            This item can't lose durability.                                                                                                                            |          |       1       |

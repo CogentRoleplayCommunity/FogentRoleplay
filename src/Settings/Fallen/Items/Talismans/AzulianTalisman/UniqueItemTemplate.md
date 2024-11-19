@@ -2,9 +2,9 @@
 
 ![Copyright]()
 
-## Desc
 
-## Item
+
+
 
 | Name | # | Effects | LB | Value |
 | :--: | :-: | :-----: | :-: | :---: |

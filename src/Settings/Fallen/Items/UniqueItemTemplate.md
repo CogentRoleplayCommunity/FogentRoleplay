@@ -2,14 +2,14 @@
 
 ![Copyright]()
 
-## Desc
 
-## Item
+
+
 
 | Name | # | Effect | LB | Value |
 | :--: | :-: | :----: | :-: | :---: |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
+| Name | Effect | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

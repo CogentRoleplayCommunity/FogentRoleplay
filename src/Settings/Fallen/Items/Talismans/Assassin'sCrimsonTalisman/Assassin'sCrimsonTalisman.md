@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](Assassin'sCrimsonTalisman.png)
 
-## Desc
+
 
 An assassin's dagger, misshapen and stained in crimson.
 
-## Item
+
 
 |            Name            | # |   Effect   | LB | Value |
 | :-------------------------: | :-: | :--------: | :-: | :---: |
@@ -14,6 +14,6 @@ An assassin's dagger, misshapen and stained in crimson.
 
 ## Effects
 
-| Name       |                    Effect                    |   Duration   | Tier Required |
+| Name       |                    Effect                    |   Duration   | Source |
 | :--------- | :------------------------------------------: | :-----------: | :-----------: |
 | Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous |       3       |

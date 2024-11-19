@@ -2,7 +2,7 @@
 
 ![Copyright](Epilogue.jpg)
 
-## Desc
+
 
 "There is no real ending. It's just a place where you stop the story."
 
@@ -14,7 +14,7 @@ Killing with this weapon seems to mysteriously decapitate the victim's head from
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…
 
-## Item
+
 
 |   Name   | # |                                            Effects                                            | LB | Value |
 | :------: | :-: | :-------------------------------------------------------------------------------------------: | :-: | :---: |

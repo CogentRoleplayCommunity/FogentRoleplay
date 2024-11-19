@@ -2,13 +2,13 @@
 
 ![Copyrighted Image](CrimsonMedallion.png)
 
-## Desc
+
 
 A medallion with Crimson amber inlaid. A precious talisman for protecting one's life.
 
 Minorly boosts maximum vitality.
 
-## Item
+
 
 |       Name       | # |          Effect          | LB | Value |
 | :---------------: | :-: | :-----------------------: | :-: | :---: |
@@ -16,6 +16,6 @@ Minorly boosts maximum vitality.
 
 ## Effects
 
-| Name                      |                     Effect                     |    Duration    | Tier Required |
+| Name                      |                     Effect                     |    Duration    | Source |
 | :------------------------ | :--------------------------------------------: | :------------: | :-----------: |
 | Minorly Enhanced Vitality | Reduce up to 1d6 of total injury penalty dice. | While equipped |       4       |

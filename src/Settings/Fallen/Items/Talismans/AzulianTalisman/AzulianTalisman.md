@@ -2,13 +2,13 @@
 
 ![Copyrighted Image](AzulianTalisman.png)
 
-## Desc
+
 
 A medallion with azul inlaid.
 
 Boosts maximum magic resource.
 
-## Item
+
 
 |       Name       | # |             Effect             | LB | Value |
 | :--------------: | :-: | :-----------------------------: | :-: | :---: |
@@ -16,6 +16,6 @@ Boosts maximum magic resource.
 
 ## Effects
 
-| Name                            |             Effect             | Duration | Tier Required |
+| Name                            |             Effect             | Duration | Source |
 | :------------------------------ | :----------------------------: | :------: | :-----------: |
 | Minorly Enhanced Magic Resource | +2 to magic Resource capacity. |          |       2       |

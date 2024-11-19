@@ -2,7 +2,7 @@
 
 ![Copyrighted Image](ArsenalCharm+1.png)
 
-## Desc
+
 
 An iron charm that resembles a mass of weaponry.
 
@@ -10,7 +10,7 @@ Greatly boosts maximum equipment load.
 
 This talisman was derived from an unusual greatsword, once wielded by a hero hungry for vengeance.
 
-## Item
+
 
 |       Name       | # |    Effect    | LB | Value |
 | :--------------: | :-: | :-----------: | :-: | :---: |
@@ -18,6 +18,6 @@ This talisman was derived from an unusual greatsword, once wielded by a hero hun
 
 ## Effects
 
-| Name          |    Effect    |  Duration  | Tier Required |
+| Name          |    Effect    |  Duration  | Source |
 | :------------ | :-----------: | :--------: | :-----------: |
 | Enhanced Lift | +2d6 to Lift. | Indefinite |       4       |

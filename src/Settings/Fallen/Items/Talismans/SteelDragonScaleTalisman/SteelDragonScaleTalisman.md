@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](SteelDragonScaleTalisman.png)
 
-## Desc
+
 
 A wrought iron talisman made with the visage of a mighty Steel Dragon. While quite common among defensive Runecrafted items, it is still a boon to any common soldier or mercenary.
 
-## Item
+
 
 |            Name            | # |                                               Effect                                               | LB | Value |
 | :-------------------------: | :-: | :-------------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -14,7 +14,7 @@ A wrought iron talisman made with the visage of a mighty Steel Dragon. While qui
 
 ## Effects
 
-| Name                       |                        Effect                        |    Duration    | Tier Required |
+| Name                       |                        Effect                        |    Duration    | Source |
 | :------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Minor Hew Resistance       |    -1 to victory levels received from Hew damage.    | While equipped |       3       |
 | Minor Slash Resistance     |   -1 to victory levels received from Slash damage.   | While equipped |       3       |

@@ -2,13 +2,13 @@
 
 ![Copyright](MonkeyStaff.png)
 
-## Desc
+
 
 "Monkey see, Monkey do" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.
 
-## Item
+
 
 |     Name     | # |                                                                                     Effect                                                                                     | LB | Value |
 | :----------: | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -16,6 +16,6 @@ A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the 
 
 ## Effects
 
-| Name              |                                                                                      Effect                                                                                      | Duration | Tier Required |
+| Name              |                                                                                      Effect                                                                                      | Duration | Source |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Extendable Weapon | This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way. |          |       1       |

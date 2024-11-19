@@ -2,9 +2,9 @@
 
 ![Copyrighted Image](FrostDragonScaleTalisman+2.png)
 
-## Desc
 
-## Item
+
+
 
 |              Name              | # |        Effect        | LB | Value |
 | :----------------------------: | :-: | :-------------------: | :-: | :---: |
@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                  |                     Effect                     |    Duration    | Tier Required |
+| Name                  |                     Effect                     |    Duration    | Source |
 | :-------------------- | :---------------------------------------------: | :------------: | :-----------: |
 | Major Cold Resistance | -3 to victory levels received from Cold damage. | While equipped |       7       |

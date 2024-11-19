@@ -2,9 +2,9 @@
 
 ![Copyrighted Image](RadiantDragonScaleTalisman+2.png)
 
-## Desc
 
-## Item
+
+
 
 |               Name               | # |          Effect          | LB | Value |
 | :------------------------------: | :-: | :----------------------: | :-: | :---: |
@@ -12,6 +12,6 @@
 
 ## Effects
 
-| Name                     |                       Effect                       |    Duration    | Tier Required |
+| Name                     |                       Effect                       |    Duration    | Source |
 | :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
 | Major Radiant Resistance | -3 to victory levels received from Radiant damage. | While equipped |       7       |

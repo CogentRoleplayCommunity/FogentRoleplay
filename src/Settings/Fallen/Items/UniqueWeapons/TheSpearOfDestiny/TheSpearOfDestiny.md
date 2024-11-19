@@ -2,7 +2,7 @@
 
 ![Copyright](TheSpearOfDestiny.jpg)
 
-## Desc
+
 
 "Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again." - Ancient texts
 
@@ -14,7 +14,7 @@ Whatever their heart truly desires will begin to manifest in the world. This is 
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…
 
-## Item
+
 
 |         Name         | # |                                                                 Effect                                                                 | LB | Value |
 | :------------------: | :-: | :------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -22,7 +22,7 @@ The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol 
 
 ## Effects
 
-| Name                |                                                                                                                                         Effect                                                                                                                                         | Duration | Tier Required |
+| Name                |                                                                                                                                         Effect                                                                                                                                         | Duration | Source |
 | :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Super Strength      |                                                                                                                                Strength set to level 4.                                                                                                                                |          |      12      |
 | Super Reflex        |                                                                                                                                 Reflex set to level 4.                                                                                                                                 |          |      12      |

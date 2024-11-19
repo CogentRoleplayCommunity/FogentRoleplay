@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](RejuvenationTalisman.png)
 
-## Desc
+
 
 A talisman made to enhance the healing process. A precious possession of doctors and healers.
 
-## Item
+
 
 |         Name         | # |      Effect      | LB | Value |
 | :-------------------: | :-: | :--------------: | :-: | :---: |
@@ -14,6 +14,6 @@ A talisman made to enhance the healing process. A precious possession of doctors
 
 ## Effects
 
-| Name             |               Effect               |    Duration    | Tier Required |
+| Name             |               Effect               |    Duration    | Source |
 | :--------------- | :---------------------------------: | :------------: | :-----------: |
 | Enhanced Healing | Any healing acts as the tier above. | While equipped |       9       |

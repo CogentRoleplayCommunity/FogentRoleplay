@@ -2,13 +2,13 @@
 
 ![Copyrighted Image](GreatArsenalTalisman.png)
 
-## Desc
+
 
 A charm that resembles a great jar overflowing with weaponry.
 
 Greatly boosts maximum equipment load.
 
-## Item
+
 
 |          Name          | # |        Effect        | LB | Value |
 | :--------------------: | :-: | :-------------------: | :-: | :---: |
@@ -16,6 +16,6 @@ Greatly boosts maximum equipment load.
 
 ## Effects
 
-| Name                  |    Effect    |  Duration  | Tier Required |
+| Name                  |    Effect    |  Duration  | Source |
 | :-------------------- | :-----------: | :--------: | :-----------: |
 | Greatly Enhanced Lift | +3d6 to Lift. | Indefinite |       6       |

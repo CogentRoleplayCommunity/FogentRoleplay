@@ -2,7 +2,7 @@
 
 ![Copyrighted Image](ConcealingVeil.png)
 
-## Desc
+
 
 Talisman put together from dark cloth, with a lustrous sheen.
 
@@ -10,7 +10,7 @@ Conceals the wearer's presence, becoming slightly transparent at will.
 
 A common talisman of assassins.
 
-## Item
+
 
 |      Name      | # |          Effect          | LB | Value |
 | :-------------: | :-: | :----------------------: | :-: | :---: |
@@ -18,6 +18,6 @@ A common talisman of assassins.
 
 ## Effects
 
-| Name                     |      Effect      |  Duration  | Tier Required |
+| Name                     |      Effect      |  Duration  | Source |
 | :----------------------- | :--------------: | :--------: | :-----------: |
 | Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite |       2       |

@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](SteelDragonScaleTalisman+1.png)
 
-## Desc
+
 
 A wrought iron talisman made with the visage of twin Steel Dragons. More rare and powerful than its lesser counterpart, this talisman remains a favorite of professional men-at-arms and experienced mercenaries.
 
-## Item
+
 
 |              Name              | # |                                                 Effect                                                 | LB | Value |
 | :----------------------------: | :-: | :-----------------------------------------------------------------------------------------------------: | :-: | :---: |
@@ -14,7 +14,7 @@ A wrought iron talisman made with the visage of twin Steel Dragons. More rare an
 
 ## Effects
 
-| Name                        |                        Effect                        |    Duration    | Tier Required |
+| Name                        |                        Effect                        |    Duration    | Source |
 | :-------------------------- | :--------------------------------------------------: | :------------: | :-----------: |
 | Medium Hew Resistance       |    -2 to victory levels received from Hew damage.    | While equipped |       5       |
 | Medium Slash Resistance     |   -2 to victory levels received from Slash damage.   | While equipped |       5       |

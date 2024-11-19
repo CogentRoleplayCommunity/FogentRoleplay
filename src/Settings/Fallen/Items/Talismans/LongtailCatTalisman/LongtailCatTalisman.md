@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](LongtailCatTalisman.png)
 
-## Desc
+
 
 A brooch depicting a long-tailed cat.
 
-## Item
+
 
 |         Name         | # |           Effect           | LB | Value |
 | :-------------------: | :-: | :------------------------: | :-: | :---: |
@@ -14,6 +14,6 @@ A brooch depicting a long-tailed cat.
 
 ## Effects
 
-| Name                       |       Effect       |  Duration  | Tier Required |
+| Name                       |       Effect       |  Duration  | Source |
 | :------------------------- | :----------------: | :--------: | :-----------: |
 | Minorly Enhanced Dexterity | +1d6 to Dexterity. | Indefinite |       2       |

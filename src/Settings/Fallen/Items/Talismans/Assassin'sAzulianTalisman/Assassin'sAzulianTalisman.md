@@ -2,11 +2,11 @@
 
 ![Copyrighted Image](Assassin'sAzulianTalisman.png)
 
-## Desc
+
 
 An assassin's dagger, misshapen and stained in azul.
 
-## Item
+
 
 |            Name            | # |        Effect        | LB | Value |
 | :-------------------------: | :-: | :------------------: | :-: | :---: |
@@ -14,6 +14,6 @@ An assassin's dagger, misshapen and stained in azul.
 
 ## Effects
 
-| Name                 |                           Effect                           |   Duration   | Tier Required |
+| Name                 |                           Effect                           |   Duration   | Source |
 | :------------------- | :--------------------------------------------------------: | :-----------: | :-----------: |
 | Magic Resource Leech | Sneak attack regain 1 Magic Resource of the user's choice. | Instantaneous |       3       |

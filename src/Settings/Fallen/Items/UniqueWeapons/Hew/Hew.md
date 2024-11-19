@@ -2,7 +2,7 @@
 
 ![Copyright](Hew.png)
 
-## Desc
+
 
 "When you chop wood, splinters fly."  - Anonymous
 
@@ -10,7 +10,7 @@ An unassuming double bladed, rusty, yet excellently crafted battleaxe both as ve
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged.
 
-## Item
+
 
 | Name | # |                Effect                | LB | Value |
 | :--: | :-: | :-----------------------------------: | :-: | :---: |
@@ -18,6 +18,6 @@ Runecraft scholars have traced the origin of this axe to the first Fellkin who b
 
 ## Effects
 
-| Name     |                                                                           Effect                                                                           | Duration | Tier Required |
+| Name     |                                                                           Effect                                                                           | Duration | Source |
 | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Splinter | Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures. |          |       2       |
