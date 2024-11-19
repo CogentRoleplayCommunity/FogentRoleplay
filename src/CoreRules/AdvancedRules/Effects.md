@@ -1,10 +1,8 @@
 # Effects
 
-If your reading these rules in order, than you've already encountered quite a few different effects.
-
-Under the hood, Effects are actually catagorized under certain sub catagories. The two large catagories are "Character Sheet Effects" and "Narrative Effects".
-
 Effects can be applied to either characters or items, adding new buffs/debuffs, weapons, defenses, narrative considerations, injuries, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle.
+
+The two large catagories are "Character Sheet Effects" and "Narrative Effects".
 
 ## Character Sheet Effects
 
