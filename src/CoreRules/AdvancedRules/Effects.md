@@ -33,7 +33,7 @@ Both [Injuries](./../CombatRules/Injury.md) and [Weight Classes](./../AdvancedRu
 
 ### Skill Dice Mods
 
-Adds or subracts dice dice for specific skill dice pools.
+Adds or subracts dice dice for specific skill or vocation dice pools.
 
 | Name                               | Desc                       | Duration   | Source |
 | ---------------------------------- | -------------------------- | ---------- | ------ |
