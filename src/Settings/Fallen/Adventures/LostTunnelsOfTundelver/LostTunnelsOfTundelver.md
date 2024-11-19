@@ -1364,7 +1364,7 @@ For the Lumgrove residents, their proximity to the Highmount Wood demanded const
 The barracks appears to have weathered the years better than most town buildings. A simple battlement crowns its rooftop, and arrow-slit windows confirm its intended use as a small keep during emergencies.
 ```
 
-Five ash zombies, former members of the garrison, still wear tattered remnants of rusted mail and soldier's surcoats, though these scraps do not enhance their Armor Class. The zombies rouse and attack any living creature that disturbs their rest.
+Five ash zombies, former members of the garrison, still wear tattered remnants of rusted mail and soldier's surcoats, though these scraps do not enhance their Physical Defense. The zombies rouse and attack any living creature that disturbs their rest.
 
 Furnishings are still found within the building, including a ladder in the main room leading to the roof. The northern chamber contains two double bunks, while the southern chamber holds three double bunks, offering accommodations for ten soldiers in total. To the northwest, a kitchen and pantry now hold piles of decayed sacks and barrels that once stored salted meat. However, vermin have long since devoured all the foodstuffs.
 
