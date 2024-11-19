@@ -2,14 +2,10 @@
 
 ![Copyright]()
 
-
-
-
-
-| Name | # | Effects | LB | Value |
-| :--: | :-: | :----: | :-: | :---: |
+| Name | # | Effects | LB | Value | Description |
+| :--: | :-: | :-----: | :-: | :---: | ----------- |
 
 ## Effects
 
 | Name | Desc | Duration | Source |
-| :--- | :----: | :------: | :-----------: |
+| :--- | :--: | :------: | :----: |
