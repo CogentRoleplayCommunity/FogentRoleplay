@@ -14,13 +14,26 @@ If you have two different character sheet effects active that buff or debuff som
 
 ### Attribute Dice Mods
 
-Effect that modifies dice pools if they governed by one of the Attributes specified.
+Adds or subtracts dice for dice pools if they governed by one of the Attributes specified.
 
-- [Injury](./../CombatRules/Injury.md)
-- [Weight Class](./../AdvancedRules/CarryWeight.md#weight-classes)
+Both [Injuries](./../CombatRules/Injury.md) and [Weight Classes](./../AdvancedRules/CarryWeight.md#weight-classes) are Attribute Dice Mods.
+
+|            Name            |                                                               Desc                                                               | Duration   | Source                                         |
+| :-------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | ---------- | ---------------------------------------------- |
+|        Minor Injury        |        -1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.        |            |                                                |
+|        Medium Injury        | -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection. |            |                                                |
+|       Serious Injury       |                -3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.                |            |                                                |
+|        Fatal Injury        |                             -4d to STR/RFX/INT governed Dice Pools. Will die very soon if untreated.                             |            |                                                |
+|      Death Blow Injury      |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |            |                                                |
+|                            |                                                                                                                                  |            |                                                |
+|     Weight Class: Light     |                                                -0d to STR/RFX governed Dice Pools                                                | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight  |
+|    Weight Class: Medium    |                                                -1d to STR/RFX governed Dice Pools                                                | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight  |
+|     Weight Class: Heavy     |                                                -2d to STR/RFX governed Dice Pools                                                | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
+| Weight Class: Overencumberd |                                                -4d to STR/RFX governed Dice Pools                                                | Indefinite | 100% < Equipment Weight of Carry Weight        |
 
 ### Skill Dice Mods
 
+Adds or subracts dice dice for specific skill dice pools.
 
 ### Set Attribute
 
