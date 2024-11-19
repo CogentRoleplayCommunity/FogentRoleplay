@@ -112,7 +112,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name          | # |   [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)   | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name          | # |   [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)   | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------- | :-: | :---------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Fine | 1 |                                                                        |                             6                             |                    15 bc                    |             |
 | Wand          | 1 |                           Spellcasting Focus                           |                             1                             |                    10 bc                    |             |

@@ -125,7 +125,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                           |       #       | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)      | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                           |       #       | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)      | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------ | :------------: | ----------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Common                |       1       |                                                                         |                             3                             |                    50 cc                    |             |
 | Waterskin (4/4)                |       1       |                                                                         |                             5                             |                    20 cc                    |             |
@@ -139,11 +139,11 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name  | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name  | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Pouch | 1 | 6 lb container                                                     |                             1                             |                    50 cc                    |             |
 
-| Name            | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Chest           | 1 | 300 lb container                                                   |                             25                             |                    5 bc                    |             |
 | Mirror, Steel   | 1 |                                                                    |                            0.5                            |                    5 bc                    |             |

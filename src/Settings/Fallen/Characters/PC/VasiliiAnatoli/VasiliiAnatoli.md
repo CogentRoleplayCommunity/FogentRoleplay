@@ -127,7 +127,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)                    | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description                                                                                                                   |
+| Name            | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)                    | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description                                                                                                                   |
 | --------------- | :-: | ------------------------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------- |
 | Gambeson Armor  | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                                      |                             8                             |                    5 bc                    |                                                                                                                               |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                             47                             |                    75 bc                    |                                                                                                                               |
@@ -135,7 +135,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                   | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                   | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---------------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Backpack               | 1 | 30 lb container                                                    |                             5                             |                    2 bc                    |             |
 | Longsword              | 1 | Large Thrusting Sword, Large Slashing Sword                        |                             3                             |                    25 bc                    |             |
