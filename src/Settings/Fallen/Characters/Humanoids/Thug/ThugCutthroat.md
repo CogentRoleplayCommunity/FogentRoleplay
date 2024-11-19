@@ -61,7 +61,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # |                 [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)                 | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # |                 [Effects](./../../../../../../README.md#effect-rules)                 | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | :------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Copper Coin     | 17 |                                                                                                    |                            0.02                            |                    1 cc                    |             |
 | Clothes, Common | 1 |                                                                                                    |                             3                             |                    50 cc                    |             |

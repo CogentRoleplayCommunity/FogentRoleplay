@@ -116,7 +116,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                      | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                      | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Leather Armor             | 1 |    Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00    |                             12                             |                    10 bc                    |             |
 | Buckler Shield            | 1 |                       Shield, Phy. Def. 1.00                       |                             4                             |                    2 bc                    |             |

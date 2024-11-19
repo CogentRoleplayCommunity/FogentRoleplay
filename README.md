@@ -73,11 +73,11 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
-- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
-### Effects
+### Effect Rules
 
-- [Effects Overview](./src/CoreRules/AdvancedRules/EffectsOverview.md)
+Effects can be applied to either characters or items, adding new buffs/debuffs, weapons, defenses, narrative considerations, injuries, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle. If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+
 - [Narrative Effects](./src//CoreRules/AdvancedRules/NarrativeEffects.md)
   - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
   - [Healing](./src/CoreRules/AdvancedRules/Healing.md)

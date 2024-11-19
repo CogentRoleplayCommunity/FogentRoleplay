@@ -128,7 +128,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                          | # |           [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)           | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                          | # |           [Effects](./../../../../../../README.md#effect-rules)           | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------------- | :-: | :-------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor                | 1 |                    Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                    |                             8                             |                    5 bc                    |             |
 | Leather Cuirass and Pauldrons | 1 |                               Body Armor, Phy. Def. 1.00                               |                             6                             |                    5 bc                    |             |
@@ -142,7 +142,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                  |        #        | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                  |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Satchel               | 12 lb container |                                                                    |                             2                             |                    1 bc                    |             |
 | Clothes, Fine         |        1        |                                                                    |                             4                             |                    15 bc                    |             |

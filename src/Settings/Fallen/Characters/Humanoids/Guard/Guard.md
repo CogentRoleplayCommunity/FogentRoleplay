@@ -51,7 +51,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # |          [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)          | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # |          [Effects](./../../../../../../README.md#effect-rules)          | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor  | 1 |                    Body Armor, Arm Armor, Leg ArmorPhy. Def. 1.00                    |                             8                             |                    5 bc                    |             |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                             47                             |                    75 bp                    |             |
