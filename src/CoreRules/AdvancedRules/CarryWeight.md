@@ -17,7 +17,7 @@ Effects that represent the physical strain of carrying equipment. Some character
 |     Weight Class: Light     | -0d to STR/RFX governed Dice Pools | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight |
 |    Weight Class: Medium    | -1d to STR/RFX governed Dice Pools | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight |
 |     Weight Class: Heavy     | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
-| Weight Class: Overencumberd | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
+| Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
 
 ## Equipment
 

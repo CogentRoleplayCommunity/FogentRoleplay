@@ -2,13 +2,13 @@
 
 Effects can be applied to either characters or items, adding new buffs/debuffs, weapons, defenses, narrative considerations, injuries, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle.
 
-The two large catagories are "Character Sheet Effects" and "Narrative Effects".
+The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
 ## Character Sheet Effects
 
 "Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet.
 
-For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalcualte many of there dice pools with the penalties from the Injuries.
+For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
 
 If you have two different character sheet effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
 
@@ -29,11 +29,11 @@ Both [Injuries](./../CombatRules/Injury.md) and [Weight Classes](./../AdvancedRu
 |     Weight Class: Light     |                                                -0d to STR/RFX governed Dice Pools                                                | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight  |
 |    Weight Class: Medium    |                                                -1d to STR/RFX governed Dice Pools                                                | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight  |
 |     Weight Class: Heavy     |                                                -2d to STR/RFX governed Dice Pools                                                | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
-| Weight Class: Overencumberd |                                                -4d to STR/RFX governed Dice Pools                                                | Indefinite | 100% < Equipment Weight of Carry Weight        |
+| Weight Class: Overburdened |                                                -4d to STR/RFX governed Dice Pools                                                | Indefinite | 100% < Equipment Weight of Carry Weight        |
 
 ### Skill Dice Mods
 
-Adds or subracts dice dice for specific skill or vocation dice pools.
+Adds or subtracts dice dice for specific skill or vocation dice pools.
 
 | Name                               | Desc                       | Duration   | Source |
 | ---------------------------------- | -------------------------- | ---------- | ------ |
@@ -69,13 +69,25 @@ Adds or subracts dice dice for specific skill or vocation dice pools.
 | Greatly Enhanced Will              | +3d6 to Will.              | Indefinite |        |
 | Minorly Enhanced Medium Melee      | +1d6 to Medium Sword.      | Indefinite |        |
 
-### Set Attribute
+### Set Attribute Buff
+
+Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
 
 ### Set Skill
 
+Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+
 ### Attribute Adjustment
 
+For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
+
+| Name         | Desc             | Duration   | Source |
+| ------------ | ---------------- | ---------- | ------ |
+| Enhanced STR | +1 to STR level. | Indefinite |        |
+
 ### Skill Adjustment
+
+For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
 
 ### Base Dice Mod
 
@@ -104,13 +116,13 @@ See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
 
 "Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
 
-For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative.
+For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative. 
 
 - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
-Narrative Effects covers a broad range of narratively significant effects. They are delibretly left open ended to be able to do anything, with the understanding that if an Effect can be describe by one of the other more specific Effect types, it should. For instance, if a Narrator was trying to give a monster natrual armor to represent it's thick hide, they should use the Defense Effect instead of a Narrative Effect.
+Narrative Effects covers a broad range of narratively significant effects. They are deliberately left open ended to be able to do anything, with the understanding that if an Effect can be describe by one of the other more specific Effect types, it should. For instance, if a Narrator was trying to give a monster natural armor to represent it's thick hide, they should use the Defense Effect instead of a Narrative Effect.
 
 ## Narrative Effect Examples
 
