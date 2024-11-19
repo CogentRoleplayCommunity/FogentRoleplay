@@ -25,5 +25,5 @@ The bearer of this armor gets an uneasy feeling when there are draconic creature
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

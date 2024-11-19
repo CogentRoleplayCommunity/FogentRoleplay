@@ -11,5 +11,5 @@
 
 ## Effects
 
-| Name | Effect | Duration | Effect Slots |
+| Name | Desc | Duration | Effect Slots |
 | :--- | :----: | :------: | :----------: |

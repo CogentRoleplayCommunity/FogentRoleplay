@@ -22,7 +22,7 @@ The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol 
 
 ## Effects
 
-| Name                |                                                                                                                                         Effect                                                                                                                                         | Duration | Source |
+| Name                |                                                                                                                                         Desc                                                                                                                                         | Duration | Source |
 | :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-----------: |
 | Super Strength      |                                                                                                                                Strength set to level 4.                                                                                                                                |          |      12      |
 | Super Reflex        |                                                                                                                                 Reflex set to level 4.                                                                                                                                 |          |      12      |

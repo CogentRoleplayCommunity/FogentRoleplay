@@ -11,5 +11,5 @@ Prothetic limb for those missing their forearm below the elbow. Made of interloc
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

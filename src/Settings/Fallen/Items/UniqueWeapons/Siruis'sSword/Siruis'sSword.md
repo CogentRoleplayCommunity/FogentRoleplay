@@ -16,5 +16,5 @@ House Roseblood isn't as wealthy as it once was during the height of the witch q
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

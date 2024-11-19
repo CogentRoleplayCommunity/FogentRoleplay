@@ -11,5 +11,5 @@
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

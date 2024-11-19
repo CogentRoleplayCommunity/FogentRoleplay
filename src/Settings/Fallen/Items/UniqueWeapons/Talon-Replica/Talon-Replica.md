@@ -2,11 +2,7 @@
 
 ![Copyright](Talon-Practice.png)
 
-
-
 Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.
-
-
 
 |      Name      | # |                           Effect                           | LB | Value |
 | :-------------: | :-: | :--------------------------------------------------------: | :-: | :---: |
@@ -14,5 +10,5 @@ Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made 
 
 ## Effects
 
-| Name | Effect | Duration | Source |
-| :--- | :----: | :------: | :-----------: |
+| Name | Desc | Duration | Source |
+| :--- | :--: | :------: | :----: |

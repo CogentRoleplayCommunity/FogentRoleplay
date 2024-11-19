@@ -26,5 +26,5 @@ Veronica and Flint tried for children many times, but tragedy struck every time.
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

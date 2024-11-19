@@ -14,5 +14,5 @@ Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. M
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |

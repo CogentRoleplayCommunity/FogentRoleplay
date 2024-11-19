@@ -31,5 +31,5 @@ Tier: Excellent (+3)
 
 ## Effects
 
-| Name | Effect | Duration | Source |
+| Name | Desc | Duration | Source |
 | :--- | :----: | :------: | :-----------: |
