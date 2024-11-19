@@ -2,20 +2,12 @@
 
 ![Copyrighted Image](AzulianTalisman+2.png)
 
-
-
-A medallion with azul inlaid.
-
-Greatly boosts maximum magic resource.
-
-
-
-|        Name        | # |             Effects             | LB | Value |
-| :-----------------: | :-: | :-----------------------------: | :-: | :---: |
-| Azulian Talisman +2 | 1 | Greatly Enhanced Magic Resource | 0.2 |   ?   |
+|        Name        | # |             Effects             | LB | Value | Description                                                                     |
+| :-----------------: | :-: | :-----------------------------: | :-: | :---: | ------------------------------------------------------------------------------- |
+| Azulian Talisman +2 | 1 | Greatly Enhanced Magic Resource | 0.2 |   ?   | A medallion with azul inlaid.<br /><br />Greatly boosts maximum magic resource. |
 
 ## Effects
 
-| Name                            |             Desc             |  Duration  | Source |
-| :------------------------------ | :----------------------------: | :--------: | :-----------: |
-| Greatly Enhanced Magic Resource | +6 to magic Resource capacity. | Indefinite |       7       |
+| Name                            |              Desc              |  Duration  |       Source       |
+| :------------------------------ | :----------------------------: | :--------: | :-----------------: |
+| Greatly Enhanced Magic Resource | +6 to magic Resource capacity. | Indefinite | Azulian Talisman +2 |

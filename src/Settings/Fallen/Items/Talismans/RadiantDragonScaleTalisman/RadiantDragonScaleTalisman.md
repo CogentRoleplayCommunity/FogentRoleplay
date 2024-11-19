@@ -2,16 +2,12 @@
 
 ![Copyrighted Image](RadiantDragonScaleTalisman.png)
 
-
-
-
-
-|             Name             | # |          Effects          | LB | Value |
-| :---------------------------: | :-: | :----------------------: | :-: | :---: |
-| Radiant Dragon Scale Talisman | 1 | Minor Radiant Resistance | 0.2 |   ?   |
+|             Name             | # |         Effects         | LB | Value | Description |
+| :---------------------------: | :-: | :----------------------: | :-: | :---: | ----------- |
+| Radiant Dragon Scale Talisman | 1 | Minor Radiant Resistance | 0.2 |   ?   |             |
 
 ## Effects
 
-| Name                     |                       Desc                       |    Duration    | Source |
-| :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
-| Minor Radiant Resistance | -1 to victory levels received from Radiant damage. | While equipped |       3       |
+| Name                     |                        Desc                        |    Duration    |            Source            |
+| :----------------------- | :------------------------------------------------: | :------------: | :---------------------------: |
+| Minor Radiant Resistance | -1 to victory levels received from Radiant damage. | While equipped | Radiant Dragon Scale Talisman |

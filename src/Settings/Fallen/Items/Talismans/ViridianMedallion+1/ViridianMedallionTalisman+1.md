@@ -2,18 +2,12 @@
 
 ![Copyrighted Image](ViridianMedallionTalisman+1.png)
 
-
-
-A medallion with viridian inlaid.
-
-
-
-|              Name              | # |       Effects       | LB | Value |
-| :----------------------------: | :-: | :----------------: | :-: | :---: |
-| Viridian Medallion Talisman +1 | 1 | Enhanced Endurance | 0.2 |   ?   |
+|              Name              | # |      Effects      | LB | Value | Description                       |
+| :----------------------------: | :-: | :----------------: | :-: | :---: | --------------------------------- |
+| Viridian Medallion Talisman +1 | 1 | Enhanced Endurance | 0.2 |   ?   | A medallion with viridian inlaid. |
 
 ## Effects
 
-| Name               |       Desc       |  Duration  | Source |
-| :----------------- | :----------------: | :--------: | :-----------: |
-| Enhanced Endurance | +2d6 to Endurance. | Indefinite |       4       |
+| Name               |        Desc        |  Duration  |             Source             |
+| :----------------- | :----------------: | :--------: | :----------------------------: |
+| Enhanced Endurance | +2d6 to Endurance. | Indefinite | Viridian Medallion Talisman +1 |
