@@ -8,10 +8,10 @@
 
 First commissioned by Serana Reddington, never wanting to go with her plate.
 
-## Info
+## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Name | # | Effect | LB | Value |
+| :--: | :-: | :----: | :-: | :---: |
 
 | Amulet Of Reflection | 1 |  | Apparel Storage | Flawless | 30/30 | 0.2 | ? |
 | -------------------- | - | - | --------------- | -------- | ----- | --- | - |

@@ -18,11 +18,11 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.
 
-## Info
+## Item
 
-| Name | # |                              Class                              | Effect |   Tier   | Durability | LB | Value |
-| :--: | :-: | :-------------------------------------------------------------: | :----: | :------: | :--------: | :-: | :---: |
-| Echo | 1 | Superior Medium Thrusting Sword, Superior Medium Slashing Sword |        | Superior |   24/24   | 2 |   ?   |
+| Name | # |                                        Effect                                        | LB | Value |
+| :--: | :-: | :----------------------------------------------------------------------------------: | :-: | :---: |
+| Echo | 1 | Superior Medium Versatile Thrusting Sword, Superior Medium Versatile Slashing Sword | 2 |   ?   |
 
 ## Effects
 

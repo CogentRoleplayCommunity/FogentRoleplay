@@ -6,13 +6,13 @@
 
 Crafted from resilient crystal yet possessing the strength of oak, this slender and hollow staff weighs 3 pounds. To unlock its benefits and cast the embedded spells, attunement to the staff is required.
 
-While wielding the staff, your Armor Class receives a +1 bonus.
+While wielding the staff, your Physical Defense receives a +1 bonus.
 
-## Info
+## Item
 
-|       Name       | # |                      Class                      |                Effect                |   Tier   | Durability | LB | Value |
-| :--------------: | :-: | :----------------------------------------------: | :-----------------------------------: | :-------: | :--------: | :-: | :---: |
-| Staff of Defense | 1 | Excellent Large Hafted Blunt, Spellcasting Focus | Defense Spells, Physical Defense 1.00 | Excellent |   21/21   | 3 |   ?   |
+|       Name       | # |                                         Effect                                         | LB | Value |
+| :--------------: | :-: | :-------------------------------------------------------------------------------------: | :-: | :---: |
+| Staff of Defense | 1 | Excellent Large Hafted Blunt, Spellcasting Focus, Defense Spells, Physical Defense 1.00 | 3 |   ?   |
 
 ## Effects
 

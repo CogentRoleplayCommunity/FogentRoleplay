@@ -6,11 +6,11 @@
 
 Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.
 
-## Info
+## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Talon - Replica | 1 | Quality Small Piercing Blade, Quality Small Slashing Blade |  | Quality | 15/15 | 1.5 | ? |
+|      Name      | # |                           Effect                           | LB | Value |
+| :-------------: | :-: | :--------------------------------------------------------: | :-: | :---: |
+| Talon - Replica | 1 | Quality Small Piercing Blade, Quality Small Slashing Blade | 1.5 |   ?   |
 
 ## Effects
 

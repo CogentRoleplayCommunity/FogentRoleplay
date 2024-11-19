@@ -4,10 +4,10 @@
 
 ## Desc
 
-## Info
+## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Name | # | Effect | LB | Value |
+| :--: | :-: | :----: | :-: | :---: |
 
 ## Effects
 

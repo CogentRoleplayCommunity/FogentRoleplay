@@ -6,11 +6,11 @@
 
 This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 
-## Info
+## Item
 
-|   Name   | # |                                                                            Class                                                                            |              Effect              |    Tier    | Durability | LB | Value |
-| :-------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------: | :---------: | :--------: | :-: | :---: |
-| Asclepius | 1 | Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip | Metal Feeding, Command Asclepius | Mastercraft |   33/33   | 3 |   ?   |
+|   Name   | # |                                                                                             Effect                                                                                             | LB | Value |
+| :-------: | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
+| Asclepius | 1 | Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius | 3 |   ?   |
 
 ## Effects
 

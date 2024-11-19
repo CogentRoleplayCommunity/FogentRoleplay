@@ -6,11 +6,11 @@
 
 This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
 
-## Info
+## Item
 
-|   Name   | # |                         Class                         |      Effect      | Tier | Durability | LB | Value |
-| :-------: | :-: | :---------------------------------------------------: | :---------------: | :--: | :--------: | :-: | :---: |
-| Steelclaw | 1 | Fine Large Thrusting Sword, Fine Large Slashing Sword | The Anatoli Curse | Fine |   18/18   | 3 | 25 bc |
+|   Name   | # |                                  Effect                                  | LB | Value |
+| :-------: | :-: | :----------------------------------------------------------------------: | :-: | :---: |
+| Steelclaw | 1 | Fine Large Thrusting Sword, Fine Large Slashing Sword, The Anatoli Curse | 3 | 25 bc |
 
 ## Effects
 

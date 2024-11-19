@@ -8,14 +8,14 @@ A medallion with azul inlaid.
 
 Boosts maximum magic resource.
 
-## Info
+## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Azulian Talisman | 1 |  | Minorly Enhanced Magic Resource | Excellent | 21/21 | 0.2 | ? |
+|       Name       | # |             Effect             | LB | Value |
+| :--------------: | :-: | :-----------------------------: | :-: | :---: |
+| Azulian Talisman | 1 | Minorly Enhanced Magic Resource | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Minorly Enhanced Magic Resource | +2 to magic Resource capacity. |  | 2 |
+| Name                            |             Effect             | Duration | Tier Required |
+| :------------------------------ | :----------------------------: | :------: | :-----------: |
+| Minorly Enhanced Magic Resource | +2 to magic Resource capacity. |          |       2       |

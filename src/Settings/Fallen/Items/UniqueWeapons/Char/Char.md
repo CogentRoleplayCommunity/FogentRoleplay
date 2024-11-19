@@ -16,11 +16,11 @@ During Destin's confrontation with the Demon Helena, he sacrificed the damaged b
 
 Shattered and broken, Destin continues to carry this blade.
 
-## Info
+## Item
 
-| Name | # |                    Class                    |           Effect           |  Tier  | Durability | LB | Value |
-| :--: | :-: | :-----------------------------------------: | :-------------------------: | :-----: | :--------: | :-: | :---: |
-| Char | 1 | Reach Thrusting Sword, Reach Slashing Sword | Fire Repair and Enhancement | Damaged |    6/6    | 6 |   ?   |
+| Name | # |                                  Effect                                  | LB | Value |
+| :--: | :-: | :----------------------------------------------------------------------: | :-: | :---: |
+| Char | 1 | Reach Thrusting Sword, Reach Slashing Sword, Fire Repair and Enhancement | 6 |   ?   |
 
 ## Effects
 

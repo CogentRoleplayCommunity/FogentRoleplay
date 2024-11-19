@@ -8,11 +8,11 @@ A medallion with Crimson amber inlaid. A precious talisman for protecting one's 
 
 Boosts maximum vitality.
 
-## Info
+## Item
 
-|         Name         | # | Class |      Effect      |  Tier  | Durability | LB | Value |
-| :------------------: | :-: | :---: | :---------------: | :----: | :--------: | :-: | :---: |
-| Crimson Medallion +1 | 1 |      | Enhanced Vitality | Fabled |   36/36   | 0.2 |   ?   |
+|         Name         | # |      Effect      | LB | Value |
+| :------------------: | :-: | :---------------: | :-: | :---: |
+| Crimson Medallion +1 | 1 | Enhanced Vitality | 0.2 |   ?   |
 
 ## Effects
 

@@ -72,26 +72,40 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
-- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 - [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
+- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
+
+### Effects
+
+- [Effects Overview](./src/CoreRules/AdvancedRules/EffectsOverview.md)
+- [Narrative Effects](./src//CoreRules/AdvancedRules/NarrativeEffects.md)
+  - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
+  - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
+  - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
+- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
+- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
+- Skill Dice Mod
+- Attribute Stat Adjustment
+- [Defense](./src/CoreRules/CombatRules/Defense.md)
+- [Attribute Determined Dice Mod](./src/CoreRules/AdvancedRules/AttributeDeterminedDiceMods.md)
+  - [Injury](./src/CoreRules/CombatRules/Injury.md)
+  - Weight Class
+- Base Dice Mod
 
 ### Combat Rules
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Defense and Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
+- [Penetration](./src/CoreRules/CombatRules/Penetration.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
-- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
-- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
 - [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
 - [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
-- [Injury](./src/CoreRules/CombatRules/Injury.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
@@ -99,11 +113,8 @@ The rules have been listed in the order of importance to someone learning the ga
 ### Advanced Rules
 
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
-- [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
-- [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
-- [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
 
 ### Magic Rules
 
@@ -114,6 +125,5 @@ The rules have been listed in the order of importance to someone learning the ga
 
 ### Character Creation Rules
 
-- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)

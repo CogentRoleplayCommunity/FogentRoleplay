@@ -8,11 +8,11 @@ Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus.
 
-## Info
+## Item
 
-|      Name      | # |                                                                         Class                                                                         |  Effect  |   Tier   | Durability | LB | Value |
-| :------------: | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-------: | :--------: | :-: | :---: |
-| Draupnir Spear | 1 | Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus | Draupnir | Excellent |   21/21   | 3 | ? bc |
+|      Name      | # |                                                                             Effect                                                                             | LB | Value |
+| :------------: | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: |
+| Draupnir Spear | 1 | Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus, Draupnir | 3 | ? bc |
 
 ## Effects
 

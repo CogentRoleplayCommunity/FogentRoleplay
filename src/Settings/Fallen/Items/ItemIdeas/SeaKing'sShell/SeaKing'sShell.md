@@ -2,7 +2,7 @@
 
 This superior runecrafted breastplate has a dragon motif etched into its design. Created for Lord Maxwell Reddington for his treks into the catacombs beneath Reddwall. This armor provides good protection for the wearer's vital organs.
 
-## Info
+## Item
 
 Item Type: 1.5 Physical Defense Armor
 
@@ -18,11 +18,10 @@ The bearer of this armor gets an uneasy feeling when there are draconic creature
 
 +1 Defense vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)
 
+## Item
 
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Name | # | Effect | LB | Value |
+| :--: | :-: | :----: | :-: | :---: |
 
 ## Effects
 

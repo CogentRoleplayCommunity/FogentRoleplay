@@ -10,14 +10,14 @@ Conceals the wearer's presence, becoming slightly transparent at will.
 
 A common talisman of assassins.
 
-## Info
+## Item
 
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Concealing Veil | 1 |  | Minorly Enhanced Stealth | Flawless | 21/21 | 0.2 | ? |
+|      Name      | # |          Effect          | LB | Value |
+| :-------------: | :-: | :----------------------: | :-: | :---: |
+| Concealing Veil | 1 | Minorly Enhanced Stealth | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite | 2 |
+| Name                     |      Effect      |  Duration  | Tier Required |
+| :----------------------- | :--------------: | :--------: | :-----------: |
+| Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite |       2       |

@@ -8,14 +8,14 @@ Talisman depicting a pearlescent ancient dragon.
 
 Vastly boosts psychic damage resistance.
 
-## Info
+## Item
 
-|              Name              | # | Class |          Effect          |    Tier    | Durability | LB | Value |
-| :----------------------------: | :-: | :---: | :----------------------: | :---------: | :--------: | :-: | :---: |
-| Pearl Dragon Scale Talisman +2 | 1 |      | Major Psychic Resistance | Mastercraft |   33/33   | 0.2 |   ?   |
+|              Name              | # |          Effect          | LB | Value |
+| :----------------------------: | :-: | :----------------------: | :-: | :---: |
+| Pearl Dragon Scale Talisman +2 | 1 | Major Psychic Resistance | 0.2 |   ?   |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Major Psychic Resistance | -3 to victory levels received from Psychic damage. | While equipped | 7 |
+| Name                     |                       Effect                       |    Duration    | Tier Required |
+| :----------------------- | :------------------------------------------------: | :------------: | :-----------: |
+| Major Psychic Resistance | -3 to victory levels received from Psychic damage. | While equipped |       7       |
