@@ -78,7 +78,6 @@ The rules have been listed in the order of importance to someone learning the ga
 
 Effects can be applied to either characters or items, adding new buffs/debuffs, weapons, defenses, narrative considerations, injuries, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle. If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
 
-- [Narrative Effects](./src//CoreRules/AdvancedRules/NarrativeEffects.md)
   - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
   - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
   - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
@@ -87,7 +86,7 @@ Effects can be applied to either characters or items, adding new buffs/debuffs, 
 - Skill Dice Mod
 - Attribute Stat Adjustment
 - [Defense](./src/CoreRules/CombatRules/Defense.md)
-- [Attribute Determined Dice Mod](./src/CoreRules/AdvancedRules/AttributeDeterminedDiceMods.md)
+- [Attribute Dice Mod](./src/CoreRules/AdvancedRules/AttributeDeterminedDiceMods.md)
   - [Injury](./src/CoreRules/CombatRules/Injury.md)
   - Weight Class
 - Base Dice Mod

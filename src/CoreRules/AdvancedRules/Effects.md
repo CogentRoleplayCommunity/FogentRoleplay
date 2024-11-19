@@ -1,10 +1,72 @@
-# Narrative Effects
+# Effects
+
+If your reading these rules in order, than you've already encountered quite a few different effects.
+
+Under the hood, Effects are actually catagorized under certain sub catagories. The two large catagories are "Character Sheet Effects" and "Narrative Effects".
+
+Effects can be applied to either characters or items, adding new buffs/debuffs, weapons, defenses, narrative considerations, injuries, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle.
+
+## Character Sheet Effects
+
+"Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet.
+
+For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalcualte many of there dice pools with the penalties from the Injuries.
+
+If you have two different character sheet effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+
+### Attribute Dice Mods
+
+- [Injury](./src/CoreRules/CombatRules/Injury.md)
+- Weight Class
+
+### Skill Dice Mods
+
+### Set Attribute
+
+### Set Skill
+
+### Attribute Adjustment
+
+### Skill Adjustment
+
+### Base Dice Mod
+
+Modifies a the base dice of a specific skill or vocation dice pools.
+
+| Name                                    | Desc                                                                       | Duration   | Source |
+| --------------------------------------- | -------------------------------------------------------------------------- | ---------- | ------ |
+| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
+| Fine Endurance Charm                    | 1d6, 2d8 base dice for Endurance skill.                                    | Indefinite |        |
+
+### Weapons
+
+See [Weapons](./src/CoreRules/CombatRules/Weapons.md) for more information.
+
+### Ammunitions
+
+See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more information.
+
+### Defense
+
+See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
+
+### Skill Stat Adjustment
+
+## Narrative Effects
+
+"Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
+
+For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative.
+
+- [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
+- [Healing](./src/CoreRules/AdvancedRules/Healing.md)
+- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
 Narrative Effects covers a broad range of narratively significant effects. They are delibretly left open ended to be able to do anything, with the understanding that if an Effect can be describe by one of the other more specific Effect types, it should. For instance, if a Narrator was trying to give a monster natrual armor to represent it's thick hide, they should use the Defense Effect instead of a Narrative Effect.
 
 ## Narrative Effect Examples
 
-|                     Name                     |                                                                                                                                                                                                                                                                          Desc                                                                                                                                                                                                                                                                          |    Duration    |         Source         |
+|                     Name                     |                                                                                                                                                                                                                                                                           Desc                                                                                                                                                                                                                                                                           |    Duration    |         Source         |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------------: |
 |                Super Strength                |                                                                                                                                                                                                                                                                 Strength set to level 4.                                                                                                                                                                                                                                                                 |                |                        |
 |                 Super Reflex                 |                                                                                                                                                                                                                                                                  Reflex set to level 4.                                                                                                                                                                                                                                                                  |                |                        |
@@ -108,7 +170,7 @@ Narrative Effects covers a broad range of narratively significant effects. They 
 |     Disabling: Dexterity Overconfidence     |                                                                                                                                                                                                                                                 Extremely overconfident in Dexterity, cannot invest in.                                                                                                                                                                                                                                                 |                |                        |
 |     Disabling: Ride/Pilot Overconfidence     |                                                                                                                                                                                                                                                 Extremely overconfident in Ride/Pilot, cannot invest in.                                                                                                                                                                                                                                                 |                |                        |
 |      Disabling: Stealth Overconfidence      |                                                                                                                                                                                                                                                  Extremely overconfident in Stealth, cannot invest in.                                                                                                                                                                                                                                                  |                |                        |
-|     Disabling: General Knowledge Overconfidence     |                                                                                                                                                                                                                                               Extremely overconfident in General Knowledge, cannot invest in.                                                                                                                                                                                                                                               |                |                        |
+| Disabling: General Knowledge Overconfidence |                                                                                                                                                                                                                                             Extremely overconfident in General Knowledge, cannot invest in.                                                                                                                                                                                                                                             |                |                        |
 |        Disabling: Will Overconfidence        |                                                                                                                                                                                                                                                    Extremely overconfident in Will, cannot invest in.                                                                                                                                                                                                                                                    |                |                        |
 |   Disabling: Communication Overconfidence   |                                                                                                                                                                                                                                               Extremely overconfident in Communication, cannot invest in.                                                                                                                                                                                                                                               |                |                        |
 |        Disabling: Incapable of Lying        |                                                                                                                                                                                                                                             (Specific parameters required, see Cogent website for examples)                                                                                                                                                                                                                                             |                |                        |
