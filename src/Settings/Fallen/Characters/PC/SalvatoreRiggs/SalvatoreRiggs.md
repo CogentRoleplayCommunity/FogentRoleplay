@@ -75,9 +75,9 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
-| ---- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
-|      |  |                                                                    |                                                            |                                            |             |
+| Name | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description} |
+| ---- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ------------ |
+|      |  |                                                                    |                                                            |                                            |              |
 
 ## Notes
 
