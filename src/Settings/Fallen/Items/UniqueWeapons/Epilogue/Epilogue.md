@@ -18,6 +18,6 @@ Killing with this weapon seems to mysteriously decapitate the victim's head from
 
 ## Effects
 
-| Name   |                            Effect                            |   Duration   | Effect Slots |
+| Name   |                            Effect                            |   Duration   | Source |
 | :----- | :----------------------------------------------------------: | :-----------: | :----------: |
 | Ending | Creatures killed with this weapon are instantly decapitated. | Instantaneous |      1      |
