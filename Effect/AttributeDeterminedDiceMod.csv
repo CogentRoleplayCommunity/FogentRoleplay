@@ -8,4 +8,4 @@ Death Blow Injury,-5d to STR/RFX/INT governed Dice Pools. Instantly killed.,,,"S
 Weight Class: Light,-0d to STR/RFX governed Dice Pools,Indefinite,0% =< Equipment Weight <= 25% of Carry Weight,"STR, RFX",-0
 Weight Class: Medium,-1d to STR/RFX governed Dice Pools,Indefinite,25% < Equipment Weight <= 50% of Carry Weight,"STR, RFX",-1
 Weight Class: Heavy,-2d to STR/RFX governed Dice Pools,Indefinite,50% < Equipment Weight <= 100% of Carry Weight,"STR, RFX",-2
-Weight Class: Overencumberd,-4d to STR/RFX governed Dice Pools,Indefinite,100% < Equipment Weight of Carry Weight,"STR, RFX",-4
+Weight Class: Overburdened,-4d to STR/RFX governed Dice Pools,Indefinite,100% < Equipment Weight of Carry Weight,"STR, RFX",-4

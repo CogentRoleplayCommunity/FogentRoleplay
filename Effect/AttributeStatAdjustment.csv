@@ -1,2 +1,2 @@
-Name,Attribute,Adjustment,duration,source
-Enhanced STR,STR,1,,
+Name,Desc,Duration,Source,Attribute,Adjustment
+Enhanced STR,+1 to STR level.,Indefinite,,STR,1
