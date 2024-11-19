@@ -78,9 +78,13 @@ Sets a specified Attribute of a character to a new value. If the character's inn
 | Super Strength | Strength set to level 4. | Indefinite |        |
 | Super Reflex   | Reflex set to level 4.   | Indefinite |        |
 
-### Set Skill
+### Set Skill Level
 
 Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+
+| Name             | Effect                     | Duration   | Source |
+| ---------------- | -------------------------- | ---------- | ------ |
+| Super Perception | Perception set to level 5. | Indefinite |        |
 
 ### Attribute Adjustment
 
