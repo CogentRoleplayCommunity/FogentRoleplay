@@ -6,7 +6,7 @@
 
 A brooch depicting a long-tailed cat.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

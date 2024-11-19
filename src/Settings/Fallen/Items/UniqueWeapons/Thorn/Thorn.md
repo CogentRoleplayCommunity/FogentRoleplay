@@ -4,7 +4,7 @@
 
 Prothetic limb for those missing their forearm below the elbow. Made of interlocking thorns
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

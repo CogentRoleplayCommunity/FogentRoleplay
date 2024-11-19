@@ -8,7 +8,7 @@ A medallion with azul inlaid.
 
 Greatly boosts maximum magic resource.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

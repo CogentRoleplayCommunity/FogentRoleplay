@@ -14,7 +14,7 @@ Whatever their heart truly desires will begin to manifest in the world. This is 
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…
 
-## Info
+## Item
 
 |         Name         | # |                                 Class                                 |                           Effect                           |   Tier   | Durability | LB | Value |
 | :------------------: | :-: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :------: | :--------: | :-: | :---: |

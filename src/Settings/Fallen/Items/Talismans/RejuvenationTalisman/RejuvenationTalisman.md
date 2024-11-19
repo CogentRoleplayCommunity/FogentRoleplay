@@ -6,7 +6,7 @@
 
 A talisman made to enhance the healing process. A precious possession of doctors and healers.
 
-## Info
+## Item
 
 |         Name         | # | Class |      Effect      | Tier | Durability | LB | Value |
 | :-------------------: | :-: | :---: | :--------------: | :--: | :--------: | :-: | :---: |

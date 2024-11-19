@@ -6,7 +6,7 @@
 
 This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.
 
-## Info
+## Item
 
 |   Name   | # |                         Class                         |      Effect      | Tier | Durability | LB | Value |
 | :-------: | :-: | :---------------------------------------------------: | :---------------: | :--: | :--------: | :-: | :---: |

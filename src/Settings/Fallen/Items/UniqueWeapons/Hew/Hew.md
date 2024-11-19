@@ -10,19 +10,7 @@ An unassuming double bladed, rusty, yet excellently crafted battleaxe both as ve
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged.
 
-## Info
-
-Item Type: Medium Hafted Axe
-
-Tier: Excellent (+3)
-
-## Effects
-
-### Splinter
-
-Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.
-
-## Info
+## Item
 
 | Name | # |            Class            |  Effect  |   Tier   | Durability | LB | Value |
 | :--: | :-: | :-------------------------: | :------: | :-------: | :--------: | :-: | :---: |

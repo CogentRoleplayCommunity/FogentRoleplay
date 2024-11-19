@@ -6,7 +6,7 @@
 
 This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.
 
-## Info
+## Item
 
 |   Name   | # |                                                                            Class                                                                            |              Effect              |    Tier    | Durability | LB | Value |
 | :-------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------: | :---------: | :--------: | :-: | :---: |

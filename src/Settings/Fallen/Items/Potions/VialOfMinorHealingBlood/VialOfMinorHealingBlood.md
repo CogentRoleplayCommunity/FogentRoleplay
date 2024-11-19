@@ -8,7 +8,7 @@ Special blood invented by Veronica Reddington. Heals wounds and can cure a spore
 
 The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington.
 
-## Info
+## Item
 
 |            Name            | # | Class |   Effect   |  Tier  | Durability |  LB  | Value |
 | :-------------------------: | :-: | :---: | :--------: | :-----: | :--------: | :--: | :---: |

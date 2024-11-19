@@ -6,7 +6,7 @@
 
 This breastplate has a dragon motif etched into its design. Created for a dragon fighting hero of Reddland, who's name has been lost to time. This armor provides good protection for the wearer's vital organs.
 
-## Info
+## Item
 
 |    Name    | # |   Class   |                            Effect                            |    Tier    | Durability | LB |   Value   |
 | :---------: | :-: | :--------: | :-----------------------------------------------------------: | :---------: | :--------: | :-: | :-------: |

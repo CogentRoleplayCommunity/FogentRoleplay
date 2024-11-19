@@ -10,7 +10,7 @@ Conceals the wearer's presence, becoming slightly transparent at will.
 
 A common talisman of assassins.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

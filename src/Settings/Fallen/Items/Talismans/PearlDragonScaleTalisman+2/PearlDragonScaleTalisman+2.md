@@ -8,7 +8,7 @@ Talisman depicting a pearlescent ancient dragon.
 
 Vastly boosts psychic damage resistance.
 
-## Info
+## Item
 
 |              Name              | # | Class |          Effect          |    Tier    | Durability | LB | Value |
 | :----------------------------: | :-: | :---: | :----------------------: | :---------: | :--------: | :-: | :---: |

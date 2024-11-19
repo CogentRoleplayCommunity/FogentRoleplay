@@ -8,7 +8,7 @@
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.
 
-## Info
+## Item
 
 |     Name     | # |                                                                            Class                                                                            |      Effect      |   Tier   | Durability | LB | Value |
 | :----------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | :-------: | :--------: | :-: | :---: |

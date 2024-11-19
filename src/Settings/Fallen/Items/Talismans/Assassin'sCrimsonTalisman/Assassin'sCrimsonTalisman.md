@@ -6,7 +6,7 @@
 
 An assassin's dagger, misshapen and stained in crimson.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

@@ -6,7 +6,7 @@
 
 An assassin's dagger, misshapen and stained in azul.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

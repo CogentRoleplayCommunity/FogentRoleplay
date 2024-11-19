@@ -8,7 +8,7 @@ Crafted from resilient crystal yet possessing the strength of oak, this slender 
 
 While wielding the staff, your Armor Class receives a +1 bonus.
 
-## Info
+## Item
 
 |       Name       | # |                      Class                      |                Effect                |   Tier   | Durability | LB | Value |
 | :--------------: | :-: | :----------------------------------------------: | :-----------------------------------: | :-------: | :--------: | :-: | :---: |

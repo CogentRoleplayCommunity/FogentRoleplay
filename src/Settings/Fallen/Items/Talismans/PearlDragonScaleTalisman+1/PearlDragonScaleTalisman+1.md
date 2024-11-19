@@ -6,7 +6,7 @@
 
 Talisman depicting a pearlescent ancient dragon.
 
-## Info
+## Item
 
 |              Name              | # | Class |          Effect          |   Tier   | Durability | LB | Value |
 | :----------------------------: | :-: | :---: | :-----------------------: | :-------: | :--------: | :-: | :---: |

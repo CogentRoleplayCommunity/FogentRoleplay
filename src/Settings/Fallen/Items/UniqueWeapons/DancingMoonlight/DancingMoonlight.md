@@ -12,7 +12,7 @@ When moonlight dances around the sword, and it channels the abyssal cosmos, its 
 
 Princess Vex'ahlia Reddington was gifted this sword upon her return to Reddland by her mother, who claimed it was her birth right. Lady Reddington used to tell tales of Vex'ahlia's birth. Lady Reddington wanted nothing more than a child, so when her medical and academic knowledge failed her, she prayed to the Moon Presence to protect the unborn child within her. Vex'ahlia was born with white hair the color of the full moon. One night when Lady Veronica went to check on the baby Vex'ahlia, this sword was leaning up against her crib playing the most wonderful lullaby she'd ever heard.
 
-## Info
+## Item
 
 |       Name       | # |                                                                      Class                                                                      |                           Effect                           |   Tier   | Durability | LB | Value |
 | :---------------: | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :------: | :--------: | :-: | :---: |

@@ -8,7 +8,7 @@ A medallion with Crimson amber inlaid. A precious talisman for protecting one's 
 
 Greatly boosts maximum vitality.
 
-## Info
+## Item
 
 |         Name         | # | Class |         Effect         |   Tier   | Durability | LB | Value |
 | :------------------: | :-: | :---: | :---------------------: | :-------: | :--------: | :-: | :---: |

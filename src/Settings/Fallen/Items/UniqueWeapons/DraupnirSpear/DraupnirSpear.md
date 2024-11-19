@@ -8,7 +8,7 @@ Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus.
 
-## Info
+## Item
 
 |      Name      | # |                                                                         Class                                                                         |  Effect  |   Tier   | Durability | LB | Value |
 | :------------: | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :------: | :-------: | :--------: | :-: | :---: |

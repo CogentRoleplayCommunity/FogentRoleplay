@@ -6,7 +6,7 @@
 
 A metal talisman with three symbols evoking the image of lightning on it. This Runecrafted item gives its wearer nigh immunity to most common shocks, allowing its wearer to do some things like be struck by lightning with low risk of being injured.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

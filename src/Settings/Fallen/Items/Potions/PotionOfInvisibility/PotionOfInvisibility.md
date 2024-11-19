@@ -1,6 +1,6 @@
 # Potion Of Invisibility
 
-## Info
+## Item
 
 |          Name          |   #   | Class |         Effect          |   Tier    | Durability |  LB   | Value  |
 | :--------------------: | :---: | :---: | :---------------------: | :-------: | :--------: | :---: | :----: |

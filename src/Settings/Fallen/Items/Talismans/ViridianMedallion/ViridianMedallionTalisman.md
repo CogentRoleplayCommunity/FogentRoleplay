@@ -6,7 +6,7 @@
 
 A medallion with viridian inlaid.
 
-## Info
+## Item
 
 |            Name            | # | Class |           Effect           |   Tier   | Durability | LB | Value |
 | :-------------------------: | :-: | :---: | :------------------------: | :-------: | :--------: | :-: | :---: |

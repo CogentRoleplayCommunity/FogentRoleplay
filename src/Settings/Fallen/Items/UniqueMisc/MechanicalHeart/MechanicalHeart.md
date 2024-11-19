@@ -8,7 +8,7 @@
 
 Said to have been designed by the lord of Tuntin, who subsequently died in the fire that burned his estate to the ground. A vessel designed to contain a soul, it is used to help uncover runecrafts and other supernatural events throughout Terra.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |

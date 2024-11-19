@@ -8,7 +8,7 @@ A charm that resembles a great jar overflowing with weaponry.
 
 Greatly boosts maximum equipment load.
 
-## Info
+## Item
 
 | Name | # | Class | Effect | Tier | Durability | LB | Value |
 | :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
