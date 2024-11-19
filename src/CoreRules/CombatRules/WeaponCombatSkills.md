@@ -21,9 +21,9 @@ Starting with the weapon skill your character currently possesses, each horizont
 
 ### Bow/Crossbow Weapon Skill Transfer
 
-| Class/Size |   Bows   |   Crossbows   |
-| :--------: | :-------: | :------------: |
-|    Hand    |          | Hand Crossbow |
+| Size/Type |   Bows   |   Crossbows   |
+| :-------: | :-------: | :------------: |
+|   Hand   |          | Hand Crossbow |
 |   Light   | Light Bow | Light Crossbow |
 |   Heavy   | Heavy Bow | Heavy Crossbow |
 
