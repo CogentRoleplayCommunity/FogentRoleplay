@@ -22,7 +22,7 @@
 
 ## Effects
 
-|                                             Name                                             |                         Info                         | Duration |                      Source                      |
+|                                             Name                                             |                         Desc                       | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
 |                     [Language](./../../../Languages/Languages.md): Babelish                     |                 Can speak Babelish.                 |          |                                                  |
 |                       [Language](./../../../Languages/Languages.md): Jotun                       |                   Can speak Jotun.                   |          |                                                  |

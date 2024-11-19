@@ -6,6 +6,6 @@
 
 ## Effects
 
-| Name                    |                                                    Info                                                    | Duration |         Source         |
+| Name                    |                                                    Desc                                                  | Duration |         Source         |
 | :---------------------- | :---------------------------------------------------------------------------------------------------------: | :------: | :--------------------: |
 | Single-use Invisibility | Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process. |  1 hour  | Potion of Invisibility |

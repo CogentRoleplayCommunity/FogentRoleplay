@@ -6,7 +6,7 @@ Typical status effects such as being poisoned, frostbitten, bleeding, madness, e
 
 The resulting dice penalty acts as your status effect debuffing your character until they are resolved. For instance, anti-venom might be able to remove the poison injury or warming up by a fire might reduce frostbite from cold damage.
 
-|           Name           |                                                          Info                                                          | Duration | Source |
+|           Name           |                                                          Desc                                                        | Duration | Source |
 | :-----------------------: | :--------------------------------------------------------------------------------------------------------------------: | :------: | :----: |
 |   Minor Injury   |       –1 dice to all dice pools but will naturally heal over the next few days, or faster if treated actively.       |          |        |
 |   Medium Injury   | -2 dice to all dice pools and must be treated relatively soon otherwise further penalties may apply such as infection. |          |        |

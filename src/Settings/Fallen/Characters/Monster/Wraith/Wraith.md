@@ -20,7 +20,7 @@
 
 ## Effects
 
-|                                                               Name                                                               |                                                          Info                                                          | Duration |                      Source                      |
+|                                                               Name                                                               |                                                          Desc                                                        | Duration |                      Source                      |
 | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
 |                                   [Language](./../../../Languages/Languages.md): Alive Language                                   |                                         Can speak language it knew while alive.                                         |          |                                                  |
 |                                                         Incorporeal Form                                                         |                   Can move through physical objects and creatures as if they were difficult terrain.                   |          |                                                  |

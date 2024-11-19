@@ -24,7 +24,7 @@
 
 ## Effects
 
-|                                             Name                                             |                                                          Info                                                          | Duration |                      Source                      |
+|                                             Name                                             |                                                          Desc                                                        | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
 |                     [Language](./../../../Languages/Languages.md): Babelish                     |                                                   Can speak Babelish.                                                   |          |                                                  |
 |                      [Language](./../../../Languages/Languages.md): Primal                      |                                                    Can speak Primal.                                                    |          |                                                  |

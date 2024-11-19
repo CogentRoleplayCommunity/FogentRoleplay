@@ -19,7 +19,7 @@
 
 ## Effects
 
-|                                             Name                                             |                      Info                      | Duration |                      Source                      |
+|                                             Name                                             |                      Desc                    | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------------------: | :------: | :----------------------------------------------: |
 |                                          Keen Smell                                          |  Advantage on smell based Perception checks.  |          |                                                  |
 |                                         Keen Hearing                                         | Advantage on hearing based Perception checks. |          |                                                  |

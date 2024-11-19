@@ -20,7 +20,7 @@
 
 ## Effects
 
-|                                             Name                                             |                     Info                     | Duration |                      Source                      |
+|                                             Name                                             |                     Desc                   | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :------------------------------------------: | :------: | :----------------------------------------------: |
 |                                          Keen Smell                                          | Advantage on smell based Perception checks. |          |                                                  |
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                      1                      |          |                  Armor & Shield                  |

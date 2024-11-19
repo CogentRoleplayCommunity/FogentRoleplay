@@ -21,7 +21,7 @@
 
 ## Effects
 
-|                                                             Name                                                             |                                                          Info                                                          | Duration |                      Source                      |
+|                                                             Name                                                             |                                                          Desc                                                        | Duration |                      Source                      |
 | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :------: | :----------------------------------------------: |
 |                       [Darkvision](./../../../../../CoreRules/AdvancedRules/VisionAndLight.md#darkvision)                       | Within 60 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color. |          |                                                  |
 |                                                                                                                              |                                                                                                                        |          |                                                  |

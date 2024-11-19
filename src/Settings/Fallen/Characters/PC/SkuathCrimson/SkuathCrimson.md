@@ -26,7 +26,7 @@ Unspent Skill Point: 1
 
 ## Effects
 
-|                                                        Name                                                        |                         Info                         | Duration |                      Source                      |
+|                                                        Name                                                        |                         Desc                       | Duration |                      Source                      |
 | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
 |                       [Level](./../../../../../CoreRules/CharacterCreationRules/TiersOfPlay.md)                       |                          3                          |          |                                                  |
 |                                [Language](./../../../Languages/Languages.md): Babelish                                |                 Can speak Babelish.                 |          |                                                  |
