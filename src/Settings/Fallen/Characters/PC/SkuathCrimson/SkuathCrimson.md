@@ -131,7 +131,7 @@ Unspent Skill Point: 1
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                           | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                           | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------ | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor                 | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |                             8                             |                    5 bc                    |             |
 | Leather Armor                  | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00       |                             12                             |                    10 bc                    |             |
@@ -143,12 +143,12 @@ Unspent Skill Point: 1
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                  | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                  | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Traveler     | 1 |                                                                    |                                                            |                   Mundane                   |             |
 | Lavender Lancer Scarf | 1 |                                                                    |                                                            |                   Mundane                   |             |
 
-| Name                           | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                           | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------ | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Backpack                                                |  1  | 30 lb container                                                    |                             5                             |                                 2 bc                                 |                                                            |                                            |
 | Ring, Mundane                                           |  1  |                                                                    |                            0.2                            |                                 30 cc                                 |                                                            |                                            |

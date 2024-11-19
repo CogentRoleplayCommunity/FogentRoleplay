@@ -64,7 +64,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                                | # |          [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)          | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                                | # |          [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)          | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------------------- | :-: | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor                      | 1 |                   Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |                             8                             |                    5 bc                    |             |
 | Plate Armor                         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 5.00 |                             57                             |                   1495 bc                   |             |

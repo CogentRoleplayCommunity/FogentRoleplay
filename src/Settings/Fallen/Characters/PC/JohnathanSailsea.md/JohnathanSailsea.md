@@ -123,13 +123,13 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 

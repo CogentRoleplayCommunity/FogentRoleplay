@@ -113,7 +113,7 @@
 
 ### [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name          | # | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name          | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | :---------: |
 | Leather Armor | 1 |    Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00    |                             12                             |                    10 bc                    |            |
 | Heater Shield | 1 |                       Shield, Phy. Def. 2.00                       |                             8                             |                    7 bc                    |            |

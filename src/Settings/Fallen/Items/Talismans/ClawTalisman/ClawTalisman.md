@@ -2,18 +2,12 @@
 
 ![Copyrighted Image](ClawTalisman.png)
 
-
-
-A talisman depicting claws and an assassin.
-
-
-
-|     Name     | # |     Effect     | LB | Value |
-| :-----------: | :-: | :------------: | :-: | :---: |
-| Claw Talisman | 1 | Ariel Assassin | 0.2 |   ?   |
+|     Name     | # |    Effects    | LB | Value | Description                                 |
+| :-----------: | :-: | :------------: | :-: | :---: | ------------------------------------------- |
+| Claw Talisman | 1 | Ariel Assassin | 0.2 |   ?   | A talisman depicting claws and an assassin. |
 
 ## Effects
 
-| Name           |                               Effect                               | Duration | Source |
+| Name           |                                Desc                                | Duration |    Source    |
 | :------------- | :-----------------------------------------------------------------: | :------: | :-----------: |
-| Ariel Assassin | While performing an aerial attack, gain a +1 to your victory level. |          |       3       |
+| Ariel Assassin | While performing an aerial attack, gain a +1 to your victory level. |          | Claw Talisman |

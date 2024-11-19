@@ -1,6 +1,6 @@
 # Potion Of Invisibility
 
-|          Name          | # |         Effect         |  LB  | Value | Description |
+|          Name          | # |         Effects         |  LB  | Value | Description |
 | :--------------------: | :-: | :---------------------: | :--: | :----: | ----------- |
 | Potion of Invisibility | 1 | Single-use Invisibility | 0.25 | 250 bc |             |
 

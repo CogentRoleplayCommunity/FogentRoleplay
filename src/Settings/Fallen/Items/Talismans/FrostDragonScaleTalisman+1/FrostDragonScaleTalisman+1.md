@@ -2,17 +2,12 @@
 
 ![Copyrighted Image](FrostDragonScaleTalisman+1.png)
 
-
-
-
-
-|              Name              | # |         Effect         | LB | Value |
-| :----------------------------: | :-: | :--------------------: | :-: | :---: |
-| Frost Dragon Scale Talisman +1 | 1 | Medium Cold Resistance | 0.2 |   ?   |
+|              Name              | # |        Effects        | LB | Value | Description |
+| :----------------------------: | :-: | :--------------------: | :-: | :---: | ----------- |
+| Frost Dragon Scale Talisman +1 | 1 | Medium Cold Resistance | 0.2 |   ?   |             |
 
 ## Effects
 
-|                        Effect                        |                    Duration                    | Source |
-| :--------------------------------------------------: | :---------------------------------------------: | :------------: |
-| +2 to the level of injury received from Cold damage. |                 While equipped                 |       5       |
-|                Medium Cold Resistance                | -2 to victory levels received from Cold damage. | While equipped |
+| Name                   |                      Desc                      |    Duration    |             Source             |
+| ---------------------- | :---------------------------------------------: | :------------: | :----------------------------: |
+| Medium Cold Resistance | -2 to victory levels received from Cold damage. | While equipped | Frost Dragon Scale Talisman +1 |

@@ -2,16 +2,12 @@
 
 ![Copyrighted Image](FrostDragonScaleTalisman.png)
 
-
-
-
-
-|            Name            | # |        Effect        | LB | Value |
-| :-------------------------: | :-: | :-------------------: | :-: | :---: |
-| Frost Dragon Scale Talisman | 1 | Minor Cold Resistance | 0.2 |   ?   |
+|            Name            | # |        Effects        | LB | Value | Description |
+| :-------------------------: | :-: | :-------------------: | :-: | :---: | ----------- |
+| Frost Dragon Scale Talisman | 1 | Minor Cold Resistance | 0.2 |   ?   |             |
 
 ## Effects
 
-| Name                  |                     Effect                     |    Duration    | Source |
-| :-------------------- | :---------------------------------------------: | :------------: | :-----------: |
-| Minor Cold Resistance | -1 to victory levels received from Cold damage. | While equipped |       3       |
+| Name                  |                      Desc                      |    Duration    |           Source           |
+| :-------------------- | :---------------------------------------------: | :------------: | :-------------------------: |
+| Minor Cold Resistance | -1 to victory levels received from Cold damage. | While equipped | Frost Dragon Scale Talisman |

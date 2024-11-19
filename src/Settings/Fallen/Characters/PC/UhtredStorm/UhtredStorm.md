@@ -79,7 +79,7 @@ Skill points to spend: 4
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                            | # |   [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)   | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                            | # |   [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)   | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------- | :-: | :---------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Common                 | 0 |                                                                        |                             3                             |                    50 cc                    |             |
 | Mother's Necklace               | 1 |                                                                        |                            0.1                            |                      ?                      |             |
@@ -96,7 +96,7 @@ Skill points to spend: 4
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name          |        #        | [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name          |        #        | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Satchel       | 12 lb container |                                                                    |                             2                             |                    1 bc                    |             |
 | Copper Coin   |        0        |                                                                    |                            0.02                            |                    1 cc                    |             |
