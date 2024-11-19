@@ -35,6 +35,40 @@ Both [Injuries](./../CombatRules/Injury.md) and [Weight Classes](./../AdvancedRu
 
 Adds or subracts dice dice for specific skill dice pools.
 
+| Name                               | Desc                       | Duration   | Source |
+| ---------------------------------- | -------------------------- | ---------- | ------ |
+| Minorly Enhanced Blazecraft        | +1d6 to Blazecraft.        | Indefinite |        |
+| Minorly Enhanced Knighthood        | +1d6 to Knighthood.        | Indefinite |        |
+| Minorly Enhanced Toxincraft        | +1d6 to Toxincraft.        | Indefinite |        |
+| Minorly Enhanced Athletics         | +1d6 to Athletics.         | Indefinite |        |
+| Enhanced Athletics                 | +2d6 to Athletics.         | Indefinite |        |
+| Greatly Enhanced Athletics         | +3d6 to Athletics.         | Indefinite |        |
+| Minorly Enhanced Endurance         | +1d6 to Endurance.         | Indefinite |        |
+| Enhanced Endurance                 | +2d6 to Endurance.         | Indefinite |        |
+| Greatly Enhanced Endurance         | +3d6 to Endurance.         | Indefinite |        |
+| Minorly Enhanced Lift              | +1d6 to Lift.              | Indefinite |        |
+| Enhanced Lift                      | +2d6 to Lift.              | Indefinite |        |
+| Greatly Enhanced Lift              | +3d6 to Lift.              | Indefinite |        |
+| Minorly Enhanced Dexterity         | +1d6 to Dexterity.         | Indefinite |        |
+| Enhanced Dexterity                 | +2d6 to Dexterity.         | Indefinite |        |
+| Greatly Enhanced Dexterity         | +3d6 to Dexterity.         | Indefinite |        |
+| Minorly Enhanced Perception        | +1d6 to Perception.        | Indefinite |        |
+| Enhanced Perception                | +2d6 to Perception.        | Indefinite |        |
+| Greatly Enhanced Perception        | +3d6 to Perception.        | Indefinite |        |
+| Minorly Enhanced Stealth           | +1d6 to Stealth.           | Indefinite |        |
+| Enhanced Stealth                   | +2d6 to Stealth.           | Indefinite |        |
+| Greatly Enhanced Stealth           | +3d6 to Stealth.           | Indefinite |        |
+| Minorly Enhanced Communication     | +1d6 to Communication.     | Indefinite |        |
+| Enhanced Communication             | +2d6 to Communication.     | Indefinite |        |
+| Greatly Enhanced Communication     | +3d6 to Communication.     | Indefinite |        |
+| Minorly Enhanced General Knowledge | +1d6 to General Knowledge. | Indefinite |        |
+| Enhanced General Knowledge         | +2d6 to General Knowledge. | Indefinite |        |
+| Greatly Enhanced General Knowledge | +3d6 to General Knowledge. | Indefinite |        |
+| Minorly Enhanced Will              | +1d6 to Will.              | Indefinite |        |
+| Enhanced Will                      | +2d6 to Will.              | Indefinite |        |
+| Greatly Enhanced Will              | +3d6 to Will.              | Indefinite |        |
+| Minorly Enhanced Medium Melee      | +1d6 to Medium Sword.      | Indefinite |        |
+
 ### Set Attribute
 
 ### Set Skill
