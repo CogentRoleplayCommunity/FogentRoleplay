@@ -14,10 +14,10 @@ Weight Classes represent the physical strain of carrying equipment. Some charact
 
 |             Names             |               Desc                |                     Source                     |
 | :---------------------------: | :---------------------------------: | :--------------------------------------------: |
-|      Weight Class: Light      | -0d6 to STR/RFX governed Dice Pools | 0% =< Equipment Weight <= 25% of Carry Weight  |
-|     Weight Class: Medium      | -1d6 to STR/RFX governed Dice Pools | 25% < Equipment Weight <= 50% of Carry Weight  |
-|      Weight Class: Heavy      | -2d6 to STR/RFX governed Dice Pools | 50% < Equipment Weight <= 100% of Carry Weight |
-| Weight Class: Over-encumbered | -4d6 to STR/RFX governed Dice Pools |    100% < Equipment Weight of Carry Weight     |
+|      Weight Class: Light      | -0d to STR/RFX governed Dice Pools | 0% =< Equipment Weight <= 25% of Carry Weight  |
+|     Weight Class: Medium      | -1d to STR/RFX governed Dice Pools | 25% < Equipment Weight <= 50% of Carry Weight  |
+|      Weight Class: Heavy      | -2d to STR/RFX governed Dice Pools | 50% < Equipment Weight <= 100% of Carry Weight |
+| Weight Class: Over-encumbered | -4d to STR/RFX governed Dice Pools |    100% < Equipment Weight of Carry Weight     |
 
 ## Equipment
 
