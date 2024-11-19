@@ -63,12 +63,12 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-|          Name          | # |                                 Class                                 |     Effect     |   Tier   | Durability |  LB  | Value |
-| :---------------------: | :-: | :-------------------------------------------------------------------: | :------------: | :-------: | :--------: | :--: | :---: |
-|     Gambeson Armor     | 1 |                   Body Armor, Arm Armor, Leg Armor                   | Phy. Def. 1.00 |  Mundane  |   12/12   |  8  | 5 bc |
-|     Chainmail Armor     | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed | Phy. Def. 3.00 | Excellent |   21/21   |  47  | 75 bp |
-|      Heater Shield      | 1 |                                Shield                                | Phy. Def. 2.00 |  Mundane  |   12/12   |  8  | 7 bc |
-|      Bastard Sword      | 1 |   Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword   |                |  Mundane  |   12/12   | 2.5 | 15 bc |
-|      Light Longbow      | 1 |                               Light Bow                               |                |  Mundane  |   12/12   |  2  | 25 bc |
-|  Quiver (capacity: 20)  | 1 |                                                                      |                |  Mundane  |            |  1  | 1 bc |
-| Light Arrow - Broadhead | 20 |                         Standard Light Arrow                         |                |  Mundane  |            | 0.05 | 5 cc |
+| Name                    | # |  [Effect](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)  | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| ----------------------- | :-: | :-------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | :---------: |
+| Gambeson Armor          | 1 |                   Body Armor, Arm Armor, Leg Armor                   |                       Phy. Def. 1.00                       |                   Mundane                   |    12/12    |
+| Chainmail Armor         | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed |                       Phy. Def. 3.00                       |                  Excellent                  |    21/21    |
+| Heater Shield           | 1 |                                Shield                                |                       Phy. Def. 2.00                       |                   Mundane                   |    12/12    |
+| Bastard Sword           | 1 |   Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword   |                                                            |                   Mundane                   |    12/12    |
+| Light Longbow           | 1 |                               Light Bow                               |                                                            |                   Mundane                   |    12/12    |
+| Quiver (capacity: 20)   | 1 |                                                                      |                                                            |                   Mundane                   |            |
+| Light Arrow - Broadhead | 20 |                         Standard Light Arrow                         |                                                            |                   Mundane                   |            |
