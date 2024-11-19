@@ -130,11 +130,11 @@
 
 ### [Shield Spells](./../../../../../CoreRules/MagicRules/Spells.md#shield-spells)
 
-|     Name     | Class |                                   Effect                                   | Magic<br />Resource |
-| :-----------: | :----: | :-------------------------------------------------------------------------: | :-----------------: |
-| Small Shield | Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
-| Medium Shield | Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
-| Large Shield | Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
+|     Name     |                                   Effect                                   | Magic<br />Resource |
+| :-----------: | :-------------------------------------------------------------------------: | :-----------------: |
+| Small Shield | Phy. Def. 1.00, Bodily Def. 1.00, Spiritual Def. 1.00, or Mental Def. 1.00 |          0          |
+| Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
+| Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
