@@ -19,16 +19,16 @@ Adds or subtracts dice for dice pools if they governed by one of the Attributes 
 Both [Injuries](./../CombatRules/Injury.md) and [Weight Classes](./../AdvancedRules/CarryWeight.md#weight-classes) are Attribute Dice Mods.
 
 |            Name            |                                                               Desc                                                               | Duration   | Source                                         |
-| :-------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | ---------- | ---------------------------------------------- |
+| :------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | ---------- | ---------------------------------------------- |
 |        Minor Injury        |        -1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.        |            |                                                |
-|        Medium Injury        | -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection. |            |                                                |
+|       Medium Injury       | -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection. |            |                                                |
 |       Serious Injury       |                -3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.                |            |                                                |
 |        Fatal Injury        |                             -4d to STR/RFX/INT governed Dice Pools. Will die very soon if untreated.                             |            |                                                |
-|      Death Blow Injury      |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |            |                                                |
+|     Death Blow Injury     |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |            |                                                |
 |                            |                                                                                                                                  |            |                                                |
-|     Weight Class: Light     |                                                -0d to STR/RFX governed Dice Pools                                                | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight  |
+|    Weight Class: Light    |                                                -0d to STR/RFX governed Dice Pools                                                | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight  |
 |    Weight Class: Medium    |                                                -1d to STR/RFX governed Dice Pools                                                | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight  |
-|     Weight Class: Heavy     |                                                -2d to STR/RFX governed Dice Pools                                                | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
+|    Weight Class: Heavy    |                                                -2d to STR/RFX governed Dice Pools                                                | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
 | Weight Class: Overburdened |                                                -4d to STR/RFX governed Dice Pools                                                | Indefinite | 100% < Equipment Weight of Carry Weight        |
 
 ### Skill Dice Mods
@@ -69,9 +69,14 @@ Adds or subtracts dice dice for specific skill or vocation dice pools.
 | Greatly Enhanced Will              | +3d6 to Will.              | Indefinite |        |
 | Minorly Enhanced Medium Melee      | +1d6 to Medium Sword.      | Indefinite |        |
 
-### Set Attribute Buff
+### Set Attribute Level
 
 Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
+
+| Name           | Effect                   | Duration   | Source |
+| -------------- | ------------------------ | ---------- | ------ |
+| Super Strength | Strength set to level 4. | Indefinite |        |
+| Super Reflex   | Reflex set to level 4.   | Indefinite |        |
 
 ### Set Skill
 
@@ -116,7 +121,7 @@ See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
 
 "Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
 
-For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative. 
+For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative.
 
 - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
