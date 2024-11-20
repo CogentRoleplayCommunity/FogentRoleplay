@@ -4,6 +4,8 @@ Effects can be applied to either characters or items, adding new buffs/debuffs, 
 
 The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
+If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+
 ## Character Sheet Effects
 
 "Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet.
