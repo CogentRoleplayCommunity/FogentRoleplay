@@ -31,7 +31,7 @@
 |                                                                                                        |                                                        |          |                                                  |
 |           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                         59 lb                         |          |                    Equipment                    |
 |            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                         250 lb                         |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d6 to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|           [Light Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes)           |          -0d to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                        |          |                                                  |
 |          [Minor Silver Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md)          | +1 to the level of injury received from Silver damage. |          |                    Fellblood                    |
 |        [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)        |                           4                           |          |                      Armor                      |
@@ -143,7 +143,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name            | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md)                    | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # | [Effects](./../../../../../../README.md#effect-rules)                    | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | ------------------------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor  | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                                      |                             8                             |                    5 bc                    |             |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                             47                             |                    75 bp                    |             |
@@ -151,7 +151,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                  |        #        | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                  |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Backpack              | 30 lb container |                                                                    |                             5                             |                    2 bc                    |             |
 | Great Club            |        1        | Large Hafted Blunt                                                 |                             10                             |                    20 cc                    |             |
@@ -161,7 +161,7 @@
 | Copper Coin           |       67       |                                                                    |                            0.02                            |                    1 cc                    |             |
 | Handaxe               |        3        | Small Hafted Axe, Thrown Small Hafted Axe                          |                             2                             |                    5 bc                    |             |
 
-| Name           |  #  | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name           |  #  | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | -------------- | :--: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Chest          |  1  | 300 lb container                                                   |                             25                             |                    5 bc                    |             |
 | Bronze Coin    |  61  |                                                                    |                            0.02                            |                    1 bc                    |             |

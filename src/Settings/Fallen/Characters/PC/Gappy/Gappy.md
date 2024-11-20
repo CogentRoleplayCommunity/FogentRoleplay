@@ -34,7 +34,7 @@
 |                                                                                                                      |                                                      |          |                                                  |
 |                  [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                  |                        16 lb                        |          |                    Equipment                    |
 |                   [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                   |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|              [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light              |         -0d6 to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|              [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light              |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                      |                                                      |          |                                                  |
 |                [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |               [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)               |                          2                          |          |                  Armor & Shield                  |
@@ -126,7 +126,7 @@
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
 
-| Name                          | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                          | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------------- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Cane Sword                    | 1 |           Medium Thrusting Sword, Medium Slashing Sword           |                             2                             |                    25 bc                    |             |
 | Gambeson Armor                | 1 |          Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00          |                             8                             |                    5 bc                    |             |
@@ -134,7 +134,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                          | # | [Effects](./../../../../../CoreRules/AdvancedRules/EffectsOverview.md) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                          | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------------- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Backpack            | 1 | 30 lb container |  5  | 2 bc |             |
 | Bronze Coin         | 53 |                 | 0.02 | 1 bc |             |

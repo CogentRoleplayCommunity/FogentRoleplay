@@ -2,9 +2,7 @@
 
 Disabling characteristics represent flaws your character has. This is an essential part of every great character as everyone needs a shortcoming to overcome or a temptation to fall into. It should be noted that disabling characteristics can be remedied through narrative with the narrator's approval. If Disabling Characteristics are gained mid-campaign, it should make intuitive sense for that character. Maybe they picked up an addiction, got their heart broken, have a new fear of a monster they've recently faced or are suffering the long-lasting impact of a serious injury they took. Regardless this should be a negotiation between the player and narrator.
 
-## Disabling Characteristic Examples
-
-|                     Name                     |                               Desc                               | Duration | Source |
+|                     Name                     |                                Desc                                | Duration | Source |
 | :------------------------------------------: | :-----------------------------------------------------------------: | -------- | ------ |
 |              Disabling: Amnesia              |         Character is missing a large portion of their past.         |          |        |
 |   Disabling: Missing bodily extremity/limb   | STR and RFX dice penalties when performing tasks requiring 2 hands. |          |        |

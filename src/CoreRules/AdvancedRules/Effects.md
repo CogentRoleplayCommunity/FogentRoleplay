@@ -1,13 +1,149 @@
-# Narrative Effects
+# Effects
 
-Narrative Effects covers a broad range of narratively significant effects. They are delibretly left open ended to be able to do anything, with the understanding that if an Effect can be describe by one of the other more specific Effect types, it should. For instance, if a Narrator was trying to give a monster natrual armor to represent it's thick hide, they should use the Defense Effect instead of a Narrative Effect.
+Effects can be applied to either characters or items, adding new buffs/debuffs, weapons, defenses, narrative considerations, injuries, etc... In a fantasy setting, these could be magical enchantments. In a modern setting, these could be attachments to a rifle.
+
+The two large categories are "Character Sheet Effects" and "Narrative Effects".
+
+If you have two different effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+
+## Character Sheet Effects
+
+"Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet.
+
+For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
+
+If you have two different character sheet effects active that buff or debuff some feature of your character, these do not stack unless otherwise stated.
+
+### Attribute Dice Mods
+
+Adds or subtracts dice for dice pools if they governed by one of the Attributes specified.
+
+- [Injuries](./../CombatRules/Injury.md)
+- [Weight Classes](./../AdvancedRules/CarryWeight.md#weight-classes)
+
+|            Name            |                                                               Desc                                                               | Duration   | Source                                         |
+| :------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | ---------- | ---------------------------------------------- |
+|        Minor Injury        |        -1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.        |            |                                                |
+|       Medium Injury       | -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection. |            |                                                |
+|       Serious Injury       |                -3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.                |            |                                                |
+|        Fatal Injury        |                             -4d to STR/RFX/INT governed Dice Pools. Will die very soon if untreated.                             |            |                                                |
+|     Death Blow Injury     |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |            |                                                |
+|                            |                                                                                                                                  |            |                                                |
+|    Weight Class: Light    |                                                -0d to STR/RFX governed Dice Pools                                                | Indefinite | 0% =< Equipment Weight <= 25% of Carry Weight  |
+|    Weight Class: Medium    |                                                -1d to STR/RFX governed Dice Pools                                                | Indefinite | 25% < Equipment Weight <= 50% of Carry Weight  |
+|    Weight Class: Heavy    |                                                -2d to STR/RFX governed Dice Pools                                                | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
+| Weight Class: Overburdened |                                                -4d to STR/RFX governed Dice Pools                                                | Indefinite | 100% < Equipment Weight of Carry Weight        |
+
+### Skill Dice Mods
+
+Adds or subtracts dice dice for specific skill or vocation dice pools.
+
+| Name                               | Desc                       | Duration   | Source |
+| ---------------------------------- | -------------------------- | ---------- | ------ |
+| Minorly Enhanced Blazecraft        | +1d6 to Blazecraft.        | Indefinite |        |
+| Minorly Enhanced Knighthood        | +1d6 to Knighthood.        | Indefinite |        |
+| Minorly Enhanced Toxincraft        | +1d6 to Toxincraft.        | Indefinite |        |
+| Minorly Enhanced Athletics         | +1d6 to Athletics.         | Indefinite |        |
+| Enhanced Athletics                 | +2d6 to Athletics.         | Indefinite |        |
+| Greatly Enhanced Athletics         | +3d6 to Athletics.         | Indefinite |        |
+| Minorly Enhanced Endurance         | +1d6 to Endurance.         | Indefinite |        |
+| Enhanced Endurance                 | +2d6 to Endurance.         | Indefinite |        |
+| Greatly Enhanced Endurance         | +3d6 to Endurance.         | Indefinite |        |
+| Minorly Enhanced Lift              | +1d6 to Lift.              | Indefinite |        |
+| Enhanced Lift                      | +2d6 to Lift.              | Indefinite |        |
+| Greatly Enhanced Lift              | +3d6 to Lift.              | Indefinite |        |
+| Minorly Enhanced Dexterity         | +1d6 to Dexterity.         | Indefinite |        |
+| Enhanced Dexterity                 | +2d6 to Dexterity.         | Indefinite |        |
+| Greatly Enhanced Dexterity         | +3d6 to Dexterity.         | Indefinite |        |
+| Minorly Enhanced Perception        | +1d6 to Perception.        | Indefinite |        |
+| Enhanced Perception                | +2d6 to Perception.        | Indefinite |        |
+| Greatly Enhanced Perception        | +3d6 to Perception.        | Indefinite |        |
+| Minorly Enhanced Stealth           | +1d6 to Stealth.           | Indefinite |        |
+| Enhanced Stealth                   | +2d6 to Stealth.           | Indefinite |        |
+| Greatly Enhanced Stealth           | +3d6 to Stealth.           | Indefinite |        |
+| Minorly Enhanced Communication     | +1d6 to Communication.     | Indefinite |        |
+| Enhanced Communication             | +2d6 to Communication.     | Indefinite |        |
+| Greatly Enhanced Communication     | +3d6 to Communication.     | Indefinite |        |
+| Minorly Enhanced General Knowledge | +1d6 to General Knowledge. | Indefinite |        |
+| Enhanced General Knowledge         | +2d6 to General Knowledge. | Indefinite |        |
+| Greatly Enhanced General Knowledge | +3d6 to General Knowledge. | Indefinite |        |
+| Minorly Enhanced Will              | +1d6 to Will.              | Indefinite |        |
+| Enhanced Will                      | +2d6 to Will.              | Indefinite |        |
+| Greatly Enhanced Will              | +3d6 to Will.              | Indefinite |        |
+| Minorly Enhanced Medium Melee      | +1d6 to Medium Sword.      | Indefinite |        |
+
+### Set Attribute Level
+
+Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
+
+| Name           | Effect                   | Duration   | Source |
+| -------------- | ------------------------ | ---------- | ------ |
+| Super Strength | Strength set to level 4. | Indefinite |        |
+| Super Reflex   | Reflex set to level 4.   | Indefinite |        |
+
+### Set Skill Level
+
+Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+
+| Name             | Effect                     | Duration   | Source |
+| ---------------- | -------------------------- | ---------- | ------ |
+| Super Perception | Perception set to level 5. | Indefinite |        |
+
+### Attribute Level Adjustment
+
+For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
+
+| Name         | Desc             | Duration   | Source |
+| ------------ | ---------------- | ---------- | ------ |
+| Enhanced STR | +1 to STR level. | Indefinite |        |
+
+### Skill Level Adjustment
+
+For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
+
+| Name          | Desc              | Duration   | Source |
+| ------------- | ----------------- | ---------- | ------ |
+| Enhanced Lift | +1 to Lift level. | Indefinite |        |
+
+### Base Dice Mod
+
+Modifies a the base dice of a specific skill or vocation dice pools.
+
+| Name                                    | Desc                                                                       | Duration   | Source |
+| --------------------------------------- | -------------------------------------------------------------------------- | ---------- | ------ |
+| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
+| Fine Endurance Charm                    | 1d6, 2d8 base dice for Endurance skill.                                    | Indefinite |        |
+
+### Weapons
+
+See [Weapons](./src/CoreRules/CombatRules/Weapons.md) for more information.
+
+### Ammunitions
+
+See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more information.
+
+### Defense
+
+See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
+
+## Narrative Effects
+
+"Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
+
+For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative.
+
+- [Disabling Characteristics](./../CharacterCreationRules/DisablingCharacteristics.md)
+- [Healing](./Healing.md)
+- [Destiny Points](./../GeneralRules/DestinyPoints.md)
+- [Size](./../CombatRules/BattleMap.md#size)
+- [Weakness](./../CombatRules/WeaknessAndResistance.md#weakness)
+- [Resistance](./../CombatRules/WeaknessAndResistance.md#resistance)
+- [Vision](./../AdvancedRules/VisionAndLight.md#vision-types)
 
 ## Narrative Effect Examples
 
-|                     Name                     |                                                                                                                                                                                                                                                                          Desc                                                                                                                                                                                                                                                                          |    Duration    |         Source         |
+|                     Name                     |                                                                                                                                                                                                                                                                           Desc                                                                                                                                                                                                                                                                           |    Duration    |         Source         |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------------: |
-|                Super Strength                |                                                                                                                                                                                                                                                                 Strength set to level 4.                                                                                                                                                                                                                                                                 |                |                        |
-|                 Super Reflex                 |                                                                                                                                                                                                                                                                  Reflex set to level 4.                                                                                                                                                                                                                                                                  |                |                        |
 |              Spellcasting Focus              |                                                                                                                                                                                                                                                         Acts as a Spellcasting Focus for spells.                                                                                                                                                                                                                                                         |                |                        |
 |             Magic Resource Leech             |                                                                                                                                                                                                                                                Sneak attack regain 1 Magic Resource of the user's choice.                                                                                                                                                                                                                                                |                |                        |
 |                  Life Leech                  |                                                                                                                                                                                                                                                       Sneak attacks trigger an Minor Heal to self.                                                                                                                                                                                                                                                       |                |                        |
@@ -108,7 +244,7 @@ Narrative Effects covers a broad range of narratively significant effects. They 
 |     Disabling: Dexterity Overconfidence     |                                                                                                                                                                                                                                                 Extremely overconfident in Dexterity, cannot invest in.                                                                                                                                                                                                                                                 |                |                        |
 |     Disabling: Ride/Pilot Overconfidence     |                                                                                                                                                                                                                                                 Extremely overconfident in Ride/Pilot, cannot invest in.                                                                                                                                                                                                                                                 |                |                        |
 |      Disabling: Stealth Overconfidence      |                                                                                                                                                                                                                                                  Extremely overconfident in Stealth, cannot invest in.                                                                                                                                                                                                                                                  |                |                        |
-|     Disabling: General Knowledge Overconfidence     |                                                                                                                                                                                                                                               Extremely overconfident in General Knowledge, cannot invest in.                                                                                                                                                                                                                                               |                |                        |
+| Disabling: General Knowledge Overconfidence |                                                                                                                                                                                                                                             Extremely overconfident in General Knowledge, cannot invest in.                                                                                                                                                                                                                                             |                |                        |
 |        Disabling: Will Overconfidence        |                                                                                                                                                                                                                                                    Extremely overconfident in Will, cannot invest in.                                                                                                                                                                                                                                                    |                |                        |
 |   Disabling: Communication Overconfidence   |                                                                                                                                                                                                                                               Extremely overconfident in Communication, cannot invest in.                                                                                                                                                                                                                                               |                |                        |
 |        Disabling: Incapable of Lying        |                                                                                                                                                                                                                                             (Specific parameters required, see Cogent website for examples)                                                                                                                                                                                                                                             |                |                        |
