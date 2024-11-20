@@ -16,7 +16,8 @@ If you have two different character sheet effects active that buff or debuff som
 
 Adds or subtracts dice for dice pools if they governed by one of the Attributes specified.
 
-Both [Injuries](./../CombatRules/Injury.md) and [Weight Classes](./../AdvancedRules/CarryWeight.md#weight-classes) are Attribute Dice Mods.
+- [Injuries](./../CombatRules/Injury.md)
+- [Weight Classes](./../AdvancedRules/CarryWeight.md#weight-classes)
 
 |            Name            |                                                               Desc                                                               | Duration   | Source                                         |
 | :------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | ---------- | ---------------------------------------------- |
