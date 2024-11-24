@@ -75,7 +75,7 @@ Tentacle,+1d6,None,+1d6,0,Reach,3,None,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,2,6,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
 Arquebus,+0d6,+2d6,None,5,Long,2,7,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
-Musket,+0d6,+3d6,None,6,Sharpshooter,2,,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Musket,+0d6,+3d6,None,6,Sharpshooter,2,8,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,,
 9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,2,2,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
 9mm Burst Pistol,+3d6,None,+1d6,6,Medium,2,2,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
@@ -85,7 +85,7 @@ Musket,+0d6,+3d6,None,6,Sharpshooter,2,,,Musket Cartridge,1,,Medium Guns,Muzzlel
 5.56 Burst Rifle,+2d6,+4d6,None,8,Sharpshooter,2,2,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
 5.56 Automatic Rifle,+2d6,+4d6,None,8,Distant,1,2,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
 ,,,,,,,,,,,,,
-.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,2,2,,.308 Ammo,1,,Medium Guns,Marksman Rifle
+.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,3,2,,.308 Ammo,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun,+1d6,+4d6,None,6,Extended,2,3,,12 Gauge Ammo,1,,Medium Guns,Shotgun
 ,,,,,,,,,,,,,
