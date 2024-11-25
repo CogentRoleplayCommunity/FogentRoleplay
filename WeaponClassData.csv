@@ -1,21 +1,4 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,cpPerEngagment,cpPerReload,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
-Hand Crossbow,+1d6,None,+1d6,1,Medium,2,3,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
-Light Crossbow,None,+1d6,None,2,Far,2,4,,Light Bolt,1,,Light Crossbow,Light Crossbow
-Heavy Crossbow,None,+2d6,None,3,Long,2,6,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
-Light Bow,None,+1d6,None,1,Far,2,1,,Light Arrow,1,,Light Bow,Light Bow
-Heavy Bow,None,+2d6,None,3,Sharpshooter,3,1,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
-Blowgun,+0d6,None,None,0,Mediocre,2,2,,Blowgun Dart,1,,Exotic Ranged,Blowgun
-Sling,+0d6,None,None,1,Medium,3,1,,Sling Bullet,1,,Exotic Ranged,Sling
-,,,,,,,,,,,,,
-Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,2,None,,Self,1,Slash,Close Melee,Small Blade
-Thrown Small Piercing Blade,+0d6,None,+1d6,0,Short,2,None,,Self,1,Pierce,Close Melee,Small Blade
-Thrown Small Hafted Axe,+0d6,None,+1d6,0,Short,2,None,,Self,1,Hew,Close Melee,Small Hafted
-Thrown Small Hafted Blade,+0d6,None,+1d6,0,Short,2,None,,Self,1,Slash,Close Melee,Small Hafted
-Thrown Small Hafted Point,+0d6,None,+1d6,0,Short,2,None,,Self,1,Pierce,Close Melee,Small Hafted
-Thrown Small Hafted Blunt,+0d6,None,+1d6,0,Short,2,None,,Self,1,Bludgeon,Close Melee,Small Hafted
-Thrown Medium Spear,+1d6,None,+1d6,2,Medium,2,None,,Self,1,Pierce,Medium Melee,Medium Spear
-Thrown Large Spear,+1d6,None,None,3,Short,2,None,,Self,1,Pierce,Large Melee,Large Spear
-,,,,,,,,,,,,,
 Unarmed,-1,None,+0d6,0,Melee,2,None,,None,,Bludgeon,Close Melee,Unarmed
 Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,2,None,,None,,Bludgeon,Close Melee,Unarmed
 Spiked Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,2,None,,None,,Pierce,Close Melee,Unarmed
@@ -72,6 +55,23 @@ Slam,+0d6,None,+1d6,2,Melee,2,None,,None,,Bludgeon,Primal Melee,Slam
 Large Slam,+0d6,None,+1d6,4,Melee,2,None,,None,,Bludgeon,Primal Melee,Slam
 ,,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,3,None,,None,,Slash,Primal Melee,Tentacle
+,,,,,,,,,,,,,
+Hand Crossbow,+1d6,None,+1d6,1,Medium,2,3,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
+Light Crossbow,None,+1d6,None,2,Far,2,4,,Light Bolt,1,,Light Crossbow,Light Crossbow
+Heavy Crossbow,None,+2d6,None,3,Long,2,6,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
+Light Bow,None,+1d6,None,1,Far,2,1,,Light Arrow,1,,Light Bow,Light Bow
+Heavy Bow,None,+2d6,None,3,Sharpshooter,3,1,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
+Blowgun,+0d6,None,None,0,Mediocre,2,2,,Blowgun Dart,1,,Exotic Ranged,Blowgun
+Sling,+0d6,None,None,1,Medium,3,1,,Sling Bullet,1,,Exotic Ranged,Sling
+,,,,,,,,,,,,,
+Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,2,None,,Self,1,Slash,Close Melee,Small Blade
+Thrown Small Piercing Blade,+0d6,None,+1d6,0,Short,2,None,,Self,1,Pierce,Close Melee,Small Blade
+Thrown Small Hafted Axe,+0d6,None,+1d6,0,Short,2,None,,Self,1,Hew,Close Melee,Small Hafted
+Thrown Small Hafted Blade,+0d6,None,+1d6,0,Short,2,None,,Self,1,Slash,Close Melee,Small Hafted
+Thrown Small Hafted Point,+0d6,None,+1d6,0,Short,2,None,,Self,1,Pierce,Close Melee,Small Hafted
+Thrown Small Hafted Blunt,+0d6,None,+1d6,0,Short,2,None,,Self,1,Bludgeon,Close Melee,Small Hafted
+Thrown Medium Spear,+1d6,None,+1d6,2,Medium,2,None,,Self,1,Pierce,Medium Melee,Medium Spear
+Thrown Large Spear,+1d6,None,None,3,Short,2,None,,Self,1,Pierce,Large Melee,Large Spear
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,2,12,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
 Arquebus,+0d6,+2d6,None,5,Long,2,12,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
