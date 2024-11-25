@@ -74,7 +74,7 @@ Large Slam,+0d6,None,+1d6,4,Melee,2,None,,None,,Bludgeon,Primal Melee,Slam
 Tentacle,+1d6,None,+1d6,0,Reach,3,None,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,2,12,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
-Arquebus,+0d6,+2d6,None,5,Long,2,13,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
+Arquebus,+0d6,+2d6,None,5,Long,2,12,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 Musket,+0d6,+3d6,None,6,Sharpshooter,2,16,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,,
 9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,2,2,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
