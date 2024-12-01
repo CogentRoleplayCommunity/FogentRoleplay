@@ -96,7 +96,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Blowgun |      +0d6      |      None      |       None       |      0      | Mediocre |           Slow           |                    |  Blowgun Dart  |         1         |                  |
+| Blowgun |      +0d6      |      None      |       None       |      0      | Mediocre |           Steady           |                    |  Blowgun Dart  |         1         |                  |
 
 ### Sling
 
