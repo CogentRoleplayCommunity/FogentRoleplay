@@ -46,12 +46,12 @@ Large Thrusting Sword,+0d6,+2d6,None,3,Melee,Swift,,None,,Pierce,Large Melee,Lar
 Large Slashing Sword,+1d6,+3d6,None,2,Melee,Swift,,None,,Slash,Large Melee,Large Sword
 Large Spear,+2d6,+3d6,None,3,Melee,Steady,,None,,Pierce,Large Melee,Large Spear
 ,,,,,,,,,,,,
-Reach Hafted Axe,-2,+4d6,None,3,Reach,Sweeping,,None,,Hew,Reach Melee,Reach Hafted
-Reach Hafted Blade,-2,+4d6,None,3,Reach,Sweeping,,None,,Slash,Reach Melee,Reach Hafted
-Reach Hafted Point,-2,+3d6,None,4,Reach,Sweeping,,None,,Pierce,Reach Melee,Reach Hafted
-Reach Hafted Blunt,-2,+2d6,None,5,Reach,Sweeping,,None,,Bludgeon,Reach Melee,Reach Hafted
-Reach Thrusting Sword,-2,+3d6,None,4,Reach,Sweeping,,None,,Pierce,Reach Melee,Reach Sword
-Reach Slashing Sword,-2,+4d6,None,3,Reach,Sweeping,,None,,Slash,Reach Melee,Reach Sword
+Reach Hafted Axe,-2,+4d6,None,3,Reach,Reach Swift,,None,,Hew,Reach Melee,Reach Hafted
+Reach Hafted Blade,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted
+Reach Hafted Point,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Hafted
+Reach Hafted Blunt,-2,+2d6,None,5,Reach,Reach Swift,,None,,Bludgeon,Reach Melee,Reach Hafted
+Reach Thrusting Sword,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Sword
+Reach Slashing Sword,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Sword
 Reach Spear,-2,+4d6,None,4,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear
 Whip,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip
 ,,,,,,,,,,,,
