@@ -4,7 +4,7 @@ Light Crossbow,None,+1d6,None,2,Far,Steady,,Light Bolt,1,,Light Crossbow,Light C
 Heavy Crossbow,None,+2d6,None,3,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
 Light Bow,None,+1d6,None,1,Far,Swift,,Light Arrow,1,,Light Bow,Light Bow
 Heavy Bow,None,+2d6,None,3,Sharpshooter,Quick,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
-Blowgun,+0d6,None,None,0,Mediocre,Slow,,Blowgun Dart,1,,Exotic Ranged,Blowgun
+Blowgun,+0d6,None,None,0,Mediocre,Steady,,Blowgun Dart,1,,Exotic Ranged,Blowgun
 Sling,+0d6,None,None,1,Medium,Steady,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
 Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,Quick,,Self,1,Slash,Close Melee,Small Blade
