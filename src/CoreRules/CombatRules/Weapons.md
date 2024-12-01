@@ -116,9 +116,9 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      6      | Extended |           Quick           |                    |    9mm Ammo    |         1         |                  |
-|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      |  Medium  |           Quick           |                    |    9mm Ammo    |         3         |                  |
-|   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      6      |  Short  |           Swift           |                    |    9mm Ammo    |         6         |                  |
+| 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      6      | Extended |           Reach Swift           |                    |    9mm Ammo    |         1         |                  |
+|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      |  Medium  |           Reach Swift           |                    |    9mm Ammo    |         3         |                  |
+|   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      6      |  Short  |           Rapid           |                    |    9mm Ammo    |         6         |                  |
 
 ## Medium Guns
 
@@ -133,21 +133,21 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      8      |   Extreme   |           Quick           |                    |   5.56 Ammo   |         1         |                  |
-|     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      8      | Sharpshooter |           Quick           |                    |   5.56 Ammo   |         3         |                  |
-|   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      8      |   Distant   |           Swift           |                    |   5.56 Ammo   |         6         |                  |
+| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      8      |   Extreme   |           Reach Swift           |                    |   5.56 Ammo   |         1         |                  |
+|     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      8      | Sharpshooter |           Reach Swift           |                    |   5.56 Ammo   |         3         |                  |
+|   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      8      |   Distant   |           Rapid           |                    |   5.56 Ammo   |         6         |                  |
 
 ### Shotgun
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |          Steady          |                    | 12 Gauge Ammo |         1         |                  |
+| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |          Swift          |                    | 12 Gauge Ammo |         1         |                  |
 
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Paced           |                    |   .308 Ammo   |         1         |                  |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Quick           |                    |   .308 Ammo   |         1         |                  |
 
 ## Heavy Guns
 
@@ -155,13 +155,13 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |           Swift           |                    |   5.56 Ammo   |        10        |                  |
+| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |           Rapid           |                    |   5.56 Ammo   |        10        |                  |
 
 ### Launcher
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |           Slow           |                    |    RPG Ammo    |         1         |                  |
+| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |           Paced           |                    |    RPG Ammo    |         1         |                  |
 
 ## Close Melee
 
