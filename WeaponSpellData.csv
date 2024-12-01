@@ -14,9 +14,9 @@ Magic Large Thrust,+0d6,+2d6,None,3,Melee,Swift,,2
 Magic Large Smash,-1,+1d6,None,5,Melee,Swift,,2
 Magic Large Spear,+2d6,+3d6,None,3,Melee,Steady,,2
 ,,,,,,,,
-Magic Reach Slash,-2,+4d6,None,3,Reach,Swift,,3
-Magic Reach Thrust,-2,+3d6,None,4,Reach,Swift,,3
-Magic Reach Smash,-2,+2d6,None,5,Reach,Swift,,3
+Magic Reach Slash,-2,+4d6,None,3,Reach,Sweeping,,3
+Magic Reach Thrust,-2,+3d6,None,4,Reach,Sweeping,,3
+Magic Reach Smash,-2,+2d6,None,5,Reach,Sweeping,,3
 Magic Reach Spear,-2,+4d6,None,4,Reach,Steady,,3
 ,,,,,,,,
 Magic Dart,+0d6,None,+1d6,0,Short,Quick,,0
