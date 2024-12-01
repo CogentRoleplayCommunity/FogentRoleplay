@@ -3,7 +3,7 @@ Hand Crossbow,+1d6,None,+1d6,1,Medium,Steady,,Light Bolt,1,,Hand Crossbow,Hand C
 Light Crossbow,None,+1d6,None,2,Far,Slow,,Light Bolt,1,,Light Crossbow,Light Crossbow
 Heavy Crossbow,None,+2d6,None,3,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
 Light Bow,None,+1d6,None,1,Far,Swift,,Light Arrow,1,,Light Bow,Light Bow
-Heavy Bow,None,+2d6,None,3,Sharpshooter,Paced,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
+Heavy Bow,None,+2d6,None,3,Sharpshooter,Quick,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
 Blowgun,+0d6,None,None,0,Mediocre,Slow,,Blowgun Dart,1,,Exotic Ranged,Blowgun
 Sling,+0d6,None,None,1,Medium,Steady,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
