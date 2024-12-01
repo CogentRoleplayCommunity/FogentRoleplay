@@ -54,7 +54,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Medium |          Steady          |                    |   Light Bolt   |         1         |                  |
+| Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Medium |          Quick          |                    |   Light Bolt   |         1         |                  |
 
 ## Light Crossbow
 
