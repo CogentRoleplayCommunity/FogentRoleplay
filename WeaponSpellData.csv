@@ -1,42 +1,42 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,cpPerEngagement,cpPerReload,areaOfEffect,magicResourceAmount
-Magic Glove,+0d6,None,+1d6,0,Melee,2,None,,0
-Magic Small Thrust,+0d6,None,+1d6,2,Melee,2,None,,0
-Magic Small Slash,+1d6,None,+1d6,0,Melee,2,None,,0
-,,,,,,,,,
-Magic Medium Slash,+2d6,+3d6,+1d6,1,Melee,2,None,,1
-Magic Medium Thrust,+1d6,+2d6,+1d6,2,Melee,2,None,,1
-Magic Medium Smash,+0d6,+1d6,+1d6,4,Melee,2,None,,1
-Magic Medium Spear,+2d6,None,+1d6,2,Melee,3,None,,1
-Magic Whip,+1d6,None,+1d6,0,Reach,2,None,,1
-,,,,,,,,,
-Magic Large Slash,+1d6,+3d6,None,2,Melee,2,None,,2
-Magic Large Thrust,+0d6,+2d6,None,3,Melee,2,None,,2
-Magic Large Smash,-1,+1d6,None,5,Melee,2,None,,2
-Magic Large Spear,+2d6,+3d6,None,3,Melee,3,None,,2
-,,,,,,,,,
-Magic Reach Slash,-2,+4d6,None,3,Reach,2,None,,3
-Magic Reach Thrust,-2,+3d6,None,4,Reach,2,None,,3
-Magic Reach Smash,-2,+2d6,None,5,Reach,2,None,,3
-Magic Reach Spear,-2,+4d6,None,4,Reach,3,None,,3
-,,,,,,,,,
-Magic Dart,+0d6,None,+1d6,0,Short,Quick,,,0
-Magic Sling,+0d6,None,None,1,Medium,Steady,,,0
-,,,,,,,,,
-Magic Javelin,+1d6,None,+1d6,2,Medium,Steady,,,1
-Magic Hand Bolt,+1d6,None,+1d6,0,Medium,Steady,,,1
-Magic Bolt,None,+1d6,None,2,Far,Slow,,,1
-Magic Arrow,None,+1d6,None,1,Far,Quick,,,1
-Magic Close Cone,None,+1d6,None,3,Close,1,,Close Cone Calculation,1
-,,,,,,,,,
-Magic Penetrating Hand Bolt,+1d6,None,+1d6,1,Medium,Steady,,,2
-Magic Penetrating Bolt,None,+1d6,None,3,Far,Slow,,,2
-Magic Penetrating Arrow,None,+1d6,None,2,Far,Quick,,,2
-Magic Great Javelin,+1d6,None,None,3,Short,Steady,,,2
-Magic Great Bolt,None,+2d6,None,3,Long,Extremely Slow,,,2
-Magic Medium Cone,None,+1d6,None,3,Medium,1,,Medium Cone Calculation,2
-,,,,,,,,,
-Magic Penetrating Great Bolt,None,+2d6,None,4,Long,Extremely Slow,,,3
-Magic Great Arrow,None,+2d6,None,3,Sharpshooter,Paced,,,3
-Magic Medium Sphere,None,+2d6,None,3,Long,1,,Medium Sphere Calculation,3
-,,,,,,,,,
-Magic Penetrating Great Arrow,None,+2d6,None,4,Sharpshooter,Steady,,,4
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,magicResourceAmount
+Magic Glove,+0d6,None,+1d6,0,Melee,Swift,,0
+Magic Small Thrust,+0d6,None,+1d6,2,Melee,Swift,,0
+Magic Small Slash,+1d6,None,+1d6,0,Melee,Swift,,0
+,,,,,,,,
+Magic Medium Slash,+2d6,+3d6,+1d6,1,Melee,Swift,,1
+Magic Medium Thrust,+1d6,+2d6,+1d6,2,Melee,Swift,,1
+Magic Medium Smash,+0d6,+1d6,+1d6,4,Melee,Swift,,1
+Magic Medium Spear,+2d6,None,+1d6,2,Melee,Steady,,1
+Magic Whip,+1d6,None,+1d6,0,Reach,Swift,,1
+,,,,,,,,
+Magic Large Slash,+1d6,+3d6,None,2,Melee,Swift,,2
+Magic Large Thrust,+0d6,+2d6,None,3,Melee,Swift,,2
+Magic Large Smash,-1,+1d6,None,5,Melee,Swift,,2
+Magic Large Spear,+2d6,+3d6,None,3,Melee,Steady,,2
+,,,,,,,,
+Magic Reach Slash,-2,+4d6,None,3,Reach,Swift,,3
+Magic Reach Thrust,-2,+3d6,None,4,Reach,Swift,,3
+Magic Reach Smash,-2,+2d6,None,5,Reach,Swift,,3
+Magic Reach Spear,-2,+4d6,None,4,Reach,Steady,,3
+,,,,,,,,
+Magic Dart,+0d6,None,+1d6,0,Short,Quick,,0
+Magic Sling,+0d6,None,None,1,Medium,Steady,,0
+,,,,,,,,
+Magic Javelin,+1d6,None,+1d6,2,Medium,Steady,,1
+Magic Hand Bolt,+1d6,None,+1d6,0,Medium,Steady,,1
+Magic Bolt,None,+1d6,None,2,Far,Slow,,1
+Magic Arrow,None,+1d6,None,1,Far,Quick,,1
+Magic Close Cone,None,+1d6,None,3,Close,1,Close Cone Calculation,1
+,,,,,,,,
+Magic Penetrating Hand Bolt,+1d6,None,+1d6,1,Medium,Steady,,2
+Magic Penetrating Bolt,None,+1d6,None,3,Far,Slow,,2
+Magic Penetrating Arrow,None,+1d6,None,2,Far,Quick,,2
+Magic Great Javelin,+1d6,None,None,3,Short,Steady,,2
+Magic Great Bolt,None,+2d6,None,3,Long,Extremely Slow,,2
+Magic Medium Cone,None,+1d6,None,3,Medium,1,Medium Cone Calculation,2
+,,,,,,,,
+Magic Penetrating Great Bolt,None,+2d6,None,4,Long,Extremely Slow,,3
+Magic Great Arrow,None,+2d6,None,3,Sharpshooter,Paced,,3
+Magic Medium Sphere,None,+2d6,None,3,Long,1,Medium Sphere Calculation,3
+,,,,,,,,
+Magic Penetrating Great Arrow,None,+2d6,None,4,Sharpshooter,Steady,,4
