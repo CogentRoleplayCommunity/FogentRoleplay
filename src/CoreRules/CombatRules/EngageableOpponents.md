@@ -17,6 +17,7 @@ The amount of opponents a character can engage in a round is calculated using th
 |     Steady     |    4    |           0           |  None  |
 |     Paced     |    5    |           0           |  None  |
 |      Slow      |    6    |           0           |  None  |
+|   Very Slow    |    8    |           0           |  None  |
 | Extremely Slow |   10   |           0           |  None  |
 
 For example, if a character had 7 dice in their governing skill dice pool with an Engageable Opponents types of Quick, 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Engageable Opponents for that combat roll within the round.
