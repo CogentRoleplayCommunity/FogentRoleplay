@@ -186,10 +186,10 @@ The types of Damage a weapon inflicts when dealing injuries.
 |    Small Hafted Point    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
 |    Small Hafted Blunt    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |     Bludgeon     |
 |           Torch           |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |  Bludgeon, Fire  |
-|  Thrown Small Hafted Axe  |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |        Hew        |
-| Thrown Small Hafted Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |       Slash       |
-| Thrown Small Hafted Point |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |      Pierce      |
-| Thrown Small Hafted Blunt |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |     Bludgeon     |
+|  Thrown Small Hafted Axe  |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |        Hew        |
+| Thrown Small Hafted Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |       Slash       |
+| Thrown Small Hafted Point |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |      Pierce      |
+| Thrown Small Hafted Blunt |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |     Bludgeon     |
 
 ### Small Blade
 
@@ -199,8 +199,8 @@ The types of Damage a weapon inflicts when dealing injuries.
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
 |    Small Piercing Blade    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
 |    Small Slashing Blade    |      +1d6      |      None      |       +1d6       |      0      | Melee |           Swift           |                    |      None      |                  |       Slash       |
-| Thrown Small Slashing Blade |      +0d6      |                |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |       Slash       |
-| Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |      Pierce      |
+| Thrown Small Slashing Blade |      +0d6      |                |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |       Slash       |
+| Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |      Pierce      |
 
 ## Medium Melee
 
