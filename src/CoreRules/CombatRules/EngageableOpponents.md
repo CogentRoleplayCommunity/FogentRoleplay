@@ -11,7 +11,7 @@ The amount of opponents a character can engage in a round is calculated using th
 |      Name      | Divisor | Dice Amount Adjustment | Max EO |
 | :------------: | :-----: | :--------------------: | :----: |
 |     Rapid     |    1    |           0           |  None  |
-|    Sweeping    |    2    |           2           |  None  |
+|    Reach Swift    |    2    |           2           |  None  |
 |     Swift     |    2    |           0           |  None  |
 |     Quick     |    3    |           0           |  None  |
 |     Steady     |    4    |           0           |  None  |
