@@ -30,7 +30,7 @@ On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, e
 
 ### Engageable Opponents if character is using multiple loaded weapons
 
-In examples where characters have loaded weapons (for instance loaded muzzle loading firearms) within easy access to themselves, they can forgo loading, and instead treat the Engageable Opponents of such as an Engaeable Opponents type the Narrator decides. For instance, for muzzle loading pistols being drawn from a chest rig, "Swift" seems like a reasonable Engageable Opponents type.
+In examples where characters have loaded weapons (for instance loaded muzzle loading firearms) within easy access to themselves, they can forgo loading, and instead treat the Engageable Opponents of such as an Engageable Opponents type the Narrator decides. For instance, for muzzle loading pistols being drawn from a chest rig, "Swift" seems like a reasonable Engageable Opponents type.
 
 ### Engageable Opponent Calculation Examples
 
