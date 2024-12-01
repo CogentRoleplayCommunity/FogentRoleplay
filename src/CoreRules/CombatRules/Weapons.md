@@ -274,10 +274,10 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-|  Reach Hafted Axe  |       -2       |      +4d6      |       None       |      3      | Reach |           Swift           |                    |      None      |                  |        Hew        |
-| Reach Hafted Blade |       -2       |      +4d6      |       None       |      3      | Reach |           Swift           |                    |      None      |                  |       Slash       |
-| Reach Hafted Point |       -2       |      +3d6      |       None       |      4      | Reach |           Swift           |                    |      None      |                  |      Pierce      |
-| Reach Hafted Blunt |       -2       |      +2d6      |       None       |      5      | Reach |           Swift           |                    |      None      |                  |     Bludgeon     |
+|  Reach Hafted Axe  |       -2       |      +4d6      |       None       |      3      | Reach |           Sweeping           |                    |      None      |                  |        Hew        |
+| Reach Hafted Blade |       -2       |      +4d6      |       None       |      3      | Reach |           Sweeping           |                    |      None      |                  |       Slash       |
+| Reach Hafted Point |       -2       |      +3d6      |       None       |      4      | Reach |           Sweeping           |                    |      None      |                  |      Pierce      |
+| Reach Hafted Blunt |       -2       |      +2d6      |       None       |      5      | Reach |           Sweeping           |                    |      None      |                  |     Bludgeon     |
 
 ### Reach Sword
 
@@ -285,8 +285,8 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Reach Thrusting Sword |       -2       |      +3d6      |       None       |      4      | Reach |           Swift           |                    |      None      |                  |      Pierce      |
-| Reach Slashing Sword |       -2       |      +4d6      |       None       |      3      | Reach |           Swift           |                    |      None      |                  |       Slash       |
+| Reach Thrusting Sword |       -2       |      +3d6      |       None       |      4      | Reach |           Sweeping           |                    |      None      |                  |      Pierce      |
+| Reach Slashing Sword |       -2       |      +4d6      |       None       |      3      | Reach |           Sweeping           |                    |      None      |                  |       Slash       |
 
 ### Reach Spear
 
