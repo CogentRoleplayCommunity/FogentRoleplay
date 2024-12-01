@@ -77,17 +77,17 @@ Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Extremely Slow,,Muzzleloading Pisto
 Arquebus,+0d6,+2d6,None,5,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 Musket,+0d6,+3d6,None,6,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,
-9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Quick,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
-9mm Burst Pistol,+3d6,None,+1d6,6,Medium,Quick,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
-9mm Automatic Pistol,+3d6,None,+1d6,6,Short,Swift,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol
+9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
+9mm Burst Pistol,+3d6,None,+1d6,6,Medium,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
+9mm Automatic Pistol,+3d6,None,+1d6,6,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol
 ,,,,,,,,,,,,
-5.56 Semi-automatic Rifle,+1d6,+3d6,None,8,Extreme,Quick,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle
-5.56 Burst Rifle,+2d6,+4d6,None,8,Sharpshooter,Quick,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
-5.56 Automatic Rifle,+2d6,+4d6,None,8,Distant,Swift,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
+5.56 Semi-automatic Rifle,+1d6,+3d6,None,8,Extreme,Reach Swift,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle
+5.56 Burst Rifle,+2d6,+4d6,None,8,Sharpshooter,Reach Swift,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle
+5.56 Automatic Rifle,+2d6,+4d6,None,8,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle
 ,,,,,,,,,,,,
-.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Paced,,.308 Ammo,1,,Medium Guns,Marksman Rifle
+.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Quick,,.308 Ammo,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,
-12 Gauge Pump-action Shotgun,+1d6,+4d6,None,6,Extended,Steady,,12 Gauge Ammo,1,,Medium Guns,Shotgun
+12 Gauge Pump-action Shotgun,+1d6,+4d6,None,6,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun
 ,,,,,,,,,,,,
-5.56 Machine Gun,-2,+5d6,None,8,Extreme,Swift,,5.56 Ammo,10,,Heavy Guns,Machine Gun
-RPG Launcher,-2,+6d6,None,12,Sharpshooter,Slow,,RPG Ammo,1,,Heavy Guns,Launcher
+5.56 Machine Gun,-2,+5d6,None,8,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun
+RPG Launcher,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher
