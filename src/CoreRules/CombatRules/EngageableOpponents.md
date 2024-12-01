@@ -17,7 +17,6 @@ The amount of opponents a character can engage in a round is calculated using th
 |     Steady     |    4    |           0           |  None  |
 |     Paced     |    5    |           0           |  None  |
 |      Slow      |    6    |           0           |  None  |
-|   Very Slow   |    7    |           0           |  None  |
 | Extremely Slow |    8    |           0           |  None  |
 | Painfully Slow |   16   |           0           |  None  |
 
