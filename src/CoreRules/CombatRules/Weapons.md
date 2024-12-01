@@ -127,7 +127,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect |   Ammo<br />Type   | Ammo<br />Per Use | Damage<br />Types |
 | :------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :----------------: | :---------------: | :---------------: |
 | Arquebus |      +0d6      |      +2d6      |       None       |      5      |     Long     |      Extremely Slow      |                    | Arquebus Cartridge |         1         |                  |
-|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Extremely Slow      |                    |  Musket Cartridge  |         1         |                  |
+|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Painfully Slow      |                    |  Musket Cartridge  |         1         |                  |
 
 ### Intermediate Cartridge Rifle
 
