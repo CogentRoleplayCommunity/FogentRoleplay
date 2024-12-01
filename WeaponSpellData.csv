@@ -36,8 +36,8 @@ Magic Penetrating Arrow,None,+1d6,None,2,Far,Swift,,2
 Magic Medium Cone,None,+1d6,None,3,Medium,1,Medium Cone Calculation,2
 Magic Great Arrow,None,+2d6,None,3,Sharpshooter,Quick,,2
 ,,,,,,,,
-Magic Medium Sphere,None,+2d6,None,4,Long,1,Medium Sphere Calculation,3
 Magic Penetrating Great Arrow,None,+2d6,None,4,Sharpshooter,Quick,,3
 Magic Hand Shot,+2d6,None,+1d6,4,Medium,Extremely Slow,,3
 Magic Shot,+0d6,+2d6,None,5,Long,Extremely Slow,,3
 Magic Great Shot,+0d6,+3d6,None,6,Sharpshooter,Painfully Slow,,3
+Magic Medium Sphere,None,+2d6,None,4,Long,1,Medium Sphere Calculation,3
