@@ -6,23 +6,24 @@ Engageable Opponents represent the number of opponents that can be fought in a c
 
 The amount of opponents a character can engage in a round is calculated using the following equation:
 
-(Number of Combat Roll Dice) / (Divisor), rounded down only if above 1, to a maximum of (Max EO)
+( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Divisor), rounded down only if above 1, to a maximum of (Max EO)
 
-|      Name      | Divisor | Max EO |
-| :------------: | :-----: | :----: |
-|     Rapid     |    1    |  None  |
-|     Swift     |    2    |  None  |
-|     Quick     |    3    |  None  |
-|     Steady     |    4    |  None  |
-|     Paced     |    5    |  None  |
-|      Slow      |    6    |  None  |
-| Extremely Slow |   10   |  None  |
+|      Name      | Divisor | Dice Amount Adjustment | Max EO |
+| :------------: | :-----: | :--------------------: | :----: |
+|     Rapid     |    1    |           0           |  None  |
+|    Reach Swift    |    2    |           2           |  None  |
+|     Swift     |    2    |           0           |  None  |
+|     Quick     |    3    |           0           |  None  |
+|     Steady     |    4    |           0           |  None  |
+|     Paced     |    5    |           0           |  None  |
+|      Slow      |    6    |           0           |  None  |
+| Extremely Slow |   10   |           0           |  None  |
 
-For example, if a character had 7 dice in their combat roll with an Engageable Opponents types of Quick, 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Engageable Opponents for that combat roll.
+For example, if a character had 7 dice in their governing skill dice pool with an Engageable Opponents types of Quick, 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Engageable Opponents for that combat roll within the round.
 
 ### Engageable Opponent calculation resulting in less than 1
 
-On a round where you combat roll IS prepared (i.e. your Heavy Crossbow is loaded, etc...) you can engage 1 opponent.
+On a round where you weapon IS prepared (i.e. your Heavy Crossbow is loaded, etc...) you can engage 1 opponent.
 
 On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, etc...), if your EO is greater than or equal to 0.5 and less than 1, you must spend 1 round reloading/preparing in order to use this roll again. If your EO is greater than 0 and less 0.5, your character must spend 2 rounds reloading/preparing. While reloading/preparing the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
 
