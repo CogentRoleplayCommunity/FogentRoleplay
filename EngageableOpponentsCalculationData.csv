@@ -1,5 +1,6 @@
 name,combatRollDivisor,diceAmountAdjustment,maxEO
 Rapid,1,0,None
+Sweeping,2,2,None
 Swift,2,0,None
 Quick,3,0,None
 Steady,4,0,None
