@@ -102,7 +102,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Sling |      +0d6      |      None      |       None       |      1      | Medium |          Steady          |                    |  Sling Bullet  |         1         |                  |
+| Sling |      +0d6      |      None      |       None       |      1      | Medium |          Quick          |                    |  Sling Bullet  |         1         |                  |
 
 ## Small Guns
 
