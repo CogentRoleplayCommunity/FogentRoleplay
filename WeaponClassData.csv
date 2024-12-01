@@ -13,8 +13,8 @@ Thrown Small Hafted Axe,+0d6,None,+1d6,0,Short,Swift,,Self,1,Hew,Close Melee,Sma
 Thrown Small Hafted Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Slash,Close Melee,Small Hafted
 Thrown Small Hafted Point,+0d6,None,+1d6,0,Short,Swift,,Self,1,Pierce,Close Melee,Small Hafted
 Thrown Small Hafted Blunt,+0d6,None,+1d6,0,Short,Swift,,Self,1,Bludgeon,Close Melee,Small Hafted
-Thrown Medium Spear,+1d6,None,+1d6,2,Medium,Steady,,Self,1,Pierce,Medium Melee,Medium Spear
-Thrown Large Spear,+1d6,None,None,3,Short,Steady,,Self,1,Pierce,Large Melee,Large Spear
+Thrown Medium Spear,+1d6,None,+1d6,2,Medium,Quick,,Self,1,Pierce,Medium Melee,Medium Spear
+Thrown Large Spear,+1d6,None,None,3,Short,Quick,,Self,1,Pierce,Large Melee,Large Spear
 ,,,,,,,,,,,,
 Unarmed,-1,None,+0d6,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed
 Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed
@@ -36,7 +36,7 @@ Medium Thrusting Sword,+1d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,M
 Medium Slashing Sword,+2d6,None,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword
 Medium Versatile Thrusting Sword,+1d6,+2d6,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Sword
 Medium Versatile Slashing Sword,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword
-Medium Spear,+2d6,None,+1d6,2,Melee,Steady,,None,,Pierce,Medium Melee,Medium Spear
+Medium Spear,+2d6,None,+1d6,2,Melee,Quick,,None,,Pierce,Medium Melee,Medium Spear
 ,,,,,,,,,,,,
 Large Hafted Axe,+1d6,+3d6,None,2,Melee,Swift,,None,,Hew,Large Melee,Large Hafted
 Large Hafted Blade,+1d6,+3d6,None,2,Melee,Swift,,None,,Slash,Large Melee,Large Hafted
@@ -44,7 +44,7 @@ Large Hafted Point,+0d6,+2d6,None,3,Melee,Swift,,None,,Pierce,Large Melee,Large 
 Large Hafted Blunt,-1,+1d6,None,5,Melee,Swift,,None,,Bludgeon,Large Melee,Large Hafted
 Large Thrusting Sword,+0d6,+2d6,None,3,Melee,Swift,,None,,Pierce,Large Melee,Large Sword
 Large Slashing Sword,+1d6,+3d6,None,2,Melee,Swift,,None,,Slash,Large Melee,Large Sword
-Large Spear,+2d6,+3d6,None,3,Melee,Steady,,None,,Pierce,Large Melee,Large Spear
+Large Spear,+2d6,+3d6,None,3,Melee,Quick,,None,,Pierce,Large Melee,Large Spear
 ,,,,,,,,,,,,
 Reach Hafted Axe,-2,+4d6,None,3,Reach,Reach Swift,,None,,Hew,Reach Melee,Reach Hafted
 Reach Hafted Blade,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted
@@ -55,10 +55,10 @@ Reach Slashing Sword,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,R
 Reach Spear,-2,+4d6,None,4,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear
 Whip,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip
 ,,,,,,,,,,,,
-Weak Bite,None,-1,None,0,Melee,Steady,,None,,"Pierce, Bludgeon",Primal Melee,Bite
-Small Bite,None,+1d6,None,1,Melee,Steady,,None,,"Pierce, Bludgeon",Primal Melee,Bite
-Bite,None,+2d6,None,2,Melee,Steady,,None,,"Pierce, Bludgeon",Primal Melee,Bite
-Large Bite,None,+3d6,None,3,Melee,Steady,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Weak Bite,None,-1,None,0,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Small Bite,None,+1d6,None,1,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Bite,None,+2d6,None,2,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Large Bite,None,+3d6,None,3,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
 ,,,,,,,,,,,,
 Slashing Claw,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Primal Melee,Claw
 Piercing Claw,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Primal Melee,Claw
