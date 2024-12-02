@@ -2,16 +2,12 @@
 
 ![Copyrighted Image](RadiantDragonScaleTalisman+1.png)
 
-## Desc
-
-## Info
-
-|               Name               | # | Class |          Effect          |   Tier   | Durability | LB | Value |
-| :------------------------------: | :-: | :---: | :-----------------------: | :-------: | :--------: | :-: | :---: |
-| Radiant Dragon Scale Talisman +1 | 1 |      | Medium Radiant Resistance | Exquisite |   27/27   | 0.2 |   ?   |
+|               Name               | # |          Effects          | LB | Value | Description |
+| :------------------------------: | :-: | :-----------------------: | :-: | :---: | ----------- |
+| Radiant Dragon Scale Talisman +1 | 1 | Medium Radiant Resistance | 0.2 |   ?   |             |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Medium Radiant Resistance | -2 to victory levels received from Radiant damage. | While equipped | 5 |
+| Name                      |                        Desc                        |    Duration    |              Source              |
+| :------------------------ | :------------------------------------------------: | :------------: | :------------------------------: |
+| Medium Radiant Resistance | -2 to victory levels received from Radiant damage. | While equipped | Radiant Dragon Scale Talisman +1 |

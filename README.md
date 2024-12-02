@@ -14,7 +14,7 @@ What makes Fogent Roleplay different then D&D:
 What makes Fogent Roleplay different then Cogent Roleplay:
 
 * **Tactical Battlemap Combat:** Fogent Roleplay has rules to be run on a battlemap. This allows for awesome tactical fight scenes where a character's positioning and surrounding environment factor into combat. While Fogent Roleplay can be run in the theater of the mind, it works even better on a battlemap.
-* **Enumerable Improvements:** Whether it be better Core Skills, reworked Vocations, rebalanced weapon classes, advantage/disadvantage system, rebalanced destiny point rules, etc... Fogent Roleplay has continued to innovate.
+* **Enumerable Improvements:** Whether it be better Core Skills, reworked Vocations, rebalanced weapons, advantage/disadvantage system, rebalanced destiny point rules, etc... Fogent Roleplay has continued to innovate.
 * **Magic System Template:** The Magic System Template allows for the easy creation of balanced magic systems regardless of the setting.
 * **Premade Settings:** If you don't have the time to come up with an entire setting for your player to play in, Fogent Roleplay comes with premade campaign settings. This is an ongoing effort with more becoming available over time.
 
@@ -72,20 +72,22 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
-- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 - [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
+- [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
 ### Combat Rules
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
-- [Defense and Penetration](./src/CoreRules/CombatRules/DefenseAndPenetration.md)
+- [Penetration](./src/CoreRules/CombatRules/Penetration.md)
+- [Defense](./src/CoreRules/CombatRules/Defense.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
 - [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
-- [Weapon Resource Classes](./src/CoreRules/CombatRules/WeaponResourceClasses.md)
-- [Weapon Classes](./src/CoreRules/CombatRules/WeaponClasses.md)
+- [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
+- [Weapons](./src/CoreRules/CombatRules/Weapons.md)
+- [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
 - [Combat Roll](./src/CoreRules/CombatRules/CombatRoll.md)
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
@@ -97,13 +99,11 @@ The rules have been listed in the order of importance to someone learning the ga
 
 ### Advanced Rules
 
-- [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Healing](./src/CoreRules/AdvancedRules/Healing.md)
+- [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
-- [Weapon Skill Transfer](./src/CoreRules/AdvancedRules/WeaponSkillTransfer.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
-- [Item Class](./src/CoreRules/AdvancedRules/ItemClass.md)
-- [Item Effects](./src/CoreRules/AdvancedRules/ItemEffects.md)
+- [Effects](./src/CoreRules/AdvancedRules/Effects.md)
 
 ### Magic Rules
 

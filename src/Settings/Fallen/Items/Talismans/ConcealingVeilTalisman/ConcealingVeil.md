@@ -2,22 +2,12 @@
 
 ![Copyrighted Image](ConcealingVeil.png)
 
-## Desc
-
-Talisman put together from dark cloth, with a lustrous sheen.
-
-Conceals the wearer's presence, becoming slightly transparent at will.
-
-A common talisman of assassins.
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Concealing Veil | 1 |  | Minorly Enhanced Stealth | Flawless | 21/21 | 0.2 | ? |
+|      Name      | # |         Effects         | LB | Value | Description                                                                                                                                                                                |
+| :-------------: | :-: | :----------------------: | :-: | :---: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Concealing Veil | 1 | Minorly Enhanced Stealth | 0.2 |   ?   | Talisman put together from dark cloth, with a lustrous sheen.<br /><br />Conceals the wearer's presence, becoming slightly transparent at will.<br /><br />A common talisman of assassins. |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite | 2 |
+| Name                     |       Desc       |  Duration  |     Source     |
+| :----------------------- | :--------------: | :--------: | :-------------: |
+| Minorly Enhanced Stealth | +1d6 to Stealth. | Indefinite | Concealing Veil |
