@@ -79,8 +79,8 @@ INT has the following effects:
 
 ### Why is there no Charisma Attribute
 
-Intelligence governs the "Communications" skill which is essentially your classical charisma stat. The reality is that being smarter makes you a better communicator. Verbal IQ is one of the components of an IQ test for a reason. Also, emotional intelligence doesn't exist. It is pseudo-science and is mistakenly taken as trait agreeableness from the Big 5 personality traits.
+INT governs the "Communications" skill which is essentially your classical charisma stat. The reality is that being smarter makes you a better communicator. Verbal IQ is one of the components of an IQ test for a reason. And actually, one of the hallmarks of an intelligent creature is it's ability to communicate.
 
-Check out this video: https://www.youtube.com/watch?v=fyGKS55PsUI&t=26s
+Also, emotional intelligence doesn't exist. It is pseudo-science and is mistakenly taken as trait agreeableness from the Big 5 personality traits. Check out this video: https://www.youtube.com/watch?v=fyGKS55PsUI&t=26s
 
 However, the beauty of Fogent Roleplay is that because the rules are so simple, they are easy to modify. If you wish to play in a game where Charisma is an attribute, more power to you!
