@@ -25,7 +25,7 @@
 |                                          Keen Smell                                          |  Advantage on smell based Perception checks.  |          |                                                  |
 |                                         Keen Hearing                                         | Advantage on hearing based Perception checks. |          |                                                  |
 |                                                                                              |                                                |          |                                                  |
-|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseTypes.md#physical-defense)   |                       2                       |          |                  Natural Armor                  |
+|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                       2                       |          |                  Natural Armor                  |
 |                                                                                              |                                                |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium             |             5x5 ft on battle map.             |          |                                                  |
 | [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |                     60 ft                     |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |

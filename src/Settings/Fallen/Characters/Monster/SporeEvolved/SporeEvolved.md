@@ -26,7 +26,7 @@
 |                                             Name                                             |                         Desc                       | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
 |    [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver    | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
-|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseTypes.md#physical-defense)   |                          0                          |          |                  Armor & Shield                  |
+|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                          0                          |          |                  Armor & Shield                  |
 |                                                                                              |                                                      |          |                                                  |
 | [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver, Fire | +1 to the level of injury received from damage type. |          |                                                  |
 |                                                                                              |                                                      |          |                                                  |

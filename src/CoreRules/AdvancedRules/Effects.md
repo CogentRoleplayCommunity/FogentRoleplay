@@ -128,7 +128,7 @@ See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more informati
 
 ### Defense
 
-See [Defense](./src/CoreRules/CombatRules/DefenseTypes.md) for more information.
+See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
 
 ## Narrative Effects
 

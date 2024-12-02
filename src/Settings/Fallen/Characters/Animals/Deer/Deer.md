@@ -22,7 +22,7 @@
 
 |                                             Name                                             |             Desc             | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :---------------------------: | :------: | :----------------------------------------------: |
-|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseTypes.md#physical-defense)   |               0               |          |                  Armor & Shield                  |
+|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |               0               |          |                  Armor & Shield                  |
 |                                                                                              |                              |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium             |     5x5 ft on battle map.     |          |                                                  |
 | [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |             70 ft             |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
