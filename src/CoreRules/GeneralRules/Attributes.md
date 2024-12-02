@@ -79,7 +79,7 @@ INT has the following effects:
 
 ### Why is there no Charisma Attribute
 
-Intelligence governs the "Communications" skill which is essentially your classical charisma stat. The reality is that being smarter makes you a better communicator. Verbal IQ is one of the components of an IQ test for a reason. Also, emotional intelligence doesn't exist. It is pseudo-science and is mistakenly taken as trait agreeableness (Big 5 personality traits).
+Intelligence governs the "Communications" skill which is essentially your classical charisma stat. The reality is that being smarter makes you a better communicator. Verbal IQ is one of the components of an IQ test for a reason. Also, emotional intelligence doesn't exist. It is pseudo-science and is mistakenly taken as trait agreeableness from the Big 5 personality traits.
 
 Check out this video: https://www.youtube.com/watch?v=fyGKS55PsUI&t=26s
 
