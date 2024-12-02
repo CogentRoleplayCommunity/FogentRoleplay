@@ -34,7 +34,7 @@ Javk magic arm, thorn, Wooden Arm made of dark bron wooden thorns
 
 Executioner swords
 
-Early Muskets and Gun swords
+Gun swords
 
 Epilogue is a bipolar sword, can switch between rapier, sidesword, and bastard sword. Any opponent cut sword head falls off.
 

@@ -54,7 +54,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Medium |         Steady         |                    |   Light Bolt   |         1         |                  |
+| Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Medium |           Quick           |                    |   Light Bolt   |         1         |                  |
 
 ## Light Crossbow
 
@@ -62,7 +62,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |      Name      | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Light Crossbow |      None      |      +1d6      |       None       |      2      |  Far  |          Slow          |                    |   Light Bolt   |         1         |                  |
+| Light Crossbow |      None      |      +1d6      |       None       |      2      |  Far  |          Steady          |                    |   Light Bolt   |         1         |                  |
 
 ## Heavy Crossbow
 
@@ -78,7 +78,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Light Bow |      None      |      +1d6      |       None       |      1      |  Far  |           Quick           |                    |  Light Arrow  |         1         |                  |
+| Light Bow |      None      |      +1d6      |       None       |      1      |  Far  |           Swift           |                    |  Light Arrow  |         1         |                  |
 
 ## Heavy Bow
 
@@ -88,7 +88,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Heavy Bow |      None      |      +2d6      |       None       |      3      | Sharpshooter |         Paced         |                    |  Heavy Arrow  |         1         |                  |
+| Heavy Bow |      None      |      +2d6      |       None       |      3      | Sharpshooter |           Quick           |                    |  Heavy Arrow  |         1         |                  |
 
 ## Exotic Ranged
 
@@ -96,13 +96,13 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |  Name  | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Blowgun |      +0d6      |      None      |       None       |      0      | Mediocre |          Slow          |                    |  Blowgun Dart  |         1         |                  |
+| Blowgun |      +0d6      |      None      |       None       |      0      | Mediocre |           Quick           |                    |  Blowgun Dart  |         1         |                  |
 
 ### Sling
 
 | Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Sling |      +0d6      |      None      |       None       |      1      | Medium |         Steady         |                    |  Sling Bullet  |         1         |                  |
+| Sling |      +0d6      |      None      |       None       |      1      | Medium |           Quick           |                    |  Sling Bullet  |         1         |                  |
 
 ## Small Guns
 
@@ -116,9 +116,9 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      6      | Extended |           Quick           |                    |    9mm Ammo    |         1         |                  |
-|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      |  Medium  |           Quick           |                    |    9mm Ammo    |         3         |                  |
-|   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      6      |  Short  |           Swift           |                    |    9mm Ammo    |         6         |                  |
+| 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      6      | Extended |        Reach Swift        |                    |    9mm Ammo    |         1         |                  |
+|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      |  Medium  |        Reach Swift        |                    |    9mm Ammo    |         3         |                  |
+|   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      6      |  Short  |           Rapid           |                    |    9mm Ammo    |         6         |                  |
 
 ## Medium Guns
 
@@ -127,27 +127,27 @@ The types of Damage a weapon inflicts when dealing injuries.
 |   Name   | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect |   Ammo<br />Type   | Ammo<br />Per Use | Damage<br />Types |
 | :------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :----------------: | :---------------: | :---------------: |
 | Arquebus |      +0d6      |      +2d6      |       None       |      5      |     Long     |      Extremely Slow      |                    | Arquebus Cartridge |         1         |                  |
-|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Extremely Slow      |                    |  Musket Cartridge  |         1         |                  |
+|  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |      Painfully Slow      |                    |  Musket Cartridge  |         1         |                  |
 
 ### Intermediate Cartridge Rifle
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      8      |   Extreme   |           Quick           |                    |   5.56 Ammo   |         1         |                  |
-|     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      8      | Sharpshooter |           Quick           |                    |   5.56 Ammo   |         3         |                  |
-|   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      8      |   Distant   |           Swift           |                    |   5.56 Ammo   |         6         |                  |
+| 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      8      |   Extreme   |        Reach Swift        |                    |   5.56 Ammo   |         1         |                  |
+|     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      8      | Sharpshooter |        Reach Swift        |                    |   5.56 Ammo   |         3         |                  |
+|   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      8      |   Distant   |           Rapid           |                    |   5.56 Ammo   |         6         |                  |
 
 ### Shotgun
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |         Steady         |                    | 12 Gauge Ammo |         1         |                  |
+| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |           Swift           |                    | 12 Gauge Ammo |         1         |                  |
 
 ### Marksman Rifle
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Paced           |                    |   .308 Ammo   |         1         |                  |
+| .308 Bolt Action Rifle |      +1d6      |      +4d6      |       None       |      9      | Sniper |           Quick           |                    |   .308 Ammo   |         1         |                  |
 
 ## Heavy Guns
 
@@ -155,13 +155,13 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |           Swift           |                    |   5.56 Ammo   |        10        |                  |
+| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |           Rapid           |                    |   5.56 Ammo   |        10        |                  |
 
 ### Launcher
 
 |     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :----------: | :-------------: | :-------------: | :---------------: | :---------: | :----------: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |          Slow          |                    |    RPG Ammo    |         1         |                  |
+| RPG Launcher |       -2       |      +6d6      |       None       |     12     | Sharpshooter |           Paced           |                    |    RPG Ammo    |         1         |                  |
 
 ## Close Melee
 
@@ -186,10 +186,10 @@ The types of Damage a weapon inflicts when dealing injuries.
 |    Small Hafted Point    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
 |    Small Hafted Blunt    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |     Bludgeon     |
 |           Torch           |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |  Bludgeon, Fire  |
-|  Thrown Small Hafted Axe  |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |        Hew        |
-| Thrown Small Hafted Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |       Slash       |
-| Thrown Small Hafted Point |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |      Pierce      |
-| Thrown Small Hafted Blunt |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |     Bludgeon     |
+|  Thrown Small Hafted Axe  |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |        Hew        |
+| Thrown Small Hafted Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |       Slash       |
+| Thrown Small Hafted Point |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |      Pierce      |
+| Thrown Small Hafted Blunt |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |     Bludgeon     |
 
 ### Small Blade
 
@@ -199,8 +199,8 @@ The types of Damage a weapon inflicts when dealing injuries.
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
 |    Small Piercing Blade    |      +0d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
 |    Small Slashing Blade    |      +1d6      |      None      |       +1d6       |      0      | Melee |           Swift           |                    |      None      |                  |       Slash       |
-| Thrown Small Slashing Blade |      +0d6      |                |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |       Slash       |
-| Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Quick           |                    |      Self      |         1         |      Pierce      |
+| Thrown Small Slashing Blade |      +0d6      |                |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |       Slash       |
+| Thrown Small Piercing Blade |      +0d6      |      None      |       +1d6       |      0      | Short |           Swift           |                    |      Self      |         1         |      Pierce      |
 
 ## Medium Melee
 
@@ -219,12 +219,12 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 (arming-sword, sidesword, broadsword, bastard sword, falchion, messer, katana, and scimitar)
 
-|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
-| :------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Medium Thrusting Sword |      +1d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
-| Medium Slashing Sword |      +2d6      |      None      |       +1d6       |      1      | Melee |           Swift           |                    |      None      |                  |       Slash       |
-|   Medium Versatile Thrusting Sword   |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
-|   Medium Versatile Slashing Sword   |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Swift           |                    |      None      |                  |       Slash       |
+|               Name               | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
+| :------------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
+|      Medium Thrusting Sword      |      +1d6      |      None      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
+|      Medium Slashing Sword      |      +2d6      |      None      |       +1d6       |      1      | Melee |           Swift           |                    |      None      |                  |       Slash       |
+| Medium Versatile Thrusting Sword |      +1d6      |      +2d6      |       +1d6       |      2      | Melee |           Swift           |                    |      None      |                  |      Pierce      |
+| Medium Versatile Slashing Sword |      +2d6      |      +3d6      |       +1d6       |      1      | Melee |           Swift           |                    |      None      |                  |       Slash       |
 
 ### Medium Spear
 
@@ -232,8 +232,8 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-|    Medium Spear    |      +2d6      |      None      |       +1d6       |      2      | Melee |        Steady        |                    |      None      |                  |      Pierce      |
-| Thrown Medium Spear |      +1d6      |      None      |       +1d6       |      2      | Medium |         Steady         |                    |      Self      |         1         |      Pierce      |
+|    Medium Spear    |      +2d6      |      None      |       +1d6       |      2      | Melee |           Quick           |                    |      None      |                  |      Pierce      |
+| Thrown Medium Spear |      +1d6      |      None      |       None       |      2      | Medium |           Quick           |                    |      Self      |         1         |      Pierce      |
 
 ## Large Melee
 
@@ -261,8 +261,8 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-|    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |        Steady        |                    |      None      |                  |      Pierce      |
-| Thrown Large Spear |      +1d6      |      None      |       None       |      3      | Short |         Steady         |                    |      Self      |         1         |      Pierce      |
+|    Large Spear    |      +2d6      |      +3d6      |       None       |      3      | Melee |           Quick           |                    |      None      |                  |      Pierce      |
+| Thrown Large Spear |      +1d6      |      None      |       None       |      3      | Short |           Quick           |                    |      Self      |         1         |      Pierce      |
 
 ## Reach Melee
 
@@ -274,10 +274,10 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-|  Reach Hafted Axe  |       -2       |      +4d6      |       None       |      3      | Reach |           Swift           |                    |      None      |                  |        Hew        |
-| Reach Hafted Blade |       -2       |      +4d6      |       None       |      3      | Reach |           Swift           |                    |      None      |                  |       Slash       |
-| Reach Hafted Point |       -2       |      +3d6      |       None       |      4      | Reach |           Swift           |                    |      None      |                  |      Pierce      |
-| Reach Hafted Blunt |       -2       |      +2d6      |       None       |      5      | Reach |           Swift           |                    |      None      |                  |     Bludgeon     |
+|  Reach Hafted Axe  |       -2       |      +4d6      |       None       |      3      | Reach |        Reach Swift        |                    |      None      |                  |        Hew        |
+| Reach Hafted Blade |       -2       |      +4d6      |       None       |      3      | Reach |        Reach Swift        |                    |      None      |                  |       Slash       |
+| Reach Hafted Point |       -2       |      +3d6      |       None       |      4      | Reach |        Reach Swift        |                    |      None      |                  |      Pierce      |
+| Reach Hafted Blunt |       -2       |      +2d6      |       None       |      5      | Reach |        Reach Swift        |                    |      None      |                  |     Bludgeon     |
 
 ### Reach Sword
 
@@ -285,8 +285,8 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Reach Thrusting Sword |       -2       |      +3d6      |       None       |      4      | Reach |           Swift           |                    |      None      |                  |      Pierce      |
-| Reach Slashing Sword |       -2       |      +4d6      |       None       |      3      | Reach |           Swift           |                    |      None      |                  |       Slash       |
+| Reach Thrusting Sword |       -2       |      +3d6      |       None       |      4      | Reach |        Reach Swift        |                    |      None      |                  |      Pierce      |
+| Reach Slashing Sword |       -2       |      +4d6      |       None       |      3      | Reach |        Reach Swift        |                    |      None      |                  |       Slash       |
 
 ### Reach Spear
 
@@ -294,7 +294,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :---------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Reach Spear |       -2       |      +4d6      |       None       |      4      | Reach |        Steady        |                    |      None      |                  |      Pierce      |
+| Reach Spear |       -2       |      +4d6      |       None       |      4      | Reach |          Steady          |                    |      None      |                  |      Pierce      |
 
 ## Exotic Melee
 
@@ -313,10 +313,10 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Engageable<br />Opponents | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Weak Bite |      None      |       -1       |       None       |      0      | Melee |        Steady        |                    |      None      |                  | Pierce, Bludgeon |
-| Small Bite |      None      |      +1d6      |       None       |      1      | Melee |        Steady        |                    |      None      |                  | Pierce, Bludgeon |
-|    Bite    |      None      |      +2d6      |       None       |      2      | Melee |        Steady        |                    |      None      |                  | Pierce, Bludgeon |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee |        Steady        |                    |      None      |                  | Pierce, Bludgeon |
+| Weak Bite |      None      |       -1       |       None       |      0      | Melee |           Quick           |                    |      None      |                  | Pierce, Bludgeon |
+| Small Bite |      None      |      +1d6      |       None       |      1      | Melee |           Quick           |                    |      None      |                  | Pierce, Bludgeon |
+|    Bite    |      None      |      +2d6      |       None       |      2      | Melee |           Quick           |                    |      None      |                  | Pierce, Bludgeon |
+| Large Bite |      None      |      +3d6      |       None       |      3      | Melee |           Quick           |                    |      None      |                  | Pierce, Bludgeon |
 
 - Bite ~= Medium Spear
 - Large Bite ~= Large Spear
