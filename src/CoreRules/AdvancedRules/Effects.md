@@ -105,9 +105,13 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 | ------------- | ----------------- | ---------- | ------ |
 | Enhanced Lift | +1 to Lift level. | Indefinite |        |
 
-### Base Dice Mod
+### Skill Base Dice Tier
 
-Modifies a the base dice of a specific skill or vocation dice pools.
+Sets the base dice of specific skills or vocations dice pools.
+
+For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead.
+
+Base Dice Tiers also apply to tools used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
 
 | Name                                    | Desc                                                                       | Duration   | Source |
 | --------------------------------------- | -------------------------------------------------------------------------- | ---------- | ------ |

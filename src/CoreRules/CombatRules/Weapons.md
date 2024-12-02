@@ -4,7 +4,7 @@ Examples of weapons include swords, bows, guns, or even a character's fists.
 
 In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, but also how far away they can shoot something, how many opponents they can engage in a round, deal various types of damages, etc... Below is a key to help you understand the weapon tables below.
 
-##### Base Dice Tier
+##### Weapon Base Dice Tier
 
 All weapons have a [Base Dice Tier](./../GeneralRules/BaseDiceTiers.md), which measures the quality of the weapon, which is prefixed. For instance a "Quality Hand Crossbow" is a Hand Crossbow with 1d8,2d6 as it's Base Dice. If a Weapon omits it's Base Dice Tier prefix, assume it has a "Mundane" Base Dice Tier. All of the table below omit the Base Dice Tier prefix for the sake of brevity.
 
