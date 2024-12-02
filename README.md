@@ -72,7 +72,7 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Tied Contested Checks](./src/CoreRules/GeneralRules/TiedContestedChecks.md)
 - [Advantage And Disadvantage](./src/CoreRules/GeneralRules/AdvantageAndDisadvantage.md)
 - [Assists](./src/CoreRules/GeneralRules/Assists.md)
-- [Base Dice Tier](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
+- [Base Dice Tiers](./src/CoreRules/GeneralRules/BaseDiceTiers.md)
 - [Destiny Points](./src/CoreRules/GeneralRules/DestinyPoints.md)
 
 ### Combat Rules
