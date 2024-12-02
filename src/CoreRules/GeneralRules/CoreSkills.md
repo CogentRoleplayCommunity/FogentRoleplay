@@ -28,7 +28,7 @@ Perception is the art of detecting things through the senses, including sight, s
 
 ### Stealth
 
-Represented by ninjas, assassins, and pickpockets. Sneaking, hiding from others, picking pockets, and moving with no noise form the basis of the Stealth skill. Stealth can be used for setting up ambushes and laying traps. Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
+Represented by ninjas, assassins, and thiefs. Sneaking, hiding from others, and moving with no noise form the basis of the Stealth skill. Stealth can be used for setting up ambushes and laying traps. Stealth is often countered by Perception, and the two forces of hide and seek clash constantly.
 
 ## Intelligence Core Skills
 
