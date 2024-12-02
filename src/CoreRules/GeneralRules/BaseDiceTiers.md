@@ -1,4 +1,3 @@
-
 # Base Dice Tiers
 
 Base dice are always represented by 3 dice, which by default are 3d6. However, base dice can change for better or worse depending on a Base Dice Tier. They can either effect the base dice of skill or weapon combat roll dice pools.
