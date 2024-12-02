@@ -56,3 +56,4 @@ Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on 
 |   Distant   |   25   |   50   |   75   |  100  |  125  |  150  |  175  |  200  |  225  |   250   |   275   |   300   |
 | Sharpshooter |   30   |   60   |   90   |  120  |  150  |  180  |  210  |  240  |  270  |   300   |   330   |   360   |
 |   Extreme   |   35   |   70   |  105  |  140  |  175  |  210  |  245  |  280  |  315  |   350   |   385   |   420   |
+|    Sniper    |   50   |   100   |  150  |  200  |  250  |  300  |  350  |  400  |  450  |   500   |   550   |   600   |
