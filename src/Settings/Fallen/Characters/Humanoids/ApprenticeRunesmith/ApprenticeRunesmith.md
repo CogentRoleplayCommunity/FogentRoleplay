@@ -38,7 +38,7 @@
 |       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)       |               150 lb               |          |        +50 lbs Carry Weight per Lift dice        |
 |  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                              |                                    |          |                                                  |
-|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                  3                  |          |                  Armor & Shield                  |
+|   [Physical Defense Level](./../../../../../CoreRules/CombatRules/DefenseTypes.md#physical-defense)   |                  3                  |          |                  Armor & Shield                  |
 |                                                                                              |                                    |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium             |        5x5 ft on battle map.        |          |                                                  |
 | [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |                30 ft                |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |

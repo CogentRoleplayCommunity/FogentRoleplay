@@ -79,7 +79,7 @@ The rules have been listed in the order of importance to someone learning the ga
 
 - [Damage Types](./src/CoreRules/CombatRules/DamageTypes.md)
 - [Penetration](./src/CoreRules/CombatRules/Penetration.md)
-- [Defense](./src/CoreRules/CombatRules/Defense.md)
+- [Defense Types](./src/CoreRules/CombatRules/DefenseTypes.md)
 - [Range](./src/CoreRules/CombatRules/Range.md)
 - [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
 - [Engageable Opponents](./src/CoreRules/CombatRules/EngageableOpponents.md)

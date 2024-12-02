@@ -22,7 +22,7 @@ The dice pool modifier added when dual wielding a main weapon in one hand with a
 
 ##### Penetration
 
-The amount of Penetration a weapon adds to a characters combat roll. See [Penetration](./Defense.md#penetration) for more details.
+The amount of Penetration a weapon adds to a characters combat roll. See [Penetration](./DefenseTypes.md#penetration) for more details.
 
 ##### Range
 
