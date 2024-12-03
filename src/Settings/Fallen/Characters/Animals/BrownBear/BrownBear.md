@@ -26,9 +26,9 @@
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                      1                      |          |                  Armor & Shield                  |
 |                                                                                              |                                              |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Large             |           10x10 ft on battle map.           |          |                                                  |
-| [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |                    60 ft                    |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim    |                    30 ft                    |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb    |                    35 ft                    |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+| [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial |                    60 ft                    |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim    |                    30 ft                    |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |                    35 ft                    |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                              |                                              |          |                                                  |
 |                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                 |        – 0 dice to all dice checks.        |          |                 Damage Received                 |
 

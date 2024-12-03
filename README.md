@@ -84,7 +84,6 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Area Of Effect](./src/CoreRules/CombatRules/AreaOfEffect.md)
 - [Uses Per Round](./src/CoreRules/CombatRules/UsesPerRound.md)
 - [Battle Map](./src/CoreRules/CombatRules/BattleMap.md)
-- [Combat Speed](./src/CoreRules/CombatRules/CombatSpeed.md)
 - [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md)
 - [Weapons](./src/CoreRules/CombatRules/Weapons.md)
 - [Weapon Combat Skills](./src/CoreRules/CombatRules/WeaponCombatSkills.md)
