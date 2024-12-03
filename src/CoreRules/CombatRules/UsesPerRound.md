@@ -22,7 +22,7 @@ Uses Per Round is calculated using the following equation:
 | Extremely Slow |    8    |           0           |  None  |
 | Painfully Slow |   16   |           0           |  None  |
 
-For example, if a character had 7 dice in their governing skill dice pool with an Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. So they would have 2 Uses Per Round for that round.
+For example, if a character had 7 dice in their governing skill dice pool with an Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
 
 ### Uses Per Round calculations resulting in less than 1
 
