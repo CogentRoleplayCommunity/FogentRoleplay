@@ -2,7 +2,7 @@
 
 Uses Per Round represent the number of times some skill governed action can be preformed in a round.
 
-This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depeletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that round and are instead forced to dodge if they are being attacked.
+This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depeletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that combat round and are instead forced to dodge if they are being attacked.
 
 ## Uses Per Round calculations
 
