@@ -40,7 +40,7 @@
 |                   [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                   |                     15 ft                     |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                              |                                              |          |                                                  |
 |                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                      0/3                      |          |               Awarded by Narrator               |
-|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |         – 0 dice to all dice checks.         |          |                      Damage                      |
+|                                [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                                |         – 0 dice to all dice checks.         |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

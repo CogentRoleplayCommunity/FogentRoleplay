@@ -35,7 +35,7 @@
 |                     [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Flight                     |                                                          60 ft                                                          |          | +15 ft (per Athletics Dice), +/-10 ft (per RFX) |
 |                                                                                                                                  |                                                                                                                        |          |                                                  |
 |                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Spiritual Power                      |                                                          19/19                                                          |          |       Vocation/Magic Governing Core Skill       |
-|                                  [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                  |                                              – 0 dice to all dice checks.                                              |          |                 Damage Received                 |
+|                                  [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                                  |                                              – 0 dice to all dice checks.                                              |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

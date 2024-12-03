@@ -91,14 +91,13 @@ The rules have been listed in the order of importance to someone learning the ga
 - [Dodge Roll](./src/CoreRules/CombatRules/DodgeRoll.md)
 - [Combat Round](./src/CoreRules/CombatRules/CombatRounds.md)
 - [Conditions](./src/CoreRules/CombatRules/Conditions.md)
-- [Injury](./src/CoreRules/CombatRules/Injury.md)
+- [Injury and Healing](./src/CoreRules/CombatRules/InjuryAndHealing.md)
 - [Victory Levels](./src/CoreRules/CombatRules/VictoryLevels.md)
 - [Weakness and Resistance](./src/CoreRules/CombatRules/WeaknessAndResistance.md)
 - [Combat Modifiers](./src/CoreRules/CombatRules/CombatModifiers.md)
 
 ### Advanced Rules
 
-- [Healing](./src/CoreRules/AdvancedRules/Healing.md)
 - [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeight.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
