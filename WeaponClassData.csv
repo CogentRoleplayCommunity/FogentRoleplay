@@ -1,4 +1,4 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,engageableOpponents,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,usesPerRound,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
 Hand Crossbow,+1d6,None,+1d6,1,Medium,Quick,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
 Light Crossbow,None,+1d6,None,2,Far,Steady,,Light Bolt,1,,Light Crossbow,Light Crossbow
 Heavy Crossbow,None,+2d6,None,3,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
