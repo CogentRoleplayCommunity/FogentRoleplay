@@ -98,7 +98,7 @@ The rules have been listed in the order of importance to someone learning the ga
 
 ### Advanced Rules
 
-- [Carry Weight](./src/CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md)
+- [Carry Weight and Weight Classes](./src/CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md)
 - [Vision and Light](./src/CoreRules/AdvancedRules/VisionAndLight.md)
 - [Containers](./src/CoreRules/AdvancedRules/Containers.md)
 - [Effects](./src/CoreRules/AdvancedRules/Effects.md)
