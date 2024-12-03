@@ -1,12 +1,12 @@
 # Engageable Opponents
 
-Engageable Opponents represent the number of opponents that can be fought in a certain round. Each opponent engaged with a combat roll cost one engageable opponent for that round. If a character's engageable opponents are exceeded, they gain the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier and are unable to achieve Victory Levels for the remainder of the round.
+Engageable Opponents represent the number of opponents that can be engaged with a combat roll for that round. If a combat roll's Engageable Opponents are exceeded, then the character gains the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier and are unable to achieve Victory Levels for the remainder of the round.
 
 ## Engageable Opponents Calculations
 
 The amount of opponents a character can engage in a round is calculated using the following equation:
 
-( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Divisor), rounded down only if above 1, to a maximum of (Max EO)
+( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max EO)
 
 |      Name      | Divisor | Dice Amount Adjustment | Max EO |
 | :------------: | :-----: | :--------------------: | :----: |
@@ -24,13 +24,13 @@ For example, if a character had 7 dice in their governing skill dice pool with a
 
 ### Engageable Opponent calculation resulting in less than 1
 
-On a round where you weapon IS prepared (i.e. your Heavy Crossbow is loaded, etc...) you can engage 1 opponent.
+On a round where a weapon IS prepared (i.e. your Heavy Crossbow is loaded, etc...) 1 opponent can be engaged.
 
-On a round where your roll is NOT prepared (i.e. your Heavy Crossbow is empty, etc...), if your EO is greater than or equal to 0.5 and less than 1, you must spend 1 round reloading/preparing in order to use this roll again. If your EO is greater than 0 and less 0.5, your character must spend 2 rounds reloading/preparing. While reloading/preparing the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
+On a round where a weapon is NOT prepared (i.e. your Heavy Crossbow is empty, etc...), if the Engageable Opponents Calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend reloading/preparing in order to use the weapon again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds reloading/preparing. While reloading/preparing the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing/reloading.
 
 ### Engageable Opponents if character is using multiple loaded weapons
 
-In examples where characters have loaded weapons (for instance loaded muzzle loading firearms) within easy access to themselves, they can forgo loading, and instead treat the Engageable Opponents of such as an Engageable Opponents type the Narrator decides. For instance, for muzzle loading pistols being drawn from a chest rig, "Swift" seems like a reasonable Engageable Opponents type.
+If characters have loaded weapons (for instance loaded muzzle loading firearms) within easy access to themselves, they can forgo loading, and use a faster EO type that the Narrator decides. For instance, for muzzle loading pistols being drawn from a chest rig, "Swift" seems like a reasonable Engageable Opponents type.
 
 ### Engageable Opponent Calculation Examples
 
@@ -45,12 +45,3 @@ In examples where characters have loaded weapons (for instance loaded muzzle loa
 |                Slow                |  0.16  |  0.33  |  0.5  |  0.66  |  0.83  |   1   |   1   |   1   |   1   |    1    |    1    |    2    |
 |           Extremely Slow           | 0.125 |  0.25  | 0.375 |  0.5  | 0.625 |  0.75  | 0.875 |   1   |   1   |    1    |    1    |    1    |
 |           Painfully Slow           | 0.0625 |  0.125  | 0.1875 |  0.25  | 0.3125 | 0.375 | 0.4375 |  0.5  | 0.5625 |  0.625  | 0.6875 |  0.75  |
-
-## Set Engageable Opponents
-
-Set Engageable Opponents represent a set number of targets that can be engaged in a round.
-
-| Engageable Opponents Type | Engageable Opponents |
-| :-----------------------: | :------------------: |
-|             1             |          1          |
-|            ...            |                      |
