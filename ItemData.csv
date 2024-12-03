@@ -244,7 +244,7 @@ Boosts maximum magic resource.",27/27,Exquisite
 Azulian Talisman +2,1,Greatly Enhanced Magic Resource,0.2,?,"A medallion with azul inlaid.
 
 Greatly boosts maximum magic resource.",33/33,Mastercraft
-Blessed Dew Talisman,1,Gradual Healing,0.2,?,"It is the common knowledge that the dew of the morning has special healing properties. This amulet is crafted with condensed morning dew, allowing it to provide subtle mending properties to those that wear it. A favorite of explorers and travelers.",24/24,Superior
+Blessed Dew Talisman,1,Minor Healing Factor,0.2,?,"It is the common knowledge that the dew of the morning has special healing properties. This amulet is crafted with condensed morning dew, allowing it to provide subtle mending properties to those that wear it. A favorite of explorers and travelers.",24/24,Superior
 Claw Talisman,1,Ariel Assassin,0.2,?,A talisman depicting claws and an assassin.,30/30,Flawless
 Concealing Viel,1,Minorly Enhanced Stealth,0.2,?,"Talisman put together from dark cloth, with a lustrous sheen.
 
@@ -385,7 +385,7 @@ Oil (flask),1,,1,10 cc,,,Mundane
 Paper (one sheet),1,,0,20 cc,,,Mundane
 Parchment (one sheet),1,,0,10 cc,,,Mundane
 Perfume (vial),1,,0.1,5 bc,,,Mundane
-Vial of Gradual Healing Blood,1,Gradual Heal,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
+Vial of Minor Healing Factor Blood,1,Minor Healing Factor,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
 
 The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington.",,Mundane
 Vial of Minor Healing Blood,1,Minor Heal,0.25,50 bc,"Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.
