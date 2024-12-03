@@ -60,7 +60,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ***Physical Melee***
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |         Unarmed         | 4d6<br />(-1) | 4d6<br />(-1) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
 | Hand Protection Unarmed | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
@@ -70,7 +70,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ***Fellcraft Melee***
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
 |    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
@@ -85,13 +85,13 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 ***Physical Ranged***
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Thrown Small Piercing Blade | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Swift           |        None        |        None        |
 
 ***Fellcraft Ranged***
 
-|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
 | :----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 | Mindcraft - Melee Trick |       8d6       |                |                  |      0      | Melee |                  |           Swift           |                    |        None        |
 |    Mindcraft - Melee    |       9d6       |                |                  |      2      | Melee |                  |           Swift           |                    |    1 (Fellblood)    |
