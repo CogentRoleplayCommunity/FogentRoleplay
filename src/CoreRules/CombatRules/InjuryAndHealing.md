@@ -11,7 +11,7 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 |   Minor Injury   |        -1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.        |          |        |
 |   Medium Injury   | -2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection. |          |        |
 |  Serious Injury  |                -3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.                |          |        |
-|   Fatal Injury   |                             -4d to STR/RFX/INT governed Dice Pools. Will die very soon if untreated.                             |          |        |
+|   Fatal Injury   |                             -4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.                             |          |        |
 | Death Blow Injury |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |          |        |
 
 ## Healing

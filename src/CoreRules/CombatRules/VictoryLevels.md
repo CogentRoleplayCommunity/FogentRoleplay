@@ -3,13 +3,13 @@
 - Victory Levels from Physical or Bodily damage can be reduced equal to the amount of STR a character has per combat encounter. If STR is negative, the level of Victory increases by 1.
 - Victory levels from Mental or Soul damage can be reduced equal to the amount of INT a character has per combat encounter. If INT is negative, the level of Victory increases by 1.
 - Any combination of lower Victory Level outcomes is possible as long as they sum up to be less than or equal to the Victory Level achieved. For instance, with a Level 2 victory, a character could perform both a Stagger and a Minor Injury against there opponent.
-- It is mandatory that for a character to deal any Victory Level outcome, whomever control's said character must describe in awesome detail how they are preforming said Victory Level outcome. Creativity is encouraged, go nuts!
+- It is mandatory that for a character to deal any Victory Level outcome, whomever control's said character must describe in awesome detail how they are preforming said Victory Level outcome. Creativity is encouraged!
 
 ## Level 1 victory
 
 ### Minor Injury
 
-–1 dice to all dice checks but will naturally heal over the next few days, or faster if treated actively.
+-1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.
 
 ### Stagger
 
@@ -41,7 +41,7 @@ For each win achieved, a character can Move a creature 10 feet. For each size ca
 
 ### Medium Injury
 
--2 dice to all dice checks and must be treated relatively soon otherwise further penalties may apply such as infection.
+-2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection.
 
 ### Disarm
 
@@ -55,7 +55,7 @@ Once already in a Grapple, as part of their declaration phase a character can de
 
 ### Serious Injury
 
-–3 dice to all dice checks and the character will die in time if the wound is untreated.
+-3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.
 
 ### Trip
 
@@ -69,7 +69,7 @@ Instead of getting up, a character can remain prone and crawl. They use their Cl
 
 ### Fatal Injury
 
-–4 dice to all dice checks, gains [Incapacitated](./Conditions.md#incapacitated) condition, and will die very soon if untreated.
+-4d to STR/RFX/INT governed Dice Pools. Gains the [Incapacitated](./Conditions.md#incapacitated) condition and will die very soon if untreated.
 
 ### Dismember
 
@@ -83,4 +83,4 @@ Opponent gains the [Unconscious](./Conditions.md#unconscious) condition such as 
 
 ### Death Blow
 
-An instant kill.
+-5d to STR/RFX/INT governed Dice Pools. Instantly killed.
