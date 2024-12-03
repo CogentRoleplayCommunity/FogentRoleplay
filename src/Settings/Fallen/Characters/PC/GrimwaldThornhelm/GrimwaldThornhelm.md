@@ -32,9 +32,9 @@
 |                                       [Language](./../../../Languages/Languages.md): Primal                                       |                      Can speak Primal.                      |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Superstition Paranoia | Extreme belief in common superstition and old wives tales. |          |                                                  |
 |                                                                                                                                |                                                            |          |                                                  |
-|                       [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)                       |                            58 lb                            |          |                    Equipment                    |
-|                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)                       |                           250 lb                           |          |        +50 lbs Carry Weight per Lift dice        |
-|                   [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light                   |             -0d to STR/RFX governed Dice Pools             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                       [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)                       |                            58 lb                            |          |                    Equipment                    |
+|                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)                       |                           250 lb                           |          |        +50 lbs Carry Weight per Lift dice        |
+|                   [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light                   |             -0d to STR/RFX governed Dice Pools             |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                                |                                                            |          |                                                  |
 |                     [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                     |    +1 to the level of injury received from damage type.    |          |                    Fellblood                    |
 |                   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)                   |                              4                              |          |                  Armor & Shield                  |
@@ -128,9 +128,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name            | # | [Effects](./../../../../../../README.md#effect-rules)                    | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # | [Effects](./../../../../../../README.md#effect-rules)                    | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | ------------------------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor  | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                                      |                             8                             |                    5 bc                    |             |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                             47                             |                    75 bp                    |             |
@@ -138,7 +138,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                    |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                    |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Backpack                | 30 lb container |                                                                    |                             5                             |                    2 bc                    |             |
 | Heavy Longbow           |        1        | Heavy Bow                                                          |                             4                             |                    50 bc                    |             |

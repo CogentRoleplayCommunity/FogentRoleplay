@@ -31,9 +31,9 @@
 |                                     [Language](./../../../Languages/Languages.md):  Pirish                                     |                       Can speak Pirish.                       |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Incontrollable Grief | Overwhelming grief that is triggered reminder of past trauma. |          |                                                  |
 |                                                                                                                              |                                                              |          |                                                  |
-|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)                      |                            12.5 lb                            |          |                    Equipment                    |
-|                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)                       |                            150 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
-|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light                  |              -0d to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)                      |                            12.5 lb                            |          |                    Equipment                    |
+|                       [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)                       |                            150 lb                            |          |        +50 lbs Carry Weight per Lift dice        |
+|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light                  |              -0d to STR/RFX governed Dice Pools              |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                              |                                                              |          |                                                  |
 |                    [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                    |     +1 to the level of injury received from damage type.     |          |                    Fellblood                    |
 |                   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)                   |                               0                               |          |                  Armor & Shield                  |
@@ -126,9 +126,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name                           |       #       | [Effects](./../../../../../../README.md#effect-rules)                      | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                           |       #       | [Effects](./../../../../../../README.md#effect-rules)                      | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------ | :------------: | ----------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Common                |       1       |                                                                         |                             3                             |                    50 cc                    |             |
 | Waterskin (4/4)                |       1       |                                                                         |                             5                             |                    20 cc                    |             |
@@ -142,11 +142,11 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name  | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name  | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----- | :-: | -------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Pouch | 1 | 6 lb container                                     |                             1                             |                    50 cc                    |             |
 
-| Name            | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | -------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Chest           | 1 | 300 lb container                                   |                             25                             |                    5 bc                    |             |
 | Mirror, Steel   | 1 |                                                    |                            0.5                            |                    5 bc                    |             |

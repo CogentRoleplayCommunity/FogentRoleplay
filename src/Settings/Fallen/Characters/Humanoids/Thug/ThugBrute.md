@@ -26,9 +26,9 @@
 |                        [Language](./../../../Languages/Languages.md): Narrator Determined                        |    Can speak a language the Narrator determines.    |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Heavy |                   RFX is set to -1                   |          |                                                  |
 |                                                                                                              |                                                      |          |                                                  |
-|              [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)              |                       5.34 lb                       |          |                    Equipment                    |
-|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)               |                        200 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|          [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light          |          -0d to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|              [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)              |                       5.34 lb                       |          |                    Equipment                    |
+|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)               |                        200 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|          [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light          |          -0d to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                              |                                                      |          |                                                  |
 |      [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Narrator Determined      | +1 to the level of injury received from damage type. |          |                                                  |
 |           [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)           |                          0                          |          |                  Armor & Shield                  |
@@ -58,9 +58,9 @@
 | :--: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 |      |                                                                                |                                                                                  |                                                                                              |                                                                              |                                                                  |                                                                                      |                                                                                          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name            | # |        [Effects](./../../../../../../README.md#effect-rules)        | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # |        [Effects](./../../../../../../README.md#effect-rules)        | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | :---------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Copper Coin     | 17 |                                                                  |                            0.02                            |                    1 cc                    |             |
 | Clothes, Common | 1 |                                                                  |                             3                             |                    50 cc                    |             |
@@ -68,6 +68,6 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | :------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                    |                                                            |                                            |             |

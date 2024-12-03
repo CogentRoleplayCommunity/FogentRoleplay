@@ -21,9 +21,9 @@
 
 |                                             Name                                             |                Desc              | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :---------------------------------: | :------: | :----------------------------------------------: |
-|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)      |                33 lb                |          |                    Equipment                    |
-|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)       |               300 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)      |                33 lb                |          |                    Equipment                    |
+|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)       |               300 lb               |          |        +50 lbs Carry Weight per Lift dice        |
+|  [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                              |                                    |          |                                                  |
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                  0                  |          |                  Armor & Shield                  |
 |                                                                                              |                                    |          |                                                  |
@@ -44,15 +44,15 @@
 | :--------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | Large Slam |                               +0d6<br />(4d6)                               |                                     None                                     |                                 +1d6<br />(5d6)                                 |                                 4                                 |                         Melee                         |                                          Swift                                          |                                                                            |                                      None                                      |                                                                                  |                                Bludgeon                                |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name            | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Saddle - Riding | 1 |                                                                    |                             25                             |                    10 bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name       |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name       |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Saddlebags | 50 lb container |                                                                    |                             8                             |                    4 bc                    |             |
 

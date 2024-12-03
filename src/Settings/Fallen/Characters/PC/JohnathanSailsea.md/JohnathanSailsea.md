@@ -31,9 +31,9 @@
 |                               [Language](./../../../Languages/Languages.md):                               |                     Can speak .                     |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): |                                                      |          |                                                  |
 |                                                                                                        |                                                      |          |                                                  |
-|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)           |                        0 lb                        |          |                    Equipment                    |
-|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)            |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light       |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)           |                        0 lb                        |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)            |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light       |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                      |          |                                                  |
 |         [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver         | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |        [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)        |                          0                          |          |                  Armor & Shield                  |
@@ -123,15 +123,15 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 
