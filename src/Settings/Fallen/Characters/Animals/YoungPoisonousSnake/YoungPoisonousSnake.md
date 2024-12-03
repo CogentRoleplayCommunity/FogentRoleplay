@@ -21,9 +21,9 @@
 
 |                                             Name                                             |                Desc                | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------: | :------: | :----------------------------------------------: |
-|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)      |               0 lb               |          |                    Equipment                    |
-|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)       |               50 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)      |               0 lb               |          |                    Equipment                    |
+|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)       |               50 lb               |          |        +50 lbs Carry Weight per Lift dice        |
+|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                              |                                    |          |                                                  |
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                 0                 |          |                  Armor & Shield                  |
 |                                                                                              |                                    |          |                                                  |

@@ -32,9 +32,9 @@
 |                                 [Language](./../../../Languages/Languages.md): Pirish                                 |                  Can speak Pirish.                  |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Can't Speak |               Vocal Cord are damaged.               |          |                                                  |
 |                                                                                                                    |                                                      |          |                                                  |
-|                 [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                 |                       24.4 lb                       |          |                    Equipment                    |
-|                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                  |                        100 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|             [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light             |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                 [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)                 |                       24.4 lb                       |          |                    Equipment                    |
+|                  [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)                  |                        100 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|             [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light             |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                    |                                                      |          |                                                  |
 |               [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver               | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |              [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)              |                          3                          |          |                  Armor & Shield                  |
@@ -124,9 +124,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
 
-| Name                          | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                          | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Bronze Coin                   | 70 |                                                                    |                            0.02                            |                    1 bc                    |             |
 | Arming Sword                  | 1 | Medium Thrusting Sword, Medium Slashing Sword                      |                             2                             |                    10 bc                    |             |
@@ -141,7 +141,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 

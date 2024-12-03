@@ -29,9 +29,9 @@
 |      [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Greedy      |                 Obsessed with money.                 |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Authority Issues | Can't stand being talked down to or ordered around. |          |                                                  |
 |                                                                                                                          |                                                      |          |                                                  |
-|                    [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                    |                        19 lb                        |          |                    Equipment                    |
-|                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                     |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|                [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                    [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)                    |                        19 lb                        |          |                    Equipment                    |
+|                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)                     |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|                [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light                |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                          |                                                      |          |                                                  |
 |                  [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                  | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |                 [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)                 |                          3                          |          |                  Armor & Shield                  |
@@ -121,9 +121,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
 
-| Name           | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name           | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | -------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |                             8                             |                    5 bc                    |             |
 | Leather Armor  | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00       |                             12                             |                    10 bc                    |             |
@@ -131,7 +131,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 

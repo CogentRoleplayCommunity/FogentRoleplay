@@ -25,9 +25,9 @@
 | :-------------------------------------------------------------------------------------------: | :--------------------------------: | :------: | :----------------------------------------------: |
 |                     [Language](./../../../Languages/Languages.md): Babelish                     |        Can speak Babelish.        |          |                                                  |
 |                                                                                              |                                    |          |                                                  |
-|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)      |                8 lb                |          |                    Equipment                    |
-|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)       |               150 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)      |                8 lb                |          |                    Equipment                    |
+|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#carry-weight)       |               150 lb               |          |        +50 lbs Carry Weight per Lift dice        |
+|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes): Light  | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                              |                                    |          |                                                  |
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                 3                 |          |            Physical Protection Spell            |
 |                                                                                              |                                    |          |                                                  |
@@ -112,9 +112,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md#equipment)
 
-| Name          | # |           [Effects](./../../../../../../README.md#effect-rules)           | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name          | # |           [Effects](./../../../../../../README.md#effect-rules)           | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------- | :-: | :---------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Fine | 1 |                                                                        |                             6                             |                    15 bc                    |             |
 | Wand          | 1 |                           Spellcasting Focus                           |                             1                             |                    10 bc                    |             |

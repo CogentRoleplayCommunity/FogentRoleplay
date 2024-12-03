@@ -1,4 +1,6 @@
-# Carry Weight
+# Carry Weight and Weight Classes
+
+## Carry Weight
 
 Carry Weight represents a character's ability to carry heavier equipment while still being able to move semi-normally depending on weight class.
 
@@ -20,6 +22,6 @@ Effects that represent the physical strain of carrying equipment. Some character
 |    Weight Class: Heavy    | -2d to STR/RFX governed Dice Pools | Indefinite | 50% < Equipment Weight <= 100% of Carry Weight |
 | Weight Class: Overburdened | -4d to STR/RFX governed Dice Pools | Indefinite |    100% < Equipment Weight of Carry Weight    |
 
-## Equipment
+### Equipment
 
 Represent items a character has on their person in an easy-to-reach placement or that are being worn. This generally covers things needed in combat such as weapons, armor, quivers/arrows, potions, etc...

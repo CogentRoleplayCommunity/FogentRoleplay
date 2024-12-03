@@ -19,7 +19,7 @@ If you have two different character sheet effects active that buff or debuff som
 Adds or subtracts dice for dice pools if they governed by one of the Attributes specified.
 
 - [Injury](./../CombatRules/InjuryAndHealing.md#injury)
-- [Weight Classes](./../AdvancedRules/CarryWeight.md#weight-classes)
+- [Weight Classes](./../AdvancedRules/CarryWeightAndWeightClasses.md#weight-classes)
 
 ### Skill Dice Mods
 
