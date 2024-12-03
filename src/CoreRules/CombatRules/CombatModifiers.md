@@ -8,41 +8,17 @@ A character purely focuses on defending themselves.
 
 No victory levels can be achieved for the round by the defender. Adboth to Combat Rolls and Dodge Rolls if declared. Can not be applied when a Character can not solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
 
-## Ranged vs Melee (Disadvantage)
-
-When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
-
 ## Dash (2x Movement Speed)
 
 Instead of engaging in a combat roll, a player can choose to focus purely on their movement in combat, doubling their movement speed. They can still Dodge.
 
+## Ranged vs Melee (Disadvantage)
+
+When a character is making a ranged attack, they gain Disadvantage on their ranged combat roll if they are within range of an opponent who is targeting them with a melee combat roll during that round.
+
 ## Stationary Shooting (Advantage) (Disadvantage to Dodge Rolls)
 
 Remain stationary for an entire round to gain a more stable base for ranged attacks. Advantage on all of ranged attacks for that round, except against opponents engaging the character with a Melee or Reach Range combat roll. Due to being a stationary target, Disadvantage on Dodge Roll.
-
-## Focused Shot (Advantage)
-
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
-
-While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
-
-## Charge (Advantage) (Disadvantage to Dodge Rolls)
-
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Athletics Core Skill.
-
-If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to dodging ranged attacks.
-
-## Brace (Advantage versus Charge) (Disadvantage to Dodge Rolls)
-
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Lift Core Skill.
-
-A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
-
-## Pack Tactics
-
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
-
-When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
 
 ## High ground (Advantage)
 
@@ -72,3 +48,29 @@ A target has three-quarters cover if about three-quarters of it is covered by an
 ### Full Cover: Complete Resistance
 
 A target with total cover can't be targeted directly by an attack, although some spells can reach such a target by including it in an area of effect. A target has total cover if it is completely concealed by an obstacle.
+
+# Combat Assists
+
+## Focused Shot (Advantage)
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
+
+While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
+
+## Charge (Advantage) (Disadvantage to Dodge Rolls)
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Athletics Core Skill.
+
+If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to dodging ranged attacks.
+
+## Brace (Advantage versus Charge) (Disadvantage to Dodge Rolls)
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Lift Core Skill.
+
+A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+
+## Pack Tactics
+
+This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
+
+When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
