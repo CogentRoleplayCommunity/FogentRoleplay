@@ -14,7 +14,7 @@ Typical "status effects" such as being poisoned, frostbitten, bleeding, madness,
 |   Fatal Injury   |                             -4d to STR/RFX/INT governed Dice Pools. Will die very soon if untreated.                             |          |        |
 | Death Blow Injury |                                    -5d to STR/RFX/INT governed Dice Pools. Instantly killed.                                    |          |        |
 
-# Healing
+## Healing
 
 Since Injuries work on a narrative severity scale, so does the healing that can be performed. These could come from Magic or science-based medicine.
 
