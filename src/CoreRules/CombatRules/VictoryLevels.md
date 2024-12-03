@@ -21,9 +21,7 @@ This could be sand thrown in a character's face, being shoulder-checked, or losi
 
 The opponent is shoved in the desired direction.
 
-The character can either roll a Lift check or take the average amount of Wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone.
-
-For each win achieved, a character can shove a creature 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+The character can either roll a Lift check or take the average amount of Wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could shove someone. For each win achieved, a character can shove another character 5 feet in a straight line. For each size category the opponent is smaller than you, double the distance. For each size category, the opponent is larger than you, half the distance. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
 
 ### Grapple
 
@@ -33,9 +31,7 @@ Enter/exit a Grapple. If entering into a Grapple, apply the [Grappled](./Conditi
 
 While in a grapple, you can move your opponent.
 
-The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone.
-
-For each win achieved, a character can Move a creature 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
+The character can either roll a Lift check or take the average amount of wins rounded down. If a character is using magic, they may use a Magic Skill instead of Lift, assuming the magic could grapple someone. For each win achieved, a character can Move another character 10 feet. For each size category the opponent is smaller than you, double the distance. For each Size the opponent is larger than you, half the distance. If your character is required to move during the move, you can not exceed your normal amount of movement for that round. The Narrator can change this distance based on unusual circumstances (i.e. humanoid-sized creature weighs as much as a Large sized creature as it is made of pure metal/stone).
 
 ## Level 2 victory
 
@@ -49,7 +45,7 @@ The opponent loses their weapon. If an opponent is dual-wielding, they will only
 
 #### Grapple Disarm
 
-Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to their unarmed combat roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
+Once already in a Grapple, as part of their declaration phase a character can declare they are attempting a Grapple Disarm to disarm their opponent. The character attempting the Grapple Disarm must be unarmed. They gain Advantage to Unarmed combats roll versus the armed grappled opponent. The armed opponent gains Disadvantage on their combat roll versus the character that is grappling them. The character attempting the Grapple Disarm may only take the Disarm Level 2 Victory (this means they cannot delegate their attack to inflict an injury or execute a trip regardless of how high the victory achieved.)
 
 ## Level 3 victory
 
