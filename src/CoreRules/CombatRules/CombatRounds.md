@@ -34,6 +34,6 @@ Combat Rolls made with them should be held onto during combat after they've been
 
 Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if the dice they lost that round punish or are indifferent to their wins for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
-### Applying Disadvantage/Advantage to an already rolled Dice Pool
+### Applying Disadvantage/Advantage to an already rolled Combat Roll Dice Pools
 
 If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
