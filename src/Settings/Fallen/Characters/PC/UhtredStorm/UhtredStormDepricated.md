@@ -38,7 +38,7 @@
 
 ## Combat Rolls
 
-|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Resource<br />Class |
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
 | :-------------------------: | :--------------: | :-------------: | :---------------: | :---------: | :------: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |   Radiance - Melee Trick   |     2d8, 5d6     |                |                  |      0      |  Melee  |      Radiant      |           Swift           |                    |        None        |
 |   Radiance - Ranged Trick   |     2d8, 5d6     |                |                  |      0      | Extended |      Radiant      |          Steady          |                    |        None        |

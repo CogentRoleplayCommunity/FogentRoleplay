@@ -48,7 +48,7 @@
 
 ***Physical Melee***
 
-|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Ammo |
+|          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :--: |
 |         Unarmed         |      -1d6      |      -1d6      |        n/a        |      0      | Melee |     Bludgeon     |           Swift           |        None        | None |
 | Hand Protection Unarmed |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |           Swift           |        None        | None |
@@ -61,7 +61,7 @@
 
 ***Physical Ranged***
 
-|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Engageable<br />Opponents | Area Of<br />Effect | Ammo |
+|            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :--: |
 | Thrown Small Piercing Blade |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |           Swift           |        None        | None |
 
