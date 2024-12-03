@@ -22,7 +22,7 @@ Remain stationary for an entire round to gain a more stable base for ranged atta
 
 This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
 
-While making a ranged attack, focus on a single opponent and target a weak point. Your Engageable Opponents is reduced to 1 for the turn.
+While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
 
 ## Charge (Advantage)
 
@@ -48,7 +48,7 @@ Bonus received through achieving a height advantage against an opponent, IE stan
 
 ## Off Guard (Disadvantage)
 
-Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE exhausting their Engageable Opponents, picking a lock, dashing away, being distracted, etc.
+Penalty to combat rolls and dodge rolls received when a character is actively engaged in something else, IE picking a lock, hacking a terminal, being distracted, etc.
 
 ## Sneak Attack (CL in lieu of defense roll)
 
