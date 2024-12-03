@@ -34,26 +34,6 @@ A cone's width at any point down its length is equal to that point's distance fr
 
 Area Of Effect Calculations scale with the size of the Skill Dice Pool they are associated with. This could be used for magic users, with the size of their area of effects scaling with their proficiency with their magic.
 
-### Medium Sphere Calculation
-
-Sphere Radius (ft): 2.5 + (Skill Dice Pool Size * 2.5), rounded down to the nearest multiple of 5
-
-| Skill Dice Pool Size | Radius (ft) |
-| :------------------: | :---------: |
-|        1 dice        |      5      |
-|        2 dice        |      5      |
-|        3 dice        |     10     |
-|        4 dice        |     10     |
-|        5 dice        |     15     |
-|        6 dice        |     15     |
-|        7 dice        |     20     |
-|        8 dice        |     20     |
-|        9 dice        |     25     |
-|       10 dice       |     25     |
-|       11 dice       |     30     |
-|       12 dice       |     30     |
-|         ...         |            |
-
 ### Close Cone Calculation
 
 Triangle Base/Height: [Close Cone](./Range.md)
@@ -97,3 +77,23 @@ Cones Calculations can be customized to have larger angles and heights/bases, bu
 |       11 dice       |             55             |         ~53         |        1512.5        |
 |       12 dice       |             60             |         ~53         |         1800         |
 |         ...         |                            |                      |                      |
+
+### Medium Sphere Calculation
+
+Sphere Radius (ft): 2.5 + (Skill Dice Pool Size * 2.5), rounded down to the nearest multiple of 5
+
+| Skill Dice Pool Size | Radius (ft) |
+| :------------------: | :---------: |
+|        1 dice        |      5      |
+|        2 dice        |      5      |
+|        3 dice        |     10     |
+|        4 dice        |     10     |
+|        5 dice        |     15     |
+|        6 dice        |     15     |
+|        7 dice        |     20     |
+|        8 dice        |     20     |
+|        9 dice        |     25     |
+|       10 dice       |     25     |
+|       11 dice       |     30     |
+|       12 dice       |     30     |
+|         ...         |            |
