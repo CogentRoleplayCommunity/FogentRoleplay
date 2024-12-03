@@ -271,7 +271,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |       Paper (one sheet)       | 1 |              |    0    |  20 cc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |     Parchment (one sheet)     | 1 |              |    0    |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |        Perfume (vial)        | 1 |              |   0.1   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-| Vial of Gradual Healing Blood | 1 |              |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+| Vial of Minor Healing Factor Blood | 1 |              |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |  Vial of Minor Healing Blood  | 1 |              |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Medium Healing Blood | 1 |              |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Serious Healing Blood | 1 |              |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
@@ -497,7 +497,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |        Component Pouch        | 1 |  12 lb container  |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |           Spellbook           | 1 |                    |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |           Runebook           | 1 | Spellcasting Focus |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Gradual Healing Blood | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+| Vial of Minor Healing Factor Blood | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |  Vial of Minor Healing Blood  | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Medium Healing Blood | 1 |                    |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Serious Healing Blood | 1 |                    |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
@@ -697,7 +697,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |          Oil (flask)          | 1 |                        |   1   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |         Perfume (vial)         | 1 |                        |  0.1  |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |      Poison, Basic (vial)      | 1 |                        |  0.5  |  100 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Gradual Healing Blood | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+| Vial of Minor Healing Factor Blood | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |  Vial of Minor Healing Blood  | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |  Vial of Medium Healing Blood  | 1 |                        |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Serious Healing Blood | 1 |                        |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
