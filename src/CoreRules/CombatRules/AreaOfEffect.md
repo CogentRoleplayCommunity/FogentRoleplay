@@ -80,7 +80,7 @@ Cones Calculations can be customized to have larger angles and heights/bases, bu
 
 ### Medium Sphere Calculation
 
-Sphere Radius (ft): 2.5 + (Skill Dice Pool Size * 2.5), rounded down to the nearest multiple of 5
+Sphere Radius (ft): 2.5 + (Skill Dice Pool Size) * 2.5, rounded down to the nearest multiple of 5
 
 | Skill Dice Pool Size | Radius (ft) |
 | :------------------: | :---------: |
