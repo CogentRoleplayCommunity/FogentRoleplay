@@ -1,12 +1,12 @@
 # Combat Modifiers
 
-Combat Modifiers represent different circumstances a character can encounter while in combat.
+Combat Modifiers represent different circumstances and actions that can occur within combat.
 
-## Defensive (Advantage) (no victory levels)
+## Defensive (Advantage) (No Victory Level Outcomes)
 
 A character purely focuses on defending themselves.
 
-No victory levels can be achieved for the round by the defender. Adboth to Combat Rolls and Dodge Rolls if declared. Can not be applied when a Character can not solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
+No victory level outcomes can be achieved for the round by the defender. Effects both to Combat Rolls and Dodge Rolls if declared. Is not applicable if Character can't solely focus on defending themselves, such as when they have Disadvantage to their Combat Rolls or Dodge Rolls. Examples include being Staggered, being attacked from outside a Grapple, getting up from being Prone, being Off Guard, Dashing, etc...
 
 ## Dash (2x Movement Speed)
 
@@ -22,7 +22,7 @@ Remain stationary for an entire round to gain a more stable base for ranged atta
 
 ## High ground (Advantage)
 
-Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an opponent on the ground. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
+Bonus received through achieving a height advantage against an opponent, IE standing on a table, riding on a mount, or attacking an prone opponent with a melee weapon. High ground for ranged attacks, must have a more significant height differential than for melee attacks, such as shooting from a climbed tree or atop a castle wall.
 
 ## Off Guard (Disadvantage)
 
@@ -35,6 +35,7 @@ An attack made while hidden that can't be defended against by the opponent. Usua
 ## Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.
+
 There are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.
 
 ### Half Cover: Minor Resistance
@@ -75,4 +76,4 @@ A brace is a move purely to counter a charge. Character gains Advantage versus c
 
 Usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
 
-When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking.
+When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attackin.
