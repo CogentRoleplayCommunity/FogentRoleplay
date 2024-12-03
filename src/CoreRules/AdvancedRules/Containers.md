@@ -21,10 +21,10 @@ Characters will often stash or drop containers during combat as to not be in a h
 
 When representing a container on a character sheet, a similar table as the one below is used. For Containers, whatever the first item in the list is marks it as what kind of container it is.
 
-| Name                    |        #        | Effect               |  LB  | Value | Description |
-| ----------------------- | :-------------: | -------------------- | :--: | :---: | ----------- |
+| Name                    |        #        |        Effect        |  LB  | Value | Description |
+| ----------------------- | :-------------: | :------------------: | :--: | :---: | ----------- |
 | Backpack                | 30 lb container |                      |  5  | 2 bc |             |
-| Light Longbow           |        1        | Light Bow            |  2  | 25 bc |             |
+| Light Longbow           |        1        |      Light Bow      |  2  | 25 bc |             |
 | Quiver (capacity: 20)   |        1        |                      |  1  | 1 bc |             |
 | Light Arrow - Broadhead |       20       | Standard Light Arrow | 0.05 | 5 cc |             |
 | Ring, Mundane           |        1        |                      | 0.2 | 30 cc |             |
