@@ -51,26 +51,28 @@ A target with total cover can't be targeted directly by an attack, although some
 
 # Combat Assists
 
+These are examples of [Assists](./../GeneralRules/Assists.md) that can be used in combat.
+
 ## Focused Shot (Advantage)
 
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Perception Core Skill.
+Usually achieved with the Perception Core Skill.
 
 While making a ranged attack, focus on a single opponent and target a weak point. Your Uses Per Round is reduced to 1 for the turn.
 
 ## Charge (Advantage) (Disadvantage to Dodge Rolls)
 
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Athletics Core Skill.
+Usually achieved with the Athletics Core Skill.
 
-If there is 10 ft between the character and opponent, they may add their momentum to their attack. This must be in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to dodging ranged attacks.
+If there is 10 ft between the character and an opponent, they may add their momentum to their melee attack. The character charging must move in a straight line, and once a charge is initiated as a portion of a character's movement, their directions must remain constant the entire round. Disadvantage to Dodging while charging.
 
 ## Brace (Advantage versus Charge) (Disadvantage to Dodge Rolls)
 
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved with the Lift Core Skill.
+Usually achieved with the Lift Core Skill.
 
-A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
+A brace is a move purely to counter a charge. Character gains Advantage versus charging opponents and charging opponents lose their Advantage versus them. No movement can be used while bracing. Bracing uses the opponent's momentum against them, enabling a prepared defender to more easily stagger, trip or injure the charging opponent.
 
 ## Pack Tactics
 
-This is an [Assist](./../GeneralRules/Assists.md), which is usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
+Usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
 
-When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking with melee combat rolls.
+When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attacking.
