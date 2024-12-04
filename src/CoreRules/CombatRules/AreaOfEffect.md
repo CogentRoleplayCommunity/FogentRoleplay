@@ -1,6 +1,6 @@
 # Area Of Effect
 
-Certain attacks, spells, etc. affect an area, such as a grenade explosion.
+Certain attacks, spells, etc. effect an area, such as a grenade explosion.
 
 ## Set Area Of Effects
 
