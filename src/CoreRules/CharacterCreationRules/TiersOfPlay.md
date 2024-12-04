@@ -30,6 +30,8 @@ See [Disabling Characteristics](./DisablingCharacteristics.md).
 
 At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained.
 
+At character creation, for each Disabling Characteristic that makes an Attribute level -1, an additional 2 skill points are gained.
+
 ### Tiers of Play
 
 ### Apprentice Tier (D&D Level 1 - 4)
