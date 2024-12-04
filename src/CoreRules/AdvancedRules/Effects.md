@@ -12,7 +12,7 @@ The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
 ### Attribute Dice Mods
 
-Adds or subtracts dice for dice pools if they governed by one of the Attributes specified.
+Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
 - [Injury](./../CombatRules/InjuryAndHealing.md#injury)
 - [Weight Classes](./../AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes)
@@ -92,9 +92,7 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 
 Sets the base dice of specific skills or vocations dice pools.
 
-For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead.
-
-Base Dice Tiers also apply to tools used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
+For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dice Tiers also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
 
 | Name                                    | Desc                                                                       | Duration   | Source |
 | --------------------------------------- | -------------------------------------------------------------------------- | ---------- | ------ |
@@ -117,14 +115,13 @@ See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
 
 "Narrative Effects" can essentially be thought of as effects that do not change anything on a character sheet when added.
 
-For instance, a Disabling Characteristic doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing doesn't have any mechanical effect until a player uses it within narrative.
+For instance, a Size Effect doesn't change anything else on your sheet when added, though it could have a massive impact on how a character is played. A potion with a Healing Effect doesn't have any mechanical effect until a player uses it within narrative.
 
 - [Disabling Characteristics](./../CharacterCreationRules/DisablingCharacteristics.md)
 - [Healing](./../CombatRules/InjuryAndHealing.md#healing)
 - [Destiny Points](./../GeneralRules/DestinyPoints.md)
 - [Size](./../CombatRules/BattleMap.md#size)
-- [Weakness](./../CombatRules/WeaknessAndResistance.md#weakness)
-- [Resistance](./../CombatRules/WeaknessAndResistance.md#resistance)
+- [Weakness and Resistance](./../CombatRules/WeaknessAndResistance.md)
 - [Vision](./../AdvancedRules/VisionAndLight.md#vision-types)
 
 ## Narrative Effect Examples
