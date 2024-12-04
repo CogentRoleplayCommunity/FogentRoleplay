@@ -1,6 +1,6 @@
 # Magic Skills
 
-Magic Skills represent the ability to manipulate and control different magic concepts or elements.
+Magic Skills represent the ability to manipulate and control different magic elements, concepts, or whatever the Narrator desires.
 
 The CL of any Magic Skill check is proportionate to the amount of Magic Resource required as fuel to attempt the roll, unless otherwise stated.
 
@@ -40,7 +40,7 @@ Determines the Damage Types the Magic Skill is capable of inflicting.
 
 ### Melee Capable
 
-Determines if this Magic Skill could be used for melee combat. A good rule of thumb is if it can't create something physical that could block a sword, then it probably isn't Melee Capable.
+Determines if this Magic Skill could be used for melee combat. A good rule of thumb is if it can't create something physical that could block a blow, then it probably isn't Melee Capable.
 
 ### Range Capable
 
@@ -61,7 +61,7 @@ Determines if the Magic Skill in question is capable of affecting something at r
 |               Light Magic               |                 Radiant                 |     TRUE     |     TRUE     |
 |              Shadow Magic              |                Necrotic                |     TRUE     |     TRUE     |
 |               Mind Magic               |                 Psychic                 |     FALSE     |     TRUE     |
-|               Magnetic Magic               |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
+|             Magnetic Magic             |      Slash, Bludgeon, Hew, Pierce      |     TRUE     |     TRUE     |
 |               Sound Magic               |                Shockwave                |     FALSE     |     TRUE     |
 |               Blood Magic               |                  Bleed                  |     TRUE     |     TRUE     |
 |               Acid Magic               |                  Acid                  |     TRUE     |     TRUE     |
@@ -81,4 +81,6 @@ Another avenue to explore is how magic skills could be combined.
 
 ## Spellcasting Focus
 
-All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the narrator to decide if their are any restrictions in their magic system/setting. A Spellcasting Focus's Base Dice Tiers influence magic skills cast through it, assuming they apply to that skill.
+All magic needs a Spellcasting Focus to be cast through wether a wizard's staff, a druid's focus, or even a character's own body. Just about anything can be made into a Spellcasting Focus from a narrative perspective, but it is up to the narrator to decide if their are any restrictions in their magic system/setting.
+
+Spellcasting Focuses often have [Skill Base Dice Tier](./../AdvancedRules/Effects.md#skill-base-dice-tier) Effects on them that infulence the magic skills cast through it, assuming they apply to that skill.
