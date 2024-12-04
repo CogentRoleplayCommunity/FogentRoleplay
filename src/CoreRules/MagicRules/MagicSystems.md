@@ -25,7 +25,7 @@ Different Magic Vocations rely on different attributes. Most traditional fantasy
 
 ## Magic Resource Name
 
-Determining what fuels the Magic System is crucial. Is it the will of the caster, their connection with nature, or their connection to a divine entity? An example of a magic resource name is "mana".
+Determining what fuels the Magic System is crucial. Is it the will of the caster, their connection with nature, or their connection to a divine entity? An example of a magic resource name is "Mana". See [Magic Resource](./MagicResource.md) for more information about the actual mechanics.
 
 ## Magic Governing Core Skill
 
