@@ -14,57 +14,63 @@ Vocation Magic Resource = Vocation Level * Vocation Dice Pool Size
 
 - If a Vocation's level is 0, then use 0.5 for the Vocation Level variable in the calculation above and round down to the nearest whole number.
 
+#### Vocation Magic Resource Examples
+
+| Vocation Level | Vocation Dice Pool | Vocation Magic Resource |
+| :------------: | :----------------: | :---------------------: |
+|       0       |        4d6        |            2            |
+|       0       |        4d6        |            2            |
+|       1       |        5d6        |            5            |
+|       1       |        5d6        |            5            |
+|       1       |        6d6        |            6            |
+|       1       |        6d6        |            6            |
+|       2       |        7d6        |           14           |
+|       2       |        7d6        |           14           |
+|       2       |        8d6        |           16           |
+|       2       |        8d6        |           16           |
+|       3       |        9d6        |           27           |
+|       3       |        9d6        |           27           |
+|       3       |        10d6        |           30           |
+|       3       |        10d6        |           30           |
+|       4       |        11d6        |           44           |
+|       4       |        11d6        |           44           |
+|       4       |        12d6        |           48           |
+|       4       |        12d6        |           48           |
+|       5       |        13d6        |           65           |
+|       5       |        13d6        |           65           |
+|       5       |        14d6        |           70           |
+
 ### Magic Governing Core Skill Magic Resource
 
 Magic Governing Core Skill Magic Resource = (Magic Governing Core Skill Level * Magic Governing Core Skill Dice Pool Size) / 2, rounded down to the nearest whole number
 
 - If the Magic Governing Core Skill level is 0 or below, then use 0.5 for the Magic Governing Core Skill Level variable in the above calculation.
 
-### Apprentice Tier of Play Examples
+#### Magic Governing Core Skill Magic Resource Examples
 
-| Vocation Level | Vocation Dice Pool | V. Magic Resource | Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource | Total Magic Resource Pool |
-| :------------: | :----------------: | :---------------: | :------------------------------: | :----------------------------------: | :---------------------: | :-----------------------: |
-|       0       |        4d6        |         2         |                0                |                 4d6                 |            1            |             3             |
-|       0       |        4d6        |         2         |                1                |                 5d6                 |            2            |             4             |
-|       1       |        5d6        |         5         |                0                |                 4d6                 |            1            |             6             |
-|       1       |        5d6        |         5         |                1                |                 5d6                 |            2            |             7             |
-|       1       |        6d6        |         6         |                1                |                 6d6                 |            3            |             9             |
-
-### Adept Tier of Play Examples
-
-| Vocation Level | Vocation Dice Pool | V. Magic Resource | Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource | Total Magic Resource Pool |
-| :------------: | :----------------: | :---------------: | :------------------------------: | :----------------------------------: | :---------------------: | :-----------------------: |
-|       1       |        6d6        |         6         |                2                |                 7d6                 |            7            |            13            |
-|       2       |        7d6        |        14        |                1                |                 6d6                 |            3            |            17            |
-|       2       |        7d6        |        14        |                2                |                 7d6                 |            7            |            21            |
-|       2       |        8d6        |        16        |                2                |                 8d6                 |            8            |            24            |
-
-### Expert Tier of Play Examples
-
-| Vocation Level | Vocation Dice Pool | V. Magic Resource | Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource | Total Magic Resource Pool |
-| :------------: | :----------------: | :---------------: | :------------------------------: | :----------------------------------: | :---------------------: | :-----------------------: |
-|       2       |        8d6        |        16        |                3                |                 9d6                 |           13           |            29            |
-|       3       |        9d6        |        27        |                2                |                 8d6                 |            8            |            35            |
-|       3       |        9d6        |        27        |                3                |                 9d6                 |           13           |            40            |
-|       3       |        10d6        |        30        |                3                |                 10d6                 |           15           |            45            |
-
-### Master Tier of Play Examples
-
-| Vocation Level | Vocation Dice Pool | V. Magic Resource | Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource | Total Magic Resource Pool |
-| :------------: | :----------------: | :---------------: | :------------------------------: | :----------------------------------: | :---------------------: | :-----------------------: |
-|       3       |        10d6        |        30        |                4                |                 11d6                 |           22           |            52            |
-|       4       |        11d6        |        44        |                3                |                 10d6                 |           15           |            59            |
-|       4       |        11d6        |        44        |                4                |                 11d6                 |           22           |            66            |
-|       4       |        12d6        |        48        |                4                |                 12d6                 |           24           |            72            |
-
-### Legendary Tier of Play Examples
-
-| Vocation Level | Vocation Dice Pool | V. Magic Resource | Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource | Total Magic Resource Pool |
-| :------------: | :----------------: | :---------------: | :------------------------------: | :----------------------------------: | :---------------------: | :-----------------------: |
-|       4       |        12d6        |        48        |                5                |                 13d6                 |           32           |            80            |
-|       5       |        13d6        |        65        |                4                |                 12d6                 |           24           |            89            |
-|       5       |        13d6        |        65        |                5                |                 13d6                 |           32           |            97            |
-|       5       |        14d6        |        70        |                5                |                 14d6                 |           35           |            105            |
+| Magic Governing Core Skill Level | Magic Governing Core Skill Dice Pool | M.G.C.S. Magic Resource |
+| :------------------------------: | :----------------------------------: | :---------------------: |
+|                0                |                 4d6                 |            1            |
+|                1                |                 5d6                 |            2            |
+|                0                |                 4d6                 |            1            |
+|                1                |                 5d6                 |            2            |
+|                1                |                 6d6                 |            3            |
+|                2                |                 7d6                 |            7            |
+|                1                |                 6d6                 |            3            |
+|                2                |                 7d6                 |            7            |
+|                2                |                 8d6                 |            8            |
+|                3                |                 9d6                 |           13           |
+|                2                |                 8d6                 |            8            |
+|                3                |                 9d6                 |           13           |
+|                3                |                 10d6                 |           15           |
+|                4                |                 11d6                 |           22           |
+|                3                |                 10d6                 |           15           |
+|                4                |                 11d6                 |           22           |
+|                4                |                 12d6                 |           24           |
+|                5                |                 13d6                 |           32           |
+|                4                |                 12d6                 |           24           |
+|                5                |                 13d6                 |           32           |
+|                5                |                 14d6                 |           35           |
 
 ## Regaining Magic Resource
 
