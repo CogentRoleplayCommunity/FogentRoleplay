@@ -4,7 +4,7 @@ Tier Of Play narratively describes the stakes of the campaign as well as how pow
 
 The Narrator should let the players know the Tier Of Play and players should factor this into their characters. It would be silly to have a character's backstory paint them as a badass only to have them start at Apprentice Tier. Also, realize that your character will grow throughout their story and the Narrator will be rewarding players with ways to improve your character as they play.
 
-Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level one.
+Whenever building a character starting at a higher level than 1, you must build that character as if they were starting from level 1.
 
 ## Tier of Play Breakdown
 
@@ -30,7 +30,7 @@ See [Disabling Characteristics](./DisablingCharacteristics.md).
 
 At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained.
 
-At character creation, for each Disabling Characteristic that makes an Attribute level -1, an additional 2 skill points are gained.
+At character creation, players characters that take a Disabling Characteristic that results in a -1 in an Attribute (STR, RFX, or INT would be Feeble, Heavy, Dim-witted, etc...) gain an additional 2 skill points.
 
 ### Tiers of Play
 

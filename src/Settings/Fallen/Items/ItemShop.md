@@ -33,6 +33,17 @@ While this is by no means extremely accurate, this gives a rough idea of value t
 |     1 gc     |   $10,000   |
 |     1 pc     | $1,000,000 |
 
+### Starting Wealth Table for Character creation
+
+|                       Socioeconomic status                       | Starting Wealth | Average Wealth |
+| :--------------------------------------------------------------: | :-------------: | :------------: |
+|                               Poor                               |     5d4 bc     |     13 bc     |
+|                  Unskilled Labor ( Farm hand )                  |   1d4 x 10 bc   |     25 bc     |
+|              Low Skilled Labor ( Hunter, Butcher )              |   2d4 x 10 bc   |     50 bc     |
+|             Skilled Labor ( Blacksmith, Carpenter )             |   3d4 x 10 bc   |     75 bc     |
+| High Skilled Labor ( Accomplished thief, educated professions ) |   4d4 x 10 bc   |     100 bc     |
+|                     Wealthy (Nobles/Knights)                     |   5d4 x 10 bc   |     125 bc     |
+
 ### Out of Game Downtime Bartering Rules
 
 Fallen uses a handy item catalog formatted the same as your characters inventories to make buying, selling, and looting as easy as copying and pasting.
@@ -246,54 +257,54 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TempleFaithSupplies.png) Temple/Faith Supplies
 
-|             Name             | # |   Effects   | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :---------------------------: | :-: | :----------: | :-----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|           Alms Box           | 1 |              |    1    |   5 bc   |       FALSE       |         O         |         O         |          O          |
-|             Bell             | 1 |              |   0.1   |  70 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Blanket            | 1 |              |    3    |  50 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Book, Scripture        | 1 |              |   0.5   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|            Candle            | 1 |              |   0.1   |   1 cc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|      Case, Map or Scroll      | 1 |              |    1    |   1 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Censer            | 1 |              |    1    |   5 bc   |       FALSE       |         O         |         O         |          O          |
-|        Chalk (1 piece)        | 1 |              |   0.1   |   1 cc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|             Flask             | 1 |              |    1    |   2 cc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Healer's Kit         | 1 |              |    3    |   5 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|     Amulet - Holy Symbol     | 1 |              |    1    |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|            Emblem            | 1 |              |   0.1   |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Reliquary           | 1 |              |    2    |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|     Blessed Water (flask)     | 1 |              |    1    |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Incense (1 block)       | 1 |              |   0.1   |   1 cc   |       FALSE       |         O         |         O         |          O          |
-|     Ink (1 ounce bottle)     | 1 |              |   0.1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|      Ink Pen (Fountain)      | 1 |              |  0.05  |   3 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|             Lamp             | 1 |              |    1    |  50 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Lantern, Hooded        | 1 |              |    2    |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|          Oil (flask)          | 1 |              |    1    |  10 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Paper (one sheet)       | 1 |              |    0    |  20 cc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|     Parchment (one sheet)     | 1 |              |    0    |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|        Perfume (vial)        | 1 |              |   0.1   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Name                | # |   Effects   | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------: | :-: | :----------: | :-----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|              Alms Box              | 1 |              |    1    |   5 bc   |       FALSE       |         O         |         O         |          O          |
+|                Bell                | 1 |              |   0.1   |  70 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|              Blanket              | 1 |              |    3    |  50 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Book, Scripture          | 1 |              |   0.5   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Candle               | 1 |              |   0.1   |   1 cc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Case, Map or Scroll        | 1 |              |    1    |   1 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|               Censer               | 1 |              |    1    |   5 bc   |       FALSE       |         O         |         O         |          O          |
+|          Chalk (1 piece)          | 1 |              |   0.1   |   1 cc   |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Flask               | 1 |              |    1    |   2 cc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|            Healer's Kit            | 1 |              |    3    |   5 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|        Amulet - Holy Symbol        | 1 |              |    1    |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Emblem               | 1 |              |   0.1   |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|             Reliquary             | 1 |              |    2    |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|       Blessed Water (flask)       | 1 |              |    1    |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Incense (1 block)         | 1 |              |   0.1   |   1 cc   |       FALSE       |         O         |         O         |          O          |
+|        Ink (1 ounce bottle)        | 1 |              |   0.1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Ink Pen (Fountain)         | 1 |              |  0.05  |   3 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Lamp                | 1 |              |    1    |  50 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Lantern, Hooded          | 1 |              |    2    |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|            Oil (flask)            | 1 |              |    1    |  10 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Paper (one sheet)         | 1 |              |    0    |  20 cc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|       Parchment (one sheet)       | 1 |              |    0    |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Perfume (vial)           | 1 |              |   0.1   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 | Vial of Minor Healing Factor Blood | 1 |              |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Minor Healing Blood  | 1 |              |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Medium Healing Blood | 1 |              |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Serious Healing Blood | 1 |              |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Fatal Healing Blood  | 1 |              |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-| Vial of Revival Healing Blood | 1 |              |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|        Rations (1 day)        | 1 |              |    2    |  50 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|             Torch             | 1 | Shoddy Torch |    1    |   1 cc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|             Vial             | 1 |              |   0.1   |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Waterskin (0/4)        | 1 |              |    1    |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Waterskin (4/4)        | 1 |              |    5    |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Calligrapher's Supplies    | 1 |              |    5    |  10 bc  |       FALSE       |       FALSE       |         O         |          O          |
-|         Herbalism Kit         | 1 |              |    3    |   5 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|             Flute             | 1 |              |    2    |   2 bc   |       FALSE       |       FALSE       |       FALSE       |          O          |
-|             Lyre             | 1 |              |    2    |  30 bc  |       FALSE       |       FALSE       |       FALSE       |          O          |
-|             Horn             | 1 |              |    2    |   3 bc   |       FALSE       |       FALSE       |       FALSE       |          O          |
-|         -[Services]-         |  |              |        |          |                    |                  |                  |                    |
-|        Lvl 1 Blessing        |  |              |  10 bc  |          |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Lvl 2 Blessing        |  |              |  50 bc  |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Lvl 3 Blessing        |  |              |  50 bc  |          |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Lvl 4 Blessing        |  |              | 100 bc |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Lvl 5 Blessing        |  |              | 400 bc |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Lvl 6 Blessing        |  |              | 1000 bc |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Minor Healing Blood    | 1 |              |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Medium Healing Blood    | 1 |              |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|   Vial of Serious Healing Blood   | 1 |              |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Fatal Healing Blood    | 1 |              |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Vial of Revival Healing Blood   | 1 |              |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|          Rations (1 day)          | 1 |              |    2    |  50 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Torch               | 1 | Shoddy Torch |    1    |   1 cc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Vial                | 1 |              |   0.1   |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Waterskin (0/4)          | 1 |              |    1    |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Waterskin (4/4)          | 1 |              |    5    |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|      Calligrapher's Supplies      | 1 |              |    5    |  10 bc  |       FALSE       |       FALSE       |         O         |          O          |
+|           Herbalism Kit           | 1 |              |    3    |   5 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|               Flute               | 1 |              |    2    |   2 bc   |       FALSE       |       FALSE       |       FALSE       |          O          |
+|                Lyre                | 1 |              |    2    |  30 bc  |       FALSE       |       FALSE       |       FALSE       |          O          |
+|                Horn                | 1 |              |    2    |   3 bc   |       FALSE       |       FALSE       |       FALSE       |          O          |
+|            -[Services]-            |  |              |        |          |                    |                  |                  |                    |
+|           Lvl 1 Blessing           |  |              |  10 bc  |          |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Lvl 2 Blessing           |  |              |  50 bc  |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Lvl 3 Blessing           |  |              |  50 bc  |          |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Lvl 4 Blessing           |  |              | 100 bc |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Lvl 5 Blessing           |  |              | 400 bc |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Lvl 6 Blessing           |  |              | 1000 bc |          |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 
 ### ![](ItemShop/BookPrices.png) Book Prices (Library or Otherwise)
 
@@ -487,22 +498,22 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|             Name             | # |      Effects      | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :---------------------------: | :-: | :----------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|            Crystal            | 1 | Spellcasting Focus |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|              Orb              | 1 | Spellcasting Focus |   3   |  20 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|              Rod              | 1 | Spellcasting Focus |   2   |  10 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|             Staff             | 1 | Spellcasting Focus |   4   |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|             Wand             | 1 | Spellcasting Focus |   1   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Component Pouch        | 1 |  12 lb container  |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Spellbook           | 1 |                    |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Runebook           | 1 | Spellcasting Focus |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|                Name                | # |      Effects      | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------: | :-: | :----------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|              Crystal              | 1 | Spellcasting Focus |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Orb                | 1 | Spellcasting Focus |   3   |  20 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Rod                | 1 | Spellcasting Focus |   2   |  10 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Staff               | 1 | Spellcasting Focus |   4   |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Wand                | 1 | Spellcasting Focus |   1   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Component Pouch          | 1 |  12 lb container  |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|             Spellbook             | 1 |                    |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|              Runebook              | 1 | Spellcasting Focus |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Minor Healing Factor Blood | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Minor Healing Blood  | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Medium Healing Blood | 1 |                    |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Serious Healing Blood | 1 |                    |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Fatal Healing Blood  | 1 |                    |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-| Vial of Revival Healing Blood | 1 |                    |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|    Vial of Minor Healing Blood    | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Medium Healing Blood    | 1 |                    |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|   Vial of Serious Healing Blood   | 1 |                    |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Fatal Healing Blood    | 1 |                    |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Vial of Revival Healing Blood   | 1 |                    |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
@@ -688,37 +699,37 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/PotionShop.png) Potion Shop
 
-|              Name              | # |         Effects         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :----------------------------: | :-: | :---------------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|          Acid (vial)          | 1 |                        |  0.5  |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|    Alchemist's Fire (flask)    | 1 |                        |   1   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|        Antitoxin (vial)        | 1 |                        |  0.5  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Component Pouch        | 1 |     12 lb container     |   2   |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|          Oil (flask)          | 1 |                        |   1   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Perfume (vial)         | 1 |                        |  0.1  |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|      Poison, Basic (vial)      | 1 |                        |  0.5  |  100 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Name                | # |         Effects         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------: | :-: | :---------------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|            Acid (vial)            | 1 |                        |  0.5  |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|      Alchemist's Fire (flask)      | 1 |                        |   1   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|          Antitoxin (vial)          | 1 |                        |  0.5  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Component Pouch          | 1 |     12 lb container     |   2   |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Oil (flask)            | 1 |                        |   1   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Perfume (vial)           | 1 |                        |  0.1  |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|        Poison, Basic (vial)        | 1 |                        |  0.5  |  100 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 | Vial of Minor Healing Factor Blood | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Minor Healing Blood  | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Medium Healing Blood  | 1 |                        |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Serious Healing Blood | 1 |                        |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|  Vial of Fatal Healing Blood  | 1 |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-| Vial of Revival Healing Blood | 1 |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|              Vial              | 1 |                        |  0.1  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Alchemy Ingredient - Uncommon | 1 |                        |  0.5  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|   Alchemy Ingredient - Rare   | 1 |                        |  0.5  |  10 bc  |        TRUE        |       FALSE       |       TRUE       |        TRUE        |
-| Alchemy Ingredient - Very Rare | 1 |                        |  0.5  |  30 bc  |        TRUE        |       FALSE       |       FALSE       |        TRUE        |
-|      Alchemist's Supplies      | 1 |                        |   8   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Brewer's Supplies       | 1 |                        |   9   |  20 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Cook's Utensils        | 1 |                        |   8   |   1 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Poisoner's Kit         | 1 |                        |   2   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Spell Components        | 1 |                        |  0.5  |    ??    |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Potion - Common        | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Potion - Uncommon       | 1 |                        |  0.25  |  250 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Potion - Rare         | 1 |                        |  0.25  | 2500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Potion - Very Rare       | 1 |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Potion - Legendary       | 1 |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|                                |  |                        |        |          |                    |                  |                  |                    |
-|     Potion of Invisibility     | 1 | Single-use Invisibility |  0.25  |  250 bc  |                    |                  |                  |                    |
+|    Vial of Minor Healing Blood    | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Medium Healing Blood    | 1 |                        |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|   Vial of Serious Healing Blood   | 1 |                        |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Fatal Healing Blood    | 1 |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Vial of Revival Healing Blood   | 1 |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Vial                | 1 |                        |  0.1  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|   Alchemy Ingredient - Uncommon   | 1 |                        |  0.5  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|     Alchemy Ingredient - Rare     | 1 |                        |  0.5  |  10 bc  |        TRUE        |       FALSE       |       TRUE       |        TRUE        |
+|   Alchemy Ingredient - Very Rare   | 1 |                        |  0.5  |  30 bc  |        TRUE        |       FALSE       |       FALSE       |        TRUE        |
+|        Alchemist's Supplies        | 1 |                        |   8   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Brewer's Supplies         | 1 |                        |   9   |  20 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Cook's Utensils          | 1 |                        |   8   |   1 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Poisoner's Kit           | 1 |                        |   2   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Spell Components          | 1 |                        |  0.5  |    ??    |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Potion - Common          | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Potion - Uncommon         | 1 |                        |  0.25  |  250 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Potion - Rare           | 1 |                        |  0.25  | 2500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Potion - Very Rare         | 1 |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Potion - Legendary         | 1 |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                                    |  |                        |        |          |                    |                  |                  |                    |
+|       Potion of Invisibility       | 1 | Single-use Invisibility |  0.25  |  250 bc  |                    |                  |                  |                    |
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
