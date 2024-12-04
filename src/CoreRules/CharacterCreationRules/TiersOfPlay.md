@@ -24,11 +24,11 @@ The number of points you can spend to increase a character's Attributes.
 
 The number of points you get to spend on Core Skills, Vocations, and Combat Skills.
 
-At character creation, for each Core Skill made Incompetent (level -1), an additional skill point is gained.
-
 ### Disabling Characteristics
 
 See [Disabling Characteristics](./DisablingCharacteristics.md).
+
+At character creation, for each Disabling Characteristic that makes a Core Skill Incompetent (level -1), an additional skill point is gained.
 
 ### Tiers of Play
 
