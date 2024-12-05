@@ -55,10 +55,12 @@ Reach Slashing Sword,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,R
 Reach Spear,-2,+4d6,None,4,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear
 Whip,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip
 ,,,,,,,,,,,,
-Weak Bite,None,-1,None,0,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
-Small Bite,None,+1d6,None,1,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
-Bite,None,+2d6,None,2,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
-Large Bite,None,+3d6,None,3,Melee,Quick,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Weak Bite,-1,None,+0d6,0,Melee,Swift,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Small Bite,+0d6,None,+0d6,0,Melee,Swift,,None,,"Slash, Pierce",Primal Melee,Bite
+Shredding Bite,+1d6,None,+1d6,0,Melee,Swift,,None,,"Slash, Pierce",Primal Melee,Bite
+Piercing Bite,+0d6,None,+1d6,2,Melee,Swift,,None,,"Pierce, Bludgeon",Primal Melee,Bite
+Large Shredding Bite,+2d6,None,+1d6,1,Melee,Swift,,None,,"Slash, Pierce",Primal Melee,Bite
+Large Piercing Bite,+1d6,None,+1d6,2,Melee,Swift,,None,,"Pierce, Bludgeon",Primal Melee,Bite
 ,,,,,,,,,,,,
 Slashing Claw,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Primal Melee,Claw
 Piercing Claw,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Primal Melee,Claw
