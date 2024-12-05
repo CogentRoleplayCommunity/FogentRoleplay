@@ -306,20 +306,25 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 ## Primal Melee
 
-- Bite, Slashing Claw, Piercing Claw, Horns, Slam, and Tentacle are generally meant for Medium Sized creatures
-- Large Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Large Sized creatures
+- Shredding Bite, Piercing Bite, Slashing Claw, Piercing Claw, Horns, Slam, and Tentacle are generally meant for Medium Sized creatures
+- Large Shredding Bite, Large Piercing Bite, Large Slashing Claw, Large Piercing Claw, Large Horns, and Large Slam are generally meant for Large Sized creatures
 
 ### Bite
 
-|    Name    | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
-| :--------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| Weak Bite |      None      |       -1       |       None       |      0      | Melee |        Quick        |                    |      None      |                  | Pierce, Bludgeon |
-| Small Bite |      None      |      +1d6      |       None       |      1      | Melee |        Quick        |                    |      None      |                  | Pierce, Bludgeon |
-|    Bite    |      None      |      +2d6      |       None       |      2      | Melee |        Quick        |                    |      None      |                  | Pierce, Bludgeon |
-| Large Bite |      None      |      +3d6      |       None       |      3      | Melee |        Quick        |                    |      None      |                  | Pierce, Bludgeon |
+|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
+| :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
+|       Weak Bite       |      -1d6      |      None      |       +0d6       |      0      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
+|      Small Bite      |      +0d6      |      None      |       +0d6       |      0      | Melee |        Swift        |                    |      None      |                  |   Slash, Pierce   |
+|    Shredding Bite    |      +1d6      |      None      |       +1d6       |      0      | Melee |        Swift        |                    |      None      |                  |   Slash, Pierce   |
+|     Piercing Bite     |      +0d6      |      None      |       +1d6       |      2      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
+| Large Shredding Bite |      +2d6      |      None      |       +1d6       |      1      | Melee |        Swift        |                    |      None      |                  |   Slash, Pierce   |
+|  Large Piercing Bite  |      +1d6      |      None      |       +1d6       |      2      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
 
-- Bite ~= Medium Spear
-- Large Bite ~= Large Spear
+- Small Bite ~= Unarmed Hand Protection
+- Shredding Bite ~= Small Slashing Blade
+- Piercing Bite ~= Small Thrusting Blade
+- Large Shredding Bite ~= Medium Slashing Sword
+- Large Piercing Bite ~= Medium Piercing Sword
 
 ### Claw
 
