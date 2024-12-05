@@ -56,7 +56,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 ## Core Rules
 
-The Core Rules are the foundation and narrative engine for your game. The rules have been listed in the order of importance to someone learning the game for the first time.
+The Core Rules are the foundation and narrative engine for your game. They are listed in the order of importance to someone learning the rules for the first time.
 
 ### General Rules
 
