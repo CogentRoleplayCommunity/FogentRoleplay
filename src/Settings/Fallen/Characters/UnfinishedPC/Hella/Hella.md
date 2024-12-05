@@ -29,21 +29,21 @@
 |                               [Language](./../../../Languages/Languages.md):                               |                     Can speak .                     |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): |                                                      |          |                                                  |
 |                                                                                                        |                                                      |          |                                                  |
-|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)           |                        0 lb                        |          |                    Equipment                    |
-|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)            |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|       [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light       |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|           [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)           |                        0 lb                        |          |                    Equipment                    |
+|            [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)            |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|       [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light       |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                        |                                                      |          |                                                  |
 |         [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver         | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |        [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)        |                          0                          |          |                  Armor & Shield                  |
 |                                                                                                        |                                                      |          |                                                  |
 |                  [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                  |                5x5 ft on battle map.                |          |                                                  |
-|      [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial      |                        30 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim         |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb         |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|      [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial      |                        30 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim         |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb         |                        15 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                        |                                                      |          |                                                  |
 |                 [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                 |                         5/5                         |          |       Vocation/Magic Governing Core Skill       |
 |                 [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                 |                         0/3                         |          |               Awarded by Narrator               |
-|                      [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                      |            – 0 dice to all dice checks.            |          |                      Damage                      |
+|                      [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                      |            – 0 dice to all dice checks.            |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -121,15 +121,15 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 |      |  |                                                                    |                                                            |                                            |             |
 

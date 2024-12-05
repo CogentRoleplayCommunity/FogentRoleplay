@@ -33,12 +33,12 @@
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                          3                          |          |                  Armor & Shield                  |
 |                                                                                              |                                                      |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium             |                5x5 ft on battle map.                |          |                                                  |
-| [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |                        40 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim    |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb    |                        30 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+| [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial |                        40 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim    |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |                        30 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                              |                                                      |          |                                                  |
 |       [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood       |                        15/15                        |          |       Vocation/Magic Governing Core Skill       |
-|                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                 |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
+|                 [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                 |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

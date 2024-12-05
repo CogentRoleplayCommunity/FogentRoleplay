@@ -23,18 +23,18 @@
 | :-------------------------------------------------------------------------------------------: | :--------------------------------: | :------: | :----------------------------------------------: |
 |                     [Language](./../../../Languages/Languages.md): Babelish                     |        Can speak Babelish.        |          |                                                  |
 |                                                                                              |                                    |          |                                                  |
-|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)      |               66 lb               |          |                    Equipment                    |
-|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)       |               200 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Medium  | -1d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)      |               66 lb               |          |                    Equipment                    |
+|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)       |               200 lb               |          |        +50 lbs Carry Weight per Lift dice        |
+|  [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Medium  | -1d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                              |                                    |          |                                                  |
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |          4, 6 with Shield          |          |                  Armor & Shield                  |
 |                                                                                              |                                    |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium             |       5x5 ft on battle map.       |          |                                                  |
-| [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |               30 ft               |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim    |               15 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb    |               10 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+| [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial |               30 ft               |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim    |               15 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |               10 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                              |                                    |          |                                                  |
-|                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                 |   – 0 dice to all dice checks.   |          |                 Damage Received                 |
+|                 [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                 |   – 0 dice to all dice checks.   |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -49,9 +49,9 @@
 |      Large Spear      |                                     +2d6                                     |                                     +3d6                                     |                                       None                                       |                                 3                                 |                         Melee                         |                                          Quick                                          |                                                                            |                                      None                                      |                                                                                  |                                 Pierce                                 |
 |   Thrown Large Spear   |                                     +1d6                                     |                                     None                                     |                                       None                                       |                                 3                                 |                         Short                         |                                          Quick                                          |                                                                            |                                      Self                                      |                                         1                                         |                                 Pierce                                 |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name            | # |                  [Effects](./../../../../../../README.md#effect-rules)                  | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name            | # |                  [Effects](./../../../../../../README.md#effect-rules)                  | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------- | :-: | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor  | 1 |                    Body Armor, Arm Armor, Leg ArmorPhy. Def. 1.00                    |                             8                             |                    5 bc                    |             |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                             47                             |                    75 bp                    |             |

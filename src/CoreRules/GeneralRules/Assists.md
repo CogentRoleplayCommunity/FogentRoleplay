@@ -1,6 +1,6 @@
 # Assists
 
-With Assists, characters can give Advantage (or if rolled poorly, Disadvantage) with an "assisting" Dice Pool to a "primary" Dice Pool. Characters can Assist themselves or another character. The "assisting" Dice Pools must be rolled first. The "assisting" Dice Pool can be a Skill or Vocation. The "primary" Dice Pool can be a Skill or Combat Roll. 
+With Assists, characters can give Advantage (or if rolled poorly, Disadvantage) with an "assisting" Dice Pool to a "primary" Dice Pool. Characters can Assist themselves or another character. The "assisting" Dice Pools must be rolled first. The "assisting" Dice Pool can be a Skill or Vocation. The "primary" Dice Pool can be a Skill or Combat Roll.
 
 It must make logical sense to the Narrator as to why the "assisting" Dice Pool would aid the "primary" Dice Pool. Player's should recognize when they are stretching logic and Narrators should recognize when the player's come up with creative applications of assists. It's up to the players and the Narrator to explain/negotiate how these assists make logical sense for the current circumstance.
 
@@ -14,13 +14,13 @@ If the "assisting" Dice Pool achieved more Wins than the Assist CL, Advantage is
 
 ## Example 1:
 
-Thrak the Barbarian is trying to lift a big rock. Bob the Bard decides he is going to play some motivational music on his guitar to Assist Thrak. In this example, Thrak's Lift is the "primary" Dice Pool and Bob's Performance is the "assisting" Dice Pool. 
+Thrak the Barbarian is trying to lift a big rock. Bob the Bard decides he is going to play some motivational music on his guitar to Assist Thrak. In this example, Thrak's Lift is the "primary" Dice Pool and Bob's Performance Vocational Skill is the "assisting" Dice Pool.
 
 The Narrator agrees as it makes logical sense. The narrator sets a CL 3 Performance Check for the assists. Bob rolls his Performance Vocational skill and gets 4 wins, resulting in Advantage for Thrak's Lift Check. In a parallel reality, Bob only gets 3 wins, and his song doesn't help or hurt Thrak's Check. In another parallel reality, Bob only gets 2 wins on his Performance Check, which produces such horrible music it distracts Thrak resulting in Disadvantage to Thrak's Lift Check.
 
 ## Example 2:
 
-Javk Wick the rogue is sneaking up on a guard. Javk's player asks the narrator if he could assist his Stealth check to sneak up with his Rogue Vocation. He asks the Narrator if he could Assist his Stealth check with his Rogue Vocation since being a good Rogue would aid his sneakiness. In this example, Stealth is the "primary" Dice Pool and Rogue is the "assisting" Dice Pool. 
+Javk Wick the rogue is sneaking up on a guard. Javk's player asks the narrator if he could assist his Stealth check to sneak up with his Rogue Vocation. He asks the Narrator if he could Assist his Stealth check with his Rogue Vocation since being a good Rogue would aid his sneakiness. In this example, Stealth is the "primary" Dice Pool and Rogue is the "assisting" Dice Pool.
 
 The Narrator agrees as it makes logical sense. The Narrator sets the CL of the Assist at 3. Javk gets 4 Wins from his Assist, giving him advantage on his Stealth check.
 

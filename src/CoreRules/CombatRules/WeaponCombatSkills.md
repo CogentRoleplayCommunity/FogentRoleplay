@@ -6,7 +6,7 @@ All Weapon Combat Skills have the governing attributes of STR, RFX, and INT. Thi
 
 ## Weapon Combat Skill Transfer
 
-There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gains Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
+There is obviously overlap certain Weapon Combat Skills. For melee Weapon Combat Skills, weapon reach, footwork, and the biomechanics of swinging a weapon have some overlap. For ranged Weapon Combat Skills, having a proper base, judging the distance, leading your targets, aiming and releasing the projectile smoothly are examples of the overlap. Narrators should allow a character to gain Weapon Combat Skills, though of a lesser level, in similar Weapon Combat Skills in regards to size and function. This not only allows characters to experiment with new weapons but also makes narrative sense.
 
 Starting with the weapon skill your character currently possesses, each horizontal (right and left on the table) or vertical (up and down on the table) jump is -1 reduction to the skill you've moved to. When moving horizontally within a Size type, you may loop around the other side of the table as if it were right beside it. You cannot go below 0 on a combat skill for either melee or ranged weapons via the table below.
 

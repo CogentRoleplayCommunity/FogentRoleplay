@@ -2,7 +2,7 @@
 
 Uses Per Round represent the number of times some skill governed action can be preformed in a round.
 
-This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depeletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that round and are instead forced to dodge if they are being attacked.
+This rule is mainly used for determining how many times a weapon/spell can be used in combat rounds. In this context, if a character depeletes their Uses Per Round provided by their weapon/spell, then they can no longer use that weapon/spell that combat round and are instead forced to dodge if they are being attacked.
 
 ## Uses Per Round calculations
 
@@ -28,7 +28,7 @@ For example, if a character had 7 dice in their governing skill dice pool with a
 
 On a round where an action IS prepared (example: your Heavy Crossbow is loaded), you can perform the action 1 time.
 
-On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the [Off Guard](./CombatModifiers.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
+On a round where an action is NOT prepared (example: your Heavy Crossbow is unloaded), if the Uses Per Round calculation result is greater than or equal to 0.5 and less than 1, 1 round must be spend preparing in order to use this action again. If the result is greater than 0 and less 0.5, your character must spend 2 rounds preparing. While preparing the [Off Guard](./CombatModifiersAndCombatAssists.md#off-guard-disadvantage) Combat Modifier is gained. If engaged during this time characters can still attempt to dodge while preparing.
 
 ### Uses Per Round if character is using multiple loaded weapons
 

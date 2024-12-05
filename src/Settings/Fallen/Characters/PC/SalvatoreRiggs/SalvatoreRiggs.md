@@ -28,19 +28,19 @@
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Addiction to Ladies | Goes out of his way to impress the other sex. |          |                                                  |
 |     [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Short Fuse     | Has an extreme predisposition towards anger. |          |                                                  |
 |                                                                                                                              |                                              |          |                                                  |
-|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                      |                     26 lb                     |          |                    Equipment                    |
-|                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                      |                    150 lb                    |          |        +50 lbs Carry Weight per Lift dice        |
-|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                  |      -0d to STR/RFX governed Dice Pools      |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)                      |                     26 lb                     |          |                    Equipment                    |
+|                      [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)                      |                    150 lb                    |          |        +50 lbs Carry Weight per Lift dice        |
+|                  [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light                  |      -0d to STR/RFX governed Dice Pools      |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                              |                                              |          |                                                  |
 |                  [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)                  |                       3                       |          |                  Armor & Shield                  |
 |                                                                                                                              |                                              |          |                                                  |
 |                            [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                            |             5x5 ft on battle map.             |          |                                                  |
-|                [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial                |                     30 ft                     |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                    |                     15 ft                     |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                   |                     15 ft                     |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial                |                     30 ft                     |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                    |                     15 ft                     |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                   [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                   |                     15 ft                     |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                              |                                              |          |                                                  |
 |                           [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                           |                      0/3                      |          |               Awarded by Narrator               |
-|                                [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                                |         – 0 dice to all dice checks.         |          |                      Damage                      |
+|                                [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                                |         – 0 dice to all dice checks.         |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -62,9 +62,9 @@
 | :-------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | Anti-armor Light Bolt |                                   Light Bolt                                   |                                       +0d6                                       |                                              +0                                              |                                       1                                       |                               None                               |                                        Pierce                                        |                                                                                          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name                                | # | [Effects](./../../../../../../README.md#effect-rules)                      | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                                | # | [Effects](./../../../../../../README.md#effect-rules)                      | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------------------- | :-: | ----------------------------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor                      | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                        |                             8                             |                    5 bc                    |             |
 | Leather Armor                       | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00            |                             12                             |                    10 bc                    |             |
@@ -75,7 +75,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description} |
+| Name | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description} |
 | ---- | :-: | -------------------------------------------------- | :--------------------------------------------------------: | :-----------------------------------------: | ------------ |
 |      |  |                                                    |                                                            |                                            |              |
 

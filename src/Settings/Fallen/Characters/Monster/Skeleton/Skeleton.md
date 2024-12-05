@@ -22,9 +22,9 @@
 
 |                                             Name                                             |                         Desc                         | Duration |                      Source                      |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------: |
-|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)      |                        9.5 lb                        |          |                    Equipment                    |
-|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)       |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|  [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light  |          -0d to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|      [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)      |                        9.5 lb                        |          |                    Equipment                    |
+|       [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)       |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|  [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light  |          -0d to STR/RFX governed Dice Pools          |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                              |                                                      |          |                                                  |
 |   [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)   |                          1                          |          |                  Armor & Shield                  |
 |    [Minor Resistance](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Slash    |   -1 to victory levels received from damage type.   |          |                                                  |
@@ -34,11 +34,11 @@
 |  [Medium Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Bludgeon  | +2 to the level of injury received from damage type. |          |                                                  |
 |                                                                                              |                                                      |          |                                                  |
 |             [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium             |                5x5 ft on battle map.                |          |                                                  |
-| [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial |                        40 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim    |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|    [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb    |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+| [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial |                        40 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim    |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |                        20 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                              |                                                      |          |                                                  |
-|                 [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                 |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
+|                 [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                 |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -59,9 +59,9 @@
 | :----------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | Shoddy Light Arrow |                                  Light Arrow                                  |                                       +0d6                                       |                                              -1                                              |                                       0                                       |                               None                               |                                        Pierce                                        |                                                                                          |
 
-### [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+### [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name                           | # |      [Effects](./../../../../../../README.md#effect-rules)      | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                           | # |      [Effects](./../../../../../../README.md#effect-rules)      | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------ | :-: | :-----------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Buckler Shield                 | 1 |                        Phy. Def. 1.00                        |                             4                             |                    2 bc                    |             |
 | Shoddy Scimitar                | 1 | Damaged Medium Thrusting Sword, Mundane Medium Slashing Sword |                             2                             |                    5 bc                    |             |

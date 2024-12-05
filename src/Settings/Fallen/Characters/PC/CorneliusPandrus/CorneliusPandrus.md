@@ -33,22 +33,22 @@
 |                                  [Language](./../../../Languages/Languages.md):                                  |                  Can speak Pirish.                  |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Feeble |                   STR is set to -1                   |          |                                                  |
 |                                                                                                                |                                                      |          |                                                  |
-|               [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)               |                        11 lb                        |          |                    Equipment                    |
-|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)               |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|           [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light           |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|               [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)               |                        11 lb                        |          |                    Equipment                    |
+|               [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)               |                        150 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|           [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light           |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                |                                                      |          |                                                  |
 |             [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver             | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |           [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)           |                          0                          |          |                  Armor & Shield                  |
 |                                                                                                                |                                                      |          |                                                  |
 |                     [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                     |                5x5 ft on battle map.                |          |                                                  |
-|         [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial         |                        20 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|             [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim             |                        10 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|            [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb            |                        10 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|         [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial         |                        20 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|             [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim             |                        10 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|            [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb            |                        10 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                |                                                      |          |                                                  |
 |                  [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                  |                         7/7                         |          |       Vocation/Magic Governing Core Skill       |
 |                [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                |                         1/1                         |          |       Vocation/Magic Governing Core Skill       |
 |                    [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                    |                         0/3                         |          |               Awarded by Narrator               |
-|                         [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                         |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
+|                         [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                         |            – 0 dice to all dice checks.            |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -126,9 +126,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-### [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+### [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name                |       #       | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                |       #       | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------- | :------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Clothes, Traveler's |       1       |                                                                    |                             4                             |                    2 bc                    |             |
 | Pouch               | 6 lb container |                                                                    |                             1                             |                    50 cc                    |             |
@@ -137,7 +137,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                           |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                           |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ------------------------------ | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Satchel                        | 12 lb container |                                                                    |                             2                             |                    1 bc                    |             |
 | Journal, Soft Bound, 25 Sheets |        1        |                                                                    |                             1                             |                    7 bc                    |             |

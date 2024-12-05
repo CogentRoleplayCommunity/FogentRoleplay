@@ -32,21 +32,21 @@
 |                                     [Language](./../../../Languages/Languages.md): Primal                                     |                  Can speak Primal.                  |          |                                                  |
 | [Disabling Characteristic](./../../../../../CoreRules/CharacterCreationRules/DisablingCharacteristics.md): Incapable of Lying |      His people do not lie and neither does he.      |          |                                                  |
 |                                                                                                                            |                                                      |          |                                                  |
-|                     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)                     |                      29.85 lb                      |          |                    Equipment                    |
-|                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#carry-weight)                     |                        250 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
-|                 [Weight Class](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#weight-classes): Light                 |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)                     |                      29.85 lb                      |          |                    Equipment                    |
+|                     [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)                     |                        250 lb                        |          |        +50 lbs Carry Weight per Lift dice        |
+|                 [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light                 |         -0d to STR/RFX governed Dice Pools         |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
 |                                                                                                                            |                                                      |          |                                                  |
 |                   [Minor Weakness](./../../../../../CoreRules/CombatRules/WeaknessAndResistance.md): Silver                   | +1 to the level of injury received from damage type. |          |                    Fellblood                    |
 |                 [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)                 |                          3                          |          |                  Armor & Shield                  |
 |                                                                                                                            |                                                      |          |                                                  |
 |                           [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                           |                5x5 ft on battle map.                |          |                                                  |
-|               [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Terrestrial               |                        50 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                   [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Swim                   |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                  [Combat Speed](./../../../../../CoreRules/CombatRules/CombatSpeed.md#combat-speeds): Climb                  |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|               [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial               |                        50 ft                        |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                   [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                   |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                  [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                  |                        25 ft                        |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                            |                                                      |          |                                                  |
 |                      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                      |                         2/3                         |          |       Vocation/Magic Governing Core Skill       |
 |                          [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                          |                         0/3                         |          |               Awarded by Narrator               |
-|                               [Injury](./../../../../../CoreRules/CombatRules/Injury.md): None                               |              – 0 dice to all dice che0              |          |                 Damage Received                 |
+|                               [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                               |              – 0 dice to all dice che0              |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
@@ -126,9 +126,9 @@
 | Medium Shield | Phy. Def. 2.00, Bodily Def. 2.00, Spiritual Def. 2.00, or Mental Def. 2.00 |          1          |
 | Large Shield | Phy. Def. 3.00, Bodily Def. 3.00, Spiritual Def. 3.00, or Mental Def. 3.00 |          2          |
 
-## [Equipment](./../../../../../CoreRules/AdvancedRules/CarryWeight.md#equipment)
+## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
-| Name                    | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                    | # | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ----------------------- | :-: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor          | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                   |                             8                             |                    5 bc                    |             |
 | Leather Armor           | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00       |                             12                             |                    10 bc                    |             |
@@ -139,7 +139,7 @@
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
-| Name                  |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                  |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | --------------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Backpack              | 30 lb container |                                                                    |                             5                             |                    2 bc                    |             |
 | Clothes, Traveler's   |        1        |                                                                    |                             4                             |                    2 bc                    |             |
@@ -149,7 +149,7 @@
 | Bronze Coin           |       47       |                                                                    |                            0.02                            |                    1 bc                    |             |
 | Copper Coin           |       51       |                                                                    |                            0.02                            |                    1 cc                    |             |
 
-| Name                   |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/CarryWeight.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
+| Name                   |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | ---------------------- | :-------------: | ------------------------------------------------------------------ | :--------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Satchel                | 12 lb container |                                                                    |                             2                             |                    1 bc                    |             |
 | Bronze Coin            |       16       |                                                                    |                            0.02                            |                    1 bc                    |             |

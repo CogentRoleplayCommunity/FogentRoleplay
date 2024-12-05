@@ -12,28 +12,28 @@ To make sense of this potential 'chaos', there is a declaration phase and an act
 
 ### Declaration Phase
 
-The character with the lowest reflex declares what they are doing first. That might seem odd as you could think characters with higher RFX should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same RFX, they each roll a D6 (though D20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
+The character with the lowest RFX declares what they are doing first. That might seem odd as you could think characters with higher RFX should get to move first, but this is the declaration phase, no one is moving yet. If two Characters have the same RFX, they each roll a D6 (though D20s work better), where the highest resulting roll gets to declare later for the rest of the combat encounter.
 
 Players who declare LATER hold the upper hand in combat.
 
 Once a player has declared what they are going to perform, they cannot change their mind. They are locked into performing that action in this round. The players who declare after another can choose an action that counters or complements the declared action of another character.
 
-This means that characters with the highest RFX can see or react to what their opponents are going to do.
+This means that characters with the highest RFX can see and react to what their opponents are going to do.
 
 ### Action Phase
 
-Once all characters have declared their actions, the order is reversed starting with the person with the highest reflex acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
+Once all characters have declared their actions, the order is reversed starting with the person with the highest RFX acting first. Though things mostly happen simultaneously within the round, it's sometimes important to know which blade landed before another, or who managed to perform their action a little bit faster than another. In these situations, characters with a higher reflex will always win.
 
 At the beginning of the Action Phase, all players can roll their dice pools for the actions they expect to take that round, such as combat rolls. This is to help things combat move efficiently.
 
 ## Keep your Combat Rolls for the round
 
-Combat Rolls including Assist Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain Disadvantage/Advantage in that round, which will affect the already rolled dice pool.
+Combat Rolls made with them should be held onto during combat after they've been rolled. This is to remember your current victory levels for the round. This is also in case your character loses dice due to injury or they gain Disadvantage/Advantage in that round, which will affect the already rolled dice pool.
 
 ### Removing Dice to an already rolled Dice Pool
 
 Whenever losing dice of the same kind, always remove dice from left to right. This is to leave it up to chance if the dice they lost that round punish or are indifferent to their wins for that round. With physical dice, you can just roughly straighten out the dice and begin removing in that order.
 
-### Applying Disadvantage/Advantage to an already rolled Dice Pool
+### Applying Disadvantage/Advantage to an already rolled Combat Roll Dice Pools
 
-If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.
+If your character gains disadvantage (often the result of a stagger or being knocked prone) or advantage (you engage a prone opponent as your second target with a melee weapon) after you've already rolled a Combat Roll dice pool that round, you will retroactively apply said disadvantage/advantage to your those dice pools. This could turn some dice that were wins into fails and vice versa.

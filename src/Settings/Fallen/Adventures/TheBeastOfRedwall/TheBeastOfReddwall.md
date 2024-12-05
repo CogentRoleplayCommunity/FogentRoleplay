@@ -58,5 +58,5 @@ Vex will take them close enough to the weeping anvil and tell them to continue d
 
 As evening approaches, the party will happen upon the Weeping Anvil, though trouble is amiss. A local gang of teenage thugs know as the the Beast's of Reddwall, sporting purple arm bands, are currently beating the snot out of Killroy. While two thugs pick on the injured Killroy, the Beast of Reddwall's second in command named Lance is stealing a bag of Killroy's tinkering tools and equipment. The thugs will not back down, brandishing knives, clubs, slings, and fists if interfered with. If the party is beaten up, the gang will Rob them and leave. If the group is successful, Lance will run away in the confusion with Killroy's tools.
 
-One the Beast of Reddwall have ran away or left in victory. Killroy if injured badly enough will go into a seizure, black veins becoming visible under his skin. Killroy looks to be a 15 year old After recovering, Killroy will invite the party inside, providing vials of gradual healing if player's are to beat up. 
+One the Beast of Reddwall have ran away or left in victory. Killroy if injured badly enough will go into a seizure, black veins becoming visible under his skin. Killroy looks to be a 15 year old After recovering, Killroy will invite the party inside, providing vials of Minor Healing Factor Blood if player's are to beat up. 
 
