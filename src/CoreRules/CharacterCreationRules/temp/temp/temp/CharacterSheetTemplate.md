@@ -10,8 +10,6 @@
 | [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
 |      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 0 | 3d6 |
 
-//[](./../../../../../)
-
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
 |  (Vocation Name)  | STR, RFX, INT | 1 | 4d6 |
@@ -43,7 +41,7 @@
 |                       [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md):                       |                                                                                                                                                                           5/5                                                                                                                                                                           |          |       Vocation/Magic Governing Core Skill       |
 |             [Destiny Chosen](./../../../../../CoreRules/GeneralRules/DestinyPoints.md#destiny-chosen): 0/3             | Characters can be awarded Destiny Points by the Narrator and can hold a max of 3.<br />Spending a "Preemptive Destiny Point" before rolling a dice pool gives Advantage on the resulting roll. <br />Spending "Post Roll Destiny Points" adds additional Wins for each point spent,<br /> with the total Wins never exceeding the size of the dice pool. |          |             Awarded by The Narrator             |
 |           [Destiny Resistance](./../../../../../CoreRules/GeneralRules/DestinyPoints.md#destiny-resistance)           |                                                                                                                                                  Destiny Points cannot be spent against this character.                                                                                                                                                  |          |             Awarded by The Narrator             |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |                                                                                                                                                              -0d to STR/RFX/INT governed Dice Pools.                                                                                                                                                              |          |                 Damage Received                 |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |                                                                                                                                                         -0d to STR/RFX/INT governed Dice Pools.                                                                                                                                                         |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
