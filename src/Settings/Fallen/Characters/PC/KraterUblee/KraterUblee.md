@@ -125,22 +125,12 @@
 
 ## [Spells Known](./../../../../../CoreRules/MagicRules/Spells.md)
 
-### [Novice Spells (CL 0)](./../../../../../CoreRules/MagicRules/Spells.md#novice-spells-cl-0)
-
-### [Apprentice Spells (CL 1-2)](./../../../../../CoreRules/MagicRules/Spells.md#apprentice-spells-cl-1---2)
-
-- Mend Wounds
-- Talk With Animals
-- Entangle
-- Ranged Healing
-
-### [Adept (CL 3-4)](./../../../../../CoreRules/MagicRules/Spells.md#adept-spells-cl-3---4)
-
-### [Expert (CL 5-6)](./../../../../../CoreRules/MagicRules/Spells.md#expert-spells-cl-5---6)
-
-### [Master (CL 7-8)](./../../../../../CoreRules/MagicRules/Spells.md#master-spells-cl-7---8)
-
-### [Legendary (CL 9+)](./../../../../../CoreRules/MagicRules/Spells.md#legendary-spells-cl-9)
+|       Name       | CL/Magic Resource | Casting Time |  Range  |        Duration        |      Magic Skills Required      |                                                                                                                                                                                                                                                                                      Description                                                                                                                                                                                                                                                                                      |
+| :---------------: | :---------------: | :----------: | :------: | :---------------------: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Mend Wound    |         1         |   1 action   |  Melee  |      Instantaneous      | Bodily, Life, or Blessing Magic |                                                                                                                                    Choose a creature within your sight and within the spell's range; it receives Minor Healing. Note that this spell only heals living biological characters, it does not affect undead or constructs. At Higher Magic Resource, for each additional Magic Resource spent over base amount, healing tier increases.                                                                                                                                    |
+| Talk With Animals |         1         |   1 action   |   Self   |       10 minutes       |          Nature Magic          |                                                                            You acquire the capacity to understand and speak with beasts throughout the spell's duration. While the intelligence of many beasts may limit their knowledge and awareness, they can, at a minimum, provide information about nearby locations and creatures, based on their perceptions from the past day. Depending on the Narrator's judgment, you might also be able to persuade a beast to carry out a small task for you.                                                                            |
+|     Entangle     |         1         |   1 action   |   Far   | Concentration, 1 minute |          Nature Magic          | Within range, verdant vines and resilient weeds surge forth, covering a 20-foot square area with dense foliage. Throughout the spell's duration, the ground in this zone transforms into difficult terrain. Any creature caught within the area upon casting must pass a Lift Check versus the spell's wins or restrained condition by the entwining plants until the spell concludes. A creature entangled can use its action to attempt a Lift check versus the spell's Wins. If successful, it breaks free. Once the spell dissipates, the summoned foliage withers and fades away. |
+|  Ranged Healing  |         2         |   1 action   | Extended |      Instantaneous      |  Life Magic or Blessing Magic  |                                                                                                                                    Choose a creature within your sight and within the spell's range; it receives Minor Healing. Note that this spell only heals living biological characters, it does not affect undead or constructs. At Higher Magic Resource, for each additional Magic Resource spent over base amount, healing tier increases.                                                                                                                                    |
 
 ## [Equipment](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)
 
