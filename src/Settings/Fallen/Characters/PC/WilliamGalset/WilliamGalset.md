@@ -46,7 +46,7 @@
 |                                                                                                                        |                                                                |          |                                                  |
 |                    [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood                    |                               2/2                               |          |       Vocation/Magic Governing Core Skill       |
 |                        [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                        |                               1/3                               |          |               Awarded by Narrator               |
-|                             [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                             |                  – 0 dice to all dice checks.                  |          |                 Damage Received                 |
+|                             [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                             |                  -0d to STR/RFX/INT governed Dice Pools.                  |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

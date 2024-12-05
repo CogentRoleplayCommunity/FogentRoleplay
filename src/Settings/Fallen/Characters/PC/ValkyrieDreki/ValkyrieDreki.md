@@ -46,7 +46,7 @@
 |                                                                                                                      |                                                      |          |                                                  |
 |               [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection               |                         7/7                         |          |       Vocation/Magic Governing Core Skill       |
 |                       [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                       |                         0/3                         |          |               Awarded by Narrator               |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |            – 0 dice to all dice checks.            |          |                      Damage                      |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |            -0d to STR/RFX/INT governed Dice Pools.            |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
