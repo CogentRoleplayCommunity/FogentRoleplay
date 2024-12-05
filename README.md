@@ -56,13 +56,7 @@ Fogent Roleplay is designed to be the narrative engine of your game, no matter t
 
 ## Core Rules
 
-The Core Rules are the foundation and narrative engine for your game.
-
-Learning any new TTRPG system can feel daunting. Luckily, to make it easy to learn, I created a video breaking down each of the rules in bite-sized digestible chunks , that even your mom who's never played a TTRPG could learn, I know so because mine did.
-
-The rules have been listed in the order of importance to someone learning the game for the first time. Click the video below to be taken to the video walkthrough of the rules.
-
-[![IMAGE ALT TEXT HERE](./VideoExplanationThumbnail.png)](https://www.youtube.com/watch?v=gPPoVJCQ2SE&list=PLB7ISq9k7j0yvIW8Tq19HkhinVwb74X17&pp=gAQBiAQB)
+The Core Rules are the foundation and narrative engine for your game. The rules have been listed in the order of importance to someone learning the game for the first time.
 
 ### General Rules
 
