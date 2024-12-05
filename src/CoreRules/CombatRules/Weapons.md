@@ -313,7 +313,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 
 |         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-|       Weak Bite       |      -1d6      |      None      |       +0d6       |      0      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
+|       Weak Bite       |       -1       |      None      |       +0d6       |      0      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
 |      Small Bite      |      +0d6      |      None      |       +0d6       |      0      | Melee |        Swift        |                    |      None      |                  |   Slash, Pierce   |
 |    Shredding Bite    |      +1d6      |      None      |       +1d6       |      0      | Melee |        Swift        |                    |      None      |                  |   Slash, Pierce   |
 |     Piercing Bite     |      +0d6      |      None      |       +1d6       |      2      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
