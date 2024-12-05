@@ -24,7 +24,7 @@
 
 ## Effects
 
-|                                         Name                                         |                        Desc                        | Duration |                                                                   Source                                                                   |
+|                                         Name                                         |                         Desc                         | Duration |                                                                   Source                                                                   |
 | :----------------------------------------------------------------------------------: | :--------------------------------------------------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 |                                Minor Silver Weakness                                | +1 to the level of injury received from damage type. |          |                                                                 Fellblood                                                                 |
 |                                Physical Defense Level                                |                    Phy. Def. 2.00                    |          |                                                                  Carapace                                                                  |
@@ -37,7 +37,7 @@
 |                               Racial feature: Antennae                               |          Good sense of smell and pheromone.          |          |                                                     Underground hive dweller species.                                                     |
 |                                   Equipment Weight                                   |                        26 LB                        |          |                                                                 Equipment                                                                 |
 |                                     Carry Weight                                     |                        160 lb                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
-|                                 Weight Class: Light                                 |         -0d to STR/RFX governed Dice Pools         |          |                                               0% =< Equipment Weight <= 25% of Carry Weight                                               |
+|                                 Weight Class: Light                                 |          -0d to STR/RFX governed Dice Pools          |          |                                               0% =< Equipment Weight <= 25% of Carry Weight                                               |
 |                               Terrestrial Combat Speed                               |                        30 ft                        |          |                                           50 ft (Base), +10 ft (per RFX), +5 ft (per Athletics)                                           |
 |                                  Swim Combat Speed                                  |                        15 ft                        |          |                                               +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
 |                                  Climb Combat Speed                                  |                        15 ft                        |          |                                               +5 ft (per Athletics Dice), +/-5 ft (per RFX)                                               |
@@ -49,21 +49,21 @@
 ***Physical Melee***
 
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
-| :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :--: |
-|         Unarmed         |      -1d6      |      -1d6      |        n/a        |      0      | Melee |     Bludgeon     |           Swift           |        None        | None |
-| Hand Protection Unarmed |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |           Swift           |        None        | None |
-|   Medium Hafted Blunt   |       0d6       |      +1d6      |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |           Swift           |        None        | None |
-|   Medium Hafted Point   |      +1d6      |      +2d6      |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |           Swift           |        None        | None |
-|  Small Piercing Blade  |      +0d6      |      +0d6      |    n/a (+1d6)    |      2      | Melee |      Pierce      |           Swift           |        None        | None |
-|  Small Slashing Blade  |      +1d6      |      +1d6      |    n/a (+1d6)    |      0      | Melee |       Slash       |           Swift           |        None        | None |
+| :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :--: |
+|         Unarmed         |      -1d6      |      -1d6      |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
+| Hand Protection Unarmed |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
+|   Medium Hafted Blunt   |       0d6       |      +1d6      |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |        Swift        |        None        | None |
+|   Medium Hafted Point   |      +1d6      |      +2d6      |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |        Swift        |        None        | None |
+|  Small Piercing Blade  |      +0d6      |      +0d6      |    n/a (+1d6)    |      2      | Melee |      Pierce      |        Swift        |        None        | None |
+|  Small Slashing Blade  |      +1d6      |      +1d6      |    n/a (+1d6)    |      0      | Melee |       Slash       |        Swift        |        None        | None |
 
 ### Ranged Options
 
 ***Physical Ranged***
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
-| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :--: |
-| Thrown Small Piercing Blade |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |           Swift           |        None        | None |
+| :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :--: |
+| Thrown Small Piercing Blade |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |        Swift        |        None        | None |
 
 ### Combat Spells
 
@@ -103,18 +103,18 @@
 
 ## Containers
 
-|    Name    | # |     Class     | Effect |  Tier  | Durability |  LB  | Value | Note |
-| :---------: | :-: | :------------: | :----: | :-----: | :--------: | :--: | :----: | :--: |
-|    Pouch    | 1 | 6 lb container |        | Mundane |   12/12   |  1  | 0.5 bc |      |
-| Bronze Coin | 39 |                |        | Mundane |            | 0.02 |  1 bc  |      |
-| Copper Coin | 10 |                |        | Mundane |            | 0.02 |  1 cc  |      |
+|    Name    |       #       | Class | Effect |  Tier  | Durability |  LB  | Value | Note |
+| :---------: | :------------: | :---: | :----: | :-----: | :--------: | :--: | :----: | :--: |
+|    Pouch    | 6 lb container |      |        | Mundane |   12/12   |  1  | 0.5 bc |      |
+| Bronze Coin |       39       |      |        | Mundane |            | 0.02 |  1 bc  |      |
+| Copper Coin |       10       |      |        | Mundane |            | 0.02 |  1 cc  |      |
 
-|      Name      | # |      Class      | Effect |  Tier  | Durability | LB | Value | Note |
-| :-------------: | :-: | :-------------: | :----: | :-----: | :--------: | :-: | :----: | :--: |
-|    Backpack    | 1 | 30 lb container |        | Mundane |            | 5 |  2 bc  |      |
-| Rations (1 day) | 2 |                |        | Mundane |   12/12   | 2 | 0.5 bc |      |
-| Waterskin (4/4) | 1 |                |        | Mundane |   12/12   | 5 | 20 cc |      |
-|  Smith's Tools  | 1 |                |        | Mundane |   12/12   | 8 | 20 bc |      |
+|      Name      |        #        | Class | Effect |  Tier  | Durability | LB | Value | Note |
+| :-------------: | :-------------: | :---: | :----: | :-----: | :--------: | :-: | :----: | :--: |
+|    Backpack    | 30 lb container |      |        | Mundane |            | 5 |  2 bc  |      |
+| Rations (1 day) |        2        |      |        | Mundane |   12/12   | 2 | 0.5 bc |      |
+| Waterskin (4/4) |        1        |      |        | Mundane |   12/12   | 5 | 20 cc |      |
+|  Smith's Tools  |        1        |      |        | Mundane |   12/12   | 8 | 20 bc |      |
 
 ## Disposition
 

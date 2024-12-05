@@ -320,161 +320,161 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/GeneralStore.png) General Store
 
-|              Name              | # |      Effects      | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :----------------------------: | :-: | :----------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|             Abacus             | 1 |                    |   2   | 2 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|             Barrel             | 1 |                    |   70   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Blanket            | 1 |                    |   3   | 50 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Bottle, glass         | 1 |                    |   2   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|             Bucket             | 1 |                    |   2   | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|             Candle             | 1 |                    |  0.1  | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|             Chest             | 1 |  300 lb container  |   25   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|        Clothes, Common        | 1 |                    |   3   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Clothes, Fine         | 1 |                    |   6   | 15 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|        Flask or Tankard        | 1 |                    |   1   | 2 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|      Ink (1 ounce bottle)      | 1 |                    |  0.1  | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Ink Pen (Fountain)       | 1 |                    |  0.05  | 3 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-| Journal, Soft Bound, 25 Sheets | 1 |                    |   1   | 7 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|  Jug or PitcherJug or Pitcher  | 1 |                    |   4   | 2 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Ladder (10-foot)        | 1 |                    |   25   | 10 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        String (10 feet)        | 1 |                    |   0   | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Lantern, Hooded        | 1 |                    |   2   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|              Lamp              | 1 |                    |   1   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|              Lock              | 1 |                    |   1   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Mess Kit            | 1 |                    |   1   | 20 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Mirror, Steel         | 1 |                    |  0.5  | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|       Paper (one sheet)       | 1 |                    |   0   | 20 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|     Parchment (one sheet)     | 1 |                    |   0   | 10 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Pick, Miner's         | 1 | Large Hafted Point |   10   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Pot, Iron           | 1 |                    |   10   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|             Pouch             | 1 |   6 lb container   |   1   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|     Rope, Hempen (50 feet)     | 1 |                    |   10   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|      Rope, Silk (50 feet)      | 1 |                    |   5   | 10 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|              Sack              | 1 |                    |  0.5  | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Scale, Merchant's       | 1 |                    |   3   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|             Shovel             | 1 | Large Hafted Blunt |   5   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|          Signet Ring          | 1 |                    |  0.2  | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|              Soap              | 1 |                    |  0.5  | 2 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|              Vial              | 1 |                    |  0.1  | 1 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Carpenter's Tools       | 1 |                    |   6   | 6 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Cobbler's Tools        | 1 |                    |   5   | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Cook's Utensils        | 1 |                    |   8   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|      Glassblower's Tools      | 1 |                    |   7   | 30 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|     Leatherworker's Tools     | 1 |                    |   10   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Mason's Tools         | 1 |                    |   8   | 7 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Potter's Tools         | 1 |                    |   3   | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Smith's Tools         | 1 |                    |   8   | 20 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|         Weaver's Tools         | 1 |                    |   5   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|       Woodcarver's Tools       | 1 |                    |   5   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|              Name              |        #        |      Effects      | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :----------------------------: | :--------------: | :----------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|             Abacus             |        1        |                    |   2   | 2 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|             Barrel             |        1        |                    |   70   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Blanket            |        1        |                    |   3   | 50 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Bottle, glass         |        1        |                    |   2   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|             Bucket             |        1        |                    |   2   | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|             Candle             |        1        |                    |  0.1  | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|             Chest             | 300 lb container |                    |   25   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|        Clothes, Common        |        1        |                    |   3   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Clothes, Fine         |        1        |                    |   6   | 15 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|        Flask or Tankard        |        1        |                    |   1   | 2 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|      Ink (1 ounce bottle)      |        1        |                    |  0.1  | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|       Ink Pen (Fountain)       |        1        |                    |  0.05  | 3 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+| Journal, Soft Bound, 25 Sheets |        1        |                    |   1   | 7 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|  Jug or PitcherJug or Pitcher  |        1        |                    |   4   | 2 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Ladder (10-foot)        |        1        |                    |   25   | 10 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|        String (10 feet)        |        1        |                    |   0   | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Lantern, Hooded        |        1        |                    |   2   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|              Lamp              |        1        |                    |   1   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|              Lock              |        1        |                    |   1   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|            Mess Kit            |        1        |                    |   1   | 20 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Mirror, Steel         |        1        |                    |  0.5  | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|       Paper (one sheet)       |        1        |                    |   0   | 20 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|     Parchment (one sheet)     |        1        |                    |   0   | 10 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Pick, Miner's         |        1        | Large Hafted Point |   10   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Pot, Iron           |        1        |                    |   10   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|             Pouch             |  6 lb container  |                    |   1   | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|     Rope, Hempen (50 feet)     |        1        |                    |   10   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|      Rope, Silk (50 feet)      |        1        |                    |   5   | 10 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|              Sack              |        1        |                    |  0.5  | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|       Scale, Merchant's       |        1        |                    |   3   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|             Shovel             |        1        | Large Hafted Blunt |   5   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Signet Ring          |        1        |                    |  0.2  | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|              Soap              |        1        |                    |  0.5  | 2 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|              Vial              |        1        |                    |  0.1  | 1 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|       Carpenter's Tools       |        1        |                    |   6   | 6 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Cobbler's Tools        |        1        |                    |   5   | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|        Cook's Utensils        |        1        |                    |   8   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|      Glassblower's Tools      |        1        |                    |   7   | 30 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|     Leatherworker's Tools     |        1        |                    |   10   | 5 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Mason's Tools         |        1        |                    |   8   | 7 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Potter's Tools         |        1        |                    |   3   | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Smith's Tools         |        1        |                    |   8   | 20 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|         Weaver's Tools         |        1        |                    |   5   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|       Woodcarver's Tools       |        1        |                    |   5   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 
 ### ![](ItemShop/AdventuringSupplies.png) Adventuring Supplies
 
-|                Name                | # |                                 Effects                                 | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :---------------------------------: | :-: | :---------------------------------------------------------------------: | :----: | :-----: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|              -[Armor]-              |    |                                                                        |        |        |                    |                  |                  |                    |
-|           Gambeson Armor           | 1 |            Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00            |   8   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|            Gambeson Coat            | 1 |                Body Armor, Arm Armor, Phy. Def. 0.625                |   5   | 3.13 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|          Gambeson Leggings          | 1 |                       Leg Armor, Phy. Def. 0.375                       |   3   | 1.87 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|            Leather Armor            | 1 |      Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00      |   12   |  10 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|           Leather Helmet           | 1 |                       Head Armor, Phy. Def. 0.34                       |   2   | 1.67 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|    Leather Cuirass and Pauldrons    | 1 |                       Body Armor, Phy. Def. 1.00                       |   6   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|     Leather Cuisses and Greaves     | 1 |                       Arm Armor, Phy. Def. 0.33                       |   2   | 1.67 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|          Leather Vambrace          | 1 |                       Leg Armor, Phy. Def. 0.33                       |   2   | 1.66 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|             -[Weapons]-             |    |                                                                        |        |        |                    |                  |                  |                    |
-|               Dagger               | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|               Handaxe               | 1 |                           Small Hafted Blade                           |   2   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|            Light Hammer            | 1 |                 Small Hafted Blunt, Small Thrown Blunt                 |   2   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Quarterstaff            | 1 |                           Large Hafted Blunt                           |   4   |  20 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|                Club                | 1 |                           Medium Hafted Blunt                           |   2   |  10 cc  |       FALSE       |       TRUE       |       FALSE       |        FALSE        |
-|             Great Club             | 1 |                           Large Hafted Blunt                           |   10   |  20 cc  |       FALSE       |       TRUE       |       TRUE       |        FALSE        |
-|                Whip                | 1 |                                  Whip                                  |   3   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Plumbata/Dart            | 1 |                       Thrown Small Piercing Blade                       |   5   |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|                Sling                | 1 |                                  Sling                                  |  0.5  |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        FALSE        |
-|            Hand Crossbow            | 1 |                              Hand Crossbow                              |   3   |  75 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|           Light Crossbow           | 1 |                             Light Crossbow                             |   5   |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Light Longbow            | 1 |                                Light Bow                                |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Heavy Crossbow           | 1 |                             Heavy Crossbow                             |   11   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Heavy Longbow            | 1 |                                Heavy Bow                                |   4   |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|               Blowgun               | 1 |                                 Blowgun                                 |   1   |  10 bc  |       FALSE       |       TRUE       |       FALSE       |        FALSE        |
-|           -[Ammunition]-           |    |                                                                        |        |        |                    |                  |                  |                    |
-|       Light Arrow - Broadhead       | 20 |                          Standard Light Arrow                          |  0.05  |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|   Light Arrow - Barbed Broadhead   | 20 |                          Wounding Light Arrow                          |  0.05  |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|        Light Arrow - Bodkin        | 20 |                         Anti-armor Light Arrow                         |  0.05  |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|      Light Arrow - Wood Tipped      | 20 |                          Survival Light Arrow                          |  0.05  |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                                    |    |                                                                        |        |        |                    |                  |                  |                    |
-|       Heavy Arrow - Broadhead       | 20 |                          Standard Heavy Arrow                          |  0.05  |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|   Heavy Arrow - Barbed Broadhead   | 20 |                          Wounding Heavy Arrow                          |  0.05  |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|        Heavy Arrow - Bodkin        | 20 |                         Anti-armor Heavy Arrow                         |  0.05  |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|      Heavy Arrow - Wood Tipped      | 20 |                          Survival Heavy Arrow                          |  0.05  |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                                    |    |                                                                        |        |        |                    |                  |                  |                    |
-|       Light Bolt - Broadhead       | 20 |                           Standard Light Bolt                           | 0.075 |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Light Bolt - Bodkin         | 20 |                           Wounding Light Bolt                           | 0.075 |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Light Bolt - Bodkin         | 20 |                          Anti-armor Light Bolt                          | 0.075 |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|      Light Bolt - Wood Tipped      | 20 |                           Survival Light Bolt                           | 0.075 |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                                    |    |                                                                        |        |        |                    |                  |                  |                    |
-|       Heavy Bolt - Broadhead       | 20 |                           Standard Heavy Bolt                           | 0.075 |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Heavy Bolt - Bodkin         | 20 |                           Wounding Heavy Bolt                           | 0.075 |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Heavy Bolt - Bodkin         | 20 |                          Anti-armor Heavy Bolt                          | 0.075 |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|      Heavy Bolt - Wood Tipped      | 20 |                           Survival Heavy Bolt                           | 0.075 |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                                    |    |                                                                        |        |        |                    |                  |                  |                    |
-|            Sling Bullets            | 50 |                         Standard Sling Bullets                         | 0.075 |  8 tc  |       FALSE       |       TRUE       |       TRUE       |        FALSE        |
-|                                    |    |                                                                        |        |        |                    |                  |                  |                    |
-|       Blowguns Needles Plain       | 20 |                              Plain Needles                              |  0.05  |  5 cc  |       FALSE       |       TRUE       |       FALSE       |        FALSE        |
-|                                    |    |                                                                        |        |        |                    |                  |                  |                    |
-|              Backpack              | 1 |                             30 lb container                             |   5   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|               Bedroll               | 1 |                                                                        |   7   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|               Blanket               | 1 |                                                                        |   3   |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Block and Tackle          | 1 |                                                                        |   5   |  70 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Bottle, glass            | 1 |                                                                        |   2   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|               Candle               | 1 |                                                                        |  0.1  |  1 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Case, Crossbow Bolts (capacity: 20) | 1 |                                                                        |   1   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Case, Map or Scroll         | 1 |                                                                        |   1   |  1 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Chain (10 feet)           | 1 |                                                                        |   10   |  3 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Chest                | 1 |                            300 lb container                            |   25   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Climber's Kit            | 1 |                                                                        |   12   |  25 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Clothes, Traveler's         | 1 |                                                                        |   4   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|               Crowbar               | 1 |                 Small Hafted Blunt, Small Thrown Blunt                 |   5   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Flask or Tankard          | 1 |                                                                        |   1   |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Grappling Hook           | 1 |                                                                        |   4   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|               Hammer               | 1 |                 Small Hafted Blunt, Small Thrown Blunt                 |   3   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|            Healer's Kit            | 1 |                                                                        |   3   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|              Hourglass              | 1 |                                                                        |   1   |  25 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|            Hunting Trap            | 1 |                                                                        |   25   |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Ink (1 ounce bottle)        | 1 |                                                                        |  0.1  |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Ink Pen (Fountain)         | 1 |                                                                        |  0.05  |  3 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|    Jug or PitcherJug or Pitcher    | 1 |                                                                        |   4   |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Ladder (10-foot)          | 1 |                                                                        |   25   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Lantern, Hooded           | 1 |                                                                        |   2   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|                Lock                | 1 |                                                                        |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|              Mess Kit              | 1 |                                                                        |   1   |  20 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Mirror, Steel            | 1 |                                                                        |  0.5  |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|          Paper (one sheet)          | 1 |                                                                        |   0   |  20 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|        Parchment (one sheet)        | 1 |                                                                        |   0   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Pick, Miner's            | 1 |                           Large Hafted Point                           |   10   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|                Piton                | 1 |                                                                        |  0.25  |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Pole (10-foot)           | 1 |                                                                        |   7   |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|              Pot, Iron              | 1 |                                                                        |   10   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Pouch                | 1 |                             6 lb container                             |   1   |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Quiver (capacity: 20)        | 1 |                                                                        |   1   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Rations (1 day)           | 1 |                                                                        |   2   |  50 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Rope, Hempen (50 feet)       | 1 |                                                                        |   10   |  1 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Rope, Silk (50 feet)        | 1 |                                                                        |   5   |  10 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|                Sack                | 1 |                                                                        |  0.5  |  1 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|               Shovel               | 1 |                           Large Hafted Blunt                           |   5   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Signal Whistle           | 1 |                                                                        |  0.1  |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|             Signet Ring             | 1 |                                                                        |  0.2  |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|              Spy Glass              | 1 |                                                                        |   0   | 1000 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|          Tent, Two-person          | 1 |                                                                        |   20   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|              Tinderbox              | 1 |                                                                        |   1   |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Torch                | 1 |                              Shoddy Torch                              |   1   |  1 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Vial                | 1 |                                                                        |  0.1  |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Waterskin (0/4)           | 1 |                                                                        |   1   |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Waterskin (4/4)           | 1 |                                                                        |   5   |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Cartographer's Tools        | 1 |                                                                        |   6   |  15 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|           Jeweler's Tools           | 1 |                                                                        |   2   |  25 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|           Tinker's Tools           | 1 |                                                                        |   10   |  38 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|            Herbalism Kit            | 1 |                                                                        |   3   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|           Navigator's Kit           | 1 |                                                                        |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Name                |        #        |                                 Effects                                 | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :---------------------------------: | :--------------: | :---------------------------------------------------------------------: | :----: | :-----: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|              -[Armor]-              |                  |                                                                        |        |        |                    |                  |                  |                    |
+|           Gambeson Armor           |        1        |            Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00            |   8   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|            Gambeson Coat            |        1        |                Body Armor, Arm Armor, Phy. Def. 0.625                |   5   | 3.13 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|          Gambeson Leggings          |        1        |                       Leg Armor, Phy. Def. 0.375                       |   3   | 1.87 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|            Leather Armor            |        1        |      Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00      |   12   |  10 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|           Leather Helmet           |        1        |                       Head Armor, Phy. Def. 0.34                       |   2   | 1.67 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|    Leather Cuirass and Pauldrons    |        1        |                       Body Armor, Phy. Def. 1.00                       |   6   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|     Leather Cuisses and Greaves     |        1        |                       Arm Armor, Phy. Def. 0.33                       |   2   | 1.67 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|          Leather Vambrace          |        1        |                       Leg Armor, Phy. Def. 0.33                       |   2   | 1.66 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|             -[Weapons]-             |                  |                                                                        |        |        |                    |                  |                  |                    |
+|               Dagger               |        1        | Small Piercing Blade, Small Slashing Blade, Thrown Small Piercing Blade |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Handaxe               |        1        |                           Small Hafted Blade                           |   2   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|            Light Hammer            |        1        |                 Small Hafted Blunt, Small Thrown Blunt                 |   2   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|            Quarterstaff            |        1        |                           Large Hafted Blunt                           |   4   |  20 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Club                |        1        |                           Medium Hafted Blunt                           |   2   |  10 cc  |       FALSE       |       TRUE       |       FALSE       |        FALSE        |
+|             Great Club             |        1        |                           Large Hafted Blunt                           |   10   |  20 cc  |       FALSE       |       TRUE       |       TRUE       |        FALSE        |
+|                Whip                |        1        |                                  Whip                                  |   3   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Plumbata/Dart            |        1        |                       Thrown Small Piercing Blade                       |   5   |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|                Sling                |        1        |                                  Sling                                  |  0.5  |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        FALSE        |
+|            Hand Crossbow            |        1        |                              Hand Crossbow                              |   3   |  75 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Light Crossbow           |        1        |                             Light Crossbow                             |   5   |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Light Longbow            |        1        |                                Light Bow                                |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Heavy Crossbow           |        1        |                             Heavy Crossbow                             |   11   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Heavy Longbow            |        1        |                                Heavy Bow                                |   4   |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Blowgun               |        1        |                                 Blowgun                                 |   1   |  10 bc  |       FALSE       |       TRUE       |       FALSE       |        FALSE        |
+|           -[Ammunition]-           |                  |                                                                        |        |        |                    |                  |                  |                    |
+|       Light Arrow - Broadhead       |        20        |                          Standard Light Arrow                          |  0.05  |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|   Light Arrow - Barbed Broadhead   |        20        |                          Wounding Light Arrow                          |  0.05  |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|        Light Arrow - Bodkin        |        20        |                         Anti-armor Light Arrow                         |  0.05  |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|      Light Arrow - Wood Tipped      |        20        |                          Survival Light Arrow                          |  0.05  |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                                    |                  |                                                                        |        |        |                    |                  |                  |                    |
+|       Heavy Arrow - Broadhead       |        20        |                          Standard Heavy Arrow                          |  0.05  |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|   Heavy Arrow - Barbed Broadhead   |        20        |                          Wounding Heavy Arrow                          |  0.05  |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|        Heavy Arrow - Bodkin        |        20        |                         Anti-armor Heavy Arrow                         |  0.05  |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|      Heavy Arrow - Wood Tipped      |        20        |                          Survival Heavy Arrow                          |  0.05  |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                                    |                  |                                                                        |        |        |                    |                  |                  |                    |
+|       Light Bolt - Broadhead       |        20        |                           Standard Light Bolt                           | 0.075 |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Light Bolt - Bodkin         |        20        |                           Wounding Light Bolt                           | 0.075 |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Light Bolt - Bodkin         |        20        |                          Anti-armor Light Bolt                          | 0.075 |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|      Light Bolt - Wood Tipped      |        20        |                           Survival Light Bolt                           | 0.075 |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                                    |                  |                                                                        |        |        |                    |                  |                  |                    |
+|       Heavy Bolt - Broadhead       |        20        |                           Standard Heavy Bolt                           | 0.075 |  5 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Heavy Bolt - Bodkin         |        20        |                           Wounding Heavy Bolt                           | 0.075 |  7 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Heavy Bolt - Bodkin         |        20        |                          Anti-armor Heavy Bolt                          | 0.075 |  10 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|      Heavy Bolt - Wood Tipped      |        20        |                           Survival Heavy Bolt                           | 0.075 |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                                    |                  |                                                                        |        |        |                    |                  |                  |                    |
+|            Sling Bullets            |        50        |                         Standard Sling Bullets                         | 0.075 |  8 tc  |       FALSE       |       TRUE       |       TRUE       |        FALSE        |
+|                                    |                  |                                                                        |        |        |                    |                  |                  |                    |
+|       Blowguns Needles Plain       |        20        |                              Plain Needles                              |  0.05  |  5 cc  |       FALSE       |       TRUE       |       FALSE       |        FALSE        |
+|                                    |                  |                                                                        |        |        |                    |                  |                  |                    |
+|              Backpack              | 30 lb container |                                                                        |   5   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Bedroll               |        1        |                                                                        |   7   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Blanket               |        1        |                                                                        |   3   |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Block and Tackle          |        1        |                                                                        |   5   |  70 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|            Bottle, glass            |        1        |                                                                        |   2   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Candle               |        1        |                                                                        |  0.1  |  1 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+| Case, Crossbow Bolts (capacity: 20) |        1        |                                                                        |   1   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Case, Map or Scroll         |        1        |                                                                        |   1   |  1 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Chain (10 feet)           |        1        |                                                                        |   10   |  3 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Chest                | 300 lb container |                                                                        |   25   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|            Climber's Kit            |        1        |                                                                        |   12   |  25 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Clothes, Traveler's         |        1        |                                                                        |   4   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Crowbar               |        1        |                 Small Hafted Blunt, Small Thrown Blunt                 |   5   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Flask or Tankard          |        1        |                                                                        |   1   |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Grappling Hook           |        1        |                                                                        |   4   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|               Hammer               |        1        |                 Small Hafted Blunt, Small Thrown Blunt                 |   3   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|            Healer's Kit            |        1        |                                                                        |   3   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|              Hourglass              |        1        |                                                                        |   1   |  25 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|            Hunting Trap            |        1        |                                                                        |   25   |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|        Ink (1 ounce bottle)        |        1        |                                                                        |  0.1  |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Ink Pen (Fountain)         |        1        |                                                                        |  0.05  |  3 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|    Jug or PitcherJug or Pitcher    |        1        |                                                                        |   4   |  2 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Ladder (10-foot)          |        1        |                                                                        |   25   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Lantern, Hooded           |        1        |                                                                        |   2   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Lock                |        1        |                                                                        |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|              Mess Kit              |        1        |                                                                        |   1   |  20 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Mirror, Steel            |        1        |                                                                        |  0.5  |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Paper (one sheet)          |        1        |                                                                        |   0   |  20 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|        Parchment (one sheet)        |        1        |                                                                        |   0   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Pick, Miner's            |        1        |                           Large Hafted Point                           |   10   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|                Piton                |        1        |                                                                        |  0.25  |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Pole (10-foot)           |        1        |                                                                        |   7   |  5 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|              Pot, Iron              |        1        |                                                                        |   10   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Pouch                |  6 lb container  |                                                                        |   1   |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Quiver (capacity: 20)        |        1        |                                                                        |   1   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Rations (1 day)           |        1        |                                                                        |   2   |  50 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|       Rope, Hempen (50 feet)       |        1        |                                                                        |   10   |  1 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|        Rope, Silk (50 feet)        |        1        |                                                                        |   5   |  10 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Sack                |        1        |                                                                        |  0.5  |  1 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Shovel               |        1        |                           Large Hafted Blunt                           |   5   |  2 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Signal Whistle           |        1        |                                                                        |  0.1  |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|             Signet Ring             |        1        |                                                                        |  0.2  |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|              Spy Glass              |        1        |                                                                        |   0   | 1000 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|          Tent, Two-person          |        1        |                                                                        |   20   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|              Tinderbox              |        1        |                                                                        |   1   |  50 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Torch                |        1        |                              Shoddy Torch                              |   1   |  1 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Vial                |        1        |                                                                        |  0.1  |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Waterskin (0/4)           |        1        |                                                                        |   1   |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Waterskin (4/4)           |        1        |                                                                        |   5   |  20 cc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Cartographer's Tools        |        1        |                                                                        |   6   |  15 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Jeweler's Tools           |        1        |                                                                        |   2   |  25 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|           Tinker's Tools           |        1        |                                                                        |   10   |  38 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|            Herbalism Kit            |        1        |                                                                        |   3   |  5 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Navigator's Kit           |        1        |                                                                        |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 
 ### ![](ItemShop/ShadyDealer.png) Shady Dealer - General Store Add-on
 
@@ -498,22 +498,22 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/MagicalTheme.png) Magical Theme - General Store Add-on
 
-|                Name                | # |      Effects      | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :--------------------------------: | :-: | :----------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|              Crystal              | 1 | Spellcasting Focus |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|                Orb                | 1 | Spellcasting Focus |   3   |  20 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|                Rod                | 1 | Spellcasting Focus |   2   |  10 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|               Staff               | 1 | Spellcasting Focus |   4   |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Wand                | 1 | Spellcasting Focus |   1   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Component Pouch          | 1 |  12 lb container  |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|             Spellbook             | 1 |                    |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|              Runebook              | 1 | Spellcasting Focus |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Minor Healing Factor Blood | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Vial of Minor Healing Blood    | 1 |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Vial of Medium Healing Blood    | 1 |                    |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|   Vial of Serious Healing Blood   | 1 |                    |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|    Vial of Fatal Healing Blood    | 1 |                    |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|   Vial of Revival Healing Blood   | 1 |                    |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Name                |        #        |      Effects      | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------: | :-------------: | :----------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|              Crystal              |        1        | Spellcasting Focus |   1   |  10 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Orb                |        1        | Spellcasting Focus |   3   |  20 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Rod                |        1        | Spellcasting Focus |   2   |  10 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Staff               |        1        | Spellcasting Focus |   4   |   5 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Wand                |        1        | Spellcasting Focus |   1   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Component Pouch          | 12 lb container |                    |   2   |  25 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|             Spellbook             |        1        |                    |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|              Runebook              |        1        | Spellcasting Focus |   3   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+| Vial of Minor Healing Factor Blood |        1        |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Minor Healing Blood    |        1        |                    |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Medium Healing Blood    |        1        |                    |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|   Vial of Serious Healing Blood   |        1        |                    |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Fatal Healing Blood    |        1        |                    |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Vial of Revival Healing Blood   |        1        |                    |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 
 ### ![](ItemShop/Water-sideTheme.png) Water-side Theme - General Store Add-on
 
@@ -554,26 +554,26 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/TaliorTextiles.png) Tailor/Textiles
 
-|          Name          | # |     Effects     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :---------------------: | :-: | :-------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|         Basket         | 1 |                |   2   | 40 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|      Cloak, Canvas      | 1 |                |   5   | 70 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|     Cloak, Leather     | 1 |                |   5   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|  Cloak, Leather, Lined  | 1 |                |   5   | 4 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|     Clothes, Common     | 1 |                |   3   | 50 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Clothes, Costume    | 1 |                |   4   | 5 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|      Clothes, Fine      | 1 |                |   6   | 15 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|   Clothes, Traveler's   | 1 |                |   4   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Satchel         | 1 | 12 lb container |   2   | 1 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|          Pouch          | 1 | 6 lb container |   1   | 50 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Robes          | 1 |                |   4   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|          Sack          | 1 |                |  0.5  | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Tent, Two-person    | 1 |                |   20   | 2 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Bone Needle       | 5 |                |   0   | 3 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|      Steel Needle      | 1 |                |   0   | 10 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-| Cotton Thread (30 feet) | 1 |                |  0.1  | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-| Leather Cord (15 feet) | 1 |                |  0.2  | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|     Weaver's Tools     | 1 |                |   5   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Name          |        #        | Effects | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :---------------------: | :-------------: | :-----: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|         Basket         |        1        |        |   2   | 40 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|      Cloak, Canvas      |        1        |        |   5   | 70 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|     Cloak, Leather     |        1        |        |   5   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|  Cloak, Leather, Lined  |        1        |        |   5   | 4 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|     Clothes, Common     |        1        |        |   3   | 50 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Clothes, Costume    |        1        |        |   4   | 5 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|      Clothes, Fine      |        1        |        |   6   | 15 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Clothes, Traveler's   |        1        |        |   4   | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Satchel         | 12 lb container |        |   2   | 1 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|          Pouch          | 6 lb container |        |   1   | 50 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Robes          |        1        |        |   4   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Sack          |        1        |        |  0.5  | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Tent, Two-person    |        1        |        |   20   | 2 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|       Bone Needle       |        5        |        |   0   | 3 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|      Steel Needle      |        1        |        |   0   | 10 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+| Cotton Thread (30 feet) |        1        |        |  0.1  | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+| Leather Cord (15 feet) |        1        |        |  0.2  | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|     Weaver's Tools     |        1        |        |   5   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 
 ### ![](ItemShop/Transportation.png) Transportation
 
@@ -699,77 +699,77 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/PotionShop.png) Potion Shop
 
-|                Name                | # |         Effects         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :--------------------------------: | :-: | :---------------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|            Acid (vial)            | 1 |                        |  0.5  |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|      Alchemist's Fire (flask)      | 1 |                        |   1   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|          Antitoxin (vial)          | 1 |                        |  0.5  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Component Pouch          | 1 |     12 lb container     |   2   |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|            Oil (flask)            | 1 |                        |   1   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|           Perfume (vial)           | 1 |                        |  0.1  |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|        Poison, Basic (vial)        | 1 |                        |  0.5  |  100 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Vial of Minor Healing Factor Blood | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Vial of Minor Healing Blood    | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Vial of Medium Healing Blood    | 1 |                        |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|   Vial of Serious Healing Blood   | 1 |                        |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|    Vial of Fatal Healing Blood    | 1 |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|   Vial of Revival Healing Blood   | 1 |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|                Vial                | 1 |                        |  0.1  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|   Alchemy Ingredient - Uncommon   | 1 |                        |  0.5  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|     Alchemy Ingredient - Rare     | 1 |                        |  0.5  |  10 bc  |        TRUE        |       FALSE       |       TRUE       |        TRUE        |
-|   Alchemy Ingredient - Very Rare   | 1 |                        |  0.5  |  30 bc  |        TRUE        |       FALSE       |       FALSE       |        TRUE        |
-|        Alchemist's Supplies        | 1 |                        |   8   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Brewer's Supplies         | 1 |                        |   9   |  20 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Cook's Utensils          | 1 |                        |   8   |   1 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|           Poisoner's Kit           | 1 |                        |   2   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|          Spell Components          | 1 |                        |  0.5  |    ??    |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Potion - Common          | 1 |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Potion - Uncommon         | 1 |                        |  0.25  |  250 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Potion - Rare           | 1 |                        |  0.25  | 2500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Potion - Very Rare         | 1 |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Potion - Legendary         | 1 |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|                                    |  |                        |        |          |                    |                  |                  |                    |
-|       Potion of Invisibility       | 1 | Single-use Invisibility |  0.25  |  250 bc  |                    |                  |                  |                    |
+|                Name                |        #        |         Effects         | Weight |  Value  | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------: | :-------------: | :---------------------: | :----: | :------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|            Acid (vial)            |        1        |                        |  0.5  |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|      Alchemist's Fire (flask)      |        1        |                        |   1   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|          Antitoxin (vial)          |        1        |                        |  0.5  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Component Pouch          | 12 lb container |                        |   2   |  25 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|            Oil (flask)            |        1        |                        |   1   |  10 cc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|           Perfume (vial)           |        1        |                        |  0.1  |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|        Poison, Basic (vial)        |        1        |                        |  0.5  |  100 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+| Vial of Minor Healing Factor Blood |        1        |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Minor Healing Blood    |        1        |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Medium Healing Blood    |        1        |                        |  0.25  |  250 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|   Vial of Serious Healing Blood   |        1        |                        |  0.25  | 2500 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|    Vial of Fatal Healing Blood    |        1        |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Vial of Revival Healing Blood   |        1        |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Vial                |        1        |                        |  0.1  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|   Alchemy Ingredient - Uncommon   |        1        |                        |  0.5  |   1 bc   |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|     Alchemy Ingredient - Rare     |        1        |                        |  0.5  |  10 bc  |        TRUE        |       FALSE       |       TRUE       |        TRUE        |
+|   Alchemy Ingredient - Very Rare   |        1        |                        |  0.5  |  30 bc  |        TRUE        |       FALSE       |       FALSE       |        TRUE        |
+|        Alchemist's Supplies        |        1        |                        |   8   |  50 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Brewer's Supplies         |        1        |                        |   9   |  20 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Cook's Utensils          |        1        |                        |   8   |   1 bc   |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Poisoner's Kit           |        1        |                        |   2   |  50 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Spell Components          |        1        |                        |  0.5  |    ??    |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Potion - Common          |        1        |                        |  0.25  |  50 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Potion - Uncommon         |        1        |                        |  0.25  |  250 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Potion - Rare           |        1        |                        |  0.25  | 2500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Potion - Very Rare         |        1        |                        |  0.25  | 12500 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Potion - Legendary         |        1        |                        |  0.25  | 62500 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                                    |                |                        |        |          |                    |                  |                  |                    |
+|       Potion of Invisibility       |        1        | Single-use Invisibility |  0.25  |  250 bc  |                    |                  |                  |                    |
 
 ### ![](ItemShop/ArcaneShop.png) Arcane Shop
 
-|                Name                | # |      Effects      | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :--------------------------------: | :-: | :----------------: | :-----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|              Crystal              | 1 | Spellcasting Focus |    1    | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Orb                | 1 | Spellcasting Focus |    3    | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|                Rod                | 1 | Spellcasting Focus |    2    | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|               Staff               | 1 | Spellcasting Focus |    4    | 5 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|                Wand                | 1 | Spellcasting Focus |    1    | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|           Bottle, glass           | 1 |                    |    2    | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|               Candle               | 1 |                    |   0.1   | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|        Case, Map or Scroll        | 1 |                    |    1    | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|          Component Pouch          | 1 |  12 lb container  |    2    | 25 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-| Druidic Focus - Sprig of Mistletoe | 1 | Spellcasting Focus |   0.5   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Druidic Focus - Totem       | 1 | Spellcasting Focus |    1    | 1 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|    Druidic Focus - Wooden Staff    | 1 | Spellcasting Focus |    4    | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|      Druidic Focus - Yew Wand      | 1 | Spellcasting Focus |    1    | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|             Hourglass             | 1 |                    |    1    | 25 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|        Ink (1 ounce bottle)        | 1 |                    |   0.1   | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Ink Pen (Fountain)         | 1 |                    |  0.05  | 3 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|         Paper (one sheet)         | 1 |                    |    0    | 20 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|       Parchment (one sheet)       | 1 |                    |    0    | 10 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|               Pouch               | 1 |   6 lb container   |    1    | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|               Robes               | 1 |                    |    4    | 1 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|             Spellbook             | 1 | Spellcasting Focus |    3    | 50 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|              Runebook              | 1 | Spellcasting Focus |    3    | 50 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|                Vial                | 1 |                    |   0.1   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|        Alchemist's Supplies        | 1 |                    |    8    | 50 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|      Calligrapher's Supplies      | 1 |                    |    5    | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|                Lute                | 1 |                    |    2    | 35 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|                Lyre                | 1 |                    |    2    | 30 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|            -[Services]-            |  |                    |        |      |                    |                  |                  |                    |
-|     Magic Appraisal (Identify)     |  |                    | 100 bc |      |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Common (Cantrip)          |  |                    |  50 bc  |      |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|          Common (Level 1)          |  |                    | 100 bc |      |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|         Uncommon (Level 2)         |  |                    | 250 bc |      |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|         Uncommon (Level 3)         |  |                    | 500 bc |      |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|           Rare (Level 4)           |  |                    | 2500 bc |      |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|           Rare (Level 5)           |  |                    | 5000 bc |      |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|                Name                |        #        |      Effects      | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :--------------------------------: | :-------------: | :----------------: | :-----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|              Crystal              |        1        | Spellcasting Focus |    1    | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Orb                |        1        | Spellcasting Focus |    3    | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Rod                |        1        | Spellcasting Focus |    2    | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Staff               |        1        | Spellcasting Focus |    4    | 5 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|                Wand                |        1        | Spellcasting Focus |    1    | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|           Bottle, glass           |        1        |                    |    2    | 2 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Candle               |        1        |                    |   0.1   | 1 cc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Case, Map or Scroll        |        1        |                    |    1    | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|          Component Pouch          | 12 lb container |                    |    2    | 25 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+| Druidic Focus - Sprig of Mistletoe |        1        | Spellcasting Focus |   0.5   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|       Druidic Focus - Totem       |        1        | Spellcasting Focus |    1    | 1 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|    Druidic Focus - Wooden Staff    |        1        | Spellcasting Focus |    4    | 5 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|      Druidic Focus - Yew Wand      |        1        | Spellcasting Focus |    1    | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|             Hourglass             |        1        |                    |    1    | 25 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|        Ink (1 ounce bottle)        |        1        |                    |   0.1   | 10 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Ink Pen (Fountain)         |        1        |                    |  0.05  | 3 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|         Paper (one sheet)         |        1        |                    |    0    | 20 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|       Parchment (one sheet)       |        1        |                    |    0    | 10 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Pouch               | 6 lb container |                    |    1    | 50 cc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|               Robes               |        1        |                    |    4    | 1 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|             Spellbook             |        1        | Spellcasting Focus |    3    | 50 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|              Runebook              |        1        | Spellcasting Focus |    3    | 50 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|                Vial                |        1        |                    |   0.1   | 1 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|        Alchemist's Supplies        |        1        |                    |    8    | 50 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
+|      Calligrapher's Supplies      |        1        |                    |    5    | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Lute                |        1        |                    |    2    | 35 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|                Lyre                |        1        |                    |    2    | 30 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|            -[Services]-            |                |                    |        |      |                    |                  |                  |                    |
+|     Magic Appraisal (Identify)     |                |                    | 100 bc |      |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Common (Cantrip)          |                |                    |  50 bc  |      |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|          Common (Level 1)          |                |                    | 100 bc |      |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|         Uncommon (Level 2)         |                |                    | 250 bc |      |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|         Uncommon (Level 3)         |                |                    | 500 bc |      |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|           Rare (Level 4)           |                |                    | 2500 bc |      |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|           Rare (Level 5)           |                |                    | 5000 bc |      |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 
 ### Inns
 
@@ -893,49 +893,49 @@ Cheap shops will charge 50% the value for any item on this list.
 
 ### ![](ItemShop/High-endClothing.png) High End
 
-|                           Name                           | # |     Effects     | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
-| :------------------------------------------------------: | :-: | :-------------: | :----: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|                -[Custom Clothing Items]-                |  |                |        |          |                    |                  |                  |                    |
-|                        Bandolier                        | 1 |                |  0.5  |   8 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                           Belt                           | 1 |                |  0.5  |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                   “Better” Backpack                   | 1 | 35 lb container |   5   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Blouse                          | 1 |                |  0.5  |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                         Breeches                         | 1 |                |   1   |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Boots                          | 1 |                |   1   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                         Bow Tie                         | 1 |                |  0.2  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                  Cloak/ (Mantle, -1 bc)                  | 1 |                |   2   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                           Coat                           | 1 |                |   5   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                        Coin Purse                        | 1 |                |  0.06  |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Corset                          | 1 |                |   3   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Dress                          | 1 |                |   4   |   7 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                       Dress Pants                       | 1 |                |   1   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                       Dress Shirt                       | 1 |                |   1   |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                       Dress Shoes                       | 1 |                |   1   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                  Ghillies (Dance Shoes)                  | 1 |                |   1   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Gloves                          | 1 |                |  0.5  |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                           Hat                           | 1 |                |  0.5  |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Jacket                          | 1 |                |   3   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                 Jerkin/ (Tabard, +1 bc)                 | 1 |                |   5   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Pouch                          | 1 | 6 lb container |   1   |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                           Robe                           | 1 |                |   4   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                         Sandals                         | 1 |                |   1   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Scarf                          | 1 |                |  0.5  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                   Skirt/ (Kilt +1 bc)                   | 1 |                |   2   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                         Swimwear                         | 1 |                |   1   |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                           Tie                           | 1 |                |  0.25  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Tunic                          | 1 |                |   2   |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                      Undergarments                      | 1 |                |  0.5  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                          Vests                          | 1 |                |   1   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                        -[Extras]-                        |  |                |        |          |                    |                  |                  |                    |
-|            Closure Devices (Options): Buckles            | 1 |                |  0.2  |   10 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|             Closure Devices (Options): Snaps             | 1 |                |  0.2  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|             Cosmetic: Embroidery (per foot)             | 1 |                |   0   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|            Cosmetic: Linen Cloth Construction            | 1 |                |   0   |  (+)1 bc  |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|         Cosmetic: Lining (Material Options): Fur         | 1 |                |   0   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|   Cosmetic: Lining (Material Options): Leather (Basic)   | 1 |                |   0   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-| Cosmetic: Lining (Material Options): Leather (Specialty) | 1 |                |   0   | (+)CR% N. |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|        Cosmetic: Lining (Material Options): Silk        | 1 |                |   0   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
-|                    Cosmetic: Pockets                    | 1 |                |   0   |   20 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                           Name                           |        #        | Effects | Weight |   Value   | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
+| :------------------------------------------------------: | :-------------: | :-----: | :----: | :-------: | :----------------: | :---------------: | :---------------: | :-----------------: |
+|                -[Custom Clothing Items]-                |                |        |        |          |                    |                  |                  |                    |
+|                        Bandolier                        |        1        |        |  0.5  |   8 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                           Belt                           |        1        |        |  0.5  |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                   “Better” Backpack                   | 35 lb container |        |   5   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Blouse                          |        1        |        |  0.5  |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                         Breeches                         |        1        |        |   1   |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Boots                          |        1        |        |   1   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                         Bow Tie                         |        1        |        |  0.2  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                  Cloak/ (Mantle, -1 bc)                  |        1        |        |   2   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                           Coat                           |        1        |        |   5   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                        Coin Purse                        |        1        |        |  0.06  |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Corset                          |        1        |        |   3   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Dress                          |        1        |        |   4   |   7 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                       Dress Pants                       |        1        |        |   1   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                       Dress Shirt                       |        1        |        |   1   |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                       Dress Shoes                       |        1        |        |   1   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                  Ghillies (Dance Shoes)                  |        1        |        |   1   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Gloves                          |        1        |        |  0.5  |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                           Hat                           |        1        |        |  0.5  |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Jacket                          |        1        |        |   3   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                 Jerkin/ (Tabard, +1 bc)                 |        1        |        |   5   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Pouch                          | 6 lb container |        |   1   |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                           Robe                           |        1        |        |   4   |   5 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                         Sandals                         |        1        |        |   1   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Scarf                          |        1        |        |  0.5  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                   Skirt/ (Kilt +1 bc)                   |        1        |        |   2   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                         Swimwear                         |        1        |        |   1   |   1 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                           Tie                           |        1        |        |  0.25  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Tunic                          |        1        |        |   2   |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                      Undergarments                      |        1        |        |  0.5  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                          Vests                          |        1        |        |   1   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                        -[Extras]-                        |                |        |        |          |                    |                  |                  |                    |
+|            Closure Devices (Options): Buckles            |        1        |        |  0.2  |   10 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|             Closure Devices (Options): Snaps             |        1        |        |  0.2  |   50 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|             Cosmetic: Embroidery (per foot)             |        1        |        |   0   |   2 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|            Cosmetic: Linen Cloth Construction            |        1        |        |   0   |  (+)1 bc  |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|         Cosmetic: Lining (Material Options): Fur         |        1        |        |   0   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|   Cosmetic: Lining (Material Options): Leather (Basic)   |        1        |        |   0   |   4 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+| Cosmetic: Lining (Material Options): Leather (Specialty) |        1        |        |   0   | (+)CR% N. |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|        Cosmetic: Lining (Material Options): Silk        |        1        |        |   0   |   3 bc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
+|                    Cosmetic: Pockets                    |        1        |        |   0   |   20 cc   |       FALSE       |       FALSE       |       FALSE       |        FALSE        |
 
 ### ![](ItemShop/SpecialCraftingMaterials.png) Special Materials, Leather Armor Pieces
 
