@@ -8,7 +8,7 @@ What makes Fogent Roleplay different then D&D:
 
 - **Elegant and Intuative Rules:** While other TTRPGs require multiple books worth of rules to play, by contrast, Fogent Roleplay has ~40 pages of core rules, much of which consist of examples. This makes Fogent Roleplay extremely easy for new Players/Narrators to pick up.
 - **Narrative Focused:** Most TTRPGs feel very different in and out of combat, with non-combat roleplay having great narrative flow where your character can attempt anything that seems reasonable and combat feeling basically like a video game where characters can only perform the exact actions as described in the rules. Fogent Roleplay elegantly manages to handle combat within the narrative flow while still having balanced/tatical combat. Combat in Fogent Roleplay feels more like an awesome fight scene in a movie or book, rather than video game characters just trying to get each other to 0 HP.
-- **Off Loading Complexity to the Narrative:** Fogent Roleplay's rules are purposfully built to be elegant, intuative, and to off load as much complexity to the narrative as possible. Instead of any rule complexity/edge case turing into a legal battle between the players and narrator, it just becomes a discussion about what would narratively make sense. Therefore, what is best for your character in terms of the context of the rules and narrative are actually the same thing!
+- **Off Loading Complexity to the Narrative:** The rules are purposfully built to off load as much complexity to the narrative as possible. Instead of any rule complexity/edge case turing into a legal battle between the players and narrator, it just becomes a discussion about what would narratively make sense. Therefore, what is best for your character in terms of the context of the rules and what is most narratively satisfying for the are actually the same thing!
 - **Setting Agnostic:** Unlike most TTRPGs, Fogent Roleplay and it's rules aren't tied any setting. It can easily be used to run games in existing settings or in brand-new ones you create. This way, your group could learn one easy-to-use system to play settings such as medieval fantasy, cyberpunk, galactic warfare, survival horror, etc... This makes Fogent Roleplay great for world builders and authors looking to collabritevely create/reveal their worlds.
 
 What makes Fogent Roleplay different then Cogent Roleplay:
@@ -17,7 +17,6 @@ What makes Fogent Roleplay different then Cogent Roleplay:
 * **"What would Shad and Jazza have done":** Whether it be better Core Skills, reworked Vocations rules, rebalanced weapons, an Advantage/Disadvantage system, rebalanced destiny point rules, etc... Fogent Roleplay trys to take best ideas of Cogent Roleplay to their logical conslusions if the original creators had the time to continue development.
 * **Magic System Template:** The Magic System Template allows for the easy creation of balanced magic systems regardless of the setting.
 * **Premade Settings:** If you don't have the time to come up with an entire setting for your player to play in, Fogent Roleplay comes with premade campaign settings. This is an ongoing effort with more becoming available over time.
-
 
 May your stories be epic,
 
