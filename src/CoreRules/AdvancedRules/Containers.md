@@ -21,6 +21,8 @@ Characters will often stash or drop containers during combat as to not be in a h
 
 When representing a container on a character sheet, a similar table as the one below is used. For Containers, whatever the first item in the list is marks it as what kind of container it is.
 
+A containers type will be seen under the "#" or "quantity" header. This is because you can't have stacks of containers, only instances.
+
 | Name                    |        #        |        Effect        |  LB  | Value | Description |
 | ----------------------- | :-------------: | :------------------: | :--: | :---: | ----------- |
 | Backpack                | 30 lb container |                      |  5  | 2 bc |             |
