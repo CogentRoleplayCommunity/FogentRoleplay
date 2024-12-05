@@ -320,6 +320,7 @@ The Narrator is free to negate all dice bonuses if they feel the reach weapon wo
 | Large Shredding Bite |      +2d6      |      None      |       +1d6       |      1      | Melee |        Swift        |                    |      None      |                  |   Slash, Pierce   |
 |  Large Piercing Bite  |      +1d6      |      None      |       +1d6       |      2      | Melee |        Swift        |                    |      None      |                  | Pierce, Bludgeon |
 
+- Weak Bite ~= Unarmed
 - Small Bite ~= Unarmed Hand Protection
 - Shredding Bite ~= Small Slashing Blade
 - Piercing Bite ~= Small Thrusting Blade
