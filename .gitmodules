@@ -1,6 +1,3 @@
-[submodule "FallenData"]
-	path = FallenData
-	url = https://github.com/JackDanna/FallenData
 [submodule "FogentRoleplayCoreRules"]
 	path = FogentRoleplayCoreRules
 	url = https://github.com/CogentRoleplayCommunity/FogentRoleplayCoreRules.git
