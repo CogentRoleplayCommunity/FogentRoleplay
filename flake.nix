@@ -1,5 +1,5 @@
 {
-  description = "Flake for development of the Fogent Roleplay Rules";
+  description = "Flake for development of the Fogent Roleplay";
 
   outputs = { self, nixpkgs }:
 
@@ -14,11 +14,6 @@
 
         default = pkgs.writeShellScriptBin "run" ''
           nix develop -c -- codium .
-        '';
-        
-        test = pkgs.writeShellScriptBin "fa" ''
-
-          ${pkgs.figlet}/bin/figlet "Fallen is awesome!"
         '';
 
       };
