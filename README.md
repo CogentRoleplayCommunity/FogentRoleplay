@@ -30,22 +30,6 @@ Discord: [Fogent Roleplay Discord](https://discord.gg/PYNTGqxh6a)
 
 YouTube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI66urdnVfMkCJg)
 
-## Cogent Roleplay Open License
-
-Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
-
-All game mechanics and game systems built on top of Cogent Roleplay within this document are open and freely available for anyone to re-use, include, adapt or develop, in their projects that are also based on Cogent Roleplay.
-
-Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
-
-All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by creator of said setting and are not subject to the Cogent Roleplay Open Source license.
-
-The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
-
-Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
-
-![Alt text](CogentRoleplayAttribution_Wide.png)
-
 ## Settings
 
 Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made settings you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your own setting!
@@ -112,3 +96,19 @@ The Core Rules are the foundation and narrative engine for your game. They are l
 - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
+
+## Cogent Roleplay Open License
+
+Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
+
+All game mechanics and game systems built on top of Cogent Roleplay within this document are open and freely available for anyone to re-use, include, adapt or develop, in their projects that are also based on Cogent Roleplay.
+
+Any use of game mechanics and game systems from this document requires attribution to this document for the said mechanics/systems, along with a link back to Fogent Roleplay.
+
+All intellectual property (characters, brands, stories, designs, etc) contained within the settings section are entirely owned by creator of said setting and are not subject to the Cogent Roleplay Open Source license.
+
+The creator of this document loves collaboration and encourages people to reach out if they would like to help contribute to this document. He doesn't bite. Long live open-source fun. :)
+
+Link to Cogent Roleplay Website: [https://cogentroleplay.com/](https://cogentroleplay.com/)
+
+![Alt text](CogentRoleplayAttribution_Wide.png)
