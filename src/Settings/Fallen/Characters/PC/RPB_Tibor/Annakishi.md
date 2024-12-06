@@ -43,7 +43,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | Disabling: Feelbe                                                                        | She is shorter, lighter and weaker then other royal kiki.     |             | She lost on the genetic lottery.                                                                                                         |
 | Disabling: Drug addict.                                                                  | A light dose of Mirage keeps her from depression.             |             |                                                                                                                                          |
 | Disabling: Can't read or solve fine puzzles.                                             | Sees fine detail in large pixels.                             |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
-| Racial feature: [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) | Sees well in dimm light.                                      |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
+| Racial feature: [Darkvision](./../../../../../../FogentRoleplayCoreRules/src/AdvancedRules/LightAndVision.md) | Sees well in dimm light.                                      |             | Compound eyes (Multi lense bug eyes).                                                                                                    |
 | Racial feature: 2 Extra arms                                                             | Cool factor. :D                                               |             | Have you ever seen a healthy bug with only 4 limbs?! ;)                                                                                  |
 | Racial feature: 4 Extra wings                                                            | Short flight.                                                 | Alate Phase | Queen alate status in the hive.                                                                                                          |
 | Racial feature: Antennae                                                                 | Good sense of smell and pheromone.                            |             | Underground hive dweller species.                                                                                                        |
@@ -216,7 +216,7 @@ She got hooked on Mirage during her journey through the great emptiness, compell
 
 ### Eyes:
 
-- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.html).
+- She has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../../FogentRoleplayCoreRules/src/AdvancedRules/LightAndVision.html).
 
 ### Additional Details (Logic behind her appearance only for those who like to read...):
 

@@ -33,7 +33,7 @@
 |                                  Language: Kikishi                                  |                  Can speak Kikishi                  |          |                                                                                                                                            |
 |                            Disabling: Incapable of Lying                            |               Can't lie to royal kiki.               |          |                     Worker status in the hive. (He knows that royals can easily compel him to tell the truth anyway.)                     |
 |                     Disabling: Can't read or solve fine puzzles.                     |          Sees fine detail in large pixels.          |          |                                                   Compound eyes (Multi lense bug eyes).                                                   |
-| Racial feature:[Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md) |               Sees well in dim light.               |          |                                              Underground hive dweller species, compound eyes.                                              |
+| Racial feature:[Darkvision](./../../../../../../FogentRoleplayCoreRules/src/AdvancedRules/LightAndVision.md) |               Sees well in dim light.               |          |                                              Underground hive dweller species, compound eyes.                                              |
 |                               Racial feature: Antennae                               |          Good sense of smell and pheromone.          |          |                                                     Underground hive dweller species.                                                     |
 |                                   Equipment Weight                                   |                        26 LB                        |          |                                                                 Equipment                                                                 |
 |                                     Carry Weight                                     |                        160 lb                        |          | 120 lb (Base), +100 lb (per STR above 0),<br />-50 lb (per STR below 0), + 40 lb (per Lift above),<br />- 20 lb (per Lift above/below 0) |
@@ -170,7 +170,7 @@ However, before he could leave Reddland, his Queen reached out with her incredib
 
 ### Eyes:
 
-- He has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../CoreRules/AdvancedRules/LightAndVision.md).
+- He has big black compound eyes (multi lens bug eyes), with it's natural advantages and disadvantages. The closest Fogent equivalent is [Darkvision](./../../../../../../FogentRoleplayCoreRules/src/AdvancedRules/LightAndVision.md).
 
 ### Additional Details (Logic behind her appearance only for those who like to read...):
 
