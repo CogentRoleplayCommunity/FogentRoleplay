@@ -37,7 +37,7 @@
 |                [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |               15 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                                                    |                                    |          |                                                  |
 |                    [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Focus                    |                2/3                |          |       Vocation/Magic Governing Core Skill       |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |   – 0 dice to all dice checks.   |          |                 Damage Received                 |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |   -0d to STR/RFX/INT governed Dice Pools.   |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

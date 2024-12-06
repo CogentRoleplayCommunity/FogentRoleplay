@@ -108,6 +108,7 @@ The Core Rules are the foundation and narrative engine for your game. They are l
 
 ### Character Creation Rules
 
+- [Character Sheet Template](./src/CoreRules/CharacterCreationRules/temp/temp/temp/CharacterSheetTemplate.md)
 - [Disabling Characteristics](./src/CoreRules/CharacterCreationRules/DisablingCharacteristics.md)
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
