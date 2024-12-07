@@ -2,20 +2,12 @@
 
 ![Copyrighted Image](GreatArsenalTalisman.png)
 
-## Desc
-
-A charm that resembles a great jar overflowing with weaponry.
-
-Greatly boosts maximum equipment load.
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Great Arsenal Talisman | 1 |  | Greatly Enhanced Lift | Epic | 39/39 | 0.2 | ? |
+|          Name          | # |        Effects        | LB | Value | Description                                                                                                     |
+| :--------------------: | :-: | :-------------------: | :-: | :---: | --------------------------------------------------------------------------------------------------------------- |
+| Great Arsenal Talisman | 1 | Greatly Enhanced Lift | 0.2 |   ?   | A charm that resembles a great jar overflowing with weaponry.<br /><br />Greatly boosts maximum equipment load. |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Greatly Enhanced Lift | +3d6 to Lift. | Indefinite | 6 | +3d6 | Lift |
+| Name                  |     Desc     |  Duration  |         Source         |
+| :-------------------- | :-----------: | :--------: | :--------------------: |
+| Greatly Enhanced Lift | +3d6 to Lift. | Indefinite | Great Arsenal Talisman |
