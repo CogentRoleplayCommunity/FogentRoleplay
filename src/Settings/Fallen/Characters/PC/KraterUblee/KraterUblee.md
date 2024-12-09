@@ -7,8 +7,7 @@
 | [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)    | 1 |    | [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)        | 0 |    | [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)                | 0 |    |
 | ------------------------------------------------------------------------- | :-: | :-: | --------------------------------------------------------------------------- | :-: | :-: | ----------------------------------------------------------------------------------------- | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 5d6 | [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)   | 0 | 3d6 | [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)         | 0 | 3d6 |
-| (Deprecated)                                                              | 1 | 5d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 5d6 | (Deprecated)                                                                | 0 | 3d6 | (Deprecated)                                                                              | 1 | 4d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 5d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 0 | 3d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 3d6 |
 | [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)           | 1 | 5d6 | [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)       | 0 | 3d6 | [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)                           | 0 | 3d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
@@ -43,7 +42,7 @@
 |                                                                                                              |                                                        |          |                                                  |
 |               [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood               |                          4/5                          |          |       Vocation/Magic Governing Skill Level       |
 |                   [Destiny Points](./../../../../../CoreRules/GeneralRules/DestinyPoints.md)                   |                          2/3                          |          |               Awarded by Narrator               |
-|                   [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                   |             -0d to STR/RFX/INT governed Dice Pools.             |          |                      Damage                      |
+|                   [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                   |        -0d to STR/RFX/INT governed Dice Pools.        |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 

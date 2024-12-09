@@ -7,8 +7,7 @@
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 3d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 0 | 3d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 0 | 4d6 |
-|                               (Deprecated)                               | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 1 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 |                                (Deprecated)                                | 0 | 3d6 |                                       (Deprecated)                                       | 1 | 5d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 3d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 1 | 4d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 1 | 5d6 |
 |      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 3d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 1 | 5d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
@@ -21,24 +20,24 @@
 
 ## Effects
 
-|                                                        Name                                                        |                Desc                | Duration |                      Source                      |
-| :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------: | :------: | :----------------------------------------------: |
-|                                [Language](./../../../Languages/Languages.md): Babelish                                |        Can speak Babelish.        |          |                                                  |
-|                                 [Language](./../../../Languages/Languages.md): Primal                                 |         Can speak Primal.         |          |                                                  |
-|                                                                                                                    |                                    |          |                                                  |
-|     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)     |               16 lb               |          |                    Equipment                    |
-|     [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)     |               150 lb               |          |        +50 lbs Carry Weight per Lift dice        |
-| [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light | -0d to STR/RFX governed Dice Pools |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
-|                                                                                                                    |                                    |          |                                                  |
-|              [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)              |                 2                 |          |                  Armor & Shield                  |
-|                                                                                                                    |                                    |          |                                                  |
-|                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |       5x5 ft on battle map.       |          |                                                  |
-|             [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial             |               30 ft               |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
-|                 [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |               15 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |               15 ft               |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
-|                                                                                                                    |                                    |          |                                                  |
-|              [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection              |                5/5                |          |                Druid/Will Level                |
-|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       |   -0d to STR/RFX/INT governed Dice Pools.   |          |                      Damage                      |
+|                                                        Name                                                        |                  Desc                  | Duration |                      Source                      |
+| :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------: | :------: | :----------------------------------------------: |
+|                                [Language](./../../../Languages/Languages.md): Babelish                                |           Can speak Babelish.           |          |                                                  |
+|                                 [Language](./../../../Languages/Languages.md): Primal                                 |            Can speak Primal.            |          |                                                  |
+|                                                                                                                    |                                        |          |                                                  |
+|     [Equipment Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#equipment)     |                  16 lb                  |          |                    Equipment                    |
+|     [Carry Weight](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#carry-weight)     |                 150 lb                 |          |        +50 lbs Carry Weight per Lift dice        |
+| [Weight Class](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes): Light |   -0d to STR/RFX governed Dice Pools   |          |  0% =< Equipment Weight <= 25% of Carry Weight  |
+|                                                                                                                    |                                        |          |                                                  |
+|              [Physical Defense Level](./../../../../../CoreRules/CombatRules/Defense.md#physical-defense)              |                    2                    |          |                  Armor & Shield                  |
+|                                                                                                                    |                                        |          |                                                  |
+|                        [Size](./../../../../../CoreRules/CombatRules/BattleMap.md#size): Medium                        |          5x5 ft on battle map.          |          |                                                  |
+|             [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Terrestrial             |                  30 ft                  |          | +10 ft (per Athletics Dice), +/-10 ft (per RFX) |
+|                 [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Swim                 |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb                |                  15 ft                  |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
+|                                                                                                                    |                                        |          |                                                  |
+|              [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Nature Connection              |                   5/5                   |          |                Druid/Will Level                |
+|                       [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None                       | -0d to STR/RFX/INT governed Dice Pools. |          |                      Damage                      |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
