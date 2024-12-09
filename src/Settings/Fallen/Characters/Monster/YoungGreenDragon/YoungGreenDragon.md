@@ -7,8 +7,7 @@
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 3 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 0 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
 | [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 0 | 6d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 2 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 2 | 6d6 |
-|                               (Deprecated)                               | 0 | 6d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 3 | 6d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 4d6 |
-| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 6d6 |                                (Deprecated)                                | 0 | 3d6 |                                       (Deprecated)                                       | 0 | 4d6 |
+| [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 0 | 6d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 3 | 6d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 0 | 4d6 |
 |      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 6d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 2 | 5d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 6d6 |
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
@@ -43,7 +42,7 @@
 |    [Combat Speed](./../../../../../CoreRules/CombatRules/BattleMap.md#combat-speed): Climb    |                                                          30 ft                                                          |          |  +5 ft (per Athletics Dice), +/-5 ft (per RFX)  |
 |                                                                                            |                                                                                                                          |          |                                                  |
 |      [Magic Resource](./../../../../../CoreRules/MagicRules/MagicResource.md): Fellblood      |                                                          11/11                                                          |          |       Vocation/Magic Governing Core Skill       |
-|           [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None           |                                              -0d to STR/RFX/INT governed Dice Pools.                                              |          |                 Damage Received                 |
+|           [Injury](./../../../../../CoreRules/CombatRules/InjuryAndHealing.md): None           |                                         -0d to STR/RFX/INT governed Dice Pools.                                         |          |                 Damage Received                 |
 
 ## [Combat Rolls](./../../../../../CoreRules/CombatRules/CombatRolls.md)
 
