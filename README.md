@@ -97,6 +97,10 @@ The Core Rules are the foundation and narrative engine for your game. They are l
 - [Tiers of Play](./src/CoreRules/CharacterCreationRules/TiersOfPlay.md)
 - [Character Creation](./src/CoreRules/CharacterCreationRules/CharacterCreation.md)
 
+### Hardcore Rules
+
+- [Item Durability](./src/CoreRules/HardcoreRules/ItemDurability.md)
+
 ## Cogent Roleplay Open License
 
 Fogent Roleplay is developed based on Cogent Roleplay and with appreciation to its creators is under the the Cogent Roleplay Open License.
