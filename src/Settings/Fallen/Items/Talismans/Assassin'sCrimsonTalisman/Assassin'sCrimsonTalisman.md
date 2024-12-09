@@ -2,18 +2,12 @@
 
 ![Copyrighted Image](Assassin'sCrimsonTalisman.png)
 
-## Desc
-
-An assassin's dagger, misshapen and stained in crimson.
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
-| Assassin's Azulian Talisman | 1 |  | Life Leech | Excellent | 21/21 | 0.2 | ? |
+|             Name             | # |  Effects  | LB | Value | Description                                             |
+| :--------------------------: | :-: | :--------: | :-: | :---: | ------------------------------------------------------- |
+| Assassin's Crimson Talisman | 1 | Life Leech | 0.2 |   ?   | An assassin's dagger, misshapen and stained in crimson. |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
-| Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous | 3 |
+| Name       |                     Desc                     |   Duration   |            Source            |
+| :--------- | :------------------------------------------: | :-----------: | :--------------------------: |
+| Life Leech | Sneak attacks trigger an Minor Heal to self. | Instantaneous | Assassin's Crimson Talisman |

@@ -86,7 +86,7 @@ Silver Plating, while highly effective, is still soft and is easily tarnished. A
 
 ### Potions
 
-- [Vial of Gradual Healing Blood](Potions/VialOfGradualHealingBlood/VialOfGradualHealingBlood.md)
+- [Vial of Minor Healing Factor Blood](Potions/VialOfGradualHealingBlood/VialOfGradualHealingBlood.md)
 - [Vial of Minor Healing Blood](Potions/VialOfMinorHealingBlood/VialOfMinorHealingBlood.md)
 - [Vial of Medium Healing Blood](Potions/VialOfMediumHealingBlood/VialOfMediumHealingBlood.md)
 - [Vial of Serious Healing Blood](Potions/VialOfSeriousHealingBlood/VialOfSeriousHealingBlood.md)

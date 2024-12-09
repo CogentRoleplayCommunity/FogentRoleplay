@@ -2,7 +2,7 @@
 
 Advantage and Disadvantage represent circumstances that favor or disfavor a character, resulting in better or worse odds of achieving Wins.
 
-Advantages and Disadvantages only apply to a single dice pool, not additional dice pools such as from Assists. For example, if a character has Advantage on a stealth check and decides to assist with their "Rogue" vocation, then the Advantage only applies to the Stealth dice pool and not to the "Rogue" dice pool. However, the character could preemptively use a destiny point to gain Advantage on the "Rogue" assist dice pool.
+Advantages and Disadvantages only apply to a single dice pool, not additional dice pools such as from Assists. For example, if a character has Advantage on a Stealth check and decides to assist with their "Rogue" vocation, then the Advantage only applies to the Stealth dice pool and not to the "Rogue" dice pool. However, the character could preemptively use a destiny point to gain Advantage on the "Rogue" assist dice pool.
 
 ## Advantage
 

@@ -395,13 +395,13 @@ The captured stores are voluminous, requiring a wagon for transportation. Return
 
 Additionally, Thrak's treasure chest holds:
 
-| Name                                                    | #   | Class            | Effect     | Tier      | Durability | LB   | Value |
-| ------------------------------------------------------- | --- | ---------------- | ---------- | --------- | ---------- | ---- | ----- |
-| Chest                                         | 1   | 300 lb container |            | Mundane   |            | 25   | 5 bc  |
-| Copper Coin                                             | 600 |                  |            | Mundane   |            | 0.02 | 1 cc  |
-| Bronze Coin                                             | 11  |                  |            | Mundane   |            | 0.02 | 1 bc  |
-| Jade statuette of a frog with tiny golden orbs for eyes | 1   |                  |            | Excellent |            | 1    | 50 bc |
-| Vial of Minor Healing Blood                             | 2   |                  | Minor Heal | Fine      |            | 0.25 | 50 bc |
+| Name                                                    | #                | Effect     | LB   | Value | Description                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------- | ---------------- | ---------- | ---- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chest                                                   | 300 lb container |            | 25   | 5 bc  |                                                                                                                                                                                                                                                                                                                                                                                              |
+| Copper Coin                                             | 600              |            | 0.02 | 1 cc  |                                                                                                                                                                                                                                                                                                                                                                                              |
+| Bronze Coin                                             | 11               |            | 0.02 | 1 bc  |                                                                                                                                                                                                                                                                                                                                                                                              |
+| Jade statuette of a frog with tiny golden orbs for eyes | 1                |            | 1    | 50 bc |                                                                                                                                                                                                                                                                                                                                                                                              |
+| Vial of Minor Healing Blood                             | 2                | Minor Heal | 0.25 | 50 bc | Special blood invented by Veronica Reddington. Heals wounds and can cure a spore infection.<br /><br />The process of creating Healing blood is a closely guarded secret of House Reddington, as it is Reddwall's largest export. During the spore epidemic, healing blood was the only known way of curing the spore infection, greatly increasing the political power of House Reddington. |
 
 ### What Comes Next?
 
@@ -721,12 +721,12 @@ If a confrontation occurs in this area, and two of the ruffians are defeated, th
 
 The waterproof satchel concealed in the cistern contains a potion of healing, a potion of invisibility, 50 bc, and a clean set of ordinary travel clothing. This is a getaway kit that Sylas keeps in the cellar for emergencies.
 
-| Name                        | # | Class |         Effect         |   Tier   | Durability |  LB  | Value |
-| --------------------------- | :-: | :---: | :---------------------: | :-------: | :--------: | :--: | :----: |
-| Bronze Coin                 | 11 |      |                        |  Mundane  |            | 0.02 |  1 bc  |
-| Vial of Minor Healing Blood | 1 |      |       Minor Heal       |  Mundane  |            | 0.25 | 50 bc |
-| Clothes, Traveler's         | 1 |      |                        |  Mundane  |            |  4  |  2 bc  |
-| Potion of Invisibility      | 1 |      | Single-use Invisibility | Excellent |            | 0.25 | 250 bc |
+| Name                        | # |         Effects         |  LB  | Value | Description |
+| --------------------------- | :-: | :---------------------: | :--: | :----: | ----------- |
+| Bronze Coin                 | 11 |                        | 0.02 |  1 bc  |             |
+| Vial of Minor Healing Blood | 1 |       Minor Heal       | 0.25 | 50 bc |             |
+| Clothes, Traveler's         | 1 |                        |  4  |  2 bc  |             |
+| Potion of Invisibility      | 1 | Single-use Invisibility | 0.25 | 250 bc |             |
 
 ### 2. Barracks
 
@@ -1364,7 +1364,7 @@ For the Lumgrove residents, their proximity to the Highmount Wood demanded const
 The barracks appears to have weathered the years better than most town buildings. A simple battlement crowns its rooftop, and arrow-slit windows confirm its intended use as a small keep during emergencies.
 ```
 
-Five ash zombies, former members of the garrison, still wear tattered remnants of rusted mail and soldier's surcoats, though these scraps do not enhance their Armor Class. The zombies rouse and attack any living creature that disturbs their rest.
+Five ash zombies, former members of the garrison, still wear tattered remnants of rusted mail and soldier's surcoats, though these scraps do not enhance their Physical Defense. The zombies rouse and attack any living creature that disturbs their rest.
 
 Furnishings are still found within the building, including a ladder in the main room leading to the roof. The northern chamber contains two double bunks, while the southern chamber holds three double bunks, offering accommodations for ten soldiers in total. To the northwest, a kitchen and pantry now hold piles of decayed sacks and barrels that once stored salted meat. However, vermin have long since devoured all the foodstuffs.
 

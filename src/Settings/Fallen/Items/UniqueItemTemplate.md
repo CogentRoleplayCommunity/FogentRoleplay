@@ -2,14 +2,10 @@
 
 ![Copyright]()
 
-## Desc
-
-## Info
-
-| Name | # | Class | Effect | Tier | Durability | LB | Value |
-| :--: | :-: | :---: | :----: | :--: | :--------: | :-: | :---: |
+| Name | # | Effects | LB | Value | Description |
+| :--: | :-: | :-----: | :-: | :---: | ----------- |
 
 ## Effects
 
-| Name | Effect | Duration | Tier Required |
-| :--- | :----: | :------: | :-----------: |
+| Name | Desc | Duration | Source |
+| :--- | :--: | :------: | :----: |
