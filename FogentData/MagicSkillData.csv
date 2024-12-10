@@ -1,0 +1,71 @@
+name,damageTypes,meleeCapable,rangeCapable
+Radiance,Radiant,TRUE,TRUE
+Blessing,Radiant,TRUE,TRUE
+,,,
+Polycraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Blazecraft,Fire,TRUE,TRUE
+Hydrocraft,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE
+Electrocraft,Electric,TRUE,TRUE
+Terracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Galecraft,"Slash, Bludgeon, Shockwave",TRUE,TRUE
+Cryocraft,Cold,TRUE,TRUE
+Naturecraft,"Slash, Bludgeon, Pierce",TRUE,TRUE
+Toxincraft,Poison,TRUE,TRUE
+Soulcraft,Spiritual,TRUE,TRUE
+Shadowcraft,Necrotic,TRUE,TRUE
+Mindcraft,Psychic,FALSE,TRUE
+Ferracraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Sonocraft,Shockwave,FALSE,TRUE
+Hemacraft,Bleed,TRUE,TRUE
+Spidercraft,"Suffocation, Bludgeon",TRUE,TRUE
+Acidcraft,Acid,TRUE,TRUE
+Warpcraft,,FALSE,TRUE
+Telekeneticraft,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Plasmacraft,Fire,TRUE,TRUE
+Stormcraft,"Electric, Shockwave",TRUE,TRUE
+Magmacraft,"Fire, Bludgeon",TRUE,TRUE
+Blizzardcraft,"Cold, Slash, Bludgeon, Pierce",TRUE,TRUE
+,,,
+Fire Rune,Fire,FALSE,TRUE
+Earth Rune,"Slash, Bludgeon, Hew, Pierce",FALSE,TRUE
+Water Rune,"Suffocation, Slash, Bludgeon, Pierce",FALSE,TRUE
+Air Rune,"Slash, Bludgeon, Shockwave",FALSE,TRUE
+Electricity Rune,Electric,FALSE,TRUE
+Cold Rune,Cold,FALSE,TRUE
+Poison Rune,Poison,FALSE,TRUE
+Blood Rune,Bleed,FALSE,TRUE
+Light Rune,Radiant,FALSE,TRUE
+Dark Rune,Necrotic,FALSE,TRUE
+Sound Rune,Shockwave,FALSE,TRUE
+Body Rune,,FALSE,TRUE
+Mind Rune,Psychic,FALSE,TRUE
+Soul Rune,Spiritual,FALSE,TRUE
+Time Rune,,FALSE,TRUE
+Space Rune,,FALSE,TRUE
+Strength Rune,,FALSE,TRUE
+Gravity Rune,Bludgeon,FALSE,TRUE
+Nature Rune,"Slash, Bludgeon, Pierce",FALSE,TRUE
+Acid Rune,Acid,FALSE,TRUE
+,,,
+Sporecraft,Necrotic,TRUE,TRUE
+,,,
+Body Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Fire Magic,Fire,TRUE,TRUE
+Water Magic,"Suffocation, Slash, Bludgeon, Pierce",TRUE,TRUE
+Electricity Magic,Electric,TRUE,TRUE
+Earth Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Air Magic,"Slash, Bludgeon, Shockwave",TRUE,TRUE
+Cold Magic,Cold,FALSE,TRUE
+Nature Magic,"Slash, Bludgeon, Pierce",TRUE,TRUE
+Poison Magic,Poison,TRUE,TRUE
+Soul Magic,Spiritual,FALSE,TRUE
+Light Magic,Radiant,TRUE,TRUE
+Shadow Magic,Necrotic,TRUE,TRUE
+Mind Magic,Psychic,FALSE,TRUE
+Magnetic Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
+Sound Magic,Shockwave,FALSE,TRUE
+Blood Magic,Bleed,TRUE,TRUE
+Acid Magic,Acid,TRUE,TRUE
+Time Magic,,FALSE,TRUE
+Teleport Magic,,FALSE,TRUE
+Force Magic,"Slash, Bludgeon, Hew, Pierce",TRUE,TRUE
