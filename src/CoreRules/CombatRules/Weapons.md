@@ -129,6 +129,12 @@ The types of Damage a weapon inflicts when dealing injuries.
 | Arquebus |      +0d6      |      +2d6      |       None       |      5      |     Long     |   Extremely Slow   |                    | Arquebus Cartridge |         1         |                  |
 |  Musket  |      +0d6      |      +3d6      |       None       |      6      | Sharpshooter |   Painfully Slow   |                    |  Musket Cartridge  |         1         |                  |
 
+### Shotgun
+
+|             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
+| :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
+| 12 Gauge Pump-action Shotgun |      +1d6      |      +3d6      |       None       |      6      | Extended |        Swift        |                    | 12 Gauge Ammo |         1         |                  |
+
 ### Intermediate Cartridge Rifle
 
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |    Range    | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
@@ -136,12 +142,6 @@ The types of Damage a weapon inflicts when dealing injuries.
 | 5.56 Semi-automatic Rifle |      +1d6      |      +3d6      |       None       |      8      |   Extreme   |     Reach Swift     |                    |   5.56 Ammo   |         1         |                  |
 |     5.56 Burst Rifle     |      +2d6      |      +4d6      |       None       |      8      | Sharpshooter |     Reach Swift     |                    |   5.56 Ammo   |         3         |                  |
 |   5.56 Automatic Rifle   |      +2d6      |      +4d6      |       None       |      8      |   Distant   |        Rapid        |                    |   5.56 Ammo   |         6         |                  |
-
-### Shotgun
-
-|             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
-| :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |        Swift        |                    | 12 Gauge Ammo |         1         |                  |
 
 ### Marksman Rifle
 
@@ -155,7 +155,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |        Rapid        |                    |   5.56 Ammo   |        10        |                  |
+| 5.56 Machine Gun |       -2       |      +4d6      |       None       |      8      | Extreme |        Rapid        |                    |   5.56 Ammo   |        10        |                  |
 
 ### Launcher
 
