@@ -91,5 +91,5 @@ Musket,+0d6,+3d6,None,6,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium 
 ,,,,,,,,,,,,
 .308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Quick,,.308 Ammo,1,,Medium Guns,Marksman Rifle
 ,,,,,,,,,,,,
-5.56 Machine Gun,-2,+5d6,None,8,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun
+5.56 Machine Gun,-2,+4d6,None,8,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun
 RPG Launcher,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher

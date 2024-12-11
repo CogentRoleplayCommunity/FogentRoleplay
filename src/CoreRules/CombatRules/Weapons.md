@@ -155,7 +155,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |       Name       | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------: | :-------------: | :-------------: | :---------------: | :---------: | :-----: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 5.56 Machine Gun |       -2       |      +5d6      |       None       |      8      | Extreme |        Rapid        |                    |   5.56 Ammo   |        10        |                  |
+| 5.56 Machine Gun |       -2       |      +4d6      |       None       |      8      | Extreme |        Rapid        |                    |   5.56 Ammo   |        10        |                  |
 
 ### Launcher
 
