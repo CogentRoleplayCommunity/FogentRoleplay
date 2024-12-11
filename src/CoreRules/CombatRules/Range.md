@@ -1,8 +1,25 @@
 # Range
 
-Each Range represents a calculation which given the number of dice of a Weapon/Magic Skill Dice Pool calculates the Effective Range, Ineffective Range, and Max Range. Therefor, as a character's Weapon/Magic Skill improves, so does the range at which it can be used.
+Each Range represents a calculation which given the number of dice in a Skill Dice Pool calculates the Effective Range, Ineffective Range, and Max Range. Therefor, as a character's Weapon/Magic Skill improves, so does the range at which it can be used.
 
 Effective Range, Ineffective Range, and Max Range are usually represented on a character sheet in the "(Effective Range)/(Ineffective Range)/(Max Range)" format. For example, "100/200/400" translates to an Effective Range of 100 ft, an Ineffective Range of 200 ft, and a Max Range of 400 ft.
+
+## Range Types
+
+|     Name     | Effective Range Per Dice (ft) |
+| :----------: | :---------------------------: |
+|     Near     |             1.67             |
+|    Close    |              2.5              |
+|    Short    |             3.34             |
+|   Mediocre   |               5               |
+|    Medium    |              7.5              |
+|   Extended   |              10              |
+|     Far     |              15              |
+|     Long     |              20              |
+|   Distant   |              25              |
+| Sharpshooter |              30              |
+|   Extreme   |              35              |
+|    Sniper    |              50              |
 
 ## Effective Range
 
@@ -21,23 +38,6 @@ Past the Effective Range and up to the Ineffective Range, Disadvantage is gained
 Max Range is equal to quadruple your Effective Range. It is the maximum distance that can be targeted with the characters current skill.
 
 Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on Dice Pool the skill is being used in.
-
-## Range Types
-
-|     Name     | Effective Range Per Dice (ft) |
-| :----------: | :---------------------------: |
-|     Near     |             1.67             |
-|    Close    |              2.5              |
-|    Short    |             3.34             |
-|   Mediocre   |               5               |
-|    Medium    |              7.5              |
-|   Extended   |              10              |
-|     Far     |              15              |
-|     Long     |              20              |
-|   Distant   |              25              |
-| Sharpshooter |              30              |
-|   Extreme   |              35              |
-|    Sniper    |              50              |
 
 ## Effective Range Calulation Results by Skill Dice Pool Size
 
