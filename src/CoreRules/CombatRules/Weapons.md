@@ -117,7 +117,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 |           Name           | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :-----------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
 | 9mm Semi-automatic Pistol |      +2d6      |      None      |       +1d6       |      6      | Extended |     Reach Swift     |                    |    9mm Ammo    |         1         |                  |
-|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      |  Medium  |     Reach Swift     |                    |    9mm Ammo    |         3         |                  |
+|     9mm Burst Pistol     |      +3d6      |      None      |       +1d6       |      6      | Mediocre |     Reach Swift     |                    |    9mm Ammo    |         3         |                  |
 |   9mm Automatic Pistol   |      +3d6      |      None      |       +1d6       |      6      |  Short  |        Rapid        |                    |    9mm Ammo    |         6         |                  |
 
 ## Medium Guns
