@@ -1,11 +1,11 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,usesPerRound,areaOfEffect,resourceClass,resourceClassAmountPerShot,damageTypes,governingSkillName,hardcoreGoverningSkillName
-Hand Crossbow,+1d6,None,+1d6,1,Medium,Quick,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
+Hand Crossbow,+1d6,None,+1d6,1,Mediocre,Quick,,Light Bolt,1,,Hand Crossbow,Hand Crossbow
 Light Crossbow,None,+1d6,None,2,Far,Steady,,Light Bolt,1,,Light Crossbow,Light Crossbow
 Heavy Crossbow,None,+2d6,None,3,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow
 Light Bow,None,+1d6,None,1,Far,Swift,,Light Arrow,1,,Light Bow,Light Bow
 Heavy Bow,None,+2d6,None,3,Sharpshooter,Quick,,Heavy Arrow,1,,Heavy Bow,Heavy Bow
 Blowgun,+0d6,None,None,0,Mediocre,Quick,,Blowgun Dart,1,,Exotic Ranged,Blowgun
-Sling,+0d6,None,None,1,Medium,Quick,,Sling Bullet,1,,Exotic Ranged,Sling
+Sling,+0d6,None,None,1,Mediocre,Quick,,Sling Bullet,1,,Exotic Ranged,Sling
 ,,,,,,,,,,,,
 Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Slash,Close Melee,Small Blade
 Thrown Small Piercing Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Pierce,Close Melee,Small Blade
@@ -13,7 +13,7 @@ Thrown Small Hafted Axe,+0d6,None,+1d6,0,Short,Swift,,Self,1,Hew,Close Melee,Sma
 Thrown Small Hafted Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Slash,Close Melee,Small Hafted
 Thrown Small Hafted Point,+0d6,None,+1d6,0,Short,Swift,,Self,1,Pierce,Close Melee,Small Hafted
 Thrown Small Hafted Blunt,+0d6,None,+1d6,0,Short,Swift,,Self,1,Bludgeon,Close Melee,Small Hafted
-Thrown Medium Spear,+1d6,None,None,2,Medium,Quick,,Self,1,Pierce,Medium Melee,Medium Spear
+Thrown Medium Spear,+1d6,None,None,2,Mediocre,Quick,,Self,1,Pierce,Medium Melee,Medium Spear
 Thrown Large Spear,+1d6,None,None,3,Short,Quick,,Self,1,Pierce,Large Melee,Large Spear
 ,,,,,,,,,,,,
 Unarmed,-1,None,+0d6,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed
@@ -75,12 +75,12 @@ Large Slam,+0d6,None,+1d6,4,Melee,Swift,,None,,Bludgeon,Primal Melee,Slam
 ,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Primal Melee,Tentacle
 ,,,,,,,,,,,,
-Muzzleloading Pistol,+2d6,None,+1d6,4,Medium,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
+Muzzleloading Pistol,+2d6,None,+1d6,4,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun
 Arquebus,+0d6,+2d6,None,5,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 Musket,+0d6,+3d6,None,6,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun
 ,,,,,,,,,,,,
 9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol
-9mm Burst Pistol,+3d6,None,+1d6,6,Medium,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
+9mm Burst Pistol,+3d6,None,+1d6,6,Mediocre,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol
 9mm Automatic Pistol,+3d6,None,+1d6,6,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol
 ,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun,+1d6,+3d6,None,6,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun
