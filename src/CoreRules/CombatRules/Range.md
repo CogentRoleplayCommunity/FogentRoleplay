@@ -23,19 +23,25 @@ Effective Range, Ineffective Range, and Max Range are usually represented on a c
 
 ## Effective Range
 
-Effective Range is equal to the result of an Effective Range Calculation. It is the distance up to which you are effective.
+The distance up to which you are effective.
+
+Effective Range = (Effective Range Per Dice) * (Number of Skill Dice), rounded down to the nearest multipe of 5.
 
 From 0 ft up to the Effective Range, Disadvantage is NOT gained on Dice Pool the skill is being used in.
 
 ## Ineffective Range
 
-Ineffective Range is equal to double your Effective Range. It is the distance up to which your effectiveness is only partially degraded.
+It is the distance up to which your effectiveness is only partially degraded.
+
+Ineffective Range = (Effective Range) * 2.
 
 Past the Effective Range and up to the Ineffective Range, Disadvantage is gained on Dice Pool the skill is being used in.
 
 ## Max Range
 
-Max Range is equal to quadruple your Effective Range. It is the maximum distance that can be targeted with the characters current skill.
+It is the maximum distance that can be targeted with the characters current skill.
+
+Max Range = (Effective Range) * 4.
 
 Past the Ineffective Range up to the Max Range, Super Disadvantage is gained on Dice Pool the skill is being used in.
 
