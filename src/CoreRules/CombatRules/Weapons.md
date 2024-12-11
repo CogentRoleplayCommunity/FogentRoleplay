@@ -141,7 +141,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 |             Name             | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
 | :--------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-| 12 Gauge Pump-action Shotgun |      +1d6      |      +4d6      |       None       |      6      | Extended |        Swift        |                    | 12 Gauge Ammo |         1         |                  |
+| 12 Gauge Pump-action Shotgun |      +1d6      |      +3d6      |       None       |      6      | Extended |        Swift        |                    | 12 Gauge Ammo |         1         |                  |
 
 ### Marksman Rifle
 
