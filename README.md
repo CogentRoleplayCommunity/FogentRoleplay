@@ -35,6 +35,7 @@ YouTube: [Javk Wick Youtube Channel](https://www.youtube.com/channel/UCIozVe_NJI
 Fogent Roleplay is designed to be the narrative engine of your game, no matter the setting. Below are the current pre-made settings you can run Fogent Roleplay in. If none of these are to your liking you are encouraged to make your own setting!
 
 - [Fallen](./src/Settings/Fallen/Fallen.md) (Dark Fantasy)
+- [Firmament](./src/Settings/FlareOrFirmament/Firmament.md) (Space)
 - [Coming soon] Fracture (Post-Apocalypse)
 
 ## Core Rules
