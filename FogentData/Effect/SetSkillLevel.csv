@@ -1,0 +1,29 @@
+Name,Effect,Duration,Source,skillName,setLevel
+Super Perception,Perception set to level 5.,Indefinite,,Perception,5
+Apprentice Athletics,Athletics set to level 1.,Indefinite,,Athletics,1
+Adept Athletics,Athletics set to level 2.,Indefinite,,Athletics,2
+Expert Athletics,Athletics set to level 3.,Indefinite,,Athletics,3
+Apprentice Endurance,Endurance set to level 1.,Indefinite,,Endurance,1
+Adept Endurance,Endurance set to level 2.,Indefinite,,Endurance,2
+Expert Endurance,Endurance set to level 3.,Indefinite,,Endurance,3
+Apprentice Lift,Lift set to level 1.,Indefinite,,Lift,1
+Adept Lift,Lift set to level 2.,Indefinite,,Lift,2
+Expert Lift,Lift set to level 3.,Indefinite,,Lift,3
+Apprentice Dexterity,Dexterity set to level 1.,Indefinite,,Dexterity,1
+Adept Dexterity,Dexterity set to level 2.,Indefinite,,Dexterity,2
+Expert Dexterity,Dexterity set to level 3.,Indefinite,,Dexterity,3
+Apprentice Perception,Perception set to level 1.,Indefinite,,Perception,1
+Adept Perception,Perception set to level 2.,Indefinite,,Perception,2
+Expert Perception,Perception set to level 3.,Indefinite,,Perception,3
+Apprentice Stealth,Stealth set to level 1.,Indefinite,,Stealth,1
+Adept Stealth,Stealth set to level 2.,Indefinite,,Stealth,2
+Expert Stealth,Stealth set to level 3.,Indefinite,,Stealth,3
+Apprentice Communication,Communication set to level 1.,Indefinite,,Communication,1
+Adept Communication,Communication set to level 2.,Indefinite,,Communication,2
+Expert Communication,Communication set to level 3.,Indefinite,,Communication,3
+Apprentice General Knowledge,General Knowledge set to level 1.,Indefinite,,General Knowledge,1
+Adept General Knowledge,General Knowledge set to level 2.,Indefinite,,General Knowledge,2
+Expert General Knowledge,General Knowledge set to level 3.,Indefinite,,General Knowledge,3
+Apprentice Will,Will set to level 1.,Indefinite,,Will,1
+Adept Will,Will set to level 2.,Indefinite,,Will,2
+Expert Will,Will set to level 3.,Indefinite,,Will,3

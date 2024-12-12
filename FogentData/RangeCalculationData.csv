@@ -1,0 +1,13 @@
+name,effectiveRangePerDice
+Near,1.67
+Close,2.5
+Short,3.34
+Mediocre,5
+Medium,7.5
+Extended,10
+Far,15
+Long,20
+Distant,25
+Sharpshooter,30
+Extreme,35
+Sniper,50

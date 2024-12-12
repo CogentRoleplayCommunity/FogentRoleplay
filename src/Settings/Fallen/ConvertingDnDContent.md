@@ -11,16 +11,18 @@ Luckily the damage types line up very nicely with DnD damage types.
 
 * 1d6 environmental injuries -> Minor Injuries
 * 2d6 environmental injuries -> Medium Injuries
+* ect...
 
 ## DnD Spells to Fogent Spells
 
-| DnD Spell Level   | Fogent Skill Level   |
-| ----------------- | --------------------- |
-| Cantrip           | Novice (level 0)      |
-| 1st - 2nd Level | Apprentice (level 1) |
-| 3rd - 4th        | Adept (level 2)       |
-| 5th - 6th         | Expert (level 3)      |
-| 7th - 9th         | Master (level 4)      |
+| DnD Spell Level | Fogent Spell<br />Challenge Level |
+| --------------- | ---------------------------------- |
+| Cantrip         | 0                                  |
+| 1st - 2nd      | 1 - 2                              |
+| 3rd - 4th      | 3 - 4                              |
+| 5th - 6th       | 5 - 6                              |
+| 7th - 8th       | 7 - 8                              |
+| 9th             | 9                                  |
 
 ### DnD rarity to Fogent Item Tier
 

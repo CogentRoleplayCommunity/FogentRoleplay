@@ -76,4 +76,10 @@ A brace is a move purely to counter a charge. Character gains Advantage versus c
 
 Usually achieved by two or more characters with a Teamwork Vocation (Like Pack Hunter or Soldier) or the Communication Core Skill.
 
-When two or more allies make a melee combat roll against the same opponent, they can coordinate their attacks. If the assist is successful, one charater can attack and draw the opponents attention. While the main character draws attention and not incapacitated, the opponent gains the Off-Guard combat Modifier (Disadvantage) against allies attackin.
+When two or more attackers make a combat roll against the same opponent with at least one of them within 5 feet, they can make this collabrative assist roll. If successful, they can coordinate their attacks, gaining Advantage on their attack rolls.
+
+## Formation
+
+Usually achieved with a "Soldier" Vocation Assist or the Communication Core Skill.
+
+When two ore more allies are next to eachother, they can make a collabrative assist roll. If the assist is successful, then all characters within the formation gain Advantage to their Melee or Reach range combat rolls.
