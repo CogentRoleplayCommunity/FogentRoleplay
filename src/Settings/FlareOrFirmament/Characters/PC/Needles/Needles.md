@@ -6,7 +6,7 @@
 
 |  [STR](./../../../../../CoreRules/GeneralRules/Attributes.md#strength-str)  | 0 |    |    [RFX](./../../../../../CoreRules/GeneralRules/Attributes.md#reflex-rfx)    | 1 |    |        [INT](./../../../../../CoreRules/GeneralRules/Attributes.md#intelligence-int)        | 1 |    |
 | :-----------------------------------------------------------------------: | :-: | :-: | :-------------------------------------------------------------------------: | :-: | :-: | :---------------------------------------------------------------------------------------: | :-: | :-: |
-| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 1 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 6d6 |
+| [Athletics](./../../../../../CoreRules/GeneralRules/CoreSkills.md#athletics) | 1 | 4d6 |  [Dexterity](./../../../../../CoreRules/GeneralRules/CoreSkills.md#dexterity)  | 1 | 5d6 |     [Communication](./../../../../../CoreRules/GeneralRules/CoreSkills.md#communication)     | 1 | 5d6 |
 | [Endurance](./../../../../../CoreRules/GeneralRules/CoreSkills.md#endurance) | 1 | 4d6 | [Perception](./../../../../../CoreRules/GeneralRules/CoreSkills.md#perception) | 1 | 5d6 | [General Knowledge](./../../../../../CoreRules/GeneralRules/CoreSkills.md#general-knowledge) | 2 | 6d6 |
 |      [Lift](./../../../../../CoreRules/GeneralRules/CoreSkills.md#lift)      | 0 | 3d6 |    [Stealth](./../../../../../CoreRules/GeneralRules/CoreSkills.md#stealth)    | 0 | 4d6 |              [Will](./../../../../../CoreRules/GeneralRules/CoreSkills.md#will)              | 2 | 6d6 |
 
@@ -15,7 +15,7 @@
 |   Doctor   | STR, RFX, INT | 2 | 7d6 |
 | :---------: | :-----------: | :-: | :-: |
 |   Surgery   | STR, RFX, INT |  | 7d6 |
-| Small Melee | STR, RFX, INT | 2 | 5d6 |
+| Small Melee | STR, RFX, INT | 2 | 7d6 |
 
 ## Effects
 
@@ -98,3 +98,5 @@ Additional Details:
 ## Goals/Aspirations
 
 ## Backstory
+
+Lina is the ship’s medtech, but her true passion lies in an unexpected hobby: knitting. Whenever she’s not patching up crew members or administering meds, she’s knitting tiny, intricate plush creatures that she hides around the ship for others to find. Her calm demeanor under pressure is legendary, as she once calmly knitted through an emergency decompression event. However, don’t mistake her love of yarn for softness—when things go wrong, Lina’s the one stabilizing critical injuries while quoting terrifying survival statistics in a deadpan voice. She’s prepared for anything, and her bag of knitting supplies doubles as a first-aid kit.

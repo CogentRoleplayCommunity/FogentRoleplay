@@ -12,7 +12,7 @@
 
 ## [Vocations](./../../../../../CoreRules/GeneralRules/Vocations.md) and [Vocation Skills](./../../../../../CoreRules/GeneralRules/Vocations.md#vocation-skills)
 
-|  Security  | STR, RFX, INT | 2 | 4d6 |
+|  Security  | STR, RFX, INT | 2 | 7d6 |
 | :---------: | :-----------: | :-: | :-: |
 | Medium Guns | STR, RFX, INT | 2 | 7d6 |
 | Small Guns | STR, RFX, INT | 1 | 6d6 |
@@ -99,3 +99,5 @@ Additional Details:
 ## Goals/Aspirations
 
 ## Backstory
+
+Mason is the ship’s heavy-lifting specialist and a die-hard believer in luck. He never steps aboard without his lucky coin, avoids stepping on cracks, and has a ritual for everything—from opening airlocks to repairing equipment. His constant search for good omens gets on the nerves of his crewmates, but his strange rituals seem to keep him alive in the worst situations. Whenever something goes right in the midst of chaos, he swears it’s all due to his pre-mission “lucky dance.”
