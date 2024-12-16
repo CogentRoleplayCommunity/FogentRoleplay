@@ -1,4 +1,4 @@
-name,bottomPercent,topPercent,percentOfMovementSpeed,attributeDeterminedDiceModEffect
+name,bottomPercent,topPercent,percentOfMovementSpeed,attributeDiceModEffect
 Weight Class: Light,,0.25,1,Weight Class: Light
 Weight Class: Medium,0.25,0.5,0.8,Weight Class: Medium
 Weight Class: Heavy,0.5,1,0.5,Weight Class: Heavy
