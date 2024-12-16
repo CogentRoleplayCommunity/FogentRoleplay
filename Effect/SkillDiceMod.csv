@@ -1,4 +1,4 @@
-Name,Desc,Duration,Source," Dice Mod"," Skill"
+name,desc,duration,source,"diceMod","skillToEffect"
 Minorly Enhanced Blazecraft,+1d6 to Blazecraft.,Indefinite,,"+1d6","Blazecraft"
 Minorly Enhanced Knighthood,+1d6 to Knighthood.,Indefinite,,"+1d6","Knight"
 Minorly Enhanced Toxincraft,+1d6 to Toxincraft.,Indefinite,,"+1d6","Toxincraft"
