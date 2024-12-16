@@ -1,4 +1,4 @@
-name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,usesPerRound,areaOfEffect,magicResourceAmount
+name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,usesPerRound,areaOfEffectOption,magicResourceAmount
 Magic Glove,+0d6,None,+0d6,0,Melee,Swift,,0
 Magic Small Thrust,+0d6,None,+1d6,2,Melee,Swift,,0
 Magic Small Slash,+1d6,None,+1d6,0,Melee,Swift,,0
