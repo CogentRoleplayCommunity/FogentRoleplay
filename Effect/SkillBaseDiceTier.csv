@@ -1,16 +1,7 @@
-Name,Desc,Duration,Source,effectedDicePoolNames,baseDiceTier
-Excellent Nature Fellcraft Arcane Focus,"3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill.",Indefinite,,"Terracraft, Hydrocraft, Naturecraft, Galecraft",Excellent
-Fine Endurance Charm,"1d6, 2d8 base dice for Endurance skill.",Indefinite,,Endurance,Fine
+name,desc,duration,source,dicePoolNameToEffect,baseDiceTier
+Terracraft (+3),3d8 Base Dice for Terracraft.,,,Terracraft,3
+Hydrocraft (+3),3d8 Base Dice for Hydrocraft.,,,Hydrocraft,3
+Naturecraft (+3),3d8 Base Dice for Naturecraft.,,,Naturecraft,3
+Galecraft (+3),3d8 Base Dice for Galecraft.,,,Galecraft,3
 ,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Endurance (+2),"1d6, 2d8 base dice for Endurance skill.",,,Endurance,2
