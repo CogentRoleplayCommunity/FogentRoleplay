@@ -10,14 +10,54 @@ The two large categories are "Character Sheet Effects" and "Narrative Effects".
 
 "Character Sheet Effects" can essentially be thought of as effects that change something on your character sheet. For instance, if a character gains a Weapon, then they would also gain a new combat roll. If a character gained an Injury, then they'd have to recalculate many of there dice pools with the penalties from the Injuries.
 
-### Attribute Dice Mods
+### Attribute Dice Mod
 
 Adds or subtracts dice for dice pools if they governed by at least one of the Attributes specified.
 
 - [Injury](./../CombatRules/InjuryAndHealing.md#injury)
 - [Weight Classes](./../AdvancedRules/EquipmentCarryWeightAndWeightClasses.md#weight-classes)
 
-### Skill Dice Mods
+### Attribute Level Adjustment
+
+For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
+
+| Name         | Desc             | Duration   | Source |
+| ------------ | ---------------- | ---------- | ------ |
+| Enhanced STR | +1 to STR level. | Indefinite |        |
+
+### Defense
+
+See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
+
+### Set Attribute Level
+
+Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
+
+| Name           | Effect                   | Duration   | Source |
+| -------------- | ------------------------ | ---------- | ------ |
+| Super Strength | Strength set to level 4. | Indefinite |        |
+| Super Reflex   | Reflex set to level 4.   | Indefinite |        |
+
+### Set Skill Level
+
+Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
+
+| Name             | Effect                     | Duration   | Source |
+| ---------------- | -------------------------- | ---------- | ------ |
+| Super Perception | Perception set to level 5. | Indefinite |        |
+
+### Skill Base Dice Tier
+
+Sets the base dice of specific skills or vocations dice pools.
+
+For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dice Tiers also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
+
+| Name                                    | Desc                                                                       | Duration   | Source |
+| --------------------------------------- | -------------------------------------------------------------------------- | ---------- | ------ |
+| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
+| Fine Endurance Charm                    | 1d6, 2d8 base dice for Endurance skill.                                    | Indefinite |        |
+
+### Skill Dice Mod
 
 Adds or subtracts dice for specific skill or vocation dice pools.
 
@@ -55,31 +95,6 @@ Adds or subtracts dice for specific skill or vocation dice pools.
 | Greatly Enhanced Will              | +3d6 to Will.              | Indefinite |        |
 | Minorly Enhanced Medium Melee      | +1d6 to Medium Sword.      | Indefinite |        |
 
-### Set Attribute Level
-
-Sets a specified Attribute of a character to a new value. If the character's innate Attribute is greater than or equal to the new value, no change occurs.
-
-| Name           | Effect                   | Duration   | Source |
-| -------------- | ------------------------ | ---------- | ------ |
-| Super Strength | Strength set to level 4. | Indefinite |        |
-| Super Reflex   | Reflex set to level 4.   | Indefinite |        |
-
-### Set Skill Level
-
-Sets a specified Skill/Vocation of a character to a new value. If the character's innate Skill/Vocation is greater than or equal to the new value, no change occurs.
-
-| Name             | Effect                     | Duration   | Source |
-| ---------------- | -------------------------- | ---------- | ------ |
-| Super Perception | Perception set to level 5. | Indefinite |        |
-
-### Attribute Level Adjustment
-
-For a specified Attribute, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Attribute.
-
-| Name         | Desc             | Duration   | Source |
-| ------------ | ---------------- | ---------- | ------ |
-| Enhanced STR | +1 to STR level. | Indefinite |        |
-
 ### Skill Level Adjustment
 
 For a specified Skill/Vocation, a Character receives an adjustment to it's level. The resulting level can not go outside the upper and lower bounds for a Skill/Vocation.
@@ -88,17 +103,6 @@ For a specified Skill/Vocation, a Character receives an adjustment to it's level
 | ------------- | ----------------- | ---------- | ------ |
 | Enhanced Lift | +1 to Lift level. | Indefinite |        |
 
-### Skill Base Dice Tier
-
-Sets the base dice of specific skills or vocations dice pools.
-
-For instance, if a Mundane Fire Magic Spellcasting Focus is used, all uses of the Fire Magic Skill have 3d6. With a Excellent Fire Magic Spellcasting Focus, all uses of the Fire magic Skill have 3d8 instead. Base Dice Tiers also apply to tools/gear used in skill rolls (high-quality climbing equipment for use with Athletics), and is meant to apply both in and out of combat.
-
-| Name                                    | Desc                                                                       | Duration   | Source |
-| --------------------------------------- | -------------------------------------------------------------------------- | ---------- | ------ |
-| Excellent Nature Fellcraft Arcane Focus | 3d8 base dice for Terracraft, Hydrocraft, Naturecraft and Galecraft skill. | Indefinite |        |
-| Fine Endurance Charm                    | 1d6, 2d8 base dice for Endurance skill.                                    | Indefinite |        |
-
 ### Weapons
 
 See [Weapons](./src/CoreRules/CombatRules/Weapons.md) for more information.
@@ -106,10 +110,6 @@ See [Weapons](./src/CoreRules/CombatRules/Weapons.md) for more information.
 ### Ammunitions
 
 See [Ammunitions](./src/CoreRules/CombatRules/Ammunitions.md) for more information.
-
-### Defense
-
-See [Defense](./src/CoreRules/CombatRules/Defense.md) for more information.
 
 ## Narrative Effects
 
