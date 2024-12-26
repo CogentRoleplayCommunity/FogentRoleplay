@@ -33,3 +33,29 @@
 - What are your squirley responsabilities to Flint
   - What kinda training will he give you
   - Flint burns all the liquor before leaving Reddwall.
+
+# Threads session 2
+
+- Uhtred
+  - [Not mine] How has the resserection changed him?
+  - What do the visions mean and his heritiage?
+  - Relationship with the Reddingtons. Feels like he people are hiding secrets from him and using him.
+  - Relationship Octaviana, Dawn, Luc.
+- Destin
+  - Where is his family?
+  - Why did Charlotte say the Demon was her brother?
+  - Victor Blackthorn still has a vendetta against Destin's family.
+- Octavian
+  - Wants to support Uhtred's rise to title of Princep. Believes that Luc isn't stable.
+  - Wants to eliminate anyone that could spread the word of Uhtred's Heritage.
+  - Wants to steal the sword away from Destin for containment.
+- Lance
+  - He made a deal with demons for powers, minions, and knowledge.
+  - He hates Flint for being his bastard father. He attributes all the hardships of his life to his abadonment of him and his mother.
+  - He had made a deal Octavian to kidnap Luc in exchange for his mother's safe return. Octavain installed Lance to destabilize the region for the emporer, only changing his plans once he learned of Uhtred.
+- The Demons
+- The Siege of Irongrove
+  - 5 hours
+  - The town of Irongrove
+- The Victory Feast
+  - 2 hours
