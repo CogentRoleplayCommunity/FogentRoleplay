@@ -27,19 +27,19 @@ RFX speed can be used to resolve circumstances when it is unclear which opponent
 
 ### Example 1
 
-A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
+A rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance, attack with the knife, and stay on the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, closing the distance. Now they will make combat rolls versus one another, with the archer being at a clear disadvantage.
 
 The archer, now likely wounded from the rogue knife, tries to use the rest of his movement speed to stay away from the rogue's knife range. However, the gap between the rogue and the archer is 0 feet as the rogue stays on the archer, assuming he has the same or greater remaining movement speed as the archer, ready to stab him again next round.
 
 ### Example 2
 
-A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
+A rogue with a dagger is trying to close the distance on an archer who is 15 feet away. The rogue has a 1 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the Rogue has a higher reflex, he can move 10 feet with his RFX Speed before the archer can lose the arrow, not entirely able to close the gap. With 5 feet between the rogue and the archer, the arrow is shot. The Rogue must now try and dodge the arrow, before he can attack, possibly proving fatal.
 
 The archer is then able to flee backward, keeping the 5 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
 
 ### Example 3
 
-A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow as he uses his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
+A crappy rogue with a dagger is trying to close the distance on an archer who is 10 feet away. The rogue has a 0 in RFX and the archer has a 0 in RFX. The archer declares he is going to shoot the rogue with his bow and use his movement speed to stay out of range of the knife. The rogue declares he is going to close the distance and stab the archer, which will be disadvantageous for the archer since melee versus ranged combat in close quarters favors melee attacks. Since the rogue has the same RFX as the archer, he is slow to get into motion, which gives the archer time to lose his arrow as he also begins moving. The Rogue must now try and dodge the arrow, possibly proving fatal.
 
 The archer is then able to flee backward as the rogue chases, keeping the 10 feet of distance between him and the rogue, never getting stabbed, assuming he has the same or greater remaining movement speed as the rogue.
 
@@ -61,7 +61,7 @@ Steep mountains, ice-covered ground, swamps, etc. are difficult terrain. It take
 
 When riding a mount in combat:
 
-- The rider's Dexterity core Skill or Riding Vocational Skill level is used in place of the mount's governing skill level for determining the governing skill dice pool size, capped by the mount's governing skill level.
+- The rider's Dexterity skill level is used in place of the mount's governing skill level for determining the governing skill dice pool size, capped by the mount's governing skill level.
 - The rider's RFX level is used in place of the mount's RFX, capped by the mount's RFX level.
 
-Additionally, when a mounted character or their mount takes an injury in combat, an Dexterity or Riding check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
+Additionally, when a mounted character or their mount takes an injury in combat, an Acrobatic check equivalent to the injury level must be succeeded to stay on horseback, or else they are knocked off.
