@@ -1,6 +1,11 @@
 skillName,governingAttributes
-Crossbow,"STR, RFX, INT"
-Bow,"STR, RFX, INT"
+Hand Crossbow,"STR, RFX, INT"
+Light Crossbow,"STR, RFX, INT"
+Heavy Crossbow,"STR, RFX, INT"
+,
+Light Bow,"STR, RFX, INT"
+Heavy Bow,"STR, RFX, INT"
+,
 Exotic Ranged,"STR, RFX, INT"
 ,
 Close Melee,"STR, RFX, INT"
