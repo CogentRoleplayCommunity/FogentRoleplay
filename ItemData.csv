@@ -421,7 +421,7 @@ Abacus,1,,2,2 bc,,,Mundane
 Barrel,1,,70,2 bc,,,Mundane
 "Bottle, glass",1,,2,2 bc,,,Mundane
 Bucket,1,,2,5 bc,,,Mundane
-Chest,300 lb container,,25,5 bc,,,Mundane
+Chest,1,300 lb container,25,5 bc,,,Mundane
 "Clothes, Common",1,,3,50 cc,,,Mundane
 "Clothes, Fine",1,,6,15 bc,,,Mundane
 Royal Morraki Attire/Cloak,1,,6,15 bc,,,Mundane
@@ -433,7 +433,7 @@ Ladder (10-foot),1,,25,10 cc,,,Mundane
 String (10 feet),1,,0,1 cc,,,Mundane
 Mess Kit,1,,1,20 cc,,,Mundane
 "Pot, Iron",1,,10,2 bc,,,Mundane
-Pouch,6 lb container,,1,50 cc,,,Mundane
+Pouch,1,6 lb container,1,50 cc,,,Mundane
 "Rope, Hempen (50 feet)",1,,10,1 bc,,,Mundane
 "Rope, Silk (50 feet)",1,,5,10 bc,,,Mundane
 Sack,1,,0.5,1 cc,,,Mundane
@@ -449,7 +449,7 @@ Potter's Tools,1,,3,10 bc,,,Mundane
 Smith's Tools,1,,8,20 bc,,,Mundane
 Weaver's Tools,1,,5,1 bc,,,Mundane
 Woodcarver's Tools,1,,5,1 bc,,,Mundane
-Backpack,30 lb container,,5,2 bc,,,Mundane
+Backpack,1,30 lb container,5,2 bc,,,Mundane
 Bedroll,1,,7,1 bc,,,Mundane
 Block and Tackle,1,,5,1 bc,,,Mundane
 Chain (10 feet),1,,10,5 bc,,,Mundane
@@ -486,8 +486,8 @@ Orb,1,Spellcasting Focus,3,20 bc,,,Mundane
 Rod,1,Spellcasting Focus,2,10 bc,,,Mundane
 Staff,1,"Spellcasting Focus, Large Hafted Blunt",4,5 bc,,,Mundane
 Wand,1,Spellcasting Focus,1,10 bc,,,Quality
-Satchel,12 lb container,,2,1 bc,,,Mundane
-Component Pouch,12 lb container,,2,25 bc,,,Mundane
+Satchel,1,12 lb container,2,1 bc,,,Mundane
+Component Pouch,1,12 lb container,2,25 bc,,,Mundane
 Spellbook,1,Spellcasting Focus,3,50 bc,,,Quality
 Runebook,1,Spellcasting Focus,3,50 bc,,,Quality
 Fishing Tackle,1,,4,1 bc,,,Mundane
@@ -515,7 +515,7 @@ Saddle - Exotic,1,,40,60 bc,,,Mundane
 Saddle - Military,1,,30,20 bc,,,Mundane
 Saddle - Pack,1,,15,5 bc,,,Mundane
 Saddle - Riding,1,,25,10 bc,,,Mundane
-Saddlebags,50 lb container,,8,4 bc,,,Mundane
+Saddlebags,1,50 lb container,8,4 bc,,,Mundane
 "Amulet/Necklace, Exquisite",1,,0.2,5 bc,,,Mundane
 "Amulet/Necklace, Mundane",1,,0.2,50 cc,,,Mundane
 "Earrings, Exquisite",1,,0.1,4 bc,,,Mundane
@@ -686,7 +686,7 @@ Salt (½ Ounce),1,,0.03,6 cc,,,Mundane
 Specialty Spice (½ Ounce),1,,0.03,20 cc,,,Mundane
 Bandolier,1,,0.5,8 bc,,,Mundane
 Belt,1,,0.5,2 bc,,,Mundane
-“Better” Backpack,35 lb container,,5,4 bc,,,Mundane
+“Better” Backpack,1,35 lb container,5,4 bc,,,Mundane
 Blouse,1,,0.5,1 bc,,,Mundane
 Breeches,1,,1,1 bc,,,Mundane
 Boots,1,,1,4 bc,,,Mundane
