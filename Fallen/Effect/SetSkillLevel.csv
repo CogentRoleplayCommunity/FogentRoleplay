@@ -1,4 +1,4 @@
-Name,Effect,Duration,Source,skillName,setLevel
+name,desc,duration,source,skillToEffect,level
 Super Perception,Perception set to level 5.,Indefinite,,Perception,5
 Apprentice Athletics,Athletics set to level 1.,Indefinite,,Athletics,1
 Adept Athletics,Athletics set to level 2.,Indefinite,,Athletics,2
