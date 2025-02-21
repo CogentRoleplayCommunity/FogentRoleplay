@@ -1,5 +1,5 @@
 name,desc,duration,source,defenseType,amount
-Phy. Def. 0.33,,,,Physical,0.33
+Phy. Def. 0.33,Physical Defense +0.33,,,Physical,0.33
 Phy. Def. 0.34,,,,Physical,0.34
 Phy. Def. 0.375,,,,Physical,0.375
 Phy. Def. 0.38,,,,Physical,0.38
