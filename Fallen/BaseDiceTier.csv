@@ -1,11 +1,11 @@
 level,baseDice,itemPrefix,itemDurabilityMax
 -4,0d6,Broken,0
 -3,3d4,Compromised,3
--2,"2d4, 1d6",Damaged,6
--1,"1d4, 2d6",Shoddy,9
+-2,"1d6, 2d4",Damaged,6
+-1,"2d6, 1d4",Shoddy,9
 0,3d6,Mundane,12
-1,"2d6, 1d8",Quality,15
-2,"1d6, 2d8",Fine,18
+1,"1d8, 2d6",Quality,15
+2,"2d8, 1d6",Fine,18
 3,3d8,Excellent,21
 4,"1d10, 2d8",Superior,24
 5,"2d10, 1d8",Exquisite,27
