@@ -1,4 +1,4 @@
-name,desc,duration,source,dicePoolNameToEffect,baseDiceTier
+name,desc,duration,source,dicePoolNamesToEffect,baseDiceTier
 Terracraft (+3),3d8 Base Dice for Terracraft.,Indefinite,Innate,Terracraft,3
 Hydrocraft (+3),3d8 Base Dice for Hydrocraft.,Indefinite,Innate,Hydrocraft,3
 Naturecraft (+3),3d8 Base Dice for Naturecraft.,Indefinite,Innate,Naturecraft,3
