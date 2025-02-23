@@ -1,0 +1,5 @@
+name,bottomPercent,topPercent,percentOfMovementSpeed,attributeDiceModEffect
+Light,,0.25,1,Weight Class: Light
+Medium,0.25,0.5,0.8,Weight Class: Medium
+Heavy,0.5,1,0.5,Weight Class: Heavy
+Overburdened,1,,0,Weight Class: Overburdened

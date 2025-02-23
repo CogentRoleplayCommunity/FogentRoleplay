@@ -1,0 +1,18 @@
+level,baseDice,itemPrefix,itemDurabilityMax
+-4,0d6,Broken,0
+-3,3d4,Compromised,3
+-2,"1d6, 2d4",Damaged,6
+-1,"2d6, 1d4",Shoddy,9
+0,3d6,Mundane,12
+1,"1d8, 2d6",Quality,15
+2,"2d8, 1d6",Fine,18
+3,3d8,Excellent,21
+4,"1d10, 2d8",Superior,24
+5,"2d10, 1d8",Exquisite,27
+6,3d10,Flawless,30
+7,"1d12, 2d10",Mastercraft,33
+8,"2d12, 1d10",Fabled,36
+9,3d12,Epic,39
+10,"1d20, 2d12",Legendary,42
+11,"2d20, 1d12",Mythic,45
+12,3d20,Artifact,48

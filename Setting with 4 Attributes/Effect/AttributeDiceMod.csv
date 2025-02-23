@@ -1,0 +1,11 @@
+name,desc,duration,source,attributesToEffect,dicePoolMod
+Minor Injury,"-1d to STR/RFX/INT governed Dice Pools. Will naturally heal over the next few days, or faster if treated actively.",Days if untreated,Source of Injury,"STR, RFX, INT",-1
+Medium Injury,-2d to STR/RFX/INT governed Dice Pools. Must be treated relatively soon otherwise further penalties may apply such as infection.,Weeks if untreated,Source of Injury,"STR, RFX, INT",-2
+Serious Injury,-3d to STR/RFX/INT governed Dice Pools.  The character will die in time if the wound is untreated.,Months if untreated,Source of Injury,"STR, RFX, INT",-3
+Fatal Injury,-4d to STR/RFX/INT governed Dice Pools. Gains the Incapacitated condition and will die very soon if untreated.,Indefinite if untreated,Source of Injury,"STR, RFX, INT",-4
+Death Blow Injury,-5d to STR/RFX/INT governed Dice Pools. Instantly killed.,Indefinite,Source of Injury,"STR, RFX, INT",-5
+,,,,,
+Weight Class: Light,-0d to STR/RFX governed Dice Pools,Indefinite,0% =< Equipment Weight <= 25% of Carry Weight,"STR, RFX",-0
+Weight Class: Medium,-1d to STR/RFX governed Dice Pools,Indefinite,25% < Equipment Weight <= 50% of Carry Weight,"STR, RFX",-1
+Weight Class: Heavy,-2d to STR/RFX governed Dice Pools,Indefinite,50% < Equipment Weight <= 100% of Carry Weight,"STR, RFX",-2
+Weight Class: Overburdened,-4d to STR/RFX governed Dice Pools,Indefinite,100% < Equipment Weight of Carry Weight,"STR, RFX",-4
