@@ -1,4 +1,20 @@
 name,quantity,itemEffects,weight,value,description,durability,oldItemTier
+Glock 17,1,9mm Semi-automatic Pistol,2,?,,,
+Beretta 93R,1,"9mm Semi-automatic Pistol, 9mm Burst Pistol",2.5,?,,,
+Glock 18,1,"9mm Semi-automatic Pistol, 9mm Automatic Pistol",2.5,?,,,
+Remington 870,1,12 Gauge Pump-action Shotgun,7.5,?,,,
+AR-15,1,5.56 Semi-automatic Rifle,6.5,?,,,
+M16A2,1,"5.56 Semi-automatic Rifle, 5.56 Burst Rifle, 5.56 Automatic Rifle",7.5,?,,,
+Remington M700,1,.308 Bolt Action Rifle,9,?,,,
+M249,1,5.56 Machine Gun,17,?,,,
+RPG 7,1,RPG Launcher,15,?,,,
+,,,,,,,
+9mm FMJ Ammo,1,9mm FMJ Ammo,0.016,?,,,
+12 Gauge Buckshot Ammo,1,12 Gauge Buckshot Ammo,0.05,?,,,
+5.56 FMJ Ammo,1,5.56 FMJ Ammo,0.02,?,,,
+.308 FMJ Ammo,1,.308 FMJ Ammo,0.031,?,,,
+RPG Ammo,1,RPG Ammo,4,?,,,
+,,,,,,,
 Cuneiform Tablets,1,Spellcasting Focus,0.1,1 cc,,,Mundane
 Petty Brightstone,1,Light Storage,0.1,?,"Brightstone is a rare gem that can hold light. The only place it can be found is near Crossroads, where it is said that Bright Lord fell after taking a hit from Amon during the Great Betrayal. The finer and more precisely the gem is cut the more light it can hold.",,Excellent
 Mechanical Heart,1,"Phenomena Detection, Forbidden Whispers",1,?,"""With this Heart, I will hear many secrets…"" - Unknown
