@@ -1,4 +1,6 @@
 name,desc,duration,source
+Level,1,Indefinite,Player Character
+,,,
 Spellcasting Focus,Acts as a Spellcasting Focus for spells.,Indefinite,Innate
 Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.,Indefinite,Innate
 Life Leech,Sneak attacks trigger an Minor Heal to self.,Indefinite,Innate

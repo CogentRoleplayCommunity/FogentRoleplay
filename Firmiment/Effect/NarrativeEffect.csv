@@ -1,4 +1,6 @@
 name,desc,duration,source
+Level,1,Indefinite,Player Character
+,,,
 Spellcasting Focus,Acts as a Spellcasting Focus for spells.,Indefinite,Innate
 Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.,Indefinite,Innate
 Life Leech,Sneak attacks trigger an Minor Heal to self.,Indefinite,Innate
@@ -71,6 +73,7 @@ Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
 Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
 Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
 ,,,
+Disabling: Dark Humor,Feels the need to make dark jokes no matter the circumstance.,Indefinite,Backstory
 Disabling: Amnesia,Character is missing a large portion of their past.,Indefinite,Backstory
 Disabling: Missing bodily extremity/limb,STR and RFX dice penalties when performing tasks requiring 2 hands.,Indefinite,Backstory
 Disabling: Feeble,STR is set to -1,Indefinite,Backstory
