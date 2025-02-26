@@ -1,4 +1,13 @@
 name,quantity,itemEffects,weight,value,description,durability,oldItemTier
+Engineering Multi-tool,1,"Fine Muzzleloading Pistol, Repair Base Dice Tier Adjustment (+2)",3,?,,,
+Muzzleloading Pistol,1,Muzzleloading Pistol,3,?,,,
+Arquebus,1,Arquebus,7,?,,,
+Musket,1,Musket,10,?,,,
+,,,,,,,
+Standard Muzzleloading Pistol Cartridge,1,Standard Muzzleloading Pistol Cartridge,0.0275,?,,,
+Standard Arquebus Cartridge,1,Standard Arquebus Cartridge,0.0275,?,,,
+Standard Musket Cartridge,1,Standard Musket Cartridge,0.0275,?,,,
+,,,,,,,
 Glock 17,1,9mm Semi-automatic Pistol,2,?,,,
 Beretta 93R,1,"9mm Semi-automatic Pistol, 9mm Burst Pistol",2.5,?,,,
 Glock 18,1,"9mm Semi-automatic Pistol, 9mm Automatic Pistol",2.5,?,,,
