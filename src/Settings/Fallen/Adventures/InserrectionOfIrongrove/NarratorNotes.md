@@ -54,7 +54,7 @@
   - He hates Flint for being his bastard father. He attributes all the hardships of his life to his abadonment of him and his mother.
   - He had made a deal Octavian to kidnap Luc in exchange for his mother's safe return. Octavain installed Lance to destabilize the region for the emporer, only changing his plans once he learned of Uhtred.
 - The Demons
-  - The want Luc to remember what he actually is
+  - They want Luc to remember what he actually is
 - The Siege of Irongrove
   - 5 hours
   - The town of Irongrove
