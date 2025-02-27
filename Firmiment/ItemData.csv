@@ -1,4 +1,9 @@
 name,quantity,itemEffects,weight,value,description,durability,oldItemTier
+Engineering Suit,1,"Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 4.00",12,10 bc,,15/15,Quality
+Security Suit,1,"Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 5.00",12,10 bc,,15/15,Quality
+Advanced Suit,1,"Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 6.00",12,10 bc,,15/15,Quality
+Soldier Suit,1,"Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 7.00",12,10 bc,,15/15,Quality
+,,,,,,,
 Engineering Multi-tool,1,"Fine Muzzleloading Pistol, Repair Base Dice Tier Adjustment (+2)",3,?,,,
 Muzzleloading Pistol,1,Muzzleloading Pistol,3,?,,,
 Arquebus,1,Arquebus,7,?,,,
