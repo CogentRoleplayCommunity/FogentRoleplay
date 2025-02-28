@@ -2,6 +2,20 @@
 
 Vocations represent your character's job, class, or life path. You should check with your Narrator to make sure that your Vocation exists in the setting. Some traditional fantasy examples Vocations are Rogue, Knight, Wizard, Paladin, Cleric, etc... Other examples include Vagrant, Chef, or Sailor. Each vocation has one or many Governing Attributes that logically would govern it.
 
+## Vocation Level
+
+Vocation Level measures how good a character is at a specific vocation. Vocation Level ranges from level -1 to level 5.
+
+| Level | Narrative Meaning |                                                   Description                                                   |
+| :---: | :---------------: | :-------------------------------------------------------------------------------------------------------------: |
+|  -1  |    Incompetent    |                                         Incompetent level of vocation.                                         |
+|   0   |      Novice      |                                        Inexperienced level of vocation.                                        |
+|   1   |    Apprentice    |                                          The basics have been learned.                                          |
+|   2   |       Adept       |             The basics have been fully understood and the more advanced concepts are being learned.             |
+|   3   |      Expert      |     Advanced concepts have been fully understood and master level concepts are beginning to be introduced.     |
+|   4   |      Master      | Master level of proficiency has been achieved. Character would be well know in local region for their vocation. |
+|   5   |     Legendary     |    Legendary level of proficiency has been achieved. Character would be a living legend for their vocation.    |
+
 ## Vocation Skills
 
 All skills under a Vocation have their levels capped by the Vocation's level. For instance, if a character had a level 2 Vocation, any skill under it couldn't increase above 2, until its Vocation level increased.
