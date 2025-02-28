@@ -2,7 +2,7 @@
 
 Skills represent the proficiency of certain tasks a character can perform.
 
-## Skill Levels
+## Skill Level
 
 Skill Level measures how good a character is at a specific skill. Skill Level ranges from level -1 to level 5.
 
