@@ -12,6 +12,7 @@ Magic Resource Pool = Vocation Magic Resource + Magic Governing Core Skill Magic
 
 Vocation Magic Resource = Vocation Level * Vocation Dice Pool Size
 
+- If a Vocation's level is -1, then use 0.0 for the Vocation Level variable in the calculation above and round down to the nearest whole number.
 - If a Vocation's level is 0, then use 0.5 for the Vocation Level variable in the calculation above and round down to the nearest whole number.
 
 #### Vocation Magic Resource Examples
