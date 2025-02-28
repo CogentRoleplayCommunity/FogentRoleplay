@@ -38,16 +38,16 @@ It is smart to write down Vocational Skills under your vocation as a reminder to
 
 #### Vocational Skills Examples
 
-Below are some example of Vocational Skills for certain Vocations with examples of the sequence of Core Skills that would be used if a character didn't have the Vocational Skill in question.
+Below are some example of Vocational Skills for certain Vocations with examples of the sequence of Core Skills that would be used if a character didn't have the Vocational Skill in question. Based off what Core Skills a character would've had to performed, you can usually infer what Governing Attributes the Vocational Skill will have.
 
-|  Vocation  |                                                       Vocational Skills Examples                                                       |
-| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |
-|   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |
-|    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) |
-| Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |
-|    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |
-| Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |
+|  Vocation  |                                                       Vocational Skills Examples                                                       |                    Governing Attributes for Vocation Skills Example                    |
+| :---------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+|   Ranger   |                          Tracking (Perception and General Knowledge), Wilderness Survival (General Knowledge)                          |                   Tracking (RFX and INT), Wilderness Survival (INT)                   |
+|   Wizard   |                        Arcane Knowledge (General Knowledge), Rune Inscribing (General Knowledge and Dexterity)                        |                 Arcane Knowledge (INT), Rune Inscribing (INT and RFX)                 |
+|    Thief    | Heist Planning (Stealth and General Knowledge), Lock Picking (General Knowledge and Dexterity), Pickpocketing (Stealth and Dexterity) | Heist Planning (RFX and General INT), Lock Picking (INT and RFX), Pickpocketing (RFX) |
+| Necromancer |                                                 Seance Ritual (Communication and Will)                                                 |                                  Seance Ritual (INT)                                  |
+|    Baker    |                                                Baking (Dexterity and General Knowledge)                                                |                                  Baking (RFX and INT)                                  |
+| Black Smith |                                            Forging (Lift, Dexterity, and General Knowledge)                                            |                                Forging (STR, RFX, INT)                                |
 
 ## Example Vocation
 
