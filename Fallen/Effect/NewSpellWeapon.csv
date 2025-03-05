@@ -1,6 +1,7 @@
 name,magicResourceAmount,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,desc,duration,source
 Magic Dart,0,One-handed,+0d6,0,Short,Swift,,Weapon for Combat Rolls.,Indefinite,Innate
 Magic Dart,0,Dual-wielded,+1d6,0,Short,Swift,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,
 Magic Sling,0,Two-handed,+0d6,0,Mediocre,Quick,,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
 Magic Javelin,1,One-handed,+1d6,1,Mediocre,Quick,,Weapon for Combat Rolls.,Indefinite,Innate
