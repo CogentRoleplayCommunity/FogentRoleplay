@@ -135,5 +135,5 @@ Musket,TWO,+3d6,1,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,M
 5.56 Machine Gun,ONE,-2,3,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate
 5.56 Machine Gun,TWO,+4d6,3,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-RPG Launcher,ONE,-2,7,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
-RPG Launcher,TWO,+6d6,7,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
+RPG Launcher,ONE,-2,6,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
+RPG Launcher,TWO,+6d6,6,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
