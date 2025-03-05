@@ -1,59 +1,103 @@
 name,oneHandedWeaponDice,twoHandedWeaponDice,dualWieldableBonus,penetration,range,usesPerRound,areaOfEffect,ammoType,ammoPerUse,damageTypes,governingSkillName,hardcoreGoverningSkillName,desc,duration,source
-Hand Crossbow,+1d6,None,+1d6,1,Mediocre,Quick,,Light Bolt,1,,Hand Crossbow,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
-Light Crossbow,None,+1d6,None,2,Far,Steady,,Light Bolt,1,,Light Crossbow,Light Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
-Heavy Crossbow,None,+2d6,None,3,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
-Light Bow,None,+1d6,None,1,Far,Swift,,Light Arrow,1,,Light Bow,Light Bow,Weapon for Combat Rolls.,Indefinite,Innate
-Heavy Bow,None,+2d6,None,3,Sharpshooter,Quick,,Heavy Arrow,1,,Heavy Bow,Heavy Bow,Weapon for Combat Rolls.,Indefinite,Innate
-Blowgun,+0d6,None,None,0,Mediocre,Quick,,Blowgun Dart,1,,Exotic Ranged,Blowgun,Weapon for Combat Rolls.,Indefinite,Innate
-Sling,+0d6,None,None,1,Mediocre,Quick,,Sling Bullet,1,,Exotic Ranged,Sling,Weapon for Combat Rolls.,Indefinite,Innate
+Hand Crossbow,ONE,+1d6,,0,Mediocre,Quick,,Light Bolt,1,,Hand Crossbow,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+Hand Crossbow,DUAL,+2d6,,0,Mediocre,Quick,,Light Bolt,2,,Hand Crossbow,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Thrown Small Slashing Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Slash,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Piercing Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Pierce,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Hafted Axe,+0d6,None,+1d6,0,Short,Swift,,Self,1,Hew,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Hafted Blade,+0d6,None,+1d6,0,Short,Swift,,Self,1,Slash,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Hafted Point,+0d6,None,+1d6,0,Short,Swift,,Self,1,Pierce,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Hafted Blunt,+0d6,None,+1d6,0,Short,Swift,,Self,1,Bludgeon,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Medium Spear,+1d6,None,None,2,Mediocre,Quick,,Self,1,Pierce,Medium Melee,Medium Spear,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Large Spear,+1d6,None,None,3,Short,Quick,,Self,1,Pierce,Large Melee,Large Spear,Weapon for Combat Rolls.,Indefinite,Innate
+Light Crossbow,TWO,+1d6,,1,Far,Steady,,Light Bolt,1,,Light Crossbow,Light Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Unarmed,-1,None,+0d6,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed,Weapon for Combat Rolls.,Indefinite,Innate
-Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed,Weapon for Combat Rolls.,Indefinite,Innate
-Spiked Hand Protection Unarmed,+0d6,None,+0d6,0,Melee,Swift,,None,,Pierce,Close Melee,Unarmed,Weapon for Combat Rolls.,Indefinite,Innate
+Heavy Crossbow,TWO,+2d6,,2,Long,Extremely Slow,,Heavy Bolt,1,,Heavy Crossbow,Heavy Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Small Hafted Axe,+1d6,None,+1d6,0,Melee,Swift,,None,,Hew,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Small Hafted Blade,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Small Hafted Point,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Small Hafted Blunt,+0d6,None,+1d6,2,Melee,Swift,,None,,Bludgeon,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Torch,+0d6,None,+1d6,2,Melee,Swift,,None,,"Bludgeon, Fire",Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Small Piercing Blade,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
-Small Slashing Blade,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
+Light Bow,TWO,+1d6,,0,Far,Swift,,Light Arrow,1,,Light Bow,Light Bow,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Medium Hafted Axe,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Hew,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Hafted Blade,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Hafted Point,+1d6,+2d6,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Hafted Blunt,+0d6,+1d6,+1d6,4,Melee,Swift,,None,,Bludgeon,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Thrusting Sword,+1d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Slashing Sword,+2d6,None,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Versatile Thrusting Sword,+1d6,+2d6,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Versatile Slashing Sword,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Medium Spear,+2d6,None,+1d6,2,Melee,Quick,,None,,Pierce,Medium Melee,Medium Spear,Weapon for Combat Rolls.,Indefinite,Innate
+Heavy Bow,TWO,+2d6,,2,Sharpshooter,Quick,,Heavy Arrow,1,,Heavy Bow,Heavy Bow,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Large Hafted Axe,+1d6,+3d6,None,2,Melee,Swift,,None,,Hew,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Large Hafted Blade,+1d6,+3d6,None,2,Melee,Swift,,None,,Slash,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Large Hafted Point,+0d6,+2d6,None,3,Melee,Swift,,None,,Pierce,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Large Hafted Blunt,-1,+1d6,None,5,Melee,Swift,,None,,Bludgeon,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Large Thrusting Sword,+0d6,+2d6,None,3,Melee,Swift,,None,,Pierce,Large Melee,Large Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Large Slashing Sword,+1d6,+3d6,None,2,Melee,Swift,,None,,Slash,Large Melee,Large Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Large Spear,+2d6,+3d6,None,3,Melee,Quick,,None,,Pierce,Large Melee,Large Spear,Weapon for Combat Rolls.,Indefinite,Innate
+Blowgun,TWO,+0d6,,0,Mediocre,Quick,,Blowgun Dart,1,,Exotic Ranged,Blowgun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Reach Hafted Axe,-2,+4d6,None,3,Reach,Reach Swift,,None,,Hew,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Hafted Blade,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Hafted Point,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Hafted Blunt,-2,+2d6,None,5,Reach,Reach Swift,,None,,Bludgeon,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Thrusting Sword,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Slashing Sword,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Sword,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Spear,-2,+4d6,None,4,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear,Weapon for Combat Rolls.,Indefinite,Innate
-Whip,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip,Weapon for Combat Rolls.,Indefinite,Innate
+Sling,TWO,+0d6,,0,Mediocre,Quick,,Sling Bullet,1,,Exotic Ranged,Sling,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Thrown Small Slashing Blade,ONE,+0d6,,0,Short,Swift,,Self,1,Slash,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Slashing Blade,DUAL,+1d6,,0,Short,Swift,,Self,2,Slash,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Thrown Small Piercing Blade,ONE,+0d6,,0,Short,Swift,,Self,1,Pierce,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Piercing Blade,DUAL,+1d6,,0,Short,Swift,,Self,2,Pierce,Close Melee,Small Blade,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Thrown Small Hewing Blade,ONE,+0d6,,0,Short,Swift,,Self,1,Hew,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Hewing Blade,DUAL,+1d6,,0,Short,Swift,,Self,2,Hew,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Thrown Small Bludgeoning Weapon,ONE,+0d6,,0,Short,Swift,,Self,1,Bludgeon,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Bludgeoning Weapon,DUAL,+1d6,,0,Short,Swift,,Self,2,Bludgeon,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Thrown Medium Spear,ONE,+1d6,,1,Mediocre,Quick,,Self,1,Pierce,Medium Melee,Medium Spear,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Thrown Large Spear,ONE,+1d6,,2,Short,Quick,,Self,1,Pierce,Large Melee,Large Spear,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Unarmed,ONE,-1,,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Small Hew Melee,ONE,+0d6,,0,Melee,Swift,,None,,Hew,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Small Hew Melee,DUAL,+1d6,,0,Melee,Swift,,None,,Hew,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Small Slash Melee,ONE,+0d6,,0,Melee,Swift,,None,,Slash,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Small Slash Melee,DUAL,+1d6,,0,Melee,Swift,,None,,Slash,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Small Pierce Melee,ONE,+0d6,,0,Melee,Swift,,None,,Pierce,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Small Pierce Melee,DUAL,+1d6,,0,Melee,Swift,,None,,Pierce,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Small Bludgeon Melee,ONE,+0d6,,0,Melee,Swift,,None,,Bludgeon,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Small Bludgeon Melee,DUAL,+1d6,,0,Melee,Swift,,None,,Bludgeon,Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Torch,ONE,+0d6,,0,Melee,Swift,,None,,"Bludgeon, Fire",Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Torch,DUAL,+1d6,,0,Melee,Swift,,None,,"Bludgeon, Fire",Close Melee,Small Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Medium Hew Melee,ONE,+1d6,,1,Melee,Swift,,None,,Hew,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Hew Melee,TWO,+2d6,,1,Melee,Swift,,None,,Hew,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Hew Melee,DUAL,+2d6,,1,Melee,Swift,,None,,Hew,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Medium Slash Melee,ONE,+1d6,,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Slash Melee,TWO,+2d6,,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Slash Melee,DUAL,+2d6,,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Medium Pierce Melee,ONE,+1d6,,1,Melee,Swift,,None,,Pierce,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Pierce Melee,TWO,+2d6,,1,Melee,Swift,,None,,Pierce,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Pierce Melee,DUAL,+2d6,,1,Melee,Swift,,None,,Pierce,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Medium Bludgeon Melee,ONE,+1d6,,1,Melee,Swift,,None,,Bludgeon,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Bludgeon Melee,TWO,+2d6,,1,Melee,Swift,,None,,Bludgeon,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Bludgeon Melee,DUAL,+2d6,,1,Melee,Swift,,None,,Bludgeon,Medium Melee,Medium Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Medium Spear,ONE,+2d6,,1,Melee,Quick,,None,,Pierce,Medium Melee,Medium Spear,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Spear,DUAL,+3d6,,1,Melee,Quick,,None,,Pierce,Medium Melee,Medium Spear,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Large Hew Melee,ONE,+0d6,,1,Melee,Swift,,None,,Hew,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Large Hew Melee,TWO,+2d6,,2,Melee,Swift,,None,,Hew,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Large Slash Melee,ONE,+0d6,,1,Melee,Swift,,None,,Slash,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Large Slash Melee,TWO,+2d6,,2,Melee,Swift,,None,,Slash,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Large Pierce Melee,ONE,+0d6,,1,Melee,Swift,,None,,Pierce,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Large Pierce Melee,TWO,+2d6,,2,Melee,Swift,,None,,Pierce,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Large Bludgeon Melee,ONE,+0d6,,1,Melee,Swift,,None,,Bludgeon,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Large Bludgeon Melee,TWO,+2d6,,2,Melee,Swift,,None,,Bludgeon,Large Melee,Large Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Large Spear,ONE,+0d6,,1,Melee,Quick,,None,,Pierce,Large Melee,Large Spear,Weapon for Combat Rolls.,Indefinite,Innate
+Large Spear,TWO,+2d6,,2,Melee,Quick,,None,,Pierce,Large Melee,Large Spear,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Reach Hew Melee,ONE,-2,,1,Reach,Reach Swift,,None,,Hew,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Hew Melee,TWO,+3d6,,3,Reach,Reach Swift,,None,,Hew,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Reach Slash Melee,ONE,-2,,1,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Slash Melee,TWO,+3d6,,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Reach Pierce Melee,ONE,-2,,1,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Pierce Melee,TWO,+3d6,,3,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Reach Bludgeon Melee,ONE,-2,,1,Reach,Reach Swift,,None,,Bludgeon,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Bludgeon Melee,TWO,+3d6,,3,Reach,Reach Swift,,None,,Bludgeon,Reach Melee,Reach Hafted,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Reach Spear,ONE,-2,,1,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Spear,TWO,+3d6,,3,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+Whip,ONE,+0d6,,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip,Weapon for Combat Rolls.,Indefinite,Innate
+Whip,DUAL,+1d6,,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
 Weak Bite,-1,None,+0d6,0,Melee,Swift,,None,,"Pierce, Bludgeon",Primal Melee,Bite,Weapon for Combat Rolls.,Indefinite,Innate
 Small Bite,+0d6,None,+0d6,0,Melee,Swift,,None,,"Slash, Pierce",Primal Melee,Bite,Weapon for Combat Rolls.,Indefinite,Innate
@@ -75,21 +119,41 @@ Large Slam,+0d6,None,+1d6,4,Melee,Swift,,None,,Bludgeon,Primal Melee,Slam,Weapon
 ,,,,,,,,,,,,,,,
 Tentacle,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Primal Melee,Tentacle,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-Muzzleloading Pistol,+2d6,None,+1d6,4,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun,Weapon for Combat Rolls.,Indefinite,Innate
-Arquebus,+0d6,+2d6,None,5,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
-Musket,+0d6,+3d6,None,6,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
+Muzzleloading Pistol,ONE,+2d6,,0,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun,Weapon for Combat Rolls.,Indefinite,Innate
+Muzzleloading Pistol,DUAL,+3d6,,0,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-9mm Semi-automatic Pistol,+2d6,None,+1d6,6,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
-9mm Burst Pistol,+3d6,None,+1d6,6,Mediocre,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate
-9mm Automatic Pistol,+3d6,None,+1d6,6,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+Arquebus,ONE,+0d6,,0,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
+Arquebus,TWO,+2d6,,0,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-12 Gauge Pump-action Shotgun,+1d6,+3d6,None,6,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun,Weapon for Combat Rolls.,Indefinite,Innate
+Musket,ONE,+0d6,,1,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
+Musket,TWO,+3d6,,1,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-5.56 Semi-automatic Rifle,+1d6,+3d6,None,8,Extreme,Reach Swift,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
-5.56 Burst Rifle,+2d6,+4d6,None,8,Sharpshooter,Reach Swift,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
-5.56 Automatic Rifle,+2d6,+4d6,None,8,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Semi-automatic Pistol,ONE,+2d6,,2,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Semi-automatic Pistol,DUAL,+3d6,,2,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-.308 Bolt Action Rifle,+1d6,+4d6,None,9,Sniper,Quick,,.308 Ammo,1,,Medium Guns,Marksman Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Burst Pistol,ONE,+3d6,,2,Mediocre,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Burst Pistol,DUAL,+4d6,,2,Mediocre,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,,
-5.56 Machine Gun,-2,+4d6,None,8,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate
-RPG Launcher,-2,+6d6,None,12,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Automatic Pistol,ONE,+3d6,,2,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Automatic Pistol,DUAL,+4d6,,2,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+12 Gauge Pump-action Shotgun,ONE,+3d6,,2,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun,Weapon for Combat Rolls.,Indefinite,Innate
+12 Gauge Pump-action Shotgun,TWO,+3d6,,2,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+5.56 Semi-automatic Rifle,ONE,+1d6,,3,Extreme,Reach Swift,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Semi-automatic Rifle,TWO,+3d6,,3,Extreme,Reach Swift,,5.56 Ammo,1,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+5.56 Burst Rifle,ONE,+2d6,,3,Sharpshooter,Reach Swift,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Burst Rifle,TWO,+4d6,,3,Sharpshooter,Reach Swift,,5.56 Ammo,3,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+5.56 Automatic Rifle,ONE,+2d6,,3,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Automatic Rifle,TWO,+4d6,,3,Distant,Rapid,,5.56 Ammo,6,,Medium Guns,Semi-automatic Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+.308 Bolt Action Rifle,ONE,+1d6,,4,Sniper,Quick,,.308 Ammo,1,,Medium Guns,Marksman Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+.308 Bolt Action Rifle,TWO,+4d6,,4,Sniper,Quick,,.308 Ammo,1,,Medium Guns,Marksman Rifle,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+5.56 Machine Gun,ONE,-2,,3,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Machine Gun,TWO,+4d6,,3,Extreme,Rapid,,5.56 Ammo,10,,Heavy Guns,Machine Gun,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,,
+RPG Launcher,ONE,-2,,7,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
+RPG Launcher,TWO,+6d6,,7,Sharpshooter,Paced,,RPG Ammo,1,,Heavy Guns,Launcher,Weapon for Combat Rolls.,Indefinite,Innate
