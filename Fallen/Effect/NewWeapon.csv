@@ -100,7 +100,7 @@ Whip,ONE,+0d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip,Weapon for Combat Rol
 Whip,DUAL,+1d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Muzzleloading Pistol,ONE,+2d6,0,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun,Weapon for Combat Rolls.,Indefinite,Innate
-Muzzleloading Pistol,DUAL,+3d6,0,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,1,,Small Guns,Muzzleloading Handgun,Weapon for Combat Rolls.,Indefinite,Innate
+Muzzleloading Pistol,DUAL,+3d6,0,Mediocre,Extremely Slow,,Muzzleloading Pistol Cartridge,2,,Small Guns,Muzzleloading Handgun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Arquebus,ONE,+0d6,0,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
 Arquebus,TWO,+2d6,0,Long,Extremely Slow,,Arquebus Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
@@ -109,13 +109,13 @@ Musket,ONE,+0d6,1,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,M
 Musket,TWO,+3d6,1,Sharpshooter,Painfully Slow,,Musket Cartridge,1,,Medium Guns,Muzzleloading Medium Gun,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 9mm Semi-automatic Pistol,ONE,+2d6,2,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
-9mm Semi-automatic Pistol,DUAL,+3d6,2,Extended,Reach Swift,,9mm Ammo,1,,Small Guns,9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Semi-automatic Pistol,DUAL,+3d6,2,Extended,Reach Swift,,9mm Ammo,2,,Small Guns,9mm Semi-automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 9mm Burst Pistol,ONE,+3d6,2,Mediocre,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate
-9mm Burst Pistol,DUAL,+4d6,2,Mediocre,Reach Swift,,9mm Ammo,3,,Small Guns,9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Burst Pistol,DUAL,+4d6,2,Mediocre,Reach Swift,,9mm Ammo,6,,Small Guns,9mm Burst Pistol,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 9mm Automatic Pistol,ONE,+3d6,2,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
-9mm Automatic Pistol,DUAL,+4d6,2,Short,Rapid,,9mm Ammo,6,,Small Guns,9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
+9mm Automatic Pistol,DUAL,+4d6,2,Short,Rapid,,9mm Ammo,12,,Small Guns,9mm Automatic Pistol,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun,ONE,+3d6,2,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun,Weapon for Combat Rolls.,Indefinite,Innate
 12 Gauge Pump-action Shotgun,TWO,+3d6,2,Extended,Swift,,12 Gauge Ammo,1,,Medium Guns,Shotgun,Weapon for Combat Rolls.,Indefinite,Innate
