@@ -1,51 +1,20 @@
 name,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,ammoType,ammoPerUse,damageTypes,governingSkillName,desc,duration,source
-Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
-Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Quick,None,Light Bolt,2,,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+Unarmed,One-handed,-1,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Light Crossbow,Two-handed,+1d6,1,Far,Steady,None,Light Bolt,1,,Light Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+Small Hew Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Hew,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
+Small Hew Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Hew,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Heavy Crossbow,Two-handed,+2d6,2,Long,Extremely Slow,None,Heavy Bolt,1,,Heavy Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+Small Slash Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Slash,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
+Small Slash Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Slash,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Light Bow,Two-handed,+1d6,0,Far,Swift,None,Light Arrow,1,,Light Bow,Weapon for Combat Rolls.,Indefinite,Innate
+Small Pierce Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Pierce,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
+Small Pierce Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Pierce,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Heavy Bow,Two-handed,+2d6,2,Sharpshooter,Quick,None,Heavy Arrow,1,,Heavy Bow,Weapon for Combat Rolls.,Indefinite,Innate
+Small Bludgeon Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
+Small Bludgeon Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Blowgun,Two-handed,+0d6,0,Mediocre,Quick,None,Blowgun Dart,1,,Exotic Ranged,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Sling,Two-handed,+0d6,0,Mediocre,Quick,None,Sling Bullet,1,,Exotic Ranged,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Thrown Small Slash Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Slash,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Slash Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Slash,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Thrown Small Pierce Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Pierce,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Pierce Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Pierce,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Thrown Small Hew Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Hew,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Hew Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Hew,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Thrown Small Bludgeon Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Thrown Small Bludgeon Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Thrown Medium Spear,One-handed,+1d6,1,Mediocre,Quick,None,Self,1,Pierce,Medium Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Unarmed,One-handed,-1,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Small Hew Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Hew,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Small Hew Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Hew,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Small Slash Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Slash,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Small Slash Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Slash,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Small Pierce Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Pierce,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Small Pierce Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Pierce,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Small Bludgeon Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Small Bludgeon Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-,,,,,,,,,,,,,
-Torch,One-handed,+0d6,0,Melee,Swift,None,None,,"Bludgeon, Fire",Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Torch,Dual-wielded,+1d6,0,Melee,Swift,None,None,,"Bludgeon, Fire",Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Small Torch,One-handed,+0d6,0,Melee,Swift,None,None,,"Bludgeon, Fire",Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
+Small Torch,Dual-wielded,+1d6,0,Melee,Swift,None,None,,"Bludgeon, Fire",Close Melee,Weapon for Combat Rolls. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
 Medium Hew Melee,One-handed,+1d6,1,Melee,Swift,None,None,,Hew,Medium Melee,Weapon for Combat Rolls.,Indefinite,Innate
 Medium Hew Melee,Two-handed,+2d6,1,Melee,Swift,None,None,,Hew,Medium Melee,Weapon for Combat Rolls.,Indefinite,Innate
@@ -81,23 +50,54 @@ Large Bludgeon Melee,Two-handed,+2d6,2,Melee,Swift,None,None,,Bludgeon,Large Mel
 Large Spear,One-handed,+0d6,1,Melee,Quick,None,None,,Pierce,Large Melee,Weapon for Combat Rolls.,Indefinite,Innate
 Large Spear,Two-handed,+2d6,2,Melee,Quick,None,None,,Pierce,Large Melee,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Reach Hew Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Hew,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Hew Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Hew,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Hew Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Hew,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+Reach Hew Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Hew,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Reach Slash Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Slash,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Slash Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Slash,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Slash Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Slash,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+Reach Slash Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Slash,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Reach Pierce Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Pierce Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Pierce Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+Reach Pierce Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Reach Bludgeon Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Bludgeon,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Bludgeon Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Bludgeon,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Bludgeon Melee,One-handed,-2,1,Reach,Reach Swift,None,None,,Bludgeon,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+Reach Bludgeon Melee,Two-handed,+3d6,3,Reach,Reach Swift,None,None,,Bludgeon,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Reach Spear,One-handed,-2,1,Reach,Steady,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Spear,Two-handed,+3d6,3,Reach,Steady,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Spear,One-handed,-2,1,Reach,Steady,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+Reach Spear,Two-handed,+3d6,3,Reach,Steady,None,None,,Pierce,Reach Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Whip,One-handed,+0d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,Weapon for Combat Rolls.,Indefinite,Innate
-Whip,Dual-wielded,+1d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Whip,One-handed,+0d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+Whip,Dual-wielded,+1d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,Weapon for Combat Rolls. Use in confined spaces will impose Disadvantage.,Indefinite,Innate
+,,,,,,,,,,,,,
+Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Quick,None,Light Bolt,2,,Hand Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Light Crossbow,Two-handed,+1d6,1,Far,Steady,None,Light Bolt,1,,Light Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Heavy Crossbow,Two-handed,+2d6,2,Long,Extremely Slow,None,Heavy Bolt,1,,Heavy Crossbow,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Light Bow,Two-handed,+1d6,0,Far,Swift,None,Light Arrow,1,,Light Bow,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Heavy Bow,Two-handed,+2d6,2,Sharpshooter,Quick,None,Heavy Arrow,1,,Heavy Bow,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Blowgun,Two-handed,+0d6,0,Mediocre,Quick,None,Blowgun Dart,1,,Exotic Ranged,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Sling,Two-handed,+0d6,0,Mediocre,Quick,None,Sling Bullet,1,,Exotic Ranged,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Thrown Small Slash Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Slash,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Slash Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Slash,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Thrown Small Pierce Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Pierce,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Pierce Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Pierce,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Thrown Small Hew Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Hew,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Hew Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Hew,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Thrown Small Bludgeon Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+Thrown Small Bludgeon Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Bludgeon,Close Melee,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Thrown Medium Spear,One-handed,+1d6,1,Mediocre,Quick,None,Self,1,Pierce,Medium Melee,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,One-handed,+2d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,,Small Guns,Weapon for Combat Rolls.,Indefinite,Innate
 Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,,Small Guns,Weapon for Combat Rolls.,Indefinite,Innate
