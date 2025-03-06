@@ -69,6 +69,7 @@ Whip,One-handed,+0d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,"Bullwhips, ect
 Whip,Dual-wielded,+1d6,0,Reach,Swift +1,None,None,,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
+Hand Crossbow,Two-handed,+1d6,0,Medium,Quick,None,Light Bolt,1,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
 Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Steady,None,Light Bolt,2,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
 Light Crossbow,One-handed,+0d6,1,Far,Steady,None,Light Bolt,1,Pierce,Light Crossbow,Crossbows balancing power and reload time.  Disadvantage while being engaged within melee.,Indefinite,Innate
@@ -101,6 +102,7 @@ Thrown Medium Spear,One-handed,+1d6,1,Mediocre,Quick,None,Self,1,Pierce,Medium M
 Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,Thrown two-handed spears. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,One-handed,+2d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+Muzzleloading Pistol,Two-handed,+2d6,0,Medium,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Arquebus,One-handed,+0d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,Ballistic,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
@@ -110,12 +112,15 @@ Musket,One-handed,+0d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,Bal
 Musket,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,Ballistic,Medium Guns,Flintlock smoothbore long guns. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
 9mm Semi-automatic Pistol,One-handed,+2d6,2,Extended,Reach Swift,None,9mm Ammo,1,Ballistic,Small Guns,"Glock 17, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+9mm Semi-automatic Pistol,Two-handed,+2d6,2,Far,Reach Swift,None,9mm Ammo,1,Ballistic,Small Guns,"Glock 17, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 9mm Semi-automatic Pistol,Dual-wielded,+3d6,2,Extended,Reach Swift,None,9mm Ammo,1,Ballistic,Small Guns,"Glock 17, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
 9mm Burst-fire Pistol,One-handed,+3d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,Ballistic,Small Guns,"Beretta 93R, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+9mm Burst-fire Pistol,Two-handed,+3d6,2,Medium,Reach Swift,None,9mm Ammo,3,Ballistic,Small Guns,"Beretta 93R, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 9mm Burst-fire Pistol,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,Ballistic,Small Guns,"Beretta 93R, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
 9mm Automatic Pistol,One-handed,+3d6,2,Short,Rapid,None,9mm Ammo,6,Ballistic,Small Guns,"Glock 18, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+9mm Automatic Pistol,Two-handed,+3d6,2,Mediocre,Rapid,None,9mm Ammo,6,Ballistic,Small Guns,"Glock 18, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 9mm Automatic Pistol,Dual-wielded,+4d6,2,Short,Rapid,None,9mm Ammo,6,Ballistic,Small Guns,"Glock 18, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun,One-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
