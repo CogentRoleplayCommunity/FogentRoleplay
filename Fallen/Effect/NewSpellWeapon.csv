@@ -60,11 +60,11 @@ Magic Rapid Blast,Dual-wielded,+4d6,2,Short,Rapid,,4,Weapon for Combat Rolls.,In
 .308 Bolt Action Rifle,One-handed,+1d6,4,Sniper,Quick,,5,Weapon for Combat Rolls.,Indefinite,Innate
 .308 Bolt Action Rifle,Two-handed,+4d6,4,Sniper,Quick,,5,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
-5.56 Machine Gun,One-handed,-2,3,Extreme,Rapid,,,Weapon for Combat Rolls.,Indefinite,Innate
-5.56 Machine Gun,Two-handed,+4d6,3,Extreme,Rapid,,,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Machine Gun,One-handed,-2,3,Extreme,Rapid,,5,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Machine Gun,Two-handed,+4d6,3,Extreme,Rapid,,5,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
-RPG Launcher,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,,Weapon for Combat Rolls.,Indefinite,Innate
-RPG Launcher,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,,Weapon for Combat Rolls.,Indefinite,Innate
+RPG Launcher,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,5,Weapon for Combat Rolls.,Indefinite,Innate
+RPG Launcher,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,5,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
 Magic Glove,One-handed,-1,0,Melee,Swift,,0,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
