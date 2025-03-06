@@ -48,12 +48,15 @@ The amount of Ammo consumed per use of the weapon.
 
 The types of Damage a weapon inflicts when dealing injuries.
 
+## Weapons
+
+
 ## Hand Crossbow
 
 ### Hand Crossbow
 
-|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
-| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
+|     Name     | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
+| :-----------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
 | Hand Crossbow |      +1d6      |      None      |       +1d6       |      1      | Mediocre |        Quick        |                    |   Light Bolt   |         1         |                  |
 
 ## Light Crossbow
@@ -100,16 +103,16 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 ### Sling
 
-| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
-| :---: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
+| Name | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
+| :---: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
 | Sling |      +0d6      |      None      |       None       |      1      | Mediocre |        Quick        |                    |  Sling Bullet  |         1         |                  |
 
 ## Small Guns
 
 ### Muzzleloading Handgun
 
-|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect |         Ammo<br />Type         | Ammo<br />Per Use | Damage<br />Types |
-| :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------: | :-----------------: | :----------------------------: | :---------------: | :---------------: |
+|         Name         | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect |         Ammo<br />Type         | Ammo<br />Per Use | Damage<br />Types |
+| :------------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :----------------------------: | :---------------: | :---------------: |
 | Muzzleloading Pistol |      +2d6      |      None      |       +1d6       |      4      | Mediocre |   Extremely Slow   |                    | Muzzleloading Pistol Cartridge |         1         |                  |
 
 ### Handgun
@@ -230,9 +233,9 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 (javelin, short spear)
 
-|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
-| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :----: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
-|    Medium Spear    |      +2d6      |      None      |       +1d6       |      2      | Melee |        Quick        |                    |      None      |                  |      Pierce      |
+|        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration |  Range  | Uses Per<br />Round | Area Of<br />Effect | Ammo<br />Type | Ammo<br />Per Use | Damage<br />Types |
+| :-----------------: | :-------------: | :-------------: | :---------------: | :---------: | :------: | :-----------------: | :-----------------: | :------------: | :---------------: | :---------------: |
+|    Medium Spear    |      +2d6      |      None      |       +1d6       |      2      |  Melee  |        Quick        |                    |      None      |                  |      Pierce      |
 | Thrown Medium Spear |      +1d6      |      None      |       None       |      2      | Mediocre |        Quick        |                    |      Self      |         1         |      Pierce      |
 
 ## Large Melee
