@@ -8,19 +8,19 @@ This rule is mainly used for determining how many times a weapon/spell can be us
 
 Uses Per Round is calculated using the following equation:
 
-( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max UPR)
+( (Number of Skill Dice) + (Dice Amount Adjustment) )/ (Divisor), rounded down to the nearest whole number only if above 1, to a maximum of (Max Uses Per Round)
 
-|      Name      | Divisor | Dice Amount Adjustment | Max UPR |
-| :------------: | :-----: | :--------------------: | :-----: |
-|     Rapid     |    1    |           0           |  None  |
-|  Reach Swift  |    2    |           2           |  None  |
-|     Swift     |    2    |           0           |  None  |
-|     Quick     |    3    |           0           |  None  |
-|     Steady     |    4    |           0           |  None  |
-|     Paced     |    5    |           0           |  None  |
-|      Slow      |    6    |           0           |  None  |
-| Extremely Slow |    8    |           0           |  None  |
-| Painfully Slow |   16   |           0           |  None  |
+|      Name      | Divisor | Dice Amount Adjustment | Max Uses Per Round |
+| :------------: | :-----: | :--------------------: | :-----------------: |
+|     Rapid     |    1    |           0           |        None        |
+|  Reach Swift  |    2    |           2           |        None        |
+|     Swift     |    2    |           0           |        None        |
+|     Quick     |    3    |           0           |        None        |
+|     Steady     |    4    |           0           |        None        |
+|     Paced     |    5    |           0           |        None        |
+|      Slow      |    6    |           0           |        None        |
+| Extremely Slow |    8    |           0           |        None        |
+| Painfully Slow |   16   |           0           |        None        |
 
 For example, if a character had 7 dice in their governing skill dice pool with an Uses Per Round of "Quick", 7 divided by 3 is 2.333, which rounded down is 2. There is non "Max UPR" for "Quick" so they would have 2 Uses Per Round for that round.
 
