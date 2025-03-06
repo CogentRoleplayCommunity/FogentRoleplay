@@ -77,7 +77,7 @@ Heavy Crossbow,Two-handed,+2d6,2,Long,Extremely Slow,None,Heavy Bolt,1,,Heavy Cr
 ,,,,,,,,,,,,,
 Light Bow,Two-handed,+1d6,0,Far,Swift,None,Light Arrow,1,,Light Bow,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Heavy Bow,Two-handed,+2d6,2,Sharpshooter,Quick,None,Heavy Arrow,1,,Heavy Bow,Weapon for Combat Rolls.,Indefinite,Innate
+Heavy Bow,Two-handed,+2d6,2,Sharpshooter,Quick,None,Heavy Arrow,1,,Heavy Bow,Weapon for Combat Rolls. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,
 Blowgun,Two-handed,+0d6,0,Mediocre,Quick,None,Blowgun Dart,1,,Exotic Ranged,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,,,,
