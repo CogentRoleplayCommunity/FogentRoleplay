@@ -1,5 +1,5 @@
 name,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,magicResourceAmount,desc,duration,source
-Magic Dart,One-handed,+0d6,0,Short,Swift,None,0,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Dart,One-handed,+0d6,0,Short,Swift,None,0,"Weapon for Combat Rolls. Disadvantage while within range of ",Indefinite,Innate
 Magic Dart,Dual-wielded,+1d6,0,Short,Swift,None,0,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
 Magic Sling,Two-handed,+0d6,0,Mediocre,Quick,None,0,Weapon for Combat Rolls.,Indefinite,Innate
@@ -87,8 +87,9 @@ Large Melee Magic,Two-handed,+2d6,2,Melee,Swift,None,1,Weapon for Combat Rolls.,
 Large Spear Magic,One-handed,+0d6,1,Melee,Quick,None,1,Weapon for Combat Rolls.,Indefinite,Innate
 Large Spear Magic,Two-handed,+2d6,2,Melee,Quick,None,1,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
-Reach Melee Magic,One-handed,-2,1,Reach,Reach Swift,None,2,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Hew Melee Magic,Two-handed,+3d6,3,Reach,Reach Swift,None,2,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Melee Magic,One-handed,-2,1,Reach,Reach Swift,,2,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Hew Melee Magic,Two-handed,+3d6,3,Reach,Reach Swift,,2,Weapon for Combat Rolls.,Indefinite,Innate
 ,,,,,,,,,,
-Reach Spear,One-handed,-2,1,Reach,Steady,None,2,Weapon for Combat Rolls.,Indefinite,Innate
-Reach Spear,Two-handed,+3d6,3,Reach,Steady,None,2,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Spear,One-handed,-2,1,Reach,Steady,,2,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Spear,Two-handed,+3d6,3,Reach,Steady,,2,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,
