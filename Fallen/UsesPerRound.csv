@@ -1,6 +1,7 @@
 name,combatRollDivisor,diceAmountAdjustment,maxUsesPerRoundOption
 Rapid,1,0,None
 Reach Swift,2,2,None
+Swift +1,2,1,None
 Swift,2,0,None
 Quick,3,0,None
 Steady,4,0,None

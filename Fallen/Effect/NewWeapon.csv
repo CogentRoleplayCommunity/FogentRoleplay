@@ -2,35 +2,35 @@ name,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,amm
 Unarmed,One-handed,-1,0,Melee,Swift,None,None,,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
 ,,,,,,,,,,,,,
 Small Hew Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Hew Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Hew Melee,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Small Slash Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Slash Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Slash Melee,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Small Pierce Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Pierce Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Pierce Melee,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Small Bludgeon Melee,One-handed,+0d6,0,Melee,Swift,None,None,,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Bludgeon Melee,Dual-wielded,+1d6,0,Melee,Swift,None,None,,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Bludgeon Melee,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Small Torch,One-handed,+0d6,0,Melee,Swift,None,None,,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
-Small Torch,Dual-wielded,+1d6,0,Melee,Swift,None,None,,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Torch,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Medium Hew Melee,One-handed,+1d6,1,Melee,Swift,None,None,,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
 Medium Hew Melee,Two-handed,+2d6,1,Melee,Swift,None,None,,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
-Medium Hew Melee,Dual-wielded,+2d6,1,Melee,Swift,None,None,,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
+Medium Hew Melee,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Medium Slash Melee,One-handed,+1d6,1,Melee,Swift,None,None,,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
 Medium Slash Melee,Two-handed,+2d6,1,Melee,Swift,None,None,,Slash,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, ect...",Indefinite,Innate
-Medium Slash Melee,Dual-wielded,+2d6,1,Melee,Swift,None,None,,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
+Medium Slash Melee,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Medium Pierce Melee,One-handed,+1d6,1,Melee,Swift,None,None,,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
 Medium Pierce Melee,Two-handed,+2d6,1,Melee,Swift,None,None,,Pierce,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",Indefinite,Innate
-Medium Pierce Melee,Dual-wielded,+2d6,1,Melee,Swift,None,None,,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
+Medium Pierce Melee,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Medium Bludgeon Melee,One-handed,+1d6,1,Melee,Swift,None,None,,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
 Medium Bludgeon Melee,Two-handed,+2d6,1,Melee,Swift,None,None,,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
-Medium Bludgeon Melee,Dual-wielded,+2d6,1,Melee,Swift,None,None,,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+Medium Bludgeon Melee,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Medium Spear,One-handed,+2d6,1,Melee,Quick,None,None,,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
 Medium Spear,Dual-wielded,+3d6,1,Melee,Quick,None,None,,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
@@ -66,7 +66,7 @@ Reach Spear,One-handed,-2,1,Reach,Steady,None,None,,Pierce,Reach Melee,"Pike, la
 Reach Spear,Two-handed,+3d6,3,Reach,Steady,None,None,,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Whip,One-handed,+0d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Whip,Dual-wielded,+1d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Whip,Dual-wielded,+1d6,0,Reach,Swift +1,None,None,,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
 Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Steady,None,Light Bolt,2,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
