@@ -68,72 +68,72 @@ Reach Spear,Two-handed,+3d6,3,Reach,Steady,None,None,,Pierce,Reach Melee,"Pike, 
 Whip,One-handed,+0d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Whip,Dual-wielded,+1d6,0,Reach,Swift,None,None,,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,
-Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,,Hand Crossbow,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Quick,None,Light Bolt,2,,Hand Crossbow,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
+Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Quick,None,Light Bolt,2,,Hand Crossbow,Small crossbows designed to be held in one hand. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Light Crossbow,Two-handed,+1d6,1,Far,Steady,None,Light Bolt,1,,Light Crossbow,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Light Crossbow,Two-handed,+1d6,1,Far,Steady,None,Light Bolt,1,,Light Crossbow,Crossbows balancing power and reload time.  Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Heavy Crossbow,Two-handed,+2d6,2,Long,Extremely Slow,None,Heavy Bolt,1,,Heavy Crossbow,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Heavy Crossbow,Two-handed,+2d6,2,Long,Extremely Slow,None,Heavy Bolt,1,,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Light Bow,Two-handed,+1d6,0,Far,Swift,None,Light Arrow,1,,Light Bow,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Light Bow,Two-handed,+1d6,0,Far,Swift,None,Light Arrow,1,,Light Bow,Bows favoring easier drawing versus power. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Heavy Bow,Two-handed,+2d6,2,Sharpshooter,Quick,None,Heavy Arrow,1,,Heavy Bow,Weapon for Combat Rolls.  Disadvantage while being engaged within melee. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+Heavy Bow,Two-handed,+2d6,2,Sharpshooter,Quick,None,Heavy Arrow,1,,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Blowgun,Two-handed,+0d6,0,Mediocre,Quick,None,Blowgun Dart,1,,Exotic Ranged,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Blowgun,Two-handed,+0d6,0,Mediocre,Quick,None,Blowgun Dart,1,,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Sling,Two-handed,+0d6,0,Mediocre,Quick,None,Sling Bullet,1,,Exotic Ranged,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Sling,Two-handed,+0d6,0,Mediocre,Quick,None,Sling Bullet,1,,Exotic Ranged,A flexible strap used to hurl small objects. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Thrown Small Slash Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Slash,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Thrown Small Slash Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Slash,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Thrown Small Slash Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Slash,Close Melee,"Ninja stars, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+Thrown Small Slash Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Slash,Close Melee,"Ninja stars, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-Thrown Small Pierce Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Pierce,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Thrown Small Pierce Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Pierce,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Thrown Small Pierce Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Pierce,Close Melee,"Throwing daggers, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+Thrown Small Pierce Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Pierce,Close Melee,"Throwing daggers, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-Thrown Small Hew Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Hew,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Thrown Small Hew Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Hew,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Thrown Small Hew Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Hew,Close Melee,"Throwing hatchet, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+Thrown Small Hew Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Hew,Close Melee,"Throwing hatchet, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-Thrown Small Bludgeon Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Bludgeon,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Thrown Small Bludgeon Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Bludgeon,Close Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Thrown Small Bludgeon Melee,One-handed,+0d6,0,Short,Swift,None,Self,1,Bludgeon,Close Melee,"Thrown small club, rocks, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+Thrown Small Bludgeon Melee,Dual-wielded,+1d6,0,Short,Swift,None,Self,2,Bludgeon,Close Melee,"Thrown small club, rocks, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-Thrown Medium Spear,One-handed,+1d6,1,Mediocre,Quick,None,Self,1,Pierce,Medium Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Thrown Medium Spear,One-handed,+1d6,1,Mediocre,Quick,None,Self,1,Pierce,Medium Melee,"Thrown Javelins, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,Thrown two-handed spears. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Muzzleloading Pistol,One-handed,+2d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Muzzleloading Pistol,One-handed,+2d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,,Small Guns,"Flintlock pistols, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,,Small Guns,"Flintlock pistols, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
 Arquebus,One-handed,+0d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
 Arquebus,Two-handed,+2d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Musket,One-handed,+0d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-Musket,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+Musket,One-handed,+0d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,,Medium Guns,Flintlock smoothbore long guns. Disadvantage while being engaged within melee.,Indefinite,Innate
+Musket,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,,Medium Guns,Flintlock smoothbore long guns. Disadvantage while being engaged within melee.,Indefinite,Innate
 ,,,,,,,,,,,,,
-9mm Semi-automatic Pistol,One-handed,+2d6,2,Extended,Reach Swift,None,9mm Ammo,1,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-9mm Semi-automatic Pistol,Dual-wielded,+3d6,2,Extended,Reach Swift,None,9mm Ammo,1,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+9mm Semi-automatic Pistol,One-handed,+2d6,2,Extended,Reach Swift,None,9mm Ammo,1,,Small Guns,"Glock 17, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+9mm Semi-automatic Pistol,Dual-wielded,+3d6,2,Extended,Reach Swift,None,9mm Ammo,1,,Small Guns,"Glock 17, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-9mm Burst Pistol,One-handed,+3d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-9mm Burst Pistol,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+9mm Burst-fire Pistol,One-handed,+3d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,,Small Guns,"Beretta 93R, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+9mm Burst-fire Pistol,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,,Small Guns,"Beretta 93R, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-9mm Automatic Pistol,One-handed,+3d6,2,Short,Rapid,None,9mm Ammo,6,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-9mm Automatic Pistol,Dual-wielded,+4d6,2,Short,Rapid,None,9mm Ammo,6,,Small Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+9mm Automatic Pistol,One-handed,+3d6,2,Short,Rapid,None,9mm Ammo,6,,Small Guns,"Glock 18, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+9mm Automatic Pistol,Dual-wielded,+4d6,2,Short,Rapid,None,9mm Ammo,6,,Small Guns,"Glock 18, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-12 Gauge Pump-action Shotgun,One-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-12 Gauge Pump-action Shotgun,Two-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+12 Gauge Pump-action Shotgun,One-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,,Medium Guns,"Remington 870, Mossberg 500, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+12 Gauge Pump-action Shotgun,Two-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,,Medium Guns,"Remington 870, Mossberg 500, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-5.56 Semi-automatic Rifle,One-handed,+1d6,3,Extreme,Reach Swift,None,5.56 Ammo,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-5.56 Semi-automatic Rifle,Two-handed,+3d6,3,Extreme,Reach Swift,None,5.56 Ammo,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+5.56 Semi-automatic Rifle,One-handed,+1d6,3,Extreme,Reach Swift,None,5.56 Ammo,1,,Medium Guns,"AR-15, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+5.56 Semi-automatic Rifle,Two-handed,+3d6,3,Extreme,Reach Swift,None,5.56 Ammo,1,,Medium Guns,"AR-15, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-5.56 Burst Rifle,One-handed,+2d6,3,Sharpshooter,Reach Swift,None,5.56 Ammo,3,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-5.56 Burst Rifle,Two-handed,+4d6,3,Sharpshooter,Reach Swift,None,5.56 Ammo,3,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+5.56 Burst Rifle,One-handed,+2d6,3,Sharpshooter,Reach Swift,None,5.56 Ammo,3,,Medium Guns,"M16A2, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+5.56 Burst Rifle,Two-handed,+4d6,3,Sharpshooter,Reach Swift,None,5.56 Ammo,3,,Medium Guns,"M16A2, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-5.56 Automatic Rifle,One-handed,+2d6,3,Distant,Rapid,None,5.56 Ammo,6,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-5.56 Automatic Rifle,Two-handed,+4d6,3,Distant,Rapid,None,5.56 Ammo,6,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+5.56 Automatic Rifle,One-handed,+2d6,3,Distant,Rapid,None,5.56 Ammo,6,,Medium Guns,"M4, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+5.56 Automatic Rifle,Two-handed,+4d6,3,Distant,Rapid,None,5.56 Ammo,6,,Medium Guns,"M4, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-.308 Bolt Action Rifle,One-handed,+1d6,4,Sniper,Quick,None,.308 Ammo,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-.308 Bolt Action Rifle,Two-handed,+4d6,4,Sniper,Quick,None,.308 Ammo,1,,Medium Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+.308 Bolt Action Rifle,One-handed,+1d6,4,Sniper,Quick,None,.308 Ammo,1,,Medium Guns,"Remington M700, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+.308 Bolt Action Rifle,Two-handed,+4d6,4,Sniper,Quick,None,.308 Ammo,1,,Medium Guns,"Remington M700, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-5.56 Machine Gun,One-handed,-2,3,Extreme,Rapid,None,5.56 Ammo,10,,Heavy Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-5.56 Machine Gun,Two-handed,+4d6,3,Extreme,Rapid,None,5.56 Ammo,10,,Heavy Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+5.56 Machine Gun,One-handed,-2,3,Extreme,Rapid,None,5.56 Ammo,10,,Heavy Guns,"M249, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+5.56 Machine Gun,Two-handed,+4d6,3,Extreme,Rapid,None,5.56 Ammo,10,,Heavy Guns,"M249, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
 ,,,,,,,,,,,,,
-RPG Launcher,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,RPG Ammo,1,,Heavy Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
-RPG Launcher,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,RPG Ammo,1,,Heavy Guns,Weapon for Combat Rolls. Disadvantage while being engaged within melee.,Indefinite,Innate
+RPG Launcher,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,RPG Ammo,1,,Heavy Guns,"RPG-7, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
+RPG Launcher,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,RPG Ammo,1,,Heavy Guns,"RPG-7, ect... Disadvantage while being engaged within melee.",Indefinite,Innate
