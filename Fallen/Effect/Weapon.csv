@@ -35,7 +35,7 @@ Medium Hafted Blunt,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,+1d6,+1d6,4,
 Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Sword
 Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+2d6,None,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword
 Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+2d6,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Sword
-Medium Versatile Slashing Sword,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword
+Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Two-handed), Medium Slash Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Sword
 Medium Spear,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,None,+1d6,2,Melee,Quick,,None,,Pierce,Medium Melee,Medium Spear
 ,,,,,,,,,,,,,,,
 Large Hafted Axe,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+3d6,None,2,Melee,Swift,,None,,Hew,Large Melee,Large Hafted

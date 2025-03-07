@@ -50,7 +50,7 @@ Platinum Coin,1,,0.02," 1 pc",,,Mundane
 Dagger,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
 Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,5 bc,,15/15,Quality
 Arming Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,10 bc,,12/12,Mundane
-Bastard Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Versatile Slashing Sword",2.5,15 bc,,12/12,Mundane
+Bastard Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Two-handed), Medium Slash Melee (+0) (Dual-wielded)",2.5,15 bc,,12/12,Mundane
 Longsword,1,"Large Thrusting Sword, Large Slashing Sword",3,25 bc,,12/12,Mundane
 Greatsword,1,"Reach Thrusting Sword, Reach Slashing Sword",6,50 bc,,12/12,Mundane
 ,,,,,,,
