@@ -148,7 +148,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Flail     | 1 |                           Medium Hafted Blunt                           |   3   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |     Glaive     | 1 |                           Large Hafted Blade                           |   6   | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |    Dane Axe    | 1 |                           Large Hafted Blade                           |   4   | 11 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
-|   Greatsword   | 1 |               Reach Thrusting Sword, Reach Slashing Sword               |   6   | 50 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
+|   Greatsword   | 1 |               Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Reach Slashing Sword               |   6   | 50 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |    Halberd    | 1 |                 Reach Hafted Blade, Reach Hafted Point                 |   7   | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |    Poleaxe    | 1 |              Large Hafted Blunt, Large Hafted Blade, Spear              |   6   | 40 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |  Long Poleaxe  | 1 |       Reach Hafted Blunt, Reach Hafted Blade, Reach Hafted Point       |   7   | 41 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
