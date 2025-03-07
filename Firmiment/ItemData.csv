@@ -50,7 +50,7 @@ Platinum Coin,1,,0.02," 1 pc",,,Mundane
 Dagger,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
 Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,5 bc,,15/15,Quality
 Arming Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,10 bc,,12/12,Mundane
-Bastard Sword,1,"Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword",2.5,15 bc,,12/12,Mundane
+Bastard Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Versatile Slashing Sword",2.5,15 bc,,12/12,Mundane
 Longsword,1,"Large Thrusting Sword, Large Slashing Sword",3,25 bc,,12/12,Mundane
 Greatsword,1,"Reach Thrusting Sword, Reach Slashing Sword",6,50 bc,,12/12,Mundane
 ,,,,,,,
@@ -157,7 +157,7 @@ A relatively unknown Runecraft to the wider populace, this sword is highly debat
 Killing with this weapon seems to mysteriously decapitate the victim's head from their bodies. In some tales it is only when the user of the sword deals a killing blow, while in older tales a single nick from the blade would lead to instant decapitation. Users report seeing flashes of the life they’ve cut off and all the generations in an instant.
 
  Appearing in various forms throughout history such as a rapier or slender long sword. This has led some scholars to argue that this sword is in fact multiple swords with similar effects. The Battle Scholars of the Dawn Empire had this weapon in their great collection in Crossroads long ago, and it was mysteriously lost. They recorded the weapon as only decapitating on a death blow, testing it on condemned criminals. Such a weak effect led to reduced research on the weapon while it was in their possession. However, they never were able to replicate its Runecraft, odd for such a weak effect. No weapon has ever been recorded as having a similar effect, leaving some scholars to ponder if there is more to this Runecraft…",21/21,Excellent
-Echo,1,"Superior Medium Versatile Thrusting Sword, Superior Medium Versatile Slashing Sword",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
+Echo,1,"Superior Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded), Superior Medium Versatile Slashing Sword",2,?,"""What is a myth? An echo of the past in the future. I can hear it dear sister, can't you…"" - Lord Maxwell Reddington
 
 The arming sword of Lord Maxwell Reddington, taken from the crypt underneath Castle Tearstone.
 
