@@ -55,7 +55,7 @@ Longsword,1,"Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-
 Greatsword,1,"Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed)",6,50 bc,,12/12,Mundane
 ,,,,,,,
 Handaxe,1,"Small Hew Melee (+0) (One-handed), Small Hew Melee (+0) (Dual-wielded), Thrown Small Hew Melee (+0) (One-handed), Thrown Small Hew Melee (+0) (Dual-wielded)",2,5 bc,,12/12,Mundane
-Shoddy Sickle,1,"Shoddy Small Hafted Blade, Thrown Small Slash Melee (-1) (One-handed), Thrown Small Slash Melee (-1) (Dual-wielded)",2,50 cc,,9/9,Shoddy
+Shoddy Sickle,1,"Small Slash Melee (-1) (One-handed), Small Slash Melee (-1) (Dual-wielded), Thrown Small Slash Melee (-1) (One-handed), Thrown Small Slash Melee (-1) (Dual-wielded)",2,50 cc,,9/9,Shoddy
 Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",2,1 bc,,12/12,Mundane
 Light Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",2,2 bc,,12/12,Mundane
 Rapier,1,"Fine Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Shoddy Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,25 bc,,15/15,Quality
