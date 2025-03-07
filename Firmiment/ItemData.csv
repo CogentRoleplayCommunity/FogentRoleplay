@@ -69,7 +69,7 @@ Warhammer/pick,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee
 Glaive,1,"Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)",6,20 bc,,12/12,Mundane
 Dane Axe,1,"Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed)",4,11 bc,,12/12,Mundane
 Maul,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",7,10 bc,,12/12,Mundane
-Spear,1,"Large Spear, Thrown Large Spear (+0) (One-handed)",3,1 bc,,12/12,Mundane
+Spear,1,"Large Spear (+0) (One-handed), Large Spear (+0) (Two-handed), Thrown Large Spear (+0) (One-handed)",3,1 bc,,12/12,Mundane
 Trident,1,"Quality Large Spear, Quality Thrown Large Spear (+0) (One-handed)",3,5 bc,,15/15,Quality
 Poleaxe,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed), Large Spear",6,40 bc,,12/12,Mundane
 Wooden Javelin,1,"Shoddy Medium Spear, Shoddy Thrown Medium Spear",2,25 cc,,9/9,Shoddy
@@ -92,7 +92,7 @@ Heavy Crossbow,1,Heavy Crossbow,11,50 bc,,12/12,Mundane
 Heavy Longbow,1,Heavy Bow,4,50 bc,,12/12,Mundane
 Sling,1,Sling,0.5,10 cc,,12/12,Mundane
 Quarterstaff,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",4,20 cc,,12/12,Mundane
-Quarterstaff with Hidden Spear,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Spear, Thrown Large Spear (+0) (One-handed)",4,2 bc,,12/12,Mundane
+Quarterstaff with Hidden Spear,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Spear (+0) (One-handed), Large Spear (+0) (Two-handed), Thrown Large Spear (+0) (One-handed)",4,2 bc,,12/12,Mundane
 Club,1,"Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded)",2,10 cc,,12/12,Mundane
 Great Club,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",10,20 cc,,12/12,Mundane
 Whip,1,Whip,3,2 bc,,12/12,Mundane
