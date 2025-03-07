@@ -4,7 +4,7 @@
 
 |      Name      | # |                                                                             Effects                                                                             | LB | Value | Description                                                                                                                                 |
 | :------------: | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Draupnir Spear | 1 | Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus, Draupnir | 3 | ? bc | Said to have been crafted by Siren smith long ago with the blood of a god...<br /><br />This spear can be used as a Air Spellcasting Focus. |
+| Draupnir Spear | 1 | Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear (+0) (One-handed), Excellent Reach Spear, Spellcasting Focus, Draupnir | 3 | ? bc | Said to have been crafted by Siren smith long ago with the blood of a god...<br /><br />This spear can be used as a Air Spellcasting Focus. |
 
 ## Effects
 

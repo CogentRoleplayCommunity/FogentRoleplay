@@ -4,7 +4,7 @@
 
 |   Name   | # |                                                                                            Effects                                                                                            | LB | Value | Description                                                                                     |
 | :-------: | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: | :---: | ----------------------------------------------------------------------------------------------- |
-| Asclepius | 1 | Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius | 3 |   ?   | This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan. |
+| Asclepius | 1 | Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear (+0) (One-handed), Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius | 3 |   ?   | This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan. |
 
 ## Effects
 

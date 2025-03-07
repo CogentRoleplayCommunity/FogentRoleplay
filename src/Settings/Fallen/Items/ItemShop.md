@@ -143,7 +143,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |  Light Hammer  | 1 |                 Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Small Thrown Blunt                 |   2   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |      Mace      | 1 |                           Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)                           |   3   |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |     Sickle     | 1 |             Small Hafted Blade, Thrown Small Hafted Blade             |   2   |  1 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|     Spear     | 1 |                     Large Spear, Thrown Large Spear                     |   3   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|     Spear     | 1 |                     Large Spear, Thrown Large Spear (+0) (One-handed)                     |   3   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |   Battleaxe   | 1 |                            Medium Hew Melee (+0) (One-handed), Medium Hew Melee (+0) (Two-handed), Medium Hew Melee (+0) (Dual-wielded)                            |   4   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |     Flail     | 1 |                           Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)                           |   3   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |     Glaive     | 1 |                           Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)                           |   6   | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -163,7 +163,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Scimitar    | 1 |        Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+2) (One-handed), Medium Slash Melee (+2) (Dual-wielded)        |   2   | 25 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |  Arming Sword  | 1 |              Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)              |   2   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |   Shortsword   | 1 |       Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)       |  1.5  |  5 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|    Trident    | 1 |             Quality Large Spear, Quality Thrown Large Spear             |   3   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|    Trident    | 1 |             Quality Large Spear, Quality Thrown Large Spear (+0) (One-handed)             |   3   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 | Warhammer/pick | 1 |                Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded)                |   2   | 15 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 
 ### ![](ItemShop/Blacksmith.png) Blacksmith
@@ -519,8 +519,8 @@ Cheap shops will charge 50% the value for any item on this list.
 
 |        Name        | # |                     Effects                     | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :-----------------: | :-: | :---------------------------------------------: | :----: | :---: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|        Spear        | 1 |         Large Spear, Thrown Large Spear         |   3   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|       Trident       | 1 | Quality Large Spear, Quality Thrown Large Spear |   3   | 5 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|        Spear        | 1 |         Large Spear, Thrown Large Spear (+0) (One-handed)         |   3   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|       Trident       | 1 | Quality Large Spear, Quality Thrown Large Spear (+0) (One-handed) |   3   | 5 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |         Net         | 1 |                  Medium Sword                  |   3   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |   Fishing Tackle   | 1 |                                                |   4   | 1 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |       Rowboat       |  |                                                | 50 bc |      |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
