@@ -72,8 +72,8 @@ Hand Crossbow,One-handed,+1d6,0,Mediocre,Quick,None,Light Bolt,1,Pierce,Hand Cro
 Hand Crossbow,Two-handed,+1d6,0,Medium,Quick,None,Light Bolt,1,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 Hand Crossbow,Dual-wielded,+2d6,0,Mediocre,Steady,None,Light Bolt,2,Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
 ,,,,,,,,,,,,,
-Light Crossbow,One-handed,+0d6,1,Far,Steady,None,Light Bolt,1,Pierce,Light Crossbow,Crossbows balancing power and reload time. ,Indefinite,Innate
-Light Crossbow,Two-handed,+1d6,1,Far,Steady,None,Light Bolt,1,Pierce,Light Crossbow,Crossbows balancing power and reload time. ,Indefinite,Innate
+Light Crossbow,One-handed,+0d6,1,Far,Steady,None,Light Bolt,1,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Light Crossbow,Two-handed,+1d6,1,Far,Steady,None,Light Bolt,1,Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
 ,,,,,,,,,,,,,
 Heavy Crossbow,Two-handed,+2d6,2,Long,Extremely Slow,None,Heavy Bolt,1,Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
 ,,,,,,,,,,,,,
@@ -103,7 +103,7 @@ Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,One-handed,+2d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 Muzzleloading Pistol,Two-handed,+2d6,0,Medium,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
-Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Painfully Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Arquebus,One-handed,+0d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
 Arquebus,Two-handed,+2d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
