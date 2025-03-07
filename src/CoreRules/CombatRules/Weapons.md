@@ -2,7 +2,7 @@
 
 Examples of weapons include swords, bows, guns, or even a character's fists.
 
-In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, make it possible to engage opponents at far distances, all for the rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc... 
+In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, make it possible to engage opponents at far distances, enable rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc...
 
 Below is a key to help you understand the weapon tables below.
 
