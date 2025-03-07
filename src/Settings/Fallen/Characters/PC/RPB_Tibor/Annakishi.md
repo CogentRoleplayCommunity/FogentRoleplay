@@ -64,7 +64,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
 |         Unarmed         | 4d6<br />(-1) | 4d6<br />(-1) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
 | Hand Protection Unarmed | 5d6<br />(+0d6) | 5d6<br />(+0d6) |      (None)      |      0      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
-|   Large Hafted Blunt   | 5d6<br />(-1) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
+|   Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)   | 5d6<br />(-1) | 7d6<br />(+1d6) |      (None)      |      5      | Melee |     Bludgeon     |           Swift           |        None        |        None        |
 |  Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)  | 5d6<br />(+0d6) | 5d6<br />(+0d6) |       +1d6       |      2      | Melee |      Pierce      |           Swift           |        None        |        None        |
 |  Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)  | 6d6<br />(+1d6) | 6d6<br />(+1d6) |       +1d6       |      0      | Melee |       Slash       |           Swift           |        None        |        None        |
 
