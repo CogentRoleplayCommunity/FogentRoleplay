@@ -126,7 +126,7 @@
 | -------------- | :-: | ------------------------------------------------------------ | :---------------------------------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00             |                                          8                                          |                    5 bc                    |             |
 | Leather Armor  | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |                                         12                                         |                    10 bc                    |             |
-| Arming Sword   | 1 | Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slashing Sword                |                                          2                                          |                    10 bc                    |             |
+| Arming Sword   | 1 | Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)                |                                          2                                          |                    10 bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
