@@ -150,7 +150,7 @@
 | Lavender Lancer Scarf |        1        |                                                    |                                         0.5                                         |                    50 cc                    |             |
 | Bronze Coin           |        2        |                                                    |                                        0.02                                        |                    1 bc                    |             |
 | Copper Coin           |       67       |                                                    |                                        0.02                                        |                    1 cc                    |             |
-| Handaxe               |        3        | Small Hafted Axe, Thrown Small Hafted Axe          |                                          2                                          |                    5 bc                    |             |
+| Handaxe               |        3        | Small Hafted Axe, Thrown Small Hew Melee (+0) (One-handed), Thrown Small Hew Melee (+0) (Dual-wielded)          |                                          2                                          |                    5 bc                    |             |
 
 | Name           |        #        | [Effects](./../../../../../../README.md#effect-rules) | [LB](./../../../../../CoreRules/AdvancedRules/EquipmentCarryWeightAndWeightClasses.md) | [Value](./../../../Items/ItemShop.md#currency) | Description |
 | -------------- | :--------------: | -------------------------------------------------- | :---------------------------------------------------------------------------------: | :-----------------------------------------: | ----------- |
