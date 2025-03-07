@@ -19,7 +19,7 @@ Platinum Coin,1,,0.02," 1 pc",,,Mundane,
 ,,,,,,,,
 Dagger,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane,
 Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,5 bc,,15/15,Quality,
-Arming Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slashing Sword",2,10 bc,,12/12,Mundane,
+Arming Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,10 bc,,12/12,Mundane,
 Bastard Sword,1,"Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword",2.5,15 bc,,12/12,Mundane,
 Longsword,1,"Large Thrusting Sword, Large Slashing Sword",3,25 bc,,12/12,Mundane,
 Greatsword,1,"Reach Thrusting Sword, Reach Slashing Sword",6,50 bc,,12/12,Mundane,
@@ -28,9 +28,9 @@ Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",2,5 bc,,12/12,Mundane,
 Shoddy Sickle,1,"Shoddy Small Hafted Blade, Shoddy Thrown Small Hafted Blade",2,50 cc,,9/9,Shoddy,
 Sickle,1,"Small Hafted Blade, Thrown Small Hafted Blade",2,1 bc,,12/12,Mundane,
 Light Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",2,2 bc,,12/12,Mundane,
-Rapier,1,"Fine Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Shoddy Medium Slashing Sword",2,25 bc,,15/15,Quality,
-Scimitar,1,"Shoddy Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Fine Medium Slashing Sword",2,25 bc,,15/15,Quality,
-Shoddy Scimitar,1,"Damaged Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Mundane Medium Slashing Sword",2,5 bc,,9/9,Shoddy,
+Rapier,1,"Fine Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Shoddy Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,25 bc,,15/15,Quality,
+Scimitar,1,"Shoddy Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Fine Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,25 bc,,15/15,Quality,
+Shoddy Scimitar,1,"Damaged Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Mundane Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,5 bc,,9/9,Shoddy,
 Battleaxe,1,Medium Hafted Axe,3,10 bc,,12/12,Mundane,
 Flail,1,Medium Hafted Blunt,3,10 bc,,12/12,Mundane,
 Morning Star,1,"Medium Hafted Blunt, Medium Hafted Point",4,15 bc,,12/12,Mundane,
@@ -79,7 +79,7 @@ Asher's Arms Swordbreaker,1,"Fine Small Slash Melee (+0) (One-handed), Small Sla
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon.",18/18,Fine,
 Talon - Replica,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.",15/15,Quality,
 Fang - Replica,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded), Quality Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.",15/15,Quality,
-Sirius’s Sword,1,"Fine Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Fine Medium Slashing Sword",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
+Sirius’s Sword,1,"Fine Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Fine Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.",18/18,Fine,
 Staff of Defense,1,"Excellent Large Hafted Blunt, Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,,21/21,Excellent,
@@ -118,7 +118,7 @@ Destin used this blade in his time as a mercenary. He had plenty of opportunitie
 During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
 
 Shattered and broken, Destin continues to carry this blade.",12/12,Mundane,
-Epilogue,1,"Excellent Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Excellent Medium Slashing Sword, Ending",2,?,"""There is no real ending. It's just a place where you stop the story.""
+Epilogue,1,"Excellent Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Excellent Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded), Ending",2,?,"""There is no real ending. It's just a place where you stop the story.""
 
 This excellent slender bastard sword is perfectly balanced. Nimble, thin, and razor sharp.
 
@@ -141,7 +141,7 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.",24/24,Superior,
 Asclepius,1,"Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.,33/33,Mastercraft,
-Soot and Ash,1,"Epic Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Epic Medium Slashing Sword, Epic Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Epic Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",0.2,?,,39/39,Epic,
+Soot and Ash,1,"Epic Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Epic Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded), Epic Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Epic Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",0.2,?,,39/39,Epic,
 The Spear of Destiny,1,"Artifact Reach Hafted Blade, Artifact Reach Spear, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
