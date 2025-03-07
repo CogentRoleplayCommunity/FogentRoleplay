@@ -63,7 +63,7 @@
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :--: |
-| Thrown Small Piercing Blade |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |        Swift        |        None        | None |
+| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |        Swift        |        None        | None |
 
 ### Combat Spells
 
@@ -87,7 +87,7 @@
 |         Cloak, Canvas         | 1 |                                                  |                | Mundane |   12/12   |  5  | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                |
 |           Warhammer           | 1 |     Medium Hafted Blunt, Medium Hafted Point     |                | Mundane |   12/12   |  4  |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
 |         Morning Start         | 1 |                        ???                        |                |   ???   |    ???    | ??? | ?? bc |                                                                                     First loot. :D                                                                                     |
-|             Dagger             | 1 | Small Piercing Blade, Thrown Small Piercing Blade |                | Mundane |   12/12   |  1  |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|             Dagger             | 1 | Small Piercing Blade, Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |                | Mundane |   12/12   |  1  |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
 |          Silver Dust          | 1 |                        ???                        |                |   ???   |    ???    | ??? | ?? bc |                                                         Improvised weapon I prepared in haste but only used for intimidation.                                                         |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***

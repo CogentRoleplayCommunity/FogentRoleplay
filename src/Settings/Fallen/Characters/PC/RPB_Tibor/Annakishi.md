@@ -87,7 +87,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 |        Name        | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Resource<br />Class |
 | :----------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------------: | :-----------------: | :-----------------: |
-| Thrown Small Piercing Blade | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Swift           |        None        |        None        |
+| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | 5d6<br />(+0d6) | 5d6<br />(+0d6) |                  |      1      | Melee |      Pierce      |           Swift           |        None        |        None        |
 
 ***Fellcraft Ranged***
 
@@ -122,7 +122,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 |       Satchel       | 1 |                                          |   Mundane   |   12/12   | 2 |  1 bc  |                                                                                                                                                                                                |
 |        Waterskin (4/4)        | 1 |                                          |   Mundane   |   12/12   | 5 | 20 bc |                                                                                                                                                                                                |
 |    Royal Kiki Quarterstaff    | 1 |              Medium Hafter Blunt              | Mastercraft |   33/33   | 4 | ?? bc | A parting gift for a new qeueen to survive when she leaves the hive.<br />A masterfully made hard wood staff with intricate metallic plating.<br />(It's precious to her whatever it's value.) |
-|             Dagger             | 1 | Small Piercing Blade<br />Thrown Small Piercing Blade |   Mundane   |   12/12   | 1 |  2 bc  |                                               Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                               |
+|             Dagger             | 1 | Small Piercing Blade<br />Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   Mundane   |   12/12   | 1 |  2 bc  |                                               Just a normal dagger as a complementary weapon from a friendly mercenary who found her intriguing.                                               |
 |                                | 0 |                                              |   Mundane   |   12/12   | 0 |  0 bc  |                                                                                                                                                                                                |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***
@@ -142,7 +142,7 @@ B) Her story doens't make sense at Initiate tier with each Fellcraft starting at
 
 |              Name              | # |                     Class                     |  Tier  | Durability |  LB  | Value |                                    Note                                    |
 | :----------------------------: | :-: | :-------------------------------------------: | :-----: | :--------: | :--: | :----: | :-------------------------------------------------------------------------: |
-| Silver dagger (Stolen, Hidden) | 1 | Small Piercing Blade<br />Thrown Small Piercing Blade | Mundane |   12/12   |  1  |  ? bc  | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
+| Silver dagger (Stolen, Hidden) | 1 | Small Piercing Blade<br />Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | Mundane |   12/12   |  1  |  ? bc  | She stole it and keeps it hidden aware of it's potential to hurt fellkin... |
 |         Perfume (vial)         | 1 |                                          | Mundane |   12/12   | 0.1 |  5 bc  |                                                                            |
 |         Mirror, Steel         | 1 |                                          | Mundane |   12/12   | 0.5 |  5 bc  |                                                                            |
 |           Coin Purse           | 1 |                                          | Mundane |   12/12   | 0.06 |  1 bc  |                                                                            |
