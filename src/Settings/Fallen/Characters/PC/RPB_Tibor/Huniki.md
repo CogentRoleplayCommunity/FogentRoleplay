@@ -55,7 +55,7 @@
 |   Medium Hafted Blunt   |       0d6       |      +1d6      |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |        Swift        |        None        | None |
 |   Medium Hafted Point   |      +1d6      |      +2d6      |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |        Swift        |        None        | None |
 |  Small Piercing Blade  |      +0d6      |      +0d6      |    n/a (+1d6)    |      2      | Melee |      Pierce      |        Swift        |        None        | None |
-|  Small Slashing Blade  |      +1d6      |      +1d6      |    n/a (+1d6)    |      0      | Melee |       Slash       |        Swift        |        None        | None |
+|  Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)  |      +1d6      |      +1d6      |    n/a (+1d6)    |      0      | Melee |       Slash       |        Swift        |        None        | None |
 
 ### Ranged Options
 

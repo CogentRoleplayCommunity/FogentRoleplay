@@ -137,7 +137,7 @@ Cheap shops will charge 50% the value for any item on this list.
 
 |      Name      | # |                                 Effects                                 | Weight | Value | Limited<br />Stock | Rural<br />Locale | Urban<br />Locale | Premium<br />Locale |
 | :------------: | :-: | :---------------------------------------------------------------------: | :----: | :----: | :----------------: | :---------------: | :---------------: | :-----------------: |
-|     Dagger     | 1 | Small Piercing Blade, Small Slashing Blade, Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|     Dagger     | 1 | Small Piercing Blade, Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |    Handaxe    | 1 |                           Small Hafted Blade                           |   2   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |    Javelin    | 1 |                    Medium Spear, Thrown Medium Spear                    |   3   | 50 cc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |  Light Hammer  | 1 |                 Small Hafted Blunt, Small Thrown Blunt                 |   2   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -152,7 +152,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |    Halberd    | 1 |                 Reach Hafted Blade, Reach Hafted Point                 |   7   | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |    Poleaxe    | 1 |              Large Hafted Blunt, Large Hafted Blade, Spear              |   6   | 40 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |  Long Poleaxe  | 1 |       Reach Hafted Blunt, Reach Hafted Blade, Reach Hafted Point       |   7   | 41 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
-|  Swordbreaker  | 1 |                          Small Slashing Blade                          |   1   | 25 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
+|  Swordbreaker  | 1 |                          Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)                          |   1   | 25 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |   Swordstaff   | 1 |                     Reach Hafted Blade, Reach Spear                     |   6   | 50 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |     Lance     | 1 |                           Reach Hafted Point                           |   11   | 10 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |   Longsword   | 1 |               Large Thrusting Sword, Large Slashing Sword               |   3   | 25 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
@@ -162,7 +162,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Rapier     | 1 |        Fine Medium Thrusting Sword, Shoddy Medium Slashing Sword        |   2   | 25 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |    Scimitar    | 1 |        Shoddy Medium Thrusting Sword, Fine Medium Slashing Sword        |   2   | 25 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |  Arming Sword  | 1 |              Medium Thrusting Sword, Medium Slashing Sword              |   2   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
-|   Shortsword   | 1 |       Quality Small Piercing Blade, Quality Small Slashing Blade       |  1.5  |  5 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|   Shortsword   | 1 |       Quality Small Piercing Blade, Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)       |  1.5  |  5 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |    Trident    | 1 |             Quality Large Spear, Quality Thrown Large Spear             |   3   |  5 bc  |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 | Warhammer/pick | 1 |                Medium Hafted Blunt, Medium Hafted Point                |   2   | 15 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 
@@ -381,7 +381,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |     Leather Cuisses and Greaves     |        1        |                       Arm Armor, Phy. Def. 0.33                       |   2   | 1.67 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |          Leather Vambrace          |        1        |                       Leg Armor, Phy. Def. 0.33                       |   2   | 1.66 bc |       FALSE       |       FALSE       |       FALSE       |        TRUE        |
 |             -[Weapons]-             |                  |                                                                        |        |        |                    |                  |                  |                    |
-|               Dagger               |        1        | Small Piercing Blade, Small Slashing Blade, Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|               Dagger               |        1        | Small Piercing Blade, Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |   1   |  2 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |               Handaxe               |        1        |                           Small Hafted Blade                           |   2   |  10 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |            Light Hammer            |        1        |                 Small Hafted Blunt, Small Thrown Blunt                 |   2   |  2 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |            Quarterstaff            |        1        |                           Large Hafted Blunt                           |   4   |  20 cc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |

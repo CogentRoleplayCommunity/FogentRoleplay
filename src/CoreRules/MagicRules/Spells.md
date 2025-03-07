@@ -87,7 +87,7 @@ Weapon Spell Combat Roll = (Magic Skill roll) + (Weapon Spell Dice Modifiers)
 
 Almost all traditional offensive magic spells can be represented as Weapon Spells.
 
-- Bone Claws = Bodily Magic Skill + Small Slashing Blade
+- Bone Claws = Bodily Magic Skill + Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)
 - Fire Bolt = Fire Magic Skill + Light Crossbow
 - Cone of Cold = Cold Magic + Magic Medium Cone
 - Water Whip = Water Magic Skill + Whip
