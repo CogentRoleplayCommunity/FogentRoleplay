@@ -69,8 +69,8 @@ Warhammer/pick,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee
 Glaive,1,"Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)",6,20 bc,,12/12,Mundane
 Dane Axe,1,"Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed)",4,11 bc,,12/12,Mundane
 Maul,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",7,10 bc,,12/12,Mundane
-Spear,1,"Large Spear, Thrown Large Spear",3,1 bc,,12/12,Mundane
-Trident,1,"Quality Large Spear, Quality Thrown Large Spear",3,5 bc,,15/15,Quality
+Spear,1,"Large Spear, Thrown Large Spear (+0) (One-handed)",3,1 bc,,12/12,Mundane
+Trident,1,"Quality Large Spear, Quality Thrown Large Spear (+0) (One-handed)",3,5 bc,,15/15,Quality
 Poleaxe,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed), Large Spear",6,40 bc,,12/12,Mundane
 Wooden Javelin,1,"Shoddy Medium Spear, Shoddy Thrown Medium Spear",2,25 cc,,9/9,Shoddy
 Javelin,1,"Medium Spear, Thrown Medium Spear",2,50 cc,,12/12,Mundane
@@ -92,7 +92,7 @@ Heavy Crossbow,1,Heavy Crossbow,11,50 bc,,12/12,Mundane
 Heavy Longbow,1,Heavy Bow,4,50 bc,,12/12,Mundane
 Sling,1,Sling,0.5,10 cc,,12/12,Mundane
 Quarterstaff,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",4,20 cc,,12/12,Mundane
-Quarterstaff with Hidden Spear,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Spear, Thrown Large Spear",4,2 bc,,12/12,Mundane
+Quarterstaff with Hidden Spear,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Spear, Thrown Large Spear (+0) (One-handed)",4,2 bc,,12/12,Mundane
 Club,1,"Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded)",2,10 cc,,12/12,Mundane
 Great Club,1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",10,20 cc,,12/12,Mundane
 Whip,1,Whip,3,2 bc,,12/12,Mundane
@@ -101,7 +101,7 @@ Blowgun,1,Blowgun,1,10 bc,,12/12,Mundane
 ,,,,,,,
 Steelclaw,1,"Fine Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Fine Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.,18/18,Fine
 Frostbark,1,"Excellent Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed), Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle.",21/21,Excellent
-Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
+Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear (+0) (One-handed), Excellent Reach Spear, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus.",21/21,Excellent
 Asher's Arms Swordbreaker,1,"Fine Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
@@ -170,7 +170,7 @@ In the end, peace was agreed upon between the two powers. Veronica was barren, s
 The Laughing Storm, one of the greatest pirate lords and outlaws to have ever lived, turned himself over to the Reddland navy voluntarily. Sentenced to death, he was pardoned by the now Lady Veronica Reddington for his efforts in her rescue but was indebted to serve Lady Veronica for the rest of his life. Flint Storm served faithfully as Veronica’s advisor and admiral of the Reddland Navy, until their eventual unexpected marriage.
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.",24/24,Superior
-Asclepius,1,"Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.,33/33,Mastercraft
+Asclepius,1,"Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear (+0) (One-handed), Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.,33/33,Mastercraft
 Soot and Ash,1,"Epic Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Epic Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded), Epic Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Epic Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",0.2,?,,39/39,Epic
 The Spear of Destiny,1,"Artifact Reach Hafted Blade, Artifact Reach Spear, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
