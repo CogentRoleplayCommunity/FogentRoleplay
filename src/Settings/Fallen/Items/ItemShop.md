@@ -144,7 +144,7 @@ Cheap shops will charge 50% the value for any item on this list.
 |      Mace      | 1 |                           Medium Hafted Blunt                           |   3   |  5 bc  |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
 |     Sickle     | 1 |             Small Hafted Blade, Thrown Small Hafted Blade             |   2   |  1 bc  |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |     Spear     | 1 |                     Large Spear, Thrown Large Spear                     |   3   |  1 bc  |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
-|   Battleaxe   | 1 |                            Medium Hafted Axe                            |   4   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
+|   Battleaxe   | 1 |                            Medium Hew Melee (+0) (One-handed), Medium Hew Melee (+0) (Two-handed), Medium Hew Melee (+0) (Dual-wielded)                            |   4   | 10 bc |        TRUE        |       TRUE       |       TRUE       |        TRUE        |
 |     Flail     | 1 |                           Medium Hafted Blunt                           |   3   | 10 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |     Glaive     | 1 |                           Large Hafted Blade                           |   6   | 20 bc |       FALSE       |       FALSE       |       TRUE       |        TRUE        |
 |    Dane Axe    | 1 |                           Large Hafted Blade                           |   4   | 11 bc |       FALSE       |       TRUE       |       TRUE       |        TRUE        |
