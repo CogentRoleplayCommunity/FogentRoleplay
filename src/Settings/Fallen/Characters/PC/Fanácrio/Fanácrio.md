@@ -133,7 +133,7 @@
 | Gambeson Armor                | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00             |                                          8                                          |                    5 bc                    |             |
 | Leather Armor                 | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |                                         12                                         |                    10 bc                    |             |
 | Kite Shield (Dawn Emp. Crest) | 1 | Shield, Phy. Def. 2.00                                       |                                          8                                          |                    30 bc                    |             |
-| Morning Star                  | 1 | Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Hafted Point                     |                                          4                                          |                    15 bc                    |             |
+| Morning Star                  | 1 | Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded)                     |                                          4                                          |                    15 bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
