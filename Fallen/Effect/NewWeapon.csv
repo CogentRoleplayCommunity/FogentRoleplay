@@ -32,7 +32,7 @@ Medium Bludgeon Melee,One-handed,+0,+1d6,1,Melee,Swift,None,None,Bludgeon,Medium
 Medium Bludgeon Melee,Two-handed,+0,+2d6,1,Melee,Swift,None,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
 Medium Bludgeon Melee,Dual-wielded,+0,+2d6,1,Melee,Swift +1,None,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
-Medium Spear (One-handed) (+0),One-handed,+0,+2d6,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
+Medium Spear,One-handed,+0,+2d6,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
 Medium Spear,Dual-wielded,+0,+3d6,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Large Hew Melee,One-handed,+0,+0d6,1,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
@@ -47,7 +47,7 @@ Large Pierce Melee,Two-handed,+0,+2d6,2,Melee,Swift,None,None,Pierce,Large Melee
 Large Bludgeon Melee,One-handed,+0,+0d6,1,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
 Large Bludgeon Melee,Two-handed,+0,+2d6,2,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
-Large Spear (One-handed) (+0),One-handed,+0,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+Large Spear,One-handed,+0,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 Large Spear,Two-handed,+0,+2d6,2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Reach Hew Melee,One-handed,+0,-2,1,Reach,Reach Swift,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
