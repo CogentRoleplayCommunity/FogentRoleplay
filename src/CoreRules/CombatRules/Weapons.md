@@ -2,23 +2,31 @@
 
 Examples of weapons include swords, bows, guns, or even a character's fists.
 
-In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, but also how far away they can shoot something, how many opponents they can engage in a round, deal various types of damages, etc... Below is a key to help you understand the weapon tables below.
+In order to make a combat roll, a character needs to specify what weapon they will be using. Weapons can dramatically improve the chances of getting more wins on a combat roll, make it possible to engage opponents at far distances, all for the rapid engagement of multiple opponents, deal various types of damages which an opponents might be weak to, etc... 
+
+Below is a key to help you understand the weapon tables below.
 
 ##### Weapon Base Dice Tier
 
 All weapons have a [Base Dice Tier](./../GeneralRules/BaseDiceTiers.md), which measures the quality of the weapon, which is prefixed. For instance a "Quality Hand Crossbow" is a Hand Crossbow with 1d8,2d6 as it's Base Dice. If a Weapon omits it's Base Dice Tier prefix, assume it has a "Mundane" Base Dice Tier. All of the table below omit the Base Dice Tier prefix for the sake of brevity.
 
-##### One Handed
+##### Handed Variation
+
+###### One-handed
 
 The dice pool modifier added when wielding a weapon in one hand or equivalent appendage. This frees up the other hand to hold a shield, another weapon, an important item, etc...
 
-##### Two Handed
+###### Two-handed
 
 The dice pool modifier added when wielding a weapon in two hands or equivalent appendages. For characters with Primal Melee weapons such as a Bite or Horns, denotes that the creature is wholly focused on those weapons.
 
-##### Dual Wielded
+###### Dual-wielded
 
 The dice pool modifier added when dual wielding a main weapon in one hand with an off-handed weapon in the other hand. Only weapons with a Dual Wielded dice pool modifier are eligible for dual wielding. To dual wield, a character must have at least one skill point in both of the weapons held. Dual-wielding weapons that use Ammo doubles the Ammo used per opponent engaged.
+
+##### Dice Pool Mod
+
+Represents the dice pool modification that a particular weapon gives you. The better the weapon is as a force multiplier, the larger the dice pool modification.
 
 ##### Penetration
 
@@ -36,13 +44,9 @@ The amount of times a weapon be used per round. See [Uses Per Round](./UsesPerRo
 
 The shape and amount of area a weapon attack creates. See [Area Of Effect](./AreaOfEffect.md) for more details.
 
-##### Ammo Type
+##### Ammo Type And Ammo Per Use
 
-The ammo type required to use the weapon. See [Ammo Type](./Ammunitions.md#ammo-type) for more details.
-
-##### Ammo per Use
-
-The amount of Ammo consumed per use of the weapon.
+The ammo type required to use the weapon and the amount of ammo consumed per use of the weapon. See [Ammo Type](./Ammunitions.md#ammo-type) for more details.
 
 ##### Damage Types
 
@@ -50,7 +54,7 @@ The types of Damage a weapon inflicts when dealing injuries.
 
 ## Weapons
 
-|             Name             | Handed<br />Variation | Dice<br />Pool Mod | Penetration |    Range    | Uses Per<br />Round | Area Of<br />Effect | Ammo Type And<br />Amount Per Use | Damage<br />Types | Governing<br />Skill Name | desc                                                                                                                                |  duration  | source |
+|             Name             | Handed<br />Variation | Dice<br />Pool Mod | Penetration |    Range    | Uses Per<br />Round | Area Of<br />Effect | Ammo Type And<br />Ammo Per Use | Damage<br />Types | Governing<br />Skill Name | Desc                                                                                                                                |  Duration  | Source |
 | :--------------------------: | :-------------------: | :----------------: | :---------: | :----------: | :-----------------: | :-----------------: | :-------------------------------: | :---------------: | :-----------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----: |
 |           Unarmed           |      One-handed      |         -1         |      0      |    Melee    |        Swift        |        None        |               None               |     Bludgeon     |        Close Melee        | Just your bare hands. Can be used in a Grapple.                                                                                     | Indefinite | Innate |
 |                              |                      |                    |            |              |                    |                    |                                  |                  |                          |                                                                                                                                     |            |        |
