@@ -62,10 +62,10 @@ Rapier,1,"Medium Pierce Melee (+2) (One-handed), Medium Pierce Melee (+2) (Dual-
 Scimitar,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+2) (One-handed), Medium Slash Melee (+2) (Dual-wielded)",2,25 bc,,15/15,Quality
 Shoddy Scimitar,1,"Medium Pierce Melee (-1) (One-handed), Medium Pierce Melee (-1) (Dual-wielded), Medium Slash Melee (+1) (One-handed), Medium Slash Melee (+1) (Dual-wielded)",2,5 bc,,9/9,Shoddy
 Battleaxe,1,"Medium Hew Melee (+0) (One-handed), Medium Hew Melee (+0) (Two-handed), Medium Hew Melee (+0) (Dual-wielded)",3,10 bc,,12/12,Mundane
-Flail,1,Medium Hafted Blunt,3,10 bc,,12/12,Mundane
-Morning Star,1,"Medium Hafted Blunt, Medium Hafted Point",4,15 bc,,12/12,Mundane
-Mace,1,Medium Hafted Blunt,3,5 bc,,12/12,Mundane
-Warhammer/pick,1,"Medium Hafted Blunt, Medium Hafted Point",2,15 bc,,12/12,Mundane
+Flail,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)",3,10 bc,,12/12,Mundane
+Morning Star,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Hafted Point",4,15 bc,,12/12,Mundane
+Mace,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)",3,5 bc,,12/12,Mundane
+Warhammer/pick,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Hafted Point",2,15 bc,,12/12,Mundane
 Glaive,1,Large Hafted Blade,6,20 bc,,12/12,Mundane
 Dane Axe,1,Large Hafted Axe,4,11 bc,,12/12,Mundane
 Maul,1,Large Hafted Blunt,7,10 bc,,12/12,Mundane
@@ -113,7 +113,7 @@ Sirius’s Sword,1,"Medium Pierce Melee (+2) (One-handed), Medium Pierce Melee (
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.",18/18,Fine
 Staff of Defense,1,"Excellent Large Hafted Blunt, Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,,21/21,Excellent
-Monkey Staff,1,"Excellent Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Excellent Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded), Excellent Medium Hafted Blunt, Excellent Large Hafted Blunt, Excellent Reach Hafted Blunt, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+Monkey Staff,1,"Excellent Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Excellent Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded), Excellent Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Excellent Large Hafted Blunt, Excellent Reach Hafted Blunt, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.",21/21,Excellent
 Hew,1,"Excellent Medium Hew Melee (+0) (One-handed), Medium Hew Melee (+0) (Two-handed), Medium Hew Melee (+0) (Dual-wielded), Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
