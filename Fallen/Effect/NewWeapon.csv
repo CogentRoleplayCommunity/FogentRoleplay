@@ -103,7 +103,7 @@ Thrown Large Spear,One-handed,+1d6,2,Short,Quick,None,Self,1,Pierce,Large Melee,
 ,,,,,,,,,,,,,
 Muzzleloading Pistol,One-handed,+2d6,0,Mediocre,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 Muzzleloading Pistol,Two-handed,+2d6,0,Medium,Extremely Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
-Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Painfully Slow,None,Muzzleloading Pistol Cartridge,1,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Muzzleloading Pistol,Dual-wielded,+3d6,0,Mediocre,Painfully Slow,None,Muzzleloading Pistol Cartridge,2,Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 Arquebus,One-handed,+0d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
 Arquebus,Two-handed,+2d6,0,Long,Extremely Slow,None,Arquebus Cartridge,1,Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
@@ -113,15 +113,15 @@ Musket,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,Musket Cartridge,1,Bal
 ,,,,,,,,,,,,,
 9mm Semi-automatic Pistol,One-handed,+2d6,2,Extended,Reach Swift,None,9mm Ammo,1,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 9mm Semi-automatic Pistol,Two-handed,+2d6,2,Far,Reach Swift,None,9mm Ammo,1,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
-9mm Semi-automatic Pistol,Dual-wielded,+3d6,2,Extended,Reach Swift,None,9mm Ammo,1,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol,Dual-wielded,+3d6,2,Extended,Reach Swift,None,9mm Ammo,2,Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 9mm Burst-fire Pistol,One-handed,+3d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 9mm Burst-fire Pistol,Two-handed,+3d6,2,Medium,Reach Swift,None,9mm Ammo,3,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
-9mm Burst-fire Pistol,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,9mm Ammo,3,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,9mm Ammo,6,Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 9mm Automatic Pistol,One-handed,+3d6,2,Short,Rapid,None,9mm Ammo,6,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 9mm Automatic Pistol,Two-handed,+3d6,2,Mediocre,Rapid,None,9mm Ammo,6,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
-9mm Automatic Pistol,Dual-wielded,+4d6,2,Short,Rapid,None,9mm Ammo,6,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol,Dual-wielded,+4d6,2,Short,Rapid,None,9mm Ammo,12,Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,
 12 Gauge Pump-action Shotgun,One-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 12 Gauge Pump-action Shotgun,Two-handed,+3d6,2,Extended,Swift,None,12 Gauge Ammo,1,Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
