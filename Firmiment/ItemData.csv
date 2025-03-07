@@ -51,7 +51,7 @@ Dagger,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wi
 Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,5 bc,,15/15,Quality
 Arming Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,10 bc,,12/12,Mundane
 Bastard Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Two-handed), Medium Slash Melee (+0) (Dual-wielded)",2.5,15 bc,,12/12,Mundane
-Longsword,1,"Large Thrusting Sword, Large Slashing Sword",3,25 bc,,12/12,Mundane
+Longsword,1,"Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Large Slashing Sword",3,25 bc,,12/12,Mundane
 Greatsword,1,"Reach Thrusting Sword, Reach Slashing Sword",6,50 bc,,12/12,Mundane
 ,,,,,,,
 Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",2,5 bc,,12/12,Mundane
@@ -99,7 +99,7 @@ Whip,1,Whip,3,2 bc,,12/12,Mundane
 Plumbata/Dart,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",5,5 cc,,12/12,Mundane
 Blowgun,1,Blowgun,1,10 bc,,12/12,Mundane
 ,,,,,,,
-Steelclaw,1,"Fine Large Thrusting Sword, Fine Large Slashing Sword",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.,18/18,Fine
+Steelclaw,1,"Fine Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Fine Large Slashing Sword",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.,18/18,Fine
 Frostbark,1,"Excellent Large Hafted Axe, Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle.",21/21,Excellent
 Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
@@ -181,7 +181,7 @@ Eventually the Spear would end up in the possession of the Royal Family of the D
 Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…",48/48,Artifact
-Dancing Moonlight,1,"Artifact Large Thrusting Sword, Artifact Large Slashing Sword, Artifact Reach Thrusting Sword, Artifact Reach Slashing Sword, Spellcasting Focus, Moonlight Greatsword, Indestructible, Blessing of the Moon",3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
+Dancing Moonlight,1,"Artifact Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Artifact Large Slashing Sword, Artifact Reach Thrusting Sword, Artifact Reach Slashing Sword, Spellcasting Focus, Moonlight Greatsword, Indestructible, Blessing of the Moon",3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
 
 A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
 
