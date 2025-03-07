@@ -22,7 +22,7 @@ Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dua
 Arming Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)",2,10 bc,,12/12,Mundane,
 Bastard Sword,1,"Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded), Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Two-handed), Medium Slash Melee (+0) (Dual-wielded)",2.5,15 bc,,12/12,Mundane,
 Longsword,1,"Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)",3,25 bc,,12/12,Mundane,
-Greatsword,1,"Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Reach Slashing Sword",6,50 bc,,12/12,Mundane,
+Greatsword,1,"Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed)",6,50 bc,,12/12,Mundane,
 ,,,,,,,,
 Handaxe,1,"Small Hafted Axe, Thrown Small Hafted Axe",2,5 bc,,12/12,Mundane,
 Shoddy Sickle,1,"Shoddy Small Hafted Blade, Shoddy Thrown Small Hafted Blade",2,50 cc,,9/9,Shoddy,
@@ -91,7 +91,7 @@ Hew,1,"Excellent Medium Hafted Axe, Splinter",4,?,"""When you chop wood, splinte
 An unassuming double bladed, rusty, yet excellently crafted battleaxe both as versatile at chopping wood as chopping skulls.
 
 Runecraft scholars have traced the origin of this axe to the first Fellkin who began harvesting the great iron woods of Reddland. Needing a tool that was both capable of felling the great iron woods and fending back the monstrous Leshens that roamed the forest, this weapon was forged.",21/21,Excellent,
-Char - Damaged,1,"Damaged Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Damaged Reach Slashing Sword, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+Char - Damaged,1,"Damaged Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Damaged Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed), Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
 
 An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
 
@@ -100,7 +100,7 @@ Destin used this blade in his time as a mercenary. He had plenty of opportunitie
 During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
 
 Shattered and broken, Destin continues to carry this blade.",6/6,Damaged,
-Char - Shoddy,1,"Shoddy Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Shoddy Reach Slashing Sword, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+Char - Shoddy,1,"Shoddy Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Shoddy Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed), Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
 
 An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
 
@@ -109,7 +109,7 @@ Destin used this blade in his time as a mercenary. He had plenty of opportunitie
 During Destin's confrontation with the Demon Helena, he sacrificed the damaged blade for one more powerful strike to in a desperate attempt defend the fleeing prisoner’s and his friends. The sword shattered, though somehow managed to hold itself together, surging with red heat visible through the cracks. Recently, Destin has discovered that the weapon seems capable of repairing itself under extreme heat.
 
 Shattered and broken, Destin continues to carry this blade.",9/9,Shoddy,
-Char,1,"Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Reach Slashing Sword, Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
+Char,1,"Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed), Fire Repair and Enhancement",6,?,"""It has been in the family for a bit, passed down from father to son. It’ll be yours one day junior. Who knows, you might need it someday."" -Destin Shaffer Sr.
 
 An apparently mundane greatsword with a partially shattered tip “acquired” and used by Destin Shaffer. Destin took this sword when he left his mother and father. Taken because it was the least valuable weapon at his parents' blacksmith shop as his guilt prevented him from taking anything nicer. He always wondered why his step-father kept the hunk of junk leaning up against the wall.
 
@@ -151,7 +151,7 @@ Eventually the Spear would end up in the possession of the Royal Family of the D
 Whatever their heart truly desires will begin to manifest in the world. This is regardless of what the users think they want, it is what they truly desire.If the spear is claimed from combat or stolen by another, then the loser loses all their power. They will die in the coming days of mysterious causes.
 
 The most famous of these was Booker Twins, the Golden Patriot. Seen as a symbol of strength and honor to the people of the Dawn Empire. Those that oppose the Dawn Empire had a much different perspective…",48/48,Artifact,
-Dancing Moonlight,1,"Artifact Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Artifact Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed), Artifact Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Artifact Reach Slashing Sword, Spellcasting Focus, Moonlight Greatsword, Indestructible, Blessing of the Moon",3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
+Dancing Moonlight,1,"Artifact Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Artifact Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed), Artifact Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed), Artifact Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed), Spellcasting Focus, Moonlight Greatsword, Indestructible, Blessing of the Moon",3,?,"""Ah, you were at my side all along. My true mentor. My guiding moonlight."" - Unknown
 
 A mythic arcane longsword discovered by the first Sirens who first inhabited what is known as Reddland today. Said to be a sign of divine favor to those chosen by the Moon Presence of Terra. As a manifestation of the Moon Presence on Terra, the wielder gains access to the wisdom and power of the moon presence.
 

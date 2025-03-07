@@ -51,7 +51,7 @@ Reach Hafted Blade,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,3,Rea
 Reach Hafted Point,Weapon for Combat Rolls.,Indefinite,Innate,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Hafted
 Reach Hafted Blunt,Weapon for Combat Rolls.,Indefinite,Innate,-2,+2d6,None,5,Reach,Reach Swift,,None,,Bludgeon,Reach Melee,Reach Hafted
 Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed),Weapon for Combat Rolls.,Indefinite,Innate,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Sword
-Reach Slashing Sword,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Sword
+Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed),Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Sword
 Reach Spear,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,4,Reach,Steady,,None,,Pierce,Reach Melee,Reach Spear
 Whip,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Reach,Swift,,None,,Slash,Exotic Melee,Whip
 ,,,,,,,,,,,,,,,
