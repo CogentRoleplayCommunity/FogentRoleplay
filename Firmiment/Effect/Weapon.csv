@@ -28,7 +28,7 @@ Torch,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,N
 Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Close Melee,Small Blade
 Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Close Melee,Small Blade
 ,,,,,,,,,,,,,,,
-Medium Hafted Axe,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Hew,Medium Melee,Medium Hafted
+Medium Hew Melee (+0) (One-handed), Medium Hew Melee (+0) (Two-handed), Medium Hew Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Hew,Medium Melee,Medium Hafted
 Medium Hafted Blade,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+3d6,+1d6,1,Melee,Swift,,None,,Slash,Medium Melee,Medium Hafted
 Medium Hafted Point,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,+2d6,+1d6,2,Melee,Swift,,None,,Pierce,Medium Melee,Medium Hafted
 Medium Hafted Blunt,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,+1d6,+1d6,4,Melee,Swift,,None,,Bludgeon,Medium Melee,Medium Hafted
