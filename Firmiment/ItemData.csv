@@ -48,7 +48,7 @@ Gold Coin,1,,0.02," 1 gc",,,Mundane
 Platinum Coin,1,,0.02," 1 pc",,,Mundane
 ,,,,,,,
 Dagger,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
-Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",1.5,5 bc,,15/15,Quality
+Shortsword,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,5 bc,,15/15,Quality
 Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",2,10 bc,,12/12,Mundane
 Bastard Sword,1,"Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword",2.5,15 bc,,12/12,Mundane
 Longsword,1,"Large Thrusting Sword, Large Slashing Sword",3,25 bc,,12/12,Mundane
@@ -107,8 +107,8 @@ This spear can be used as a Air Spellcasting Focus.",21/21,Excellent
 Asher's Arms Swordbreaker,1,"Fine Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon.",18/18,Fine
-Talon - Replica,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.",15/15,Quality
-Fang - Replica,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Quality Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.",15/15,Quality
+Talon - Replica,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded)",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.",15/15,Quality
+Fang - Replica,1,"Small Pierce Melee (+1) (One-handed), Small Pierce Melee (+1) (Dual-wielded), Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded), Quality Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.",15/15,Quality
 Sirius’s Sword,1,"Fine Medium Thrusting Sword, Fine Medium Slashing Sword",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.",18/18,Fine
@@ -204,7 +204,7 @@ Asher’s Arms Bollock Dagger,1,"Superior Small Pierce Melee (+0) (One-handed), 
 Dragon Torch,1,"Artifact Torch, Spellcasting Focus",3,9999 bc,,48/48,Artifact
 Shovel,1,Shoddy Large Hafted Blunt,5,2 bc,,9/9,Shoddy
 Excellent Light Longbow,1,Excellent Light Bow,2,25 bc,,21/21,Excellent
-Quality Swordbreaker,1,"Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,28 bc,,12/12,Mundane
+Quality Swordbreaker,1,"Small Slash Melee (+1) (One-handed), Small Slash Melee (+1) (Dual-wielded), Shoddy Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,28 bc,,12/12,Mundane
 Torch,1,Shoddy Torch,1,1 cc,,9/9,Shoddy
 Shiv,1,"Shoddy Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Shoddy Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,70 cc,,9/9,Shoddy
 Shoddy Club,1,"Shoddy Small Hafted Blunt, Shoddy Thrown Small Hafted Blunt",2,10 cc,,9/9,Shoddy
