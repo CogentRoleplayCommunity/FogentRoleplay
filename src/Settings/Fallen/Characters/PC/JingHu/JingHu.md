@@ -133,7 +133,7 @@
 | ------------------------------ | :-: | ------------------------------------------------------------ | :---------------------------------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor                 | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00             |                                          8                                          |                    5 bc                    |             |
 | Leather Armor                  | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Phy. Def. 2.00 |                                         12                                         |                    10 bc                    |             |
-| Quarterstaff with Hidden Spear | 1 | Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Spear, Thrown Large Spear (+0) (One-handed)          |                                          4                                          |                    2 bc                    |             |
+| Quarterstaff with Hidden Spear | 1 | Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Large Spear (+0) (One-handed), Large Spear (+0) (Two-handed), Thrown Large Spear (+0) (One-handed)          |                                          4                                          |                    2 bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
