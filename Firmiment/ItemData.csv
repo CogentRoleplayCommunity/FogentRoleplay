@@ -67,11 +67,11 @@ Morning Star,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (
 Mace,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)",3,5 bc,,12/12,Mundane
 Warhammer/pick,1,"Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded)",2,15 bc,,12/12,Mundane
 Glaive,1,"Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)",6,20 bc,,12/12,Mundane
-Dane Axe,1,Large Hafted Axe,4,11 bc,,12/12,Mundane
+Dane Axe,1,"Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed)",4,11 bc,,12/12,Mundane
 Maul,1,Large Hafted Blunt,7,10 bc,,12/12,Mundane
 Spear,1,"Large Spear, Thrown Large Spear",3,1 bc,,12/12,Mundane
 Trident,1,"Quality Large Spear, Quality Thrown Large Spear",3,5 bc,,15/15,Quality
-Poleaxe,1,"Large Hafted Blunt, Large Hafted Axe, Large Spear",6,40 bc,,12/12,Mundane
+Poleaxe,1,"Large Hafted Blunt, Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed), Large Spear",6,40 bc,,12/12,Mundane
 Wooden Javelin,1,"Shoddy Medium Spear, Shoddy Thrown Medium Spear",2,25 cc,,9/9,Shoddy
 Javelin,1,"Medium Spear, Thrown Medium Spear",2,50 cc,,12/12,Mundane
 Swordstaff,1,"Reach Hafted Blade, Reach Spear",6,50 bc,,12/12,Mundane
@@ -100,7 +100,7 @@ Plumbata/Dart,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (
 Blowgun,1,Blowgun,1,10 bc,,12/12,Mundane
 ,,,,,,,
 Steelclaw,1,"Fine Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Fine Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed)",3,25 bc,This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame.,18/18,Fine
-Frostbark,1,"Excellent Large Hafted Axe, Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle.",21/21,Excellent
+Frostbark,1,"Excellent Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed), Spellcasting Focus, Cold Enchantment",4,? bc,"A Dane axe imbued with the frost found on the high peaks of the Spine of the World. Its solid oak handle appears grown into the axe head, securing it solidly in place. Latent nature and cold magic is present within the handle.",21/21,Excellent
 Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus.",21/21,Excellent
@@ -199,7 +199,7 @@ Guardian Shield,1,"Shield, Phy. Def. 2.00, Retractable Shield",8,7 bc,"A medium 
 Sharp Cap,1,Shoddy Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded),0.5,2 bc,,9/9,Shoddy
 Net,1,,3,1 bc,,12/12,Mundane
 Bodkin Knife,1,"Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
-War Axe,1,Large Hafted Axe,5,5 bc,,12/12,Mundane
+War Axe,1,"Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed)",5,5 bc,,12/12,Mundane
 Asher’s Arms Bollock Dagger,1,"Superior Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Superior Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Superior Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,10 bc,,24/24,Superior
 Dragon Torch,1,"Artifact Torch, Spellcasting Focus",3,9999 bc,,48/48,Artifact
 Shovel,1,Shoddy Large Hafted Blunt,5,2 bc,,9/9,Shoddy
