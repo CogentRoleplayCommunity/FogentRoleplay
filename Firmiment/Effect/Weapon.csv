@@ -23,7 +23,7 @@ Spiked Hand Protection Unarmed,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,N
 Small Hew Melee (+0) (One-handed), Small Hew Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Hew,Close Melee,Small Hafted
 Small Hafted Blade,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Close Melee,Small Hafted
 Small Hafted Point,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Close Melee,Small Hafted
-Small Hafted Blunt,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Bludgeon,Close Melee,Small Hafted
+Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Bludgeon,Close Melee,Small Hafted
 Torch,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,"Bludgeon, Fire",Close Melee,Small Hafted
 Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Close Melee,Small Blade
 Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Close Melee,Small Blade
