@@ -20,7 +20,7 @@ Unarmed,Weapon for Combat Rolls.,Indefinite,Innate,-1,None,+0d6,0,Melee,Swift,,N
 Hand Protection Unarmed,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+0d6,0,Melee,Swift,,None,,Bludgeon,Close Melee,Unarmed
 Spiked Hand Protection Unarmed,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+0d6,0,Melee,Swift,,None,,Pierce,Close Melee,Unarmed
 ,,,,,,,,,,,,,,,
-Small Hafted Axe,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Hew,Close Melee,Small Hafted
+Small Hew Melee (+0) (One-handed), Small Hew Melee (+0) (Dual-wielded),Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Hew,Close Melee,Small Hafted
 Small Hafted Blade,Weapon for Combat Rolls.,Indefinite,Innate,+1d6,None,+1d6,0,Melee,Swift,,None,,Slash,Close Melee,Small Hafted
 Small Hafted Point,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Pierce,Close Melee,Small Hafted
 Small Hafted Blunt,Weapon for Combat Rolls.,Indefinite,Innate,+0d6,None,+1d6,2,Melee,Swift,,None,,Bludgeon,Close Melee,Small Hafted
