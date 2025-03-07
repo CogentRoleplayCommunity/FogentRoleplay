@@ -17,8 +17,8 @@ Bronze Coin,1,,0.02," 1 bc",,,Mundane
 Gold Coin,1,,0.02," 1 gc",,,Mundane
 Platinum Coin,1,,0.02," 1 pc",,,Mundane
 ,,,,,,,
-Dagger,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
-Shortsword,1,"Quality Small Piercing Blade, Quality Small Slashing Blade",1.5,5 bc,,15/15,Quality
+Dagger,1,"Small Piercing Blade, Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
+Shortsword,1,"Quality Small Piercing Blade, Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",1.5,5 bc,,15/15,Quality
 Arming Sword,1,"Medium Thrusting Sword, Medium Slashing Sword",2,10 bc,,12/12,Mundane
 Bastard Sword,1,"Medium Versatile Thrusting Sword, Medium Versatile Slashing Sword",2.5,15 bc,,12/12,Mundane
 Longsword,1,"Large Thrusting Sword, Large Slashing Sword",3,25 bc,,12/12,Mundane
@@ -49,7 +49,7 @@ Halberd,1,"Reach Hafted Blade, Reach Hafted Point, Reach Spear",7,20 bc,,12/12,M
 Long Poleaxe,1,"Reach Hafted Blunt, Reach Hafted Axe, Reach Spear",7,41 bc,,12/12,Mundane
 Lance,1,Reach Spear,11,10 bc,,12/12,Mundane
 Pike,1,Reach Spear,5,5 bc,,12/12,Mundane
-Swordbreaker,1,"Small Slashing Blade, Thrown Small Slashing Blade, Swordbreaker Blade Catch",1,25 bc,,12/12,Mundane
+Swordbreaker,1,"Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,25 bc,,12/12,Mundane
 Crowbar,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",5,2 bc,,12/12,Mundane
 Hammer,1,"Small Hafted Blunt, Thrown Small Hafted Blunt",3,1 bc,,12/12,Mundane
 "Hammer, Sledge",1,Large Hafted Blunt,10,2 bc,,12/12,Mundane
@@ -74,11 +74,11 @@ Frostbark,1,"Excellent Large Hafted Axe, Spellcasting Focus, Cold Enchantment",4
 Draupnir Spear,1,"Excellent Medium Spear, Excellent Thrown Medium Spear, Excellent Large Spear, Excellent Thrown Large Spear, Excellent Reach Spear, Spellcasting Focus, Draupnir",3,? bc,"Said to have been crafted by Siren smith long ago with the blood of a god...
 
 This spear can be used as a Air Spellcasting Focus.",21/21,Excellent
-Asher's Arms Swordbreaker,1,"Fine Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
+Asher's Arms Swordbreaker,1,"Fine Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Small Piercing Blade, Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,?,"A fine swordbreaker purchased from Asher’s Arm, a well regarded establishment in Reddwall known for their grayish blue steel. Swordbreakers were a favorite weapon of Lord Flint Reddington. He commissioned many swordbreakers just like this one for use in dueling.
 
 Swordbreakers, often wielded offhand to a main hand sword. They are designed to catch and bind the opponent's blade, leaving the opponent open for a decisive attack from the main hand weapon.",18/18,Fine
-Talon - Replica,1,"Quality Small Piercing Blade, Quality Small Slashing Blade",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.",15/15,Quality
-Fang - Replica,1,"Quality Small Piercing Blade, Quality Small Slashing Blade, Quality Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.",15/15,Quality
+Talon - Replica,1,"Quality Small Piercing Blade, Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",1.5,?,"Quality shortsword taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Talon short sword, a Despereaux family heirloom.",15/15,Quality
+Fang - Replica,1,"Quality Small Piercing Blade, Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Quality Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,?,"Quality karambit knife taken from the Despereaux armories by Luzca Despereaux. Made to emulate the Fang karambit knife, a Despereaux family heirloom.",15/15,Quality
 Sirius’s Sword,1,"Fine Medium Thrusting Sword, Fine Medium Slashing Sword",2,?,"Fine arming sword of Sirius Roseblood, first of his name. A fine sword, marked with the emblem of the dwindling House Roseblood on the crossguard.
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.",18/18,Fine
@@ -141,7 +141,7 @@ The Laughing Storm, one of the greatest pirate lords and outlaws to have ever li
 
 Veronica and Flint tried for children many times, but tragedy struck every time. After years of trying, Veronica eventually bore a sickly heir, a daughter with hair as white as the full moons.",24/24,Superior
 Asclepius,1,"Mastercraft Medium Spear, Mastercraft Throw Medium Spear, Mastercraft Large Spear, Mastercraft Thrown Large Spear, Mastercraft Reach Spear, Mastercraft Whip, Metal Feeding, Command Asclepius",3,?,This mastercrafted 5 foot golden snake was crafted by those that worshiped the Great Leviathan.,33/33,Mastercraft
-Soot and Ash,1,"Epic Medium Thrusting Sword, Epic Medium Slashing Sword, Epic Small Piercing Blade, Epic Small Slashing Blade",0.2,?,,39/39,Epic
+Soot and Ash,1,"Epic Medium Thrusting Sword, Epic Medium Slashing Sword, Epic Small Piercing Blade, Epic Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)",0.2,?,,39/39,Epic
 The Spear of Destiny,1,"Artifact Reach Hafted Blade, Artifact Reach Spear, Spellcasting Focus, Destiny Chosen, Super Strength, Super Reflex, Indestructible",14,?,"""Long ago, before the time of Fellkin or Brightkin, this weapon is said to have killed a piece of a god. The Bright Lord bestowed this weapon on his most loyal ally to do the same again."" - Ancient texts
 
 The Spear of Destiny, a massive artifact Swordspear,  is the most famous artifact on the continent. The Spear was first wielded by the Amon, Spear of the Brights, in service of The Bright Lord. Though in time, Amon would use the Spear in an attempt to overthrow The Bright Lord.
@@ -166,17 +166,17 @@ Sword of Luc Lightbringer. The hilt acts as a Miracles focus, allowing for devas
 
 This sword was used in the execution of Helena by Uhtred Storm at Luc's order, though it was only used to subdue her and did not deal the final blow.",18/18,Fine
 Guardian Shield,1,"Shield, Phy. Def. 2.00, Retractable Shield",8,7 bc,"A medium shield capable of retracting into a small wrist item. This type of retractable shield is common across Terra, surviving as an easy means to always have a shield at one's disposal.",24/24,Superior
-Sharp Cap,1,Shoddy Small Slashing Blade,0.5,2 bc,,9/9,Shoddy
+Sharp Cap,1,Shoddy Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded),0.5,2 bc,,9/9,Shoddy
 Net,1,,3,1 bc,,12/12,Mundane
-Bodkin Knife,1,"Small Piercing Blade, Small Slashing Blade, Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
+Bodkin Knife,1,"Small Piercing Blade, Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,2 bc,,12/12,Mundane
 War Axe,1,Large Hafted Axe,5,5 bc,,12/12,Mundane
-Asher’s Arms Bollock Dagger,1,"Superior Small Piercing Blade, Superior Small Slashing Blade, Superior Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,10 bc,,24/24,Superior
+Asher’s Arms Bollock Dagger,1,"Superior Small Piercing Blade, Superior Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Superior Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,10 bc,,24/24,Superior
 Dragon Torch,1,"Artifact Torch, Spellcasting Focus",3,9999 bc,,48/48,Artifact
 Shovel,1,Shoddy Large Hafted Blunt,5,2 bc,,9/9,Shoddy
 Excellent Light Longbow,1,Excellent Light Bow,2,25 bc,,21/21,Excellent
-Quality Swordbreaker,1,"Quality Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,28 bc,,12/12,Mundane
+Quality Swordbreaker,1,"Quality Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Small Piercing Blade, Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,28 bc,,12/12,Mundane
 Torch,1,Shoddy Torch,1,1 cc,,9/9,Shoddy
-Shiv,1,"Shoddy Small Piercing Blade, Shoddy Small Slashing Blade, Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,70 cc,,9/9,Shoddy
+Shiv,1,"Shoddy Small Piercing Blade, Shoddy Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Shoddy Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded)",1,70 cc,,9/9,Shoddy
 Shoddy Club,1,"Shoddy Small Hafted Blunt, Shoddy Thrown Small Hafted Blunt",2,10 cc,,9/9,Shoddy
 Caestus,1,Hand Protection Unarmed,2,1.66 bc,,12/12,Mundane
 Spiked Caestus,1,Spiked Hand Protection Unarmed,2,3 bc,,12/12,Mundane
