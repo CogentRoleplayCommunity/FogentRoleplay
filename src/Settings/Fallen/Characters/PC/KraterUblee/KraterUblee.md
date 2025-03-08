@@ -138,7 +138,7 @@
 | --------------- | :-: | ------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------: | :-----------------------------------------: | ----------- |
 | Gambeson Armor  | 1 | Body Armor, Arm Armor, Leg Armor, Phy. Def. 1.00                                      |                                          8                                          |                    5 bc                    |             |
 | Chainmail Armor | 1 | Head Armor, Body Armor, Arm Armor, Leg Armor, Hand Protection Unarmed, Phy. Def. 3.00 |                                         47                                         |                    75 bp                    |             |
-| Frostbark       | 1 | Excellent Large Hew Melee (+0) (One-handed), Large Hew Melee (+0) (Two-handed), Spellcasting Focus, Cold Enchantment                      |                                          4                                          |                    ? bc                    |             |
+| Frostbark       | 1 | Large Hew Melee (+3) (One-handed), Large Hew Melee (+3) (Two-handed), Spellcasting Focus, Cold Enchantment                      |                                          4                                          |                    ? bc                    |             |
 
 ## [Containers](./../../../../../CoreRules/AdvancedRules/Containers.md)
 
