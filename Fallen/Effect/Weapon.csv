@@ -47,7 +47,7 @@ Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed),Weapon 
 Large Spear,Weapon for Combat Rolls.,Indefinite,Innate,+2d6,+3d6,None,3,Melee,Quick,,None,,Pierce,Large Melee,Large Spear
 ,,,,,,,,,,,,,,,
 Reach Hafted Axe,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,3,Reach,Reach Swift,,None,,Hew,Reach Melee,Reach Hafted
-Reach Hafted Blade,Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted
+Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed),Weapon for Combat Rolls.,Indefinite,Innate,-2,+4d6,None,3,Reach,Reach Swift,,None,,Slash,Reach Melee,Reach Hafted
 Reach Hafted Point,Weapon for Combat Rolls.,Indefinite,Innate,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Hafted
 Reach Hafted Blunt,Weapon for Combat Rolls.,Indefinite,Innate,-2,+2d6,None,5,Reach,Reach Swift,,None,,Bludgeon,Reach Melee,Reach Hafted
 Reach Pierce Melee (+0) (One-handed), Reach Pierce Melee (+0) (Two-handed),Weapon for Combat Rolls.,Indefinite,Innate,-2,+3d6,None,4,Reach,Reach Swift,,None,,Pierce,Reach Melee,Reach Sword
