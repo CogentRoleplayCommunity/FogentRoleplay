@@ -123,7 +123,7 @@ Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,1,Sharpshooter,Painfully Slow
 9mm Automatic Pistol (+0) (Two-handed),9mm Automatic Pistol,+0,Two-handed,+3d6,2,Mediocre,Rapid,None,"9mm Ammo, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 9mm Automatic Pistol (+0) (Dual-wielded),9mm Automatic Pistol,+0,Dual-wielded,+4d6,2,Short,Rapid,None,"9mm Ammo, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
-12 Gauge Pump-action Shotgun (+0) (One-handed),12 Gauge Pump-action Shotgun,+0,One-handed,+3d6,2,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
+12 Gauge Pump-action Shotgun (+0) (One-handed),12 Gauge Pump-action Shotgun,+0,One-handed,+1d6,2,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 12 Gauge Pump-action Shotgun (+0) (Two-handed),12 Gauge Pump-action Shotgun,+0,Two-handed,+3d6,2,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
 ,,,,,,,,,,,,,,
 5.56 Semi-automatic Rifle (+0) (One-handed),5.56 Semi-automatic Rifle,+0,One-handed,+1d6,3,Extreme,Reach Swift,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
