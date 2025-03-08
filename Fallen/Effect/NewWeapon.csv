@@ -62,8 +62,8 @@ Reach Pierce Melee (+0) (Two-handed),Reach Pierce Melee,+0,Two-handed,+3d6,3,Rea
 Reach Bludgeon Melee (+0) (One-handed),Reach Bludgeon Melee,+0,One-handed,-2,1,Reach,Reach Swift,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Reach Bludgeon Melee (+0) (Two-handed),Reach Bludgeon Melee,+0,Two-handed,+3d6,3,Reach,Reach Swift,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
-Reach Spear (+0) (One-handed),Reach Spear,+0,One-handed,-2,1,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
-Reach Spear (+0) (Two-handed),Reach Spear,+0,Two-handed,+3d6,3,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Spear (+0) (One-handed),"Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",+0,One-handed,-2,1,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Spear (+0) (Two-handed),"Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",+0,Two-handed,+3d6,3,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 ,,,,,,,,,,,,,,
 Whip (+0) (One-handed),Whip,+0,One-handed,+0d6,0,Reach,Swift,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
 Whip (+0) (Dual-wielded),Whip,+0,Dual-wielded,+1d6,0,Reach,Swift +1,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
