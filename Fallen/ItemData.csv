@@ -40,7 +40,7 @@ Smithing Stone Shard,1,,0.2,50 bc,,,Superior,,
 Large Smithing Stone Shard,1,,1,100 bc,,,Mastercraft,,
 Smithing Stone Chunk,1,,5,250 bc,,,Legendary,,
 Smithing Stone Slab,1,,40,?,,,Artifact,,
-Ogre's Spiked Club,1,"Reach Hafted Blunt, Reach Hafted Point",14,41 cc,,12/12,Mundane,,
+Ogre's Spiked Club,1,"Reach Bludgeon Melee (+0) (One-handed), Reach Bludgeon Melee (+0) (Two-handed), Reach Hafted Point",14,41 cc,,12/12,Mundane,,
 Leather Cuisses and Greaves of Speed,1,"Leg Armor, Phy. Def. 0.5, Minorly Enhanced Athletics",3,2 bc,,12/12,Mundane,,
 Tin Coins,1,,0.02,1 tc,,,Mundane,,
 Copper Coin,1,,0.02," 1 cc",,,Mundane,,
@@ -77,7 +77,7 @@ Wooden Javelin,1,"Medium Spear (-1) (One-handed), Medium Spear (-1) (Dual-wielde
 Javelin,1,"Medium Spear (+0) (One-handed), Medium Spear (+0) (Dual-wielded), Thrown Medium Spear (+0) (One-handed)",2,50 cc,,12/12,Mundane,,
 Swordstaff,1,"Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed), Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",6,50 bc,,12/12,Mundane,,
 Halberd,1,"Reach Slash Melee (+0) (One-handed), Reach Slash Melee (+0) (Two-handed), Reach Hafted Point, Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",7,20 bc,,12/12,Mundane,,
-Long Poleaxe,1,"Reach Hafted Blunt, Reach Hafted Axe, Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",7,41 bc,,12/12,Mundane,,
+Long Poleaxe,1,"Reach Bludgeon Melee (+0) (One-handed), Reach Bludgeon Melee (+0) (Two-handed), Reach Hafted Axe, Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",7,41 bc,,12/12,Mundane,,
 Lance,1,"Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",11,10 bc,,12/12,Mundane,,
 Pike,1,"Reach Spear (+0) (One-handed), Reach Spear (+0) (Two-handed)",5,5 bc,,12/12,Mundane,,
 Swordbreaker,1,"Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Thrown Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded), Swordbreaker Blade Catch",1,25 bc,,12/12,Mundane,,
@@ -114,7 +114,7 @@ Sirius’s Sword,1,"Medium Pierce Melee (+2) (One-handed), Medium Pierce Melee (
 
 House Roseblood isn't as wealthy as it once was during the height of the witch queen's reign. As a result, they do not have the coin for the finest craftsmen for children’s swords, owing to the more modest nature of this sword.",18/18,Fine,,
 Staff of Defense,1,"Excellent Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Spellcasting Focus, Defense Spells, Physical Defense 1.00",3,?,,21/21,Excellent,,
-Monkey Staff,1,"Excellent Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Excellent Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded), Excellent Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Excellent Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Excellent Reach Hafted Blunt, Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
+Monkey Staff,1,"Excellent Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Excellent Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded), Excellent Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Excellent Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed), Excellent Reach Bludgeon Melee (+0) (One-handed), Reach Bludgeon Melee (+0) (Two-handed), Extendable Weapon",4,?,"""Monkey see, Monkey do"" - Arinoth the Enlightened
 
 A staff from the Jungles of Leodelphia. This is all that remains of Arinoth the Enlightened's home.",21/21,Excellent,,
 Hew,1,"Excellent Medium Hew Melee (+0) (One-handed), Medium Hew Melee (+0) (Two-handed), Medium Hew Melee (+0) (Dual-wielded), Splinter",4,?,"""When you chop wood, splinters fly.""  - Anonymous
