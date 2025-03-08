@@ -4,7 +4,7 @@
 
 |   Name   | # |                                 Effects                                 | LB | Value | Description                                                                                                                   |
 | :-------: | :-: | :----------------------------------------------------------------------: | :-: | :---: | ----------------------------------------------------------------------------------------------------------------------------- |
-| Steelclaw | 1 | Fine Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed), Fine Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed), The Anatoli Curse | 3 | 25 bc | This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame. |
+| Steelclaw | 1 | Large Pierce Melee (+2) (One-handed), Large Pierce Melee (+2) (Two-handed), Fine Large Slash Melee (+0) (One-handed), Large Slash Melee (+0) (Two-handed), The Anatoli Curse | 3 | 25 bc | This sword was cursed upon Vasilii Anatoli after using it to kill his eldest brother. It is a constant reminder of his shame. |
 
 ## Effects
 
