@@ -1,5 +1,4 @@
 name,quantity,itemEffects,weight,value,description,durability,oldItemTier,,,
-name,quantity,itemEffects,weight,value,description,durability,oldItemTier,,,
 Engineering Suit,1,"Phy. Def. 4.00, Space Vacuum Life Support",12,10 bc,"Head Armor, Body Armor, Arm Armor, Leg Armor",15/15,Quality,,,
 Security Suit,1,"Phy. Def. 5.00, Space Vacuum Life Support",12,10 bc,"Head Armor, Body Armor, Arm Armor, Leg Armor",15/15,Quality,,,
 Advanced Suit,1,"Phy. Def. 6.00, Space Vacuum Life Support",12,10 bc,"Head Armor, Body Armor, Arm Armor, Leg Armor",15/15,Quality,,,
