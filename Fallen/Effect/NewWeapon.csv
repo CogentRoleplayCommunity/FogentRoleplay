@@ -81,7 +81,7 @@ Light Bow (+0) (Two-handed),Light Bow,+0,Two-handed,+1d6,0,Far,Swift,None,"Light
 ,,,,,,,,,,,,,,
 Heavy Bow (+0) (Two-handed),Heavy Bow,+0,Two-handed,+2d6,2,Sharpshooter,Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
 ,,,,,,,,,,,,,,
-Blowgun (+0) (Two-handed),Blowgun,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+Blowgun (+0) (One-handed),Blowgun,+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
 ,,,,,,,,,,,,,,
 Sling (+0) (Two-handed),Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
 ,,,,,,,,,,,,,,
