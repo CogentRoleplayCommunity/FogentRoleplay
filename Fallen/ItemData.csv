@@ -84,7 +84,7 @@ Swordbreaker,1,"Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dua
 Crowbar,1,"Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded)",5,2 bc,,12/12,Mundane,,
 Hammer,1,"Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded), Thrown Small Bludgeon Melee (+0) (One-handed), Thrown Small Bludgeon Melee (+0) (Dual-wielded)",3,1 bc,,12/12,Mundane,,
 "Hammer, Sledge",1,"Large Bludgeon Melee (+0) (One-handed), Large Bludgeon Melee (+0) (Two-handed)",10,2 bc,,12/12,Mundane,,
-"Pick, Miner's",1,Large Hafted Point,10,2 bc,,12/12,Mundane,,
+"Pick, Miner's",1,"Large Pierce Melee (+0) (One-handed), Large Pierce Melee (+0) (Two-handed)",10,2 bc,,12/12,Mundane,,
 Light Crossbow,1,Light Crossbow,5,25 bc,,12/12,Mundane,,
 Light Longbow,1,Light Bow,2,25 bc,,12/12,Mundane,,
 Shoddy Light Longbow,1,Shoddy Light Bow,2,15 bc,,9/9,Shoddy,,
