@@ -51,7 +51,7 @@
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :--: |
 |         Unarmed         |      -1d6      |      -1d6      |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
-| Hand Protection Unarmed |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
+| Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded) |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
 |   Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)   |       0d6       |      +1d6      |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |        Swift        |        None        | None |
 |   Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded)   |      +1d6      |      +2d6      |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |        Swift        |        None        | None |
 |  Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)  |      +0d6      |      +0d6      |    n/a (+1d6)    |      2      | Melee |      Pierce      |        Swift        |        None        | None |
