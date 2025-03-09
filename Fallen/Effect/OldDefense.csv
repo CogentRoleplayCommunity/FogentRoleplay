@@ -1,0 +1,10 @@
+name,desc,duration,source,Slash,Pierce,Bludgeon,Hew,Ballistic,Shockwave,Fire,Electric,Radiant,Acid,Cold,Silver,Poison,Necrotic,Bleed,Suffocation,Psychic,Spiritual
+Gambeson Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,3,2,1,3,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+Leather Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chainmail Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,4,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brigandine Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,4,3,3,4,0,1,2,2,2,2,0,0,0,0,0,0,0,0
+Plate Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,5,4,4,5,1,1,2,2,2,2,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+Metal Small Shield,Shield,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metal Medium Shield,Shield,,,2,2,2,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+Metal Large Shield,Shield,,,3,3,3,3,0,0,2,2,2,2,0,0,0,0,0,0,0,0
