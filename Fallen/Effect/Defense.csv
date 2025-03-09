@@ -1,29 +1,10 @@
-name,desc,duration,source,defenseType,amount
-Phy. Def. 0.33,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.33
-Phy. Def. 0.34,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.34
-Phy. Def. 0.375,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.375
-Phy. Def. 0.38,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.38
-Phy. Def. 0.39,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.39
-Phy. Def. 0.5,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.5
-Phy. Def. 0.53,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.53
-Phy. Def. 0.625,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.625
-Phy. Def. 0.7,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.7
-Phy. Def. 0.77,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.77
-Phy. Def. 0.92,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,0.92
-Phy. Def. 1.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,1.00
-Phy. Def. 1.15,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,1.15
-Phy. Def. 1.23,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,1.23
-Phy. Def. 1.69,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,1.69
-Phy. Def. 2.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,2.00
-Phy. Def. 2.01,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,2.01
-Phy. Def. 3.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,3.00
-Phy. Def. 4.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,4.00
-Phy. Def. 5.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,5.00
-Phy. Def. 6.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,6.00
-Phy. Def. 7.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,7.00
-Phy. Def. 8.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,8.00
-Phy. Def. 9.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,9.00
-Phy. Def. 10.00,Used for resisting injuries from Physical Damage Types.,Indefinite,Innate,Physical,10.00
-Bodily Defense 1.00,Used for resisting injuries from Bodily Damage Types.,Indefinite,Innate,Bodily,1.00
-Mental Defense 1.00,Used for resisting injuries from Mental Damage Types.,Indefinite,Innate,Mental,1.00
-Soul Defense 1.00,Used for resisting injuries from Soul Damage Types.,Indefinite,Innate,Soul,1.00
+name,desc,duration,source,Slash,Pierce,Bludgeon,Hew,Ballistic,Shockwave,Fire,Electric,Radiant,Acid,Cold,Silver,Poison,Necrotic,Bleed,Suffocation,Psychic,Spiritual
+Gambeson Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,3,2,1,3,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+Leather Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chainmail Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,4,3,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brigandine Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,4,3,3,4,0,1,2,2,2,2,0,0,0,0,0,0,0,0
+Plate Armor Defense,"Works as Head Armor, Body Armor, Arm Armor, and Leg Armor.",,,5,4,4,5,1,1,2,2,2,2,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+Metal Small Shield,Shield,,,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metal Medium Shield,Shield,,,2,2,2,2,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+Metal Large Shield,Shield,,,3,3,3,3,0,0,2,2,2,2,0,0,0,0,0,0,0,0
