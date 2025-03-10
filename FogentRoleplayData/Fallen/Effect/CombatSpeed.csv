@@ -1,7 +1,0 @@
-name,desc,duration,source,governingSkillName,feetPerGoverningSkillDice,reactionSpeedAttributeName,feetPerReactionSpeedAttribute
-Terrestrial Speed,"? ft (+10 ft per Athletics Dice, +/-10 ft per RFX)",Indefinite,Innate,Athletics,10,RFX,10
-Swim Speed,"? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)",Indefinite,Innate,Athletics,5,RFX,5
-Climb Speed,"? ft (+5 ft per Athletics Dice, +/-5 ft per RFX)",Indefinite,Innate,Athletics,5,RFX,5
-Flight Speed,"? ft (+15 ft per Athletics Dice, +/-15 ft per RFX)",Indefinite,Innate,Athletics,15,RFX,15
-4-Hooved Climb Speed,"? ft (+2.5 ft per Athletics Dice, +/-2.5 ft per RFX)",Indefinite,Innate,Athletics,2.5,RFX,2.5
-Aquatic Speed,"? ft (+10 ft per Athletics Dice, +/-10 ft per RFX)",Indefinite,Innate,Athletics,10,RFX,10

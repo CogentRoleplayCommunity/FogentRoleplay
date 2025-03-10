@@ -1,7 +1,0 @@
-name,desc,duration,source,dicePoolsToEffect,baseDiceTier
-Terracraft (+3),3d8 Base Dice for Terracraft.,Indefinite,Innate,Terracraft,3
-Hydrocraft (+3),3d8 Base Dice for Hydrocraft.,Indefinite,Innate,Hydrocraft,3
-Naturecraft (+3),3d8 Base Dice for Naturecraft.,Indefinite,Innate,Naturecraft,3
-Galecraft (+3),3d8 Base Dice for Galecraft.,Indefinite,Innate,Galecraft,3
-,,,,,
-Endurance (+2),"1d6, 2d8 base dice for Endurance skill.",Indefinite,Innate,Endurance,2
