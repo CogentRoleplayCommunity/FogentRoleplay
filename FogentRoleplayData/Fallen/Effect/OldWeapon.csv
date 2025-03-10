@@ -1,0 +1,145 @@
+name,weaponType,baseDiceTierAdjustment,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,ammoTypeAndAmountPerUseOption,damageTypes,governingSkillName,desc,duration,source
+Unarmed (+0) (One-handed),Unarmed,+0,One-handed,-1,0,Melee,Swift,None,None,Bludgeon,Close Melee,Just your bare hands. Can be used in a Grapple.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Small Hew Melee (+0) (One-handed),Small Hew Melee,+0,One-handed,+0d6,0,Melee,Swift,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Hew Melee (+0) (Dual-wielded),Small Hew Melee,+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,Hew,Close Melee,"Hatchets, small axes, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Small Slash Melee (+0) (One-handed),Small Slash Melee,+0,One-handed,+0d6,0,Melee,Swift,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Slash Melee (+0) (Dual-wielded),Small Slash Melee,+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,Slash,Close Melee,"Daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Small Pierce Melee (+0) (One-handed),Small Pierce Melee,+0,One-handed,+0d6,0,Melee,Swift,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Pierce Melee (+0) (Dual-wielded),Small Pierce Melee,+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,Pierce,Close Melee,"Small warpick, daggers, shortswords, claws, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Small Bludgeon Melee (+0) (One-handed),Small Bludgeon Melee,+0,One-handed,+0d6,0,Melee,Swift,None,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Bludgeon Melee (+0) (Dual-wielded),Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,Bludgeon,Close Melee,"Small club, crowbars, gauntlets, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Small Torch (+0) (One-handed),Small Torch,+0,One-handed,+0d6,0,Melee,Swift,None,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
+Small Torch (+0) (Dual-wielded),Small Torch,+0,Dual-wielded,+1d6,0,Melee,Swift +1,None,None,"Bludgeon, Fire",Close Melee,"Torches, ect... Can be used in a Grapple.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Medium Hew Melee (+0) (One-handed),Medium Hew Melee,+0,One-handed,+1d6,1,Melee,Swift,None,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
+Medium Hew Melee (+0) (Two-handed),Medium Hew Melee,+0,Two-handed,+2d6,1,Melee,Swift,None,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
+Medium Hew Melee (+0) (Dual-wielded),Medium Hew Melee,+0,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,Hew,Medium Melee,"Battleaxes, large creature claws, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Medium Slash Melee (+0) (One-handed),Medium Slash Melee,+0,One-handed,+1d6,1,Melee,Swift,None,None,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
+Medium Slash Melee (+0) (Two-handed),Medium Slash Melee,+0,Two-handed,+2d6,1,Melee,Swift,None,None,Slash,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, ect...",Indefinite,Innate
+Medium Slash Melee (+0) (Dual-wielded),Medium Slash Melee,+0,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,Slash,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Medium Pierce Melee (+0) (One-handed),Medium Pierce Melee,+0,One-handed,+1d6,1,Melee,Swift,None,None,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
+Medium Pierce Melee (+0) (Two-handed),Medium Pierce Melee,+0,Two-handed,+2d6,1,Melee,Swift,None,None,Pierce,Medium Melee,"Bastard Sword, Medium swords with two-handed grips, War pick, war hammer's spike, ect...",Indefinite,Innate
+Medium Pierce Melee (+0) (Dual-wielded),Medium Pierce Melee,+0,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,Pierce,Medium Melee,"Arming Sword, Sidesword, broadsword, falchion, messer, katana, scimitar, large creature claws, War pick, war hammer's spike, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Medium Bludgeon Melee (+0) (One-handed),Medium Bludgeon Melee,+0,One-handed,+1d6,1,Melee,Swift,None,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+Medium Bludgeon Melee (+0) (Two-handed),Medium Bludgeon Melee,+0,Two-handed,+2d6,1,Melee,Swift,None,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+Medium Bludgeon Melee (+0) (Dual-wielded),Medium Bludgeon Melee,+0,Dual-wielded,+2d6,1,Melee,Swift +1,None,None,Bludgeon,Medium Melee,"War hammer, mace, large creature smash, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Medium Spear (+0) (One-handed),Medium Spear,+0,One-handed,+2d6,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
+Medium Spear (+0) (Dual-wielded),Medium Spear,+0,Dual-wielded,+3d6,1,Melee,Quick,None,None,Pierce,Medium Melee,"Javelin, short spear, large creature horns, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Large Hew Melee (+0) (One-handed),Large Hew Melee,+0,One-handed,+0d6,1,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
+Large Hew Melee (+0) (Two-handed),Large Hew Melee,+0,Two-handed,+2d6,2,Melee,Swift,None,None,Hew,Large Melee,"Dane axe, short poleaxe axehead, short halberd, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Large Slash Melee (+0) (One-handed),Large Slash Melee,+0,One-handed,+0d6,1,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
+Large Slash Melee (+0) (Two-handed),Large Slash Melee,+0,Two-handed,+2d6,2,Melee,Swift,None,None,Slash,Large Melee,"Longsword, Ōdachi, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Large Pierce Melee (+0) (One-handed),Large Pierce Melee,+0,One-handed,+0d6,1,Melee,Swift,None,None,Pierce,Large Melee,"Longsword, Ōdachi, Bec de corbin spike, ect...",Indefinite,Innate
+Large Pierce Melee (+0) (Two-handed),Large Pierce Melee,+0,Two-handed,+2d6,2,Melee,Swift,None,None,Pierce,Large Melee,"Longsword, Ōdachi, Bec de corbin spike, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Large Bludgeon Melee (+0) (One-handed),Large Bludgeon Melee,+0,One-handed,+0d6,1,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
+Large Bludgeon Melee (+0) (Two-handed),Large Bludgeon Melee,+0,Two-handed,+2d6,2,Melee,Swift,None,None,Bludgeon,Large Melee,"Two-handed Mace, maul, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Large Spear (+0) (One-handed),Large Spear,+0,One-handed,+0d6,1,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+Large Spear (+0) (Two-handed),Large Spear,+0,Two-handed,+2d6,2,Melee,Quick,None,None,Pierce,Large Melee,"Two-handed spear, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Reach Hew Melee (+0) (One-handed),Reach Hew Melee,+0,One-handed,-2,1,Reach,Reach Swift,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Hew Melee (+0) (Two-handed),Reach Hew Melee,+0,Two-handed,+3d6,3,Reach,Reach Swift,None,None,Hew,Reach Melee,"Poleaxe's axe head, halberd's axe head, glaive, ect...  Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Reach Slash Melee (+0) (One-handed),Reach Slash Melee,+0,One-handed,-2,1,Reach,Reach Swift,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Slash Melee (+0) (Two-handed),Reach Slash Melee,+0,Two-handed,+3d6,3,Reach,Reach Swift,None,None,Slash,Reach Melee,"Greatsword, zweihänder, naginata, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Reach Pierce Melee (+0) (One-handed),Reach Pierce Melee,+0,One-handed,-2,1,Reach,Reach Swift,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Pierce Melee (+0) (Two-handed),Reach Pierce Melee,+0,Two-handed,+3d6,3,Reach,Reach Swift,None,None,Pierce,Reach Melee,"Greatsword, zweihänder, naginata, halberd's spike, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Reach Bludgeon Melee (+0) (One-handed),Reach Bludgeon Melee,+0,One-handed,-2,1,Reach,Reach Swift,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Bludgeon Melee (+0) (Two-handed),Reach Bludgeon Melee,+0,Two-handed,+3d6,3,Reach,Reach Swift,None,None,Bludgeon,Reach Melee,"Poleaxe hammer, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Reach Spear (+0) (One-handed),Reach Spear,+0,One-handed,-2,1,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Reach Spear (+0) (Two-handed),Reach Spear,+0,Two-handed,+3d6,3,Reach,Steady,None,None,Pierce,Reach Melee,"Pike, lance, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Whip (+0) (One-handed),Whip,+0,One-handed,+0d6,0,Reach,Swift,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+Whip (+0) (Dual-wielded),Whip,+0,Dual-wielded,+1d6,0,Reach,Swift +1,None,None,Slash,Exotic Melee,"Bullwhips, ect... Disadvantage while in confined spaces.",Indefinite,Innate
+,,,,,,,,,,,,,,
+Hand Crossbow (+0) (One-handed),Hand Crossbow,+0,One-handed,+1d6,0,Mediocre,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Hand Crossbow (+0) (Two-handed),Hand Crossbow,+0,Two-handed,+1d6,0,Medium,Quick,None,"Light Bolt, 1",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+Hand Crossbow (+0) (Dual-wielded),Hand Crossbow,+0,Dual-wielded,+2d6,0,Mediocre,Steady,None,"Light Bolt, 2",Pierce,Hand Crossbow,Small crossbows designed to be held in one hand.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Light Crossbow (+0) (One-handed),Light Crossbow,+0,One-handed,+0d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+Light Crossbow (+0) (Two-handed),Light Crossbow,+0,Two-handed,+1d6,1,Far,Steady,None,"Light Bolt, 1",Pierce,Light Crossbow,"Crossbows balancing power and reload time. ",Indefinite,Innate
+,,,,,,,,,,,,,,
+Heavy Crossbow (+0) (Two-handed),Heavy Crossbow,+0,Two-handed,+2d6,2,Long,Extremely Slow,None,"Heavy Bolt, 1",Pierce,Heavy Crossbow,Crossbows designed for maximum power disregarding reload time.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Light Bow (+0) (Two-handed),Light Bow,+0,Two-handed,+1d6,0,Far,Swift,None,"Light Arrow, 1",Pierce,Light Bow,Bows favoring easier drawing versus power.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Heavy Bow (+0) (Two-handed),Heavy Bow,+0,Two-handed,+2d6,2,Sharpshooter,Quick,None,"Heavy Arrow, 1",Pierce,Heavy Bow,Bows favoring power over easier drawing. Requires a minimum of 1 STR to draw.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Blowgun (+0) (One-handed),Blowgun,+0,One-handed,+0d6,0,Mediocre,Quick,None,"Blowgun Dart, 1",Pierce,Exotic Ranged,A long narrow tube that propels darts using the force of the force of the users's breath.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Sling (+0) (Two-handed),Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,"Sling Bullet, 1",Bludgeon,Exotic Ranged,A flexible strap used to hurl small objects.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Thrown Small Slash Melee (+0) (One-handed),Thrown Small Slash Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+Thrown Small Slash Melee (+0) (Dual-wielded),Thrown Small Slash Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Slash,Close Melee,"Ninja stars, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Thrown Small Pierce Melee (+0) (One-handed),Thrown Small Pierce Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+Thrown Small Pierce Melee (+0) (Dual-wielded),Thrown Small Pierce Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Pierce,Close Melee,"Throwing daggers, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Thrown Small Hew Melee (+0) (One-handed),Thrown Small Hew Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+Thrown Small Hew Melee (+0) (Dual-wielded),Thrown Small Hew Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Hew,Close Melee,"Throwing hatchet, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Thrown Small Bludgeon Melee (+0) (One-handed),Thrown Small Bludgeon Melee,+0,One-handed,+0d6,0,Short,Swift,None,"Self, 1",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+Thrown Small Bludgeon Melee (+0) (Dual-wielded),Thrown Small Bludgeon Melee,+0,Dual-wielded,+1d6,0,Short,Quick,None,"Self, 2",Bludgeon,Close Melee,"Thrown small club, rocks, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Thrown Medium Spear (+0) (One-handed),Thrown Medium Spear,+0,One-handed,+1d6,1,Mediocre,Quick,None,"Self, 1",Pierce,Medium Melee,"Thrown Javelins, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Thrown Large Spear (+0) (One-handed),Thrown Large Spear,+0,One-handed,+1d6,2,Short,Quick,None,"Self, 1",Pierce,Large Melee,Thrown two-handed spears.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Muzzleloading Pistol (+0) (One-handed),Muzzleloading Pistol,+0,One-handed,+2d6,0,Mediocre,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Muzzleloading Pistol (+0) (Two-handed),Muzzleloading Pistol,+0,Two-handed,+2d6,0,Medium,Extremely Slow,None,"Muzzleloading Pistol Cartridge, 1",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+Muzzleloading Pistol (+0) (Dual-wielded),Muzzleloading Pistol,+0,Dual-wielded,+3d6,0,Mediocre,Painfully Slow,None,"Muzzleloading Pistol Cartridge, 2",Ballistic,Small Guns,"Flintlock pistols, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+Arquebus (+0) (One-handed),Arquebus,+0,One-handed,+0d6,0,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
+Arquebus (+0) (Two-handed),Arquebus,+0,Two-handed,+2d6,0,Long,Extremely Slow,None,"Arquebus Cartridge, 1",Ballistic,Medium Guns,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,,
+Musket (+0) (One-handed),Musket,+0,One-handed,+0d6,1,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+Musket (+0) (Two-handed),Musket,+0,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,"Musket Cartridge, 1",Ballistic,Medium Guns,Flintlock smoothbore long guns.,Indefinite,Innate
+,,,,,,,,,,,,,,
+9mm Semi-automatic Pistol (+0) (One-handed),9mm Semi-automatic Pistol,+0,One-handed,+2d6,2,Extended,Reach Swift,None,"9mm Ammo, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (Two-handed),9mm Semi-automatic Pistol,+0,Two-handed,+2d6,2,Far,Reach Swift,None,"9mm Ammo, 1",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+9mm Semi-automatic Pistol (+0) (Dual-wielded),9mm Semi-automatic Pistol,+0,Dual-wielded,+3d6,2,Extended,Reach Swift,None,"9mm Ammo, 2",Ballistic,Small Guns,"Glock 17, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+9mm Burst-fire Pistol (+0) (One-handed),9mm Burst-fire Pistol,+0,One-handed,+3d6,2,Mediocre,Reach Swift,None,"9mm Ammo, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (Two-handed),9mm Burst-fire Pistol,+0,Two-handed,+3d6,2,Medium,Reach Swift,None,"9mm Ammo, 3",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+9mm Burst-fire Pistol (+0) (Dual-wielded),9mm Burst-fire Pistol,+0,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,"9mm Ammo, 6",Ballistic,Small Guns,"Beretta 93R, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+9mm Automatic Pistol (+0) (One-handed),9mm Automatic Pistol,+0,One-handed,+3d6,2,Short,Rapid,None,"9mm Ammo, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol (+0) (Two-handed),9mm Automatic Pistol,+0,Two-handed,+3d6,2,Mediocre,Rapid,None,"9mm Ammo, 6",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+9mm Automatic Pistol (+0) (Dual-wielded),9mm Automatic Pistol,+0,Dual-wielded,+4d6,2,Short,Rapid,None,"9mm Ammo, 12",Ballistic,Small Guns,"Glock 18, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+12 Gauge Pump-action Shotgun (+0) (One-handed),12 Gauge Pump-action Shotgun,+0,One-handed,+1d6,2,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
+12 Gauge Pump-action Shotgun (+0) (Two-handed),12 Gauge Pump-action Shotgun,+0,Two-handed,+3d6,2,Extended,Swift,None,"12 Gauge Ammo, 1",Ballistic,Medium Guns,"Remington 870, Mossberg 500, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+5.56 Semi-automatic Rifle (+0) (One-handed),5.56 Semi-automatic Rifle,+0,One-handed,+1d6,3,Extreme,Reach Swift,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+5.56 Semi-automatic Rifle (+0) (Two-handed),5.56 Semi-automatic Rifle,+0,Two-handed,+3d6,3,Extreme,Reach Swift,None,"5.56 Ammo, 1",Ballistic,Medium Guns,"AR-15, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+5.56 Burst Rifle (+0) (One-handed),5.56 Burst Rifle,+0,One-handed,+2d6,3,Sharpshooter,Reach Swift,None,"5.56 Ammo, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+5.56 Burst Rifle (+0) (Two-handed),5.56 Burst Rifle,+0,Two-handed,+4d6,3,Sharpshooter,Reach Swift,None,"5.56 Ammo, 3",Ballistic,Medium Guns,"M16A2, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+5.56 Automatic Rifle (+0) (One-handed),5.56 Automatic Rifle,+0,One-handed,+2d6,3,Distant,Rapid,None,"5.56 Ammo, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+5.56 Automatic Rifle (+0) (Two-handed),5.56 Automatic Rifle,+0,Two-handed,+4d6,3,Distant,Rapid,None,"5.56 Ammo, 6",Ballistic,Medium Guns,"M4, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+.308 Bolt Action Rifle (+0) (One-handed),.308 Bolt Action Rifle,+0,One-handed,+1d6,4,Sniper,Quick,None,".308 Ammo, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+.308 Bolt Action Rifle (+0) (Two-handed),.308 Bolt Action Rifle,+0,Two-handed,+4d6,4,Sniper,Quick,None,".308 Ammo, 1",Ballistic,Medium Guns,"Remington M700, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+5.56 Machine Gun (+0) (One-handed),5.56 Machine Gun,+0,One-handed,-2,3,Extreme,Rapid,None,"5.56 Ammo, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+5.56 Machine Gun (+0) (Two-handed),5.56 Machine Gun,+0,Two-handed,+4d6,3,Extreme,Rapid,None,"5.56 Ammo, 10",Ballistic,Heavy Guns,"M249, ect...",Indefinite,Innate
+,,,,,,,,,,,,,,
+RPG Launcher (+0) (One-handed),RPG Launcher,+0,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,"RPG Ammo, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate
+RPG Launcher (+0) (Two-handed),RPG Launcher,+0,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,"RPG Ammo, 1",Shockwave,Heavy Guns,"RPG-7, ect...",Indefinite,Innate

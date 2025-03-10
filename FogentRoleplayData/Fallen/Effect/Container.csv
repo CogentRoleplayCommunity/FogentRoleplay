@@ -1,0 +1,9 @@
+name,desc,duration,source,weightCapacity,volume,includeWeightInParentItemWeight
+300 lb container,300 lbs weight capacity and 12 ft^3 volume.,Indefinite,Innate,300,12,TRUE
+50 lb container,50 lbs weight capacity. and 1.6 ft^3 volume.,Indefinite,Innate,50,1.6,TRUE
+35 lb container,35 lbs weight capacity and 1.2 ft^3 volume.,Indefinite,Innate,35,1.2,TRUE
+30 lb container,30 lbs weight capacity and 1 ft^3 volume.,Indefinite,Innate,30,1,TRUE
+12 lb container,12 lbs weight capacity and 0.4 ft^3 volume.,Indefinite,Innate,12,0.4,TRUE
+6 lb container,6 lbs weight capacity and 0.2 ft^3 volume.,Indefinite,Innate,6,0.2,TRUE
+Equipment,Currently equiped items.,Indefinite,Innate,None,None,TRUE
+Off Person Stash,"A stash of items. For practical purposes, unlimited weight capacity and volume.",Indefinite,Storage Location,None,None,FALSE
