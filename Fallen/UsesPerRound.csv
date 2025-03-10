@@ -1,0 +1,11 @@
+name,combatRollDivisor,diceAmountAdjustment,maxUsesPerRoundOption
+Rapid,1,0,None
+Reach Swift,2,2,None
+Swift +1,2,1,None
+Swift,2,0,None
+Quick,3,0,None
+Steady,4,0,None
+Paced,5,0,None
+Slow,6,0,None
+Extremely Slow,8,0,None
+Painfully Slow,16,0,None
