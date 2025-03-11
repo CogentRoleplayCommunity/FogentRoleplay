@@ -20,7 +20,7 @@
 |  Polycraft {STR, RFX, INT}  | 1 | 5d6 | Metallurgy {INT}                                         | Inherited | 4d6 |
 | Toxincraft {STR, RFX, INT} | -1 | 3d6 | Tool making / repair {STR, RFX, INT}                     | Inherited | 5d6 |
 | Terracraft {STR, RFX, INT} | -1 | 3d6 | Silver-plating {STR, RFX, INT}                           | Inherited | 5d6 |
-|                            |    | 3d6 | Medium Hafted Blunt, Medium Hafted Point {STR, RFX, INT} |     1     | 5d6 |
+|                            |    | 3d6 | Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded) {STR, RFX, INT} |     1     | 5d6 |
 
 ## Effects
 
@@ -51,11 +51,11 @@
 |          Name          | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
 | :---------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :--: |
 |         Unarmed         |      -1d6      |      -1d6      |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
-| Hand Protection Unarmed |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
-|   Medium Hafted Blunt   |       0d6       |      +1d6      |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |        Swift        |        None        | None |
-|   Medium Hafted Point   |      +1d6      |      +2d6      |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |        Swift        |        None        | None |
-|  Small Piercing Blade  |      +0d6      |      +0d6      |    n/a (+1d6)    |      2      | Melee |      Pierce      |        Swift        |        None        | None |
-|  Small Slashing Blade  |      +1d6      |      +1d6      |    n/a (+1d6)    |      0      | Melee |       Slash       |        Swift        |        None        | None |
+| Small Bludgeon Melee (+0) (One-handed), Small Bludgeon Melee (+0) (Dual-wielded) |       0d6       |       0d6       |        n/a        |      0      | Melee |     Bludgeon     |        Swift        |        None        | None |
+|   Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded)   |       0d6       |      +1d6      |    n/a (+1d6)    |      4      | Melee |     Bludgeon     |        Swift        |        None        | None |
+|   Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded)   |      +1d6      |      +2d6      |    n/a (+1d6)    |      2      | Melee |     Bludgeon     |        Swift        |        None        | None |
+|  Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)  |      +0d6      |      +0d6      |    n/a (+1d6)    |      2      | Melee |      Pierce      |        Swift        |        None        | None |
+|  Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)  |      +1d6      |      +1d6      |    n/a (+1d6)    |      0      | Melee |       Slash       |        Swift        |        None        | None |
 
 ### Ranged Options
 
@@ -63,7 +63,7 @@
 
 |            Name            | One<br />Handed | Two<br />Handed | Dual<br />Wielded | Penetration | Range | Damage<br />Types | Uses Per<br />Round | Area Of<br />Effect | Ammo |
 | :-------------------------: | :-------------: | :-------------: | :---------------: | :---------: | :---: | :---------------: | :-----------------: | :-----------------: | :--: |
-| Thrown Small Piercing Blade |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |        Swift        |        None        | None |
+| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |       0d6       |       0d6       |        n/a        |      1      | Melee |      Pierce      |        Swift        |        None        | None |
 
 ### Combat Spells
 
@@ -85,9 +85,9 @@
 |        Carapace Helmet        | 1 |                    Head Armor                    | Phy. Def. 0.34 | Quality |   15/15   |  2  |  0 bc  |                                                                                                                                                                                        |
 |      Clothes, Traveler's      | 1 |                                                  |                | Mundane |   12/12   |  4  |  2 bc  |                                                                                                                                                                                        |
 |         Cloak, Canvas         | 1 |                                                  |                | Mundane |   12/12   |  5  | 0.7 bc |                                                                                Simple Warm Ruana Cloak                                                                                |
-|           Warhammer           | 1 |     Medium Hafted Blunt, Medium Hafted Point     |                | Mundane |   12/12   |  4  |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
+|           Warhammer           | 1 |     Medium Bludgeon Melee (+0) (One-handed), Medium Bludgeon Melee (+0) (Two-handed), Medium Bludgeon Melee (+0) (Dual-wielded), Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Two-handed), Medium Pierce Melee (+0) (Dual-wielded)     |                | Mundane |   12/12   |  4  |  9 bc  | He is a worker of his kind, thus not trained to fight, but as a blacksmith he is quite familiar with hammers but for a weapon he carries something larger then his blacksmithing tool. |
 |         Morning Start         | 1 |                        ???                        |                |   ???   |    ???    | ??? | ?? bc |                                                                                     First loot. :D                                                                                     |
-|             Dagger             | 1 | Small Piercing Blade, Thrown Small Piercing Blade |                | Mundane |   12/12   |  1  |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
+|             Dagger             | 1 | Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded), Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) |                | Mundane |   12/12   |  1  |  2 bc  |                                                                           Just a normal dagger for survival.                                                                           |
 |          Silver Dust          | 1 |                        ???                        |                |   ???   |    ???    | ??? | ?? bc |                                                         Improvised weapon I prepared in haste but only used for intimidation.                                                         |
 
 ***I made up the carapace looking at other armor examples, not sure if it's ok, it will have to be approved... :D (If it's not, Leather armor is the closest equivalent.)***

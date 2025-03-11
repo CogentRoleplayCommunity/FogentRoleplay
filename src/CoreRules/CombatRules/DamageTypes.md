@@ -6,6 +6,7 @@
 |   Pierce   |                             Caused by pointed objects.                             |
 |  Bludgeon  |                               Caused by blunt force.                               |
 |     Hew     |  Caused by the pressing of a bladed edge to produce the force necessary to shear.  |
+|  Ballistic  |                          Caused by bullets from firearms.                          |
 |  Shockwave  |                          Caused by shock waves and sound.                          |
 |    Fire    |                        Caused by intense heat or combustion.                        |
 |  Electric  |                Caused by lightning or other sources of electricity.                |

@@ -1,0 +1,94 @@
+weaponType,baseDiceTierAdjustmentAmount,handedVariation,dicePoolMod,penetration,range,usesPerRound,areaOfEffect,magicResourceAmount,damageTypes,governingSkillName,desc,duration,source
+Magic Dart,+0,One-handed,+0d6,0,Short,Swift,None,0,,,"Weapon for Combat Rolls. Disadvantage while within range of ",Indefinite,Innate
+Magic Dart,+0,Dual-wielded,+1d6,0,Short,Swift,None,0,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Sling,+0,Two-handed,+0d6,0,Mediocre,Quick,None,0,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Javelin,+0,One-handed,+1d6,1,Mediocre,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Great Javelin,+0,One-handed,+1d6,2,Short,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Hand Bolt,+0,One-handed,+1d6,0,Mediocre,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Hand Bolt,+0,Dual-wielded,+2d6,0,Mediocre,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Bolt,+0,Two-handed,+1d6,1,Far,Steady,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Great Bolt,+0,Two-handed,+2d6,2,Long,Extremely Slow,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Arrow,+0,Two-handed,+1d6,0,Far,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Penetrating Hand Bolt,+0,One-handed,+1d6,1,Mediocre,Quick,None,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Penetrating Hand Bolt,+0,Dual-wielded,+2d6,1,Mediocre,Quick,None,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Penetrating Bolt,+0,Two-handed,+1d6,2,Far,Steady,None,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Penetrating Great Bolt,+0,Two-handed,+2d6,3,Long,Extremely Slow,None,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Penetrating Arrow,+0,Two-handed,+1d6,1,Far,Swift,None,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Great Arrow,+0,Two-handed,+2d6,2,Sharpshooter,Quick,None,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Penetrating Great Arrow,+0,Two-handed,+2d6,3,Sharpshooter,Quick,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Hand Discharge,+0,One-handed,+2d6,0,Mediocre,Extremely Slow,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Hand Discharge,+0,Dual-wielded,+3d6,0,Mediocre,Extremely Slow,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Discharge,+0,One-handed,+0d6,0,Long,Extremely Slow,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Discharge,+0,Two-handed,+2d6,0,Long,Extremely Slow,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Great Discharge,+0,One-handed,+0d6,1,Sharpshooter,Painfully Slow,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Great Discharge,+0,Two-handed,+3d6,1,Sharpshooter,Painfully Slow,None,3,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Blast,+0,One-handed,+2d6,2,Extended,Reach Swift,None,4,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Blast,+0,Dual-wielded,+3d6,2,Extended,Reach Swift,None,4,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Burst Blast,+0,One-handed,+3d6,2,Mediocre,Reach Swift,None,4,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Burst Blast,+0,Dual-wielded,+4d6,2,Mediocre,Reach Swift,None,4,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Rapid Blast,+0,One-handed,+3d6,2,Short,Rapid,None,4,,,Weapon for Combat Rolls.,Indefinite,Innate
+Magic Rapid Blast,+0,Dual-wielded,+4d6,2,Short,Rapid,None,4,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+5.56 Semi-automatic Rifle,+0,One-handed,+1d6,3,Extreme,Reach Swift,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Semi-automatic Rifle,+0,Two-handed,+3d6,3,Extreme,Reach Swift,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+5.56 Burst Rifle,+0,One-handed,+2d6,3,Sharpshooter,Reach Swift,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Burst Rifle,+0,Two-handed,+4d6,3,Sharpshooter,Reach Swift,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+5.56 Automatic Rifle,+0,One-handed,+2d6,3,Distant,Rapid,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Automatic Rifle,+0,Two-handed,+4d6,3,Distant,Rapid,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+.308 Bolt Action Rifle,+0,One-handed,+1d6,4,Sniper,Quick,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+.308 Bolt Action Rifle,+0,Two-handed,+4d6,4,Sniper,Quick,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+5.56 Machine Gun,+0,One-handed,-2,3,Extreme,Rapid,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+5.56 Machine Gun,+0,Two-handed,+4d6,3,Extreme,Rapid,None,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+RPG Launcher,+0,One-handed,-2,6,Sharpshooter,Paced,30 ft Sphere,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+RPG Launcher,+0,Two-handed,+6d6,6,Sharpshooter,Paced,30 ft Sphere,5,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Magic Glove,+0,One-handed,-1,0,Melee,Swift,None,0,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Small Melee,+0,One-handed,+0d6,0,Melee,Swift,None,0,,,Weapon for Combat Rolls.,Indefinite,Innate
+Small Melee,+0,Dual-wielded,+1d6,0,Melee,Swift,None,0,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Medium Melee,+0,One-handed,+1d6,1,Melee,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Melee,+0,Two-handed,+2d6,1,Melee,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Melee,+0,Dual-wielded,+2d6,1,Melee,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Medium Spear,+0,One-handed,+2d6,1,Melee,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Medium Spear,+0,Dual-wielded,+3d6,1,Melee,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Whip,+0,One-handed,+0d6,0,Reach,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Whip,+0,Dual-wielded,+1d6,0,Reach,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Large Melee Magic,+0,One-handed,+0d6,1,Melee,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Large Melee Magic,+0,Two-handed,+2d6,2,Melee,Swift,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Large Spear Magic,+0,One-handed,+0d6,1,Melee,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+Large Spear Magic,+0,Two-handed,+2d6,2,Melee,Quick,None,1,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Reach Melee Magic,+0,One-handed,-2,1,Reach,Reach Swift,,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Hew Melee Magic,+0,Two-handed,+3d6,3,Reach,Reach Swift,,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+,,,,,,,,,,,,,
+Reach Spear,+0,One-handed,-2,1,Reach,Steady,,2,,,Weapon for Combat Rolls.,Indefinite,Innate
+Reach Spear,+0,Two-handed,+3d6,3,Reach,Steady,,2,,,Weapon for Combat Rolls.,Indefinite,Innate

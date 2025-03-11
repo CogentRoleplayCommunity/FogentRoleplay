@@ -1,0 +1,144 @@
+name,desc,duration,source
+Level,1,Indefinite,Player Character
+,,,
+Space Vacuum Life Support,Enable the user to survive in the vacuum of space until onboard oxygen depletes.,1 hour,Innate
+,,,
+Spellcasting Focus,Acts as a Spellcasting Focus for spells.,Indefinite,Innate
+Magic Resource Leech,Sneak attack regain 1 Magic Resource of the user's choice.,Indefinite,Innate
+Life Leech,Sneak attacks trigger an Minor Heal to self.,Indefinite,Innate
+Minorly Enhanced Magic Resource,+2 to magic Resource capacity.,Indefinite,Innate
+Enhanced Magic Resource,+4 to magic Resource capacity.,Indefinite,Innate
+Greatly Enhanced Magic Resource,+6 to magic Resource capacity.,Indefinite,Innate
+Ariel Assassin,"While performing an aerial attack, gain a +1 to your victory level.",Indefinite,Innate
+Minorly Enhanced Vitality,Reduce up to 1d6 of total injury penalty dice.,Indefinite,Innate
+Enhanced Vitality,Reduce up to 2d6 of total injury penalty dice.,Indefinite,Innate
+Greatly Enhanced Vitality,Reduce up to 3d6 of total injury penalty dice.,Indefinite,Innate
+Enhanced Critical,+1 automatic win to sneak attacks and incapacitated opponents.,Indefinite,Innate
+Dragon Threat Sense,The character gets an uneasy feeling when there are draconic creatures near.,Indefinite,Innate
+Dragon Breath Resistance,"Minor Resistance vs dragon elemental attacks (Dragonfire, Dragontide, Soulfire, ect)",Indefinite,Innate
+Enhanced Healing,Any healing acts as the tier above.,Indefinite,Innate
+Blessing of the Moon,"INT is set to level 2. Gain the following disabling: ""I hear the sword whispering its secrets to me, and I must know them""",Indefinite,Innate
+Innate Mind Reading,"Magically access the surface thoughts of a creature within 60 ft as long as concentration isn't broken. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead obstruct the ability. While reading the mind of a create, gains advantage to Communication checks versus the creature.",Indefinite,Innate
+Spore Follower,"Without the presence of a spore evolved, this creature will behave as a brain dead monster. But under direction will follow orders and use weapons.",Indefinite,Innate
+Spore Carrier,"Carries the spore fungal infection. Creatures injured are infected with the spore disease. Upon death, the fungal growth hardens into a brittle stone like substance.",Indefinite,Innate
+Incorporeal Form,Can move through physical objects and creatures as if they were difficult terrain.,Indefinite,Innate
+,,,
+Ending,Creatures killed with this weapon are instantly decapitated.,Indefinite,Innate
+Splinter,"Any weapon dice added to a combat roll are considered automatic wins when attacking a plant based creature (Leshens, Nature Dragons) or wooden structures.",Indefinite,Innate
+Extendable Weapon,"This weapon can shrink to the size of a small weapon, extend up to reach weapon, as well as any size between. The force of the weapon extending can be used in a variety of way.",Indefinite,Innate
+Fire Repair and Enhancement,"Weapons repairs in intense fires. If fully repaired and is exposed to increasingly intense flames, it will become a higher tier item. Each time it is upgraded, a more intense fire is required upgrade it.",Indefinite,Innate
+Apparel Storage,"This small mirror can save an outfit the user is wearing. If no outfit is stored inside the user will appear naked in the reflection while holding it. Pressing the mirror while looking into it will swap your apparel between your reflection and what you are currently wearing. This happens in a flash of light, similar to the glare off a mirror. This allows the users to store an outfit inside of the necklace.",Indefinite,Innate
+Retractable Shield,The user can deploy or retract the medium shield at will.,Indefinite,Innate
+Light Bound,"This weapon is physical light, and can be absorbed and summoned by a those with the Radiance magic skill.",Indefinite,Innate
+Metal Feeding,"To repair, item can feed on metal. Different amounts result in different levels of repair and time needed to complete these repairs.",Indefinite,Innate
+Command Asclepius,"By holding and speaking the command word ""Asclepius"" the user may instruct this Runecraft to perform various simple actions. ""Asclepius, turn into a whip, or short spear."" or Asclepius, attack those soldiers.""",Indefinite,Innate
+Swordbreaker Blade Catch,"Any weapon that could reasonably be caught in the swordbreaker can be caught with a Lvl 1 victory, entering into Close Quarters combat. The opponent's weapon is usable while bound. Your main hand weapon (Small, Medium, or Large) can be used in this Close Quarters combat scenario.",Indefinite,Innate
+Indestructible,This item can't lose durability.,Indefinite,Innate
+Moonlight Greatsword,"Just by thought, this ancient sword wreathed in moonlight, becoming a greatsword wreathed in moonlight. While active, it becomes a greatsword and now additionally deals radiant damage.",Indefinite,Innate
+Binding of the Moon,"This weapon can only be picked up by those who sing (out loud or in their head) the Lullaby of the Moon. If the weapon is held for a fortnight, the weapon is bound to the users, severing the bond with the previous bearer. The bearer can now dismiss and summon the blade at will.",Indefinite,Innate
+Phenomena Detection,Beats and lights up when turned towards supernatural phenomena in an area. Beats faster the closer it is.,Indefinite,Innate
+Forbidden Whispers,"When one squeezes the Heart, it whispers secrets directly into their mind concerning the current area, as it senses information about the world beyond mortal recognition. When the Heart is pointed at a person, it reveals secrets about them. Roll a destiny roll (a d20) to determine the level of information obtained.",Indefinite,Innate
+Light Storage,Holds 1 Magic Resource worth of light. Can be recharged in Sunlight. Light slowly dissipates from this gem.,Indefinite,Innate
+Retractable Shield,The user can deploy or retract the medium shield at will.,Indefinite,Innate
+Defense Spells,"The staff is endowed with 10 charges, serving as the fuel for the enclosed spells. When holding the staff, you can use your action to cast one of the following spells from it, provided you have a vocation that can unlock the magic required for these spells: Physical Protection (1 charge) or Mage Shield (2 charges). No components are necessary. At the break of dawn, the staff regains 1d6 + 4 expended charges. Should the staff exhaust its charges entirely, roll a d20. If the result is 1, the staff shatters and meets its destruction.",Indefinite,Innate
+Single-use Invisibility,Applies the Invisibility Spell to the user of this item after being used. Item is destroyed in the process.,1 hour,Innate
+Draupnir,"This ring can transform between a weapon and ring. The ring is endowed with 10 charges. With the ring equipped, the user can force a duplication resulting in either a ring or weapon, both which appear in the users hand. Duplicates can not transform, only the original. At the break of dawn, the ring regains 1d6 + 4 expended charges.",Indefinite,Innate
+Cold Enchantment,Weapon additionally deals Cold damage.,Indefinite,Innate
+The Anatoli Curse,"The weapon is cursed on an individual, always return to the user no matter how the weapon is disposed. When this item is used in combat, the bearer becomes blood lusted with each subsequent kill, becoming increasingly bestially minded, possibly even attack friends.",Indefinite,Innate
+,,,
+Gradual Healing,"Minor injuries heal in 1 day, others are downgraded in following days if maintained.",Indefinite,Treatment
+Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,24 hours,Treatment
+Continuous Minor Healing Factor,Minor injuries heal in a short rest. Medium injuries heal durning a long rest. A stabilized Serious injuries heal over a 24 hour rest. Cannot effect higher tier injuries.,Indefinite,Treatment
+Minor Heal,"Removes a minor injury. For a higher tier injury, reduce the dice penalty of the injury by 1. Injury remains at its current tier. Further minor heals have no effect. ",Instantaneous,Treatment
+Medium Heal,"Removes a medium or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 2. Injury remains at its current tier. Further medium healing has no effect. ",Instantaneous,Treatment
+Serious Heal,"Removes a serious or lesser injury. For a higher tier injury, reduce the dice penalty of the injury by 3. Injury remains at its current tier. Further serious healing has no effect. ",Instantaneous,Treatment
+Fatal Heal,Removes a Fatal or lesser injury. Can be used to reattach limbs as long as the limb is not destroyed.,Instantaneous,Treatment
+Revival Heal,"Return a dead character to life with a serious injury. Can only be performed within minutes of death. For living characters, it completely heals all injuries, regrowing body parts, and returning the body to peak performance.",Instantaneous,Treatment
+,,,
+Keen Hearing,Advantage on hearing based Perception checks.,Indefinite,Innate
+Keen Smell,Advantage on smell based Perception checks.,Indefinite,Innate
+Keen Sight,Advantage on sight based Perception checks.,Indefinite,Innate
+,,,
+Vision: Darkvision,"Within 60 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color.",Indefinite,Innate
+Vision: Enhanced Darkvision,"Within 120 feet, sees dim light as if it were bright light and darkness as if it were dim light, though devoid of color.",Indefinite,Innate
+Vision: Blindsight,"Within 30 ft, the environment can be perceived without the need for sight.",Indefinite,Innate
+Vision: Truesight,"A being possessing truesight can, within a designated range, perceive both in regular and magical darkness, observe invisible entities and objects, effortlessly discern visual illusions, succeed on skill checks against them, and discern the true form of a shapechanger or a creature altered by magic. Additionally, this creature has the ability to see into the Ethereal Plane.",Indefinite,Innate
+,,,
+Light: Glow,Provides 20 ft radius bright light and 40 ft radius dim light.,Indefinite,Innate
+,,,
+Language: Babelish,Can speak and write Babelish.,Indefinite,Culture
+Language: Bright-speak,Can speak and write Bright-speak.,Indefinite,Culture
+Language: Pirish,Can speak and write Pirish.,Indefinite,Culture
+Language - Deep-speak,Can speak and write Deep-speak.,Indefinite,Culture
+Language: Primal,Can speak and write Primal.,Indefinite,Culture
+Language: Kikishi,Can speak and write Kikishi.,Indefinite,Culture
+Language: Draconic,Can speak and write Draconic.,Indefinite,Culture
+Language: Demonic,Can speak and write Demonic.,Indefinite,Culture
+,,,
+Disabling: Amnesia,Character is missing a large portion of their past.,Indefinite,Backstory
+Disabling: Missing bodily extremity/limb,STR and RFX dice penalties when performing tasks requiring 2 hands.,Indefinite,Backstory
+Disabling: Feeble,STR is set to -1,Indefinite,Backstory
+Disabling: Heavy,RFX is set to -1,Indefinite,Backstory
+Disabling: Dim-witted,INT is set to -1,Indefinite,Backstory
+Disabling: Phobia,Debilitating fear of ?.,Indefinite,Backstory
+Disabling: Extreme Prejudice,Overwhelming hatred/disgust of ?.,Indefinite,Backstory
+Disabling: Compulsive Liar,Compulsion to lie about self-aggrandizing claims/achievements.,Indefinite,Backstory
+Disabling: Kleptomaniac,Desire to steal most things regardless of value.,Indefinite,Backstory
+Disabling: Betrayal Paranoia,Extreme belief that every person met will betray them.,Indefinite,Backstory
+Disabling: Government Paranoia,Extreme belief that the ruling class is run by an evil cult.,Indefinite,Backstory
+Disabling: Superstition Paranoia,Extreme belief in common superstition and old wives tales.,Indefinite,Backstory
+Disabling: Paranoia,Irrational belief that ...,Indefinite,Backstory
+Disabling: Over-emotional (specific emotion),,Indefinite,Backstory
+Disabling: Loose Cannon,Overwhelming predisposition towards rage/anger.,Indefinite,Backstory
+Disabling: Incontrollable Grief,Overwhelming grief that is triggered reminder of past trauma.,Indefinite,Backstory
+Disabling: Very Forgetful,"Often forgets plans, directions, people, items,  names...",Indefinite,Backstory
+Disabling: Overconfidence,"Extremely overconfident in , cannot invest in.",Indefinite,Backstory
+Disabling: Endurance Overconfidence,"Extremely overconfident in Endurance, cannot invest in.",Indefinite,Backstory
+Disabling: Athletics Overconfidence,"Extremely overconfident in Athletics, cannot invest in.",Indefinite,Backstory
+Disabling: Lift Overconfidence,"Extremely overconfident in Lift, cannot invest in.",Indefinite,Backstory
+Disabling: Perception Overconfidence,"Extremely overconfident in Perception, cannot invest in.",Indefinite,Backstory
+Disabling: Dexterity Overconfidence,"Extremely overconfident in Dexterity, cannot invest in.",Indefinite,Backstory
+Disabling: Stealth Overconfidence,"Extremely overconfident in Stealth, cannot invest in.",Indefinite,Backstory
+Disabling: General Knowledge Overconfidence,"Extremely overconfident in General Knowledge, cannot invest in.",Indefinite,Backstory
+Disabling: Will Overconfidence,"Extremely overconfident in Will, cannot invest in.",Indefinite,Backstory
+Disabling: Communication Overconfidence,"Extremely overconfident in Communication, cannot invest in.",Indefinite,Backstory
+Disabling: Incapable of Lying,"(Specific parameters required, see Cogent website for examples)",Indefinite,Backstory
+Disabling: Addiction,"Extreme addiction, suffers from withdrawals if not satisfied.",Indefinite,Backstory
+Disabling: Delusion,"Belief of something to be real beyond the scope of simple faith. ",Indefinite,Backstory
+Disabling: Imperceptive,Disadvantage to environmental Perception rolls.,Indefinite,Backstory
+Disabling: Blind,Unable to make sight based perception checks.,Indefinite,Backstory
+Disabling: Deaf,Unable to make hearing based perception checks.,Indefinite,Backstory
+Disabling: Anosmia,Unable to make smell based perception checks.,Indefinite,Backstory
+Disabling: Ageusia,Unable to make taste based perception checks.,Indefinite,Backstory
+Disabling: Anaphia,Unable to make touch based perception checks.,Indefinite,Backstory
+Disabling: Gullible," Disadvantage versus deceptive communication rolls.",Indefinite,Backstory
+Disabling: Impressionable," Disadvantage versus persuasive communication rolls.",Indefinite,Backstory
+Disabling: People Pleaser,"Always try to make other people happy, even at their own expense.",Indefinite,Backstory
+Disabling: SKILL Overconfidence,"Extremely overconfident in SKILL, cannot invest in.",Indefinite,Backstory
+Disabling: Illiterate,Can't read or write.,Indefinite,Backstory
+Disabling: Overly Nostalgic,Constantly reminiscing about the good old day.,Indefinite,Backstory
+,,,
+Size: Tiny,2.5x2.5 ft on battle map.,Indefinite,Innate
+Size: Small,5x5 ft on battle map.,Indefinite,Innate
+Size: Medium,5x5 ft on battle map.,Indefinite,Innate
+Size: Large,10x10 ft on battle map.,Indefinite,Innate
+Size: Huge,15x15 ft on battle map.,Indefinite,Innate
+Size: Gargantuan,20x20 ft on battle map.,Indefinite,Innate
+,,,
+Destiny Points,"Characters can be awarded Destiny Points by the Narrator and can hold a max of 3. Spending a ""Preemptive Destiny Point"" before rolling a dice pool gives Advantage on the resulting roll. Spending ""Post Roll Destiny Points"" adds additional Wins for each point spent, with the total Wins never exceeding the size of the dice pool. (0/3)",Indefinite,Given by The Narrator
+Destiny Resistance,"""Post Roll Destiny Points"" cannot be spent against this character.",Indefinite,Given by The Narrator
+Destiny Immunity,Destiny Points cannot be spent against this character.,Indefinite,Given by The Narrator
+Destiny Chosen,Destiny Point Cap set to 6. Gain an additional Destiny Point whenever one is gained. Destiny begins to shape around the user's true desires.,Indefinite,Given by The Narrator
+,,,
+Condition Immunities:,Character is immune to the specified conditions.,Indefinite,Innate
+,,,
+Minor Weakness: (Damage Type),+1 to the level of injury received from damage type.,Indefinite,Innate
+Medium Weakness: (Damage Type),+2 to the level of injury received from damage type.,Indefinite,Innate
+Serious Weakness: (Damage Type),+3 to the level of injury received from damage type.,Indefinite,Innate
+Fatal Weakness: (Damage Type),+4 to the level of injury received from damage type.,Indefinite,Innate
+Minor Resistance: (Damage Type),-1 to victory levels received from damage type.,Indefinite,Innate
+Medium Resistance: (Damage Type),-2 to victory levels received from damage type.,Indefinite,Innate
+Serious Resistance: (Damage Type),-3 to victory levels received from damage type.,Indefinite,Innate
+Fatal Resistance: (Damage Type),-4 to victory levels received from damage type.,Indefinite,Innate
+Complete Resistance: (Damage Type),Negate victory levels received from damage type.,Indefinite,Innate
+,,,

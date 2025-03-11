@@ -50,11 +50,11 @@
 |      Radiance - Sphere      |     2d8, 7d6     |                |                  |      3      | Extended |      Radiant      |          1          |       Sphere       |    2 (Fellblood)    |
 |   Blessing - Melee Trick   |       4d6       |                |                  |      0      |  Melee  |                  |        Swift        |                    |        None        |
 |   Blessing - Ranged Trick   |       4d6       |                |                  |      0      |  Close  |                  |       Steady       |                    |        None        |
-|   Medium Thrusting Sword   | 9d6<br />(+1d6) |      None      | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |        Swift        |        None        |        None        |
-|    Medium Slashing Sword    | 10d6<br />(+2d6) |      None      | 11d6<br />(+1d6) |      1      |  Melee  |       Slash       |        Swift        |        None        |        None        |
-|    Small Piercing Blade    | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |        Swift        |        None        |        None        |
-|    Small Slashing Blade    | 8d6<br />(+1d6) | 8d6<br />(+1d6) |  9d6<br />(+1d6)  |      0      |  Melee  |       Slash       |        Swift        |        None        |        None        |
-| Thrown Small Piercing Blade | 7d6<br />(+0d6) | 7d6<br />(+0d6) |       +1d6       |      1      |  Short  |      Pierce      |        Swift        |        None        |        None        |
+|   Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded)   | 9d6<br />(+1d6) |      None      | 10d6<br />(+1d6) |      2      |  Melee  |      Pierce      |        Swift        |        None        |        None        |
+|    Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)    | 10d6<br />(+2d6) |      None      | 11d6<br />(+1d6) |      1      |  Melee  |       Slash       |        Swift        |        None        |        None        |
+|    Small Pierce Melee (+0) (One-handed), Small Pierce Melee (+0) (Dual-wielded)    | 7d6<br />(+0d6) | 7d6<br />(+0d6) |  8d6<br />(+1d6)  |      2      |  Melee  |      Pierce      |        Swift        |        None        |        None        |
+|    Small Slash Melee (+0) (One-handed), Small Slash Melee (+0) (Dual-wielded)    | 8d6<br />(+1d6) | 8d6<br />(+1d6) |  9d6<br />(+1d6)  |      0      |  Melee  |       Slash       |        Swift        |        None        |        None        |
+| Thrown Small Pierce Melee (+0) (One-handed), Thrown Small Pierce Melee (+0) (Dual-wielded) | 7d6<br />(+0d6) | 7d6<br />(+0d6) |       +1d6       |      1      |  Short  |      Pierce      |        Swift        |        None        |        None        |
 
 | Name | Resource<br />Class | Resource<br />Dice | Penetration | Range | Damage<br />Types | Area Of<br />Effect |
 | :--: | :-----------------: | :----------------: | :---------: | :---: | :---------------: | :-----------------: |
@@ -74,8 +74,8 @@
 | Superior Leather Cuisses and Greaves | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  3  |  2 bc  |
 | Superior Leather Vambrace            | 1 |                                       Phy. Def. 0.5                                       | Superior |   24/24   |  2  | 1.5 bc |
 | Clothes, Fine                        | 1 |                                                                                            | Mundane |            |  6  | 15 bc |
-| Asher's Arms Swordbreaker            | 1 | Fine Small Slashing Blade, Shoddy Small Piercing Blade, Shoddy Thrown Small Piercing Blade |   Fine   |   18/18   |  1  |   ?   |
-| Spencer's Arms Arming Sword          | 1 |              Superior Medium Thrusting Sword, Superior Medium Slashing Sword              | Superior |   24/24   |  2  | 50 bc |
+| Asher's Arms Swordbreaker            | 1 | Small Slash Melee (+2) (One-handed), Small Slash Melee (+2) (Dual-wielded), Small Pierce Melee (-1) (One-handed), Small Pierce Melee (-1) (Dual-wielded), Thrown Small Pierce Melee (-1) (One-handed), Thrown Small Pierce Melee (-1) (Dual-wielded) |   Fine   |   18/18   |  1  |   ?   |
+| Spencer's Arms Arming Sword          | 1 |              Superior Medium Pierce Melee (+0) (One-handed), Medium Pierce Melee (+0) (Dual-wielded), Superior Medium Slash Melee (+0) (One-handed), Medium Slash Melee (+0) (Dual-wielded)              | Superior |   24/24   |  2  | 50 bc |
 | Adversary - Damaged                  | 1 |                                     Spellcasting Focus                                     |   Fine   |   18/18   |  1  |   ?   |
 | Mother's Necklace                    | 1 |                                                                                            | Mundane |            | 0.1 |   ?   |
 
