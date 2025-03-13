@@ -1,0 +1,7 @@
+# Dunyor
+
+is the name given to the cluster of interconnected planes once belonging to a single whole. To its inhabitants, the word is interchangable with "world".
+
+The various planes or isolas of Dunyor are split apart by unreality, a void where the laws of reality stop functioning. Interplanar travel is conducted purely through the narrow and ever-shifting paths that form between them. Depending on the distance from Light, the seasonal and day/night cycles change. For example, Agmar, a spiky mountain range, experiences long summers and only a few hours of darkness daily. Its hot climate reflects the cycles, forming a unique biome. In contrast, the edge plane of Vesperik is stuck in an almost eternal night, being host to various bioluminescent life forms. The connections of other planes to the grand Wasteland cannot be formed or broken, implying the now barren plane's former significance. Unfortunately, travel through it has proved difficult due to the extreme weather and hostile flora and fauna. While it is unknown whether there are more planes currently cut off from the main network, it would be reasonable to assume that the known world is only a tiny part of what is actually out there.
+
+Dunyor was not always a mess of unstable realities as it is today, but a somewhat regular world. An event mostly lost to time, the so-called Shattering has led to its fracture and the dispersal of its regions across reality.

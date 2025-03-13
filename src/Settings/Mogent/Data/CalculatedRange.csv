@@ -1,4 +1,5 @@
 name,effectiveRange,ineffectiveRangeOption,maxRangeOption
-Self,0,None,None
-Melee,5,None,None
-Reach,10,None,None
+Adjacent,1,None,1
+Close,2,1,2
+Medium,3,2,10
+Long,11,10,None

@@ -1,0 +1,3 @@
+Seasons play a large role in the life of the people, each embodying and being manifested by a set of matching ideals. Vamor stands for ambition, promoting great advancements above all else. Bruma seeks atonement and redemption, providing ample opportunity for self-reflection. Trumst represents cold, calculating rule of law, striving to eradicate all who would disturb it. Halice embodies idealism and the rules of nature, attempting to keep a balance in the world. Purities are those who have embodied a season’s ideals to the point of zealotry, providing them with the ability to manifest their season’s will through supernatural means.
+
+Vamor > Bruma > Trumst > Halice

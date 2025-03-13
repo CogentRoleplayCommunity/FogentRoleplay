@@ -1,7 +1,0 @@
-# Name
-
-## Aspects
-
-- ?
-
-## Lore
