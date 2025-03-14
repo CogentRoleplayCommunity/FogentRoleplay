@@ -1,3 +1,5 @@
+![Alt text](CogentRoleplayAttribution_Wide.png)
+
 ## Fallen To dos:
 
 - Remove NotMyImage and Copyright tags
